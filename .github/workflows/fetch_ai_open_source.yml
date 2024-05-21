@@ -2,7 +2,7 @@ name: Fetch AI Open-Source Repositories
 
 on:
   schedule:
-    - cron: "0 */2 * * *"  # Runs every 2 hours
+    - cron: "0 0,4,8,12,16,20,23 * * *"
   push:
     branches:
       - main
@@ -30,12 +30,15 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    - name: Show changes
+      run: git diff ai_open_source_repos.json
+
     - name: Commit and push changes
       run: |
-        git config --global user.name 'Reyzenello'
-        git config --global user.email 'riccardobruzzese98@gmail.com'
+        git config --global user.name "Reyzenello"
+        git config --global user.email "riccardobruzzese98@gmail.com"
         git add ai_open_source_repos.json
-        git commit -m "Update open-source AI repos $(date +'%Y-%m-%d %H:%M:%S')"
+        git commit -m "Update open-source AI repos $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
         git push
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
