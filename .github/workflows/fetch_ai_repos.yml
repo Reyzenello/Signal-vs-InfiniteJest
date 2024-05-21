@@ -40,6 +40,7 @@ jobs:
         git config --global user.email "riccardobruzzese98@gmail.com"
         git add ai_open_source_repos.json
         git commit -m "Update open-source AI repos $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+        git pull --rebase
         git push
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
