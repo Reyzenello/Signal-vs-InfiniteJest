@@ -1,0 +1,41 @@
+name: Fetch AI Open-Source Repositories
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # Runs every 2 hours
+  push:
+    branches:
+      - main
+
+jobs:
+  fetch-repos:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Run repository fetcher
+      run: python fetch_ai_open_source.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'Reyzenello'
+        git config --global user.email 'riccardobruzzese98@gmail.com'
+        git add ai_open_source_repos.json
+        git commit -m "Update open-source AI repos $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
