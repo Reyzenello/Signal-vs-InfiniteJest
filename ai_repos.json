@@ -1,0 +1,62 @@
+[
+    {
+        "name": "AI-Expert-Roadmap",
+        "full_name": "AMAI-GmbH/AI-Expert-Roadmap",
+        "html_url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+        "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022"
+    },
+    {
+        "name": "h4cker",
+        "full_name": "The-Art-of-Hacking/h4cker",
+        "html_url": "https://github.com/The-Art-of-Hacking/h4cker",
+        "description": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more."
+    },
+    {
+        "name": "awesome-artificial-intelligence",
+        "full_name": "owainlewis/awesome-artificial-intelligence",
+        "html_url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+        "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers."
+    },
+    {
+        "name": "paper2gui",
+        "full_name": "Baiyuetribe/paper2gui",
+        "html_url": "https://github.com/Baiyuetribe/paper2gui",
+        "description": "Convert AI papers to GUI\uff0cMake it easy and convenient for everyone to use artificial intelligence technology\u3002\u8ba9\u6bcf\u4e2a\u4eba\u90fd\u7b80\u5355\u65b9\u4fbf\u7684\u4f7f\u7528\u524d\u6cbf\u4eba\u5de5\u667a\u80fd\u6280\u672f"
+    },
+    {
+        "name": "warriorjs",
+        "full_name": "olistic/warriorjs",
+        "html_url": "https://github.com/olistic/warriorjs",
+        "description": "\ud83c\udff0 An exciting game of programming and Artificial Intelligence"
+    },
+    {
+        "name": "Ai-Learn",
+        "full_name": "tangyudi/Ai-Learn",
+        "html_url": "https://github.com/tangyudi/Ai-Learn",
+        "description": "\u4eba\u5de5\u667a\u80fd\u5b66\u4e60\u8def\u7ebf\u56fe\uff0c\u6574\u7406\u8fd1200\u4e2a\u5b9e\u6218\u6848\u4f8b\u4e0e\u9879\u76ee\uff0c\u514d\u8d39\u63d0\u4f9b\u914d\u5957\u6559\u6750\uff0c\u96f6\u57fa\u7840\u5165\u95e8\uff0c\u5c31\u4e1a\u5b9e\u6218\uff01\u5305\u62ec\uff1aPython\uff0c\u6570\u5b66\uff0c\u673a\u5668\u5b66\u4e60\uff0c\u6570\u636e\u5206\u6790\uff0c\u6df1\u5ea6\u5b66\u4e60\uff0c\u8ba1\u7b97\u673a\u89c6\u89c9\uff0c\u81ea\u7136\u8bed\u8a00\u5904\u7406\uff0cPyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv\u7b49\u70ed\u95e8\u9886\u57df"
+    },
+    {
+        "name": "aima-python",
+        "full_name": "aimacode/aima-python",
+        "html_url": "https://github.com/aimacode/aima-python",
+        "description": "Python implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\""
+    },
+    {
+        "name": "paip-lisp",
+        "full_name": "norvig/paip-lisp",
+        "html_url": "https://github.com/norvig/paip-lisp",
+        "description": "Lisp code for the textbook \"Paradigms of Artificial Intelligence Programming\""
+    },
+    {
+        "name": "mycroft-core",
+        "full_name": "MycroftAI/mycroft-core",
+        "html_url": "https://github.com/MycroftAI/mycroft-core",
+        "description": "Mycroft Core, the Mycroft Artificial Intelligence platform. "
+    },
+    {
+        "name": "venom",
+        "full_name": "orkestral/venom",
+        "html_url": "https://github.com/orkestral/venom",
+        "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp."
+    }
+]
