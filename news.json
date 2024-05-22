@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "AWS plans to invest &euro;15.7B in data centers in Spain's Aragon region, replacing a 2021 plan to spend &euro;2.5B; the Aragon government says the deal is over 10 years (Reuters)",
+            "link": "http://www.techmeme.com/240522/p17#a240522p17",
+            "published": "Wed, 22 May 2024 10:50:01 -0400"
+        },
+        {
+            "title": "Chinese automotive cybersecurity firm GoGoByte demonstrates a cheap and simple relay attack to unlock a Tesla Model 3 despite an ultra-wideband keyless system (Andy Greenberg/Wired)",
+            "link": "http://www.techmeme.com/240522/p16#a240522p16",
+            "published": "Wed, 22 May 2024 10:30:01 -0400"
+        },
+        {
             "title": "Link-in-bio startup Linktree passes 50M users, up from 41M in December 2023 and 47M+ in March 2024, and launches a beta of its social commerce product (Lauren Forristal/TechCrunch)",
             "link": "http://www.techmeme.com/240522/p15#a240522p15",
             "published": "Wed, 22 May 2024 09:45:01 -0400"
@@ -14,19 +24,19 @@
             "title": "Cologne-based AI translation startup DeepL, which develops its own models, raised $300M led by Index Ventures at a $2B valuation and reports 100K+ customers (Isabelle Bousquette/Wall Street Journal)",
             "link": "http://www.techmeme.com/240522/p13#a240522p13",
             "published": "Wed, 22 May 2024 09:01:46 -0400"
-        },
-        {
-            "title": "Google starts rolling out its Magic Editor and other AI tools to all Android and iOS users for free via Photos, offering 10 Magic Editor library saves per month (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/240522/p12#a240522p12",
-            "published": "Wed, 22 May 2024 07:20:03 -0400"
-        },
-        {
-            "title": "China releases an AI model trained on \"Xi Jinping Thought\" and other official literature, initially in research testing, a source says before a wider launch (Financial Times)",
-            "link": "http://www.techmeme.com/240522/p11#a240522p11",
-            "published": "Wed, 22 May 2024 07:00:44 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside the Life of Nicole Shanahan, RFK Jr.\u2019s Running Mate",
+            "link": "https://www.nytimes.com/2024/05/22/technology/nicole-shanahan-rfk-jr-vp.html",
+            "published": "Wed, 22 May 2024 09:02:03 +0000"
+        },
+        {
+            "title": "C. Gordon Bell, Creator of a Personal Computer Prototype, Dies at 89",
+            "link": "https://www.nytimes.com/2024/05/21/technology/c-gordon-bell-dead.html",
+            "published": "Wed, 22 May 2024 02:01:27 +0000"
+        },
         {
             "title": "AI\u2019s Black Boxes Just Got a Little Less Mysterious",
             "link": "https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html",
@@ -38,26 +48,16 @@
             "published": "Tue, 21 May 2024 20:39:01 +0000"
         },
         {
-            "title": "Scarlett Johansson Said No, but OpenAI\u2019s Virtual Assistant Sounds Just Like Her",
-            "link": "https://www.nytimes.com/2024/05/20/technology/scarlett-johannson-openai-voice.html",
-            "published": "Tue, 21 May 2024 18:35:12 +0000"
-        },
-        {
-            "title": "Can AI Make the PC Cool Again? Microsoft Thinks So.",
-            "link": "https://www.nytimes.com/2024/05/20/technology/microsoft-copilot-ai-pc.html",
-            "published": "Tue, 21 May 2024 13:35:06 +0000"
-        },
-        {
-            "title": "If You\u2019re Going to San Francisco, Be Sure to Ride In a Driverless Car",
+            "title": "San Francisco\u2019s Hot Tourist Attraction: Driverless Cars",
             "link": "https://www.nytimes.com/2024/05/22/travel/self-driving-cars-san-francisco.html",
-            "published": "Wed, 22 May 2024 09:03:34 +0000"
+            "published": "Wed, 22 May 2024 14:22:09 +0000"
         }
     ],
     "source_2": [
         {
             "title": "BT to refund EE & Plusnet customers over exit fees",
             "link": "https://www.bbc.com/news/articles/c133lj5e3yro",
-            "published": "Wed, 22 May 2024 11:21:17 GMT"
+            "published": "Wed, 22 May 2024 14:52:35 GMT"
         },
         {
             "title": "UK watchdog looking into Microsoft AI taking screenshots",
