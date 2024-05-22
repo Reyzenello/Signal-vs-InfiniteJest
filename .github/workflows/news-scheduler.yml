@@ -2,8 +2,8 @@ name: News Aggregator
 
 on:
   schedule:
-    # Runs at 00:00, 04:00, 08:00, 12:00, 16:00, 20:00, and 23:59 UTC
-    - cron: "0 0,4,8,12,16,20,23 * * *"
+    # Runs every hour
+    - cron: "3 * * * *"
   push:
     branches:
       - main
