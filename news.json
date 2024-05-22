@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A review of privacy-focused /e/OS, a fully \"deGoogled\" OS based on the Android Open Source Project, that combines Micro G, to handle Google APIs, and LineageOS (Scott Gilbertson/Wired)",
+            "link": "http://www.techmeme.com/240522/p8#a240522p8",
+            "published": "Wed, 22 May 2024 06:05:10 -0400"
+        },
+        {
+            "title": "Cambridge-based Raspberry Pi confirms plans for a London Stock Exchange IPO, aiming to raise $40M and listing in June, and reports $265.8M in 2023 revenue (Thyagaraju Adinarayan/Bloomberg)",
+            "link": "http://www.techmeme.com/240522/p7#a240522p7",
+            "published": "Wed, 22 May 2024 05:35:13 -0400"
+        },
+        {
             "title": "An investigation into online ticketing service Eventbrite found 7.4K+ illicit listings, including illegal drug sales, some of which its algorithm recommended (Wired)",
             "link": "http://www.techmeme.com/240522/p6#a240522p6",
             "published": "Wed, 22 May 2024 04:05:02 -0400"
@@ -14,16 +24,6 @@
             "title": "How Pinecone and other startups use vector databases and retrieval-augmented generation, or RAG, to help businesses link their private data with LLMs (Belle Lin/Wall Street Journal)",
             "link": "http://www.techmeme.com/240522/p4#a240522p4",
             "published": "Wed, 22 May 2024 02:05:02 -0400"
-        },
-        {
-            "title": "Paytm parent One 97 Communications reports a $66.1M net loss in Q4, up from $20.11M in Q4 2023, on $272.3M revenue, as it grapples with a regulatory clampdown (Manish Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/240522/p3#a240522p3",
-            "published": "Wed, 22 May 2024 01:30:07 -0400"
-        },
-        {
-            "title": "AWS says the transition from Nvidia's Grace Hopper to Blackwell chips applies only to Project Ceiba, a supercomputer that AWS and Nvidia are building together (Stephen Nellis/Reuters)",
-            "link": "http://www.techmeme.com/240522/p2#a240522p2",
-            "published": "Wed, 22 May 2024 00:55:01 -0400"
         }
     ],
     "source_1": [
