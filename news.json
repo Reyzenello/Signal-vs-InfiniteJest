@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An investigation into online ticketing service Eventbrite found 7.4K+ illicit listings, including illegal drug sales, some of which its algorithm recommended (Wired)",
+            "link": "http://www.techmeme.com/240522/p6#a240522p6",
+            "published": "Wed, 22 May 2024 04:05:02 -0400"
+        },
+        {
             "title": "OpenAI's Scarlett Johansson debacle is merely a reminder of AI's manifest destiny philosophy: \"This is happening, whether you like it or not\", consent be damned (Charlie Warzel/The Atlantic)",
             "link": "http://www.techmeme.com/240522/p5#a240522p5",
             "published": "Wed, 22 May 2024 02:35:01 -0400"
@@ -11,7 +16,7 @@
             "published": "Wed, 22 May 2024 02:05:02 -0400"
         },
         {
-            "title": "Paytm's parent One 97 Communications reports a $66.1M net loss in Q4, up from $20.11M in Q4 2023, on $272.3M revenue, as it grappled with a regulatory clampdown (Manish Singh/TechCrunch)",
+            "title": "Paytm parent One 97 Communications reports a $66.1M net loss in Q4, up from $20.11M in Q4 2023, on $272.3M revenue, as it grapples with a regulatory clampdown (Manish Singh/TechCrunch)",
             "link": "http://www.techmeme.com/240522/p3#a240522p3",
             "published": "Wed, 22 May 2024 01:30:07 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "AWS says the transition from Nvidia's Grace Hopper to Blackwell chips applies only to Project Ceiba, a supercomputer that AWS and Nvidia are building together (Stephen Nellis/Reuters)",
             "link": "http://www.techmeme.com/240522/p2#a240522p2",
             "published": "Wed, 22 May 2024 00:55:01 -0400"
-        },
-        {
-            "title": "London-based LabGenius, which uses ML to find and design antibody therapies to treat cancer, raised a &pound;35M Series B led by Merck's VC arm, M Ventures (Mimi Billing/Sifted)",
-            "link": "http://www.techmeme.com/240522/p1#a240522p1",
-            "published": "Wed, 22 May 2024 00:40:13 -0400"
         }
     ],
     "source_1": [
