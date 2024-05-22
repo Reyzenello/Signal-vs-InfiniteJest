@@ -2,7 +2,7 @@ name: Fetch AI Open-Source Repositories
 
 on:
   schedule:
-    - cron: "0 0,4,8,12,16,20,23 * * *"
+    - cron: "7 * * * *"
   push:
     branches:
       - main
