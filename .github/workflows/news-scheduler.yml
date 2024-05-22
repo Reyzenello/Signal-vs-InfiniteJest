@@ -3,7 +3,7 @@ name: News Aggregator
 on:
   schedule:
     # Runs every hour
-    - cron: "3 * * * *"
+    - cron: "5 * * * *"
   push:
     branches:
       - main
