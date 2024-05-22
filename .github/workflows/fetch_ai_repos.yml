@@ -2,8 +2,8 @@ name: Fetch AI Open-Source Repositories
 
 on:
   schedule:
-    # Runs 7 times a day at specified hours (e.g., every 3 hours)
-    - cron: "0 0,3,6,9,12,15,18 * * *"
+    # Runs every hour 
+    - cron: "3 * * * *"
   push:
     branches:
       - main
