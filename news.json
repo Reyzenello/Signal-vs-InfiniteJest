@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
+            "title": "Leaked contract: Samsung requires independent repair shops to share customer data and disassemble devices that have aftermarket parts after notifying Samsung (Jason Koebler/404 Media)",
+            "link": "http://www.techmeme.com/240523/p28#a240523p28",
+            "published": "Thu, 23 May 2024 11:20:12 -0400"
+        },
+        {
+            "title": "iFixit and Samsung end their partnership; iFixit blames Samsung, saying, \"Samsung does not seem interested in enabling repair at scale\" (Sean Hollister/The Verge)",
+            "link": "http://www.techmeme.com/240523/p27#a240523p27",
+            "published": "Thu, 23 May 2024 11:10:02 -0400"
+        },
+        {
+            "title": "Kuo: Apple targets a 2026 launch for the full-screen foldable MacBook and is considering 20.25\" and 18.8\" panels, with an M5 chip and Vision Pro-like price (Ryan Christoffel/9to5Mac)",
+            "link": "http://www.techmeme.com/240523/p26#a240523p26",
+            "published": "Thu, 23 May 2024 10:55:02 -0400"
+        },
+        {
+            "title": "US DOJ and state AGs sue to break up Ticketmaster parent Live Nation over alleged antitrust violations, following a DOJ probe and Taylor Swift fan complaints (CNBC)",
+            "link": "http://www.techmeme.com/240523/p25#a240523p25",
+            "published": "Thu, 23 May 2024 10:45:01 -0400"
+        },
+        {
             "title": "Lumos, which helps companies manage employees' identities and access to apps and systems, raised a $35M Series B led by Scale, taking its total funding to $65M+ (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/240523/p24#a240523p24",
             "published": "Thu, 23 May 2024 09:55:01 -0400"
-        },
-        {
-            "title": "TikTok adds new measures to limit the spread of videos from state-affiliated media accounts, and disrupted 15 influence operations in January to April 2024 (Sapna Maheshwari/New York Times)",
-            "link": "http://www.techmeme.com/240523/p23#a240523p23",
-            "published": "Thu, 23 May 2024 08:55:14 -0400"
-        },
-        {
-            "title": "Google details Umoja, the first fiber optic cable to directly connect Africa with Australia, starting in Kenya and running via the DRC, Zambia, and South Africa (Paul Sawers/TechCrunch)",
-            "link": "http://www.techmeme.com/240523/p22#a240523p22",
-            "published": "Thu, 23 May 2024 08:20:08 -0400"
-        },
-        {
-            "title": "Linus Tech Tips, accused in August 2023 of theft, ethical lapses, and sexual harassment, says an outside investigation found the claims were \"largely unfounded\" (Jeremy Gan/Dexerto)",
-            "link": "http://www.techmeme.com/240523/p21#a240523p21",
-            "published": "Thu, 23 May 2024 08:05:07 -0400"
-        },
-        {
-            "title": "A look at China-aligned hacking group Unfading Sea Haze, which has targeted government and military organizations in South China Sea countries since 2018 (Martin Zugec/Bitdefender Blog)",
-            "link": "http://www.techmeme.com/240523/p20#a240523p20",
-            "published": "Thu, 23 May 2024 07:55:12 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Some Silicon Valley VCs Are Becoming More Conservative",
+            "link": "https://www.nytimes.com/2024/05/23/technology/silicon-valley-conservative-trump.html",
+            "published": "Thu, 23 May 2024 15:07:40 +0000"
+        },
+        {
+            "title": "TikTok Moves to Limit Russian and Chinese Media\u2019s Reach in Big Election Year",
+            "link": "https://www.nytimes.com/2024/05/23/business/tiktok-russia-china-misinformation-elections.html",
+            "published": "Thu, 23 May 2024 10:55:39 +0000"
+        },
         {
             "title": "Inside the Life of Nicole Shanahan, RFK Jr.\u2019s Running Mate",
             "link": "https://www.nytimes.com/2024/05/22/technology/nicole-shanahan-rfk-jr-vp.html",
@@ -38,19 +48,9 @@
             "published": "Wed, 22 May 2024 22:14:51 +0000"
         },
         {
-            "title": "C. Gordon Bell, Creator of a Personal Computer Prototype, Dies at 89",
-            "link": "https://www.nytimes.com/2024/05/21/technology/c-gordon-bell-dead.html",
-            "published": "Wed, 22 May 2024 19:20:16 +0000"
-        },
-        {
-            "title": "AI\u2019s Black Boxes Just Got a Little Less Mysterious",
-            "link": "https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html",
-            "published": "Tue, 21 May 2024 18:00:07 +0000"
-        },
-        {
-            "title": "Some Prominent Silicon Valley Investors Shift to the Right",
-            "link": "https://www.nytimes.com/2024/05/23/technology/silicon-valley-conservative-trump.html",
-            "published": "Thu, 23 May 2024 09:02:24 +0000"
+            "title": "U.S. Sues to Break Up Ticketmaster Owner, Live Nation",
+            "link": "https://www.nytimes.com/2024/05/23/technology/ticketmaster-live-nation-lawsuit-antitrust.html",
+            "published": "Thu, 23 May 2024 15:11:22 +0000"
         }
     ],
     "source_2": [
