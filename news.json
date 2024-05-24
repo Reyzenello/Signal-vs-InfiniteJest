@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A Nigerian court adjourns a money laundering trial against Binance and two of its executives to June 20 because one of the defendants Tigran Gambaryan was ill (Camillus Eboh/Reuters)",
+            "title": "A profile of Lin Rui-siang, a 23-year-old Taiwanese accused by the US DOJ of running a $100M+ dark-web drug market who had an alter ego as a crypto crime expert (Andy Greenberg/Wired)",
+            "link": "http://www.techmeme.com/240524/p6#a240524p6",
+            "published": "Fri, 24 May 2024 07:10:02 -0400"
+        },
+        {
+            "title": "A Nigerian court adjourned a money laundering trial against Binance and two of its executives to June 20 due to health issues of one executive, Tigran Gambaryan (Camillus Eboh/Reuters)",
             "link": "http://www.techmeme.com/240524/p5#a240524p5",
             "published": "Fri, 24 May 2024 05:45:02 -0400"
         },
         {
-            "title": "A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules (Blake Brittain/Reuters)",
+            "title": "A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two patents related to improving memory modules (Blake Brittain/Reuters)",
             "link": "http://www.techmeme.com/240524/p4#a240524p4",
             "published": "Fri, 24 May 2024 04:30:02 -0400"
         },
         {
-            "title": "Email: Foursquare lays off 105 employees as the company seeks to \"streamline\" its operations; source: layoffs represent about 25% of total company employees (Connie Loizos/TechCrunch)",
+            "title": "Email: Foursquare lays off 105 employees as the company seeks to streamline its operations; source: layoffs represent about 25% of total company employees (Connie Loizos/TechCrunch)",
             "link": "http://www.techmeme.com/240524/p3#a240524p3",
             "published": "Fri, 24 May 2024 00:50:01 -0400"
         },
         {
-            "title": "Sources: Nvidia cuts price of its China-specific H20 chip, selling it below Huawei's Ascend 910B, underscoring the challenges Nvidia faces amid US sanctions (Fanny Potkin/Reuters)",
+            "title": "Sources: Nvidia cuts the price of its China-specific H20 chip, selling it below Huawei's Ascend 910B, underscoring the challenges Nvidia faces amid US sanctions (Fanny Potkin/Reuters)",
             "link": "http://www.techmeme.com/240524/p2#a240524p2",
             "published": "Fri, 24 May 2024 00:15:04 -0400"
-        },
-        {
-            "title": "Atropos Health, whose AI chatbot helps clinicians generate observational studies on real world data rapidly and at scale, raised a $33M Series B led by Valtruis (Heather Landi/Fierce Healthcare ...)",
-            "link": "http://www.techmeme.com/240524/p1#a240524p1",
-            "published": "Fri, 24 May 2024 00:05:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google AI search says to glue pizza and eat rocks",
+            "link": "https://www.bbc.com/news/articles/cd11gzejgz4o",
+            "published": "Fri, 24 May 2024 10:56:32 GMT"
+        },
+        {
             "title": "Musk opposes US tariffs on Chinese electric cars",
             "link": "https://www.bbc.com/news/articles/cq55zd2xjreo",
             "published": "Fri, 24 May 2024 03:11:12 GMT"
@@ -73,11 +78,6 @@
             "title": "PSNI could be fined \u00a3750k over data breach",
             "link": "https://www.bbc.com/news/articles/czqqjglq1lyo",
             "published": "Thu, 23 May 2024 15:50:57 GMT"
-        },
-        {
-            "title": "Scarlett Johansson's AI row has echoes of Silicon Valley's bad old days",
-            "link": "https://www.bbc.com/news/articles/cgrr70zm41mo",
-            "published": "Thu, 23 May 2024 08:21:57 GMT"
         }
     ]
 }
