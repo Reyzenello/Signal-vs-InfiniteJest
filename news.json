@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "PE firm Hg agrees to buy AuditBoard, a risk and compliance cloud software provider for large businesses, at $3B+ including debt (Swetha Gopinath/Bloomberg)",
+            "link": "http://www.techmeme.com/240524/p11#a240524p11",
+            "published": "Fri, 24 May 2024 10:50:01 -0400"
+        },
+        {
             "title": "Nvidia CEO Jensen Huang's 3.5%+ stake in the company grew from $3B to $90B in five years, as the stock grew 28x in five years and more than doubled this year (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/240524/p10#a240524p10",
             "published": "Fri, 24 May 2024 10:00:51 -0400"
@@ -11,7 +16,7 @@
             "published": "Fri, 24 May 2024 09:15:07 -0400"
         },
         {
-            "title": "Cohere for AI, the nonprofit research arm of AI startup Cohere, announces the open weights release of Aya 23, a family of multilingual language models (Shubham Sharma/VentureBeat)",
+            "title": "AI startup Cohere's nonprofit research arm Cohere for AI open sources the weights of Aya 23, a family of multilingual 8B- and 35B-parameter language models (Shubham Sharma/VentureBeat)",
             "link": "http://www.techmeme.com/240524/p8#a240524p8",
             "published": "Fri, 24 May 2024 08:35:13 -0400"
         },
@@ -19,33 +24,28 @@
             "title": "Google invests nearly $350M in Walmart-owned Indian e-commerce startup Flipkart, as part of a ~$1B funding round led by Walmart, which invested $600M in 2023 (Manish Singh/TechCrunch)",
             "link": "http://www.techmeme.com/240524/p7#a240524p7",
             "published": "Fri, 24 May 2024 08:10:38 -0400"
-        },
-        {
-            "title": "A profile of Lin Rui-siang, a 23-year-old Taiwanese accused by the US DOJ of running a $100M+ dark-web drug market who had an alter ego as a crypto crime expert (Andy Greenberg/Wired)",
-            "link": "http://www.techmeme.com/240524/p6#a240524p6",
-            "published": "Fri, 24 May 2024 07:10:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Russia Is Increasingly Blocking Ukraine\u2019s Starlink Service",
+            "link": "https://www.nytimes.com/2024/05/24/technology/ukraine-russia-starlink.html",
+            "published": "Fri, 24 May 2024 04:45:34 +0000"
+        },
+        {
+            "title": "Elon Musk is Criticizing Biden On X More Ahead of 2024 Election",
+            "link": "https://www.nytimes.com/2024/05/24/technology/elon-musk-x-biden.html",
+            "published": "Fri, 24 May 2024 09:03:08 +0000"
+        },
         {
             "title": "Some Silicon Valley VCs Are Becoming More Conservative",
             "link": "https://www.nytimes.com/2024/05/23/technology/silicon-valley-conservative-trump.html",
             "published": "Thu, 23 May 2024 18:41:39 +0000"
         },
         {
-            "title": "TikTok Moves to Limit Russian and Chinese Media\u2019s Reach in Big Election Year",
-            "link": "https://www.nytimes.com/2024/05/23/business/tiktok-russia-china-misinformation-elections.html",
-            "published": "Thu, 23 May 2024 10:55:39 +0000"
-        },
-        {
-            "title": "Inside the Life of Nicole Shanahan, RFK Jr.\u2019s Running Mate",
-            "link": "https://www.nytimes.com/2024/05/22/technology/nicole-shanahan-rfk-jr-vp.html",
-            "published": "Wed, 22 May 2024 21:50:00 +0000"
-        },
-        {
-            "title": "Nvidia, Powered by A.I. Boom, Reports Soaring Revenue and Profits",
-            "link": "https://www.nytimes.com/2024/05/22/technology/nvidia-quarterly-earnings-results.html",
-            "published": "Wed, 22 May 2024 22:14:51 +0000"
+            "title": "ScarJo vs. ChatGPT, Neuralink\u2019s First Patient Opens Up, and Microsoft\u2019s A.I. PCs",
+            "link": "https://www.nytimes.com/2024/05/24/podcasts/scarjo-vs-chatgpt-neuralinks-first-patient-opens-up-and-microsofts-ai-pcs.html",
+            "published": "Fri, 24 May 2024 09:05:37 +0000"
         },
         {
             "title": "Kabosu, Shiba Inu Dog Who Helped Define the Doge Meme, Dies at 18",
@@ -55,7 +55,7 @@
     ],
     "source_2": [
         {
-            "title": "Google AI search says to glue pizza and eat rocks",
+            "title": "Glue pizza and eat rocks: Google AI search errors go viral",
             "link": "https://www.bbc.com/news/articles/cd11gzejgz4o",
             "published": "Fri, 24 May 2024 14:16:15 GMT"
         },
