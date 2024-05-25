@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Congress has quietly diverted $3.5B from the US CHIPS Act to Secure Enclave, a classified project proposed by Intel to build chips for defense needs (Christine Mui/Politico)",
+            "link": "http://www.techmeme.com/240525/p7#a240525p7",
+            "published": "Sat, 25 May 2024 13:30:15 -0400"
+        },
+        {
             "title": "How SLMs like Microsoft's Phi-3, which can run locally on phones or PCs without big compromises, open up new AI use cases by being more responsive and private (Will Knight/Wired)",
             "link": "http://www.techmeme.com/240525/p6#a240525p6",
             "published": "Sat, 25 May 2024 11:30:01 -0400"
@@ -11,7 +16,7 @@
             "published": "Sat, 25 May 2024 09:45:01 -0400"
         },
         {
-            "title": "An analysis of ChatGPT-3.5's answers to 517 programming questions on Stack Overflow: 52% of answers contain incorrect information, 77% are verbose, and more (Sharon Adarlo/Futurism)",
+            "title": "An analysis of GPT-3.5-based ChatGPT's answers to 517 programming questions on Stack Overflow: 52% of answers contain incorrect information, 77% are verbose (Sharon Adarlo/Futurism)",
             "link": "http://www.techmeme.com/240525/p4#a240525p4",
             "published": "Sat, 25 May 2024 06:35:01 -0400"
         },
@@ -19,18 +24,13 @@
             "title": "Apple Music's \"100 Best Albums\" list, based on votes from about 250 employees, artists, and industry executives, is eclectic, unpredictable, and controversial (Ben Cohen/Wall Street Journal)",
             "link": "http://www.techmeme.com/240525/p3#a240525p3",
             "published": "Sat, 25 May 2024 02:30:15 -0400"
-        },
-        {
-            "title": "Similarweb: Truth Social's average number of US monthly visits was just over 4M from May 2023 to April 2024, down 39%+ from the prior 12-month period (Kevin Breuninger/CNBC)",
-            "link": "http://www.techmeme.com/240525/p2#a240525p2",
-            "published": "Sat, 25 May 2024 01:15:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Russia Is Increasingly Blocking Ukraine\u2019s Starlink Service",
             "link": "https://www.nytimes.com/2024/05/24/technology/ukraine-russia-starlink.html",
-            "published": "Fri, 24 May 2024 04:45:34 +0000"
+            "published": "Sat, 25 May 2024 17:42:51 +0000"
         },
         {
             "title": "Google AI Overviews Search Errors Cause Furor Online",
