@@ -28,6 +28,16 @@
     ],
     "source_1": [
         {
+            "title": "If A.I. Can Do Your Job, Maybe It Can Also Replace Your C.E.O.",
+            "link": "https://www.nytimes.com/2024/05/28/technology/ai-chief-executives.html",
+            "published": "Tue, 28 May 2024 09:01:07 +0000"
+        },
+        {
+            "title": "OpenAI Says It Has Begun Training a New Flagship A.I. Model",
+            "link": "https://www.nytimes.com/2024/05/28/technology/openai-gpt4-new-model.html",
+            "published": "Tue, 28 May 2024 10:00:09 +0000"
+        },
+        {
             "title": "Elon Musk\u2019s xAI Raises $6 Billion",
             "link": "https://www.nytimes.com/2024/05/27/business/elon-musk-xai-funding.html",
             "published": "Mon, 27 May 2024 18:11:22 +0000"
@@ -38,22 +48,17 @@
             "published": "Sat, 25 May 2024 17:42:51 +0000"
         },
         {
-            "title": "Google AI Overviews Search Errors Cause Furor Online",
-            "link": "https://www.nytimes.com/2024/05/24/technology/google-ai-overview-search.html",
-            "published": "Sat, 25 May 2024 03:10:20 +0000"
-        },
-        {
-            "title": "ScarJo vs. ChatGPT, Neuralink\u2019s First Patient Opens Up, and Microsoft\u2019s A.I. PCs",
-            "link": "https://www.nytimes.com/2024/05/24/podcasts/scarjo-vs-chatgpt-neuralinks-first-patient-opens-up-and-microsofts-ai-pcs.html",
-            "published": "Fri, 24 May 2024 09:05:37 +0000"
-        },
-        {
-            "title": "OpenAI Says It Has Begun Training a New Flagship A.I. Model",
-            "link": "https://www.nytimes.com/2024/05/28/technology/openai-gpt4-new-model.html",
-            "published": "Tue, 28 May 2024 10:00:09 +0000"
+            "title": "TikTok\u2019s Latest Trend Has Parents Dancing Like It\u2019s the \u201980s",
+            "link": "https://www.nytimes.com/2024/05/25/arts/dance/tiktok-parents-dance-1980s.html",
+            "published": "Mon, 27 May 2024 02:53:05 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "New AI products much hyped but not much used, study says",
+            "link": "https://www.bbc.com/news/articles/c511x4g7x7jo",
+            "published": "Tue, 28 May 2024 14:28:48 GMT"
+        },
         {
             "title": "WhatsApp boss in online spat with Elon Musk",
             "link": "https://www.bbc.com/news/articles/c0ddwymz8ero",
@@ -73,11 +78,6 @@
             "title": "'I was misidentified as shoplifter by facial recognition tech'",
             "link": "https://www.bbc.co.uk/news/technology-69055945",
             "published": "Sat, 25 May 2024 23:08:53 GMT"
-        },
-        {
-            "title": "Glue pizza and eat rocks: Google AI search errors go viral",
-            "link": "https://www.bbc.com/news/articles/cd11gzejgz4o",
-            "published": "Fri, 24 May 2024 14:16:15 GMT"
         }
     ]
 }
