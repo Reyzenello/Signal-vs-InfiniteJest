@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google plans to shut down Google Business Profile chat, which let customers reach out to businesses in Maps and Search via text chat, on July 31, 2024 (Barry Schwartz/Search Engine Land)",
+            "link": "http://www.techmeme.com/240529/p2#a240529p2",
+            "published": "Wed, 29 May 2024 01:15:02 -0400"
+        },
+        {
             "title": "Leaked letter: a US group representing Google, Amazon, and Apple asks India to rethink its DMA-like Digital Competition Bill, saying it could raise user costs (Reuters)",
             "link": "http://www.techmeme.com/240529/p1#a240529p1",
             "published": "Wed, 29 May 2024 00:10:14 -0400"
@@ -19,11 +24,6 @@
             "title": "The Internet Archive says it has been under an intermittent DDoS attack for the past three days, making access inconsistent, but \"the data is not affected\" (Kate Irwin/PCMag)",
             "link": "http://www.techmeme.com/240528/p26#a240528p26",
             "published": "Tue, 28 May 2024 22:05:11 -0400"
-        },
-        {
-            "title": "How researchers recovered access to ~$2M worth of bitcoin stored in a software wallet, using a flaw in a decade-old version of the RoboForm password manager (Kim Zetter/Wired)",
-            "link": "http://www.techmeme.com/240528/p25#a240528p25",
-            "published": "Tue, 28 May 2024 21:30:03 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 28 May 2024 14:28:48 GMT"
         },
         {
+            "title": "Samsung Electronics union calls first-ever strike",
+            "link": "https://www.bbc.com/news/articles/cx7768n6pnpo",
+            "published": "Wed, 29 May 2024 04:34:42 GMT"
+        },
+        {
             "title": "Top lieutenant to 'Crypto King' jailed for seven years",
             "link": "https://www.bbc.com/news/articles/cqee727vnzmo",
             "published": "Wed, 29 May 2024 01:12:48 GMT"
@@ -73,11 +78,6 @@
             "title": "Beckham scores Euros deal with China tech giant",
             "link": "https://www.bbc.com/news/articles/cn0091d3l0xo",
             "published": "Tue, 28 May 2024 03:57:12 GMT"
-        },
-        {
-            "title": "Tackling water shortages with 'Star Wars' tech",
-            "link": "https://www.bbc.com/news/articles/cd11nnwp646o",
-            "published": "Tue, 28 May 2024 00:49:45 GMT"
         }
     ]
 }
