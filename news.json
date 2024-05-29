@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "How researchers recovered access to ~$2M worth of bitcoin stored in a software wallet, using a flaw in a decade-old version of the RoboForm password manager (Kim Zetter/Wired)",
+            "link": "http://www.techmeme.com/240528/p25#a240528p25",
+            "published": "Tue, 28 May 2024 21:30:03 -0400"
+        },
+        {
             "title": "Microsoft launches Copilot for Telegram in beta; the bot is limited to text-based requests and cannot generate images for now (Emilia David/The Verge)",
             "link": "http://www.techmeme.com/240528/p24#a240528p24",
             "published": "Tue, 28 May 2024 19:20:03 -0400"
@@ -19,11 +24,6 @@
             "title": "A leak purports to show thousands of pages of internal API documentation for Google Search, some of which appear to contradict Google's public statements (Rand Fishkin/SparkToro)",
             "link": "http://www.techmeme.com/240528/p21#a240528p21",
             "published": "Tue, 28 May 2024 16:45:12 -0400"
-        },
-        {
-            "title": "HubSpot shares jump 8%+ after CNBC's David Faber reported that Alphabet is in talks about an all-stock bid for the company (Jennifer Elias/CNBC)",
-            "link": "http://www.techmeme.com/240528/p20#a240528p20",
-            "published": "Tue, 28 May 2024 15:48:23 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 28 May 2024 14:28:48 GMT"
         },
         {
+            "title": "Ex-FTX executive sentenced to over 7 years in prison",
+            "link": "https://www.bbc.com/news/articles/cqee727vnzmo",
+            "published": "Wed, 29 May 2024 01:12:48 GMT"
+        },
+        {
             "title": "WhatsApp boss in online spat with Elon Musk",
             "link": "https://www.bbc.com/news/articles/c0ddwymz8ero",
             "published": "Tue, 28 May 2024 12:14:59 GMT"
@@ -73,11 +78,6 @@
             "title": "Tackling water shortages with 'Star Wars' tech",
             "link": "https://www.bbc.com/news/articles/cd11nnwp646o",
             "published": "Tue, 28 May 2024 00:49:45 GMT"
-        },
-        {
-            "title": "'I was misidentified as shoplifter by facial recognition tech'",
-            "link": "https://www.bbc.co.uk/news/technology-69055945",
-            "published": "Sat, 25 May 2024 23:08:53 GMT"
         }
     ]
 }
