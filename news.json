@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "AI training data provider Scale AI releases SEAL Leaderboards, which uses private datasets to rank LLMs in domains like coding, instruction following, and math (Mike Wheatley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/240529/p26#a240529p26",
+            "published": "Wed, 29 May 2024 15:15:01 -0400"
+        },
+        {
+            "title": "Mistral AI releases 22B-parameter Codestral, its first generative AI model for coding, trained on 80+ programming languages and prohibited for commercial use (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240529/p25#a240529p25",
+            "published": "Wed, 29 May 2024 14:55:02 -0400"
+        },
+        {
             "title": "Sources: Musk and Trump talk many times/month, on topics like a role in a Trump admin, action on \"voter fraud\", and X; Musk is organizing friends against Biden (Wall Street Journal)",
             "link": "http://www.techmeme.com/240529/p24#a240529p24",
             "published": "Wed, 29 May 2024 14:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Source: cloud GPU provider CoreWeave, which was last valued at $19B and raised ~$10B in equity and debt over the past year, plans an IPO in H1 2025 (Cory Weinberg/The Information)",
             "link": "http://www.techmeme.com/240529/p22#a240529p22",
             "published": "Wed, 29 May 2024 13:55:15 -0400"
-        },
-        {
-            "title": "Google announces the $230 Fitbit Ace LTE, a smartwatch for kids ages 7+, with games, messaging, and features for parents like location sharing (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/240529/p21#a240529p21",
-            "published": "Wed, 29 May 2024 13:10:00 -0400"
-        },
-        {
-            "title": "Arm announces its next-generation CPU and GPU designs for flagship smartphones: the Cortex-X925 CPU and Immortalis G925 GPU, likely in smartphones in late 2024 (Joanna Nelius/The Verge)",
-            "link": "http://www.techmeme.com/240529/p20#a240529p20",
-            "published": "Wed, 29 May 2024 11:10:01 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Once a Sheriff\u2019s Deputy in Florida, Now a Source of Disinformation From Russia",
             "link": "https://www.nytimes.com/2024/05/29/business/mark-dougan-russia-disinformation.html",
-            "published": "Wed, 29 May 2024 14:00:14 +0000"
+            "published": "Wed, 29 May 2024 19:10:07 +0000"
         },
         {
             "title": "If A.I. Can Do Your Job, Maybe It Can Also Replace Your C.E.O.",
