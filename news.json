@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Natural Cycles, an FDA-cleared birth control app with ~3M users, raised a $55M Series C led by Lauxera Capital Partners, bringing its total funding to $95M+ (Cate Lawrence/Tech.eu)",
+            "link": "http://www.techmeme.com/240529/p43#a240529p43",
+            "published": "Wed, 29 May 2024 23:55:04 -0400"
+        },
+        {
+            "title": "Meta removed hundreds of Facebook accounts linked to influence campaigns from China, Israel, Iran, and more, some of which used AI to generate disinformation (Aisha Counts/Bloomberg)",
+            "link": "http://www.techmeme.com/240529/p42#a240529p42",
+            "published": "Wed, 29 May 2024 23:25:02 -0400"
+        },
+        {
             "title": "Mastercard pilots a P2P network for crypto transactions on Bit2Me, Lirium, and Mercado Bitcoin exchanges in 13 European and Latin American countries (Elizabeth Napolitano/The Block)",
             "link": "http://www.techmeme.com/240529/p41#a240529p41",
             "published": "Wed, 29 May 2024 23:00:31 -0400"
@@ -14,16 +24,6 @@
             "title": "Verizon and satellite provider AST SpaceMobile partner to provide space-based broadband service direct to phones; Verizon committed $100M as part of the deal (Michael Sheetz/CNBC)",
             "link": "http://www.techmeme.com/240529/p39#a240529p39",
             "published": "Wed, 29 May 2024 21:50:01 -0400"
-        },
-        {
-            "title": "In a risk assessment, the US Treasury says NFTs are \"highly susceptible to use in fraud and scams\" and NFT platforms lack controls to combat money laundering (Jamie Crawley/CoinDesk)",
-            "link": "http://www.techmeme.com/240529/p38#a240529p38",
-            "published": "Wed, 29 May 2024 21:20:02 -0400"
-        },
-        {
-            "title": "Researchers: an ex-Florida deputy sheriff who received asylum in Russia has built a network of 160+ fake news sites with the help of ChatGPT and other AI tools (Steven Lee Myers/New York Times)",
-            "link": "http://www.techmeme.com/240529/p37#a240529p37",
-            "published": "Wed, 29 May 2024 20:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "One of world's biggest botnets taken down, US says",
+            "link": "https://www.bbc.com/news/articles/c0448y8ryd3o",
+            "published": "Thu, 30 May 2024 04:00:22 GMT"
+        },
+        {
             "title": "Call of Duty to go to Game Pass in gaming shake-up",
             "link": "https://www.bbc.com/news/articles/cneew1weereo",
             "published": "Wed, 29 May 2024 11:14:53 GMT"
@@ -73,11 +78,6 @@
             "title": "Top lieutenant to 'Crypto King' jailed for seven years",
             "link": "https://www.bbc.com/news/articles/cqee727vnzmo",
             "published": "Wed, 29 May 2024 01:12:48 GMT"
-        },
-        {
-            "title": "WhatsApp boss in online spat with Elon Musk",
-            "link": "https://www.bbc.com/news/articles/c0ddwymz8ero",
-            "published": "Tue, 28 May 2024 12:14:59 GMT"
         }
     ]
 }
