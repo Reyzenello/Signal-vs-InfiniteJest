@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "US Treasury Department will make IRS' Direct File program permanent starting with the 2025 tax season and invites all states and Washington DC to participate (Axios)",
+            "link": "http://www.techmeme.com/240531/p13#a240531p13",
+            "published": "Fri, 31 May 2024 10:50:03 -0400"
+        },
+        {
+            "title": "Tether acquires a $100M stake in US-listed bitcoin miner Bitdeer owned by Chinese billionaire Jihan Wu, with an option to buy $50M more in shares within a year (Emily Nicolle/Bloomberg)",
+            "link": "http://www.techmeme.com/240531/p12#a240531p12",
+            "published": "Fri, 31 May 2024 10:25:01 -0400"
+        },
+        {
             "title": "Sources: Saudi Arabia's Prosperity7 participated in a ~$400M round in Zhipu AI at a $3B valuation, making it the only foreign investor in Chinese generative AI (Eleanor Olcott/Financial Times)",
             "link": "http://www.techmeme.com/240531/p11#a240531p11",
             "published": "Fri, 31 May 2024 10:05:00 -0400"
@@ -14,19 +24,19 @@
             "title": "European Commission designates Temu as a \"very large online platform\" and says the company will have to comply with DSA rules by the end of September 2024 (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/240531/p9#a240531p9",
             "published": "Fri, 31 May 2024 07:45:02 -0400"
-        },
-        {
-            "title": "Spain's data protection regulator AEPD bans Meta from launching election features on Facebook and Instagram in the country, citing GDPR concerns (Natasha Lomas/TechCrunch)",
-            "link": "http://www.techmeme.com/240531/p8#a240531p8",
-            "published": "Fri, 31 May 2024 07:15:06 -0400"
-        },
-        {
-            "title": "Stripe says it will temporarily move to an invite-only model for new account sign-ups in India, as it navigates the country's evolving regulatory landscape (Manish Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/240531/p7#a240531p7",
-            "published": "Fri, 31 May 2024 06:55:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk Lobbies on X for His $46.5 Billion Tesla Pay Package",
+            "link": "https://www.nytimes.com/2024/05/31/technology/elon-musk-x-tesla-pay.html",
+            "published": "Fri, 31 May 2024 14:10:27 +0000"
+        },
+        {
+            "title": "The New ChatGPT Offers a Lesson in AI Hype",
+            "link": "https://www.nytimes.com/2024/05/31/technology/personaltech/chatgpt-4o-openai-review.html",
+            "published": "Fri, 31 May 2024 09:07:33 +0000"
+        },
         {
             "title": "OpenAI Says Russia and China Used Its A.I. in Covert Campaigns",
             "link": "https://www.nytimes.com/2024/05/30/technology/openai-influence-campaigns-report.html",
@@ -38,26 +48,16 @@
             "published": "Thu, 30 May 2024 18:04:36 +0000"
         },
         {
-            "title": "The Very Slow Restart of G.M.\u2019s Cruise Driverless Car Business",
-            "link": "https://www.nytimes.com/2024/05/30/technology/cruise-gm-driverless-cars.html",
-            "published": "Thu, 30 May 2024 09:02:08 +0000"
-        },
-        {
-            "title": "Mark Zuckerberg is Popular Again Thanks to Meta\u2019s Open-Source AI",
-            "link": "https://www.nytimes.com/2024/05/29/technology/mark-zuckerberg-meta-ai.html",
-            "published": "Wed, 29 May 2024 09:00:54 +0000"
-        },
-        {
-            "title": "Elon Musk Lobbies on X for His $46.5 Billion Tesla Pay Package",
-            "link": "https://www.nytimes.com/2024/05/31/technology/elon-musk-x-tesla-pay.html",
-            "published": "Fri, 31 May 2024 14:10:27 +0000"
+            "title": "Google Eats Rocks, a Win for A.I. Interpretability and Safety Vibe Check",
+            "link": "https://www.nytimes.com/2024/05/31/podcasts/hardfork-google-overviews-anthropic-interpretability.html",
+            "published": "Fri, 31 May 2024 09:05:41 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "All Santander staff and '30 million' customers hacked",
+            "title": "All Santander staff and '30 million' customers in Spain, Chile and Uruguay hacked",
             "link": "https://www.bbc.com/news/articles/c6ppv06e3n8o",
-            "published": "Fri, 31 May 2024 13:06:37 GMT"
+            "published": "Fri, 31 May 2024 14:43:42 GMT"
         },
         {
             "title": "Sports cars and millions seized in cybercrime busts",
