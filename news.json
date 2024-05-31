@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Startup Fable Studio announces Showrunner, a streaming service that lets users watch AI-generated series and create their own series by writing prompts (Winston Cho/The Hollywood Reporter)",
+            "link": "http://www.techmeme.com/240531/p21#a240531p21",
+            "published": "Fri, 31 May 2024 16:15:03 -0400"
+        },
+        {
+            "title": "Meta is notifying Instagram and Facebook EU users that it's using their data to train its AI models, and users can opt out, \"if your objection is honoured\" (Ben Lovejoy/9to5Mac)",
+            "link": "http://www.techmeme.com/240531/p20#a240531p20",
+            "published": "Fri, 31 May 2024 15:35:01 -0400"
+        },
+        {
             "title": "FCC ends the Affordable Connectivity Program, which helped low-income Americans afford internet service, after the House failed to approve additional funding (Brian Fung/CNN)",
             "link": "http://www.techmeme.com/240531/p19#a240531p19",
             "published": "Fri, 31 May 2024 14:30:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Google plans to disable extensions built with the older Manifest V2 framework on June 3, beginning with users of Chrome's Beta, Dev, and Canary versions (Michael Kan/PCMag)",
             "link": "http://www.techmeme.com/240531/p17#a240531p17",
             "published": "Fri, 31 May 2024 12:45:00 -0400"
-        },
-        {
-            "title": "Rest of World retracts an article on WhatsApp misinformation \"tip lines\" in India after several fact-checking orgs detail how it was \"riddled with inaccuracies\" (Joshua Benton/Nieman Lab)",
-            "link": "http://www.techmeme.com/240531/p16#a240531p16",
-            "published": "Fri, 31 May 2024 12:15:14 -0400"
-        },
-        {
-            "title": "ElevenLabs launches Sound Effects, a tool that lets users generate sound effects via prompts and uses an in-house model fine-tuned on Shutterstock's audio data (Shubham Sharma/VentureBeat)",
-            "link": "http://www.techmeme.com/240531/p15#a240531p15",
-            "published": "Fri, 31 May 2024 11:50:05 -0400"
         }
     ],
     "source_1": [
@@ -55,7 +55,7 @@
     ],
     "source_2": [
         {
-            "title": "All Santander staff and '30 million' customers in Spain, Chile and Uruguay hacked",
+            "title": "Santander staff and '30 million' customers hacked",
             "link": "https://www.bbc.com/news/articles/c6ppv06e3n8o",
             "published": "Fri, 31 May 2024 14:43:42 GMT"
         },
