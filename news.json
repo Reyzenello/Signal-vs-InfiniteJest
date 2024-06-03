@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "AMD announces a yearly data center GPU release cycle, starting with Instinct MI325X, slated for later in 2024 and meant to best Nvidia H200 in peak performance (CRN)",
+            "link": "http://www.techmeme.com/240602/p11#a240602p11",
+            "published": "Sun, 02 Jun 2024 23:55:02 -0400"
+        },
+        {
+            "title": "AMD announces two new Ryzen AI 300 series mobile chips, Ryzen AI 9 365 and Ryzen AI 9 HX 370, each with a 50 TOPS NPU, shipping in July (Mark Hachman/PCWorld)",
+            "link": "http://www.techmeme.com/240602/p10#a240602p10",
+            "published": "Sun, 02 Jun 2024 23:45:03 -0400"
+        },
+        {
+            "title": "AMD unveils four new Ryzen 9000-series chips slated for July, powered by its new Zen 5 microarchitecture, which it says delivers 16% more instructions per cycle (Gavin Bonshor/AnandTech)",
+            "link": "http://www.techmeme.com/240602/p9#a240602p9",
+            "published": "Sun, 02 Jun 2024 23:34:23 -0400"
+        },
+        {
             "title": "Q&A with FTC's Privacy and Identity Protection executive Ben Wiseman on proposed commercial surveillance rules, connected car industry's data practices, more (Suzanne Smalley/The Record)",
             "link": "http://www.techmeme.com/240602/p8#a240602p8",
             "published": "Sun, 02 Jun 2024 17:00:41 -0400"
@@ -9,21 +24,6 @@
             "title": "A look at the $799 ROG Ally X, shipping July 22: 24GB RAM, 80 watt-hour battery that doesn't feel heavy, better and lighter joysticks, and more (Sean Hollister/The Verge)",
             "link": "http://www.techmeme.com/240602/p7#a240602p7",
             "published": "Sun, 02 Jun 2024 12:50:00 -0400"
-        },
-        {
-            "title": "In a demo, Nvidia shows its G-Assist AI chatbot that could guide users through PC games based on voice queries, configure optimal settings, and more (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/240602/p6#a240602p6",
-            "published": "Sun, 02 Jun 2024 11:55:04 -0400"
-        },
-        {
-            "title": "Nvidia said newly announced RTX AI PC laptops from Asus and MSI will have up to GeForce RTX 4070 GPUs and \"systems-on-a-chip with Windows 11 AI PC capabilities\" (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/240602/p5#a240602p5",
-            "published": "Sun, 02 Jun 2024 10:55:02 -0400"
-        },
-        {
-            "title": "Nvidia announces plans to upgrade its AI accelerators annually, a Blackwell Ultra chip for 2025, and Blackwell's successor, Rubin, for 2026 that will use HBM4 (Bloomberg)",
-            "link": "http://www.techmeme.com/240602/p4#a240602p4",
-            "published": "Sun, 02 Jun 2024 10:40:02 -0400"
         }
     ],
     "source_1": [
