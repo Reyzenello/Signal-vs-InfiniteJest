@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Antenna: Spotify users are the least likely to cancel among major video or audio streaming services in the US, with a ~2% monthly churn rate, similar to Netflix (Lucas Shaw/Bloomberg)",
+            "link": "http://www.techmeme.com/240603/p13#a240603p13",
+            "published": "Mon, 03 Jun 2024 08:35:01 -0400"
+        },
+        {
+            "title": "X changes its adult content policies, formally letting users post consensual NSFW and AI content provided it is properly labeled and \"not prominently displayed\" (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/240603/p12#a240603p12",
+            "published": "Mon, 03 Jun 2024 07:55:19 -0400"
+        },
+        {
             "title": "Microsoft plans to invest $3.21B to expand its cloud and AI infrastructure in Sweden over two years, including a pledge to train 250K people with AI skills (Reuters)",
             "link": "http://www.techmeme.com/240603/p11#a240603p11",
             "published": "Mon, 03 Jun 2024 07:00:30 -0400"
@@ -14,16 +24,6 @@
             "title": "Raspberry Pi plans to sell shares at &pound;2.60 to &pound;2.80 each in its London IPO, aiming to raise ~&pound;157M; existing shareholder Arm has agreed to buy $35M of shares (Swetha Gopinath/Bloomberg)",
             "link": "http://www.techmeme.com/240603/p9#a240603p9",
             "published": "Mon, 03 Jun 2024 06:35:01 -0400"
-        },
-        {
-            "title": "FTX sells its remaining 15M Anthropic shares, netting $450M+ and taking its total haul to $1.3B from its original $500M investment, as legal costs pass $500M (Zack Abrams/The Block)",
-            "link": "http://www.techmeme.com/240603/p8#a240603p8",
-            "published": "Mon, 03 Jun 2024 06:15:01 -0400"
-        },
-        {
-            "title": "Zara plans to expand live shopping broadcasts in the UK, Europe, and the US between August and October 2024, testing a format that is wildly popular in China (Reuters)",
-            "link": "http://www.techmeme.com/240603/p7#a240603p7",
-            "published": "Mon, 03 Jun 2024 05:55:10 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Donald Trump joins TikTok despite previously wanting ban",
+            "link": "https://www.bbc.com/news/articles/cyjj08vvz43o",
+            "published": "Mon, 03 Jun 2024 12:11:04 GMT"
+        },
+        {
             "title": "MrBeast overtakes T-Series for most YouTube subscribers",
             "link": "https://www.bbc.com/news/articles/c8440yxd92xo",
             "published": "Mon, 03 Jun 2024 09:17:36 GMT"
@@ -62,7 +67,7 @@
         {
             "title": "Shein to kick off plans for \u00a350bn UK float",
             "link": "https://www.bbc.com/news/articles/c9770yz274go",
-            "published": "Mon, 03 Jun 2024 10:40:19 GMT"
+            "published": "Mon, 03 Jun 2024 12:36:43 GMT"
         },
         {
             "title": "Santander staff and '30 million' customers hacked",
@@ -73,11 +78,6 @@
             "title": "Sports cars and millions seized in cybercrime busts",
             "link": "https://www.bbc.com/news/articles/c0448y8ryd3o",
             "published": "Thu, 30 May 2024 10:18:40 GMT"
-        },
-        {
-            "title": "Wordle in legal row with geography spinoff, Worldle",
-            "link": "https://www.bbc.com/news/articles/cjrr5ee5zv8o",
-            "published": "Thu, 30 May 2024 23:14:55 GMT"
         }
     ]
 }
