@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "BrightEdge: Google's AI Overviews now appear in less than 15% of search queries but on 63% of healthcare-related queries, more than any other topic (Danny Goodwin/Search Engine Land)",
+            "link": "http://www.techmeme.com/240604/p28#a240604p28",
+            "published": "Tue, 04 Jun 2024 13:10:25 -0400"
+        },
+        {
+            "title": "Databricks says it will acquire Tabular, a data-management startup that helps companies optimize data with the Apache Iceberg format and more, for over $1B (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/240604/p27#a240604p27",
+            "published": "Tue, 04 Jun 2024 13:07:51 -0400"
+        },
+        {
             "title": "Sources: TikTok accounts, including brands and celebrities like CNN and Paris Hilton, are getting hacked via a zero-day exploit that only requires opening a DM (Emily Baker-White/Forbes)",
             "link": "http://www.techmeme.com/240604/p26#a240604p26",
             "published": "Tue, 04 Jun 2024 11:24:08 -0400"
@@ -14,16 +24,6 @@
             "title": "An interview with Sonos CEO Patrick Spence on the Ace headphones, the controversial ground-up app redesign, expanding beyond speakers, and more (Parker Hall/Wired)",
             "link": "http://www.techmeme.com/240604/p24#a240604p24",
             "published": "Tue, 04 Jun 2024 09:35:00 -0400"
-        },
-        {
-            "title": "Nvidia staff emails: Elon Musk gave Tesla shareholders an exaggerated picture of Tesla's chip deals, and diverted \"12k of shipped H100 GPUs\" for Tesla to X (Lora Kolodny/CNBC)",
-            "link": "http://www.techmeme.com/240604/p23#a240604p23",
-            "published": "Tue, 04 Jun 2024 09:15:05 -0400"
-        },
-        {
-            "title": "Current and former OpenAI and Google DeepMind staff sign an open letter warning of a culture of recklessness and secrecy at \"frontier AI companies\" (Kevin Roose/New York Times)",
-            "link": "http://www.techmeme.com/240604/p22#a240604p22",
-            "published": "Tue, 04 Jun 2024 09:10:03 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "As China\u2019s Internet Disappears, \u2018We Lose Parts of Our Collective Memory\u2019",
             "link": "https://www.nytimes.com/2024/06/04/business/china-internet-censorship.html",
-            "published": "Tue, 04 Jun 2024 13:16:14 +0000"
+            "published": "Tue, 04 Jun 2024 16:27:15 +0000"
         },
         {
             "title": "Elon Musk\u2019s Starlink Connects and Divides Brazil\u2019s Marubo People",
@@ -50,7 +50,7 @@
         {
             "title": "Can Artificial Intelligence Rethink Art? Should it?",
             "link": "https://www.nytimes.com/2024/06/03/arts/ai-art-overlap.html",
-            "published": "Tue, 04 Jun 2024 07:33:51 +0000"
+            "published": "Tue, 04 Jun 2024 07:33:52 +0000"
         }
     ],
     "source_2": [
