@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple was in talks last year to debut Apple TV+ in China via a deal with China Mobile, which would make it the only US video streaming service in China (Wayne Ma/The Information)",
+            "link": "http://www.techmeme.com/240604/p25#a240604p25",
+            "published": "Tue, 04 Jun 2024 11:10:14 -0400"
+        },
+        {
             "title": "An interview with Sonos CEO Patrick Spence on the Ace headphones, the controversial ground-up app redesign, expanding beyond speakers, and more (Parker Hall/Wired)",
             "link": "http://www.techmeme.com/240604/p24#a240604p24",
             "published": "Tue, 04 Jun 2024 09:35:00 -0400"
@@ -11,7 +16,7 @@
             "published": "Tue, 04 Jun 2024 09:15:05 -0400"
         },
         {
-            "title": "A group of nine current and former OpenAI staff, and two Google DeepMind staff, blow the whistle on what they say is a culture of recklessness and secrecy (Kevin Roose/New York Times)",
+            "title": "Nine current and former OpenAI staff, and two Google DeepMind staff, blow the whistle on what they say is an AI industry culture of recklessness and secrecy (Kevin Roose/New York Times)",
             "link": "http://www.techmeme.com/240604/p22#a240604p22",
             "published": "Tue, 04 Jun 2024 09:10:03 -0400"
         },
@@ -19,23 +24,18 @@
             "title": "Austria-based Storyblok, which offers a headless CMS, raised an $80M Series C led by Brighton Park, after a $47M Series B in May 2022, and reports 200K+ users (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/240604/p21#a240604p21",
             "published": "Tue, 04 Jun 2024 08:50:01 -0400"
-        },
-        {
-            "title": "Shutterstock CEO Paul Hennessy says the company's licensing business with AI companies made $104M in revenue in 2023 (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/240604/p20#a240604p20",
-            "published": "Tue, 04 Jun 2024 08:35:04 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Google\u2019s A.I. Search Leaves Publishers Scrambling",
-            "link": "https://www.nytimes.com/2024/06/01/technology/google-ai-search-publishers.html",
-            "published": "Sat, 01 Jun 2024 09:02:28 +0000"
+            "title": "OpenAI Whistleblowers Describe Reckless and Secretive Culture",
+            "link": "https://www.nytimes.com/2024/06/04/technology/openai-culture-whistleblowers.html",
+            "published": "Tue, 04 Jun 2024 13:00:11 +0000"
         },
         {
-            "title": "Google Rolls Back A.I. Search Feature After Flubs and Flaws",
-            "link": "https://www.nytimes.com/2024/06/01/technology/google-ai-overviews-rollback.html",
-            "published": "Sat, 01 Jun 2024 09:04:10 +0000"
+            "title": "As China\u2019s Internet Disappears, \u2018We Lose Parts of Our Collective Memory\u2019",
+            "link": "https://www.nytimes.com/2024/06/04/business/china-internet-censorship.html",
+            "published": "Tue, 04 Jun 2024 13:16:14 +0000"
         },
         {
             "title": "Elon Musk\u2019s Starlink Connects and Divides Brazil\u2019s Marubo People",
@@ -43,14 +43,14 @@
             "published": "Sun, 02 Jun 2024 04:01:38 +0000"
         },
         {
-            "title": "The New ChatGPT Offers a Lesson in AI Hype",
-            "link": "https://www.nytimes.com/2024/05/31/technology/personaltech/chatgpt-4o-openai-review.html",
-            "published": "Fri, 31 May 2024 09:07:33 +0000"
+            "title": "Google\u2019s A.I. Search Leaves Publishers Scrambling",
+            "link": "https://www.nytimes.com/2024/06/01/technology/google-ai-search-publishers.html",
+            "published": "Sat, 01 Jun 2024 09:02:28 +0000"
         },
         {
-            "title": "OpenAI Whistleblowers Describe Reckless and Secretive Culture",
-            "link": "https://www.nytimes.com/2024/06/04/technology/openai-culture-whistleblowers.html",
-            "published": "Tue, 04 Jun 2024 13:00:11 +0000"
+            "title": "Can Artificial Intelligence Rethink Art? Should it?",
+            "link": "https://www.nytimes.com/2024/06/03/arts/ai-art-overlap.html",
+            "published": "Tue, 04 Jun 2024 07:33:51 +0000"
         }
     ],
     "source_2": [
