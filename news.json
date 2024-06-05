@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: some Chinese AI chip companies, including MetaX and Enflame, are submitting less powerful GPU designs to TSMC to comply with US sanctions (Fanny Potkin/Reuters)",
+            "link": "http://www.techmeme.com/240604/p46#a240604p46",
+            "published": "Tue, 04 Jun 2024 21:50:11 -0400"
+        },
+        {
             "title": "Pika, which offers AI tools to generate and edit videos, raised $80M from Spark, Lightspeed, and others at a $470M valuation, taking its total funding to $135M (Gerrit De Vynck/Washington Post)",
             "link": "http://www.techmeme.com/240604/p45#a240604p45",
             "published": "Tue, 04 Jun 2024 21:15:01 -0400"
@@ -19,11 +24,6 @@
             "title": "How billionaire investors of the internet era are fighting to determine whether AI's future will be one of concentrated safety, or of unfettered advancement (Alex Konrad/Forbes)",
             "link": "http://www.techmeme.com/240604/p42#a240604p42",
             "published": "Tue, 04 Jun 2024 20:15:02 -0400"
-        },
-        {
-            "title": "AT&T says an outage is preventing many customers from completing calls between carriers, but 911 calls are going through; Verizon customers also report issues (Samantha Murphy Kelly/CNN)",
-            "link": "http://www.techmeme.com/240604/p41#a240604p41",
-            "published": "Tue, 04 Jun 2024 18:20:06 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok says cyber-attack hit brands and celebrities",
+            "link": "https://www.bbc.com/news/articles/cl770d121gro",
+            "published": "Wed, 05 Jun 2024 01:55:19 GMT"
+        },
+        {
             "title": "Instagram tests forcing users to watch adverts",
             "link": "https://www.bbc.com/news/articles/c877y6mxdp7o",
             "published": "Tue, 04 Jun 2024 12:30:41 GMT"
@@ -73,11 +78,6 @@
             "title": "Epoch Times CFO charged in $67m money-laundering plot",
             "link": "https://www.bbc.com/news/articles/cg66xe59zyeo",
             "published": "Tue, 04 Jun 2024 00:31:06 GMT"
-        },
-        {
-            "title": "Shein to kick off plans for \u00a350bn UK float",
-            "link": "https://www.bbc.com/news/articles/c9770yz274go",
-            "published": "Mon, 03 Jun 2024 14:24:45 GMT"
         }
     ]
 }
