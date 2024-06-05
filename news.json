@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "In a UK compliance statement, Apple revealed that the iPhone 15 Pro Max will receive security updates for a minimum of five years from September 2023 (Mishaal Rahman/Android Authority)",
+            "link": "http://www.techmeme.com/240605/p31#a240605p31",
+            "published": "Wed, 05 Jun 2024 19:20:07 -0400"
+        },
+        {
+            "title": "Stability AI releases Stable Audio Open, a text-to-audio model that generates up to 47 seconds of samples and sound effects, prohibited for commercial use (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240605/p30#a240605p30",
+            "published": "Wed, 05 Jun 2024 18:55:04 -0400"
+        },
+        {
+            "title": "YouTube plans to restrict some content pertaining to the real use of guns from viewers under 18 starting on June 18, a year after a watchdog group report (Will Shanklin/Engadget)",
+            "link": "http://www.techmeme.com/240605/p29#a240605p29",
+            "published": "Wed, 05 Jun 2024 18:25:01 -0400"
+        },
+        {
             "title": "Paxos International, a UAE-based affiliate of Paxos, launches Lift Dollar, or USDL, a stablecoin pegged to the US dollar that will pay a ~5% yield to holders (Ryan Weeks/Bloomberg)",
             "link": "http://www.techmeme.com/240605/p28#a240605p28",
             "published": "Wed, 05 Jun 2024 17:25:13 -0400"
@@ -9,21 +24,6 @@
             "title": "Humane tells Ai Pin owners that they should \"immediately\" stop using the charging case, citing issues with a battery cell that \"may pose a fire safety risk\" (Wes Davis/The Verge)",
             "link": "http://www.techmeme.com/240605/p27#a240605p27",
             "published": "Wed, 05 Jun 2024 17:10:02 -0400"
-        },
-        {
-            "title": "Duolingo deletes LGBTQ+ references in Russia after being warned by the country's communications regulator that the content is classed as \"extremism\" (Reuters)",
-            "link": "http://www.techmeme.com/240605/p26#a240605p26",
-            "published": "Wed, 05 Jun 2024 16:55:14 -0400"
-        },
-        {
-            "title": "Nvidia hits a $3T market cap and passes Apple as the second most valuable public US company, behind Microsoft (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/240605/p25#a240605p25",
-            "published": "Wed, 05 Jun 2024 16:25:12 -0400"
-        },
-        {
-            "title": "The Greater Memphis Chamber says xAI plans to develop a new facility in Memphis to house a supercomputer and could receive tax breaks and other incentives (Kurt Wagner/Bloomberg)",
-            "link": "http://www.techmeme.com/240605/p24#a240605p24",
-            "published": "Wed, 05 Jun 2024 16:05:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Mother hits out at Meta over sextortion death data delay",
+            "link": "https://www.bbc.com/news/articles/cekkr4lvl82o",
+            "published": "Wed, 05 Jun 2024 23:15:45 GMT"
+        },
+        {
             "title": "Court rules Google must face \u00a313.6bn advertising lawsuit",
             "link": "https://www.bbc.com/news/articles/cqlle3k92zqo",
             "published": "Wed, 05 Jun 2024 14:09:53 GMT"
@@ -73,11 +78,6 @@
             "title": "Instagram tests forcing users to watch adverts",
             "link": "https://www.bbc.com/news/articles/c877y6mxdp7o",
             "published": "Tue, 04 Jun 2024 12:30:41 GMT"
-        },
-        {
-            "title": "Donald Trump joins TikTok despite previously wanting ban",
-            "link": "https://www.bbc.com/news/articles/cyjj08vvz43o",
-            "published": "Mon, 03 Jun 2024 14:51:45 GMT"
         }
     ]
 }
