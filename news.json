@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Amazon acquires key assets of Indian video streaming service MX Player; a source says the deal values the streamer at $100M, below its $500M valuation in 2019 (Manish Singh/TechCrunch)",
+            "title": "Q&A with AMD CEO Lisa Su on lessons from IBM, working with TSMC, the AMD turnaround, AI, competing with Nvidia, the gaming and PC markets, Zen chips, and more (Ben Thompson/Stratechery)",
+            "link": "http://www.techmeme.com/240606/p22#a240606p22",
+            "published": "Thu, 06 Jun 2024 09:05:02 -0400"
+        },
+        {
+            "title": "Core Scientific rejects CoreWeave's $1B buyout offer, worth $5.75 per share, saying the deal undervalues the company; CORZ had jumped ~40% on the buyout news (Parikshit Mishra/CoinDesk)",
+            "link": "http://www.techmeme.com/240606/p21#a240606p21",
+            "published": "Thu, 06 Jun 2024 08:45:02 -0400"
+        },
+        {
+            "title": "Amazon acquires key assets of Indian video streaming service MX Player; a source says the deal values the streamer at <$100M, below its $500M valuation in 2019 (Manish Singh/TechCrunch)",
             "link": "http://www.techmeme.com/240606/p20#a240606p20",
             "published": "Thu, 06 Jun 2024 08:00:58 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Google rolls out its Gemini-powered note-taking assistant NotebookLM to 200+ new countries, including Brazil and the UK, and adds Slides and web URLs as sources (Jagmeet Singh/TechCrunch)",
             "link": "http://www.techmeme.com/240606/p18#a240606p18",
             "published": "Thu, 06 Jun 2024 07:25:03 -0400"
-        },
-        {
-            "title": "Robinhood plans to acquire crypto exchange Bitstamp for $200M, in a deal expected to close in H1 2025, and says Bitstamp will still operate under its own brand (Caitlin Ostroff/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240606/p17#a240606p17",
-            "published": "Thu, 06 Jun 2024 07:15:00 -0400"
-        },
-        {
-            "title": "A look back at Sam Altman's career, starting as Loopt CEO before moving to YC and founding OpenAI in 2015, as many former allies now view his charm as duplicity (Ellen Huet/Bloomberg)",
-            "link": "http://www.techmeme.com/240606/p16#a240606p16",
-            "published": "Thu, 06 Jun 2024 06:50:18 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Plans to use Facebook and Instagram posts to train AI criticised",
+            "link": "https://www.bbc.com/news/articles/cw99n3qjeyjo",
+            "published": "Thu, 06 Jun 2024 13:21:22 GMT"
+        },
+        {
             "title": "Nvidia value surges past $3tn and overtakes Apple",
             "link": "https://www.bbc.com/news/articles/c6ppqd3j621o",
             "published": "Wed, 05 Jun 2024 21:01:10 GMT"
@@ -73,11 +78,6 @@
             "title": "Australia drops case against X over stabbing videos",
             "link": "https://www.bbc.com/news/articles/cv229qm7nepo",
             "published": "Wed, 05 Jun 2024 05:14:09 GMT"
-        },
-        {
-            "title": "Paris Hilton among users targeted in TikTok hack",
-            "link": "https://www.bbc.com/news/articles/cl770d121gro",
-            "published": "Wed, 05 Jun 2024 06:32:49 GMT"
         }
     ]
 }
