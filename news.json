@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the US DOJ will take the lead in investigating whether Nvidia has violated antitrust laws; the FTC will lead the inquiries into OpenAI and Microsoft (David McCabe/New York Times)",
+            "link": "http://www.techmeme.com/240606/p2#a240606p2",
+            "published": "Thu, 06 Jun 2024 00:45:01 -0400"
+        },
+        {
+            "title": "The US FTC opens an antitrust probe of Microsoft's deal with Inflection AI that included hiring Mustafa Suleyman and paying $650M to resell Inflection's tech (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240606/p1#a240606p1",
+            "published": "Thu, 06 Jun 2024 00:30:01 -0400"
+        },
+        {
             "title": "Mistral introduces AI model customization options, including an SDK for fine-tuning its models on workstations, servers, and small data center nodes (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/240605/p38#a240605p38",
             "published": "Wed, 05 Jun 2024 23:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Google will store Maps Timeline data locally on users' devices instead of their Google account starting December 1, after announcing the change in December 2023 (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/240605/p36#a240605p36",
             "published": "Wed, 05 Jun 2024 22:35:01 -0400"
-        },
-        {
-            "title": "Brazil-based Kanastra, which supplies back-office technology for asset-backed securities funds, raised a $21M Series A led by Kaszek, following a $13M seed (Daniel Cancel/Bloomberg)",
-            "link": "http://www.techmeme.com/240605/p35#a240605p35",
-            "published": "Wed, 05 Jun 2024 22:05:00 -0400"
-        },
-        {
-            "title": "Amazon's robotaxi unit Zoox plans to start testing its autonomous vehicles this summer in Austin and Miami, the company's fourth and fifth public testing cities (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/240605/p34#a240605p34",
-            "published": "Wed, 05 Jun 2024 21:10:13 -0400"
         }
     ],
     "source_1": [
@@ -62,7 +62,7 @@
         {
             "title": "Mother hits out at Meta over sextortion death data delay",
             "link": "https://www.bbc.com/news/articles/cekkr4lvl82o",
-            "published": "Wed, 05 Jun 2024 23:15:45 GMT"
+            "published": "Thu, 06 Jun 2024 05:10:08 GMT"
         },
         {
             "title": "Court rules Google must face \u00a313.6bn advertising lawsuit",
