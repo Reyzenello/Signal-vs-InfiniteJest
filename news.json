@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "A look at the now-shuttered news site BNN Breaking, which former staff say mostly published AI-generated content; Microsoft had licensed BNN content for MSN.com (New York Times)",
+            "title": "eBay emails customers to say the service will drop American Express cards as a payment option because of \"unacceptably high fees\", starting on August 17 (Bloomberg)",
+            "link": "http://www.techmeme.com/240606/p10#a240606p10",
+            "published": "Thu, 06 Jun 2024 05:20:01 -0400"
+        },
+        {
+            "title": "A profile of ASML CEO Christophe Fouquet, a 51-year-old Frenchman who sources say supports global tech collaboration, as ASML starts to worry about geopolitics (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240606/p9#a240606p9",
+            "published": "Thu, 06 Jun 2024 05:05:00 -0400"
+        },
+        {
+            "title": "Crypto miners are trying to ride the AI boom by converting data centers to rent out to AI companies or by selling computing power directly to AI clients (David Pan/Bloomberg)",
+            "link": "http://www.techmeme.com/240606/p8#a240606p8",
+            "published": "Thu, 06 Jun 2024 04:30:04 -0400"
+        },
+        {
+            "title": "A look at Gurbaksh Chahal's now-shuttered site BNN Breaking, which former staff say was mostly an AI content farm; Microsoft licensed BNN content for MSN.com (New York Times)",
             "link": "http://www.techmeme.com/240606/p7#a240606p7",
             "published": "Thu, 06 Jun 2024 04:00:43 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "Investigation: 22M+ flight coordinates show how the US' first police drone program, in Chula Vista, California, impacts residents and raises privacy concerns (Wired)",
             "link": "http://www.techmeme.com/240606/p6#a240606p6",
             "published": "Thu, 06 Jun 2024 02:35:12 -0400"
-        },
-        {
-            "title": "TSMC's Taiwan-listed shares hit a new record high after its US-listed stock jumped 6.85% overnight, following major TSMC customer Nvidia's shares rallying (Sherry Qin/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240606/p5#a240606p5",
-            "published": "Thu, 06 Jun 2024 02:20:01 -0400"
-        },
-        {
-            "title": "The US DOJ Assistant AG for Antitrust Jonathan Kanter says he is examining \"monopoly choke points and the competitive landscape\" in AI, cloud, GPUs, and chips (Financial Times)",
-            "link": "http://www.techmeme.com/240606/p4#a240606p4",
-            "published": "Thu, 06 Jun 2024 02:15:04 -0400"
-        },
-        {
-            "title": "An analysis finds 90K+ images of popular anime characters on generative AI image sharing sites; ~2.5K images had multiple similarities to the original artwork (Nikkei Asia)",
-            "link": "http://www.techmeme.com/240606/p3#a240606p3",
-            "published": "Thu, 06 Jun 2024 01:25:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Sun, 02 Jun 2024 04:01:38 +0000"
         },
         {
-            "title": "The Rise and Fall of BNN Breaking, an AI-Generated News Outlet",
-            "link": "https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html",
-            "published": "Thu, 06 Jun 2024 04:00:25 +0000"
+            "title": "Auriea Harvey\u2019s Digital Worlds Are Love Stories, Without Neat Ends",
+            "link": "https://www.nytimes.com/2024/06/06/arts/design/auriea-harvey-museum-internet-dating-art.html",
+            "published": "Thu, 06 Jun 2024 09:04:01 +0000"
         }
     ],
     "source_2": [
@@ -62,7 +62,7 @@
         {
             "title": "Meta releases 'sextortion' data after mum's criticism",
             "link": "https://www.bbc.com/news/articles/cekkr4lvl82o",
-            "published": "Thu, 06 Jun 2024 07:46:53 GMT"
+            "published": "Thu, 06 Jun 2024 08:28:35 GMT"
         },
         {
             "title": "Court rules Google must face \u00a313.6bn advertising lawsuit",
