@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Amazon's robotaxi unit Zoox plans to start testing its autonomous vehicles this summer in Austin and Miami, the company's fourth and fifth public testing cities (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/240605/p34#a240605p34",
+            "published": "Wed, 05 Jun 2024 21:10:13 -0400"
+        },
+        {
+            "title": "Carl Pei says smartphones will be the main AI form factor of the future, but the UX needs to be redefined, and Phone (3) will be Nothing's first true AI phone (David Pierce/The Verge)",
+            "link": "http://www.techmeme.com/240605/p33#a240605p33",
+            "published": "Wed, 05 Jun 2024 20:40:08 -0400"
+        },
+        {
+            "title": "Several hospitals in London face major disruptions after a June 3 ransomware attack on Synnovis, which provides lab services for the UK's NHS (Jenny Gross/New York Times)",
+            "link": "http://www.techmeme.com/240605/p32#a240605p32",
+            "published": "Wed, 05 Jun 2024 20:05:15 -0400"
+        },
+        {
             "title": "In a UK compliance statement, Apple revealed that the iPhone 15 Pro Max will receive security updates for a minimum of five years from September 2023 (Mishaal Rahman/Android Authority)",
             "link": "http://www.techmeme.com/240605/p31#a240605p31",
             "published": "Wed, 05 Jun 2024 19:20:07 -0400"
@@ -9,21 +24,6 @@
             "title": "Stability AI releases Stable Audio Open, a text-to-audio model that generates up to 47 seconds of samples and sound effects, prohibited for commercial use (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/240605/p30#a240605p30",
             "published": "Wed, 05 Jun 2024 18:55:04 -0400"
-        },
-        {
-            "title": "YouTube plans to restrict some content pertaining to the real use of guns from viewers under 18 starting on June 18, a year after a watchdog group report (Will Shanklin/Engadget)",
-            "link": "http://www.techmeme.com/240605/p29#a240605p29",
-            "published": "Wed, 05 Jun 2024 18:25:01 -0400"
-        },
-        {
-            "title": "Paxos International, a UAE-based affiliate of Paxos, launches Lift Dollar, or USDL, a stablecoin pegged to the US dollar that will pay a ~5% yield to holders (Ryan Weeks/Bloomberg)",
-            "link": "http://www.techmeme.com/240605/p28#a240605p28",
-            "published": "Wed, 05 Jun 2024 17:25:13 -0400"
-        },
-        {
-            "title": "Humane tells Ai Pin owners that they should \"immediately\" stop using the charging case, citing issues with a battery cell that \"may pose a fire safety risk\" (Wes Davis/The Verge)",
-            "link": "http://www.techmeme.com/240605/p27#a240605p27",
-            "published": "Wed, 05 Jun 2024 17:10:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Nvidia value surges past $3tn and overtakes Apple",
+            "link": "https://www.bbc.com/news/articles/c6ppqd3j621o",
+            "published": "Wed, 05 Jun 2024 21:01:10 GMT"
+        },
+        {
             "title": "Mother hits out at Meta over sextortion death data delay",
             "link": "https://www.bbc.com/news/articles/cekkr4lvl82o",
             "published": "Wed, 05 Jun 2024 23:15:45 GMT"
@@ -73,11 +78,6 @@
             "title": "Paris Hilton among users targeted in TikTok hack",
             "link": "https://www.bbc.com/news/articles/cl770d121gro",
             "published": "Wed, 05 Jun 2024 06:32:49 GMT"
-        },
-        {
-            "title": "Instagram tests forcing users to watch adverts",
-            "link": "https://www.bbc.com/news/articles/c877y6mxdp7o",
-            "published": "Tue, 04 Jun 2024 12:30:41 GMT"
         }
     ]
 }
