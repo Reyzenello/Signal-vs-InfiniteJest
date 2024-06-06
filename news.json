@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Mistral introduces AI model customization options, including an SDK for fine-tuning its models on workstations, servers, and small data center nodes (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240605/p38#a240605p38",
+            "published": "Wed, 05 Jun 2024 23:35:01 -0400"
+        },
+        {
             "title": "Sources detail how Apple fell behind in the AI race due to its AI team struggling to collaborate with other product teams, lacking computing resources, and more (Aaron Tilley/Wall Street Journal)",
             "link": "http://www.techmeme.com/240605/p37#a240605p37",
             "published": "Wed, 05 Jun 2024 23:15:15 -0400"
@@ -19,14 +24,14 @@
             "title": "Amazon's robotaxi unit Zoox plans to start testing its autonomous vehicles this summer in Austin and Miami, the company's fourth and fifth public testing cities (Rebecca Bellan/TechCrunch)",
             "link": "http://www.techmeme.com/240605/p34#a240605p34",
             "published": "Wed, 05 Jun 2024 21:10:13 -0400"
-        },
-        {
-            "title": "Carl Pei says smartphones will be the main AI form factor of the future, but the UX needs to be redefined, and Phone (3) will be Nothing's first true AI phone (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/240605/p33#a240605p33",
-            "published": "Wed, 05 Jun 2024 20:40:08 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI",
+            "link": "https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html",
+            "published": "Thu, 06 Jun 2024 03:48:02 +0000"
+        },
         {
             "title": "OpenAI Whistle-Blowers Describe Reckless and Secretive Culture",
             "link": "https://www.nytimes.com/2024/06/04/technology/openai-culture-whistleblowers.html",
@@ -43,14 +48,9 @@
             "published": "Sun, 02 Jun 2024 04:01:38 +0000"
         },
         {
-            "title": "Google\u2019s A.I. Search Leaves Publishers Scrambling",
-            "link": "https://www.nytimes.com/2024/06/01/technology/google-ai-search-publishers.html",
-            "published": "Sat, 01 Jun 2024 09:02:28 +0000"
-        },
-        {
-            "title": "How Electric Car Batteries Might Aid the Grid (and Win Over Drivers)",
-            "link": "https://www.nytimes.com/2024/06/05/business/energy-environment/electric-car-batteries-grid.html",
-            "published": "Wed, 05 Jun 2024 20:05:24 +0000"
+            "title": "The Rise and Fall of BNN Breaking, an AI-Generated News Outlet",
+            "link": "https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html",
+            "published": "Thu, 06 Jun 2024 04:00:25 +0000"
         }
     ],
     "source_2": [
