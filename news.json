@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Apple says iOS 18 will let users record and transcribe phone calls, and call participants will be automatically notified that they're being recorded (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/240610/p37#a240610p37",
+            "published": "Mon, 10 Jun 2024 19:20:02 -0400"
+        },
+        {
+            "title": "Fortinet announces it has reached an agreement to acquire cloud security company Lacework; Lacework had raised $1.8B and was valued at $8.3B in 2021 (Kyle Alspach/CRN)",
+            "link": "http://www.techmeme.com/240610/p36#a240610p36",
+            "published": "Mon, 10 Jun 2024 18:50:00 -0400"
+        },
+        {
             "title": "During an interview, Craig Federighi says Apple looks forward to \"doing integrations\" with other AI models, including Google Gemini, \"in the future\" (Chance Miller/9to5Mac)",
             "link": "http://www.techmeme.com/240610/p35#a240610p35",
             "published": "Mon, 10 Jun 2024 18:15:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Thoughts on Apple Intelligence's ability to outsource compute to Apple's servers with cryptographic guarantees of privacy, prompt injection risks, and more (Simon Willison/Simon Willison's Weblog)",
             "link": "http://www.techmeme.com/240610/p33#a240610p33",
             "published": "Mon, 10 Jun 2024 16:35:01 -0400"
-        },
-        {
-            "title": "Apple says Apple Intelligence is free and works with iOS 18 on iPhone 15 Pro, and macOS 15 and iPadOS 17 on devices with M1 or up; Vision Pro is not supported (Tim Hardwick/MacRumors)",
-            "link": "http://www.techmeme.com/240610/p32#a240610p32",
-            "published": "Mon, 10 Jun 2024 15:05:15 -0400"
-        },
-        {
-            "title": "Apple plans to bring ChatGPT to Siri and its other apps later in 2024; users will be asked before questions are sent to ChatGPT and don't need an OpenAI account (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240610/p31#a240610p31",
-            "published": "Mon, 10 Jun 2024 14:58:10 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "California Proposes 30 AI Regulation Laws Amid Federal Standstill",
             "link": "https://www.nytimes.com/2024/06/10/technology/california-ai-regulation.html",
-            "published": "Mon, 10 Jun 2024 18:53:52 +0000"
+            "published": "Mon, 10 Jun 2024 23:09:38 +0000"
         },
         {
             "title": "Is Your Driving Being Secretly Scored?",
