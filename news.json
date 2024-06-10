@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Nokia CEO Pekka Lundmark made a phone call using new \"immersive audio and video\" tech that uses 3D sound on a 5G smartphone, as part of the 5G Advanced standard (Supantha Mukherjee/Reuters)",
+            "link": "http://www.techmeme.com/240610/p6#a240610p6",
+            "published": "Mon, 10 Jun 2024 08:30:01 -0400"
+        },
+        {
             "title": "A look at the problems of building AI products, like inaccurate answers, and potential solutions, like focusing on narrow domains and abstracting the outputs (Benedict Evans)",
             "link": "http://www.techmeme.com/240610/p5#a240610p5",
             "published": "Mon, 10 Jun 2024 05:50:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Human Rights Watch finds the LAION-5B AI dataset scraped 170+ images and the personal info of Brazilian children without consent; LAION pledges to remove them (Vittoria Elliott/Wired)",
             "link": "http://www.techmeme.com/240610/p2#a240610p2",
             "published": "Mon, 10 Jun 2024 00:50:01 -0400"
-        },
-        {
-            "title": "Researchers find malicious Microsoft Visual Studio Code extensions with millions of installs, and also easily create their own, which trended in the marketplace (Bill Toulas/BleepingComputer)",
-            "link": "http://www.techmeme.com/240610/p1#a240610p1",
-            "published": "Mon, 10 Jun 2024 00:35:10 -0400"
         }
     ],
     "source_1": [
