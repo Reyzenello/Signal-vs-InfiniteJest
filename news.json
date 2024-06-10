@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Live stream of Apple's 2024 WWDC keynote (Apple on YouTube)",
-            "link": "http://www.techmeme.com/240610/p14#a240610p14",
-            "published": "Mon, 10 Jun 2024 12:58:44 -0400"
+            "title": "Apple says Messages will support RCS in iOS 18, replacing SMS as the default communication protocol between Android and iOS devices, but gives few details (Allison Johnson/The Verge)",
+            "link": "http://www.techmeme.com/240610/p27#a240610p27",
+            "published": "Mon, 10 Jun 2024 14:19:32 -0400"
         },
         {
-            "title": "A live blog of WWDC 2024, where Apple's AI plans, iOS 18, macOS 15, and more are expected (The Verge)",
-            "link": "http://www.techmeme.com/240610/p13#a240610p13",
-            "published": "Mon, 10 Jun 2024 12:53:15 -0400"
+            "title": "Apple unveils Apple Intelligence on macOS and iOS, with system-wide tools for writing and making \"totally original\" images, custom task orchestration, and more (Brian Heater/TechCrunch)",
+            "link": "http://www.techmeme.com/240610/p28#a240610p28",
+            "published": "Mon, 10 Jun 2024 14:19:32 -0400"
         },
         {
-            "title": "Mandiant, which is helping Snowflake investigate its recent cyber attacks, says the two companies have notified ~165 organizations of potential exposure (Zack Whittaker/TechCrunch)",
-            "link": "http://www.techmeme.com/240610/p12#a240610p12",
-            "published": "Mon, 10 Jun 2024 12:15:01 -0400"
+            "title": "Apple unveils Passwords, an app to let users save logins, create passwords, import passwords from third-party services, across platforms including Windows PCs (Kerry Wan/ZDNet)",
+            "link": "http://www.techmeme.com/240610/p26#a240610p26",
+            "published": "Mon, 10 Jun 2024 14:17:53 -0400"
         },
         {
-            "title": "Regulators in Canada and the UK launch a joint probe to assess what customer info was exposed in 23andMe's 2023 breach and if proper safeguards were in place (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/240610/p11#a240610p11",
-            "published": "Mon, 10 Jun 2024 11:30:00 -0400"
+            "title": "Apple unveils macOS Sequoia, with iPhone mirroring, audio streaming, and notifications even while the iPhone is locked, Safari AI-powered highlights, and more (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240610/p24#a240610p24",
+            "published": "Mon, 10 Jun 2024 14:05:15 -0400"
         },
         {
-            "title": "SCOTUS agrees to hear Facebook's bid to scuttle a private securities fraud lawsuit over allegedly misleading investors on Cambridge Analytica in 2017 and 2018 (John Kruzel/Reuters)",
-            "link": "http://www.techmeme.com/240610/p10#a240610p10",
-            "published": "Mon, 10 Jun 2024 10:30:00 -0400"
+            "title": "Apple unveils iPadOS 18, adding iOS 18-style Home Screen customization, tab bars and in-app animations updates, a Calculator app, and Pencil handwriting updates (Ryan Christoffel/9to5Mac)",
+            "link": "http://www.techmeme.com/240610/p25#a240610p25",
+            "published": "Mon, 10 Jun 2024 14:05:15 -0400"
         }
     ],
     "source_1": [
@@ -33,14 +33,14 @@
             "published": "Sun, 09 Jun 2024 09:04:03 +0000"
         },
         {
-            "title": "Is Your Driving Being Secretly Scored?",
-            "link": "https://www.nytimes.com/2024/06/09/technology/driver-scores-insurance-data-apps.html",
-            "published": "Sun, 09 Jun 2024 09:00:38 +0000"
+            "title": "California Proposes 30 AI Regulation Laws Amid Federal Standstill",
+            "link": "https://www.nytimes.com/2024/06/10/technology/california-ai-regulation.html",
+            "published": "Mon, 10 Jun 2024 18:16:33 +0000"
         },
         {
-            "title": "How the Humane AI Pin Flopped",
-            "link": "https://www.nytimes.com/2024/06/06/technology/humane-ai-pin.html",
-            "published": "Fri, 07 Jun 2024 18:39:20 +0000"
+            "title": "Is Your Driving Being Secretly Scored?",
+            "link": "https://www.nytimes.com/2024/06/09/technology/driver-scores-insurance-data-apps.html",
+            "published": "Mon, 10 Jun 2024 18:01:37 +0000"
         },
         {
             "title": "A Conversation With Prime Minister Justin Trudeau of Canada, and an OpenAI Whistle-Blower Speaks Out",
@@ -48,12 +48,17 @@
             "published": "Fri, 07 Jun 2024 09:35:12 +0000"
         },
         {
-            "title": "California Proposes 30 AI Regulation Laws Amid Federal Standstill",
-            "link": "https://www.nytimes.com/2024/06/10/technology/california-ai-regulation.html",
-            "published": "Mon, 10 Jun 2024 15:18:11 +0000"
+            "title": "Can I Opt Out of Meta\u2019s A.I. Scraping on Instagram and Facebook? Sort Of.",
+            "link": "https://www.nytimes.com/2024/06/07/technology/meta-ai-scraping-policy.html",
+            "published": "Mon, 10 Jun 2024 13:08:39 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Genetic testing firm 23andMe investigated over hack",
+            "link": "https://www.bbc.com/news/articles/c3gg17pq5y9o",
+            "published": "Mon, 10 Jun 2024 17:21:47 GMT"
+        },
         {
             "title": "O-type blood donors needed after London cyber-attack",
             "link": "https://www.bbc.com/news/articles/c2eeg9gygyno",
@@ -73,11 +78,6 @@
             "title": "Dead in 6 hours: How Nigerian sextortion scammers targeted my son",
             "link": "https://www.bbc.com/news/articles/c2llzppyx05o",
             "published": "Sun, 09 Jun 2024 00:18:54 GMT"
-        },
-        {
-            "title": "Microsoft 'recalls' screenshot feature after outcry",
-            "link": "https://www.bbc.com/news/articles/cd11rje1mrro",
-            "published": "Fri, 07 Jun 2024 18:39:22 GMT"
         }
     ]
 }
