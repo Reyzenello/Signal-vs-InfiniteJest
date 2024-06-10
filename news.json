@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "Thoughts on Apple Intelligence's ability to outsource compute to Apple's servers with cryptographic guarantees of privacy, prompt injection risks, and more (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/240610/p33#a240610p33",
+            "published": "Mon, 10 Jun 2024 16:35:01 -0400"
+        },
+        {
             "title": "Apple says Apple Intelligence is free and works with iOS 18 on iPhone 15 Pro, and macOS 15 and iPadOS 17 on devices with M1 or up; Vision Pro is not supported (Tim Hardwick/MacRumors)",
             "link": "http://www.techmeme.com/240610/p32#a240610p32",
             "published": "Mon, 10 Jun 2024 15:05:15 -0400"
         },
         {
-            "title": "Apple unveils its OpenAI deal, bringing ChatGPT's \"expertise\" to Siri and its other apps as an option, rolling out in 2024; users don't need an OpenAI account (Kyle Wiggers/TechCrunch)",
+            "title": "Apple plans to bring ChatGPT to Siri and its other apps later in 2024; users will be asked before questions are sent to ChatGPT and don't need an OpenAI account (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/240610/p31#a240610p31",
             "published": "Mon, 10 Jun 2024 14:58:10 -0400"
         },
@@ -19,18 +24,18 @@
             "title": "Apple updates Siri, powered by Apple Intelligence: more personal, on-screen awareness, a new API for third-party apps, and more, coming \"over the next year\" (Benjamin Mayo/9to5Mac)",
             "link": "http://www.techmeme.com/240610/p30#a240610p30",
             "published": "Mon, 10 Jun 2024 14:40:02 -0400"
-        },
-        {
-            "title": "Apple says Messages will support RCS in iOS 18, replacing SMS as the default communication protocol between Android and iOS devices, but gives few details (Allison Johnson/The Verge)",
-            "link": "http://www.techmeme.com/240610/p27#a240610p27",
-            "published": "Mon, 10 Jun 2024 14:19:32 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "How Apple and Google Are Overhauling Our Phones With AI",
+            "link": "https://www.nytimes.com/2024/06/10/technology/personaltech/apple-google-ai.html",
+            "published": "Mon, 10 Jun 2024 20:42:53 +0000"
+        },
+        {
             "title": "Apple Intelligence Revealed at WWDC 2024 as Company Jumps Into AI Race",
             "link": "https://www.nytimes.com/2024/06/10/technology/apple-intelligence-openai.html",
-            "published": "Mon, 10 Jun 2024 20:18:20 +0000"
+            "published": "Mon, 10 Jun 2024 21:06:17 +0000"
         },
         {
             "title": "California Proposes 30 AI Regulation Laws Amid Federal Standstill",
@@ -43,17 +48,17 @@
             "published": "Mon, 10 Jun 2024 18:01:37 +0000"
         },
         {
-            "title": "A Conversation With Prime Minister Justin Trudeau of Canada, and an OpenAI Whistle-Blower Speaks Out",
-            "link": "https://www.nytimes.com/2024/06/07/podcasts/hardfork-justin-trudeau-whistleblower.html",
-            "published": "Fri, 07 Jun 2024 09:35:12 +0000"
-        },
-        {
             "title": "Hey, Siri! Let\u2019s Talk About How Apple Is Giving You an A.I. Makeover.",
             "link": "https://www.nytimes.com/2024/06/09/technology/siri-apple-ai-chatgpt.html",
             "published": "Sun, 09 Jun 2024 09:04:03 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple boosts Siri with ChatGPT in AI overhaul",
+            "link": "https://www.bbc.com/news/articles/c4nn5mejl89o",
+            "published": "Mon, 10 Jun 2024 20:45:55 GMT"
+        },
         {
             "title": "Genetic testing firm 23andMe investigated over hack",
             "link": "https://www.bbc.com/news/articles/c3gg17pq5y9o",
@@ -73,11 +78,6 @@
             "title": "Scammers use fake X accounts to impersonate airlines",
             "link": "https://www.bbc.com/news/articles/cp3371r7l1vo",
             "published": "Mon, 10 Jun 2024 00:50:28 GMT"
-        },
-        {
-            "title": "Dead in 6 hours: How Nigerian sextortion scammers targeted my son",
-            "link": "https://www.bbc.com/news/articles/c2llzppyx05o",
-            "published": "Sun, 09 Jun 2024 00:18:54 GMT"
         }
     ]
 }
