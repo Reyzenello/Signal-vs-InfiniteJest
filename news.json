@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "SCOTUS declines to question the FCC's $8B annual subsidy to help cover telecom costs for poor people and residents of rural area, turning away two appeals (Greg Stohr/Bloomberg)",
+            "link": "http://www.techmeme.com/240610/p9#a240610p9",
+            "published": "Mon, 10 Jun 2024 10:15:01 -0400"
+        },
+        {
+            "title": "New Jersey-based IT provider Cognizant agrees to acquire digital engineering company Belcan, which employs 10K across 60 locations, for $1.3B in cash and stock (Milana Vinn/Reuters)",
+            "link": "http://www.techmeme.com/240610/p8#a240610p8",
+            "published": "Mon, 10 Jun 2024 09:45:02 -0400"
+        },
+        {
             "title": "Sources: Shein recorded $32.2B in sales in 2023, up 40% YoY, compared with 37% YoY growth in 2022, and doubled its net profit to $1.6B, for a 5% profit margin (Jing Yang/The Information)",
             "link": "http://www.techmeme.com/240610/p7#a240610p7",
             "published": "Mon, 10 Jun 2024 09:20:18 -0400"
@@ -14,33 +24,23 @@
             "title": "A look at the problems of building AI products, like inaccurate answers, and potential solutions, like focusing on narrow domains and abstracting the outputs (Benedict Evans)",
             "link": "http://www.techmeme.com/240610/p5#a240610p5",
             "published": "Mon, 10 Jun 2024 05:50:01 -0400"
-        },
-        {
-            "title": "Q&A with Index Ventures' Dan Rimer on generative AI favoring the incumbents, concentration of returns, M&A in a challenging regulatory environment, and more (John Thornhill/Financial Times)",
-            "link": "http://www.techmeme.com/240610/p4#a240610p4",
-            "published": "Mon, 10 Jun 2024 02:30:04 -0400"
-        },
-        {
-            "title": "Dealroom analysis of European startups: as of May 2024, the UK had 785 startups with at least $25M of annual revenue, France had 309, and Germany had 255 (Parmy Olson/Bloomberg)",
-            "link": "http://www.techmeme.com/240610/p3#a240610p3",
-            "published": "Mon, 10 Jun 2024 02:10:02 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Hey, Siri! Let\u2019s Talk About How Apple Is Giving You an A.I. Makeover.",
+            "link": "https://www.nytimes.com/2024/06/09/technology/siri-apple-ai-chatgpt.html",
+            "published": "Sun, 09 Jun 2024 09:04:03 +0000"
+        },
+        {
+            "title": "Is Your Driving Being Secretly Scored?",
+            "link": "https://www.nytimes.com/2024/06/09/technology/driver-scores-insurance-data-apps.html",
+            "published": "Sun, 09 Jun 2024 09:00:38 +0000"
+        },
+        {
             "title": "How the Humane AI Pin Flopped",
             "link": "https://www.nytimes.com/2024/06/06/technology/humane-ai-pin.html",
             "published": "Fri, 07 Jun 2024 18:39:20 +0000"
-        },
-        {
-            "title": "U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI",
-            "link": "https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html",
-            "published": "Thu, 06 Jun 2024 22:41:33 +0000"
-        },
-        {
-            "title": "OpenAI Whistle-Blowers Describe Reckless and Secretive Culture",
-            "link": "https://www.nytimes.com/2024/06/04/technology/openai-culture-whistleblowers.html",
-            "published": "Wed, 05 Jun 2024 16:36:10 +0000"
         },
         {
             "title": "A Conversation With Prime Minister Justin Trudeau of Canada, and an OpenAI Whistle-Blower Speaks Out",
@@ -48,9 +48,9 @@
             "published": "Fri, 07 Jun 2024 09:35:12 +0000"
         },
         {
-            "title": "Hey, Siri! Let\u2019s Talk About How Apple Is Giving You an A.I. Makeover.",
-            "link": "https://www.nytimes.com/2024/06/09/technology/siri-apple-ai-chatgpt.html",
-            "published": "Sun, 09 Jun 2024 09:04:03 +0000"
+            "title": "Can I Opt Out of Meta\u2019s A.I. Scraping on Instagram and Facebook? Sort Of.",
+            "link": "https://www.nytimes.com/2024/06/07/technology/meta-ai-scraping-policy.html",
+            "published": "Mon, 10 Jun 2024 13:08:39 +0000"
         }
     ],
     "source_2": [
