@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "During an interview, Craig Federighi says Apple looks forward to \"doing integrations\" with other AI models, including Google Gemini, \"in the future\" (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/240610/p35#a240610p35",
+            "published": "Mon, 10 Jun 2024 18:15:01 -0400"
+        },
+        {
+            "title": "Apple introduces Messages via satellite on iOS 18, letting users send texts without a Wi-Fi or cellular connection, available on the iPhone 14 or later (Juli Clover/MacRumors)",
+            "link": "http://www.techmeme.com/240610/p34#a240610p34",
+            "published": "Mon, 10 Jun 2024 18:05:00 -0400"
+        },
+        {
             "title": "Thoughts on Apple Intelligence's ability to outsource compute to Apple's servers with cryptographic guarantees of privacy, prompt injection risks, and more (Simon Willison/Simon Willison's Weblog)",
             "link": "http://www.techmeme.com/240610/p33#a240610p33",
             "published": "Mon, 10 Jun 2024 16:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Apple plans to bring ChatGPT to Siri and its other apps later in 2024; users will be asked before questions are sent to ChatGPT and don't need an OpenAI account (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/240610/p31#a240610p31",
             "published": "Mon, 10 Jun 2024 14:58:10 -0400"
-        },
-        {
-            "title": "Apple announces Genmoji, an Apple Intelligence-powered iOS 18 feature to let users create their own custom emoji using text prompts in the Messages app (Joe Rossignol/MacRumors)",
-            "link": "http://www.techmeme.com/240610/p29#a240610p29",
-            "published": "Mon, 10 Jun 2024 14:40:02 -0400"
-        },
-        {
-            "title": "Apple updates Siri, powered by Apple Intelligence: more personal, on-screen awareness, a new API for third-party apps, and more, coming \"over the next year\" (Benjamin Mayo/9to5Mac)",
-            "link": "http://www.techmeme.com/240610/p30#a240610p30",
-            "published": "Mon, 10 Jun 2024 14:40:02 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "Apple boosts Siri with ChatGPT in AI overhaul",
+            "title": "Apple brings ChatGPT to iPhones in AI overhaul",
             "link": "https://www.bbc.com/news/articles/c4nn5mejl89o",
-            "published": "Mon, 10 Jun 2024 20:45:55 GMT"
+            "published": "Mon, 10 Jun 2024 21:35:20 GMT"
         },
         {
             "title": "Genetic testing firm 23andMe investigated over hack",
