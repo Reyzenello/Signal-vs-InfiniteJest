@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Raleigh, NC-based Relay, which makes walkie-talkies that can provide real-time location data, do live translation, and more, raised a $35M Series B led by G2 (Zachery Eanes/Axios)",
+            "link": "http://www.techmeme.com/240611/p36#a240611p36",
+            "published": "Tue, 11 Jun 2024 21:10:02 -0400"
+        },
+        {
+            "title": "Sources: Samsung is combining its AI-focused research centers in Toronto and Mountain View to improve operations; ex-Apple exec Murat Akbacak will run the group (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/240611/p35#a240611p35",
+            "published": "Tue, 11 Jun 2024 19:20:01 -0400"
+        },
+        {
             "title": "Apple shares closed up 7.3% at $207.15 in their biggest one-day jump since November 2022, giving the company a $3.18T market cap, just under Microsoft's $3.22T (Ryan Vlastelica/Bloomberg)",
             "link": "http://www.techmeme.com/240611/p34#a240611p34",
             "published": "Tue, 11 Jun 2024 17:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Elon Musk withdraws his lawsuit against OpenAI, Sam Altman, and Greg Brockman, filed in California court in February, for breach of contract and fiduciary duty (Hayden Field/CNBC)",
             "link": "http://www.techmeme.com/240611/p32#a240611p32",
             "published": "Tue, 11 Jun 2024 17:08:17 -0400"
-        },
-        {
-            "title": "Oracle reports Q4 revenue up 3% YoY to $14.29B, vs. $14.55B est., net income down 5% to $3.14B, announces deals with Google and OpenAI; ORCL up 7%+ after hours (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/240611/p31#a240611p31",
-            "published": "Tue, 11 Jun 2024 16:45:01 -0400"
-        },
-        {
-            "title": "Brazil's government hires OpenAI to expedite the screening and analysis of thousands of lawsuits using AI, providing insights to the solicitor general's office (Reuters)",
-            "link": "http://www.techmeme.com/240611/p30#a240611p30",
-            "published": "Tue, 11 Jun 2024 16:40:14 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Elon Musk Withdraws His Lawsuit Against OpenAI and Sam Altman",
             "link": "https://www.nytimes.com/2024/06/11/technology/elon-musk-openai-lawsuit.html",
-            "published": "Tue, 11 Jun 2024 22:21:35 +0000"
+            "published": "Tue, 11 Jun 2024 23:32:47 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "College students on life without a smartphone",
+            "link": "https://www.bbc.com/news/videos/cp66ylez04ro",
+            "published": "Tue, 11 Jun 2024 23:37:54 GMT"
+        },
         {
             "title": "Apple brings ChatGPT to iPhones in AI overhaul",
             "link": "https://www.bbc.com/news/articles/c4nn5mejl89o",
@@ -73,11 +78,6 @@
             "title": "The AI or real quiz: Euro 2024 edition",
             "link": "https://www.bbc.co.uk/bitesize/articles/z7bmvj6",
             "published": "Fri, 07 Jun 2024 11:22:18 GMT"
-        },
-        {
-            "title": "What we learned from gaming's big weekend",
-            "link": "https://www.bbc.com/news/articles/c8881kndngko",
-            "published": "Mon, 10 Jun 2024 10:56:45 GMT"
         }
     ]
 }
