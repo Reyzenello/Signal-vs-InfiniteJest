@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Dublin-based AccountsIQ, which offers AI-powered bookkeeping, raised &euro;60M, after raising just &euro;12.7M in its nearly 20 year history, and reports 1,000 clients (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/240613/p11#a240613p11",
+            "published": "Thu, 13 Jun 2024 06:05:03 -0400"
+        },
+        {
+            "title": "Ant Group spent a record ~$2.9B on research in 2023, as the Alibaba affiliate develops its BaiLing LLM; Ant and affiliate MYbank served 87M businesses by 2023 (Xinyi Luo/Bloomberg)",
+            "link": "http://www.techmeme.com/240613/p10#a240613p10",
+            "published": "Thu, 13 Jun 2024 05:45:02 -0400"
+        },
+        {
             "title": "Sources detail Amazon's struggles to build a new generative AI-powered Alexa, including privacy concerns keeping Alexa's teams from using Anthropic's Claude (Sharon Goldman/Fortune)",
             "link": "http://www.techmeme.com/240613/p9#a240613p9",
             "published": "Thu, 13 Jun 2024 04:30:01 -0400"
@@ -14,16 +24,6 @@
             "title": "A look at the Microsoft Excel World Championship, an annual tournament hosted by Financial Modeling World Cup where competitors solve Excel puzzles for prizes (David Pierce/The Verge)",
             "link": "http://www.techmeme.com/240613/p7#a240613p7",
             "published": "Thu, 13 Jun 2024 02:30:19 -0400"
-        },
-        {
-            "title": "Japanese trade data: 50%+ of chipmaking equipment exports went to China for three straight quarters through Q1 2024, driven by demand for less advanced gear (Hirofumi Kanaoka/Nikkei Asia)",
-            "link": "http://www.techmeme.com/240613/p6#a240613p6",
-            "published": "Thu, 13 Jun 2024 02:20:01 -0400"
-        },
-        {
-            "title": "OpenAI expands its global affairs team from three at the start of 2023 to 35 now, stationed strategically in locations where AI legislation is advanced (Financial Times)",
-            "link": "http://www.techmeme.com/240613/p5#a240613p5",
-            "published": "Thu, 13 Jun 2024 02:05:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Nasa astronaut distress message broadcast in error",
+            "link": "https://www.bbc.com/news/articles/c2jj9855955o",
+            "published": "Thu, 13 Jun 2024 10:16:35 GMT"
+        },
+        {
             "title": "Musk says Tesla investors backing pay deal",
             "link": "https://www.bbc.com/news/articles/cleezyxjv4jo",
             "published": "Thu, 13 Jun 2024 05:53:08 GMT"
@@ -73,11 +78,6 @@
             "title": "Elon Musk unexpectedly drops case against OpenAI",
             "link": "https://www.bbc.com/news/articles/cw008xgn49po",
             "published": "Wed, 12 Jun 2024 04:05:56 GMT"
-        },
-        {
-            "title": "College students on life without a smartphone",
-            "link": "https://www.bbc.com/news/videos/cp66ylez04ro",
-            "published": "Tue, 11 Jun 2024 23:37:54 GMT"
         }
     ]
 }
