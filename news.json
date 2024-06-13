@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "US authorities arrest and charge the founder and the head doctor of telehealth company Done Global for an alleged scheme to profit from Adderall prescriptions (Rolfe Winkler/Wall Street Journal)",
+            "link": "http://www.techmeme.com/240613/p27#a240613p27",
+            "published": "Thu, 13 Jun 2024 16:00:44 -0400"
+        },
+        {
+            "title": "Apple's WWDC demos, with the integration of generative AI across its products, show the value of seeing AI as a feature rather than a standalone app or device (Will Knight/Wired)",
+            "link": "http://www.techmeme.com/240613/p26#a240613p26",
+            "published": "Thu, 13 Jun 2024 15:20:02 -0400"
+        },
+        {
             "title": "Google releases patches for 50 security vulnerabilities impacting its Pixel devices, including a zero-day that has been exploited in targeted attacks (Sergiu Gatlan/BleepingComputer)",
             "link": "http://www.techmeme.com/240613/p25#a240613p25",
             "published": "Thu, 13 Jun 2024 14:35:14 -0400"
@@ -14,16 +24,6 @@
             "title": "The Pentagon renews a contract with SpaceX to provide Starlink internet services in Ukraine until November 30 at a cost of $14.1M (Anthony Capaccio/Bloomberg)",
             "link": "http://www.techmeme.com/240613/p23#a240613p23",
             "published": "Thu, 13 Jun 2024 13:20:00 -0400"
-        },
-        {
-            "title": "WhatsApp increases the limit for video call participants to 32 people, enhances screen sharing by adding audio support, and introduces a speaker spotlight tool (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/240613/p22#a240613p22",
-            "published": "Thu, 13 Jun 2024 12:10:03 -0400"
-        },
-        {
-            "title": "Donald Trump met ~12 bitcoin mining executives, and posted that he wants \"all the remaining Bitcoin to be made in the USA\" to help the US be \"energy dominant\" (MacKenzie Sigalos/CNBC)",
-            "link": "http://www.techmeme.com/240613/p21#a240613p21",
-            "published": "Thu, 13 Jun 2024 11:30:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 10 Jun 2024 18:01:37 +0000"
         },
         {
-            "title": "An A.I.-Powered App Helps Readers Make Sense of Classic Texts",
-            "link": "https://www.nytimes.com/2024/06/13/style/now-you-can-read-the-classics-with-ai-powered-expert-guides.html",
-            "published": "Thu, 13 Jun 2024 18:58:07 +0000"
+            "title": "Lawmakers Question Brad Smith About Microsoft\u2019s China Business",
+            "link": "https://www.nytimes.com/2024/06/13/technology/microsoft-house-hearing-security.html",
+            "published": "Thu, 13 Jun 2024 20:03:15 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Bank fires employees over fake keyboard activity",
+            "link": "https://www.bbc.com/news/articles/cjll01220yeo",
+            "published": "Thu, 13 Jun 2024 20:11:43 GMT"
+        },
         {
             "title": "Nasa astronaut distress message broadcast in error",
             "link": "https://www.bbc.com/news/articles/c2jj9855955o",
@@ -73,11 +78,6 @@
             "title": "Gaming giant Steam accused of ripping off 14m UK gamers",
             "link": "https://www.bbc.com/news/articles/cpwwyj6v24xo",
             "published": "Wed, 12 Jun 2024 11:03:28 GMT"
-        },
-        {
-            "title": "Elon Musk unexpectedly drops case against OpenAI",
-            "link": "https://www.bbc.com/news/articles/cw008xgn49po",
-            "published": "Wed, 12 Jun 2024 04:05:56 GMT"
         }
     ]
 }
