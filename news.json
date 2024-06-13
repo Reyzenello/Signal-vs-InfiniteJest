@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Databricks tells investors its annualized revenue is expected to reach $2.4B through July 2024, or the first half of its FY 2025, up 60% from a year earlier (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/240612/p36#a240612p36",
+            "published": "Wed, 12 Jun 2024 22:25:01 -0400"
+        },
+        {
+            "title": "A look at Satya Nadella's AI efforts; source: some future Microsoft AI products may be switched from OpenAI tech to the model being developed by Suleyman's team (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240612/p35#a240612p35",
+            "published": "Wed, 12 Jun 2024 22:15:13 -0400"
+        },
+        {
             "title": "Sources: Apple isn't paying OpenAI as part of their partnership and aims to eventually make money from AI by striking revenue-sharing deals with chatbot owners (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/240612/p34#a240612p34",
             "published": "Wed, 12 Jun 2024 20:20:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Google says ChromeOS will soon be developed on portions of the Android stack, including its Linux kernel and frameworks, to bring AI features to users faster (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/240612/p32#a240612p32",
             "published": "Wed, 12 Jun 2024 18:30:02 -0400"
-        },
-        {
-            "title": "AI search engine Perplexity says it was working on revenue-sharing deals with publishers when Forbes criticized it for misusing content from Forbes and others (Reed Albergotti/Semafor)",
-            "link": "http://www.techmeme.com/240612/p31#a240612p31",
-            "published": "Wed, 12 Jun 2024 17:30:01 -0400"
-        },
-        {
-            "title": "Sources: OpenAI's annualized revenue has hit $3.4B, up from $1.6B in late 2023 and $1B last summer; $3.2B comes from subscriptions to its chatbots and API fees (The Information)",
-            "link": "http://www.techmeme.com/240612/p30#a240612p30",
-            "published": "Wed, 12 Jun 2024 17:25:18 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Dan's the man: Why Chinese women are looking to ChatGPT for love",
+            "link": "https://www.bbc.com/articles/c4nnje9rpjgo",
+            "published": "Thu, 13 Jun 2024 00:53:31 GMT"
+        },
+        {
             "title": "Gaming giant Steam accused of ripping off 14m UK gamers",
             "link": "https://www.bbc.com/news/articles/cpwwyj6v24xo",
             "published": "Wed, 12 Jun 2024 11:03:28 GMT"
@@ -73,11 +78,6 @@
             "title": "GameStop raises over $2bn after Roaring Kitty rally",
             "link": "https://www.bbc.com/news/articles/cl442gzlmego",
             "published": "Wed, 12 Jun 2024 03:16:11 GMT"
-        },
-        {
-            "title": "Apple brings ChatGPT to iPhones in AI overhaul",
-            "link": "https://www.bbc.com/news/articles/c4nn5mejl89o",
-            "published": "Tue, 11 Jun 2024 09:31:48 GMT"
         }
     ]
 }
