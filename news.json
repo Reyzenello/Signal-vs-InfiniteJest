@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Lightspeed wants to become a registered investment adviser, letting it use more than 20% of its funds, the cap for VC firms, to trade secondary markets (Tabby Kinder/Financial Times)",
+            "link": "http://www.techmeme.com/240614/p3#a240614p3",
+            "published": "Fri, 14 Jun 2024 07:45:02 -0400"
+        },
+        {
             "title": "Boulder, Colorado-based Enveda, which combines AI with ancient remedies for drug discovery, raised a $55M Series B extension from investors including Microsoft (Marina Temkin/TechCrunch)",
             "link": "http://www.techmeme.com/240614/p2#a240614p2",
             "published": "Fri, 14 Jun 2024 06:15:09 -0400"
@@ -11,7 +16,7 @@
             "published": "Fri, 14 Jun 2024 02:25:00 -0400"
         },
         {
-            "title": "Apple says it doesn't use users' private data or user interactions to train its models, and uses both licensed materials and publicly available online data (Umar Shakir/The Verge)",
+            "title": "Apple says it doesn't train its models on users' private data or user interactions, and instead relies on licensed materials and publicly available online data (Umar Shakir/The Verge)",
             "link": "http://www.techmeme.com/240613/p40#a240613p40",
             "published": "Thu, 13 Jun 2024 23:40:02 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "A look at Apple's technical approach to AI, including core model performance, alignment strategies, and adapter and on-device strategy (Nathan Lambert/Interconnects)",
             "link": "http://www.techmeme.com/240613/p39#a240613p39",
             "published": "Thu, 13 Jun 2024 23:30:02 -0400"
-        },
-        {
-            "title": "Luma debuts Dream Machine, an AI model to generate high-quality videos from text and images, and plans to release APIs and plugins for popular creative software (Michael Nu&ntilde;ez/VentureBeat)",
-            "link": "http://www.techmeme.com/240613/p38#a240613p38",
-            "published": "Thu, 13 Jun 2024 22:15:20 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
-            "title": "Mouse jigglers pretending to work fired by bank",
+            "title": "Is Elon Musk worth his \u00a344bn Tesla pay package?",
+            "link": "https://www.bbc.com/news/articles/c9rre6nwnpwo",
+            "published": "Fri, 14 Jun 2024 11:49:32 GMT"
+        },
+        {
+            "title": "'Mouse jigglers' pretending to work fired by bank",
             "link": "https://www.bbc.com/news/articles/cjll01220yeo",
-            "published": "Fri, 14 Jun 2024 08:31:59 GMT"
+            "published": "Fri, 14 Jun 2024 12:12:34 GMT"
         },
         {
             "title": "Nasa astronaut distress message broadcast in error",
@@ -73,11 +78,6 @@
             "title": "Dan's the man: Why Chinese women are looking to ChatGPT for love",
             "link": "https://www.bbc.com/articles/c4nnje9rpjgo",
             "published": "Thu, 13 Jun 2024 00:53:31 GMT"
-        },
-        {
-            "title": "Gaming giant Steam accused of ripping off 14m UK gamers",
-            "link": "https://www.bbc.com/news/articles/cpwwyj6v24xo",
-            "published": "Wed, 12 Jun 2024 11:03:28 GMT"
         }
     ]
 }
