@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A deep dive into the Snapdragon X Elite/Plus architecture including Oryon, Qualcomm's custom-built Arm CPU cores, as first laptops with the SoC ship next week (Ryan Smith/AnandTech)",
+            "link": "http://www.techmeme.com/240614/p1#a240614p1",
+            "published": "Fri, 14 Jun 2024 02:25:00 -0400"
+        },
+        {
             "title": "Apple says it doesn't use users' private data or user interactions to train its models, and uses both licensed materials and publicly available online data (Umar Shakir/The Verge)",
             "link": "http://www.techmeme.com/240613/p40#a240613p40",
             "published": "Thu, 13 Jun 2024 23:40:02 -0400"
@@ -19,11 +24,6 @@
             "title": "US hospital operator Ascension says a May ransomware attack was caused by an employee downloading a malicious file, and has no proof data was taken from its EHR (Sergiu Gatlan/BleepingComputer)",
             "link": "http://www.techmeme.com/240613/p37#a240613p37",
             "published": "Thu, 13 Jun 2024 21:55:00 -0400"
-        },
-        {
-            "title": "A UK judge lays out how Greek payments company Viva Wallet should be valued, ending a legal battle between its CEO and part-owner JPMorgan (Owen Walker/Financial Times)",
-            "link": "http://www.techmeme.com/240613/p36#a240613p36",
-            "published": "Thu, 13 Jun 2024 21:20:01 -0400"
         }
     ],
     "source_1": [
