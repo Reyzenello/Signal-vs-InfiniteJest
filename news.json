@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "DeepMind is developing AI tech to take raw pixels of videos and generate synced soundtracks; it's not too convincing, and there are no plans to release publicly (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240617/p24#a240617p24",
+            "published": "Mon, 17 Jun 2024 15:10:15 -0400"
+        },
+        {
+            "title": "Apple says it will no longer offer Apple Pay Later, the BNPL service launched in the US in 2023, and will focus on installment loan features coming this year (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/240617/p23#a240617p23",
+            "published": "Mon, 17 Jun 2024 14:28:15 -0400"
+        },
+        {
             "title": "Finaloop, which offers accounting tools to e-commerce businesses, raised a $35M Series A led by Lightspeed and says its customer base grew 400% in the last year (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/240617/p22#a240617p22",
             "published": "Mon, 17 Jun 2024 14:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Logitech unveils the MX Ink, a $130 stylus coming in September for the Meta Quest 2, Quest 3, and \"future headsets\", the Quest's first third-party input device (Scott Stein/CNET)",
             "link": "http://www.techmeme.com/240617/p20#a240617p20",
             "published": "Mon, 17 Jun 2024 12:40:01 -0400"
-        },
-        {
-            "title": "The US DOJ sues Adobe for allegedly harming \"consumers by enrolling them in its default, most lucrative subscription plan without clearly disclosing\" plan terms (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/240617/p19#a240617p19",
-            "published": "Mon, 17 Jun 2024 12:05:02 -0400"
-        },
-        {
-            "title": "Naver-owned online comics platform Webtoon aims to raise up to $315M in a US IPO, offering shares for $18 to $21 each and targeting an up to $2.67B valuation (Arasu Kannagi Basil/Reuters)",
-            "link": "http://www.techmeme.com/240617/p18#a240617p18",
-            "published": "Mon, 17 Jun 2024 10:45:00 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "How Crypto Money Is Poised to Influence the Election",
             "link": "https://www.nytimes.com/2024/06/17/technology/-crypto-influence-election.html",
             "published": "Mon, 17 Jun 2024 16:10:22 +0000"
+        },
+        {
+            "title": "U.S. Sues Adobe Over Hard-to-Cancel Subscriptions",
+            "link": "https://www.nytimes.com/2024/06/17/technology/us-adobe-subscription-lawsuit.html",
+            "published": "Mon, 17 Jun 2024 18:45:44 +0000"
         },
         {
             "title": "How A.I. Is Revolutionizing Drug Development",
@@ -45,12 +50,7 @@
         {
             "title": "Lynn Conway, Computing Pioneer and Transgender Advocate, Dies at 86",
             "link": "https://www.nytimes.com/2024/06/15/technology/lynn-conway-dead.html",
-            "published": "Mon, 17 Jun 2024 15:41:12 +0000"
-        },
-        {
-            "title": "Elon Musk Got 72% in Tesla Shareholder Vote on Pay",
-            "link": "https://www.nytimes.com/2024/06/14/business/tesla-elon-musk-pay-vote-stock.html",
-            "published": "Fri, 14 Jun 2024 20:31:37 +0000"
+            "published": "Mon, 17 Jun 2024 19:05:05 +0000"
         }
     ],
     "source_2": [
