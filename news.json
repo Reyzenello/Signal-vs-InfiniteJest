@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The US DOJ sues Adobe for allegedly harming \"consumers by enrolling them in its default, most lucrative subscription plan without clearly disclosing\" plan terms (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/240617/p19#a240617p19",
+            "published": "Mon, 17 Jun 2024 12:05:02 -0400"
+        },
+        {
             "title": "Naver-owned online comics platform Webtoon aims to raise up to $315M in a US IPO, offering shares for $18 to $21 each and targeting an up to $2.67B valuation (Arasu Kannagi Basil/Reuters)",
             "link": "http://www.techmeme.com/240617/p18#a240617p18",
             "published": "Mon, 17 Jun 2024 10:45:00 -0400"
@@ -11,7 +16,7 @@
             "published": "Mon, 17 Jun 2024 10:30:00 -0400"
         },
         {
-            "title": "TikTok expands its Symphony ad suite, adding AI dubbing and custom or stock Digital Avatars based on paid actors or created to resemble specific creators (Jess Weatherbed/The Verge)",
+            "title": "TikTok expands its Symphony generative AI ad suite with dubbing, stock Digital Avatars based on paid actors, and custom Avatars resembling specific creators (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/240617/p16#a240617p16",
             "published": "Mon, 17 Jun 2024 09:25:03 -0400"
         },
@@ -19,14 +24,14 @@
             "title": "YouTube is testing Notes, an experimental crowdsourced tool to let users add context to videos, similar to X's Community Notes, on mobile in the US in English (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/240617/p15#a240617p15",
             "published": "Mon, 17 Jun 2024 09:10:01 -0400"
-        },
-        {
-            "title": "Interviews with about two dozen sources detail Google's move to form the Google DeepMind \"super-unit\" in April 2023, shifting the lab from research to products (Bloomberg)",
-            "link": "http://www.techmeme.com/240617/p14#a240617p14",
-            "published": "Mon, 17 Jun 2024 08:25:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Crypto Money Is Poised to Influence the Election",
+            "link": "https://www.nytimes.com/2024/06/17/technology/-crypto-influence-election.html",
+            "published": "Mon, 17 Jun 2024 16:10:22 +0000"
+        },
         {
             "title": "How A.I. Is Revolutionizing Drug Development",
             "link": "https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html",
@@ -40,17 +45,12 @@
         {
             "title": "Lynn Conway, Computing Pioneer and Transgender Advocate, Dies at 86",
             "link": "https://www.nytimes.com/2024/06/15/technology/lynn-conway-dead.html",
-            "published": "Mon, 17 Jun 2024 11:31:25 +0000"
+            "published": "Mon, 17 Jun 2024 15:41:11 +0000"
         },
         {
             "title": "Elon Musk Got 72% in Tesla Shareholder Vote on Pay",
             "link": "https://www.nytimes.com/2024/06/14/business/tesla-elon-musk-pay-vote-stock.html",
             "published": "Fri, 14 Jun 2024 20:31:37 +0000"
-        },
-        {
-            "title": "Apple Joins the A.I. Party, Elon\u2019s Wild Week and HatGPT",
-            "link": "https://www.nytimes.com/2024/06/14/podcasts/hardfork-apple-intelligence-elon-musk.html",
-            "published": "Fri, 14 Jun 2024 09:06:06 +0000"
         }
     ],
     "source_2": [
