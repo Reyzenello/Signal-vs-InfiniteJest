@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "TikTok expands its Symphony ad suite, adding AI dubbing and custom or stock Digital Avatars based on paid actors or created to resemble specific creators (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/240617/p16#a240617p16",
+            "published": "Mon, 17 Jun 2024 09:25:03 -0400"
+        },
+        {
             "title": "YouTube is testing Notes, an experimental crowdsourced tool to let users add context to videos, similar to X's Community Notes, on mobile in the US in English (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/240617/p15#a240617p15",
             "published": "Mon, 17 Jun 2024 09:10:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Swiss privacy-focused app developer Proton establishes the Proton Foundation to transition to a nonprofit foundation model, similar to Signal and Mozilla (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/240617/p12#a240617p12",
             "published": "Mon, 17 Jun 2024 07:50:01 -0400"
-        },
-        {
-            "title": "The US Surgeon General says platforms should add a \"warning label\" saying that \"social media is associated with significant mental health harms for adolescents\" (Vivek H. Murthy/New York Times)",
-            "link": "http://www.techmeme.com/240617/p11#a240617p11",
-            "published": "Mon, 17 Jun 2024 07:35:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US surgeon general wants social media warning labels",
+            "link": "https://www.bbc.com/news/articles/c98821dn27lo",
+            "published": "Mon, 17 Jun 2024 14:22:18 GMT"
+        },
+        {
             "title": "'Hackers leaked intimate photos after my laptop was stolen'",
             "link": "https://www.bbc.com/news/articles/cmmm75407j9o",
             "published": "Sun, 16 Jun 2024 23:12:58 GMT"
@@ -73,11 +78,6 @@
             "title": "'Mouse jigglers' pretending to work fired by bank",
             "link": "https://www.bbc.com/news/articles/cjll01220yeo",
             "published": "Fri, 14 Jun 2024 12:12:34 GMT"
-        },
-        {
-            "title": "Nasa astronaut distress message broadcast in error",
-            "link": "https://www.bbc.com/news/articles/c2jj9855955o",
-            "published": "Thu, 13 Jun 2024 10:16:35 GMT"
         }
     ]
 }
