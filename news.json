@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Q&A with Tubi CEO Anjali Sud, who joined from Vimeo in September 2023, on the streaming industry, working within Fox, subscription fatigue, copyright, and more (Nilay Patel/The Verge)",
+            "link": "http://www.techmeme.com/240617/p33#a240617p33",
+            "published": "Mon, 17 Jun 2024 21:00:39 -0400"
+        },
+        {
+            "title": "Constructor, which provides an AI-powered product discovery and search service for e-commerce companies, raised a $25M Series B at a $550M valuation (Abhinaya Prabhu/Tech Funding News)",
+            "link": "http://www.techmeme.com/240617/p32#a240617p32",
+            "published": "Mon, 17 Jun 2024 20:20:00 -0400"
+        },
+        {
+            "title": "Adobe unveils Firefly-powered image generation in Acrobat, and support for analysis of multiple documents, including non-PDF files, in Acrobat AI Assistant (Calvin Wankhede/Android Authority)",
+            "link": "http://www.techmeme.com/240617/p31#a240617p31",
+            "published": "Mon, 17 Jun 2024 19:30:01 -0400"
+        },
+        {
             "title": "Inside Snapchat's teen opioid crisis: law-enforcement sources and parents allege that the company has helped fuel an overdose epidemic across the US (Paul Solotaroff/Rolling Stone)",
             "link": "http://www.techmeme.com/240617/p30#a240617p30",
             "published": "Mon, 17 Jun 2024 18:55:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Real-time data analytics startup Tinybird raised a $30M Series B, at a \"significantly higher\" valuation than its $37M Series A; source: it's now valued at $240M (Romain Dillet/TechCrunch)",
             "link": "http://www.techmeme.com/240617/p29#a240617p29",
             "published": "Mon, 17 Jun 2024 17:35:03 -0400"
-        },
-        {
-            "title": "Coinbase debuts \"pre-launch markets\" on its global and advanced exchanges outside the US, UK, and Canada, for positions on tokens before they hit spot exchanges (Lawrence Lewitinn/The Block)",
-            "link": "http://www.techmeme.com/240617/p28#a240617p28",
-            "published": "Mon, 17 Jun 2024 17:10:01 -0400"
-        },
-        {
-            "title": "Microsoft says the latest version of Windows 11, version 24H2 now in the Release Preview Channel, is \"only available for Copilot+ PCs devices\" (Mark Hachman/PCWorld)",
-            "link": "http://www.techmeme.com/240617/p27#a240617p27",
-            "published": "Mon, 17 Jun 2024 16:05:04 -0400"
-        },
-        {
-            "title": "Tether, the top stablecoin provider, says it made a new synthetic dollar that is backed by gold and will trade as aUSDT via smart contracts on Ethereum Mainnet (Mar&iacute;a Paula Mijares Torres/Bloomberg)",
-            "link": "http://www.techmeme.com/240617/p26#a240617p26",
-            "published": "Mon, 17 Jun 2024 15:55:01 -0400"
         }
     ],
     "source_1": [
@@ -33,7 +33,7 @@
             "published": "Mon, 17 Jun 2024 23:11:50 +0000"
         },
         {
-            "title": "U.S. Sues Adobe Over Hard-to-Cancel Subscriptions",
+            "title": "FTC Sues Adobe Over Hard-to-Cancel Subscriptions and Fees",
             "link": "https://www.nytimes.com/2024/06/17/technology/us-adobe-subscription-lawsuit.html",
             "published": "Mon, 17 Jun 2024 18:45:44 +0000"
         },
@@ -50,10 +50,15 @@
         {
             "title": "Lynn Conway, Computing Pioneer and Transgender Advocate, Dies at 86",
             "link": "https://www.nytimes.com/2024/06/15/technology/lynn-conway-dead.html",
-            "published": "Mon, 17 Jun 2024 19:05:05 +0000"
+            "published": "Mon, 17 Jun 2024 23:32:27 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Software giant Adobe accused of 'trapping customers'",
+            "link": "https://www.bbc.com/news/articles/c98825z8330o",
+            "published": "Mon, 17 Jun 2024 18:39:18 GMT"
+        },
         {
             "title": "US surgeon general wants social media warning labels",
             "link": "https://www.bbc.com/news/articles/c98821dn27lo",
@@ -73,11 +78,6 @@
             "title": "Is Elon Musk worth his $56bn Tesla pay package?",
             "link": "https://www.bbc.com/news/articles/c9rre6nwnpwo",
             "published": "Fri, 14 Jun 2024 11:49:32 GMT"
-        },
-        {
-            "title": "'Mouse jigglers' pretending to work fired by bank",
-            "link": "https://www.bbc.com/news/articles/cjll01220yeo",
-            "published": "Fri, 14 Jun 2024 12:12:34 GMT"
         }
     ]
 }
