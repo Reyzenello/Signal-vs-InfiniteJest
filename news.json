@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple is set to settle a long-running EU antitrust investigation over payments, after the EU accepted measures that Apple committed to in January 2024 (Javier Espinoza/Financial Times)",
+            "link": "http://www.techmeme.com/240618/p14#a240618p14",
+            "published": "Tue, 18 Jun 2024 07:05:02 -0400"
+        },
+        {
+            "title": "Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing (Noam Scheiber/New York Times)",
+            "link": "http://www.techmeme.com/240618/p13#a240618p13",
+            "published": "Tue, 18 Jun 2024 06:55:01 -0400"
+        },
+        {
+            "title": "Margrethe Vestager says Apple has a number of \"very serious\" issues under the EU's DMA, and the conclusions of an investigation will arrive \"hopefully soon\" (Arjun Kharpal/CNBC)",
+            "link": "http://www.techmeme.com/240618/p12#a240618p12",
+            "published": "Tue, 18 Jun 2024 06:40:01 -0400"
+        },
+        {
             "title": "Some Google users, frustrated by the results, turn to Reddit as a search alternative; a weeklong test finds Reddit is best for product recommendations and more (Ann-Marie Alc&aacute;ntara/Wall Street Journal)",
             "link": "http://www.techmeme.com/240618/p11#a240618p11",
             "published": "Tue, 18 Jun 2024 06:20:13 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Huawei is considering taking a cut of in-app purchases on its Harmony OS, and has discussed a ~20% fee with developers, below Apple and Google's 30% (Pei Li/Bloomberg)",
             "link": "http://www.techmeme.com/240618/p10#a240618p10",
             "published": "Tue, 18 Jun 2024 05:55:01 -0400"
-        },
-        {
-            "title": "A look at Apple's upcoming CarPlay updates, which aim to be \"a design toolkit for automakers\", including feature \"layers\", \"remote UI\", and \"punch-through UI\" (Nilay Patel/The Verge)",
-            "link": "http://www.techmeme.com/240618/p9#a240618p9",
-            "published": "Tue, 18 Jun 2024 05:35:01 -0400"
-        },
-        {
-            "title": "Meta launches its much-awaited Threads API, letting developer publish posts, fetch content, manage replies, and view analytics, after an API beta in March 2024 (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/240618/p8#a240618p8",
-            "published": "Tue, 18 Jun 2024 05:00:13 -0400"
-        },
-        {
-            "title": "Social media creators say earning a decent, reliable income is getting harder, as platforms pay less for popular posts and brands get pickier about partnerships (Wall Street Journal)",
-            "link": "http://www.techmeme.com/240618/p7#a240618p7",
-            "published": "Tue, 18 Jun 2024 04:00:42 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "McDonald's removes AI drive-throughs after order errors",
+            "link": "https://www.bbc.com/news/articles/c722gne7qngo",
+            "published": "Tue, 18 Jun 2024 11:13:47 GMT"
+        },
+        {
             "title": "Building a $2bn online game by breaking the rules",
             "link": "https://www.bbc.com/news/articles/c511z0n9gr5o",
             "published": "Tue, 18 Jun 2024 03:16:53 GMT"
@@ -73,11 +78,6 @@
             "title": "US surgeon general wants social media warning labels",
             "link": "https://www.bbc.com/news/articles/c98821dn27lo",
             "published": "Mon, 17 Jun 2024 14:44:52 GMT"
-        },
-        {
-            "title": "'Hackers leaked intimate photos after my laptop was stolen'",
-            "link": "https://www.bbc.com/news/articles/cmmm75407j9o",
-            "published": "Sun, 16 Jun 2024 23:12:58 GMT"
         }
     ]
 }
