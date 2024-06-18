@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "An ex-Snap engineer debuts Butterflies, a social network where users can create AI personas that then interact with users and other AIs via posts and DMs (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/240618/p29#a240618p29",
+            "published": "Tue, 18 Jun 2024 16:00:41 -0400"
+        },
+        {
+            "title": "Forbes demands Perplexity not infringe on Forbes IP and drop Forbes-sourced articles; Perplexity-made content remains without attribution, including on YouTube (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/240618/p28#a240618p28",
+            "published": "Tue, 18 Jun 2024 15:20:00 -0400"
+        },
+        {
             "title": "Developers say Apple is denying or delaying notarization of iOS apps, including emulators, for alternative app stores in EU, possibly in violation of DMA rules (Jason Snell/Six Colors)",
             "link": "http://www.techmeme.com/240618/p27#a240618p27",
             "published": "Tue, 18 Jun 2024 14:30:00 -0400"
         },
         {
-            "title": "HPE and Nvidia unveil private cloud offerings for generative AI workloads coming this fall, including HPE Private Cloud AI, a co-developed \"turnkey\" option (Larry Dignan/Constellation Research)",
+            "title": "HPE and Nvidia unveil private cloud offerings for generative AI workloads, coming this fall, including HPE Private Cloud AI, a co-developed \"turnkey\" option (Larry Dignan/Constellation Research)",
             "link": "http://www.techmeme.com/240618/p26#a240618p26",
             "published": "Tue, 18 Jun 2024 14:15:04 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Nvidia passes Microsoft during intraday trading to become the most valuable public company, with a ~$3.33T market cap; NVDA is up over 9x since January 2023 (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/240618/p25#a240618p25",
             "published": "Tue, 18 Jun 2024 13:18:23 -0400"
-        },
-        {
-            "title": "Filings: X is still working on a Venmo-like payments feature, with a 2024 US launch target; X had $1.48B in revenue in first six months of 2023, down ~40% YoY (Bloomberg)",
-            "link": "http://www.techmeme.com/240618/p24#a240618p24",
-            "published": "Tue, 18 Jun 2024 13:05:01 -0400"
-        },
-        {
-            "title": "AI search engine startup Genspark launches, offering a Sparkpage overview for queries, and raised a $60M seed led by Lanchi at a $260M post-money valuation (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240618/p23#a240618p23",
-            "published": "Tue, 18 Jun 2024 12:25:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Mon, 17 Jun 2024 09:03:14 +0000"
         },
         {
-            "title": "On Titan Submersible Anniversary, World Rethinks Deep Sea Exploration",
-            "link": "https://www.nytimes.com/2024/06/18/science/titan-submersible-anniversary.html",
-            "published": "Tue, 18 Jun 2024 14:15:22 +0000"
+            "title": "Nvidia Becomes Most Valuable Public Company, Topping Microsoft and Apple",
+            "link": "https://www.nytimes.com/2024/06/18/technology/nvidia-most-valuable-company.html",
+            "published": "Tue, 18 Jun 2024 20:14:29 +0000"
         }
     ],
     "source_2": [
