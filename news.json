@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "FOI documents: eight UK train stations scanned passenger faces for two years as part of AI trials; Amazon software was used to predict age, gender, and emotions (Matt Burgess/Wired)",
+            "link": "http://www.techmeme.com/240618/p38#a240618p38",
+            "published": "Tue, 18 Jun 2024 22:35:03 -0400"
+        },
+        {
+            "title": "Consensys says the US SEC is \"closing its investigation into Ethereum 2.0\" and \"will not bring charges alleging that sales of ETH are securities transactions\" (Ryan Ozawa/Decrypt)",
+            "link": "http://www.techmeme.com/240618/p37#a240618p37",
+            "published": "Tue, 18 Jun 2024 21:35:05 -0400"
+        },
+        {
             "title": "The California Labor Commissioner's Office fines Amazon $5.9M for violating a 2022 state law by failing to properly inform workers of quotas at two warehouses (Caroline O'Donovan/Washington Post)",
             "link": "http://www.techmeme.com/240618/p36#a240618p36",
             "published": "Tue, 18 Jun 2024 21:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Qilin, a cohort of Russian-speaking hackers, claims responsibility for the ransomware attack impacting London hospitals for weeks and demands $50M to end it (Ryan Gallagher/Bloomberg)",
             "link": "http://www.techmeme.com/240618/p34#a240618p34",
             "published": "Tue, 18 Jun 2024 17:45:01 -0400"
-        },
-        {
-            "title": "Qualcomm agrees to pay $75M to settle a lawsuit from shareholders accusing it of defrauding them by hiding alleged anticompetitive sales and licensing practices (Jonathan Stempel/Reuters)",
-            "link": "http://www.techmeme.com/240618/p33#a240618p33",
-            "published": "Tue, 18 Jun 2024 17:15:20 -0400"
-        },
-        {
-            "title": "AMD says it is looking into claims that company information was stolen in a hack, after a user on BreachForums said they breached AMD's systems (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/240618/p32#a240618p32",
-            "published": "Tue, 18 Jun 2024 17:00:43 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok faces new claim of violating child privacy",
+            "link": "https://www.bbc.com/news/articles/crgg7z9d8rxo",
+            "published": "Wed, 19 Jun 2024 01:57:15 GMT"
+        },
+        {
             "title": "Bacon ice cream and nugget overload sees misfiring McDonald's AI withdrawn",
             "link": "https://www.bbc.com/news/articles/c722gne7qngo",
             "published": "Tue, 18 Jun 2024 13:06:55 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple scraps its Pay Later loan scheme",
             "link": "https://www.bbc.com/news/articles/c255y82y9x8o",
             "published": "Tue, 18 Jun 2024 03:40:25 GMT"
-        },
-        {
-            "title": "US surgeon general wants social media warning labels",
-            "link": "https://www.bbc.com/news/articles/c98821dn27lo",
-            "published": "Mon, 17 Jun 2024 14:44:52 GMT"
         }
     ]
 }
