@@ -48,15 +48,15 @@
         "description": "HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and semantic web projects, it can also be used as an embedded object-oriented database for projects of all sizes."
     },
     {
-        "name": "ai-flow",
-        "full_name": "flink-extended/ai-flow",
-        "html_url": "https://github.com/flink-extended/ai-flow",
-        "description": "AI Flow is an open source framework that bridges big data and artificial intelligence. "
-    },
-    {
         "name": "taranis-ai",
         "full_name": "taranis-ai/taranis-ai",
         "html_url": "https://github.com/taranis-ai/taranis-ai",
         "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis."
+    },
+    {
+        "name": "ai-flow",
+        "full_name": "flink-extended/ai-flow",
+        "html_url": "https://github.com/flink-extended/ai-flow",
+        "description": "AI Flow is an open source framework that bridges big data and artificial intelligence. "
     }
 ]
