@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Nvidia agrees to buy Shoreline, which helps automate fixing software problems, in a deal that values Shoreline at ~$100M; Shoreline has raised ~$57M (Bloomberg)",
+            "link": "http://www.techmeme.com/240619/p17#a240619p17",
+            "published": "Wed, 19 Jun 2024 07:40:01 -0400"
+        },
+        {
+            "title": "Pornhub parent Aylo tells local news outlets in Kentucky and Indiana that local IP addresses are set to be geo-blocked in mid-July due to age verification laws (Michael McGrady Jr/AVN Industry News)",
+            "link": "http://www.techmeme.com/240619/p16#a240619p16",
+            "published": "Wed, 19 Jun 2024 07:25:19 -0400"
+        },
+        {
             "title": "The UK CMA opens a merger inquiry into HPE's $14B acquisition of Juniper Networks, setting an August 14 deadline to decide on opening a full investigation (Katharine Gemmell/Bloomberg)",
             "link": "http://www.techmeme.com/240619/p15#a240619p15",
             "published": "Wed, 19 Jun 2024 07:05:04 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources detail how Jensen Huang and Nvidia are guarding against slowing chip sales, including offering more cloud services and designing custom server racks (The Information)",
             "link": "http://www.techmeme.com/240619/p13#a240619p13",
             "published": "Wed, 19 Jun 2024 06:30:04 -0400"
-        },
-        {
-            "title": "A look at Rebind, a mysterious startup that turns Margaret Atwood and other authors' voices into AI reading companions, and an interview with CEO John Dubuque (Laura Kipnis/Wired)",
-            "link": "http://www.techmeme.com/240619/p12#a240619p12",
-            "published": "Wed, 19 Jun 2024 06:10:01 -0400"
-        },
-        {
-            "title": "Framework partners with DeepComputing to build a RISC-V mainboard for its Laptop 13, set to become one of the first RISC-V laptops; price and release are TBC (Sean Hollister/The Verge)",
-            "link": "http://www.techmeme.com/240619/p11#a240619p11",
-            "published": "Wed, 19 Jun 2024 05:45:03 -0400"
         }
     ],
     "source_1": [
@@ -55,14 +55,19 @@
     ],
     "source_2": [
         {
-            "title": "TikTok faces fresh US pressure over child privacy",
-            "link": "https://www.bbc.com/news/articles/crgg7z9d8rxo",
-            "published": "Wed, 19 Jun 2024 04:05:42 GMT"
+            "title": "Don't blame us for people suffering - London hospital hackers",
+            "link": "https://www.bbc.com/news/articles/ceddqglk7qgo",
+            "published": "Wed, 19 Jun 2024 11:23:21 GMT"
         },
         {
             "title": "AI frenzy makes Nvidia the world's most valuable company",
             "link": "https://www.bbc.com/news/articles/cyrr40x0z2mo",
             "published": "Wed, 19 Jun 2024 09:47:38 GMT"
+        },
+        {
+            "title": "TikTok faces fresh US pressure over child privacy",
+            "link": "https://www.bbc.com/news/articles/crgg7z9d8rxo",
+            "published": "Wed, 19 Jun 2024 04:05:42 GMT"
         },
         {
             "title": "Bacon ice cream and nugget overload sees misfiring McDonald's AI withdrawn",
@@ -73,11 +78,6 @@
             "title": "Building a $2bn online game by breaking the rules",
             "link": "https://www.bbc.com/news/articles/c511z0n9gr5o",
             "published": "Tue, 18 Jun 2024 03:16:53 GMT"
-        },
-        {
-            "title": "Software giant Adobe accused of 'trapping customers'",
-            "link": "https://www.bbc.com/news/articles/c98825z8330o",
-            "published": "Mon, 17 Jun 2024 18:39:18 GMT"
         }
     ]
 }
