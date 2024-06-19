@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Google and OpenAI have stepped up staff vetting over Chinese espionage threat; Sequoia has encouraged some portfolio companies to tighten staff vetting (Financial Times)",
+            "link": "http://www.techmeme.com/240619/p2#a240619p2",
+            "published": "Wed, 19 Jun 2024 00:30:14 -0400"
+        },
+        {
             "title": "A look at Mozilla's acquisition of Anonym, which offers \"privacy-preserving\" ad tools, and how Anonym might interact with a user base that tends to block ads (Thomas Claburn/The Register)",
             "link": "http://www.techmeme.com/240619/p1#a240619p1",
             "published": "Wed, 19 Jun 2024 00:05:01 -0400"
@@ -19,11 +24,6 @@
             "title": "The California Labor Commissioner's Office fines Amazon $5.9M for violating a 2022 state law by failing to properly inform workers of quotas at two warehouses (Caroline O'Donovan/Washington Post)",
             "link": "http://www.techmeme.com/240618/p36#a240618p36",
             "published": "Tue, 18 Jun 2024 21:10:01 -0400"
-        },
-        {
-            "title": "Internal memo: Meta merges its Reality Labs teams into the \"Metaverse\" product group that now includes Quest, and the AR product group, now called \"Wearables\" (Alex Heath/The Verge)",
-            "link": "http://www.techmeme.com/240618/p35#a240618p35",
-            "published": "Tue, 18 Jun 2024 19:45:04 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
-            "title": "TikTok faces new US claim of violating child privacy",
+            "title": "TikTok faces new claim of violating child privacy",
             "link": "https://www.bbc.com/news/articles/crgg7z9d8rxo",
             "published": "Wed, 19 Jun 2024 04:05:42 GMT"
+        },
+        {
+            "title": "Nvidia becomes world's most valuable company",
+            "link": "https://www.bbc.com/news/articles/cyrr40x0z2mo",
+            "published": "Tue, 18 Jun 2024 20:22:12 GMT"
         },
         {
             "title": "Bacon ice cream and nugget overload sees misfiring McDonald's AI withdrawn",
@@ -73,11 +78,6 @@
             "title": "Software giant Adobe accused of 'trapping customers'",
             "link": "https://www.bbc.com/news/articles/c98825z8330o",
             "published": "Mon, 17 Jun 2024 18:39:18 GMT"
-        },
-        {
-            "title": "Apple scraps its Pay Later loan scheme",
-            "link": "https://www.bbc.com/news/articles/c255y82y9x8o",
-            "published": "Tue, 18 Jun 2024 03:40:25 GMT"
         }
     ]
 }
