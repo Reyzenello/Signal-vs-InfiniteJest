@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "iOS 18 brings a new API called AccessorySetupKit, letting third-party accessory makers build the same quick pairing experience as Apple accessories like AirPods (Filipe Esp&oacute;sito/9to5Mac)",
+            "link": "http://www.techmeme.com/240620/p33#a240620p33",
+            "published": "Thu, 20 Jun 2024 21:10:02 -0400"
+        },
+        {
+            "title": "Source: AI chipmaker Cerebras confidentially filed for a US IPO; filing: in early June, it authorized new shares at a steep discount to its 2021 funding round (The Information)",
+            "link": "http://www.techmeme.com/240620/p32#a240620p32",
+            "published": "Thu, 20 Jun 2024 20:00:39 -0400"
+        },
+        {
+            "title": "Sources: US DOJ won't pursue FTC's claim that TikTok misled US consumers on data security in a forthcoming suit accusing TikTok of children's privacy violations (Bloomberg)",
+            "link": "http://www.techmeme.com/240620/p31#a240620p31",
+            "published": "Thu, 20 Jun 2024 19:25:00 -0400"
+        },
+        {
             "title": "SpaceX unveils Starlink Mini, a compact version of its satellite internet antenna \"that can easily fit in a backpack\", offering a \"limited number\" for $599 each (Michael Sheetz/CNBC)",
             "link": "http://www.techmeme.com/240620/p30#a240620p30",
             "published": "Thu, 20 Jun 2024 18:20:01 -0400"
@@ -9,21 +24,6 @@
             "title": "The restrictions on Kaspersky will stop new sales of its antivirus software in the US from July 20 and bar software updates to US customers after September 29 (Alexandra Alper/Reuters)",
             "link": "http://www.techmeme.com/240620/p29#a240620p29",
             "published": "Thu, 20 Jun 2024 16:45:01 -0400"
-        },
-        {
-            "title": "The Commerce Department bans Kaspersky antivirus sales in the US, says Kaspersky threatens national security and users' privacy because it is based in Russia (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-            "link": "http://www.techmeme.com/240620/p28#a240620p28",
-            "published": "Thu, 20 Jun 2024 16:35:04 -0400"
-        },
-        {
-            "title": "London-based PQShield, which is developing tools for implementing post-quantum cryptography, raised a $37M Series B, taking its total funding to $57M+ (Maria Deutscher/SiliconANGLE)",
-            "link": "http://www.techmeme.com/240620/p27#a240620p27",
-            "published": "Thu, 20 Jun 2024 16:10:01 -0400"
-        },
-        {
-            "title": "NY's governor signs two bills to protect minors, banning \"addictive feeds\", limiting data collection, barring social media notifications from 12am to 6am, more (Lauren Feiner/The Verge)",
-            "link": "http://www.techmeme.com/240620/p26#a240620p26",
-            "published": "Thu, 20 Jun 2024 15:45:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Microsoft back as most valuable firm as Nvidia slips",
+            "link": "https://www.bbc.com/news/articles/c8884389l35o",
+            "published": "Fri, 21 Jun 2024 00:06:36 GMT"
+        },
+        {
             "title": "Booking.com warns of up to 900% increase in travel scams",
             "link": "https://www.bbc.com/news/articles/c8003dd8jzeo",
             "published": "Thu, 20 Jun 2024 10:20:50 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok faces fresh US pressure over child privacy",
             "link": "https://www.bbc.com/news/articles/crgg7z9d8rxo",
             "published": "Wed, 19 Jun 2024 04:05:42 GMT"
-        },
-        {
-            "title": "Bacon ice cream and nugget overload sees misfiring McDonald's AI withdrawn",
-            "link": "https://www.bbc.com/news/articles/c722gne7qngo",
-            "published": "Tue, 18 Jun 2024 13:06:55 GMT"
         }
     ]
 }
