@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Estonia blocks an EU VAT reform that would have imposed new liabilities on short-term rental services like Airbnb and passenger transport services like Bolt (Bloomberg)",
+            "link": "http://www.techmeme.com/240621/p6#a240621p6",
+            "published": "Fri, 21 Jun 2024 07:40:02 -0400"
+        },
+        {
             "title": "Huawei says around 900M gadgets are now running on its HarmonyOS and sales of premium Huawei smartphones climbed 72% in the first five months of 2024 (Bloomberg)",
             "link": "http://www.techmeme.com/240621/p5#a240621p5",
             "published": "Fri, 21 Jun 2024 06:15:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Indian rapid grocery delivery startup Zepto raised a $665M Series F co-led by Glade Brook, Nexus, and StepStone at a $3.6B valuation, up from $1.4B in 2023 (Manish Singh/TechCrunch)",
             "link": "http://www.techmeme.com/240621/p2#a240621p2",
             "published": "Fri, 21 Jun 2024 01:40:01 -0400"
-        },
-        {
-            "title": "Australia waters down draft rules to force tech companies to detect child abuse and terror content on E2EE messaging services, after pushback from Apple, others (Josh Taylor/The Guardian)",
-            "link": "http://www.techmeme.com/240621/p1#a240621p1",
-            "published": "Fri, 21 Jun 2024 00:15:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok confirms it offered US government a 'kill switch'",
+            "link": "https://www.bbc.com/news/articles/cxwwz7l02j0o",
+            "published": "Fri, 21 Jun 2024 11:43:01 GMT"
+        },
+        {
             "title": "London hospitals hackers publish stolen blood test data",
             "link": "https://www.bbc.com/news/articles/c9ww90j9dj8o",
             "published": "Fri, 21 Jun 2024 07:15:16 GMT"
@@ -73,11 +78,6 @@
             "title": "Booking.com warns of up to 900% increase in travel scams",
             "link": "https://www.bbc.com/news/articles/c8003dd8jzeo",
             "published": "Thu, 20 Jun 2024 10:20:50 GMT"
-        },
-        {
-            "title": "Don't blame us for people suffering - London hospital hackers",
-            "link": "https://www.bbc.com/news/articles/ceddqglk7qgo",
-            "published": "Wed, 19 Jun 2024 11:23:21 GMT"
         }
     ]
 }
