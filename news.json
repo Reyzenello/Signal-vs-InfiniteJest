@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Australia's eSafety Commissioner waters down child abuse and terror content detection rules on E2E encrypted services, after a push back from tech companies (Josh Taylor/The Guardian)",
+            "link": "http://www.techmeme.com/240621/p1#a240621p1",
+            "published": "Fri, 21 Jun 2024 00:15:03 -0400"
+        },
+        {
             "title": "In a filing, ByteDance urged a US court to strike down a law that could ban TikTok in the US, recounting lengthy talks that it says the US ended in August 2022 (David Shepardson/Reuters)",
             "link": "http://www.techmeme.com/240620/p34#a240620p34",
             "published": "Thu, 20 Jun 2024 22:05:04 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources: US DOJ won't pursue FTC's claim that TikTok misled US consumers on data security in a forthcoming suit accusing TikTok of children's privacy violations (Bloomberg)",
             "link": "http://www.techmeme.com/240620/p31#a240620p31",
             "published": "Thu, 20 Jun 2024 19:25:00 -0400"
-        },
-        {
-            "title": "SpaceX unveils Starlink Mini, a compact version of its satellite internet antenna \"that can easily fit in a backpack\", offering a \"limited number\" for $599 each (Michael Sheetz/CNBC)",
-            "link": "http://www.techmeme.com/240620/p30#a240620p30",
-            "published": "Thu, 20 Jun 2024 18:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "London hospitals hackers publish stolen blood test data",
+            "link": "https://www.bbc.com/news/articles/c9ww90j9dj8o",
+            "published": "Fri, 21 Jun 2024 03:35:56 GMT"
+        },
+        {
             "title": "Microsoft back as most valuable firm as Nvidia slips",
             "link": "https://www.bbc.com/news/articles/c8884389l35o",
             "published": "Fri, 21 Jun 2024 00:06:36 GMT"
@@ -73,11 +78,6 @@
             "title": "Don't blame us for people suffering - London hospital hackers",
             "link": "https://www.bbc.com/news/articles/ceddqglk7qgo",
             "published": "Wed, 19 Jun 2024 11:23:21 GMT"
-        },
-        {
-            "title": "TikTok faces fresh US pressure over child privacy",
-            "link": "https://www.bbc.com/news/articles/crgg7z9d8rxo",
-            "published": "Wed, 19 Jun 2024 04:05:42 GMT"
         }
     ]
 }
