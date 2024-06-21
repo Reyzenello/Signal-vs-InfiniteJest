@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI buys Rockset, an enterprise search and analytics startup that raised $105M, integrating both the tech and staff of an acquisition for the first time (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/240621/p12#a240621p12",
+            "published": "Fri, 21 Jun 2024 11:15:00 -0400"
+        },
+        {
+            "title": "Some users say Meta is tagging real photos with the Made with AI label, possibly because AI-powered tools were used to edit, rather than create, the images (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/240621/p11#a240621p11",
+            "published": "Fri, 21 Jun 2024 11:10:02 -0400"
+        },
+        {
+            "title": "Spotify introduces a new Basic streaming plan in the US, which costs $10.99/month and includes all the benefits of Premium besides audiobook listening time (Spotify)",
+            "link": "http://www.techmeme.com/240621/p10#a240621p10",
+            "published": "Fri, 21 Jun 2024 10:45:01 -0400"
+        },
+        {
             "title": "Squarespace agrees to sell its restaurant reservation service Tock to American Express for $400M, the exact amount that it paid for Tock in 2021 (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/240621/p9#a240621p9",
             "published": "Fri, 21 Jun 2024 10:20:02 -0400"
@@ -9,21 +24,6 @@
             "title": "AI-powered language-learning app Speak raised a $20M Series B extension led by Buckley, bringing its total funding to $84M and doubling its valuation to $500M (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/240621/p8#a240621p8",
             "published": "Fri, 21 Jun 2024 10:00:41 -0400"
-        },
-        {
-            "title": "TikTok confirms it offered the US a \"kill switch\" in 2022 to shut down the app in the US at the government's discretion if TikTok did not follow certain rules (Imran Rahman-Jones/BBC)",
-            "link": "http://www.techmeme.com/240621/p7#a240621p7",
-            "published": "Fri, 21 Jun 2024 09:20:02 -0400"
-        },
-        {
-            "title": "Estonia blocks an EU VAT reform that would have imposed new liabilities on short-term rental services like Airbnb and passenger transport services like Bolt (Bloomberg)",
-            "link": "http://www.techmeme.com/240621/p6#a240621p6",
-            "published": "Fri, 21 Jun 2024 07:40:02 -0400"
-        },
-        {
-            "title": "Huawei says around 900M gadgets are now running on its HarmonyOS and sales of premium Huawei smartphones climbed 72% in the first five months of 2024 (Bloomberg)",
-            "link": "http://www.techmeme.com/240621/p5#a240621p5",
-            "published": "Fri, 21 Jun 2024 06:15:02 -0400"
         }
     ],
     "source_1": [
@@ -60,9 +60,9 @@
             "published": "Fri, 21 Jun 2024 11:43:01 GMT"
         },
         {
-            "title": "London hospitals hackers publish stolen blood test data",
+            "title": "Stolen test data and NHS numbers published by hospital hackers",
             "link": "https://www.bbc.com/news/articles/c9ww90j9dj8o",
-            "published": "Fri, 21 Jun 2024 07:15:16 GMT"
+            "published": "Fri, 21 Jun 2024 14:32:07 GMT"
         },
         {
             "title": "Microsoft back as most valuable firm as Nvidia slips",
