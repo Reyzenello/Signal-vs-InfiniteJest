@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "The Surface Laptop 7 and Surface Pro 11 receive a repairability score of 8 out of 10, far better than the first Surface Laptop, which got a 0 (Shahram Mokhtari/iFixit News)",
+            "link": "http://www.techmeme.com/240624/p15#a240624p15",
+            "published": "Mon, 24 Jun 2024 12:00:40 -0400"
+        },
+        {
+            "title": "The RIAA sues AI music services Suno and Udio over alleged mass copyright infringement and claims they have tried to hide the scope of their infringement (Mia Sato/The Verge)",
+            "link": "http://www.techmeme.com/240624/p14#a240624p14",
+            "published": "Mon, 24 Jun 2024 11:28:04 -0400"
+        },
+        {
             "title": "Diplomats and others fear a rift between SoftBank and Naver over the ownership of messaging app Line could put stress on ties between Japan and South Korea (River Akira Davis/New York Times)",
             "link": "http://www.techmeme.com/240624/p13#a240624p13",
             "published": "Mon, 24 Jun 2024 10:40:01 -0400"
         },
         {
-            "title": "A look at the rise of financial sextortion of minors; US NCMEC received an average of 812 sextortion reports per week between August 2022 and August 2023 (Issie Lapowsky/Fast Company)",
+            "title": "A look at the rise of financial sextortion of minors; the US' NCMEC received an average of 812 sextortion reports per week between August 2022 and August 2023 (Issie Lapowsky/Fast Company)",
             "link": "http://www.techmeme.com/240624/p12#a240624p12",
             "published": "Mon, 24 Jun 2024 10:20:02 -0400"
         },
@@ -14,23 +24,13 @@
             "title": "Sources describe Apple's efforts to fully automate iPhone assembly lines, helping reduce its reliance on China, including by acquiring startups like DarwinAI (Wayne Ma/The Information)",
             "link": "http://www.techmeme.com/240624/p11#a240624p11",
             "published": "Mon, 24 Jun 2024 09:40:01 -0400"
-        },
-        {
-            "title": "Shopify unveils AI-focused updates for merchants, including suggested replies and product categorization, and launches its AI chatbot Sidekick in early access (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/240624/p10#a240624p10",
-            "published": "Mon, 24 Jun 2024 09:15:22 -0400"
-        },
-        {
-            "title": "Turkish grocery delivery startup Getir agrees to a restructuring that will see Mubadala lead a $250M injection and acquire control of Getir's grocery operations (Ivan Levingston/Financial Times)",
-            "link": "http://www.techmeme.com/240624/p9#a240624p9",
-            "published": "Mon, 24 Jun 2024 08:40:14 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Apple\u2019s App Store Policies Charged Under New E.U. Competition Law",
             "link": "https://www.nytimes.com/2024/06/24/technology/apple-european-union-competition-law.html",
-            "published": "Mon, 24 Jun 2024 11:16:03 +0000"
+            "published": "Mon, 24 Jun 2024 15:26:54 +0000"
         },
         {
             "title": "What the Arrival of A.I. Phones and Computers Means for Our Data",
@@ -60,6 +60,11 @@
             "published": "Mon, 24 Jun 2024 11:38:19 GMT"
         },
         {
+            "title": "Exploding batteries spark deadly S Korea factory fire",
+            "link": "https://www.bbc.com/news/articles/crgggmeyjj7o",
+            "published": "Mon, 24 Jun 2024 11:16:23 GMT"
+        },
+        {
             "title": "TikTok confirms it offered US government a 'kill switch'",
             "link": "https://www.bbc.com/news/articles/cxwwz7l02j0o",
             "published": "Fri, 21 Jun 2024 11:43:01 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft back as most valuable firm as Nvidia slips",
             "link": "https://www.bbc.com/news/articles/c8884389l35o",
             "published": "Fri, 21 Jun 2024 00:06:36 GMT"
-        },
-        {
-            "title": "US bans Kaspersky software for alleged Russian links",
-            "link": "https://www.bbc.com/news/articles/ceqq7663wd2o",
-            "published": "Thu, 20 Jun 2024 23:17:45 GMT"
         }
     ]
 }
