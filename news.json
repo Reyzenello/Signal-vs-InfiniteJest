@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Bright Machines, which automates manufacturing with AI and robotics, raised a $126M Series C from Nvidia, Microsoft, and others, including $20M in debt (Max A. Cherney/Reuters)",
+            "title": "Waymo drops its waitlist in San Francisco, letting anyone download its app and hail a robotaxi; in Phoenix, Waymo has been open to the public since 2020 (Andrew J. Hawkins/The Verge)",
+            "link": "http://www.techmeme.com/240625/p17#a240625p17",
+            "published": "Tue, 25 Jun 2024 11:15:02 -0400"
+        },
+        {
+            "title": "Snap announces updates to Snapchat's account blocking functionality and enhanced friending safeguards, making it difficult for strangers to contact its users (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/240625/p16#a240625p16",
+            "published": "Tue, 25 Jun 2024 10:55:21 -0400"
+        },
+        {
+            "title": "Windows 11 changed the initial setup process to enable the automatic backup of folders to OneDrive without asking permission, annoying and confusing many users (Taras Buria/Neowin)",
+            "link": "http://www.techmeme.com/240625/p15#a240625p15",
+            "published": "Tue, 25 Jun 2024 10:35:01 -0400"
+        },
+        {
+            "title": "Bright Machines, which automates manufacturing with AI, ML, and robotics, raised a $126M Series C from Nvidia, Microsoft, and others, including $20M in debt (Max A. Cherney/Reuters)",
             "link": "http://www.techmeme.com/240625/p14#a240625p14",
             "published": "Tue, 25 Jun 2024 09:25:01 -0400"
         },
@@ -9,24 +24,14 @@
             "title": "k-ID, a platform that helps game developers comply with child safety and data privacy regulations, raised a $45M Series A led by a16z and Lightspeed (Kate Park/TechCrunch)",
             "link": "http://www.techmeme.com/240625/p13#a240625p13",
             "published": "Tue, 25 Jun 2024 09:20:01 -0400"
-        },
-        {
-            "title": "With an economy hobbled by Western sanctions and inflation, desperate Iranians are flocking to \"tap-to-earn\" crypto mini apps in Telegram like Hamster Kombat (Associated Press)",
-            "link": "http://www.techmeme.com/240625/p12#a240625p12",
-            "published": "Tue, 25 Jun 2024 09:05:02 -0400"
-        },
-        {
-            "title": "Etched, which is building Sohu, an inferencing chip that only runs transformer AI models, raised a $120M Series A, bringing its total funding to $125.36M (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240625/p11#a240625p11",
-            "published": "Tue, 25 Jun 2024 08:15:03 -0400"
-        },
-        {
-            "title": "Uber Freight will use Aurora's driverless trucks on routes between Dallas and Houston as part of a new long-term deal, following a three-year commercial pilot (Andrew J. Hawkins/The Verge)",
-            "link": "http://www.techmeme.com/240625/p10#a240625p10",
-            "published": "Tue, 25 Jun 2024 07:45:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Microsoft Teams Bundle Hit With E.U. Antitrust Charges",
+            "link": "https://www.nytimes.com/2024/06/25/business/european-union-microsoft-teams-antitrust.html",
+            "published": "Tue, 25 Jun 2024 10:40:43 +0000"
+        },
         {
             "title": "Apple\u2019s App Store Policies Charged Under New E.U. Competition Law",
             "link": "https://www.nytimes.com/2024/06/24/technology/apple-european-union-competition-law.html",
@@ -38,19 +43,14 @@
             "published": "Sun, 23 Jun 2024 16:50:40 +0000"
         },
         {
-            "title": "How Mark Zuckerberg\u2019s Meta Failed Children on Safety, States Say",
-            "link": "https://www.nytimes.com/2024/06/22/technology/zuckerberg-instagram-child-safety-lawsuits.html",
-            "published": "Sat, 22 Jun 2024 19:43:26 +0000"
-        },
-        {
-            "title": "Microsoft Teams Bundle Hit With E.U. Antitrust Charges",
-            "link": "https://www.nytimes.com/2024/06/25/business/european-union-microsoft-teams-antitrust.html",
-            "published": "Tue, 25 Jun 2024 10:40:43 +0000"
-        },
-        {
             "title": "How A.I. Imitates Restaurant Reviews",
             "link": "https://www.nytimes.com/2024/06/24/dining/ai-restaurant-reviews.html",
             "published": "Mon, 24 Jun 2024 13:50:49 +0000"
+        },
+        {
+            "title": "How Netflix\u2019s Corporate Culture Has Changed",
+            "link": "https://www.nytimes.com/2024/06/24/business/media/netflix-corporate-culture.html",
+            "published": "Mon, 24 Jun 2024 09:01:52 +0000"
         }
     ],
     "source_2": [
