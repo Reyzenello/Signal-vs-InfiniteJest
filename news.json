@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans' data to Beijing through their US cloud services (Alexandra Alper/Reuters)",
+            "link": "http://www.techmeme.com/240624/p26#a240624p26",
+            "published": "Mon, 24 Jun 2024 21:00:41 -0400"
+        },
+        {
+            "title": "Q&A with Netflix co-CEO Greg Peters on updating the company's famous culture memo, its advertising ambitions, bundling, game streaming, AI, and more (Nilay Patel/The Verge)",
+            "link": "http://www.techmeme.com/240624/p25#a240624p25",
+            "published": "Mon, 24 Jun 2024 20:05:01 -0400"
+        },
+        {
             "title": "Sources: Google has been developing a product to create customizable chatbots, which could be modeled on celebrities, and plans to launch it as soon as 2024 (The Information)",
             "link": "http://www.techmeme.com/240624/p24#a240624p24",
             "published": "Mon, 24 Jun 2024 18:25:07 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it's tentatively slated for a September launch (Eugene Kim/Business Insider)",
             "link": "http://www.techmeme.com/240624/p22#a240624p22",
             "published": "Mon, 24 Jun 2024 17:45:02 -0400"
-        },
-        {
-            "title": "Source: OpenAI has changed its policies towards secondary share sales to let current and former employees participate equally in its annual tender offers (Hayden Field/CNBC)",
-            "link": "http://www.techmeme.com/240624/p21#a240624p21",
-            "published": "Mon, 24 Jun 2024 16:26:43 -0400"
-        },
-        {
-            "title": "Emergence, which is building \"agent-based\" systems that orchestrate tasks by routing them to first- and third-party AI systems, emerges from stealth with $97.2M (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240624/p20#a240624p20",
-            "published": "Mon, 24 Jun 2024 16:25:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "World's biggest music labels sue over AI copyright",
+            "link": "https://www.bbc.com/news/articles/ckrrr8yelzvo",
+            "published": "Mon, 24 Jun 2024 19:20:43 GMT"
+        },
+        {
             "title": "Apple in breach of law on App Store, says EU",
             "link": "https://www.bbc.com/news/articles/c5111qxl2nro",
             "published": "Mon, 24 Jun 2024 11:38:19 GMT"
@@ -73,11 +78,6 @@
             "title": "Stolen test data and NHS numbers published by hospital hackers",
             "link": "https://www.bbc.com/news/articles/c9ww90j9dj8o",
             "published": "Fri, 21 Jun 2024 16:29:06 GMT"
-        },
-        {
-            "title": "Microsoft back as most valuable firm as Nvidia slips",
-            "link": "https://www.bbc.com/news/articles/c8884389l35o",
-            "published": "Fri, 21 Jun 2024 00:06:36 GMT"
         }
     ]
 }
