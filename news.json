@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Etched, which is building Sohu, an inferencing chip that only runs transformer AI models, raised a $120M Series A, bringing its total funding to $125.36M (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240625/p11#a240625p11",
+            "published": "Tue, 25 Jun 2024 08:15:03 -0400"
+        },
+        {
+            "title": "Uber Freight will use Aurora's driverless trucks on routes between Dallas and Houston as part of a new long-term deal, following a three-year commercial pilot (Andrew J. Hawkins/The Verge)",
+            "link": "http://www.techmeme.com/240625/p10#a240625p10",
+            "published": "Tue, 25 Jun 2024 07:45:00 -0400"
+        },
+        {
             "title": "Sources: Meituan considers raising $1B+ via a bond offering this year as the food delivery and shopping platform seeks to repay some debt and fund its expansion (Bloomberg)",
             "link": "http://www.techmeme.com/240625/p9#a240625p9",
             "published": "Tue, 25 Jun 2024 07:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "In preliminary findings, the EU charges Microsoft with antitrust violations over concerns that it gave Teams an \"undue advantage\" by bundling it with Office (Javier Espinoza/Financial Times)",
             "link": "http://www.techmeme.com/240625/p7#a240625p7",
             "published": "Tue, 25 Jun 2024 05:56:20 -0400"
-        },
-        {
-            "title": "Chinese state media: OpenAI told Chinese developers that they will lose API access from July 9 as they are in a \"region that OpenAI does not currently support\" (Eduardo Baptista/Reuters)",
-            "link": "http://www.techmeme.com/240625/p6#a240625p6",
-            "published": "Tue, 25 Jun 2024 05:45:03 -0400"
-        },
-        {
-            "title": "A look at the privacy concerns surrounding apps targeting women's health; PitchBook: femtech startups raised almost $4.9B between March 2021 and March 2024 (Stephanie Stacey/Financial Times)",
-            "link": "http://www.techmeme.com/240625/p5#a240625p5",
-            "published": "Tue, 25 Jun 2024 05:00:42 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Einstein atomic bomb letter to be auctioned",
+            "link": "https://www.bbc.com/news/articles/cxxxx1w9znko",
+            "published": "Tue, 25 Jun 2024 12:12:22 GMT"
+        },
+        {
             "title": "World's biggest music labels sue over AI copyright",
             "link": "https://www.bbc.com/news/articles/ckrrr8yelzvo",
             "published": "Mon, 24 Jun 2024 19:20:43 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok confirms it offered US government a 'kill switch'",
             "link": "https://www.bbc.com/news/articles/cxwwz7l02j0o",
             "published": "Fri, 21 Jun 2024 11:43:01 GMT"
-        },
-        {
-            "title": "Stolen test data and NHS numbers published by hospital hackers",
-            "link": "https://www.bbc.com/news/articles/c9ww90j9dj8o",
-            "published": "Fri, 21 Jun 2024 16:29:06 GMT"
         }
     ]
 }
