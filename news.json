@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Stanford Internet Observatory's former research director details the online rumor mill that led to SIO ending its rapid-response election observation work (Ren&eacute;e DiResta/New York Times)",
+            "link": "http://www.techmeme.com/240625/p36#a240625p36",
+            "published": "Tue, 25 Jun 2024 21:25:27 -0400"
+        },
+        {
+            "title": "Route: TikTok Shop saw a 13% jump in orders from April to May, as TikTok appears to be hiring hundreds of employees in the US to support its e-commerce efforts (Alexandra S. Levine/Forbes)",
+            "link": "http://www.techmeme.com/240625/p35#a240625p35",
+            "published": "Tue, 25 Jun 2024 20:50:21 -0400"
+        },
+        {
+            "title": "NYC-based Norm Ai, which uses AI to help organizations automate compliance tasks, raised a $27M Series A led by Coatue, bringing its total funding to $38M+ (PYMNTS.com)",
+            "link": "http://www.techmeme.com/240625/p34#a240625p34",
+            "published": "Tue, 25 Jun 2024 19:35:02 -0400"
+        },
+        {
             "title": "Samsung schedules its next Galaxy Unpacked event for July 10 at 9AM ET in Paris, where Galaxy AI updates, the Galaxy Z Fold 6, and Z Flip 6 are expected (Allison Johnson/The Verge)",
             "link": "http://www.techmeme.com/240625/p33#a240625p33",
             "published": "Tue, 25 Jun 2024 19:15:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Some iPhone users running the latest iOS 18 beta report being able to send and receive RCS messages on select US carriers (Filipe Esp&oacute;sito/9to5Mac)",
             "link": "http://www.techmeme.com/240625/p32#a240625p32",
             "published": "Tue, 25 Jun 2024 18:55:14 -0400"
-        },
-        {
-            "title": "Chicago-based Formic, which provides robots-as-a-service automation to US manufacturers, raised $27.4M, bringing its total Series A funding to $52M+ (Brianna Wessling/The Robot Report)",
-            "link": "http://www.techmeme.com/240625/p31#a240625p31",
-            "published": "Tue, 25 Jun 2024 18:05:00 -0400"
-        },
-        {
-            "title": "OpenAI delays the release of its advanced Voice Mode for ChatGPT by a month to address safety issues and plans to roll out the feature to Plus users in the fall (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/240625/p30#a240625p30",
-            "published": "Tue, 25 Jun 2024 17:50:15 -0400"
-        },
-        {
-            "title": "Reddit says it will update its robots.txt \"to be as clear as possible\" that companies using an automated agent to access Reddit need to abide by its terms (Karissa Bell/Engadget)",
-            "link": "http://www.techmeme.com/240625/p29#a240625p29",
-            "published": "Tue, 25 Jun 2024 17:40:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "VW to invest up to $5bn in Tesla rival Rivian",
+            "link": "https://www.bbc.com/news/articles/c1ddmxmz1lpo",
+            "published": "Wed, 26 Jun 2024 00:15:11 GMT"
+        },
+        {
             "title": "Streamer Dr Disrespect axed by his gaming company",
             "link": "https://www.bbc.com/news/articles/cq55x8v8nvro",
             "published": "Tue, 25 Jun 2024 13:28:23 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple in breach of law on App Store, says EU",
             "link": "https://www.bbc.com/news/articles/c5111qxl2nro",
             "published": "Mon, 24 Jun 2024 11:38:19 GMT"
-        },
-        {
-            "title": "Exploding batteries spark deadly S Korea factory fire",
-            "link": "https://www.bbc.com/news/articles/crgggmeyjj7o",
-            "published": "Mon, 24 Jun 2024 11:16:23 GMT"
         }
     ]
 }
