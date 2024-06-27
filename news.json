@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Meta releases LLM Compiler, a family of models built on Code Llama specifically designed for code optimization tasks, available with 7B and 13B parameters (Michael Nu&ntilde;ez/VentureBeat)",
+            "link": "http://www.techmeme.com/240627/p35#a240627p35",
+            "published": "Thu, 27 Jun 2024 17:05:02 -0400"
+        },
+        {
             "title": "In an interview, Mark Zuckerberg says there will not be \"just one AI\", disparages closed-source AI competitors as trying to \"create God\", and more (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/240627/p34#a240627p34",
             "published": "Thu, 27 Jun 2024 14:55:01 -0400"
@@ -19,11 +24,6 @@
             "title": "MegaLabs, the developer behind the Ethereum scaling protocol MegaETH that it claims is a \"real-time blockchain\", raised $20M in seed funding led by Dragonfly (Margaux Nijkerk/CoinDesk)",
             "link": "http://www.techmeme.com/240627/p31#a240627p31",
             "published": "Thu, 27 Jun 2024 12:55:01 -0400"
-        },
-        {
-            "title": "Meta starts testing user-created AI chatbots on Instagram in the US; Mark Zuckerberg says the chatbots, made using Meta AI studio, will be clearly labeled as AI (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/240627/p30#a240627p30",
-            "published": "Thu, 27 Jun 2024 12:45:24 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "AT&T, Verizon and T-Mobile Users Hit by Service Outage in Europe",
             "link": "https://www.nytimes.com/2024/06/27/travel/att-t-mobile-verizon-international-outage.html",
-            "published": "Thu, 27 Jun 2024 18:02:14 +0000"
+            "published": "Thu, 27 Jun 2024 20:33:26 +0000"
         },
         {
             "title": "AI-Generated Al Michaels to Deliver Paris Olympics Highlights",
