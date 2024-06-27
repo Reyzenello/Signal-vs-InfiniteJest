@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Bitcoin falls after a wallet tagged to the US government moved ~3,940 BTC, worth ~$240M and originally seized from a Silk Road vendor, to Coinbase Prime (Aoyon Ashraf/CoinDesk)",
-            "link": "http://www.techmeme.com/240627/p18#a240627p18",
-            "published": "Thu, 27 Jun 2024 09:15:20 -0400"
+            "title": "Netherlands-based Innatera Nanosystems, which unveiled an energy-efficient AI chip for sensor-edge applications in January, raised a $21M Series A (Paul Gillin/SiliconANGLE)",
+            "link": "http://www.techmeme.com/240627/p23#a240627p23",
+            "published": "Thu, 27 Jun 2024 10:20:32 -0400"
         },
         {
-            "title": "KarmaCheck, which uses AI for conducting background checks and was founded by LinkedIn's Eric Ly, raised a $45M Series B, bringing total funding to $60M (Duncan Riley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/240627/p17#a240627p17",
-            "published": "Thu, 27 Jun 2024 08:50:03 -0400"
+            "title": "Google Cloud announces deals, including with Moody's, Thomson Reuters, and ZoomInfo, to \"ground\" responses from its enterprise AI chatbots in real-world facts (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/240627/p22#a240627p22",
+            "published": "Thu, 27 Jun 2024 10:00:27 -0400"
         },
         {
-            "title": "Odaseva, which provides data protection services for large Salesforce customers, raised a $54M Series C, bringing its total funding to $90M (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/240627/p16#a240627p16",
-            "published": "Thu, 27 Jun 2024 07:50:00 -0400"
+            "title": "Orby AI, which is building generative AI agents to automate business workflows, raised a $30M Series A, sources say at a post-money valuation of $100M+ (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240627/p21#a240627p21",
+            "published": "Thu, 27 Jun 2024 09:55:01 -0400"
         },
         {
-            "title": "Citizen Lab: Microsoft censors its Bing translation service more extensively in China than its competitors like Baidu Translate and Tencent Machine Translation (Joanna Chiu/Rest of World)",
-            "link": "http://www.techmeme.com/240627/p15#a240627p15",
-            "published": "Thu, 27 Jun 2024 07:00:29 -0400"
+            "title": "Coinbase files two lawsuits against the US SEC and the FDIC for not complying with FOIA requests; one of the FOIA requests is about how the SEC views ether (Sarah Wynn/The Block)",
+            "link": "http://www.techmeme.com/240627/p20#a240627p20",
+            "published": "Thu, 27 Jun 2024 09:45:06 -0400"
         },
         {
-            "title": "Meta's Oversight Board says it issued 53 decisions in 2023 and that Meta has fully or partially implemented 75 out of 266 recommendations since January 2021 (Karissa Bell/Engadget)",
-            "link": "http://www.techmeme.com/240627/p14#a240627p14",
-            "published": "Thu, 27 Jun 2024 06:50:00 -0400"
+            "title": "PortSwigger, the company behind the Burp Suite of security testing tools founded by security expert \"Daf\", raised $112M, its first outside investment (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/240627/p19#a240627p19",
+            "published": "Thu, 27 Jun 2024 09:25:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Campaign Tied to China Are Harassing a Dissident\u2019s Teenage Daughter",
+            "link": "https://www.nytimes.com/2024/06/27/business/china-disinformation-critics-harassment.html",
+            "published": "Thu, 27 Jun 2024 04:00:14 +0000"
+        },
         {
             "title": "When the Terms of Service Change to Make Way for A.I. Training",
             "link": "https://www.nytimes.com/2024/06/26/technology/terms-service-ai-training.html",
@@ -38,19 +43,14 @@
             "published": "Wed, 26 Jun 2024 14:26:25 +0000"
         },
         {
-            "title": "Landlords Have Started Using A.I. Chatbots to Manage Properties",
-            "link": "https://www.nytimes.com/2024/06/26/business/ai-bots-property-managers.html",
-            "published": "Wed, 26 Jun 2024 09:00:19 +0000"
-        },
-        {
-            "title": "Bots Tied to China Are Harassing a Dissident\u2019s Teenage Daughter",
-            "link": "https://www.nytimes.com/2024/06/27/business/china-disinformation-critics-harassment.html",
-            "published": "Thu, 27 Jun 2024 04:00:14 +0000"
-        },
-        {
             "title": "AI-Generated Al Michaels to Deliver Paris Olympics Highlights",
             "link": "https://www.nytimes.com/2024/06/26/business/media/nbc-olympics-ai.html",
             "published": "Thu, 27 Jun 2024 03:59:56 +0000"
+        },
+        {
+            "title": "Supreme Court Rules in Favor of Biden Administration in Social Media Case",
+            "link": "https://www.nytimes.com/2024/06/26/us/politics/supreme-court-biden-free-speech.html",
+            "published": "Wed, 26 Jun 2024 20:11:59 +0000"
         }
     ],
     "source_2": [
@@ -62,7 +62,7 @@
         {
             "title": "India reviews iPhone factory for 'not hiring married women'",
             "link": "https://www.bbc.com/news/articles/cydvp336y3no",
-            "published": "Thu, 27 Jun 2024 05:55:59 GMT"
+            "published": "Thu, 27 Jun 2024 14:07:48 GMT"
         },
         {
             "title": "VW to invest up to $5bn in Tesla rival Rivian",
