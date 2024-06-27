@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Amazon is investigating Perplexity over whether the AI search startup is violating AWS rules by scraping websites that attempted to prevent it from doing so (Wired)",
+            "link": "http://www.techmeme.com/240627/p39#a240627p39",
+            "published": "Thu, 27 Jun 2024 19:05:01 -0400"
+        },
+        {
+            "title": "Nokia agrees to acquire Infinera, which provides networking hardware and software to mobile phone operators and others, for $2.3B in a cash-and-stock deal (Bloomberg)",
+            "link": "http://www.techmeme.com/240627/p38#a240627p38",
+            "published": "Thu, 27 Jun 2024 18:45:01 -0400"
+        },
+        {
+            "title": "Naver-owned Webtoon shares closed up 9.5% at $23 in the online comics company's Nasdaq debut, giving it a market value of ~$2.9B, after an IPO that raised $315M (Bloomberg)",
+            "link": "http://www.techmeme.com/240627/p37#a240627p37",
+            "published": "Thu, 27 Jun 2024 18:25:13 -0400"
+        },
+        {
             "title": "Uber and Lyft agree to pay drivers in Massachusetts a minimum wage and give them some benefits, and pay a combined $175M to the state to settle a 2020 lawsuit (Chris Lisinski/State House News Service)",
             "link": "http://www.techmeme.com/240627/p36#a240627p36",
             "published": "Thu, 27 Jun 2024 18:10:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Meta releases LLM Compiler, a family of models built on Code Llama specifically designed for code optimization tasks, available with 7B and 13B parameters (Michael Nu&ntilde;ez/VentureBeat)",
             "link": "http://www.techmeme.com/240627/p35#a240627p35",
             "published": "Thu, 27 Jun 2024 17:05:02 -0400"
-        },
-        {
-            "title": "In an interview, Mark Zuckerberg says there will not be \"just one AI\", disparages closed-source AI competitors as trying to \"create God\", and more (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/240627/p34#a240627p34",
-            "published": "Thu, 27 Jun 2024 14:55:01 -0400"
-        },
-        {
-            "title": "OpenAI details CriticGPT, a model based on GPT-4 to catch errors in ChatGPT's code output, assisting human trainers in assessing and spotting errors (Will Knight/Wired)",
-            "link": "http://www.techmeme.com/240627/p33#a240627p33",
-            "published": "Thu, 27 Jun 2024 14:15:00 -0400"
-        },
-        {
-            "title": "Amazon folds its Amazon Clinic telehealth service into One Medical, with more affordable per-visit pricing: $49 for a video call or $29 to text a doctor (Lauren Forristal/TechCrunch)",
-            "link": "http://www.techmeme.com/240627/p32#a240627p32",
-            "published": "Thu, 27 Jun 2024 13:45:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Electric car battery charges in under five minutes in track test",
+            "link": "https://www.bbc.com/news/articles/cz9dp3ye77do",
+            "published": "Thu, 27 Jun 2024 23:00:31 GMT"
+        },
+        {
             "title": "Korean web comic giant set for $2.7bn market debut",
             "link": "https://www.bbc.com/news/articles/c4nglpj3dllo",
             "published": "Thu, 27 Jun 2024 05:04:18 GMT"
@@ -73,11 +78,6 @@
             "title": "Streamer Dr Disrespect axed by his gaming company",
             "link": "https://www.bbc.com/news/articles/cq55x8v8nvro",
             "published": "Wed, 26 Jun 2024 08:44:18 GMT"
-        },
-        {
-            "title": "Einstein atomic bomb letter to be auctioned",
-            "link": "https://www.bbc.com/news/articles/cxxxx1w9znko",
-            "published": "Tue, 25 Jun 2024 12:12:22 GMT"
         }
     ]
 }
