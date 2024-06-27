@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI details CriticGPT, a model based on GPT-4 to catch errors in ChatGPT's code output, assisting human trainers in assessing and spotting errors (Will Knight/Wired)",
+            "link": "http://www.techmeme.com/240627/p33#a240627p33",
+            "published": "Thu, 27 Jun 2024 14:15:00 -0400"
+        },
+        {
+            "title": "Amazon folds its Amazon Clinic telehealth service into One Medical, with more affordable per-visit pricing: $49 for a video call or $29 to text a doctor (Lauren Forristal/TechCrunch)",
+            "link": "http://www.techmeme.com/240627/p32#a240627p32",
+            "published": "Thu, 27 Jun 2024 13:45:01 -0400"
+        },
+        {
             "title": "MegaLabs, the developer behind the Ethereum scaling protocol MegaETH that it claims is a \"real-time blockchain\", raised $20M in seed funding led by Dragonfly (Margaux Nijkerk/CoinDesk)",
             "link": "http://www.techmeme.com/240627/p31#a240627p31",
             "published": "Thu, 27 Jun 2024 12:55:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Axelera, which is building AI processing units to run computer vision inference workloads on the edge, raised a $68M Series B, taking its total funding to $120M (Shubham Sharma/VentureBeat)",
             "link": "http://www.techmeme.com/240627/p29#a240627p29",
             "published": "Thu, 27 Jun 2024 12:25:01 -0400"
-        },
-        {
-            "title": "Google says Gemma 2 will be available to researchers and developers through Vertex AI from July, as a new 9B-parameter model and the prior 27B-parameter model (Ken Yeung/VentureBeat)",
-            "link": "http://www.techmeme.com/240627/p28#a240627p28",
-            "published": "Thu, 27 Jun 2024 12:15:03 -0400"
-        },
-        {
-            "title": "As tech companies grapple with the limited availability of Nvidia chips globally, Chinese companies like Alibaba face a tougher situation due to US restrictions (The Information)",
-            "link": "http://www.techmeme.com/240627/p27#a240627p27",
-            "published": "Thu, 27 Jun 2024 12:00:47 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Wed, 26 Jun 2024 14:26:25 +0000"
         },
         {
+            "title": "AT&T, Verizon and T-Mobile Users Hit by Service Outage in Europe",
+            "link": "https://www.nytimes.com/2024/06/27/travel/att-t-mobile-verizon-international-outage.html",
+            "published": "Thu, 27 Jun 2024 18:02:14 +0000"
+        },
+        {
             "title": "AI-Generated Al Michaels to Deliver Paris Olympics Highlights",
             "link": "https://www.nytimes.com/2024/06/26/business/media/nbc-olympics-ai.html",
             "published": "Thu, 27 Jun 2024 03:59:56 +0000"
-        },
-        {
-            "title": "Supreme Court Rules in Favor of Biden Administration in Social Media Case",
-            "link": "https://www.nytimes.com/2024/06/26/us/politics/supreme-court-biden-free-speech.html",
-            "published": "Wed, 26 Jun 2024 20:11:59 +0000"
         }
     ],
     "source_2": [
