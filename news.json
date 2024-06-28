@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Hebbia, which is developing an AI-powered document search tool, raised a nearly $100M Series B led by a16z at a valuation between $700M and $800M (Marina Temkin/TechCrunch)",
+            "link": "http://www.techmeme.com/240627/p41#a240627p41",
+            "published": "Thu, 27 Jun 2024 21:25:02 -0400"
+        },
+        {
+            "title": "A look at Dubai-based Bybit, whose co-founder says it became the world's second largest crypto exchange by volume partly by serving former FTX users (Ryan Weeks/Bloomberg)",
+            "link": "http://www.techmeme.com/240627/p40#a240627p40",
+            "published": "Thu, 27 Jun 2024 20:55:07 -0400"
+        },
+        {
             "title": "Amazon is investigating Perplexity over whether the AI search startup is violating AWS rules by scraping websites that attempted to prevent it from doing so (Wired)",
             "link": "http://www.techmeme.com/240627/p39#a240627p39",
             "published": "Thu, 27 Jun 2024 19:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Naver-owned Webtoon shares closed up 9.5% at $23 in the online comics company's Nasdaq debut, giving it a market value of ~$2.9B, after an IPO that raised $315M (Bloomberg)",
             "link": "http://www.techmeme.com/240627/p37#a240627p37",
             "published": "Thu, 27 Jun 2024 18:25:13 -0400"
-        },
-        {
-            "title": "Uber and Lyft agree to pay drivers in Massachusetts a minimum wage and give them some benefits, and pay a combined $175M to the state to settle a 2020 lawsuit (Chris Lisinski/State House News Service)",
-            "link": "http://www.techmeme.com/240627/p36#a240627p36",
-            "published": "Thu, 27 Jun 2024 18:10:02 -0400"
-        },
-        {
-            "title": "Meta releases LLM Compiler, a family of models built on Code Llama specifically designed for code optimization tasks, available with 7B and 13B parameters (Michael Nu&ntilde;ez/VentureBeat)",
-            "link": "http://www.techmeme.com/240627/p35#a240627p35",
-            "published": "Thu, 27 Jun 2024 17:05:02 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Wed, 26 Jun 2024 14:26:25 +0000"
         },
         {
+            "title": "Uber and Lyft Agree to Give Massachusetts Drivers Minimum Pay",
+            "link": "https://www.nytimes.com/2024/06/27/technology/uber-lyft-massachusetts-settlement.html",
+            "published": "Fri, 28 Jun 2024 00:24:44 +0000"
+        },
+        {
             "title": "AT&T, Verizon and T-Mobile Users Hit by Service Outage in Europe",
             "link": "https://www.nytimes.com/2024/06/27/travel/att-t-mobile-verizon-international-outage.html",
             "published": "Thu, 27 Jun 2024 20:33:26 +0000"
-        },
-        {
-            "title": "AI-Generated Al Michaels to Deliver Paris Olympics Highlights",
-            "link": "https://www.nytimes.com/2024/06/26/business/media/nbc-olympics-ai.html",
-            "published": "Thu, 27 Jun 2024 03:59:57 +0000"
         }
     ],
     "source_2": [
@@ -58,11 +58,6 @@
             "title": "Electric car battery charges in under five minutes in track test",
             "link": "https://www.bbc.com/news/articles/cz9dp3ye77do",
             "published": "Thu, 27 Jun 2024 23:00:31 GMT"
-        },
-        {
-            "title": "Korean web comic giant set for $2.7bn market debut",
-            "link": "https://www.bbc.com/news/articles/c4nglpj3dllo",
-            "published": "Thu, 27 Jun 2024 05:04:18 GMT"
         },
         {
             "title": "India reviews iPhone factory for 'not hiring married women'",
@@ -78,6 +73,11 @@
             "title": "Streamer Dr Disrespect axed by his gaming company",
             "link": "https://www.bbc.com/news/articles/cq55x8v8nvro",
             "published": "Wed, 26 Jun 2024 08:44:18 GMT"
+        },
+        {
+            "title": "Einstein atomic bomb letter to be auctioned",
+            "link": "https://www.bbc.com/news/articles/cxxxx1w9znko",
+            "published": "Tue, 25 Jun 2024 12:12:22 GMT"
         }
     ]
 }
