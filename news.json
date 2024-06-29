@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at the disastrous launch of Stable Diffusion 3, which struggles to generate correct human anatomy, and concerns over the tool's new and different license (Emanuel Maiberg/404 Media)",
+            "link": "http://www.techmeme.com/240629/p5#a240629p5",
+            "published": "Sat, 29 Jun 2024 02:30:02 -0400"
+        },
+        {
             "title": "Microsoft Surface Laptop 7th Edition review: great native app performance but emulated apps can be more battery intensive, and AI features feel gimmicky (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/240629/p4#a240629p4",
             "published": "Sat, 29 Jun 2024 02:00:34 -0400"
@@ -19,11 +24,6 @@
             "title": "A US judge rules the SEC has plausibly alleged Binance, Binance.US, and Changpeng Zhao violated federal securities laws, but dismisses secondary sales charges (Nikhilesh De/CoinDesk)",
             "link": "http://www.techmeme.com/240629/p1#a240629p1",
             "published": "Sat, 29 Jun 2024 00:10:00 -0400"
-        },
-        {
-            "title": "Q&A with Center for AI Safety's Dan Hendrycks about his work on California's AI safety bill, the backlash against the bill, advising xAI on safety, and more (Shirin Ghaffary/Bloomberg)",
-            "link": "http://www.techmeme.com/240628/p28#a240628p28",
-            "published": "Fri, 28 Jun 2024 21:50:02 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Wed, 26 Jun 2024 14:26:25 +0000"
         },
         {
+            "title": "Facial Recognition Led to Wrongful Arrests. So Detroit Is Making Changes.",
+            "link": "https://www.nytimes.com/2024/06/29/technology/detroit-facial-recognition-false-arrests.html",
+            "published": "Sat, 29 Jun 2024 07:00:46 +0000"
+        },
+        {
             "title": "Record Labels Sue A.I. Music Generators, Inside the Pentagon\u2019s Tech Upgrade and HatGPT",
             "link": "https://www.nytimes.com/2024/06/28/podcasts/hardfork-ai-music-lawsuits.html",
             "published": "Fri, 28 Jun 2024 09:06:28 +0000"
-        },
-        {
-            "title": "The Voices of A.I. Are Telling Us a Lot",
-            "link": "https://www.nytimes.com/2024/06/28/arts/ai-voice-scarlett-johansson.html",
-            "published": "Fri, 28 Jun 2024 09:05:00 +0000"
         }
     ],
     "source_2": [
