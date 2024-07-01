@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Source: Character.AI held talks over partnerships with Google, Meta, and xAI, to access the partnering company's computing in return for sharing some of its IP (Kalley Huang/The Information)",
+            "title": "Sources: French antitrust regulators are preparing to charge Nvidia for allegedly anti-competitive practices (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/240701/p11#a240701p11",
+            "published": "Mon, 01 Jul 2024 10:56:19 -0400"
+        },
+        {
+            "title": "SCOTUS orders lower courts to take another look at Texas' and Florida's social media laws, says neither lower court conducted proper analysis of 1A challenges (CBS News)",
+            "link": "http://www.techmeme.com/240701/p10#a240701p10",
+            "published": "Mon, 01 Jul 2024 10:41:33 -0400"
+        },
+        {
+            "title": "Source: Character.AI held talks over research partnerships with Google, Meta, and xAI, to access their computing resources in return for sharing some of its IP (Kalley Huang/The Information)",
             "link": "http://www.techmeme.com/240701/p9#a240701p9",
             "published": "Mon, 01 Jul 2024 09:15:02 -0400"
         },
         {
-            "title": "Singapore is emerging as a destination for Chinese AI startups due to less stringent AI regulations and access to Nvidia's latest chips amid US chips ban (Bloomberg)",
+            "title": "Singapore emerges as a favorite destination for Chinese AI startups due to less stringent AI regulations and access to Nvidia's latest chips amid the US' curbs (Bloomberg)",
             "link": "http://www.techmeme.com/240701/p8#a240701p8",
             "published": "Mon, 01 Jul 2024 08:10:00 -0400"
         },
@@ -14,19 +24,14 @@
             "title": "Preliminary findings: the EU says Meta's pay or consent ad model breaches the DMA; Meta faces a fine of up to 10% of its global annual turnover if found guilty (Foo Yun Chee/Reuters)",
             "link": "http://www.techmeme.com/240701/p7#a240701p7",
             "published": "Mon, 01 Jul 2024 06:23:53 -0400"
-        },
-        {
-            "title": "Japan-based SmartHR, which offers a cloud human resources and labor management software, raised a $140M Series E led by KKR and Teachers' Venture Growth (Kate Park/TechCrunch)",
-            "link": "http://www.techmeme.com/240701/p6#a240701p6",
-            "published": "Mon, 01 Jul 2024 06:10:14 -0400"
-        },
-        {
-            "title": "Government data: the value of South Korea's chip shipments reached $13.4B in June, up 51% YoY; exports of display products up 26% YoY and computers up 59% YoY (Bloomberg)",
-            "link": "http://www.techmeme.com/240701/p5#a240701p5",
-            "published": "Mon, 01 Jul 2024 05:50:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta\u2019s Ad-Free Subscription Violates Competition Law, E.U. Says",
+            "link": "https://www.nytimes.com/2024/07/01/business/eu-meta-facebook-instagram-ads-privacy.html",
+            "published": "Mon, 01 Jul 2024 13:57:16 +0000"
+        },
         {
             "title": "Facial Recognition Led to Wrongful Arrests. So Detroit Is Making Changes.",
             "link": "https://www.nytimes.com/2024/06/29/technology/detroit-facial-recognition-false-arrests.html",
@@ -38,14 +43,9 @@
             "published": "Fri, 28 Jun 2024 09:05:00 +0000"
         },
         {
-            "title": "Campaign Tied to China Are Harassing a Dissident\u2019s Teenage Daughter",
-            "link": "https://www.nytimes.com/2024/06/27/business/china-disinformation-critics-harassment.html",
-            "published": "Thu, 27 Jun 2024 04:00:14 +0000"
-        },
-        {
-            "title": "Meta\u2019s Ad-Free Subscription Violates Competition Law, E.U. Says",
-            "link": "https://www.nytimes.com/2024/07/01/business/eu-meta-facebook-instagram-ads-privacy.html",
-            "published": "Mon, 01 Jul 2024 13:57:16 +0000"
+            "title": "Supreme Court Declines to Rule on Tech Platforms\u2019 Free Speech Rights",
+            "link": "https://www.nytimes.com/2024/07/01/us/supreme-court-free-speech-social-media.html",
+            "published": "Mon, 01 Jul 2024 14:39:53 +0000"
         },
         {
             "title": "Robots Get a Fleshy Face (and a Smile) in New Research",
