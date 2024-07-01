@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "YouTube rolled out a policy change that will let people request the takedown of AI-generated or other synthetic content that simulates their face or voice (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/240701/p15#a240701p15",
+            "published": "Mon, 01 Jul 2024 14:50:03 -0400"
+        },
+        {
+            "title": "Meta changes its \"Made with AI\" label to \"AI info\", to indicate images were not necessarily created with AI but that AI editing tools may have been used (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/240701/p14#a240701p14",
+            "published": "Mon, 01 Jul 2024 14:40:13 -0400"
+        },
+        {
             "title": "Cyberattacks against CDK Global, used by ~15K car dealerships, and Change Healthcare show how large swathes of some industries have a \"single point of failure\" (Belle Lin/Wall Street Journal)",
             "link": "http://www.techmeme.com/240701/p13#a240701p13",
             "published": "Mon, 01 Jul 2024 13:35:12 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: French antitrust regulators are preparing to charge Nvidia for allegedly anti-competitive practices, after raids in the GPU sector in September 2023 (Foo Yun Chee/Reuters)",
             "link": "http://www.techmeme.com/240701/p11#a240701p11",
             "published": "Mon, 01 Jul 2024 10:56:19 -0400"
-        },
-        {
-            "title": "SCOTUS orders lower courts to take another look at Texas' and Florida's social media laws, saying neither lower court conducted proper analysis of 1A challenges (CBS News)",
-            "link": "http://www.techmeme.com/240701/p10#a240701p10",
-            "published": "Mon, 01 Jul 2024 10:41:33 -0400"
-        },
-        {
-            "title": "Source: Character.AI held talks over research partnerships with Google, Meta, and xAI, to access their computing resources in return for sharing some of its IP (Kalley Huang/The Information)",
-            "link": "http://www.techmeme.com/240701/p9#a240701p9",
-            "published": "Mon, 01 Jul 2024 09:15:02 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Supreme Court Declines to Rule on Social Media Laws in Florida and Texas",
             "link": "https://www.nytimes.com/2024/07/01/us/supreme-court-free-speech-social-media.html",
-            "published": "Mon, 01 Jul 2024 14:39:53 +0000"
+            "published": "Mon, 01 Jul 2024 19:09:31 +0000"
         },
         {
             "title": "Robots Get a Fleshy Face (and a Smile) in New Research",
