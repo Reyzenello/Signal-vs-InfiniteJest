@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Sentient, an open-source AI development platform being built on Polygon, raised a $85M seed led by Founders Fund, Pantera Capital, and Framework Ventures (Jamie Crawley/CoinDesk)",
+            "title": "SCOTUS agrees to consider whether a Texas law requiring porn sites to verify users' age violates the First Amendment, during its next term starting in October (Andrew Chung/Reuters)",
+            "link": "http://www.techmeme.com/240702/p12#a240702p12",
+            "published": "Tue, 02 Jul 2024 10:55:00 -0400"
+        },
+        {
+            "title": "Source: Google plans AI features for the Pixel 9 under the Google AI brand, like Pixel Screenshots, which lets users search their screenshots using on-device AI (Kamila Wojciechowska/Android Authority)",
+            "link": "http://www.techmeme.com/240702/p11#a240702p11",
+            "published": "Tue, 02 Jul 2024 10:25:01 -0400"
+        },
+        {
+            "title": "Sentient, an open-source AI development platform being built on Polygon, raised an $85M seed led by Founders Fund, Pantera Capital, and Framework Ventures (Jamie Crawley/CoinDesk)",
             "link": "http://www.techmeme.com/240702/p10#a240702p10",
             "published": "Tue, 02 Jul 2024 09:30:02 -0400"
         },
@@ -14,19 +24,19 @@
             "title": "A look at why Japan, due to its culture and employment laws, is not undergoing mass layoffs in the gaming industry, as Microsoft-owned Tango Gameworks closes (Alicia Haddick/GamesIndustry.biz)",
             "link": "http://www.techmeme.com/240702/p8#a240702p8",
             "published": "Tue, 02 Jul 2024 08:00:39 -0400"
-        },
-        {
-            "title": "A look at the national security fears around Microsoft's deal with Abu Dhabi's G42, including US DOD's skepticism that G42 will entirely uncouple from China (Bloomberg)",
-            "link": "http://www.techmeme.com/240702/p7#a240702p7",
-            "published": "Tue, 02 Jul 2024 07:05:06 -0400"
-        },
-        {
-            "title": "VFX company DNEG raised $200M from Abu Dhabi's UASG at a $2B valuation, to expand its division Brahma, which is developing an AI-powered, photo-real CGI creator (Melanie Goodfellow/Deadline)",
-            "link": "http://www.techmeme.com/240702/p6#a240702p6",
-            "published": "Tue, 02 Jul 2024 06:25:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "In Ukraine War, A.I. Begins Ushering In an Age of Killer Robots",
+            "link": "https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html",
+            "published": "Tue, 02 Jul 2024 13:09:29 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s Politics May Be Pushing Some Buyers Away From Tesla",
+            "link": "https://www.nytimes.com/2024/07/02/business/elon-musk-politics-tesla-sales.html",
+            "published": "Tue, 02 Jul 2024 13:55:48 +0000"
+        },
         {
             "title": "Supreme Court Declines to Rule on Social Media Laws in Florida and Texas",
             "link": "https://www.nytimes.com/2024/07/01/us/supreme-court-free-speech-social-media.html",
@@ -38,19 +48,9 @@
             "published": "Mon, 01 Jul 2024 13:57:16 +0000"
         },
         {
-            "title": "Facial Recognition Led to Wrongful Arrests. So Detroit Is Making Changes.",
-            "link": "https://www.nytimes.com/2024/06/29/technology/detroit-facial-recognition-false-arrests.html",
-            "published": "Sat, 29 Jun 2024 07:00:47 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s Politics May Be Pushing Some Buyers Away From Tesla",
-            "link": "https://www.nytimes.com/2024/07/02/business/elon-musk-politics-tesla-sales.html",
-            "published": "Tue, 02 Jul 2024 13:55:48 +0000"
-        },
-        {
-            "title": "In Ukraine War, A.I. Begins Ushering In an Age of Killer Robots",
-            "link": "https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html",
-            "published": "Tue, 02 Jul 2024 13:09:29 +0000"
+            "title": "Robots Get a Fleshy Face (and a Smile) in New Research",
+            "link": "https://www.nytimes.com/2024/06/30/science/japan-robots-human-face.html",
+            "published": "Sun, 30 Jun 2024 15:58:23 +0000"
         }
     ],
     "source_2": [
