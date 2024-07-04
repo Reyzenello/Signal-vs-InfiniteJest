@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Evan Blass leaks Samsung's entire specs sheets and marketing materials for the Galaxy Z Fold 6 and Galaxy Z Flip 6, expected at its Unpacked event on July 10 (Sean Hollister/The Verge)",
+            "link": "http://www.techmeme.com/240704/p9#a240704p9",
+            "published": "Thu, 04 Jul 2024 08:10:02 -0400"
+        },
+        {
+            "title": "A look at the inaugural Esports World Cup, a multi-genre tournament in Riyadh funded by Saudi Arabia, featuring 1,500+ gamers and a record $60M+ prize pool (Bloomberg)",
+            "link": "http://www.techmeme.com/240704/p8#a240704p8",
+            "published": "Thu, 04 Jul 2024 07:25:01 -0400"
+        },
+        {
             "title": "A look at a16z's Crypto Startup Accelerator, a Y Combinator-style program that provides $500K in funding and 10 weeks of coaching, most recently in London (Joel Khalili/Wired)",
             "link": "http://www.techmeme.com/240704/p7#a240704p7",
             "published": "Thu, 04 Jul 2024 06:40:06 -0400"
@@ -14,16 +24,6 @@
             "title": "How the e-commerce-driven warehouse boom has transformed Shippensburg, Pennsylvania, into a distribution megaregion, much like California's Inland Empire (Tyler J Kelley/Bloomberg)",
             "link": "http://www.techmeme.com/240704/p5#a240704p5",
             "published": "Thu, 04 Jul 2024 04:10:01 -0400"
-        },
-        {
-            "title": "Researchers say GPS spoofing has impacted 60K+ commercial flights so far in 2024; GPS could become a relic as Chinese, Russian, and European systems modernize (New York Times)",
-            "link": "http://www.techmeme.com/240704/p4#a240704p4",
-            "published": "Thu, 04 Jul 2024 02:45:00 -0400"
-        },
-        {
-            "title": "A global law enforcement operation takes down 593 servers hosting unlicensed versions of Cobalt Strike, a penetration testing tool abused by cybercriminals (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/240704/p3#a240704p3",
-            "published": "Thu, 04 Jul 2024 02:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Etsy sex toy ban sparks seller outrage",
+            "link": "https://www.bbc.com/news/articles/c725wr19lz1o",
+            "published": "Thu, 04 Jul 2024 12:22:30 GMT"
+        },
+        {
             "title": "Jeff Bezos to sell another $5bn of Amazon shares",
             "link": "https://www.bbc.com/news/articles/c51yvm3354qo",
             "published": "Thu, 04 Jul 2024 05:04:13 GMT"
@@ -73,11 +78,6 @@
             "title": "AI drives 48% increase in Google emissions",
             "link": "https://www.bbc.com/news/articles/c51yvz51k2xo",
             "published": "Wed, 03 Jul 2024 11:21:08 GMT"
-        },
-        {
-            "title": "Fox set to launch free Netflix rival in UK",
-            "link": "https://www.bbc.com/news/articles/cn385lgk0vjo",
-            "published": "Tue, 02 Jul 2024 04:06:33 GMT"
         }
     ]
 }
