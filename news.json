@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Amazon announces an updated $79 Echo Spot alarm clock, with a revamped design and improved audio quality, the first update to the device since its 2017 launch (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/240709/p4#a240709p4",
+            "published": "Tue, 09 Jul 2024 06:00:30 -0400"
+        },
+        {
+            "title": "Sam Altman and Arianna Huffington announce Thrive AI Health, a new startup backed by OpenAI and Thrive Global to build a \"hyper-personalized AI health coach\" (TIME)",
+            "link": "http://www.techmeme.com/240709/p3#a240709p3",
+            "published": "Tue, 09 Jul 2024 05:35:16 -0400"
+        },
+        {
             "title": "How the US is trying to transform the world's chip supply chain, including getting more countries to set up factories to do final chip assembly and packaging (New York Times)",
             "link": "http://www.techmeme.com/240709/p2#a240709p2",
             "published": "Tue, 09 Jul 2024 04:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Hong Kong proposes stiffer penalties for illegal ride-hailing services and use of licensing to regulate platforms such as Uber, potentially limiting their scope (South China Morning Post)",
             "link": "http://www.techmeme.com/240708/p14#a240708p14",
             "published": "Mon, 08 Jul 2024 22:30:02 -0400"
-        },
-        {
-            "title": "Sources: HongShan, formerly Sequoia China, raised a $2.5B fund; the new RMB fund can more easily invest in sensitive tech than its prior $9B fund raised in USD (Financial Times)",
-            "link": "http://www.techmeme.com/240708/p13#a240708p13",
-            "published": "Mon, 08 Jul 2024 20:15:02 -0400"
-        },
-        {
-            "title": "IDC: ~3% of PCs shipped in 2024 will meet Microsoft's AI PCs processing power threshold; a source says some big app makers rebuffed a push for on-device AI (Bloomberg)",
-            "link": "http://www.techmeme.com/240708/p12#a240708p12",
-            "published": "Mon, 08 Jul 2024 17:45:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Ticketmaster warns customers to take action after hack",
+            "link": "https://www.bbc.com/news/articles/c729e3qr48qo",
+            "published": "Tue, 09 Jul 2024 10:03:10 GMT"
+        },
+        {
             "title": "China Tesla rival BYD signs $1bn Turkey plant deal",
             "link": "https://www.bbc.com/news/articles/cp08d1nq1y3o",
             "published": "Tue, 09 Jul 2024 03:17:35 GMT"
@@ -73,11 +78,6 @@
             "title": "Etsy sex toy ban sparks seller outrage",
             "link": "https://www.bbc.com/news/articles/c725wr19lz1o",
             "published": "Thu, 04 Jul 2024 12:22:30 GMT"
-        },
-        {
-            "title": "Jeff Bezos to sell another $5bn of Amazon shares",
-            "link": "https://www.bbc.com/news/articles/c51yvm3354qo",
-            "published": "Thu, 04 Jul 2024 05:04:13 GMT"
         }
     ]
 }
