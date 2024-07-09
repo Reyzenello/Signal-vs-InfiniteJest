@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A group of investors led by Vista Equity Partners has agreed to acquire a majority stake in Nasuni, valuing the hybrid cloud storage provider at ~$1.2B (Bloomberg)",
+            "link": "http://www.techmeme.com/240709/p23#a240709p23",
+            "published": "Tue, 09 Jul 2024 16:20:03 -0400"
+        },
+        {
+            "title": "A US judge dismisses more claims in a lawsuit brought by devs, who allege GitHub Copilot unlawfully copied their code; of 22 original claims, only two remain (Matthew Connatser/The Register)",
+            "link": "http://www.techmeme.com/240709/p22#a240709p22",
+            "published": "Tue, 09 Jul 2024 16:00:45 -0400"
+        },
+        {
+            "title": "Sources: xAI ends talks with Oracle to expand an existing arrangement to rent Nvidia chips; source: Oracle is not part of xAI's supercomputer project in Memphis (Anissa Gardizy/The Information)",
+            "link": "http://www.techmeme.com/240709/p21#a240709p21",
+            "published": "Tue, 09 Jul 2024 15:24:44 -0400"
+        },
+        {
             "title": "Source: a16z has secured thousands of AI chips, including Nvidia H100 GPUs, and is renting them to portfolio companies, with the aim of expanding to 20K+ GPUs (Kate Clark/The Information)",
             "link": "http://www.techmeme.com/240709/p20#a240709p20",
             "published": "Tue, 09 Jul 2024 14:30:01 -0400"
@@ -9,33 +24,18 @@
             "title": "Current and former Tesla staff: self-driving data annotation staff were told to prioritize analyzing car data of VIP drivers, like Elon Musk and YouTube stars (Grace Kay/Business Insider)",
             "link": "http://www.techmeme.com/240709/p19#a240709p19",
             "published": "Tue, 09 Jul 2024 14:00:29 -0400"
-        },
-        {
-            "title": "Sources: xAI ends talks with Oracle to expand an existing arrangement to rent Nvidia chips; source: Oracle is not part of xAI's supercomputer project in Memphis (Aaron Holmes/The Information)",
-            "link": "http://www.techmeme.com/240709/p18#a240709p18",
-            "published": "Tue, 09 Jul 2024 13:05:00 -0400"
-        },
-        {
-            "title": "Google begins rolling out speedometers in Google Maps for iOS and CarPlay globally, more than five years after adding the features to the Android app (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/240709/p17#a240709p17",
-            "published": "Tue, 09 Jul 2024 12:20:13 -0400"
-        },
-        {
-            "title": "Illinois enacted new rules in its Child Labor Law on July 1 to mandate influencer parents pay their under-16 kids for appearing in their social media content (Chris Morris/Fortune)",
-            "link": "http://www.techmeme.com/240709/p16#a240709p16",
-            "published": "Tue, 09 Jul 2024 12:00:38 -0400"
         }
     ],
     "source_1": [
         {
             "title": "FTC Bars Messaging App NGL From Serving Users Under Age 18",
             "link": "https://www.nytimes.com/2024/07/09/technology/ngl-app-ftc-settlement.html",
-            "published": "Tue, 09 Jul 2024 17:16:20 +0000"
+            "published": "Tue, 09 Jul 2024 19:59:36 +0000"
         },
         {
             "title": "U.S. Plans Up to $1.6 Billion in Funding for Packaging Computer Chips",
             "link": "https://www.nytimes.com/2024/07/09/technology/chips-packaging-semiconductors.html",
-            "published": "Tue, 09 Jul 2024 16:58:04 +0000"
+            "published": "Tue, 09 Jul 2024 19:29:23 +0000"
         },
         {
             "title": "Students Target Teachers in Group TikTok Attack, Shaking Their School",
@@ -50,7 +50,7 @@
         {
             "title": "Tesla\u2019s Share of U.S. Electric Car Market Falls Below 50%",
             "link": "https://www.nytimes.com/2024/07/09/business/tesla-electric-vehicles-market-share.html",
-            "published": "Tue, 09 Jul 2024 18:47:56 +0000"
+            "published": "Tue, 09 Jul 2024 20:02:28 +0000"
         }
     ],
     "source_2": [
