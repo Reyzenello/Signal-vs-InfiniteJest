@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "IDC: global shipments of PCs reached 64.9M units in Q2 2024, up 3% YoY; Apple's shipments rose 20.8% YoY, the biggest jump among global PC makers (Harshita Mary Varghese/Reuters)",
+            "link": "http://www.techmeme.com/240709/p32#a240709p32",
+            "published": "Tue, 09 Jul 2024 21:30:21 -0400"
+        },
+        {
+            "title": "Anthropic now lets developers use Claude 3.5 Sonnet to generate, test, and evaluate their prompts, and adds new features, like generating automatic test cases (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/240709/p31#a240709p31",
+            "published": "Tue, 09 Jul 2024 20:40:08 -0400"
+        },
+        {
+            "title": "Google will make its dark web monitoring feature available to all users for free in late July 2024, no longer requiring a Google One membership to access it (Damien Wilde/9to5Google)",
+            "link": "http://www.techmeme.com/240709/p30#a240709p30",
+            "published": "Tue, 09 Jul 2024 19:45:19 -0400"
+        },
+        {
             "title": "Microsoft hikes the price of Xbox Game Pass Ultimate by $3 to $20/month for new subscribers and plans a Standard tier for $14.99/month without day-one titles (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/240709/p29#a240709p29",
             "published": "Tue, 09 Jul 2024 19:05:04 -0400"
@@ -9,21 +24,6 @@
             "title": "Filing: Evolve Bank & Trust says that the personal data of at least 7.6M people was accessed during a February 2024 ransomware attack by LockBit (Carly Page/TechCrunch)",
             "link": "http://www.techmeme.com/240709/p28#a240709p28",
             "published": "Tue, 09 Jul 2024 18:40:00 -0400"
-        },
-        {
-            "title": "The Biden administration says it will direct up to $1.6B in CHIPS Act funding towards R&D to accelerate domestic capacity for advanced chip packaging (Don Clark/New York Times)",
-            "link": "http://www.techmeme.com/240709/p27#a240709p27",
-            "published": "Tue, 09 Jul 2024 18:15:02 -0400"
-        },
-        {
-            "title": "The US DOJ and its partners seized two domain names and 968 accounts on X used by Russian actors to create an AI-enhanced bot farm that spread disinformation (Michael Kan/PCMag)",
-            "link": "http://www.techmeme.com/240709/p26#a240709p26",
-            "published": "Tue, 09 Jul 2024 17:50:06 -0400"
-        },
-        {
-            "title": "Source: the Google Pixel Watch 3 will come in 41mm and 45mm sizes, have smaller 4.5mm bezels, a brighter 2,000-nit display, and ultra-wideband support (Kamila Wojciechowska/Android Authority)",
-            "link": "http://www.techmeme.com/240709/p25#a240709p25",
-            "published": "Tue, 09 Jul 2024 17:05:13 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "U.S. Plans Up to $1.6 Billion in Funding for Packaging Computer Chips",
             "link": "https://www.nytimes.com/2024/07/09/technology/chips-packaging-semiconductors.html",
-            "published": "Tue, 09 Jul 2024 19:29:23 +0000"
+            "published": "Tue, 09 Jul 2024 23:55:02 +0000"
         },
         {
             "title": "Students Target Teachers in Group TikTok Attack, Shaking Their School",
