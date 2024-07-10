@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft gives up an observer seat on OpenAI's board, saying it has seen \"significant progress\" from the new board and is \"confident\" in OpenAI's direction (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/240710/p2#a240710p2",
+            "published": "Wed, 10 Jul 2024 01:20:03 -0400"
+        },
+        {
+            "title": "Index Ventures, an early investor in Mistral and Cohere, closed $2.3B to chase AI breakthroughs and says that 50%+ of its recent investments have been in AI (Financial Times)",
+            "link": "http://www.techmeme.com/240710/p1#a240710p1",
+            "published": "Wed, 10 Jul 2024 00:50:01 -0400"
+        },
+        {
             "title": "Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 (Akshat Rathi/Bloomberg)",
             "link": "http://www.techmeme.com/240709/p35#a240709p35",
             "published": "Tue, 09 Jul 2024 23:45:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Microsoft agrees to buy a record 500K carbon credits from US oil producer Occidental's 1PointFive to offset its emissions amid the AI energy surge (Financial Times)",
             "link": "http://www.techmeme.com/240709/p33#a240709p33",
             "published": "Tue, 09 Jul 2024 22:00:03 -0400"
-        },
-        {
-            "title": "IDC: global shipments of PCs reached 64.9M units in Q2 2024, up 3% YoY; Apple's shipments rose 20.8% YoY, the biggest jump among global PC makers (Harshita Mary Varghese/Reuters)",
-            "link": "http://www.techmeme.com/240709/p32#a240709p32",
-            "published": "Tue, 09 Jul 2024 21:30:21 -0400"
-        },
-        {
-            "title": "Anthropic now lets developers use Claude 3.5 Sonnet to generate, test, and evaluate their prompts, and adds new features, like generating automatic test cases (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/240709/p31#a240709p31",
-            "published": "Tue, 09 Jul 2024 20:40:08 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Tech giant Samsung hit with indefinite strike",
             "link": "https://www.bbc.com/news/articles/c51yelv4e72o",
-            "published": "Wed, 10 Jul 2024 02:57:44 GMT"
+            "published": "Wed, 10 Jul 2024 05:04:58 GMT"
         },
         {
             "title": "Ticketmaster warns customers to take action after hack",
