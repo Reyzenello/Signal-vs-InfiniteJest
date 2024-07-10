@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Earned Wealth, which offers wealth management services to medical professionals, raises $200M, and says it has 3,000+ clients and $2B of assets under management (Valida Pau/Bloomberg)",
+            "link": "http://www.techmeme.com/240710/p33#a240710p33",
+            "published": "Wed, 10 Jul 2024 16:40:01 -0400"
+        },
+        {
             "title": "Apple and Google expand on their data portability initiative to allow users of Google Photos to transfer their collections directly to iCloud Photos (Chance Miller/9to5Mac)",
             "link": "http://www.techmeme.com/240710/p32#a240710p32",
             "published": "Wed, 10 Jul 2024 15:15:06 -0400"
@@ -19,14 +24,19 @@
             "title": "OpenAI and Los Alamos National Laboratory announce a partnership to evaluate how multimodal AI models can be used safely by scientists in laboratory settings (Evan Gorelick/Bloomberg)",
             "link": "http://www.techmeme.com/240710/p29#a240710p29",
             "published": "Wed, 10 Jul 2024 13:10:01 -0400"
-        },
-        {
-            "title": "Source: Apple aims to ship 90M+ iPhone 16 series devices in 2024, after shipping about 81M iPhone 15s in H2 2023, as it counts on AI services to boost demand (Bloomberg)",
-            "link": "http://www.techmeme.com/240710/p28#a240710p28",
-            "published": "Wed, 10 Jul 2024 12:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Microsoft Surrenders OpenAI Board Position",
+            "link": "https://www.nytimes.com/2024/07/10/technology/microsoft-openai-board.html",
+            "published": "Wed, 10 Jul 2024 20:45:37 +0000"
+        },
+        {
+            "title": "Amazon Says It Reached a Climate Goal Seven Years Early",
+            "link": "https://www.nytimes.com/2024/07/10/business/energy-environment/amazon-clean-energy-climate-change.html",
+            "published": "Wed, 10 Jul 2024 12:38:47 +0000"
+        },
         {
             "title": "FTC Bars Messaging App NGL From Serving Users Under Age 18",
             "link": "https://www.nytimes.com/2024/07/09/technology/ngl-app-ftc-settlement.html",
@@ -38,19 +48,9 @@
             "published": "Tue, 09 Jul 2024 23:55:02 +0000"
         },
         {
-            "title": "Students Target Teachers in Group TikTok Attack, Shaking Their School",
-            "link": "https://www.nytimes.com/2024/07/06/technology/tiktok-fake-teachers-pennsylvania.html",
-            "published": "Sat, 06 Jul 2024 09:00:51 +0000"
-        },
-        {
-            "title": "Ray Kurzweil Still Says He Will Merge With A.I.",
-            "link": "https://www.nytimes.com/2024/07/04/technology/ray-kurzweil-singularity.html",
-            "published": "Thu, 04 Jul 2024 17:00:13 +0000"
-        },
-        {
-            "title": "Amazon Says It Reached a Climate Goal Seven Years Early",
-            "link": "https://www.nytimes.com/2024/07/10/business/energy-environment/amazon-clean-energy-climate-change.html",
-            "published": "Wed, 10 Jul 2024 12:38:47 +0000"
+            "title": "Defeated by A.I., a Legend in the Board Game Go Warns: Get Ready for What\u2019s Next",
+            "link": "https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html",
+            "published": "Wed, 10 Jul 2024 04:01:26 +0000"
         }
     ],
     "source_2": [
