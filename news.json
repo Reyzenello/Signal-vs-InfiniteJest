@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "FTC source: Microsoft ditching its OpenAI board observer seat is unlikely to resolve the FTC's concerns, as the agency conducts an antitrust review of AI deals (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/240710/p26#a240710p26",
+            "published": "Wed, 10 Jul 2024 11:15:03 -0400"
+        },
+        {
+            "title": "Microsoft and trade group CISPE agree a deal to settle CISPE's antitrust complaint; CISPE members can run software on Azure at prices equivalent to Microsoft's (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/240710/p25#a240710p25",
+            "published": "Wed, 10 Jul 2024 10:50:01 -0400"
+        },
+        {
             "title": "AMD agrees to buy Helsinki-based Silo AI, which offers tailored AI models and platforms to enterprise customers, for $665M in cash; Silo has a 300-person team (Financial Times)",
             "link": "http://www.techmeme.com/240710/p24#a240710p24",
             "published": "Wed, 10 Jul 2024 10:10:01 -0400"
         },
         {
-            "title": "Samsung Galaxy Z Fold6 and Z Flip6 hands-on: new cameras are great, expanded Galaxy AI features, 12GB of RAM, and stronger frames, but both cost $100 more (Sam Rutherford/Engadget)",
+            "title": "Samsung Galaxy Z Fold6 and Z Flip6 hands-on: much better cameras, expanded Galaxy AI features, 12GB of RAM, and 10% stronger frames, but both cost $100 more (Sam Rutherford/Engadget)",
             "link": "http://www.techmeme.com/240710/p23#a240710p23",
             "published": "Wed, 10 Jul 2024 09:50:14 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Intuit plans to cut ~10% of its global workforce, or ~1,800 employees, and rehire the same number of staff, primarily in engineering, product, and sales (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/240710/p22#a240710p22",
             "published": "Wed, 10 Jul 2024 09:40:01 -0400"
-        },
-        {
-            "title": "Google updates Gemini for Android to work better with foldables, expands Circle to Search, and more; the Galaxy Watch7 and Watch Ultra will ship with Wear OS 5 (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/240710/p21#a240710p21",
-            "published": "Wed, 10 Jul 2024 09:35:07 -0400"
-        },
-        {
-            "title": "Samsung hikes the Galaxy Z Flip6 and Z Fold6 by $100 to $1,099+ and $1,899, respectively, aiming to reclaim the lead in foldables as Chinese competition mounts (Yoolim Lee/Bloomberg)",
-            "link": "http://www.techmeme.com/240710/p20#a240710p20",
-            "published": "Wed, 10 Jul 2024 09:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Samsung becomes first tech giant to launch a smart ring",
+            "link": "https://www.bbc.com/news/articles/c978902e0ljo",
+            "published": "Wed, 10 Jul 2024 15:05:02 GMT"
+        },
+        {
             "title": "Microsoft hiking Xbox Game Pass prices by up to 25%",
             "link": "https://www.bbc.com/news/articles/czk0dzkjln7o",
             "published": "Wed, 10 Jul 2024 10:17:02 GMT"
@@ -73,11 +78,6 @@
             "title": "China Tesla rival BYD signs $1bn Turkey plant deal",
             "link": "https://www.bbc.com/news/articles/cp08d1nq1y3o",
             "published": "Tue, 09 Jul 2024 03:17:35 GMT"
-        },
-        {
-            "title": "Amazon at 30: What next for 'The Everything Company'?",
-            "link": "https://www.bbc.com/news/articles/cqv5l6vnvqjo",
-            "published": "Fri, 05 Jul 2024 12:02:30 GMT"
         }
     ]
 }
