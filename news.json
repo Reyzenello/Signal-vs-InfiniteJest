@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A Google DeepMind research paper details how Gemini 1.5 Pro's 1M-token context window allows its robots to navigate and complete tasks using simple instructions (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/240711/p18#a240711p18",
+            "published": "Thu, 11 Jul 2024 10:55:00 -0400"
+        },
+        {
             "title": "The US SEC drops its investigation into Paxos over its BUSD stablecoin, after sending Paxos a Wells notice in February 2023 (Leo Schwartz/Fortune)",
             "link": "http://www.techmeme.com/240711/p17#a240711p17",
             "published": "Thu, 11 Jul 2024 10:15:17 -0400"
@@ -19,45 +24,40 @@
             "title": "Silicon Valley Defense Group: the US federal government spent $22B on tech from the top 100 national security startups, a paltry sum and far below VC investment (Heather Somerville/Wall Street Journal)",
             "link": "http://www.techmeme.com/240711/p14#a240711p14",
             "published": "Thu, 11 Jul 2024 07:30:01 -0400"
-        },
-        {
-            "title": "IDC estimates that Apple will sell under 500K Vision Pro units in 2024, and the headset's international launch will offset a 75% QoQ drop in US sales in Q3 2024 (Vlad Savov/Bloomberg)",
-            "link": "http://www.techmeme.com/240711/p13#a240711p13",
-            "published": "Thu, 11 Jul 2024 06:35:10 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Elon Musk and SpaceX Plan to Colonize Mars",
+            "link": "https://www.nytimes.com/2024/07/11/technology/elon-musk-spacex-mars.html",
+            "published": "Thu, 11 Jul 2024 09:00:54 +0000"
+        },
+        {
+            "title": "Apple Settles E.U. Case by Opening Its Payment Service to Rivals",
+            "link": "https://www.nytimes.com/2024/07/11/business/apple-european-union-antitrust.html",
+            "published": "Thu, 11 Jul 2024 12:36:59 +0000"
+        },
+        {
+            "title": "Defeated by A.I., a Legend in the Board Game Go Warns: Get Ready for What\u2019s Next",
+            "link": "https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html",
+            "published": "Wed, 10 Jul 2024 04:01:26 +0000"
+        },
         {
             "title": "Microsoft Surrenders OpenAI Board Position",
             "link": "https://www.nytimes.com/2024/07/10/technology/microsoft-openai-board.html",
             "published": "Wed, 10 Jul 2024 20:45:37 +0000"
         },
         {
-            "title": "Amazon Says It Reached a Climate Goal Seven Years Early",
-            "link": "https://www.nytimes.com/2024/07/10/business/energy-environment/amazon-clean-energy-climate-change.html",
-            "published": "Thu, 11 Jul 2024 04:30:54 +0000"
-        },
-        {
-            "title": "FTC Bars Messaging App NGL From Serving Users Under Age 18",
-            "link": "https://www.nytimes.com/2024/07/09/technology/ngl-app-ftc-settlement.html",
-            "published": "Tue, 09 Jul 2024 19:59:36 +0000"
-        },
-        {
-            "title": "U.S. Plans Up to $1.6 Billion in Funding for Packaging Computer Chips",
-            "link": "https://www.nytimes.com/2024/07/09/technology/chips-packaging-semiconductors.html",
-            "published": "Tue, 09 Jul 2024 23:55:02 +0000"
-        },
-        {
-            "title": "Apple Settles E.U. Case by Opening Its Payment Service to Rivals",
-            "link": "https://www.nytimes.com/2024/07/11/business/apple-european-union-antitrust.html",
-            "published": "Thu, 11 Jul 2024 12:36:59 +0000"
+            "title": "Germany to Strip Huawei From Its 5G Networks",
+            "link": "https://www.nytimes.com/2024/07/11/business/huawei-germany-ban.html",
+            "published": "Thu, 11 Jul 2024 15:11:20 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Microsoft killed my online life after I called Gaza",
+            "title": "Palestinians say Microsoft unfairly closing their accounts",
             "link": "https://www.bbc.com/news/articles/cger582weplo",
-            "published": "Wed, 10 Jul 2024 23:16:04 GMT"
+            "published": "Thu, 11 Jul 2024 14:27:45 GMT"
         },
         {
             "title": "Musk defeats ex-Twitter staff seeking $500m in severance",
