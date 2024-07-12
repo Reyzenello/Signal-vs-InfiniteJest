@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Signal plans to roll out a beta version of its desktop apps that tightens the security of how it stores plain text encryption keys, after downplaying the issue (Lawrence Abrams/BleepingComputer)",
+            "link": "http://www.techmeme.com/240711/p28#a240711p28",
+            "published": "Thu, 11 Jul 2024 21:05:01 -0400"
+        },
+        {
+            "title": "SoftBank buys struggling UK-based chip company Graphcore with full regulatory approval granted; the once touted Nvidia rival was valued at ~$2.8B in Dec. 2020 (Paul Sawers/TechCrunch)",
+            "link": "http://www.techmeme.com/240711/p27#a240711p27",
+            "published": "Thu, 11 Jul 2024 19:30:03 -0400"
+        },
+        {
             "title": "OpenAI creates five levels to track its progress toward AGI: Chatbots, Reasoners, Agents, Innovators, and Organizations, and says it's nearly at level two (Rachel Metz/Bloomberg)",
             "link": "http://www.techmeme.com/240711/p26#a240711p26",
             "published": "Thu, 11 Jul 2024 18:00:28 -0400"
@@ -14,16 +24,6 @@
             "title": "Chainalysis: more than half of all illicit transaction volume in crypto now winds up on centralized exchanges (Olga Kharif/Bloomberg)",
             "link": "http://www.techmeme.com/240711/p24#a240711p24",
             "published": "Thu, 11 Jul 2024 15:30:02 -0400"
-        },
-        {
-            "title": "Arab and Muslim workers at Meta detail frustrations over Meta's handling of internal discussions on the Israel-Hamas war, worrying it led to bad product choices (Wired)",
-            "link": "http://www.techmeme.com/240711/p23#a240711p23",
-            "published": "Thu, 11 Jul 2024 14:00:26 -0400"
-        },
-        {
-            "title": "A US judge sentences Ukrainian Vyacheslav Igorevich Penchukov, who helped lead the prolific Zeus malware gang, to 18 years in jail and orders payment of $73M+ (Matt Burgess/Wired)",
-            "link": "http://www.techmeme.com/240711/p22#a240711p22",
-            "published": "Thu, 11 Jul 2024 13:15:00 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Microsoft Surrenders OpenAI Board Position",
             "link": "https://www.nytimes.com/2024/07/10/technology/microsoft-openai-board.html",
-            "published": "Wed, 10 Jul 2024 20:45:37 +0000"
+            "published": "Wed, 10 Jul 2024 20:45:38 +0000"
         },
         {
             "title": "Even the Best Tools to Fight Disinformation Are Not Enough",
