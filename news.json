@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Source: Meta plans to release the largest version of its Llama 3 model with 405B parameters and multimodal capabilities on July 23 (The Information)",
+            "title": "Source: online ticketing service StubHub delays a potential US IPO until after Labor Day, after reportedly eyeing a summer IPO with a $16.5B+ valuation (CNBC)",
+            "link": "http://www.techmeme.com/240712/p17#a240712p17",
+            "published": "Fri, 12 Jul 2024 13:05:04 -0400"
+        },
+        {
+            "title": "Saudi Arabia will host the inaugural Olympic Esports Games in 2025, as part of a newly announced 12-year partnership with the Olympic Committee (Cecilia D'Anastasio/Bloomberg)",
+            "link": "http://www.techmeme.com/240712/p16#a240712p16",
+            "published": "Fri, 12 Jul 2024 12:30:04 -0400"
+        },
+        {
+            "title": "Source: Meta plans to release the largest version of its Llama 3 model, expected to have 405B parameters and multimodal capabilities, on July 23 (The Information)",
             "link": "http://www.techmeme.com/240712/p15#a240712p15",
             "published": "Fri, 12 Jul 2024 12:10:00 -0400"
         },
@@ -11,19 +21,9 @@
             "published": "Fri, 12 Jul 2024 11:45:05 -0400"
         },
         {
-            "title": "The EU publishes the final text of the EU AI Act; the law will come into force on August 1, 2024, and most companies have until August 2026 to comply (Natasha Lomas/TechCrunch)",
+            "title": "The EU publishes the EU AI Act's final text, which comes into force on August 1, 2024; most companies have until August 2026 to comply with transparency rules (Natasha Lomas/TechCrunch)",
             "link": "http://www.techmeme.com/240712/p13#a240712p13",
             "published": "Fri, 12 Jul 2024 11:15:00 -0400"
-        },
-        {
-            "title": "Amazon says its AI shopping assistant Rufus is live in the Amazon mobile app for all US customers, after launching in beta for select customers in February 2024 (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/240712/p12#a240712p12",
-            "published": "Fri, 12 Jul 2024 10:00:37 -0400"
-        },
-        {
-            "title": "New York-based Standard Bots, which makes AI-powered robotic arms, raised $63M over a series of deals, including a $39M Series B led by General Catalyst (Paayal Zaveri/Bloomberg)",
-            "link": "http://www.techmeme.com/240712/p11#a240712p11",
-            "published": "Fri, 12 Jul 2024 09:35:02 -0400"
         }
     ],
     "source_1": [
@@ -50,14 +50,14 @@
         {
             "title": "SpaceX Rocket Fails, Breaking Apart in Orbit",
             "link": "https://www.nytimes.com/2024/07/12/science/spacex-falcon-9-rocket-fail-starlink-launch.html",
-            "published": "Fri, 12 Jul 2024 15:32:43 +0000"
+            "published": "Fri, 12 Jul 2024 16:28:21 +0000"
         }
     ],
     "source_2": [
         {
             "title": "EU says X\u2019s blue tick accounts deceive users",
             "link": "https://www.bbc.com/news/articles/cw0y1ezpv5xo",
-            "published": "Fri, 12 Jul 2024 13:27:22 GMT"
+            "published": "Fri, 12 Jul 2024 16:56:53 GMT"
         },
         {
             "title": "Pioneering British AI chip designer bought by Japanese firm",
