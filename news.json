@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Apple launches the public betas for iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11, but without any Apple Intelligence features (Wes Davis/The Verge)",
+            "link": "http://www.techmeme.com/240715/p23#a240715p23",
+            "published": "Mon, 15 Jul 2024 16:40:03 -0400"
+        },
+        {
+            "title": "Nullbulge, a hacktivist group critical of AI art, leaks Slack messages allegedly from Disney due to \"how it handles artist contracts\" and \"its approach to AI\" (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240715/p22#a240715p22",
+            "published": "Mon, 15 Jul 2024 16:35:16 -0400"
+        },
+        {
             "title": "A look at Trump VP pick JD Vance's tech ties, including working at Peter Thiel's Mithril Capital and investing in Rumble; Vance advocated repealing Section 230 (Vittoria Elliott/Wired)",
             "link": "http://www.techmeme.com/240715/p21#a240715p21",
             "published": "Mon, 15 Jul 2024 16:15:01 -0400"
@@ -14,19 +24,14 @@
             "title": "YouTube Music tests \"AI-generated conversational radio\", which lets Premium users in the US create a custom radio station by \"describing exactly what they want\" (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/240715/p19#a240715p19",
             "published": "Mon, 15 Jul 2024 14:15:04 -0400"
-        },
-        {
-            "title": "Kaspersky plans to close its US business and eliminate US-based positions, following the country's ban on the sale of its antivirus tool starting July 20 (Kim Zetter/ZERO DAY)",
-            "link": "http://www.techmeme.com/240715/p18#a240715p18",
-            "published": "Mon, 15 Jul 2024 14:00:25 -0400"
-        },
-        {
-            "title": "Kindo, which helps enterprises securely adopt and manage AI tools, raised $20.6M led by Drive Capital, and buys open-source security project WhiteRabbitNeo (Dean Takahashi/VentureBeat)",
-            "link": "http://www.techmeme.com/240715/p17#a240715p17",
-            "published": "Mon, 15 Jul 2024 13:45:06 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Donald Trump Was Shot. Then the Conspiracy Theories Spread.",
+            "link": "https://www.nytimes.com/2024/07/15/technology/trump-shooting-conspiracy-theories.html",
+            "published": "Mon, 15 Jul 2024 21:11:16 +0000"
+        },
         {
             "title": "How Microsoft\u2019s Satya Nadella Became Tech\u2019s Steely Eyed A.I. Gambler",
             "link": "https://www.nytimes.com/2024/07/14/technology/microsoft-ai-satya-nadella.html",
@@ -41,11 +46,6 @@
             "title": "The End of the Affair? Not for Eric Schmidt.",
             "link": "https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html",
             "published": "Fri, 12 Jul 2024 17:26:01 +0000"
-        },
-        {
-            "title": "Saudi Money Makes a Big Splash in Video Games",
-            "link": "https://www.nytimes.com/2024/07/12/technology/saudi-arabia-video-game-investment.html",
-            "published": "Fri, 12 Jul 2024 18:38:41 +0000"
         },
         {
             "title": "Electric Vehicles May Become Harder to Rent",
