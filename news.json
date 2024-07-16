@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Taboola's CEO says the company has struck a deal with Apple to power native advertising within the Apple News and Apple Stocks apps; TBLA stock jumps 9%+ (Sara Fischer/Axios)",
+            "title": "Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, and Pixel 9 Pro Fold details, including photos, battery sizes, and charging speeds, leak from Taiwanese regulator NCC (Kamila Wojciechowska/Android Authority)",
+            "link": "http://www.techmeme.com/240716/p16#a240716p16",
+            "published": "Tue, 16 Jul 2024 12:15:01 -0400"
+        },
+        {
+            "title": "Investigation: Apple, Nvidia, Anthropic, and others trained their AI on a dataset that contained YouTube video transcripts, including from the WSJ, MrBeast, MIT (Proof)",
+            "link": "http://www.techmeme.com/240716/p15#a240716p15",
+            "published": "Tue, 16 Jul 2024 11:30:00 -0400"
+        },
+        {
+            "title": "Taboola CEO Adam Singolda says the company has struck a deal with Apple to power native advertising in the Apple News and Apple Stocks apps; TBLA jumps ~5% (Sara Fischer/Axios)",
             "link": "http://www.techmeme.com/240716/p14#a240716p14",
             "published": "Tue, 16 Jul 2024 11:00:42 -0400"
         },
@@ -11,19 +21,9 @@
             "published": "Tue, 16 Jul 2024 09:40:01 -0400"
         },
         {
-            "title": "Vectara, which offers AI \"grounded search\", or Retrieval Augmented Generation, tools to enterprise, raised a $25M Series A, following a $28.5M seed in 2023 (Sean Michael Kerner/VentureBeat)",
+            "title": "Vectara, which offers AI \"grounded search\", or Retrieval Augmented Generation, tools for enterprises, raised a $25M Series A, following a $28.5M seed in 2023 (Sean Michael Kerner/VentureBeat)",
             "link": "http://www.techmeme.com/240716/p12#a240716p12",
             "published": "Tue, 16 Jul 2024 09:25:01 -0400"
-        },
-        {
-            "title": "The UK CMA opens a formal investigation into Microsoft's Inflection AI investment, and sets a September 11 deadline on whether to open an in-depth investigation (Katharine Gemmell/Bloomberg)",
-            "link": "http://www.techmeme.com/240716/p11#a240716p11",
-            "published": "Tue, 16 Jul 2024 07:35:02 -0400"
-        },
-        {
-            "title": "After Trump was shot, Elon Musk backed his bid and made 100+ posts stepping up his political speech, entering uncharted territory for a social media leader (New York Times)",
-            "link": "http://www.techmeme.com/240716/p10#a240716p10",
-            "published": "Tue, 16 Jul 2024 06:45:06 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 15 Jul 2024 18:31:38 +0000"
         },
         {
-            "title": "Electric Vehicles May Become Harder to Rent",
-            "link": "https://www.nytimes.com/2024/07/14/business/electric-vehicles-rental-cars.html",
-            "published": "Mon, 15 Jul 2024 19:30:02 +0000"
+            "title": "In the Age of A.I., How Much Is Silicon Valley Prepared to Give Back?",
+            "link": "https://www.nytimes.com/2024/07/16/technology/universal-income-openai-silicon-valley.html",
+            "published": "Tue, 16 Jul 2024 15:44:32 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Microsoft's hire of start-up staff probed as possible merger",
+            "link": "https://www.bbc.com/news/articles/crg5eemmn9eo",
+            "published": "Tue, 16 Jul 2024 16:09:59 GMT"
+        },
         {
             "title": "Disney investigating massive leak of internal messages",
             "link": "https://www.bbc.com/news/articles/cprq1d280ggo",
@@ -65,19 +70,14 @@
             "published": "Tue, 16 Jul 2024 09:56:24 GMT"
         },
         {
+            "title": "'Pivotal' quantum computing chip unveiled",
+            "link": "https://www.bbc.com/news/articles/cgxq789931go",
+            "published": "Tue, 16 Jul 2024 05:04:27 GMT"
+        },
+        {
             "title": "Russia antivirus firm Kaspersky quits US after ban",
             "link": "https://www.bbc.com/news/articles/cyr7ex16p32o",
             "published": "Tue, 16 Jul 2024 04:42:50 GMT"
-        },
-        {
-            "title": "As Apple headset reaches Europe, will VR ever hit the mainstream?",
-            "link": "https://www.bbc.com/news/articles/c51yl7q8z42o",
-            "published": "Sat, 13 Jul 2024 02:02:24 GMT"
-        },
-        {
-            "title": "EU says X\u2019s blue tick accounts deceive users",
-            "link": "https://www.bbc.com/news/articles/cw0y1ezpv5xo",
-            "published": "Fri, 12 Jul 2024 20:49:26 GMT"
         }
     ]
 }
