@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Marc Andreessen and Ben Horowitz have told a16z staff in recent days that they plan to make large donations to PACs supporting Donald Trump (The Information)",
+            "title": "Taboola's CEO says the company has struck a deal with Apple to power native advertising within the Apple News and Apple Stocks apps; TBLA stock jumps 9%+ (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/240716/p14#a240716p14",
+            "published": "Tue, 16 Jul 2024 11:00:42 -0400"
+        },
+        {
+            "title": "Sources: Marc Andreessen and Ben Horowitz have told a16z staff in recent days that they plan to make large donations to PACs supporting Donald Trump's campaign (The Information)",
             "link": "http://www.techmeme.com/240716/p13#a240716p13",
             "published": "Tue, 16 Jul 2024 09:40:01 -0400"
         },
@@ -11,7 +16,7 @@
             "published": "Tue, 16 Jul 2024 09:25:01 -0400"
         },
         {
-            "title": "The UK CMA opens a formal investigation into Microsoft's Inflection AI investment, and sets a September 11 deadline on opening an in-depth investigation (Katharine Gemmell/Bloomberg)",
+            "title": "The UK CMA opens a formal investigation into Microsoft's Inflection AI investment, and sets a September 11 deadline on whether to open an in-depth investigation (Katharine Gemmell/Bloomberg)",
             "link": "http://www.techmeme.com/240716/p11#a240716p11",
             "published": "Tue, 16 Jul 2024 07:35:02 -0400"
         },
@@ -19,14 +24,14 @@
             "title": "After Trump was shot, Elon Musk backed his bid and made 100+ posts stepping up his political speech, entering uncharted territory for a social media leader (New York Times)",
             "link": "http://www.techmeme.com/240716/p10#a240716p10",
             "published": "Tue, 16 Jul 2024 06:45:06 -0400"
-        },
-        {
-            "title": "Shanghai government website: Huawei is close to finishing building its $1.4B chip R&D center in Shanghai, housing ~30,000 staff and covering 1.6M square meters (Bloomberg)",
-            "link": "http://www.techmeme.com/240716/p9#a240716p9",
-            "published": "Tue, 16 Jul 2024 06:25:05 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk Enters Uncharted Territory With Trump Endorsement",
+            "link": "https://www.nytimes.com/2024/07/16/technology/elon-musk-trump.html",
+            "published": "Tue, 16 Jul 2024 09:03:54 +0000"
+        },
         {
             "title": "Donald Trump Was Shot. Then the Conspiracy Theories Spread.",
             "link": "https://www.nytimes.com/2024/07/15/technology/trump-shooting-conspiracy-theories.html",
@@ -35,7 +40,7 @@
         {
             "title": "How Microsoft\u2019s Satya Nadella Became Tech\u2019s Steely Eyed A.I. Gambler",
             "link": "https://www.nytimes.com/2024/07/14/technology/microsoft-ai-satya-nadella.html",
-            "published": "Mon, 15 Jul 2024 22:19:17 +0000"
+            "published": "Tue, 16 Jul 2024 15:05:23 +0000"
         },
         {
             "title": "Google Close to Its Biggest Acquisition Ever, Despite Antitrust Scrutiny",
@@ -43,14 +48,9 @@
             "published": "Mon, 15 Jul 2024 18:31:38 +0000"
         },
         {
-            "title": "The End of the Affair? Not for Eric Schmidt.",
-            "link": "https://www.nytimes.com/2024/07/12/technology/eric-schmidt-affair.html",
-            "published": "Fri, 12 Jul 2024 17:26:01 +0000"
-        },
-        {
-            "title": "Elon Musk Enters Uncharted Territory With Trump Endorsement",
-            "link": "https://www.nytimes.com/2024/07/16/technology/elon-musk-trump.html",
-            "published": "Tue, 16 Jul 2024 09:03:54 +0000"
+            "title": "Electric Vehicles May Become Harder to Rent",
+            "link": "https://www.nytimes.com/2024/07/14/business/electric-vehicles-rental-cars.html",
+            "published": "Mon, 15 Jul 2024 19:30:02 +0000"
         }
     ],
     "source_2": [
