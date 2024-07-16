@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Xreal Beam Pro hands-on: the $199 Android companion to Xreal's AR glasses feels a bit underpowered and unfinished, with too many bugs in AR-specific features (David Pierce/The Verge)",
+            "link": "http://www.techmeme.com/240716/p8#a240716p8",
+            "published": "Tue, 16 Jul 2024 06:10:01 -0400"
+        },
+        {
+            "title": "London-based Huma Therapeutics, which uses AI to help developers make health apps, raised an $80M Series D at a near-$1B valuation, for $300M in total funding (Saritha Rai/Bloomberg)",
+            "link": "http://www.techmeme.com/240716/p7#a240716p7",
+            "published": "Tue, 16 Jul 2024 05:55:02 -0400"
+        },
+        {
+            "title": "Bengaluru-based Moving Tech, which develops the open-source ride-sharing app Namma Yatri with a no-commission model, raised an $11M pre-Series A (Manish Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/240716/p6#a240716p6",
+            "published": "Tue, 16 Jul 2024 05:35:14 -0400"
+        },
+        {
             "title": "An Indian court allows insolvency proceedings to begin against edtech startup Byju's, and installs an interim resolution professional to replace Byju Raveendran (Bloomberg)",
             "link": "http://www.techmeme.com/240716/p5#a240716p5",
             "published": "Tue, 16 Jul 2024 05:20:05 -0400"
@@ -9,21 +24,6 @@
             "title": "As the EU's AI Act takes effect in August, critics say the law is undercooked and regulators left out essential details needed to give clarity to businesses (Javier Espinoza/Financial Times)",
             "link": "http://www.techmeme.com/240716/p4#a240716p4",
             "published": "Tue, 16 Jul 2024 03:55:19 -0400"
-        },
-        {
-            "title": "Analysis: Intel's VC arm is one of the most active foreign investors in Chinese AI and chip startups; Intel Capital owns stakes in 43 Chinese tech startups (Financial Times)",
-            "link": "http://www.techmeme.com/240716/p3#a240716p3",
-            "published": "Tue, 16 Jul 2024 02:00:28 -0400"
-        },
-        {
-            "title": "Sources: Google offered CISPE ~&euro;455M worth of Google Cloud licenses and &euro;14M in cash in a deal for CISPE to maintain its antitrust complaint against Microsoft (Samuel Stolton/Bloomberg)",
-            "link": "http://www.techmeme.com/240716/p2#a240716p2",
-            "published": "Tue, 16 Jul 2024 00:25:00 -0400"
-        },
-        {
-            "title": "Sources: China's CAC requires AI companies to prepare between 20K and 70K questions designed to test whether their AI models produce safe answers before release (Liza Lin/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240716/p1#a240716p1",
-            "published": "Tue, 16 Jul 2024 00:05:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Disney investigating massive leak of internal messages",
+            "link": "https://www.bbc.com/news/articles/cprq1d280ggo",
+            "published": "Tue, 16 Jul 2024 10:06:51 GMT"
+        },
+        {
             "title": "Russia antivirus firm Kaspersky quits US after ban",
             "link": "https://www.bbc.com/news/articles/cyr7ex16p32o",
             "published": "Tue, 16 Jul 2024 04:42:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Pioneering British AI chip designer bought by Japanese firm",
             "link": "https://www.bbc.com/news/articles/c3gd1n5kmy5o",
             "published": "Thu, 11 Jul 2024 23:02:57 GMT"
-        },
-        {
-            "title": "Palestinians say Microsoft unfairly closing their accounts",
-            "link": "https://www.bbc.com/news/articles/cger582weplo",
-            "published": "Thu, 11 Jul 2024 14:27:45 GMT"
         }
     ]
 }
