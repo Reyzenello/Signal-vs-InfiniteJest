@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Source: in an informal inquiry, the US FTC has asked Amazon to provide more details on its deal to hire top executives and license tech from AI startup Adept (Reuters)",
+            "link": "http://www.techmeme.com/240716/p23#a240716p23",
+            "published": "Tue, 16 Jul 2024 17:55:16 -0400"
+        },
+        {
             "title": "Google Search Labs is ending its Notes experiment, which debuted in December 2023 as a way to let users leave \"helpful tips about an article\" directly on Search (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/240716/p22#a240716p22",
             "published": "Tue, 16 Jul 2024 16:55:12 -0400"
@@ -19,11 +24,6 @@
             "title": "A look at draft AI policies from Trump allies at the America First Policy Institute and the Heritage Foundation that target \"burdensome\" AI regulations (Cat Zakrzewski/Washington Post)",
             "link": "http://www.techmeme.com/240716/p19#a240716p19",
             "published": "Tue, 16 Jul 2024 14:55:02 -0400"
-        },
-        {
-            "title": "US Senate preliminary report: Amazon Prime Day is a \"major\" cause of worker injuries, with Prime Day 2019 data showing \"just under\" 45 injuries per 100 workers (Annie Palmer/CNBC)",
-            "link": "http://www.techmeme.com/240716/p18#a240716p18",
-            "published": "Tue, 16 Jul 2024 12:40:17 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Elon Musk Says He Will Move X and SpaceX Headquarters to Texas",
             "link": "https://www.nytimes.com/2024/07/16/technology/elon-musk-x-spacex-headquarters-texas.html",
-            "published": "Tue, 16 Jul 2024 20:44:26 +0000"
+            "published": "Tue, 16 Jul 2024 21:24:24 +0000"
         },
         {
             "title": "Elon Musk Enters Uncharted Territory With Trump Endorsement",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Musk to move SpaceX and X HQ over gender-identity law",
+            "link": "https://www.bbc.com/news/articles/c1vd097z7rvo",
+            "published": "Tue, 16 Jul 2024 22:21:37 GMT"
+        },
+        {
             "title": "Microsoft's hire of start-up staff probed as possible merger",
             "link": "https://www.bbc.com/news/articles/crg5eemmn9eo",
             "published": "Tue, 16 Jul 2024 16:09:59 GMT"
@@ -73,11 +78,6 @@
             "title": "'Pivotal' quantum computing chip unveiled",
             "link": "https://www.bbc.com/news/articles/cgxq789931go",
             "published": "Tue, 16 Jul 2024 05:04:27 GMT"
-        },
-        {
-            "title": "Russia antivirus firm Kaspersky quits US after ban",
-            "link": "https://www.bbc.com/news/articles/cyr7ex16p32o",
-            "published": "Tue, 16 Jul 2024 04:42:50 GMT"
         }
     ]
 }
