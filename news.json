@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia and Mistral announce Mistral NeMo, a 12B-parameter model with a context window of up to 128k tokens, available under the Apache 2.0 open-source license (Michael Nu&ntilde;ez/VentureBeat)",
+            "link": "http://www.techmeme.com/240718/p18#a240718p18",
+            "published": "Thu, 18 Jul 2024 11:05:01 -0400"
+        },
+        {
+            "title": "Adobe: US shoppers spent $14.2B during Amazon's 48-hour Prime Day sale, up 11% YoY and in line with estimates; Numerator: the average household spent about $152 (Spencer Soper/Bloomberg)",
+            "link": "http://www.techmeme.com/240718/p17#a240718p17",
+            "published": "Thu, 18 Jul 2024 10:35:01 -0400"
+        },
+        {
+            "title": "Sources: Apple has spoken to major Hollywood studios about acquiring more programming from their libraries to offer customers both in the US and abroad (Bloomberg)",
+            "link": "http://www.techmeme.com/240718/p16#a240718p16",
+            "published": "Thu, 18 Jul 2024 10:30:01 -0400"
+        },
+        {
             "title": "OpenAI unveils GPT-4o mini, calling it \"the most capable and cost-efficient small model available\", and plans to integrate image, video, and audio into it later (Hayden Field/CNBC)",
             "link": "http://www.techmeme.com/240718/p15#a240718p15",
             "published": "Thu, 18 Jul 2024 10:20:01 -0400"
@@ -9,24 +24,14 @@
             "title": "New York-based Coast, which offers expense management tools for vehicle fleets, raised a $40M Series B, after raising $25M in March 2024 and $27.5M in 2022 (Mary Ann Azevedo/TechCrunch)",
             "link": "http://www.techmeme.com/240718/p14#a240718p14",
             "published": "Thu, 18 Jul 2024 09:40:00 -0400"
-        },
-        {
-            "title": "Nintendo unveils an official Joy-Con charging stand for the Switch, over seven years after the console's launch, available on October 17, but gives no price (Ryan Dinsdale/IGN)",
-            "link": "http://www.techmeme.com/240718/p13#a240718p13",
-            "published": "Thu, 18 Jul 2024 09:25:12 -0400"
-        },
-        {
-            "title": "Sources: Meta has explored a multibillion-euro investment in eyewear group EssilorLuxottica, which makes the Ray Ban-Meta glasses, to expand its partnership (Financial Times)",
-            "link": "http://www.techmeme.com/240718/p12#a240718p12",
-            "published": "Thu, 18 Jul 2024 08:25:05 -0400"
-        },
-        {
-            "title": "How Spain relies on the VioG&eacute;n algorithm to score the likelihood of recurring domestic violence and decide protection measures, with at times fatal consequences (New York Times)",
-            "link": "http://www.techmeme.com/240718/p11#a240718p11",
-            "published": "Thu, 18 Jul 2024 08:05:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Carlos Espina is a One-Man Telemundo on TikTok",
+            "link": "https://www.nytimes.com/2024/07/18/business/media/carlos-espina-tiktok.html",
+            "published": "Thu, 18 Jul 2024 15:03:31 +0000"
+        },
         {
             "title": "How Trump\u2019s Running Mate J.D. Vance is Connected to Silicon Valley",
             "link": "https://www.nytimes.com/2024/07/17/technology/jd-vance-tech-silicon-valley.html",
@@ -38,14 +43,9 @@
             "published": "Wed, 17 Jul 2024 15:37:51 +0000"
         },
         {
-            "title": "Is It Silicon Valley\u2019s Job to Make Guaranteed Income a Reality?",
-            "link": "https://www.nytimes.com/2024/07/16/technology/ubi-openai-silicon-valley.html",
-            "published": "Tue, 16 Jul 2024 19:20:11 +0000"
-        },
-        {
-            "title": "Elon Musk Says He Will Move X and SpaceX Headquarters to Texas",
-            "link": "https://www.nytimes.com/2024/07/16/technology/elon-musk-x-spacex-headquarters-texas.html",
-            "published": "Wed, 17 Jul 2024 00:37:16 +0000"
+            "title": "Ford Will Make Gasoline Trucks Not Electric Vehicles in Canada Plant",
+            "link": "https://www.nytimes.com/2024/07/18/business/ford-electric-vehicles-canada.html",
+            "published": "Thu, 18 Jul 2024 15:22:49 +0000"
         },
         {
             "title": "Halloween in July? Welcome to \u2018Summerween.\u2019",
