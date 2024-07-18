@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Indian crypto exchange WazirX says one of its multisig wallets \"experienced a security breach\" after $230M+ in withdrawals; WazirX had $500M in holdings in June (Shaurya Malwa/CoinDesk)",
+            "link": "http://www.techmeme.com/240718/p7#a240718p7",
+            "published": "Thu, 18 Jul 2024 06:10:08 -0400"
+        },
+        {
+            "title": "Rotterdam-based chip gear maker Nearfield raised a &euro;135M Series C led by Walden Catalyst Management and Temasek, and \"is on track to become a unicorn by 2026\" (Cagan Koc/Bloomberg)",
+            "link": "http://www.techmeme.com/240718/p6#a240718p6",
+            "published": "Thu, 18 Jul 2024 05:40:04 -0400"
+        },
+        {
             "title": "Italy's antitrust agency launches a probe into Google and Alphabet over alleged unfair commercial practices related to consent requests Google sends to users (Giulia Segreti/Reuters)",
             "link": "http://www.techmeme.com/240718/p5#a240718p5",
             "published": "Thu, 18 Jul 2024 04:20:20 -0400"
@@ -14,16 +24,6 @@
             "title": "TSMC reports Q2 revenue up 40.1% YoY to $20.82B and net income up 36.3% YoY to $7.62B, both above estimates, as demand for advanced AI chips continue to surge (Sheila Chiang/CNBC)",
             "link": "http://www.techmeme.com/240718/p3#a240718p3",
             "published": "Thu, 18 Jul 2024 02:40:02 -0400"
-        },
-        {
-            "title": "China has been ASML's biggest market for four quarters in a row, with sales rising 21% YoY to &euro;2.3B in Q2 2024, accounting for 49% of the company's sales (Cagan Koc/Bloomberg)",
-            "link": "http://www.techmeme.com/240718/p2#a240718p2",
-            "published": "Thu, 18 Jul 2024 00:55:07 -0400"
-        },
-        {
-            "title": "Leaked documents: Cellebrite couldn't forcibly unlock an iPhone running iOS 17.4 or newer as of April 2024; most of the listed Android devices could be unlocked (Joseph Cox/404 Media)",
-            "link": "http://www.techmeme.com/240718/p1#a240718p1",
-            "published": "Thu, 18 Jul 2024 00:10:20 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Can we make work meetings more bearable?",
+            "link": "https://www.bbc.com/news/articles/c19k0vy2gwno",
+            "published": "Thu, 18 Jul 2024 07:01:36 GMT"
+        },
+        {
             "title": "Chip stocks drop on fears US to toughen China rules",
             "link": "https://www.bbc.com/news/articles/c7241wmknm3o",
             "published": "Thu, 18 Jul 2024 06:13:30 GMT"
@@ -73,11 +78,6 @@
             "title": "Disney investigating massive leak of internal messages",
             "link": "https://www.bbc.com/news/articles/cprq1d280ggo",
             "published": "Tue, 16 Jul 2024 10:06:51 GMT"
-        },
-        {
-            "title": "Olympic esports will level the playing field, says boss",
-            "link": "https://www.bbc.com/news/articles/cm52d2n5er5o",
-            "published": "Tue, 16 Jul 2024 09:56:24 GMT"
         }
     ]
 }
