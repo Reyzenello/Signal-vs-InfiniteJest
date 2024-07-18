@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Instagram expands Notes, its temporary away status-like feature, to let users leave Notes on Reels and grid posts; the temporary comments are semi-private (Mia Sato/The Verge)",
+            "link": "http://www.techmeme.com/240718/p26#a240718p26",
+            "published": "Thu, 18 Jul 2024 14:25:00 -0400"
+        },
+        {
+            "title": "Google, OpenAI, Microsoft, Nvidia, and others form the Coalition for Secure AI to share best practices and open-source methodologies for secure AI deployment (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/240718/p25#a240718p25",
+            "published": "Thu, 18 Jul 2024 14:15:00 -0400"
+        },
+        {
+            "title": "Apple is launching new immersive video content for the Vision Pro over the next few months, including content from The Weeknd and the 2024 NBA All-Star Weekend (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/240718/p24#a240718p24",
+            "published": "Thu, 18 Jul 2024 14:05:04 -0400"
+        },
+        {
+            "title": "A US judge dismisses most of a SEC lawsuit accusing SolarWinds of misleading investors by failing to disclose cybersecurity failures in its Orion software (Tim Starks/CyberScoop)",
+            "link": "http://www.techmeme.com/240718/p23#a240718p23",
+            "published": "Thu, 18 Jul 2024 13:35:03 -0400"
+        },
+        {
             "title": "Microsoft reaches a settlement with French cloud service OVHcloud in which OVHcloud will drop its March 2022 antitrust complaint to EU regulators (Mathieu Pollet/Politico)",
             "link": "http://www.techmeme.com/240718/p22#a240718p22",
             "published": "Thu, 18 Jul 2024 12:45:01 -0400"
-        },
-        {
-            "title": "An ex-Reality Labs manager says Meta asked the unit to cut spending by ~20% from 2024 to 2026; Meta plans two Quest 4 versions in 2026 and a Quest Pro 2 in 2027 (The Information)",
-            "link": "http://www.techmeme.com/240718/p21#a240718p21",
-            "published": "Thu, 18 Jul 2024 12:10:02 -0400"
-        },
-        {
-            "title": "Intel veteran Lisa Spelman plans to become the CEO of Cornelis, a networking startup spun off from Intel in 2020, on August 15; Spelman joined Intel in 2000 (Jane Lanhee Lee/Bloomberg)",
-            "link": "http://www.techmeme.com/240718/p20#a240718p20",
-            "published": "Thu, 18 Jul 2024 12:05:03 -0400"
-        },
-        {
-            "title": "Block's Cash App plans to close its UK operations on September 15, after launching in 2018, as the company \"deprioritizes global expansion\" to focus on the US (Bloomberg)",
-            "link": "http://www.techmeme.com/240718/p19#a240718p19",
-            "published": "Thu, 18 Jul 2024 11:45:04 -0400"
-        },
-        {
-            "title": "Nvidia and Mistral release Mistral NeMo, a 12B-parameter language model with a 128K-token context window, available under the Apache 2.0 open-source license (Michael Nu&ntilde;ez/VentureBeat)",
-            "link": "http://www.techmeme.com/240718/p18#a240718p18",
-            "published": "Thu, 18 Jul 2024 11:05:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Elon Musk Came to Support Trump and the GOP",
+            "link": "https://www.nytimes.com/2024/07/18/us/politics/elon-musk-trump.html",
+            "published": "Thu, 18 Jul 2024 17:32:27 +0000"
+        },
         {
             "title": "Carlos Espina is a One-Man Telemundo on TikTok",
             "link": "https://www.nytimes.com/2024/07/18/business/media/carlos-espina-tiktok.html",
@@ -36,11 +41,6 @@
             "title": "How Trump\u2019s Running Mate J.D. Vance is Connected to Silicon Valley",
             "link": "https://www.nytimes.com/2024/07/17/technology/jd-vance-tech-silicon-valley.html",
             "published": "Wed, 17 Jul 2024 15:24:11 +0000"
-        },
-        {
-            "title": "J.D. Vance\u2019s A.I. Agenda: Reduce Regulation",
-            "link": "https://www.nytimes.com/2024/07/17/technology/vance-ai-regulation.html",
-            "published": "Wed, 17 Jul 2024 15:37:51 +0000"
         },
         {
             "title": "Ford Plans More Gas Trucks, Fewer Electric Vehicles",
