@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Leaked docs show Cellebrite couldn't forcibly unlock any iPhone running iOS 17.4 or newer as of April 2024; most of the listed Android devices could be unlocked (Joseph Cox/404 Media)",
+            "link": "http://www.techmeme.com/240718/p1#a240718p1",
+            "published": "Thu, 18 Jul 2024 00:10:20 -0400"
+        },
+        {
+            "title": "A look at the Cyberspace Administration of China, which oversees the country's AI and data strategy, as it relaxes some policies to promote economic growth (Bloomberg)",
+            "link": "http://www.techmeme.com/240717/p34#a240717p34",
+            "published": "Wed, 17 Jul 2024 23:55:03 -0400"
+        },
+        {
             "title": "Meta decides to suspend its generative AI tools in Brazil after the government objected to Meta's new privacy policy on using personal data to train AI models (Reuters)",
             "link": "http://www.techmeme.com/240717/p33#a240717p33",
             "published": "Wed, 17 Jul 2024 21:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "The US SEC sues former DWAC CEO Patrick Orlando for allegedly misleading investors about his company's plans for a SPAC merger with Trump's social media company (Bloomberg)",
             "link": "http://www.techmeme.com/240717/p31#a240717p31",
             "published": "Wed, 17 Jul 2024 20:55:02 -0400"
-        },
-        {
-            "title": "Nasdaq fell 2.77% in its worst session since December 2022, with ASML shares down 12.74%, Nvidia down 6.62%, and Meta down 5.68%; TSMC shares on NYSE fell 7.98% (CNBC)",
-            "link": "http://www.techmeme.com/240717/p30#a240717p30",
-            "published": "Wed, 17 Jul 2024 20:00:48 -0400"
-        },
-        {
-            "title": "People in crypto should not choose political allegiances based on who claims to be \"pro-crypto\", as such politicians might go against crypto's underlying goals (Vitalik Buterin)",
-            "link": "http://www.techmeme.com/240717/p29#a240717p29",
-            "published": "Wed, 17 Jul 2024 18:10:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Chip stocks drop on fears US to toughen China rules",
+            "link": "https://www.bbc.com/news/articles/c7241wmknm3o",
+            "published": "Thu, 18 Jul 2024 03:16:45 GMT"
+        },
+        {
             "title": "Musk to move SpaceX and X HQ over gender identity law",
             "link": "https://www.bbc.com/news/articles/c1vd097z7rvo",
             "published": "Wed, 17 Jul 2024 09:35:33 GMT"
@@ -73,11 +78,6 @@
             "title": "Olympic esports will level the playing field, says boss",
             "link": "https://www.bbc.com/news/articles/cm52d2n5er5o",
             "published": "Tue, 16 Jul 2024 09:56:24 GMT"
-        },
-        {
-            "title": "'Pivotal' quantum computing chip unveiled",
-            "link": "https://www.bbc.com/news/articles/cgxq789931go",
-            "published": "Tue, 16 Jul 2024 05:04:27 GMT"
         }
     ]
 }
