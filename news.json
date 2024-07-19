@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Netflix added 8M subscribers in Q2 vs. 5M est., as it benefited from a crackdown on password-sharing and popular titles like Bridgerton and Baby Reindeer (Reuters)",
+            "link": "http://www.techmeme.com/240719/p6#a240719p6",
+            "published": "Fri, 19 Jul 2024 06:10:01 -0400"
+        },
+        {
+            "title": "CrowdStrike CEO George Kurtz says \"the issue has been identified, isolated and a fix has been deployed\", and CrowdStrike is working with impacted customers (George Kurtz/@george_kurtz)",
+            "link": "http://www.techmeme.com/240719/p5#a240719p5",
+            "published": "Fri, 19 Jul 2024 05:56:25 -0400"
+        },
+        {
             "title": "Bangladesh orders a nationwide shutdown of its mobile internet amid student protests that killed dozens of people to \"ensure the security of citizens\" (Daryna Antoniuk/The Record)",
             "link": "http://www.techmeme.com/240719/p4#a240719p4",
             "published": "Fri, 19 Jul 2024 04:40:01 -0400"
@@ -11,19 +21,9 @@
             "published": "Fri, 19 Jul 2024 04:00:39 -0400"
         },
         {
-            "title": "CrowdStrike says it has \"widespread reports of BSODs on Windows hosts\", impacting thousands of PCs and taking banks, airlines, broadcasters, and more offline (Tom Warren/The Verge)",
+            "title": "CrowdStrike reports widespread \"BSODs on Windows hosts\", impacting thousands of PCs and taking banks, airlines, more offline; Microsoft is aware of the issue (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/240719/p2#a240719p2",
             "published": "Fri, 19 Jul 2024 03:34:00 -0400"
-        },
-        {
-            "title": "Google cuts Maps API pricing for Indian developers by ~70% and starts accepting payments in rupee, after Ola offered one-year free developer access to Ola Maps (Shashank Pathak/Entrackr)",
-            "link": "http://www.techmeme.com/240719/p1#a240719p1",
-            "published": "Fri, 19 Jul 2024 00:20:14 -0400"
-        },
-        {
-            "title": "Messari CEO Ryan Selkis says he ran \"too hot\" with X posts this week calling for war and sending immigrants back, after Messari leadership told him to cool it (Nick Baker/CoinDesk)",
-            "link": "http://www.techmeme.com/240718/p40#a240718p40",
-            "published": "Thu, 18 Jul 2024 23:50:04 -0400"
         }
     ],
     "source_1": [
@@ -43,21 +43,21 @@
             "published": "Thu, 18 Jul 2024 15:03:31 +0000"
         },
         {
+            "title": "What We Know About the Global Outage",
+            "link": "https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html",
+            "published": "Fri, 19 Jul 2024 10:21:30 +0000"
+        },
+        {
             "title": "Social Media Reacts to an Attempted Assassination; Tech Elites for Trump; and TikTok\u2019s Jawmaxxing Trend",
             "link": "https://www.nytimes.com/2024/07/19/podcasts/hard-fork-conspiracy-trump-looksmaxxing.html",
             "published": "Fri, 19 Jul 2024 09:03:57 +0000"
-        },
-        {
-            "title": "Data for A.I. Training Is Disappearing Fast, Study Shows",
-            "link": "https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html",
-            "published": "Fri, 19 Jul 2024 09:02:28 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Mass IT outage affects airlines, media and banks",
+            "title": "Mass IT outage affects airlines, hospitals, media and banks",
             "link": "https://www.bbc.com/news/articles/cv2g5lvwkl2o",
-            "published": "Fri, 19 Jul 2024 08:44:31 GMT"
+            "published": "Fri, 19 Jul 2024 10:24:19 GMT"
         },
         {
             "title": "Can we make work meetings more bearable?",
