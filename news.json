@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Messari CEO Ryan Selkis says he's stepping down, after a series of controversial political X posts; chief revenue officer Eric Turner will be the interim CEO (Brady Dale/Axios)",
+            "link": "http://www.techmeme.com/240719/p14#a240719p14",
+            "published": "Fri, 19 Jul 2024 11:19:54 -0400"
+        },
+        {
+            "title": "The outage appears to have been caused by CrowdStrike pushing a faulty update to its Falcon software that causes Windows machines to get stuck in a boot loop (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/240719/p13#a240719p13",
+            "published": "Fri, 19 Jul 2024 10:40:02 -0400"
+        },
+        {
             "title": "Samsung says it has \"temporarily\" stopped deliveries of Galaxy Buds 3 Pro to retailers after some early owners reported quality control issues with the ear tips (Hadlee Simons/Android Authority)",
             "link": "http://www.techmeme.com/240719/p12#a240719p12",
             "published": "Fri, 19 Jul 2024 09:55:04 -0400"
@@ -14,38 +24,28 @@
             "title": "CrowdStrike and other endpoint security tools need access to the core of operating systems, giving them the ability to disrupt systems they're trying to protect (Bloomberg)",
             "link": "http://www.techmeme.com/240719/p10#a240719p10",
             "published": "Fri, 19 Jul 2024 08:50:09 -0400"
-        },
-        {
-            "title": "In an interview, Mark Zuckerberg says Trump's immediate reaction after being shot was \"badass\" and inspiring, but declines to endorse either Trump or Biden (Bloomberg)",
-            "link": "http://www.techmeme.com/240719/p9#a240719p9",
-            "published": "Fri, 19 Jul 2024 07:45:01 -0400"
-        },
-        {
-            "title": "A profile of Carlos Espina, who has 9.4M TikTok followers, posts in Spanish about immigration and politics, and whom the White House treats as a broadcaster (New York Times)",
-            "link": "http://www.techmeme.com/240719/p8#a240719p8",
-            "published": "Fri, 19 Jul 2024 07:05:05 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Data for A.I. Training Is Disappearing Fast, Study Shows",
+            "link": "https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html",
+            "published": "Fri, 19 Jul 2024 14:38:36 +0000"
+        },
+        {
+            "title": "How Getty and Shutterstock Are Building AI Image Generators",
+            "link": "https://www.nytimes.com/2024/07/19/technology/generative-ai-getty-shutterstock.html",
+            "published": "Fri, 19 Jul 2024 09:02:22 +0000"
+        },
         {
             "title": "Meta Exploring Stake in Ray-Ban\u2019s Parent Company",
             "link": "https://www.nytimes.com/2024/07/18/technology/meta-minority-stake-eyewear.html",
             "published": "Thu, 18 Jul 2024 21:47:36 +0000"
         },
         {
-            "title": "How Elon Musk Came to Support Trump and the GOP",
-            "link": "https://www.nytimes.com/2024/07/18/us/politics/elon-musk-trump.html",
-            "published": "Thu, 18 Jul 2024 22:00:12 +0000"
-        },
-        {
-            "title": "Carlos Espina is a One-Man Telemundo on TikTok",
-            "link": "https://www.nytimes.com/2024/07/18/business/media/carlos-espina-tiktok.html",
-            "published": "Thu, 18 Jul 2024 15:03:31 +0000"
-        },
-        {
-            "title": "What We Know About the Global Outage",
+            "title": "What We Know About the Global Microsoft Outage",
             "link": "https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html",
-            "published": "Fri, 19 Jul 2024 13:56:32 +0000"
+            "published": "Fri, 19 Jul 2024 14:39:16 +0000"
         },
         {
             "title": "Social Media Reacts to an Attempted Assassination; Tech Elites for Trump; and TikTok\u2019s Jawmaxxing Trend",
@@ -62,7 +62,7 @@
         {
             "title": "Crowdstrike says IT problems will take time to fix",
             "link": "https://www.bbc.com/news/articles/cn4vgq5150qo",
-            "published": "Fri, 19 Jul 2024 14:06:23 GMT"
+            "published": "Fri, 19 Jul 2024 14:54:15 GMT"
         },
         {
             "title": "How a single IT update caused global havoc",
