@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Amazon's Twitch reinstates Donald Trump's account three years after he was banned, as \"there is value in hearing from presidential nominees directly\" (Cecilia D'Anastasio/Bloomberg)",
+            "link": "http://www.techmeme.com/240719/p19#a240719p19",
+            "published": "Fri, 19 Jul 2024 14:25:05 -0400"
+        },
+        {
+            "title": "Sources: Magic Leap cut ~75 jobs, including its entire sales and marketing units, and told staffers it's pivoting from selling headsets to licensing its tech (Bloomberg)",
+            "link": "http://www.techmeme.com/240719/p18#a240719p18",
+            "published": "Fri, 19 Jul 2024 14:20:02 -0400"
+        },
+        {
+            "title": "How OpenAI's GPT-4o mini model uses a safety technique called \"instruction hierarchy\" to prevent misuse and stop \"ignore previous instructions\" types of attacks (Kylie Robison/The Verge)",
+            "link": "http://www.techmeme.com/240719/p17#a240719p17",
+            "published": "Fri, 19 Jul 2024 13:45:00 -0400"
+        },
+        {
             "title": "A study of 14K web domains in the C4, RefinedWeb, and Dolma AI training datasets: 5% of all the data, and 25% of the highest-quality data, has been restricted (Kevin Roose/New York Times)",
             "link": "http://www.techmeme.com/240719/p16#a240719p16",
             "published": "Fri, 19 Jul 2024 12:15:01 -0400"
@@ -9,21 +24,6 @@
             "title": "A workaround to fix the BSOD caused by CrowdStrike's faulty update involves booting Windows in Safe Mode and deleting the security firm's \"C-00000291*.sys\" file (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/240719/p15#a240719p15",
             "published": "Fri, 19 Jul 2024 11:30:14 -0400"
-        },
-        {
-            "title": "Messari CEO Ryan Selkis says he's stepping down after a series of controversial political X posts, and Chief Revenue Officer Eric Turner will become interim CEO (Brady Dale/Axios)",
-            "link": "http://www.techmeme.com/240719/p14#a240719p14",
-            "published": "Fri, 19 Jul 2024 11:19:54 -0400"
-        },
-        {
-            "title": "The outage appears to have been caused by CrowdStrike pushing a faulty update to its Falcon software that causes Windows machines to get stuck in a boot loop (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/240719/p13#a240719p13",
-            "published": "Fri, 19 Jul 2024 10:40:02 -0400"
-        },
-        {
-            "title": "Samsung says it has \"temporarily\" stopped deliveries of Galaxy Buds 3 Pro to retailers after some early owners reported quality control issues with the ear tips (Hadlee Simons/Android Authority)",
-            "link": "http://www.techmeme.com/240719/p12#a240719p12",
-            "published": "Fri, 19 Jul 2024 09:55:04 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "What We Know About the Global Microsoft Outage",
             "link": "https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html",
-            "published": "Fri, 19 Jul 2024 17:12:47 +0000"
+            "published": "Fri, 19 Jul 2024 17:39:12 +0000"
         },
         {
             "title": "Social Media Reacts to an Attempted Assassination; Tech Elites for Trump; and TikTok\u2019s Jawmaxxing Trend",
