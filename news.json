@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Google cuts the Maps API pricing for Indian devs by ~70% and starts accepting payments in Indian rupee, after Ola unveiled one-year free dev access to Ola Maps (Shashank Pathak/Entrackr)",
+            "title": "Huawei sues MediaTek in China over alleged infringement of its intellectual property patents; MediaTek says the lawsuit would have no significant impact (Nikkei Asia)",
+            "link": "http://www.techmeme.com/240719/p3#a240719p3",
+            "published": "Fri, 19 Jul 2024 04:00:39 -0400"
+        },
+        {
+            "title": "CrowdStrike says it has \"widespread reports of BSODs on Windows hosts\", impacting thousands of PCs and taking banks, airlines, broadcasters, and more offline (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/240719/p2#a240719p2",
+            "published": "Fri, 19 Jul 2024 03:34:00 -0400"
+        },
+        {
+            "title": "Google cuts Maps API pricing for Indian developers by ~70% and starts accepting payments in rupee, after Ola offered one-year free developer access to Ola Maps (Shashank Pathak/Entrackr)",
             "link": "http://www.techmeme.com/240719/p1#a240719p1",
             "published": "Fri, 19 Jul 2024 00:20:14 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Montr&eacute;al-based Planned, which offers corporate events and travel planning tools, raised a CAD$35M Series B led by Drive Capital (Bianca Bharti/BetaKit)",
             "link": "http://www.techmeme.com/240718/p39#a240718p39",
             "published": "Thu, 18 Jul 2024 23:05:00 -0400"
-        },
-        {
-            "title": "Brazil-based Matera, which provides instant payment and QR code payment software to financial institutions, raised $100M from Warburg Pincus to expand in the US (Mary Ann Azevedo/TechCrunch)",
-            "link": "http://www.techmeme.com/240718/p38#a240718p38",
-            "published": "Thu, 18 Jul 2024 22:45:01 -0400"
-        },
-        {
-            "title": "Xbox says an outage is affecting the Xbox Store and subscriptions, and it is investigating the cause; the outage has been going on since at least 6:57PM ET (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/240718/p37#a240718p37",
-            "published": "Thu, 18 Jul 2024 22:30:00 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Mass IT outage affects airlines, media and banks",
             "link": "https://www.bbc.com/news/articles/cv2g5lvwkl2o",
-            "published": "Fri, 19 Jul 2024 07:02:57 GMT"
+            "published": "Fri, 19 Jul 2024 07:46:34 GMT"
         },
         {
             "title": "Can we make work meetings more bearable?",
