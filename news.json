@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "In an interview, Mark Zuckerberg says Trump's immediate reaction after being shot was \"badass\" and inspiring, but declines to endorse either Trump or Biden (Bloomberg)",
+            "link": "http://www.techmeme.com/240719/p9#a240719p9",
+            "published": "Fri, 19 Jul 2024 07:45:01 -0400"
+        },
+        {
             "title": "A profile of Carlos Espina, who has 9.4M TikTok followers, posts in Spanish about immigration and politics, and whom the White House treats as a broadcaster (New York Times)",
             "link": "http://www.techmeme.com/240719/p8#a240719p8",
             "published": "Fri, 19 Jul 2024 07:05:05 -0400"
@@ -19,11 +24,6 @@
             "title": "CrowdStrike CEO George Kurtz says \"the issue has been identified, isolated and a fix has been deployed\", and CrowdStrike is working with impacted customers (George Kurtz/@george_kurtz)",
             "link": "http://www.techmeme.com/240719/p5#a240719p5",
             "published": "Fri, 19 Jul 2024 05:56:25 -0400"
-        },
-        {
-            "title": "Bangladesh orders a nationwide shutdown of its mobile internet amid student protests that killed dozens of people to \"ensure the security of citizens\" (Daryna Antoniuk/The Record)",
-            "link": "http://www.techmeme.com/240719/p4#a240719p4",
-            "published": "Fri, 19 Jul 2024 04:40:01 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "What We Know About the Global Outage",
             "link": "https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html",
-            "published": "Fri, 19 Jul 2024 10:38:40 +0000"
+            "published": "Fri, 19 Jul 2024 11:56:34 +0000"
         },
         {
             "title": "Social Media Reacts to an Attempted Assassination; Tech Elites for Trump; and TikTok\u2019s Jawmaxxing Trend",
@@ -54,6 +54,16 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Crowdstrike and Microsoft: What we know about global IT outage",
+            "link": "https://www.bbc.com/news/articles/cp4wnrxqlewo",
+            "published": "Fri, 19 Jul 2024 12:11:28 GMT"
+        },
+        {
+            "title": "How a single IT update caused global havoc",
+            "link": "https://www.bbc.com/news/articles/cpwdyxx0v64o",
+            "published": "Fri, 19 Jul 2024 12:05:16 GMT"
+        },
         {
             "title": "Mass IT outage affects airlines, hospitals, media and banks",
             "link": "https://www.bbc.com/news/articles/cv2g5lvwkl2o",
@@ -68,16 +78,6 @@
             "title": "Chip stocks drop on fears US to toughen China rules",
             "link": "https://www.bbc.com/news/articles/c7241wmknm3o",
             "published": "Thu, 18 Jul 2024 23:51:10 GMT"
-        },
-        {
-            "title": "Musk to move SpaceX and X HQ over gender identity law",
-            "link": "https://www.bbc.com/news/articles/c1vd097z7rvo",
-            "published": "Wed, 17 Jul 2024 09:35:33 GMT"
-        },
-        {
-            "title": "Microsoft's hire of start-up staff probed as possible merger",
-            "link": "https://www.bbc.com/news/articles/crg5eemmn9eo",
-            "published": "Tue, 16 Jul 2024 16:09:59 GMT"
         }
     ]
 }
