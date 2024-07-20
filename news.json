@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "TSMC says its HPC group, which includes AI and server chips, accounted for 52% of wafer revenue in Q2, the first time it made up the majority of sales (Bloomberg)",
+            "link": "http://www.techmeme.com/240720/p1#a240720p1",
+            "published": "Sat, 20 Jul 2024 00:15:12 -0400"
+        },
+        {
+            "title": "Venture funding to cybersecurity startups grew to $4.4B in Q2 2024, up 144% YoY; funding in H1 2024 was $7.1B, up from $4.7B in H1 2023 (Chris Metinko/Crunchbase News)",
+            "link": "http://www.techmeme.com/240719/p30#a240719p30",
+            "published": "Fri, 19 Jul 2024 23:50:06 -0400"
+        },
+        {
             "title": "Xiaomi unveils the Mix Fold 4, starting at ~$1,237, and the Mix Flip, its first flip foldable, with a 4.01\" cover display, starting at ~$825, available in China (Damien Wilde/9to5Google)",
             "link": "http://www.techmeme.com/240719/p29#a240719p29",
             "published": "Fri, 19 Jul 2024 20:50:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Oracle agrees to pay $115M to settle a lawsuit accusing it of invading people's privacy by collecting their personal information and selling it to third parties (Jonathan Stempel/Reuters)",
             "link": "http://www.techmeme.com/240719/p27#a240719p27",
             "published": "Fri, 19 Jul 2024 19:30:04 -0400"
-        },
-        {
-            "title": "Sources: Google recently approached EssilorLuxottica's leadership about putting its Gemini AI assistant in future smart glasses (Alex Heath/The Verge)",
-            "link": "http://www.techmeme.com/240719/p26#a240719p26",
-            "published": "Fri, 19 Jul 2024 18:55:02 -0400"
-        },
-        {
-            "title": "A profile of CrowdStrike, founded in 2011 and used by 300 companies in the Fortune 500; Gartner: CrowdStrike has ~15% of the global security software market (Robert McMillan/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240719/p25#a240719p25",
-            "published": "Fri, 19 Jul 2024 18:30:03 -0400"
         }
     ],
     "source_1": [
@@ -43,7 +43,7 @@
             "published": "Thu, 18 Jul 2024 21:47:36 +0000"
         },
         {
-            "title": "After CrowdStrike Causes Outage, Are U.S. Networks Safe?",
+            "title": "CrowdStrike Issue, Not Russia or China, Caused\u00a0Tech Outage",
             "link": "https://www.nytimes.com/2024/07/19/us/politics/crowdstrike-outage.html",
             "published": "Sat, 20 Jul 2024 02:02:37 +0000"
         },
