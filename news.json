@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Xiaomi unveils the Mix Fold 4, starting at ~$1,237, and the Mix Flip, its first flip foldable, with a 4.01\" cover display, starting at ~$825, available in China (Damien Wilde/9to5Google)",
+            "link": "http://www.techmeme.com/240719/p29#a240719p29",
+            "published": "Fri, 19 Jul 2024 20:50:00 -0400"
+        },
+        {
+            "title": "Over 200 Bethesda Game Studios workers unionize with the CWA, forming the first \"wall-to-wall\" union at a Microsoft game studio; Microsoft recognized the union (Dean Takahashi/VentureBeat)",
+            "link": "http://www.techmeme.com/240719/p28#a240719p28",
+            "published": "Fri, 19 Jul 2024 20:15:02 -0400"
+        },
+        {
+            "title": "Oracle agrees to pay $115M to settle a lawsuit accusing it of invading people's privacy by collecting their personal information and selling it to third parties (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/240719/p27#a240719p27",
+            "published": "Fri, 19 Jul 2024 19:30:04 -0400"
+        },
+        {
             "title": "Sources: Google recently approached EssilorLuxottica's leadership about putting its Gemini AI assistant in future smart glasses (Alex Heath/The Verge)",
             "link": "http://www.techmeme.com/240719/p26#a240719p26",
             "published": "Fri, 19 Jul 2024 18:55:02 -0400"
@@ -9,21 +24,6 @@
             "title": "A profile of CrowdStrike, founded in 2011 and used by 300 companies in the Fortune 500; Gartner: CrowdStrike has ~15% of the global security software market (Robert McMillan/Wall Street Journal)",
             "link": "http://www.techmeme.com/240719/p25#a240719p25",
             "published": "Fri, 19 Jul 2024 18:30:03 -0400"
-        },
-        {
-            "title": "Disney announces that Safra Catz, CEO of Oracle, is departing its board of directors after six years (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/240719/p24#a240719p24",
-            "published": "Fri, 19 Jul 2024 16:45:13 -0400"
-        },
-        {
-            "title": "CrowdStrike shares close down 11.1% after a software update caused a major outage; its shares had previously risen nearly 118% in the last 12 months (Ryan Browne/CNBC)",
-            "link": "http://www.techmeme.com/240719/p23#a240719p23",
-            "published": "Fri, 19 Jul 2024 16:40:01 -0400"
-        },
-        {
-            "title": "Michael Moritz urges Biden to drop out, joining other tech leaders such as Reed Hastings and the Zynga co-founder Mark Pincus in calling for Biden to step aside (New York Times)",
-            "link": "http://www.techmeme.com/240719/p22#a240719p22",
-            "published": "Fri, 19 Jul 2024 16:20:05 -0400"
         }
     ],
     "source_1": [
@@ -65,14 +65,14 @@
             "published": "Fri, 19 Jul 2024 12:11:28 GMT"
         },
         {
+            "title": "IT outage exposes fragility of tech infrastructure",
+            "link": "https://www.bbc.com/news/articles/c4ngv0nw612o",
+            "published": "Sat, 20 Jul 2024 00:43:58 GMT"
+        },
+        {
             "title": "Crowdstrike says IT problems will take time to fix",
             "link": "https://www.bbc.com/news/articles/cn4vgq5150qo",
             "published": "Fri, 19 Jul 2024 14:54:15 GMT"
-        },
-        {
-            "title": "How a single IT update caused global havoc",
-            "link": "https://www.bbc.com/news/articles/cpwdyxx0v64o",
-            "published": "Fri, 19 Jul 2024 12:05:16 GMT"
         },
         {
             "title": "Mass IT outage affects airlines, hospitals, media and banks",
