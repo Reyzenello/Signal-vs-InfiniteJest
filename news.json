@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A look inside Iconiq Growth two months after it closed a $5.75B fund, its largest ever and 42% larger than its previous fund (Jessica Mathews/Fortune)",
+            "link": "http://www.techmeme.com/240722/p16#a240722p16",
+            "published": "Mon, 22 Jul 2024 16:15:00 -0400"
+        },
+        {
+            "title": "Google says it won't be \"deprecating third-party cookies\" in Chrome and will instead keep working on \"privacy-preserving alternatives\" via Privacy Sandbox APIs (Digiday)",
+            "link": "http://www.techmeme.com/240722/p15#a240722p15",
+            "published": "Mon, 22 Jul 2024 15:30:15 -0400"
+        },
+        {
             "title": "A zero-day in Telegram for Android, patched on July 11, let attackers send malicious Android APK payloads as video files; the exploit was for sale from June 6 (Bill Toulas/BleepingComputer)",
             "link": "http://www.techmeme.com/240722/p14#a240722p14",
             "published": "Mon, 22 Jul 2024 15:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "The EU tells Meta its \"pay or consent\" model for Facebook and Instagram may violate consumer protection laws, giving Meta until September 1 to propose changes (Wes Davis/The Verge)",
             "link": "http://www.techmeme.com/240722/p12#a240722p12",
             "published": "Mon, 22 Jul 2024 12:25:00 -0400"
-        },
-        {
-            "title": "Tel Aviv-based enterprise identity management startup Linx emerges from stealth with $27M co-led by Index and Cyberstarts, after raising $6M led by Cyberstarts (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/240722/p11#a240722p11",
-            "published": "Mon, 22 Jul 2024 09:40:04 -0400"
-        },
-        {
-            "title": "Reddit COO Jen Wong says the company has revenue sharing deals with the NFL, the NBA, MLB, and others to get video and other content, hoping to draw advertisers (Sahil Patel/The Information)",
-            "link": "http://www.techmeme.com/240722/p10#a240722p10",
-            "published": "Mon, 22 Jul 2024 09:25:23 -0400"
         }
     ],
     "source_1": [
@@ -50,14 +50,14 @@
         {
             "title": "Elon Musk\u2019s Novel and Polarizing Cybertruck",
             "link": "https://www.nytimes.com/2024/07/22/style/elon-musk-tesla-cybertruck.html",
-            "published": "Mon, 22 Jul 2024 16:34:54 +0000"
+            "published": "Mon, 22 Jul 2024 19:21:36 +0000"
         }
     ],
     "source_2": [
         {
             "title": "CrowdStrike shares hit again as IT disruption continues",
             "link": "https://www.bbc.com/news/articles/c725knvnk5zo",
-            "published": "Mon, 22 Jul 2024 17:37:55 GMT"
+            "published": "Mon, 22 Jul 2024 20:16:07 GMT"
         },
         {
             "title": "'Significant number' of devices fixed - CrowdStrike",
