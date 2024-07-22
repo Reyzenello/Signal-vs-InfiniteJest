@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple's Eddy Cue has pushed TV+ studio chiefs to exert more control over budgets, hoping to change Apple's reputation as the biggest spender in town (Lucas Shaw/Bloomberg)",
+            "link": "http://www.techmeme.com/240721/p8#a240721p8",
+            "published": "Sun, 21 Jul 2024 19:35:13 -0400"
+        },
+        {
             "title": "How indie game developer Terrible Posture Games avoided bankruptcy after an ~$800K investment from an unlikely source: Nerd Ninjas, another indie developer (Jason Schreier/Bloomberg)",
             "link": "http://www.techmeme.com/240721/p7#a240721p7",
             "published": "Sun, 21 Jul 2024 16:35:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Academics say publisher Taylor & Francis hadn't told them about selling access to authors' research as part of a $10M+ Microsoft AI deal, nor let them opt out (Matilda Battersby/The Bookseller)",
             "link": "http://www.techmeme.com/240721/p4#a240721p4",
             "published": "Sun, 21 Jul 2024 06:05:02 -0400"
-        },
-        {
-            "title": "An investigation details how scammers are using crypto ATMs to commit fraud; the FBI says US losses from scams carried out via crypto ATMs was $120M+ in 2023 (OCCRP)",
-            "link": "http://www.techmeme.com/240721/p3#a240721p3",
-            "published": "Sun, 21 Jul 2024 02:00:53 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Sat, 20 Jul 2024 11:50:44 GMT"
         },
         {
+            "title": "IT working but delays possible after outage, says NHS",
+            "link": "https://www.bbc.com/news/articles/crge037gey3o",
+            "published": "Sun, 21 Jul 2024 23:46:10 GMT"
+        },
+        {
             "title": "Global services slowly recovering after bug causes IT chaos",
             "link": "https://www.bbc.com/news/articles/cg3m4jgdprxo",
             "published": "Sat, 20 Jul 2024 04:42:10 GMT"
@@ -73,11 +78,6 @@
             "title": "IT outage exposes fragility of tech infrastructure",
             "link": "https://www.bbc.com/news/articles/c4ngv0nw612o",
             "published": "Sat, 20 Jul 2024 00:43:58 GMT"
-        },
-        {
-            "title": "CrowdStrike says IT problems will take time to fix",
-            "link": "https://www.bbc.com/news/articles/cn4vgq5150qo",
-            "published": "Fri, 19 Jul 2024 14:54:15 GMT"
         }
     ]
 }
