@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "The FTC seeks info from Mastercard, JPMorgan, and six other companies related to their \"surveillance pricing products\" that use personal data, AI, and more (Suzanne Smalley/The Record)",
+            "link": "http://www.techmeme.com/240723/p24#a240723p24",
+            "published": "Tue, 23 Jul 2024 12:25:02 -0400"
+        },
+        {
+            "title": "Meta VP Rob Sherman confirms a report that Meta received an EU request to pause future AI model training on data in the EU, and says the EU may get left behind (Financial Times)",
+            "link": "http://www.techmeme.com/240723/p23#a240723p23",
+            "published": "Tue, 23 Jul 2024 12:15:00 -0400"
+        },
+        {
+            "title": "Netflix last week reported it is developing 80 games, most \"interactive narrative games\" based on its IP, and will debut one a month; Netflix offers 100+ games (Chris Morris/Fortune)",
+            "link": "http://www.techmeme.com/240723/p22#a240723p22",
+            "published": "Tue, 23 Jul 2024 12:05:15 -0400"
+        },
+        {
+            "title": "Sources: Apple is working on a foldable, clamshell design iPhone that could launch as soon as 2026, and has reached out to component suppliers in recent months (The Information)",
+            "link": "http://www.techmeme.com/240723/p21#a240723p21",
+            "published": "Tue, 23 Jul 2024 11:52:21 -0400"
+        },
+        {
             "title": "Meta debuts Llama 3.1 405B, the \"first frontier-level open source AI model\", as well as new Llama 3.1 70B and 8B models, and says it's working on Llama 4 (Bloomberg)",
             "link": "http://www.techmeme.com/240723/p20#a240723p20",
             "published": "Tue, 23 Jul 2024 11:12:30 -0400"
-        },
-        {
-            "title": "Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/240723/p19#a240723p19",
-            "published": "Tue, 23 Jul 2024 09:45:03 -0400"
-        },
-        {
-            "title": "Adobe rolls out new Illustrator features like Generative Shape Fill, powered by Firefly Vector 2, now in public beta, alongside new and updated Photoshop tools (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/240723/p18#a240723p18",
-            "published": "Tue, 23 Jul 2024 09:30:00 -0400"
-        },
-        {
-            "title": "Vancouver-based Clio, which makes cloud tools to help law firms run more efficiently, raised a $900M Series F at a $3B valuation, up from $1.6B in April 2021 (Mary Ann Azevedo/TechCrunch)",
-            "link": "http://www.techmeme.com/240723/p17#a240723p17",
-            "published": "Tue, 23 Jul 2024 08:25:13 -0400"
-        },
-        {
-            "title": "Amazon begins rolling out a new UI for Prime Video to help distinguish content included with Prime, update its navigation bar, manage subscriptions, and more (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/240723/p16#a240723p16",
-            "published": "Tue, 23 Jul 2024 08:10:00 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "Artificial Intelligence Has a Math Problem",
             "link": "https://www.nytimes.com/2024/07/23/technology/ai-chatbots-chatgpt-math.html",
             "published": "Tue, 23 Jul 2024 07:00:13 +0000"
+        },
+        {
+            "title": "Mark Zuckerberg Stumps for \u2018Open Source\u2019 A.I.",
+            "link": "https://www.nytimes.com/2024/07/23/technology/mark-zuckerberg-meta-open-source-ai.html",
+            "published": "Tue, 23 Jul 2024 15:21:29 +0000"
         },
         {
             "title": "Google\u2019s Plan to Buy Wiz for $23 Billion Falls Apart",
@@ -43,17 +48,17 @@
             "published": "Tue, 23 Jul 2024 08:30:25 +0000"
         },
         {
-            "title": "In Silicon Valley, Democrats Are Invigorated by Biden\u2019s Withdrawal",
-            "link": "https://www.nytimes.com/2024/07/22/technology/silicon-valley-trump-biden-democrats.html",
-            "published": "Mon, 22 Jul 2024 14:34:58 +0000"
-        },
-        {
-            "title": "Mark Zuckerberg Stumps for \u2018Open Source\u2019 A.I.",
-            "link": "https://www.nytimes.com/2024/07/23/technology/mark-zuckerberg-meta-open-source-ai.html",
-            "published": "Tue, 23 Jul 2024 15:21:29 +0000"
+            "title": "Transportation Department to Investigate Delta After Flight Delays",
+            "link": "https://www.nytimes.com/2024/07/23/us/pete-buttigieg-delta-outage.html",
+            "published": "Tue, 23 Jul 2024 15:02:55 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Cyber-security firm rejects $23bn Google takeover",
+            "link": "https://www.bbc.com/news/articles/c3gdlng47k7o",
+            "published": "Tue, 23 Jul 2024 15:37:34 GMT"
+        },
         {
             "title": "Google U-turn over long-running plan to ditch cookies",
             "link": "https://www.bbc.com/news/articles/c51y7q0qv7eo",
@@ -73,11 +78,6 @@
             "title": "'Significant number' of devices fixed - CrowdStrike",
             "link": "https://www.bbc.com/news/articles/cgl7e33n1d0o",
             "published": "Mon, 22 Jul 2024 03:35:25 GMT"
-        },
-        {
-            "title": "Scam warning as fake emails and websites target users after outage",
-            "link": "https://www.bbc.com/news/articles/cq5xy12pynyo",
-            "published": "Sat, 20 Jul 2024 11:50:44 GMT"
         }
     ]
 }
