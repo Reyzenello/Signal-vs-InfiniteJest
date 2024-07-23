@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Posh, an iOS app that offers a TikTok-like vertical feed of events, raised a $22M Series A, taking its total funding to $31M, and claims 2M registered users (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/240723/p19#a240723p19",
+            "published": "Tue, 23 Jul 2024 09:45:03 -0400"
+        },
+        {
+            "title": "Adobe rolls out new Illustrator features like Generative Shape Fill, powered by Firefly Vector 2, now in public beta, alongside new and updated Photoshop tools (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/240723/p18#a240723p18",
+            "published": "Tue, 23 Jul 2024 09:30:00 -0400"
+        },
+        {
             "title": "Vancouver-based Clio, which makes cloud tools to help law firms run more efficiently, raised a $900M Series F at a $3B valuation, up from $1.6B in April 2021 (Mary Ann Azevedo/TechCrunch)",
             "link": "http://www.techmeme.com/240723/p17#a240723p17",
             "published": "Tue, 23 Jul 2024 08:25:13 -0400"
@@ -14,43 +24,33 @@
             "title": "Dragos details a sample of Russia-linked malware used in a hack in January 2024 to target a heating utility in Lviv, Ukraine, cutting service to 600 buildings (Andy Greenberg/Wired)",
             "link": "http://www.techmeme.com/240723/p15#a240723p15",
             "published": "Tue, 23 Jul 2024 07:30:01 -0400"
-        },
-        {
-            "title": "Swiss computer hardware maker Logitech reports Q2 revenue up 12% YoY to $4.34B and expects 2024 sales up 1% to 3%, up from 0% to 2% previously forecast (Paula Doenecke/Bloomberg)",
-            "link": "http://www.techmeme.com/240723/p14#a240723p14",
-            "published": "Tue, 23 Jul 2024 07:15:09 -0400"
-        },
-        {
-            "title": "GM says Cruise restarted test operations in three US cities after a vehicle dragged a pedestrian in October 2023, and suspends developing its Cruise Origin cab (Neal E. Boudette/New York Times)",
-            "link": "http://www.techmeme.com/240723/p13#a240723p13",
-            "published": "Tue, 23 Jul 2024 07:00:26 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Artificial Intelligence Has a Math Problem",
+            "link": "https://www.nytimes.com/2024/07/23/technology/ai-chatbots-chatgpt-math.html",
+            "published": "Tue, 23 Jul 2024 07:00:13 +0000"
+        },
+        {
+            "title": "Google\u2019s Plan to Buy Wiz for $23 Billion Falls Apart",
+            "link": "https://www.nytimes.com/2024/07/23/technology/google-wiz-deal-ipo.html",
+            "published": "Tue, 23 Jul 2024 04:00:41 +0000"
+        },
+        {
+            "title": "Congress Calls for Tech Outage Hearing to Grill CrowdStrike C.E.O.",
+            "link": "https://www.nytimes.com/2024/07/22/technology/crowdstrike-outage-congress-hearing.html",
+            "published": "Tue, 23 Jul 2024 08:30:25 +0000"
+        },
         {
             "title": "In Silicon Valley, Democrats Are Invigorated by Biden\u2019s Withdrawal",
             "link": "https://www.nytimes.com/2024/07/22/technology/silicon-valley-trump-biden-democrats.html",
             "published": "Mon, 22 Jul 2024 14:34:58 +0000"
         },
         {
-            "title": "CrowdStrike-Microsoft Outage: What Caused the IT Meltdown",
-            "link": "https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html",
-            "published": "Fri, 19 Jul 2024 21:19:16 +0000"
-        },
-        {
-            "title": "Global CrowdStrike Outage Proves How Fragile IT Systems Have Become",
-            "link": "https://www.nytimes.com/2024/07/20/technology/crowdstrike-microsoft-outage-software.html",
-            "published": "Sat, 20 Jul 2024 09:03:55 +0000"
-        },
-        {
-            "title": "Data for A.I. Training Is Disappearing Fast, Study Shows",
-            "link": "https://www.nytimes.com/2024/07/19/technology/ai-data-restrictions.html",
-            "published": "Fri, 19 Jul 2024 14:38:36 +0000"
-        },
-        {
-            "title": "G.M. Will Restart Cruise Taxi Service",
-            "link": "https://www.nytimes.com/2024/07/23/business/general-motors-cruise-driverless-taxi.html",
-            "published": "Tue, 23 Jul 2024 10:30:08 +0000"
+            "title": "Transportation Department to Investigate Delta After Flight Delays",
+            "link": "https://www.nytimes.com/2024/07/23/us/pete-buttigieg-delta-outage.html",
+            "published": "Tue, 23 Jul 2024 14:02:32 +0000"
         }
     ],
     "source_2": [
