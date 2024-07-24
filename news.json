@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The US NCSC warns US tech startups that \"foreign threat actors\", including China, might use private investment to exploit them and threaten national security (Financial Times)",
+            "link": "http://www.techmeme.com/240724/p21#a240724p21",
+            "published": "Wed, 24 Jul 2024 10:15:01 -0400"
+        },
+        {
+            "title": "Samsung Galaxy Z Fold6 review: very good battery life, easy multitasking, and seven years of updates, but narrow cover screen, bulky, heavy, and expensive (Allison Johnson/The Verge)",
+            "link": "http://www.techmeme.com/240724/p20#a240724p20",
+            "published": "Wed, 24 Jul 2024 09:55:06 -0400"
+        },
+        {
+            "title": "Law enforcement officials and experts: criminal groups are shying away from large ransomware-as-a-service platforms after disruption operations and an exit scam (Alexander Martin/The Record)",
+            "link": "http://www.techmeme.com/240724/p19#a240724p19",
+            "published": "Wed, 24 Jul 2024 09:40:01 -0400"
+        },
+        {
             "title": "Google updates the Play Store on Android to add categorized \"collections\" to show installed app content, expands Play Pass, and adds curated comics in Japan (Chris Welch/The Verge)",
             "link": "http://www.techmeme.com/240724/p18#a240724p18",
             "published": "Wed, 24 Jul 2024 09:15:01 -0400"
@@ -9,48 +24,33 @@
             "title": "Compliance startup Vanta raised a $150M Series C led by Sequoia Capital at a $2.45B valuation, up from $1.6B in 2022, to accelerate adding AI to its products (Sarah McBride/Bloomberg)",
             "link": "http://www.techmeme.com/240724/p17#a240724p17",
             "published": "Wed, 24 Jul 2024 08:35:13 -0400"
-        },
-        {
-            "title": "Twitch introduces new policy and moderation updates to curb sexual harassment, including making its policy \"easier to understand\" and adding moderation tools (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/240724/p16#a240724p16",
-            "published": "Wed, 24 Jul 2024 08:25:01 -0400"
-        },
-        {
-            "title": "The Overture Maps Foundation, backed by Microsoft, Amazon, Meta, and others, releases four global open maps datasets; transportation remains in beta (Paul Sawers/TechCrunch)",
-            "link": "http://www.techmeme.com/240724/p15#a240724p15",
-            "published": "Wed, 24 Jul 2024 08:15:00 -0400"
-        },
-        {
-            "title": "LA-based Pearl, an FDA-approved startup that uses AI to assist dentists to make diagnoses, raised a $58M Series B led by Left Lane Capital at a $400M valuation (Katie Roof/Bloomberg)",
-            "link": "http://www.techmeme.com/240724/p14#a240724p14",
-            "published": "Wed, 24 Jul 2024 07:50:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "From Online Drug Lord to Crypto Entrepreneur, Blake Benthall Is Back in Business",
+            "link": "https://www.nytimes.com/2024/07/24/business/blake-benthall-silk-road-crypto.html",
+            "published": "Wed, 24 Jul 2024 12:34:56 +0000"
+        },
+        {
+            "title": "A Kamala Harris Presidency Could Mean More of the Same on A.I. Regulation",
+            "link": "https://www.nytimes.com/2024/07/24/technology/kamala-harris-ai-regulation.html",
+            "published": "Wed, 24 Jul 2024 09:03:29 +0000"
+        },
+        {
+            "title": "Alphabet Reports 29% Jump in Profit as A.I. Efforts Begin to Pay Off",
+            "link": "https://www.nytimes.com/2024/07/23/technology/alphabet-google-earnings.html",
+            "published": "Tue, 23 Jul 2024 21:46:51 +0000"
+        },
         {
             "title": "Artificial Intelligence Has a Math Problem",
             "link": "https://www.nytimes.com/2024/07/23/technology/ai-chatbots-chatgpt-math.html",
             "published": "Tue, 23 Jul 2024 07:00:13 +0000"
         },
         {
-            "title": "Mark Zuckerberg Stumps for \u2018Open Source\u2019 A.I.",
-            "link": "https://www.nytimes.com/2024/07/23/technology/mark-zuckerberg-meta-open-source-ai.html",
-            "published": "Tue, 23 Jul 2024 16:47:21 +0000"
-        },
-        {
-            "title": "Google\u2019s Plan to Buy Wiz for $23 Billion Falls Apart",
-            "link": "https://www.nytimes.com/2024/07/23/technology/google-wiz-deal-ipo.html",
-            "published": "Tue, 23 Jul 2024 04:00:41 +0000"
-        },
-        {
-            "title": "Congress Calls for Tech Outage Hearing to Grill CrowdStrike C.E.O.",
-            "link": "https://www.nytimes.com/2024/07/22/technology/crowdstrike-outage-congress-hearing.html",
-            "published": "Tue, 23 Jul 2024 08:30:25 +0000"
-        },
-        {
-            "title": "A Kamala Harris Presidency Could Mean More of the Same on A.I. Regulation",
-            "link": "https://www.nytimes.com/2024/07/24/technology/kamala-harris-ai-regulation.html",
-            "published": "Wed, 24 Jul 2024 09:03:29 +0000"
+            "title": "Tesla Q2 Earnings Report Reveals 45% Profit Drop Amid Weak E.V. Sales",
+            "link": "https://www.nytimes.com/2024/07/23/business/tesla-q2-earnings-elon-musk.html",
+            "published": "Wed, 24 Jul 2024 03:27:15 +0000"
         }
     ],
     "source_2": [
