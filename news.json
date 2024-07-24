@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft Copilot customers say the AI assistants are no plug-and-play offering and involve feeding Copilot data; the Copilots excel at distilling information (Matt Day/Bloomberg)",
+            "title": "All Raise: ~18% of US VC firms have one or more female partners, double from 2018; PitchBook says female founders secured ~28% of total US deal value in 2023 (Lizette Chapman/Bloomberg)",
+            "link": "http://www.techmeme.com/240724/p25#a240724p25",
+            "published": "Wed, 24 Jul 2024 12:00:46 -0400"
+        },
+        {
+            "title": "Researchers suggest that using \"synthetic\" data, created by AI systems to train LLMs, could lead to the rapid degradation of AI models and a collapse over time (Michael Peel/Financial Times)",
+            "link": "http://www.techmeme.com/240724/p24#a240724p24",
+            "published": "Wed, 24 Jul 2024 11:35:00 -0400"
+        },
+        {
+            "title": "Stability AI unveils Stable Video 4D, a model based on the existing Stable Video Diffusion model to take video input and generate videos from eight perspectives (Sean Michael Kerner/VentureBeat)",
+            "link": "http://www.techmeme.com/240724/p23#a240724p23",
+            "published": "Wed, 24 Jul 2024 11:25:01 -0400"
+        },
+        {
+            "title": "Microsoft Copilot customers say the AI assistants are no plug-and-play offering and involve feeding them data; the Copilots only excel at distilling information (Matt Day/Bloomberg)",
             "link": "http://www.techmeme.com/240724/p22#a240724p22",
             "published": "Wed, 24 Jul 2024 10:40:00 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "The US NCSC warns US tech startups that \"foreign threat actors\", including China, might use private investment to exploit them and threaten national security (Financial Times)",
             "link": "http://www.techmeme.com/240724/p21#a240724p21",
             "published": "Wed, 24 Jul 2024 10:15:01 -0400"
-        },
-        {
-            "title": "Samsung Galaxy Z Fold6 review: very good battery life, easy multitasking, and seven years of updates, but narrow cover screen, bulky, heavy, and expensive (Allison Johnson/The Verge)",
-            "link": "http://www.techmeme.com/240724/p20#a240724p20",
-            "published": "Wed, 24 Jul 2024 09:55:06 -0400"
-        },
-        {
-            "title": "Law enforcement officials and experts: criminal groups are shying away from large ransomware-as-a-service platforms after disruption operations and an exit scam (Alexander Martin/The Record)",
-            "link": "http://www.techmeme.com/240724/p19#a240724p19",
-            "published": "Wed, 24 Jul 2024 09:40:01 -0400"
-        },
-        {
-            "title": "Google updates the Play Store on Android to add categorized \"collections\" to show installed app content, expands Play Pass, and adds curated comics in Japan (Chris Welch/The Verge)",
-            "link": "http://www.techmeme.com/240724/p18#a240724p18",
-            "published": "Wed, 24 Jul 2024 09:15:01 -0400"
         }
     ],
     "source_1": [
