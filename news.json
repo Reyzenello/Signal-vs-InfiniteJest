@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google debuts new Maps features in India to help users easily navigate though flyovers and narrow roads, says it built an AI model specifically for Indian roads (TechCrunch)",
+            "link": "http://www.techmeme.com/240725/p10#a240725p10",
+            "published": "Thu, 25 Jul 2024 06:15:19 -0400"
+        },
+        {
+            "title": "Beijing-based AI startup Baichuan raised about $687M at a $2.8B valuation from investors, including Beijing, Shanghai, and Shenzhen governments, and Alibaba (Bloomberg)",
+            "link": "http://www.techmeme.com/240725/p9#a240725p9",
+            "published": "Thu, 25 Jul 2024 06:00:37 -0400"
+        },
+        {
             "title": "Revolut secures a preliminary UK banking license, ending a three-year long regulatory battle; the London-based fintech has ~9M UK customers and 45M+ globally (Akila Quinio/Financial Times)",
             "link": "http://www.techmeme.com/240725/p8#a240725p8",
             "published": "Thu, 25 Jul 2024 04:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "STMicro reports Q2 net revenue down 25.3% YoY to $3.23B and cuts its FY 2024 revenue outlook to $13.2B to $13.7B, down from a previous range of $14B to $15B (Michael Hennessey/Bloomberg)",
             "link": "http://www.techmeme.com/240725/p6#a240725p6",
             "published": "Thu, 25 Jul 2024 02:10:02 -0400"
-        },
-        {
-            "title": "India drops the 2% equalization levy on digital services offered by foreign companies starting August 1; the levy had become a point of contention with the US (Laura Dobberstein/The Register)",
-            "link": "http://www.techmeme.com/240725/p5#a240725p5",
-            "published": "Thu, 25 Jul 2024 01:55:16 -0400"
-        },
-        {
-            "title": "A group of 16 US lawmakers ask Meta to delay shutting down CrowdTangle for at least six months, citing concerns about the limitations of Meta Content Library (Sara Fischer/Axios)",
-            "link": "http://www.techmeme.com/240725/p4#a240725p4",
-            "published": "Thu, 25 Jul 2024 00:55:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 23 Jul 2024 07:00:13 +0000"
         },
         {
-            "title": "X Uses Community Notes on Election Posts, but Misinformation Spreads",
-            "link": "https://www.nytimes.com/2024/07/25/technology/elon-musk-x-community-notes-election.html",
-            "published": "Thu, 25 Jul 2024 09:00:59 +0000"
+            "title": "For Years, TikTok Told Us What to Buy. Now the Trend Is to Consume Less.",
+            "link": "https://www.nytimes.com/2024/07/25/style/tiktok-underconsumption-influencers.html",
+            "published": "Thu, 25 Jul 2024 09:40:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "CrowdStrike backlash over $10 apology voucher",
+            "link": "https://www.bbc.com/news/articles/ce58p0048r0o",
+            "published": "Thu, 25 Jul 2024 09:56:59 GMT"
+        },
         {
             "title": "Shares drop in US and Asia as AI stocks slide",
             "link": "https://www.bbc.com/news/articles/ck5gp185n6ro",
@@ -63,11 +68,6 @@
             "title": "Instagram removes 63,000 sextortion accounts in Nigeria",
             "link": "https://www.bbc.com/news/articles/cd1jpdg4endo",
             "published": "Wed, 24 Jul 2024 16:34:19 GMT"
-        },
-        {
-            "title": "CrowdStrike pledges better tests after IT outage",
-            "link": "https://www.bbc.com/news/articles/ce58p0048r0o",
-            "published": "Wed, 24 Jul 2024 21:56:35 GMT"
         },
         {
             "title": "Why tech bros are turning to Trump",
