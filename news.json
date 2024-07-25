@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI unveils SearchGPT, a search tool powered by GPT-4 that can organize links and summarize its findings, available as a prototype to 10,000 users at launch (Kylie Robison/The Verge)",
+            "link": "http://www.techmeme.com/240725/p26#a240725p26",
+            "published": "Thu, 25 Jul 2024 14:16:10 -0400"
+        },
+        {
+            "title": "California's Supreme Court upholds Prop 22, allowing Uber, Lyft, DoorDash, and other companies to keep classifying California drivers as independent contractors (Maia Spoto/Bloomberg)",
+            "link": "http://www.techmeme.com/240725/p25#a240725p25",
+            "published": "Thu, 25 Jul 2024 14:00:35 -0400"
+        },
+        {
             "title": "FTC's newly unredacted filings quote an Adobe exec comparing early termination fees to \"heroin\"; Adobe's Dana Rao says the person was not on the leadership team (Nilay Patel/The Verge)",
             "link": "http://www.techmeme.com/240725/p24#a240725p24",
             "published": "Thu, 25 Jul 2024 12:50:01 -0400"
@@ -14,23 +24,13 @@
             "title": "Google DeepMind rolls out AlphaProof AI model, which specializes in math reasoning, and AlphaGeometry 2, an updated version of a model focused on geometry (Bloomberg)",
             "link": "http://www.techmeme.com/240725/p22#a240725p22",
             "published": "Thu, 25 Jul 2024 11:45:00 -0400"
-        },
-        {
-            "title": "Samsung Galaxy Ring review: great hardware, long battery life, and requires no subscription, but it's Android only and health tracking accuracy is a mixed bag (Victoria Song/The Verge)",
-            "link": "http://www.techmeme.com/240725/p21#a240725p21",
-            "published": "Thu, 25 Jul 2024 11:25:02 -0400"
-        },
-        {
-            "title": "Sources: in a few weeks, the EU is set to hit Meta with its first antitrust fine, for up to 10% of its 2023 global revenue, for tying Marketplace and Facebook (Foo Yun Chee/Reuters)",
-            "link": "http://www.techmeme.com/240725/p20#a240725p20",
-            "published": "Thu, 25 Jul 2024 11:05:14 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How US Chips Continue to End Up in Russian Missiles",
             "link": "https://www.nytimes.com/2024/07/25/technology/russia-sanctions-chips.html",
-            "published": "Thu, 25 Jul 2024 17:06:49 +0000"
+            "published": "Thu, 25 Jul 2024 17:06:50 +0000"
         },
         {
             "title": "X Uses Community Notes on Election Posts, but Misinformation Spreads",
@@ -48,9 +48,9 @@
             "published": "Wed, 24 Jul 2024 09:03:30 +0000"
         },
         {
-            "title": "China Is Closing the A.I. Gap With the United States",
-            "link": "https://www.nytimes.com/2024/07/25/technology/china-open-source-ai.html",
-            "published": "Thu, 25 Jul 2024 16:21:09 +0000"
+            "title": "Uber and Lyft Drivers Are Gig Workers, California Supreme Court Rules",
+            "link": "https://www.nytimes.com/2024/07/25/technology/california-gig-worker-court-decision.html",
+            "published": "Thu, 25 Jul 2024 18:21:05 +0000"
         }
     ],
     "source_2": [
