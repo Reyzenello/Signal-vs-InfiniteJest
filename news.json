@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A group of 16 US lawmakers ask Meta to delay shutting down CrowdTangle for at least six months, citing concerns about the limitations of Meta Content Library (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/240725/p4#a240725p4",
+            "published": "Thu, 25 Jul 2024 00:55:01 -0400"
+        },
+        {
+            "title": "Analysis: since the start of Ukraine war in 2022, Russia obtained ~$4B worth of US restricted chips from 6K+ companies, including from shell firms in Hong Kong (New York Times)",
+            "link": "http://www.techmeme.com/240725/p3#a240725p3",
+            "published": "Thu, 25 Jul 2024 00:40:02 -0400"
+        },
+        {
             "title": "Lakera, which helps enterprises protect generative AI apps from LLM vulnerabilities, raised a $20M Series A led by Atomico, bringing its total funding to $30M (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/240725/p2#a240725p2",
             "published": "Thu, 25 Jul 2024 00:20:12 -0400"
@@ -14,16 +24,6 @@
             "title": "Dazz, which provides AI-based cloud security remediation software for enterprises, raised $50M from Greylock and others, sources say at a ~$400M valuation (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/240724/p43#a240724p43",
             "published": "Wed, 24 Jul 2024 23:25:00 -0400"
-        },
-        {
-            "title": "ServiceNow President CJ Desai leaves the company after an internal probe found he violated company policy related to a US contract and an ex-Army CIO's hiring (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/240724/p42#a240724p42",
-            "published": "Wed, 24 Jul 2024 22:25:00 -0400"
-        },
-        {
-            "title": "Meta removes ~63K Instagram accounts used by sextortion scammers in Nigeria, along with ~7,200 Facebook assets, including accounts linked to the Yahoo Boys (Olivia Carville/Bloomberg)",
-            "link": "http://www.techmeme.com/240724/p41#a240724p41",
-            "published": "Wed, 24 Jul 2024 22:05:02 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "How US Chips Continue to End Up in Russian Missiles",
             "link": "https://www.nytimes.com/2024/07/25/technology/russia-sanctions-chips.html",
-            "published": "Thu, 25 Jul 2024 04:00:29 +0000"
+            "published": "Thu, 25 Jul 2024 04:34:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Shares drop in US and Asia as AI stocks slide",
+            "link": "https://www.bbc.com/news/articles/ck5gp185n6ro",
+            "published": "Thu, 25 Jul 2024 04:52:04 GMT"
+        },
         {
             "title": "Instagram removes 63,000 sextortion accounts in Nigeria",
             "link": "https://www.bbc.com/news/articles/cd1jpdg4endo",
@@ -73,11 +78,6 @@
             "title": "Cyber-security firm rejects $23bn Google takeover",
             "link": "https://www.bbc.com/news/articles/c3gdlng47k7o",
             "published": "Tue, 23 Jul 2024 15:37:34 GMT"
-        },
-        {
-            "title": "Google U-turn over long-running plan to ditch cookies",
-            "link": "https://www.bbc.com/news/articles/c51y7q0qv7eo",
-            "published": "Tue, 23 Jul 2024 10:36:26 GMT"
         }
     ]
 }
