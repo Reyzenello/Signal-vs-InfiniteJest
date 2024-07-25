@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
+            "title": "Amazon says a judge has dismissed a Washington state case, alleging that Amazon exposed warehouse workers to injuries, for lack of evidence (Spencer Soper/Bloomberg)",
+            "link": "http://www.techmeme.com/240725/p34#a240725p34",
+            "published": "Thu, 25 Jul 2024 17:10:03 -0400"
+        },
+        {
+            "title": "Anthropic says it does not support California's AI safety bill and suggests changes, including a shift from \"pre-harm enforcement\" to \"outcome-based deterrence\" (Ashley Gold/Axios)",
+            "link": "http://www.techmeme.com/240725/p33#a240725p33",
+            "published": "Thu, 25 Jul 2024 16:50:01 -0400"
+        },
+        {
+            "title": "Epic plans to bring its mobile games to AltStore on iOS in the EU, and remove its games from the Galaxy Store due to Samsung blocking sideloading by default (Epic Games)",
+            "link": "http://www.techmeme.com/240725/p32#a240725p32",
+            "published": "Thu, 25 Jul 2024 16:35:16 -0400"
+        },
+        {
+            "title": "Russia says it will throttle YouTube download speeds on computers by 70% by the end of next week, as \"a consequence of the anti-Russian policy of the host\" (Jake Rudnitsky/Bloomberg)",
+            "link": "http://www.techmeme.com/240725/p31#a240725p31",
+            "published": "Thu, 25 Jul 2024 16:25:06 -0400"
+        },
+        {
             "title": "SAG-AFTRA announces a strike starting Friday against major video game companies, including EA, after talks for a new contract broke down over AI protections (Sarah Parvini/Associated Press)",
             "link": "http://www.techmeme.com/240725/p30#a240725p30",
             "published": "Thu, 25 Jul 2024 15:50:05 -0400"
-        },
-        {
-            "title": "Sonos CEO Patrick Spence apologizes for Sonos' redesigned app, which launched in May to widespread criticism, and promises biweekly app updates through the fall (Chris Welch/The Verge)",
-            "link": "http://www.techmeme.com/240725/p29#a240725p29",
-            "published": "Thu, 25 Jul 2024 15:15:04 -0400"
-        },
-        {
-            "title": "OpenAI says it partnered with publishers including WSJ and The Atlantic to build its search engine SearchGPT; publishers can manage how their content appears (Deepa Seetharaman/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240725/p28#a240725p28",
-            "published": "Thu, 25 Jul 2024 14:45:19 -0400"
-        },
-        {
-            "title": "Meta says WhatsApp now has more than 100M MAUs in the US and that more than 50% of WhatsApp users in the country have an iPhone; WhatsApp has 2B+ MAUs globally (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/240725/p27#a240725p27",
-            "published": "Thu, 25 Jul 2024 14:35:03 -0400"
-        },
-        {
-            "title": "OpenAI unveils SearchGPT, a search tool powered by GPT-4 that can organize links and summarize its findings, available as a prototype to 10,000 users at launch (Kylie Robison/The Verge)",
-            "link": "http://www.techmeme.com/240725/p26#a240725p26",
-            "published": "Thu, 25 Jul 2024 14:16:10 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How US Chips Continue to End Up in Russian Missiles",
             "link": "https://www.nytimes.com/2024/07/25/technology/russia-sanctions-chips.html",
-            "published": "Thu, 25 Jul 2024 17:06:50 +0000"
+            "published": "Thu, 25 Jul 2024 21:13:08 +0000"
         },
         {
             "title": "X Uses Community Notes on Election Posts, but Misinformation Spreads",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "ChatGPT reveals search feature in Google challenge",
+            "link": "https://www.bbc.com/news/articles/c897qz1qex9o",
+            "published": "Thu, 25 Jul 2024 20:31:36 GMT"
+        },
+        {
             "title": "CrowdStrike backlash over $10 apology voucher",
             "link": "https://www.bbc.com/news/articles/ce58p0048r0o",
             "published": "Thu, 25 Jul 2024 09:56:59 GMT"
@@ -73,11 +78,6 @@
             "title": "Why tech bros are turning to Trump",
             "link": "https://www.bbc.com/news/articles/cd1j8dvw73lo",
             "published": "Wed, 24 Jul 2024 00:08:04 GMT"
-        },
-        {
-            "title": "Cyber-security firm rejects $23bn Google takeover",
-            "link": "https://www.bbc.com/news/articles/c3gdlng47k7o",
-            "published": "Tue, 23 Jul 2024 15:37:34 GMT"
         }
     ]
 }
