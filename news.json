@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google updates its Gemini chatbot with Gemini 1.5 Flash and a 32K-token context window in its free tier, links to related content for some prompts, and more (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/240725/p23#a240725p23",
+            "published": "Thu, 25 Jul 2024 12:25:05 -0400"
+        },
+        {
+            "title": "Google DeepMind rolls out AlphaProof AI model, which specializes in math reasoning, and AlphaGeometry 2, an updated version of a model focused on geometry (Bloomberg)",
+            "link": "http://www.techmeme.com/240725/p22#a240725p22",
+            "published": "Thu, 25 Jul 2024 11:45:00 -0400"
+        },
+        {
+            "title": "Samsung Galaxy Ring review: great hardware, long battery life, and requires no subscription, but it's Android only and health tracking accuracy is a mixed bag (Victoria Song/The Verge)",
+            "link": "http://www.techmeme.com/240725/p21#a240725p21",
+            "published": "Thu, 25 Jul 2024 11:25:02 -0400"
+        },
+        {
             "title": "Sources: Meta is set to be hit with its first EU antitrust fine, which could be as much as 10% of its 2023 global revenue, for tying Marketplace and Facebook (Foo Yun Chee/Reuters)",
             "link": "http://www.techmeme.com/240725/p20#a240725p20",
             "published": "Thu, 25 Jul 2024 11:05:14 -0400"
@@ -9,21 +24,6 @@
             "title": "The new Disney+, Hulu, and Max streaming bundle goes on sale in the US for $16.99 per month with ads and $29.99 per month without ads (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/240725/p19#a240725p19",
             "published": "Thu, 25 Jul 2024 10:35:14 -0400"
-        },
-        {
-            "title": "Source and doc: Runway scraped thousands of videos from YouTube creators and brands, including Disney and VICE News, to train its Gen-3 AI video generation tool (Samantha Cole/404 Media)",
-            "link": "http://www.techmeme.com/240725/p18#a240725p18",
-            "published": "Thu, 25 Jul 2024 10:15:02 -0400"
-        },
-        {
-            "title": "Chainguard, which helps companies secure their software supply chain, raised a $140M Series C co-led by Redpoint, Lightspeed, and IVP at a $1.12B valuation (Taylor Soper/GeekWire)",
-            "link": "http://www.techmeme.com/240725/p17#a240725p17",
-            "published": "Thu, 25 Jul 2024 10:05:02 -0400"
-        },
-        {
-            "title": "OpenAI introduces Rule-Based Rewards, a method to automate some model fine-tuning and cut down the time required to ensure a model behaves safely (Emilia David/VentureBeat)",
-            "link": "http://www.techmeme.com/240725/p16#a240725p16",
-            "published": "Thu, 25 Jul 2024 09:50:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Wed, 24 Jul 2024 09:03:30 +0000"
         },
         {
-            "title": "For Years, TikTok Told Us What to Buy. Now \u2018Underconsumption Core\u2019 Is About Consuming Less.",
-            "link": "https://www.nytimes.com/2024/07/25/style/tiktok-underconsumption-influencers.html",
-            "published": "Thu, 25 Jul 2024 13:01:38 +0000"
+            "title": "China Is Closing the A.I. Gap With the United States",
+            "link": "https://www.nytimes.com/2024/07/25/technology/china-open-source-ai.html",
+            "published": "Thu, 25 Jul 2024 16:21:09 +0000"
         }
     ],
     "source_2": [
