@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "SK Hynix announces plans to invest roughly $6.8B through 2028 on a chip plant in Yongin, South Korea, including a \"mini-fab\" to process 300mm silicon wafers (Joyce Lee/Reuters)",
+            "link": "http://www.techmeme.com/240726/p4#a240726p4",
+            "published": "Fri, 26 Jul 2024 06:05:02 -0400"
+        },
+        {
+            "title": "The Biden administration says Apple agreed to White House's voluntary safeguards for AI, joining the ranks of OpenAI, Amazon, Alphabet, Microsoft, and others (Akayla Gardner/Bloomberg)",
+            "link": "http://www.techmeme.com/240726/p3#a240726p3",
+            "published": "Fri, 26 Jul 2024 05:55:01 -0400"
+        },
+        {
             "title": "Inside JD Vance's VC career: five years, two firms before co-founding Narya, investing in AppHarvest, which faced lawsuits and filed for bankruptcy, and more (Angel Au-Yeung/Wall Street Journal)",
             "link": "http://www.techmeme.com/240726/p2#a240726p2",
             "published": "Fri, 26 Jul 2024 04:10:01 -0400"
@@ -14,23 +24,13 @@
             "title": "A look at the flood of \"fancam\" videos and memes about Kamala Harris on short-form video platforms, echoing \"meme armies\" that have supported Donald Trump (Washington Post)",
             "link": "http://www.techmeme.com/240725/p46#a240725p46",
             "published": "Thu, 25 Jul 2024 23:25:01 -0400"
-        },
-        {
-            "title": "Self-driving startup Applied Intuition raised $300M+ as part of a secondary deal that allowed shareholders and employees to sell shares in the $6B company (Katie Roof/Bloomberg)",
-            "link": "http://www.techmeme.com/240725/p45#a240725p45",
-            "published": "Thu, 25 Jul 2024 22:40:03 -0400"
-        },
-        {
-            "title": "Florida-based IntelePeer, which develops software to help businesses automate customer contact centers using AI, raised $140M in equity and debt (Denver Business Journal)",
-            "link": "http://www.techmeme.com/240725/p44#a240725p44",
-            "published": "Thu, 25 Jul 2024 22:15:00 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How US Chips Continue to End Up in Russian Missiles",
             "link": "https://www.nytimes.com/2024/07/25/technology/russia-sanctions-chips.html",
-            "published": "Thu, 25 Jul 2024 21:42:26 +0000"
+            "published": "Thu, 25 Jul 2024 21:42:27 +0000"
         },
         {
             "title": "X Uses Community Notes on Election Posts, but Misinformation Spreads",
@@ -40,7 +40,7 @@
         {
             "title": "From Online Drug Lord to Crypto Entrepreneur, Blake Benthall Is Back in Business",
             "link": "https://www.nytimes.com/2024/07/24/business/blake-benthall-silk-road-crypto.html",
-            "published": "Wed, 24 Jul 2024 12:34:56 +0000"
+            "published": "Fri, 26 Jul 2024 09:21:33 +0000"
         },
         {
             "title": "A Kamala Harris Presidency Could Mean More of the Same on A.I. Regulation",
@@ -48,12 +48,17 @@
             "published": "Wed, 24 Jul 2024 09:03:30 +0000"
         },
         {
-            "title": "Kamala Harris\u2019s Bratty Coconut Memescape + What Does $1,000 a Month Do? + The Empire CrowdStrikes Back",
-            "link": "https://www.nytimes.com/2024/07/26/podcasts/kamala-harriss-bratty-coconut-memescape-what-does-1000-a-month-do-the-empire-crowdstrikes-back.html",
-            "published": "Fri, 26 Jul 2024 09:06:23 +0000"
+            "title": "When A.I. Fails the Language Test, Who Is Left Out of the Conversation?",
+            "link": "https://www.nytimes.com/2024/07/26/technology/ai-language-gap.html",
+            "published": "Fri, 26 Jul 2024 09:40:11 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "CrowdStrike boss says 97% of crashed systems fixed",
+            "link": "https://www.bbc.com/news/articles/crgm07zjj2go",
+            "published": "Fri, 26 Jul 2024 09:39:00 GMT"
+        },
         {
             "title": "ChatGPT reveals search feature in Google challenge",
             "link": "https://www.bbc.com/news/articles/c897qz1qex9o",
@@ -73,11 +78,6 @@
             "title": "What's behind the global self-storage boom?",
             "link": "https://www.bbc.com/news/articles/c722xdddl4po",
             "published": "Thu, 25 Jul 2024 23:17:42 GMT"
-        },
-        {
-            "title": "Shares drop in US and Asia as AI stocks slide",
-            "link": "https://www.bbc.com/news/articles/ck5gp185n6ro",
-            "published": "Thu, 25 Jul 2024 07:18:58 GMT"
         }
     ]
 }
