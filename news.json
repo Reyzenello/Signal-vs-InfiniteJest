@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A decade-old drama between David Sacks and Parker Conrad has blown up into a fight on X over VC behavior, drawing in Paul Graham and other Silicon Valley names (Julie Bort/TechCrunch)",
-            "link": "http://www.techmeme.com/240725/p37#a240725p37",
-            "published": "Thu, 25 Jul 2024 19:15:15 -0400"
+            "title": "Binarly: UEFI Secure Boot is completely compromised on 200+ device models sold by Acer, Dell, Gigabyte, Intel, and Supermicro due to a cryptographic key leak (Dan Goodin/Ars Technica)",
+            "link": "http://www.techmeme.com/240725/p42#a240725p42",
+            "published": "Thu, 25 Jul 2024 21:30:01 -0400"
         },
         {
-            "title": "Leaked promo material reveals Pixel 9 series specs: all phones powered by Tensor G4, Pixel 9 Pro in 6.3-inch and 6.8-inch models with 16GB of RAM, and more (G.S Vasan/91mobiles)",
-            "link": "http://www.techmeme.com/240725/p36#a240725p36",
-            "published": "Thu, 25 Jul 2024 18:30:15 -0400"
+            "title": "The US DOJ indicts a North Korean hacker, who remains at large, for his alleged role in Andariel group's cyberattacks on US hospitals, NASA, and military bases (Associated Press)",
+            "link": "http://www.techmeme.com/240725/p41#a240725p41",
+            "published": "Thu, 25 Jul 2024 20:45:02 -0400"
         },
         {
-            "title": "Canalys: China's smartphone shipments rose 10% YoY in Q2, with Huawei's shipments up 41%; Apple's market share in China dropped to 14%, down from 16% in Q2 2023 (Reuters)",
-            "link": "http://www.techmeme.com/240725/p35#a240725p35",
-            "published": "Thu, 25 Jul 2024 17:30:03 -0400"
+            "title": "Kamala Harris joins TikTok, following an explosion of Harris memes since announcing her presidential run; her account has attracted 400K+ followers in ~2 hours (Todd Spangler/Variety)",
+            "link": "http://www.techmeme.com/240725/p40#a240725p40",
+            "published": "Thu, 25 Jul 2024 20:20:18 -0400"
         },
         {
-            "title": "Amazon says a judge has dismissed a Washington state case, alleging that Amazon exposed warehouse workers to injuries, for lack of evidence (Spencer Soper/Bloomberg)",
-            "link": "http://www.techmeme.com/240725/p34#a240725p34",
-            "published": "Thu, 25 Jul 2024 17:10:03 -0400"
+            "title": "Memo: Jack Dorsey plans a Block restructuring to remove business unit silos and group staff by function and warns that it may feel \"disruptive or uncomfortable\" (Kali Hays/Fortune)",
+            "link": "http://www.techmeme.com/240725/p39#a240725p39",
+            "published": "Thu, 25 Jul 2024 19:45:01 -0400"
         },
         {
-            "title": "Anthropic says it does not support California's AI safety bill and suggests changes, including a shift from \"pre-harm enforcement\" to \"outcome-based deterrence\" (Ashley Gold/Axios)",
-            "link": "http://www.techmeme.com/240725/p33#a240725p33",
-            "published": "Thu, 25 Jul 2024 16:50:01 -0400"
+            "title": "CrowdStrike CEO George Kurtz says 97% of Windows sensors are back online, about a week after CrowdStrike shipped a faulty update that bricked Windows computers (Sam Sabin/Axios)",
+            "link": "http://www.techmeme.com/240725/p38#a240725p38",
+            "published": "Thu, 25 Jul 2024 19:30:01 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "OpenAI Is Testing SearchGPT, an AI-Powered Search Engine",
             "link": "https://www.nytimes.com/2024/07/25/technology/openai-ai-search-engine.html",
-            "published": "Thu, 25 Jul 2024 21:21:05 +0000"
+            "published": "Fri, 26 Jul 2024 01:23:18 +0000"
         }
     ],
     "source_2": [
@@ -65,6 +65,11 @@
             "published": "Thu, 25 Jul 2024 09:56:59 GMT"
         },
         {
+            "title": "What's behind the global self-storage boom?",
+            "link": "https://www.bbc.com/news/articles/c722xdddl4po",
+            "published": "Thu, 25 Jul 2024 23:17:42 GMT"
+        },
+        {
             "title": "Shares drop in US and Asia as AI stocks slide",
             "link": "https://www.bbc.com/news/articles/ck5gp185n6ro",
             "published": "Thu, 25 Jul 2024 07:18:58 GMT"
@@ -73,11 +78,6 @@
             "title": "Instagram removes 63,000 sextortion accounts in Nigeria",
             "link": "https://www.bbc.com/news/articles/cd1jpdg4endo",
             "published": "Wed, 24 Jul 2024 16:34:19 GMT"
-        },
-        {
-            "title": "Why tech bros are turning to Trump",
-            "link": "https://www.bbc.com/news/articles/cd1j8dvw73lo",
-            "published": "Wed, 24 Jul 2024 00:08:04 GMT"
         }
     ]
 }
