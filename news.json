@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Talkie, which lets users chat with AI personas of celebrities and was one of most downloaded AI apps in the US in H1, is owned by China-based MiniMax (Raffaele Huang/Wall Street Journal)",
+            "link": "http://www.techmeme.com/240727/p8#a240727p8",
+            "published": "Sat, 27 Jul 2024 14:05:01 -0400"
+        },
+        {
             "title": "Google fixes a flaw after hackers bypassed email verification to create \"a few thousand\" Workspace accounts to access 3rd-party apps via Sign in with Google (Brian Krebs/Krebs on Security)",
             "link": "http://www.techmeme.com/240727/p7#a240727p7",
             "published": "Sat, 27 Jul 2024 12:50:01 -0400"
@@ -19,38 +24,33 @@
             "title": "Sources detail how Elon Musk undermined CEO Linda Yaccarino's efforts to repair X's business over the past year; X's US revenue fell 53% YoY to $114M in Q2 (Kate Conger/New York Times)",
             "link": "http://www.techmeme.com/240727/p4#a240727p4",
             "published": "Sat, 27 Jul 2024 09:30:04 -0400"
-        },
-        {
-            "title": "A profile of CrowdStrike CEO George Kurtz, who co-founded CrowdStrike in 2011 after departing as McAfee's CTO following Intel's acquisition of McAfee for $7.68B (Robert McMillan/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240727/p3#a240727p3",
-            "published": "Sat, 27 Jul 2024 06:40:04 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "How US Chips Continue to End Up in Russian Missiles",
-            "link": "https://www.nytimes.com/2024/07/25/technology/russia-sanctions-chips.html",
-            "published": "Thu, 25 Jul 2024 21:42:27 +0000"
-        },
-        {
-            "title": "X Uses Community Notes on Election Posts, but Misinformation Spreads",
-            "link": "https://www.nytimes.com/2024/07/25/technology/elon-musk-x-community-notes-election.html",
-            "published": "Thu, 25 Jul 2024 09:00:59 +0000"
-        },
-        {
-            "title": "From Online Drug Lord to Crypto Entrepreneur, Blake Benthall Is Back in Business",
-            "link": "https://www.nytimes.com/2024/07/24/business/blake-benthall-silk-road-crypto.html",
-            "published": "Fri, 26 Jul 2024 09:21:33 +0000"
-        },
-        {
-            "title": "A Kamala Harris Presidency Could Mean More of the Same on A.I. Regulation",
-            "link": "https://www.nytimes.com/2024/07/24/technology/kamala-harris-ai-regulation.html",
-            "published": "Wed, 24 Jul 2024 09:03:30 +0000"
-        },
-        {
             "title": "How Do You Solve a Problem Like Elon?",
             "link": "https://www.nytimes.com/2024/07/27/technology/linda-yaccarino-x-ceo-elon-musk.html",
             "published": "Sat, 27 Jul 2024 16:49:33 +0000"
+        },
+        {
+            "title": "Memecoins, Cryptocurrencies Based on Internet Memes, Roar Back",
+            "link": "https://www.nytimes.com/2024/07/27/technology/memecoins-crypto-surge.html",
+            "published": "Sat, 27 Jul 2024 07:00:28 +0000"
+        },
+        {
+            "title": "Justice Dept. Defends TikTok Law That Forces App\u2019s Sale or Ban",
+            "link": "https://www.nytimes.com/2024/07/27/technology/tiktok-ban-appeal-doj.html",
+            "published": "Sat, 27 Jul 2024 05:43:58 +0000"
+        },
+        {
+            "title": "Automakers Sold Driver Data for Pennies, Senators Say",
+            "link": "https://www.nytimes.com/2024/07/26/technology/driver-data-sold-for-pennies.html",
+            "published": "Sat, 27 Jul 2024 02:50:05 +0000"
+        },
+        {
+            "title": "When A.I. Fails the Language Test, Who Is Left Out of the Conversation?",
+            "link": "https://www.nytimes.com/2024/07/26/technology/ai-language-gap.html",
+            "published": "Fri, 26 Jul 2024 09:40:11 +0000"
         }
     ],
     "source_2": [
