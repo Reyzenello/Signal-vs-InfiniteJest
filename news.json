@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Meta agrees to pay $1.4B to settle Texas' lawsuit accusing Meta of using facial-recognition tech to collect biometric data of millions of Texans without consent (Reuters)",
+            "title": "Sources including frontline health care workers say their testing of Google's AI-powered nurse handoff tool has left questions about its consistency and quality (Bloomberg)",
+            "link": "http://www.techmeme.com/240730/p21#a240730p21",
+            "published": "Tue, 30 Jul 2024 11:00:29 -0400"
+        },
+        {
+            "title": "Amazon is expanding its one- to two-day delivery to rural areas in the US, using hyper-efficient warehouses, contracted drivers, and mom-and-pop shops (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240730/p20#a240730p20",
+            "published": "Tue, 30 Jul 2024 10:45:16 -0400"
+        },
+        {
+            "title": "SEC drops claims about 10 tokens it had argued were securities in its Binance suit; the case against other Binance programs, like staking, looks set to proceed (Brady Dale/Axios)",
+            "link": "http://www.techmeme.com/240730/p19#a240730p19",
+            "published": "Tue, 30 Jul 2024 10:35:01 -0400"
+        },
+        {
+            "title": "Meta agrees to pay $1.4B to settle Texas' lawsuit accusing Meta of using facial recognition tech to collect biometric data of millions of Texans without consent (Reuters)",
             "link": "http://www.techmeme.com/240730/p18#a240730p18",
             "published": "Tue, 30 Jul 2024 10:13:29 -0400"
         },
@@ -9,24 +24,14 @@
             "title": "Microsoft calls on US Congress to pass a comprehensive law to crack down on AI deepfakes that aim to interfere in elections or maliciously target people (Jeff Stone/Bloomberg)",
             "link": "http://www.techmeme.com/240730/p17#a240730p17",
             "published": "Tue, 30 Jul 2024 09:55:01 -0400"
-        },
-        {
-            "title": "London-based fertility app Flo Health raised a $200M+ Series C from General Atlantic at a $1B+ valuation and expects subscription revenue of over $200M in 2024 (Stephanie Stacey/Financial Times)",
-            "link": "http://www.techmeme.com/240730/p16#a240730p16",
-            "published": "Tue, 30 Jul 2024 09:45:00 -0400"
-        },
-        {
-            "title": "Perplexity is launching a program to share ad revenue with partners such as Time, Der Spiegel, Fortune, and WordPress.com, after weeks of plagiarism accusations (Kylie Robison/The Verge)",
-            "link": "http://www.techmeme.com/240730/p15#a240730p15",
-            "published": "Tue, 30 Jul 2024 09:18:04 -0400"
-        },
-        {
-            "title": "The UK ICO says the country's election authority failed to take \"basic steps\" to protect the personal data of 40M people before a 2021 China-backed cyberattack (Rafe Uddin/Financial Times)",
-            "link": "http://www.techmeme.com/240730/p14#a240730p14",
-            "published": "Tue, 30 Jul 2024 09:05:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How the Kids Online Safety Act Was Dragged Into a Political War",
+            "link": "https://www.nytimes.com/2024/07/30/technology/kosa-child-online-safety.html",
+            "published": "Tue, 30 Jul 2024 14:53:27 +0000"
+        },
         {
             "title": "Elon Musk, Reid Hoffman and Other Tech Billionaires Brawl Over Politics",
             "link": "https://www.nytimes.com/2024/07/29/technology/silicon-valley-politics-elon-musk-reid-hoffman.html",
@@ -43,17 +48,17 @@
             "published": "Sat, 27 Jul 2024 07:00:28 +0000"
         },
         {
-            "title": "How Do You Solve a Problem Like Elon?",
-            "link": "https://www.nytimes.com/2024/07/27/technology/linda-yaccarino-x-ceo-elon-musk.html",
-            "published": "Sat, 27 Jul 2024 21:27:24 +0000"
-        },
-        {
             "title": "Elon Musk Says Robotaxis Are Tesla\u2019s Future. Experts Have Doubts.",
             "link": "https://www.nytimes.com/2024/07/29/business/elon-musk-tesla-robotaxi.html",
             "published": "Mon, 29 Jul 2024 20:33:53 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Microsoft apologises after thousands report new outage",
+            "link": "https://www.bbc.com/news/articles/c903e793w74o",
+            "published": "Tue, 30 Jul 2024 15:14:02 GMT"
+        },
         {
             "title": "Poor security let hackers access 40 million voters' details",
             "link": "https://www.bbc.com/news/articles/c724e12zpndo",
@@ -73,11 +78,6 @@
             "title": "Autumn date to fix blood transfusion services",
             "link": "https://www.bbc.com/news/articles/c035y64vyvqo",
             "published": "Fri, 26 Jul 2024 18:31:35 GMT"
-        },
-        {
-            "title": "ChatGPT reveals search feature in Google challenge",
-            "link": "https://www.bbc.com/news/articles/c897qz1qex9o",
-            "published": "Thu, 25 Jul 2024 20:31:36 GMT"
         }
     ]
 }
