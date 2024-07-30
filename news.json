@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Meta agrees to pay $1.4B to settle Texas' lawsuit accusing Meta of using facial-recognition tech to collect biometric data of millions of Texans without consent (Reuters)",
+            "link": "http://www.techmeme.com/240730/p18#a240730p18",
+            "published": "Tue, 30 Jul 2024 10:13:29 -0400"
+        },
+        {
+            "title": "Microsoft calls on US Congress to pass a comprehensive law to crack down on AI deepfakes that aim to interfere in elections or maliciously target people (Jeff Stone/Bloomberg)",
+            "link": "http://www.techmeme.com/240730/p17#a240730p17",
+            "published": "Tue, 30 Jul 2024 09:55:01 -0400"
+        },
+        {
+            "title": "London-based fertility app Flo Health raised a $200M+ Series C from General Atlantic at a $1B+ valuation and expects subscription revenue of over $200M in 2024 (Stephanie Stacey/Financial Times)",
+            "link": "http://www.techmeme.com/240730/p16#a240730p16",
+            "published": "Tue, 30 Jul 2024 09:45:00 -0400"
+        },
+        {
             "title": "Perplexity is launching a program to share ad revenue with partners such as Time, Der Spiegel, Fortune, and WordPress.com, after weeks of plagiarism accusations (Kylie Robison/The Verge)",
             "link": "http://www.techmeme.com/240730/p15#a240730p15",
             "published": "Tue, 30 Jul 2024 09:18:04 -0400"
@@ -9,21 +24,6 @@
             "title": "The UK ICO says the country's election authority failed to take \"basic steps\" to protect the personal data of 40M people before a 2021 China-backed cyberattack (Rafe Uddin/Financial Times)",
             "link": "http://www.techmeme.com/240730/p14#a240730p14",
             "published": "Tue, 30 Jul 2024 09:05:03 -0400"
-        },
-        {
-            "title": "The UK CMA is gathering information from market players to determine whether Google's partnership with Anthropic qualifies as a merger and harms competition (Katharine Gemmell/Bloomberg)",
-            "link": "http://www.techmeme.com/240730/p13#a240730p13",
-            "published": "Tue, 30 Jul 2024 08:30:08 -0400"
-        },
-        {
-            "title": "PayPal reports Q2 revenue up 8% YoY to $7.89B, total payment volume up 11% to $416.81B, transaction margin dollars up 8%, and raises its FY 2024 profit forecast (Manya Saini/Reuters)",
-            "link": "http://www.techmeme.com/240730/p12#a240730p12",
-            "published": "Tue, 30 Jul 2024 07:55:00 -0400"
-        },
-        {
-            "title": "Experts say AI forecasting models are predicting weather patterns with new speed and precision and are likely to complement supercomputer forecasting models (William J. Broad/New York Times)",
-            "link": "http://www.techmeme.com/240730/p11#a240730p11",
-            "published": "Tue, 30 Jul 2024 06:55:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Poor security let hackers access 40 million voters' details",
+            "link": "https://www.bbc.com/news/articles/c724e12zpndo",
+            "published": "Tue, 30 Jul 2024 13:23:20 GMT"
+        },
+        {
             "title": "Nine-year-old Deadpool game sells for \u00a3300 after film hype",
             "link": "https://www.bbc.com/news/articles/cnk4510vp75o",
             "published": "Tue, 30 Jul 2024 12:28:50 GMT"
@@ -73,11 +78,6 @@
             "title": "ChatGPT reveals search feature in Google challenge",
             "link": "https://www.bbc.com/news/articles/c897qz1qex9o",
             "published": "Thu, 25 Jul 2024 20:31:36 GMT"
-        },
-        {
-            "title": "Actors go on strike over video games AI threat",
-            "link": "https://www.bbc.com/news/articles/c4ngy53qyq8o",
-            "published": "Fri, 26 Jul 2024 04:44:28 GMT"
         }
     ]
 }
