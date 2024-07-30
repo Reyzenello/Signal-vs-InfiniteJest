@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The UK CMA is gathering information from market players to determine whether Google's partnership with Anthropic qualifies as a merger and harms competition (Katharine Gemmell/Bloomberg)",
+            "link": "http://www.techmeme.com/240730/p13#a240730p13",
+            "published": "Tue, 30 Jul 2024 08:30:08 -0400"
+        },
+        {
+            "title": "PayPal reports Q2 revenue up 8% YoY to $7.89B, total payment volume up 11% to $416.81B, transaction margin dollars up 8%, and raises its FY 2024 profit forecast (Manya Saini/Reuters)",
+            "link": "http://www.techmeme.com/240730/p12#a240730p12",
+            "published": "Tue, 30 Jul 2024 07:55:00 -0400"
+        },
+        {
             "title": "Experts say AI forecasting models are predicting weather patterns with new speed and precision and are likely to complement supercomputer forecasting models (William J. Broad/New York Times)",
             "link": "http://www.techmeme.com/240730/p11#a240730p11",
             "published": "Tue, 30 Jul 2024 06:55:01 -0400"
@@ -14,16 +24,6 @@
             "title": "The NHTSA says Tesla released an OTA update for 1.8M cars, including 2021-2024 Model 3, Model S, and Model X, to fix a software failure to detect unlatched hood (Disha Mishra/Reuters)",
             "link": "http://www.techmeme.com/240730/p9#a240730p9",
             "published": "Tue, 30 Jul 2024 06:05:00 -0400"
-        },
-        {
-            "title": "Flipkart consolidates its various fintech offerings, including UPI and BNPL, under Flipkart Pay; the move follows recent expansions and a spinoff of PhonePe (The Economic Times)",
-            "link": "http://www.techmeme.com/240730/p8#a240730p8",
-            "published": "Tue, 30 Jul 2024 05:50:05 -0400"
-        },
-        {
-            "title": "Qualcomm debuts the 4nm Snapdragon 4s Gen 2, a feature limited version of the Snapdragon 4 Gen 2, to make 5G accessible to smartphones in the sub-$100 category (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/240730/p7#a240730p7",
-            "published": "Tue, 30 Jul 2024 05:35:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Nine-year-old Deadpool game sells for \u00a3300 after film hype",
+            "link": "https://www.bbc.com/news/articles/cnk4510vp75o",
+            "published": "Tue, 30 Jul 2024 12:28:50 GMT"
+        },
+        {
             "title": "CrowdStrike boss says 97% of crashed systems fixed",
             "link": "https://www.bbc.com/news/articles/crgm07zjj2go",
             "published": "Fri, 26 Jul 2024 09:39:00 GMT"
@@ -73,11 +78,6 @@
             "title": "Actors go on strike over video games AI threat",
             "link": "https://www.bbc.com/news/articles/c4ngy53qyq8o",
             "published": "Fri, 26 Jul 2024 04:44:28 GMT"
-        },
-        {
-            "title": "CrowdStrike backlash over $10 apology voucher",
-            "link": "https://www.bbc.com/news/articles/ce58p0048r0o",
-            "published": "Thu, 25 Jul 2024 09:56:59 GMT"
         }
     ]
 }
