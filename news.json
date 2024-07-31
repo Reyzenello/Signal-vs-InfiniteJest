@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "US senators unveil the bipartisan NO FAKES Act, which would make individuals and companies liable for producing, hosting, or sharing unauthorized AI deepfakes (Anna Washenko/Engadget)",
+            "link": "http://www.techmeme.com/240731/p42#a240731p42",
+            "published": "Wed, 31 Jul 2024 19:20:02 -0400"
+        },
+        {
+            "title": "Ema, which helps companies set up and deploy no-code AI agents it calls \"universal AI employees\", raised $36M as part of a Series A led by Accel and Section 32 (Shubham Sharma/VentureBeat)",
+            "link": "http://www.techmeme.com/240731/p41#a240731p41",
+            "published": "Wed, 31 Jul 2024 18:40:15 -0400"
+        },
+        {
             "title": "New York-based Spring Health, which offers a mental health app that matches patients with care providers, raised a $100M Series E at a $3.3B valuation (Emma Hinchliffe/Fortune)",
             "link": "http://www.techmeme.com/240731/p40#a240731p40",
             "published": "Wed, 31 Jul 2024 18:10:16 -0400"
@@ -14,16 +24,6 @@
             "title": "Reddit CEO says Microsoft, Anthropic, and Perplexity need to pay to scrape the site's data, and it has been \"a real pain in the ass to block these companies\" (Alex Heath/The Verge)",
             "link": "http://www.techmeme.com/240731/p38#a240731p38",
             "published": "Wed, 31 Jul 2024 17:05:01 -0400"
-        },
-        {
-            "title": "eBay reports Q2 revenue up 1% YoY to $2.57B, vs. $2.53B est., GMV up 1% to $18.4B, net income up 31% to $226M, and forecasts Q3 revenue below estimates (Akash Sriram/Reuters)",
-            "link": "http://www.techmeme.com/240731/p37#a240731p37",
-            "published": "Wed, 31 Jul 2024 16:45:02 -0400"
-        },
-        {
-            "title": "Meta's Reality Labs posts Q2 revenue up 28% YoY of $353M, vs. $371M est., and operating loss of $4.48B, vs. $4.55B est.; Reality Labs has lost ~$50B since 2020 (Jonathan Vanian/CNBC)",
-            "link": "http://www.techmeme.com/240731/p36#a240731p36",
-            "published": "Wed, 31 Jul 2024 16:40:01 -0400"
         }
     ],
     "source_1": [
@@ -33,9 +33,9 @@
             "published": "Wed, 31 Jul 2024 20:16:41 +0000"
         },
         {
-            "title": "How the Kids Online Safety Act Was Dragged Into a Political War",
-            "link": "https://www.nytimes.com/2024/07/30/technology/kosa-child-online-safety.html",
-            "published": "Tue, 30 Jul 2024 18:01:06 +0000"
+            "title": "Meta Says It Will Continue Spending, as Growth Surges",
+            "link": "https://www.nytimes.com/2024/07/31/technology/meta-earnings-artificial-intelligence.html",
+            "published": "Wed, 31 Jul 2024 22:03:42 +0000"
         },
         {
             "title": "How YouTube Became\u00a0the Most Popular Streaming Service on TVs",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Instagram and Facebook ads drive profit surge",
+            "link": "https://www.bbc.com/news/articles/c0dmel29mk4o",
+            "published": "Wed, 31 Jul 2024 23:01:58 GMT"
+        },
+        {
             "title": "Tinder parent company cuts jobs as subscriber numbers slump",
             "link": "https://www.bbc.com/news/articles/c0xj08l9055o",
             "published": "Wed, 31 Jul 2024 12:05:33 GMT"
@@ -73,11 +78,6 @@
             "title": "Poor security let hackers access 40 million voters' details",
             "link": "https://www.bbc.com/news/articles/c724e12zpndo",
             "published": "Tue, 30 Jul 2024 13:23:20 GMT"
-        },
-        {
-            "title": "Nine-year-old Deadpool game sells for \u00a3300 after film hype",
-            "link": "https://www.bbc.com/news/articles/cnk4510vp75o",
-            "published": "Tue, 30 Jul 2024 12:28:50 GMT"
         }
     ]
 }
