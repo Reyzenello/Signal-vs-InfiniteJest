@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Samsung reports Q2 revenue up 23.42% YoY to ~$53.45B, vs. ~$53.3B est., operating profit up 1,458% YoY to ~$7.5B, as AI memory chip demand remains strong (Sheila Chiang/CNBC)",
+            "link": "http://www.techmeme.com/240730/p42#a240730p42",
+            "published": "Tue, 30 Jul 2024 20:30:16 -0400"
+        },
+        {
+            "title": "How Elon Musk and X's division of labor stymied some of Linda Yaccarino's plans, like a Visa deal; internal figures show X had 250.8M DAUs in Q2, up 1.56% YoY (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240730/p41#a240730p41",
+            "published": "Tue, 30 Jul 2024 20:00:43 -0400"
+        },
+        {
             "title": "AMD CEO Lisa Su says the MI300 AI chips did over $1B in sales in Q2 and that supply of MI300 chips will remain tight through 2025 (Sean Hollister/The Verge)",
             "link": "http://www.techmeme.com/240730/p40#a240730p40",
             "published": "Tue, 30 Jul 2024 18:55:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Startup Friend previews a $99 AI pendant with an always-on microphone that's designed to provide the wearer with companionship, set to ship in January 2025 (Boone Ashworth/Wired)",
             "link": "http://www.techmeme.com/240730/p38#a240730p38",
             "published": "Tue, 30 Jul 2024 17:45:04 -0400"
-        },
-        {
-            "title": "Microsoft Q4: Windows OEM revenue up 4% YoY, devices revenue down 11% YoY, overall gaming revenue up 44% YoY, and Xbox content and services revenue up 61% YoY (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/240730/p37#a240730p37",
-            "published": "Tue, 30 Jul 2024 17:40:17 -0400"
-        },
-        {
-            "title": "EA reports Q1 net bookings down 20% YoY to $1.26B, above expectations, revenue down 14% YoY to $1.66B, and net income down 30% YoY to 280M (Jordan Fragen/VentureBeat)",
-            "link": "http://www.techmeme.com/240730/p36#a240730p36",
-            "published": "Tue, 30 Jul 2024 17:25:02 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "Microsoft apologises after thousands report new outage",
+            "title": "Microsoft says cyber-attack triggered latest outage",
             "link": "https://www.bbc.com/news/articles/c903e793w74o",
-            "published": "Tue, 30 Jul 2024 20:59:39 GMT"
+            "published": "Wed, 31 Jul 2024 01:11:13 GMT"
         },
         {
             "title": "Poor security let hackers access 40 million voters' details",
