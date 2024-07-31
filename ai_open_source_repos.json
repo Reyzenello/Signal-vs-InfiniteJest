@@ -42,16 +42,16 @@
         "description": "Shoggoth is a peer-to-peer network for publishing and distributing open-source Artificial Intelligence"
     },
     {
-        "name": "hypergraphdb",
-        "full_name": "hypergraphdb/hypergraphdb",
-        "html_url": "https://github.com/hypergraphdb/hypergraphdb",
-        "description": "HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and semantic web projects, it can also be used as an embedded object-oriented database for projects of all sizes."
-    },
-    {
         "name": "taranis-ai",
         "full_name": "taranis-ai/taranis-ai",
         "html_url": "https://github.com/taranis-ai/taranis-ai",
         "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis."
+    },
+    {
+        "name": "hypergraphdb",
+        "full_name": "hypergraphdb/hypergraphdb",
+        "html_url": "https://github.com/hypergraphdb/hypergraphdb",
+        "description": "HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and semantic web projects, it can also be used as an embedded object-oriented database for projects of all sizes."
     },
     {
         "name": "ai-flow",
