@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "On Meta's earnings call, Mark Zuckerberg said Llama 4 will likely need ~10x more compute than Llama 3.1 to train, Quest 3 sales exceeded expectations, and more (Alex Heath/The Verge)",
+            "link": "http://www.techmeme.com/240731/p44#a240731p44",
+            "published": "Wed, 31 Jul 2024 21:10:01 -0400"
+        },
+        {
+            "title": "The US SEC sues former IRL CEO Abraham Shafi, accusing him of a $170M fraud by misleading investors about the company's growth and concealing personal expenses (Joe Miller/Financial Times)",
+            "link": "http://www.techmeme.com/240731/p43#a240731p43",
+            "published": "Wed, 31 Jul 2024 19:50:01 -0400"
+        },
+        {
             "title": "US senators unveil the bipartisan NO FAKES Act, which would make individuals and companies liable for producing, hosting, or sharing unauthorized AI deepfakes (Anna Washenko/Engadget)",
             "link": "http://www.techmeme.com/240731/p42#a240731p42",
             "published": "Wed, 31 Jul 2024 19:20:02 -0400"
@@ -14,16 +24,6 @@
             "title": "New York-based Spring Health, which offers a mental health app that matches patients with care providers, raised a $100M Series E at a $3.3B valuation (Emma Hinchliffe/Fortune)",
             "link": "http://www.techmeme.com/240731/p40#a240731p40",
             "published": "Wed, 31 Jul 2024 18:10:16 -0400"
-        },
-        {
-            "title": "Google unveils updates to its Gemma family of open models, including Gemma 2 2B, which it claims surpasses GPT-3.5 and Mixtral 8x7B on the LMSYS Chatbot Arena (Jonathan Kemper/The Decoder)",
-            "link": "http://www.techmeme.com/240731/p39#a240731p39",
-            "published": "Wed, 31 Jul 2024 17:30:01 -0400"
-        },
-        {
-            "title": "Reddit CEO says Microsoft, Anthropic, and Perplexity need to pay to scrape the site's data, and it has been \"a real pain in the ass to block these companies\" (Alex Heath/The Verge)",
-            "link": "http://www.techmeme.com/240731/p38#a240731p38",
-            "published": "Wed, 31 Jul 2024 17:05:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Video games strike rumbles on in row over AI",
+            "link": "https://www.bbc.com/news/articles/czvxz11gl57o",
+            "published": "Wed, 31 Jul 2024 23:46:32 GMT"
+        },
+        {
+            "title": "Can technology fix the 'broken' concert ticketing system?",
+            "link": "https://www.bbc.com/news/articles/cml2p8nvzp9o",
+            "published": "Wed, 31 Jul 2024 23:05:57 GMT"
+        },
+        {
             "title": "Instagram and Facebook ads drive profit surge",
             "link": "https://www.bbc.com/news/articles/c0dmel29mk4o",
             "published": "Wed, 31 Jul 2024 23:01:58 GMT"
@@ -68,16 +78,6 @@
             "title": "Microsoft says cyber-attack triggered latest outage",
             "link": "https://www.bbc.com/news/articles/c903e793w74o",
             "published": "Wed, 31 Jul 2024 01:11:13 GMT"
-        },
-        {
-            "title": "TikTok HQ staff hit by mass food poisoning incident",
-            "link": "https://www.bbc.com/news/articles/cw9yzyvyex7o",
-            "published": "Wed, 31 Jul 2024 03:43:20 GMT"
-        },
-        {
-            "title": "Poor security let hackers access 40 million voters' details",
-            "link": "https://www.bbc.com/news/articles/c724e12zpndo",
-            "published": "Tue, 30 Jul 2024 13:23:20 GMT"
         }
     ]
 }
