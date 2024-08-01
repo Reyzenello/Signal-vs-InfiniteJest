@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Don Lemon sues Elon Musk and X, arguing Musk refused to pay him after a content deal with X fell apart; Lemon did not sign a formal contract (Kate Conger/New York Times)",
+            "title": "Google unveils AI features for Chrome on desktop, including support for Google Lens and searching history via natural language queries, rolling out in the US (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/240801/p27#a240801p27",
+            "published": "Thu, 01 Aug 2024 12:15:14 -0400"
+        },
+        {
+            "title": "UAE-based G42 is working with the US and Emirati government \"to comply with the highest global standards\" in AI, after US lawmakers questioned its China ties (Reuters)",
+            "link": "http://www.techmeme.com/240801/p26#a240801p26",
+            "published": "Thu, 01 Aug 2024 12:00:38 -0400"
+        },
+        {
+            "title": "Protect AI, which develops software to help enterprises secure AI models and applications, raised $60M led by Evolution Equity Partners at a $400M valuation (Katie Roof/Bloomberg)",
+            "link": "http://www.techmeme.com/240801/p25#a240801p25",
+            "published": "Thu, 01 Aug 2024 11:50:16 -0400"
+        },
+        {
+            "title": "Google Cloud expands its database portfolio with new AI capabilities, including updates to its Spanner SQL database, which now supports graph and vector search (Frederic Lardinois/TechCrunch)",
+            "link": "http://www.techmeme.com/240801/p24#a240801p24",
+            "published": "Thu, 01 Aug 2024 11:25:01 -0400"
+        },
+        {
+            "title": "Don Lemon sues Elon Musk and X, arguing Musk refused to pay him after a $1.5M/year exclusive X content deal fell apart; Lemon did not sign a formal contract (Kate Conger/New York Times)",
             "link": "http://www.techmeme.com/240801/p23#a240801p23",
             "published": "Thu, 01 Aug 2024 11:15:00 -0400"
-        },
-        {
-            "title": "Sources: the UK told tech companies the AI bill will make existing voluntary agreements legally binding and the AI Safety Institute into an Arm's Length Body (Financial Times)",
-            "link": "http://www.techmeme.com/240801/p22#a240801p22",
-            "published": "Thu, 01 Aug 2024 11:00:25 -0400"
-        },
-        {
-            "title": "The CISA names Lisa Einstein as its first chief AI officer; Einstein has been a senior adviser at the agency since last year and helped craft CISA's AI roadmap (Sam Sabin/Axios)",
-            "link": "http://www.techmeme.com/240801/p21#a240801p21",
-            "published": "Thu, 01 Aug 2024 10:35:14 -0400"
-        },
-        {
-            "title": "The European Commission unconditionally approves HPE's $14B takeover of networking gear maker Juniper Networks after finding no competition concerns (Bart Meijer/Reuters)",
-            "link": "http://www.techmeme.com/240801/p20#a240801p20",
-            "published": "Thu, 01 Aug 2024 09:15:00 -0400"
-        },
-        {
-            "title": "Roblox reports Q2 revenue up 31% YoY to $894M, bookings up 22% YoY to $995M, a $206M net loss, average DAUs up 21% YoY to 79.5M, projects Q3 bookings above est. (Cecilia D'Anastasio/Bloomberg)",
-            "link": "http://www.techmeme.com/240801/p19#a240801p19",
-            "published": "Thu, 01 Aug 2024 09:05:03 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Elon Musk Blasts Venezuela\u2019s Maduro in an Escalating War of Words",
             "link": "https://www.nytimes.com/2024/08/01/technology/elon-musk-maduro-venezuela.html",
-            "published": "Thu, 01 Aug 2024 09:06:12 +0000"
+            "published": "Thu, 01 Aug 2024 15:50:31 +0000"
         },
         {
             "title": "Don Lemon Sues Elon Musk Over Canceled X Deal",
@@ -50,10 +50,15 @@
         {
             "title": "How The Wall Street Journal Covered Evan Gershkovich\u2019s Imprisonment in Russia",
             "link": "https://www.nytimes.com/2024/08/01/technology/wsj-reporter-evan-gershkovich.html",
-            "published": "Thu, 01 Aug 2024 15:09:45 +0000"
+            "published": "Thu, 01 Aug 2024 16:02:27 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "British tech tycoon: I only got justice because I'm rich",
+            "link": "https://www.bbc.com/news/articles/c4ng14j5vqpo",
+            "published": "Thu, 01 Aug 2024 16:00:50 GMT"
+        },
         {
             "title": "Guinea pig home in cash crunch after Facebook funding row",
             "link": "https://www.bbc.com/news/articles/cv2grj7nk27o",
@@ -73,11 +78,6 @@
             "title": "Uber strikes EV deal with Chinese Tesla rival BYD",
             "link": "https://www.bbc.com/news/articles/cley0xn8e88o",
             "published": "Thu, 01 Aug 2024 04:30:56 GMT"
-        },
-        {
-            "title": "Video games strike rumbles on in row over AI",
-            "link": "https://www.bbc.com/news/articles/czvxz11gl57o",
-            "published": "Wed, 31 Jul 2024 23:46:32 GMT"
         }
     ]
 }
