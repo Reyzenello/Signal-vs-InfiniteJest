@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Court filings: AI startups Suno and Udio respond to copyright lawsuits from major music labels, saying their use of proprietary music to train AI is fair use (Bill Donahue/Billboard)",
+            "link": "http://www.techmeme.com/240801/p51#a240801p51",
+            "published": "Thu, 01 Aug 2024 18:10:02 -0400"
+        },
+        {
+            "title": "A US appeals court blocks the FCC's reinstatement of net neutrality rules, saying broadband providers are likely to succeed in a legal challenge (David Shepardson/Reuters)",
+            "link": "http://www.techmeme.com/240801/p50#a240801p50",
+            "published": "Thu, 01 Aug 2024 17:40:02 -0400"
+        },
+        {
+            "title": "Coinbase reports Q2 revenue up 105% YoY to $1.45B, vs. $1.39B est., a $36.2M net income, and forecasts subscription and services Q3 revenue below expectations (Bill Peters/MarketWatch)",
+            "link": "http://www.techmeme.com/240801/p49#a240801p49",
+            "published": "Thu, 01 Aug 2024 17:25:01 -0400"
+        },
+        {
             "title": "Apple reports Q3 revenue from Services, which includes App Store, Apple TV+, and Apple Music, rose 14% YoY to $24.21B, vs. $23.96B estimated, an all-time record (Alex Weprin/The Hollywood Reporter)",
             "link": "http://www.techmeme.com/240801/p48#a240801p48",
             "published": "Thu, 01 Aug 2024 17:15:13 -0400"
@@ -9,21 +24,6 @@
             "title": "Roku reports Q2 revenue up 14% YoY to $968.2M vs. $935.3M estimated, a net loss of $33.95M vs. $107.6M in Q2 2023, and 83.6M streaming households, up 2M from Q1 (Lucas Manfredi/The Wrap)",
             "link": "http://www.techmeme.com/240801/p47#a240801p47",
             "published": "Thu, 01 Aug 2024 17:10:01 -0400"
-        },
-        {
-            "title": "Block reports Q2 revenue up 11% YoY to $6.16B, vs. $6.28B est., Square profit up 15% to $923M, Cash App profit up 23% to $1.3B, and raises its FY 2024 guidance (MacKenzie Sigalos/CNBC)",
-            "link": "http://www.techmeme.com/240801/p46#a240801p46",
-            "published": "Thu, 01 Aug 2024 17:00:55 -0400"
-        },
-        {
-            "title": "Apple Q3 revenue: iPhone down 1% YoY to $39.30B, Mac up 2% YoY to $7.01B, iPad up 24% YoY to $7.16B, and Wearables, Home, and Accessories down 2% YoY to $8.10B (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/240801/p45#a240801p45",
-            "published": "Thu, 01 Aug 2024 16:45:13 -0400"
-        },
-        {
-            "title": "Amazon reports Q2 ad revenue up 20% YoY to $12.77B, vs. $13B estimated (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/240801/p44#a240801p44",
-            "published": "Thu, 01 Aug 2024 16:40:00 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Sales of Macs and iPads Lead Apple\u2019s Quarterly Revenue Up 5%",
             "link": "https://www.nytimes.com/2024/08/01/technology/apple-quarterly-revenue-up-5.html",
-            "published": "Thu, 01 Aug 2024 21:02:25 +0000"
+            "published": "Thu, 01 Aug 2024 22:08:41 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple sales rebound as AI bets scramble markets",
+            "link": "https://www.bbc.com/news/articles/c16j3318n08o",
+            "published": "Thu, 01 Aug 2024 21:57:53 GMT"
+        },
         {
             "title": "British tech tycoon: I only got justice because I'm rich",
             "link": "https://www.bbc.com/news/articles/c4ng14j5vqpo",
@@ -73,11 +78,6 @@
             "title": "CrowdStrike sued by shareholders over global outage",
             "link": "https://www.bbc.com/news/articles/cy08ljxndr4o",
             "published": "Thu, 01 Aug 2024 08:42:41 GMT"
-        },
-        {
-            "title": "Uber strikes EV deal with Chinese Tesla rival BYD",
-            "link": "https://www.bbc.com/news/articles/cley0xn8e88o",
-            "published": "Thu, 01 Aug 2024 04:30:56 GMT"
         }
     ]
 }
