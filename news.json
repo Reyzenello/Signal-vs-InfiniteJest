@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Document: FirstCry, India's leading e-commerce platform for baby products, is seeking to raise up to $501M in an IPO, valuing the company as much as $2.9B (Reuters)",
+            "link": "http://www.techmeme.com/240801/p1#a240801p1",
+            "published": "Thu, 01 Aug 2024 00:45:02 -0400"
+        },
+        {
             "title": "Delivery Hero plans to merge two of its European businesses, Foodora and Yemeksepeti, with its Asian business, Foodpanda, and cut fewer than 200 employees (Michael Hennessey/Bloomberg)",
             "link": "http://www.techmeme.com/240731/p47#a240731p47",
             "published": "Wed, 31 Jul 2024 23:35:03 -0400"
@@ -19,11 +24,6 @@
             "title": "On Meta's earnings call, Mark Zuckerberg said Llama 4 will likely need ~10x more compute than Llama 3.1 to train, Quest 3 sales exceeded expectations, and more (Alex Heath/The Verge)",
             "link": "http://www.techmeme.com/240731/p44#a240731p44",
             "published": "Wed, 31 Jul 2024 21:10:01 -0400"
-        },
-        {
-            "title": "The US SEC sues former IRL CEO Abraham Shafi, accusing him of a $170M fraud by misleading investors about the company's growth and concealing personal expenses (Joe Miller/Financial Times)",
-            "link": "http://www.techmeme.com/240731/p43#a240731p43",
-            "published": "Wed, 31 Jul 2024 19:50:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Thu, 01 Aug 2024 03:38:56 GMT"
         },
         {
+            "title": "Uber strikes EV deal with Chinese Tesla rival BYD",
+            "link": "https://www.bbc.com/news/articles/cley0xn8e88o",
+            "published": "Thu, 01 Aug 2024 04:30:56 GMT"
+        },
+        {
             "title": "Video games strike rumbles on in row over AI",
             "link": "https://www.bbc.com/news/articles/czvxz11gl57o",
             "published": "Wed, 31 Jul 2024 23:46:32 GMT"
@@ -73,11 +78,6 @@
             "title": "Instagram and Facebook ads drive profit surge",
             "link": "https://www.bbc.com/news/articles/c0dmel29mk4o",
             "published": "Wed, 31 Jul 2024 23:01:58 GMT"
-        },
-        {
-            "title": "Tinder parent company cuts jobs as subscriber numbers slump",
-            "link": "https://www.bbc.com/news/articles/c0xj08l9055o",
-            "published": "Wed, 31 Jul 2024 12:05:33 GMT"
         }
     ]
 }
