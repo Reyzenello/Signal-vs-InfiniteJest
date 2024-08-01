@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Cloudflare reports Q2 revenue up 30% YoY to $401M, vs. $394.7M est., and raises its full-year 2024 forecast; NET jumps 10%+ after hours (Yuvraj Malik/Reuters)",
+            "link": "http://www.techmeme.com/240801/p53#a240801p53",
+            "published": "Thu, 01 Aug 2024 19:10:00 -0400"
+        },
+        {
+            "title": "Apple's Q3 revenue in Greater China was down 6.5% YoY to $14.7B , up 5.7% YoY to $5.1B in Japan, and up 13.5% YoY to $6.4B in the rest of Asia-Pacific (Nikkei Asia)",
+            "link": "http://www.techmeme.com/240801/p52#a240801p52",
+            "published": "Thu, 01 Aug 2024 18:35:06 -0400"
+        },
+        {
             "title": "Court filings: AI startups Suno and Udio respond to copyright lawsuits from major music labels, saying their use of proprietary music to train AI is fair use (Bill Donahue/Billboard)",
             "link": "http://www.techmeme.com/240801/p51#a240801p51",
             "published": "Thu, 01 Aug 2024 18:10:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Coinbase reports Q2 revenue up 105% YoY to $1.45B, vs. $1.39B est., a $36.2M net income, and forecasts subscription and services Q3 revenue below expectations (Bill Peters/MarketWatch)",
             "link": "http://www.techmeme.com/240801/p49#a240801p49",
             "published": "Thu, 01 Aug 2024 17:25:01 -0400"
-        },
-        {
-            "title": "Apple reports Q3 revenue from Services, which includes App Store, Apple TV+, and Apple Music, rose 14% YoY to $24.21B, vs. $23.96B estimated, an all-time record (Alex Weprin/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/240801/p48#a240801p48",
-            "published": "Thu, 01 Aug 2024 17:15:13 -0400"
-        },
-        {
-            "title": "Roku reports Q2 revenue up 14% YoY to $968.2M vs. $935.3M estimated, a net loss of $33.95M vs. $107.6M in Q2 2023, and 83.6M streaming households, up 2M from Q1 (Lucas Manfredi/The Wrap)",
-            "link": "http://www.techmeme.com/240801/p47#a240801p47",
-            "published": "Thu, 01 Aug 2024 17:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Government shelves \u00a31.3bn UK tech and AI plans",
+            "link": "https://www.bbc.com/news/articles/cyx5x44vnyeo",
+            "published": "Thu, 01 Aug 2024 23:04:19 GMT"
+        },
+        {
             "title": "Apple sales rebound as AI bets scramble markets",
             "link": "https://www.bbc.com/news/articles/c16j3318n08o",
             "published": "Thu, 01 Aug 2024 21:57:53 GMT"
@@ -73,11 +78,6 @@
             "title": "Founder of collapsed social media site charged with fraud",
             "link": "https://www.bbc.com/news/articles/cgxqw505pq4o",
             "published": "Thu, 01 Aug 2024 14:26:35 GMT"
-        },
-        {
-            "title": "CrowdStrike sued by shareholders over global outage",
-            "link": "https://www.bbc.com/news/articles/cy08ljxndr4o",
-            "published": "Thu, 01 Aug 2024 08:42:41 GMT"
         }
     ]
 }
