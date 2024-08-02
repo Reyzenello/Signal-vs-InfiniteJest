@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the US DOJ is investigating Nvidia's acquisition of Israeli AI infrastructure orchestration and management service Run:ai on antitrust grounds (Josh Sisco/Politico)",
+            "link": "http://www.techmeme.com/240801/p57#a240801p57",
+            "published": "Thu, 01 Aug 2024 20:50:01 -0400"
+        },
+        {
+            "title": "Intel extends the warranty for its boxed Core 13th and 14th Gen desktop processors by an additional two years, due to customers experiencing instability issues (Paul Alcorn/Tom's Hardware)",
+            "link": "http://www.techmeme.com/240801/p56#a240801p56",
+            "published": "Thu, 01 Aug 2024 20:25:32 -0400"
+        },
+        {
+            "title": "Amazon forecasts Q3 revenue below estimates and reports slowing online stores sales growth of 5% YoY in Q2, vs. a growth of 7% in Q1; AMZN drops 6%+ after hours (Reuters)",
+            "link": "http://www.techmeme.com/240801/p55#a240801p55",
+            "published": "Thu, 01 Aug 2024 20:15:01 -0400"
+        },
+        {
+            "title": "Twilio reports Q2 revenue up 4% YoY to $1.08B, vs. $1.06B est., 316K+ active customer accounts as of June 30, vs. 304K+ a year ago; TWLO jumps 6%+ after hours (Ciara Linnane/MarketWatch)",
+            "link": "http://www.techmeme.com/240801/p54#a240801p54",
+            "published": "Thu, 01 Aug 2024 19:45:00 -0400"
+        },
+        {
             "title": "Cloudflare reports Q2 revenue up 30% YoY to $401M, vs. $394.7M est., and raises its full-year 2024 forecast; NET jumps 10%+ after hours (Yuvraj Malik/Reuters)",
             "link": "http://www.techmeme.com/240801/p53#a240801p53",
             "published": "Thu, 01 Aug 2024 19:10:00 -0400"
-        },
-        {
-            "title": "Apple's Q3 revenue in Greater China was down 6.5% YoY to $14.7B , up 5.7% YoY to $5.1B in Japan, and up 13.5% YoY to $6.4B in the rest of Asia-Pacific (Nikkei Asia)",
-            "link": "http://www.techmeme.com/240801/p52#a240801p52",
-            "published": "Thu, 01 Aug 2024 18:35:06 -0400"
-        },
-        {
-            "title": "Court filings: AI startups Suno and Udio respond to copyright lawsuits from major music labels, saying their use of proprietary music to train AI is fair use (Bill Donahue/Billboard)",
-            "link": "http://www.techmeme.com/240801/p51#a240801p51",
-            "published": "Thu, 01 Aug 2024 18:10:02 -0400"
-        },
-        {
-            "title": "A US appeals court blocks the FCC's reinstatement of net neutrality rules, saying broadband providers are likely to succeed in a legal challenge (David Shepardson/Reuters)",
-            "link": "http://www.techmeme.com/240801/p50#a240801p50",
-            "published": "Thu, 01 Aug 2024 17:40:02 -0400"
-        },
-        {
-            "title": "Coinbase reports Q2 revenue up 105% YoY to $1.45B, vs. $1.39B est., a $36.2M net income, and forecasts subscription and services Q3 revenue below expectations (Bill Peters/MarketWatch)",
-            "link": "http://www.techmeme.com/240801/p49#a240801p49",
-            "published": "Thu, 01 Aug 2024 17:25:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Elon Musk Blasts Venezuela\u2019s Maduro in an Escalating War of Words",
-            "link": "https://www.nytimes.com/2024/08/01/technology/elon-musk-maduro-venezuela.html",
-            "published": "Thu, 01 Aug 2024 15:50:32 +0000"
+            "title": "Intel Will Cut More Than 15,000 Jobs",
+            "link": "https://www.nytimes.com/2024/08/01/technology/intel-layoffs-quarterly-report.html",
+            "published": "Thu, 01 Aug 2024 22:54:33 +0000"
+        },
+        {
+            "title": "Amazon Cautions That When the News Gets Nutty, People Shop Less",
+            "link": "https://www.nytimes.com/2024/08/01/technology/amazon-earnings-q2.html",
+            "published": "Thu, 01 Aug 2024 22:05:15 +0000"
+        },
+        {
+            "title": "Sales of Macs and iPads Lead Apple\u2019s Quarterly Revenue Up 5%",
+            "link": "https://www.nytimes.com/2024/08/01/technology/apple-quarterly-revenue-up-5.html",
+            "published": "Thu, 01 Aug 2024 22:08:41 +0000"
         },
         {
             "title": "Don Lemon Sues Elon Musk Over Canceled X Deal",
@@ -38,19 +48,9 @@
             "published": "Thu, 01 Aug 2024 20:57:03 +0000"
         },
         {
-            "title": "Meta Says It Will Continue Spending, as Growth Surges",
-            "link": "https://www.nytimes.com/2024/07/31/technology/meta-earnings-artificial-intelligence.html",
-            "published": "Wed, 31 Jul 2024 22:03:42 +0000"
-        },
-        {
-            "title": "How to Use Your Smartphone to Help You Sleep",
-            "link": "https://www.nytimes.com/2024/07/31/technology/personaltech/smartphone-sleep-features.html",
-            "published": "Wed, 31 Jul 2024 20:10:01 +0000"
-        },
-        {
-            "title": "Sales of Macs and iPads Lead Apple\u2019s Quarterly Revenue Up 5%",
-            "link": "https://www.nytimes.com/2024/08/01/technology/apple-quarterly-revenue-up-5.html",
-            "published": "Thu, 01 Aug 2024 22:08:41 +0000"
+            "title": "How The Wall Street Journal Covered Evan Gershkovich\u2019s Imprisonment in Russia",
+            "link": "https://www.nytimes.com/2024/08/01/technology/wsj-reporter-evan-gershkovich.html",
+            "published": "Thu, 01 Aug 2024 16:02:27 +0000"
         }
     ],
     "source_2": [
