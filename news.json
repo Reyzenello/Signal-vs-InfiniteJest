@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Character.AI co-founders Noam Shazeer and Daniel De Freitas, and some employees, are joining Google; Google has signed a non-exclusive agreement to use its tech (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/240802/p18#a240802p18",
+            "published": "Fri, 02 Aug 2024 14:10:18 -0400"
+        },
+        {
+            "title": "The US DOJ sues TikTok, saying it collected children's data without parents' permission, knowingly let users under the age of 13 create accounts, and more (New York Times)",
+            "link": "http://www.techmeme.com/240802/p17#a240802p17",
+            "published": "Fri, 02 Aug 2024 13:51:48 -0400"
+        },
+        {
             "title": "A look at Musk-backed America PAC's \"Register to Vote\" online campaign, which collects users' personal data in swing states, but does not help them register (Brian Schwartz/CNBC)",
             "link": "http://www.techmeme.com/240802/p16#a240802p16",
             "published": "Fri, 02 Aug 2024 13:20:05 -0400"
@@ -14,19 +24,14 @@
             "title": "Google pulled an Olympics TV ad where a father uses Gemini to help his daughter write a personal letter to an athlete, after criticisms that the ad is tone-deaf (Asa Hiken/Ad Age)",
             "link": "http://www.techmeme.com/240802/p14#a240802p14",
             "published": "Fri, 02 Aug 2024 12:15:03 -0400"
-        },
-        {
-            "title": "Surface Pro 11 review: OLED display is vibrant, Flex Keyboard is magic, hardware is solid, but it's costly, not all x86 apps run well, AI features are skippable (Nathan Edwards/The Verge)",
-            "link": "http://www.techmeme.com/240802/p13#a240802p13",
-            "published": "Fri, 02 Aug 2024 11:25:14 -0400"
-        },
-        {
-            "title": "A special committee of 23andMe's board says it's not \"prepared to move forward\" with CEO Anne Wojcicki's $0.40-per-share offer to take the company private (Kristen V Brown/Bloomberg)",
-            "link": "http://www.techmeme.com/240802/p12#a240802p12",
-            "published": "Fri, 02 Aug 2024 09:45:14 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "U.S. Sues TikTok Over Child Privacy Violations",
+            "link": "https://www.nytimes.com/2024/08/02/technology/tiktok-doj-child-privacy.html",
+            "published": "Fri, 02 Aug 2024 18:13:55 +0000"
+        },
         {
             "title": "Intel Will Cut More Than 15,000 Jobs",
             "link": "https://www.nytimes.com/2024/08/01/technology/intel-layoffs-quarterly-report.html",
@@ -38,19 +43,14 @@
             "published": "Thu, 01 Aug 2024 22:05:15 +0000"
         },
         {
-            "title": "Sales of Macs and iPads Lead Apple\u2019s Quarterly Revenue Up 5%",
-            "link": "https://www.nytimes.com/2024/08/01/technology/apple-quarterly-revenue-up-5.html",
-            "published": "Thu, 01 Aug 2024 22:08:41 +0000"
-        },
-        {
             "title": "The Zoom Election, Google DeepMind\u2019s Math Olympiad and HatGPT Olympics Edition",
             "link": "https://www.nytimes.com/2024/08/02/podcasts/hard-fork-zoom-election-deepmind-math-hatgpt-olympics.html",
             "published": "Fri, 02 Aug 2024 09:05:36 +0000"
         },
         {
-            "title": "How The Wall Street Journal Covered Evan Gershkovich\u2019s Imprisonment in Russia",
-            "link": "https://www.nytimes.com/2024/08/01/technology/wsj-reporter-evan-gershkovich.html",
-            "published": "Thu, 01 Aug 2024 16:02:27 +0000"
+            "title": "Sales of Macs and iPads Lead Apple\u2019s Quarterly Revenue Up 5%",
+            "link": "https://www.nytimes.com/2024/08/01/technology/apple-quarterly-revenue-up-5.html",
+            "published": "Thu, 01 Aug 2024 22:08:41 +0000"
         }
     ],
     "source_2": [
