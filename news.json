@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI says it's changing the format of its DevDay conference this fall to a series of on-the-road developer sessions and GPT-5 will not be announced during it (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240805/p37#a240805p37",
+            "published": "Mon, 05 Aug 2024 16:45:01 -0400"
+        },
+        {
+            "title": "Lumen, which sells data center networking and security products, says it secured new deals worth $5B from tech companies amid AI surge; LUMN up 35%+ after hours (Harshita Mary Varghese/Reuters)",
+            "link": "http://www.techmeme.com/240805/p36#a240805p36",
+            "published": "Mon, 05 Aug 2024 16:42:02 -0400"
+        },
+        {
+            "title": "Palantir raises 2024 revenue guidance to $2.74B-$2.75B and operating income guidance to $966-$974M, vs. $882.9M est., citing AI demand; PLTR up 16%+ after hours (Lizette Chapman/Bloomberg)",
+            "link": "http://www.techmeme.com/240805/p35#a240805p35",
+            "published": "Mon, 05 Aug 2024 16:30:05 -0400"
+        },
+        {
+            "title": "Researchers discover a bug, exploited since 2018, in Windows Smart App Control and SmartScreen that lets attackers avoid security warnings for unsigned binaries (Sergiu Gatlan/BleepingComputer)",
+            "link": "http://www.techmeme.com/240805/p34#a240805p34",
+            "published": "Mon, 05 Aug 2024 16:25:16 -0400"
+        },
+        {
             "title": "In an email to staff, Linda Yaccarino says X will close its San Francisco office and move workers to San Jose offices and a new Palo Alto office shared with xAI (New York Times)",
             "link": "http://www.techmeme.com/240805/p33#a240805p33",
             "published": "Mon, 05 Aug 2024 16:05:01 -0400"
-        },
-        {
-            "title": "In a new developer beta for iOS, iPadOS, and macOS, Safari gets Distraction Control, which lets users block distracting elements on the page like pop-ups (Cherlynn Low/Engadget)",
-            "link": "http://www.techmeme.com/240805/p32#a240805p32",
-            "published": "Mon, 05 Aug 2024 15:45:01 -0400"
-        },
-        {
-            "title": "Software consultancy Thoughtworks to be taken private by PE firm Apax Partners for ~$1.75B; TWKS jumps 26%+ but is still far below its 2021 IPO price (Reuters)",
-            "link": "http://www.techmeme.com/240805/p31#a240805p31",
-            "published": "Mon, 05 Aug 2024 15:30:01 -0400"
-        },
-        {
-            "title": "US v. Google: a federal judge rules that Google's payments to make its search engine the default on smartphone web browsers violates antitrust law (Leah Nylen/Bloomberg)",
-            "link": "http://www.techmeme.com/240805/p30#a240805p30",
-            "published": "Mon, 05 Aug 2024 14:59:11 -0400"
-        },
-        {
-            "title": "In a letter, the secretaries of state from PA, WA, MI, NM, and MN ask Elon Musk to change X's AI assistant Grok to stop it from spreading false election info (Washington Post)",
-            "link": "http://www.techmeme.com/240805/p29#a240805p29",
-            "published": "Mon, 05 Aug 2024 14:20:13 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Google Violated Antitrust Laws in Online Search, Judge Rules",
+            "title": "\u2018Google Is a Monopolist,\u2019 Judge Rules in Landmark Antitrust Case",
             "link": "https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html",
-            "published": "Mon, 05 Aug 2024 19:54:57 +0000"
+            "published": "Mon, 05 Aug 2024 20:57:52 +0000"
+        },
+        {
+            "title": "What\u2019s Next in the U.S. Antitrust Cases Against Amazon, Apple, Google and Meta",
+            "link": "https://www.nytimes.com/2024/08/05/technology/antitrust-google-amazon-apple-meta.html",
+            "published": "Mon, 05 Aug 2024 20:29:26 +0000"
         },
         {
             "title": "How 2024 Became the Zoom Election",
@@ -43,14 +48,9 @@
             "published": "Mon, 05 Aug 2024 16:30:29 +0000"
         },
         {
-            "title": "CrowdStrike Hits Back in Heated Spat With Delta Over Global Tech Outage",
-            "link": "https://www.nytimes.com/2024/08/05/business/dealbook/crowdstrike-delta-tech-outage.html",
-            "published": "Mon, 05 Aug 2024 18:31:50 +0000"
-        },
-        {
-            "title": "What\u2019s Next in the U.S. Antitrust Cases Against Amazon, Apple, Google and Meta",
-            "link": "https://www.nytimes.com/2024/08/05/technology/antitrust-google-amazon-apple-meta.html",
-            "published": "Mon, 05 Aug 2024 20:14:46 +0000"
+            "title": "X to Close Flagship San Francisco Office",
+            "link": "https://www.nytimes.com/2024/08/05/technology/x-twitter-san-francisco-office.html",
+            "published": "Mon, 05 Aug 2024 19:54:27 +0000"
         }
     ],
     "source_2": [
