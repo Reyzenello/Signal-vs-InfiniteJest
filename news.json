@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "US v. Google: a federal judge rules that Google's payments to make its search engine the default on smartphone web browsers violates antitrust law (Leah Nylen/Bloomberg)",
+            "link": "http://www.techmeme.com/240805/p30#a240805p30",
+            "published": "Mon, 05 Aug 2024 14:59:11 -0400"
+        },
+        {
             "title": "In a letter, the secretaries of state from PA, WA, MI, NM, and MN ask Elon Musk to change X's AI assistant Grok to stop it from spreading false election info (Washington Post)",
             "link": "http://www.techmeme.com/240805/p29#a240805p29",
             "published": "Mon, 05 Aug 2024 14:20:13 -0400"
@@ -19,14 +24,14 @@
             "title": "Source: Placer.ai, which provides AI-powered market research based on location data, raised $75M at a $1.45B valuation, up from $1B at its Series C (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/240805/p26#a240805p26",
             "published": "Mon, 05 Aug 2024 13:40:02 -0400"
-        },
-        {
-            "title": "Memo from Microsoft's chief people officer: \"everyone at Microsoft\" now has \"security\" as a \"Core Priority\", used in performance reviews (Todd Bishop/GeekWire)",
-            "link": "http://www.techmeme.com/240805/p25#a240805p25",
-            "published": "Mon, 05 Aug 2024 13:25:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Google Violated Antitrust Laws in Online Search, Judge Rules",
+            "link": "https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html",
+            "published": "Mon, 05 Aug 2024 19:19:44 +0000"
+        },
         {
             "title": "How 2024 Became the Zoom Election",
             "link": "https://www.nytimes.com/2024/08/05/technology/how-2024-became-the-zoom-election.html",
@@ -40,12 +45,7 @@
         {
             "title": "CrowdStrike Hits Back in Heated Spat With Delta Over Global Tech Outage",
             "link": "https://www.nytimes.com/2024/08/05/business/dealbook/crowdstrike-delta-tech-outage.html",
-            "published": "Mon, 05 Aug 2024 16:12:57 +0000"
-        },
-        {
-            "title": "Tech Companies to Keep Spending on A.I. Despite Worries of Slow Payoff",
-            "link": "https://www.nytimes.com/2024/08/02/technology/tech-companies-ai-spending.html",
-            "published": "Fri, 02 Aug 2024 20:24:19 +0000"
+            "published": "Mon, 05 Aug 2024 18:31:50 +0000"
         },
         {
             "title": "Nvidia Shares Tumble After Reports of a Chip Delay",
