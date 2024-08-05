@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "In an email to staff, Linda Yaccarino says X will close its San Francisco office and move workers to San Jose offices and a new Palo Alto office shared with xAI (New York Times)",
+            "link": "http://www.techmeme.com/240805/p33#a240805p33",
+            "published": "Mon, 05 Aug 2024 16:05:01 -0400"
+        },
+        {
+            "title": "In a new developer beta for iOS, iPadOS, and macOS, Safari gets Distraction Control, which lets users block distracting elements on the page like pop-ups (Cherlynn Low/Engadget)",
+            "link": "http://www.techmeme.com/240805/p32#a240805p32",
+            "published": "Mon, 05 Aug 2024 15:45:01 -0400"
+        },
+        {
+            "title": "Software consultancy Thoughtworks to be taken private by PE firm Apax Partners for ~$1.75B; TWKS jumps 26%+ but is still far below its 2021 IPO price (Reuters)",
+            "link": "http://www.techmeme.com/240805/p31#a240805p31",
+            "published": "Mon, 05 Aug 2024 15:30:01 -0400"
+        },
+        {
             "title": "US v. Google: a federal judge rules that Google's payments to make its search engine the default on smartphone web browsers violates antitrust law (Leah Nylen/Bloomberg)",
             "link": "http://www.techmeme.com/240805/p30#a240805p30",
             "published": "Mon, 05 Aug 2024 14:59:11 -0400"
@@ -9,28 +24,13 @@
             "title": "In a letter, the secretaries of state from PA, WA, MI, NM, and MN ask Elon Musk to change X's AI assistant Grok to stop it from spreading false election info (Washington Post)",
             "link": "http://www.techmeme.com/240805/p29#a240805p29",
             "published": "Mon, 05 Aug 2024 14:20:13 -0400"
-        },
-        {
-            "title": "Illinois governor signs a bill amending Biometric Information Privacy Act to significantly curb the penalties for improperly collecting and using biometric data (Daniel Wiessner/Reuters)",
-            "link": "http://www.techmeme.com/240805/p27#a240805p27",
-            "published": "Mon, 05 Aug 2024 13:55:10 -0400"
-        },
-        {
-            "title": "The architect of the initial European Commission proposal behind the EU AI Act says its reach ended up being too broad and it may entrench big US tech companies (Lionel Laurent/Bloomberg)",
-            "link": "http://www.techmeme.com/240805/p28#a240805p28",
-            "published": "Mon, 05 Aug 2024 13:55:10 -0400"
-        },
-        {
-            "title": "Source: Placer.ai, which provides AI-powered market research based on location data, raised $75M at a $1.45B valuation, up from $1B at its Series C (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/240805/p26#a240805p26",
-            "published": "Mon, 05 Aug 2024 13:40:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Google Violated Antitrust Laws in Online Search, Judge Rules",
             "link": "https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html",
-            "published": "Mon, 05 Aug 2024 19:19:44 +0000"
+            "published": "Mon, 05 Aug 2024 19:54:57 +0000"
         },
         {
             "title": "How 2024 Became the Zoom Election",
@@ -48,9 +48,9 @@
             "published": "Mon, 05 Aug 2024 18:31:50 +0000"
         },
         {
-            "title": "Nvidia Shares Tumble After Reports of a Chip Delay",
-            "link": "https://www.nytimes.com/2024/08/05/business/nvidia-stocks.html",
-            "published": "Mon, 05 Aug 2024 14:45:27 +0000"
+            "title": "What\u2019s Next in the U.S. Antitrust Cases Against Amazon, Apple, Google and Meta",
+            "link": "https://www.nytimes.com/2024/08/05/technology/antitrust-google-amazon-apple-meta.html",
+            "published": "Mon, 05 Aug 2024 20:14:46 +0000"
         }
     ],
     "source_2": [
