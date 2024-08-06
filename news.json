@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Behind the YouTube influencers, WhatsApp and Telegram groups, and services like FewFeed fueling Facebook's problem of creators profiting off of viral \"AI slop\" (Jason Koebler/404 Media)",
+            "title": "A researcher finds another flaw in Georgia's voter registration cancellation portal, which has had bugs that made submitting requests for any Georgian trivial (Doug Bock Clark/ProPublica)",
+            "link": "http://www.techmeme.com/240806/p23#a240806p23",
+            "published": "Tue, 06 Aug 2024 11:45:20 -0400"
+        },
+        {
+            "title": "ByteDance debuts AI text-to-video app Jimeng AI on iOS in China, after its July 31 Android release; China's Kuaishou released Kling AI in beta globally in July (Reuters)",
+            "link": "http://www.techmeme.com/240806/p22#a240806p22",
+            "published": "Tue, 06 Aug 2024 11:40:00 -0400"
+        },
+        {
+            "title": "Behind the YouTube influencers, WhatsApp and Telegram groups, and services like FewFeed fueling Facebook's problem of creators profiting from viral \"AI slop\" (Jason Koebler/404 Media)",
             "link": "http://www.techmeme.com/240806/p21#a240806p21",
             "published": "Tue, 06 Aug 2024 11:10:03 -0400"
         },
         {
-            "title": "ProRata.ai, which aims to attribute and share revenue with content owners from AI chatbot subscriptions, raised a $25M Series A, inks deals with media companies (Sara Fischer/Axios)",
+            "title": "ProRata, which aims to attribute and share AI chatbot subscription revenue with content owners, raised a $25M Series A and inks deals with major media companies (Sara Fischer/Axios)",
             "link": "http://www.techmeme.com/240806/p20#a240806p20",
             "published": "Tue, 06 Aug 2024 10:30:02 -0400"
         },
@@ -14,23 +24,23 @@
             "title": "Uber says its Advertising annual revenue run-rate passed $1B in Q2, up from $650M+ in Q2 2023; Uber began selling in-app Journey Ads programmatically in June (Kathryn Lundstrom/Adweek)",
             "link": "http://www.techmeme.com/240806/p19#a240806p19",
             "published": "Tue, 06 Aug 2024 09:55:00 -0400"
-        },
-        {
-            "title": "Red Ventures sells CNET, an early pioneer of online tech coverage, to Ziff Davis, which owns Mashable, PC Mag, and other brands, a source says for $100M+ (Benjamin Mullin/New York Times)",
-            "link": "http://www.techmeme.com/240806/p18#a240806p18",
-            "published": "Tue, 06 Aug 2024 09:45:02 -0400"
-        },
-        {
-            "title": "UK filings: since 2023, Saudi Arabia's PIF has put $750M into Magic Leap, including $160M so far in 2024; Magic Leap says it needs to raise more by next month (Mark Bergen/Bloomberg)",
-            "link": "http://www.techmeme.com/240806/p17#a240806p17",
-            "published": "Tue, 06 Aug 2024 09:35:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "\u2018Google Is a Monopolist,\u2019 Judge Rules in Landmark Antitrust Case",
-            "link": "https://www.nytimes.com/2024/08/05/technology/google-antitrust-ruling.html",
-            "published": "Mon, 05 Aug 2024 22:09:32 +0000"
+            "title": "X, Owned by Elon Musk, Brings Antitrust Suit Accusing Advertisers of a Boycott",
+            "link": "https://www.nytimes.com/2024/08/06/technology/x-antitrust-suit-advertisers-elon-musk.html",
+            "published": "Tue, 06 Aug 2024 15:54:49 +0000"
+        },
+        {
+            "title": "How the Google Antitrust Ruling May Influence Tech Competition",
+            "link": "https://www.nytimes.com/2024/08/06/technology/google-microsoft-antitrust-cases.html",
+            "published": "Tue, 06 Aug 2024 09:00:55 +0000"
+        },
+        {
+            "title": "Nvidia Scrambles for a Response to Antitrust Scrutiny",
+            "link": "https://www.nytimes.com/2024/08/06/technology/nvidia-antitrust-scrutiny.html",
+            "published": "Tue, 06 Aug 2024 09:01:05 +0000"
         },
         {
             "title": "What\u2019s Next in the U.S. Antitrust Cases Against Amazon, Apple, Google and Meta",
@@ -38,19 +48,9 @@
             "published": "Mon, 05 Aug 2024 21:26:36 +0000"
         },
         {
-            "title": "How 2024 Became the Zoom Election",
-            "link": "https://www.nytimes.com/2024/08/05/technology/how-2024-became-the-zoom-election.html",
-            "published": "Mon, 05 Aug 2024 07:00:23 +0000"
-        },
-        {
-            "title": "Elon Musk Revives Lawsuit Against OpenAI and Sam Altman",
-            "link": "https://www.nytimes.com/2024/08/05/technology/elon-musk-openai-lawsuit.html",
-            "published": "Mon, 05 Aug 2024 16:30:29 +0000"
-        },
-        {
-            "title": "Why Are Silicon Valley Therapists Becoming Tech Coaches?",
-            "link": "https://www.nytimes.com/2024/08/06/magazine/tech-coach-therapists.html",
-            "published": "Tue, 06 Aug 2024 09:02:37 +0000"
+            "title": "Microsoft Says Delta Was Largely Responsible for Flight Cancellations Amid Tech Outage",
+            "link": "https://www.nytimes.com/2024/08/06/business/microsoft-delta-flight-cancellations-outage.html",
+            "published": "Tue, 06 Aug 2024 16:00:06 +0000"
         }
     ],
     "source_2": [
