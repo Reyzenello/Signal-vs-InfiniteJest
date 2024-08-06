@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Amazon Music debuts Maestro, an AI-powered playlist generator, and Topics, which helps users find podcast episodes by topic and is powered by both AI and humans (Lauren Forristal/TechCrunch)",
+            "link": "http://www.techmeme.com/240806/p28#a240806p28",
+            "published": "Tue, 06 Aug 2024 15:05:05 -0400"
+        },
+        {
+            "title": "Release notes indicate macOS may get Apple Intelligence in the EU, unlike iOS and iPadOS, perhaps because of differences in how DMA requirements apply (Ryan Christoffel/9to5Mac)",
+            "link": "http://www.techmeme.com/240806/p27#a240806p27",
+            "published": "Tue, 06 Aug 2024 14:45:04 -0400"
+        },
+        {
             "title": "Microsoft says Delta, which said it had to manually reset ~40K PC servers because of CrowdStrike, had \"not modernized its IT infrastructure\" and refused \"help\" (CNBC)",
             "link": "http://www.techmeme.com/240806/p26#a240806p26",
             "published": "Tue, 06 Aug 2024 13:55:02 -0400"
@@ -14,28 +24,18 @@
             "title": "X sues the World Federation of Advertisers, GARM, and GARM members CVS Health, Mars, Orsted, and Unilever over what Linda Yaccarino calls an \"illegal boycott\" (Sara Fischer/Axios)",
             "link": "http://www.techmeme.com/240806/p24#a240806p24",
             "published": "Tue, 06 Aug 2024 12:35:00 -0400"
-        },
-        {
-            "title": "A researcher finds another flaw in Georgia's voter registration cancellation portal, which has had bugs that made submitting requests for any Georgian trivial (Doug Bock Clark/ProPublica)",
-            "link": "http://www.techmeme.com/240806/p23#a240806p23",
-            "published": "Tue, 06 Aug 2024 11:45:20 -0400"
-        },
-        {
-            "title": "ByteDance debuts AI text-to-video app Jimeng AI on iOS in China, after its July 31 Android release; China's Kuaishou released Kling AI in beta globally in July (Reuters)",
-            "link": "http://www.techmeme.com/240806/p22#a240806p22",
-            "published": "Tue, 06 Aug 2024 11:40:00 -0400"
         }
     ],
     "source_1": [
         {
             "title": "X, Owned by Elon Musk, Brings Antitrust Suit Accusing Advertisers of a Boycott",
             "link": "https://www.nytimes.com/2024/08/06/technology/x-antitrust-suit-advertisers-elon-musk.html",
-            "published": "Tue, 06 Aug 2024 16:48:01 +0000"
+            "published": "Tue, 06 Aug 2024 19:15:34 +0000"
         },
         {
             "title": "How the Google Antitrust Ruling May Influence Tech Competition",
             "link": "https://www.nytimes.com/2024/08/06/technology/google-microsoft-antitrust-cases.html",
-            "published": "Tue, 06 Aug 2024 09:00:55 +0000"
+            "published": "Tue, 06 Aug 2024 18:36:03 +0000"
         },
         {
             "title": "Nvidia Scrambles for a Response to Antitrust Scrutiny",
