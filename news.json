@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The US NIST is set to publish three security algorithms, put out for comment in 2023, to protect data from quantum hacking, as the agency awaits the sign off (Financial Times)",
+            "link": "http://www.techmeme.com/240806/p4#a240806p4",
+            "published": "Tue, 06 Aug 2024 04:00:59 -0400"
+        },
+        {
             "title": "Riverlane, a Cambridge, UK-based maker of quantum error correction tech, raised a $75M Series C led by Planet First Partners, sources say at a $400M valuation (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/240806/p3#a240806p3",
             "published": "Tue, 06 Aug 2024 02:40:03 -0400"
@@ -19,11 +24,6 @@
             "title": "Samsung starts mass production of world's thinnest LPDDR5X DRAM, claiming it's 9% thinner than typical LPDDR5X and improves devices' heat resistance by 21.2% (Anton Shilov/Tom's Hardware)",
             "link": "http://www.techmeme.com/240805/p47#a240805p47",
             "published": "Mon, 05 Aug 2024 23:25:03 -0400"
-        },
-        {
-            "title": "Google releases patches for 46 Android security vulnerabilities, including a kernel zero-day it says \"may be under limited, targeted exploitation\" (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/240805/p46#a240805p46",
-            "published": "Mon, 05 Aug 2024 23:00:28 -0400"
         }
     ],
     "source_1": [
