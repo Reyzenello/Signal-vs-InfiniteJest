@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Ireland's DPC launches High Court proceedings against X over concerns about the company's use of user data in the EU and EEA to train AI systems including Grok (RT&Eacute;)",
+            "link": "http://www.techmeme.com/240807/p32#a240807p32",
+            "published": "Wed, 07 Aug 2024 19:15:01 -0400"
+        },
+        {
+            "title": "Meta closes Ready at Dawn Studios, which it acquired in 2020 and produced VR games like Lone Echo and Echo VR, to meet the new Reality Labs budgetary ceiling (Nicholas Sutrich/Android Central)",
+            "link": "http://www.techmeme.com/240807/p31#a240807p31",
+            "published": "Wed, 07 Aug 2024 18:40:06 -0400"
+        },
+        {
+            "title": "Turkey bans Roblox, after blocking Instagram on August 2; a Turkish official said the ban was primarily related to sexual content that could lead to child abuse (T&uuml;rkiye Today)",
+            "link": "http://www.techmeme.com/240807/p30#a240807p30",
+            "published": "Wed, 07 Aug 2024 18:30:01 -0400"
+        },
+        {
             "title": "Bumble reports Q2 revenue up 3.4% YoY to $268.6M, vs. $273.2M est., and projects 1% to 2% annual revenue growth, vs. 8.4% expected; BMBL drops 28%+ after hours (Evan Gorelick/Bloomberg)",
             "link": "http://www.techmeme.com/240807/p29#a240807p29",
             "published": "Wed, 07 Aug 2024 17:50:02 -0400"
@@ -9,21 +24,6 @@
             "title": "A US judge orders Ripple to pay a civil penalty of $125M for selling XRP to institutional investors, a fraction of the ~$2B the SEC had sought in the case (Chris Dolmetsch/Bloomberg)",
             "link": "http://www.techmeme.com/240807/p28#a240807p28",
             "published": "Wed, 07 Aug 2024 17:10:03 -0400"
-        },
-        {
-            "title": "Robinhood reports Q2 revenue up 40% YoY to $682M, vs. $640M est., crypto transaction revenue up 161% to $81M, and net income of $188M, up from $25M in Q2 2023 (Bill Peters/MarketWatch)",
-            "link": "http://www.techmeme.com/240807/p27#a240807p27",
-            "published": "Wed, 07 Aug 2024 16:45:04 -0400"
-        },
-        {
-            "title": "Meta says Facebook creators who violate Community Standards for the first time will be given the option to take a training course to remove their warning (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/240807/p26#a240807p26",
-            "published": "Wed, 07 Aug 2024 15:55:00 -0400"
-        },
-        {
-            "title": "Ofcom publishes an open letter to social media platforms raising concerns about the use of their tools to incite violence, following days of rioting in the UK (Natasha Lomas/TechCrunch)",
-            "link": "http://www.techmeme.com/240807/p25#a240807p25",
-            "published": "Wed, 07 Aug 2024 15:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "The real story of the news website accused of fuelling riots",
+            "link": "https://www.bbc.com/news/articles/c5y38gjp4ygo",
+            "published": "Wed, 07 Aug 2024 23:13:12 GMT"
+        },
+        {
             "title": "Online platforms warned over disorder violence risk",
             "link": "https://www.bbc.com/news/articles/c2076n7w4qlo",
             "published": "Wed, 07 Aug 2024 16:07:18 GMT"
@@ -73,11 +78,6 @@
             "title": "Elon Musk sues Unilever and Mars over X 'boycott'",
             "link": "https://www.bbc.com/news/articles/cn47798gxx4o",
             "published": "Wed, 07 Aug 2024 10:29:07 GMT"
-        },
-        {
-            "title": "Watchdog to fine NHS IT firm \u00a36m after medical records hack",
-            "link": "https://www.bbc.com/news/articles/c78llg7n5d5o",
-            "published": "Wed, 07 Aug 2024 08:51:13 GMT"
         }
     ]
 }
