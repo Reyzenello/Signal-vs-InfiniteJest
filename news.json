@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Putin signs a law legalizing cryptocurrency mining in Russia; only Russian legal entities and individuals included in a register will have the right to mine (TASS)",
+            "link": "http://www.techmeme.com/240808/p28#a240808p28",
+            "published": "Thu, 08 Aug 2024 15:00:05 -0400"
+        },
+        {
+            "title": "OpenAI reveals details of GPT-4o's safety testing, including concerns that its anthropomorphic voice may make some users emotionally attached to their chatbot (Wired)",
+            "link": "http://www.techmeme.com/240808/p27#a240808p27",
+            "published": "Thu, 08 Aug 2024 14:35:03 -0400"
+        },
+        {
             "title": "Tampa-based Rewst, which provides robotic process automation services, raised a $45M Series C led by Sapphire Ventures, bringing its total raised to $104M (CJ Fairfield/CRN)",
             "link": "http://www.techmeme.com/240808/p26#a240808p26",
             "published": "Thu, 08 Aug 2024 14:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Email: the World Federation of Advertisers discontinues activities of its nonprofit, GARM, following X's antitrust lawsuit, but intends to contest X's claims (Lara O'Reilly/Business Insider)",
             "link": "http://www.techmeme.com/240808/p24#a240808p24",
             "published": "Thu, 08 Aug 2024 13:20:02 -0400"
-        },
-        {
-            "title": "Google's DeepMind Robotics team shows a table tennis robot that it says is a \"solidly amateur human-level player\" when pitted against a human (Brian Heater/TechCrunch)",
-            "link": "http://www.techmeme.com/240808/p23#a240808p23",
-            "published": "Thu, 08 Aug 2024 13:00:48 -0400"
-        },
-        {
-            "title": "Apple debuts new rules for apps in the EU that link out to the web for purchases, including allowing links to any website, and removes many other restrictions (Benjamin Mayo/9to5Mac)",
-            "link": "http://www.techmeme.com/240808/p22#a240808p22",
-            "published": "Thu, 08 Aug 2024 12:15:02 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "Why Google, Microsoft and Amazon Shy Away From Buying A.I. Start-Ups",
             "link": "https://www.nytimes.com/2024/08/08/technology/ai-start-ups-google-microsoft-amazon.html",
             "published": "Thu, 08 Aug 2024 14:40:39 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s X Sued an Advertising Coalition. Now It\u2019s Shutting Down.",
+            "link": "https://www.nytimes.com/2024/08/08/technology/elon-musk-x-advertisers-boycott.html",
+            "published": "Thu, 08 Aug 2024 18:33:02 +0000"
         },
         {
             "title": "Where Are the Trumpiest Ads? All Over Truth Social.",
@@ -41,11 +46,6 @@
             "title": "Tech Investors Are the Latest to Zoom for Harris",
             "link": "https://www.nytimes.com/2024/08/07/us/politics/harris-tech-vc-money-2024.html",
             "published": "Thu, 08 Aug 2024 14:10:59 +0000"
-        },
-        {
-            "title": "X, Owned by Elon Musk, Brings Antitrust Suit Accusing Advertisers of a Boycott",
-            "link": "https://www.nytimes.com/2024/08/06/technology/x-antitrust-suit-advertisers-elon-musk.html",
-            "published": "Tue, 06 Aug 2024 20:27:26 +0000"
         },
         {
             "title": "From Tips to TikTok, Trump Swaps Policies With Aim to Please Voters",
