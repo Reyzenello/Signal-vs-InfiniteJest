@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Researchers: 50 false or misleading claims about the US election posted to X in 2024 by Elon Musk have generated ~1.2B views and none displayed a Community Note (David Ingram/NBC News)",
+            "link": "http://www.techmeme.com/240808/p18#a240808p18",
+            "published": "Thu, 08 Aug 2024 11:05:11 -0400"
+        },
+        {
             "title": "TikTok launches TikTok Spotlight, in-app hubs for movies and TV shows that add links to \"applicable\" videos with information and where to watch, tested on Dune (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/240808/p17#a240808p17",
             "published": "Thu, 08 Aug 2024 09:25:11 -0400"
@@ -11,7 +16,7 @@
             "published": "Thu, 08 Aug 2024 09:10:01 -0400"
         },
         {
-            "title": "Indian crypto exchange WazirX plans to undo all trades that occurred following its withdrawal freeze on July 18 \"over the next few days\", after a $230M+ hack (Adam James/The Block)",
+            "title": "\"Over the next few days\", Indian crypto exchange WazirX plans to undo all trades following its July 18 withdrawal freeze, after hackers stole $230M+ in crypto (Adam James/The Block)",
             "link": "http://www.techmeme.com/240808/p15#a240808p15",
             "published": "Thu, 08 Aug 2024 08:25:06 -0400"
         },
@@ -19,14 +24,14 @@
             "title": "China's SMIC reports Q2 revenue up 21.8% YoY to ~$1.9B, above est., net profit down 59.1% YoY to ~$164.6M, above ~$103.8M est., and $2.25B capital expenditure (Reuters)",
             "link": "http://www.techmeme.com/240808/p14#a240808p14",
             "published": "Thu, 08 Aug 2024 08:10:02 -0400"
-        },
-        {
-            "title": "Elon Musk posted and then deleted on X a fake Telegraph story on Falkland \"Detainment Camps\" shared by a far-right UK political party; the post had 1.8M+ views (Josh Self/Politics.co.uk)",
-            "link": "http://www.techmeme.com/240808/p13#a240808p13",
-            "published": "Thu, 08 Aug 2024 07:50:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Why Google, Microsoft and Amazon Shy Away From Buying A.I. Start-Ups",
+            "link": "https://www.nytimes.com/2024/08/08/technology/ai-start-ups-google-microsoft-amazon.html",
+            "published": "Thu, 08 Aug 2024 14:40:38 +0000"
+        },
         {
             "title": "Where Are the Trumpiest Ads? All Over Truth Social.",
             "link": "https://www.nytimes.com/2024/08/08/technology/trump-truth-social-ads.html",
@@ -43,14 +48,9 @@
             "published": "Tue, 06 Aug 2024 20:27:26 +0000"
         },
         {
-            "title": "How the Google Antitrust Ruling May Influence Tech Competition",
-            "link": "https://www.nytimes.com/2024/08/06/technology/google-microsoft-antitrust-cases.html",
-            "published": "Tue, 06 Aug 2024 18:36:03 +0000"
-        },
-        {
-            "title": "Elon Musk Clashes With Keir Starmer Over Riots in UK",
-            "link": "https://www.nytimes.com/2024/08/07/business/musk-starmer-riots-uk.html",
-            "published": "Wed, 07 Aug 2024 18:36:58 +0000"
+            "title": "From Tips to TikTok, Trump Discards Policies With Aim to Please Voters",
+            "link": "https://www.nytimes.com/2024/08/08/us/politics/trump-tax-tips-tiktok-crypto.html",
+            "published": "Thu, 08 Aug 2024 14:53:41 +0000"
         }
     ],
     "source_2": [
