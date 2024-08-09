@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The Google monopoly ruling dealt a blow to one of Big Tech's arguments against regulation: that 19th-century antitrust laws can't address modern tech innovation (Washington Post)",
+            "link": "http://www.techmeme.com/240808/p40#a240808p40",
+            "published": "Thu, 08 Aug 2024 23:45:20 -0400"
+        },
+        {
             "title": "CloudPay, which offers cloud-based payroll and payments services to businesses, raised $120M led by Blue Owl Capital, taking its total funding to $228M (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/240808/p39#a240808p39",
             "published": "Thu, 08 Aug 2024 21:15:33 -0400"
@@ -19,11 +24,6 @@
             "title": "Unity reports Q2 revenue down 16% YoY to $449M, vs. $438M est., a net loss of $125.6M, vs. $192.2M in Q2 2023, and trims its FY 2024 forecast (Emily Bary/MarketWatch)",
             "link": "http://www.techmeme.com/240808/p36#a240808p36",
             "published": "Thu, 08 Aug 2024 19:30:05 -0400"
-        },
-        {
-            "title": "Sources: enterprise AI company Glean is in advanced talks to raise $250M led by DST Global at a $4.5B valuation, about double its valuation from February 2024 (Wall Street Journal)",
-            "link": "http://www.techmeme.com/240808/p35#a240808p35",
-            "published": "Thu, 08 Aug 2024 19:10:18 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 08 Aug 2024 14:10:59 +0000"
         },
         {
-            "title": "From Tips to TikTok, Trump Swaps Policies With Aim to Please Voters",
-            "link": "https://www.nytimes.com/2024/08/08/us/politics/trump-tax-tips-tiktok-crypto.html",
-            "published": "Thu, 08 Aug 2024 21:55:40 +0000"
+            "title": "China Battery Tech Reflects Research Boom and Big Spending",
+            "link": "https://www.nytimes.com/2024/08/09/business/china-ev-battery-tech.html",
+            "published": "Fri, 09 Aug 2024 04:00:15 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Delta Airlines laces into CrowdStrike, says it lost $500m in outage",
+            "link": "https://www.bbc.com/news/articles/c6284e7r7d7o",
+            "published": "Fri, 09 Aug 2024 02:57:57 GMT"
+        },
         {
             "title": "The AI tech aiming to identify future Olympians",
             "link": "https://www.bbc.com/news/articles/cmj2jkppvx3o",
@@ -73,11 +78,6 @@
             "title": "Take action now over riot posts, social media firms told",
             "link": "https://www.bbc.com/news/articles/c2076n7w4qlo",
             "published": "Thu, 08 Aug 2024 09:49:18 GMT"
-        },
-        {
-            "title": "The real story of the news website accused of fuelling riots",
-            "link": "https://www.bbc.com/news/articles/c5y38gjp4ygo",
-            "published": "Wed, 07 Aug 2024 23:13:12 GMT"
         }
     ]
 }
