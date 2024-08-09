@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that were damaging some of its 13th- and 14th-gen CPUs (Tom's Hardware)",
+            "link": "http://www.techmeme.com/240809/p14#a240809p14",
+            "published": "Fri, 09 Aug 2024 11:55:03 -0400"
+        },
+        {
+            "title": "DevRev, which develops AI tools to improve the efficiency of employees on support, product, and engineering teams, raised $100M at a $1.15B valuation (Katie Roof/Bloomberg)",
+            "link": "http://www.techmeme.com/240809/p13#a240809p13",
+            "published": "Fri, 09 Aug 2024 11:40:01 -0400"
+        },
+        {
+            "title": "Sources: Cisco plans a second round of layoffs in 2024, affecting at least as many as the 4,000 laid off in February, to be announced as soon as August 14 (Reuters)",
+            "link": "http://www.techmeme.com/240809/p12#a240809p12",
+            "published": "Fri, 09 Aug 2024 11:30:00 -0400"
+        },
+        {
             "title": "Intel delays its Innovation event, slated for September and expected to include details about new CPUs, until 2025, citing its financial results and H2 outlook (Michael Kan/PCMag)",
             "link": "http://www.techmeme.com/240809/p11#a240809p11",
             "published": "Fri, 09 Aug 2024 10:50:00 -0400"
@@ -9,21 +24,6 @@
             "title": "IOActive researchers detail \"Sinkclose\", a vulnerability in almost all AMD chips dating back to 2006 that allows attackers to run code in System Management Mode (Andy Greenberg/Wired)",
             "link": "http://www.techmeme.com/240809/p10#a240809p10",
             "published": "Fri, 09 Aug 2024 10:20:03 -0400"
-        },
-        {
-            "title": "Sources: Chinese robotaxi company WeRide is seeking about $100M in a US initial public offering and around $200M to $300M in a concurrent private placement (Bloomberg)",
-            "link": "http://www.techmeme.com/240809/p9#a240809p9",
-            "published": "Fri, 09 Aug 2024 09:00:58 -0400"
-        },
-        {
-            "title": "UK PM Keir Starmer says ministers will review the Online Safety Act, after London mayor Sadiq Khan said it was \"not fit for purpose\" following far-right riots (The Guardian)",
-            "link": "http://www.techmeme.com/240809/p8#a240809p8",
-            "published": "Fri, 09 Aug 2024 08:05:01 -0400"
-        },
-        {
-            "title": "The Irish Data Protection Commission says X has agreed to pause training Grok using millions of Europeans' public posts it collected between May 7 and August 1 (Clothilde Goujard/Politico)",
-            "link": "http://www.techmeme.com/240809/p7#a240809p7",
-            "published": "Fri, 09 Aug 2024 07:25:03 -0400"
         }
     ],
     "source_1": [
