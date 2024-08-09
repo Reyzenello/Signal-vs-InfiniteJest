@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that were damaging some of its 13th- and 14th-gen CPUs (Tom's Hardware)",
+            "title": "A researcher shows five proof-of-concept ways that Copilot can be manipulated by attackers, including turning it into an automatic spear-phishing machine (Matt Burgess/Wired)",
+            "link": "http://www.techmeme.com/240809/p15#a240809p15",
+            "published": "Fri, 09 Aug 2024 13:00:48 -0400"
+        },
+        {
+            "title": "Intel details a microcode patch, available through BIOS updates, to address the elevated voltage issues that can damage some Core 13th and 14th Gen desktop CPUs (Tom's Hardware)",
             "link": "http://www.techmeme.com/240809/p14#a240809p14",
             "published": "Fri, 09 Aug 2024 11:55:03 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "Intel delays its Innovation event, slated for September and expected to include details about new CPUs, until 2025, citing its financial results and H2 outlook (Michael Kan/PCMag)",
             "link": "http://www.techmeme.com/240809/p11#a240809p11",
             "published": "Fri, 09 Aug 2024 10:50:00 -0400"
-        },
-        {
-            "title": "IOActive researchers detail \"Sinkclose\", a vulnerability in almost all AMD chips dating back to 2006 that allows attackers to run code in System Management Mode (Andy Greenberg/Wired)",
-            "link": "http://www.techmeme.com/240809/p10#a240809p10",
-            "published": "Fri, 09 Aug 2024 10:20:03 -0400"
         }
     ],
     "source_1": [
