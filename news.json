@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A profile of Peregrine, which was founded by an ex-Palantir exec to help US police access surveillance data, raised $30M in May, and had $10M in 2023 revenue (Thomas Brewster/Forbes)",
+            "link": "http://www.techmeme.com/240813/p16#a240813p16",
+            "published": "Tue, 13 Aug 2024 09:25:02 -0400"
+        },
+        {
+            "title": "India withdraws a draft broadcasting services bill after facing backlash from online creators over its potential effect on free speech and the compliance burden (John Reed/Financial Times)",
+            "link": "http://www.techmeme.com/240813/p15#a240813p15",
+            "published": "Tue, 13 Aug 2024 09:00:53 -0400"
+        },
+        {
             "title": "Politico, the NYT, the WaPo, and others say they received hacked Trump campaign materials, but gave few details, a marked contrast to Clinton's emails in 2016 (David Bauder/Associated Press)",
             "link": "http://www.techmeme.com/240813/p14#a240813p14",
             "published": "Tue, 13 Aug 2024 08:20:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Fortnox CEO Tommy Eklund leaves the Swedish software provider effective immediately; Fortnox stock jumped nearly 5x between 2020 and 2024, drawing short sellers (Financial Times)",
             "link": "http://www.techmeme.com/240813/p12#a240813p12",
             "published": "Tue, 13 Aug 2024 07:00:29 -0400"
-        },
-        {
-            "title": "Sources: Chinese internet companies have been testing Huawei's new Ascend 910C chip in recent weeks; Huawei told clients the chip compares to Nvidia's H100 (Wall Street Journal)",
-            "link": "http://www.techmeme.com/240813/p11#a240813p11",
-            "published": "Tue, 13 Aug 2024 06:40:05 -0400"
-        },
-        {
-            "title": "How Tether co-founder Brock Pierce's plan to use crypto to revitalize Puerto Rico's economy became mired in legal disputes and fights with his business partners (New York Times)",
-            "link": "http://www.techmeme.com/240813/p10#a240813p10",
-            "published": "Tue, 13 Aug 2024 06:25:03 -0400"
         }
     ],
     "source_1": [
@@ -43,17 +43,22 @@
             "published": "Sat, 10 Aug 2024 17:30:14 +0000"
         },
         {
+            "title": "Musk\u2019s Trump Talk on X: After Glitchy Start, a Two-Hour Ramble",
+            "link": "https://www.nytimes.com/2024/08/13/technology/elon-musk-x-donald-trump.html",
+            "published": "Tue, 13 Aug 2024 12:53:06 +0000"
+        },
+        {
             "title": "Tether Co-Founder Faces the Unraveling of a Crypto Dream",
             "link": "https://www.nytimes.com/2024/08/13/technology/brock-pierce-crypto-puerto-rico.html",
             "published": "Tue, 13 Aug 2024 04:01:29 +0000"
-        },
-        {
-            "title": "Fact-Checking Trump\u2019s Talk With Elon Musk on X",
-            "link": "https://www.nytimes.com/2024/08/12/us/politics/trump-musk-x-fact-check.html",
-            "published": "Tue, 13 Aug 2024 04:00:31 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Why is Elon Musk's X struggling with technical problems?",
+            "link": "https://www.bbc.com/news/articles/cy0np2y5197o",
+            "published": "Tue, 13 Aug 2024 13:19:10 GMT"
+        },
         {
             "title": "YouTube's former chief Susan Wojcicki dies aged 56",
             "link": "https://www.bbc.com/news/articles/c75nwnvvqr1o",
@@ -73,11 +78,6 @@
             "title": "The AI tech aiming to identify future Olympians",
             "link": "https://www.bbc.com/news/articles/cmj2jkppvx3o",
             "published": "Thu, 08 Aug 2024 23:02:11 GMT"
-        },
-        {
-            "title": "Musk shares faked far-right 'detainment camp' for rioters post",
-            "link": "https://www.bbc.com/news/articles/cp35w0kj2y4o",
-            "published": "Thu, 08 Aug 2024 13:12:28 GMT"
         }
     ]
 }
