@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "The FBI is investigating an alleged Trump campaign hack; sources: it's probing suspected hacking attempts by Iran targeting the Trump and Harris-Biden campaigns (Washington Post)",
+            "title": "A source at X says there wasn't actually a DDoS attack that crashed the Trump interview; another X employee said there was a \"99 percent\" chance Musk was lying (The Verge)",
+            "link": "http://www.techmeme.com/240812/p27#a240812p27",
+            "published": "Mon, 12 Aug 2024 21:06:27 -0400"
+        },
+        {
+            "title": "Elon Musk's Donald Trump X Spaces interview was quickly derailed by technical glitches at the scheduled start time; Musk blamed it on \"a massive DDoS attack\" (Rebecca Picciotto/CNBC)",
+            "link": "http://www.techmeme.com/240812/p26#a240812p26",
+            "published": "Mon, 12 Aug 2024 20:38:05 -0400"
+        },
+        {
+            "title": "Tally, a fintech that helped users manage and pay off credit card debt, is shutting down; it had raised $172M and, per PitchBook, was last valued at $855M (Mary Ann Azevedo/TechCrunch)",
+            "link": "http://www.techmeme.com/240812/p25#a240812p25",
+            "published": "Mon, 12 Aug 2024 20:05:22 -0400"
+        },
+        {
+            "title": "The FBI is investigating an alleged Trump campaign hack; sources: it's probing suspected hacking attempts by Iran targeting the Trump and Biden-Harris campaigns (Washington Post)",
             "link": "http://www.techmeme.com/240812/p24#a240812p24",
             "published": "Mon, 12 Aug 2024 18:05:02 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "CrowdStrike's president appeared at DEF CON to accept the \"Most Epic Fail\" Pwnie Award, saying \"we got this horribly wrong\" and \"it's super important to own it\" (Michael Kan/PCMag)",
             "link": "http://www.techmeme.com/240812/p23#a240812p23",
             "published": "Mon, 12 Aug 2024 16:35:06 -0400"
-        },
-        {
-            "title": "The US SEC sues crypto company NovaTech and its co-founders, saying they fraudulently raised $650M+ from 200K+ investors globally, following the NY AG's lawsuit (Jonathan Stempel/Reuters)",
-            "link": "http://www.techmeme.com/240812/p22#a240812p22",
-            "published": "Mon, 12 Aug 2024 14:45:01 -0400"
-        },
-        {
-            "title": "TikTok adds group chats, with support for up to 32 people, available to all users over 15 years old, and adds safety measures specifically to protect teens (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/240812/p21#a240812p21",
-            "published": "Mon, 12 Aug 2024 14:35:01 -0400"
-        },
-        {
-            "title": "Researchers: among US states that legalized online betting access, the likelihood of filing for bankruptcy increased by 25%-30% after three to four years (Slow Boring)",
-            "link": "http://www.techmeme.com/240812/p20#a240812p20",
-            "published": "Mon, 12 Aug 2024 13:55:05 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Sat, 10 Aug 2024 17:30:14 +0000"
         },
         {
+            "title": "X Spaces With Trump and Musk Is Off to a Glitchy Start",
+            "link": "https://www.nytimes.com/2024/08/12/technology/trump-musk-x-spaces-interview.html",
+            "published": "Tue, 13 Aug 2024 00:37:00 +0000"
+        },
+        {
             "title": "Elon Musk Is Using X to Push His Views, and Donald Trump",
             "link": "https://www.nytimes.com/2024/08/12/technology/elon-musk-political-views.html",
             "published": "Mon, 12 Aug 2024 19:46:00 +0000"
-        },
-        {
-            "title": "Trump Returns to X in Victory for Elon Musk",
-            "link": "https://www.nytimes.com/2024/08/12/technology/donald-trump-elon-musk-x.html",
-            "published": "Mon, 12 Aug 2024 20:09:24 +0000"
         }
     ],
     "source_2": [
