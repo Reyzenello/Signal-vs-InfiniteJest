@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Filing: Intel sold its 1.18M shares in Arm during the second quarter, which, based on the stock's average price in Q2, would have raised ~$147M for the company (Ian King/Bloomberg)",
+            "link": "http://www.techmeme.com/240813/p42#a240813p42",
+            "published": "Tue, 13 Aug 2024 19:05:04 -0400"
+        },
+        {
+            "title": "A US judge rules that a group of artists can pursue some copyright infringement claims in their lawsuit against Stability AI, Midjourney, and other companies (Blake Brittain/Reuters)",
+            "link": "http://www.techmeme.com/240813/p41#a240813p41",
+            "published": "Tue, 13 Aug 2024 18:50:03 -0400"
+        },
+        {
             "title": "Google announces Android accessibility updates, including an easier-to-use Guided Frame for photos, AI features for Magnifier, and new Live Caption languages (Abrar Al-Heeti/CNET)",
             "link": "http://www.techmeme.com/240813/p40#a240813p40",
             "published": "Tue, 13 Aug 2024 18:05:15 -0400"
         },
         {
-            "title": "Researchers describe now-fixed vulnerabilities in Microsoft's Azure Health Bot Service that allowed a user to access and manage other customers' resources (Nathan Eddy/Dark Reading)",
+            "title": "Researchers describe now-fixed vulnerabilities in Microsoft's Azure Health Bot Service that would allow a user to access and manage other customers' resources (Nathan Eddy/Dark Reading)",
             "link": "http://www.techmeme.com/240813/p39#a240813p39",
             "published": "Tue, 13 Aug 2024 17:55:01 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Hands-on with Pixel 9's AI camera features: Add Me, Reimagine, Autoframe, Zoom Enhance, and improvements to Video Boost and panoramas (Julian Chokkattu/Wired)",
             "link": "http://www.techmeme.com/240813/p38#a240813p38",
             "published": "Tue, 13 Aug 2024 17:45:02 -0400"
-        },
-        {
-            "title": "Sources: after Google's monopoly ruling, the DOJ considers options including forcing a breakup of the company or requiring it to share more data with rivals (Bloomberg)",
-            "link": "http://www.techmeme.com/240813/p37#a240813p37",
-            "published": "Tue, 13 Aug 2024 17:05:15 -0400"
-        },
-        {
-            "title": "NIST publishes its first three post-quantum cryptography standards; IBM's director of research thinks quantum computing will hit an inflection point around 2030 (Frederic Lardinois/TechCrunch)",
-            "link": "http://www.techmeme.com/240813/p36#a240813p36",
-            "published": "Tue, 13 Aug 2024 16:40:00 -0400"
         }
     ],
     "source_1": [
