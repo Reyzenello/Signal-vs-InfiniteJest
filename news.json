@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
+            "title": "A look at the National Public Data breach, first noted in April 2024 and posted publicly last week, and efforts to establish if \"nearly 3B people\" were exposed (Troy Hunt)",
+            "link": "http://www.techmeme.com/240814/p23#a240814p23",
+            "published": "Wed, 14 Aug 2024 11:05:03 -0400"
+        },
+        {
+            "title": "SAG-AFTRA strikes a deal with Narrativ for voice replicas in digital ads, letting union members add themselves to the AI startup's database and negotiate fees (Cynthia Littleton/Variety)",
+            "link": "http://www.techmeme.com/240814/p22#a240814p22",
+            "published": "Wed, 14 Aug 2024 10:50:00 -0400"
+        },
+        {
+            "title": "Tencent says it and Apple are exploring ways to offer in-app transactions via iOS' payment system, the first acknowledgment of talks with Apple to take a cut (Zheping Huang/Bloomberg)",
+            "link": "http://www.techmeme.com/240814/p21#a240814p21",
+            "published": "Wed, 14 Aug 2024 10:25:19 -0400"
+        },
+        {
             "title": "Interviews with 48+ people detail Snowflake and Databricks' intense rivalry, jockeying to be the dominant platform to organize AI data, and fear of Microsoft (Bloomberg)",
             "link": "http://www.techmeme.com/240814/p20#a240814p20",
             "published": "Wed, 14 Aug 2024 10:10:01 -0400"
         },
         {
-            "title": "AMD Ryzen 9 9950X and Ryzen 9 9900X review: the Zen 5 flagship chips are fine for highly threaded productivity workloads, but gaming issues need to be fixed (Gavin Bonshor/AnandTech)",
+            "title": "AMD Ryzen 9 9950X and Ryzen 9 9900X review: the Zen 5 flagship chips are fine for highly threaded productivity workloads, but the gaming issues need to be fixed (Gavin Bonshor/AnandTech)",
             "link": "http://www.techmeme.com/240814/p19#a240814p19",
             "published": "Wed, 14 Aug 2024 09:25:15 -0400"
-        },
-        {
-            "title": "EliseAI, which offers AI property management tools for landlords, raised a $75M Series D led by Sapphire at a $1B valuation, taking its total funding to $140M (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240814/p18#a240814p18",
-            "published": "Wed, 14 Aug 2024 09:10:01 -0400"
-        },
-        {
-            "title": "MIT releases a database of 700+ unique AI risks, based on 43 existing taxonomies, including peer-reviewed articles, preprints, conference papers, and reports (Ben Dickson/VentureBeat)",
-            "link": "http://www.techmeme.com/240814/p17#a240814p17",
-            "published": "Wed, 14 Aug 2024 08:45:01 -0400"
-        },
-        {
-            "title": "LA-based Sahara AI, which uses AI to recognize copyrights and track assets, raised a $43M Series A led by Pantera and Polychain, and claims 200K contributors (Saritha Rai/Bloomberg)",
-            "link": "http://www.techmeme.com/240814/p16#a240814p16",
-            "published": "Wed, 14 Aug 2024 08:30:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "U.S. Considers Breaking Up Google to Address Search Monopoly",
             "link": "https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html",
-            "published": "Tue, 13 Aug 2024 23:45:38 +0000"
+            "published": "Wed, 14 Aug 2024 14:41:16 +0000"
+        },
+        {
+            "title": "California A.I. Bill Causes Alarm in Silicon Valley",
+            "link": "https://www.nytimes.com/2024/08/14/technology/ai-california-bill-silicon-valley.html",
+            "published": "Wed, 14 Aug 2024 14:15:01 +0000"
+        },
+        {
+            "title": "The Global Race to Control A.I.",
+            "link": "https://www.nytimes.com/2024/08/14/briefing/ai-china-us-technology.html",
+            "published": "Wed, 14 Aug 2024 10:19:50 +0000"
         },
         {
             "title": "Google Unveils Pixel 9 Phones to Beat Apple\u2019s iPhone",
@@ -41,16 +51,6 @@
             "title": "Musk\u2019s Trump Talk on X: After Glitchy Start, a Two-Hour Ramble",
             "link": "https://www.nytimes.com/2024/08/13/technology/elon-musk-x-donald-trump.html",
             "published": "Tue, 13 Aug 2024 17:43:21 +0000"
-        },
-        {
-            "title": "Tether Co-Founder Faces the Unraveling of a Crypto Dream",
-            "link": "https://www.nytimes.com/2024/08/13/technology/brock-pierce-crypto-puerto-rico.html",
-            "published": "Tue, 13 Aug 2024 04:01:30 +0000"
-        },
-        {
-            "title": "California A.I. Bill Causes Alarm in Silicon Valley",
-            "link": "https://www.nytimes.com/2024/08/14/technology/ai-california-bill-silicon-valley.html",
-            "published": "Wed, 14 Aug 2024 14:15:01 +0000"
         }
     ],
     "source_2": [
