@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "A look at the National Public Data breach, first noted in April 2024 and posted publicly last week, and efforts to establish if \"nearly 3B people\" were exposed (Troy Hunt)",
+            "title": "Apple says app developers can offer NFC contactless transactions using the iPhone's Secure Element, separate from Apple Pay and Wallet, starting with iOS 18.1 (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/240814/p25#a240814p25",
+            "published": "Wed, 14 Aug 2024 11:48:40 -0400"
+        },
+        {
+            "title": "The main takeaway from the Google Pixel event is Android's primacy, and Google's integration with Android is worth preserving if the goal is spurring innovation (Ben Thompson/Stratechery)",
+            "link": "http://www.techmeme.com/240814/p24#a240814p24",
+            "published": "Wed, 14 Aug 2024 11:30:01 -0400"
+        },
+        {
+            "title": "A look at the National Public Data breach, first noted in April 2024 and posted publicly last week, and why it's unlikely that \"nearly 3B people\" were exposed (Troy Hunt)",
             "link": "http://www.techmeme.com/240814/p23#a240814p23",
             "published": "Wed, 14 Aug 2024 11:05:03 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Tencent says it and Apple are exploring ways to offer in-app transactions via iOS' payment system, the first acknowledgment of talks with Apple to take a cut (Zheping Huang/Bloomberg)",
             "link": "http://www.techmeme.com/240814/p21#a240814p21",
             "published": "Wed, 14 Aug 2024 10:25:19 -0400"
-        },
-        {
-            "title": "Interviews with 48+ people detail Snowflake and Databricks' intense rivalry, jockeying to be the dominant platform to organize AI data, and fear of Microsoft (Bloomberg)",
-            "link": "http://www.techmeme.com/240814/p20#a240814p20",
-            "published": "Wed, 14 Aug 2024 10:10:01 -0400"
-        },
-        {
-            "title": "AMD Ryzen 9 9950X and Ryzen 9 9900X review: the Zen 5 flagship chips are fine for highly threaded productivity workloads, but the gaming issues need to be fixed (Gavin Bonshor/AnandTech)",
-            "link": "http://www.techmeme.com/240814/p19#a240814p19",
-            "published": "Wed, 14 Aug 2024 09:25:15 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "California A.I. Bill Causes Alarm in Silicon Valley",
             "link": "https://www.nytimes.com/2024/08/14/technology/ai-california-bill-silicon-valley.html",
-            "published": "Wed, 14 Aug 2024 14:15:01 +0000"
+            "published": "Wed, 14 Aug 2024 16:23:02 +0000"
         },
         {
             "title": "The Global Race to Control A.I.",
