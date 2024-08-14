@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "US District Judge Reed O'Connor recuses himself from X's advertiser lawsuit over an alleged ad boycott; O'Connor held stock in Tesla and Unilever (Bobby Allyn/NPR)",
+            "link": "http://www.techmeme.com/240813/p43#a240813p43",
+            "published": "Tue, 13 Aug 2024 19:55:01 -0400"
+        },
+        {
             "title": "Filing: Intel sold its 1.18M shares in Arm during the second quarter, which, based on the stock's average price in Q2, would have raised ~$147M for the company (Ian King/Bloomberg)",
             "link": "http://www.techmeme.com/240813/p42#a240813p42",
             "published": "Tue, 13 Aug 2024 19:05:04 -0400"
@@ -19,18 +24,13 @@
             "title": "Researchers describe now-fixed vulnerabilities in Microsoft's Azure Health Bot Service that would allow a user to access and manage other customers' resources (Nathan Eddy/Dark Reading)",
             "link": "http://www.techmeme.com/240813/p39#a240813p39",
             "published": "Tue, 13 Aug 2024 17:55:01 -0400"
-        },
-        {
-            "title": "Hands-on with Pixel 9's AI camera features: Add Me, Reimagine, Autoframe, Zoom Enhance, and improvements to Video Boost and panoramas (Julian Chokkattu/Wired)",
-            "link": "http://www.techmeme.com/240813/p38#a240813p38",
-            "published": "Tue, 13 Aug 2024 17:45:02 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Musk\u2019s Trump Talk on X: After Glitchy Start, a Two-Hour Ramble",
-            "link": "https://www.nytimes.com/2024/08/13/technology/elon-musk-x-donald-trump.html",
-            "published": "Tue, 13 Aug 2024 17:43:21 +0000"
+            "title": "U.S. Considers Breaking Up Google to Address Search Monopoly",
+            "link": "https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html",
+            "published": "Tue, 13 Aug 2024 23:45:38 +0000"
         },
         {
             "title": "Google Unveils Pixel 9 Phones to Beat Apple\u2019s iPhone",
@@ -38,14 +38,14 @@
             "published": "Tue, 13 Aug 2024 20:41:23 +0000"
         },
         {
+            "title": "Musk\u2019s Trump Talk on X: After Glitchy Start, a Two-Hour Ramble",
+            "link": "https://www.nytimes.com/2024/08/13/technology/elon-musk-x-donald-trump.html",
+            "published": "Tue, 13 Aug 2024 17:43:21 +0000"
+        },
+        {
             "title": "Tether Co-Founder Faces the Unraveling of a Crypto Dream",
             "link": "https://www.nytimes.com/2024/08/13/technology/brock-pierce-crypto-puerto-rico.html",
             "published": "Tue, 13 Aug 2024 04:01:30 +0000"
-        },
-        {
-            "title": "Uber, Facing Sexual-Assault Litigation, Pushes Plan That May Curb Suits",
-            "link": "https://www.nytimes.com/2024/08/12/business/uber-nevada-referendum.html",
-            "published": "Mon, 12 Aug 2024 18:37:31 +0000"
         },
         {
             "title": "Fact-Checking Trump\u2019s Talk With Elon Musk on X",
