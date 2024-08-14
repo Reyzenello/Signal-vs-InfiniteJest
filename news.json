@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Apple says app developers can offer NFC contactless transactions using the iPhone's Secure Element, separate from Apple Pay and Wallet, starting with iOS 18.1 (Chance Miller/9to5Mac)",
+            "title": "Sources: Apple is prioritizing developing a tabletop home device with an iPad-like display and a robotic limb, aiming for a release in 2026 or 2027 for ~$1,000 (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/240814/p27#a240814p27",
+            "published": "Wed, 14 Aug 2024 14:27:43 -0400"
+        },
+        {
+            "title": "A look at some of the victims of the now-ubiquitous deepfake video scams; an analysis of 2,000+ deepfakes found Elon Musk was featured in ~25% of such scams (Stuart A. Thompson/New York Times)",
+            "link": "http://www.techmeme.com/240814/p26#a240814p26",
+            "published": "Wed, 14 Aug 2024 13:30:02 -0400"
+        },
+        {
+            "title": "Apple says developers can offer NFC transactions using the iPhone's Secure Element, separate from Apple Pay, starting in iOS 18.1; there'll be \"associated fees\" (Chance Miller/9to5Mac)",
             "link": "http://www.techmeme.com/240814/p25#a240814p25",
             "published": "Wed, 14 Aug 2024 11:48:40 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "A look at the National Public Data breach, first noted in April 2024 and posted publicly last week, and why it's unlikely that \"nearly 3B people\" were exposed (Troy Hunt)",
             "link": "http://www.techmeme.com/240814/p23#a240814p23",
             "published": "Wed, 14 Aug 2024 11:05:03 -0400"
-        },
-        {
-            "title": "SAG-AFTRA strikes a deal with Narrativ for voice replicas in digital ads, letting union members add themselves to the AI startup's database and negotiate fees (Cynthia Littleton/Variety)",
-            "link": "http://www.techmeme.com/240814/p22#a240814p22",
-            "published": "Wed, 14 Aug 2024 10:50:00 -0400"
-        },
-        {
-            "title": "Tencent says it and Apple are exploring ways to offer in-app transactions via iOS' payment system, the first acknowledgment of talks with Apple to take a cut (Zheping Huang/Bloomberg)",
-            "link": "http://www.techmeme.com/240814/p21#a240814p21",
-            "published": "Wed, 14 Aug 2024 10:25:19 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "California A.I. Bill Causes Alarm in Silicon Valley",
             "link": "https://www.nytimes.com/2024/08/14/technology/ai-california-bill-silicon-valley.html",
-            "published": "Wed, 14 Aug 2024 16:41:38 +0000"
+            "published": "Wed, 14 Aug 2024 17:24:59 +0000"
         },
         {
             "title": "The Global Race to Control A.I.",
