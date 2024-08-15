@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "NYC-based Chaos Labs, which offers automated, on-chain risk management for DeFi protocols, raised a $55M Series A led by Haun Ventures (Sam Kessler/CoinDesk)",
+            "link": "http://www.techmeme.com/240815/p21#a240815p21",
+            "published": "Thu, 15 Aug 2024 10:30:00 -0400"
+        },
+        {
             "title": "Israeli stock research service TipRanks says investment firm Prytek bought 40% of the startup for $80M, giving Prytek an 80% stake; TipRanks has raised $102M (CTech)",
             "link": "http://www.techmeme.com/240815/p20#a240815p20",
             "published": "Thu, 15 Aug 2024 09:25:01 -0400"
@@ -19,14 +24,19 @@
             "title": "Google expands AI Overviews in Search to Brazil, India, Indonesia, Japan, Mexico, and the UK in local languages, and adds hyperlinks to the feature (Kenrick Cai/Reuters)",
             "link": "http://www.techmeme.com/240815/p17#a240815p17",
             "published": "Thu, 15 Aug 2024 07:45:02 -0400"
-        },
-        {
-            "title": "Grab reports Q2 revenue up 17% YoY to $664M, below $676.9M est., and a $53M net loss, down from $135M in Q2 2023, as competition with GoTo weighs on its growth (Olivia Poh/Bloomberg)",
-            "link": "http://www.techmeme.com/240815/p16#a240815p16",
-            "published": "Thu, 15 Aug 2024 07:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Bowling, Selfies and the \u2018Dougie\u2019: Biden Woos Influencers at the White House",
+            "link": "https://www.nytimes.com/2024/08/14/business/biden-social-media-creators-white-house.html",
+            "published": "Thu, 15 Aug 2024 03:56:23 +0000"
+        },
+        {
+            "title": "Cisco to Cut About 7% of Staff in Second Round of Job Layoffs",
+            "link": "https://www.nytimes.com/2024/08/14/technology/cisco-layoffs.html",
+            "published": "Wed, 14 Aug 2024 22:32:33 +0000"
+        },
         {
             "title": "U.S. Considers Breaking Up Google to Address Search Monopoly",
             "link": "https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html",
@@ -38,24 +48,14 @@
             "published": "Wed, 14 Aug 2024 17:25:00 +0000"
         },
         {
-            "title": "The Global Race to Control A.I.",
-            "link": "https://www.nytimes.com/2024/08/14/briefing/ai-china-us-technology.html",
-            "published": "Wed, 14 Aug 2024 10:19:50 +0000"
-        },
-        {
-            "title": "Bowling, Selfies and the \u2018Dougie\u2019: Biden Woos Influencers at the White House",
-            "link": "https://www.nytimes.com/2024/08/14/business/biden-social-media-creators-white-house.html",
-            "published": "Thu, 15 Aug 2024 03:56:23 +0000"
-        },
-        {
-            "title": "Cisco to Cut About 7% of Staff in Second Round of Job Layoffs",
-            "link": "https://www.nytimes.com/2024/08/14/technology/cisco-layoffs.html",
-            "published": "Wed, 14 Aug 2024 22:32:33 +0000"
+            "title": "Google Unveils Pixel 9 Phones to Beat Apple\u2019s iPhone",
+            "link": "https://www.nytimes.com/2024/08/13/technology/google-pixel-9.html",
+            "published": "Tue, 13 Aug 2024 20:41:24 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Tech firm apologises for hostess lampshade outfits",
+            "title": "Tech firm apologises for 'creepy' hostess lampshade outfits",
             "link": "https://www.bbc.com/news/articles/c5y5r11xmkvo",
             "published": "Thu, 15 Aug 2024 13:11:05 GMT"
         },
