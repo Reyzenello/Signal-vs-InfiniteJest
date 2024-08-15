@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "California lawmakers weaken the AI safety bill with amendments proposed by Anthropic and other opponents, including giving the AG less power to sue AI companies (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/240815/p29#a240815p29",
+            "published": "Thu, 15 Aug 2024 19:10:00 -0400"
+        },
+        {
             "title": "Google makes Imagen 3 available to all US users via ImageFX, after unveiling the text-to-image AI model in May; some users criticize its strict content filters (Michael Nu&ntilde;ez/VentureBeat)",
             "link": "http://www.techmeme.com/240815/p28#a240815p28",
             "published": "Thu, 15 Aug 2024 18:15:00 -0400"
@@ -19,14 +24,14 @@
             "title": "California announces support for adding driver's licenses or state IDs to Apple Wallet and Google Wallet, rolling out \"in the coming weeks\" (Shawna Chen/Axios)",
             "link": "http://www.techmeme.com/240815/p25#a240815p25",
             "published": "Thu, 15 Aug 2024 14:00:27 -0400"
-        },
-        {
-            "title": "Threads announces new features, like the ability to store multiple drafts and an analytics page, rolling out on the web, and plans to test a scheduling feature (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/240815/p24#a240815p24",
-            "published": "Thu, 15 Aug 2024 13:20:05 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "California A.I. Bill Is Tweaked",
+            "link": "https://www.nytimes.com/2024/08/15/technology/california-ai-bill-amended.html",
+            "published": "Thu, 15 Aug 2024 23:10:37 +0000"
+        },
         {
             "title": "Bowling, Selfies and the \u2018Dougie\u2019: Biden Woos Influencers at the White House",
             "link": "https://www.nytimes.com/2024/08/14/business/biden-social-media-creators-white-house.html",
@@ -38,22 +43,22 @@
             "published": "Thu, 15 Aug 2024 18:00:48 +0000"
         },
         {
-            "title": "U.S. Considers Breaking Up Google to Address Search Monopoly",
-            "link": "https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html",
-            "published": "Wed, 14 Aug 2024 14:41:16 +0000"
-        },
-        {
             "title": "California A.I. Bill Causes Alarm in Silicon Valley",
             "link": "https://www.nytimes.com/2024/08/14/technology/ai-california-bill-silicon-valley.html",
             "published": "Thu, 15 Aug 2024 21:36:31 +0000"
         },
         {
-            "title": "Google Unveils Pixel 9 Phones to Beat Apple\u2019s iPhone",
-            "link": "https://www.nytimes.com/2024/08/13/technology/google-pixel-9.html",
-            "published": "Tue, 13 Aug 2024 20:41:24 +0000"
+            "title": "U.S. Considers Breaking Up Google to Address Search Monopoly",
+            "link": "https://www.nytimes.com/2024/08/13/technology/google-monopoly-antitrust-justice-department.html",
+            "published": "Wed, 14 Aug 2024 14:41:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "'Nothing stopping' child abuse image sharing on WhatsApp, group warns",
+            "link": "https://www.bbc.com/news/articles/clyn1513l5ro",
+            "published": "Thu, 15 Aug 2024 23:02:55 GMT"
+        },
         {
             "title": "Tech firm apologises for 'creepy' hostess lampshade outfits",
             "link": "https://www.bbc.com/news/articles/c5y5r11xmkvo",
@@ -73,11 +78,6 @@
             "title": "Why is Elon Musk's X struggling with technical problems?",
             "link": "https://www.bbc.com/news/articles/cy0np2y5197o",
             "published": "Tue, 13 Aug 2024 17:09:49 GMT"
-        },
-        {
-            "title": "YouTube's former chief Susan Wojcicki dies aged 56",
-            "link": "https://www.bbc.com/news/articles/c75nwnvvqr1o",
-            "published": "Sat, 10 Aug 2024 11:56:06 GMT"
         }
     ]
 }
