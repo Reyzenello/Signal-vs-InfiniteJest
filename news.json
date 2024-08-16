@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI removed a cluster of Iranian accounts using ChatGPT for an influence campaign targeting the US elections, and says the effort didn't gain much traction (Cade Metz/New York Times)",
+            "link": "http://www.techmeme.com/240816/p16#a240816p16",
+            "published": "Fri, 16 Aug 2024 14:45:01 -0400"
+        },
+        {
+            "title": "Background check service National Public Data confirms a breach after hackers leaked a stolen database with millions of SSNs and other sensitive personal info (Ionut Ilascu/BleepingComputer)",
+            "link": "http://www.techmeme.com/240816/p15#a240816p15",
+            "published": "Fri, 16 Aug 2024 14:35:02 -0400"
+        },
+        {
             "title": "FanDuel founders and other early shareholders sue KKR and Shamrock Capital over the 2018 Paddy Power Betfair merger that wiped out the value of their holdings (Dan Primack/Axios)",
             "link": "http://www.techmeme.com/240816/p14#a240816p14",
             "published": "Fri, 16 Aug 2024 12:50:01 -0400"
@@ -14,19 +24,14 @@
             "title": "Caresyntax, which is building AI-powered surgical data analysis tools, raised a $180M Series C extension consisting of $80M in equity and $100M in debt (Kai Nicol-Schwarz/Sifted)",
             "link": "http://www.techmeme.com/240816/p12#a240816p12",
             "published": "Fri, 16 Aug 2024 10:50:16 -0400"
-        },
-        {
-            "title": "The European Commission asks Meta for more information about its Content Library tool and API under the DSA, following Meta's decision to deprecate CrowdTangle (Natasha Lomas/TechCrunch)",
-            "link": "http://www.techmeme.com/240816/p11#a240816p11",
-            "published": "Fri, 16 Aug 2024 09:05:18 -0400"
-        },
-        {
-            "title": "Epic brings its games to AltStore for iOS in the EU and plans to bring them to Aptoide's iOS store in the EU, ONE Store on Android, and \"other stores\" globally (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/240816/p10#a240816p10",
-            "published": "Fri, 16 Aug 2024 08:25:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Disrupts Iranian Misinformation Campaign",
+            "link": "https://www.nytimes.com/2024/08/16/technology/openai-chatgpt-iran-misinformation.html",
+            "published": "Fri, 16 Aug 2024 18:20:56 +0000"
+        },
         {
             "title": "Apple Changes App Store Rules",
             "link": "https://www.nytimes.com/2024/08/16/technology/apple-epic-spotify-app-stores.html",
@@ -38,19 +43,14 @@
             "published": "Fri, 16 Aug 2024 09:00:11 +0000"
         },
         {
-            "title": "U.S. Awards $1.6 Billion to Texas Instruments to Build Semiconductor Plants",
-            "link": "https://www.nytimes.com/2024/08/16/us/politics/texas-instruments-semiconductor-grant.html",
-            "published": "Fri, 16 Aug 2024 09:04:32 +0000"
-        },
-        {
             "title": "Can Musk Get Trump Elected? + Steve Ballmer\u2019s Quest for the Facts + This Week in A.I.",
             "link": "https://www.nytimes.com/2024/08/16/podcasts/hardfork-musk-trump-election.html",
             "published": "Fri, 16 Aug 2024 09:04:28 +0000"
         },
         {
-            "title": "OpenAI Disrupts Iranian Misinformation Campaign",
-            "link": "https://www.nytimes.com/2024/08/16/technology/openai-chatgpt-iran-misinformation.html",
-            "published": "Fri, 16 Aug 2024 18:20:56 +0000"
+            "title": "California A.I. Bill Is Tweaked",
+            "link": "https://www.nytimes.com/2024/08/15/technology/california-ai-bill-amended.html",
+            "published": "Thu, 15 Aug 2024 23:10:38 +0000"
         }
     ],
     "source_2": [
