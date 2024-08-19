@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Fabric Cryptography, a startup working on a \"verifiable processing unit\" chip for cryptography, raised a $33M Series A co-led by Blockchain Capital and 1kx (Bradley Keoun/CoinDesk)",
+            "link": "http://www.techmeme.com/240819/p11#a240819p11",
+            "published": "Mon, 19 Aug 2024 12:25:01 -0400"
+        },
+        {
+            "title": "Waymo unveils its cheaper \"generation 6\" self-driving tech that's integrated with Geely Zeekr vehicles, with 13 cameras and 4 lidar sensors, down from 29 and 5 (CNBC)",
+            "link": "http://www.techmeme.com/240819/p10#a240819p10",
+            "published": "Mon, 19 Aug 2024 11:50:02 -0400"
+        },
+        {
             "title": "Raspberry Pi launches a Raspberry Pi 5 with 2GB of RAM for $50, alongside the existing 4GB model for $60 and 8GB for $80, and may release a future 1GB model (Les Pounder/Tom's Hardware)",
             "link": "http://www.techmeme.com/240819/p9#a240819p9",
             "published": "Mon, 19 Aug 2024 10:15:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Procreate CEO James Cuda says the iPad illustration startup is \"not going to be introducing any generative AI into our products\", drawing praise from creatives (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/240819/p7#a240819p7",
             "published": "Mon, 19 Aug 2024 09:20:04 -0400"
-        },
-        {
-            "title": "Girls In Tech, Women Who Code, and other groups that aimed to diversify Silicon Valley are closing or rebranding to stay afloat, as critics attack DEI efforts (Washington Post)",
-            "link": "http://www.techmeme.com/240819/p6#a240819p6",
-            "published": "Mon, 19 Aug 2024 08:55:02 -0400"
-        },
-        {
-            "title": "In Q2, Walmart said its ad business grew 30% in the past year; eMarketer says Walmart will claim 6.8% of 2024 US retail media spending, for $3.7B in ad revenue (Gregory Meyer/Financial Times)",
-            "link": "http://www.techmeme.com/240819/p5#a240819p5",
-            "published": "Mon, 19 Aug 2024 07:00:19 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "A Personalized Brain Pacemaker for Parkinson\u2019s",
             "link": "https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html",
-            "published": "Mon, 19 Aug 2024 15:00:21 +0000"
+            "published": "Mon, 19 Aug 2024 16:04:18 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Who is British tech tycoon Mike Lynch?",
+            "link": "https://www.bbc.com/news/articles/cdxl5kpvrg9o",
+            "published": "Mon, 19 Aug 2024 16:15:46 GMT"
+        },
         {
             "title": "Actors demand action over 'disgusting' explicit video game scenes",
             "link": "https://www.bbc.com/news/articles/c23l4ml51jmo",
@@ -73,11 +78,6 @@
             "title": "Respected gaming magazine praised after sudden closure",
             "link": "https://www.bbc.com/news/articles/ce9z8k8g0g9o",
             "published": "Fri, 16 Aug 2024 01:46:16 GMT"
-        },
-        {
-            "title": "'Nothing stopping' child abuse image sharing on WhatsApp, group warns",
-            "link": "https://www.bbc.com/news/articles/clyn1513l5ro",
-            "published": "Fri, 16 Aug 2024 16:55:58 GMT"
         }
     ]
 }
