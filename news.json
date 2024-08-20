@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Writers and journalists Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson sue Anthropic, saying it misused books of theirs and others to train Claude (Blake Brittain/Reuters)",
+            "title": "OpenAI launches fine-tuning for GPT-4o, which lets developers customize a version of the model with their own datasets to improve domain-specific performance (OpenAI)",
+            "link": "http://www.techmeme.com/240820/p21#a240820p21",
+            "published": "Tue, 20 Aug 2024 13:18:11 -0400"
+        },
+        {
+            "title": "Flight tracking site FlightAware, which claims 10M+ monthly users, reports a breach dating back to January 2021 that exposed names, SSNs, addresses, and more (Zack Whittaker/TechCrunch)",
+            "link": "http://www.techmeme.com/240820/p20#a240820p20",
+            "published": "Tue, 20 Aug 2024 13:10:04 -0400"
+        },
+        {
+            "title": "Microsoft launches a single unified Teams app that allows switching between work, personal, and education accounts on Windows and Mac (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/240820/p19#a240820p19",
+            "published": "Tue, 20 Aug 2024 13:05:00 -0400"
+        },
+        {
+            "title": "Ofcom says it has 460+ people working on enforcing the Online Safety Act and plans to grow that by 20% to 550+ by March 2025, or 33% of its 1,500 total staff (Anna Gross/Financial Times)",
+            "link": "http://www.techmeme.com/240820/p18#a240820p18",
+            "published": "Tue, 20 Aug 2024 12:40:02 -0400"
+        },
+        {
+            "title": "Writers and journalists Andrea Bartz, Charles Graeber, and Kirk Johnson sue Anthropic for misusing \"hundreds of thousands of copyrighted books\" to train Claude (Blake Brittain/Reuters)",
             "link": "http://www.techmeme.com/240820/p17#a240820p17",
             "published": "Tue, 20 Aug 2024 12:15:13 -0400"
-        },
-        {
-            "title": "Waymo co-CEO Tekedra Mawakana says Waymo is now giving 100K+ paid robotaxi rides every week in LA, San Francisco, and Phoenix, a few months after passing 50K+ (Kirsten Korosec/TechCrunch)",
-            "link": "http://www.techmeme.com/240820/p16#a240820p16",
-            "published": "Tue, 20 Aug 2024 12:00:42 -0400"
-        },
-        {
-            "title": "Letter to investors: Bolt is finalizing a $450M Series F at a $14B valuation but with harsh terms for existing investors; Ryan Breslow plans to return as CEO (Erin Woo/The Information)",
-            "link": "http://www.techmeme.com/240820/p15#a240820p15",
-            "published": "Tue, 20 Aug 2024 11:00:48 -0400"
-        },
-        {
-            "title": "Nvidia plans to let users link an Xbox account to its GeForce Now streaming service to enable automatic sign-in for supported games, starting on August 22 (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/240820/p14#a240820p14",
-            "published": "Tue, 20 Aug 2024 09:55:02 -0400"
-        },
-        {
-            "title": "Virginia-based Defcon AI, which aims to use ML to improve US DoD logistics, raised a $44M seed led by Bessemer, and has earned ~$15M in government contracts (Aria Alamalhodaei/TechCrunch)",
-            "link": "http://www.techmeme.com/240820/p13#a240820p13",
-            "published": "Tue, 20 Aug 2024 09:45:16 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How Section 230 Is Being Used Against Tech Giants Like Meta",
             "link": "https://www.nytimes.com/2024/08/20/technology/meta-section-230-lawsuit.html",
-            "published": "Tue, 20 Aug 2024 15:17:59 +0000"
+            "published": "Tue, 20 Aug 2024 15:18:00 +0000"
         },
         {
             "title": "A.I. Is Helping to Launch New Businesses",
