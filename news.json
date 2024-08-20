@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Letter to investors: Bolt is finalizing a $450M Series F valuing the startup at $14B but with harsh terms for existing investors; Ryan Breslow to return as CEO (Erin Woo/The Information)",
+            "link": "http://www.techmeme.com/240820/p15#a240820p15",
+            "published": "Tue, 20 Aug 2024 11:00:48 -0400"
+        },
+        {
             "title": "Nvidia plans to let users link an Xbox account to its GeForce Now streaming service to enable automatic sign-in for supported games, starting on August 22 (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/240820/p14#a240820p14",
             "published": "Tue, 20 Aug 2024 09:55:02 -0400"
@@ -19,14 +24,14 @@
             "title": "The UK CMA accepts Meta's ad rules changes to ensure that Meta doesn't use Marketplace advertisers' data to improve Marketplace, without having to opt in or out (Radhika Anilkumar/Reuters)",
             "link": "http://www.techmeme.com/240820/p11#a240820p11",
             "published": "Tue, 20 Aug 2024 09:20:01 -0400"
-        },
-        {
-            "title": "The AGs of 10 states join the US DOJ's antitrust lawsuit seeking to break up Live Nation and Ticketmaster; 39 states, plus DC, are now part of the lawsuit (Daniel Tencer/Music Business Worldwide)",
-            "link": "http://www.techmeme.com/240820/p10#a240820p10",
-            "published": "Tue, 20 Aug 2024 07:25:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Section 230 Is Being Used Against Tech Giants Like Meta",
+            "link": "https://www.nytimes.com/2024/08/20/technology/meta-section-230-lawsuit.html",
+            "published": "Tue, 20 Aug 2024 15:17:59 +0000"
+        },
         {
             "title": "A.I. Is Helping to Launch New Businesses",
             "link": "https://www.nytimes.com/2024/08/18/business/economy/ai-business-startups.html",
@@ -41,11 +46,6 @@
             "title": "OpenAI Disrupts Iranian Misinformation Campaign",
             "link": "https://www.nytimes.com/2024/08/16/technology/openai-chatgpt-iran-misinformation.html",
             "published": "Fri, 16 Aug 2024 18:20:56 +0000"
-        },
-        {
-            "title": "Can Musk Get Trump Elected? + Steve Ballmer\u2019s Quest for the Facts + This Week in A.I.",
-            "link": "https://www.nytimes.com/2024/08/16/podcasts/hardfork-musk-trump-election.html",
-            "published": "Fri, 16 Aug 2024 09:04:28 +0000"
         },
         {
             "title": "A Personalized Brain Pacemaker for Parkinson\u2019s",
