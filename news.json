@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft releases three Phi-3.5 models designed for basic/fast reasoning and more, available for developers to download, use, and fine-tune on Hugging Face (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/240820/p30#a240820p30",
+            "published": "Tue, 20 Aug 2024 21:15:02 -0400"
+        },
+        {
+            "title": "Sources: Walmart, JD.com's largest shareholder, is seeking to raise up to $3.74B by selling its stake in the Chinese e-commerce firm; JD falls 9%+ after hours (Amy Or/Bloomberg)",
+            "link": "http://www.techmeme.com/240820/p29#a240820p29",
+            "published": "Tue, 20 Aug 2024 20:05:06 -0400"
+        },
+        {
             "title": "Shein sues Temu for copyright infringement, accusing the company of stealing trade secrets and masquerading \"as a legitimate e-commerce 'marketplace'\" (Samantha Cole/404 Media)",
             "link": "http://www.techmeme.com/240820/p28#a240820p28",
             "published": "Tue, 20 Aug 2024 18:55:16 -0400"
         },
         {
-            "title": "In a letter to investors, Bolt says its finalizing a $450M Series F at a $14B valuation, but the deal terms are bewildering and hard to believe (Eric Newcomer/Newcomer)",
+            "title": "In a letter to investors, Bolt says it's finalizing a $450M Series F at a $14B valuation, but the deal terms are bewildering and hard to believe (Eric Newcomer/Newcomer)",
             "link": "http://www.techmeme.com/240820/p27#a240820p27",
             "published": "Tue, 20 Aug 2024 18:20:22 -0400"
         },
@@ -14,23 +24,13 @@
             "title": "A US district judge in Texas strikes down the FTC's ban on worker noncompete agreements, due to start September 4, after her temporary block of the rule in July (Daniel Wiessner/Reuters)",
             "link": "http://www.techmeme.com/240820/p26#a240820p26",
             "published": "Tue, 20 Aug 2024 18:00:33 -0400"
-        },
-        {
-            "title": "In a Reddit AMA, CEO Patrick Spence said Sonos won't rerelease its old app, after testing showed that doing so \"would make the problems worse, not better\" (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/240820/p25#a240820p25",
-            "published": "Tue, 20 Aug 2024 17:50:19 -0400"
-        },
-        {
-            "title": "Filing: chipmaker Microchip Technology says its servers were breached by an unauthorized party, causing its operations to run at \"less than normal levels\" (Nick Turner/Bloomberg)",
-            "link": "http://www.techmeme.com/240820/p24#a240820p24",
-            "published": "Tue, 20 Aug 2024 17:20:15 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How Section 230 Is Being Used Against Tech Giants Like Meta",
             "link": "https://www.nytimes.com/2024/08/20/technology/meta-section-230-lawsuit.html",
-            "published": "Tue, 20 Aug 2024 19:11:30 +0000"
+            "published": "Wed, 21 Aug 2024 01:06:10 +0000"
         },
         {
             "title": "A.I. Is Helping to Launch New Businesses",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Vogue publisher and ChatGPT owner OpenAI strike deal",
+            "link": "https://www.bbc.com/news/articles/cpqjvl9z9w1o",
+            "published": "Wed, 21 Aug 2024 01:06:45 GMT"
+        },
+        {
             "title": "Disney drops bid to stop allergy death lawsuit over Disney+ terms",
             "link": "https://www.bbc.com/news/articles/cr7r9djxj0do",
             "published": "Tue, 20 Aug 2024 18:41:17 GMT"
@@ -73,11 +78,6 @@
             "title": "Trump falsely implies Taylor Swift endorses him with AI images",
             "link": "https://www.bbc.com/news/articles/c5y87l6rx5wo",
             "published": "Mon, 19 Aug 2024 21:58:09 GMT"
-        },
-        {
-            "title": "Actors demand action over 'disgusting' explicit video game scenes",
-            "link": "https://www.bbc.com/news/articles/c23l4ml51jmo",
-            "published": "Fri, 16 Aug 2024 23:44:23 GMT"
         }
     ]
 }
