@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Interviews with US political campaigns and tech companies: despite offers from 30+ companies for AI products, most campaigns are wary and largely not biting (Sheera Frenkel/New York Times)",
+            "link": "http://www.techmeme.com/240821/p19#a240821p19",
+            "published": "Wed, 21 Aug 2024 11:15:18 -0400"
+        },
+        {
+            "title": "US court records: US agencies are increasingly accessing parts of the 500M encrypted message haul retrieved from the hack of encrypted phone company Sky in 2021 (Joseph Cox/404 Media)",
+            "link": "http://www.techmeme.com/240821/p18#a240821p18",
+            "published": "Wed, 21 Aug 2024 10:55:01 -0400"
+        },
+        {
+            "title": "Source: Meta's Llama struggles to gain traction on AWS, where Claude is most popular; Microsoft pitches Llama to clients with data expertise, per a staffer (The Information)",
+            "link": "http://www.techmeme.com/240821/p17#a240821p17",
+            "published": "Wed, 21 Aug 2024 10:35:01 -0400"
+        },
+        {
             "title": "Microsoft plans to launch the $450 white discless Xbox Series X, a $600 2TB Galaxy Black special-edition Series X, and $350 1TB Series S on October 15 in the US (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/240821/p16#a240821p16",
             "published": "Wed, 21 Aug 2024 09:55:01 -0400"
@@ -9,28 +24,23 @@
             "title": "Grafana Labs, which makes the Grafana visualization tools, completes a primary and secondary transaction worth ~$270M at a $6B+ valuation, up from $3B in 2022 (Frederic Lardinois/TechCrunch)",
             "link": "http://www.techmeme.com/240821/p15#a240821p15",
             "published": "Wed, 21 Aug 2024 09:15:02 -0400"
-        },
-        {
-            "title": "Sources and docs: sales reps say Google's targeting of teen minors goes beyond Meta; Google lets advertisers target an \"unknown\" group that skews toward teens (Catherine Perloff/Adweek)",
-            "link": "http://www.techmeme.com/240821/p14#a240821p14",
-            "published": "Wed, 21 Aug 2024 08:30:01 -0400"
-        },
-        {
-            "title": "PIP Labs, which is developing the blockchain Story Protocol to track IP usage, raised an $80M Series B led by a16z Crypto, sources say at a $2.25B valuation (Ryan Browne/CNBC)",
-            "link": "http://www.techmeme.com/240821/p13#a240821p13",
-            "published": "Wed, 21 Aug 2024 08:15:01 -0400"
-        },
-        {
-            "title": "Didi reports Q2 revenue up 4.1% YoY to ~$7.1B and ~196M net profit, after ride-hailing transactions hit a record, as Didi recovers from a $1.2B US fine in 2022 (Bloomberg)",
-            "link": "http://www.techmeme.com/240821/p12#a240821p12",
-            "published": "Wed, 21 Aug 2024 08:00:46 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "AI Companies Have Pitched US Political Campaigns. The Campaigns Are Wary.",
+            "link": "https://www.nytimes.com/2024/08/21/technology/ai-election-campaigns.html",
+            "published": "Wed, 21 Aug 2024 14:57:32 +0000"
+        },
+        {
             "title": "How Section 230 Is Being Used Against Tech Giants Like Meta",
             "link": "https://www.nytimes.com/2024/08/20/technology/meta-section-230-lawsuit.html",
             "published": "Wed, 21 Aug 2024 01:06:10 +0000"
+        },
+        {
+            "title": "Pakistan\u2019s Internet Disruptions Stoke Fears of Government Surveillance",
+            "link": "https://www.nytimes.com/2024/08/20/world/asia/pakistan-internet-government-surveillance.html",
+            "published": "Tue, 20 Aug 2024 18:17:09 +0000"
         },
         {
             "title": "A.I. Is Helping to Launch New Businesses",
@@ -38,19 +48,9 @@
             "published": "Mon, 19 Aug 2024 01:09:08 +0000"
         },
         {
-            "title": "Palantir\u2019s Alex Karp Talks About War, AI and America\u2019s Future",
-            "link": "https://www.nytimes.com/2024/08/17/style/alex-karp-palantir.html",
-            "published": "Sat, 17 Aug 2024 09:03:28 +0000"
-        },
-        {
-            "title": "OpenAI Disrupts Iranian Misinformation Campaign",
-            "link": "https://www.nytimes.com/2024/08/16/technology/openai-chatgpt-iran-misinformation.html",
-            "published": "Fri, 16 Aug 2024 18:20:56 +0000"
-        },
-        {
-            "title": "Pakistan\u2019s Internet Disruptions Stoke Fears of Government Surveillance",
-            "link": "https://www.nytimes.com/2024/08/20/world/asia/pakistan-internet-government-surveillance.html",
-            "published": "Tue, 20 Aug 2024 18:17:09 +0000"
+            "title": "A Personalized Brain Pacemaker for Parkinson\u2019s",
+            "link": "https://www.nytimes.com/2024/08/19/health/parkinsons-brain-pacemaker.html",
+            "published": "Tue, 20 Aug 2024 19:55:41 +0000"
         }
     ],
     "source_2": [
