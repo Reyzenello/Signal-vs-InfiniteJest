@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Starlink says satellite internet kits purchased in one of six regions and activated in another may be subjected to a \"outside region fee\" of up to $300 (Andrew Liszewski/The Verge)",
+            "title": "The US DOJ sues RealPage, alleging the company's software helps property managers collude on setting rents in violation of antitrust law (Bloomberg)",
+            "link": "http://www.techmeme.com/240823/p10#a240823p10",
+            "published": "Fri, 23 Aug 2024 11:05:01 -0400"
+        },
+        {
+            "title": "SEC filing: Oilfield-services company Halliburton says it has taken some systems offline after it discovered that an unauthorized party had gained access (Colin Kellaher/Wall Street Journal)",
+            "link": "http://www.techmeme.com/240823/p9#a240823p9",
+            "published": "Fri, 23 Aug 2024 10:25:15 -0400"
+        },
+        {
+            "title": "Starlink says satellite internet kits purchased in one of six regions and activated in another may be subjected to an \"outside region fee\" of up to $300 (Andrew Liszewski/The Verge)",
             "link": "http://www.techmeme.com/240823/p8#a240823p8",
             "published": "Fri, 23 Aug 2024 10:10:01 -0400"
         },
@@ -14,43 +24,33 @@
             "title": "A look at the fading dominance of Apple Podcasts, as a study of 603 weekly podcast consumers finds 31% use YouTube, followed by Spotify at 21%, and Apple at 12% (Ashley Carman/Bloomberg)",
             "link": "http://www.techmeme.com/240823/p6#a240823p6",
             "published": "Fri, 23 Aug 2024 07:25:00 -0400"
-        },
-        {
-            "title": "Sony Block Solutions Labs, a joint venture between Sony and Web3 developer Startale, launches Soneium, a Layer 2 blockchain for creators, developers, and more (Dean Takahashi/VentureBeat)",
-            "link": "http://www.techmeme.com/240823/p5#a240823p5",
-            "published": "Fri, 23 Aug 2024 06:35:05 -0400"
-        },
-        {
-            "title": "Chinese AI startups, cut off from the most powerful AI chips, are focusing on monetization, writing more efficient code for LLMs, and building smaller models (Wall Street Journal)",
-            "link": "http://www.techmeme.com/240823/p4#a240823p4",
-            "published": "Fri, 23 Aug 2024 06:20:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "U.S. Accuses RealPage of Enabling Collusion on Rents in Antitrust Suit",
+            "link": "https://www.nytimes.com/2024/08/23/business/economy/realpage-doj-antitrust-suit-rent.html",
+            "published": "Fri, 23 Aug 2024 15:00:29 +0000"
+        },
+        {
+            "title": "Nepal Lifts Ban on TikTok, in a Likely Overture to China",
+            "link": "https://www.nytimes.com/2024/08/22/world/asia/nepal-tiktok-china.html",
+            "published": "Fri, 23 Aug 2024 10:08:18 +0000"
+        },
         {
             "title": "JD Vance\u2019s \u2018Never Trump Guy\u2019 Comment Becomes a Viral TikTok Remix",
             "link": "https://www.nytimes.com/2024/08/22/business/jd-vance-never-trump-guy-tiktok.html",
             "published": "Thu, 22 Aug 2024 14:53:47 +0000"
         },
         {
-            "title": "Google Joins $250 Million Deal to Support Newsrooms in California",
-            "link": "https://www.nytimes.com/2024/08/21/business/google-california-news-funding.html",
-            "published": "Thu, 22 Aug 2024 02:20:52 +0000"
-        },
-        {
-            "title": "U.S. Investigating Americans Who Worked With Russian State Television",
-            "link": "https://www.nytimes.com/2024/08/21/technology/us-fbi-russia-election-disinformation.html",
-            "published": "Thu, 22 Aug 2024 01:11:29 +0000"
-        },
-        {
-            "title": "AI Companies Have Pitched US Political Campaigns. The Campaigns Are Wary.",
-            "link": "https://www.nytimes.com/2024/08/21/technology/ai-election-campaigns.html",
-            "published": "Wed, 21 Aug 2024 14:57:33 +0000"
-        },
-        {
             "title": "What Happened to the A.I. Election? + ChatGPT for Mayor + The Productivity Tools We\u2019re Using",
             "link": "https://www.nytimes.com/2024/08/23/podcasts/what-happened-to-the-ai-election-chatgpt-for-mayor-the-productivity-tools-were-using.html",
             "published": "Fri, 23 Aug 2024 09:04:31 +0000"
+        },
+        {
+            "title": "Crypto Lobbyist Charged With Breaking Campaign Finance Rules",
+            "link": "https://www.nytimes.com/2024/08/22/technology/ftx-crypto-campaign-finance.html",
+            "published": "Fri, 23 Aug 2024 01:40:19 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Mike Lynch: Tributes paid to 'UK's greatest tech entrepreneur'",
             "link": "https://www.bbc.com/news/articles/cdxl5kpvrg9o",
             "published": "Fri, 23 Aug 2024 12:42:44 GMT"
+        },
+        {
+            "title": "Yemen weapons dealers selling machine-guns on X",
+            "link": "https://www.bbc.com/news/articles/c86l4pl6072o",
+            "published": "Thu, 22 Aug 2024 20:01:20 GMT"
         },
         {
             "title": "Dad hacks database to fake death and avoid child support pay",
@@ -73,11 +78,6 @@
             "title": "Seven things we learned from Gamescom opening night",
             "link": "https://www.bbc.com/news/articles/cy8xjqg2e9jo",
             "published": "Wed, 21 Aug 2024 08:22:31 GMT"
-        },
-        {
-            "title": "Disney drops bid to stop allergy death lawsuit over Disney+ terms",
-            "link": "https://www.bbc.com/news/articles/cr7r9djxj0do",
-            "published": "Tue, 20 Aug 2024 18:41:17 GMT"
         }
     ]
 }
