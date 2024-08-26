@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Viggle, developer of 3D-video foundation model JST-1, raised a $19M Series A led by a16z; Viggle says the model is trained on public sources, including YouTube (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/240826/p22#a240826p22",
+            "published": "Mon, 26 Aug 2024 16:05:05 -0400"
+        },
+        {
+            "title": "Crypto platform Abra agrees to settle with the SEC over claims of unregistered securities; the SEC said the Abra Earn product had almost $500M from US investors (Jesse Hamilton/CoinDesk)",
+            "link": "http://www.techmeme.com/240826/p21#a240826p21",
+            "published": "Mon, 26 Aug 2024 15:45:03 -0400"
+        },
+        {
             "title": "French prosecutors: Pavel Durov's arrest is part of a probe \"against person unnamed\" into CSAM, drug sales, and more on the app and not working with authorities (New York Times)",
             "link": "http://www.techmeme.com/240826/p20#a240826p20",
             "published": "Mon, 26 Aug 2024 14:45:00 -0400"
@@ -14,23 +24,13 @@
             "title": "An overview of AI startups largely founded by former AI researchers from Google, including Reka, Ideogram, H, Inflection, and Character AI (The Information)",
             "link": "http://www.techmeme.com/240826/p18#a240826p18",
             "published": "Mon, 26 Aug 2024 13:05:01 -0400"
-        },
-        {
-            "title": "Inflection will cap free access to its AI chatbot Pi in the coming months and let users export their conversations as the startup focuses on enterprise products (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/240826/p17#a240826p17",
-            "published": "Mon, 26 Aug 2024 12:30:02 -0400"
-        },
-        {
-            "title": "Apple announces a September 9 event at Apple Park with the iPhone 16 lineup, new Apple Watch models, and AirPods 4 expected; the invitation says \"It's Glowtime\" (Juli Clover/MacRumors)",
-            "link": "http://www.techmeme.com/240826/p16#a240826p16",
-            "published": "Mon, 26 Aug 2024 12:13:30 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How Pavel Durov, Telegram\u2019s Founder, Went From Russia\u2019s Mark Zuckerberg to Wanted Man",
             "link": "https://www.nytimes.com/2024/08/26/technology/pavel-durov-telegram-founder.html",
-            "published": "Mon, 26 Aug 2024 19:05:34 +0000"
+            "published": "Mon, 26 Aug 2024 19:21:53 +0000"
         },
         {
             "title": "Arrest of Pavel Durov, Telegram Founder, Is Part of Broad Investigation in France",
@@ -45,7 +45,7 @@
         {
             "title": "Telegram Turmoil Threatens Dominant Chronicle of the War in Ukraine",
             "link": "https://www.nytimes.com/2024/08/26/world/europe/telegram-russia-ukraine-war.html",
-            "published": "Mon, 26 Aug 2024 19:05:38 +0000"
+            "published": "Mon, 26 Aug 2024 19:28:52 +0000"
         },
         {
             "title": "Uber Fined $324 Million by Dutch Watchdog Over Driver Data Protection",
