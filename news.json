@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "French prosecutors: Pavel Durov's arrest is part of a probe \"against person unnamed\" into CSAM, drug sales, and more on the app and not working with authorities (New York Times)",
+            "link": "http://www.techmeme.com/240826/p20#a240826p20",
+            "published": "Mon, 26 Aug 2024 14:45:00 -0400"
+        },
+        {
             "title": "OpenAI supports CA bill AB 3211 to require companies generating AI content to add watermarks; the bill passed in the state Assembly 62-0 and heads to Senate (Anna Tong/Reuters)",
             "link": "http://www.techmeme.com/240826/p19#a240826p19",
             "published": "Mon, 26 Aug 2024 13:30:02 -0400"
@@ -19,23 +24,18 @@
             "title": "Apple announces a September 9 event at Apple Park with the iPhone 16 lineup, new Apple Watch models, and AirPods 4 expected; the invitation says \"It's Glowtime\" (Juli Clover/MacRumors)",
             "link": "http://www.techmeme.com/240826/p16#a240826p16",
             "published": "Mon, 26 Aug 2024 12:13:30 -0400"
-        },
-        {
-            "title": "French President Emmanuel Macron says the government was not involved in the arrest of Telegram CEO Pavel Durov and \"this is in no way a political decision\" (Victor Goury-Laffont/Politico)",
-            "link": "http://www.techmeme.com/240826/p15#a240826p15",
-            "published": "Mon, 26 Aug 2024 10:40:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "How Pavel Durov, Telegram\u2019s Founder, Went From Russia\u2019s Mark Zuckerberg to Wanted Man",
+            "link": "https://www.nytimes.com/2024/08/26/technology/pavel-durov-telegram-founder.html",
+            "published": "Mon, 26 Aug 2024 19:05:34 +0000"
+        },
+        {
             "title": "Arrest of Pavel Durov, Telegram Founder, Is Part of Broad Investigation in France",
             "link": "https://www.nytimes.com/2024/08/26/business/telegram-founder-arrest-france.html",
             "published": "Mon, 26 Aug 2024 18:27:26 +0000"
-        },
-        {
-            "title": "Arrest of Telegram\u2019s Pavel Durov Becomes Free Speech Flashpoint",
-            "link": "https://www.nytimes.com/2024/08/25/technology/pavel-durov-telegram-detained-france.html",
-            "published": "Mon, 26 Aug 2024 16:16:05 +0000"
         },
         {
             "title": "Will A.I. Ruin the Planet or Save the Planet?",
@@ -43,9 +43,9 @@
             "published": "Mon, 26 Aug 2024 09:00:40 +0000"
         },
         {
-            "title": "Inside Elon Musk\u2019s Chaotic Revamp of Twitter Blue",
-            "link": "https://www.nytimes.com/2024/08/24/technology/elon-musk-twitter-blue.html",
-            "published": "Sat, 24 Aug 2024 09:01:13 +0000"
+            "title": "Telegram Turmoil Threatens Dominant Chronicle of the War in Ukraine",
+            "link": "https://www.nytimes.com/2024/08/26/world/europe/telegram-russia-ukraine-war.html",
+            "published": "Mon, 26 Aug 2024 19:05:38 +0000"
         },
         {
             "title": "Uber Fined $324 Million by Dutch Watchdog Over Driver Data Protection",
