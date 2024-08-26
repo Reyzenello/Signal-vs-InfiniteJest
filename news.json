@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Ikea launches Ikea Preowned, an online marketplace for customers to sell secondhand furniture to each other, testing in Madrid and Oslo until the end of 2024 (Richard Milne/Financial Times)",
+            "link": "http://www.techmeme.com/240826/p13#a240826p13",
+            "published": "Mon, 26 Aug 2024 08:40:01 -0400"
+        },
+        {
+            "title": "Chinese-made, Tencent-backed game Black Myth: Wukong sold 10M copies in just 83 hours, one of the fastest game debuts in history, earning an estimated $450M+ (Bloomberg)",
+            "link": "http://www.techmeme.com/240826/p12#a240826p12",
+            "published": "Mon, 26 Aug 2024 07:55:01 -0400"
+        },
+        {
+            "title": "Current and former Nvidia staff say that, despite a 3,776% stock jump since 2019, minting many millionaires, the work hours are still grueling and high-stress (Bloomberg)",
+            "link": "http://www.techmeme.com/240826/p11#a240826p11",
+            "published": "Mon, 26 Aug 2024 07:40:16 -0400"
+        },
+        {
+            "title": "US-listed PDD, which runs Temu and Pinduoduo, reports Q2 revenue up 86% YoY to ~$13.6B, below ~$14B est., and net income up 144% YoY to ~$4.5B, vs. $3.8B est. (Bloomberg)",
+            "link": "http://www.techmeme.com/240826/p10#a240826p10",
+            "published": "Mon, 26 Aug 2024 07:20:02 -0400"
+        },
+        {
             "title": "Chicago-based G Squared raised $1.1B for a fund to buy secondary startup shares; G Squared bought ~$135M in Anthropic shares from FTX during its bankruptcy (Ivan Levingston/Financial Times)",
             "link": "http://www.techmeme.com/240826/p9#a240826p9",
             "published": "Mon, 26 Aug 2024 07:10:01 -0400"
-        },
-        {
-            "title": "Analysis: Elon Musk posted ~13,000 times on X in 2024 to July, or 61 posts per day, almost as much as in all of 2023, as he shifts to posting about politics (Wall Street Journal)",
-            "link": "http://www.techmeme.com/240826/p8#a240826p8",
-            "published": "Mon, 26 Aug 2024 06:45:01 -0400"
-        },
-        {
-            "title": "The Dutch Data Protection Authority fines Uber a record &euro;290M for failing to abide by European protection standards when sending sensitive driver data to the US (Sarah Jacob/Bloomberg)",
-            "link": "http://www.techmeme.com/240826/p7#a240826p7",
-            "published": "Mon, 26 Aug 2024 06:10:13 -0400"
-        },
-        {
-            "title": "Sources: IBM shuts its China R&D department, affecting 1,000+ employees, and plans to move some R&D functions overseas, the latest company to retreat from China (Raffaele Huang/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240826/p6#a240826p6",
-            "published": "Mon, 26 Aug 2024 05:50:05 -0400"
-        },
-        {
-            "title": "A look at the aftermath of the FCC ending the Affordable Connectivity Program for ~23M US households in May 2024; Spectrum says it lost 154K customers in Q2 (Joe Supan/CNET)",
-            "link": "http://www.techmeme.com/240826/p5#a240826p5",
-            "published": "Mon, 26 Aug 2024 04:20:02 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "SpaceX Polaris Dawn Mission: Why a Billionaire Is Risking a Spacewalk",
             "link": "https://www.nytimes.com/2024/08/26/science/spacex-polaris-dawn-mission-spacewalk.html",
-            "published": "Mon, 26 Aug 2024 06:58:12 +0000"
+            "published": "Mon, 26 Aug 2024 11:45:35 +0000"
         }
     ],
     "source_2": [
@@ -65,6 +65,11 @@
             "published": "Mon, 26 Aug 2024 10:55:12 GMT"
         },
         {
+            "title": "Uber fined \u20ac290m for personal data transfer",
+            "link": "https://www.bbc.com/news/articles/cy76v561g48o",
+            "published": "Mon, 26 Aug 2024 09:52:08 GMT"
+        },
+        {
             "title": "Australians get 'right to disconnect' after hours",
             "link": "https://www.bbc.com/news/articles/c5y32g7203vo",
             "published": "Mon, 26 Aug 2024 03:54:04 GMT"
@@ -73,11 +78,6 @@
             "title": "Should you have to pay for online privacy?",
             "link": "https://www.bbc.com/news/articles/c93599ejdeno",
             "published": "Fri, 23 Aug 2024 21:10:15 GMT"
-        },
-        {
-            "title": "Mike Lynch: Tributes paid to 'UK's greatest tech entrepreneur'",
-            "link": "https://www.bbc.com/news/articles/cdxl5kpvrg9o",
-            "published": "Fri, 23 Aug 2024 12:42:44 GMT"
         }
     ]
 }
