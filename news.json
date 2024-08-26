@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Apple announces CFO Luca Maestri will transition from his role on January 1, 2025; Kevan Parekh, Apple's VP of Financial Planning and Analysis, will become CFO (Apple)",
+            "link": "http://www.techmeme.com/240826/p24#a240826p24",
+            "published": "Mon, 26 Aug 2024 16:45:05 -0400"
+        },
+        {
+            "title": "Anthropic publishes a changelog for the system prompts of its Sonnet, Opus, and Haiku models, the first major AI vendor to do so (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240826/p23#a240826p23",
+            "published": "Mon, 26 Aug 2024 16:30:05 -0400"
+        },
+        {
             "title": "Viggle, developer of 3D-video foundation model JST-1, raised a $19M Series A led by a16z; Viggle says the model is trained on public sources, including YouTube (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/240826/p22#a240826p22",
             "published": "Mon, 26 Aug 2024 16:05:05 -0400"
@@ -14,23 +24,13 @@
             "title": "French prosecutors: Pavel Durov's arrest is part of a probe \"against person unnamed\" into CSAM, drug sales, and more on the app and not working with authorities (New York Times)",
             "link": "http://www.techmeme.com/240826/p20#a240826p20",
             "published": "Mon, 26 Aug 2024 14:45:00 -0400"
-        },
-        {
-            "title": "OpenAI supports CA bill AB 3211 to require companies generating AI content to add watermarks; the bill passed in the state Assembly 62-0 and heads to Senate (Anna Tong/Reuters)",
-            "link": "http://www.techmeme.com/240826/p19#a240826p19",
-            "published": "Mon, 26 Aug 2024 13:30:02 -0400"
-        },
-        {
-            "title": "An overview of AI startups largely founded by former AI researchers from Google, including Reka, Ideogram, H, Inflection, and Character AI (The Information)",
-            "link": "http://www.techmeme.com/240826/p18#a240826p18",
-            "published": "Mon, 26 Aug 2024 13:05:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How Pavel Durov, Telegram\u2019s Founder, Went From Russia\u2019s Mark Zuckerberg to Wanted Man",
             "link": "https://www.nytimes.com/2024/08/26/technology/pavel-durov-telegram-founder.html",
-            "published": "Mon, 26 Aug 2024 19:21:53 +0000"
+            "published": "Mon, 26 Aug 2024 21:14:38 +0000"
         },
         {
             "title": "Arrest of Pavel Durov, Telegram Founder, Is Part of Broad Investigation in France",
@@ -45,7 +45,7 @@
         {
             "title": "Telegram Turmoil Threatens Dominant Chronicle of the War in Ukraine",
             "link": "https://www.nytimes.com/2024/08/26/world/europe/telegram-russia-ukraine-war.html",
-            "published": "Mon, 26 Aug 2024 19:28:52 +0000"
+            "published": "Mon, 26 Aug 2024 20:32:46 +0000"
         },
         {
             "title": "Uber Fined $324 Million by Dutch Watchdog Over Driver Data Protection",
