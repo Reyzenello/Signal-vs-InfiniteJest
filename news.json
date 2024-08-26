@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Chicago-based G Squared raised $1.1B for a fund to buy secondary startup shares; G Squared bought ~$135M in Anthropic shares from FTX during its bankruptcy (Ivan Levingston/Financial Times)",
+            "link": "http://www.techmeme.com/240826/p9#a240826p9",
+            "published": "Mon, 26 Aug 2024 07:10:01 -0400"
+        },
+        {
+            "title": "Analysis: Elon Musk posted ~13,000 times on X in 2024 to July, or 61 posts per day, almost as much as in all of 2023, as he shifts to posting about politics (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240826/p8#a240826p8",
+            "published": "Mon, 26 Aug 2024 06:45:01 -0400"
+        },
+        {
             "title": "The Dutch Data Protection Authority fines Uber a record &euro;290M for failing to abide by European protection standards when sending sensitive driver data to the US (Sarah Jacob/Bloomberg)",
             "link": "http://www.techmeme.com/240826/p7#a240826p7",
             "published": "Mon, 26 Aug 2024 06:10:13 -0400"
@@ -14,16 +24,6 @@
             "title": "A look at the aftermath of the FCC ending the Affordable Connectivity Program for ~23M US households in May 2024; Spectrum says it lost 154K customers in Q2 (Joe Supan/CNET)",
             "link": "http://www.techmeme.com/240826/p5#a240826p5",
             "published": "Mon, 26 Aug 2024 04:20:02 -0400"
-        },
-        {
-            "title": "How some Chinese AI companies use brokers to access GPUs despite US sanctions, sometimes using cryptocurrency smart contracts to anonymously process orders (Raffaele Huang/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240826/p4#a240826p4",
-            "published": "Mon, 26 Aug 2024 02:25:04 -0400"
-        },
-        {
-            "title": "Chinese tech giants splurge on AI infrastructure, doubling their 2024 capex; Alibaba, Tencent, and Baidu had a combined capex of ~$7B in H1 2024, up 50%+ YoY (Financial Times)",
-            "link": "http://www.techmeme.com/240826/p3#a240826p3",
-            "published": "Mon, 26 Aug 2024 01:05:08 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Mon, 26 Aug 2024 10:07:12 GMT"
         },
         {
+            "title": "Who is Pavel Durov and what is Telegram?",
+            "link": "https://www.bbc.com/news/articles/cx2x5yw8z7yo",
+            "published": "Mon, 26 Aug 2024 10:55:12 GMT"
+        },
+        {
             "title": "Australians get 'right to disconnect' after hours",
             "link": "https://www.bbc.com/news/articles/c5y32g7203vo",
             "published": "Mon, 26 Aug 2024 03:54:04 GMT"
@@ -73,11 +78,6 @@
             "title": "Mike Lynch: Tributes paid to 'UK's greatest tech entrepreneur'",
             "link": "https://www.bbc.com/news/articles/cdxl5kpvrg9o",
             "published": "Fri, 23 Aug 2024 12:42:44 GMT"
-        },
-        {
-            "title": "Yemen weapons dealers selling machine-guns on X",
-            "link": "https://www.bbc.com/news/articles/c86l4pl6072o",
-            "published": "Thu, 22 Aug 2024 20:01:20 GMT"
         }
     ]
 }
