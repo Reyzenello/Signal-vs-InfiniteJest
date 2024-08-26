@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "An overview of AI startups largely founded by former AI researchers from Google, including Reka, Ideogram, H, Inflection, and Character AI (The Information)",
+            "link": "http://www.techmeme.com/240826/p18#a240826p18",
+            "published": "Mon, 26 Aug 2024 13:05:01 -0400"
+        },
+        {
+            "title": "Inflection will cap free access to its AI chatbot Pi in the coming months and let users export their conversations as the startup focuses on enterprise products (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/240826/p17#a240826p17",
+            "published": "Mon, 26 Aug 2024 12:30:02 -0400"
+        },
+        {
             "title": "Apple announces a September 9 event at Apple Park with the iPhone 16 lineup, new Apple Watch models, and AirPods 4 expected; the invitation says \"It's Glowtime\" (Juli Clover/MacRumors)",
             "link": "http://www.techmeme.com/240826/p16#a240826p16",
             "published": "Mon, 26 Aug 2024 12:13:30 -0400"
@@ -14,43 +24,33 @@
             "title": "French agency OFMIN, established in 2023 to prevent violence against minors, issued the arrest warrant for Pavel Durov, who is a citizen of France and the UAE (Gaspard Sebag/Bloomberg)",
             "link": "http://www.techmeme.com/240826/p14#a240826p14",
             "published": "Mon, 26 Aug 2024 08:50:14 -0400"
-        },
-        {
-            "title": "Ikea launches Ikea Preowned, an online marketplace for customers to sell secondhand furniture to each other, testing in Madrid and Oslo until the end of 2024 (Richard Milne/Financial Times)",
-            "link": "http://www.techmeme.com/240826/p13#a240826p13",
-            "published": "Mon, 26 Aug 2024 08:40:01 -0400"
-        },
-        {
-            "title": "Chinese-made, Tencent-backed game Black Myth: Wukong sold 10M copies in just 83 hours, one of the fastest game debuts in history, earning an estimated $450M+ (Bloomberg)",
-            "link": "http://www.techmeme.com/240826/p12#a240826p12",
-            "published": "Mon, 26 Aug 2024 07:55:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Arrest of Pavel Durov, Telegram Founder, Part of Broad Investigation in France",
+            "link": "https://www.nytimes.com/2024/08/26/business/telegram-founder-arrest-france.html",
+            "published": "Mon, 26 Aug 2024 16:25:42 +0000"
+        },
+        {
+            "title": "Arrest of Telegram\u2019s Pavel Durov Becomes Free Speech Flashpoint",
+            "link": "https://www.nytimes.com/2024/08/25/technology/pavel-durov-telegram-detained-france.html",
+            "published": "Mon, 26 Aug 2024 16:16:05 +0000"
+        },
+        {
+            "title": "Will A.I. Ruin the Planet or Save the Planet?",
+            "link": "https://www.nytimes.com/2024/08/26/climate/ai-planet-climate-change.html",
+            "published": "Mon, 26 Aug 2024 09:00:40 +0000"
+        },
         {
             "title": "Inside Elon Musk\u2019s Chaotic Revamp of Twitter Blue",
             "link": "https://www.nytimes.com/2024/08/24/technology/elon-musk-twitter-blue.html",
             "published": "Sat, 24 Aug 2024 09:01:13 +0000"
         },
         {
-            "title": "Elon Musk\u2019s X Is Leaving San Francisco. City Officials Say \u2018Good Riddance.\u2019",
-            "link": "https://www.nytimes.com/2024/08/24/technology/elon-musk-x-san-francisco.html",
-            "published": "Sat, 24 Aug 2024 09:02:40 +0000"
-        },
-        {
-            "title": "U.S. Accuses RealPage of Enabling Collusion on Rents in Antitrust Suit",
-            "link": "https://www.nytimes.com/2024/08/23/business/economy/realpage-doj-antitrust-suit-rent.html",
-            "published": "Fri, 23 Aug 2024 16:46:28 +0000"
-        },
-        {
-            "title": "What Happened to the A.I. Election? + ChatGPT for Mayor + The Productivity Tools We\u2019re Using",
-            "link": "https://www.nytimes.com/2024/08/23/podcasts/what-happened-to-the-ai-election-chatgpt-for-mayor-the-productivity-tools-were-using.html",
-            "published": "Fri, 23 Aug 2024 09:04:31 +0000"
-        },
-        {
             "title": "Uber Fined $324 Million by Dutch Watchdog Over Driver Data Protection",
             "link": "https://www.nytimes.com/2024/08/26/business/uber-netherlands-fine-driver-data.html",
-            "published": "Mon, 26 Aug 2024 16:02:08 +0000"
+            "published": "Mon, 26 Aug 2024 17:02:26 +0000"
         }
     ],
     "source_2": [
