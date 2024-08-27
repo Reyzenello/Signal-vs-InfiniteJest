@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: China-linked hackers recently penetrated deep into two big US ISPs and several smaller ones, using a 0-day flaw in Versa Networks software (Joseph Menn/Washington Post)",
+            "link": "http://www.techmeme.com/240827/p14#a240827p14",
+            "published": "Tue, 27 Aug 2024 11:23:27 -0400"
+        },
+        {
+            "title": "Source: OpenAI showed a breakthrough called Strawberry to US natsec officials this summer; one of its top uses is to make training data for a new frontier model (Stephanie Palazzolo/The Information)",
+            "link": "http://www.techmeme.com/240827/p13#a240827p13",
+            "published": "Tue, 27 Aug 2024 10:25:01 -0400"
+        },
+        {
             "title": "nOps, which helps companies optimize AWS spend, raised a $30M Series A led by Headlight Partners and says its customer base grew 450% over the past 18 months (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/240827/p12#a240827p12",
             "published": "Tue, 27 Aug 2024 10:18:00 -0400"
@@ -11,19 +21,9 @@
             "published": "Tue, 27 Aug 2024 08:15:02 -0400"
         },
         {
-            "title": "Klarna reports H1 2024 revenue up 27% YoY to ~$1.3B, a ~$66M adjusted profit, up from a ~$44M loss in H1 2023, and says AI does the job of 700 employees (Aisha S Gani/Bloomberg)",
+            "title": "Klarna reports H1 2024 revenue up 27% YoY to ~$1.3B, a ~$66M adjusted profit, up from a ~$44M adjusted loss in H1 2023, and says AI does the work of 700 staff (Aisha S Gani/Bloomberg)",
             "link": "http://www.techmeme.com/240827/p10#a240827p10",
             "published": "Tue, 27 Aug 2024 07:10:01 -0400"
-        },
-        {
-            "title": "South Dublin County Council rejects Google's plan to build a 72,400 square meter data center just outside Dublin for failing to meet sustainability requirements (Olivia Fletcher/Bloomberg)",
-            "link": "http://www.techmeme.com/240827/p9#a240827p9",
-            "published": "Tue, 27 Aug 2024 06:55:19 -0400"
-        },
-        {
-            "title": "Samsung plans to offer seven years of free Tizen OS updates for its AI-powered TVs, available to TVs from March 2024 and some 2023 models (Kim Eun-jin/Businesskorea)",
-            "link": "http://www.techmeme.com/240827/p8#a240827p8",
-            "published": "Tue, 27 Aug 2024 06:45:02 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Mon, 26 Aug 2024 09:00:40 +0000"
         },
         {
+            "title": "The Crypto Industry Loudly Defends Telegram\u2019s Pavel Durov",
+            "link": "https://www.nytimes.com/2024/08/27/technology/telegram-crypto-industry-defender.html",
+            "published": "Tue, 27 Aug 2024 15:22:13 +0000"
+        },
+        {
             "title": "Tesla Chargers Are Still Closed to Most Electric Cars",
             "link": "https://www.nytimes.com/2024/08/27/business/energy-environment/tesla-electric-vehicle-charging.html",
             "published": "Tue, 27 Aug 2024 09:04:32 +0000"
-        },
-        {
-            "title": "Telegram Turmoil Threatens Chronicle of Russia\u2019s War in Ukraine",
-            "link": "https://www.nytimes.com/2024/08/26/world/europe/telegram-russia-ukraine-war.html",
-            "published": "Tue, 27 Aug 2024 03:36:43 +0000"
         }
     ],
     "source_2": [
