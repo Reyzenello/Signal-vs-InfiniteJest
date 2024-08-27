@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Steam hit 37M+ concurrent users on August 25 for the first time, up from the previous record of nearly 33.7M in January 2024, after Black Myth: Wukong's release (Andy Chalk/PC Gamer)",
+            "link": "http://www.techmeme.com/240827/p7#a240827p7",
+            "published": "Tue, 27 Aug 2024 06:20:13 -0400"
+        },
+        {
+            "title": "In France, Telegram is avidly used within political and media circles, including by President Emmanuel Macron, who has used the app for nearly a decade (Politico)",
+            "link": "http://www.techmeme.com/240827/p6#a240827p6",
+            "published": "Tue, 27 Aug 2024 06:00:31 -0400"
+        },
+        {
+            "title": "China's curbs on shipments of germanium and gallium, which are used to make chips, have led to an almost 2x increase in prices in Europe over the past year (Financial Times)",
+            "link": "http://www.techmeme.com/240827/p5#a240827p5",
+            "published": "Tue, 27 Aug 2024 05:45:01 -0400"
+        },
+        {
             "title": "A profile of Pavel Durov, a devout techno-optimist who trolled authorities online, started social network VKontakte in 2006, and left Russia in 2014 for Dubai (New York Times)",
             "link": "http://www.techmeme.com/240827/p4#a240827p4",
             "published": "Tue, 27 Aug 2024 05:20:10 -0400"
@@ -9,21 +24,6 @@
             "title": "Sony raises the PlayStation 5's price in Japan by 19% to ~$550, citing \"the severe external environment, including recent global economic fluctuations\" (Takashi Mochizuki/Bloomberg)",
             "link": "http://www.techmeme.com/240827/p3#a240827p3",
             "published": "Tue, 27 Aug 2024 05:00:50 -0400"
-        },
-        {
-            "title": "A look at \"Terrorgram\", a network of far-right Telegram channels posting info on power grid attacks, which the North American Reliability Corp. says have spiked (Jeff Stone/Bloomberg)",
-            "link": "http://www.techmeme.com/240827/p2#a240827p2",
-            "published": "Tue, 27 Aug 2024 03:50:03 -0400"
-        },
-        {
-            "title": "Android 14 downgrade OTA release notes confirm Google has delayed the Android 15 roll out to Pixel devices from September to October, possibly around October 15 (Mishaal Rahman/Android Authority)",
-            "link": "http://www.techmeme.com/240827/p1#a240827p1",
-            "published": "Tue, 27 Aug 2024 00:50:05 -0400"
-        },
-        {
-            "title": "A US district judge orders Missouri's AG to halt his probe into Media Matters' November 2023 report on X ads, after a similar order against Texas' AG in April (Jon Brodkin/Ars Technica)",
-            "link": "http://www.techmeme.com/240826/p31#a240826p31",
-            "published": "Mon, 26 Aug 2024 22:25:05 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Zuckerberg regrets bowing to Biden 'pressure' over Covid",
+            "link": "https://www.bbc.com/news/articles/czxlpjlgdzjo",
+            "published": "Tue, 27 Aug 2024 09:52:08 GMT"
+        },
+        {
             "title": "Canada hits China-made electric cars with 100% tariff",
             "link": "https://www.bbc.com/news/articles/cm2n091v4m5o",
             "published": "Tue, 27 Aug 2024 06:59:56 GMT"
@@ -73,11 +78,6 @@
             "title": "Uber fined \u20ac290m for personal data transfer",
             "link": "https://www.bbc.com/news/articles/cy76v561g48o",
             "published": "Mon, 26 Aug 2024 09:52:08 GMT"
-        },
-        {
-            "title": "Australians get 'right to disconnect' after hours",
-            "link": "https://www.bbc.com/news/articles/c5y32g7203vo",
-            "published": "Mon, 26 Aug 2024 03:54:04 GMT"
         }
     ]
 }
