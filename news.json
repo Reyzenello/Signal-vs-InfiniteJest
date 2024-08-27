@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Sources: China-linked hackers recently penetrated deep into two big US ISPs and several smaller ones, using a 0-day flaw in Versa Networks software (Joseph Menn/Washington Post)",
+            "title": "Instagram now lets users add text to photos right from its post editor, rather than needing a separate app, and add more photos as stickers on top of a photo (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/240827/p17#a240827p17",
+            "published": "Tue, 27 Aug 2024 12:15:13 -0400"
+        },
+        {
+            "title": "Meta says it will shut down Meta Spark, its third-party AR tools and content platform that launched in 2017, effective January 14, 2025, angering some creators (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/240827/p16#a240827p16",
+            "published": "Tue, 27 Aug 2024 12:05:02 -0400"
+        },
+        {
+            "title": "Snap rolls out a native Snapchat app for iPadOS, 13 years after launching on iOS; the app can only run in portrait mode (Filipe Esp&oacute;sito/9to5Mac)",
+            "link": "http://www.techmeme.com/240827/p15#a240827p15",
+            "published": "Tue, 27 Aug 2024 11:58:28 -0400"
+        },
+        {
+            "title": "Sources: China-linked hackers penetrated deep into two big US ISPs and several smaller ones in recent months, using a zero-day flaw in Versa Networks software (Joseph Menn/Washington Post)",
             "link": "http://www.techmeme.com/240827/p14#a240827p14",
             "published": "Tue, 27 Aug 2024 11:23:27 -0400"
         },
         {
-            "title": "Source: OpenAI showed a breakthrough called Strawberry to US natsec officials this summer; one of its top uses is to make training data for a new frontier model (Stephanie Palazzolo/The Information)",
+            "title": "Source: OpenAI demoed a breakthrough called Strawberry to US natsec officials; one of its top uses is to make training data for a flagship LLM codenamed Orion (Stephanie Palazzolo/The Information)",
             "link": "http://www.techmeme.com/240827/p13#a240827p13",
             "published": "Tue, 27 Aug 2024 10:25:01 -0400"
-        },
-        {
-            "title": "nOps, which helps companies optimize AWS spend, raised a $30M Series A led by Headlight Partners and says its customer base grew 450% over the past 18 months (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240827/p12#a240827p12",
-            "published": "Tue, 27 Aug 2024 10:18:00 -0400"
-        },
-        {
-            "title": "Data infrastructure startup Cribl raised $200M led by GV, alongside a $119M secondary offering, at a $3.5B valuation, taking its total funding to $600M (Katie Roof/Bloomberg)",
-            "link": "http://www.techmeme.com/240827/p11#a240827p11",
-            "published": "Tue, 27 Aug 2024 08:15:02 -0400"
-        },
-        {
-            "title": "Klarna reports H1 2024 revenue up 27% YoY to ~$1.3B, a ~$66M adjusted profit, up from a ~$44M adjusted loss in H1 2023, and says AI does the work of 700 staff (Aisha S Gani/Bloomberg)",
-            "link": "http://www.techmeme.com/240827/p10#a240827p10",
-            "published": "Tue, 27 Aug 2024 07:10:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "The Crypto Industry Loudly Defends Telegram\u2019s Pavel Durov",
+            "link": "https://www.nytimes.com/2024/08/27/technology/telegram-crypto-industry-defender.html",
+            "published": "Tue, 27 Aug 2024 15:22:14 +0000"
+        },
         {
             "title": "How Pavel Durov, Telegram\u2019s Founder, Went From Russia\u2019s Mark Zuckerberg to Wanted Man",
             "link": "https://www.nytimes.com/2024/08/26/technology/pavel-durov-telegram-founder.html",
@@ -38,19 +43,14 @@
             "published": "Mon, 26 Aug 2024 18:27:27 +0000"
         },
         {
-            "title": "Will A.I. Ruin the Planet or Save the Planet?",
-            "link": "https://www.nytimes.com/2024/08/26/climate/ai-planet-climate-change.html",
-            "published": "Mon, 26 Aug 2024 09:00:40 +0000"
-        },
-        {
-            "title": "The Crypto Industry Loudly Defends Telegram\u2019s Pavel Durov",
-            "link": "https://www.nytimes.com/2024/08/27/technology/telegram-crypto-industry-defender.html",
-            "published": "Tue, 27 Aug 2024 15:22:13 +0000"
-        },
-        {
             "title": "Tesla Chargers Are Still Closed to Most Electric Cars",
             "link": "https://www.nytimes.com/2024/08/27/business/energy-environment/tesla-electric-vehicle-charging.html",
             "published": "Tue, 27 Aug 2024 09:04:32 +0000"
+        },
+        {
+            "title": "Telegram Turmoil Threatens Chronicle of Russia\u2019s War in Ukraine",
+            "link": "https://www.nytimes.com/2024/08/26/world/europe/telegram-russia-ukraine-war.html",
+            "published": "Tue, 27 Aug 2024 03:36:43 +0000"
         }
     ],
     "source_2": [
