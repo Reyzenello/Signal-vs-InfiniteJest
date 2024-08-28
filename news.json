@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Yelp sues Google, alleging Google used its dominance in general search to gain an unfair advantage in local search services and local search advertising markets (Nico Grant/New York Times)",
+            "link": "http://www.techmeme.com/240828/p32#a240828p32",
+            "published": "Wed, 28 Aug 2024 18:45:06 -0400"
+        },
+        {
+            "title": "Threads now lets users see and like fediverse replies on other posts besides their own, and posts submitted via Threads API will be syndicated to the fediverse (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/240828/p31#a240828p31",
+            "published": "Wed, 28 Aug 2024 18:30:01 -0400"
+        },
+        {
             "title": "Affirm reports Q4 revenue up 48% YoY to $659.2M, vs. $604M est., and says it expects to generate an operating profit by Q4 2025; AFRM jumps 14%+ after hours (Ciara Linnane/MarketWatch)",
             "link": "http://www.techmeme.com/240828/p30#a240828p30",
             "published": "Wed, 28 Aug 2024 17:50:06 -0400"
@@ -14,23 +24,13 @@
             "title": "HP reports Q3 revenue up 2.4% YoY to $13.5B, vs. $13.4B est., Printing revenue down 3% to $4.14B, and increases its share repurchase authorization to $10B (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/240828/p28#a240828p28",
             "published": "Wed, 28 Aug 2024 16:55:01 -0400"
-        },
-        {
-            "title": "Nvidia reports Q2 revenue up 122% YoY to $30B, vs. $28.7B est., forecasts Q3 revenue above est., and says it approved an additional $50B in share buybacks (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/240828/p27#a240828p27",
-            "published": "Wed, 28 Aug 2024 16:34:28 -0400"
-        },
-        {
-            "title": "Salesforce reports Q2 revenue up 8% YoY to $9.33B, vs. $9.23B est., net income of $1.43B, compared to $1.27B a year ago, and says CFO Amy Weaver will step down (Larry Dignan/Constellation Research)",
-            "link": "http://www.techmeme.com/240828/p26#a240828p26",
-            "published": "Wed, 28 Aug 2024 16:30:03 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Telegram CEO Pavel Durov Charged With Wide Range of Crimes in France",
             "link": "https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html",
-            "published": "Wed, 28 Aug 2024 20:26:42 +0000"
+            "published": "Wed, 28 Aug 2024 22:32:44 +0000"
         },
         {
             "title": "Can Tech Executives Be Held Responsible for What Happens on Their Platforms?",
@@ -45,15 +45,25 @@
         {
             "title": "Google Sued by Yelp in Antitrust Case",
             "link": "https://www.nytimes.com/2024/08/28/technology/google-yelp-lawsuit.html",
-            "published": "Wed, 28 Aug 2024 20:55:43 +0000"
+            "published": "Wed, 28 Aug 2024 22:48:51 +0000"
         },
         {
-            "title": "Google Says It Fixed Its A.I. Image Generator",
-            "link": "https://www.nytimes.com/2024/08/28/technology/google-gemini-ai-image-generator.html",
-            "published": "Wed, 28 Aug 2024 18:08:14 +0000"
+            "title": "California Legislature Approves A.I. Safety Bill",
+            "link": "https://www.nytimes.com/2024/08/28/technology/california-ai-safety-bill.html",
+            "published": "Wed, 28 Aug 2024 22:56:41 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Telegram boss banned from leaving France in criminal probe",
+            "link": "https://www.bbc.com/news/articles/c985ppy0znyo",
+            "published": "Wed, 28 Aug 2024 22:32:52 GMT"
+        },
+        {
+            "title": "Are AI-created recipes hard to swallow?",
+            "link": "https://www.bbc.com/news/articles/cl7y71krnjvo",
+            "published": "Wed, 28 Aug 2024 23:11:55 GMT"
+        },
         {
             "title": "Klarna: AI lets us cut thousands of jobs - but pay more",
             "link": "https://www.bbc.com/news/articles/c80e1gp9m9zo",
@@ -68,16 +78,6 @@
             "title": "Man posing as teen YouTuber jailed for global sextortion",
             "link": "https://www.bbc.com/news/articles/cp35z4z08qvo",
             "published": "Wed, 28 Aug 2024 02:11:20 GMT"
-        },
-        {
-            "title": "Who is Pavel Durov and what is Telegram?",
-            "link": "https://www.bbc.com/news/articles/cx2x5yw8z7yo",
-            "published": "Tue, 27 Aug 2024 08:00:26 GMT"
-        },
-        {
-            "title": "Can Barbie help beat teen smartphone addiction?",
-            "link": "https://www.bbc.com/news/articles/cx2x52y0wv4o",
-            "published": "Tue, 27 Aug 2024 23:04:25 GMT"
         }
     ]
 }
