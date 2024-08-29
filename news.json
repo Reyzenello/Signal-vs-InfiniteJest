@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Jensen Huang says Nvidia's new Blackwell chips will have \"lots and lots of supply\", and the company expects billions of dollars in revenue from the chips in Q4 (Bloomberg)",
+            "link": "http://www.techmeme.com/240828/p35#a240828p35",
+            "published": "Wed, 28 Aug 2024 20:35:01 -0400"
+        },
+        {
+            "title": "Nvidia shares fall ~7% after hours, after the company failed to top the highest expectations and reported gross margin of 75.1%, vs. 75.5% est. (Financial Times)",
+            "link": "http://www.techmeme.com/240828/p34#a240828p34",
+            "published": "Wed, 28 Aug 2024 20:20:00 -0400"
+        },
+        {
+            "title": "California's State Assembly passes the AI safety bill SB 1047, which now goes back to the Senate for a process vote before requiring Governor Newsom's signature (Anna Tong/Reuters)",
+            "link": "http://www.techmeme.com/240828/p33#a240828p33",
+            "published": "Wed, 28 Aug 2024 19:30:01 -0400"
+        },
+        {
             "title": "Yelp sues Google, alleging Google used its dominance in general search to gain an unfair advantage in local search services and local search advertising markets (Nico Grant/New York Times)",
             "link": "http://www.techmeme.com/240828/p32#a240828p32",
             "published": "Wed, 28 Aug 2024 18:45:06 -0400"
@@ -9,28 +24,13 @@
             "title": "Threads now lets users see and like fediverse replies on other posts besides their own, and posts submitted via Threads API will be syndicated to the fediverse (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/240828/p31#a240828p31",
             "published": "Wed, 28 Aug 2024 18:30:01 -0400"
-        },
-        {
-            "title": "Affirm reports Q4 revenue up 48% YoY to $659.2M, vs. $604M est., and says it expects to generate an operating profit by Q4 2025; AFRM jumps 14%+ after hours (Ciara Linnane/MarketWatch)",
-            "link": "http://www.techmeme.com/240828/p30#a240828p30",
-            "published": "Wed, 28 Aug 2024 17:50:06 -0400"
-        },
-        {
-            "title": "CrowdStrike reports Q2 revenue up 32% YoY to $963.9M, vs. $958.6M est., and cuts its FY 2025 revenue and profit forecasts, after last month's Windows outage (Jaspreet Singh/Reuters)",
-            "link": "http://www.techmeme.com/240828/p29#a240828p29",
-            "published": "Wed, 28 Aug 2024 17:10:01 -0400"
-        },
-        {
-            "title": "HP reports Q3 revenue up 2.4% YoY to $13.5B, vs. $13.4B est., Printing revenue down 3% to $4.14B, and increases its share repurchase authorization to $10B (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/240828/p28#a240828p28",
-            "published": "Wed, 28 Aug 2024 16:55:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Telegram CEO Pavel Durov Charged With Wide Range of Crimes in France",
             "link": "https://www.nytimes.com/2024/08/28/business/telegram-ceo-pavel-durov-charged.html",
-            "published": "Wed, 28 Aug 2024 22:32:44 +0000"
+            "published": "Wed, 28 Aug 2024 22:32:45 +0000"
         },
         {
             "title": "Can Tech Executives Be Held Responsible for What Happens on Their Platforms?",
@@ -48,12 +48,17 @@
             "published": "Wed, 28 Aug 2024 22:48:51 +0000"
         },
         {
-            "title": "California Legislature Approves A.I. Safety Bill",
-            "link": "https://www.nytimes.com/2024/08/28/technology/california-ai-safety-bill.html",
-            "published": "Wed, 28 Aug 2024 22:56:41 +0000"
+            "title": "OpenAI Eyes $100 Billion Valuation",
+            "link": "https://www.nytimes.com/2024/08/28/technology/openai-valuation-funding-deal.html",
+            "published": "Thu, 29 Aug 2024 01:03:53 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AI chip giant Nvidia shares fall despite record sales",
+            "link": "https://www.bbc.com/news/articles/c984jrj24wyo",
+            "published": "Thu, 29 Aug 2024 00:13:57 GMT"
+        },
         {
             "title": "Telegram boss banned from leaving France in criminal probe",
             "link": "https://www.bbc.com/news/articles/c985ppy0znyo",
@@ -73,11 +78,6 @@
             "title": "Telegram repeatedly refuses to join child protection schemes",
             "link": "https://www.bbc.com/news/articles/cy54905nv0go",
             "published": "Wed, 28 Aug 2024 11:23:31 GMT"
-        },
-        {
-            "title": "Man posing as teen YouTuber jailed for global sextortion",
-            "link": "https://www.bbc.com/news/articles/cp35z4z08qvo",
-            "published": "Wed, 28 Aug 2024 02:11:20 GMT"
         }
     ]
 }
