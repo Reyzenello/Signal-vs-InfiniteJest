@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Brazilian judge orders Apple and Google to prevent downloads of X's app in Brazil and says those using a VPN to access X would face a fine of ~$9,000 a day (New York Times)",
+            "link": "http://www.techmeme.com/240830/p20#a240830p20",
+            "published": "Fri, 30 Aug 2024 17:00:48 -0400"
+        },
+        {
             "title": "Mark Zuckerberg says Meta AI has over 185M weekly active users and over 400M MAUs and it's \"growing quickly\" even without a rollout \"in UK, Brazil, or EU yet\" (Kalley Huang/The Information)",
             "link": "http://www.techmeme.com/240830/p19#a240830p19",
             "published": "Fri, 30 Aug 2024 16:20:00 -0400"
@@ -19,18 +24,18 @@
             "title": "Telegram's 2023 financials: $342.5M revenue, 40% of which came from crypto-related line items, and $108M operating loss; it had holdings of ~$400M in Toncoin (Financial Times)",
             "link": "http://www.techmeme.com/240830/p16#a240830p16",
             "published": "Fri, 30 Aug 2024 15:00:31 -0400"
-        },
-        {
-            "title": "Sources: OpenAI is in discussions about changing its corporate structure to become more investor-friendly, including removing a cap on profits for investors (Financial Times)",
-            "link": "http://www.techmeme.com/240830/p15#a240830p15",
-            "published": "Fri, 30 Aug 2024 14:35:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Brazil Blocks X After Musk Ignores Court Orders",
+            "link": "https://www.nytimes.com/2024/08/30/world/americas/brazil-elon-musk-x-blocked.html",
+            "published": "Fri, 30 Aug 2024 21:16:06 +0000"
+        },
+        {
             "title": "How I Improved My Tainted Reputation With Chatbots",
             "link": "https://www.nytimes.com/2024/08/30/technology/ai-chatbot-chatgpt-manipulation.html",
-            "published": "Fri, 30 Aug 2024 20:02:11 +0000"
+            "published": "Fri, 30 Aug 2024 21:06:10 +0000"
         },
         {
             "title": "Telegram Founder Pavel Durov\u2019s Indictment Thrusts Encryption Into the Spotlight",
@@ -38,26 +43,21 @@
             "published": "Thu, 29 Aug 2024 20:45:56 +0000"
         },
         {
-            "title": "Apple and Nvidia in Talks to Invest in OpenAI",
-            "link": "https://www.nytimes.com/2024/08/29/technology/apple-nvidia-openai.html",
-            "published": "Thu, 29 Aug 2024 19:55:05 +0000"
-        },
-        {
             "title": "The Telegram Problem + Gov. Kathy Hochul on School Phone Bans + Kevin\u2019s A.I. Reputation Rehab",
             "link": "https://www.nytimes.com/2024/08/30/podcasts/hardfork-telegram-hochul-reputation.html",
             "published": "Fri, 30 Aug 2024 09:07:10 +0000"
         },
         {
-            "title": "Brazil Threatens to Ban Elon Musk\u2019s X",
-            "link": "https://www.nytimes.com/2024/08/28/technology/brazil-x-ban-elon-musk.html",
-            "published": "Thu, 29 Aug 2024 01:55:26 +0000"
+            "title": "Apple and Nvidia in Talks to Invest in OpenAI",
+            "link": "https://www.nytimes.com/2024/08/29/technology/apple-nvidia-openai.html",
+            "published": "Thu, 29 Aug 2024 19:55:05 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "X braced for Brazil ban as judge's deadline passes",
-            "link": "https://www.bbc.com/news/articles/cvg41n533zno",
-            "published": "Fri, 30 Aug 2024 04:39:30 GMT"
+            "title": "Musk's X suspended in Brazil after ruling by judge",
+            "link": "https://www.bbc.com/news/articles/c5y3rnl5qv3o",
+            "published": "Fri, 30 Aug 2024 20:39:05 GMT"
         },
         {
             "title": "AI chip giant Nvidia shares fall despite record sales",
