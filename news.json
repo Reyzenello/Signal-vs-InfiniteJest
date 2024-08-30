@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Mark Zuckerberg says Meta AI has over 185M weekly active users and over 400M MAUs and it's \"growing quickly\" even without a rollout \"in UK, Brazil, or EU yet\" (Kalley Huang/The Information)",
+            "link": "http://www.techmeme.com/240830/p19#a240830p19",
+            "published": "Fri, 30 Aug 2024 16:20:00 -0400"
+        },
+        {
+            "title": "Brazilian Supreme Court justice Alexandre de Moraes orders X's suspension in Brazil after Elon Musk refused to name a legal representative in the country (Associated Press)",
+            "link": "http://www.techmeme.com/240830/p18#a240830p18",
+            "published": "Fri, 30 Aug 2024 16:15:00 -0400"
+        },
+        {
+            "title": "Microsoft says a North Korean hacking group earlier in August exploited a now-patched zero-day in a Chromium core engine to steal crypto from organizations (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+            "link": "http://www.techmeme.com/240830/p17#a240830p17",
+            "published": "Fri, 30 Aug 2024 15:45:02 -0400"
+        },
+        {
             "title": "Telegram's 2023 financials: $342.5M revenue, 40% of which came from crypto-related line items, and $108M operating loss; it had holdings of ~$400M in Toncoin (Financial Times)",
             "link": "http://www.techmeme.com/240830/p16#a240830p16",
             "published": "Fri, 30 Aug 2024 15:00:31 -0400"
@@ -9,28 +24,13 @@
             "title": "Sources: OpenAI is in discussions about changing its corporate structure to become more investor-friendly, including removing a cap on profits for investors (Financial Times)",
             "link": "http://www.techmeme.com/240830/p15#a240830p15",
             "published": "Fri, 30 Aug 2024 14:35:01 -0400"
-        },
-        {
-            "title": "LAION, a research org whose dataset was used to train Stable Diffusion and other models, releases a new dataset it claims has been \"thoroughly cleaned\" of CSAM (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240830/p14#a240830p14",
-            "published": "Fri, 30 Aug 2024 14:15:03 -0400"
-        },
-        {
-            "title": "The City of Columbus, OH, sues security researcher David Leroy Ross, aka Connor Goodwolf, accusing him of sharing data stolen by a ransomware gang with media (Bill Toulas/BleepingComputer)",
-            "link": "http://www.techmeme.com/240830/p13#a240830p13",
-            "published": "Fri, 30 Aug 2024 13:45:01 -0400"
-        },
-        {
-            "title": "Google says Search AI Overviews, Gemini image generation, and other AI products will not respond to election-related topics ahead of the US elections (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/240830/p12#a240830p12",
-            "published": "Fri, 30 Aug 2024 13:15:13 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How I Improved My Tainted Reputation With Chatbots",
             "link": "https://www.nytimes.com/2024/08/30/technology/ai-chatbot-chatgpt-manipulation.html",
-            "published": "Fri, 30 Aug 2024 19:11:56 +0000"
+            "published": "Fri, 30 Aug 2024 20:02:11 +0000"
         },
         {
             "title": "Telegram Founder Pavel Durov\u2019s Indictment Thrusts Encryption Into the Spotlight",
