@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple will use OLED displays in all iPhone models sold from next year, switching its lower-priced iPhone SE models to OLED screens from LCDs (Yuka Konishi/Nikkei Asia)",
+            "link": "http://www.techmeme.com/240903/p6#a240903p6",
+            "published": "Tue, 03 Sep 2024 06:10:12 -0400"
+        },
+        {
+            "title": "Sources detail OpenAI's struggles to transform into a no-nonsense, profit-driven company; 80% of its 1,700+ staff started after ChatGPT's November 2022 release (New York Times)",
+            "link": "http://www.techmeme.com/240903/p5#a240903p5",
+            "published": "Tue, 03 Sep 2024 05:35:18 -0400"
+        },
+        {
             "title": "The use of AI techniques has accelerated and improved drug discovery efforts, in the face of rising antibiotic resistance due to drug overuse (Dhruv Khullar/New Yorker)",
             "link": "http://www.techmeme.com/240903/p4#a240903p4",
             "published": "Tue, 03 Sep 2024 04:20:07 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Huawei's Ascend chips still lag far behind Nvidia's for model training and have stability issues, slower inter-chip connectivity, and inferior software (Financial Times)",
             "link": "http://www.techmeme.com/240903/p2#a240903p2",
             "published": "Tue, 03 Sep 2024 00:55:08 -0400"
-        },
-        {
-            "title": "Doccla, whose \"virtual bed\" tech helps doctors monitor patients remotely, raised a $46M Series B led by Lakestar after raising a $17M Series A in September 2022 (Anna Heim/TechCrunch)",
-            "link": "http://www.techmeme.com/240903/p1#a240903p1",
-            "published": "Tue, 03 Sep 2024 00:35:01 -0400"
-        },
-        {
-            "title": "HP says it intends to pursue its $4B damages claim in London against the estate of the recently deceased Mike Lynch; HP won the false accounting case in 2022 (Jonathan Browning/Bloomberg)",
-            "link": "http://www.techmeme.com/240902/p14#a240902p14",
-            "published": "Mon, 02 Sep 2024 23:20:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Phone companies asked to help tackle rise in thefts",
+            "link": "https://www.bbc.com/news/articles/ced1pjd3n3xo",
+            "published": "Tue, 03 Sep 2024 10:00:46 GMT"
+        },
+        {
             "title": "Inside the deepfake porn crisis engulfing Korean schools",
             "link": "https://www.bbc.com/news/articles/cpdlpj9zn9go",
             "published": "Tue, 03 Sep 2024 00:14:13 GMT"
@@ -73,11 +78,6 @@
             "title": "'A tech firm stole our voices - then cloned and sold them'",
             "link": "https://www.bbc.com/news/articles/c3d9zv50955o",
             "published": "Sat, 31 Aug 2024 23:15:34 GMT"
-        },
-        {
-            "title": "Musk's X banned in Brazil after disinformation row",
-            "link": "https://www.bbc.com/news/articles/c5y3rnl5qv3o",
-            "published": "Sat, 31 Aug 2024 06:23:19 GMT"
         }
     ]
 }
