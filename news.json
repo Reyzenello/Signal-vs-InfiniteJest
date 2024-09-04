@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia stock fell 9.5% on Tuesday, losing $279B in market value, the biggest single-day drop for a US company, as investors soften their optimism about AI (Reuters)",
+            "link": "http://www.techmeme.com/240904/p7#a240904p7",
+            "published": "Wed, 04 Sep 2024 04:25:04 -0400"
+        },
+        {
+            "title": "Intel should spin off its foundry business, and the US government should subsidize cutting-edge chipmaking in the US via purchase guarantees for US-made chips (Ben Thompson/Stratechery)",
+            "link": "http://www.techmeme.com/240904/p6#a240904p6",
+            "published": "Wed, 04 Sep 2024 04:10:02 -0400"
+        },
+        {
             "title": "A look at X's shrinking clout in Brazil even before the ban; Twitter, the platform now known as X, once dominated Brazilian social media with 40M+ users (Terrence McCoy/Washington Post)",
             "link": "http://www.techmeme.com/240904/p5#a240904p5",
             "published": "Wed, 04 Sep 2024 02:30:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Financial analysis: Reed O'Connor, a Texas federal judge overseeing X v. Media Matters, has at least three potential connections with Elon Musk-related entities (Chris Geidner/Law Dork)",
             "link": "http://www.techmeme.com/240904/p3#a240904p3",
             "published": "Wed, 04 Sep 2024 01:35:13 -0400"
-        },
-        {
-            "title": "Researchers detail a side channel attack, requiring ~$11K worth of equipment, which can be used to clone all YubiKeys running firmware prior to version 5.7 (Dan Goodin/Ars Technica)",
-            "link": "http://www.techmeme.com/240904/p2#a240904p2",
-            "published": "Wed, 04 Sep 2024 01:15:01 -0400"
-        },
-        {
-            "title": "Microsoft says Intel's Core Ultra 200V and AMD's Ryzen AI 300 chips will add Copilot+ AI features starting in November 2024, expanding beyond Qualcomm chips (Will Shanklin/Engadget)",
-            "link": "http://www.techmeme.com/240904/p1#a240904p1",
-            "published": "Wed, 04 Sep 2024 01:01:15 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "Markets slide as Nvidia shares plunge almost 10%",
+            "title": "Nvidia plunges almost 10% as global markets fall",
             "link": "https://www.bbc.com/news/articles/crlrw01g45ro",
-            "published": "Wed, 04 Sep 2024 06:21:30 GMT"
+            "published": "Wed, 04 Sep 2024 08:01:45 GMT"
         },
         {
             "title": "Phone companies asked to help tackle rise in thefts",
