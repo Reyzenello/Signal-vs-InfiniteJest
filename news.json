@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "YouTube announces AI detection tools to protect creators from having their likeness copied and plans to give creators controls over AI scraping (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/240905/p23#a240905p23",
+            "published": "Thu, 05 Sep 2024 10:15:08 -0400"
+        },
+        {
+            "title": "OpenAI says it now has 1M+ paid users for the corporate versions of ChatGPT, including ChatGPT Team, Enterprise, and Edu (Rachel Metz/Bloomberg)",
+            "link": "http://www.techmeme.com/240905/p22#a240905p22",
+            "published": "Thu, 05 Sep 2024 10:10:03 -0400"
+        },
+        {
+            "title": "The US, UK, EU, and others sign a Council of Europe treaty to ensure that the use of AI is \"fully consistent with human rights, democracy and the rule of law\" (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/240905/p21#a240905p21",
+            "published": "Thu, 05 Sep 2024 10:05:00 -0400"
+        },
+        {
+            "title": "Sources: Huawei and SMIC are struggling with making chips for Huawei's next flagship Mate 70, due to US restrictions; Huawei was aiming for a September release (Qianer Liu/The Information)",
+            "link": "http://www.techmeme.com/240905/p20#a240905p20",
+            "published": "Thu, 05 Sep 2024 09:30:15 -0400"
+        },
+        {
             "title": "DJI unveils Neo, a $200 drone aimed at content creators and casual users with features like palm takeoff, voice control, ActiveTrack, smartphone control, more (Steve Dent/Engadget)",
             "link": "http://www.techmeme.com/240905/p19#a240905p19",
             "published": "Thu, 05 Sep 2024 09:20:13 -0400"
-        },
-        {
-            "title": "PayPal expands into point-of-sale payments in the US by integrating its debit card with Apple Wallet and offering 5% cash back for some products up to $1K/month (Hannah Lang/Reuters)",
-            "link": "http://www.techmeme.com/240905/p18#a240905p18",
-            "published": "Thu, 05 Sep 2024 09:15:01 -0400"
-        },
-        {
-            "title": "Applied Digital, which leases out data-center space and has started an AI cloud-computing service with Nvidia chips, raised $160M from Nvidia and others (Asa Fitch/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240905/p17#a240905p17",
-            "published": "Thu, 05 Sep 2024 08:40:04 -0400"
-        },
-        {
-            "title": "Federal prosecutors charge a man for allegedly using AI to create hundreds of thousands of songs by fake bands to get $10M in royalties from streaming services (Maia Coleman/New York Times)",
-            "link": "http://www.techmeme.com/240905/p16#a240905p16",
-            "published": "Thu, 05 Sep 2024 07:55:04 -0400"
-        },
-        {
-            "title": "New Mexico's AG sues Snapchat, alleging it is a \"breeding ground\" for predators seeking to collect sexually explicit images of children and extort them (Cat Zakrzewski/Washington Post)",
-            "link": "http://www.techmeme.com/240905/p15#a240905p15",
-            "published": "Thu, 05 Sep 2024 07:10:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "YouTube restricts teenager access to fitness videos",
+            "link": "https://www.bbc.com/news/articles/c049kn7wlgxo",
+            "published": "Thu, 05 Sep 2024 14:13:03 GMT"
+        },
+        {
             "title": "AI's solution to the 'cocktail party problem' used in court",
             "link": "https://www.bbc.com/news/articles/c5yk5mdj9gxo",
             "published": "Wed, 04 Sep 2024 23:03:13 GMT"
@@ -73,11 +78,6 @@
             "title": "Inside the deepfake porn crisis engulfing Korean schools",
             "link": "https://www.bbc.com/news/articles/cpdlpj9zn9go",
             "published": "Tue, 03 Sep 2024 00:14:13 GMT"
-        },
-        {
-            "title": "Top Brazil court upholds ban of Musk's X",
-            "link": "https://www.bbc.com/news/articles/crkmpe53l6jo",
-            "published": "Tue, 03 Sep 2024 00:35:34 GMT"
         }
     ]
 }
