@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "YouTube announces AI detection tools to protect creators from having their likeness copied and plans to give creators controls over AI scraping (Sarah Perez/TechCrunch)",
+            "title": "The UK's CMA launches an investigation into whether the sale of Oasis tickets on Ticketmaster breached consumer protection law, including via \"dynamic pricing\" (Helen Bushby/BBC)",
+            "link": "http://www.techmeme.com/240905/p25#a240905p25",
+            "published": "Thu, 05 Sep 2024 10:45:03 -0400"
+        },
+        {
+            "title": "Bluetooth SIG releases Bluetooth 6 spec with a Channel Sounding feature to let Find My apps from Apple and others locate items with centimeter-level accuracy (Ezza Ijaz/Wccftech)",
+            "link": "http://www.techmeme.com/240905/p24#a240905p24",
+            "published": "Thu, 05 Sep 2024 10:35:14 -0400"
+        },
+        {
+            "title": "YouTube announces AI detection tools to protect against copying creators' likeness, including their faces and voices, and plans to offer AI scraping controls (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/240905/p23#a240905p23",
             "published": "Thu, 05 Sep 2024 10:15:08 -0400"
         },
         {
-            "title": "OpenAI says it now has 1M+ paid users for the corporate versions of ChatGPT, including ChatGPT Team, Enterprise, and Edu (Rachel Metz/Bloomberg)",
+            "title": "OpenAI says it has 1M+ paid corporate ChatGPT users across ChatGPT Team, Enterprise, and Edu, up from 600K paid ChatGPT Team and Enterprise users in April 2024 (Rachel Metz/Bloomberg)",
             "link": "http://www.techmeme.com/240905/p22#a240905p22",
             "published": "Thu, 05 Sep 2024 10:10:03 -0400"
         },
@@ -14,19 +24,14 @@
             "title": "The US, UK, EU, and others sign a Council of Europe treaty to ensure that the use of AI is \"fully consistent with human rights, democracy and the rule of law\" (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/240905/p21#a240905p21",
             "published": "Thu, 05 Sep 2024 10:05:00 -0400"
-        },
-        {
-            "title": "Sources: Huawei and SMIC are struggling with making chips for Huawei's next flagship Mate 70, due to US restrictions; Huawei was aiming for a September release (Qianer Liu/The Information)",
-            "link": "http://www.techmeme.com/240905/p20#a240905p20",
-            "published": "Thu, 05 Sep 2024 09:30:15 -0400"
-        },
-        {
-            "title": "DJI unveils Neo, a $200 drone aimed at content creators and casual users with features like palm takeoff, voice control, ActiveTrack, smartphone control, more (Steve Dent/Engadget)",
-            "link": "http://www.techmeme.com/240905/p19#a240905p19",
-            "published": "Thu, 05 Sep 2024 09:20:13 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Start-Up Investors Push Back Against Venture Capital\u2019s Bigger-Is-Better Mantra",
+            "link": "https://www.nytimes.com/2024/09/05/technology/venture-capital-startup-investors-asylum-ventures.html",
+            "published": "Thu, 05 Sep 2024 15:18:23 +0000"
+        },
         {
             "title": "Waymo Turns Toward Making Money as It Expands Driverless Car Business",
             "link": "https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html",
@@ -38,19 +43,14 @@
             "published": "Wed, 04 Sep 2024 21:36:56 +0000"
         },
         {
-            "title": "TikTok Expands its Election Resources Ahead of November",
-            "link": "https://www.nytimes.com/2024/09/04/business/tiktok-vote-election.html",
-            "published": "Wed, 04 Sep 2024 14:53:34 +0000"
-        },
-        {
-            "title": "Start-Up Investors Push Back Against Venture Capital\u2019s Bigger-Is-Better Mantra",
-            "link": "https://www.nytimes.com/2024/09/05/technology/venture-capital-startup-investors-asylum-ventures.html",
-            "published": "Thu, 05 Sep 2024 13:00:15 +0000"
-        },
-        {
             "title": "OpenAI, Maker of ChatGPT, Is Trying to Grow Up",
             "link": "https://www.nytimes.com/2024/09/03/technology/openai-chatgpt-revenue.html",
             "published": "Tue, 03 Sep 2024 09:01:00 +0000"
+        },
+        {
+            "title": "Left-Wing Misinformation Is Having a Moment",
+            "link": "https://www.nytimes.com/2024/09/03/technology/left-wing-misinformation-conspiracy-theories.html",
+            "published": "Tue, 03 Sep 2024 07:00:10 +0000"
         }
     ],
     "source_2": [
