@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Intel cancels plans for using its 20A process node for its Arrow Lake processors for the consumer market and will use external nodes instead, likely from TSMC (Paul Alcorn/Tom's Hardware)",
+            "link": "http://www.techmeme.com/240905/p3#a240905p3",
+            "published": "Thu, 05 Sep 2024 01:20:01 -0400"
+        },
+        {
+            "title": "Cybersecurity company Pango Group is acquiring all of Kaspersky's US customers, or ~1M users, after Commerce Department banned Kaspersky's software in the US (Sam Sabin/Axios)",
+            "link": "http://www.techmeme.com/240905/p2#a240905p2",
+            "published": "Thu, 05 Sep 2024 00:40:05 -0400"
+        },
+        {
+            "title": "A look at the economics of Waymo's robot taxi business as its dominance has grown since Cruise pulled its fleet off the road (Eli Tan/New York Times)",
+            "link": "http://www.techmeme.com/240905/p1#a240905p1",
+            "published": "Thu, 05 Sep 2024 00:30:01 -0400"
+        },
+        {
             "title": "YouTube expands its existing parental controls to let parents link their account to their teens' account and gain insight into the teens' activity (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/240904/p54#a240904p54",
             "published": "Wed, 04 Sep 2024 23:50:04 -0400"
@@ -9,21 +24,6 @@
             "title": "An analysis of OpenAI's GPT Store finds 100+ custom GPTs that appear to violate OpenAI's policies regarding sexual content, legal and medical advice, and more (Todd Feathers/Gizmodo)",
             "link": "http://www.techmeme.com/240904/p53#a240904p53",
             "published": "Wed, 04 Sep 2024 23:35:08 -0400"
-        },
-        {
-            "title": "The nonprofit Cosmos Institute launches to cultivate AI technologists \"equipped with deep philosophical thinking\", with plans for an AI lab, a VC arm, and more (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240904/p52#a240904p52",
-            "published": "Wed, 04 Sep 2024 23:15:14 -0400"
-        },
-        {
-            "title": "Indian bike taxi startup Rapido raised $200M at a $1.1B valuation led by WestBridge and plans to expand its newly launched cab-hailing service (The Economic Times)",
-            "link": "http://www.techmeme.com/240904/p51#a240904p51",
-            "published": "Wed, 04 Sep 2024 22:50:13 -0400"
-        },
-        {
-            "title": "Seattle-based Revefi, which seeks to automatically detect and troubleshoot companies' data-related issues, raised a $20M Series A led by Icon Ventures (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240904/p50#a240904p50",
-            "published": "Wed, 04 Sep 2024 21:55:02 -0400"
         }
     ],
     "source_1": [
@@ -62,7 +62,7 @@
         {
             "title": "Volvo gives up plan to sell only EVs by 2030",
             "link": "https://www.bbc.com/news/articles/c3ejye39434o",
-            "published": "Thu, 05 Sep 2024 03:55:51 GMT"
+            "published": "Thu, 05 Sep 2024 04:45:42 GMT"
         },
         {
             "title": "Phone companies asked to help tackle rise in thefts",
