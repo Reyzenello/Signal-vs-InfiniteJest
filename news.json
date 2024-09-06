@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Pavel Durov calls his arrest by French authorities \"misguided\" and denies Telegram is an \"anarchic paradise\", in his first public comments since the detention (The Guardian)",
+            "link": "http://www.techmeme.com/240905/p40#a240905p40",
+            "published": "Thu, 05 Sep 2024 20:50:01 -0400"
+        },
+        {
+            "title": "Analysts raise questions over Brazilian digital bank Nubank's rising default rate, even as loans grow 28% YoY; ~60% of all Brazilian adults have Nubank's app (Bloomberg)",
+            "link": "http://www.techmeme.com/240905/p39#a240905p39",
+            "published": "Thu, 05 Sep 2024 19:50:15 -0400"
+        },
+        {
             "title": "Qualcomm CEO Cristiano Amon says the company is working with Samsung and Google on a mixed-reality set of smart glasses linked to a smartphone (Arjun Kharpal/CNBC)",
             "link": "http://www.techmeme.com/240905/p38#a240905p38",
             "published": "Thu, 05 Sep 2024 18:45:45 -0400"
@@ -14,19 +24,14 @@
             "title": "Sources: Intel is considering selling part of its 88% stake in Mobileye, and is also exploring options for its Network and Edge enterprise networking division (Bloomberg)",
             "link": "http://www.techmeme.com/240905/p36#a240905p36",
             "published": "Thu, 05 Sep 2024 17:50:02 -0400"
-        },
-        {
-            "title": "Broadcom reports Q3 revenue up 47% YoY to $13.07B, vs. $12.96B est., and forecasts Q4 revenue of $14B, vs. $14.13B est.; AVGO drops 7%+ after hours (Larry Dignan/Constellation Research)",
-            "link": "http://www.techmeme.com/240905/p35#a240905p35",
-            "published": "Thu, 05 Sep 2024 17:25:04 -0400"
-        },
-        {
-            "title": "Interviews with Marc Benioff and others about Salesforce's \"hard pivot\" to Agentforce, a platform for users to build and deploy AI agents in Salesforce apps (Sharon Goldman/Fortune)",
-            "link": "http://www.techmeme.com/240905/p34#a240905p34",
-            "published": "Thu, 05 Sep 2024 16:00:45 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Telegram Founder Pavel Durov Defends App in First Comments Since Arrest",
+            "link": "https://www.nytimes.com/2024/09/05/technology/telegram-pavel-durov-comments.html",
+            "published": "Thu, 05 Sep 2024 23:20:12 +0000"
+        },
         {
             "title": "Start-Up Investors Push Back Against Venture Capital\u2019s Bigger-Is-Better Mantra",
             "link": "https://www.nytimes.com/2024/09/05/technology/venture-capital-startup-investors-asylum-ventures.html",
@@ -43,17 +48,17 @@
             "published": "Wed, 04 Sep 2024 21:36:56 +0000"
         },
         {
-            "title": "Telegram Founder Pavel Durov Defends App in First Comments Since Arrest",
-            "link": "https://www.nytimes.com/2024/09/05/technology/telegram-pavel-durov-comments.html",
-            "published": "Thu, 05 Sep 2024 23:20:12 +0000"
-        },
-        {
             "title": "OpenAI, Maker of ChatGPT, Is Trying to Grow Up",
             "link": "https://www.nytimes.com/2024/09/03/technology/openai-chatgpt-revenue.html",
             "published": "Tue, 03 Sep 2024 09:01:00 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Telegram CEO Durov says his arrest 'misguided'",
+            "link": "https://www.bbc.com/news/articles/c78lgzl919go",
+            "published": "Fri, 06 Sep 2024 01:33:57 GMT"
+        },
         {
             "title": "Trump says Musk could head 'government efficiency' force",
             "link": "https://www.bbc.com/news/articles/c74lgwkrmrpo",
@@ -73,11 +78,6 @@
             "title": "Volvo gives up plan to sell only EVs by 2030",
             "link": "https://www.bbc.com/news/articles/c3ejye39434o",
             "published": "Thu, 05 Sep 2024 08:55:04 GMT"
-        },
-        {
-            "title": "Phone companies asked to help tackle rise in thefts",
-            "link": "https://www.bbc.com/news/articles/ced1pjd3n3xo",
-            "published": "Tue, 03 Sep 2024 10:00:46 GMT"
         }
     ]
 }
