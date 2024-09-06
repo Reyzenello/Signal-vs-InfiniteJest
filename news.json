@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The UK CMA objects to Google's ad tech practices, says Google harms competition by using its online display ad dominance \"to favour its own ad tech services\" (Ryan Browne/CNBC)",
+            "link": "http://www.techmeme.com/240906/p7#a240906p7",
+            "published": "Fri, 06 Sep 2024 05:57:29 -0400"
+        },
+        {
             "title": "Adani Group and Tower Semiconductor plan to invest ~$10B for a chip plant in Maharashtra, India; the plant will have an initial capacity of 40K wafers per month (Reuters)",
             "link": "http://www.techmeme.com/240906/p6#a240906p6",
             "published": "Fri, 06 Sep 2024 05:15:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources: Qualcomm has explored acquiring portions of Intel's design business, including Intel's client PC design business, as Intel struggles to generate cash (Reuters)",
             "link": "http://www.techmeme.com/240906/p3#a240906p3",
             "published": "Fri, 06 Sep 2024 00:40:01 -0400"
-        },
-        {
-            "title": "A look at Honor's AI defocus tech, which aims to solve myopia and is available on the new Honor MagicPad 2 tablet and Honor Magic V3 foldable phone (Nicholas Sutrich/Android Central)",
-            "link": "http://www.techmeme.com/240906/p2#a240906p2",
-            "published": "Fri, 06 Sep 2024 00:20:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Musician charged with using bots to boost streaming revenue",
+            "link": "https://www.bbc.com/news/articles/cly3ld9wy3eo",
+            "published": "Fri, 06 Sep 2024 10:24:11 GMT"
+        },
+        {
             "title": "Telegram CEO Durov says his arrest 'misguided'",
             "link": "https://www.bbc.com/news/articles/c78lgzl919go",
             "published": "Fri, 06 Sep 2024 01:33:57 GMT"
@@ -73,11 +78,6 @@
             "title": "AI's solution to the 'cocktail party problem' used in court",
             "link": "https://www.bbc.com/news/articles/c5yk5mdj9gxo",
             "published": "Wed, 04 Sep 2024 23:03:13 GMT"
-        },
-        {
-            "title": "Volvo gives up plan to sell only EVs by 2030",
-            "link": "https://www.bbc.com/news/articles/c3ejye39434o",
-            "published": "Thu, 05 Sep 2024 08:55:04 GMT"
         }
     ]
 }
