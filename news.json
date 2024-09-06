@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "An interview with Bill Gates about What's Next? The Future with Bill Gates, an upcoming five-part Netflix docuseries examining issues like AI, misinfo, and more (Kourtnee Jackson/CNET)",
+            "link": "http://www.techmeme.com/240906/p9#a240906p9",
+            "published": "Fri, 06 Sep 2024 08:25:00 -0400"
+        },
+        {
+            "title": "What to expect from Apple's September 9 event: four iPhone 16 models, two new AirPods, Apple Watch Series 10 with an updated look, Apple Intelligence, and more (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/240906/p8#a240906p8",
+            "published": "Fri, 06 Sep 2024 07:20:01 -0400"
+        },
+        {
             "title": "The UK CMA objects to Google's ad tech practices, says Google harms competition by using its online display ad dominance \"to favour its own ad tech services\" (Ryan Browne/CNBC)",
             "link": "http://www.techmeme.com/240906/p7#a240906p7",
             "published": "Fri, 06 Sep 2024 05:57:29 -0400"
@@ -14,16 +24,6 @@
             "title": "Airbnb says New York City's law on short-term rentals has had \"predictable\" outcomes one year later, as rent prices remain high and housing availability low (Amanda Hoover/Wired)",
             "link": "http://www.techmeme.com/240906/p5#a240906p5",
             "published": "Fri, 06 Sep 2024 04:00:42 -0400"
-        },
-        {
-            "title": "Threads is trading trust for growth via Meta's creator program, which pays people to post without disclosing, making users assume everyone is engagement farming (Ben Werdmuller/Werd I/O)",
-            "link": "http://www.techmeme.com/240906/p4#a240906p4",
-            "published": "Fri, 06 Sep 2024 02:00:36 -0400"
-        },
-        {
-            "title": "Sources: Qualcomm has explored acquiring portions of Intel's design business, including Intel's client PC design business, as Intel struggles to generate cash (Reuters)",
-            "link": "http://www.techmeme.com/240906/p3#a240906p3",
-            "published": "Fri, 06 Sep 2024 00:40:01 -0400"
         }
     ],
     "source_1": [
@@ -57,12 +57,17 @@
         {
             "title": "Google abusing ad tech dominance, UK competition watchdog finds",
             "link": "https://www.bbc.com/news/articles/c80en9nvlp9o",
-            "published": "Fri, 06 Sep 2024 10:49:22 GMT"
+            "published": "Fri, 06 Sep 2024 11:46:07 GMT"
         },
         {
             "title": "Man accused of using bots and AI to earn streaming revenue",
             "link": "https://www.bbc.com/news/articles/cly3ld9wy3eo",
             "published": "Fri, 06 Sep 2024 10:24:11 GMT"
+        },
+        {
+            "title": "Astro Bot: Could the old-school hit reshape PS5's future?",
+            "link": "https://www.bbc.com/news/articles/c1w712e847yo",
+            "published": "Fri, 06 Sep 2024 12:00:08 GMT"
         },
         {
             "title": "Telegram CEO Durov says his arrest 'misguided'",
@@ -73,11 +78,6 @@
             "title": "Trump says Musk could head 'government efficiency' force",
             "link": "https://www.bbc.com/news/articles/c74lgwkrmrpo",
             "published": "Thu, 05 Sep 2024 20:04:40 GMT"
-        },
-        {
-            "title": "YouTube restricts teenager access to fitness videos",
-            "link": "https://www.bbc.com/news/articles/c049kn7wlgxo",
-            "published": "Thu, 05 Sep 2024 14:13:03 GMT"
         }
     ]
 }
