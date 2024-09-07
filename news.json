@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "In a letter, Kamala Harris is endorsed for president by 88 corporate leaders, including Yelp CEO Jeremy Stoppelman and Ripple co-founder Chris Larsen (Megan Cassella/CNBC)",
+            "link": "http://www.techmeme.com/240906/p27#a240906p27",
+            "published": "Fri, 06 Sep 2024 21:20:02 -0400"
+        },
+        {
+            "title": "A look at LMSYS' Chatbot Arena and the issues surrounding the crowdsourced LLM benchmark platform, including biases, lack of transparency, and commercial ties (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240906/p26#a240906p26",
+            "published": "Fri, 06 Sep 2024 20:50:01 -0400"
+        },
+        {
             "title": "S&P Global announces that Dell and Palantir will join the S&P 500, effective on September 23, 2024; DELL jumps 5%+ and PLTR jumps 7%+ after hours (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/240906/p25#a240906p25",
             "published": "Fri, 06 Sep 2024 18:15:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Mangomint, which makes software for salon and spa operations, raised a $35M Series B led by Altos Ventures and says it has processed $1B+ in transactions (Dominic-Madori Davis/TechCrunch)",
             "link": "http://www.techmeme.com/240906/p23#a240906p23",
             "published": "Fri, 06 Sep 2024 17:10:00 -0400"
-        },
-        {
-            "title": "The judge in the Google monopoly ruling says he'll take until August 2025 to determine remedies in the case and asks the DOJ to propose fixes by the end of 2024 (Cecilia Kang/New York Times)",
-            "link": "http://www.techmeme.com/240906/p22#a240906p22",
-            "published": "Fri, 06 Sep 2024 16:45:16 -0400"
-        },
-        {
-            "title": "Roblox plans a generative AI tool to let creators make 3D scenes using text prompts, and announces new social features like Party and Music Charts (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/240906/p21#a240906p21",
-            "published": "Fri, 06 Sep 2024 16:10:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Thieves snatched his phone in London - it was in China a month later",
+            "link": "https://www.bbc.com/news/articles/c3rdy132q3lo",
+            "published": "Fri, 06 Sep 2024 23:49:59 GMT"
+        },
+        {
             "title": "Google abusing ad tech dominance, UK competition watchdog finds",
             "link": "https://www.bbc.com/news/articles/c80en9nvlp9o",
             "published": "Fri, 06 Sep 2024 14:13:44 GMT"
@@ -73,11 +78,6 @@
             "title": "Telegram CEO Durov says his arrest 'misguided'",
             "link": "https://www.bbc.com/news/articles/c78lgzl919go",
             "published": "Fri, 06 Sep 2024 01:33:57 GMT"
-        },
-        {
-            "title": "Trump says Musk could head 'government efficiency' force",
-            "link": "https://www.bbc.com/news/articles/c74lgwkrmrpo",
-            "published": "Thu, 05 Sep 2024 20:04:40 GMT"
         }
     ]
 }
