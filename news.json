@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A profile of Pavel Durov's older brother Nikolai, who is reportedly still in Russia and is responsible for Telegram's encryption standard MTProto protocol (Eva Hartog/Politico)",
+            "link": "http://www.techmeme.com/240907/p5#a240907p5",
+            "published": "Sat, 07 Sep 2024 11:10:14 -0400"
+        },
+        {
             "title": "An investigation details the lack of enforcement of CA's Prop 22 about four years after the ballot initiative, backed by gig economy companies, became state law (Levi Sumagaysay/CalMatters)",
             "link": "http://www.techmeme.com/240907/p4#a240907p4",
             "published": "Sat, 07 Sep 2024 09:35:01 -0400"
@@ -19,14 +24,19 @@
             "title": "Companies and customers say the cost of renting cloud services using Nvidia's A100 and H100 chips is lower in China than in the US despite the export controls (Financial Times)",
             "link": "http://www.techmeme.com/240907/p1#a240907p1",
             "published": "Sat, 07 Sep 2024 00:05:01 -0400"
-        },
-        {
-            "title": "In a letter, Kamala Harris is endorsed for president by 88 corporate leaders, including Yelp CEO Jeremy Stoppelman and Ripple co-founder Chris Larsen (Megan Cassella/CNBC)",
-            "link": "http://www.techmeme.com/240906/p27#a240906p27",
-            "published": "Fri, 06 Sep 2024 21:20:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Telegram Became a Playground for Criminals, Extremists and Terrorists",
+            "link": "https://www.nytimes.com/2024/09/07/technology/telegram-crime-terrorism.html",
+            "published": "Sat, 07 Sep 2024 09:01:40 +0000"
+        },
+        {
+            "title": "How Russia Found Its Way Into America\u2019s Conservative Media",
+            "link": "https://www.nytimes.com/2024/09/07/business/media/russia-tenet-media-tim-pool.html",
+            "published": "Sat, 07 Sep 2024 09:02:38 +0000"
+        },
         {
             "title": "How Elon Musk Is Influencing Donald Trump",
             "link": "https://www.nytimes.com/2024/09/06/technology/elon-musk-donald-trump-influence.html",
@@ -36,16 +46,6 @@
             "title": "Remedies to Google\u2019s Search Monopoly Will Be Decided by August 2025, Judge Says",
             "link": "https://www.nytimes.com/2024/09/06/technology/google-search-antitrust-remedies.html",
             "published": "Fri, 06 Sep 2024 20:12:29 +0000"
-        },
-        {
-            "title": "What Is \u2018Agentic\u2019 AI? It Doesn\u2019t Require a Human to Tell It What to Do",
-            "link": "https://www.nytimes.com/2024/09/06/business/artificial-intelligence-agentic.html",
-            "published": "Fri, 06 Sep 2024 09:04:18 +0000"
-        },
-        {
-            "title": "X Gets a Brazilian Ax + Founder Mode + Listeners Respond on School Phone Bans",
-            "link": "https://www.nytimes.com/2024/09/06/podcasts/hardfork-x-banned-founder-mode.html",
-            "published": "Fri, 06 Sep 2024 09:06:14 +0000"
         },
         {
             "title": "Starliner Capsule Returns, but Boeing\u2019s Space Business Woes Remain",
