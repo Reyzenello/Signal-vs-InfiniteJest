@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Apple discontinues FineWoven iPhone cases, introduced last year to replace leather cases, and emphasizes its Clear and Silicone cases for the iPhone 16 lineup (Juli Clover/MacRumors)",
-            "link": "http://www.techmeme.com/240909/p27#a240909p27",
-            "published": "Mon, 09 Sep 2024 16:15:03 -0400"
+            "title": "In the first day of the antitrust trial focused on ads, US prosecutors allege Google abused its size to dominate the sector through acquisitions and more (Jody Godoy/Reuters)",
+            "link": "http://www.techmeme.com/240909/p32#a240909p32",
+            "published": "Mon, 09 Sep 2024 17:20:04 -0400"
         },
         {
-            "title": "iPhone 16 Pro, Pro Max hands-on: despite larger displays, they don't feel that much bigger, helped by thin bezels; the Camera Control button is ultra sensitive (The Verge)",
-            "link": "http://www.techmeme.com/240909/p26#a240909p26",
-            "published": "Mon, 09 Sep 2024 15:57:33 -0400"
+            "title": "Oracle and AWS debut Oracle Database@AWS, to let customers access select Oracle products within AWS, following Oracle's partnerships with Azure and Google Cloud (Larry Dignan/Constellation Research)",
+            "link": "http://www.techmeme.com/240909/p31#a240909p31",
+            "published": "Mon, 09 Sep 2024 16:50:01 -0400"
         },
         {
-            "title": "US charges leaders of white supremacist gang The Terrorgram Collective, which uses Telegram to celebrate attacks on minorities, with trying to incite a race war (Reuters)",
-            "link": "http://www.techmeme.com/240909/p25#a240909p25",
-            "published": "Mon, 09 Sep 2024 15:17:25 -0400"
+            "title": "Testing the Apple Intelligence beta shows the pre-release software still has a long way to go, with hallucinations, marking spam emails as priority, and more (Geoffrey A. Fowler/Washington Post)",
+            "link": "http://www.techmeme.com/240909/p30#a240909p30",
+            "published": "Mon, 09 Sep 2024 16:45:01 -0400"
         },
         {
-            "title": "Apple will release iOS 18, macOS 15, iPadOS 18, and watchOS 11 on September 16 (Andrew Cunningham/Ars Technica)",
-            "link": "http://www.techmeme.com/240909/p24#a240909p24",
-            "published": "Mon, 09 Sep 2024 15:10:08 -0400"
+            "title": "HyperWrite's 70B parameter AI model, Reflection, has its performance questioned, after CEO Matt Shumer said something about its upload to Hugging Face was off (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/240909/p29#a240909p29",
+            "published": "Mon, 09 Sep 2024 16:35:03 -0400"
         },
         {
-            "title": "The iPhone 16 will start at $799 and the 16 Plus $899, and the iPhone 16 Pro starts at $999 and the Pro Max starts at $1,199; all base models have 128GB (Valentina Palladino/Engadget)",
-            "link": "http://www.techmeme.com/240909/p23#a240909p23",
-            "published": "Mon, 09 Sep 2024 15:05:12 -0400"
+            "title": "Oracle reports Q1 revenue of $13.31B, up 7% YoY, vs. $13.23B est., with revenue from cloud infrastructure of $2.2B, up 45% YoY; ORCL jumps 8%+ after hours (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/240909/p28#a240909p28",
+            "published": "Mon, 09 Sep 2024 16:30:12 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "U.S. Argues Google Created Ad Tech Monopoly",
             "link": "https://www.nytimes.com/2024/09/09/technology/google-antitrust-ad-technology.html",
-            "published": "Mon, 09 Sep 2024 18:50:09 +0000"
+            "published": "Mon, 09 Sep 2024 20:33:36 +0000"
         },
         {
             "title": "How to Get A.I. Features on an Older iPhone Model (and Skip the Upgrade)",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Apple banks on AI to boost sales of its new iPhone",
+            "link": "https://www.bbc.com/news/articles/c8erzx2n3j7o",
+            "published": "Mon, 09 Sep 2024 21:16:48 GMT"
+        },
         {
             "title": "Google's lucrative ad tech business goes on trial",
             "link": "https://www.bbc.com/news/articles/ckg2dpkpmv1o",
@@ -73,11 +78,6 @@
             "title": "Man accused of using bots and AI to earn streaming revenue",
             "link": "https://www.bbc.com/news/articles/cly3ld9wy3eo",
             "published": "Fri, 06 Sep 2024 10:24:11 GMT"
-        },
-        {
-            "title": "Astro Bot: Could the old-school hit reshape PS5's future?",
-            "link": "https://www.bbc.com/news/articles/c1w712e847yo",
-            "published": "Fri, 06 Sep 2024 12:00:08 GMT"
         }
     ]
 }
