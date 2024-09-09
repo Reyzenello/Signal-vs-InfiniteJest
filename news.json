@@ -1,17 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Audible plans to invite some US-based audiobook narrators to train AI on their voices, to clone the voices for recordings through a royalty-sharing model (Ashley Carman/Bloomberg)",
+            "title": "Source: Sequoia Capital completed its $861M purchase of Stripe shares from Sequoia limited partners last week; Stripe didn't receive any proceeds (Dan Primack/Axios)",
+            "link": "http://www.techmeme.com/240909/p10#a240909p10",
+            "published": "Mon, 09 Sep 2024 10:40:01 -0400"
+        },
+        {
+            "title": "Audible plans to invite some US-based audiobook narrators to train AI on their voices, cloning them and paying for title recordings via a royalty-sharing model (Ashley Carman/Bloomberg)",
             "link": "http://www.techmeme.com/240909/p9#a240909p9",
             "published": "Mon, 09 Sep 2024 09:30:30 -0400"
         },
         {
-            "title": "The DOJ's case against Google's ad business may benefit major news organizations that pay Google to broker their website ads and have faced financial struggles (Washington Post)",
+            "title": "The US DOJ's case against Google's ad business may benefit Meta, Amazon, and news organizations that pay Google a cut of revenue for brokering their website ads (Washington Post)",
             "link": "http://www.techmeme.com/240909/p8#a240909p8",
             "published": "Mon, 09 Sep 2024 09:10:03 -0400"
         },
         {
-            "title": "Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and a $150M credit line (Mary Ann Azevedo/TechCrunch)",
+            "title": "Miami-based finally, which offers bookkeeping, accounting, and finance tools for SMBs, raised a $50M Series B from PeakSpan and secured a $150M credit line (Mary Ann Azevedo/TechCrunch)",
             "link": "http://www.techmeme.com/240909/p7#a240909p7",
             "published": "Mon, 09 Sep 2024 08:20:02 -0400"
         },
@@ -19,38 +24,33 @@
             "title": "Sources: Japanese chip startup Rapidus seeks to raise ~$696M from existing and new investors by issuing new shares to finance its chip development efforts (Taro Fuse/Bloomberg)",
             "link": "http://www.techmeme.com/240909/p6#a240909p6",
             "published": "Mon, 09 Sep 2024 08:00:47 -0400"
-        },
-        {
-            "title": "Skype co-founder Niklas Zennstr&ouml;m's Atomico raised $1.24B, including a $754M growth-stage fund and a $485M early stage fund (Ryan Browne/CNBC)",
-            "link": "http://www.techmeme.com/240909/p5#a240909p5",
-            "published": "Mon, 09 Sep 2024 06:35:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Apple Introduces New iPhones with A.I. Features",
+            "link": "https://www.nytimes.com/2024/09/09/technology/apple-iphone-ai-features.html",
+            "published": "Mon, 09 Sep 2024 07:00:59 +0000"
+        },
+        {
+            "title": "Google\u2019s Ad Technology to Be Challenged in Second Antitrust Trial",
+            "link": "https://www.nytimes.com/2024/09/09/technology/google-ads-antitrust-trial.html",
+            "published": "Mon, 09 Sep 2024 13:18:43 +0000"
+        },
         {
             "title": "How Telegram Became a Playground for Criminals, Extremists and Terrorists",
             "link": "https://www.nytimes.com/2024/09/07/technology/telegram-crime-terrorism.html",
             "published": "Sat, 07 Sep 2024 18:33:21 +0000"
         },
         {
-            "title": "How Russia Found Its Way Into America\u2019s Conservative Media",
-            "link": "https://www.nytimes.com/2024/09/07/business/media/russia-tenet-media-tim-pool.html",
-            "published": "Sun, 08 Sep 2024 22:35:02 +0000"
+            "title": "Google\u2019s Legal Scorecard Before New Antitrust Fight",
+            "link": "https://www.nytimes.com/2024/09/09/technology/google-antitrust-trial-legal-scorecard.html",
+            "published": "Mon, 09 Sep 2024 07:00:08 +0000"
         },
         {
-            "title": "How Elon Musk Is Influencing Donald Trump",
-            "link": "https://www.nytimes.com/2024/09/06/technology/elon-musk-donald-trump-influence.html",
-            "published": "Fri, 06 Sep 2024 16:21:13 +0000"
-        },
-        {
-            "title": "Remedies to Google\u2019s Search Monopoly Will Be Decided by August 2025, Judge Says",
-            "link": "https://www.nytimes.com/2024/09/06/technology/google-search-antitrust-remedies.html",
-            "published": "Fri, 06 Sep 2024 20:12:29 +0000"
-        },
-        {
-            "title": "Apple Introduces New iPhones with A.I. Features",
-            "link": "https://www.nytimes.com/2024/09/09/technology/apple-iphone-ai-features.html",
-            "published": "Mon, 09 Sep 2024 07:00:59 +0000"
+            "title": "Starliner Capsule Returns, but Boeing\u2019s Space Business Woes Remain",
+            "link": "https://www.nytimes.com/2024/09/07/business/boeing-starliner-nasa-spacex.html",
+            "published": "Sat, 07 Sep 2024 21:51:56 +0000"
         }
     ],
     "source_2": [
