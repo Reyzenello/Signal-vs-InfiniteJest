@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Waymo: its cars in Phoenix and SF had 48% fewer crashes/mile than humans and 73% fewer injury-causing ones; humans rear-ended Waymos in 16 of the 23 worst ones (Timothy B Lee/Understanding AI)",
+            "link": "http://www.techmeme.com/240910/p19#a240910p19",
+            "published": "Tue, 10 Sep 2024 13:55:13 -0400"
+        },
+        {
+            "title": "Paris-based Neat, which helps other companies sell insurance products to their own customers, raised a &euro;50M Series A, with ~60% in equity and the rest in debt (Romain Dillet/TechCrunch)",
+            "link": "http://www.techmeme.com/240910/p18#a240910p18",
+            "published": "Tue, 10 Sep 2024 13:45:14 -0400"
+        },
+        {
             "title": "Microsoft says it has demonstrated, with Quantinuum, logical operations with the largest number of error-corrected qubits yet, and partners with Atom Computing (John Timmer/Ars Technica)",
             "link": "http://www.techmeme.com/240910/p17#a240910p17",
             "published": "Tue, 10 Sep 2024 13:20:36 -0400"
@@ -14,28 +24,18 @@
             "title": "Sony announces the PS5 Pro, offering a better GPU and faster memory for up to 45% faster game rendering, but no disc drive, available from November 7 for $700 (Scott Stein/CNET)",
             "link": "http://www.techmeme.com/240910/p15#a240910p15",
             "published": "Tue, 10 Sep 2024 11:35:20 -0400"
-        },
-        {
-            "title": "Election officials across the US say false election rumors spread by Elon Musk to his 197M+ followers often coincide with calls by locals to purge voter rolls (Washington Post)",
-            "link": "http://www.techmeme.com/240910/p14#a240910p14",
-            "published": "Tue, 10 Sep 2024 10:50:04 -0400"
-        },
-        {
-            "title": "Sources: OpenAI aims to release Strawberry, its reasoning-focused AI, within two weeks as a model that users can pick in ChatGPT; the model isn't yet multimodal (The Information)",
-            "link": "http://www.techmeme.com/240910/p13#a240910p13",
-            "published": "Tue, 10 Sep 2024 10:27:38 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Google and Apple Face Billions in Penalties After Losing E.U. Appeals",
             "link": "https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html",
-            "published": "Tue, 10 Sep 2024 16:10:49 +0000"
+            "published": "Tue, 10 Sep 2024 18:10:10 +0000"
         },
         {
             "title": "China\u2019s Huawei Unveils the Mate XT, Its $2,800 \u2018Trifold\u2019 Phone",
             "link": "https://www.nytimes.com/2024/09/10/business/huawei-trifold-iphone.html",
-            "published": "Tue, 10 Sep 2024 08:56:34 +0000"
+            "published": "Tue, 10 Sep 2024 18:18:36 +0000"
         },
         {
             "title": "Apple \u2018Glowtime\u2019 Event Puts New Apple Watches, iPhone 16 on Full Display",
