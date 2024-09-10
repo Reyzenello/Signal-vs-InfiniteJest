@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Huawei unveils Mate XT trifold smartphone with a 10.2-inch screen when unfolded, available in China on September 20 for $2,800+ (Evelyn Cheng/CNBC)",
+            "link": "http://www.techmeme.com/240910/p5#a240910p5",
+            "published": "Tue, 10 Sep 2024 04:25:03 -0400"
+        },
+        {
+            "title": "Google loses its bid to reverse a &euro;2.4B EU fine for abusing its monopoly power to crush rival shopping services, as EU's Court of Justice backs a 2017 decision (Samuel Stolton/Bloomberg)",
+            "link": "http://www.techmeme.com/240910/p4#a240910p4",
+            "published": "Tue, 10 Sep 2024 04:10:59 -0400"
+        },
+        {
+            "title": "The European Court of Justice rules against Apple over a record &euro;13B Irish tax bill, backing a landmark decision from 2016 (Arjun Kharpal/CNBC)",
+            "link": "http://www.techmeme.com/240910/p3#a240910p3",
+            "published": "Tue, 10 Sep 2024 04:07:13 -0400"
+        },
+        {
             "title": "An excerpt from the book Character Limit on Musk's acquisition of Twitter and how his inner circle employed hardball tactics in a touch-and-go transaction (Vanity Fair)",
             "link": "http://www.techmeme.com/240910/p2#a240910p2",
             "published": "Tue, 10 Sep 2024 02:15:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Q&A with Mike Krieger on his new role as chief product officer at Anthropic, co-founding and selling news app Artifact, copyright issues, AI safety, and more (Nilay Patel/The Verge)",
             "link": "http://www.techmeme.com/240910/p1#a240910p1",
             "published": "Tue, 10 Sep 2024 00:30:04 -0400"
-        },
-        {
-            "title": "Startups say Pakistan's new China-like firewall is making it harder for them to raise funds, amid complaints about censorship and internet speeds falling by 40% (Kunwar Khuldune Shahid/Rest of World)",
-            "link": "http://www.techmeme.com/240909/p36#a240909p36",
-            "published": "Mon, 09 Sep 2024 22:35:01 -0400"
-        },
-        {
-            "title": "Ofcom: internet replaced TV as UK's most popular news source; 71% of adults get news online, vs. 70% via TV; 52% use social media for news, up from 47% in 2023 (Dan Milmo/The Guardian)",
-            "link": "http://www.techmeme.com/240909/p35#a240909p35",
-            "published": "Mon, 09 Sep 2024 20:15:00 -0400"
-        },
-        {
-            "title": "The FBI says that losses from crypto-related frauds increased 45% YoY to $5.6B in 2023, with losses from investment scams accounting for 71% of the total (Hannah Lang/Reuters)",
-            "link": "http://www.techmeme.com/240909/p34#a240909p34",
-            "published": "Mon, 09 Sep 2024 18:45:04 -0400"
         }
     ],
     "source_1": [
@@ -43,17 +43,22 @@
             "published": "Mon, 09 Sep 2024 23:07:54 +0000"
         },
         {
+            "title": "Google and Apple Lose Appeals in Landmark E.U. Cases",
+            "link": "https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html",
+            "published": "Tue, 10 Sep 2024 08:17:11 +0000"
+        },
+        {
             "title": "Battery Maker Northvolt to Cut Costs as E.V. Demand Slumps in Europe",
             "link": "https://www.nytimes.com/2024/09/09/business/northvolt-battery-electric-vehicles-europe-china.html",
             "published": "Mon, 09 Sep 2024 17:58:42 +0000"
-        },
-        {
-            "title": "Apple Introduces New iPhones with A.I. Features",
-            "link": "https://www.nytimes.com/2024/09/09/technology/apple-iphone-ai-features.html",
-            "published": "Mon, 09 Sep 2024 07:00:59 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "EU court rules Google must pay \u20ac2.4bn fine",
+            "link": "https://www.bbc.com/news/articles/cjw3e1pn741o",
+            "published": "Tue, 10 Sep 2024 08:28:37 GMT"
+        },
         {
             "title": "Apple banks on AI to boost sales of new iPhone 16",
             "link": "https://www.bbc.com/news/articles/c8erzx2n3j7o",
@@ -73,11 +78,6 @@
             "title": "Google abusing ad tech dominance, UK competition watchdog finds",
             "link": "https://www.bbc.com/news/articles/c80en9nvlp9o",
             "published": "Fri, 06 Sep 2024 14:13:44 GMT"
-        },
-        {
-            "title": "Man accused of using bots and AI to earn streaming revenue",
-            "link": "https://www.bbc.com/news/articles/cly3ld9wy3eo",
-            "published": "Fri, 06 Sep 2024 10:24:11 GMT"
         }
     ]
 }
