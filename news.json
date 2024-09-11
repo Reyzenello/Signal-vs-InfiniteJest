@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Vancouver-based Spare, whose software helps transit agencies offer transport services based on riders' own needs, raised a CA$42M Series B led by Inovia Capital (Alex Riehl/BetaKit)",
+            "link": "http://www.techmeme.com/240911/p22#a240911p22",
+            "published": "Wed, 11 Sep 2024 18:05:01 -0400"
+        },
+        {
             "title": "Altera CEO denies a report that Intel plans to outright sell Altera, saying the plan is to sell a stake in the business and push for an IPO of the unit by 2026 (CRN)",
             "link": "http://www.techmeme.com/240911/p21#a240911p21",
             "published": "Wed, 11 Sep 2024 16:45:01 -0400"
@@ -19,14 +24,14 @@
             "title": "Google adds Audio Overview to NotebookLM, letting users turn documents into audio discussions with two AI hosts that summarize and explain the source material (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/240911/p18#a240911p18",
             "published": "Wed, 11 Sep 2024 15:55:01 -0400"
-        },
-        {
-            "title": "Bluesky rolls out the ability to post videos of up to 60 seconds with optional attached subtitles; each post can contain one video, and adult content is allowed (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/240911/p17#a240911p17",
-            "published": "Wed, 11 Sep 2024 14:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI in Talks That Value Company at $150 Billion",
+            "link": "https://www.nytimes.com/2024/09/11/technology/openai-fund-raising-valuation.html",
+            "published": "Wed, 11 Sep 2024 21:47:38 +0000"
+        },
         {
             "title": "Mark Zuckerberg Discusses Meta at \u2018Acquired\u2019 Podcast Live Taping",
             "link": "https://www.nytimes.com/2024/09/11/technology/mark-zuckerberg-podcast-acquired.html",
@@ -41,11 +46,6 @@
             "title": "China\u2019s Huawei Unveils the Mate XT, Its $2,800 \u2018Trifold\u2019 Phone",
             "link": "https://www.nytimes.com/2024/09/10/business/huawei-trifold-iphone.html",
             "published": "Tue, 10 Sep 2024 18:18:36 +0000"
-        },
-        {
-            "title": "Apple \u2018Glowtime\u2019 Event Puts New Apple Watches, iPhone 16 on Full Display",
-            "link": "https://www.nytimes.com/2024/09/09/technology/apple-event-iphone-16-watch.html",
-            "published": "Mon, 09 Sep 2024 21:46:24 +0000"
         },
         {
             "title": "When Self-Driving Cars Don\u2019t Actually Drive Themselves",
