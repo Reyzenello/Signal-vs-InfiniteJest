@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI claims that in a qualifying exam for the International Mathematics Olympiad, o1 correctly solved 83% of the problems, while GPT-4o solved only 13% (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240912/p27#a240912p27",
+            "published": "Thu, 12 Sep 2024 13:21:35 -0400"
+        },
+        {
+            "title": "OpenAI releases o1, the first of the rumored reasoning-focused Strawberry models, in preview, alongside a smaller o1-mini, for ChatGPT Plus and Team users (Kylie Robison/The Verge)",
+            "link": "http://www.techmeme.com/240912/p26#a240912p26",
+            "published": "Thu, 12 Sep 2024 13:16:21 -0400"
+        },
+        {
+            "title": "Utah-based Strider, which analyzes OSINT to help protect organizations against nation-state attacks, raised a $55M Series C, bringing its total funding to $110M (James Rundle/Wall Street Journal)",
+            "link": "http://www.techmeme.com/240912/p25#a240912p25",
+            "published": "Thu, 12 Sep 2024 12:45:01 -0400"
+        },
+        {
             "title": "A hacker says he tricked ChatGPT into giving detailed instructions to make a fertilizer bomb, by getting it to \"play a game\" and create a sci-fi fantasy world (Lorenzo Franceschi-Bicchierai/TechCrunch)",
             "link": "http://www.techmeme.com/240912/p24#a240912p24",
             "published": "Thu, 12 Sep 2024 12:25:15 -0400"
@@ -9,43 +24,28 @@
             "title": "How the hearing aid feature in AirPods Pro 2 could change the hearing aid industry, where most devices range from $799 into the thousands of dollars (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/240912/p23#a240912p23",
             "published": "Thu, 12 Sep 2024 12:15:02 -0400"
-        },
-        {
-            "title": "Google rolls out Gemini Live to free users with Android devices set to English, following its release to Gemini Advanced subscribers last month (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/240912/p22#a240912p22",
-            "published": "Thu, 12 Sep 2024 12:10:18 -0400"
-        },
-        {
-            "title": "The FDA approves the Hearing Aid Feature in Apple's AirPods Pro 2, calling it the \"first over-the-counter hearing aid software device\" (Brian Heater/TechCrunch)",
-            "link": "http://www.techmeme.com/240912/p21#a240912p21",
-            "published": "Thu, 12 Sep 2024 12:05:01 -0400"
-        },
-        {
-            "title": "Microsoft hires Carolina Dybeck Happe as its executive vice president and COO; Dybeck Happe was previously the CFO at GE (CNBC)",
-            "link": "http://www.techmeme.com/240912/p20#a240912p20",
-            "published": "Thu, 12 Sep 2024 11:38:58 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Unveils New ChatGPT That Can Do Math",
+            "link": "https://www.nytimes.com/2024/09/12/technology/openai-chatgpt-math.html",
+            "published": "Thu, 12 Sep 2024 17:05:12 +0000"
+        },
         {
             "title": "OpenAI in Talks That Value Company at $150 Billion",
             "link": "https://www.nytimes.com/2024/09/11/technology/openai-fund-raising-valuation.html",
             "published": "Wed, 11 Sep 2024 23:25:13 +0000"
         },
         {
+            "title": "U.S. Pushes Nigeria to Release Tigran Gambaryan of Binance",
+            "link": "https://www.nytimes.com/2024/09/12/technology/binance-nigeria-tigran-gambaryan.html",
+            "published": "Thu, 12 Sep 2024 17:22:31 +0000"
+        },
+        {
             "title": "Mark Zuckerberg Discusses Meta at \u2018Acquired\u2019 Podcast Live Taping",
             "link": "https://www.nytimes.com/2024/09/11/technology/mark-zuckerberg-podcast-acquired.html",
             "published": "Wed, 11 Sep 2024 19:13:18 +0000"
-        },
-        {
-            "title": "Google and Apple Face Billions in Penalties After Losing E.U. Appeals",
-            "link": "https://www.nytimes.com/2024/09/10/technology/european-union-apple-google-antitrust.html",
-            "published": "Tue, 10 Sep 2024 19:06:51 +0000"
-        },
-        {
-            "title": "China\u2019s Huawei Unveils the Mate XT, Its $2,800 \u2018Trifold\u2019 Phone",
-            "link": "https://www.nytimes.com/2024/09/10/business/huawei-trifold-iphone.html",
-            "published": "Tue, 10 Sep 2024 18:18:36 +0000"
         },
         {
             "title": "G.M. and Hyundai Plan to Work Together on New Vehicles",
