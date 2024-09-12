@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Facebook and Instagram make AI labels less prominent on content edited with AI, moving them to a menu; the labels will still appear on AI-generated content (The Verge)",
+            "link": "http://www.techmeme.com/240912/p30#a240912p30",
+            "published": "Thu, 12 Sep 2024 15:10:01 -0400"
+        },
+        {
+            "title": "Sources: Spotify is trying to entice video-oriented creators to distribute shows on the platform in addition to YouTube, sometimes offering them seven figures (Ashley Carman/Bloomberg)",
+            "link": "http://www.techmeme.com/240912/p29#a240912p29",
+            "published": "Thu, 12 Sep 2024 14:55:01 -0400"
+        },
+        {
             "title": "o1 System Card: \"medium\" rating for chemical, biological, radiological, nuclear weapon risk, and it \"sometimes instrumentally faked alignment during testing\" (Shakeel Hashim/Transformer)",
             "link": "http://www.techmeme.com/240912/p28#a240912p28",
             "published": "Thu, 12 Sep 2024 14:25:04 -0400"
@@ -14,21 +24,11 @@
             "title": "OpenAI releases o1, the first of the rumored reasoning-focused Strawberry models, in preview, alongside a smaller o1-mini, for ChatGPT Plus and Team users (Kylie Robison/The Verge)",
             "link": "http://www.techmeme.com/240912/p26#a240912p26",
             "published": "Thu, 12 Sep 2024 13:16:21 -0400"
-        },
-        {
-            "title": "Utah-based Strider, which analyzes OSINT to help protect organizations against nation-state attacks, raised a $55M Series C, bringing its total funding to $110M (James Rundle/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240912/p25#a240912p25",
-            "published": "Thu, 12 Sep 2024 12:45:01 -0400"
-        },
-        {
-            "title": "A hacker says he tricked ChatGPT into giving detailed instructions to make a fertilizer bomb, by getting it to \"play a game\" and create a sci-fi fantasy world (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-            "link": "http://www.techmeme.com/240912/p24#a240912p24",
-            "published": "Thu, 12 Sep 2024 12:25:15 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "OpenAI Unveils New ChatGPT That Can Do Math",
+            "title": "OpenAI Unveils o1 ChatGPT Model That Can Reason Through Math and Science",
             "link": "https://www.nytimes.com/2024/09/12/technology/openai-chatgpt-math.html",
             "published": "Thu, 12 Sep 2024 18:26:46 +0000"
         },
