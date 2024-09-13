@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: CoreWeave is in talks to arrange a sale of existing shares, valuing it at $23B, up from $19.1B in May; shareholders may sell up to $500M (Bloomberg)",
+            "link": "http://www.techmeme.com/240913/p15#a240913p15",
+            "published": "Fri, 13 Sep 2024 11:05:01 -0400"
+        },
+        {
+            "title": "United Airlines plans to start testing Starlink internet service early next year, with the first passenger flights likely equipped with free Wi-Fi later in 2025 (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240913/p14#a240913p14",
+            "published": "Fri, 13 Sep 2024 10:55:05 -0400"
+        },
+        {
+            "title": "Meta restarts efforts to train its AI systems using public Facebook and Instagram posts from its UK users, having \"incorporated regulatory feedback\" (Paul Sawers/TechCrunch)",
+            "link": "http://www.techmeme.com/240913/p13#a240913p13",
+            "published": "Fri, 13 Sep 2024 10:40:05 -0400"
+        },
+        {
             "title": "Sources detail a bleak picture for startup founders in China; report: only 1,202 startups were founded in 2023 in the country compared to 51,302 in 2018 (Financial Times)",
             "link": "http://www.techmeme.com/240913/p12#a240913p12",
             "published": "Fri, 13 Sep 2024 10:10:03 -0400"
@@ -9,33 +24,18 @@
             "title": "Waymo and Uber plan to expand their robotaxi partnership in Phoenix, Arizona, to Austin and Atlanta, starting in early 2025 (Andrew J. Hawkins/The Verge)",
             "link": "http://www.techmeme.com/240913/p11#a240913p11",
             "published": "Fri, 13 Sep 2024 09:55:03 -0400"
-        },
-        {
-            "title": "FanDuel and Betfair's parent company, Flutter, agrees to acquire a 56% stake in Brazilian online gaming operator NSX for a cash consideration of about $350M (Daniel Zuidijk/Bloomberg)",
-            "link": "http://www.techmeme.com/240913/p10#a240913p10",
-            "published": "Fri, 13 Sep 2024 09:40:07 -0400"
-        },
-        {
-            "title": "Second Front, which helps companies deploy software in sensitive government networks, raised a $75M Series C led by Salesforce, sources say at a $750M valuation (David Jeans/Forbes)",
-            "link": "http://www.techmeme.com/240913/p9#a240913p9",
-            "published": "Fri, 13 Sep 2024 09:35:01 -0400"
-        },
-        {
-            "title": "The White House plans to curb the \"overuse and abuse\" of the de minimis loophole used by Shein and Temu, which exempts packages worth $800 or less from tariffs (CNBC)",
-            "link": "http://www.techmeme.com/240913/p8#a240913p8",
-            "published": "Fri, 13 Sep 2024 09:25:04 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "How Elon Musk\u2019s Security Detail Has Grown Following Death Threats and Stalkers",
+            "link": "https://www.nytimes.com/2024/09/13/technology/elon-musk-security.html",
+            "published": "Fri, 13 Sep 2024 09:00:56 +0000"
+        },
+        {
             "title": "OpenAI Unveils o1 ChatGPT Model That Can Reason Through Math and Science",
             "link": "https://www.nytimes.com/2024/09/12/technology/openai-chatgpt-math.html",
             "published": "Thu, 12 Sep 2024 23:34:54 +0000"
-        },
-        {
-            "title": "OpenAI in Talks That Value Company at $150 Billion",
-            "link": "https://www.nytimes.com/2024/09/11/technology/openai-fund-raising-valuation.html",
-            "published": "Wed, 11 Sep 2024 23:25:13 +0000"
         },
         {
             "title": "U.S. Pushes Nigeria to Release Tigran Gambaryan of Binance",
@@ -43,14 +43,14 @@
             "published": "Thu, 12 Sep 2024 18:19:07 +0000"
         },
         {
-            "title": "Mark Zuckerberg Discusses Meta at \u2018Acquired\u2019 Podcast Live Taping",
-            "link": "https://www.nytimes.com/2024/09/11/technology/mark-zuckerberg-podcast-acquired.html",
-            "published": "Wed, 11 Sep 2024 19:13:18 +0000"
-        },
-        {
             "title": "Do You Need a New iPhone? + Yuval Noah Harari\u2019s A.I. Fears + Hard Fork Crimes Division",
             "link": "https://www.nytimes.com/2024/09/13/podcasts/do-you-need-a-new-iphone-yuval-noah-hararis-ai-fears-hard-fork-crimes-division.html",
             "published": "Fri, 13 Sep 2024 09:04:07 +0000"
+        },
+        {
+            "title": "G.M. and Hyundai Plan to Work Together on New Vehicles",
+            "link": "https://www.nytimes.com/2024/09/12/business/general-motors-hyundai-partnership.html",
+            "published": "Thu, 12 Sep 2024 10:00:12 +0000"
         }
     ],
     "source_2": [
@@ -62,7 +62,7 @@
         {
             "title": "Cristiano Ronaldo hits 1bn social media followers",
             "link": "https://www.bbc.com/news/articles/cn5r5nk4ry6o",
-            "published": "Fri, 13 Sep 2024 12:00:49 GMT"
+            "published": "Fri, 13 Sep 2024 15:09:53 GMT"
         },
         {
             "title": "Vodafone clashes with watchdog over Three merger",
