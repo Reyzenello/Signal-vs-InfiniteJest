@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A profile of Fei-Fei Li's World Labs, which aims to create \"spatial intelligence\" in AI and raised $230M from a16z and others, reportedly at a $1B valuation (Steven Levy/Wired)",
+            "link": "http://www.techmeme.com/240913/p7#a240913p7",
+            "published": "Fri, 13 Sep 2024 08:30:13 -0400"
+        },
+        {
+            "title": "Sources: Microsoft has pitched its AI to ExxonMobil, Chevron, and others to find and develop oil and gas reserves while publicly committing to reduce emissions (Karen Hao/The Atlantic)",
+            "link": "http://www.techmeme.com/240913/p6#a240913p6",
+            "published": "Fri, 13 Sep 2024 08:25:03 -0400"
+        },
+        {
             "title": "Apple to allow alternative app stores and browser engines on iPads in the EU with iPadOS 18 on September 16, after the EU applied DMA rules on iPadOS in April (Romain Dillet/TechCrunch)",
             "link": "http://www.techmeme.com/240913/p5#a240913p5",
             "published": "Fri, 13 Sep 2024 06:37:00 -0400"
@@ -14,16 +24,6 @@
             "title": "In a provisional ruling, the CMA says Vodafone and Three's planned $19B merger could lead to higher prices, diminished service, and reduced investment in the UK (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/240913/p3#a240913p3",
             "published": "Fri, 13 Sep 2024 04:35:01 -0400"
-        },
-        {
-            "title": "Q&A with Alibaba.com president Kuo Zhang on the enduring importance of the US market, navigating geopolitical tensions, competing with Shein and Temu, and more (Viola Zhou/Rest of World)",
-            "link": "http://www.techmeme.com/240913/p2#a240913p2",
-            "published": "Fri, 13 Sep 2024 02:15:01 -0400"
-        },
-        {
-            "title": "OpenAI's o1 models aren't as simple as the next step up from GPT-4o as they introduce major cost and performance trade-offs in exchange for improved \"reasoning\" (Simon Willison/Simon Willison's Weblog)",
-            "link": "http://www.techmeme.com/240913/p1#a240913p1",
-            "published": "Fri, 13 Sep 2024 00:20:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Stephen Fry: Musk and Zuckerberg have 'polluted culture'",
+            "link": "https://www.bbc.com/news/articles/ceq5q3jlnz3o",
+            "published": "Fri, 13 Sep 2024 12:41:06 GMT"
+        },
+        {
+            "title": "Cristiano Ronaldo hits 1bn social media followers",
+            "link": "https://www.bbc.com/news/articles/cn5r5nk4ry6o",
+            "published": "Fri, 13 Sep 2024 12:00:49 GMT"
+        },
+        {
             "title": "Vodafone clashes with watchdog over Three merger",
             "link": "https://www.bbc.com/news/articles/crlrl009kwxo",
             "published": "Fri, 13 Sep 2024 08:06:12 GMT"
@@ -68,16 +78,6 @@
             "title": "Data centres as vital as NHS and power grid, government says",
             "link": "https://www.bbc.com/news/articles/c23ljy4z05mo",
             "published": "Thu, 12 Sep 2024 08:41:23 GMT"
-        },
-        {
-            "title": "Microsoft lays off more gaming staff in new cuts",
-            "link": "https://www.bbc.com/news/articles/cq82852kkz8o",
-            "published": "Thu, 12 Sep 2024 14:00:56 GMT"
-        },
-        {
-            "title": "Sony reveals much more expensive and powerful PlayStation 5 Pro",
-            "link": "https://www.bbc.com/news/articles/cx29r65ygdqo",
-            "published": "Tue, 10 Sep 2024 15:54:09 GMT"
         }
     ]
 }
