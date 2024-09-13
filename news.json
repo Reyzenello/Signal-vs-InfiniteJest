@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "German prosecutors open a sexual harassment probe into SAP CTO J&uuml;rgen M&uuml;ller, after SAP said he'd resign at the end of September due to \"inappropriate\" behavior (Bloomberg)",
+            "link": "http://www.techmeme.com/240913/p21#a240913p21",
+            "published": "Fri, 13 Sep 2024 14:20:00 -0400"
+        },
+        {
+            "title": "Filing: 23andMe will pay $30M to settle a lawsuit for failing to protect the privacy of 6.9M customers whose personal info was exposed in a 2023 data breach (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/240913/p20#a240913p20",
+            "published": "Fri, 13 Sep 2024 13:30:01 -0400"
+        },
+        {
             "title": "Apple files to drop its NSO suit, citing Israeli government's alleged seizure of NSO files, and saying Apple's court disclosures may aid NSO and other hackers (Joseph Menn/Washington Post)",
             "link": "http://www.techmeme.com/240913/p19#a240913p19",
             "published": "Fri, 13 Sep 2024 13:10:05 -0400"
@@ -14,16 +24,6 @@
             "title": "Spotify begins piloting parent-managed accounts for kids under 13 on family plans in select markets, including Denmark, New Zealand, and Sweden (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/240913/p17#a240913p17",
             "published": "Fri, 13 Sep 2024 11:40:01 -0400"
-        },
-        {
-            "title": "Sources: the European Commission is poised to conclude X does not fall under its Digital Markets Act, after a probe found X's impact on EU markets is too small (Samuel Stolton/Bloomberg)",
-            "link": "http://www.techmeme.com/240913/p16#a240913p16",
-            "published": "Fri, 13 Sep 2024 11:30:00 -0400"
-        },
-        {
-            "title": "Sources: CoreWeave is in talks to sell existing shares, valuing it at $23B, up from $19.1B in May 2024; shareholders, such as employees, may sell $400M to $500M (Bloomberg)",
-            "link": "http://www.techmeme.com/240913/p15#a240913p15",
-            "published": "Fri, 13 Sep 2024 11:05:01 -0400"
         }
     ],
     "source_1": [
@@ -33,14 +33,14 @@
             "published": "Fri, 13 Sep 2024 16:14:25 +0000"
         },
         {
+            "title": "Donald Trump Prepares to Unveil World Liberty Financial, a Cryptocurrency Business",
+            "link": "https://www.nytimes.com/2024/09/13/technology/donald-trump-cryptocurrency-business.html",
+            "published": "Fri, 13 Sep 2024 18:28:29 +0000"
+        },
+        {
             "title": "OpenAI Unveils o1 ChatGPT Model That Can Reason Through Math and Science",
             "link": "https://www.nytimes.com/2024/09/12/technology/openai-chatgpt-math.html",
             "published": "Thu, 12 Sep 2024 23:34:54 +0000"
-        },
-        {
-            "title": "U.S. Pushes Nigeria to Release Tigran Gambaryan of Binance",
-            "link": "https://www.nytimes.com/2024/09/12/technology/binance-nigeria-tigran-gambaryan.html",
-            "published": "Thu, 12 Sep 2024 18:19:07 +0000"
         },
         {
             "title": "Do You Need a New iPhone? + Yuval Noah Harari\u2019s A.I. Fears + Hard Fork Crimes Division",
@@ -48,9 +48,9 @@
             "published": "Fri, 13 Sep 2024 09:04:07 +0000"
         },
         {
-            "title": "G.M. and Hyundai Plan to Work Together on New Vehicles",
-            "link": "https://www.nytimes.com/2024/09/12/business/general-motors-hyundai-partnership.html",
-            "published": "Thu, 12 Sep 2024 10:00:12 +0000"
+            "title": "U.S. Pushes Nigeria to Release Tigran Gambaryan of Binance",
+            "link": "https://www.nytimes.com/2024/09/12/technology/binance-nigeria-tigran-gambaryan.html",
+            "published": "Thu, 12 Sep 2024 18:19:07 +0000"
         }
     ],
     "source_2": [
