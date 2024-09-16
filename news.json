@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "At an Oracle investor Q&A, Larry Ellison pitched a future where AI systems would constantly monitor citizens through an extensive network of cameras and drones (Benj Edwards/Ars Technica)",
+            "link": "http://www.techmeme.com/240916/p31#a240916p31",
+            "published": "Mon, 16 Sep 2024 19:00:38 -0400"
+        },
+        {
+            "title": "Microsoft unveils a $60B stock buyback program, matching its largest-ever repurchase authorization, and raises its quarterly dividend by 10% to $0.83 per share (Andrew Pollack/Bloomberg)",
+            "link": "http://www.techmeme.com/240916/p30#a240916p30",
+            "published": "Mon, 16 Sep 2024 18:30:00 -0400"
+        },
+        {
             "title": "Runway announces an API for its video-generating AI model Gen-3 Alpha Turbo, with two plans available via a waitlist, starting at $0.01 per credit (Shubham Sharma/VentureBeat)",
             "link": "http://www.techmeme.com/240916/p29#a240916p29",
             "published": "Mon, 16 Sep 2024 18:15:14 -0400"
@@ -14,28 +24,23 @@
             "title": "Review of iOS 18: despite missing upcoming AI features, there's plenty to like including bold personalization options and solid updates to Notes, Calendar, Maps (Philip Michaels/Tom's Guide)",
             "link": "http://www.techmeme.com/240916/p27#a240916p27",
             "published": "Mon, 16 Sep 2024 17:20:00 -0400"
-        },
-        {
-            "title": "A US appeals court signals skepticism with TikTok's arguments against the law that could force it to sever ties with China to keep operating in the US (Jacob Gershman/Wall Street Journal)",
-            "link": "http://www.techmeme.com/240916/p26#a240916p26",
-            "published": "Mon, 16 Sep 2024 17:00:49 -0400"
-        },
-        {
-            "title": "Intel announces it is creating a separate entity for its foundry business, a structure that could allow it to raise outside funding; INTC jumps 5%+ after hours (CNBC)",
-            "link": "http://www.techmeme.com/240916/p25#a240916p25",
-            "published": "Mon, 16 Sep 2024 16:23:42 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Amazon Tells Employees to Return to Office Five Days a Week",
+            "link": "https://www.nytimes.com/2024/09/16/technology/amazon-return-to-office.html",
+            "published": "Mon, 16 Sep 2024 20:58:37 +0000"
+        },
+        {
+            "title": "YouTube CEO Neal Mohan Testifies Google Faces Plenty of Ad Tech Competition",
+            "link": "https://www.nytimes.com/2024/09/16/technology/google-antitrust-youtube-ceo.html",
+            "published": "Mon, 16 Sep 2024 20:35:46 +0000"
+        },
+        {
             "title": "How SMIC, China\u2019s Semiconductor Champion, Landed in the Heart of a Tech War",
             "link": "https://www.nytimes.com/2024/09/16/technology/smic-china-us-trade-war.html",
             "published": "Mon, 16 Sep 2024 16:15:10 +0000"
-        },
-        {
-            "title": "Will TikTok Be Banned in January? That Question is Headed to Court",
-            "link": "https://www.nytimes.com/2024/09/16/technology/tiktok-us-ban-court.html",
-            "published": "Mon, 16 Sep 2024 17:37:18 +0000"
         },
         {
             "title": "A.I. Pioneers Call for Protections Against \u2018Catastrophic Risks\u2019",
@@ -43,14 +48,9 @@
             "published": "Mon, 16 Sep 2024 19:04:31 +0000"
         },
         {
-            "title": "How Elon Musk\u2019s Security Detail Has Grown Following Death Threats and Stalkers",
-            "link": "https://www.nytimes.com/2024/09/13/technology/elon-musk-security.html",
-            "published": "Sat, 14 Sep 2024 16:48:50 +0000"
-        },
-        {
-            "title": "Amazon Tells Employees to Return to Office Five Days a Week",
-            "link": "https://www.nytimes.com/2024/09/16/technology/amazon-return-to-office.html",
-            "published": "Mon, 16 Sep 2024 20:58:37 +0000"
+            "title": "TikTok Faces Tough Questions From Judges in Fight Over U.S. Ban",
+            "link": "https://www.nytimes.com/2024/09/16/technology/tiktok-us-ban-case.html",
+            "published": "Mon, 16 Sep 2024 21:21:11 +0000"
         }
     ],
     "source_2": [
