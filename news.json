@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft calls for \"clarity and consistency\" over US export controls that have held up shipping AI chips to UAE-based G42, in which Microsoft invested $1.5B (Financial Times)",
+            "link": "http://www.techmeme.com/240917/p11#a240917p11",
+            "published": "Tue, 17 Sep 2024 08:20:02 -0400"
+        },
+        {
+            "title": "Apple Watch Series 10 review: bigger display, wide-angle OLED, faster charging, and sleep apnea detection, but no blood oxygen and another year of minor updates (Victoria Song/The Verge)",
+            "link": "http://www.techmeme.com/240917/p10#a240917p10",
+            "published": "Tue, 17 Sep 2024 08:10:03 -0400"
+        },
+        {
+            "title": "Instagram unveils Teen Accounts, a sweeping update to boost privacy and limit intrusive effects for under-18 users, including making accounts private by default (New York Times)",
+            "link": "http://www.techmeme.com/240917/p9#a240917p9",
+            "published": "Tue, 17 Sep 2024 08:00:48 -0400"
+        },
+        {
             "title": "How Netflix staged a remarkable recovery since its 2022 stock crash, adding 45M+ subscribers via a password crackdown and gaining an edge over Hollywood rivals (Christopher Grimes/Financial Times)",
             "link": "http://www.techmeme.com/240917/p8#a240917p8",
             "published": "Tue, 17 Sep 2024 06:30:04 -0400"
@@ -9,21 +24,6 @@
             "title": "EssilorLuxottica and Meta agree a 10-year deal to continue developing smart eyewear, after creating two generations of Ray-Ban glasses since 2019 (Reuters)",
             "link": "http://www.techmeme.com/240917/p7#a240917p7",
             "published": "Tue, 17 Sep 2024 06:10:01 -0400"
-        },
-        {
-            "title": "OpenAI confirms fixing an issue \"where it appeared as though ChatGPT was starting new conversations\", after users reported ChatGPT reaching out proactively (Victor Tangermann/Futurism)",
-            "link": "http://www.techmeme.com/240917/p6#a240917p6",
-            "published": "Tue, 17 Sep 2024 05:55:01 -0400"
-        },
-        {
-            "title": "A look at France's LOPMI law, enacted in January 2023 to criminalize tech executives whose platforms allow illegal activities, as Pavel Durov remains on bail (Gabriel Stargardter/Reuters)",
-            "link": "http://www.techmeme.com/240917/p5#a240917p5",
-            "published": "Tue, 17 Sep 2024 05:25:15 -0400"
-        },
-        {
-            "title": "German grocery delivery app Flink raised $115M in equity and $35M in debt, sources say at a valuation just under $1B; Flink has raised $1.5B+, per PitchBook (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/240917/p4#a240917p4",
-            "published": "Tue, 17 Sep 2024 05:10:01 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,21 @@
             "published": "Mon, 16 Sep 2024 16:15:10 +0000"
         },
         {
-            "title": "Meta Plans to Ban the Russian TV Network RT",
-            "link": "https://www.nytimes.com/2024/09/17/technology/meta-rt-russian-tv.html",
-            "published": "Tue, 17 Sep 2024 07:54:53 +0000"
+            "title": "Instagram Teen Accounts: What to Know About New Privacy Settings",
+            "link": "https://www.nytimes.com/2024/09/17/technology/instagram-teen-account-settings-safety.html",
+            "published": "Tue, 17 Sep 2024 12:06:50 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Instagram gives parents more control over teen accounts",
+            "link": "https://www.bbc.com/news/articles/c77x44zplkyo",
+            "published": "Tue, 17 Sep 2024 11:59:24 GMT"
+        },
+        {
             "title": "Facebook owner bans Russian state media networks",
             "link": "https://www.bbc.com/news/articles/c4gllnx0p40o",
-            "published": "Tue, 17 Sep 2024 07:43:30 GMT"
+            "published": "Tue, 17 Sep 2024 11:40:11 GMT"
         },
         {
             "title": "TikTok says US ban would have \u2018staggering\u2019 impact on free speech",
@@ -73,11 +78,6 @@
             "title": "Women in tech groups 'can\u2019t run on inspiration alone'",
             "link": "https://www.bbc.com/news/articles/c7858w2yj75o",
             "published": "Sun, 15 Sep 2024 23:34:11 GMT"
-        },
-        {
-            "title": "Stephen Fry: Musk and Zuckerberg have 'polluted culture'",
-            "link": "https://www.bbc.com/news/articles/ceq5q3jlnz3o",
-            "published": "Fri, 13 Sep 2024 12:41:06 GMT"
         }
     ]
 }
