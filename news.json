@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "IBM acquires Kubecost, a FinOps startup launched in 2019 that helps companies monitor and optimize Kubernetes clusters; Kubecost had raised $30M+ in funding (Frederic Lardinois/TechCrunch)",
+            "link": "http://www.techmeme.com/240917/p20#a240917p20",
+            "published": "Tue, 17 Sep 2024 13:05:06 -0400"
+        },
+        {
+            "title": "Google plans to flag AI-generated images that have C2PA metadata on Search, Google Lens, and Circle to Search in the \"about this image\" box, within a few months (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/240917/p19#a240917p19",
+            "published": "Tue, 17 Sep 2024 12:51:24 -0400"
+        },
+        {
             "title": "The EU picks veteran Finnish lawmaker Henna Virkkunen to take over from Thierry Breton, pending her confirmation; Virkkunen was central in creating the DSA (Bloomberg)",
             "link": "http://www.techmeme.com/240917/p18#a240917p18",
             "published": "Tue, 17 Sep 2024 12:20:14 -0400"
@@ -14,16 +24,6 @@
             "title": "Uber says it plans to start checking US passengers' account info against third-party ID verification databases; drivers will be able to see a user's blue badge (Curtis Heinzl/Bloomberg)",
             "link": "http://www.techmeme.com/240917/p16#a240917p16",
             "published": "Tue, 17 Sep 2024 11:55:00 -0400"
-        },
-        {
-            "title": "Wintermute partners with Chaos Labs to launch a crypto-based betting site focused on the US presidential election; Polymarket has ~$1B in wagers on that contest (Muyao Shen/Bloomberg)",
-            "link": "http://www.techmeme.com/240917/p15#a240917p15",
-            "published": "Tue, 17 Sep 2024 10:50:01 -0400"
-        },
-        {
-            "title": "Armenian startup EasyDMARC, which uses the DMARC standard to simplify email security and authentication, raised a $20M Series A led by Radian Capital (Mike Butcher/TechCrunch)",
-            "link": "http://www.techmeme.com/240917/p14#a240917p14",
-            "published": "Tue, 17 Sep 2024 09:25:01 -0400"
         }
     ],
     "source_1": [
