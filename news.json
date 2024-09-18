@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The EU's General Court backs Google's challenge against the EU's &euro;1.49B antitrust fine, imposed in 2019 for hindering rivals in online search ads (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/240918/p14#a240918p14",
+            "published": "Wed, 18 Sep 2024 04:20:01 -0400"
+        },
+        {
+            "title": "How a trademark fight led to a new version of Flappy Bird by a crypto-adjacent game developer, ten years after the original was pulled from app stores (Kyle Orland/Ars Technica)",
+            "link": "http://www.techmeme.com/240918/p13#a240918p13",
+            "published": "Wed, 18 Sep 2024 04:10:02 -0400"
+        },
+        {
+            "title": "India, which has set aside $11B for its semiconductor mission, is obsessing over self-reliance instead of focusing on areas that can be scaled up quickly (Mihir Sharma/Bloomberg)",
+            "link": "http://www.techmeme.com/240918/p12#a240918p12",
+            "published": "Wed, 18 Sep 2024 03:55:40 -0400"
+        },
+        {
             "title": "Apple pulls the iPadOS 18 update for M4 iPad Pro models after bricking complaints as the company works \"to resolve an issue impacting a small number of devices\" (Juli Clover/MacRumors)",
             "link": "http://www.techmeme.com/240918/p11#a240918p11",
             "published": "Wed, 18 Sep 2024 03:01:15 -0400"
@@ -9,21 +24,6 @@
             "title": "Intel's decision to delay new Germany and Poland plants by two years is a blow to the EU's goal of making 20% of the world's chips by 2030, up from ~9% in 2022 (Pieter Haeck/Politico)",
             "link": "http://www.techmeme.com/240918/p10#a240918p10",
             "published": "Wed, 18 Sep 2024 02:45:03 -0400"
-        },
-        {
-            "title": "Taiwanese chip industry suppliers have been expanding into the Japanese island of Kyushu, which has become a gateway for business growth after TSMC's arrival (Nikkei Asia)",
-            "link": "http://www.techmeme.com/240918/p9#a240918p9",
-            "published": "Wed, 18 Sep 2024 02:35:02 -0400"
-        },
-        {
-            "title": "BHP, the world's largest mining company by market cap, warns the rise of data centers and AI could exacerbate a looming shortage of copper by increasing demand (Leslie Hook/Financial Times)",
-            "link": "http://www.techmeme.com/240918/p8#a240918p8",
-            "published": "Wed, 18 Sep 2024 02:20:01 -0400"
-        },
-        {
-            "title": "CEO Anne Wojcicki says she remains committed to taking 23andMe private and is \"surprised and disappointed\" after all seven independent board directors resigned (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/240918/p7#a240918p7",
-            "published": "Wed, 18 Sep 2024 02:05:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google wins legal challenge against 1.49bn euro fine",
+            "link": "https://www.bbc.com/news/articles/c62rjd363j1o",
+            "published": "Wed, 18 Sep 2024 08:20:42 GMT"
+        },
+        {
             "title": "Instagram boosts privacy and parental control on teen accounts",
             "link": "https://www.bbc.com/news/articles/c77x44zplkyo",
             "published": "Tue, 17 Sep 2024 13:59:12 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok says US ban would have \u2018staggering\u2019 impact on free speech",
             "link": "https://www.bbc.com/news/articles/c5y3y79llndo",
             "published": "Mon, 16 Sep 2024 18:24:04 GMT"
-        },
-        {
-            "title": "Secret Service 'aware' of Elon Musk post about Harris, Biden",
-            "link": "https://www.bbc.com/news/articles/c74882jq39vo",
-            "published": "Tue, 17 Sep 2024 01:45:14 GMT"
         }
     ]
 }
