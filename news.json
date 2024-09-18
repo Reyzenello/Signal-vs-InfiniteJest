@@ -1,17 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "X is live again for many Brazilian users after the platform made a change to deliver its site in Brazil; a source says X switched to Cloudflare (Jack Nicas/New York Times)",
+            "link": "http://www.techmeme.com/240918/p41#a240918p41",
+            "published": "Wed, 18 Sep 2024 17:05:24 -0400"
+        },
+        {
             "title": "Sources: Google tried to end an EU antitrust probe by offering to sell its ad marketplace AdX, or Ad Exchange, but European publishers rejected the proposal (Reuters)",
             "link": "http://www.techmeme.com/240918/p40#a240918p40",
             "published": "Wed, 18 Sep 2024 15:25:01 -0400"
         },
         {
-            "title": "SocialAI, a new iOS app that looks like a social network, is filled entirely with bots and lets users populate their network with up to 32 types of bots (Natasha Lomas/TechCrunch)",
+            "title": "SocialAI, a new iOS app that looks like a microblogging social network, is filled with bots and lets users populate their network with up to 32 types of bots (Natasha Lomas/TechCrunch)",
             "link": "http://www.techmeme.com/240918/p39#a240918p39",
             "published": "Wed, 18 Sep 2024 14:25:01 -0400"
         },
         {
-            "title": "The FBI says it disrupted a botnet of \"hundreds of thousands\" of devices worldwide last week, run by the China-linked hacking group Flax Typhoon (Joe Warminsky/The Record)",
+            "title": "The FBI says it disrupted a botnet of \"hundreds of thousands\" of devices worldwide last week that was operated by the China-linked hacking group Flax Typhoon (Joe Warminsky/The Record)",
             "link": "http://www.techmeme.com/240918/p38#a240918p38",
             "published": "Wed, 18 Sep 2024 13:35:01 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "T-Mobile announces a multi-year partnership with OpenAI that includes building IntentCX, a customer service system powered by AI agents (Ina Fried/Axios)",
             "link": "http://www.techmeme.com/240918/p37#a240918p37",
             "published": "Wed, 18 Sep 2024 13:05:04 -0400"
-        },
-        {
-            "title": "Open-source chip design company SiFive unveils the SiFive Intelligence XM Series, its latest RISC-V-based blueprints to help companies develop AI chips (Mike Wheatley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/240918/p36#a240918p36",
-            "published": "Wed, 18 Sep 2024 12:00:52 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "X working again in Brazil as Elon Musk finds ban loophole",
+            "link": "https://www.bbc.com/news/articles/cy4dn4z02emo",
+            "published": "Wed, 18 Sep 2024 21:10:48 GMT"
+        },
+        {
             "title": "MrBeast and Amazon named in lawsuit over Beast Games",
             "link": "https://www.bbc.com/news/articles/cwy91qgq1w5o",
             "published": "Wed, 18 Sep 2024 14:31:42 GMT"
@@ -73,11 +78,6 @@
             "title": "Facebook owner bans Russian state media networks",
             "link": "https://www.bbc.com/news/articles/c4gllnx0p40o",
             "published": "Tue, 17 Sep 2024 11:40:11 GMT"
-        },
-        {
-            "title": "The Plucky Squire: From Pok\u00e9mon to a page-turning indie hit",
-            "link": "https://www.bbc.com/news/articles/c33vvlj76m7o",
-            "published": "Wed, 18 Sep 2024 03:18:21 GMT"
         }
     ]
 }
