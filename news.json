@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "CA Gov. Newsom signs three laws regulating election AI deepfakes, including holding large online platforms liable for not removing content after a user's report (Stuart A. Thompson/New York Times)",
+            "link": "http://www.techmeme.com/240917/p37#a240917p37",
+            "published": "Tue, 17 Sep 2024 21:20:02 -0400"
+        },
+        {
+            "title": "California Gov. Gavin Newsom says he is concerned about the potential \"chilling effect\" of AI safety bill SB 1047, which awaits his signature, on AI development (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/240917/p36#a240917p36",
+            "published": "Tue, 17 Sep 2024 19:55:13 -0400"
+        },
+        {
             "title": "The GSM Association plans to enable E2EE on messages between Android and iOS; Google is working to bring cross-platform E2EE to RCS chats \"as soon as possible\" (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/240917/p35#a240917p35",
             "published": "Tue, 17 Sep 2024 19:20:20 -0400"
@@ -14,28 +24,23 @@
             "title": "The Pentagon will award $269M to 33 chip research projects across the US via Chips Act funding to bolster semiconductor efforts for the military (Mackenzie Hawkins/Bloomberg)",
             "link": "http://www.techmeme.com/240917/p33#a240917p33",
             "published": "Tue, 17 Sep 2024 17:35:03 -0400"
-        },
-        {
-            "title": "Neuralink says Blindsight, its experimental implant aimed at restoring vision, has received the US FDA's \"breakthrough device\" designation (Bhanvi Satija/Reuters)",
-            "link": "http://www.techmeme.com/240917/p32#a240917p32",
-            "published": "Tue, 17 Sep 2024 17:20:02 -0400"
-        },
-        {
-            "title": "Microsoft: starting in late August, Russian cyber operatives focused on Harris' campaign, with disinfo including videos spread by a site posing as a news outlet (Sam Sabin/Axios)",
-            "link": "http://www.techmeme.com/240917/p31#a240917p31",
-            "published": "Tue, 17 Sep 2024 16:55:03 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "California Gov. Newsom Signs Laws Regulating Election A.I. \u2018Deepfakes\u2019",
+            "link": "https://www.nytimes.com/2024/09/17/technology/california-deepfakes-law-social-media-newsom.html",
+            "published": "Wed, 18 Sep 2024 00:34:54 +0000"
+        },
+        {
+            "title": "Caroline Ellison, Star Witness in FTX Case, Should Receive Lenient Sentence, Prosecutors Signal",
+            "link": "https://www.nytimes.com/2024/09/17/technology/caroline-ellison-ftx-sentence.html",
+            "published": "Tue, 17 Sep 2024 20:38:53 +0000"
+        },
+        {
             "title": "Instagram Unveils Sweeping Changes for Users Under Age 18",
             "link": "https://www.nytimes.com/2024/09/17/technology/instagram-teens-safety-privacy-changes.html",
             "published": "Tue, 17 Sep 2024 17:02:57 +0000"
-        },
-        {
-            "title": "Instagram Teen Accounts: What to Know About New Privacy Settings",
-            "link": "https://www.nytimes.com/2024/09/17/technology/instagram-teen-account-settings-safety.html",
-            "published": "Tue, 17 Sep 2024 12:06:50 +0000"
         },
         {
             "title": "Intel, Aiming to Reverse Slump, Unveils New Contracts and Cost Cuts",
@@ -43,14 +48,9 @@
             "published": "Mon, 16 Sep 2024 22:20:54 +0000"
         },
         {
-            "title": "Donald Trump Rolls Out World Liberty Financial, a New Crypto Venture",
-            "link": "https://www.nytimes.com/2024/09/16/technology/trump-crypto-world-liberty-financial.html",
-            "published": "Tue, 17 Sep 2024 15:52:07 +0000"
-        },
-        {
-            "title": "Caroline Ellison, Star Witness in FTX Case, Should Receive Lenient Sentence, Prosecutors Signal",
-            "link": "https://www.nytimes.com/2024/09/17/technology/caroline-ellison-ftx-sentence.html",
-            "published": "Tue, 17 Sep 2024 20:38:53 +0000"
+            "title": "How A.I., QAnon and Falsehoods Are Reshaping the Presidential Race",
+            "link": "https://www.nytimes.com/2024/09/17/technology/election-ai-qanon-disinformation.html",
+            "published": "Tue, 17 Sep 2024 15:05:34 +0000"
         }
     ],
     "source_2": [
