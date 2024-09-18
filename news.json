@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Open-source chip design company SiFive unveils the SiFive Intelligence XM Series, its latest RISC-V-based blueprints to help companies develop AI chips (Mike Wheatley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/240918/p36#a240918p36",
+            "published": "Wed, 18 Sep 2024 12:00:52 -0400"
+        },
+        {
+            "title": "Substack now lets creators with its Bestsellers badges start live videos within its app, and plans to roll out the feature to all users in the coming months (Anna Washenko/Engadget)",
+            "link": "http://www.techmeme.com/240918/p35#a240918p35",
+            "published": "Wed, 18 Sep 2024 11:35:12 -0400"
+        },
+        {
             "title": "LinkedIn confirms training its AI on user data by default, and says it is \"making sure that those who have specific privacy preferences\" can opt out (Joseph Cox/404 Media)",
             "link": "http://www.techmeme.com/240918/p34#a240918p34",
             "published": "Wed, 18 Sep 2024 11:00:39 -0400"
@@ -14,16 +24,6 @@
             "title": "YouTube unveils Hype, a new promotional system inside of YouTube to help boost smaller creators; the most-hyped videos appear on a platform-wide leaderboard (David Pierce/The Verge)",
             "link": "http://www.techmeme.com/240918/p32#a240918p32",
             "published": "Wed, 18 Sep 2024 10:50:18 -0400"
-        },
-        {
-            "title": "YouTube integrates Google DeepMind's AI video generation model Veo into Shorts, letting creators generate high-quality backgrounds and six-second clips (Lauren Forristal/TechCrunch)",
-            "link": "http://www.techmeme.com/240918/p31#a240918p31",
-            "published": "Wed, 18 Sep 2024 10:46:56 -0400"
-        },
-        {
-            "title": "YouTube plans a major connected TV app revamp, with a new UI and features like immersive previews for creator pages and an updated subscribe functionality (Alex Weprin/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/240918/p30#a240918p30",
-            "published": "Wed, 18 Sep 2024 10:44:32 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Instagram Unveils Sweeping Changes for Users Under Age 18",
             "link": "https://www.nytimes.com/2024/09/17/technology/instagram-teens-safety-privacy-changes.html",
-            "published": "Wed, 18 Sep 2024 13:21:54 +0000"
+            "published": "Wed, 18 Sep 2024 13:21:55 +0000"
         },
         {
             "title": "Intel, Aiming to Reverse Slump, Unveils New Contracts and Cost Cuts",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "MrBeast and Amazon named in lawsuit over Beast Games",
+            "link": "https://www.bbc.com/news/articles/cwy91qgq1w5o",
+            "published": "Wed, 18 Sep 2024 14:31:42 GMT"
+        },
         {
             "title": "Google scores rare legal win as 1.49bn euro fine scrapped",
             "link": "https://www.bbc.com/news/articles/c62rjd363j1o",
@@ -73,11 +78,6 @@
             "title": "The Plucky Squire: From Pok\u00e9mon to a page-turning indie hit",
             "link": "https://www.bbc.com/news/articles/c33vvlj76m7o",
             "published": "Wed, 18 Sep 2024 03:18:21 GMT"
-        },
-        {
-            "title": "TikTok says US ban would have \u2018staggering\u2019 impact on free speech",
-            "link": "https://www.bbc.com/news/articles/c5y3y79llndo",
-            "published": "Mon, 16 Sep 2024 18:24:04 GMT"
         }
     ]
 }
