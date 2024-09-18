@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A planned UK data center project in Abbots Langley, seen as a test for the new Labour government's data center push, stokes tensions among the local community (Financial Times)",
+            "link": "http://www.techmeme.com/240918/p16#a240918p16",
+            "published": "Wed, 18 Sep 2024 04:50:01 -0400"
+        },
+        {
+            "title": "Starling Bank survey of over 3,000 UK adults: 28% say they were targeted by an AI voice cloning scam in the past year; 46% didn't even know about such scams (Jen Mills/Metro.co.uk)",
+            "link": "http://www.techmeme.com/240918/p15#a240918p15",
+            "published": "Wed, 18 Sep 2024 04:30:14 -0400"
+        },
+        {
             "title": "The EU's General Court backs Google's challenge against the EU's &euro;1.49B antitrust fine, imposed in 2019 for hindering rivals in online search ads (Foo Yun Chee/Reuters)",
             "link": "http://www.techmeme.com/240918/p14#a240918p14",
             "published": "Wed, 18 Sep 2024 04:20:01 -0400"
@@ -14,16 +24,6 @@
             "title": "India, which has set aside $11B for its semiconductor mission, is obsessing over self-reliance instead of focusing on areas that can be scaled up quickly (Mihir Sharma/Bloomberg)",
             "link": "http://www.techmeme.com/240918/p12#a240918p12",
             "published": "Wed, 18 Sep 2024 03:55:40 -0400"
-        },
-        {
-            "title": "Apple pulls the iPadOS 18 update for M4 iPad Pro models after bricking complaints as the company works \"to resolve an issue impacting a small number of devices\" (Juli Clover/MacRumors)",
-            "link": "http://www.techmeme.com/240918/p11#a240918p11",
-            "published": "Wed, 18 Sep 2024 03:01:15 -0400"
-        },
-        {
-            "title": "Intel's decision to delay new Germany and Poland plants by two years is a blow to the EU's goal of making 20% of the world's chips by 2030, up from ~9% in 2022 (Pieter Haeck/Politico)",
-            "link": "http://www.techmeme.com/240918/p10#a240918p10",
-            "published": "Wed, 18 Sep 2024 02:45:03 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Mon, 16 Sep 2024 22:20:54 +0000"
         },
         {
-            "title": "How A.I., QAnon and Falsehoods Are Reshaping the Presidential Race",
-            "link": "https://www.nytimes.com/2024/09/17/technology/election-ai-qanon-disinformation.html",
-            "published": "Tue, 17 Sep 2024 15:05:34 +0000"
+            "title": "Why Foldable Smartphones Are Worth Considering",
+            "link": "https://www.nytimes.com/2024/09/18/technology/personaltech/foldable-smartphones.html",
+            "published": "Wed, 18 Sep 2024 09:05:14 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Google wins legal challenge against 1.49bn euro fine",
+            "title": "Google scores rare legal win as 1.49bn euro fine scrapped",
             "link": "https://www.bbc.com/news/articles/c62rjd363j1o",
-            "published": "Wed, 18 Sep 2024 08:20:42 GMT"
+            "published": "Wed, 18 Sep 2024 09:22:43 GMT"
         },
         {
             "title": "Instagram boosts privacy and parental control on teen accounts",
