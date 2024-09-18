@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "SocialAI, a new iOS app that looks like a social network, is filled entirely with bots and lets users populate their network with up to 32 types of bots (Natasha Lomas/TechCrunch)",
+            "link": "http://www.techmeme.com/240918/p39#a240918p39",
+            "published": "Wed, 18 Sep 2024 14:25:01 -0400"
+        },
+        {
+            "title": "The FBI says it disrupted a botnet of \"hundreds of thousands\" of IoT devices worldwide last week, run by the China-linked hacking group Flax Typhoon (Joe Warminsky/The Record)",
+            "link": "http://www.techmeme.com/240918/p38#a240918p38",
+            "published": "Wed, 18 Sep 2024 13:35:01 -0400"
+        },
+        {
             "title": "T-Mobile announces a multi-year partnership with OpenAI that includes building IntentCX, a customer service system powered by AI agents (Ina Fried/Axios)",
             "link": "http://www.techmeme.com/240918/p37#a240918p37",
             "published": "Wed, 18 Sep 2024 13:05:04 -0400"
@@ -14,19 +24,14 @@
             "title": "Substack now lets creators with its Bestsellers badges start live videos within its app, and plans to roll out the feature to all users in the coming months (Anna Washenko/Engadget)",
             "link": "http://www.techmeme.com/240918/p35#a240918p35",
             "published": "Wed, 18 Sep 2024 11:35:12 -0400"
-        },
-        {
-            "title": "LinkedIn confirms training its AI on user data by default, and says it is \"making sure that those who have specific privacy preferences\" can opt out (Joseph Cox/404 Media)",
-            "link": "http://www.techmeme.com/240918/p34#a240918p34",
-            "published": "Wed, 18 Sep 2024 11:00:39 -0400"
-        },
-        {
-            "title": "YouTube adds an Inspiration tab in the YouTube Studio app for creators to use AI to generate video concepts, create titles and thumbnails, and write videos (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/240918/p33#a240918p33",
-            "published": "Wed, 18 Sep 2024 10:55:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Why Foldable Smartphones Are Worth Considering",
+            "link": "https://www.nytimes.com/2024/09/18/technology/personaltech/foldable-smartphones.html",
+            "published": "Wed, 18 Sep 2024 13:51:56 +0000"
+        },
         {
             "title": "California Gov. Newsom Signs Laws Regulating Election A.I. \u2018Deepfakes\u2019",
             "link": "https://www.nytimes.com/2024/09/17/technology/california-deepfakes-law-social-media-newsom.html",
@@ -41,11 +46,6 @@
             "title": "Instagram Unveils Sweeping Changes for Users Under Age 18",
             "link": "https://www.nytimes.com/2024/09/17/technology/instagram-teens-safety-privacy-changes.html",
             "published": "Wed, 18 Sep 2024 13:21:55 +0000"
-        },
-        {
-            "title": "Intel, Aiming to Reverse Slump, Unveils New Contracts and Cost Cuts",
-            "link": "https://www.nytimes.com/2024/09/16/us/politics/intel-chips-semiconductor-grant.html",
-            "published": "Mon, 16 Sep 2024 22:20:54 +0000"
         },
         {
             "title": "G.M. Electric Vehicles Gain Access to Tesla Chargers",
