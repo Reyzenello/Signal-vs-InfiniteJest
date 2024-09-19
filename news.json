@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google announces Password Manager PIN to let users sync passkeys across Windows, macOS, Linux, and Android devices, with iOS support coming soon (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/240919/p28#a240919p28",
+            "published": "Thu, 19 Sep 2024 12:10:08 -0400"
+        },
+        {
+            "title": "Sources: server CPU designer Ampere is exploring a potential sale; Ampere was reportedly valued at $8B in a proposed minority investment in 2021 (Bloomberg)",
+            "link": "http://www.techmeme.com/240919/p27#a240919p27",
+            "published": "Thu, 19 Sep 2024 11:45:09 -0400"
+        },
+        {
+            "title": "Intel says it has no plans to sell its majority stake in Mobileye; the self-driving tech company's stock, which is down 73% in 2024, jumps 13%+ (Reuters)",
+            "link": "http://www.techmeme.com/240919/p26#a240919p26",
+            "published": "Thu, 19 Sep 2024 11:35:01 -0400"
+        },
+        {
             "title": "US DOJ lawyers told a court that Google employees liberally labelled emails as \"privileged and confidential\", a strategy that may backfire in the antitrust case (Lauren Feiner/The Verge)",
             "link": "http://www.techmeme.com/240919/p25#a240919p25",
             "published": "Thu, 19 Sep 2024 11:20:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Brazil's Supreme Court orders X to reimpose a block or face a $920K daily fine after a software update made X accessible; X says the restoration was inadvertent (Bloomberg)",
             "link": "http://www.techmeme.com/240919/p24#a240919p24",
             "published": "Thu, 19 Sep 2024 11:10:01 -0400"
-        },
-        {
-            "title": "Amazon launches an AI-powered video generator, available for some US advertisers in beta, which turns a single product image into a few-seconds-long video clip (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240919/p23#a240919p23",
-            "published": "Thu, 19 Sep 2024 10:15:27 -0400"
-        },
-        {
-            "title": "Amazon joins the Motion Picture Association, after a long courtship; the lobbying group's other members are Disney, Netflix, Paramount, Sony, Universal, and WBD (Brooks Barnes/New York Times)",
-            "link": "http://www.techmeme.com/240919/p22#a240919p22",
-            "published": "Thu, 19 Sep 2024 09:45:00 -0400"
-        },
-        {
-            "title": "Amazon launches Amelia, an AI tool to help third-party sellers resolve account issues and fetch sales and inventory data, in beta for select US sellers (CNBC)",
-            "link": "http://www.techmeme.com/240919/p21#a240919p21",
-            "published": "Thu, 19 Sep 2024 09:30:01 -0400"
         }
     ],
     "source_1": [
@@ -65,9 +65,9 @@
             "published": "Thu, 19 Sep 2024 15:14:32 GMT"
         },
         {
-            "title": "X says brief return in Brazil after ban was 'inadvertent'",
+            "title": "Brazil fines Musk's X for site's return after ban",
             "link": "https://www.bbc.com/news/articles/cy4dn4z02emo",
-            "published": "Thu, 19 Sep 2024 14:57:38 GMT"
+            "published": "Thu, 19 Sep 2024 16:05:50 GMT"
         },
         {
             "title": "MrBeast and Amazon named in lawsuit over Beast Games",
