@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: EU officials are preparing formal charges against Google under the DMA, targeting how it displays rival product results across its search services (Samuel Stolton/Bloomberg)",
+            "link": "http://www.techmeme.com/240920/p14#a240920p14",
+            "published": "Fri, 20 Sep 2024 13:40:01 -0400"
+        },
+        {
             "title": "Tumblr says it has seen a 222.99% growth in communities and 349.55% growth in users since the X ban in Brazil, with DAUs up 30% from 110K prior to the ban (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/240920/p13#a240920p13",
             "published": "Fri, 20 Sep 2024 12:15:15 -0400"
@@ -19,11 +24,6 @@
             "title": "Source: most daily users of Meta AI do so through WhatsApp, followed by Facebook, and few via Instagram; the vast majority of Meta AI's users are outside the US (Kalley Huang/The Information)",
             "link": "http://www.techmeme.com/240920/p10#a240920p10",
             "published": "Fri, 20 Sep 2024 10:25:00 -0400"
-        },
-        {
-            "title": "A profile of Xbox President Sarah Bond, who helped mollify the UK CMA concerning the Activision acquisition and is leading a transformation of the Xbox division (Bloomberg)",
-            "link": "http://www.techmeme.com/240920/p9#a240920p9",
-            "published": "Fri, 20 Sep 2024 09:55:03 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Fri, 20 Sep 2024 10:54:46 GMT"
         },
         {
+            "title": "LinkedIn suspends AI training using UK user data",
+            "link": "https://www.bbc.com/news/articles/cy89x4y1pmgo",
+            "published": "Fri, 20 Sep 2024 17:38:42 GMT"
+        },
+        {
             "title": "Taiwan says it did not make Hezbollah pager parts",
             "link": "https://www.bbc.com/news/articles/c93yg2w53dzo",
             "published": "Fri, 20 Sep 2024 05:27:36 GMT"
@@ -73,11 +78,6 @@
             "title": "Nintendo sues 'Pok\u00e9mon with guns' video game firm",
             "link": "https://www.bbc.com/news/articles/c89lx7xdwd5o",
             "published": "Thu, 19 Sep 2024 15:14:32 GMT"
-        },
-        {
-            "title": "Brazil fines Musk's X for site's return after ban",
-            "link": "https://www.bbc.com/news/articles/cy4dn4z02emo",
-            "published": "Thu, 19 Sep 2024 20:37:09 GMT"
         }
     ]
 }
