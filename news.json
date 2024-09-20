@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Black Forest Labs, whose Flux.1 model powers Grok's image generator, is raising $100M at a $1B valuation; Black Forest raised a $31M seed (Ingrid Lunden/TechCrunch)",
+            "title": "Filing: the US SEC says it intends to seek sanctions against Elon Musk for failing to appear for scheduled testimony for a probe into his $44B Twitter takeover (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/240920/p19#a240920p19",
+            "published": "Fri, 20 Sep 2024 17:05:01 -0400"
+        },
+        {
+            "title": "OpenAI's o1 models are dramatically better at reasoning than previous LLMs, but they struggle with spatial reasoning and are far from human-level intelligence (Timothy B Lee/Understanding AI)",
+            "link": "http://www.techmeme.com/240920/p18#a240920p18",
+            "published": "Fri, 20 Sep 2024 16:55:15 -0400"
+        },
+        {
+            "title": "Sources: Black Forest Labs, whose Flux.1 model powers Grok's image generator, is raising $100M at a $1B valuation; it came out of stealth with $31M in August (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/240920/p17#a240920p17",
             "published": "Fri, 20 Sep 2024 16:15:03 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Twitch changes how it enforces its community guidelines: strikes for some offenses will depreciate over time, users will get more info about strikes, and more (Ash Parrish/The Verge)",
             "link": "http://www.techmeme.com/240920/p15#a240920p15",
             "published": "Fri, 20 Sep 2024 15:15:02 -0400"
-        },
-        {
-            "title": "Sources: EU officials are preparing formal charges against Google under the DMA, targeting how it displays rival product results across its search services (Samuel Stolton/Bloomberg)",
-            "link": "http://www.techmeme.com/240920/p14#a240920p14",
-            "published": "Fri, 20 Sep 2024 13:40:01 -0400"
-        },
-        {
-            "title": "Tumblr says it has seen a 222.99% growth in communities and a 349.55% growth in users since the X ban in Brazil, with DAUs up 30% from the 110K prior to the ban (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/240920/p13#a240920p13",
-            "published": "Fri, 20 Sep 2024 12:15:15 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Wed, 18 Sep 2024 13:21:55 +0000"
         },
         {
-            "title": "OpenAI\u2019s Reasoning Machine, Instagram Teen Changes and Amazon R.T.O. Drama",
-            "link": "https://www.nytimes.com/2024/09/20/podcasts/hardfork-o1-meta-teens-amazon.html",
-            "published": "Fri, 20 Sep 2024 09:05:37 +0000"
+            "title": "What the U.S. Has Argued in the Google Ad Tech Antitrust Trial",
+            "link": "https://www.nytimes.com/2024/09/20/technology/google-ad-antitrust-trial-arguments.html",
+            "published": "Fri, 20 Sep 2024 20:25:27 +0000"
         }
     ],
     "source_2": [
