@@ -1,17 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Source: Anthropic has started talking to investors about a future capital raise, floating a $30B-40B valuation, around double its valuation from earlier in 2024 (The Information)",
+            "link": "http://www.techmeme.com/240923/p23#a240923p23",
+            "published": "Mon, 23 Sep 2024 17:05:02 -0400"
+        },
+        {
             "title": "Sam Altman claims \"deep learning worked\", superintelligence may be \"a few thousand days\" away, and \"astounding triumphs\" will incrementally become commonplace (Sam Altman)",
             "link": "http://www.techmeme.com/240923/p22#a240923p22",
             "published": "Mon, 23 Sep 2024 16:10:17 -0400"
         },
         {
-            "title": "US customers of Kaspersky antivirus find UltraAV, an entirely different AV suite, remotely installed on their PCs, after a Kaspersky deal with UltraAV's owner (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+            "title": "US customers of Kaspersky antivirus find that UltraAV was installed remotely to replace Kaspersky on their PCs, after a Kaspersky deal with UltraAV owner Pango (Lorenzo Franceschi-Bicchierai/TechCrunch)",
             "link": "http://www.techmeme.com/240923/p21#a240923p21",
             "published": "Mon, 23 Sep 2024 15:30:01 -0400"
         },
         {
-            "title": "Researchers find a new version of Necro malware in Google Play apps with 11M+ total installs; Necro malware in 2019 was found in Play apps with 100M+ installs (Ionut Arghire/SecurityWeek)",
+            "title": "Kaspersky researchers find a new Necro malware version in Google Play apps with 11M+ total downloads; in 2019, Necro was found in Play apps with 100M+ downloads (Ionut Arghire/SecurityWeek)",
             "link": "http://www.techmeme.com/240923/p20#a240923p20",
             "published": "Mon, 23 Sep 2024 15:05:13 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "Microsoft releases a progress report on its efforts to make security its top priority, which began in November 2023 after a scathing report from the US CSRB (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/240923/p19#a240923p19",
             "published": "Mon, 23 Sep 2024 14:25:01 -0400"
-        },
-        {
-            "title": "Telegram says it will give users' IP addresses and phone numbers to authorities in response to valid legal requests, changing its ToS to deter criminal activity (Jeff Stone/Bloomberg)",
-            "link": "http://www.techmeme.com/240923/p18#a240923p18",
-            "published": "Mon, 23 Sep 2024 12:06:08 -0400"
         }
     ],
     "source_1": [
