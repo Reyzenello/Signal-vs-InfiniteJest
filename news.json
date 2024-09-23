@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Behind Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI software across gambling sites (Kit Chellel/Bloomberg)",
+            "title": "AI copilots are evolving into AI agents designed to take actions on behalf of users, as business software companies experiment with ways to sell generative AI (Financial Times)",
+            "link": "http://www.techmeme.com/240923/p2#a240923p2",
+            "published": "Mon, 23 Sep 2024 03:55:02 -0400"
+        },
+        {
+            "title": "A look at Bot Farm Corporation, a Siberia-based operation that raked in millions of dollars by deploying advanced poker-playing AI across gambling sites (Kit Chellel/Bloomberg)",
             "link": "http://www.techmeme.com/240923/p1#a240923p1",
             "published": "Mon, 23 Sep 2024 01:30:00 -0400"
         },
@@ -11,7 +16,7 @@
             "published": "Sun, 22 Sep 2024 22:35:02 -0400"
         },
         {
-            "title": "A profile of Alexandr Wang, CEO of Scale AI, which has 100k+ data labeling contractors, as he looks to expand to higher-margin AI tools to sustain growth (Berber Jin/Wall Street Journal)",
+            "title": "A profile of Alexandr Wang, CEO of Scale AI, which has 100K+ data labeling contractors, as he looks to expand to higher-margin AI tools to sustain growth (Berber Jin/Wall Street Journal)",
             "link": "http://www.techmeme.com/240922/p11#a240922p11",
             "published": "Sun, 22 Sep 2024 20:35:13 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "Sources: Apollo Global Management has offered to make an equity-like investment of as much as $5B in Intel (Bloomberg)",
             "link": "http://www.techmeme.com/240922/p10#a240922p10",
             "published": "Sun, 22 Sep 2024 17:20:41 -0400"
-        },
-        {
-            "title": "A profile of French billionaire Xavier Niel, a driving force of French AI and ByteDance's newest board member, who believes Europe should pursue homegrown AI (Morgan Meaker/Wired)",
-            "link": "http://www.techmeme.com/240922/p9#a240922p9",
-            "published": "Sun, 22 Sep 2024 16:25:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "MrBeast is YouTube's biggest star - now he faces 54-page lawsuit",
+            "link": "https://www.bbc.com/news/articles/ckgn8d04kdko",
+            "published": "Sat, 21 Sep 2024 23:20:38 GMT"
+        },
+        {
+            "title": "A Tamagotchi comeback? Toy gets first UK store as global sales double",
+            "link": "https://www.bbc.com/news/articles/cd0zedgdvdlo",
+            "published": "Fri, 20 Sep 2024 23:49:23 GMT"
+        },
+        {
             "title": "Sky Glass customers complain as TVs won't turn on",
             "link": "https://www.bbc.com/news/articles/cy0lnxgnjkno",
             "published": "Fri, 20 Sep 2024 10:54:46 GMT"
@@ -68,16 +78,6 @@
             "title": "Taiwan says it did not make Hezbollah pager parts",
             "link": "https://www.bbc.com/news/articles/c93yg2w53dzo",
             "published": "Fri, 20 Sep 2024 05:27:36 GMT"
-        },
-        {
-            "title": "'Hunger Games' studio Lionsgate announce AI video deal",
-            "link": "https://www.bbc.com/news/articles/cp8l3mr5d17o",
-            "published": "Thu, 19 Sep 2024 14:48:11 GMT"
-        },
-        {
-            "title": "Nintendo sues 'Pok\u00e9mon with guns' video game firm",
-            "link": "https://www.bbc.com/news/articles/c89lx7xdwd5o",
-            "published": "Thu, 19 Sep 2024 15:14:32 GMT"
         }
     ]
 }
