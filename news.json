@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "California Governor Gavin Newsom signs the Phone-Free Schools Act, which will require schools to restrict cellphone use during school hours by July 1, 2026 (New York Times)",
+            "link": "http://www.techmeme.com/240923/p28#a240923p28",
+            "published": "Mon, 23 Sep 2024 19:20:02 -0400"
+        },
+        {
+            "title": "Harmonic, a startup co-founded by Robinhood CEO Vlad Tenev that aims to build AI better at math than humans, raised a $75M Series A at a $325M valuation (Cade Metz/New York Times)",
+            "link": "http://www.techmeme.com/240923/p27#a240923p27",
+            "published": "Mon, 23 Sep 2024 18:45:04 -0400"
+        },
+        {
             "title": "Source: Meta plans to launch the voices of Judi Dench, Kristen Bell, John Cena, Awkwafina, and Keegan-Michael Key for its Meta AI chatbot at Connect this week (Katie Paul/Reuters)",
             "link": "http://www.techmeme.com/240923/p26#a240923p26",
             "published": "Mon, 23 Sep 2024 18:25:14 -0400"
@@ -14,16 +24,6 @@
             "title": "Analysis: major crypto companies, executives, and investors have spent $38M+ recently to help Ohio Republican Bernie Moreno's campaign for the US Senate (Tony Romm/Washington Post)",
             "link": "http://www.techmeme.com/240923/p24#a240923p24",
             "published": "Mon, 23 Sep 2024 17:25:03 -0400"
-        },
-        {
-            "title": "Source: Anthropic has started talking to investors about a future capital raise, floating a $30B-40B valuation, around double its valuation from earlier in 2024 (The Information)",
-            "link": "http://www.techmeme.com/240923/p23#a240923p23",
-            "published": "Mon, 23 Sep 2024 17:05:02 -0400"
-        },
-        {
-            "title": "Sam Altman claims \"deep learning worked\", superintelligence may be \"a few thousand days\" away, and \"astounding triumphs\" will incrementally become commonplace (Sam Altman)",
-            "link": "http://www.techmeme.com/240923/p22#a240923p22",
-            "published": "Mon, 23 Sep 2024 16:10:17 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "CrowdStrike: Company to face questions over global IT outage",
+            "link": "https://www.bbc.com/news/articles/cr54m92ermgo",
+            "published": "Mon, 23 Sep 2024 23:18:25 GMT"
+        },
+        {
             "title": "MrBeast is YouTube's biggest star - now he faces 54-page lawsuit",
             "link": "https://www.bbc.com/news/articles/ckgn8d04kdko",
             "published": "Sat, 21 Sep 2024 23:20:38 GMT"
@@ -73,11 +78,6 @@
             "title": "LinkedIn suspends AI training using UK user data",
             "link": "https://www.bbc.com/news/articles/cy89x4y1pmgo",
             "published": "Fri, 20 Sep 2024 17:38:42 GMT"
-        },
-        {
-            "title": "Taiwan says it did not make Hezbollah pager parts",
-            "link": "https://www.bbc.com/news/articles/c93yg2w53dzo",
-            "published": "Fri, 20 Sep 2024 05:27:36 GMT"
         }
     ]
 }
