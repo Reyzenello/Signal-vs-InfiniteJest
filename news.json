@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Memo: an arbitrator awards full severance package to an ex-Twitter employee, who was laid off when Elon Musk took over, first such resolution of 2K+ complaints (Bloomberg)",
+            "link": "http://www.techmeme.com/240924/p1#a240924p1",
+            "published": "Tue, 24 Sep 2024 00:15:01 -0400"
+        },
+        {
             "title": "Q&A with Vinod Khosla on investing in AI and OpenAI, AI risks, the impact of AI in the labor market, regulation, dominance within the global AI race, and more (Astha Rajvanshi/TIME)",
             "link": "http://www.techmeme.com/240923/p35#a240923p35",
             "published": "Mon, 23 Sep 2024 22:57:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Revolut is spinning out its &euro;8.5B wealth management offering into a standalone app and plans to launch it in European Economic Area countries by the end of 2024 (Emily Nicolle/Bloomberg)",
             "link": "http://www.techmeme.com/240923/p32#a240923p32",
             "published": "Mon, 23 Sep 2024 20:45:02 -0400"
-        },
-        {
-            "title": "TikTok permanently removes accounts associated with the parent organizations of Russian state media outlets RT and Sputnik, citing \"covert influence operations\" (David Ingram/NBC News)",
-            "link": "http://www.techmeme.com/240923/p31#a240923p31",
-            "published": "Mon, 23 Sep 2024 20:25:06 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 18 Sep 2024 13:21:55 +0000"
         },
         {
-            "title": "Elon Musk Hails Italian Leader Giorgia Meloni at Awards Ceremony",
-            "link": "https://www.nytimes.com/2024/09/23/business/elon-musk-giorgia-meloni.html",
-            "published": "Tue, 24 Sep 2024 01:54:07 +0000"
+            "title": "Spurned by Social Media, Publishers Chase Readers on WhatsApp",
+            "link": "https://www.nytimes.com/2024/09/24/business/media/whatsapp-news-outlets.html",
+            "published": "Tue, 24 Sep 2024 04:00:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Telegram will now provide some user data to authorities",
+            "link": "https://www.bbc.com/news/articles/cvglp0xny3eo",
+            "published": "Mon, 23 Sep 2024 22:32:24 GMT"
+        },
         {
             "title": "CrowdStrike: Company to face questions over global IT outage",
             "link": "https://www.bbc.com/news/articles/cr54m92ermgo",
@@ -73,11 +78,6 @@
             "title": "Sky Glass customers complain as TVs won't turn on",
             "link": "https://www.bbc.com/news/articles/cy0lnxgnjkno",
             "published": "Fri, 20 Sep 2024 10:54:46 GMT"
-        },
-        {
-            "title": "LinkedIn suspends AI training using UK user data",
-            "link": "https://www.bbc.com/news/articles/cy89x4y1pmgo",
-            "published": "Fri, 20 Sep 2024 17:38:42 GMT"
         }
     ]
 }
