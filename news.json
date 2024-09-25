@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "London-based Apron, which is aiming to become the financial super app for SMBs, raised a $30M Series B led by Zinal Growth, bringing its total funding to $50.5M (Tom Matsuda/Sifted)",
+            "link": "http://www.techmeme.com/240924/p47#a240924p47",
+            "published": "Tue, 24 Sep 2024 21:20:04 -0400"
+        },
+        {
+            "title": "Filing: OpenAI agrees to give representatives for authors suing the company access to review its training data to see if OpenAI used authors' copyrighted works (Winston Cho/The Hollywood Reporter)",
+            "link": "http://www.techmeme.com/240924/p46#a240924p46",
+            "published": "Tue, 24 Sep 2024 20:15:00 -0400"
+        },
+        {
+            "title": "CrowdStrike SVP Adam Meyers apologizes before Congress over the company's faulty update that caused a global IT outage, to largely sympathetic House lawmakers (Tim Starks/CyberScoop)",
+            "link": "http://www.techmeme.com/240924/p45#a240924p45",
+            "published": "Tue, 24 Sep 2024 19:35:21 -0400"
+        },
+        {
             "title": "Sources: Wiz is in discussions to sell existing shares at a valuation between $15B and $20B, after abandoning a deal in July to be acquired by Google for $23B (Bloomberg)",
             "link": "http://www.techmeme.com/240924/p44#a240924p44",
             "published": "Tue, 24 Sep 2024 19:15:05 -0400"
@@ -9,21 +24,6 @@
             "title": "Google updates its Street View imagery in nearly 80 countries, brings Street View to new locations, and sharpens satellite imagery across Google Earth and Maps (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/240924/p43#a240924p43",
             "published": "Tue, 24 Sep 2024 17:40:01 -0400"
-        },
-        {
-            "title": "Salesforce agrees to buy Zoomin, an Israeli data management company that makes unstructured data accessible to AI agents (Meir Orbach/CTech)",
-            "link": "http://www.techmeme.com/240924/p42#a240924p42",
-            "published": "Tue, 24 Sep 2024 17:25:19 -0400"
-        },
-        {
-            "title": "SAG-AFTRA calls a strike against League of Legends, formerly strike exempt, filing an NLRB complaint and saying Formosa Interactive also refuses \"fair AI terms\" (Katie Kilkenny/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/240924/p41#a240924p41",
-            "published": "Tue, 24 Sep 2024 17:15:20 -0400"
-        },
-        {
-            "title": "Sources: FBI raided the Reston, Virginia offices of Carahsoft, a government IT vendor, as part of a probe into a company with which Carahsoft has done business (David DiMolfetta/Nextgov/FCW)",
-            "link": "http://www.techmeme.com/240924/p40#a240924p40",
-            "published": "Tue, 24 Sep 2024 16:55:16 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Caroline Ellison sentenced to 2 years for role in FTX crypto fraud",
+            "link": "https://www.bbc.com/news/articles/cdd4e2931q3o",
+            "published": "Tue, 24 Sep 2024 22:02:47 GMT"
+        },
+        {
+            "title": "CrowdStrike boss apologises for global IT outage",
+            "link": "https://www.bbc.com/news/articles/c23k4yyjxp3o",
+            "published": "Tue, 24 Sep 2024 21:22:29 GMT"
+        },
+        {
             "title": "Sharp rise in problematic teenage social media use, study says",
             "link": "https://www.bbc.com/news/articles/crl8d0x9lpdo",
             "published": "Tue, 24 Sep 2024 23:14:58 GMT"
@@ -68,16 +78,6 @@
             "title": "Telegram will now provide some user data to authorities",
             "link": "https://www.bbc.com/news/articles/cvglp0xny3eo",
             "published": "Mon, 23 Sep 2024 22:32:24 GMT"
-        },
-        {
-            "title": "CrowdStrike: What was the impact of the global IT outage",
-            "link": "https://www.bbc.com/news/articles/cr54m92ermgo",
-            "published": "Tue, 24 Sep 2024 12:09:19 GMT"
-        },
-        {
-            "title": "MrBeast is YouTube's biggest star - now he faces 54-page lawsuit",
-            "link": "https://www.bbc.com/news/articles/ckgn8d04kdko",
-            "published": "Sat, 21 Sep 2024 23:20:38 GMT"
         }
     ]
 }
