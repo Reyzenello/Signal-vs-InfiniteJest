@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Matt Mullenweg says WP Engine no longer has free WordPress.org access and WP Engine customers having trouble with their sites should contact WP Engine support (Thomas Claburn/The Register)",
+            "link": "http://www.techmeme.com/240926/p3#a240926p3",
+            "published": "Thu, 26 Sep 2024 01:15:00 -0400"
+        },
+        {
+            "title": "SK Hynix starts mass producing its new 12-layer HBM3E chips with 36GB per chip capacity, up 50% from its previous gen, slated for delivery by the end of 2024 (Anniek Bao/CNBC)",
+            "link": "http://www.techmeme.com/240926/p2#a240926p2",
+            "published": "Thu, 26 Sep 2024 00:45:01 -0400"
+        },
+        {
+            "title": "Blackstone confirms a &pound;10B investment for an AI data center in northeast England; UK PM Keir Starmer says the construction will create 4,000 jobs in 2025 (Surbhi Misra/Reuters)",
+            "link": "http://www.techmeme.com/240926/p1#a240926p1",
+            "published": "Thu, 26 Sep 2024 00:35:00 -0400"
+        },
+        {
             "title": "Tokyo-based Dinii, which lets diners order food from restaurants and shops through a mobile platform, raised a ~$48M Series B led by Bessemer and Hillhouse (Kate Park/TechCrunch)",
             "link": "http://www.techmeme.com/240925/p57#a240925p57",
             "published": "Wed, 25 Sep 2024 23:15:04 -0400"
@@ -9,21 +24,6 @@
             "title": "Source: a demo of Sora initially took 10+ minutes to make a 1-minute clip; source: OpenAI execs spoke of training an improved Sora that could quickly make clips (Stephanie Palazzolo/The Information)",
             "link": "http://www.techmeme.com/240925/p56#a240925p56",
             "published": "Wed, 25 Sep 2024 22:05:01 -0400"
-        },
-        {
-            "title": "PayPal says it is enabling US merchants to buy, hold, and sell cryptocurrency directly from their PayPal business accounts, except in New York state at launch (Pritam Biswas/Reuters)",
-            "link": "http://www.techmeme.com/240925/p55#a240925p55",
-            "published": "Wed, 25 Sep 2024 21:00:47 -0400"
-        },
-        {
-            "title": "OpenAI's chief research officer, Bob McGrew, and a research VP, Barret Zoph, are leaving the company; OpenAI names Mark Chen as new SVP of Research, and more (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/240925/p54#a240925p54",
-            "published": "Wed, 25 Sep 2024 20:30:01 -0400"
-        },
-        {
-            "title": "Meta says Horizon Store now supports 2D apps built as PWAs, Android native apps, or via the new Meta Spatial SDK, which lets developers use Android dev tools (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/240925/p53#a240925p53",
-            "published": "Wed, 25 Sep 2024 19:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Dame Judi Dench and John Cena to voice Meta AI chatbot",
+            "link": "https://www.bbc.com/news/articles/c6258zn1663o",
+            "published": "Thu, 26 Sep 2024 04:58:59 GMT"
+        },
+        {
             "title": "Assassin's Creed Shadows release date delayed to 2025",
             "link": "https://www.bbc.com/news/articles/c36176d6pe4o",
             "published": "Wed, 25 Sep 2024 17:01:32 GMT"
@@ -73,11 +78,6 @@
             "title": "Terminator creator James Cameron joins board of AI company",
             "link": "https://www.bbc.com/news/articles/cqxr4732pxwo",
             "published": "Wed, 25 Sep 2024 11:21:15 GMT"
-        },
-        {
-            "title": "Caroline Ellison sentenced to two years for role in FTX crypto fraud",
-            "link": "https://www.bbc.com/news/articles/cdd4e2931q3o",
-            "published": "Tue, 24 Sep 2024 22:02:47 GMT"
         }
     ]
 }
