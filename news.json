@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Source: a demo of Sora initially took 10+ minutes to make a 1-minute clip; source: OpenAI execs spoke of training an improved Sora that could quickly make clips (Stephanie Palazzolo/The Information)",
+            "link": "http://www.techmeme.com/240925/p56#a240925p56",
+            "published": "Wed, 25 Sep 2024 22:05:01 -0400"
+        },
+        {
             "title": "PayPal says it is enabling US merchants to buy, hold, and sell cryptocurrency directly from their PayPal business accounts, except in New York state at launch (Pritam Biswas/Reuters)",
             "link": "http://www.techmeme.com/240925/p55#a240925p55",
             "published": "Wed, 25 Sep 2024 21:00:47 -0400"
@@ -19,11 +24,6 @@
             "title": "Ubisoft lowers its FY 2024-25 bookings forecast to &euro;1.95B, vs. &euro;2.42B est., and delays Assassin's Creed Shadows to February 14, 2025; UBI closes down 4.52% (Cecilia D'Anastasio/Bloomberg)",
             "link": "http://www.techmeme.com/240925/p52#a240925p52",
             "published": "Wed, 25 Sep 2024 18:30:02 -0400"
-        },
-        {
-            "title": "Google Pixel Buds Pro 2 review: lighter and comfortable with improved ANC and transparency, but underwhelming Gemini Live and no high-quality Bluetooth codecs (Chris Welch/The Verge)",
-            "link": "http://www.techmeme.com/240925/p51#a240925p51",
-            "published": "Wed, 25 Sep 2024 17:10:09 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Mira Murati, Chief Technology Officer at OpenAI, to Leave Company",
             "link": "https://www.nytimes.com/2024/09/25/technology/mira-murati-openai.html",
-            "published": "Thu, 26 Sep 2024 00:54:38 +0000"
+            "published": "Thu, 26 Sep 2024 02:03:15 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Assassin's Creed Shadows release date delayed to 2025",
             "link": "https://www.bbc.com/news/articles/c36176d6pe4o",
             "published": "Wed, 25 Sep 2024 17:01:32 GMT"
+        },
+        {
+            "title": "Elon Musk not invited to top UK investment summit",
+            "link": "https://www.bbc.com/news/articles/c756d56d2dro",
+            "published": "Wed, 25 Sep 2024 23:01:17 GMT"
         },
         {
             "title": "James McAvoy and Tom Brady fall for 'Goodbye Meta AI' hoax",
@@ -73,11 +78,6 @@
             "title": "Caroline Ellison sentenced to two years for role in FTX crypto fraud",
             "link": "https://www.bbc.com/news/articles/cdd4e2931q3o",
             "published": "Tue, 24 Sep 2024 22:02:47 GMT"
-        },
-        {
-            "title": "CrowdStrike boss apologises for global IT outage",
-            "link": "https://www.bbc.com/news/articles/c23k4yyjxp3o",
-            "published": "Tue, 24 Sep 2024 21:22:29 GMT"
         }
     ]
 }
