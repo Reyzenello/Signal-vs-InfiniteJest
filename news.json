@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Tencent is the unidentified shareholder that raised about $206M after selling Chinese brokerage-platform Futu's American depositary shares (Bloomberg)",
+            "link": "http://www.techmeme.com/240926/p22#a240926p22",
+            "published": "Thu, 26 Sep 2024 11:20:06 -0400"
+        },
+        {
+            "title": "Sources: the DOJ is investigating Super Micro after a report by short-seller Hindenburg Research; an ex-employee accused the company of accounting violations (Wall Street Journal)",
+            "link": "http://www.techmeme.com/240926/p21#a240926p21",
+            "published": "Thu, 26 Sep 2024 11:05:02 -0400"
+        },
+        {
             "title": "The Tor Project merges with Tails, a portable Linux-based OS focused on user privacy and anonymity; Tails says it had \"outgrown its existing structure\" (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/240926/p20#a240926p20",
             "published": "Thu, 26 Sep 2024 10:15:01 -0400"
         },
         {
-            "title": "Researchers find a flaw in carmaker Kia's web portal that let them track millions of cars, unlock doors, and start engines; Kia seems to have fixed the issue (Andy Greenberg/Wired)",
+            "title": "Researchers reported a flaw in Kia's web portal in June that let them track millions of cars, unlock doors, and start engines; Kia seems to have fixed the issue (Andy Greenberg/Wired)",
             "link": "http://www.techmeme.com/240926/p19#a240926p19",
             "published": "Thu, 26 Sep 2024 08:40:04 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Q&A with Meta CTO Andrew Bosworth on Orion, Reality Labs, building News Feed, competing with Apple, developers, the AR and VR bifurcation, Ray-Ban, and more (Ben Thompson/Stratechery)",
             "link": "http://www.techmeme.com/240926/p18#a240926p18",
             "published": "Thu, 26 Sep 2024 07:40:13 -0400"
-        },
-        {
-            "title": "Sources: Peak XV, the largest India-focused VC fund, has realized ~$1.2B in exits since its Sequoia separation in June 2023, selling stakes in ~12 companies (Manish Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/240926/p17#a240926p17",
-            "published": "Thu, 26 Sep 2024 07:10:14 -0400"
-        },
-        {
-            "title": "Matt Mullenweg says Automattic has \"been attempting to make a licensing deal\" with WP Engine \"for a very long time, and all they have done is string us along\" (Matt Mullenweg)",
-            "link": "http://www.techmeme.com/240926/p16#a240926p16",
-            "published": "Thu, 26 Sep 2024 06:55:01 -0400"
         }
     ],
     "source_1": [
@@ -67,7 +67,7 @@
         {
             "title": "Musk hits back after being shunned from UK summit",
             "link": "https://www.bbc.com/news/articles/c756d56d2dro",
-            "published": "Thu, 26 Sep 2024 12:17:13 GMT"
+            "published": "Thu, 26 Sep 2024 15:12:38 GMT"
         },
         {
             "title": "James McAvoy and Tom Brady fall for 'Goodbye Meta AI' hoax",
