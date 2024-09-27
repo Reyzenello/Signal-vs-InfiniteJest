@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The US is fretting over signing a UN cybercrime treaty due to fears Russia, China, and others could use it to justify surveillance and suppression of rights (Maggie Miller/Politico)",
+            "link": "http://www.techmeme.com/240927/p12#a240927p12",
+            "published": "Fri, 27 Sep 2024 10:30:39 -0400"
+        },
+        {
             "title": "iPhone 16 Pro and Pro Max teardown: great modularity upgrades and better repairability due to a dual-entry design and a metal enclosure for the 16 Pro's battery (Kyle Wiens/iFixit News)",
             "link": "http://www.techmeme.com/240927/p11#a240927p11",
             "published": "Fri, 27 Sep 2024 09:40:03 -0400"
@@ -16,17 +21,22 @@
             "published": "Fri, 27 Sep 2024 08:00:50 -0400"
         },
         {
-            "title": "The UK CMA rules that Amazon's $4B Anthropic deal does not qualify for an investigation under merger laws as Anthropic's UK revenue did not meet needed limits (Katharine Gemmell/Bloomberg)",
+            "title": "The UK CMA rules that Amazon's $4B Anthropic deal does not qualify for an investigation under merger laws as Anthropic's UK revenue didn't meet threshold limits (Katharine Gemmell/Bloomberg)",
             "link": "http://www.techmeme.com/240927/p8#a240927p8",
             "published": "Fri, 27 Sep 2024 07:30:01 -0400"
-        },
-        {
-            "title": "DefiLlama: Coinbase's L2 Ethereum network Base stands at $2.08B in total value locked, up from $430M at the start of 2024, marking a 370% growth year-to-date (Vishal Chawla/The Block)",
-            "link": "http://www.techmeme.com/240927/p7#a240927p7",
-            "published": "Fri, 27 Sep 2024 06:45:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk\u2019s Week on X: Deepfakes, Falsehoods and Lots of Memes",
+            "link": "https://www.nytimes.com/2024/09/27/technology/elon-musk-x-posts.html",
+            "published": "Fri, 27 Sep 2024 09:02:56 +0000"
+        },
+        {
+            "title": "Mira Murati, Chief Technology Officer at OpenAI, to Leave Company",
+            "link": "https://www.nytimes.com/2024/09/25/technology/mira-murati-openai.html",
+            "published": "Thu, 26 Sep 2024 02:03:16 +0000"
+        },
         {
             "title": "Caroline Ellison Sentenced to Two Years in Prison for Role in FTX Fraud",
             "link": "https://www.nytimes.com/2024/09/24/technology/caroline-ellison-ftx-sentence.html",
@@ -38,19 +48,9 @@
             "published": "Wed, 25 Sep 2024 11:20:06 +0000"
         },
         {
-            "title": "How Meta Distanced Itself From Politics",
-            "link": "https://www.nytimes.com/2024/09/24/technology/meta-election-politics.html",
-            "published": "Tue, 24 Sep 2024 22:19:28 +0000"
-        },
-        {
-            "title": "Spurned by Social Media, Publishers Chase Readers on WhatsApp",
-            "link": "https://www.nytimes.com/2024/09/24/business/media/whatsapp-news-outlets.html",
-            "published": "Tue, 24 Sep 2024 16:09:25 +0000"
-        },
-        {
-            "title": "Meta\u2019s Race for Your Face, Google\u2019s Hit A.I. Notebook and HatGPT",
-            "link": "https://www.nytimes.com/2024/09/27/podcasts/metas-race-for-your-face-googles-hit-ai-notebook-and-hatgpt.html",
-            "published": "Fri, 27 Sep 2024 09:03:56 +0000"
+            "title": "How Google Defended Itself in the Ad Tech Antitrust Trial",
+            "link": "https://www.nytimes.com/2024/09/27/technology/google-antitrust-case-lawsuit.html",
+            "published": "Fri, 27 Sep 2024 15:14:52 +0000"
         }
     ],
     "source_2": [
