@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Starlink crosses 4M customers; it started beta services in October 2020 and hit 1M subscribers in December 2022, 2M in September 2023, and 3M in May 2024 (Aria Alamalhodaei/TechCrunch)",
+            "link": "http://www.techmeme.com/240926/p36#a240926p36",
+            "published": "Thu, 26 Sep 2024 21:20:00 -0400"
+        },
+        {
+            "title": "Discord opens Activities, its ecosystem of apps and games, to all developers, letting them distribute and monetize apps on Discord via its Embedded Apps SDK (Rachel Kaser/VentureBeat)",
+            "link": "http://www.techmeme.com/240926/p35#a240926p35",
+            "published": "Thu, 26 Sep 2024 19:50:15 -0400"
+        },
+        {
             "title": "Source: Amazon exceeded its goal of $1.8B in ad-spending commitments for its video-streaming offerings, including Thursday Night Football, in the coming year (The Information)",
             "link": "http://www.techmeme.com/240926/p34#a240926p34",
             "published": "Thu, 26 Sep 2024 18:25:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Indian food delivery company Swiggy files for an IPO in India; source: Swiggy plans to raise $1.25B at a $15B valuation (Reuters)",
             "link": "http://www.techmeme.com/240926/p32#a240926p32",
             "published": "Thu, 26 Sep 2024 17:10:03 -0400"
-        },
-        {
-            "title": "X is blocking links to Ken Klippenstein's newsletter with a hacked JD Vance dossier and suspended Klippenstein's X account for posting Vance's private info (Elizabeth Lopatto/The Verge)",
-            "link": "http://www.techmeme.com/240926/p31#a240926p31",
-            "published": "Thu, 26 Sep 2024 16:00:46 -0400"
-        },
-        {
-            "title": "The US FCC levies a $6M fine on Steve Kramer, who used AI to mimic Biden's voice in thousands of robocalls to New Hampshire voters in early 2024 (Kelcee Griffis/Bloomberg)",
-            "link": "http://www.techmeme.com/240926/p30#a240926p30",
-            "published": "Thu, 26 Sep 2024 15:00:39 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Mira Murati, Chief Technology Officer at OpenAI, to Leave Company",
             "link": "https://www.nytimes.com/2024/09/25/technology/mira-murati-openai.html",
-            "published": "Thu, 26 Sep 2024 02:03:15 +0000"
+            "published": "Thu, 26 Sep 2024 02:03:16 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Dame Judi Dench and John Cena to voice Meta AI chatbot",
             "link": "https://www.bbc.com/news/articles/c6258zn1663o",
             "published": "Thu, 26 Sep 2024 09:54:32 GMT"
+        },
+        {
+            "title": "Watch: Can BBC reporter's AI clone fool his colleagues?",
+            "link": "https://www.bbc.com/news/videos/cdje9nz7ll1o",
+            "published": "Fri, 27 Sep 2024 00:27:50 GMT"
         },
         {
             "title": "Assassin's Creed Shadows release date delayed to 2025",
@@ -70,14 +75,9 @@
             "published": "Thu, 26 Sep 2024 15:12:38 GMT"
         },
         {
-            "title": "James McAvoy and Tom Brady fall for 'Goodbye Meta AI' hoax",
-            "link": "https://www.bbc.com/news/articles/cj4d5jjqg2qo",
-            "published": "Wed, 25 Sep 2024 12:30:35 GMT"
-        },
-        {
-            "title": "Terminator creator James Cameron joins board of AI company",
-            "link": "https://www.bbc.com/news/articles/cqxr4732pxwo",
-            "published": "Wed, 25 Sep 2024 11:21:15 GMT"
+            "title": "They were arrested for posting during the riots \u2013 will it change anything?",
+            "link": "https://www.bbc.com/news/articles/cr548zdmz3jo",
+            "published": "Fri, 27 Sep 2024 00:15:05 GMT"
         }
     ]
 }
