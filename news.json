@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft details how it has overhauled its controversial AI-powered Recall feature, including making it opt-in and giving users an option to uninstall (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/240927/p16#a240927p16",
+            "published": "Fri, 27 Sep 2024 13:10:13 -0400"
+        },
+        {
+            "title": "The US DOJ charges three hackers employed by Iran's Revolutionary Guard for allegedly hacking Trump's presidential campaign and disseminating stolen info (Eric Tucker/Associated Press)",
+            "link": "http://www.techmeme.com/240927/p15#a240927p15",
+            "published": "Fri, 27 Sep 2024 12:40:14 -0400"
+        },
+        {
             "title": "Mendaera, which is developing a robotic system with real-time imaging and AI for use in interventional radiology, raised a $73M Series B led by Threshold (Marty Stempniak/Radiology Business)",
             "link": "http://www.techmeme.com/240927/p14#a240927p14",
             "published": "Fri, 27 Sep 2024 12:15:14 -0400"
@@ -14,16 +24,6 @@
             "title": "The US is fretting over signing a UN cybercrime treaty due to fears Russia, China, and others could use it to justify surveillance and suppression of rights (Maggie Miller/Politico)",
             "link": "http://www.techmeme.com/240927/p12#a240927p12",
             "published": "Fri, 27 Sep 2024 10:30:39 -0400"
-        },
-        {
-            "title": "iPhone 16 Pro and Pro Max teardown: great modularity upgrades and better repairability due to a dual-entry design and a metal enclosure for the 16 Pro's battery (Kyle Wiens/iFixit News)",
-            "link": "http://www.techmeme.com/240927/p11#a240927p11",
-            "published": "Fri, 27 Sep 2024 09:40:03 -0400"
-        },
-        {
-            "title": "A look at some standout startups from Day 2 of YC's S24 Demo Day, including energy-efficient AI chips maker Exa Laboratories and freight carpooling startup Oway (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/240927/p10#a240927p10",
-            "published": "Fri, 27 Sep 2024 08:50:19 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "How Google Defended Itself in the Ad Tech Antitrust Trial",
             "link": "https://www.nytimes.com/2024/09/27/technology/google-antitrust-case-lawsuit.html",
-            "published": "Fri, 27 Sep 2024 15:14:52 +0000"
+            "published": "Fri, 27 Sep 2024 15:14:53 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Microsoft re-launches \u2018privacy nightmare\u2019 AI screenshot tool",
+            "link": "https://www.bbc.com/news/articles/c869glx8endo",
+            "published": "Fri, 27 Sep 2024 16:59:31 GMT"
+        },
         {
             "title": "Dame Judi Dench and John Cena to voice Meta AI chatbot",
             "link": "https://www.bbc.com/news/articles/c6258zn1663o",
@@ -73,11 +78,6 @@
             "title": "Assassin's Creed Shadows release date delayed to 2025",
             "link": "https://www.bbc.com/news/articles/c36176d6pe4o",
             "published": "Wed, 25 Sep 2024 17:01:32 GMT"
-        },
-        {
-            "title": "Musk hits back after being shunned from UK summit",
-            "link": "https://www.bbc.com/news/articles/c756d56d2dro",
-            "published": "Thu, 26 Sep 2024 15:12:38 GMT"
         }
     ]
 }
