@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "California Gov. Gavin Newsom vetoes AI safety bill SB 1047; source: Newsom vetoed because the bill applies only to large AI models and leaves others unregulated (Wall Street Journal)",
+            "title": "Interview with SolarWinds CISO Tim Brown on the 2020 breach, facing the US SEC's charges that were largely dismissed in July, global cyber regulations, and more (Stephanie Stacey/Financial Times)",
+            "link": "http://www.techmeme.com/240929/p9#a240929p9",
+            "published": "Sun, 29 Sep 2024 21:40:05 -0400"
+        },
+        {
+            "title": "CA Gov. Gavin Newsom vetoes AI safety bill SB 1047, saying the bill applies only to large AI models and doesn't account for if a model's deployment is high risk (Wall Street Journal)",
             "link": "http://www.techmeme.com/240929/p8#a240929p8",
             "published": "Sun, 29 Sep 2024 17:07:16 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "A look at challenges to OpenAI becoming a for-profit company, including the complexity of splitting assets with the nonprofit arm, which will continue to exist (Wall Street Journal)",
             "link": "http://www.techmeme.com/240929/p5#a240929p5",
             "published": "Sun, 29 Sep 2024 10:10:01 -0400"
-        },
-        {
-            "title": "NYU professor Aswath Damodaran on an AI bot that is trained on his equity valuation work that is in the public domain, why AI will empower generalists, and more (Aswath Damodaran/Financial Times)",
-            "link": "http://www.techmeme.com/240929/p4#a240929p4",
-            "published": "Sun, 29 Sep 2024 06:05:02 -0400"
         }
     ],
     "source_1": [
