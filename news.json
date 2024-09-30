@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A US judge dismisses a DOJ lawsuit accusing eBay of violating environmental laws by allowing the sale of harmful products, citing Section 230 protections (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/240930/p26#a240930p26",
+            "published": "Mon, 30 Sep 2024 17:45:02 -0400"
+        },
+        {
+            "title": "AI chip startup Cerebras Systems files for an IPO, with plans to trade on the Nasdaq as CBRS, and reports a net loss of $66.6M on $136.4M in sales in H1 2024 (CNBC)",
+            "link": "http://www.techmeme.com/240930/p25#a240930p25",
+            "published": "Mon, 30 Sep 2024 17:25:13 -0400"
+        },
+        {
             "title": "Udemy uses opt-out windows, the first of which lasted three weeks and just ended, that its creators must use to prevent their videos from being used to train AI (Jason Koebler/404 Media)",
             "link": "http://www.techmeme.com/240930/p24#a240930p24",
             "published": "Mon, 30 Sep 2024 17:10:02 -0400"
@@ -14,16 +24,6 @@
             "title": "CA Gov. Newsom signed AB 2013 into law, requiring those behind publicly available generative AI models to post a summary of the datasets used to train them (Jeffrey D. Neuburger/National Law Review)",
             "link": "http://www.techmeme.com/240930/p22#a240930p22",
             "published": "Mon, 30 Sep 2024 16:10:01 -0400"
-        },
-        {
-            "title": "The FCC announces a $31.5M settlement with T-Mobile over four data breaches, in 2021, 2022, and 2023, that compromised personal info of millions of US customers (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/240930/p21#a240930p21",
-            "published": "Mon, 30 Sep 2024 15:50:14 -0400"
-        },
-        {
-            "title": "Oura says it will see annual sales double to roughly $500M this year; sources: it plans to debut a new, thinner fitness ring with better battery life in October (Bloomberg)",
-            "link": "http://www.techmeme.com/240930/p20#a240930p20",
-            "published": "Mon, 30 Sep 2024 14:55:00 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 27 Sep 2024 22:36:15 +0000"
         },
         {
-            "title": "G.M. Reaches $1.5 Million Fine After Self-Driving Taxi Accident",
-            "link": "https://www.nytimes.com/2024/09/30/business/gm-cruise-nhtsa-fine.html",
-            "published": "Mon, 30 Sep 2024 20:09:34 +0000"
+            "title": "Cerebras Files Prospectus for I.P.O.",
+            "link": "https://www.nytimes.com/2024/09/30/technology/cerebras-ai-chips-ipo.html",
+            "published": "Mon, 30 Sep 2024 22:17:04 +0000"
         }
     ],
     "source_2": [
