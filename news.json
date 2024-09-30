@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Epic files a CA lawsuit accusing Samsung and Google of colluding to deter users from rival app stores via Samsung's Auto Blocker, and plans to speak to the EU (Reuters)",
+            "link": "http://www.techmeme.com/240930/p7#a240930p7",
+            "published": "Mon, 30 Sep 2024 07:10:08 -0400"
+        },
+        {
+            "title": "AT&T agrees to sell its majority stake in DirecTV to private equity firm TPG for $7.6B in cash, including $1.7B in pre-tax quarterly distributions in H2 2024 (Amy Thomson/Bloomberg)",
+            "link": "http://www.techmeme.com/240930/p6#a240930p6",
+            "published": "Mon, 30 Sep 2024 07:05:02 -0400"
+        },
+        {
+            "title": "A look at the Global Internet Forum to Counter Terrorism, created by Meta, Microsoft, YouTube, and X in 2016 to share info; X quietly left the board this month (Paresh Dave/Wired)",
+            "link": "http://www.techmeme.com/240930/p5#a240930p5",
+            "published": "Mon, 30 Sep 2024 06:50:04 -0400"
+        },
+        {
             "title": "Raspberry Pi AI Camera review: the new $70 kit has a smart camera with performance that will cover 99% of basic user projects, and works as a standard Pi camera (Les Pounder/Tom's Hardware)",
             "link": "http://www.techmeme.com/240930/p4#a240930p4",
             "published": "Mon, 30 Sep 2024 06:25:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: ByteDance plans to develop an AI model trained primarily with Huawei Ascend 910B chips, which it already uses for less intensive inference tasks (Reuters)",
             "link": "http://www.techmeme.com/240930/p3#a240930p3",
             "published": "Mon, 30 Sep 2024 06:05:00 -0400"
-        },
-        {
-            "title": "Google's lawyers wrapped up their defense of the company in the US DOJ ad tech antitrust trial last week; a judge's ruling is expected in the coming months (New York Times)",
-            "link": "http://www.techmeme.com/240930/p2#a240930p2",
-            "published": "Mon, 30 Sep 2024 05:45:09 -0400"
-        },
-        {
-            "title": "Antenna: Netflix cancellations spiked for a few days in late July 2024 after Reed Hastings endorsed Kamala Harris and announced a $7M super PAC donation (Lucas Shaw/Bloomberg)",
-            "link": "http://www.techmeme.com/240930/p1#a240930p1",
-            "published": "Mon, 30 Sep 2024 04:45:01 -0400"
-        },
-        {
-            "title": "An interview with SolarWinds CISO Tim Brown on the 2020 breach, facing SEC charges that were largely dismissed in July 2024, global cyber regulations, and more (Stephanie Stacey/Financial Times)",
-            "link": "http://www.techmeme.com/240929/p9#a240929p9",
-            "published": "Sun, 29 Sep 2024 21:40:05 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Samsung accused of obstructing Fortnite downloads",
+            "link": "https://www.bbc.com/news/articles/c2dpj8wkp7po",
+            "published": "Mon, 30 Sep 2024 11:14:54 GMT"
+        },
+        {
             "title": "California governor blocks landmark AI safety bill",
             "link": "https://www.bbc.com/news/articles/cj9jwyr3kgeo",
             "published": "Mon, 30 Sep 2024 09:34:54 GMT"
@@ -73,11 +78,6 @@
             "title": "'Everybody wants to be in': How songs are chosen for EA FC",
             "link": "https://www.bbc.com/news/articles/cr75zmr0m8vo",
             "published": "Fri, 27 Sep 2024 23:10:28 GMT"
-        },
-        {
-            "title": "Microsoft re-launches \u2018privacy nightmare\u2019 AI screenshot tool",
-            "link": "https://www.bbc.com/news/articles/c869glx8endo",
-            "published": "Fri, 27 Sep 2024 16:59:31 GMT"
         }
     ]
 }
