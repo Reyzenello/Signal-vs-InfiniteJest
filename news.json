@@ -1,12 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Interview with SolarWinds CISO Tim Brown on the 2020 breach, facing the US SEC's charges that were largely dismissed in July, global cyber regulations, and more (Stephanie Stacey/Financial Times)",
+            "title": "An interview with SolarWinds CISO Tim Brown on the 2020 breach, facing SEC charges that were largely dismissed in July 2024, global cyber regulations, and more (Stephanie Stacey/Financial Times)",
             "link": "http://www.techmeme.com/240929/p9#a240929p9",
             "published": "Sun, 29 Sep 2024 21:40:05 -0400"
         },
         {
-            "title": "CA Gov. Gavin Newsom vetoes AI safety bill SB 1047, saying the bill applies only to large AI models and doesn't account for if a model's deployment is high risk (Wall Street Journal)",
+            "title": "California Governor Gavin Newsom vetoes AI safety bill SB 1047, saying it applies only to large AI models and doesn't account for if deployment is high risk (Wall Street Journal)",
             "link": "http://www.techmeme.com/240929/p8#a240929p8",
             "published": "Sun, 29 Sep 2024 17:07:16 -0400"
         },
@@ -16,7 +16,7 @@
             "published": "Sun, 29 Sep 2024 12:35:18 -0400"
         },
         {
-            "title": "Sources: Apple considers options for its headsets, including moving compute to iPhone, and is working on homeOS; new Masimo CEO could enable a deal with Apple (Mark Gurman/Bloomberg)",
+            "title": "Sources: Apple considers options for its headsets, including moving compute to iPhone, and is working on homeOS; Masimo's new CEO could enable a deal with Apple (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/240929/p6#a240929p6",
             "published": "Sun, 29 Sep 2024 11:05:10 -0400"
         },
@@ -60,6 +60,11 @@
             "published": "Mon, 30 Sep 2024 03:50:37 GMT"
         },
         {
+            "title": "The debate: Should smartphones be banned for under 16s?",
+            "link": "https://www.bbc.com/news/articles/cjd5z24d89vo",
+            "published": "Sat, 28 Sep 2024 23:55:14 GMT"
+        },
+        {
             "title": "Uber terms mean couple can't sue after 'life-changing' crash",
             "link": "https://www.bbc.com/news/articles/cwy9j8ldp0lo",
             "published": "Sat, 28 Sep 2024 00:49:07 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft re-launches \u2018privacy nightmare\u2019 AI screenshot tool",
             "link": "https://www.bbc.com/news/articles/c869glx8endo",
             "published": "Fri, 27 Sep 2024 16:59:31 GMT"
-        },
-        {
-            "title": "Watch: Can BBC reporter's AI clone fool his colleagues?",
-            "link": "https://www.bbc.com/news/videos/cdje9nz7ll1o",
-            "published": "Fri, 27 Sep 2024 00:27:50 GMT"
         }
     ]
 }
