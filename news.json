@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A massive outage has affected Verizon customers since around 10AM ET, according to reports on Downdetector from subscribers across the US (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/240930/p14#a240930p14",
+            "published": "Mon, 30 Sep 2024 11:50:01 -0400"
+        },
+        {
             "title": "Source: SoftBank's Vision Fund has agreed to invest $500M in OpenAI's latest funding round, SoftBank's first investment in OpenAI, which is raising $6.5B (The Information)",
             "link": "http://www.techmeme.com/240930/p13#a240930p13",
             "published": "Mon, 30 Sep 2024 09:55:03 -0400"
@@ -19,11 +24,6 @@
             "title": "Qodo, which offers code generation and testing tools to the enterprise, raised a $40M Series A led by Susa Ventures and Square Peg (Frederic Lardinois/TechCrunch)",
             "link": "http://www.techmeme.com/240930/p10#a240930p10",
             "published": "Mon, 30 Sep 2024 09:15:01 -0400"
-        },
-        {
-            "title": "Binance founder Changpeng Zhao pledges to keep investing in blockchain, AI, and biotech, in his first comments since his release from US custody on September 27 (Suvashree Ghosh/Bloomberg)",
-            "link": "http://www.techmeme.com/240930/p9#a240930p9",
-            "published": "Mon, 30 Sep 2024 08:30:03 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 27 Sep 2024 22:36:15 +0000"
         },
         {
-            "title": "California\u2019s Governor Gavin Newsom Vetoes Sweeping A.I. Legislation",
-            "link": "https://www.nytimes.com/2024/09/29/technology/california-ai-bill.html",
-            "published": "Sun, 29 Sep 2024 20:36:17 +0000"
+            "title": "Verizon Mobile Outages Reported Across the U.S.",
+            "link": "https://www.nytimes.com/2024/09/30/business/verizon-mobile-outages-us.html",
+            "published": "Mon, 30 Sep 2024 16:17:31 +0000"
         }
     ],
     "source_2": [
