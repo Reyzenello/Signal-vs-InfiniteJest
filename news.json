@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Raspberry Pi AI Camera review: the new $70 kit has a smart camera with performance that will cover 99% of basic user projects, and works as a standard Pi camera (Les Pounder/Tom's Hardware)",
+            "link": "http://www.techmeme.com/240930/p4#a240930p4",
+            "published": "Mon, 30 Sep 2024 06:25:00 -0400"
+        },
+        {
+            "title": "Sources: ByteDance plans to develop an AI model trained primarily with Huawei Ascend 910B chips, which it already uses for less intensive inference tasks (Reuters)",
+            "link": "http://www.techmeme.com/240930/p3#a240930p3",
+            "published": "Mon, 30 Sep 2024 06:05:00 -0400"
+        },
+        {
+            "title": "Google's lawyers wrapped up their defense of the company in the US DOJ ad tech antitrust trial last week; a judge's ruling is expected in the coming months (New York Times)",
+            "link": "http://www.techmeme.com/240930/p2#a240930p2",
+            "published": "Mon, 30 Sep 2024 05:45:09 -0400"
+        },
+        {
             "title": "Antenna: Netflix cancellations spiked for a few days in late July 2024 after Reed Hastings endorsed Kamala Harris and announced a $7M super PAC donation (Lucas Shaw/Bloomberg)",
             "link": "http://www.techmeme.com/240930/p1#a240930p1",
             "published": "Mon, 30 Sep 2024 04:45:01 -0400"
@@ -9,21 +24,6 @@
             "title": "An interview with SolarWinds CISO Tim Brown on the 2020 breach, facing SEC charges that were largely dismissed in July 2024, global cyber regulations, and more (Stephanie Stacey/Financial Times)",
             "link": "http://www.techmeme.com/240929/p9#a240929p9",
             "published": "Sun, 29 Sep 2024 21:40:05 -0400"
-        },
-        {
-            "title": "California Governor Gavin Newsom vetoes AI safety bill SB 1047, saying it applies only to large AI models and doesn't account for if deployment is high risk (Wall Street Journal)",
-            "link": "http://www.techmeme.com/240929/p8#a240929p8",
-            "published": "Sun, 29 Sep 2024 17:07:16 -0400"
-        },
-        {
-            "title": "CA Governor Newsom signs the California Neurorights Act into law that treats \"neural data\" as personal sensitive info, aiming to protect brain data from misuse (Jonathan Moens/New York Times)",
-            "link": "http://www.techmeme.com/240929/p7#a240929p7",
-            "published": "Sun, 29 Sep 2024 12:35:18 -0400"
-        },
-        {
-            "title": "Sources: Apple considers options for its headsets, including moving compute to iPhone, and is working on homeOS; Masimo's new CEO could enable a deal with Apple (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/240929/p6#a240929p6",
-            "published": "Sun, 29 Sep 2024 11:05:10 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "California governor blocks landmark AI safety bill",
             "link": "https://www.bbc.com/news/articles/cj9jwyr3kgeo",
-            "published": "Mon, 30 Sep 2024 03:50:37 GMT"
+            "published": "Mon, 30 Sep 2024 09:34:54 GMT"
         },
         {
             "title": "The debate: Should smartphones be banned for under 16s?",
