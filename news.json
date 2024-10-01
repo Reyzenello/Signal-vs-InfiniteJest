@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft will start rolling out Click to Do, similar to Google's Circle to Search, and AI-enhanced search features for Windows on Copilot+ PCs next month (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/241001/p15#a241001p15",
+            "published": "Tue, 01 Oct 2024 10:25:02 -0400"
+        },
+        {
+            "title": "Microsoft unveils Copilot Vision, to analyze text and images on webpages, Think Deeper, to reason through more complex problems, Copilot Voice, and more (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/241001/p14#a241001p14",
+            "published": "Tue, 01 Oct 2024 10:20:00 -0400"
+        },
+        {
             "title": "Google announces new Chromebook models with Samsung and Lenovo, and adds AI features to ChromeOS; Samsung's Galaxy Chromebook Plus gets a new Quick Insert key (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/241001/p13#a241001p13",
             "published": "Tue, 01 Oct 2024 09:15:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Sonos CEO Patrick Spence announces a plan to understand its software and corporate culture missteps and rebuild trust with customers, after the app debacle (Chris Welch/The Verge)",
             "link": "http://www.techmeme.com/241001/p11#a241001p11",
             "published": "Tue, 01 Oct 2024 08:46:25 -0400"
-        },
-        {
-            "title": "An unredacted New Mexico lawsuit shows Snap grappled internally with how to warn users of Snapchat sextortion risks without striking fear in users or parents (Jeff Horwitz/Wall Street Journal)",
-            "link": "http://www.techmeme.com/241001/p10#a241001p10",
-            "published": "Tue, 01 Oct 2024 06:45:07 -0400"
-        },
-        {
-            "title": "How streamers on Twitch and other services are moving further into talking politics, making the livestreaming platforms a focus for both presidential campaigns (New York Times)",
-            "link": "http://www.techmeme.com/241001/p9#a241001p9",
-            "published": "Tue, 01 Oct 2024 06:25:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Microsoft: 'ever present' AI assistants are coming",
+            "link": "https://www.bbc.com/news/articles/czj9vmnlv9zo",
+            "published": "Tue, 01 Oct 2024 13:59:49 GMT"
+        },
+        {
             "title": "Samsung accused of obstructing Fortnite downloads",
             "link": "https://www.bbc.com/news/articles/c2dpj8wkp7po",
             "published": "Tue, 01 Oct 2024 10:07:41 GMT"
@@ -73,11 +78,6 @@
             "title": "Uber terms mean couple can't sue after 'life-changing' crash",
             "link": "https://www.bbc.com/news/articles/cwy9j8ldp0lo",
             "published": "Sat, 28 Sep 2024 00:49:07 GMT"
-        },
-        {
-            "title": "'Everybody wants to be in': How songs are chosen for EA FC",
-            "link": "https://www.bbc.com/news/articles/cr75zmr0m8vo",
-            "published": "Fri, 27 Sep 2024 23:10:28 GMT"
         }
     ]
 }
