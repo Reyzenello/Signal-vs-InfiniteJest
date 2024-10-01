@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft begins rolling out Bing Generative Search, its answer to Google's AI Overviews, to users in the US (Kyle Wiggers/TechCrunch)",
+            "title": "As the US and allies try to sanction Evil Corp., the UK NCA says the ransomware gang conducted cyberattacks and espionage ops on NATO allies on Kremlin orders (Ryan Gallagher/Bloomberg)",
+            "link": "http://www.techmeme.com/241001/p21#a241001p21",
+            "published": "Tue, 01 Oct 2024 11:55:14 -0400"
+        },
+        {
+            "title": "Microsoft's new Windows 11 update adds generative AI-based fill and erase options to Paint and up to 8x picture resolution upscaling to Photos, for Copilot+ PCs (Devindra Hardawar/Engadget)",
+            "link": "http://www.techmeme.com/241001/p20#a241001p20",
+            "published": "Tue, 01 Oct 2024 11:50:01 -0400"
+        },
+        {
+            "title": "The US NLRB issues a complaint accusing Apple of violating staff's rights to organize and advocate for working conditions via allegedly unlawful workplace rules (Daniel Wiessner/Reuters)",
+            "link": "http://www.techmeme.com/241001/p19#a241001p19",
+            "published": "Tue, 01 Oct 2024 11:48:04 -0400"
+        },
+        {
+            "title": "Microsoft begins rolling out Bing Generative Search, its answer to Google's AI Overviews, to all US users, underpinned by a mix of AI models (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241001/p18#a241001p18",
             "published": "Tue, 01 Oct 2024 10:50:13 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "Microsoft is discontinuing HoloLens 2, with no replacement, and will only push \"updates to address critical security issues and software regressions\" until 2028 (David Heaney/UploadVR)",
             "link": "http://www.techmeme.com/241001/p17#a241001p17",
             "published": "Tue, 01 Oct 2024 10:40:03 -0400"
-        },
-        {
-            "title": "Microsoft to pay pubs for content used by Copilot Daily, a new assistant providing a spoken summary of current events, signs up Reuters, FT, Axel Springer, more (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241001/p16#a241001p16",
-            "published": "Tue, 01 Oct 2024 10:30:12 -0400"
-        },
-        {
-            "title": "Microsoft will start rolling out Click to Do, similar to Google's Circle to Search, and AI-enhanced search features for Windows on Copilot+ PCs next month (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/241001/p15#a241001p15",
-            "published": "Tue, 01 Oct 2024 10:25:02 -0400"
-        },
-        {
-            "title": "Microsoft unveils Copilot Vision, which analyzes text and images on webpages, Think Deeper, which reasons through more complex problems, Copilot Voice, and more (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241001/p14#a241001p14",
-            "published": "Tue, 01 Oct 2024 10:20:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "UK reveals father and son at heart of Evil Corp hackers",
+            "link": "https://www.bbc.com/news/articles/cwy98824lk4o",
+            "published": "Tue, 01 Oct 2024 16:12:05 GMT"
+        },
+        {
             "title": "Microsoft: 'ever present' AI assistants are coming",
             "link": "https://www.bbc.com/news/articles/czj9vmnlv9zo",
             "published": "Tue, 01 Oct 2024 13:59:49 GMT"
@@ -73,11 +78,6 @@
             "title": "The debate: Should smartphones be banned for under 16s?",
             "link": "https://www.bbc.com/news/articles/cjd5z24d89vo",
             "published": "Sat, 28 Sep 2024 23:55:14 GMT"
-        },
-        {
-            "title": "Uber terms mean couple can't sue after 'life-changing' crash",
-            "link": "https://www.bbc.com/news/articles/cwy9j8ldp0lo",
-            "published": "Sat, 28 Sep 2024 00:49:07 GMT"
         }
     ]
 }
