@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google releases Gemini 1.5 Flash-8B, a smaller and faster variant of 1.5 Flash, with 50% lower price, 2x higher rate limits, and lower latency on small prompts (Google Developers Blog)",
+            "link": "http://www.techmeme.com/241003/p31#a241003p31",
+            "published": "Thu, 03 Oct 2024 14:45:01 -0400"
+        },
+        {
+            "title": "The US and Microsoft seize 107 websites used by Russian intelligence agents and their proxies in the US operating under Star Blizzard, a group active since 2016 (Katrina Manson/Bloomberg)",
+            "link": "http://www.techmeme.com/241003/p30#a241003p30",
+            "published": "Thu, 03 Oct 2024 14:40:02 -0400"
+        },
+        {
             "title": "OpenAI introduces canvas, a beta interface for Plus and Teams users that opens a separate window, beside the normal chat window, for writing and coding projects (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/241003/p29#a241003p29",
             "published": "Thu, 03 Oct 2024 13:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Google rolls out ads in AI Overviews for when a user's question has a \"commercial angle\", and identifies the ads with a \"sponsored\" header, on mobile in the US (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/241003/p27#a241003p27",
             "published": "Thu, 03 Oct 2024 12:45:14 -0400"
-        },
-        {
-            "title": "Google updates Lens to let users take a video and use their voice to search, showing an AI Overview and search results, rolling out to Search Labs on mobile (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/241003/p26#a241003p26",
-            "published": "Thu, 03 Oct 2024 12:40:12 -0400"
-        },
-        {
-            "title": "Zepz, the money transfer service formerly called WorldRemit and valued at $5B in 2021, raised $267M to fund an expansion in its core African markets and beyond (Aisha S Gani/Bloomberg)",
-            "link": "http://www.techmeme.com/241003/p25#a241003p25",
-            "published": "Thu, 03 Oct 2024 12:25:04 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Mon, 30 Sep 2024 20:09:34 +0000"
         },
         {
-            "title": "Abuse Claims Add to Telegram C.E.O. Pavel Durov\u2019s Legal Troubles",
-            "link": "https://www.nytimes.com/2024/10/03/technology/pavel-durov-telegram-abuse-claims.html",
-            "published": "Thu, 03 Oct 2024 17:54:50 +0000"
+            "title": "OpenAI Adds $4 Billion Credit Line on Top of $6.6 Billion Investment Round",
+            "link": "https://www.nytimes.com/2024/10/03/technology/openai-credit-line.html",
+            "published": "Thu, 03 Oct 2024 19:15:05 +0000"
         }
     ],
     "source_2": [
