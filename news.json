@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Analysis: Microsoft's finance leases, commencing between FY 2025 and FY 2030, mainly for data centers, has risen by $100B+ in less than two years to $108.4B (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/241003/p1#a241003p1",
+            "published": "Thu, 03 Oct 2024 00:45:01 -0400"
+        },
+        {
             "title": "WP Engine files a lawsuit in California against Automattic and WordPress co-founder Matt Mullenweg, accusing them of extortion, abuse of power, and greed (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/241002/p38#a241002p38",
             "published": "Wed, 02 Oct 2024 23:30:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Co-founders Tim Berners-Lee and Rosemary Leith plan to close the World Wide Web Foundation after 15 years of fighting to make the web safer and more accessible (Thomas Claburn/The Register)",
             "link": "http://www.techmeme.com/241002/p35#a241002p35",
             "published": "Wed, 02 Oct 2024 22:00:52 -0400"
-        },
-        {
-            "title": "A US judge temporarily blocks California's AG from enforcing AB 2839, which Governor Gavin Newsom signed into law on September 17 to remove election deepfakes (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/241002/p34#a241002p34",
-            "published": "Wed, 02 Oct 2024 21:10:02 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Wed, 02 Oct 2024 21:07:12 GMT"
         },
         {
+            "title": "Toyota delays US electric car plans as sales slow",
+            "link": "https://www.bbc.com/news/articles/clylzgmp3zpo",
+            "published": "Thu, 03 Oct 2024 04:20:54 GMT"
+        },
+        {
             "title": "UK reveals father and son at heart of Evil Corp hackers",
             "link": "https://www.bbc.com/news/articles/cwy98824lk4o",
             "published": "Tue, 01 Oct 2024 16:12:05 GMT"
@@ -73,11 +78,6 @@
             "title": "Samsung accused of obstructing Fortnite downloads",
             "link": "https://www.bbc.com/news/articles/c2dpj8wkp7po",
             "published": "Tue, 01 Oct 2024 10:07:41 GMT"
-        },
-        {
-            "title": "California governor blocks landmark AI safety bill",
-            "link": "https://www.bbc.com/news/articles/cj9jwyr3kgeo",
-            "published": "Mon, 30 Sep 2024 09:34:54 GMT"
         }
     ]
 }
