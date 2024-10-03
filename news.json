@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at the prevalence of deepfake porn in South Korea, where its parliament has revised a law to make watching or possessing deepfake porn content illegal (Hyung-Jin Kim/Associated Press)",
+            "link": "http://www.techmeme.com/241003/p8#a241003p8",
+            "published": "Thu, 03 Oct 2024 04:35:14 -0400"
+        },
+        {
             "title": "An in-depth account of how CD Projekt Red recovered from the disastrous launch of Cyberpunk 2077, using a fully parallelized engine to test and resolve issues (Chris Tapsell/Eurogamer.net)",
             "link": "http://www.techmeme.com/241003/p7#a241003p7",
             "published": "Thu, 03 Oct 2024 04:15:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Analysis: OpenAI, the third-most valuable VC-backed company after SpaceX and ByteDance, is worth far more than any VC-backed company at the time of its IPO (Rosie Bradbury/PitchBook)",
             "link": "http://www.techmeme.com/241003/p4#a241003p4",
             "published": "Thu, 03 Oct 2024 02:00:40 -0400"
-        },
-        {
-            "title": "PitchBook: Q3 US VC investments rose 8% YoY to $37.9B across 3,777 deals; AI firms got 36% of deal value and 27% of deal count in the first nine months of 2024 (Sarah McBride/Bloomberg)",
-            "link": "http://www.techmeme.com/241003/p3#a241003p3",
-            "published": "Thu, 03 Oct 2024 01:35:04 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 30 Sep 2024 20:09:34 +0000"
         },
         {
-            "title": "OpenAI Completes Deal That Values Company at $157 Billion",
-            "link": "https://www.nytimes.com/2024/10/02/technology/openai-valuation-150-billion.html",
-            "published": "Wed, 02 Oct 2024 18:00:49 +0000"
+            "title": "Abuse Claims Add to Telegram C.E.O. Pavel Durov\u2019s Legal Troubles",
+            "link": "https://www.nytimes.com/2024/10/03/technology/pavel-durov-telegram-abuse-claims.html",
+            "published": "Thu, 03 Oct 2024 09:04:27 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Musk faces regulators' questions over X takeover - but will he show up?",
+            "link": "https://www.bbc.com/news/articles/c0e1xgw4dqdo",
+            "published": "Thu, 03 Oct 2024 08:50:29 GMT"
+        },
         {
             "title": "OpenAI value surges to $157bn in funding deal",
             "link": "https://www.bbc.com/news/articles/c8rd0jd1g6xo",
@@ -73,11 +78,6 @@
             "title": "Microsoft: 'ever present' AI assistants are coming",
             "link": "https://www.bbc.com/news/articles/czj9vmnlv9zo",
             "published": "Tue, 01 Oct 2024 13:59:49 GMT"
-        },
-        {
-            "title": "Samsung accused of obstructing Fortnite downloads",
-            "link": "https://www.bbc.com/news/articles/c2dpj8wkp7po",
-            "published": "Tue, 01 Oct 2024 10:07:41 GMT"
         }
     ]
 }
