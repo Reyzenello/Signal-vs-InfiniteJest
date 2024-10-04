@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The CJEU rules that social networks, such as Facebook, cannot keep using people's data for ad targeting indefinitely, siding with privacy campaigner Max Schrems (Natasha Lomas/TechCrunch)",
+            "link": "http://www.techmeme.com/241004/p7#a241004p7",
+            "published": "Fri, 04 Oct 2024 08:06:46 -0400"
+        },
+        {
+            "title": "Robinhood plans to debut margin trading in UK in the coming weeks; it is exploring offering retirement products and letting British users invest in UK stocks (Bloomberg)",
+            "link": "http://www.techmeme.com/241004/p6#a241004p6",
+            "published": "Fri, 04 Oct 2024 07:25:12 -0400"
+        },
+        {
             "title": "Google is \"running a small experiment\" showing blue verified checkmarks beside business links in its search results that indicate the company is genuine (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/241004/p5#a241004p5",
             "published": "Fri, 04 Oct 2024 06:05:01 -0400"
@@ -11,19 +21,9 @@
             "published": "Fri, 04 Oct 2024 05:50:00 -0400"
         },
         {
-            "title": "The CJEU sides with Max Schrems over his privacy dispute with Meta after an Austrian court asked CJEU if Facebook undermines GDPR with its use of data for ads (Foo Yun Chee/Reuters)",
+            "title": "EU top court sides with activist Schrems in privacy dispute with Meta (Foo Yun Chee/Reuters)",
             "link": "http://www.techmeme.com/241004/p3#a241004p3",
             "published": "Fri, 04 Oct 2024 05:36:51 -0400"
-        },
-        {
-            "title": "A postmortem of HyperWrite's Reflection 70B model blames \"a bug in the initial code for benchmarking\", after evaluators couldn't reproduce some claimed results (Carl Franzen/VentureBeat)",
-            "link": "http://www.techmeme.com/241004/p2#a241004p2",
-            "published": "Fri, 04 Oct 2024 04:05:10 -0400"
-        },
-        {
-            "title": "Google says it'll stop linking to news content and drop its deals with news orgs in New Zealand if NZ passes a law forcing digital platforms to pay for content (Lucy Craymer/Reuters)",
-            "link": "http://www.techmeme.com/241004/p1#a241004p1",
-            "published": "Fri, 04 Oct 2024 00:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Meta must limit data for personalised ads - EU court",
+            "link": "https://www.bbc.com/news/articles/c4gr4r5ln03o",
+            "published": "Fri, 04 Oct 2024 12:27:07 GMT"
+        },
+        {
             "title": "Google introduces new way to search by filming video",
             "link": "https://www.bbc.com/news/articles/c93pdw7y12no",
             "published": "Thu, 03 Oct 2024 16:00:14 GMT"
@@ -73,11 +78,6 @@
             "title": "Toyota delays US electric car plans as sales slow",
             "link": "https://www.bbc.com/news/articles/clylzgmp3zpo",
             "published": "Thu, 03 Oct 2024 04:20:54 GMT"
-        },
-        {
-            "title": "UK reveals father and son at heart of Evil Corp hackers",
-            "link": "https://www.bbc.com/news/articles/cwy98824lk4o",
-            "published": "Tue, 01 Oct 2024 16:12:05 GMT"
         }
     ]
 }
