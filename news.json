@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google is \"running a small experiment\" showing blue verified checkmarks beside business links in its search results that indicate the company is genuine (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/241004/p5#a241004p5",
+            "published": "Fri, 04 Oct 2024 06:05:01 -0400"
+        },
+        {
+            "title": "Matt Mullenweg says 159 Automattic employees, ~8.4% of staff, accepted a generous buyout package offered to those who disagreed with his direction of WordPress (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/241004/p4#a241004p4",
+            "published": "Fri, 04 Oct 2024 05:50:00 -0400"
+        },
+        {
+            "title": "The CJEU sides with Max Schrems over his privacy dispute with Meta after an Austrian court asked CJEU if Facebook undermines GDPR with its use of data for ads (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/241004/p3#a241004p3",
+            "published": "Fri, 04 Oct 2024 05:36:51 -0400"
+        },
+        {
             "title": "A postmortem of HyperWrite's Reflection 70B model blames \"a bug in the initial code for benchmarking\", after evaluators couldn't reproduce some claimed results (Carl Franzen/VentureBeat)",
             "link": "http://www.techmeme.com/241004/p2#a241004p2",
             "published": "Fri, 04 Oct 2024 04:05:10 -0400"
@@ -9,21 +24,6 @@
             "title": "Google says it'll stop linking to news content and cut ties with news orgs in New Zealand if the country passes law forcing digital platforms to pay for content (Lucy Craymer/Reuters)",
             "link": "http://www.techmeme.com/241004/p1#a241004p1",
             "published": "Fri, 04 Oct 2024 00:30:01 -0400"
-        },
-        {
-            "title": "CCData: Binance's trading volume in the $2T digital asset market fell from 42.7% at the start of 2024 to 36.6% in September, the lowest share since January 2021 (Olga Kharif/Bloomberg)",
-            "link": "http://www.techmeme.com/241003/p37#a241003p37",
-            "published": "Thu, 03 Oct 2024 21:15:01 -0400"
-        },
-        {
-            "title": "Sources: ElevenLabs is raising a new round that could value it at up to $3B; source: its ARR has grown from $25M at the end of 2023 to ~$80M in recent months (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/241003/p36#a241003p36",
-            "published": "Thu, 03 Oct 2024 19:30:01 -0400"
-        },
-        {
-            "title": "Apple releases iPadOS 18.0.1, bringing iPadOS 18 to the M4 iPad Pro models for the first time since pulling the update for the devices after reports of bricking (Juli Clover/MacRumors)",
-            "link": "http://www.techmeme.com/241003/p35#a241003p35",
-            "published": "Thu, 03 Oct 2024 19:05:04 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Can California Regulate A.I.? + Silicon Valley\u2019s Super Babies + System Update!",
             "link": "https://www.nytimes.com/2024/10/04/podcasts/hard-fork-newsom-ai-fertility.html",
-            "published": "Fri, 04 Oct 2024 09:03:59 +0000"
+            "published": "Fri, 04 Oct 2024 09:04:00 +0000"
         }
     ],
     "source_2": [
@@ -62,7 +62,7 @@
         {
             "title": "Mystery surrounds Musk interview with US regulators",
             "link": "https://www.bbc.com/news/articles/c0e1xgw4dqdo",
-            "published": "Fri, 04 Oct 2024 09:24:13 GMT"
+            "published": "Fri, 04 Oct 2024 09:31:33 GMT"
         },
         {
             "title": "OpenAI value surges to $157bn in funding deal",
