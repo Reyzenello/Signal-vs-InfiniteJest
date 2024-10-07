@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Apple releases macOS 15.0.1, which \"improves compatibility with third-party security software\", after the Sequoia's release broke some third-party tools (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+            "link": "http://www.techmeme.com/241007/p14#a241007p14",
+            "published": "Mon, 07 Oct 2024 13:40:05 -0400"
+        },
+        {
             "title": "A deep dive on Chris Lehane, super PACs like Fairshake, and recent political savagery from some Silicon Valley execs, effectively targeting Katie Porter, others (Charles Duhigg/New Yorker)",
             "link": "http://www.techmeme.com/241007/p13#a241007p13",
             "published": "Mon, 07 Oct 2024 12:35:01 -0400"
@@ -19,38 +24,33 @@
             "title": "SCOTUS rejects X's appeal over Special Counsel Jack Smith's secret DOJ search warrant for records related to Donald Trump's account and upholds a $350K fine (Greg Stohr/Bloomberg)",
             "link": "http://www.techmeme.com/241007/p10#a241007p10",
             "published": "Mon, 07 Oct 2024 09:55:03 -0400"
-        },
-        {
-            "title": "Ukraine says the country's hackers carried out a cyberattack that took down the online broadcasts of 20+ Russian broadcasters on Vladimir Putin's 72nd birthday (Olesia Safronova/Bloomberg)",
-            "link": "http://www.techmeme.com/241007/p9#a241007p9",
-            "published": "Mon, 07 Oct 2024 08:35:00 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Cerebras Files Prospectus for I.P.O.",
-            "link": "https://www.nytimes.com/2024/09/30/technology/cerebras-ai-chips-ipo.html",
-            "published": "Tue, 01 Oct 2024 18:11:43 +0000"
-        },
-        {
-            "title": "OpenAI Is Growing Fast and Burning Through Piles of Money",
-            "link": "https://www.nytimes.com/2024/09/27/technology/openai-chatgpt-investors-funding.html",
-            "published": "Sat, 28 Sep 2024 18:27:48 +0000"
-        },
-        {
-            "title": "Meta\u2019s Race for Your Face, Google\u2019s Hit A.I. Notebook and HatGPT",
-            "link": "https://www.nytimes.com/2024/09/27/podcasts/metas-race-for-your-face-googles-hit-ai-notebook-and-hatgpt.html",
-            "published": "Tue, 01 Oct 2024 17:44:45 +0000"
-        },
-        {
-            "title": "G.M. Reaches $1.5 Million Fine After Self-Driving Taxi Accident",
-            "link": "https://www.nytimes.com/2024/09/30/business/gm-cruise-nhtsa-fine.html",
-            "published": "Mon, 30 Sep 2024 20:09:34 +0000"
-        },
-        {
             "title": "How a Lobbying Group Is Arguing That Big Tech Protects Free Speech",
             "link": "https://www.nytimes.com/2024/10/07/technology/netchoice-free-speech-meta-google.html",
             "published": "Mon, 07 Oct 2024 09:01:26 +0000"
+        },
+        {
+            "title": "Abuse Claims Add to Telegram C.E.O. Pavel Durov\u2019s Legal Troubles",
+            "link": "https://www.nytimes.com/2024/10/03/technology/pavel-durov-telegram-abuse-claims.html",
+            "published": "Thu, 03 Oct 2024 19:25:10 +0000"
+        },
+        {
+            "title": "Meta Unveils New Instant A.I. Generator",
+            "link": "https://www.nytimes.com/2024/10/04/technology/meta-instant-ai-video-generator-adds-sounds.html",
+            "published": "Fri, 04 Oct 2024 13:57:13 +0000"
+        },
+        {
+            "title": "OpenAI Adds $4 Billion Credit Line on Top of $6.6 Billion Investment Round",
+            "link": "https://www.nytimes.com/2024/10/03/technology/openai-credit-line.html",
+            "published": "Thu, 03 Oct 2024 19:15:05 +0000"
+        },
+        {
+            "title": "9 of the Most Celebrated Awards in Science Outside of Nobel Prizes",
+            "link": "https://www.nytimes.com/2024/10/06/science/awards-prizes.html",
+            "published": "Mon, 07 Oct 2024 16:26:52 +0000"
         }
     ],
     "source_2": [
