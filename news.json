@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "TrendForce: TSMC's global foundry revenue share will hit 64% in 2024, up from 51% in 2019, while Samsung's share is set to drop to 10%, down from 16% in 2019 (Jiyoung Sohn/Wall Street Journal)",
+            "title": "EvenUp, a personal injury startup making AI tools for law firms, raised a $135M Series D led by Bain Capital at a $1B+ valuation and says it has 1,000+ clients (Katie Roof/Bloomberg)",
+            "link": "http://www.techmeme.com/241008/p9#a241008p9",
+            "published": "Tue, 08 Oct 2024 08:35:03 -0400"
+        },
+        {
+            "title": "TrendForce: TSMC's global foundry revenue share will hit ~64% in 2024, up from 51% in 2019, while Samsung's share is set to drop to ~10%, down from 16% in 2019 (Jiyoung Sohn/Wall Street Journal)",
             "link": "http://www.techmeme.com/241008/p8#a241008p8",
             "published": "Tue, 08 Oct 2024 07:05:01 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "Israel compromising Hezbollah pagers shows the West should take hardware security more seriously, especially as most electronics manufacturing shifted to Asia (Chris Miller/Financial Times)",
             "link": "http://www.techmeme.com/241008/p5#a241008p5",
             "published": "Tue, 08 Oct 2024 06:15:01 -0400"
-        },
-        {
-            "title": "Filing: Saudi Arabia's PIF sold ~17.3M Nintendo shares between August 21 to October 1, lowering its stake to 7.54%, despite an exec saying it wants to buy more (Bloomberg)",
-            "link": "http://www.techmeme.com/241008/p4#a241008p4",
-            "published": "Tue, 08 Oct 2024 05:55:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Teenager claims first ever Tetris 'rebirth'",
+            "link": "https://www.bbc.com/news/articles/c70wnrg678lo",
+            "published": "Tue, 08 Oct 2024 11:46:59 GMT"
+        },
+        {
             "title": "'Godfather of AI' shares Nobel Physics Prize",
             "link": "https://www.bbc.com/news/articles/c62r02z75jyo",
             "published": "Tue, 08 Oct 2024 09:52:40 GMT"
@@ -73,11 +78,6 @@
             "title": "Customers of failed crypto firm FTX set for refunds",
             "link": "https://www.bbc.com/news/articles/c0qz3dg21vqo",
             "published": "Mon, 07 Oct 2024 21:05:47 GMT"
-        },
-        {
-            "title": "Meta must limit data for personalised ads - EU court",
-            "link": "https://www.bbc.com/news/articles/c4gr4r5ln03o",
-            "published": "Fri, 04 Oct 2024 12:27:07 GMT"
         }
     ]
 }
