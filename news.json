@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Samsung Electronics issues a rare apology for posting disappointing preliminary Q3 results and plans to review its organizational culture and processes (Yoolim Lee/Bloomberg)",
+            "link": "http://www.techmeme.com/241007/p25#a241007p25",
+            "published": "Mon, 07 Oct 2024 21:15:05 -0400"
+        },
+        {
+            "title": "Samsung estimates Q3 operating profit up 274% YoY to ~$6.78B, falling short of analysts' estimates of ~$7.66B, as it struggles to capitalize on AI chips demand (Reuters)",
+            "link": "http://www.techmeme.com/241007/p24#a241007p24",
+            "published": "Mon, 07 Oct 2024 20:45:00 -0400"
+        },
+        {
+            "title": "Two Russian YouTube channels posted videos of an alleged new 14-inch M4 MacBook Pro base model, in what could be the worst Apple product leak since the iPhone 4 (Joe Rossignol/MacRumors)",
+            "link": "http://www.techmeme.com/241007/p23#a241007p23",
+            "published": "Mon, 07 Oct 2024 20:10:01 -0400"
+        },
+        {
+            "title": "The UK launches a Regulatory Innovation Office to speed up the approval of new tech such as autonomous drones and AI in health care (Sarah Young/Reuters)",
+            "link": "http://www.techmeme.com/241007/p22#a241007p22",
+            "published": "Mon, 07 Oct 2024 19:50:00 -0400"
+        },
+        {
             "title": "TikTok launches Smart+, a new AI-powered ad tool that competes with Google's Performance Max and Meta's Advantage+, automating ad targeting and optimization (Digiday)",
             "link": "http://www.techmeme.com/241007/p21#a241007p21",
             "published": "Mon, 07 Oct 2024 17:50:01 -0400"
-        },
-        {
-            "title": "Google says it will appeal the Epic Games verdict, claiming \"Apple and Android clearly compete\" and the ruling will cause unintended consequences for consumers (Lee-Anne Mulholland/The Keyword)",
-            "link": "http://www.techmeme.com/241007/p20#a241007p20",
-            "published": "Mon, 07 Oct 2024 16:30:02 -0400"
-        },
-        {
-            "title": "A US federal judge has given the FTC the green light to pursue antitrust claims against Amazon but ruled that some claims under state laws won't move forward (Lauren Feiner/The Verge)",
-            "link": "http://www.techmeme.com/241007/p18#a241007p18",
-            "published": "Mon, 07 Oct 2024 16:18:41 -0400"
-        },
-        {
-            "title": "US bankruptcy judge approves plan to repay FTX customers; in June FTX had $12.6B, which could rise to $16.5B; FTX is in talks with US over $1B+ in seized assets (Bloomberg)",
-            "link": "http://www.techmeme.com/241007/p19#a241007p19",
-            "published": "Mon, 07 Oct 2024 16:18:41 -0400"
-        },
-        {
-            "title": "Experts have long warned \"secure backdoor\" systems are impossible; Salt Typhoon's reported hack of US ISPs' wiretap systems is a key example of backdoors' risks (Zack Whittaker/TechCrunch)",
-            "link": "http://www.techmeme.com/241007/p17#a241007p17",
-            "published": "Mon, 07 Oct 2024 16:15:09 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Google Must Open Android to Other App Stores, Judge Says",
             "link": "https://www.nytimes.com/2024/10/07/technology/google-app-store-epic-games-anticompetitive.html",
-            "published": "Mon, 07 Oct 2024 21:21:20 +0000"
+            "published": "Tue, 08 Oct 2024 00:04:35 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US judge orders Google to open app store to rivals",
+            "link": "https://www.bbc.com/news/articles/cp392zpwg6go",
+            "published": "Tue, 08 Oct 2024 01:05:17 GMT"
+        },
         {
             "title": "Wait longer for an electric taxi, says Uber boss",
             "link": "https://www.bbc.com/news/articles/cm29j4kx4vmo",
@@ -73,11 +78,6 @@
             "title": "Google introduces new way to search by filming video",
             "link": "https://www.bbc.com/news/articles/c93pdw7y12no",
             "published": "Thu, 03 Oct 2024 16:00:14 GMT"
-        },
-        {
-            "title": "Mystery surrounds Musk interview with US regulators",
-            "link": "https://www.bbc.com/news/articles/c0e1xgw4dqdo",
-            "published": "Fri, 04 Oct 2024 09:31:33 GMT"
         }
     ]
 }
