@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A look at challenges for Ireland's role as a data center hub, as energy supply problems and planning hurdles force AWS and others to evaluate alternatives (Financial Times)",
+            "link": "http://www.techmeme.com/241009/p8#a241009p8",
+            "published": "Wed, 09 Oct 2024 02:30:02 -0400"
+        },
+        {
+            "title": "Braintrust, whose software helps companies evaluate and monitor their AI tools' performance, raised a $36M Series A led by a16; source: the valuation was ~$150M (Alex Konrad/Forbes)",
+            "link": "http://www.techmeme.com/241009/p7#a241009p7",
+            "published": "Wed, 09 Oct 2024 02:05:01 -0400"
+        },
+        {
+            "title": "Court filing: OpenAI says Elon Musk's \"altruism versus greed\" lawsuit is part of his \"blusterous campaign to harass OpenAI for his own competitive advantage\" (Bloomberg)",
+            "link": "http://www.techmeme.com/241009/p6#a241009p6",
+            "published": "Wed, 09 Oct 2024 01:45:01 -0400"
+        },
+        {
             "title": "Turkey blocks access to Discord following a court decision over sufficient suspicion that the crimes of \"child sexual abuse and obscenity\" have been committed (Reuters)",
             "link": "http://www.techmeme.com/241009/p5#a241009p5",
             "published": "Wed, 09 Oct 2024 01:20:00 -0400"
@@ -9,21 +24,6 @@
             "title": "MediaTek announces the 3nm Dimensity 9400 mobile chip, which features its own 8th-gen NPU, claiming \"80 percent faster large language model prompt performance\" (Allison Johnson/The Verge)",
             "link": "http://www.techmeme.com/241009/p4#a241009p4",
             "published": "Wed, 09 Oct 2024 01:15:24 -0400"
-        },
-        {
-            "title": "The US DOJ's quest to end Google's long-standing dominance remains the stuff of fantasy, as whatever the courts may order, any real reckoning will take years (Financial Times)",
-            "link": "http://www.techmeme.com/241009/p3#a241009p3",
-            "published": "Wed, 09 Oct 2024 00:30:02 -0400"
-        },
-        {
-            "title": "Google says the DOJ's \"radical\" and \"sweeping\" proposals in Search antitrust case risk hurting consumers, businesses, developers, and American competitiveness (Lee-Anne Mulholland/The Keyword)",
-            "link": "http://www.techmeme.com/241009/p2#a241009p2",
-            "published": "Wed, 09 Oct 2024 00:05:14 -0400"
-        },
-        {
-            "title": "There is little modern precedent to guide US judges on whether a breakup, like the one the DOJ is proposing in the Google Search antitrust case, is appropriate (Wall Street Journal)",
-            "link": "http://www.techmeme.com/241009/p1#a241009p1",
-            "published": "Wed, 09 Oct 2024 00:00:50 -0400"
         }
     ],
     "source_1": [
@@ -55,7 +55,7 @@
     ],
     "source_2": [
         {
-            "title": "US considers breaking up Google after landmark case",
+            "title": "US says it may break up Google after landmark case",
             "link": "https://www.bbc.com/news/articles/c62504lv00do",
             "published": "Wed, 09 Oct 2024 05:09:40 GMT"
         },
