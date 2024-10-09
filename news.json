@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Turkey blocks access to Discord following a court decision over sufficient suspicion that the crimes of \"child sexual abuse and obscenity\" have been committed (Reuters)",
+            "link": "http://www.techmeme.com/241009/p5#a241009p5",
+            "published": "Wed, 09 Oct 2024 01:20:00 -0400"
+        },
+        {
+            "title": "MediaTek announces the 3nm Dimensity 9400 mobile chip, which features its own 8th-gen NPU, claiming \"80 percent faster large language model prompt performance\" (Allison Johnson/The Verge)",
+            "link": "http://www.techmeme.com/241009/p4#a241009p4",
+            "published": "Wed, 09 Oct 2024 01:15:24 -0400"
+        },
+        {
+            "title": "The US DOJ's quest to end Google's long-standing dominance remains the stuff of fantasy, as whatever the courts may order, any real reckoning will take years (Financial Times)",
+            "link": "http://www.techmeme.com/241009/p3#a241009p3",
+            "published": "Wed, 09 Oct 2024 00:30:02 -0400"
+        },
+        {
             "title": "Google says the DOJ's \"radical\" and \"sweeping\" proposals in Search antitrust case risk hurting consumers, businesses, developers, and American competitiveness (Lee-Anne Mulholland/The Keyword)",
             "link": "http://www.techmeme.com/241009/p2#a241009p2",
             "published": "Wed, 09 Oct 2024 00:05:14 -0400"
@@ -9,21 +24,6 @@
             "title": "There is little modern precedent to guide US judges on whether a breakup, like the one the DOJ is proposing in the Google Search antitrust case, is appropriate (Wall Street Journal)",
             "link": "http://www.techmeme.com/241009/p1#a241009p1",
             "published": "Wed, 09 Oct 2024 00:00:50 -0400"
-        },
-        {
-            "title": "Filing: the US DOJ lays out \"behavioral and structural remedies\", including a breakup, for the federal judge to consider in the Google Search antitrust case (Leah Nylen/Bloomberg)",
-            "link": "http://www.techmeme.com/241008/p32#a241008p32",
-            "published": "Tue, 08 Oct 2024 22:55:01 -0400"
-        },
-        {
-            "title": "HBO's documentary Money Electric: The Bitcoin Mystery says Peter Todd, known for his Bitcoin codebase contributions, is Satoshi Nakamoto, a claim Todd denies (Joel Khalili/Wired)",
-            "link": "http://www.techmeme.com/241008/p31#a241008p31",
-            "published": "Tue, 08 Oct 2024 21:50:02 -0400"
-        },
-        {
-            "title": "Brazil-based Asaas, which offers payment processing, invoicing, fraud protection, and other financial services to SMBs, raised a $148M Series C led by BOND (Jacob Robbins/PitchBook)",
-            "link": "http://www.techmeme.com/241008/p30#a241008p30",
-            "published": "Tue, 08 Oct 2024 20:55:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US considers breaking up Google after landmark case",
+            "link": "https://www.bbc.com/news/articles/c62504lv00do",
+            "published": "Wed, 09 Oct 2024 05:09:40 GMT"
+        },
+        {
             "title": "Brazil lifts ban on Musk's X after it pays $5m fine",
             "link": "https://www.bbc.com/news/articles/c5y06vzk3yjo",
             "published": "Tue, 08 Oct 2024 23:05:01 GMT"
@@ -73,11 +78,6 @@
             "title": "Teenager claims first ever Tetris 'rebirth'",
             "link": "https://www.bbc.com/news/articles/c70wnrg678lo",
             "published": "Tue, 08 Oct 2024 11:46:59 GMT"
-        },
-        {
-            "title": "'Godfather of AI' shares Nobel Physics Prize",
-            "link": "https://www.bbc.com/news/articles/c62r02z75jyo",
-            "published": "Tue, 08 Oct 2024 09:52:40 GMT"
         }
     ]
 }
