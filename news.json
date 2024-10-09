@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Some Threads and Instagram users say their accounts are being deleted or restricted due to moderation failures; Adam Mosseri says he's \"looking into it\" (Umar Shakir/The Verge)",
+            "link": "http://www.techmeme.com/241009/p36#a241009p36",
+            "published": "Wed, 09 Oct 2024 18:55:01 -0400"
+        },
+        {
             "title": "Docs: OpenAI's projections suggest it won't turn a profit until 2029, when its revenue would hit $100B; losses could hit $14B in 2026, nearly 3x its 2024 losses (Cory Weinberg/The Information)",
             "link": "http://www.techmeme.com/241009/p35#a241009p35",
             "published": "Wed, 09 Oct 2024 17:30:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Amazon announces AI Shopping Guides, which show AI-generated descriptions and recommendations for 100+ product types on its US mobile website and in its US app (Will Knight/Wired)",
             "link": "http://www.techmeme.com/241009/p32#a241009p32",
             "published": "Wed, 09 Oct 2024 15:50:27 -0400"
-        },
-        {
-            "title": "Zoom plans to launch a feature in 2025 that lets users create an AI-animated, photorealistic avatar with a head and arms from a video they record of themselves (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241009/p31#a241009p31",
-            "published": "Wed, 09 Oct 2024 15:40:03 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Google Researchers Win Nobel Prize Amid Company\u2019s Antitrust Battle",
             "link": "https://www.nytimes.com/2024/10/09/technology/google-nobel-prize-antitrust.html",
-            "published": "Wed, 09 Oct 2024 19:35:38 +0000"
+            "published": "Wed, 09 Oct 2024 22:43:05 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Tesla to unveil Cybercab, its big bet on self-driving cars",
+            "link": "https://www.bbc.com/news/articles/cm29x5ke9jdo",
+            "published": "Wed, 09 Oct 2024 23:04:43 GMT"
+        },
         {
             "title": "Man denies being mysterious inventor of Bitcoin",
             "link": "https://www.bbc.com/news/articles/c62m73my0dno",
@@ -73,11 +78,6 @@
             "title": "eBay to ban private e-bike sales over fire fears",
             "link": "https://www.bbc.com/news/articles/c5ywq8xgkkyo",
             "published": "Tue, 08 Oct 2024 20:15:59 GMT"
-        },
-        {
-            "title": "TikTok sued for 'wreaking havoc' on teen mental health",
-            "link": "https://www.bbc.com/news/articles/c20m4k56relo",
-            "published": "Tue, 08 Oct 2024 20:59:45 GMT"
         }
     ]
 }
