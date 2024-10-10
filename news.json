@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Taiwan says China detained four employees at Foxconn's iPhone factories in Zhengzhou, and says Foxconn said it didn't suffer a financial loss from their actions (Joyu Wang/Wall Street Journal)",
+            "title": "Suki, which makes AI voice assistants for healthcare providers, raised a $70M Series D, source says at a ~$500M valuation, bringing its total funding to $165M (Krystal Hu/Reuters)",
+            "link": "http://www.techmeme.com/241010/p15#a241010p15",
+            "published": "Thu, 10 Oct 2024 10:20:05 -0400"
+        },
+        {
+            "title": "Garmin Fenix 8 review: the $1,000 smartwatch has excellent battery and fitness tracking and an OLED display, but costs $350 more than the Fenix 7 and lacks LTE (Victoria Song/The Verge)",
+            "link": "http://www.techmeme.com/241010/p14#a241010p14",
+            "published": "Thu, 10 Oct 2024 09:45:07 -0400"
+        },
+        {
+            "title": "Taiwan says China detained four employees at Foxconn's iPhone factory in Zhengzhou and says Foxconn said it didn't suffer a financial loss tied to their actions (Joyu Wang/Wall Street Journal)",
             "link": "http://www.techmeme.com/241010/p13#a241010p13",
             "published": "Thu, 10 Oct 2024 07:45:59 -0400"
         },
@@ -11,19 +21,9 @@
             "published": "Thu, 10 Oct 2024 07:35:14 -0400"
         },
         {
-            "title": "Alphabet stock has dropped 15%+ from its $191.18 record high on July 10, as the DOJ seeks a break up of Google, which experts say will seek operational changes (Bloomberg)",
+            "title": "Alphabet's stock has fallen 15%+ from its $191.18 record high on July 10, as the DOJ seeks a breakup of Google, which experts say will make operational changes (Bloomberg)",
             "link": "http://www.techmeme.com/241010/p11#a241010p11",
             "published": "Thu, 10 Oct 2024 07:15:00 -0400"
-        },
-        {
-            "title": "Despite the fallout from SBF's political donations, crypto's super PAC raising $203M far exceeds other groups like Koch Industries, the second-largest at $26M (Alexander Sammon/Slate)",
-            "link": "http://www.techmeme.com/241010/p10#a241010p10",
-            "published": "Thu, 10 Oct 2024 07:00:30 -0400"
-        },
-        {
-            "title": "How Google plans to deflect and delay the US breakup threat; a remedies ruling is likely in mid-2025 and legal timelines may let it put off any impact for years (Financial Times)",
-            "link": "http://www.techmeme.com/241010/p9#a241010p9",
-            "published": "Thu, 10 Oct 2024 06:45:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US and UK announce online child safety partnership",
+            "link": "https://www.bbc.com/news/articles/c89l5q82qz5o",
+            "published": "Thu, 10 Oct 2024 13:48:39 GMT"
+        },
+        {
             "title": "Elon Musk to unveil 'Cybercab' at Tesla robotaxi event",
             "link": "https://www.bbc.com/news/articles/cm29x5ke9jdo",
             "published": "Thu, 10 Oct 2024 09:44:49 GMT"
@@ -73,11 +78,6 @@
             "title": "Brazil lifts ban on Musk's X after it pays $5m fine",
             "link": "https://www.bbc.com/news/articles/c5y06vzk3yjo",
             "published": "Tue, 08 Oct 2024 23:05:01 GMT"
-        },
-        {
-            "title": "eBay to ban private e-bike sales over fire fears",
-            "link": "https://www.bbc.com/news/articles/c5ywq8xgkkyo",
-            "published": "Tue, 08 Oct 2024 20:15:59 GMT"
         }
     ]
 }
