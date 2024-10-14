@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "National Public Data, the FL-based data broker that was hacked and lost hundreds of millions of SSNs and more earlier this year, files for Chapter 11 bankruptcy (Zack Whittaker/TechCrunch)",
+            "link": "http://www.techmeme.com/241014/p13#a241014p13",
+            "published": "Mon, 14 Oct 2024 12:10:00 -0400"
+        },
+        {
+            "title": "Sources: several researchers at OpenAI have asked to switch teams after Liam Fedus was promoted to lead post-training, following Barret Zoph's departure (The Information)",
+            "link": "http://www.techmeme.com/241014/p12#a241014p12",
+            "published": "Mon, 14 Oct 2024 11:40:02 -0400"
+        },
+        {
             "title": "Samsung rolls out One UI, based on Tizen 8.0, to its smart TVs that were released in 2023, after announcing plans to update the TVs at its developer conference (Asif Iqbal Shaik/SamMobile)",
             "link": "http://www.techmeme.com/241014/p11#a241014p11",
             "published": "Mon, 14 Oct 2024 10:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Meta Quest 3S review: fast performance, comfortable, excellent controllers, and large app library, but Fresnel lenses lead to artifacts and average MR cameras (Devindra Hardawar/Engadget)",
             "link": "http://www.techmeme.com/241014/p9#a241014p9",
             "published": "Mon, 14 Oct 2024 09:20:03 -0400"
-        },
-        {
-            "title": "Adobe launches its AI video model Firefly Video Model in public beta in Premiere Pro, including letting users extend footage and generate video from prompts (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/241014/p8#a241014p8",
-            "published": "Mon, 14 Oct 2024 09:15:01 -0400"
-        },
-        {
-            "title": "A profile of Alex Gerko, who used an Icelandic supercomputer and 25K AI chips to build XTX, an algorithmic trading firm that handles $250B of daily trades (Nikou Asgari/Financial Times)",
-            "link": "http://www.techmeme.com/241014/p7#a241014p7",
-            "published": "Mon, 14 Oct 2024 08:40:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Elon Musk accused of copying designs by I, Robot director",
+            "link": "https://www.bbc.com/news/articles/ced04q39w33o",
+            "published": "Mon, 14 Oct 2024 15:50:47 GMT"
+        },
+        {
             "title": "Watch: Why is the latest SpaceX rocket test a big deal?",
             "link": "https://www.bbc.com/news/videos/ce3zek7xqk4o",
             "published": "Sun, 13 Oct 2024 20:26:14 GMT"
@@ -73,11 +78,6 @@
             "title": "Tesla shares slide after Cybercab robotaxi revealed",
             "link": "https://www.bbc.com/news/articles/cm29x5ke9jdo",
             "published": "Fri, 11 Oct 2024 16:10:32 GMT"
-        },
-        {
-            "title": "'Argument won' on smartphones in schools, minister says",
-            "link": "https://www.bbc.com/news/articles/c89l5q82qz5o",
-            "published": "Thu, 10 Oct 2024 17:04:44 GMT"
         }
     ]
 }
