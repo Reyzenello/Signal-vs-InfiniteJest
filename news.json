@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "FIDO Alliance announces Credential Exchange Protocol, a specification to make passkeys portable across systems, and Passkey Central, a resource website for devs (Lily Hay Newman/Wired)",
+            "link": "http://www.techmeme.com/241014/p23#a241014p23",
+            "published": "Mon, 14 Oct 2024 22:15:02 -0400"
+        },
+        {
+            "title": "Sources: the US mulls capping AI chip sales from Nvidia and others on a country-specific basis, with a focus on the Middle East, for national security reasons (Mackenzie Hawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/241014/p22#a241014p22",
+            "published": "Mon, 14 Oct 2024 21:55:01 -0400"
+        },
+        {
             "title": "Adobe says its Firefly Video Model is the first \"commercially safe\" text-to-video generative AI model that was trained on licensed and public domain content (Jeremy Gray/PetaPixel)",
             "link": "http://www.techmeme.com/241014/p21#a241014p21",
             "published": "Mon, 14 Oct 2024 21:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Google signs an agreement to purchase nuclear energy generated from multiple small modular reactors developed by Kairos Power, targeting 500 MW by 2035 (Jennifer Hiller/Wall Street Journal)",
             "link": "http://www.techmeme.com/241014/p19#a241014p19",
             "published": "Mon, 14 Oct 2024 18:50:00 -0400"
-        },
-        {
-            "title": "Sources: Microsoft lost billions of dollars on HoloLens before discontinuing it and is pulling back work on IVAS, the combat goggles for the US Army (Ashley Stewart/Business Insider)",
-            "link": "http://www.techmeme.com/241014/p18#a241014p18",
-            "published": "Mon, 14 Oct 2024 18:00:01 -0400"
-        },
-        {
-            "title": "Sebastien Bubeck, Microsoft's VP of GenAI research who is known for his work on Microsoft's Phi small language models, is leaving the company to join OpenAI (Juby Babu/Reuters)",
-            "link": "http://www.techmeme.com/241014/p17#a241014p17",
-            "published": "Mon, 14 Oct 2024 17:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Fight begins to make mobile-free schools law",
+            "link": "https://www.bbc.com/news/articles/czj98jrj112o",
+            "published": "Tue, 15 Oct 2024 02:19:12 GMT"
+        },
+        {
             "title": "Google goes nuclear to power AI data centres",
             "link": "https://www.bbc.com/news/articles/c748gn94k95o",
             "published": "Tue, 15 Oct 2024 01:14:27 GMT"
@@ -73,11 +78,6 @@
             "title": "From Wimbledon to VAR, is tech hurting the drama of sport?",
             "link": "https://www.bbc.com/news/articles/c9dy4434nj3o",
             "published": "Sun, 13 Oct 2024 00:02:58 GMT"
-        },
-        {
-            "title": "How have social media algorithms changed the way we interact?",
-            "link": "https://www.bbc.com/news/articles/cp8e4p4z97eo",
-            "published": "Sat, 12 Oct 2024 23:00:57 GMT"
         }
     ]
 }
