@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Adobe says its Firefly Video Model is the first \"commercially safe\" text-to-video generative AI model that was trained on licensed and public domain content (Jeremy Gray/PetaPixel)",
+            "link": "http://www.techmeme.com/241014/p21#a241014p21",
+            "published": "Mon, 14 Oct 2024 21:05:01 -0400"
+        },
+        {
+            "title": "Q&A with Duolingo co-founder and CEO Luis von Ahn on gamifying language learning, how the app makes money, investing in AI, founder mode, return to office, more (Nilay Patel/The Verge)",
+            "link": "http://www.techmeme.com/241014/p20#a241014p20",
+            "published": "Mon, 14 Oct 2024 20:25:12 -0400"
+        },
+        {
             "title": "Google signs an agreement to purchase nuclear energy generated from multiple small modular reactors developed by Kairos Power, targeting 500 MW by 2035 (Jennifer Hiller/Wall Street Journal)",
             "link": "http://www.techmeme.com/241014/p19#a241014p19",
             "published": "Mon, 14 Oct 2024 18:50:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Sebastien Bubeck, Microsoft's VP of GenAI research who is known for his work on Microsoft's Phi small language models, is leaving the company to join OpenAI (Juby Babu/Reuters)",
             "link": "http://www.techmeme.com/241014/p17#a241014p17",
             "published": "Mon, 14 Oct 2024 17:10:01 -0400"
-        },
-        {
-            "title": "Matt Mullenweg responds to DHH's claim that \"Automattic is doing open source dirty\", pointing out Rails' own trademark policy and taking some jabs at 37signals (Matt Mullenweg)",
-            "link": "http://www.techmeme.com/241014/p16#a241014p16",
-            "published": "Mon, 14 Oct 2024 16:00:46 -0400"
-        },
-        {
-            "title": "A look at what's changed since Microsoft acquired Activision Blizzard a year ago: layoffs, exec departures, some Xbox exclusives on PlayStation and Switch, more (Victoria Kennedy/Eurogamer.net)",
-            "link": "http://www.techmeme.com/241014/p15#a241014p15",
-            "published": "Mon, 14 Oct 2024 15:30:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google goes nuclear to power AI data centres",
+            "link": "https://www.bbc.com/news/articles/c748gn94k95o",
+            "published": "Tue, 15 Oct 2024 01:14:27 GMT"
+        },
+        {
             "title": "Elon Musk accused of copying designs by I, Robot director",
             "link": "https://www.bbc.com/news/articles/ced04q39w33o",
             "published": "Mon, 14 Oct 2024 15:50:47 GMT"
@@ -73,11 +78,6 @@
             "title": "How have social media algorithms changed the way we interact?",
             "link": "https://www.bbc.com/news/articles/cp8e4p4z97eo",
             "published": "Sat, 12 Oct 2024 23:00:57 GMT"
-        },
-        {
-            "title": "Tesla shares slide after Cybercab robotaxi revealed",
-            "link": "https://www.bbc.com/news/articles/cm29x5ke9jdo",
-            "published": "Fri, 11 Oct 2024 16:10:32 GMT"
         }
     ]
 }
