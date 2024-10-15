@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Analytics software provider Amplitude acquires Command AI, an app user engagement startup formerly called CommandBar that raised $23.8M, a source says for $45M+ (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/241015/p30#a241015p30",
+            "published": "Tue, 15 Oct 2024 17:15:01 -0400"
+        },
+        {
+            "title": "A teardown of Microsoft's disk-less Xbox Series X, which was released today, shows a redesigned motherboard, a 6nm chip, and a new cooling system (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/241015/p29#a241015p29",
+            "published": "Tue, 15 Oct 2024 16:50:13 -0400"
+        },
+        {
             "title": "Port, which offers DevOps services, raised a $35M Series B led by Accel and says its revenue is up 7x in the last 12 months while its customer base grew 8x (Mike Wheatley/SiliconANGLE)",
             "link": "http://www.techmeme.com/241015/p28#a241015p28",
             "published": "Tue, 15 Oct 2024 16:20:13 -0400"
@@ -14,16 +24,6 @@
             "title": "Court filing: VMware agrees to pay $102.5M to settle a securities fraud class action lawsuit that could apply to those who traded its stock from 2018 to 2020 (Brandon Vigliarolo/The Register)",
             "link": "http://www.techmeme.com/241015/p26#a241015p26",
             "published": "Tue, 15 Oct 2024 14:40:00 -0400"
-        },
-        {
-            "title": "Decagon, which offers enterprises AI-powered customer service agents, raised a $65M Series B led by Bain Capital Ventures, valuing it at $650M (Rashi Shrivastava/Forbes)",
-            "link": "http://www.techmeme.com/241015/p25#a241015p25",
-            "published": "Tue, 15 Oct 2024 13:50:00 -0400"
-        },
-        {
-            "title": "Intel and AMD forge an x86 ecosystem advisory group to ensure a unified x86 instruction set architecture moving forward, amid competition from Arm and RISC-V (Paul Alcorn/Tom's Hardware)",
-            "link": "http://www.techmeme.com/241015/p24#a241015p24",
-            "published": "Tue, 15 Oct 2024 13:40:13 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 11 Oct 2024 17:35:34 +0000"
         },
         {
-            "title": "Lillian Schwartz, Pioneer in Computer-Generated Art, Dies at 97",
-            "link": "https://www.nytimes.com/2024/10/14/technology/lillian-schwartz-dead.html",
-            "published": "Mon, 14 Oct 2024 20:05:37 +0000"
+            "title": "Meet the Election Denier Forecasting a Trump Win in the 2024 Election",
+            "link": "https://www.nytimes.com/2024/10/15/technology/seth-keshel-2024-election-trump.html",
+            "published": "Tue, 15 Oct 2024 21:04:11 +0000"
         }
     ],
     "source_2": [
