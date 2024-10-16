@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources detail how Nvidia and TSMC's lucrative AI alliance is showing signs of stress as AI booms; sources say Nvidia found flaws in TSMC-made Blackwell chips (Qianer Liu/The Information)",
+            "link": "http://www.techmeme.com/241016/p25#a241016p25",
+            "published": "Wed, 16 Oct 2024 10:15:00 -0400"
+        },
+        {
+            "title": "The EU declines to designate X as a DMA gatekeeper after an investigation found that \"X is not an important gateway for business users to reach end users\" (Natasha Lomas/TechCrunch)",
+            "link": "http://www.techmeme.com/241016/p24#a241016p24",
+            "published": "Wed, 16 Oct 2024 10:00:36 -0400"
+        },
+        {
+            "title": "ASML CEO Christophe Fouquet says he expects a slow chip market recovery to extend \"well into 2025\" due to \"customer cautiousness\", as the US' China rules bite (Cagan Koc/Bloomberg)",
+            "link": "http://www.techmeme.com/241016/p23#a241016p23",
+            "published": "Wed, 16 Oct 2024 09:55:02 -0400"
+        },
+        {
             "title": "Kindle Colorsoft hands-on: bold and sharp color on a 7\" display, wireless charging, and comfortable, lightweight design, but pricier than other Kindles at $280 (Tony Polanco/Tom's Guide)",
             "link": "http://www.techmeme.com/241016/p22#a241016p22",
             "published": "Wed, 16 Oct 2024 09:25:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Lightmatter, which uses silicon photonics with waveguides instead of wires in chips, raised a $400M Series D led by T. Rowe Price at a $4.4B valuation (Rachel Metz/Bloomberg)",
             "link": "http://www.techmeme.com/241016/p21#a241016p21",
             "published": "Wed, 16 Oct 2024 09:19:13 -0400"
-        },
-        {
-            "title": "Amazon unveils the $280 Kindle Colorsoft Signature Edition, its first color e-reader with a Paperwhite-like design and color E Ink display, shipping October 30 (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/241016/p20#a241016p20",
-            "published": "Wed, 16 Oct 2024 09:15:00 -0400"
-        },
-        {
-            "title": "Kindle Scribe hands-on: AI, annotations, and other software updates help the 2-in-1 e-reader and writing tablet more closely mimic real books and notebooks (Cherlynn Low/Engadget)",
-            "link": "http://www.techmeme.com/241016/p19#a241016p19",
-            "published": "Wed, 16 Oct 2024 09:13:41 -0400"
-        },
-        {
-            "title": "Amazon updates the Kindle Scribe to add modest design improvements like white bezels, a new stylus, and a more paper-like feel, shipping December 4 for $400 (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/241016/p18#a241016p18",
-            "published": "Wed, 16 Oct 2024 09:10:23 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Firm hacked after accidentally hiring North Korean cyber criminal",
             "link": "https://www.bbc.com/news/articles/ce8vedz4yk7o",
-            "published": "Wed, 16 Oct 2024 12:38:30 GMT"
+            "published": "Wed, 16 Oct 2024 14:13:06 GMT"
         },
         {
             "title": "Twitch streamer Asmongold suspended after Palestinian rant",
