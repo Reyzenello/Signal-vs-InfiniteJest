@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "LatticeFlow's LLM Checker, which analyzed models from Meta, Alibaba, Mistral, Anthropic, and OpenAI against the EU's AI Act, finds some compliance issues (Martin Coulter/Reuters)",
+            "link": "http://www.techmeme.com/241016/p15#a241016p15",
+            "published": "Wed, 16 Oct 2024 07:50:01 -0400"
+        },
+        {
+            "title": "A profile of Neuralink's top neurosurgeon Matthew MacDougall, who has worked there for seven years and is an even-keeled, affable counterbalance to Elon Musk (Sarah McBride/Bloomberg)",
+            "link": "http://www.techmeme.com/241016/p14#a241016p14",
+            "published": "Wed, 16 Oct 2024 07:30:04 -0400"
+        },
+        {
             "title": "The Cybersecurity Association of China says Intel products sold in the country should be subject to a security review, alleging it has \"constantly harmed\" China (Eduardo Baptista/Reuters)",
             "link": "http://www.techmeme.com/241016/p13#a241016p13",
             "published": "Wed, 16 Oct 2024 06:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "An analysis of WeChat's network protocol MMTLS finds that it is a modified version of TLS 1.3 and WeChat developers' changes to its cryptography add weaknesses (The Citizen Lab)",
             "link": "http://www.techmeme.com/241016/p11#a241016p11",
             "published": "Wed, 16 Oct 2024 06:10:06 -0400"
-        },
-        {
-            "title": "Q&A with Kevin Rose on Digg, what Reddit got right, the rise of news feeds, Techmeme being the place \"to just see globally what's happening in tech\", and more (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/241016/p10#a241016p10",
-            "published": "Wed, 16 Oct 2024 05:50:04 -0400"
-        },
-        {
-            "title": "ASML's stock falls the most since 1998 after projecting sluggish sales, erasing &euro;50B from its market cap and causing Nvidia and other chip stocks to fall (Bloomberg)",
-            "link": "http://www.techmeme.com/241016/p9#a241016p9",
-            "published": "Wed, 16 Oct 2024 05:35:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Firm hacked after accidentally hiring North Korean cyber criminal",
+            "link": "https://www.bbc.com/news/articles/ce8vedz4yk7o",
+            "published": "Wed, 16 Oct 2024 12:38:30 GMT"
+        },
+        {
+            "title": "Twitch streamer Asmongold suspended after Palestinian rant",
+            "link": "https://www.bbc.com/news/articles/c75606vd3l6o",
+            "published": "Wed, 16 Oct 2024 11:25:20 GMT"
+        },
+        {
             "title": "UK considering EU-style common charging cable",
             "link": "https://www.bbc.com/news/articles/cx2lj58jql8o",
             "published": "Tue, 15 Oct 2024 11:54:02 GMT"
@@ -68,16 +78,6 @@
             "title": "Google turns to nuclear to power AI data centres",
             "link": "https://www.bbc.com/news/articles/c748gn94k95o",
             "published": "Tue, 15 Oct 2024 04:54:21 GMT"
-        },
-        {
-            "title": "Elon Musk accused of copying designs by I, Robot director",
-            "link": "https://www.bbc.com/news/articles/ced04q39w33o",
-            "published": "Mon, 14 Oct 2024 15:50:47 GMT"
-        },
-        {
-            "title": "Watch: Why is the latest SpaceX rocket test a big deal?",
-            "link": "https://www.bbc.com/news/videos/ce3zek7xqk4o",
-            "published": "Sun, 13 Oct 2024 20:26:14 GMT"
         }
     ]
 }
