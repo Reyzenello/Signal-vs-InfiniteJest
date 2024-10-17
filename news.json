@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Prabhakar Raghavan will leave his role overseeing Google search and ads products, to be replaced by Nick Fox; Raghavan will become Chief Technologist (Miles Kruppa/Wall Street Journal)",
+            "link": "http://www.techmeme.com/241017/p27#a241017p27",
+            "published": "Thu, 17 Oct 2024 13:20:02 -0400"
+        },
+        {
+            "title": "Google announces a reorganization: Gemini App team will join DeepMind under Demis Hassabis and Assistant teams will move to Platforms & Devices (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/241017/p26#a241017p26",
+            "published": "Thu, 17 Oct 2024 13:00:48 -0400"
+        },
+        {
             "title": "Google adds an option for NotebookLM users to customize audio summaries, launches a NotebookLM Business pilot, and says 80K+ organizations use the tool (Jagmeet Singh/TechCrunch)",
             "link": "http://www.techmeme.com/241017/p25#a241017p25",
             "published": "Thu, 17 Oct 2024 12:20:12 -0400"
@@ -14,16 +24,6 @@
             "title": "On a podcast, Donald Trump says Tim Cook called him \"hours ago\" to complain about EU fines and that Cook said the EU uses fines \"to run their enterprise\" (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/241017/p23#a241017p23",
             "published": "Thu, 17 Oct 2024 12:10:02 -0400"
-        },
-        {
-            "title": "On Apple Pay's 10th anniversary, Apple adds support for Klarna in the US and UK and plans to expand installment loan options and add reward redemptions (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/241017/p22#a241017p22",
-            "published": "Thu, 17 Oct 2024 11:00:32 -0400"
-        },
-        {
-            "title": "Billing software company Zuora to be acquired by Silver Lake and GIC in a deal valued at $1.7B, an 18% premium to the closing price when acquisition talks began (Investing.com)",
-            "link": "http://www.techmeme.com/241017/p21#a241017p21",
-            "published": "Thu, 17 Oct 2024 10:50:00 -0400"
         }
     ],
     "source_1": [
@@ -60,9 +60,9 @@
             "published": "Thu, 17 Oct 2024 11:33:11 GMT"
         },
         {
-            "title": "Social media faces big changes under new Ofcom rules",
-            "link": "https://www.bbc.com/news/articles/cj0467e9e43o",
-            "published": "Thu, 17 Oct 2024 05:00:49 GMT"
+            "title": "Meta fires staff for buying toothpaste, not lunch",
+            "link": "https://www.bbc.com/news/articles/cvgdyzq3wz5o",
+            "published": "Thu, 17 Oct 2024 16:28:17 GMT"
         },
         {
             "title": "How does WhatsApp make money? It's free - with some tricks",
@@ -70,14 +70,14 @@
             "published": "Wed, 16 Oct 2024 23:10:20 GMT"
         },
         {
+            "title": "Social media faces big changes under new Ofcom rules",
+            "link": "https://www.bbc.com/news/articles/cj0467e9e43o",
+            "published": "Thu, 17 Oct 2024 05:00:49 GMT"
+        },
+        {
             "title": "US 'click to cancel' rule to ban subscription traps",
             "link": "https://www.bbc.com/news/articles/c07nlvmyl05o",
             "published": "Thu, 17 Oct 2024 03:34:56 GMT"
-        },
-        {
-            "title": "Firm hacked after accidentally hiring North Korean cyber criminal",
-            "link": "https://www.bbc.com/news/articles/ce8vedz4yk7o",
-            "published": "Wed, 16 Oct 2024 14:13:06 GMT"
         }
     ]
 }
