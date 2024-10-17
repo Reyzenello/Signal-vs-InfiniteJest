@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Accel: VC funding for cloud startups in the US, Europe, and Israel to rise 27% YoY to $79.2B in 2024, with 40% of the funding going to generative AI startups (Ryan Browne/CNBC)",
+            "link": "http://www.techmeme.com/241017/p2#a241017p2",
+            "published": "Thu, 17 Oct 2024 01:20:43 -0400"
+        },
+        {
+            "title": "Open Source Initiative says Meta is \"polluting\" the term open-source by using it for its Llama models; OSI to publish its definition of open-source AI next week (Richard Waters/Financial Times)",
+            "link": "http://www.techmeme.com/241017/p1#a241017p1",
+            "published": "Thu, 17 Oct 2024 00:50:01 -0400"
+        },
+        {
             "title": "Filing: Google asks the US 9th Circuit for an emergency stay on the Epic ruling, saying the short time it was given to make Play Store changes risks user safety (The Verge)",
             "link": "http://www.techmeme.com/241016/p44#a241016p44",
             "published": "Wed, 16 Oct 2024 23:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Everstage, which offers sales performance management software, raised a $30M Series B led by Eight Roads Ventures, bringing its total raised to $45M (Duncan Riley/SiliconANGLE)",
             "link": "http://www.techmeme.com/241016/p42#a241016p42",
             "published": "Wed, 16 Oct 2024 21:05:14 -0400"
-        },
-        {
-            "title": "Robinhood launches its long-awaited desktop platform Robinhood Legend, and plans to add futures and index options trading to its mobile app in the coming months (Reuters)",
-            "link": "http://www.techmeme.com/241016/p41#a241016p41",
-            "published": "Wed, 16 Oct 2024 20:30:01 -0400"
-        },
-        {
-            "title": "Sources: Uber has explored a possible bid for Expedia as it seeks to grow into a super app; Expedia, valued at nearly $20B, would be Uber's largest acquisition (Financial Times)",
-            "link": "http://www.techmeme.com/241016/p40#a241016p40",
-            "published": "Wed, 16 Oct 2024 18:55:16 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Social media faces big changes under new Ofcom rules",
+            "link": "https://www.bbc.com/news/articles/cj0467e9e43o",
+            "published": "Thu, 17 Oct 2024 05:00:49 GMT"
+        },
+        {
             "title": "US 'click to cancel' rule to ban subscription traps",
             "link": "https://www.bbc.com/news/articles/c07nlvmyl05o",
             "published": "Thu, 17 Oct 2024 03:34:56 GMT"
@@ -73,11 +78,6 @@
             "title": "Twitch streamer Asmongold suspended after Palestinian rant",
             "link": "https://www.bbc.com/news/articles/c75606vd3l6o",
             "published": "Wed, 16 Oct 2024 11:25:20 GMT"
-        },
-        {
-            "title": "UK considering EU-style common charging cable",
-            "link": "https://www.bbc.com/news/articles/cx2lj58jql8o",
-            "published": "Tue, 15 Oct 2024 11:54:02 GMT"
         }
     ]
 }
