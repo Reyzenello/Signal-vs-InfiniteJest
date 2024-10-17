@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "UK study: employers running grad schemes received an average of 140 applications for each job in 2024, a record and up 59% YoY, as AI makes applying easier (Financial Times)",
+            "link": "http://www.techmeme.com/241017/p12#a241017p12",
+            "published": "Thu, 17 Oct 2024 06:25:01 -0400"
+        },
+        {
+            "title": "South Korea plans stronger measures to prevent leaks of advanced tech and business secrets; the NIS says there were 40 attempted chip secret leaks in five years (Reuters)",
+            "link": "http://www.techmeme.com/241017/p11#a241017p11",
+            "published": "Thu, 17 Oct 2024 06:05:04 -0400"
+        },
+        {
+            "title": "How machine learning could have transformative effects on Africa's developing economies and societies, as some critics worry over a deepening digital divide (Financial Times)",
+            "link": "http://www.techmeme.com/241017/p10#a241017p10",
+            "published": "Thu, 17 Oct 2024 05:45:13 -0400"
+        },
+        {
             "title": "An interview with Uber CEO Dara Khosrowshahi on autonomous cars, lobbying regulators to get more EVs on the road, flying taxis, climate goals, and more (Bloomberg)",
             "link": "http://www.techmeme.com/241017/p9#a241017p9",
             "published": "Thu, 17 Oct 2024 04:35:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Hobbyists post the code for Redbox kiosk software online, and tinkerers have been probing how it works, sometimes repurposing abandoned machines to run Doom (Jason Koebler/404 Media)",
             "link": "http://www.techmeme.com/241017/p8#a241017p8",
             "published": "Thu, 17 Oct 2024 04:20:03 -0400"
-        },
-        {
-            "title": "Support groups in the Philippines blame GCash, the country's most popular payment app with 90M+ active users, for a rise in gambling addiction in the country (Patrick Kho/Rest of World)",
-            "link": "http://www.techmeme.com/241017/p7#a241017p7",
-            "published": "Thu, 17 Oct 2024 03:55:01 -0400"
-        },
-        {
-            "title": "Winamp owner Llama Group deletes the GitHub repository of the legacy player's source code posted on September 24, following criticism on the way it was released (Kevin Purdy/Ars Technica)",
-            "link": "http://www.techmeme.com/241017/p6#a241017p6",
-            "published": "Thu, 17 Oct 2024 02:30:15 -0400"
-        },
-        {
-            "title": "Google projects the number of reported Android memory safety flaws to be 36 by the end of 2024, down from 220+ in 2019, after adopting memory safety in new code (Google Online Security Blog)",
-            "link": "http://www.techmeme.com/241017/p5#a241017p5",
-            "published": "Thu, 17 Oct 2024 02:20:02 -0400"
         }
     ],
     "source_1": [
@@ -60,14 +60,14 @@
             "published": "Thu, 17 Oct 2024 05:00:49 GMT"
         },
         {
-            "title": "US 'click to cancel' rule to ban subscription traps",
-            "link": "https://www.bbc.com/news/articles/c07nlvmyl05o",
-            "published": "Thu, 17 Oct 2024 03:34:56 GMT"
-        },
-        {
             "title": "How does WhatsApp make money? It's free - with some tricks",
             "link": "https://www.bbc.com/news/articles/c8j7nrppny2o",
             "published": "Wed, 16 Oct 2024 23:10:20 GMT"
+        },
+        {
+            "title": "US 'click to cancel' rule to ban subscription traps",
+            "link": "https://www.bbc.com/news/articles/c07nlvmyl05o",
+            "published": "Thu, 17 Oct 2024 03:34:56 GMT"
         },
         {
             "title": "Firm hacked after accidentally hiring North Korean cyber criminal",
