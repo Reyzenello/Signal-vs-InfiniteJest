@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Q&A with Marissa Mayer on AI, her startup Sunshine, its Shine app, Google News, Yahoo, selling to Verizon, Yahoo Weather, feminism, being a geek, and more (Virginia Heffernan/Wired)",
+            "link": "http://www.techmeme.com/241017/p17#a241017p17",
+            "published": "Thu, 17 Oct 2024 08:10:05 -0400"
+        },
+        {
+            "title": "Sources: last week, Meta fired ~24 staff in LA for using $25 meal credits to buy household items, as it restructures WhatsApp, Instagram, and Reality Labs teams (Financial Times)",
+            "link": "http://www.techmeme.com/241017/p16#a241017p16",
+            "published": "Thu, 17 Oct 2024 07:45:02 -0400"
+        },
+        {
             "title": "Instagram rolls out new settings to fight sextortion, like hiding teens' follower lists from potential blackmailers; Meta says the crime is becoming more common (Washington Post)",
             "link": "http://www.techmeme.com/241017/p15#a241017p15",
             "published": "Thu, 17 Oct 2024 07:20:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: the EU warns X that it may calculate fines against X by including Elon Musk's other companies' revenue; the DSA can fine 6% of global annual revenue (Bloomberg)",
             "link": "http://www.techmeme.com/241017/p13#a241017p13",
             "published": "Thu, 17 Oct 2024 06:45:22 -0400"
-        },
-        {
-            "title": "UK study: employers running grad schemes received an average of 140 applications for each job in 2024, a record and up 59% YoY, as AI makes applying easier (Financial Times)",
-            "link": "http://www.techmeme.com/241017/p12#a241017p12",
-            "published": "Thu, 17 Oct 2024 06:25:01 -0400"
-        },
-        {
-            "title": "South Korea plans stronger measures to prevent leaks of advanced tech and business secrets; the NIS says there were 40 attempted chip secret leaks in five years (Reuters)",
-            "link": "http://www.techmeme.com/241017/p11#a241017p11",
-            "published": "Thu, 17 Oct 2024 06:05:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Instagram adds features to help stop sextortion",
+            "link": "https://www.bbc.com/news/articles/cdd4vn6p601o",
+            "published": "Thu, 17 Oct 2024 11:33:11 GMT"
+        },
+        {
             "title": "Social media faces big changes under new Ofcom rules",
             "link": "https://www.bbc.com/news/articles/cj0467e9e43o",
             "published": "Thu, 17 Oct 2024 05:00:49 GMT"
@@ -73,11 +78,6 @@
             "title": "Firm hacked after accidentally hiring North Korean cyber criminal",
             "link": "https://www.bbc.com/news/articles/ce8vedz4yk7o",
             "published": "Wed, 16 Oct 2024 14:13:06 GMT"
-        },
-        {
-            "title": "Twitch streamer Asmongold suspended after Palestinian rant",
-            "link": "https://www.bbc.com/news/articles/c75606vd3l6o",
-            "published": "Wed, 16 Oct 2024 11:25:20 GMT"
         }
     ]
 }
