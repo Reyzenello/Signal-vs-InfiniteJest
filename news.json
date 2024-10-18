@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources describe OpenAI and Microsoft's fraying relationship, OpenAI renegotiating its deal for more computing power, Microsoft's own LLM efforts, and more (New York Times)",
+            "link": "http://www.techmeme.com/241017/p41#a241017p41",
+            "published": "Thu, 17 Oct 2024 21:45:16 -0400"
+        },
+        {
+            "title": "Sources: the US is probing if TSMC has been making AI or smartphone chips for Huawei in breach of US sanctions, including Huawei buying chips via intermediaries (Qianer Liu/The Information)",
+            "link": "http://www.techmeme.com/241017/p40#a241017p40",
+            "published": "Thu, 17 Oct 2024 20:45:02 -0400"
+        },
+        {
+            "title": "X updates its ToS to steer any disputes by users to the US District Court for the Northern District of Texas, whose judges often favor conservative litigants (Nate Raymond/Reuters)",
+            "link": "http://www.techmeme.com/241017/p39#a241017p39",
+            "published": "Thu, 17 Oct 2024 20:00:51 -0400"
+        },
+        {
             "title": "X updates its Privacy Policy to allow third-party \"collaborators\" to train their AI models on X user data, unless the user opts out, effective November 15, 2024 (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/241017/p38#a241017p38",
             "published": "Thu, 17 Oct 2024 18:40:01 -0400"
@@ -9,21 +24,6 @@
             "title": "The FCC issues new rules that will require all mobile phones sold in the US to be compatible with hearing aids, \"after a transition period\" (Will Shanklin/Engadget)",
             "link": "http://www.techmeme.com/241017/p37#a241017p37",
             "published": "Thu, 17 Oct 2024 18:15:01 -0400"
-        },
-        {
-            "title": "Netflix forecasts 2025 revenue of $43B-$44B, which would be 11%-13% higher than its 2024 guidance, and targets a 2025 operating margin of 28% vs. 27% in 2024 (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/241017/p36#a241017p36",
-            "published": "Thu, 17 Oct 2024 17:30:02 -0400"
-        },
-        {
-            "title": "Sources: Stripe is in talks to acquire startup Bridge, a provider of infrastructure for crypto stablecoins, for $1B; Bridge raised $58M (Forbes)",
-            "link": "http://www.techmeme.com/241017/p35#a241017p35",
-            "published": "Thu, 17 Oct 2024 16:25:03 -0400"
-        },
-        {
-            "title": "Netflix reports Q3 revenue up 15% YoY to $9.83B, vs. $9.76B est., paid memberships up 14% to 282.72M, vs. 282.15M est., and net income of $2.4B (Sarah Whitten/CNBC)",
-            "link": "http://www.techmeme.com/241017/p34#a241017p34",
-            "published": "Thu, 17 Oct 2024 16:11:32 -0400"
         }
     ],
     "source_1": [
@@ -48,21 +48,26 @@
             "published": "Fri, 11 Oct 2024 17:35:34 +0000"
         },
         {
-            "title": "Amazon Enters News With Live Election Coverage From Brian Williams",
-            "link": "https://www.nytimes.com/2024/10/17/business/media/amazon-brian-williams-election-special.html",
-            "published": "Thu, 17 Oct 2024 19:57:46 +0000"
+            "title": "Microsoft and OpenAI\u2019s Close Partnership Shows Signs of Fraying",
+            "link": "https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html",
+            "published": "Fri, 18 Oct 2024 01:37:33 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Instagram adds features to help stop sextortion",
-            "link": "https://www.bbc.com/news/articles/cdd4vn6p601o",
-            "published": "Thu, 17 Oct 2024 11:33:11 GMT"
-        },
-        {
             "title": "Meta fires staff for buying toothpaste, not lunch",
             "link": "https://www.bbc.com/news/articles/cvgdyzq3wz5o",
             "published": "Thu, 17 Oct 2024 16:28:17 GMT"
+        },
+        {
+            "title": "Netflix hikes prices in some countries as growth fades",
+            "link": "https://www.bbc.com/news/articles/cq5exj06vg6o",
+            "published": "Thu, 17 Oct 2024 21:17:38 GMT"
+        },
+        {
+            "title": "Instagram adds features to help stop sextortion",
+            "link": "https://www.bbc.com/news/articles/cdd4vn6p601o",
+            "published": "Thu, 17 Oct 2024 11:33:11 GMT"
         },
         {
             "title": "How does WhatsApp make money? It's free - with some tricks",
@@ -73,11 +78,6 @@
             "title": "Social media faces big changes under new Ofcom rules",
             "link": "https://www.bbc.com/news/articles/cj0467e9e43o",
             "published": "Thu, 17 Oct 2024 05:00:49 GMT"
-        },
-        {
-            "title": "US 'click to cancel' rule to ban subscription traps",
-            "link": "https://www.bbc.com/news/articles/c07nlvmyl05o",
-            "published": "Thu, 17 Oct 2024 03:34:56 GMT"
         }
     ]
 }
