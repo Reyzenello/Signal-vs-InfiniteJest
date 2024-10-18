@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Bluesky says it added 500K new users in a day this week after X announced plans for controversial changes, including basically getting rid of the block feature (Mia Sato/The Verge)",
+            "link": "http://www.techmeme.com/241018/p13#a241018p13",
+            "published": "Fri, 18 Oct 2024 11:00:37 -0400"
+        },
+        {
+            "title": "LinkedIn woos publishers, testing a \"News Banner\" on its mobile app feed and a video ad program that sources say will earn Bloomberg and WSJ $2M+ each in 2024 (Sahil Patel/The Information)",
+            "link": "http://www.techmeme.com/241018/p12#a241018p12",
+            "published": "Fri, 18 Oct 2024 10:25:12 -0400"
+        },
+        {
             "title": "Verizon will buy some of US Cellular's spectrum licenses for $1B, contingent on closing a deal announced in May to sell some US Cellular assets to T-Mobile (Jake Rudnitsky/Bloomberg)",
             "link": "http://www.techmeme.com/241018/p11#a241018p11",
             "published": "Fri, 18 Oct 2024 09:25:25 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Microsoft and OpenAI are negotiating how much equity Microsoft gets when OpenAI becomes a for-profit company, for which OpenAI has two years (Wall Street Journal)",
             "link": "http://www.techmeme.com/241018/p9#a241018p9",
             "published": "Fri, 18 Oct 2024 08:05:02 -0400"
-        },
-        {
-            "title": "NHTSA opens a probe into Tesla's Full Self-Driving, covering 2.4M vehicles, after four reported crashes in low-visibility situations, including one fatal crash (Akash Sriram/Reuters)",
-            "link": "http://www.techmeme.com/241018/p8#a241018p8",
-            "published": "Fri, 18 Oct 2024 07:55:01 -0400"
-        },
-        {
-            "title": "Perplexity launches Internal Knowledge Search, to search the web or internal files, and Spaces, a way to organize research, for its Pro and Enterprise customers (Emilia David/VentureBeat)",
-            "link": "http://www.techmeme.com/241018/p7#a241018p7",
-            "published": "Fri, 18 Oct 2024 07:50:15 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Tesla Self-Driving System Will Be Investigated by Safety Agency",
             "link": "https://www.nytimes.com/2024/10/18/business/tesla-self-driving-investigation.html",
-            "published": "Fri, 18 Oct 2024 13:51:53 +0000"
+            "published": "Fri, 18 Oct 2024 14:44:37 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump says Apple boss called him to complain about EU",
+            "link": "https://www.bbc.com/news/articles/cj4d75zl212o",
+            "published": "Fri, 18 Oct 2024 15:01:59 GMT"
+        },
         {
             "title": "Alleged Bitcoin hacker searched 'signs the FBI is after you'",
             "link": "https://www.bbc.com/news/articles/c20pvkg35xyo",
@@ -73,11 +78,6 @@
             "title": "Instagram defends new teen safety features after criticism",
             "link": "https://www.bbc.com/news/articles/cdd4vn6p601o",
             "published": "Fri, 18 Oct 2024 11:20:32 GMT"
-        },
-        {
-            "title": "How does WhatsApp make money? It's free - with some tricks",
-            "link": "https://www.bbc.com/news/articles/c8j7nrppny2o",
-            "published": "Wed, 16 Oct 2024 23:10:20 GMT"
         }
     ]
 }
