@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "DeepSeek, 01.ai, and other Chinese companies are reducing costs to create AI models by focusing on smaller training data sets, as they deal with export controls (Eleanor Olcott/Financial Times)",
+            "title": "A historical look at Microsoft's work in AI, from research to real-world applications, recent progress, competition, challenges, and the future (Todd Bishop/GeekWire)",
+            "link": "http://www.techmeme.com/241019/p4#a241019p4",
+            "published": "Sat, 19 Oct 2024 02:30:01 -0400"
+        },
+        {
+            "title": "01.ai, DeepSeek, and other Chinese companies are reducing costs to create AI models by focusing on smaller training data sets, as they deal with export controls (Eleanor Olcott/Financial Times)",
             "link": "http://www.techmeme.com/241019/p3#a241019p3",
             "published": "Sat, 19 Oct 2024 01:10:02 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "Fuji Soft's board decided to keep backing KKR's ~$4B buyout offer despite Bain's $4.2B bid, in a rare battle between PE titans over a Japanese software company (Financial Times)",
             "link": "http://www.techmeme.com/241018/p23#a241018p23",
             "published": "Fri, 18 Oct 2024 23:45:15 -0400"
-        },
-        {
-            "title": "Notes on an inexpensive and effective \"video scraping\" technique in which the user feeds a screen recording into Google AI Studio to extract data with Gemini (Simon Willison's Weblog)",
-            "link": "http://www.techmeme.com/241018/p22#a241018p22",
-            "published": "Fri, 18 Oct 2024 21:55:01 -0400"
         }
     ],
     "source_1": [
