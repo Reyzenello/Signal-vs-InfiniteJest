@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "ABI expects there to be 8,400 global data centers by 2030, as investors capitalize on the AI boom; Statista projects the industry will be worth $624B by 2029 (Nicholas Fearn/Financial Times)",
+            "link": "http://www.techmeme.com/241021/p3#a241021p3",
+            "published": "Mon, 21 Oct 2024 03:55:00 -0400"
+        },
+        {
             "title": "Tracxn: Indian health tech-related startups raised $3.7B since 2022, about half of the $7.4B raised in the sector across the Asia Pacific region (Bloomberg)",
             "link": "http://www.techmeme.com/241021/p2#a241021p2",
             "published": "Mon, 21 Oct 2024 02:35:01 -0400"
@@ -11,19 +16,14 @@
             "published": "Mon, 21 Oct 2024 00:55:00 -0400"
         },
         {
-            "title": "A look at the Harris campaign's outreach efforts to the tech sector, as it tries to convince that she will chart her own course but avoids specifics on policies (Washington Post)",
+            "title": "A look at the Harris campaign's outreach to the tech sector, as it tries to convince companies that she'll chart her own course while avoiding policy specifics (Washington Post)",
             "link": "http://www.techmeme.com/241020/p8#a241020p8",
             "published": "Sun, 20 Oct 2024 23:00:35 -0400"
         },
         {
-            "title": "At a protest in SF, blind Uber and Lyft users claim the companies aren't doing enough to prevent drivers from turning away passengers with visual impairments (Wired)",
+            "title": "At a San Francisco protest, blind Uber and Lyft users say the companies aren't doing enough to stop drivers from turning away passengers with visual impairments (Wired)",
             "link": "http://www.techmeme.com/241020/p7#a241020p7",
             "published": "Sun, 20 Oct 2024 19:20:10 -0400"
-        },
-        {
-            "title": "Sources: Perplexity is looking to raise ~$500M to double its valuation to $8B or more; Perplexity's annualized revenue is ~$50M, up from ~$10M in March (Wall Street Journal)",
-            "link": "http://www.techmeme.com/241020/p6#a241020p6",
-            "published": "Sun, 20 Oct 2024 17:01:45 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Mon, 21 Oct 2024 04:34:15 GMT"
         },
         {
+            "title": "US probing Elon Musk's Tesla over self-driving systems",
+            "link": "https://www.bbc.com/news/articles/cwyvql6g9xxo",
+            "published": "Fri, 18 Oct 2024 23:27:33 GMT"
+        },
+        {
             "title": "Trump says Apple boss called him to complain about EU",
             "link": "https://www.bbc.com/news/articles/cj4d75zl212o",
             "published": "Fri, 18 Oct 2024 15:01:59 GMT"
@@ -73,11 +78,6 @@
             "title": "Meta fires staff for buying toothpaste, not lunch",
             "link": "https://www.bbc.com/news/articles/cvgdyzq3wz5o",
             "published": "Fri, 18 Oct 2024 14:23:04 GMT"
-        },
-        {
-            "title": "Netflix raises prices as password boost fades",
-            "link": "https://www.bbc.com/news/articles/cq5exj06vg6o",
-            "published": "Fri, 18 Oct 2024 07:57:12 GMT"
         }
     ]
 }
