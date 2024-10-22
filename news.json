@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
+            "title": "Sources: TechInsights took apart at least one of Huawei's latest AI chips and found an Ascend 910B made by TSMC, which says it stopped Huawei shipments in 2020 (Mackenzie Hawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/241022/p17#a241022p17",
+            "published": "Tue, 22 Oct 2024 12:20:01 -0400"
+        },
+        {
+            "title": "GM reports Cruise lost $435M in Q3 2024, down from a $791M loss in Q3 2023, and had $26M in net sales and revenue and $442M in total costs and expenses (Andrew J. Hawkins/The Verge)",
+            "link": "http://www.techmeme.com/241022/p16#a241022p16",
+            "published": "Tue, 22 Oct 2024 12:15:03 -0400"
+        },
+        {
+            "title": "Stability AI releases Stable Diffusion 3.5 Large, an 8B-parameter model that makes 1MP images, and 3.5 Large Turbo, and plans to launch 3.5 Medium on October 29 (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/241022/p15#a241022p15",
+            "published": "Tue, 22 Oct 2024 12:05:01 -0400"
+        },
+        {
+            "title": "Anthropic claims that its new Sonnet 3.5 model scores 49% on SWE-bench Verified, up from 33.4% and \"higher than all\" public models, and debuts Claude 3.5 Haiku (Anthropic)",
+            "link": "http://www.techmeme.com/241022/p14#a241022p14",
+            "published": "Tue, 22 Oct 2024 12:00:48 -0400"
+        },
+        {
             "title": "Anthropic releases a new Claude 3.5 Sonnet model that can interact with desktop apps by imitating mouse and keyboard input via a \"computer use\" API, now in beta (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241022/p13#a241022p13",
             "published": "Tue, 22 Oct 2024 11:14:46 -0400"
-        },
-        {
-            "title": "A UK court says prominent Saudi dissident Yahya Assiri can sue Saudi Arabia in London court over claims of targeting him with NSO Group's Pegasus (Sam Tobin/Reuters)",
-            "link": "http://www.techmeme.com/241022/p12#a241022p12",
-            "published": "Tue, 22 Oct 2024 09:45:13 -0400"
-        },
-        {
-            "title": "TSMC says it alerted the US to a potential attempt to have it manufacture AI chips for Huawei, circumventing export controls; sources: the chips resembled 910Bs (Kathrin Hille/Financial Times)",
-            "link": "http://www.techmeme.com/241022/p11#a241022p11",
-            "published": "Tue, 22 Oct 2024 09:30:14 -0400"
-        },
-        {
-            "title": "WhatsApp plans to let users save contacts in the app soon, after previously relying on the local contact book, and developed a new IPLS encrypted storage system (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/241022/p10#a241022p10",
-            "published": "Tue, 22 Oct 2024 09:20:03 -0400"
-        },
-        {
-            "title": "iPad mini (2024) review: fast A17 Pro chip, delightful size, and Pencil Pro support, but less powerful than other iPads, outdated Touch ID and camera placement (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/241022/p9#a241022p9",
-            "published": "Tue, 22 Oct 2024 09:10:07 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Ward Christensen, Early Visionary of Social Media, Dies at 78",
+            "link": "https://www.nytimes.com/2024/10/21/technology/ward-christensen-dead.html",
+            "published": "Mon, 21 Oct 2024 21:31:25 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s Big Business and Conflicts of Interest With the U.S. Government",
+            "link": "https://www.nytimes.com/2024/10/20/us/politics/elon-musk-federal-agencies-contracts.html",
+            "published": "Mon, 21 Oct 2024 16:31:54 +0000"
+        },
         {
             "title": "Microsoft and OpenAI\u2019s Close Partnership Shows Signs of Fraying",
             "link": "https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html",
             "published": "Mon, 21 Oct 2024 17:42:37 +0000"
         },
         {
-            "title": "This $350 Oura Ring 4 Tracks Your Sleep. Is It Worth the Splurge?",
-            "link": "https://www.nytimes.com/2024/10/17/technology/personaltech/oura-ring-sleep-tracker.html",
-            "published": "Fri, 18 Oct 2024 17:14:42 +0000"
-        },
-        {
-            "title": "Amazon, Google and Microsoft Are Investing in Nuclear Power",
-            "link": "https://www.nytimes.com/2024/10/16/business/energy-environment/amazon-google-microsoft-nuclear-energy.html",
-            "published": "Wed, 16 Oct 2024 20:21:23 +0000"
-        },
-        {
-            "title": "Trump Signals Skepticism of Google Breakup, Citing Competition With China",
-            "link": "https://www.nytimes.com/2024/10/15/us/politics/trump-google-monopoly-china.html",
-            "published": "Tue, 15 Oct 2024 21:02:30 +0000"
-        },
-        {
             "title": "New York\u2019s Old Guard Meets Feeld, a Very Sex-Positive Dating App",
             "link": "https://www.nytimes.com/2024/10/22/style/literary-new-york-feeld-dating-app.html",
             "published": "Tue, 22 Oct 2024 09:05:50 +0000"
+        },
+        {
+            "title": "For Vance, an Idyllic Appalachian Startup Became a Hard Lesson",
+            "link": "https://www.nytimes.com/2024/10/22/us/politics/jd-vance-appalachia-startup.html",
+            "published": "Tue, 22 Oct 2024 09:00:33 +0000"
         }
     ],
     "source_2": [
