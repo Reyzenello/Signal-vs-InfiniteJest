@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "TSMC says it alerted the US to a potential attempt to have it manufacture AI chips for Huawei, circumventing export controls; sources: the chips resembled 910Bs (Kathrin Hille/Financial Times)",
+            "link": "http://www.techmeme.com/241022/p11#a241022p11",
+            "published": "Tue, 22 Oct 2024 09:30:14 -0400"
+        },
+        {
+            "title": "WhatsApp plans to let users save contacts in the app soon, after previously relying on the local contact book, and developed a new IPLS encrypted storage system (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/241022/p10#a241022p10",
+            "published": "Tue, 22 Oct 2024 09:20:03 -0400"
+        },
+        {
+            "title": "iPad mini (2024) review: fast A17 Pro chip, delightful size, and Pencil Pro support, but less powerful than other iPads, outdated Touch ID and camera placement (David Pierce/The Verge)",
+            "link": "http://www.techmeme.com/241022/p9#a241022p9",
+            "published": "Tue, 22 Oct 2024 09:10:07 -0400"
+        },
+        {
             "title": "Epic launches its Fab marketplace, a unified place to get digital assets like environments and animations, offering an 88% revenue share to creators (Jay Peters/The Verge)",
             "link": "http://www.techmeme.com/241022/p8#a241022p8",
             "published": "Tue, 22 Oct 2024 08:40:00 -0400"
@@ -9,21 +24,6 @@
             "title": "X data: Elon Musk-backed America PAC spent $166K between July 8 and October 1 to run 59 ads on X targeting swing voters in six states, yielding 32M+ impressions (Vittoria Elliott/Wired)",
             "link": "http://www.techmeme.com/241022/p7#a241022p7",
             "published": "Tue, 22 Oct 2024 07:35:01 -0400"
-        },
-        {
-            "title": "Netflix shut down AAA game studio \"Team Blue\", which hired industry veterans and seemed set to pursue a big-budget multi-device strategy, amid a gaming shake-up (Stephen Totilo/Game File)",
-            "link": "http://www.techmeme.com/241022/p6#a241022p6",
-            "published": "Tue, 22 Oct 2024 06:25:06 -0400"
-        },
-        {
-            "title": "Accel: Klarna alumni have founded 62 new startups, more than any $1B+ European fintech startup; Revolut alumni founded 49, and Wise and N26 alumni had 33 each (Ryan Browne/CNBC)",
-            "link": "http://www.techmeme.com/241022/p5#a241022p5",
-            "published": "Tue, 22 Oct 2024 06:10:03 -0400"
-        },
-        {
-            "title": "Document: Chinese startup Horizon Robotics, which makes autonomous driving software and hardware, raised $696M in a Hong Kong IPO, before its October 24 listing (Bloomberg)",
-            "link": "http://www.techmeme.com/241022/p4#a241022p4",
-            "published": "Tue, 22 Oct 2024 05:50:13 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Ofcom: Clear link between online posts and violent disorder",
+            "link": "https://www.bbc.com/news/articles/c70w0ne4zexo",
+            "published": "Tue, 22 Oct 2024 12:57:11 GMT"
+        },
+        {
             "title": "Facebook and Instagram launch celebrity scam ad crackdown",
             "link": "https://www.bbc.com/news/articles/cg565mrdz7zo",
             "published": "Tue, 22 Oct 2024 11:03:44 GMT"
@@ -73,11 +78,6 @@
             "title": "US probing Elon Musk's Tesla over self-driving systems",
             "link": "https://www.bbc.com/news/articles/cwyvql6g9xxo",
             "published": "Fri, 18 Oct 2024 23:27:33 GMT"
-        },
-        {
-            "title": "Trump says Apple boss called him to complain about EU",
-            "link": "https://www.bbc.com/news/articles/cj4d75zl212o",
-            "published": "Fri, 18 Oct 2024 15:01:59 GMT"
         }
     ]
 }
