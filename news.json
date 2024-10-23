@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Huawei launches HarmonyOS 5.0 and says 1B+ devices run on HarmonyOS including smartphones, PCs, and cars, and the OS has 15K+ apps, up 10x from earlier in 2024 (Nikkei Asia)",
+            "link": "http://www.techmeme.com/241023/p2#a241023p2",
+            "published": "Wed, 23 Oct 2024 00:20:01 -0400"
+        },
+        {
+            "title": "In its first annual report, Walmart's PhonePe says FY 2024 revenue grew 74% YoY to ~$602M, net losses dropped 28% YoY to ~$237M, and 200M MAUs as of March 2024 (Sidhartha Shukla/Bloomberg)",
+            "link": "http://www.techmeme.com/241023/p1#a241023p1",
+            "published": "Wed, 23 Oct 2024 00:05:02 -0400"
+        },
+        {
             "title": "NYC-based Tennr, which uses AI-based document parsing and workflow automation to reduce waiting times for patients, raised a $37M Series B led by Lightspeed (Mike Wheatley/SiliconANGLE)",
             "link": "http://www.techmeme.com/241022/p33#a241022p33",
             "published": "Tue, 22 Oct 2024 22:55:23 -0400"
@@ -14,16 +24,6 @@
             "title": "Socket, which provides tools to help detect open source code vulnerabilities, raised a $40M Series B led by Abstract Ventures, taking its total funding to $65M (David Prosser/Forbes)",
             "link": "http://www.techmeme.com/241022/p31#a241022p31",
             "published": "Tue, 22 Oct 2024 21:50:14 -0400"
-        },
-        {
-            "title": "Document: Arm is canceling a license that let Qualcomm use Arm's intellectual property to design chips, escalating the legal dispute between the companies (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/241022/p30#a241022p30",
-            "published": "Tue, 22 Oct 2024 20:55:04 -0400"
-        },
-        {
-            "title": "Runway rolls out Act-One, a Gen-3 Alpha tool for animating AI-generated characters with realistic facial expressions using video and voice recordings as inputs (Runway)",
-            "link": "http://www.techmeme.com/241022/p29#a241022p29",
-            "published": "Tue, 22 Oct 2024 18:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Boeing-made satellite breaks up in space",
+            "link": "https://www.bbc.com/news/articles/ce8d886l028o",
+            "published": "Wed, 23 Oct 2024 03:50:35 GMT"
+        },
+        {
             "title": "Ofcom: Clear link between online posts and violent disorder",
             "link": "https://www.bbc.com/news/articles/c70w0ne4zexo",
             "published": "Tue, 22 Oct 2024 15:09:56 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok owner sacks intern for sabotaging AI project",
             "link": "https://www.bbc.com/news/articles/c7v62gg49zro",
             "published": "Mon, 21 Oct 2024 04:34:15 GMT"
-        },
-        {
-            "title": "US probing Elon Musk's Tesla over self-driving systems",
-            "link": "https://www.bbc.com/news/articles/cwyvql6g9xxo",
-            "published": "Fri, 18 Oct 2024 23:27:33 GMT"
         }
     ]
 }
