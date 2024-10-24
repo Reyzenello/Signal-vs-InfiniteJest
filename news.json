@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
+            "title": "Apple now lets third-party browsers add web apps to an iPhone's Home Screen using their own custom engine in the EU in iOS 18.2 beta 1 (Filipe Esp&oacute;sito/9to5Mac)",
+            "link": "http://www.techmeme.com/241024/p20#a241024p20",
+            "published": "Thu, 24 Oct 2024 08:35:01 -0400"
+        },
+        {
+            "title": "The UK CMA opens a formal probe into Google's Anthropic partnership, sets a December 19 deadline; Google planned to invest $2B in 2023 and signed a cloud deal (Katharine Gemmell/Bloomberg)",
+            "link": "http://www.techmeme.com/241024/p19#a241024p19",
+            "published": "Thu, 24 Oct 2024 07:40:15 -0400"
+        },
+        {
+            "title": "The Biden administration issues the first-ever National Security Memorandum on AI, detailing how the Pentagon and intel agencies should use and protect AI (David E. Sanger/New York Times)",
+            "link": "http://www.techmeme.com/241024/p18#a241024p18",
+            "published": "Thu, 24 Oct 2024 07:30:04 -0400"
+        },
+        {
+            "title": "General Catalyst raised $8B, the most by a US VC since March 2022, and will put $4.5B in its core funds, $1.5B in creating startups, and $2B in other businesses (Financial Times)",
+            "link": "http://www.techmeme.com/241024/p17#a241024p17",
+            "published": "Thu, 24 Oct 2024 07:27:26 -0400"
+        },
+        {
             "title": "Sources: in 2005, Intel CEO Paul Otellini proposed buying Nvidia for $20B, but the board resisted due to concerns over the price tag and integrating Nvidia (New York Times)",
             "link": "http://www.techmeme.com/241024/p16#a241024p16",
             "published": "Thu, 24 Oct 2024 07:15:01 -0400"
-        },
-        {
-            "title": "A profile of ZachXBT, a twentysomething X user with 650K+ followers who tracks down crypto scams and thefts, and has received $1.3M+ in donations since 2021 (Andy Greenberg/Wired)",
-            "link": "http://www.techmeme.com/241024/p15#a241024p15",
-            "published": "Thu, 24 Oct 2024 07:00:31 -0400"
-        },
-        {
-            "title": "Raspberry Pi unveils the Raspberry Pi AI HAT+ in 13 and 26 TOPS versions in partnership with Hailo, after announcing branded SSDs, micro SD cards, and a bumper (Les Pounder/Tom's Hardware)",
-            "link": "http://www.techmeme.com/241024/p14#a241024p14",
-            "published": "Thu, 24 Oct 2024 06:45:00 -0400"
-        },
-        {
-            "title": "The Irish Data Protection Commission fines LinkedIn &euro;310M over using personal data for behavioral analysis and targeted ads under GDPR, after a 2018 complaint (Ian Curran/The Irish Times)",
-            "link": "http://www.techmeme.com/241024/p13#a241024p13",
-            "published": "Thu, 24 Oct 2024 06:25:01 -0400"
-        },
-        {
-            "title": "Q&A with Vinod Khosla on Elon Musk, AI, climate tech, Harris and Trump, the US economy, tech regulation, Silicon Valley's Trump supporters, taxation, and more (Bloomberg)",
-            "link": "http://www.techmeme.com/241024/p12#a241024p12",
-            "published": "Thu, 24 Oct 2024 06:15:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Intel Got Left Behind in the A.I. Chip Boom",
+            "link": "https://www.nytimes.com/2024/10/24/technology/intel-ai-chips-mistakes.html",
+            "published": "Thu, 24 Oct 2024 09:02:16 +0000"
+        },
+        {
+            "title": "The White House Bet Big on Intel. Will It Backfire?",
+            "link": "https://www.nytimes.com/2024/10/24/us/politics/intel-chips-biden.html",
+            "published": "Thu, 24 Oct 2024 09:03:43 +0000"
+        },
         {
             "title": "Former OpenAI Researcher Says Company Broke Copyright Law",
             "link": "https://www.nytimes.com/2024/10/23/technology/openai-copyright-law.html",
@@ -36,16 +46,6 @@
             "title": "Character.ai Faces Lawsuit After Teen\u2019s Suicide",
             "link": "https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html",
             "published": "Wed, 23 Oct 2024 21:38:05 +0000"
-        },
-        {
-            "title": "As Election Looms, Disinformation \u2018Has Never Been Worse\u2019",
-            "link": "https://www.nytimes.com/2024/10/23/business/media/election-disinformation.html",
-            "published": "Wed, 23 Oct 2024 19:48:23 +0000"
-        },
-        {
-            "title": "How to Use Images From Your Phone to Search the Web",
-            "link": "https://www.nytimes.com/2024/10/23/technology/personaltech/phone-web-search-images.html",
-            "published": "Wed, 23 Oct 2024 19:25:29 +0000"
         },
         {
             "title": "New Guidelines Serve as Government \u2018Guardrails\u2019 for A.I. Tools",
