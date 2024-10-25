@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The UK CMA opens a phase one merger probe into chip designer Synopsys' $35B takeover of 3D design software maker Ansys due to competition concerns (Katharine Gemmell/Bloomberg)",
+            "link": "http://www.techmeme.com/241025/p8#a241025p8",
+            "published": "Fri, 25 Oct 2024 08:05:02 -0400"
+        },
+        {
+            "title": "Q&A with Reddit CEO Steve Huffman on AI slop, the company's partnerships with Google and OpenAI, content moderation during an election year, and more (Wall Street Journal)",
+            "link": "http://www.techmeme.com/241025/p7#a241025p7",
+            "published": "Fri, 25 Oct 2024 07:45:13 -0400"
+        },
+        {
             "title": "Sources: Meta strikes a multi-year deal with Reuters to use its news content to provide real-time answers to user queries in Meta AI chatbot, a first for Meta (Sara Fischer/Axios)",
             "link": "http://www.techmeme.com/241025/p6#a241025p6",
             "published": "Fri, 25 Oct 2024 06:50:01 -0400"
@@ -14,16 +24,6 @@
             "title": "A look at the fight over valuable social media accounts when couples divorce; data: 44% of 27M paid US content creators say social media is their full-time job (Katherine Hamilton/Wall Street Journal)",
             "link": "http://www.techmeme.com/241025/p4#a241025p4",
             "published": "Fri, 25 Oct 2024 04:00:14 -0400"
-        },
-        {
-            "title": "A profile of and an interview with CISA Director Jen Easterly, as the agency ramps up efforts to protect the US elections from cyberattacks and misinformation (Max Ufberg/Fast Company)",
-            "link": "http://www.techmeme.com/241025/p3#a241025p3",
-            "published": "Fri, 25 Oct 2024 02:00:34 -0400"
-        },
-        {
-            "title": "UnitedHealth says over 100M people had their data stolen in the February ransomware attack on Change Healthcare, the largest-ever US healthcare data breach (Lawrence Abrams/BleepingComputer)",
-            "link": "http://www.techmeme.com/241025/p2#a241025p2",
-            "published": "Fri, 25 Oct 2024 00:45:07 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Call of Duty: Black Ops 6 launches with eyes on Game Pass",
+            "link": "https://www.bbc.com/news/articles/cp87e58ld3do",
+            "published": "Fri, 25 Oct 2024 11:02:43 GMT"
+        },
+        {
             "title": "Boeing-made satellite breaks up in space",
             "link": "https://www.bbc.com/news/articles/ce8d886l028o",
             "published": "Wed, 23 Oct 2024 03:50:35 GMT"
@@ -73,11 +78,6 @@
             "title": "Blade Runner 2049 maker sues Musk over robotaxi images",
             "link": "https://www.bbc.com/news/articles/ce3z37dpvl9o",
             "published": "Tue, 22 Oct 2024 04:07:54 GMT"
-        },
-        {
-            "title": "TikTok owner sacks intern for sabotaging AI project",
-            "link": "https://www.bbc.com/news/articles/c7v62gg49zro",
-            "published": "Mon, 21 Oct 2024 04:34:15 GMT"
         }
     ]
 }
