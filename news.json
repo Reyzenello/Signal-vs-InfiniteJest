@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Q&A with Precision Neuroscience executives about the uses of brain-computer interfaces, human trials, brain implants becoming consumer devices, and more (Wall Street Journal)",
+            "link": "http://www.techmeme.com/241027/p7#a241027p7",
+            "published": "Sun, 27 Oct 2024 14:10:04 -0400"
+        },
+        {
             "title": "Online influencers are earning thousands for a single post on behalf of groups backing Harris or Trump, with scant regulatory oversight or public transparency (Cat Zakrzewski/Washington Post)",
             "link": "http://www.techmeme.com/241027/p6#a241027p6",
             "published": "Sun, 27 Oct 2024 12:10:01 -0400"
@@ -19,14 +24,14 @@
             "title": "How militaries around the world are using warfare simulation video games like Slitherine Software's Command: Professional Edition to run battle scenarios (Wall Street Journal)",
             "link": "http://www.techmeme.com/241027/p3#a241027p3",
             "published": "Sun, 27 Oct 2024 08:10:27 -0400"
-        },
-        {
-            "title": "Q&A with Arm CEO Rene Haas on AI transforming the world much faster than the internet, Arm's global operations and China's role, geopolitics, and more (Bloomberg)",
-            "link": "http://www.techmeme.com/241027/p2#a241027p2",
-            "published": "Sun, 27 Oct 2024 05:05:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Bezos Was Expected to Make a Splash in Washington. But He Never Arrived.",
+            "link": "https://www.nytimes.com/2024/10/27/technology/jeff-bezos-washington-post-dc.html",
+            "published": "Sun, 27 Oct 2024 18:11:44 +0000"
+        },
         {
             "title": "Election Odds Swing in Trump\u2019s Favor on Polymarket, a Crypto Betting Site",
             "link": "https://www.nytimes.com/2024/10/25/technology/polymarket-election-betting-crypto-trump.html",
@@ -38,14 +43,9 @@
             "published": "Fri, 25 Oct 2024 18:29:35 +0000"
         },
         {
-            "title": "How Intel Got Left Behind in the A.I. Chip Boom",
-            "link": "https://www.nytimes.com/2024/10/24/technology/intel-ai-chips-mistakes.html",
-            "published": "Thu, 24 Oct 2024 18:47:10 +0000"
-        },
-        {
-            "title": "The White House Bet Big on Intel. Will It Backfire?",
-            "link": "https://www.nytimes.com/2024/10/24/us/politics/intel-chips-biden.html",
-            "published": "Thu, 24 Oct 2024 16:53:36 +0000"
+            "title": "The Elon-ction + Can A.I. Be Blamed for a Teen\u2019s Suicide?",
+            "link": "https://www.nytimes.com/2024/10/25/podcasts/hardfork-musk-election-character-ai.html",
+            "published": "Fri, 25 Oct 2024 10:01:07 +0000"
         },
         {
             "title": "What to Know About the Chinese Hackers Who Targeted the 2024 Campaigns",
