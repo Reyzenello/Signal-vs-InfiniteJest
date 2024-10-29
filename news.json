@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "LinkedIn launches Hiring Assistant, an AI agent designed to take on a wide array of recruitment tasks like sourcing candidates, to a select group of customers (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/241029/p22#a241029p22",
+            "published": "Tue, 29 Oct 2024 13:15:01 -0400"
+        },
+        {
+            "title": "Sources: OpenAI is working with Broadcom and TSMC to build its first in-house AI chip focusing on inference, and has scaled back its foundry ambitions (Reuters)",
+            "link": "http://www.techmeme.com/241029/p21#a241029p21",
+            "published": "Tue, 29 Oct 2024 13:05:02 -0400"
+        },
+        {
+            "title": "Elon Musk's PAC sends Republicans texts impersonating Kamala Harris without disclaimers, pushing policies Harris doesn't support, and ups its social ads spend (Jason Koebler/404 Media)",
+            "link": "http://www.techmeme.com/241029/p20#a241029p20",
+            "published": "Tue, 29 Oct 2024 12:35:01 -0400"
+        },
+        {
             "title": "GitHub plans to update Copilot to support Anthropic, Google, and OpenAI models, unveils AI web app building tool Spark, updates Copilot in VS Code, and more (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/241029/p19#a241029p19",
             "published": "Tue, 29 Oct 2024 12:30:00 -0400"
@@ -9,28 +24,13 @@
             "title": "PayPal reports Q3 net revenue up 6% YoY to $7.9B, below est., total payments volume up 9% YoY to $422.6B, above $421.6B est., and projects Q4 revenue below est. (Paige Smith/Bloomberg)",
             "link": "http://www.techmeme.com/241029/p18#a241029p18",
             "published": "Tue, 29 Oct 2024 11:55:06 -0400"
-        },
-        {
-            "title": "Apple debuts M4 Pro: Thunderbolt 5, up to a 14-core CPU, up to a 20-core GPU with up to 2x more power than the M4, a 16-core Neural Engine, and up to 64GB RAM (Benjamin Mayo/9to5Mac)",
-            "link": "http://www.techmeme.com/241029/p17#a241029p17",
-            "published": "Tue, 29 Oct 2024 11:40:02 -0400"
-        },
-        {
-            "title": "Apple updates the Mac mini with a much smaller design, M4 or M4 Pro, two front-facing USB-C ports, up to 64GB of RAM, and more, shipping November 8 for $599+ (Chris Welch/The Verge)",
-            "link": "http://www.techmeme.com/241029/p16#a241029p16",
-            "published": "Tue, 29 Oct 2024 11:14:19 -0400"
-        },
-        {
-            "title": "Why Meta is well positioned to be AI's main beneficiary in the short, medium, and long term: generative AI, ads, infinite content, XR, \"generative UI\", and more (Ben Thompson/Stratechery)",
-            "link": "http://www.techmeme.com/241029/p15#a241029p15",
-            "published": "Tue, 29 Oct 2024 09:50:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How a Data Center Divided a Small Missouri Town",
             "link": "https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html",
-            "published": "Tue, 29 Oct 2024 13:00:19 +0000"
+            "published": "Tue, 29 Oct 2024 13:00:20 +0000"
         },
         {
             "title": "Elon Musk Bought a Texas Compound for His 11 Kids and Their Mothers",
@@ -48,9 +48,9 @@
             "published": "Mon, 28 Oct 2024 19:07:12 +0000"
         },
         {
-            "title": "G.M.\u2019s Electric Vehicle Sales Surge as Ford Loses Billions",
-            "link": "https://www.nytimes.com/2024/10/29/business/ford-general-motors-electric-vehicles.html",
-            "published": "Tue, 29 Oct 2024 15:49:48 +0000"
+            "title": "TSMC Chips Ended Up in Devices Made by China\u2019s Huawei Despite U.S. Controls",
+            "link": "https://www.nytimes.com/2024/10/29/business/tsmc-huawei-computer-chips.html",
+            "published": "Tue, 29 Oct 2024 17:05:12 +0000"
         }
     ],
     "source_2": [
