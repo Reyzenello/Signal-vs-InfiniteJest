@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Apple updates the Mac mini with a much smaller design, M4 or M4 Pro, two front-facing USB-C ports, up to 64GB of RAM, and more, shipping November 8 for $599+ (Chris Welch/The Verge)",
+            "link": "http://www.techmeme.com/241029/p16#a241029p16",
+            "published": "Tue, 29 Oct 2024 11:14:19 -0400"
+        },
+        {
             "title": "Why Meta is well positioned to be AI's main beneficiary in the short, medium, and long term: generative AI, ads, infinite content, XR, \"generative UI\", and more (Ben Thompson/Stratechery)",
             "link": "http://www.techmeme.com/241029/p15#a241029p15",
             "published": "Tue, 29 Oct 2024 09:50:01 -0400"
@@ -19,14 +24,19 @@
             "title": "Amazon plans to shut down its Kindle Vella serialized story platform in February 2025; users won't lose access to unlocked stories after the program closes (Mariella Moon/Engadget)",
             "link": "http://www.techmeme.com/241029/p12#a241029p12",
             "published": "Tue, 29 Oct 2024 08:20:09 -0400"
-        },
-        {
-            "title": "An analysis of the top 100 US congressional X accounts: since July 2023, Republicans had nearly all the posts with 20M+ views and saw bigger gains in followers (Washington Post)",
-            "link": "http://www.techmeme.com/241029/p11#a241029p11",
-            "published": "Tue, 29 Oct 2024 07:50:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How a Data Center Divided a Small Missouri Town",
+            "link": "https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html",
+            "published": "Tue, 29 Oct 2024 13:00:19 +0000"
+        },
+        {
+            "title": "Elon Musk Bought a Texas Compound for His 11 Kids and Their Mothers",
+            "link": "https://www.nytimes.com/2024/10/29/business/elon-musk-children-compound.html",
+            "published": "Tue, 29 Oct 2024 09:03:01 +0000"
+        },
         {
             "title": "Bezos Was Expected to Make a Splash in Washington. But He Never Arrived.",
             "link": "https://www.nytimes.com/2024/10/27/technology/jeff-bezos-washington-post-dc.html",
@@ -38,19 +48,9 @@
             "published": "Mon, 28 Oct 2024 19:07:12 +0000"
         },
         {
-            "title": "Election Odds Swing in Trump\u2019s Favor on Polymarket, a Crypto Betting Site",
-            "link": "https://www.nytimes.com/2024/10/25/technology/polymarket-election-betting-crypto-trump.html",
-            "published": "Fri, 25 Oct 2024 09:06:27 +0000"
-        },
-        {
-            "title": "Dan Price, Former CEO of Gravity Payments, Charged With Rape",
-            "link": "https://www.nytimes.com/2024/10/25/technology/dan-price-gravity-payments-ceo-rape.html",
-            "published": "Fri, 25 Oct 2024 18:29:35 +0000"
-        },
-        {
-            "title": "How a Data Center Divided a Small Missouri Town",
-            "link": "https://www.nytimes.com/2024/10/29/technology/data-center-peculiar-missouri.html",
-            "published": "Tue, 29 Oct 2024 13:00:19 +0000"
+            "title": "How Russia, China and Iran Are Interfering in the Presidential Election",
+            "link": "https://www.nytimes.com/2024/10/29/technology/election-interference-russia-china-iran.html",
+            "published": "Tue, 29 Oct 2024 04:00:08 +0000"
         }
     ],
     "source_2": [
