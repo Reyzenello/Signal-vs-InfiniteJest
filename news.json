@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic launches Claude apps for Mac and Windows in public beta, and releases a dictation tool for Claude on iOS, Android, and iPadOS (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/241031/p29#a241031p29",
+            "published": "Thu, 31 Oct 2024 11:10:05 -0400"
+        },
+        {
             "title": "Google adds Gemini in Google Maps in the US, with AI-summarized reviews and answers to conversational questions by users, and adds 150 cities to Immersive View (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/241031/p28#a241031p28",
             "published": "Thu, 31 Oct 2024 10:20:13 -0400"
@@ -19,40 +24,9 @@
             "title": "An investigation finds eight deceptive operations on Meta's platforms that collectively controlled 340+ Pages and placed 160K+ ads to collect users' information (ProPublica)",
             "link": "http://www.techmeme.com/241031/p25#a241031p25",
             "published": "Thu, 31 Oct 2024 09:35:02 -0400"
-        },
-        {
-            "title": "Roblox reports Q3 revenue up 29% YoY to $919M, bookings up 34% YoY to $1.13B, above $1B est., and DAUs up 27% YoY to 88.9M; RBLX jumps 15%+ (Cecilia D'Anastasio/Bloomberg)",
-            "link": "http://www.techmeme.com/241031/p24#a241031p24",
-            "published": "Thu, 31 Oct 2024 08:50:02 -0400"
         }
     ],
-    "source_1": [
-        {
-            "title": "Jeff Bezos, Elon Musk and the Billions of Ways to Influence an Election",
-            "link": "https://www.nytimes.com/2024/10/30/technology/jeff-bezos-elon-musk-election.html",
-            "published": "Wed, 30 Oct 2024 16:41:14 +0000"
-        },
-        {
-            "title": "Nishad Singh, a Top FTX Executive, Is Given No Prison Time After Cooperation",
-            "link": "https://www.nytimes.com/2024/10/30/technology/nishad-singh-ftx-executive-sentencing.html",
-            "published": "Wed, 30 Oct 2024 21:24:42 +0000"
-        },
-        {
-            "title": "Meta Earnings Show Revenue Increase, Even as Spending Spree Continues",
-            "link": "https://www.nytimes.com/2024/10/30/technology/meta-earnings-artificial-intelligence.html",
-            "published": "Wed, 30 Oct 2024 21:19:48 +0000"
-        },
-        {
-            "title": "Microsoft Earnings Show Quarterly Revenue Is Up 16% to $65.6 Billion",
-            "link": "https://www.nytimes.com/2024/10/30/technology/microsoft-quarterly-revenue-profits.html",
-            "published": "Wed, 30 Oct 2024 23:18:48 +0000"
-        },
-        {
-            "title": "Election Falsehoods Take Off on YouTube as It Looks the Other Way",
-            "link": "https://www.nytimes.com/2024/10/31/technology/youtube-election-conspiracy-theories-misinformation.html",
-            "published": "Thu, 31 Oct 2024 09:00:34 +0000"
-        }
-    ],
+    "source_1": [],
     "source_2": [
         {
             "title": "Russia fines Google more money than there is in entire world",
