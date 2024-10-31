@@ -1,32 +1,58 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic launches Claude apps for Mac and Windows in public beta, and releases a dictation tool for Claude on iOS, Android, and iPadOS (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241031/p29#a241031p29",
-            "published": "Thu, 31 Oct 2024 11:10:05 -0400"
+            "title": "Filing: Trump's World Liberty Financial plans to raise ~$30M from investors, down from the $300M it had originally sought, after WLFI token sales fell short (Danny Nelson/CoinDesk)",
+            "link": "http://www.techmeme.com/241031/p35#a241031p35",
+            "published": "Thu, 31 Oct 2024 12:30:04 -0400"
         },
         {
-            "title": "Google adds Gemini in Google Maps in the US, with AI-summarized reviews and answers to conversational questions by users, and adds 150 cities to Immersive View (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/241031/p28#a241031p28",
-            "published": "Thu, 31 Oct 2024 10:20:13 -0400"
+            "title": "Microsoft says Windows users will only be able to buy one year of Extended Security Updates for Windows 10 for $30, after support ends in October 2025 (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/241031/p34#a241031p34",
+            "published": "Thu, 31 Oct 2024 12:15:02 -0400"
         },
         {
-            "title": "The EU Commission opens formal DSA proceedings against Temu over the alleged sales of non-compliant products and its platform design, like addictive features (Dominic Chopping/Wall Street Journal)",
-            "link": "http://www.techmeme.com/241031/p27#a241031p27",
-            "published": "Thu, 31 Oct 2024 10:00:00 -0400"
+            "title": "Sophos details a five-year battle with Chinese hackers exploiting its firewalls, and how its device \"implants\" traced the hacks to a university and a contractor (Andy Greenberg/Wired)",
+            "link": "http://www.techmeme.com/241031/p33#a241031p33",
+            "published": "Thu, 31 Oct 2024 12:05:14 -0400"
         },
         {
-            "title": "The Biden admin unveils an $825M investment in an Albany-based chip research and development facility; the NTSC says the facility aims to drive EUV innovation (Reuters)",
-            "link": "http://www.techmeme.com/241031/p26#a241031p26",
-            "published": "Thu, 31 Oct 2024 09:46:38 -0400"
+            "title": "Kuo: Apple plans to use its own Wi-Fi and Bluetooth chips made by TSMC's N7 process and with Wi-Fi 7 in the iPhone 17 lineup, reducing its reliance on Broadcom (Ryan Christoffel/9to5Mac)",
+            "link": "http://www.techmeme.com/241031/p32#a241031p32",
+            "published": "Thu, 31 Oct 2024 11:50:01 -0400"
         },
         {
-            "title": "An investigation finds eight deceptive operations on Meta's platforms that collectively controlled 340+ Pages and placed 160K+ ads to collect users' information (ProPublica)",
-            "link": "http://www.techmeme.com/241031/p25#a241031p25",
-            "published": "Thu, 31 Oct 2024 09:35:02 -0400"
+            "title": "OnePlus unveils the OnePlus 13, its next flagship with a Snapdragon 8 Elite SoC, 12GB+ RAM, and a 6,000mAh battery, available in China on November 1 for ~$630+ (Andrew Liszewski/The Verge)",
+            "link": "http://www.techmeme.com/241031/p31#a241031p31",
+            "published": "Thu, 31 Oct 2024 11:40:04 -0400"
         }
     ],
-    "source_1": [],
+    "source_1": [
+        {
+            "title": "Election Falsehoods Take Off on YouTube as It Looks the Other Way",
+            "link": "https://www.nytimes.com/2024/10/31/technology/youtube-election-conspiracy-theories-misinformation.html",
+            "published": "Thu, 31 Oct 2024 15:17:55 +0000"
+        },
+        {
+            "title": "Why a Memphis Community Is Fighting Elon Musk\u2019s Supercomputer",
+            "link": "https://www.nytimes.com/2024/10/31/business/energy-environment/elon-musk-ai-memphis-pollution.html",
+            "published": "Thu, 31 Oct 2024 15:07:33 +0000"
+        },
+        {
+            "title": "Jeff Bezos, Elon Musk and the Billions of Ways to Influence an Election",
+            "link": "https://www.nytimes.com/2024/10/30/technology/jeff-bezos-elon-musk-election.html",
+            "published": "Wed, 30 Oct 2024 16:41:14 +0000"
+        },
+        {
+            "title": "Nishad Singh, a Top FTX Executive, Is Given No Prison Time After Cooperation",
+            "link": "https://www.nytimes.com/2024/10/30/technology/nishad-singh-ftx-executive-sentencing.html",
+            "published": "Wed, 30 Oct 2024 21:24:42 +0000"
+        },
+        {
+            "title": "Meta Earnings Show Revenue Increase, Even as Spending Spree Continues",
+            "link": "https://www.nytimes.com/2024/10/30/technology/meta-earnings-artificial-intelligence.html",
+            "published": "Wed, 30 Oct 2024 21:19:48 +0000"
+        }
+    ],
     "source_2": [
         {
             "title": "Russia fines Google more money than there is in entire world",
