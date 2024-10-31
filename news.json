@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Samsung Q3: revenue up 17% YoY to ~$57.4B, net profit up 73% to ~$7.3B, operating profit of ~$6.7B, and chip unit operating profit down 40% QoQ to ~$2.8B (Kwanwoo Jun/Wall Street Journal)",
+            "link": "http://www.techmeme.com/241030/p52#a241030p52",
+            "published": "Wed, 30 Oct 2024 21:50:01 -0400"
+        },
+        {
+            "title": "Kraken lays off workers and names Arjun Sethi as co-CEO; sources say the cuts amount to 15% of its workforce, or ~400 employees, including the COO and the CTO (New York Times)",
+            "link": "http://www.techmeme.com/241030/p51#a241030p51",
+            "published": "Wed, 30 Oct 2024 21:05:01 -0400"
+        },
+        {
             "title": "Siemens agrees to buy engineering software company Altair for ~$10B including debt, a 19% premium on Altair's October 21 closing price; deal to close in H2 2025 (Bloomberg)",
             "link": "http://www.techmeme.com/241030/p50#a241030p50",
             "published": "Wed, 30 Oct 2024 19:20:02 -0400"
@@ -14,19 +24,35 @@
             "title": "Nintendo announces Nintendo Music, an app that lets Switch Online subscribers stream or download gaming tunes from Nintendo titles, available on Android and iOS (Andrew Webster/The Verge)",
             "link": "http://www.techmeme.com/241030/p48#a241030p48",
             "published": "Wed, 30 Oct 2024 18:50:03 -0400"
-        },
-        {
-            "title": "Mark Zuckerberg says the company's AI-driven feed and video recommendations have led to an 8% increase in time spent on Facebook and a 6% increase on Instagram (Sarah E. Needleman/Wall Street Journal)",
-            "link": "http://www.techmeme.com/241030/p47#a241030p47",
-            "published": "Wed, 30 Oct 2024 18:35:03 -0400"
-        },
-        {
-            "title": "Mark Zuckerberg says Threads has almost 275M MAUs and is adding more than a million sign ups per day, while Meta AI has passed 500M MAUs (Karissa Bell/Engadget)",
-            "link": "http://www.techmeme.com/241030/p46#a241030p46",
-            "published": "Wed, 30 Oct 2024 18:25:17 -0400"
         }
     ],
-    "source_1": [],
+    "source_1": [
+        {
+            "title": "Jeff Bezos, Elon Musk and the Billions of Ways to Influence an Election",
+            "link": "https://www.nytimes.com/2024/10/30/technology/jeff-bezos-elon-musk-election.html",
+            "published": "Wed, 30 Oct 2024 16:41:14 +0000"
+        },
+        {
+            "title": "Nishad Singh, a Top FTX Executive, Is Given No Prison Time After Cooperation",
+            "link": "https://www.nytimes.com/2024/10/30/technology/nishad-singh-ftx-executive-sentencing.html",
+            "published": "Wed, 30 Oct 2024 21:24:42 +0000"
+        },
+        {
+            "title": "Meta Earnings Show Revenue Increase, Even as Spending Spree Continues",
+            "link": "https://www.nytimes.com/2024/10/30/technology/meta-earnings-artificial-intelligence.html",
+            "published": "Wed, 30 Oct 2024 21:19:48 +0000"
+        },
+        {
+            "title": "Microsoft Earnings Show Quarterly Revenue Is Up 16% to $65.6 Billion",
+            "link": "https://www.nytimes.com/2024/10/30/technology/microsoft-quarterly-revenue-profits.html",
+            "published": "Wed, 30 Oct 2024 23:18:48 +0000"
+        },
+        {
+            "title": "Kraken Lays Off 15% of Workers and Names Arjun Sethi New Co-CEO",
+            "link": "https://www.nytimes.com/2024/10/30/technology/kraken-cryptocurrency-layoff-ceo.html",
+            "published": "Wed, 30 Oct 2024 22:31:30 +0000"
+        }
+    ],
     "source_2": [
         {
             "title": "'Sickening' Molly Russell chatbots found on Character.ai",
