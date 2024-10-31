@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "A look at VMware one year after Broadcom's acquisition: some customers say costs have risen 300%, Broadcom stopped selling perpetual VMware licenses, and more (Scharon Harding/Ars Technica)",
+            "link": "http://www.techmeme.com/241031/p23#a241031p23",
+            "published": "Thu, 31 Oct 2024 08:30:01 -0400"
+        },
+        {
+            "title": "Media Matters: from May to August 2024, the top 30 conservative YouTube channels posted 286 videos containing US election misinformation, racking up 47M+ views (Nico Grant/New York Times)",
+            "link": "http://www.techmeme.com/241031/p22#a241031p22",
+            "published": "Thu, 31 Oct 2024 08:00:44 -0400"
+        },
+        {
+            "title": "Huawei reports Q3 revenue up 15.6% YoY to ~$23.7B and net profit down 70.5% YoY to ~$1.1B, a sign that the company may be struggling with its chipmaking yield (Bloomberg)",
+            "link": "http://www.techmeme.com/241031/p21#a241031p21",
+            "published": "Thu, 31 Oct 2024 07:42:52 -0400"
+        },
+        {
+            "title": "Peloton names Ford executive Peter Stern as CEO, starting January 1, to lead its turnaround, and projects Q2 subscriber numbers below analyst estimates (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/241031/p20#a241031p20",
+            "published": "Thu, 31 Oct 2024 07:30:05 -0400"
+        },
+        {
             "title": "Uber reports Q3 revenue up 20% YoY to $11.2B, above est., gross bookings up 16% YoY to $41B, a $1.1B operating income, above est. and up from $394M in Q3 2023 (Stephen Morris/Financial Times)",
             "link": "http://www.techmeme.com/241031/p19#a241031p19",
             "published": "Thu, 31 Oct 2024 07:10:02 -0400"
-        },
-        {
-            "title": "A profile of Pepijn van der Stap, a Dutch prodigy who hacked thousands of companies' data while also doing legitimate cybersecurity work and is now in prison (Ryan Gallagher/Bloomberg)",
-            "link": "http://www.techmeme.com/241031/p18#a241031p18",
-            "published": "Thu, 31 Oct 2024 07:00:50 -0400"
-        },
-        {
-            "title": "US court docs: in 2022, Apple privately warned TikTok that it had more mature content than was suitable for under-17s and to change its App Store age rating (Cristiano Lima-Strong/Washington Post)",
-            "link": "http://www.techmeme.com/241031/p17#a241031p17",
-            "published": "Thu, 31 Oct 2024 06:40:02 -0400"
-        },
-        {
-            "title": "Amazon's threat intel unit is making a name for itself after years in the shadows, including disrupting Anonymous Sudan and combating anti-US disinformation (Jamie Tarabay/Bloomberg)",
-            "link": "http://www.techmeme.com/241031/p16#a241031p16",
-            "published": "Thu, 31 Oct 2024 06:25:15 -0400"
-        },
-        {
-            "title": "A look at X's Election Integrity Community, a feed to \"share potential incidents of voter fraud\" that has 50K+ members, launched by Elon Musk's America PAC (Charlie Warzel/The Atlantic)",
-            "link": "http://www.techmeme.com/241031/p14#a241031p14",
-            "published": "Thu, 31 Oct 2024 06:10:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Russia fines Google more money than there is in entire world",
+            "link": "https://www.bbc.com/news/articles/cdxvnwkl5kgo",
+            "published": "Thu, 31 Oct 2024 12:24:25 GMT"
+        },
+        {
             "title": "'Sickening' Molly Russell chatbots found on Character.ai",
             "link": "https://www.bbc.com/news/articles/cg57yd0jr0go",
             "published": "Wed, 30 Oct 2024 15:35:51 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok founder becomes China's richest man",
             "link": "https://www.bbc.com/news/articles/c8dmql101dno",
             "published": "Tue, 29 Oct 2024 10:53:39 GMT"
-        },
-        {
-            "title": "Apple's AI features roll out on iPhones - but not for all",
-            "link": "https://www.bbc.com/news/articles/cwy9xj301wmo",
-            "published": "Tue, 29 Oct 2024 09:29:07 GMT"
         }
     ]
 }
