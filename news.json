@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Zuckerberg says Meta is training Llama 4 models on a cluster of 100K+ H100 chips, \"or bigger than anything that I've seen reported for what others are doing\" (Wired)",
+            "link": "http://www.techmeme.com/241031/p3#a241031p3",
+            "published": "Thu, 31 Oct 2024 01:15:01 -0400"
+        },
+        {
+            "title": "South Korean government data: semiconductor production fell 3% YoY in September 2024, the first decline in 14 months, indicating slowing demand for memory chips (Sam Kim/Bloomberg)",
+            "link": "http://www.techmeme.com/241031/p2#a241031p2",
+            "published": "Thu, 31 Oct 2024 01:00:19 -0400"
+        },
+        {
+            "title": "Mark Zuckerberg says Meta is \"executing quite well\" in building out AI infrastructure, as Meta raises the low end of its 2024 capex guidance to $38B from $37B (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/241031/p1#a241031p1",
+            "published": "Thu, 31 Oct 2024 00:40:05 -0400"
+        },
+        {
             "title": "Source: Amazon's target deadline to unveil AI-upgraded Alexa has moved into 2025, after documents showed Amazon planned to unveil the product on Oct. 17, 2024 (Bloomberg)",
             "link": "http://www.techmeme.com/241030/p56#a241030p56",
             "published": "Wed, 30 Oct 2024 23:50:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Microsoft says its AI business is on track to surpass an annual revenue run rate of $10B in Q2, its fastest product category ever to reach that milestone (Ina Fried/Axios)",
             "link": "http://www.techmeme.com/241030/p55#a241030p55",
             "published": "Wed, 30 Oct 2024 23:35:03 -0400"
-        },
-        {
-            "title": "Filing: Microsoft has made \"funding commitments of $13B\" to OpenAI and says losses from its stake were partly why it had a $683M expense on its Q1 investments (Todd Bishop/GeekWire)",
-            "link": "http://www.techmeme.com/241030/p54#a241030p54",
-            "published": "Wed, 30 Oct 2024 23:30:02 -0400"
-        },
-        {
-            "title": "Aurora Innovation delays deploying its autonomous commercial trucks from Q4 2024 to April 2025 to validate its self-driving tech, with up to 10 trucks at launch (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/241030/p53#a241030p53",
-            "published": "Wed, 30 Oct 2024 22:25:00 -0400"
-        },
-        {
-            "title": "Samsung Q3: revenue up 17% YoY to ~$57.4B, net profit up 73% to ~$7.3B, operating profit of ~$6.7B, and chip unit operating profit down 40% QoQ to ~$2.8B (Kwanwoo Jun/Wall Street Journal)",
-            "link": "http://www.techmeme.com/241030/p52#a241030p52",
-            "published": "Wed, 30 Oct 2024 21:50:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Wed, 30 Oct 2024 15:35:51 GMT"
         },
         {
+            "title": "China's BYD overtakes Tesla revenue for first time",
+            "link": "https://www.bbc.com/news/articles/c4gm9j11mvdo",
+            "published": "Thu, 31 Oct 2024 04:21:38 GMT"
+        },
+        {
             "title": "How X users can earn thousands from US election misinformation and AI images",
             "link": "https://www.bbc.com/news/articles/cx2dpj485nno",
             "published": "Tue, 29 Oct 2024 23:42:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple's AI features roll out on iPhones - but not for all",
             "link": "https://www.bbc.com/news/articles/cwy9xj301wmo",
             "published": "Tue, 29 Oct 2024 09:29:07 GMT"
-        },
-        {
-            "title": "Instagram lowering quality of less viewed videos 'alarming' creators",
-            "link": "https://www.bbc.com/news/articles/cp8xnm7z71go",
-            "published": "Tue, 29 Oct 2024 11:57:42 GMT"
         }
     ]
 }
