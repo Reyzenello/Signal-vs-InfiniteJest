@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google researchers detail Project Big Sleep, formerly Project Naptime, which used an AI agent to discover a previously unknown and exploitable bug in SQLite (Michael Kan/PCMag)",
+            "link": "http://www.techmeme.com/241101/p17#a241101p17",
+            "published": "Fri, 01 Nov 2024 18:35:19 -0400"
+        },
+        {
             "title": "CoreWeave told investors its signed contracts are worth $17B, including $10B by Microsoft from 2023 to 2030, and it expects revenue to grow 4x to $8B in 2025 (The Information)",
             "link": "http://www.techmeme.com/241101/p16#a241101p16",
             "published": "Fri, 01 Nov 2024 16:30:01 -0400"
@@ -19,38 +24,33 @@
             "title": "Intel outlines plan to break free from TSMC manufacturing, including making a majority of Nova Lake CPUs, due in 2026, internally (Anton Shilov/Tom's Hardware)",
             "link": "http://www.techmeme.com/241101/p13#a241101p13",
             "published": "Fri, 01 Nov 2024 13:40:03 -0400"
-        },
-        {
-            "title": "Popular photo editing company Pixelmator says it has signed an agreement to be acquired by Apple, pending regulatory approval (Chance Miller/9to5Mac)",
-            "link": "http://www.techmeme.com/241101/p12#a241101p12",
-            "published": "Fri, 01 Nov 2024 11:40:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How a Georgia Security Conference Became a Target of Election Deniers",
+            "link": "https://www.nytimes.com/2024/11/01/technology/election-deniers-georgia.html",
+            "published": "Fri, 01 Nov 2024 20:27:24 +0000"
+        },
         {
             "title": "Election Falsehoods Take Off on YouTube as It Looks the Other Way",
             "link": "https://www.nytimes.com/2024/10/31/technology/youtube-election-conspiracy-theories-misinformation.html",
             "published": "Fri, 01 Nov 2024 13:30:58 +0000"
         },
         {
-            "title": "OpenAI Launches ChatGPT Search Engine",
-            "link": "https://www.nytimes.com/2024/10/31/technology/chatgpt-openai-search-engine.html",
-            "published": "Thu, 31 Oct 2024 21:47:32 +0000"
+            "title": "Billionaire Game Theory + We Are Not Ready for A.G.I. + Election Betting Markets Get Weird",
+            "link": "https://www.nytimes.com/2024/11/01/podcasts/billionaire-game-theory-we-are-not-ready-for-agi-election-betting-markets-get-weird.html",
+            "published": "Fri, 01 Nov 2024 10:00:16 +0000"
         },
         {
-            "title": "Elon Musk\u2019s xAI in Funding Talks That Could Value Company at $40 Billion",
-            "link": "https://www.nytimes.com/2024/10/31/technology/elon-musk-xai-valuation.html",
-            "published": "Thu, 31 Oct 2024 21:10:29 +0000"
+            "title": "This Group Refuses to Stop Tracking Disinformation",
+            "link": "https://www.nytimes.com/2024/11/01/technology/election-disinformation.html",
+            "published": "Fri, 01 Nov 2024 20:09:01 +0000"
         },
         {
-            "title": "Why a Memphis Community Is Fighting Elon Musk\u2019s Supercomputer",
-            "link": "https://www.nytimes.com/2024/10/31/business/energy-environment/elon-musk-ai-memphis-pollution.html",
-            "published": "Thu, 31 Oct 2024 16:41:52 +0000"
-        },
-        {
-            "title": "How a Georgia Security Conference Became a Target of Election Deniers",
-            "link": "https://www.nytimes.com/2024/11/01/technology/election-deniers-georgia.html",
-            "published": "Fri, 01 Nov 2024 20:27:24 +0000"
+            "title": "What if A.I. Is Actually Good for Hollywood?",
+            "link": "https://www.nytimes.com/2024/11/01/magazine/ai-hollywood-movies-cgi.html",
+            "published": "Fri, 01 Nov 2024 09:04:30 +0000"
         }
     ],
     "source_2": [
