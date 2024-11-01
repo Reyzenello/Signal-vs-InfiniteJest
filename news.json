@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Apple reports Q4 revenue down 0.3% YoY to $15.03B in Greater China, up 7.6% YoY to $5.93B in Japan, and up 16.6% YoY to $7.38B in the rest of Asia-Pacific (Nikkei Asia)",
+            "title": "Ex-Lacework CEO and Facebook's former global head of engineering Jay Parikh joins Microsoft's senior leadership team and will report directly to Satya Nadella (Bloomberg)",
+            "link": "http://www.techmeme.com/241031/p55#a241031p55",
+            "published": "Thu, 31 Oct 2024 20:50:02 -0400"
+        },
+        {
+            "title": "Amazon reports Q3 AWS revenue up 19% YoY to $27.45B, vs. $27.52B est., and AWS operating income of $10.45B, vs. $9.15B est., up from $7B in Q3 2023 (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/241031/p53#a241031p53",
+            "published": "Thu, 31 Oct 2024 20:00:55 -0400"
+        },
+        {
+            "title": "Google plans to release Android 16 in Q2 2025 \"to better align with the schedule of device launches\"; major Android releases have been in Q3 or Q4 since 2013 (Mishaal Rahman/Android Authority)",
+            "link": "http://www.techmeme.com/241031/p54#a241031p54",
+            "published": "Thu, 31 Oct 2024 20:00:55 -0400"
+        },
+        {
+            "title": "Apple Q4 revenues: down 0.3% YoY to $15B in China, up 7.6% to $5.9B in Japan, up 16.6% to $7.38B in the rest of Asia-Pacific, and up 11% to $24.9B in Europe (Nikkei Asia)",
             "link": "http://www.techmeme.com/241031/p52#a241031p52",
             "published": "Thu, 31 Oct 2024 19:20:01 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "Tether reports Q3 net profits of $2.5B, driven by gains in its US Treasury and gold holdings and bringing YTD profit to $7.7B, as USDT market cap nears $120B (Krisztian Sandor/CoinDesk)",
             "link": "http://www.techmeme.com/241031/p51#a241031p51",
             "published": "Thu, 31 Oct 2024 18:10:01 -0400"
-        },
-        {
-            "title": "Apple reports Q4 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 12% YoY to $24.97B, a new quarterly record, but below est. (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/241031/p50#a241031p50",
-            "published": "Thu, 31 Oct 2024 16:55:03 -0400"
-        },
-        {
-            "title": "Apple Q4 revenue: iPhone up 6% YoY to $46.22B, Mac up 2% YoY to $7.74B, iPad up 8% YoY to $6.95B, and Wearables, Home, and Accessories down 3% YoY to $9.04B (CNBC)",
-            "link": "http://www.techmeme.com/241031/p49#a241031p49",
-            "published": "Thu, 31 Oct 2024 16:46:35 -0400"
-        },
-        {
-            "title": "Apple reports Q4 revenue up 6% YoY to $94.9B, net income of $14.74B, vs. $22.96B in Q4 2023, after paying a $10.2B charge as part of a tax decision in Europe (Apple Inc.)",
-            "link": "http://www.techmeme.com/241031/p48#a241031p48",
-            "published": "Thu, 31 Oct 2024 16:33:22 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Snapchat most-used app for grooming, says NSPCC",
+            "link": "https://www.bbc.com/news/articles/cze3p1j710ko",
+            "published": "Fri, 01 Nov 2024 01:00:12 GMT"
+        },
+        {
             "title": "Russia fines Google more money than there is in entire world",
             "link": "https://www.bbc.com/news/articles/cdxvnwkl5kgo",
             "published": "Thu, 31 Oct 2024 12:24:25 GMT"
@@ -73,11 +78,6 @@
             "title": "How X users can earn thousands from US election misinformation and AI images",
             "link": "https://www.bbc.com/news/articles/cx2dpj485nno",
             "published": "Tue, 29 Oct 2024 23:42:50 GMT"
-        },
-        {
-            "title": "TikTok founder becomes China's richest man",
-            "link": "https://www.bbc.com/news/articles/c8dmql101dno",
-            "published": "Tue, 29 Oct 2024 10:53:39 GMT"
         }
     ]
 }
