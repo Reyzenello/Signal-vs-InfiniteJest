@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at Denmark's sovereign AI supercomputer Gefion, which has 1,528 H100 GPUs and was built with $100M in funding from Novo Nordisk and a state-owned fund (Ben Cohen/Wall Street Journal)",
+            "link": "http://www.techmeme.com/241102/p3#a241102p3",
+            "published": "Sat, 02 Nov 2024 02:25:02 -0400"
+        },
+        {
             "title": "A judge rules Parag Agrawal and other former Twitter executives can proceed with claims that Elon Musk cheated them out of severance pay by terminating them (Malathi Nayak/Bloomberg)",
             "link": "http://www.techmeme.com/241102/p2#a241102p2",
             "published": "Sat, 02 Nov 2024 01:05:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Okta fixes a flaw present since July 23, 2024 that, under specific conditions, let users log in with any password if the account's username had 52+ characters (Richard Lawler/The Verge)",
             "link": "http://www.techmeme.com/241101/p22#a241101p22",
             "published": "Fri, 01 Nov 2024 22:55:05 -0400"
-        },
-        {
-            "title": "An interview with EssilorLuxottica CEO Francesco Milleri on the Meta partnership, smart glasses replacing smartphones, and more, as the firm is valued at &euro;100B (Silvia Sciorilli Borrelli/Financial Times)",
-            "link": "http://www.techmeme.com/241101/p21#a241101p21",
-            "published": "Fri, 01 Nov 2024 22:00:46 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "MrBeast: Law firm finds grooming claims against co-host baseless",
+            "link": "https://www.bbc.com/news/articles/czxrn5k22p4o",
+            "published": "Sat, 02 Nov 2024 02:07:23 GMT"
+        },
+        {
             "title": "Snapchat most-used app for grooming, says NSPCC",
             "link": "https://www.bbc.com/news/articles/cze3p1j710ko",
             "published": "Fri, 01 Nov 2024 01:00:12 GMT"
@@ -73,11 +78,6 @@
             "title": "China's BYD overtakes Tesla revenue for first time",
             "link": "https://www.bbc.com/news/articles/c4gm9j11mvdo",
             "published": "Thu, 31 Oct 2024 04:21:38 GMT"
-        },
-        {
-            "title": "How X users can earn thousands from US election misinformation and AI images",
-            "link": "https://www.bbc.com/news/articles/cx2dpj485nno",
-            "published": "Tue, 29 Oct 2024 23:42:50 GMT"
         }
     ]
 }
