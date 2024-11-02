@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft and a16z jointly share US public policy ideas for AI startups, saying \"regulation should be implemented only if its benefits outweigh its costs\" (Microsoft)",
+            "link": "http://www.techmeme.com/241101/p20#a241101p20",
+            "published": "Fri, 01 Nov 2024 20:45:01 -0400"
+        },
+        {
+            "title": "Nvidia will replace Intel in the Dow Jones Industrial Average on November 8, after Amazon replaced Walgreens in February; Intel joined the index in 1999 (Bloomberg)",
+            "link": "http://www.techmeme.com/241101/p19#a241101p19",
+            "published": "Fri, 01 Nov 2024 20:05:02 -0400"
+        },
+        {
+            "title": "Polymarket user Fredi9999, a self-described Frenchman, says he bet $30M+ on Trump after analyzing polls; he can't exit his wagers without crashing the market (Alexander Osipovich/Wall Street Journal)",
+            "link": "http://www.techmeme.com/241101/p18#a241101p18",
+            "published": "Fri, 01 Nov 2024 19:55:05 -0400"
+        },
+        {
             "title": "Google researchers detail Project Big Sleep, formerly Project Naptime, which used an AI agent to discover a previously unknown and exploitable bug in SQLite (Michael Kan/PCMag)",
             "link": "http://www.techmeme.com/241101/p17#a241101p17",
             "published": "Fri, 01 Nov 2024 18:35:19 -0400"
@@ -9,21 +24,6 @@
             "title": "CoreWeave told investors its signed contracts are worth $17B, including $10B by Microsoft from 2023 to 2030, and it expects revenue to grow 4x to $8B in 2025 (The Information)",
             "link": "http://www.techmeme.com/241101/p16#a241101p16",
             "published": "Fri, 01 Nov 2024 16:30:01 -0400"
-        },
-        {
-            "title": "Meta rolls out its Quest v71 update, including a redesign of Meta Horizon OS, a calendar app, and the ability to use Travel Mode on a train (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/241101/p15#a241101p15",
-            "published": "Fri, 01 Nov 2024 15:40:02 -0400"
-        },
-        {
-            "title": "Disney forms the Office of Technology Enablement to coordinate its use of emerging technologies such as AI and mixed reality, to be led by CTO Jamie Voris (Reuters)",
-            "link": "http://www.techmeme.com/241101/p14#a241101p14",
-            "published": "Fri, 01 Nov 2024 15:01:12 -0400"
-        },
-        {
-            "title": "Intel outlines plan to break free from TSMC manufacturing, including making a majority of Nova Lake CPUs, due in 2026, internally (Anton Shilov/Tom's Hardware)",
-            "link": "http://www.techmeme.com/241101/p13#a241101p13",
-            "published": "Fri, 01 Nov 2024 13:40:03 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Fri, 01 Nov 2024 10:00:16 +0000"
         },
         {
+            "title": "Nvidia Will Replace Intel in the Dow Jones Stock Index",
+            "link": "https://www.nytimes.com/2024/11/01/technology/nvidia-intel-dow-jones-index.html",
+            "published": "Fri, 01 Nov 2024 23:30:33 +0000"
+        },
+        {
             "title": "This Group Refuses to Stop Tracking Disinformation",
             "link": "https://www.nytimes.com/2024/11/01/technology/election-disinformation.html",
             "published": "Fri, 01 Nov 2024 20:09:01 +0000"
-        },
-        {
-            "title": "What if A.I. Is Actually Good for Hollywood?",
-            "link": "https://www.nytimes.com/2024/11/01/magazine/ai-hollywood-movies-cgi.html",
-            "published": "Fri, 01 Nov 2024 09:04:30 +0000"
         }
     ],
     "source_2": [
