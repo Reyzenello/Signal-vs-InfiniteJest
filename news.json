@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Interviews with Amazon's health chief Neil Lindsay and others on the company's health care push, the PillPack and One Medical acquisitions, its future, and more (Harry McCracken/Fast Company)",
+            "link": "http://www.techmeme.com/241102/p14#a241102p14",
+            "published": "Sat, 02 Nov 2024 21:50:06 -0400"
+        },
+        {
             "title": "Filing: US regulators rejected a proposal to let Amazon buy nuclear power for AWS data centers in Pennsylvania over energy grid reliability and other concerns (Laila Kearney/Reuters)",
             "link": "http://www.techmeme.com/241102/p13#a241102p13",
             "published": "Sat, 02 Nov 2024 18:50:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Why Bluesky not adding the federation systems that let users leave the Bluesky server and take their community to other hosts can lead to \"enshittification\" (Cory Doctorow/Pluralistic)",
             "link": "http://www.techmeme.com/241102/p10#a241102p10",
             "published": "Sat, 02 Nov 2024 15:15:02 -0400"
-        },
-        {
-            "title": "Amazon's plan to rearchitect Alexa around LLMs could finally help Alexa understand what users actually want and reduce the awkward syntax needed to use Skills (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/241102/p9#a241102p9",
-            "published": "Sat, 02 Nov 2024 13:25:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Hunt for Bitcoin's elusive creator Satoshi Nakamoto hits another dead-end",
+            "link": "https://www.bbc.com/news/articles/c079zp2vy31o",
+            "published": "Sun, 03 Nov 2024 00:51:07 GMT"
+        },
+        {
+            "title": "DNA-testing site 23andMe fights for survival",
+            "link": "https://www.bbc.com/news/articles/c4gm08nlxr3o",
+            "published": "Sun, 03 Nov 2024 01:19:58 GMT"
+        },
+        {
             "title": "Law firm finds grooming claims against MrBeast co-host baseless",
             "link": "https://www.bbc.com/news/articles/czxrn5k22p4o",
             "published": "Sat, 02 Nov 2024 02:07:23 GMT"
@@ -68,16 +78,6 @@
             "title": "Russia fines Google more money than there is in entire world",
             "link": "https://www.bbc.com/news/articles/cdxvnwkl5kgo",
             "published": "Thu, 31 Oct 2024 12:24:25 GMT"
-        },
-        {
-            "title": "'Sickening' Molly Russell chatbots found on Character.ai",
-            "link": "https://www.bbc.com/news/articles/cg57yd0jr0go",
-            "published": "Wed, 30 Oct 2024 15:35:51 GMT"
-        },
-        {
-            "title": "China's BYD overtakes Tesla revenue for first time",
-            "link": "https://www.bbc.com/news/articles/c4gm9j11mvdo",
-            "published": "Thu, 31 Oct 2024 04:21:38 GMT"
         }
     ]
 }
