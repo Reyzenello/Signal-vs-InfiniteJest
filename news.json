@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Australia plans to introduce legislation that would ban children under 16 from using social media, not exempting those already with accounts or parental consent (Maani Truu/ABC)",
+            "link": "http://www.techmeme.com/241106/p36#a241106p36",
+            "published": "Wed, 06 Nov 2024 20:40:12 -0500"
+        },
+        {
+            "title": "Take-Two reports Q2 net bookings up 2% YoY to $1.47B, vs. $1.43B est., net revenue up 4% to $1.35B, and sells its Private Division label to an unnamed buyer (Zaheer Kachwala/Reuters)",
+            "link": "http://www.techmeme.com/241106/p35#a241106p35",
+            "published": "Wed, 06 Nov 2024 20:10:01 -0500"
+        },
+        {
+            "title": "Bumble reports Q3 revenue down 0.7% YoY to $273.6M, vs. $271.9M est., its first quarterly sales drop since going public in 2021, and 4.3M total paying users (Priyanka.G/Reuters)",
+            "link": "http://www.techmeme.com/241106/p34#a241106p34",
+            "published": "Wed, 06 Nov 2024 20:05:01 -0500"
+        },
+        {
+            "title": "JPMorgan rebrands its Onyx blockchain unit as Kinexys and plans to add on-chain foreign exchange capabilities as early as Q1 2025, starting with USD and EUR (Krisztian Sandor/CoinDesk)",
+            "link": "http://www.techmeme.com/241106/p33#a241106p33",
+            "published": "Wed, 06 Nov 2024 19:30:07 -0500"
+        },
+        {
             "title": "CrowdStrike agrees to acquire Tel Aviv-based Adaptive Shield, which offers cloud security for SaaS apps; sources say CrowdStrike will pay ~$300M for the company (Meir Orbach/CTech)",
             "link": "http://www.techmeme.com/241106/p32#a241106p32",
             "published": "Wed, 06 Nov 2024 18:10:01 -0500"
-        },
-        {
-            "title": "Canada orders the windup of TikTok's Canadian business citing national security risks, and says it's not blocking Canadians' access to the app (Ismail Shakil/Reuters)",
-            "link": "http://www.techmeme.com/241106/p31#a241106p31",
-            "published": "Wed, 06 Nov 2024 17:25:14 -0500"
-        },
-        {
-            "title": "Match Group reports Q3 revenue up 2% YoY to $895M, vs. $900.9M est., paying users down 3% to 15.2M, forecasts Q4 revenue below est.; MTCH drops 12%+ after hours (Jaspreet Singh/Reuters)",
-            "link": "http://www.techmeme.com/241106/p30#a241106p30",
-            "published": "Wed, 06 Nov 2024 17:00:49 -0500"
-        },
-        {
-            "title": "Lyft reports Q3 revenue up 32% YoY to $1.52B, vs. $1.44B est, gross bookings up 16% to $4.1B, forecasts Q4 gross bookings above est.; LYFT jumps 20% after hours (Akash Sriram/Reuters)",
-            "link": "http://www.techmeme.com/241106/p29#a241106p29",
-            "published": "Wed, 06 Nov 2024 16:55:00 -0500"
-        },
-        {
-            "title": "Arm reports Q2 revenue up 5% YoY to $844M, vs. $810.9M est., royalty revenue up 23% to $514M, and forecasts Q3 revenue below estimates (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/241106/p28#a241106p28",
-            "published": "Wed, 06 Nov 2024 16:45:01 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Wed, 06 Nov 2024 13:00:41 GMT"
         },
         {
+            "title": "Australia plans social media ban for under-16s",
+            "link": "https://www.bbc.com/news/articles/c4gzd62g1r3o",
+            "published": "Thu, 07 Nov 2024 00:59:31 GMT"
+        },
+        {
             "title": "Vodafone-Three merger could get green light, watchdog says",
             "link": "https://www.bbc.com/news/articles/ckgznpx44q3o",
             "published": "Tue, 05 Nov 2024 10:11:17 GMT"
@@ -73,11 +78,6 @@
             "title": "DNA-testing site 23andMe fights for survival",
             "link": "https://www.bbc.com/news/articles/c4gm08nlxr3o",
             "published": "Sun, 03 Nov 2024 01:19:58 GMT"
-        },
-        {
-            "title": "The environmental campaigners fighting against data centres",
-            "link": "https://www.bbc.com/news/articles/cz0mlrx0jxno",
-            "published": "Mon, 04 Nov 2024 00:01:32 GMT"
         }
     ]
 }
