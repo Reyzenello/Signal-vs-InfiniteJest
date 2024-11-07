@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: before Trump's win, Elon Musk asked him to hire SpaceX staff as top government officials, including in the DOD, a sign of the benefits Musk may reap (New York Times)",
+            "link": "http://www.techmeme.com/241107/p12#a241107p12",
+            "published": "Thu, 07 Nov 2024 06:10:00 -0500"
+        },
+        {
+            "title": "How doctors are pioneering the use of AI to improve outcomes for patients, including faster diagnostics, more targeted treatment, and better communication (Sarah Neville/Financial Times)",
+            "link": "http://www.techmeme.com/241107/p11#a241107p11",
+            "published": "Thu, 07 Nov 2024 05:50:00 -0500"
+        },
+        {
             "title": "Nintendo says it has sold 146M Switch consoles in 7.5 years, the user community has grown to 127M annual players, and Pok&eacute;mon sales on Switch have reached 99M (Dean Takahashi/VentureBeat)",
             "link": "http://www.techmeme.com/241107/p10#a241107p10",
             "published": "Thu, 07 Nov 2024 05:25:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Adyen reports Q3 revenue up 20% YoY to &euro;498.3M, vs. &euro;503.3M est., and processed volume growth slowed to 32% from 45% in H1 2024; ADYEN falls 9%+ in Amsterdam (Sarah Jacob/Bloomberg)",
             "link": "http://www.techmeme.com/241107/p8#a241107p8",
             "published": "Thu, 07 Nov 2024 04:20:18 -0500"
-        },
-        {
-            "title": "Malaysia's Johor state has drawn ~50 data center projects in the last three years, creating 40,000 jobs but raising concerns about power and water shortages (Rest of World)",
-            "link": "http://www.techmeme.com/241107/p7#a241107p7",
-            "published": "Thu, 07 Nov 2024 02:30:00 -0500"
-        },
-        {
-            "title": "Experts say President-elect Donald Trump will likely uphold the CHIPS Act, despite his campaign rhetoric, with some modifications to its implementation (Dylan Butts/CNBC)",
-            "link": "http://www.techmeme.com/241107/p6#a241107p6",
-            "published": "Thu, 07 Nov 2024 02:20:04 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Roblox announces new safety features for under-13s",
+            "link": "https://www.bbc.com/news/articles/cwy9kry4lvko",
+            "published": "Thu, 07 Nov 2024 10:28:35 GMT"
+        },
+        {
             "title": "What Elon Musk could gain from Trump's presidency",
             "link": "https://www.bbc.com/news/articles/cjdl22yrrk2o",
             "published": "Thu, 07 Nov 2024 10:01:47 GMT"
@@ -73,11 +78,6 @@
             "title": "Hunt for Bitcoin's elusive creator Satoshi Nakamoto hits another dead-end",
             "link": "https://www.bbc.com/news/articles/c079zp2vy31o",
             "published": "Sun, 03 Nov 2024 00:51:07 GMT"
-        },
-        {
-            "title": "DNA-testing site 23andMe fights for survival",
-            "link": "https://www.bbc.com/news/articles/c4gm08nlxr3o",
-            "published": "Sun, 03 Nov 2024 01:19:58 GMT"
         }
     ]
 }
