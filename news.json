@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Waymo opens robotaxi rides to anyone in LA within an 80-square-mile area running from downtown LA to Santa Monica and says ~300K users had been on the waitlist (Alan Ohnsman/Forbes)",
+            "link": "http://www.techmeme.com/241112/p16#a241112p16",
+            "published": "Tue, 12 Nov 2024 11:29:22 -0500"
+        },
+        {
             "title": "New York-based ScaleOps, which offers cloud spend management tools, raised a $58M Series B led by Lightspeed, taking its total funding to $80M (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241112/p15#a241112p15",
             "published": "Tue, 12 Nov 2024 09:55:02 -0500"
@@ -19,28 +24,23 @@
             "title": "The EU notifies Apple of \"potentially prohibited geo-blocking practices\" on the App Store and other apps, and says it must align with EU anti-geo-blocking rules (Gian Volpicelli/Bloomberg)",
             "link": "http://www.techmeme.com/241112/p12#a241112p12",
             "published": "Tue, 12 Nov 2024 08:10:02 -0500"
-        },
-        {
-            "title": "Nvidia launches its Nvidia app for Windows, designed to overhaul and replace the GeForce Experience app, after a beta earlier in 2024 (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/241112/p11#a241112p11",
-            "published": "Tue, 12 Nov 2024 08:05:02 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "How Technology and Loneliness are Interlinked",
+            "link": "https://www.nytimes.com/2024/11/10/technology/personaltech/technology-loneliness.html",
+            "published": "Sun, 10 Nov 2024 17:19:03 +0000"
+        },
+        {
+            "title": "She Was a Child Instagram Influencer. Her Fans Were Grown Men.",
+            "link": "https://www.nytimes.com/2024/11/10/us/child-influencer.html",
+            "published": "Sun, 10 Nov 2024 15:20:23 +0000"
+        },
+        {
             "title": "Big Tech Employees Quiet After Trump Is Elected",
             "link": "https://www.nytimes.com/2024/11/09/technology/tech-employee-activism-trump.html",
             "published": "Sat, 09 Nov 2024 10:04:40 +0000"
-        },
-        {
-            "title": "Elon Musk Uses X to Promote Trump\u2019s Incoming Administration",
-            "link": "https://www.nytimes.com/2024/11/09/technology/elon-musk-trump-x.html",
-            "published": "Sat, 09 Nov 2024 10:04:24 +0000"
-        },
-        {
-            "title": "Tech C.E.O.s Courted Trump Before the Election",
-            "link": "https://www.nytimes.com/2024/11/07/technology/trump-tech-ceos.html",
-            "published": "Thu, 07 Nov 2024 10:05:18 +0000"
         },
         {
             "title": "What Trump 2.0 Means for Tech + A.I. Made Me Basic + HatGPT!",
