@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Signal announces a suite of call features, including the ability to share a link to a call, emoji reactions, a \"raise hand\" button, and a dedicated calls tab (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/241111/p25#a241111p25",
+            "published": "Mon, 11 Nov 2024 20:50:02 -0500"
+        },
+        {
             "title": "A look at DeFlock, an open-source project that has crowdsourced the locations of 5,600+ automated license plate reader cameras globally from Flock and others (Jason Koebler/404 Media)",
             "link": "http://www.techmeme.com/241111/p24#a241111p24",
             "published": "Mon, 11 Nov 2024 20:25:04 -0500"
@@ -19,11 +24,6 @@
             "title": "Alameda Research co-CEO Sam Trabucco has agreed to hand over a slew of properties, including his yacht, to FTX creditors as part of a November 3 settlement deal (Olga Kharif/Bloomberg)",
             "link": "http://www.techmeme.com/241111/p21#a241111p21",
             "published": "Mon, 11 Nov 2024 18:45:04 -0500"
-        },
-        {
-            "title": "An indictment against two men suspected of hacking Snowflake clients, including AT&T, says the pair and their co-conspirators extorted at least 36 bitcoins (Joseph Cox/404 Media)",
-            "link": "http://www.techmeme.com/241111/p20#a241111p20",
-            "published": "Mon, 11 Nov 2024 18:40:14 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "DNA-testing site 23andMe to lay off 40% of its workers",
+            "link": "https://www.bbc.com/news/articles/cp9z7m2nljyo",
+            "published": "Tue, 12 Nov 2024 01:46:45 GMT"
+        },
+        {
             "title": "'I was moderating hundreds of horrific and traumatising videos'",
             "link": "https://www.bbc.com/news/articles/crr9q2jz7y0o",
             "published": "Mon, 11 Nov 2024 00:40:14 GMT"
@@ -73,11 +78,6 @@
             "title": "Roblox announces new safety features for under-13s",
             "link": "https://www.bbc.com/news/articles/cwy9kry4lvko",
             "published": "Thu, 07 Nov 2024 10:28:35 GMT"
-        },
-        {
-            "title": "What Elon Musk could gain from Trump's presidency",
-            "link": "https://www.bbc.com/news/articles/cjdl22yrrk2o",
-            "published": "Thu, 07 Nov 2024 10:01:47 GMT"
         }
     ]
 }
