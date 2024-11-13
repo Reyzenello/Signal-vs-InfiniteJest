@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "PointFive, which helps companies track usage across multiple clouds, raised a $20M Series A led by Salesforce Ventures, after raising a $16M seed in June 2024 (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/241112/p34#a241112p34",
+            "published": "Tue, 12 Nov 2024 22:05:01 -0500"
+        },
+        {
             "title": "SoftBank's telecom unit plans to build an AI supercomputer in Japan using Nvidia's DGX B200 platform, and a follow-up effort featuring the Grace Blackwell chip (Bloomberg)",
             "link": "http://www.techmeme.com/241112/p33#a241112p33",
             "published": "Tue, 12 Nov 2024 21:45:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Air National guardsman Jack Teixeira is sentenced to 15 years for stealing classified information from the Pentagon and sharing it on Discord in 2022 and 2023 (NBC News)",
             "link": "http://www.techmeme.com/241112/p30#a241112p30",
             "published": "Tue, 12 Nov 2024 19:20:00 -0500"
-        },
-        {
-            "title": "Amazon is shutting down Freevee, its free, ad-supported streaming service launched in 2019 under the IMDb brand, and plans to move the content to Prime Video (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/241112/p29#a241112p29",
-            "published": "Tue, 12 Nov 2024 18:45:12 -0500"
         }
     ],
     "source_1": [
@@ -55,14 +55,19 @@
     ],
     "source_2": [
         {
-            "title": "NatWest blocks staff from using WhatsApp and Facebook Messenger",
-            "link": "https://www.bbc.com/news/articles/cvgl72lrd50o",
-            "published": "Tue, 12 Nov 2024 13:47:59 GMT"
+            "title": "VW launches $5.8bn tie-up with Tesla rival Rivian",
+            "link": "https://www.bbc.com/news/articles/c5yr90lmjpno",
+            "published": "Wed, 13 Nov 2024 03:20:27 GMT"
         },
         {
             "title": "Seven wild moments from the turbulent story of Bitcoin",
             "link": "https://www.bbc.com/news/articles/cqj0wkwv1x2o",
             "published": "Tue, 12 Nov 2024 11:05:15 GMT"
+        },
+        {
+            "title": "NatWest blocks staff from using WhatsApp and Facebook Messenger",
+            "link": "https://www.bbc.com/news/articles/cvgl72lrd50o",
+            "published": "Tue, 12 Nov 2024 13:47:59 GMT"
         },
         {
             "title": "DNA-testing site 23andMe to lay off 40% of its workers",
@@ -73,11 +78,6 @@
             "title": "'I was moderating hundreds of horrific and traumatising videos'",
             "link": "https://www.bbc.com/news/articles/crr9q2jz7y0o",
             "published": "Mon, 11 Nov 2024 00:40:14 GMT"
-        },
-        {
-            "title": "Bitcoin tops record $80,000 as Trump nears sweep of US Congress",
-            "link": "https://www.bbc.com/news/articles/c89v1w5lxxqo",
-            "published": "Mon, 11 Nov 2024 03:11:07 GMT"
         }
     ]
 }
