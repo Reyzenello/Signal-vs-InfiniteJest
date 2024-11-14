@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A look at \"blind box livestreaming\", an e-commerce trend in China that has become an entertaining and, some users and experts said, addictive pastime (New York Times)",
+            "link": "http://www.techmeme.com/241114/p14#a241114p14",
+            "published": "Thu, 14 Nov 2024 05:10:01 -0500"
+        },
+        {
+            "title": "How the rise of automation in manufacturing across China, the largest market for industrial robots, is forcing the country's manufacturing workforce to adapt (Eleanor Olcott/Financial Times)",
+            "link": "http://www.techmeme.com/241114/p13#a241114p13",
+            "published": "Thu, 14 Nov 2024 04:50:13 -0500"
+        },
+        {
+            "title": "How Grab built GrabMaps by using data from drivers, users, and merchants in 500+ Southeast Asian cities, adding 800,000+ km of missing roads to OpenStreetMap (Michelle Anindya/Rest of World)",
+            "link": "http://www.techmeme.com/241114/p12#a241114p12",
+            "published": "Thu, 14 Nov 2024 04:35:10 -0500"
+        },
+        {
             "title": "London-based Tessl, which is building an AI to write and maintain code, raised $125M across seed and Series A, sources say at a $500M+ post-money valuation (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/241114/p11#a241114p11",
             "published": "Thu, 14 Nov 2024 04:25:05 -0500"
@@ -9,21 +24,6 @@
             "title": "Indian mom-and-pop \"kirana\" stores are struggling to compete with quick commerce on discounts and delivery; ~200K kirana stores have closed in the past year (Rest of World)",
             "link": "http://www.techmeme.com/241114/p10#a241114p10",
             "published": "Thu, 14 Nov 2024 04:10:01 -0500"
-        },
-        {
-            "title": "Q&amp;A with Spotify Co-President and CTO Gustav S&ouml;derstr&ouml;m on AI-generated music, NotebookLM podcasts, AI recommendations, improving discoverability, and more (Alex Kantrowitz/Big Technology)",
-            "link": "http://www.techmeme.com/241114/p9#a241114p9",
-            "published": "Thu, 14 Nov 2024 02:30:00 -0500"
-        },
-        {
-            "title": "Foxconn reports Q3 revenue up 20% YoY to a record ~$57.01B, a ~$1.5B net income, vs. ~$1.41B est., and expects half of its server orders in 2025 to be for AI (Jane Lanhee Lee/Bloomberg)",
-            "link": "http://www.techmeme.com/241114/p8#a241114p8",
-            "published": "Thu, 14 Nov 2024 02:20:01 -0500"
-        },
-        {
-            "title": "A look at Vietnam's expansion in the $95B chip packaging industry; SIA and BCG expect Vietnam to have 8%-9% of the global share by 2032, up from 1% in 2022 (Francesco Guarascio/Reuters)",
-            "link": "http://www.techmeme.com/241114/p7#a241114p7",
-            "published": "Thu, 14 Nov 2024 02:15:01 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Sun, 10 Nov 2024 17:19:03 +0000"
         },
         {
-            "title": "F.B.I. Searches Home of Shayne Coplan, Polymarket Founder",
-            "link": "https://www.nytimes.com/2024/11/13/technology/polymarket-shayne-coplan-fbi-search.html",
-            "published": "Thu, 14 Nov 2024 02:46:27 +0000"
+            "title": "Are A.I. Clones the Future of Dating? I Tried Them for Myself.",
+            "link": "https://www.nytimes.com/2024/11/14/technology/ai-dating-apps.html",
+            "published": "Thu, 14 Nov 2024 10:00:15 +0000"
         }
     ],
     "source_2": [
