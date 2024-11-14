@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Estonian ride-hailing and food delivery startup Bolt says it hit &euro;2B in annual revenue and plans a 2025 IPO; Bolt had an $8B+ valuation in January 2022 (Alessandro Parodi/Reuters)",
+            "link": "http://www.techmeme.com/241114/p18#a241114p18",
+            "published": "Thu, 14 Nov 2024 06:20:00 -0500"
+        },
+        {
+            "title": "JD.com reports Q3 revenue up 5.1% YoY to ~$36B, above $35.9B est., and net income up 48% YoY to ~$1.6B, suggesting a recovery in segments of China's economy (Bloomberg)",
+            "link": "http://www.techmeme.com/241114/p17#a241114p17",
+            "published": "Thu, 14 Nov 2024 06:05:01 -0500"
+        },
+        {
+            "title": "Sonos reports Q4 revenue down 8% YoY to $1.5B, spent $4M on \"app recovery investments\", and has released 16 app updates and \"restored 90% of missing features\" (Chris Welch/The Verge)",
+            "link": "http://www.techmeme.com/241114/p16#a241114p16",
+            "published": "Thu, 14 Nov 2024 05:50:17 -0500"
+        },
+        {
+            "title": "Apple releases updates to Final Cut Pro, adding AI-generated closed captions and Vision Pro spatial video editing, and Logic Pro for macOS and iPadOS (John Voorhees/MacStories)",
+            "link": "http://www.techmeme.com/241114/p15#a241114p15",
+            "published": "Thu, 14 Nov 2024 05:30:00 -0500"
+        },
+        {
             "title": "A look at \"blind box livestreaming\", an e-commerce trend in China that has become an entertaining and, some users and experts said, addictive pastime (New York Times)",
             "link": "http://www.techmeme.com/241114/p14#a241114p14",
             "published": "Thu, 14 Nov 2024 05:10:01 -0500"
-        },
-        {
-            "title": "How the rise of automation in manufacturing across China, the largest market for industrial robots, is forcing the country's manufacturing workforce to adapt (Eleanor Olcott/Financial Times)",
-            "link": "http://www.techmeme.com/241114/p13#a241114p13",
-            "published": "Thu, 14 Nov 2024 04:50:13 -0500"
-        },
-        {
-            "title": "How Grab built GrabMaps by using data from drivers, users, and merchants in 500+ Southeast Asian cities, adding 800,000+ km of missing roads to OpenStreetMap (Michelle Anindya/Rest of World)",
-            "link": "http://www.techmeme.com/241114/p12#a241114p12",
-            "published": "Thu, 14 Nov 2024 04:35:10 -0500"
-        },
-        {
-            "title": "London-based Tessl, which is building an AI to write and maintain code, raised $125M across seed and Series A, sources say at a $500M+ post-money valuation (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/241114/p11#a241114p11",
-            "published": "Thu, 14 Nov 2024 04:25:05 -0500"
-        },
-        {
-            "title": "Indian mom-and-pop \"kirana\" stores are struggling to compete with quick commerce on discounts and delivery; ~200K kirana stores have closed in the past year (Rest of World)",
-            "link": "http://www.techmeme.com/241114/p10#a241114p10",
-            "published": "Thu, 14 Nov 2024 04:10:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Amazon launches Temu and Shein rival with 'crazy low' prices",
+            "link": "https://www.bbc.com/news/articles/clyv0yp130go",
+            "published": "Thu, 14 Nov 2024 11:12:19 GMT"
+        },
+        {
             "title": "Apple accused of trapping and ripping off 40m iCloud customers",
             "link": "https://www.bbc.com/news/articles/c20g50ny53eo",
             "published": "Thu, 14 Nov 2024 00:08:40 GMT"
@@ -73,11 +78,6 @@
             "title": "Seven wild moments from the turbulent story of Bitcoin",
             "link": "https://www.bbc.com/news/articles/cqj0wkwv1x2o",
             "published": "Tue, 12 Nov 2024 11:05:15 GMT"
-        },
-        {
-            "title": "NatWest blocks staff from using WhatsApp and Facebook Messenger",
-            "link": "https://www.bbc.com/news/articles/cvgl72lrd50o",
-            "published": "Tue, 12 Nov 2024 13:47:59 GMT"
         }
     ]
 }
