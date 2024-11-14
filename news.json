@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Ilya Lichtenstein is sentenced to five years in prison for conspiring with his wife, Heather \"Razzlekhan\" Morgan, to launder money from the 2016 Bitfinex hack (Sabrina Willmer/Bloomberg)",
+            "link": "http://www.techmeme.com/241114/p42#a241114p42",
+            "published": "Thu, 14 Nov 2024 18:05:02 -0500"
+        },
+        {
+            "title": "OpenAI makes the ChatGPT desktop app for Windows available to all users, following an October release limited to paying ChatGPT subscribers (Michael Kan/PCMag)",
+            "link": "http://www.techmeme.com/241114/p41#a241114p41",
+            "published": "Thu, 14 Nov 2024 17:30:13 -0500"
+        },
+        {
             "title": "Chinese autonomous driving company Pony.ai aims to raise $195M in its US IPO, targeting a valuation of up to $4.48B (Arasu Kannagi Basil/Reuters)",
             "link": "http://www.techmeme.com/241114/p40#a241114p40",
             "published": "Thu, 14 Nov 2024 15:55:05 -0500"
@@ -14,19 +24,14 @@
             "title": "Anthropic is working with the US DOE's National Nuclear Security Administration to ensure Claude models don't share dangerous information about nuclear energy (Sam Sabin/Axios)",
             "link": "http://www.techmeme.com/241114/p38#a241114p38",
             "published": "Thu, 14 Nov 2024 14:35:01 -0500"
-        },
-        {
-            "title": "BSA, representing OpenAI, Microsoft, and others, urges Trump to review rules that are \"unnecessarily impeding AI adoption\" but to keep some of Biden's moves (Morgan Chalfant/Semafor)",
-            "link": "http://www.techmeme.com/241114/p37#a241114p37",
-            "published": "Thu, 14 Nov 2024 14:05:02 -0500"
-        },
-        {
-            "title": "OpenAI says the ChatGPT desktop app for macOS can now read code from some developer-focused apps, including VS Code, Xcode, TextEdit, Terminal, and iTerm2 (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/241114/p36#a241114p36",
-            "published": "Thu, 14 Nov 2024 13:20:13 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Techies Push Other Techies to Musk to Join Trump Administration",
+            "link": "https://www.nytimes.com/2024/11/14/technology/trump-elon-musk-silicon-valley.html",
+            "published": "Thu, 14 Nov 2024 22:36:09 +0000"
+        },
         {
             "title": "Are A.I. Clones the Future of Dating? I Tried Them for Myself.",
             "link": "https://www.nytimes.com/2024/11/14/technology/ai-dating-apps.html",
@@ -43,14 +48,9 @@
             "published": "Thu, 14 Nov 2024 11:47:20 +0000"
         },
         {
-            "title": "Stand-Up, Drama and Spambots: The Creative World Takes On A.I.",
-            "link": "https://www.nytimes.com/2024/11/13/technology/ai-comedy-museums-plays.html",
-            "published": "Wed, 13 Nov 2024 10:00:52 +0000"
-        },
-        {
-            "title": "Techies Push Other Techies to Musk to Join Trump Administration",
-            "link": "https://www.nytimes.com/2024/11/14/technology/trump-elon-musk-silicon-valley.html",
-            "published": "Thu, 14 Nov 2024 22:22:10 +0000"
+            "title": "How Crypto Enthusiasts Hijacked a Dog Mayor Competition",
+            "link": "https://www.nytimes.com/2024/11/13/nyregion/new-york-mayor-voting-dog.html",
+            "published": "Thu, 14 Nov 2024 14:41:55 +0000"
         }
     ],
     "source_2": [
@@ -75,9 +75,9 @@
             "published": "Wed, 13 Nov 2024 14:06:48 GMT"
         },
         {
-            "title": "VW launches $5.8bn tie-up with Tesla rival Rivian",
-            "link": "https://www.bbc.com/news/articles/c5yr90lmjpno",
-            "published": "Wed, 13 Nov 2024 04:29:44 GMT"
+            "title": "Outage hits Bluesky just as the platform's popularity takes off",
+            "link": "https://www.bbc.com/news/articles/c04l15lndrpo",
+            "published": "Thu, 14 Nov 2024 22:06:00 GMT"
         }
     ]
 }
