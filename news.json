@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Apple removes RFE/RL's Svoboda app from the Russian App Store at the demand of Roskomnadzor; Apple also removed recent podcasts by Ekho Moskvy and others (Radio Free Europe/Radio Liberty)",
+            "link": "http://www.techmeme.com/241115/p16#a241115p16",
+            "published": "Fri, 15 Nov 2024 12:10:00 -0500"
+        },
+        {
             "title": "Facebook makes Views its primary metric for content, bringing it in line with Instagram; each time a piece of content appears on a screen, it counts as a View (Mia Sato/The Verge)",
             "link": "http://www.techmeme.com/241115/p15#a241115p15",
             "published": "Fri, 15 Nov 2024 11:20:36 -0500"
@@ -19,11 +24,6 @@
             "title": "X sues to block California's AB 2655, aimed at curbing AI-generated deceptive election content on social media, claiming it impinges on free speech (Peter Blumberg/Bloomberg)",
             "link": "http://www.techmeme.com/241115/p12#a241115p12",
             "published": "Fri, 15 Nov 2024 09:05:05 -0500"
-        },
-        {
-            "title": "Sources: xAI raised $5B at a $45B valuation, almost double its valuation a few months ago; SpaceX prepares a tender offer that would value the company at $250B+ (Financial Times)",
-            "link": "http://www.techmeme.com/241115/p11#a241115p11",
-            "published": "Fri, 15 Nov 2024 08:20:07 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Elon Musk adds Microsoft to lawsuit against ChatGPT-maker OpenAI",
+            "link": "https://www.bbc.com/news/articles/c93716xdgzqo",
+            "published": "Fri, 15 Nov 2024 17:16:37 GMT"
+        },
+        {
+            "title": "X users jump to Bluesky - but what is it and who owns it?",
+            "link": "https://www.bbc.com/news/articles/c8dm0ljg4y6o",
+            "published": "Fri, 15 Nov 2024 16:37:35 GMT"
+        },
+        {
             "title": "US hacker sentenced over Bitcoin heist worth billions",
             "link": "https://www.bbc.com/news/articles/c2dl70wed1lo",
             "published": "Fri, 15 Nov 2024 04:26:25 GMT"
@@ -68,16 +78,6 @@
             "title": "Outage hits Bluesky just as the platform's popularity takes off",
             "link": "https://www.bbc.com/news/articles/c04l15lndrpo",
             "published": "Thu, 14 Nov 2024 22:06:00 GMT"
-        },
-        {
-            "title": "Meta fined \u20ac798m over 'unfair' Facebook Marketplace",
-            "link": "https://www.bbc.com/news/articles/cx2ypyr4742o",
-            "published": "Thu, 14 Nov 2024 15:03:43 GMT"
-        },
-        {
-            "title": "Amazon launches Temu and Shein rival with 'crazy low' prices",
-            "link": "https://www.bbc.com/news/articles/clyv0yp130go",
-            "published": "Thu, 14 Nov 2024 14:19:59 GMT"
         }
     ]
 }
