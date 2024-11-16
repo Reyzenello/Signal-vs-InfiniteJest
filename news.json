@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A profile of and an interview with Aura Salla, a former Meta lobbyist turned EU Parliament member, who says the EU's Big Tech regulation went too far, too fast (Morgan Meaker/Wired)",
+            "link": "http://www.techmeme.com/241116/p4#a241116p4",
+            "published": "Sat, 16 Nov 2024 09:45:01 -0500"
+        },
+        {
             "title": "An interview with Apple's Tim Millet and Tom Boger on Apple's chip strategy, making big changes to the Neural Engine after the 2017 transformer paper, and more (Nandagopal Rajan/The Indian Express)",
             "link": "http://www.techmeme.com/241116/p3#a241116p3",
             "published": "Sat, 16 Nov 2024 06:35:02 -0500"
@@ -19,18 +24,13 @@
             "title": "A look at the challenges facing the Trump administration for regulating AI; policy analysts suspect Trump will dismantle or reshape the US AI Safety Institute (Ellen Huet/Bloomberg)",
             "link": "http://www.techmeme.com/241115/p25#a241115p25",
             "published": "Fri, 15 Nov 2024 23:40:00 -0500"
-        },
-        {
-            "title": "An Ohio man is sentenced to three years for running crypto mixer Helix, which laundered $311M+ from 2014 to 2017; he must forfeit $311M+ and assets worth $400M+ (Jonathan Greig/The Record)",
-            "link": "http://www.techmeme.com/241115/p24#a241115p24",
-            "published": "Fri, 15 Nov 2024 21:05:01 -0500"
         }
     ],
     "source_1": [
         {
             "title": "How Elon Musk Cuts Costs at Tesla, SpaceX and X",
             "link": "https://www.nytimes.com/2024/11/16/technology/elon-musk-cost-cuts.html",
-            "published": "Sat, 16 Nov 2024 14:11:59 +0000"
+            "published": "Sat, 16 Nov 2024 14:12:00 +0000"
         },
         {
             "title": "Elon Musk Adds Microsoft to Suit Against OpenAI",
@@ -48,7 +48,7 @@
             "published": "Fri, 15 Nov 2024 13:51:31 +0000"
         },
         {
-            "title": "Thousands Report Netflix Livestream Crashes During Mike Tyson-Jake Paul Fight",
+            "title": "Netflix Livestream Outages Reported During Mike Tyson-Jake Paul Fight",
             "link": "https://www.nytimes.com/2024/11/16/business/media/netflix-outage-crash-boxing.html",
             "published": "Sat, 16 Nov 2024 07:18:50 +0000"
         }
