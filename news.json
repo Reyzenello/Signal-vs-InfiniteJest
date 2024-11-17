@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "US DHS issues guidance on adopting AI in critical infrastructure, identifying AI-driven attacks, targeted attacks on AI systems, and design flaws as core risks (GovTech)",
+            "link": "http://www.techmeme.com/241116/p11#a241116p11",
+            "published": "Sat, 16 Nov 2024 20:10:07 -0500"
+        },
+        {
             "title": "Netflix says 60M households watched the Paul vs. Tyson boxing bout live around the world, peaking at 65M concurrent streams (Bloomberg)",
             "link": "http://www.techmeme.com/241116/p10#a241116p10",
             "published": "Sat, 16 Nov 2024 17:10:03 -0500"
@@ -19,11 +24,6 @@
             "title": "Bluesky is working to become fully decentralized but it could take years amid financial concerns as it makes money only by selling domains for usernames (Gavin Anderegg/anderegg.ca)",
             "link": "http://www.techmeme.com/241116/p7#a241116p7",
             "published": "Sat, 16 Nov 2024 13:35:00 -0500"
-        },
-        {
-            "title": "Some GitHub projects have been targeted with malicious commits; a Texas researcher claims someone is impersonating him to make the submissions and smear him (Ax Sharma/BleepingComputer)",
-            "link": "http://www.techmeme.com/241116/p6#a241116p6",
-            "published": "Sat, 16 Nov 2024 12:15:01 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Fri, 15 Nov 2024 17:16:37 GMT"
         },
         {
+            "title": "\u2018Do not pet\u2019: Why are robot dogs patrolling Mar-A-Lago?",
+            "link": "https://www.bbc.com/news/articles/c30p16gn3pvo",
+            "published": "Sun, 17 Nov 2024 00:13:50 GMT"
+        },
+        {
             "title": "X users jump to Bluesky - but what is it and who owns it?",
             "link": "https://www.bbc.com/news/articles/c8dm0ljg4y6o",
             "published": "Fri, 15 Nov 2024 16:37:35 GMT"
@@ -73,11 +78,6 @@
             "title": "'Amazing showcase' for UK gaming industry cancelled",
             "link": "https://www.bbc.com/news/articles/c5yxvxzp909o",
             "published": "Fri, 15 Nov 2024 00:03:58 GMT"
-        },
-        {
-            "title": "Outage hits Bluesky just as the platform's popularity takes off",
-            "link": "https://www.bbc.com/news/articles/c04l15lndrpo",
-            "published": "Thu, 14 Nov 2024 22:06:00 GMT"
         }
     ]
 }
