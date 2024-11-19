@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft unveils new custom chips: the Azure Boost DPU, its first data processing unit, and the Azure Integrated HSM, a new in-house cloud security chip (Kyle Wiggers/TechCrunch)",
+            "title": "Smart ring maker Oura raised a $75M Series D from medical device company Dexcom at a $5B+ valuation, up from $2.6B in 2022 (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/241119/p24#a241119p24",
+            "published": "Tue, 19 Nov 2024 10:07:42 -0500"
+        },
+        {
+            "title": "Rox, which is developing AI-powered agents for salespeople, raised $50M across seed led by Sequoia and Series A led by General Catalyst (Paayal Zaveri/Bloomberg)",
+            "link": "http://www.techmeme.com/241119/p23#a241119p23",
+            "published": "Tue, 19 Nov 2024 09:50:01 -0500"
+        },
+        {
+            "title": "Networking chip startup Enfabrica raised a $115M Series C led by Spark Capital and unveils a 3.2TB-per-second accelerated compute fabric of ACF SuperNIC chip (Mike Wheatley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/241119/p22#a241119p22",
+            "published": "Tue, 19 Nov 2024 09:40:15 -0500"
+        },
+        {
+            "title": "Microsoft unveils the Azure Boost DPU, its first data processing unit, and the Azure Integrated Hardware Security Module, its new in-house security chip (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241119/p21#a241119p21",
             "published": "Tue, 19 Nov 2024 09:05:18 -0500"
         },
         {
-            "title": "Microsoft unveils a new AI interpreter in Teams that can simulate voices and offer near-real-time voice interpretation in nine languages, launching in preview (Danielle Abril/Washington Post)",
+            "title": "Microsoft debuts an AI interpreter in Teams in limited preview that can simulate speaker voices and offer near-real-time voice interpretation in nine languages (Danielle Abril/Washington Post)",
             "link": "http://www.techmeme.com/241119/p20#a241119p20",
             "published": "Tue, 19 Nov 2024 09:00:45 -0500"
-        },
-        {
-            "title": "Microsoft and Atom Computing plan to ship quantum computers with 1,000+ physical qubits to enterprises in 2025 and detail a 24 entangled logical qubits record (Frederic Lardinois/TechCrunch)",
-            "link": "http://www.techmeme.com/241119/p19#a241119p19",
-            "published": "Tue, 19 Nov 2024 08:58:57 -0500"
-        },
-        {
-            "title": "Microsoft announces Zero Day Quest, a new Black Hat-like hacking event that it says will be the largest of its kind, at its Redmond headquarters in 2025 (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/241119/p18#a241119p18",
-            "published": "Tue, 19 Nov 2024 08:54:28 -0500"
-        },
-        {
-            "title": "Microsoft plans to bring the \"full capabilities\" of Windows 11 to the Meta Quest 3 and Quest 3S in December in public preview (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241119/p17#a241119p17",
-            "published": "Tue, 19 Nov 2024 08:52:04 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Instagram testing tool that removes all recommended posts",
+            "link": "https://www.bbc.com/news/articles/cd6vpy8e6jvo",
+            "published": "Tue, 19 Nov 2024 15:19:39 GMT"
+        },
+        {
             "title": "Google reacts angrily to report it will have to sell Chrome",
             "link": "https://www.bbc.com/news/articles/cy4g193qezno",
             "published": "Tue, 19 Nov 2024 13:05:44 GMT"
@@ -73,11 +78,6 @@
             "title": "Trump names 'big tech' critic Brendan Carr to head US comms regulator",
             "link": "https://www.bbc.com/news/articles/cx2yd04859go",
             "published": "Mon, 18 Nov 2024 12:27:40 GMT"
-        },
-        {
-            "title": "Seven-year-old gets job offer from Russian IT firm",
-            "link": "https://www.bbc.com/news/articles/crr91exlwd8o",
-            "published": "Mon, 18 Nov 2024 18:07:30 GMT"
         }
     ]
 }
