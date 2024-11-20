@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Snowflake reports Q3 revenue up 28% YoY to $942.09M, vs. $898.46M est., unveils a deal with Anthropic to bring Claude to Cortex AI; SNOW jumps 18%+ after hours (Larry Dignan/Constellation Research)",
+            "link": "http://www.techmeme.com/241120/p36#a241120p36",
+            "published": "Wed, 20 Nov 2024 16:55:13 -0500"
+        },
+        {
+            "title": "Nvidia reports Q3 revenue up 94% YoY to $35.1B, vs. $33.2B est., Data Center revenue up 112% to $30.8B, vs. $29B est., and forecasts Q4 revenue above estimates (Daniel Howley/Yahoo Finance)",
+            "link": "http://www.techmeme.com/241120/p35#a241120p35",
+            "published": "Wed, 20 Nov 2024 16:31:25 -0500"
+        },
+        {
             "title": "Sources: xAI has told investors it raised $5B in a funding round valuing it at $50B and that its revenue has reached $100M on an annualized basis (Wall Street Journal)",
             "link": "http://www.techmeme.com/241120/p34#a241120p34",
             "published": "Wed, 20 Nov 2024 15:30:13 -0500"
@@ -14,16 +24,6 @@
             "title": "Chinese AI company DeepSeek unveils DeepSeek-R1-Lite-Preview, a \"reasoning\" AI model that it claims is competitive with OpenAI's o1, and plans to open source it (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241120/p32#a241120p32",
             "published": "Wed, 20 Nov 2024 15:00:53 -0500"
-        },
-        {
-            "title": "Threads begins rolling out the ability to create custom feeds globally, giving users options beyond \"For You\" and \"Following\" feeds (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/241120/p31#a241120p31",
-            "published": "Wed, 20 Nov 2024 14:15:00 -0500"
-        },
-        {
-            "title": "Sources: Trump's team is talking with the crypto industry over whether to create a White House post dedicated to cryptocurrency policy and is vetting candidates (Bloomberg)",
-            "link": "http://www.techmeme.com/241120/p30#a241120p30",
-            "published": "Wed, 20 Nov 2024 13:50:01 -0500"
         }
     ],
     "source_1": [
@@ -33,14 +33,14 @@
             "published": "Wed, 20 Nov 2024 17:33:09 +0000"
         },
         {
+            "title": "Nvidia\u2019s Profit Doubles as A.I. Chip Sales Soar",
+            "link": "https://www.nytimes.com/2024/11/20/technology/nvidia-earnings-chips-ai.html",
+            "published": "Wed, 20 Nov 2024 21:48:12 +0000"
+        },
+        {
             "title": "Gary Wang, a Top FTX Executive, Is Given No Prison Time",
             "link": "https://www.nytimes.com/2024/11/20/technology/gary-wang-ftx-sentence.html",
             "published": "Wed, 20 Nov 2024 20:16:38 +0000"
-        },
-        {
-            "title": "Robots Struggle to Match Warehouse Workers on \u2018Really Hard\u2019 Jobs",
-            "link": "https://www.nytimes.com/2024/11/19/business/robots-warehouses-amazon.html",
-            "published": "Tue, 19 Nov 2024 08:00:28 +0000"
         },
         {
             "title": "How to Add Extra Security Layers to Your Phone or Tablet",
@@ -48,9 +48,9 @@
             "published": "Wed, 20 Nov 2024 10:04:57 +0000"
         },
         {
-            "title": "Ford to Cut 4,000 Jobs in Europe as Electric Vehicle Sales Slow",
-            "link": "https://www.nytimes.com/2024/11/20/business/ford-layoffs-europe.html",
-            "published": "Wed, 20 Nov 2024 18:59:24 +0000"
+            "title": "Reddit Says It Is Working to Resolve Outage",
+            "link": "https://www.nytimes.com/2024/11/20/technology/reddit-down-outage.html",
+            "published": "Wed, 20 Nov 2024 21:49:31 +0000"
         }
     ],
     "source_2": [
