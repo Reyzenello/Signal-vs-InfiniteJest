@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "As OpenAI, Anthropic, and Google reportedly see diminishing AI training returns, a break from the market hype could be useful, just as with previous innovations (Parmy Olson/Bloomberg)",
+            "link": "http://www.techmeme.com/241120/p15#a241120p15",
+            "published": "Wed, 20 Nov 2024 06:15:04 -0500"
+        },
+        {
+            "title": "Google tightens its rules against \"parasite SEO\" content, or articles that have little to do with the website's focus, after cracking down on \"reputation abuse\" (Mia Sato/The Verge)",
+            "link": "http://www.techmeme.com/241120/p14#a241120p14",
+            "published": "Wed, 20 Nov 2024 05:55:13 -0500"
+        },
+        {
+            "title": "SMIC's Shanghai-listed shares are up 120% from a September 2024 low, outperforming Nvidia and TSMC, on an expected boost from China's chip self-reliance push (Bloomberg)",
+            "link": "http://www.techmeme.com/241120/p13#a241120p13",
+            "published": "Wed, 20 Nov 2024 05:35:00 -0500"
+        },
+        {
             "title": "Klarna's US IPO listing is another deep blow to Europe, where the absence of a complete single market is pushing EU startups to choose US exchanges for an IPO (Richard Milne/Financial Times)",
             "link": "http://www.techmeme.com/241120/p12#a241120p12",
             "published": "Wed, 20 Nov 2024 05:00:56 -0500"
@@ -9,21 +24,6 @@
             "title": "ProRata, which is launching an AI search engine next month, inks licensing deals with DMG Media and more; sources say DMG bought a stake that values it at $130M (Daniel Thomas/Financial Times)",
             "link": "http://www.techmeme.com/241120/p11#a241120p11",
             "published": "Wed, 20 Nov 2024 04:30:05 -0500"
-        },
-        {
-            "title": "An investigation reveals how 3B+ phone coordinates collected by a US data broker Datastream expose movements of US military and intelligence workers in Germany (Wired)",
-            "link": "http://www.techmeme.com/241120/p10#a241120p10",
-            "published": "Wed, 20 Nov 2024 04:15:13 -0500"
-        },
-        {
-            "title": "How AI breakthroughs like diffusion models, vision language models, and liquid neural networks are transforming the way robots learn new skills and tasks (Financial Times)",
-            "link": "http://www.techmeme.com/241120/p9#a241120p9",
-            "published": "Wed, 20 Nov 2024 04:00:48 -0500"
-        },
-        {
-            "title": "How Mark Zuckerberg made Llama a cornerstone of AI ambitions at Meta, whose smartphone-era services and products have been constrained by Apple and Google (Sharon Goldman/Fortune)",
-            "link": "http://www.techmeme.com/241120/p8#a241120p8",
-            "published": "Wed, 20 Nov 2024 02:35:15 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Social media ban for under-16s 'on the table' in UK",
             "link": "https://www.bbc.com/news/articles/ce9gpdrx829o",
-            "published": "Wed, 20 Nov 2024 10:12:44 GMT"
+            "published": "Wed, 20 Nov 2024 10:45:55 GMT"
         },
         {
             "title": "Instagram testing tool that resets all recommended posts",
