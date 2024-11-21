@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy (Michael Nu&ntilde;ez/VentureBeat)",
+            "link": "http://www.techmeme.com/241121/p2#a241121p2",
+            "published": "Thu, 21 Nov 2024 01:10:29 -0500"
+        },
+        {
             "title": "Filing: the US DOJ's proposal requires Google to allow websites more ability to opt-out of its AI products and provide more ad placement controls to advertisers (Leah Nylen/Bloomberg)",
             "link": "http://www.techmeme.com/241121/p1#a241121p1",
             "published": "Thu, 21 Nov 2024 00:00:50 -0500"
@@ -19,18 +24,13 @@
             "title": "OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241120/p42#a241120p42",
             "published": "Wed, 20 Nov 2024 22:40:01 -0500"
-        },
-        {
-            "title": "Australia introduces a bill in Parliament to ban children younger than 16 from social media; companies would face fines of up to AU$50M for violations (Rod McGuirk/Associated Press)",
-            "link": "http://www.techmeme.com/241120/p41#a241120p41",
-            "published": "Wed, 20 Nov 2024 22:00:40 -0500"
         }
     ],
     "source_1": [
         {
             "title": "U.S. Proposes Breakup of Google to Fix Search Monopoly",
             "link": "https://www.nytimes.com/2024/11/20/technology/google-search-remedies-doj.html",
-            "published": "Thu, 21 Nov 2024 04:44:20 +0000"
+            "published": "Thu, 21 Nov 2024 06:14:22 +0000"
         },
         {
             "title": "How Google Spent 15 Years Concealing Its Internal Conversations",
