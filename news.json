@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Several media and tech executives say UK VC Matt Clifford, who has advised successive Tory and Labour governments, has an outsized influence over AI policy (Anna Gross/Financial Times)",
+            "link": "http://www.techmeme.com/241121/p15#a241121p15",
+            "published": "Thu, 21 Nov 2024 07:20:02 -0500"
+        },
+        {
+            "title": "The Trump administration's promises of mass deportations may lead to increased use of spyware like Graphite; ICE has a $2M contract with Graphite maker Paragon (Ronan Farrow/New Yorker)",
+            "link": "http://www.techmeme.com/241121/p14#a241121p14",
+            "published": "Thu, 21 Nov 2024 06:45:14 -0500"
+        },
+        {
+            "title": "Alibaba appoints Jiang Fan its new e-commerce chief in an overhaul of the struggling business; Jiang was demoted in 2020 after allegations of improper conduct (Bloomberg)",
+            "link": "http://www.techmeme.com/241121/p13#a241121p13",
+            "published": "Thu, 21 Nov 2024 06:25:00 -0500"
+        },
+        {
             "title": "Streamlabs: Twitch accounted for 82.3% of total Q3 streaming hours, with YouTube Gaming in second place at 5.6%; Kick grew 204% from Q2 2023 to Q3 2024 (Sam Gutelle/Tubefilter)",
             "link": "http://www.techmeme.com/241121/p12#a241121p12",
             "published": "Thu, 21 Nov 2024 06:15:13 -0500"
@@ -9,21 +24,6 @@
             "title": "CFPB will supervise tech companies offering digital wallets, like Apple Pay, Google Pay and Venmo, by treating companies with 50M+ annual transactions as banks (Paige Smith/Bloomberg)",
             "link": "http://www.techmeme.com/241121/p11#a241121p11",
             "published": "Thu, 21 Nov 2024 05:50:01 -0500"
-        },
-        {
-            "title": "Sources: Huawei plans to start mass-producing its most advanced AI chip, the Ascend 910C, in Q1 2025, even as it struggles to make enough chips due to US curbs (Fanny Potkin/Reuters)",
-            "link": "http://www.techmeme.com/241121/p10#a241121p10",
-            "published": "Thu, 21 Nov 2024 05:30:01 -0500"
-        },
-        {
-            "title": "Baidu reports Q3 revenue down 3% YoY to $4.78B, net income up 14% YoY to $1.09B, and online marketing revenue up 12% YoY to $1.1B, driven by AI cloud business (Evelyn Cheng/CNBC)",
-            "link": "http://www.techmeme.com/241121/p9#a241121p9",
-            "published": "Thu, 21 Nov 2024 05:16:25 -0500"
-        },
-        {
-            "title": "Q&A with Palo Alto Networks CEO Nikesh Arora about the role of the tech industry in Trump's administration, AI, the future of cybersecurity, and more (Reed Albergotti/Semafor)",
-            "link": "http://www.techmeme.com/241121/p8#a241121p8",
-            "published": "Thu, 21 Nov 2024 04:33:08 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "How Google Spent 15 Years Concealing Its Internal Conversations",
             "link": "https://www.nytimes.com/2024/11/20/technology/google-antitrust-employee-messages.html",
-            "published": "Wed, 20 Nov 2024 17:33:09 +0000"
+            "published": "Wed, 20 Nov 2024 17:33:10 +0000"
         },
         {
             "title": "Nvidia\u2019s Profit Doubles as A.I. Chip Sales Soar",
@@ -55,9 +55,19 @@
     ],
     "source_2": [
         {
+            "title": "PayPal down for customers worldwide as thousands report issues",
+            "link": "https://www.bbc.com/news/articles/cly2exevgxxo",
+            "published": "Thu, 21 Nov 2024 12:37:57 GMT"
+        },
+        {
             "title": "Sell Chrome to end search monopoly, Google told",
             "link": "https://www.bbc.com/news/articles/cp81ppr3l9go",
             "published": "Thu, 21 Nov 2024 10:40:34 GMT"
+        },
+        {
+            "title": "Bluesky chief doesn't know age limit for platform",
+            "link": "https://www.bbc.com/news/articles/c238y83l48jo",
+            "published": "Thu, 21 Nov 2024 11:27:04 GMT"
         },
         {
             "title": "'God's influencer' to be made first millennial saint in April",
@@ -68,16 +78,6 @@
             "title": "The Sidemen: We've hit YouTube limit so are moving to Netflix",
             "link": "https://www.bbc.com/news/articles/cx2nr2g44veo",
             "published": "Wed, 20 Nov 2024 16:02:16 GMT"
-        },
-        {
-            "title": "Social media ban for under-16s 'on the table' in UK",
-            "link": "https://www.bbc.com/news/articles/ce9gpdrx829o",
-            "published": "Wed, 20 Nov 2024 11:34:23 GMT"
-        },
-        {
-            "title": "Instagram testing tool that resets all recommended posts",
-            "link": "https://www.bbc.com/news/articles/cd6vpy8e6jvo",
-            "published": "Tue, 19 Nov 2024 15:19:39 GMT"
         }
     ]
 }
