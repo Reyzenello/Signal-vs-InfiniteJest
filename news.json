@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Filing: the US DOJ asks a federal judge to force Google to sell Chrome and impose restrictions designed to prevent Android from favoring its search engine (Michael Liedtke/Associated Press)",
+            "title": "Filing: the US DOJ's proposal requires Google to allow websites more ability to opt-out of its AI products and provide more ad placement controls to advertisers (Leah Nylen/Bloomberg)",
+            "link": "http://www.techmeme.com/241121/p1#a241121p1",
+            "published": "Thu, 21 Nov 2024 00:00:50 -0500"
+        },
+        {
+            "title": "As part of its proposed remedies, the US DOJ says Google should be required to syndicate its US search results to other rival search engines for the next decade (Brian Fung/CNN)",
+            "link": "http://www.techmeme.com/241120/p44#a241120p44",
+            "published": "Wed, 20 Nov 2024 23:55:12 -0500"
+        },
+        {
+            "title": "Filing: DOJ asks judge to force Google to sell Chrome, restrict Android from favoring Google's search engine, ban default search deals on iOS and other devices (Michael Liedtke/Associated Press)",
             "link": "http://www.techmeme.com/241120/p43#a241120p43",
             "published": "Wed, 20 Nov 2024 23:22:50 -0500"
         },
@@ -14,23 +24,13 @@
             "title": "Australia introduces a bill in Parliament to ban children younger than 16 from social media; companies would face fines of up to AU$50M for violations (Rod McGuirk/Associated Press)",
             "link": "http://www.techmeme.com/241120/p41#a241120p41",
             "published": "Wed, 20 Nov 2024 22:00:40 -0500"
-        },
-        {
-            "title": "Neuralink receives approval from Canada to launch clinical trials of its brain implants and plans to run its first non-US trial with Toronto Western Hospital (Sarah McBride/Bloomberg)",
-            "link": "http://www.techmeme.com/241120/p40#a241120p40",
-            "published": "Wed, 20 Nov 2024 21:20:01 -0500"
-        },
-        {
-            "title": "Google researchers introduce AlphaQubit, a machine-learning decoder that surpasses existing methods in identifying and correcting quantum computing errors (Matt Swayne/The Quantum Insider)",
-            "link": "http://www.techmeme.com/241120/p39#a241120p39",
-            "published": "Wed, 20 Nov 2024 19:50:04 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "U.S. Plans to Propose Breakup of Google to Fix Search Monopoly",
+            "title": "U.S. Proposes Breakup of Google to Fix Search Monopoly",
             "link": "https://www.nytimes.com/2024/11/20/technology/google-search-remedies-doj.html",
-            "published": "Thu, 21 Nov 2024 03:54:39 +0000"
+            "published": "Thu, 21 Nov 2024 04:44:20 +0000"
         },
         {
             "title": "How Google Spent 15 Years Concealing Its Internal Conversations",
@@ -50,7 +50,7 @@
         {
             "title": "US Charges Gautam Adani With Fraud Over Bribery Scheme",
             "link": "https://www.nytimes.com/2024/11/20/technology/gautam-adani-bribery-charges.html",
-            "published": "Thu, 21 Nov 2024 03:35:51 +0000"
+            "published": "Thu, 21 Nov 2024 04:28:46 +0000"
         }
     ],
     "source_2": [
