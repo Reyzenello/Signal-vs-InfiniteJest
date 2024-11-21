@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Jensen Huang says \"foundation model pretraining scaling is intact\" and models like OpenAI's o1 could play a larger role in Nvidia's business moving forward (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/241121/p3#a241121p3",
+            "published": "Thu, 21 Nov 2024 02:05:01 -0500"
+        },
+        {
             "title": "A look at OpenScholar, an LLM for scientific research built by the Allen Institute for AI and the University of Washington that outperforms GPT-4o on accuracy (Michael Nu&ntilde;ez/VentureBeat)",
             "link": "http://www.techmeme.com/241121/p2#a241121p2",
             "published": "Thu, 21 Nov 2024 01:10:29 -0500"
@@ -19,11 +24,6 @@
             "title": "Filing: DOJ asks judge to force Google to sell Chrome, restrict Android from favoring Google's search engine, ban default search deals on iOS and other devices (Michael Liedtke/Associated Press)",
             "link": "http://www.techmeme.com/241120/p43#a241120p43",
             "published": "Wed, 20 Nov 2024 23:22:50 -0500"
-        },
-        {
-            "title": "OpenAI releases a free online course for K-12 teachers to integrate ChatGPT into their classrooms, but some educators remain skeptical about the technology (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241120/p42#a241120p42",
-            "published": "Wed, 20 Nov 2024 22:40:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US proposes breakup of Google to end search monopoly",
+            "link": "https://www.bbc.com/news/articles/cp81ppr3l9go",
+            "published": "Thu, 21 Nov 2024 06:33:20 GMT"
+        },
+        {
             "title": "'God's influencer' to be made first millennial saint in April",
             "link": "https://www.bbc.com/news/articles/cpvzpxgzpnlo",
             "published": "Wed, 20 Nov 2024 18:35:15 GMT"
@@ -73,11 +78,6 @@
             "title": "Instagram testing tool that resets all recommended posts",
             "link": "https://www.bbc.com/news/articles/cd6vpy8e6jvo",
             "published": "Tue, 19 Nov 2024 15:19:39 GMT"
-        },
-        {
-            "title": "Google reacts angrily to report it will have to sell Chrome",
-            "link": "https://www.bbc.com/news/articles/cy4g193qezno",
-            "published": "Tue, 19 Nov 2024 13:05:44 GMT"
         }
     ]
 }
