@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Threads is testing AI-generated summaries of what users are discussing, in the app's Trending Now section in the US, and Search and Trending Now improvements (Mia Sato/The Verge)",
+            "link": "http://www.techmeme.com/241122/p12#a241122p12",
+            "published": "Fri, 22 Nov 2024 11:00:58 -0500"
+        },
+        {
+            "title": "SCOTUS dismisses Meta's appeal of a lower court order reviving a shareholder lawsuit for allegedly misleading investors on the 2015 Cambridge Analytica scandal (Melissa Quinn/CBS News)",
+            "link": "http://www.techmeme.com/241122/p11#a241122p11",
+            "published": "Fri, 22 Nov 2024 10:55:04 -0500"
+        },
+        {
             "title": "Indian quick grocery delivery startup Zepto raises $350M at the same $5B valuation as its $340M raise in August; it has raised $1.35B since June 2024 (Manish Singh/TechCrunch)",
             "link": "http://www.techmeme.com/241122/p10#a241122p10",
             "published": "Fri, 22 Nov 2024 10:20:01 -0500"
@@ -11,46 +21,36 @@
             "published": "Fri, 22 Nov 2024 10:10:02 -0500"
         },
         {
-            "title": "Anthropic raised an additional $4B from Amazon, will make AWS its primary cloud partner, and is working with Annapurna Labs to develop new Trainium accelerators (Kyle Wiggers/TechCrunch)",
+            "title": "Anthropic raised another $4B from Amazon, will make AWS its primary training partner, and is working with Annapurna Labs to develop new Trainium accelerators (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241122/p8#a241122p8",
             "published": "Fri, 22 Nov 2024 09:20:01 -0500"
-        },
-        {
-            "title": "Three Nvidia customers spent a collective $12.6B in Q3, over a third of Nvidia's total $35.1B Q3 revenue; each of them spent $10B+ in the nine months to October (Christiaan Hetzner/Fortune)",
-            "link": "http://www.techmeme.com/241122/p7#a241122p7",
-            "published": "Fri, 22 Nov 2024 08:55:01 -0500"
-        },
-        {
-            "title": "The EU closes a four-year long investigation into Apple's rules for e-book and audiobook app developers after the complainant withdrew its complaint (Foo Yun Chee/Reuters)",
-            "link": "http://www.techmeme.com/241122/p6#a241122p6",
-            "published": "Fri, 22 Nov 2024 07:45:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk and Jeff Bezos Exchange Posts About Trump on X",
+            "link": "https://www.nytimes.com/2024/11/21/technology/musk-bezos-trump-x-posts.html",
+            "published": "Fri, 22 Nov 2024 16:06:22 +0000"
+        },
+        {
+            "title": "How to Use Bluesky If You\u2019re Leaving X",
+            "link": "https://www.nytimes.com/2024/11/21/technology/bluesky-social-media.html",
+            "published": "Thu, 21 Nov 2024 16:55:15 +0000"
+        },
         {
             "title": "US Proposes Forcing Google to Sell Chrome to Fix Search Monopoly",
             "link": "https://www.nytimes.com/2024/11/20/technology/google-search-chrome-doj.html",
             "published": "Thu, 21 Nov 2024 17:18:30 +0000"
         },
         {
-            "title": "How Google Spent 15 Years Concealing Its Internal Conversations",
-            "link": "https://www.nytimes.com/2024/11/20/technology/google-antitrust-employee-messages.html",
-            "published": "Thu, 21 Nov 2024 22:05:10 +0000"
-        },
-        {
-            "title": "Nvidia\u2019s Profit Doubles as A.I. Chip Sales Soar",
-            "link": "https://www.nytimes.com/2024/11/20/technology/nvidia-earnings-chips-ai.html",
-            "published": "Thu, 21 Nov 2024 00:17:17 +0000"
-        },
-        {
-            "title": "Gary Wang, a Top FTX Executive, Is Given No Prison Time",
-            "link": "https://www.nytimes.com/2024/11/20/technology/gary-wang-ftx-sentence.html",
-            "published": "Wed, 20 Nov 2024 20:16:38 +0000"
-        },
-        {
             "title": "Trump\u2019s Next Online Speech Cop + Doctors vs. ChatGPT + Hard Fork Crimes Division",
             "link": "https://www.nytimes.com/2024/11/22/podcasts/trumps-next-online-speech-cop-doctors-vs-chatgpt-hard-fork-crimes-division.html",
             "published": "Fri, 22 Nov 2024 12:00:05 +0000"
+        },
+        {
+            "title": "What Elon Musk Needs From China",
+            "link": "https://www.nytimes.com/2024/11/22/business/elon-musk-tesla-china.html",
+            "published": "Fri, 22 Nov 2024 16:00:15 +0000"
         }
     ],
     "source_2": [
