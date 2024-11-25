@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Threads begins testing an option to set For You, Following, or a custom feed as the default feed, another improvement seemingly sparked by Bluesky competition (Chris Welch/The Verge)",
+            "link": "http://www.techmeme.com/241125/p21#a241125p21",
+            "published": "Mon, 25 Nov 2024 13:50:16 -0500"
+        },
+        {
             "title": "Anthropic announces the Model Context Protocol, an open source standard for connecting AI assistants to data sources (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241125/p20#a241125p20",
             "published": "Mon, 25 Nov 2024 13:20:16 -0500"
@@ -19,33 +24,28 @@
             "title": "Sources: the prototypes of the thin iPhone are between 5 and 6 millimeters thick, and may be too thin for a physical SIM, which could dampen China sales (The Information)",
             "link": "http://www.techmeme.com/241125/p17#a241125p17",
             "published": "Mon, 25 Nov 2024 11:55:00 -0500"
-        },
-        {
-            "title": "Raspberry Pi Pico 2 W review: the new $7 microcontroller is low cost, faster, and adds more RAM and Wi-Fi connectivity, but still uses micro USB (Les Pounder/Tom's Hardware)",
-            "link": "http://www.techmeme.com/241125/p16#a241125p16",
-            "published": "Mon, 25 Nov 2024 11:00:45 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "U.S. Says Google Is an Ad Tech Monopolist, in Closing Arguments",
+            "link": "https://www.nytimes.com/2024/11/25/technology/google-advertising-monopoly.html",
+            "published": "Mon, 25 Nov 2024 19:15:25 +0000"
+        },
+        {
+            "title": "The \u2018Rocket Docket\u2019 Judge Who Will Decide the Fate of Google\u2019s Ad Technology",
+            "link": "https://www.nytimes.com/2024/11/25/technology/google-antitrust-leonie-brinkema.html",
+            "published": "Mon, 25 Nov 2024 19:06:05 +0000"
+        },
+        {
+            "title": "Washington Curtails Intel\u2019s Chip Grant After Company Stumbles",
+            "link": "https://www.nytimes.com/2024/11/24/business/washington-curtails-intel-grant.html",
+            "published": "Mon, 25 Nov 2024 03:02:47 +0000"
+        },
+        {
             "title": "Bluesky Is Turning Into a Strong X Alternative",
             "link": "https://www.nytimes.com/2024/11/22/technology/bluesky-x-alternative.html",
             "published": "Fri, 22 Nov 2024 16:30:06 +0000"
-        },
-        {
-            "title": "How to Use Bluesky If You\u2019re Leaving X",
-            "link": "https://www.nytimes.com/2024/11/21/technology/bluesky-social-media.html",
-            "published": "Thu, 21 Nov 2024 16:55:15 +0000"
-        },
-        {
-            "title": "Amazon Invests $4 Billion in Anthropic, Deepening Its A.I. Ties",
-            "link": "https://www.nytimes.com/2024/11/22/technology/amazon-anthropic-ai.html",
-            "published": "Sat, 23 Nov 2024 05:29:48 +0000"
-        },
-        {
-            "title": "Trump\u2019s Next Online Speech Cop + Doctors vs. ChatGPT + Hard Fork Crimes Division",
-            "link": "https://www.nytimes.com/2024/11/22/podcasts/trumps-next-online-speech-cop-doctors-vs-chatgpt-hard-fork-crimes-division.html",
-            "published": "Fri, 22 Nov 2024 12:00:05 +0000"
         },
         {
             "title": "An A.I. Granny Is Phone Scammers\u2019 Worst Nightmare",
