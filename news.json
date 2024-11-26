@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI, Meta, and Orange plan to train AI models on African languages, starting with Wolof and Pulaar, addressing a shortage for Africa's thousands of dialects (Bloomberg)",
+            "link": "http://www.techmeme.com/241126/p12#a241126p12",
+            "published": "Tue, 26 Nov 2024 07:45:04 -0500"
+        },
+        {
+            "title": "Bluesky says it is working to comply with EU rules and is consulting with its lawyers, after the bloc accused the social network of flouting its regulations (Gian Volpicelli/Bloomberg)",
+            "link": "http://www.techmeme.com/241126/p11#a241126p11",
+            "published": "Tue, 26 Nov 2024 07:20:00 -0500"
+        },
+        {
+            "title": "An interview with Margrethe Vestager, the EU's tech antitrust enforcer since 2014, on her \"partly successful\" tenure, US collaboration, Trump, the DSA, and more (Adam Satariano/New York Times)",
+            "link": "http://www.techmeme.com/241126/p10#a241126p10",
+            "published": "Tue, 26 Nov 2024 06:25:01 -0500"
+        },
+        {
             "title": "Cradle, which uses AI to help design proteins and says its SaaS model has proven popular, raised a $73M Series B led by IVP, after a $24M Series A in 2023 (Devin Coldewey/TechCrunch)",
             "link": "http://www.techmeme.com/241126/p9#a241126p9",
             "published": "Tue, 26 Nov 2024 06:05:12 -0500"
@@ -9,21 +24,6 @@
             "title": "Google proposes Search tweaks in Europe to comply with the DMA, including removing the map showing hotel locations and results in Germany, Belgium, and Estonia (Foo Yun Chee/Reuters)",
             "link": "http://www.techmeme.com/241126/p8#a241126p8",
             "published": "Tue, 26 Nov 2024 05:45:04 -0500"
-        },
-        {
-            "title": "Q&A with GoDaddy CEO Aman Bhutani on running the company since 2019, competing with social media, Squarespace, Wix, and more, AI, the Airo platform, and more (Nilay Patel/The Verge)",
-            "link": "http://www.techmeme.com/241126/p7#a241126p7",
-            "published": "Tue, 26 Nov 2024 05:30:02 -0500"
-        },
-        {
-            "title": "The US awards Intel up to $7.865B under the CHIPS Act to help build or expand plants in Arizona, New Mexico, Ohio, and Oregon, including $1B+ later in 2024 (Thomas Gryta/Wall Street Journal)",
-            "link": "http://www.techmeme.com/241126/p6#a241126p6",
-            "published": "Tue, 26 Nov 2024 05:15:02 -0500"
-        },
-        {
-            "title": "Huawei unveils the $760+ Mate 70 series, powered by its HarmonyOS Next, calling the flagship device the \"smartest\" Mate phone, as it faces US chip curbs (New York Times)",
-            "link": "http://www.techmeme.com/241126/p5#a241126p5",
-            "published": "Tue, 26 Nov 2024 04:55:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "LinkedIn: We're too boring for kids for social media ban",
+            "link": "https://www.bbc.com/news/articles/cx2dz2z72y8o",
+            "published": "Tue, 26 Nov 2024 12:41:52 GMT"
+        },
+        {
             "title": "MrBeast says game show allegations 'blown out of proportion'",
             "link": "https://www.bbc.com/news/articles/c5yxnddeyl0o",
             "published": "Tue, 26 Nov 2024 11:12:18 GMT"
@@ -73,11 +78,6 @@
             "title": "Thousands of PayPal customers report brief outage",
             "link": "https://www.bbc.com/news/articles/cly2exevgxxo",
             "published": "Thu, 21 Nov 2024 13:41:08 GMT"
-        },
-        {
-            "title": "Sell Chrome to end search monopoly, Google told",
-            "link": "https://www.bbc.com/news/articles/cp81ppr3l9go",
-            "published": "Thu, 21 Nov 2024 10:40:34 GMT"
         }
     ]
 }
