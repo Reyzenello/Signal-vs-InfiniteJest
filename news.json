@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "/dev/agents, which plans to build a cloud-based OS for AI agents that can work across phones, laptops, and cars, raised $56M, a source says at a $500M valuation (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/241126/p14#a241126p14",
+            "published": "Tue, 26 Nov 2024 09:15:00 -0500"
+        },
+        {
+            "title": "Interpol arrested 1,006 suspects in 19 African countries from September 2 to October 31 to clamp down on cybercrime that left 35,000 victims with $193M losses (Mark Banchereau/Associated Press)",
+            "link": "http://www.techmeme.com/241126/p13#a241126p13",
+            "published": "Tue, 26 Nov 2024 08:40:12 -0500"
+        },
+        {
             "title": "OpenAI, Meta, and Orange plan to train AI models on African languages, starting with Wolof and Pulaar, addressing a shortage for Africa's thousands of dialects (Bloomberg)",
             "link": "http://www.techmeme.com/241126/p12#a241126p12",
             "published": "Tue, 26 Nov 2024 07:45:04 -0500"
@@ -14,38 +24,28 @@
             "title": "An interview with Margrethe Vestager, the EU's tech antitrust enforcer since 2014, on her \"partly successful\" tenure, US collaboration, Trump, the DSA, and more (Adam Satariano/New York Times)",
             "link": "http://www.techmeme.com/241126/p10#a241126p10",
             "published": "Tue, 26 Nov 2024 06:25:01 -0500"
-        },
-        {
-            "title": "Cradle, which uses AI to help design proteins and says its SaaS model has proven popular, raised a $73M Series B led by IVP, after a $24M Series A in 2023 (Devin Coldewey/TechCrunch)",
-            "link": "http://www.techmeme.com/241126/p9#a241126p9",
-            "published": "Tue, 26 Nov 2024 06:05:12 -0500"
-        },
-        {
-            "title": "Google proposes Search tweaks in Europe to comply with the DMA, including removing the map showing hotel locations and results in Germany, Belgium, and Estonia (Foo Yun Chee/Reuters)",
-            "link": "http://www.techmeme.com/241126/p8#a241126p8",
-            "published": "Tue, 26 Nov 2024 05:45:04 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "U.S. Says Google Is an Ad Tech Monopolist, in Closing Arguments",
-            "link": "https://www.nytimes.com/2024/11/25/technology/google-advertising-monopoly.html",
-            "published": "Mon, 25 Nov 2024 20:44:40 +0000"
+            "title": "Margrethe Vestager, the World\u2019s Top Tech Cop, Is Making Her Exit",
+            "link": "https://www.nytimes.com/2024/11/26/technology/margrethe-vestager-eu-antitrust.html",
+            "published": "Tue, 26 Nov 2024 05:00:09 +0000"
+        },
+        {
+            "title": "Biden Cuts Intel\u2019s Chip Award",
+            "link": "https://www.nytimes.com/2024/11/26/business/economy/intel-chips-award-biden.html",
+            "published": "Tue, 26 Nov 2024 10:04:43 +0000"
+        },
+        {
+            "title": "Huawei Targets Apple with Advanced Chip Innovation in China",
+            "link": "https://www.nytimes.com/2024/11/26/business/china-huawei-mate-70.html",
+            "published": "Tue, 26 Nov 2024 09:02:39 +0000"
         },
         {
             "title": "The \u2018Rocket Docket\u2019 Judge Who Will Decide the Fate of Google\u2019s Ad Technology",
             "link": "https://www.nytimes.com/2024/11/25/technology/google-antitrust-leonie-brinkema.html",
             "published": "Mon, 25 Nov 2024 19:06:05 +0000"
-        },
-        {
-            "title": "Washington Curtails Intel\u2019s Chip Grant After Company Stumbles",
-            "link": "https://www.nytimes.com/2024/11/24/business/washington-curtails-intel-grant.html",
-            "published": "Mon, 25 Nov 2024 03:02:48 +0000"
-        },
-        {
-            "title": "Bluesky Is Turning Into a Strong X Alternative",
-            "link": "https://www.nytimes.com/2024/11/22/technology/bluesky-x-alternative.html",
-            "published": "Fri, 22 Nov 2024 16:30:06 +0000"
         },
         {
             "title": "Review: \u2018We Are Your Robots,\u2019 Still Tuning Up",
