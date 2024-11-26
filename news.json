@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Cradle, which uses AI to help design proteins and says its SaaS model has proven popular, raised a $73M Series B led by IVP, after a $24M Series A in 2023 (Devin Coldewey/TechCrunch)",
+            "link": "http://www.techmeme.com/241126/p9#a241126p9",
+            "published": "Tue, 26 Nov 2024 06:05:12 -0500"
+        },
+        {
+            "title": "Google proposes Search tweaks in Europe to comply with the DMA, including removing the map showing hotel locations and results in Germany, Belgium, and Estonia (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/241126/p8#a241126p8",
+            "published": "Tue, 26 Nov 2024 05:45:04 -0500"
+        },
+        {
+            "title": "Q&A with GoDaddy CEO Aman Bhutani on running the company since 2019, competing with social media, Squarespace, Wix, and more, AI, the Airo platform, and more (Nilay Patel/The Verge)",
+            "link": "http://www.techmeme.com/241126/p7#a241126p7",
+            "published": "Tue, 26 Nov 2024 05:30:02 -0500"
+        },
+        {
             "title": "The US awards Intel up to $7.865B under the CHIPS Act to help build or expand plants in Arizona, New Mexico, Ohio, and Oregon, including $1B+ later in 2024 (Thomas Gryta/Wall Street Journal)",
             "link": "http://www.techmeme.com/241126/p6#a241126p6",
             "published": "Tue, 26 Nov 2024 05:15:02 -0500"
@@ -9,21 +24,6 @@
             "title": "Huawei unveils the $760+ Mate 70 series, powered by its HarmonyOS Next, calling the flagship device the \"smartest\" Mate phone, as it faces US chip curbs (New York Times)",
             "link": "http://www.techmeme.com/241126/p5#a241126p5",
             "published": "Tue, 26 Nov 2024 04:55:00 -0500"
-        },
-        {
-            "title": "Drake launches legal action against UMG and Spotify for allegedly using bots, payola, and more to inflate Kendrick Lamar's Not Like Us, a track attacking Drake (Bill Donahue/Billboard)",
-            "link": "http://www.techmeme.com/241126/p4#a241126p4",
-            "published": "Tue, 26 Nov 2024 04:10:01 -0500"
-        },
-        {
-            "title": "Sources: Xiaomi prepares its own mobile chip for its smartphones, to reduce reliance on Qualcomm and MediaTek, with mass production expected to begin in 2025 (Bloomberg)",
-            "link": "http://www.techmeme.com/241126/p3#a241126p3",
-            "published": "Tue, 26 Nov 2024 01:50:00 -0500"
-        },
-        {
-            "title": "Sources: Apple held talks with local tech firms to help power Apple Intelligence in China; a CAC official says approval will be difficult without local partners (Financial Times)",
-            "link": "http://www.techmeme.com/241126/p2#a241126p2",
-            "published": "Tue, 26 Nov 2024 01:00:38 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "MrBeast says game show allegations 'blown out of proportion'",
+            "link": "https://www.bbc.com/news/articles/c5yxnddeyl0o",
+            "published": "Tue, 26 Nov 2024 11:12:18 GMT"
+        },
+        {
             "title": "Conservationists turn to AI in battle to save red squirrels",
             "link": "https://www.bbc.com/news/articles/cd6vwy30pv8o",
             "published": "Sat, 23 Nov 2024 07:42:07 GMT"
@@ -73,11 +78,6 @@
             "title": "Sell Chrome to end search monopoly, Google told",
             "link": "https://www.bbc.com/news/articles/cp81ppr3l9go",
             "published": "Thu, 21 Nov 2024 10:40:34 GMT"
-        },
-        {
-            "title": "Bluesky chief doesn't know age limit for platform",
-            "link": "https://www.bbc.com/news/articles/c238y83l48jo",
-            "published": "Thu, 21 Nov 2024 11:27:04 GMT"
         }
     ]
 }
