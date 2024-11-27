@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: investigators suspect Chinese ship Yi Peng 3 dragged its anchor for 100+ miles to sever two Baltic internet cables, possibly at the behest of Russia (Bojan Pancevski/Wall Street Journal)",
+            "link": "http://www.techmeme.com/241127/p20#a241127p20",
+            "published": "Wed, 27 Nov 2024 10:20:01 -0500"
+        },
+        {
+            "title": "Sony says it has sold 160M+ PlayStation 2 consoles globally since its 2000 launch, the highest-selling console of all time ahead of the Nintendo DS and Switch (Alex Stedman/IGN)",
+            "link": "http://www.techmeme.com/241127/p19#a241127p19",
+            "published": "Wed, 27 Nov 2024 10:05:01 -0500"
+        },
+        {
+            "title": "Italy, Europol, and others say they dismantled a pirate streaming service that redistributed IPTV, Sky, and more, served 22M+ users, and made &euro;250M per month (Bill Toulas/BleepingComputer)",
+            "link": "http://www.techmeme.com/241127/p18#a241127p18",
+            "published": "Wed, 27 Nov 2024 09:35:04 -0500"
+        },
+        {
             "title": "Analysis: Elon Musk posted about Trump's cabinet picks 70+ times from November 7 to 20 to promote his preferred candidates; Trump picked others in several cases (Reuters)",
             "link": "http://www.techmeme.com/241127/p17#a241127p17",
             "published": "Wed, 27 Nov 2024 09:20:00 -0500"
         },
         {
-            "title": "US police are testing Axon's Draft One, an AI tool that generates police reports directly from Axon's bodycam audio, with 75 officers in Colorado and elsewhere (Barbara Booth/CNBC)",
+            "title": "US police in California, Colorado, and Indiana are testing Draft One, Axon's AI tool that generates police reports from Axon's bodycam audio, with 75 officers (Barbara Booth/CNBC)",
             "link": "http://www.techmeme.com/241127/p16#a241127p16",
             "published": "Wed, 27 Nov 2024 08:40:00 -0500"
-        },
-        {
-            "title": "A look at the UK's planned Digital Markets Unit, which will regulate US tech companies under the DMCC, passed in May 2024, and have the power to halt any M&A (Ashley Rindsberg/Pirate Wires)",
-            "link": "http://www.techmeme.com/241127/p15#a241127p15",
-            "published": "Wed, 27 Nov 2024 08:05:02 -0500"
-        },
-        {
-            "title": "Sources: Guangzhou-based self-driving company Pony.AI raised $260M after pricing its US IPO at $13 per share, the top of the range, implying a ~$4.5B valuation (Bloomberg)",
-            "link": "http://www.techmeme.com/241127/p14#a241127p14",
-            "published": "Wed, 27 Nov 2024 07:30:08 -0500"
-        },
-        {
-            "title": "Sources: Elon Musk's xAI plans to debut a consumer app as soon as December; the startup built its Colossus data center, which uses 100K Nvidia GPUs, in 122 days (Wall Street Journal)",
-            "link": "http://www.techmeme.com/241127/p13#a241127p13",
-            "published": "Wed, 27 Nov 2024 07:05:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US regulator says AI scanner 'deceived' users after BBC story",
+            "link": "https://www.bbc.com/news/articles/c9dlz3y0pl0o",
+            "published": "Wed, 27 Nov 2024 15:18:22 GMT"
+        },
+        {
             "title": "LinkedIn: We're too boring for kids for social media ban",
             "link": "https://www.bbc.com/news/articles/cx2dz2z72y8o",
             "published": "Tue, 26 Nov 2024 12:41:52 GMT"
@@ -73,11 +78,6 @@
             "title": "Temu owner's shares slump as China slowdown hits sales",
             "link": "https://www.bbc.com/news/articles/c5yxzqdq2qqo",
             "published": "Fri, 22 Nov 2024 04:14:30 GMT"
-        },
-        {
-            "title": "Thousands of PayPal customers report brief outage",
-            "link": "https://www.bbc.com/news/articles/cly2exevgxxo",
-            "published": "Thu, 21 Nov 2024 13:41:08 GMT"
         }
     ]
 }
