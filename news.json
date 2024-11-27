@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google Chat is rolling out huddles to let users instantly start an audio-first meeting, with a floating window displaying controls to add video or share screens (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/241127/p34#a241127p34",
+            "published": "Wed, 27 Nov 2024 18:20:02 -0500"
+        },
+        {
+            "title": "Spotify will no longer allow developers building new third-party apps with its Web API to access several features, such as song and artist recommendations (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/241127/p33#a241127p33",
+            "published": "Wed, 27 Nov 2024 17:50:01 -0500"
+        },
+        {
             "title": "US filing: Google sent subpoenas in October 2024 to OpenAI, Perplexity AI, and Microsoft for the remedies part of the US v. Google search antitrust trial (Marty Swant/Digiday)",
             "link": "http://www.techmeme.com/241127/p32#a241127p32",
             "published": "Wed, 27 Nov 2024 17:15:02 -0500"
@@ -14,16 +24,6 @@
             "title": "Sriram Krishnan, a general partner at a16z, is leaving the firm; source: he has talked to Elon Musk about joining the Department of Government Efficiency (The Information)",
             "link": "http://www.techmeme.com/241127/p30#a241127p30",
             "published": "Wed, 27 Nov 2024 16:10:28 -0500"
-        },
-        {
-            "title": "T-Mobile's CSO says \"suspicious behavior, discovery-type commands\" on the company's network devices tipped it off to the suspected Salt Typhoon-linked breach (Kelcee Griffis/Bloomberg)",
-            "link": "http://www.techmeme.com/241127/p29#a241127p29",
-            "published": "Wed, 27 Nov 2024 16:01:01 -0500"
-        },
-        {
-            "title": "Sources: Trump's team interviewed Paul Atkins, a former SEC commissioner and strong proponent of crypto and fintech companies, as a candidate to lead the SEC (Bloomberg)",
-            "link": "http://www.techmeme.com/241127/p28#a241127p28",
-            "published": "Wed, 27 Nov 2024 15:45:01 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Mon, 25 Nov 2024 19:06:05 +0000"
         },
         {
-            "title": "Trump\u2019s Tariffs Would Deal a Big Blow to the Auto Industry",
-            "link": "https://www.nytimes.com/2024/11/26/business/trump-tariffs-mexico-canada-cars.html",
-            "published": "Tue, 26 Nov 2024 22:24:27 +0000"
+            "title": "F.T.C. Launches Antitrust Investigation Into Microsoft",
+            "link": "https://www.nytimes.com/2024/11/27/technology/microsoft-ftc-antitrust.html",
+            "published": "Wed, 27 Nov 2024 23:18:59 +0000"
         }
     ],
     "source_2": [
