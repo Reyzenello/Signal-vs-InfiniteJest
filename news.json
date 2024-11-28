@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Alibaba releases QwQ-32B-Preview under an Apache 2.0 license and claims the \"reasoning\" AI model beats OpenAI's o1 models on the AIME and MATH tests (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/241128/p8#a241128p8",
+            "published": "Thu, 28 Nov 2024 05:20:05 -0500"
+        },
+        {
+            "title": "Call center workers in the Philippines, where an estimated 86% of white-collar workers already use AI, say generative AI tools have made work more demanding (Michael Beltran/Rest of World)",
+            "link": "http://www.techmeme.com/241128/p7#a241128p7",
+            "published": "Thu, 28 Nov 2024 04:35:04 -0500"
+        },
+        {
             "title": "Incoming FCC chairman Brendan Carr's censorial agenda, which is couched in the language of free speech, may be the biggest threat to the 1A in quite a long time (Mike Masnick/Techdirt)",
             "link": "http://www.techmeme.com/241128/p6#a241128p6",
             "published": "Thu, 28 Nov 2024 02:45:03 -0500"
@@ -11,19 +21,9 @@
             "published": "Thu, 28 Nov 2024 02:15:01 -0500"
         },
         {
-            "title": "Ofcom: adults in the UK are now spending an average of 4 hours and 20 minutes daily online across devices, a jump from 3 hours and 41 minutes in 2023 (Ingrid Lunden/TechCrunch)",
+            "title": "Ofcom: UK adults are now spending an average of four hours and 20 minutes daily online across devices, a jump from three hours and 41 minutes in 2023 (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/241128/p4#a241128p4",
             "published": "Thu, 28 Nov 2024 02:05:14 -0500"
-        },
-        {
-            "title": "DefiLlama: the total market cap for stablecoins has risen 46% in 2024 to a record ~$190B, regaining ground lost after TerraUSD's infamous collapse in 2022 (Sidhartha Shukla/Bloomberg)",
-            "link": "http://www.techmeme.com/241128/p3#a241128p3",
-            "published": "Thu, 28 Nov 2024 01:00:58 -0500"
-        },
-        {
-            "title": "The US FTC finalizes amendments to its Telemarketing Sales Rule, letting the agency pursue scam tech support companies even when consumers initiate the calls (Umar Shakir/The Verge)",
-            "link": "http://www.techmeme.com/241128/p2#a241128p2",
-            "published": "Thu, 28 Nov 2024 00:50:00 -0500"
         }
     ],
     "source_1": [
@@ -55,14 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "'It's so easy to lie': A fifth of children use fake age on social media",
+            "link": "https://www.bbc.com/news/articles/cn4v52ezx17o",
+            "published": "Thu, 28 Nov 2024 00:05:12 GMT"
+        },
+        {
             "title": "Uber probed by US regulator over subscription plan",
             "link": "https://www.bbc.com/news/articles/c8xp0enrkl8o",
             "published": "Thu, 28 Nov 2024 06:36:44 GMT"
-        },
-        {
-            "title": "Do 'much, much more' on age verification, social media firms told",
-            "link": "https://www.bbc.com/news/articles/cn4v52ezx17o",
-            "published": "Thu, 28 Nov 2024 00:05:12 GMT"
         },
         {
             "title": "US regulator says AI scanner 'deceived' users after BBC story",
