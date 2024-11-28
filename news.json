@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Filing: Intel's $7.86B US government subsidy requires the company to own at least 50.1% of Intel Foundry if the unit is split into a new privately held entity (Stephen Nellis/Reuters)",
+            "link": "http://www.techmeme.com/241127/p38#a241127p38",
+            "published": "Wed, 27 Nov 2024 20:45:18 -0500"
+        },
+        {
+            "title": "On Joe Rogan's podcast, Marc Andreessen criticizes the \"raw administrative power\" of US agencies like the CFPB, SEC, and FTC, discusses Elon Musk and DOGE, more (Ana Altchek/Business Insider)",
+            "link": "http://www.techmeme.com/241127/p37#a241127p37",
+            "published": "Wed, 27 Nov 2024 19:50:01 -0500"
+        },
+        {
+            "title": "Filing: Zoom offers $18M to settle an SEC probe from 2020 over the company's privacy policies and communications, as its popularity surged during the pandemic (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/241127/p36#a241127p36",
+            "published": "Wed, 27 Nov 2024 19:10:14 -0500"
+        },
+        {
+            "title": "Romania's regulator calls for TikTok's suspension after an ultranationalist's shock first-round win fueled by viral TikTok videos, amid vote interference fears (Jon Henley/The Guardian)",
+            "link": "http://www.techmeme.com/241127/p35#a241127p35",
+            "published": "Wed, 27 Nov 2024 18:45:03 -0500"
+        },
+        {
             "title": "Google Chat is rolling out huddles to let users instantly start an audio-first meeting, with a floating window displaying controls to add video or share screens (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/241127/p34#a241127p34",
             "published": "Wed, 27 Nov 2024 18:20:02 -0500"
-        },
-        {
-            "title": "Spotify will no longer allow developers building new third-party apps with its Web API to access several features, such as song and artist recommendations (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/241127/p33#a241127p33",
-            "published": "Wed, 27 Nov 2024 17:50:01 -0500"
-        },
-        {
-            "title": "US filing: Google sent subpoenas in October 2024 to OpenAI, Perplexity AI, and Microsoft for the remedies part of the US v. Google search antitrust trial (Marty Swant/Digiday)",
-            "link": "http://www.techmeme.com/241127/p32#a241127p32",
-            "published": "Wed, 27 Nov 2024 17:15:02 -0500"
-        },
-        {
-            "title": "Sources: US FTC has opened an antitrust investigation of Microsoft, focusing on its cloud and software licensing business and its cybersecurity and AI products (Bloomberg)",
-            "link": "http://www.techmeme.com/241127/p31#a241127p31",
-            "published": "Wed, 27 Nov 2024 16:19:09 -0500"
-        },
-        {
-            "title": "Sriram Krishnan, a general partner at a16z, is leaving the firm; source: he has talked to Elon Musk about joining the Department of Government Efficiency (The Information)",
-            "link": "http://www.techmeme.com/241127/p30#a241127p30",
-            "published": "Wed, 27 Nov 2024 16:10:28 -0500"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "F.T.C. Launches Antitrust Investigation Into Microsoft",
             "link": "https://www.nytimes.com/2024/11/27/technology/microsoft-ftc-antitrust.html",
-            "published": "Wed, 27 Nov 2024 23:18:59 +0000"
+            "published": "Thu, 28 Nov 2024 01:13:25 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Do 'much, much more' on age verification, social media firms told",
+            "link": "https://www.bbc.com/news/articles/cn4v52ezx17o",
+            "published": "Thu, 28 Nov 2024 00:05:12 GMT"
+        },
         {
             "title": "US regulator says AI scanner 'deceived' users after BBC story",
             "link": "https://www.bbc.com/news/articles/c9dlz3y0pl0o",
@@ -73,11 +78,6 @@
             "title": "Conservationists turn to AI in battle to save red squirrels",
             "link": "https://www.bbc.com/news/articles/cd6vwy30pv8o",
             "published": "Sat, 23 Nov 2024 07:42:07 GMT"
-        },
-        {
-            "title": "Temu owner's shares slump as China slowdown hits sales",
-            "link": "https://www.bbc.com/news/articles/c5yxzqdq2qqo",
-            "published": "Fri, 22 Nov 2024 04:14:30 GMT"
         }
     ]
 }
