@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Reddit COO Jen Wong says ~50% of current users are located outside the US, and the company is developing new search tools to simplify navigation on Reddit (Arjun Kharpal/CNBC)",
+            "link": "http://www.techmeme.com/241128/p9#a241128p9",
+            "published": "Thu, 28 Nov 2024 06:10:17 -0500"
+        },
+        {
             "title": "Alibaba releases QwQ-32B-Preview under an Apache 2.0 license and claims the \"reasoning\" AI model beats OpenAI's o1 models on the AIME and MATH tests (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241128/p8#a241128p8",
             "published": "Thu, 28 Nov 2024 05:20:05 -0500"
@@ -19,11 +24,6 @@
             "title": "Ofcom: Reddit was visited by 22.9M UK adults in May 2024, up 47% YoY, making it the fifth most popular social media platform in the UK, surpassing X at 22.1M (Dan Milmo/The Guardian)",
             "link": "http://www.techmeme.com/241128/p5#a241128p5",
             "published": "Thu, 28 Nov 2024 02:15:01 -0500"
-        },
-        {
-            "title": "Ofcom: UK adults are now spending an average of four hours and 20 minutes daily online across devices, a jump from three hours and 41 minutes in 2023 (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/241128/p4#a241128p4",
-            "published": "Thu, 28 Nov 2024 02:05:14 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Thu, 28 Nov 2024 00:05:12 GMT"
         },
         {
+            "title": "Mark Zuckerberg dines with Donald Trump at Mar-a-Lago",
+            "link": "https://www.bbc.com/news/articles/c87x98q8y08o",
+            "published": "Thu, 28 Nov 2024 10:28:50 GMT"
+        },
+        {
             "title": "Uber probed by US regulator over subscription plan",
             "link": "https://www.bbc.com/news/articles/c8xp0enrkl8o",
             "published": "Thu, 28 Nov 2024 06:36:44 GMT"
@@ -73,11 +78,6 @@
             "title": "LinkedIn: We're too boring for kids for social media ban",
             "link": "https://www.bbc.com/news/articles/cx2dz2z72y8o",
             "published": "Tue, 26 Nov 2024 12:41:52 GMT"
-        },
-        {
-            "title": "MrBeast says game show allegations 'blown out of proportion'",
-            "link": "https://www.bbc.com/news/articles/c5yxnddeyl0o",
-            "published": "Tue, 26 Nov 2024 11:12:18 GMT"
         }
     ]
 }
