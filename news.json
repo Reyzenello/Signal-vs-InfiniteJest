@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The German government plans new chip subsidies, sources say about &euro;2B, two months after Intel shelved plans to build a &euro;30B factory in Magdeburg (Christina Kyriasoglou/Bloomberg)",
+            "link": "http://www.techmeme.com/241128/p22#a241128p22",
+            "published": "Thu, 28 Nov 2024 20:01:12 -0500"
+        },
+        {
+            "title": "The EU ends its long-running probe into whether Amazon received illegal tax benefits worth &euro;250M from Luxembourg, where Amazon's EU HQ is, after court losses (Natasha Lomas/TechCrunch)",
+            "link": "http://www.techmeme.com/241128/p21#a241128p21",
+            "published": "Thu, 28 Nov 2024 18:45:02 -0500"
+        },
+        {
+            "title": "Details of Australia's social media ban for kids remain unclear, such as how to enforce it and what platforms it covers; kids and parents won't face punishment (Victoria Kim/New York Times)",
+            "link": "http://www.techmeme.com/241128/p20#a241128p20",
+            "published": "Thu, 28 Nov 2024 18:25:13 -0500"
+        },
+        {
             "title": "Experts worry about the unintended consequences of Australia's controversial but popular social media ban on under-16s; Meta, TikTok, and X expressed concerns (Bloomberg)",
             "link": "http://www.techmeme.com/241128/p19#a241128p19",
             "published": "Thu, 28 Nov 2024 16:45:00 -0500"
@@ -9,21 +24,6 @@
             "title": "Canada's Competition Bureau sues Google over alleged anti-competitive conduct in online advertising, seeking Google to sell two of its ad tech tools and more (Ismail Shakil/Reuters)",
             "link": "http://www.techmeme.com/241128/p18#a241128p18",
             "published": "Thu, 28 Nov 2024 16:05:01 -0500"
-        },
-        {
-            "title": "In a risk assessment submitted to the EU in September 2023, X defended its new approach to content policing and \"mission to promote open conversation\" (Mathieu Pollet/Politico)",
-            "link": "http://www.techmeme.com/241128/p17#a241128p17",
-            "published": "Thu, 28 Nov 2024 15:00:50 -0500"
-        },
-        {
-            "title": "Memo: Revolut tells ex-staff who were at the startup for 2+ years and held $100K+ in vested stock that they can join a secondary share sale at a $45B valuation (Aisha S Gani/Bloomberg)",
-            "link": "http://www.techmeme.com/241128/p16#a241128p16",
-            "published": "Thu, 28 Nov 2024 13:45:01 -0500"
-        },
-        {
-            "title": "An ex-staffer sues Binance for dismissing her for allegedly raising concerns about a co-worker taking a bribe; Binance says she was fired for poor performance (Bloomberg)",
-            "link": "http://www.techmeme.com/241128/p15#a241128p15",
-            "published": "Thu, 28 Nov 2024 12:23:58 -0500"
         }
     ],
     "source_1": [
@@ -48,16 +48,26 @@
             "published": "Mon, 25 Nov 2024 19:06:05 +0000"
         },
         {
-            "title": "F.T.C. Launches Antitrust Investigation Into Microsoft",
-            "link": "https://www.nytimes.com/2024/11/27/technology/microsoft-ftc-antitrust.html",
-            "published": "Thu, 28 Nov 2024 01:13:25 +0000"
+            "title": "Canada Accuses Google of Creating Advertising Tech Monopoly",
+            "link": "https://www.nytimes.com/2024/11/28/world/canada/google-complaint-ad-monopoly.html",
+            "published": "Fri, 29 Nov 2024 00:53:34 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Top-selling mobile games breaking rules on loot boxes",
+            "link": "https://www.bbc.com/news/articles/c748ww9y9nno",
+            "published": "Fri, 29 Nov 2024 00:04:47 GMT"
+        },
+        {
             "title": "'It's so easy to lie': A fifth of children use fake age on social media",
             "link": "https://www.bbc.com/news/articles/cn4v52ezx17o",
             "published": "Thu, 28 Nov 2024 00:05:12 GMT"
+        },
+        {
+            "title": "Canada watchdog sues Google over alleged anti-competitive conduct",
+            "link": "https://www.bbc.com/news/articles/cd7n1rx04l1o",
+            "published": "Thu, 28 Nov 2024 23:05:00 GMT"
         },
         {
             "title": "Mark Zuckerberg dines with Donald Trump at Mar-a-Lago",
@@ -68,16 +78,6 @@
             "title": "Uber probed by US regulator over subscription plan",
             "link": "https://www.bbc.com/news/articles/c8xp0enrkl8o",
             "published": "Thu, 28 Nov 2024 06:36:44 GMT"
-        },
-        {
-            "title": "US regulator says AI scanner 'deceived' users after BBC story",
-            "link": "https://www.bbc.com/news/articles/c9dlz3y0pl0o",
-            "published": "Wed, 27 Nov 2024 15:18:22 GMT"
-        },
-        {
-            "title": "LinkedIn: We're too boring for kids for social media ban",
-            "link": "https://www.bbc.com/news/articles/cx2dz2z72y8o",
-            "published": "Tue, 26 Nov 2024 12:41:52 GMT"
         }
     ]
 }
