@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI says it plans to build data centers in parts of the US Midwest and Southwest; sources: OpenAI is spending $5B+ a year and is \"not close to breaking even\" (Financial Times)",
+            "link": "http://www.techmeme.com/241130/p6#a241130p6",
+            "published": "Sat, 30 Nov 2024 13:10:08 -0500"
+        },
+        {
             "title": "Salesforce says online Black Friday sales hit $74.4B globally, up 5% YoY, and $17.5B in the US, up 7% YoY; Adobe says US online sales hit $10.8B, up 10.2% YoY (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/241130/p5#a241130p5",
             "published": "Sat, 30 Nov 2024 12:15:01 -0500"
@@ -19,11 +24,6 @@
             "title": "The Commonwealth Bank of Australia says generative AI tools have helped it lower frauds by 30% and reduce call center customer wait times by 40% in 2024 (Harry Brumpton/Bloomberg)",
             "link": "http://www.techmeme.com/241130/p2#a241130p2",
             "published": "Sat, 30 Nov 2024 07:35:14 -0500"
-        },
-        {
-            "title": "How Tony Sayegh, head of public affairs at a major TikTok investor and an official in the first Trump admin, led the effort to win Trump's support for TikTok (Wall Street Journal)",
-            "link": "http://www.techmeme.com/241130/p1#a241130p1",
-            "published": "Sat, 30 Nov 2024 02:30:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Why so many games are failing right now - and why others are breakout hits",
+            "link": "https://www.bbc.com/news/articles/czeg2p3wjy1o",
+            "published": "Sat, 30 Nov 2024 03:03:59 GMT"
+        },
+        {
+            "title": "Cate Blanchett 'deeply concerned' by AI impact",
+            "link": "https://www.bbc.com/news/articles/clygy87nleqo",
+            "published": "Sat, 30 Nov 2024 13:03:14 GMT"
+        },
+        {
             "title": "Top-selling mobile games break rules on loot boxes",
             "link": "https://www.bbc.com/news/articles/c748ww9y9nno",
             "published": "Fri, 29 Nov 2024 00:04:47 GMT"
@@ -68,16 +78,6 @@
             "title": "Canada watchdog sues Google over alleged anti-competitive conduct",
             "link": "https://www.bbc.com/news/articles/cd7n1rx04l1o",
             "published": "Thu, 28 Nov 2024 23:05:00 GMT"
-        },
-        {
-            "title": "Mark Zuckerberg dines with Donald Trump at Mar-a-Lago",
-            "link": "https://www.bbc.com/news/articles/c87x98q8y08o",
-            "published": "Thu, 28 Nov 2024 10:28:50 GMT"
-        },
-        {
-            "title": "Uber probed by US regulator over subscription plan",
-            "link": "https://www.bbc.com/news/articles/c8xp0enrkl8o",
-            "published": "Thu, 28 Nov 2024 06:36:44 GMT"
         }
     ]
 }
