@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Indonesia's OJK: ~137M citizens owed 66T rupiah (~$4.1B) in outstanding digital lending debt in September 2024, up from 18.6M users owing 13.16T rupiah in 2019 (Nikkei Asia)",
+            "link": "http://www.techmeme.com/241203/p7#a241203p7",
+            "published": "Tue, 03 Dec 2024 04:20:00 -0500"
+        },
+        {
+            "title": "Early tests show Perplexity's AI shopping agent, which lets users make purchases within its app, sometimes takes hours to process purchases or runs into issues (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/241203/p6#a241203p6",
+            "published": "Tue, 03 Dec 2024 03:55:00 -0500"
+        },
+        {
             "title": "Preqin data shows the US accounted for 83% of VC funding in G7 economies over the past decade; OECD data shows AI VC funding in China is second only to the US (Financial Times)",
             "link": "http://www.techmeme.com/241203/p5#a241203p5",
             "published": "Tue, 03 Dec 2024 02:30:06 -0500"
@@ -14,16 +24,6 @@
             "title": "An email and documents show Google's Project Nimbus deal with Israel isn't subject to Google's general TOS, but an \"adjusted\" TOS drafted by Google and Israel (Sam Biddle/The Intercept)",
             "link": "http://www.techmeme.com/241203/p3#a241203p3",
             "published": "Tue, 03 Dec 2024 01:25:01 -0500"
-        },
-        {
-            "title": "Chinese government data: generative AI users in China reached 230M at the end of June 2024; Ernie Bot had an 11.5% share, ChatGPT had 7.8%, and Gemini had 3.8% (Iris Deng/South China Morning Post)",
-            "link": "http://www.techmeme.com/241203/p2#a241203p2",
-            "published": "Tue, 03 Dec 2024 01:00:35 -0500"
-        },
-        {
-            "title": "The NCSC says the UK faces a \"widening gap\" in its ability to fight cyber threats, and \"severe\" incidents handled by the agency tripled to 12 in the past year (John Paul Rathbone/Financial Times)",
-            "link": "http://www.techmeme.com/241203/p1#a241203p1",
-            "published": "Tue, 03 Dec 2024 00:50:13 -0500"
         }
     ],
     "source_1": [
@@ -62,7 +62,7 @@
         {
             "title": "Musk's record $56bn pay deal rejected for second time",
             "link": "https://www.bbc.com/news/articles/cyv3pzm4178o",
-            "published": "Tue, 03 Dec 2024 08:28:22 GMT"
+            "published": "Tue, 03 Dec 2024 08:56:36 GMT"
         },
         {
             "title": "Why are doctors wary of wearables?",
