@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "China says it has banned shipments to the US of several \"dual-use\" minerals and metals used in chipmaking and military applications, after new US chip rules (Ryan McMorrow/Financial Times)",
+            "link": "http://www.techmeme.com/241203/p10#a241203p10",
+            "published": "Tue, 03 Dec 2024 06:15:03 -0500"
+        },
+        {
+            "title": "Internal docs: in early 2021, Google's lawyers, policy team, and more worried that its $1.2B Project Nimbus deal with Israel may enable human rights violations (Nico Grant/New York Times)",
+            "link": "http://www.techmeme.com/241203/p9#a241203p9",
+            "published": "Tue, 03 Dec 2024 05:40:02 -0500"
+        },
+        {
             "title": "European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection (Sylvia Pfeifer/Financial Times)",
             "link": "http://www.techmeme.com/241203/p8#a241203p8",
             "published": "Tue, 03 Dec 2024 05:20:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Early tests show Perplexity's AI shopping agent, which lets users make purchases within its app, sometimes takes hours to process purchases or runs into issues (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/241203/p6#a241203p6",
             "published": "Tue, 03 Dec 2024 03:55:00 -0500"
-        },
-        {
-            "title": "Preqin data shows the US accounted for 83% of VC funding in G7 economies over the past decade; OECD data shows AI VC funding in China is second only to the US (Financial Times)",
-            "link": "http://www.techmeme.com/241203/p5#a241203p5",
-            "published": "Tue, 03 Dec 2024 02:30:06 -0500"
-        },
-        {
-            "title": "Sources and documents: troubled IT firm Atos is largely responsible for issues delaying the roll out of the EU's biometric Entry/Exit border system to 2025 (Bloomberg)",
-            "link": "http://www.techmeme.com/241203/p4#a241203p4",
-            "published": "Tue, 03 Dec 2024 01:50:00 -0500"
         }
     ],
     "source_1": [
@@ -44,8 +44,8 @@
         },
         {
             "title": "Google Worried Israeli Contract Could Enable Human Rights Violations",
-            "link": "https://www.nytimes.com/2024/12/03/technology/google-worried-israeli-contract-could-enable-human-rights-violations.html",
-            "published": "Tue, 03 Dec 2024 10:00:13 +0000"
+            "link": "https://www.nytimes.com/2024/12/03/technology/google-israel-contract-project-nimbus.html",
+            "published": "Tue, 03 Dec 2024 10:00:14 +0000"
         },
         {
             "title": "What\u2019s Next for Google\u2019s Search Monopoly",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Microsoft faces \u00a31bn class action case in UK over software prices",
+            "link": "https://www.bbc.com/news/articles/c20wjnxr5ldo",
+            "published": "Tue, 03 Dec 2024 11:00:12 GMT"
+        },
         {
             "title": "Stunning or rubbish? Jaguar's new concept car divides opinion",
             "link": "https://www.bbc.com/news/articles/czen5y97yjzo",
@@ -73,11 +78,6 @@
             "title": "'Roll your eyes if you want, I'm a star': TikTok to hold first awards show",
             "link": "https://www.bbc.com/news/articles/c8j9l3jjxe3o",
             "published": "Tue, 03 Dec 2024 02:33:40 GMT"
-        },
-        {
-            "title": "Why so many games are failing right now - and why others are breakout hits",
-            "link": "https://www.bbc.com/news/articles/czeg2p3wjy1o",
-            "published": "Sat, 30 Nov 2024 03:03:59 GMT"
         }
     ]
 }
