@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "FTC bans location data providers Gravy and subsidiary Venntel as well as Mobilewalla from using or selling data related to sensitive locations and more (Joseph Cox/404 Media)",
+            "link": "http://www.techmeme.com/241203/p17#a241203p17",
+            "published": "Tue, 03 Dec 2024 11:10:00 -0500"
+        },
+        {
             "title": "Sources: Intel starts shortlisting a handful of CEO candidates, including former board member Lip-Bu Tan, who left in August 2024 after clashing with Gelsinger (Milana Vinn/Reuters)",
             "link": "http://www.techmeme.com/241203/p16#a241203p16",
             "published": "Tue, 03 Dec 2024 09:36:38 -0500"
@@ -19,29 +24,9 @@
             "title": "Nick Clegg says Mark Zuckerberg is keen to play \"an active role\" in Trump admin tech policy debates and Meta \"overdid it a bit\" when moderating pandemic content (Hannah Murphy/Financial Times)",
             "link": "http://www.techmeme.com/241203/p13#a241203p13",
             "published": "Tue, 03 Dec 2024 08:11:13 -0500"
-        },
-        {
-            "title": "The CFPB proposes limiting data brokers' ability to sell Americans' personal and financial info, after the National Public Data breach discovered in April 2024 (Gaby Del Valle/The Verge)",
-            "link": "http://www.techmeme.com/241203/p12#a241203p12",
-            "published": "Tue, 03 Dec 2024 06:55:01 -0500"
         }
     ],
     "source_1": [
-        {
-            "title": "Intel CEO Pat Gelsinger Steps Down Amid Chipmaker\u2019s Struggles",
-            "link": "https://www.nytimes.com/2024/12/02/technology/intel-ceo-pat-gelsinger.html",
-            "published": "Mon, 02 Dec 2024 22:56:55 +0000"
-        },
-        {
-            "title": "Canada Accuses Google of Creating Advertising Tech Monopoly",
-            "link": "https://www.nytimes.com/2024/11/28/world/canada/google-complaint-ad-monopoly.html",
-            "published": "Fri, 29 Nov 2024 00:53:34 +0000"
-        },
-        {
-            "title": "F.T.C. Launches Antitrust Investigation Into Microsoft",
-            "link": "https://www.nytimes.com/2024/11/27/technology/microsoft-ftc-antitrust.html",
-            "published": "Thu, 28 Nov 2024 01:13:25 +0000"
-        },
         {
             "title": "Google Worried Israeli Contract Could Enable Human Rights Violations",
             "link": "https://www.nytimes.com/2024/12/03/technology/google-israel-contract-project-nimbus.html",
@@ -51,6 +36,21 @@
             "title": "What\u2019s Next for Google\u2019s Search Monopoly",
             "link": "https://www.nytimes.com/2024/12/03/technology/google-search-antitrust-judge.html",
             "published": "Tue, 03 Dec 2024 08:00:10 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s $50 Billion Tesla Pay Can\u2019t Be Reinstated, Delaware Judge Rules",
+            "link": "https://www.nytimes.com/2024/12/02/business/elon-musk-tesla-pay-ruling.html",
+            "published": "Tue, 03 Dec 2024 10:13:37 +0000"
+        },
+        {
+            "title": "Intel CEO Pat Gelsinger Steps Down Amid Chipmaker\u2019s Struggles",
+            "link": "https://www.nytimes.com/2024/12/02/technology/intel-ceo-pat-gelsinger.html",
+            "published": "Mon, 02 Dec 2024 22:56:55 +0000"
+        },
+        {
+            "title": "G.M. Will Sell Stake in EV Battery Plant to LG",
+            "link": "https://www.nytimes.com/2024/12/02/business/gm-ev-batteries-lg.html",
+            "published": "Mon, 02 Dec 2024 21:37:56 +0000"
         }
     ],
     "source_2": [
