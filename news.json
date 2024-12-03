@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Yurts, which has contracts to develop generative AI for the US Army, Air Force, and others, raised a $40M Series B led by XYZ, taking its total raised to $58.4M (Margaux MacColl/TechCrunch)",
+            "link": "http://www.techmeme.com/241203/p15#a241203p15",
+            "published": "Tue, 03 Dec 2024 09:15:01 -0500"
+        },
+        {
+            "title": "TikTok says it removed a network covertly campaigning for Calin Georgescu, whose shock victory in the recent Romanian election threw the country into crisis (Gian Volpicelli/Bloomberg)",
+            "link": "http://www.techmeme.com/241203/p14#a241203p14",
+            "published": "Tue, 03 Dec 2024 08:56:22 -0500"
+        },
+        {
             "title": "Nick Clegg says Mark Zuckerberg is keen to play \"an active role\" in Trump admin tech policy debates and Meta \"overdid it a bit\" when moderating pandemic content (Hannah Murphy/Financial Times)",
             "link": "http://www.techmeme.com/241203/p13#a241203p13",
             "published": "Tue, 03 Dec 2024 08:11:13 -0500"
@@ -14,16 +24,6 @@
             "title": "A US law firm files an antitrust lawsuit against Microsoft with the UK's Competition Appeal Tribunal over how it charges users who buy services that rival Azure (Edith Hancock/Wall Street Journal)",
             "link": "http://www.techmeme.com/241203/p11#a241203p11",
             "published": "Tue, 03 Dec 2024 06:40:03 -0500"
-        },
-        {
-            "title": "China says it has banned shipments to the US of several \"dual-use\" minerals and metals used in chipmaking and military applications, after new US chip rules (Financial Times)",
-            "link": "http://www.techmeme.com/241203/p10#a241203p10",
-            "published": "Tue, 03 Dec 2024 06:15:03 -0500"
-        },
-        {
-            "title": "Internal docs: in early 2021, Google's lawyers, policy team, and more worried that its $1.2B Project Nimbus deal with Israel may enable human rights violations (Nico Grant/New York Times)",
-            "link": "http://www.techmeme.com/241203/p9#a241203p9",
-            "published": "Tue, 03 Dec 2024 05:40:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "People not AI will make games, PlayStation boss says",
+            "link": "https://www.bbc.com/news/articles/c4gpz291z59o",
+            "published": "Tue, 03 Dec 2024 14:11:28 GMT"
+        },
+        {
             "title": "Microsoft faces \u00a31bn class action case in UK over software prices",
             "link": "https://www.bbc.com/news/articles/c20wjnxr5ldo",
             "published": "Tue, 03 Dec 2024 11:00:12 GMT"
@@ -73,11 +78,6 @@
             "title": "Why are doctors wary of wearables?",
             "link": "https://www.bbc.com/news/articles/c79zpzdv4vno",
             "published": "Mon, 02 Dec 2024 01:36:30 GMT"
-        },
-        {
-            "title": "'Roll your eyes if you want, I'm a star': TikTok to hold first awards show",
-            "link": "https://www.bbc.com/news/articles/c8j9l3jjxe3o",
-            "published": "Tue, 03 Dec 2024 02:33:40 GMT"
         }
     ]
 }
