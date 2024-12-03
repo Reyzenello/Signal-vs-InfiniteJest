@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Indonesia's OJK: ~137M citizens owed 66T rupiah (~$4.1B) in outstanding digital lending debt in September 2024, up from 18.6M users owing 13.16T rupiah in 2019 (Nikkei Asia)",
+            "title": "European defense tech startup Helsing unveils its first AI attack drone, which can fly up to 100km and re-identify and engage targets without a data connection (Sylvia Pfeifer/Financial Times)",
+            "link": "http://www.techmeme.com/241203/p8#a241203p8",
+            "published": "Tue, 03 Dec 2024 05:20:01 -0500"
+        },
+        {
+            "title": "Indonesia's OJK: ~137M citizens owed 66T rupiah (~$4.1B) in outstanding digital lending debt in September 2024, up from 18.6M users owing 13.16T rupiah in 2019 (Ismi Damayanti/Nikkei Asia)",
             "link": "http://www.techmeme.com/241203/p7#a241203p7",
             "published": "Tue, 03 Dec 2024 04:20:00 -0500"
         },
@@ -19,11 +24,6 @@
             "title": "Sources and documents: troubled IT firm Atos is largely responsible for issues delaying the roll out of the EU's biometric Entry/Exit border system to 2025 (Bloomberg)",
             "link": "http://www.techmeme.com/241203/p4#a241203p4",
             "published": "Tue, 03 Dec 2024 01:50:00 -0500"
-        },
-        {
-            "title": "An email and documents show Google's Project Nimbus deal with Israel isn't subject to Google's general TOS, but an \"adjusted\" TOS drafted by Google and Israel (Sam Biddle/The Intercept)",
-            "link": "http://www.techmeme.com/241203/p3#a241203p3",
-            "published": "Tue, 03 Dec 2024 01:25:01 -0500"
         }
     ],
     "source_1": [
@@ -43,21 +43,21 @@
             "published": "Thu, 28 Nov 2024 01:13:25 +0000"
         },
         {
+            "title": "Google Worried Israeli Contract Could Enable Human Rights Violations",
+            "link": "https://www.nytimes.com/2024/12/03/technology/google-worried-israeli-contract-could-enable-human-rights-violations.html",
+            "published": "Tue, 03 Dec 2024 10:00:13 +0000"
+        },
+        {
             "title": "What\u2019s Next for Google\u2019s Search Monopoly",
             "link": "https://www.nytimes.com/2024/12/03/technology/google-search-antitrust-judge.html",
             "published": "Tue, 03 Dec 2024 08:00:10 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s $50 Billion Tesla Pay Can\u2019t Be Reinstated, Delaware Judge Rules",
-            "link": "https://www.nytimes.com/2024/12/02/business/elon-musk-tesla-pay-ruling.html",
-            "published": "Tue, 03 Dec 2024 01:43:59 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Jaguar's new electric concept car divides opinion",
+            "title": "Stunning or rubbish? Jaguar's new concept car divides opinion",
             "link": "https://www.bbc.com/news/articles/czen5y97yjzo",
-            "published": "Tue, 03 Dec 2024 08:22:32 GMT"
+            "published": "Tue, 03 Dec 2024 10:10:29 GMT"
         },
         {
             "title": "Musk's record $56bn pay deal rejected for second time",
