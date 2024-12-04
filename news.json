@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Sam Altman says OpenAI plans to kick off a \"shipmas\" period of features and products for 12 days on December 5, sources say including text-to-video AI tool Sora (The Verge)",
+            "title": "Google DeepMind unveils GenCast, an AI weather model that outperforms traditional methods on forecasts up to 15 days and is better at foreseeing extreme events (William J. Broad/New York Times)",
+            "link": "http://www.techmeme.com/241204/p40#a241204p40",
+            "published": "Wed, 04 Dec 2024 11:10:02 -0500"
+        },
+        {
+            "title": "The UK NCA uncovers a Russian multibillion-dollar money laundering scheme that let Russian spies, European drug traffickers, and more evade sanctions via crypto (Financial Times)",
+            "link": "http://www.techmeme.com/241204/p39#a241204p39",
+            "published": "Wed, 04 Dec 2024 11:05:13 -0500"
+        },
+        {
+            "title": "Sam Altman says OpenAI will begin 12 days of \"shipmas\" on December 5, with new features, products, and demos, sources say including text-to-video AI tool Sora (The Verge)",
             "link": "http://www.techmeme.com/241204/p38#a241204p38",
             "published": "Wed, 04 Dec 2024 10:15:02 -0500"
         },
@@ -14,19 +24,14 @@
             "title": "DC's AG sues Amazon for allegedly secretly stopping its fastest delivery service to the nearly 50K Prime subscribers in historically lower-income neighborhoods (Cecilia Kang/New York Times)",
             "link": "http://www.techmeme.com/241204/p36#a241204p36",
             "published": "Wed, 04 Dec 2024 09:45:01 -0500"
-        },
-        {
-            "title": "Sources: Apple and Baidu are working to add AI features to Chinese iPhones but have clashed over model training data, and the models have struggled with prompts (The Information)",
-            "link": "http://www.techmeme.com/241204/p35#a241204p35",
-            "published": "Wed, 04 Dec 2024 09:40:03 -0500"
-        },
-        {
-            "title": "iVerify says its Mobile Threat Hunting tool, launched in May 2024, found seven Pegasus infections after scanning 2,500 devices, some owned by business leaders (Lily Hay Newman/Wired)",
-            "link": "http://www.techmeme.com/241204/p34#a241204p34",
-            "published": "Wed, 04 Dec 2024 09:25:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Amazon Sued Over Slow Deliveries to Low-Income Areas",
+            "link": "https://www.nytimes.com/2024/12/04/technology/amazon-prime-delivery-lawsuit.html",
+            "published": "Wed, 04 Dec 2024 14:58:47 +0000"
+        },
         {
             "title": "Nvidia Rules A.I. Chips, but Amazon and AMD Emerge as Contenders",
             "link": "https://www.nytimes.com/2024/12/03/technology/nvidia-ai-chips.html",
@@ -43,14 +48,9 @@
             "published": "Tue, 03 Dec 2024 08:00:10 +0000"
         },
         {
-            "title": "Elon Musk\u2019s $50 Billion Tesla Pay Can\u2019t Be Reinstated, Delaware Judge Rules",
-            "link": "https://www.nytimes.com/2024/12/02/business/elon-musk-tesla-pay-ruling.html",
-            "published": "Tue, 03 Dec 2024 10:13:37 +0000"
-        },
-        {
-            "title": "Amazon Sued Over Slow Deliveries to Low-Income Areas",
-            "link": "https://www.nytimes.com/2024/12/04/technology/amazon-prime-delivery-lawsuit.html",
-            "published": "Wed, 04 Dec 2024 14:58:47 +0000"
+            "title": "Google Introduces A.I. Agent That Aces 15-Day Weather Forecasts",
+            "link": "https://www.nytimes.com/2024/12/04/science/google-ai-weather-forecast.html",
+            "published": "Wed, 04 Dec 2024 16:00:04 +0000"
         }
     ],
     "source_2": [
