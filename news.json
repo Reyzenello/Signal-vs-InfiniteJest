@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at ex-CEO Pat Gelsinger's history at Intel, the setbacks he faced in trying to turn the company around, and why investors may have lost confidence in him (Sean Hollister/The Verge)",
+            "link": "http://www.techmeme.com/241204/p1#a241204p1",
+            "published": "Wed, 04 Dec 2024 00:25:02 -0500"
+        },
+        {
             "title": "Ubisoft will shut down its free-to-play shooter XDefiant, with servers remaining on until June 3, 2025, and plans to cut ~277 people from the production team (Nicole Carpenter/Polygon)",
             "link": "http://www.techmeme.com/241203/p37#a241203p37",
             "published": "Tue, 03 Dec 2024 22:20:18 -0500"
@@ -19,23 +24,18 @@
             "title": "Sources: Meta's internal coding tool, Metamate, incorporates OpenAI's GPT-4 alongside Llama to make the tool more useful for developers and other Meta staff (Kali Hays/Fortune)",
             "link": "http://www.techmeme.com/241203/p34#a241203p34",
             "published": "Tue, 03 Dec 2024 19:10:00 -0500"
-        },
-        {
-            "title": "Vodka maker Stoli says an August 2024 ransomware attack contributed to the bankruptcy filing of its US arm, amid its ongoing issues with the Russian government (Jonathan Greig/The Record)",
-            "link": "http://www.techmeme.com/241203/p33#a241203p33",
-            "published": "Tue, 03 Dec 2024 18:55:02 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Nvidia Rules A.I. Chips, but Amazon and AMD Emerge as Contenders",
             "link": "https://www.nytimes.com/2024/12/03/technology/nvidia-ai-chips.html",
-            "published": "Tue, 03 Dec 2024 22:53:00 +0000"
+            "published": "Tue, 03 Dec 2024 22:53:01 +0000"
         },
         {
             "title": "Google Worried Israeli Contract Could Enable Human Rights Violations",
             "link": "https://www.nytimes.com/2024/12/03/technology/google-israel-contract-project-nimbus.html",
-            "published": "Tue, 03 Dec 2024 19:13:41 +0000"
+            "published": "Tue, 03 Dec 2024 19:13:42 +0000"
         },
         {
             "title": "What\u2019s Next for Google\u2019s Search Monopoly",
@@ -50,10 +50,15 @@
         {
             "title": "G.M. Will Sell Stake in EV Battery Plant to LG",
             "link": "https://www.nytimes.com/2024/12/02/business/gm-ev-batteries-lg.html",
-            "published": "Mon, 02 Dec 2024 21:37:56 +0000"
+            "published": "Mon, 02 Dec 2024 21:37:57 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Telegram U-turns and joins child safety scheme",
+            "link": "https://www.bbc.com/news/articles/c5yd35l0r91o",
+            "published": "Wed, 04 Dec 2024 04:56:55 GMT"
+        },
         {
             "title": "People not AI will make games, PlayStation boss says",
             "link": "https://www.bbc.com/news/articles/c4gpz291z59o",
@@ -73,11 +78,6 @@
             "title": "Musk's record $56bn pay deal rejected for second time",
             "link": "https://www.bbc.com/news/articles/cyv3pzm4178o",
             "published": "Tue, 03 Dec 2024 08:56:36 GMT"
-        },
-        {
-            "title": "Why are doctors wary of wearables?",
-            "link": "https://www.bbc.com/news/articles/c79zpzdv4vno",
-            "published": "Mon, 02 Dec 2024 01:36:30 GMT"
         }
     ]
 }
