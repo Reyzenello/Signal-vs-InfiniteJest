@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Bitcoin reached $100K for the first time after rallying ~126% since January 2024, driven by Bitcoin ETF demand, April's halving, and Donald Trump's election win (Helen Partz/Cointelegraph)",
+            "link": "http://www.techmeme.com/241204/p53#a241204p53",
+            "published": "Wed, 04 Dec 2024 21:55:01 -0500"
+        },
+        {
+            "title": "TikTok Shop says its US sales tripled to over $100M on Black Friday and it drew a 165% annual increase in shoppers on the two days leading up to Cyber Monday (Alexandra S. Levine/Bloomberg)",
+            "link": "http://www.techmeme.com/241204/p52#a241204p52",
+            "published": "Wed, 04 Dec 2024 21:25:02 -0500"
+        },
+        {
             "title": "The White House says the Salt Typhoon hack has impacted eight telecom firms in the US, with dozens of other countries also affected, for as long as two years (Greg Otto/CyberScoop)",
             "link": "http://www.techmeme.com/241204/p51#a241204p51",
             "published": "Wed, 04 Dec 2024 20:20:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Amazon is rolling out a Buy with AWS button that software companies can add to their websites as a way for customers with AWS accounts to pay for services (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/241204/p49#a241204p49",
             "published": "Wed, 04 Dec 2024 18:45:03 -0500"
-        },
-        {
-            "title": "First impressions of Amazon Nova LLMs: they are competitive with Google Gemini, among the cheapest available, and may position Amazon as a top model provider (Simon Willison/Simon Willison's Weblog)",
-            "link": "http://www.techmeme.com/241204/p48#a241204p48",
-            "published": "Wed, 04 Dec 2024 18:10:01 -0500"
-        },
-        {
-            "title": "xAI plans to expand its Colossus supercomputer tenfold to incorporate more than 1M GPUs; work has already begun to increase the size of its facility in Memphis (Financial Times)",
-            "link": "http://www.techmeme.com/241204/p47#a241204p47",
-            "published": "Wed, 04 Dec 2024 16:55:02 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 03 Dec 2024 08:00:10 +0000"
         },
         {
-            "title": "Google Introduces A.I. Agent That Aces 15-Day Weather Forecasts",
-            "link": "https://www.nytimes.com/2024/12/04/science/google-ai-weather-forecast.html",
-            "published": "Wed, 04 Dec 2024 16:00:04 +0000"
+            "title": "Bitcoin Price Surges to a Milestone: $100,000",
+            "link": "https://www.nytimes.com/2024/12/04/technology/bitcoin-price-record.html",
+            "published": "Thu, 05 Dec 2024 03:04:53 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Bitcoin hits $100k - and seven other wild moments in its history",
+            "link": "https://www.bbc.com/news/articles/cqj0wkwv1x2o",
+            "published": "Thu, 05 Dec 2024 02:46:19 GMT"
+        },
         {
             "title": "Telegram U-turns and joins child safety scheme",
             "link": "https://www.bbc.com/news/articles/c5yd35l0r91o",
@@ -73,11 +78,6 @@
             "title": "Stunning or rubbish? Jaguar's new concept car divides opinion",
             "link": "https://www.bbc.com/news/articles/czen5y97yjzo",
             "published": "Tue, 03 Dec 2024 19:37:41 GMT"
-        },
-        {
-            "title": "Musk's record $56bn pay deal rejected for second time",
-            "link": "https://www.bbc.com/news/articles/cyv3pzm4178o",
-            "published": "Tue, 03 Dec 2024 08:56:36 GMT"
         }
     ]
 }
