@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A deep dive into Amazon's Trainium2, which shows the company is on a path to eventually provide competitive custom AI chips, especially for LLM inference (SemiAnalysis)",
+            "link": "http://www.techmeme.com/241205/p10#a241205p10",
+            "published": "Thu, 05 Dec 2024 02:45:15 -0500"
+        },
+        {
+            "title": "Intel interim co-CEO David Zinsner maintains Intel's financial forecast and says he expects the next CEO to have some capability around both foundry and product (Zaheer Kachwala/Reuters)",
+            "link": "http://www.techmeme.com/241205/p9#a241205p9",
+            "published": "Thu, 05 Dec 2024 02:30:01 -0500"
+        },
+        {
             "title": "At the DealBook Summit, Sundar Pichai said he would love to do a side-by-side comparison of Google and Microsoft's AI models, and expressed optimism about Trump (Nico Grant/New York Times)",
             "link": "http://www.techmeme.com/241205/p8#a241205p8",
             "published": "Thu, 05 Dec 2024 02:15:04 -0500"
@@ -14,16 +24,6 @@
             "title": "Enterpret, which lets companies automatically extract insights from customer feedback, raised a $20.8M Series A led by Canaan, bringing its total raised to $25M (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241205/p6#a241205p6",
             "published": "Thu, 05 Dec 2024 01:15:05 -0500"
-        },
-        {
-            "title": "At the DealBook Summit, Jeff Bezos said he is \"very hopeful\" about President-elect Donald Trump and praised his deregulatory agenda, and Elon Musk's leadership (New York Times)",
-            "link": "http://www.techmeme.com/241205/p5#a241205p5",
-            "published": "Thu, 05 Dec 2024 00:58:57 -0500"
-        },
-        {
-            "title": "Three members of Google's NotebookLM team, including its lead Raiza Martin, are leaving to launch a startup focused on building \"a user-first AI product\" (Charles Rollet/TechCrunch)",
-            "link": "http://www.techmeme.com/241205/p4#a241205p4",
-            "published": "Thu, 05 Dec 2024 00:45:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Vodafone-Three \u00a316.5bn merger gets the go-ahead",
+            "link": "https://www.bbc.com/news/articles/cp3z96x0199o",
+            "published": "Thu, 05 Dec 2024 08:12:22 GMT"
+        },
+        {
             "title": "Bitcoin crosses $100k - and seven other wild moments in its history",
             "link": "https://www.bbc.com/news/articles/cqj0wkwv1x2o",
             "published": "Thu, 05 Dec 2024 03:20:29 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft faces \u00a31bn class action case in UK over software prices",
             "link": "https://www.bbc.com/news/articles/c20wjnxr5ldo",
             "published": "Tue, 03 Dec 2024 11:00:12 GMT"
-        },
-        {
-            "title": "Stunning or rubbish? Jaguar's new concept car divides opinion",
-            "link": "https://www.bbc.com/news/articles/czen5y97yjzo",
-            "published": "Tue, 03 Dec 2024 19:37:41 GMT"
         }
     ]
 }
