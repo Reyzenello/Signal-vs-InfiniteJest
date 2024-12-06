@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: OpenAI is discussing ditching a clause that cuts off Microsoft's access to OpenAI tech if OpenAI develops AGI, so that Microsoft can continue investing (Financial Times)",
+            "link": "http://www.techmeme.com/241206/p11#a241206p11",
+            "published": "Fri, 06 Dec 2024 07:50:12 -0500"
+        },
+        {
+            "title": "An evaluation of six frontier AI models for in-context scheming when strongly nudged to pursue a goal: only OpenAI's o1 was capable of scheming in all the tests (Marius Hobbhahn/Apollo Research)",
+            "link": "http://www.techmeme.com/241206/p10#a241206p10",
+            "published": "Fri, 06 Dec 2024 06:55:03 -0500"
+        },
+        {
             "title": "Uber and Chinese autonomous vehicle company WeRide launch a commercial robotaxi service in Abu Dhabi, marking Uber's first international AV offering (Rebecca Bellan/TechCrunch)",
             "link": "http://www.techmeme.com/241206/p9#a241206p9",
             "published": "Fri, 06 Dec 2024 06:10:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Industry insiders believe Pat Gelsinger's hasty exit could be a prelude to Intel moving away from manufacturing its chips altogether, in a blow to US ambitions (Financial Times)",
             "link": "http://www.techmeme.com/241206/p7#a241206p7",
             "published": "Fri, 06 Dec 2024 04:30:12 -0500"
-        },
-        {
-            "title": "Amazon, AMD, and others are beginning to offer credible alternatives to Nvidia's AI chips, especially for inferencing, which is becoming increasingly important (Don Clark/New York Times)",
-            "link": "http://www.techmeme.com/241206/p6#a241206p6",
-            "published": "Fri, 06 Dec 2024 02:35:05 -0500"
-        },
-        {
-            "title": "An interview with Amazon CTO Werner Vogels on the culture needed to attract top engineers, fighting misinformation through open-source intelligence, and more (Frederic Lardinois/TechCrunch)",
-            "link": "http://www.techmeme.com/241206/p5#a241206p5",
-            "published": "Fri, 06 Dec 2024 02:25:04 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Thu, 05 Dec 2024 10:04:15 +0000"
         },
         {
-            "title": "Spotify Wrapped Falls Flat for Some",
-            "link": "https://www.nytimes.com/2024/12/05/style/spotify-wrapped-2024.html",
-            "published": "Thu, 05 Dec 2024 10:06:12 +0000"
+            "title": "Is Intel Cooked? + What\u2019s Your P(Dyson Sphere)? + Hard Fork Gift Guide",
+            "link": "https://www.nytimes.com/2024/12/06/podcasts/is-intel-cooked-whats-your-p-dyson-sphere-hard-fork-gift-guide.html",
+            "published": "Fri, 06 Dec 2024 12:00:08 +0000"
         }
     ],
     "source_2": [
