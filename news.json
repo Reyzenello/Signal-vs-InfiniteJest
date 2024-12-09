@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Oracle reports Q2 revenue up 9% YoY to $14.06B, vs. $14.1B est., says it made a deal with Meta for training Llama models on its cloud; ORCL down 6%+ after hours (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/241209/p26#a241209p26",
+            "published": "Mon, 09 Dec 2024 16:26:31 -0500"
+        },
+        {
             "title": "OpenAI says the depiction of minors is limited with Sora, and only a \"subset\" of users can create videos of a real person using uploaded footage of that person (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241209/p25#a241209p25",
             "published": "Mon, 09 Dec 2024 14:55:19 -0500"
@@ -19,11 +24,6 @@
             "title": "Review of OpenAI's Sora video generator: excels at depicting landscapes, people, stylistic content, but it often fails with basic physics like object permanence (Marques Brownlee/Marques Brownlee on YouTube)",
             "link": "http://www.techmeme.com/241209/p22#a241209p22",
             "published": "Mon, 09 Dec 2024 12:00:45 -0500"
-        },
-        {
-            "title": "Google says it had a major quantum error correction breakthrough, unveils its Willow quantum chip with 105 improved qubits, and shares benchmarks and a roadmap (John Russell/HPCwire)",
-            "link": "http://www.techmeme.com/241209/p21#a241209p21",
-            "published": "Mon, 09 Dec 2024 11:16:49 -0500"
         }
     ],
     "source_1": [
