@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Review of OpenAI's Sora video generator: excels at depicting landscapes, people, stylistic content, but it often fails with basic physics like object permanence (Marques Brownlee/Marques Brownlee on YouTube)",
+            "link": "http://www.techmeme.com/241209/p22#a241209p22",
+            "published": "Mon, 09 Dec 2024 12:00:45 -0500"
+        },
+        {
             "title": "Google says it had a major quantum error correction breakthrough, unveils its Willow quantum chip with 105 improved qubits, and shares benchmarks and a roadmap (John Russell/HPCwire)",
             "link": "http://www.techmeme.com/241209/p21#a241209p21",
             "published": "Mon, 09 Dec 2024 11:16:49 -0500"
@@ -19,11 +24,6 @@
             "title": "Filing: TikTok asks a US court to put on hold a law forcing a sale or ban of the app until SCOTUS can review it and the Trump admin can decide its position (Sabrina Willmer/Bloomberg)",
             "link": "http://www.techmeme.com/241209/p18#a241209p18",
             "published": "Mon, 09 Dec 2024 09:45:02 -0500"
-        },
-        {
-            "title": "WaveForms, which aims to create AI assistants that pick up on emotional cues from verbal interactions, raised a $40M seed from a16z at a $200M valuation (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/241209/p17#a241209p17",
-            "published": "Mon, 09 Dec 2024 09:15:00 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "TikTok asks for emergency pause to looming US ban",
             "link": "https://www.bbc.com/news/articles/c5yx7e2lx3yo",
-            "published": "Mon, 09 Dec 2024 15:25:18 GMT"
+            "published": "Mon, 09 Dec 2024 16:41:06 GMT"
         },
         {
             "title": "Google unveils 'mind-boggling' quantum computing chip",
