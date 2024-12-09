@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A look at Grand Theft Auto VI, set for release in 2025 after Rockstar started development in 2018, as Rockstar tries to improve its culture after the 2022 hack (Jason Schreier/Bloomberg)",
+            "link": "http://www.techmeme.com/241209/p15#a241209p15",
+            "published": "Mon, 09 Dec 2024 08:30:02 -0500"
+        },
+        {
+            "title": "Ukrainian officials worry over Telegram, which has soared in popularity during the war with Russia, questioning if its upsides outweigh the its security risks (New York Times)",
+            "link": "http://www.techmeme.com/241209/p14#a241209p14",
+            "published": "Mon, 09 Dec 2024 08:05:14 -0500"
+        },
+        {
             "title": "Russian documents and sources detail how Putin's forces have been able to keep buying US chips, including $6M from Texas Instruments, via a Russian distributor (Bloomberg)",
             "link": "http://www.techmeme.com/241209/p13#a241209p13",
             "published": "Mon, 09 Dec 2024 07:50:01 -0500"
@@ -11,19 +21,9 @@
             "published": "Mon, 09 Dec 2024 07:35:15 -0500"
         },
         {
-            "title": "Chinese state media: the State Administration for Market Regulation opened an investigation into Nvidia over allegedly breaking anti-monopoly laws (Amy Thomson/Bloomberg)",
+            "title": "Chinese state media: the State Administration for Market Regulation opened an anti-monopoly investigation into Nvidia tied to its Mellanox acquisition in 2020 (Amy Thomson/Bloomberg)",
             "link": "http://www.techmeme.com/241209/p11#a241209p11",
             "published": "Mon, 09 Dec 2024 07:20:00 -0500"
-        },
-        {
-            "title": "A look at Intel's problems, starting with 2016's 10nm node: 7/11 board members have no chip experience, most CEO options are worse than Pat Gelsinger, and more (SemiAnalysis)",
-            "link": "http://www.techmeme.com/241209/p10#a241209p10",
-            "published": "Mon, 09 Dec 2024 07:05:00 -0500"
-        },
-        {
-            "title": "A look at Trump's potential collision course with the EU over its Big Tech crackdown: the EU targeting Elon Musk and X, Apple's and Meta's fines, and more (Bloomberg)",
-            "link": "http://www.techmeme.com/241209/p9#a241209p9",
-            "published": "Mon, 09 Dec 2024 06:50:01 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 06 Dec 2024 12:00:08 +0000"
         },
         {
-            "title": "Ukraine Weighs Telegram Security Risks Amid War With Russia",
-            "link": "https://www.nytimes.com/2024/12/09/technology/ukraine-russia-telegram-security.html",
-            "published": "Mon, 09 Dec 2024 10:00:29 +0000"
+            "title": "Nvidia Faces Antitrust Investigation in China",
+            "link": "https://www.nytimes.com/2024/12/09/technology/china-nvidia-investigation-antitrust-ai.html",
+            "published": "Mon, 09 Dec 2024 13:19:04 +0000"
         }
     ],
     "source_2": [
