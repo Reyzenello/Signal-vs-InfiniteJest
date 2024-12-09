@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google says it had a major quantum error correction breakthrough, unveils its Willow quantum chip with 105 improved qubits, and shares benchmarks and a roadmap (John Russell/HPCwire)",
+            "link": "http://www.techmeme.com/241209/p21#a241209p21",
+            "published": "Mon, 09 Dec 2024 11:16:49 -0500"
+        },
+        {
             "title": "Q&A with Microsoft AI CEO Mustafa Suleyman on AGI, Copilot, AI agents, the OpenAI deal, joining Microsoft in March 2024, managing ~10K staff, DeepMind, and more (Nilay Patel/The Verge)",
             "link": "http://www.techmeme.com/241209/p20#a241209p20",
             "published": "Mon, 09 Dec 2024 10:20:00 -0500"
@@ -19,41 +24,46 @@
             "title": "WaveForms, which aims to create AI assistants that pick up on emotional cues from verbal interactions, raised a $40M seed from a16z at a $200M valuation (Rachel Metz/Bloomberg)",
             "link": "http://www.techmeme.com/241209/p17#a241209p17",
             "published": "Mon, 09 Dec 2024 09:15:00 -0500"
-        },
-        {
-            "title": "Reddit says it is testing Reddit Answers, which lets select US users ask questions and receive curated summaries of relevant responses and threads in English (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/241209/p16#a241209p16",
-            "published": "Mon, 09 Dec 2024 09:10:12 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "TikTok Faces U.S. Ban After Appeals Court Denies Bid to Overturn New Law",
-            "link": "https://www.nytimes.com/2024/12/06/business/media/tiktok-ban-court-decision.html",
-            "published": "Fri, 06 Dec 2024 20:19:04 +0000"
-        },
-        {
-            "title": "Bitcoin Price Surges to a Milestone: $100,000",
-            "link": "https://www.nytimes.com/2024/12/04/technology/bitcoin-price-record.html",
-            "published": "Thu, 05 Dec 2024 04:28:23 +0000"
-        },
-        {
-            "title": "How Jensen Huang, CEO of Nvidia, Is Avoiding Billions in Taxes",
-            "link": "https://www.nytimes.com/2024/12/05/business/nvidia-jensen-huang-estate-taxes.html",
-            "published": "Thu, 05 Dec 2024 10:02:14 +0000"
-        },
-        {
-            "title": "Is Intel Cooked? + What\u2019s Your P(Dyson Sphere)? + Hard Fork Gift Guide",
-            "link": "https://www.nytimes.com/2024/12/06/podcasts/is-intel-cooked-whats-your-p-dyson-sphere-hard-fork-gift-guide.html",
-            "published": "Fri, 06 Dec 2024 12:00:08 +0000"
+            "title": "Ukraine Weighs Telegram Security Risks Amid War With Russia",
+            "link": "https://www.nytimes.com/2024/12/09/technology/ukraine-russia-telegram-security.html",
+            "published": "Mon, 09 Dec 2024 10:00:30 +0000"
         },
         {
             "title": "Nvidia Faces Antitrust Investigation in China",
             "link": "https://www.nytimes.com/2024/12/09/technology/china-nvidia-investigation-antitrust-ai.html",
             "published": "Mon, 09 Dec 2024 14:28:04 +0000"
+        },
+        {
+            "title": "Apple Faces Lawsuit Over Child Sexual Abuse Material on iCloud",
+            "link": "https://www.nytimes.com/2024/12/08/technology/apple-child-sexual-abuse-material-lawsuit.html",
+            "published": "Sun, 08 Dec 2024 15:53:28 +0000"
+        },
+        {
+            "title": "On These Apps, the Dark Promise of Mothers Sexually Abusing Children",
+            "link": "https://www.nytimes.com/2024/12/07/us/child-abuse-apple-google-apps.html",
+            "published": "Sun, 08 Dec 2024 15:46:13 +0000"
+        },
+        {
+            "title": "Google Makes New Quantum Computing Breakthrough",
+            "link": "https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html",
+            "published": "Mon, 09 Dec 2024 16:00:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "TikTok asks for emergency pause to looming US ban",
+            "link": "https://www.bbc.com/news/articles/c5yx7e2lx3yo",
+            "published": "Mon, 09 Dec 2024 15:25:18 GMT"
+        },
+        {
+            "title": "Google unveils 'mind-boggling' quantum computing chip",
+            "link": "https://www.bbc.com/news/articles/c791ng0zvl3o",
+            "published": "Mon, 09 Dec 2024 16:00:58 GMT"
+        },
         {
             "title": "TikTok set to be banned in the US after losing appeal",
             "link": "https://www.bbc.com/news/articles/c2ldnq5095xo",
@@ -68,16 +78,6 @@
             "title": "What next for Bitcoin after bursting $100k barrier?",
             "link": "https://www.bbc.com/news/articles/cqjz04lv5q9o",
             "published": "Thu, 05 Dec 2024 12:40:43 GMT"
-        },
-        {
-            "title": "Vodafone boss says prices won't rise after Three 'mega-merger'",
-            "link": "https://www.bbc.com/news/articles/cp3z96x0199o",
-            "published": "Thu, 05 Dec 2024 09:57:29 GMT"
-        },
-        {
-            "title": "Bitcoin surges past $100k for first time",
-            "link": "https://www.bbc.com/news/articles/cqj0wkwv1x2o",
-            "published": "Thu, 05 Dec 2024 03:20:29 GMT"
         }
     ]
 }
