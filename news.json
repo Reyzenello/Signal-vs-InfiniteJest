@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Trump picks FTC Commissioner Andrew Ferguson to chair the FTC; Ferguson has said the FTC should tackle perceived censorship of conservative viewpoints online (Jody Godoy/Reuters)",
+            "link": "http://www.techmeme.com/241210/p23#a241210p23",
+            "published": "Tue, 10 Dec 2024 18:21:38 -0500"
+        },
+        {
+            "title": "TikTok files a legal challenge against Canada's order to shut down its operations in the country, claiming the decision was \"driven by improper purposes\" (Canadian Press)",
+            "link": "http://www.techmeme.com/241210/p22#a241210p22",
+            "published": "Tue, 10 Dec 2024 18:15:00 -0500"
+        },
+        {
+            "title": "A lawsuit against Character.AI alleges its chatbots harmed two young Texas users, including sympathizing with children who kill parents over screen time limits (Bobby Allyn/NPR)",
+            "link": "http://www.techmeme.com/241210/p21#a241210p21",
+            "published": "Tue, 10 Dec 2024 18:05:01 -0500"
+        },
+        {
+            "title": "The YouTube Kids mobile app gets a redesign that makes it look more like the standard YouTube app and lets users browse through videos in portrait mode (Quentyn Kennemer/The Verge)",
+            "link": "http://www.techmeme.com/241210/p20#a241210p20",
+            "published": "Tue, 10 Dec 2024 17:40:00 -0500"
+        },
+        {
             "title": "YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information (Lauren Forristal/TechCrunch)",
             "link": "http://www.techmeme.com/241210/p19#a241210p19",
             "published": "Tue, 10 Dec 2024 16:45:00 -0500"
-        },
-        {
-            "title": "GM says Cruise will exit the robotaxi business, and Cruise and GM's technical teams will be combined to focus on autonomous tech for upcoming GM vehicles (David Welch/Bloomberg)",
-            "link": "http://www.techmeme.com/241210/p18#a241210p18",
-            "published": "Tue, 10 Dec 2024 16:30:04 -0500"
-        },
-        {
-            "title": "Sources: 2025's Apple Watch Ultra is slated to get satellite connectivity for off-the-grid text messages, and it may also get a blood pressure sensing feature (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/241210/p17#a241210p17",
-            "published": "Tue, 10 Dec 2024 14:35:01 -0500"
-        },
-        {
-            "title": "Stainless, a startup offering an AI-powered API-to-SDK generator to customers like OpenAI, Anthropic, and Meta, raised a $25M Series A led by a16z (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241210/p16#a241210p16",
-            "published": "Tue, 10 Dec 2024 13:10:02 -0500"
-        },
-        {
-            "title": "The US sanctions Chinese cybersecurity government contractor Sichuan Silence and one of its staff over Ragnarok ransomware ties and creating and using zero-days (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/241210/p15#a241210p15",
-            "published": "Tue, 10 Dec 2024 12:05:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "GM to Shut Down Its Cruise Robotaxi Project",
+            "link": "https://www.nytimes.com/2024/12/10/business/gm-cruise-robotaxi.html",
+            "published": "Tue, 10 Dec 2024 22:59:43 +0000"
+        },
         {
             "title": "Biden Administration Sprints to Tie Up Tech Loose Ends",
             "link": "https://www.nytimes.com/2024/12/10/technology/biden-tech-regulation.html",
@@ -43,14 +48,9 @@
             "published": "Mon, 09 Dec 2024 19:29:26 +0000"
         },
         {
-            "title": "Ukraine Weighs Telegram Security Risks Amid War With Russia",
-            "link": "https://www.nytimes.com/2024/12/09/technology/ukraine-russia-telegram-security.html",
-            "published": "Mon, 09 Dec 2024 17:53:13 +0000"
-        },
-        {
-            "title": "G.M. Will Stop Developing Self-Driving Taxis",
-            "link": "https://www.nytimes.com/2024/12/10/business/gm-cruise-robotaxi.html",
-            "published": "Tue, 10 Dec 2024 21:45:27 +0000"
+            "title": "Nvidia Faces Antitrust Investigation in China",
+            "link": "https://www.nytimes.com/2024/12/09/technology/china-nvidia-investigation-antitrust-ai.html",
+            "published": "Mon, 09 Dec 2024 18:56:44 +0000"
         }
     ],
     "source_2": [
