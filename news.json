@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "TSMC reports ~$8.5B in consolidated revenue for November, up 34% YoY but down 12.2% from Oct.'s record; it projected Q4 revenue up 11%-14% QoQ to $26.1B-$26.9B (Kunal Khullar/Tom's Hardware)",
+            "link": "http://www.techmeme.com/241210/p13#a241210p13",
+            "published": "Tue, 10 Dec 2024 11:25:00 -0500"
+        },
+        {
             "title": "Solos debuts the AirGo Vision, a camera-equipped pair of smart glasses featuring visual recognition powered by OpenAI's GPT-4o, available now starting from $299 (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/241210/p12#a241210p12",
             "published": "Tue, 10 Dec 2024 10:20:03 -0500"
@@ -19,14 +24,19 @@
             "title": "Paris-based Aqemia, which aims to scale drug discovery using quantum algorithms and AI, raised $38M led by Cathay Innovation, after raising &euro;30M in January 2024 (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/241210/p9#a241210p9",
             "published": "Tue, 10 Dec 2024 07:20:02 -0500"
-        },
-        {
-            "title": "The US Commerce Department finalizes $6.1B+ for memory chipmaker Micron to fund its New York and Idaho factory projects, one of the largest CHIPS Act subsidies (Deborah Sophia/Reuters)",
-            "link": "http://www.techmeme.com/241210/p8#a241210p8",
-            "published": "Tue, 10 Dec 2024 07:10:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How Crypto Insiders Turned \u2018Debanking\u2019 Into a Political Storm",
+            "link": "https://www.nytimes.com/2024/12/10/technology/crypto-debanking-trump.html",
+            "published": "Tue, 10 Dec 2024 10:03:02 +0000"
+        },
+        {
+            "title": "Google Makes New Quantum Computing Breakthrough",
+            "link": "https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html",
+            "published": "Mon, 09 Dec 2024 19:29:26 +0000"
+        },
         {
             "title": "Ukraine Weighs Telegram Security Risks Amid War With Russia",
             "link": "https://www.nytimes.com/2024/12/09/technology/ukraine-russia-telegram-security.html",
@@ -38,19 +48,9 @@
             "published": "Mon, 09 Dec 2024 19:59:23 +0000"
         },
         {
-            "title": "Nvidia Faces Antitrust Investigation in China",
-            "link": "https://www.nytimes.com/2024/12/09/technology/china-nvidia-investigation-antitrust-ai.html",
-            "published": "Mon, 09 Dec 2024 18:56:44 +0000"
-        },
-        {
-            "title": "Apple Faces Lawsuit Over Child Sexual Abuse Material on iCloud",
-            "link": "https://www.nytimes.com/2024/12/08/technology/apple-child-sexual-abuse-material-lawsuit.html",
-            "published": "Mon, 09 Dec 2024 19:06:18 +0000"
-        },
-        {
-            "title": "How Crypto Insiders Turned \u2018Debanking\u2019 Into a Political Storm",
-            "link": "https://www.nytimes.com/2024/12/10/technology/crypto-debanking-trump.html",
-            "published": "Tue, 10 Dec 2024 10:03:02 +0000"
+            "title": "Biden Administration Sprints to Tie Up Tech Loose Ends",
+            "link": "https://www.nytimes.com/2024/12/10/technology/biden-tech-regulation.html",
+            "published": "Tue, 10 Dec 2024 15:53:09 +0000"
         }
     ],
     "source_2": [
