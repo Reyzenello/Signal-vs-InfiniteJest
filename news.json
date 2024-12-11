@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Source: Google asked the US to break up Microsoft's exclusive agreement to host OpenAI's tech on Azure, after the FTC asked Google about Microsoft's practices (Aaron Holmes/The Information)",
+            "link": "http://www.techmeme.com/241210/p25#a241210p25",
+            "published": "Tue, 10 Dec 2024 19:20:01 -0500"
+        },
+        {
+            "title": "A California District Court judge orders Automattic to stop blocking WP Engine's access to WordPress.org resources and interfering with WP Engine's plugins (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/241210/p24#a241210p24",
+            "published": "Tue, 10 Dec 2024 18:55:14 -0500"
+        },
+        {
             "title": "Trump picks FTC Commissioner Andrew Ferguson to chair the FTC; Ferguson has said the FTC should tackle perceived censorship of conservative viewpoints online (Jody Godoy/Reuters)",
             "link": "http://www.techmeme.com/241210/p23#a241210p23",
             "published": "Tue, 10 Dec 2024 18:21:38 -0500"
         },
         {
-            "title": "TikTok files a legal challenge against Canada's order to shut down its operations in the country, claiming the decision was \"driven by improper purposes\" (Canadian Press)",
+            "title": "TikTok files a legal challenge against Canada's order to stop operations in the country, claiming the \"unreasonable\" decision was \"driven by improper purposes\" (Canadian Press)",
             "link": "http://www.techmeme.com/241210/p22#a241210p22",
             "published": "Tue, 10 Dec 2024 18:15:00 -0500"
         },
@@ -14,16 +24,6 @@
             "title": "A lawsuit against Character.AI alleges its chatbots harmed two young Texas users, including sympathizing with children who kill parents over screen time limits (Bobby Allyn/NPR)",
             "link": "http://www.techmeme.com/241210/p21#a241210p21",
             "published": "Tue, 10 Dec 2024 18:05:01 -0500"
-        },
-        {
-            "title": "The YouTube Kids mobile app gets a redesign that makes it look more like the standard YouTube app and lets users browse through videos in portrait mode (Quentyn Kennemer/The Verge)",
-            "link": "http://www.techmeme.com/241210/p20#a241210p20",
-            "published": "Tue, 10 Dec 2024 17:40:00 -0500"
-        },
-        {
-            "title": "YouTube rolls out its auto-dubbing feature, which generates translated audio tracks, to hundreds of thousands of channels focused on knowledge and information (Lauren Forristal/TechCrunch)",
-            "link": "http://www.techmeme.com/241210/p19#a241210p19",
-            "published": "Tue, 10 Dec 2024 16:45:00 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 09 Dec 2024 19:29:26 +0000"
         },
         {
-            "title": "Nvidia Faces Antitrust Investigation in China",
-            "link": "https://www.nytimes.com/2024/12/09/technology/china-nvidia-investigation-antitrust-ai.html",
-            "published": "Mon, 09 Dec 2024 18:56:44 +0000"
+            "title": "Trump Picks Andrew Ferguson to Lead Federal Trade Commission",
+            "link": "https://www.nytimes.com/2024/12/10/technology/trump-ftc-andrew-ferguson.html",
+            "published": "Wed, 11 Dec 2024 01:44:19 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "General Motors pulls plug on robotaxi project",
+            "link": "https://www.bbc.com/news/articles/cj902y4ez71o",
+            "published": "Wed, 11 Dec 2024 01:45:59 GMT"
+        },
         {
             "title": "Amazon and eBay to pay 'fair share' for e-waste recycling",
             "link": "https://www.bbc.com/news/articles/cly75xnk5exo",
@@ -73,11 +78,6 @@
             "title": "Google unveils 'mind-boggling' quantum computing chip",
             "link": "https://www.bbc.com/news/articles/c791ng0zvl3o",
             "published": "Mon, 09 Dec 2024 16:00:58 GMT"
-        },
-        {
-            "title": "TikTok asks for emergency pause to looming US ban",
-            "link": "https://www.bbc.com/news/articles/c5yx7e2lx3yo",
-            "published": "Mon, 09 Dec 2024 16:41:06 GMT"
         }
     ]
 }
