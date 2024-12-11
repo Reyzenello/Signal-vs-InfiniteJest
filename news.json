@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The NYT Tech Guild, with 600+ members, reaches a tentative deal with management on a contract enhancing job security, setting flexible hybrid schedules, more (Katie Robertson/New York Times)",
+            "link": "http://www.techmeme.com/241211/p44#a241211p44",
+            "published": "Wed, 11 Dec 2024 17:55:15 -0500"
+        },
+        {
+            "title": "Google rolls out two updates to Android's unknown tracker alerts feature, letting users pause location updates from their phone and pinpoint unfamiliar trackers (Sheena Vasani/The Verge)",
+            "link": "http://www.techmeme.com/241211/p43#a241211p43",
+            "published": "Wed, 11 Dec 2024 17:30:01 -0500"
+        },
+        {
             "title": "Adobe reports Q4 revenue up 11% YoY to $5.61B, vs. $5.54B est., Digital Media revenue up 12%, forecasts FY 2025 revenue below est.; ADBE drops 8%+ after hours (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/241211/p41#a241211p41",
             "published": "Wed, 11 Dec 2024 16:40:00 -0500"
@@ -14,16 +24,6 @@
             "title": "Ayar Labs, which develops optical interconnects, raised a $155M Series D from Advent Global, Light Street, Nvidia, AMD, Intel, and others at a $1B+ valuation (Jane Lanhee Lee/Bloomberg)",
             "link": "http://www.techmeme.com/241211/p39#a241211p39",
             "published": "Wed, 11 Dec 2024 15:55:01 -0500"
-        },
-        {
-            "title": "Apple adds Layered Recordings to the Voice Memos app in iOS 18.2, for the iPhone 16 Pro and Pro Max; iOS 18 previously brought transcriptions to Voice Memos (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/241211/p38#a241211p38",
-            "published": "Wed, 11 Dec 2024 14:50:01 -0500"
-        },
-        {
-            "title": "A global outage has hit Facebook, Instagram, Threads, and WhatsApp, starting at approximately 12:40pm ET; Meta says it's working to resolve a \"technical issue\" (Lawrence Abrams/BleepingComputer)",
-            "link": "http://www.techmeme.com/241211/p37#a241211p37",
-            "published": "Wed, 11 Dec 2024 14:45:12 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Facebook, Instagram and Whatsapp down in mass Meta outage",
             "link": "https://www.bbc.com/news/articles/c623jr6kxz2o",
-            "published": "Wed, 11 Dec 2024 20:07:03 GMT"
+            "published": "Wed, 11 Dec 2024 23:19:57 GMT"
         },
         {
             "title": "Hackers find hole in Krispy Kreme Doughnuts' cyber-security",
