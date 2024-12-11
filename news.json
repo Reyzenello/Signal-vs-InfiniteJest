@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Apple adds Layered Recordings to the Voice Memos app in iOS 18.2, for the iPhone 16 Pro and Pro Max; iOS 18 previously brought transcriptions to Voice Memos (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/241211/p38#a241211p38",
+            "published": "Wed, 11 Dec 2024 14:50:01 -0500"
+        },
+        {
+            "title": "A global outage has hit Facebook, Instagram, Threads, and WhatsApp, starting at approximately 12:40pm ET; Meta says it's working to resolve a \"technical issue\" (Lawrence Abrams/BleepingComputer)",
+            "link": "http://www.techmeme.com/241211/p37#a241211p37",
+            "published": "Wed, 11 Dec 2024 14:45:12 -0500"
+        },
+        {
             "title": "Apple's macOS Sequoia 15.2 update references a \"MacBook Air (13-inch, M4, 2025)\" and a \"MacBook Air (15-inch, M4, 2025)\" (Juli Clover/MacRumors)",
             "link": "http://www.techmeme.com/241211/p36#a241211p36",
             "published": "Wed, 11 Dec 2024 14:10:02 -0500"
@@ -14,16 +24,6 @@
             "title": "Apple Intelligence launches outside of the US for the first time and is now available in Canada, Australia, New Zealand, Ireland, the UK, and South Africa (Joe Rossignol/MacRumors)",
             "link": "http://www.techmeme.com/241211/p34#a241211p34",
             "published": "Wed, 11 Dec 2024 12:45:01 -0500"
-        },
-        {
-            "title": "Google releases Gemini 2.0 Flash to generate images, audio, and text, and use third-party apps and services, available via Gemini API and developer platforms (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241211/p33#a241211p33",
-            "published": "Wed, 11 Dec 2024 10:48:21 -0500"
-        },
-        {
-            "title": "Google unveils Deep Research, an AI tool to let its Gemini chatbot scour the web and write a detailed report, available in English for Gemini Advanced users (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/241211/p32#a241211p32",
-            "published": "Wed, 11 Dec 2024 10:45:33 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Facebook, Instagram and Whatsapp down in mass Meta outage",
+            "link": "https://www.bbc.com/news/articles/c623jr6kxz2o",
+            "published": "Wed, 11 Dec 2024 20:07:03 GMT"
+        },
+        {
             "title": "Hackers find hole in Krispy Kreme Doughnuts' cyber-security",
             "link": "https://www.bbc.com/news/articles/c4gl9np1g2go",
             "published": "Wed, 11 Dec 2024 17:36:24 GMT"
@@ -73,11 +78,6 @@
             "title": "Amazon and eBay to pay 'fair share' for e-waste recycling",
             "link": "https://www.bbc.com/news/articles/cly75xnk5exo",
             "published": "Tue, 10 Dec 2024 13:14:11 GMT"
-        },
-        {
-            "title": "Nvidia targeted by China in new chip war probe",
-            "link": "https://www.bbc.com/news/articles/cx2vkd90mk8o",
-            "published": "Mon, 09 Dec 2024 22:14:22 GMT"
         }
     ]
 }
