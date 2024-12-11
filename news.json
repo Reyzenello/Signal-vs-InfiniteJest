@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "TechInsights: Huawei's new Mate 70 Pro Plus uses the same 7nm Kirin 9020 chip produced by SMIC as 2023's Mate 60 Pro, contradicting rumors of a 5nm chip (Bloomberg)",
+            "title": "SCOTUS dismisses Nvidia's appeal over facing a lawsuit alleging it mislead shareholders about its reliance on crypto mining revenue, leaving it to face the suit (Greg Stohr/Bloomberg)",
+            "link": "http://www.techmeme.com/241211/p25#a241211p25",
+            "published": "Wed, 11 Dec 2024 10:25:13 -0500"
+        },
+        {
+            "title": "YouTube says viewers streamed 1B+ hours of content daily on TVs in 2024 globally, including 400M+ hours of podcasts monthly; sports content watchtime grew 30% (Kurt Wilms/YouTube Official Blog)",
+            "link": "http://www.techmeme.com/241211/p24#a241211p24",
+            "published": "Wed, 11 Dec 2024 09:55:13 -0500"
+        },
+        {
+            "title": "TechInsights: Huawei's new Mate 70 Pro Plus has a Kirin 9020 chip made by SMIC using the same 7nm process as in 2023's Mate 60 Pro, despite rumors of a 5nm chip (Bloomberg)",
             "link": "http://www.techmeme.com/241211/p23#a241211p23",
             "published": "Wed, 11 Dec 2024 09:25:13 -0500"
         },
@@ -14,23 +24,13 @@
             "title": "Apple rolls out iOS 18.2 and iPadOS 18.2, adding major AI updates, including Image Playground on iPhone 15 Pro, 16, and 16 Pro, Genmoji, and ChatGPT integration (Igor Bonifacic/Engadget)",
             "link": "http://www.techmeme.com/241211/p21#a241211p21",
             "published": "Wed, 11 Dec 2024 08:10:00 -0500"
-        },
-        {
-            "title": "Exxon says it is in the early stages of designing a natural gas plant for data centers, the first time it would build a plant not supplying its own operations (Rebecca F. Elliott/New York Times)",
-            "link": "http://www.techmeme.com/241211/p20#a241211p20",
-            "published": "Wed, 11 Dec 2024 07:30:02 -0500"
-        },
-        {
-            "title": "The American Sunlight Project finds 35K+ mentions of nonconsensual intimate imagery depicting 25 female Congress members and one male member on deepfake sites (The Markup)",
-            "link": "http://www.techmeme.com/241211/p19#a241211p19",
-            "published": "Wed, 11 Dec 2024 07:10:12 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "GM to Shut Down Its Cruise Robotaxi Project",
-            "link": "https://www.nytimes.com/2024/12/10/business/gm-cruise-robotaxi.html",
-            "published": "Tue, 10 Dec 2024 22:59:43 +0000"
+            "title": "Trump Picks Andrew Ferguson to Lead Federal Trade Commission",
+            "link": "https://www.nytimes.com/2024/12/10/technology/trump-ftc-andrew-ferguson.html",
+            "published": "Wed, 11 Dec 2024 01:44:19 +0000"
         },
         {
             "title": "Biden Administration Sprints to Tie Up Tech Loose Ends",
@@ -38,14 +38,14 @@
             "published": "Tue, 10 Dec 2024 16:32:42 +0000"
         },
         {
+            "title": "GM to Shut Down Its Cruise Robotaxi Project",
+            "link": "https://www.nytimes.com/2024/12/10/business/gm-cruise-robotaxi.html",
+            "published": "Tue, 10 Dec 2024 22:59:43 +0000"
+        },
+        {
             "title": "How Crypto Insiders Turned \u2018Debanking\u2019 Into a Political Storm",
             "link": "https://www.nytimes.com/2024/12/10/technology/crypto-debanking-trump.html",
             "published": "Tue, 10 Dec 2024 10:03:02 +0000"
-        },
-        {
-            "title": "Google Makes New Quantum Computing Breakthrough",
-            "link": "https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html",
-            "published": "Mon, 09 Dec 2024 19:29:26 +0000"
         },
         {
             "title": "Exxon Plans to Sell Electricity to Data Centers",
