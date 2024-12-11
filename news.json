@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "SCOTUS dismisses Nvidia's appeal over facing a lawsuit alleging it mislead shareholders about its reliance on crypto mining revenue, leaving it to face the suit (Greg Stohr/Bloomberg)",
-            "link": "http://www.techmeme.com/241211/p25#a241211p25",
-            "published": "Wed, 11 Dec 2024 10:25:13 -0500"
+            "title": "Google releases Gemini 2.0 Flash to generate images, audio, and text, and use third-party apps and services, available via Gemini API and developer platforms (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/241211/p33#a241211p33",
+            "published": "Wed, 11 Dec 2024 10:48:21 -0500"
         },
         {
-            "title": "YouTube says viewers streamed 1B+ hours of content daily on TVs in 2024 globally, including 400M+ hours of podcasts monthly; sports content watchtime grew 30% (Kurt Wilms/YouTube Official Blog)",
-            "link": "http://www.techmeme.com/241211/p24#a241211p24",
-            "published": "Wed, 11 Dec 2024 09:55:13 -0500"
+            "title": "Google unveils Deep Research, an AI tool to let its Gemini chatbot scour the web and write a detailed report, available in English for Gemini Advanced users (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/241211/p32#a241211p32",
+            "published": "Wed, 11 Dec 2024 10:45:33 -0500"
         },
         {
-            "title": "TechInsights: Huawei's new Mate 70 Pro Plus has a Kirin 9020 chip made by SMIC using the same 7nm process as in 2023's Mate 60 Pro, despite rumors of a 5nm chip (Bloomberg)",
-            "link": "http://www.techmeme.com/241211/p23#a241211p23",
-            "published": "Wed, 11 Dec 2024 09:25:13 -0500"
+            "title": "Google unveils Project Mariner, a prototype AI agent built by Google DeepMind that can control Chrome, move the cursor, click buttons, fill out forms, and more (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/241211/p31#a241211p31",
+            "published": "Wed, 11 Dec 2024 10:43:53 -0500"
         },
         {
-            "title": "Sources: Apple is working with Broadcom to develop its first AI server chip, codenamed Baltra and set for 2026 mass production, a milestone for its silicon team (The Information)",
-            "link": "http://www.techmeme.com/241211/p22#a241211p22",
-            "published": "Wed, 11 Dec 2024 09:15:01 -0500"
+            "title": "Google unveils an updated Project Astra, which can record and summarize videos recorded using an Android app or prototype glasses and answer questions (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/241211/p30#a241211p30",
+            "published": "Wed, 11 Dec 2024 10:41:51 -0500"
         },
         {
-            "title": "Apple rolls out iOS 18.2 and iPadOS 18.2, adding major AI updates, including Image Playground on iPhone 15 Pro, 16, and 16 Pro, Genmoji, and ChatGPT integration (Igor Bonifacic/Engadget)",
-            "link": "http://www.techmeme.com/241211/p21#a241211p21",
-            "published": "Wed, 11 Dec 2024 08:10:00 -0500"
+            "title": "Google says it is testing AI agents based on Gemini 2.0 that can understand rules in video games like Clash of Clans to help players out (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/241211/p29#a241211p29",
+            "published": "Wed, 11 Dec 2024 10:39:55 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Google Unveils A.I. Agent Based on Gemini 2.0",
+            "link": "https://www.nytimes.com/2024/12/11/technology/google-ai-agent-gemini.html",
+            "published": "Wed, 11 Dec 2024 15:40:26 +0000"
+        },
         {
             "title": "Trump Picks Andrew Ferguson to Lead Federal Trade Commission",
             "link": "https://www.nytimes.com/2024/12/10/technology/trump-ftc-andrew-ferguson.html",
@@ -36,11 +41,6 @@
             "title": "Biden Administration Sprints to Tie Up Tech Loose Ends",
             "link": "https://www.nytimes.com/2024/12/10/technology/biden-tech-regulation.html",
             "published": "Tue, 10 Dec 2024 16:32:42 +0000"
-        },
-        {
-            "title": "GM to Shut Down Its Cruise Robotaxi Project",
-            "link": "https://www.nytimes.com/2024/12/10/business/gm-cruise-robotaxi.html",
-            "published": "Tue, 10 Dec 2024 22:59:43 +0000"
         },
         {
             "title": "How Crypto Insiders Turned \u2018Debanking\u2019 Into a Political Storm",
