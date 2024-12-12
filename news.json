@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Nvidia added ~200 staff to its self-driving R&D team in Beijing and will end the year with ~4,000 staff in China, up from ~3,000 at the start of 2024 (Bloomberg)",
+            "link": "http://www.techmeme.com/241212/p2#a241212p2",
+            "published": "Thu, 12 Dec 2024 00:25:01 -0500"
+        },
+        {
+            "title": "Harvard says it's releasing a high-quality dataset of ~1M public-domain books, created with funding from Microsoft and OpenAI, to help train LLMs and AI tools (Kate Knibbs/Wired)",
+            "link": "http://www.techmeme.com/241212/p1#a241212p1",
+            "published": "Thu, 12 Dec 2024 00:05:00 -0500"
+        },
+        {
+            "title": "Meta donates $1M to president-elect Trump's inaugural fund; sources: Mark Zuckerberg gifted Meta's Ray-Ban smart glasses to Trump at Mar-a-Lago on November 27 (Wall Street Journal)",
+            "link": "http://www.techmeme.com/241211/p52#a241211p52",
+            "published": "Wed, 11 Dec 2024 23:55:01 -0500"
+        },
+        {
             "title": "NeuBird, which is using generative AI to automate IT site reliability operations, raised a $22.5M seed extension led by M12, following a $22M seed in April (Marina Temkin/TechCrunch)",
             "link": "http://www.techmeme.com/241211/p51#a241211p51",
             "published": "Wed, 11 Dec 2024 22:40:02 -0500"
@@ -9,21 +24,6 @@
             "title": "Honda plans to dissolve a self-driving vehicle partnership with GM after GM announced plans to exit robotaxi development; Honda had invested $852M in Cruise (Shoya Okinaga/Nikkei Asia)",
             "link": "http://www.techmeme.com/241211/p50#a241211p50",
             "published": "Wed, 11 Dec 2024 21:50:15 -0500"
-        },
-        {
-            "title": "OpenAI says it is bringing ChatGPT traffic back up by region and API traffic recovery is ongoing while Sora is beginning to recover, after a multi-hour outage (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/241211/p49#a241211p49",
-            "published": "Wed, 11 Dec 2024 21:10:01 -0500"
-        },
-        {
-            "title": "ServiceTitan, which offers cloud software to contractors, prices its IPO at $71 per share, above the expected range, raising almost $625M at a ~$6.3B valuation (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/241211/p48#a241211p48",
-            "published": "Wed, 11 Dec 2024 20:20:01 -0500"
-        },
-        {
-            "title": "Binance and Circle partner to promote USDC; Binance plans to list more crypto trading pairs denominated in USDC and hold USDC for its own corporate treasury (Muyao Shen/Bloomberg)",
-            "link": "http://www.techmeme.com/241211/p47#a241211p47",
-            "published": "Wed, 11 Dec 2024 19:55:00 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Tue, 10 Dec 2024 10:03:02 +0000"
         },
         {
-            "title": "Why Luigi Mangione\u2019s Reddit and Instagram Were Taken Down, but Not His Goodreads?",
-            "link": "https://www.nytimes.com/2024/12/11/technology/social-media-goodreads-reddit-tiktok.html",
-            "published": "Thu, 12 Dec 2024 02:31:56 +0000"
+            "title": "Mark Zuckerberg\u2019s Meta Donates $1 Million to Trump\u2019s Inaugural Fund",
+            "link": "https://www.nytimes.com/2024/12/12/technology/meta-trump-inaugural-fund-donation.html",
+            "published": "Thu, 12 Dec 2024 05:02:38 +0000"
         }
     ],
     "source_2": [
