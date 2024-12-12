@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Tel Aviv-based Astrix Security, which helps firms secure non-human identities like API keys and service accounts, raised a $45M Series B led by Menlo Ventures (Ryan Naraine/SecurityWeek)",
+            "link": "http://www.techmeme.com/241212/p5#a241212p5",
+            "published": "Thu, 12 Dec 2024 01:10:17 -0500"
+        },
+        {
+            "title": "The FCC opens all 1,200 megahertz of the 6GHz band for unlicensed use by very-low-power devices, citing growth in wearables, AR/VR, and other cutting-edge tech (George Winslow/Tv Technology)",
+            "link": "http://www.techmeme.com/241212/p4#a241212p4",
+            "published": "Thu, 12 Dec 2024 00:45:02 -0500"
+        },
+        {
+            "title": "Montreal-based Flare, a threat exposure management startup that develops tech to thwart info-stealer malware, raised a $30M Series B led by Base10 Partners (Julie Bort/TechCrunch)",
+            "link": "http://www.techmeme.com/241212/p3#a241212p3",
+            "published": "Thu, 12 Dec 2024 00:30:01 -0500"
+        },
+        {
             "title": "Sources: Nvidia added ~200 staff to its self-driving R&D team in Beijing and will end the year with ~4,000 staff in China, up from ~3,000 at the start of 2024 (Bloomberg)",
             "link": "http://www.techmeme.com/241212/p2#a241212p2",
             "published": "Thu, 12 Dec 2024 00:25:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Harvard says it's releasing a high-quality dataset of ~1M public-domain books, created with funding from Microsoft and OpenAI, to help train LLMs and AI tools (Kate Knibbs/Wired)",
             "link": "http://www.techmeme.com/241212/p1#a241212p1",
             "published": "Thu, 12 Dec 2024 00:05:00 -0500"
-        },
-        {
-            "title": "Meta donates $1M to president-elect Trump's inaugural fund; sources: Mark Zuckerberg gifted Meta's Ray-Ban smart glasses to Trump at Mar-a-Lago on November 27 (Wall Street Journal)",
-            "link": "http://www.techmeme.com/241211/p52#a241211p52",
-            "published": "Wed, 11 Dec 2024 23:55:01 -0500"
-        },
-        {
-            "title": "NeuBird, which is using generative AI to automate IT site reliability operations, raised a $22.5M seed extension led by M12, following a $22M seed in April (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/241211/p51#a241211p51",
-            "published": "Wed, 11 Dec 2024 22:40:02 -0500"
-        },
-        {
-            "title": "Honda plans to dissolve a self-driving vehicle partnership with GM after GM announced plans to exit robotaxi development; Honda had invested $852M in Cruise (Shoya Okinaga/Nikkei Asia)",
-            "link": "http://www.techmeme.com/241211/p50#a241211p50",
-            "published": "Wed, 11 Dec 2024 21:50:15 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Australia to force tech giants to keep paying for news",
+            "link": "https://www.bbc.com/news/articles/cy4pvgjklevo",
+            "published": "Thu, 12 Dec 2024 06:13:53 GMT"
+        },
+        {
             "title": "WhatsApp and Instagram restored after Meta outages",
             "link": "https://www.bbc.com/news/articles/c623jr6kxz2o",
             "published": "Wed, 11 Dec 2024 23:43:40 GMT"
@@ -73,11 +78,6 @@
             "title": "General Motors pulls plug on robotaxi business",
             "link": "https://www.bbc.com/news/articles/cj902y4ez71o",
             "published": "Wed, 11 Dec 2024 02:51:44 GMT"
-        },
-        {
-            "title": "Amazon and eBay to pay 'fair share' for e-waste recycling",
-            "link": "https://www.bbc.com/news/articles/cly75xnk5exo",
-            "published": "Tue, 10 Dec 2024 13:14:11 GMT"
         }
     ]
 }
