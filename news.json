@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Xiaohongshu, the Instagram-style app popular with younger Chinese users, tells investors it will cross $1B in 2024 profit ahead of a potential IPO (Bloomberg)",
+            "link": "http://www.techmeme.com/241212/p21#a241212p21",
+            "published": "Thu, 12 Dec 2024 07:40:01 -0500"
+        },
+        {
+            "title": "Japanese crypto exchange Coincheck lists on the Nasdaq via a SPAC, closing at $13.35 for a ~$1.7B market cap; Coincheck had 2.15M accounts in November 2024 (The Japan Times)",
+            "link": "http://www.techmeme.com/241212/p20#a241212p20",
+            "published": "Thu, 12 Dec 2024 07:15:00 -0500"
+        },
+        {
+            "title": "Telef&oacute;nica, one of the world's largest carriers, plans to preinstall the Epic Games Store on every new compatible Android phone it sells, including Samsung's (Sean Hollister/The Verge)",
+            "link": "http://www.techmeme.com/241212/p19#a241212p19",
+            "published": "Thu, 12 Dec 2024 06:55:13 -0500"
+        },
+        {
+            "title": "The EU's TikTok scrutiny over the Romanian presidential election will be a litmus test for the DSA and should finally uncover details of algorithmic influence (Marietje Schaake/Financial Times)",
+            "link": "http://www.techmeme.com/241212/p18#a241212p18",
+            "published": "Thu, 12 Dec 2024 06:35:00 -0500"
+        },
+        {
             "title": "The NLRB issues a complaint against Netflix's Love Is Blind and classifies its contestants as employees, a case that may have major implications for reality TV (Julia Jacobs/New York Times)",
             "link": "http://www.techmeme.com/241212/p17#a241212p17",
             "published": "Thu, 12 Dec 2024 06:15:01 -0500"
-        },
-        {
-            "title": "Australia plans a new levy on tech companies like Meta with $250M+ in revenue to force them to pay publishers for journalism, after Meta quit the previous deal (Nic Fildes/Financial Times)",
-            "link": "http://www.techmeme.com/241212/p16#a241212p16",
-            "published": "Thu, 12 Dec 2024 06:01:09 -0500"
-        },
-        {
-            "title": "GM pulling the plug on Cruise's robotaxi experiment in favor of \"privately owned\" driverless cars is the beginning of a risky new phase for autonomous vehicles (Andrew J. Hawkins/The Verge)",
-            "link": "http://www.techmeme.com/241212/p15#a241212p15",
-            "published": "Thu, 12 Dec 2024 05:45:15 -0500"
-        },
-        {
-            "title": "The crypto industry's impact on the 2024 US elections shows that crypto is a perfect anti-establishment tech for the turbulence and distrust of the 2020s (Charlie Warzel/The Atlantic)",
-            "link": "http://www.techmeme.com/241212/p14#a241212p14",
-            "published": "Thu, 12 Dec 2024 05:30:02 -0500"
-        },
-        {
-            "title": "Berlin-based Upvest, which offers an API for stock trading and other financial services to N26, Revolut, and others, raised a &euro;100M Series C led by Hedosophia (Romain Dillet/TechCrunch)",
-            "link": "http://www.techmeme.com/241212/p13#a241212p13",
-            "published": "Thu, 12 Dec 2024 05:15:14 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Mark Zuckerberg's Meta donates $1m to Trump fund",
+            "link": "https://www.bbc.com/news/articles/c8j9e1x9z2xo",
+            "published": "Thu, 12 Dec 2024 12:43:50 GMT"
+        },
+        {
             "title": "Australia to force tech giants to keep paying for news",
             "link": "https://www.bbc.com/news/articles/cy4pvgjklevo",
             "published": "Thu, 12 Dec 2024 06:13:53 GMT"
@@ -73,11 +78,6 @@
             "title": "Chatbot 'encouraged teen to kill parents over screen time limit'",
             "link": "https://www.bbc.com/news/articles/cd605e48q1vo",
             "published": "Wed, 11 Dec 2024 10:15:35 GMT"
-        },
-        {
-            "title": "General Motors pulls plug on robotaxi business",
-            "link": "https://www.bbc.com/news/articles/cj902y4ez71o",
-            "published": "Wed, 11 Dec 2024 02:51:44 GMT"
         }
     ]
 }
