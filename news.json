@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft's new version of Recall appears to still capture sensitive data like credit card numbers, even with the \"sensitive information\" filter enabled (Avram Piltch/Tom's Hardware)",
+            "link": "http://www.techmeme.com/241212/p41#a241212p41",
+            "published": "Thu, 12 Dec 2024 14:00:31 -0500"
+        },
+        {
+            "title": "A survey of US teens aged 13 to 17 shows 73% use YouTube daily, 57% use TikTok daily, 50% use Instagram, and 20% use Facebook; 17% use X, down from 23% in 2022 (Pew Research Center)",
+            "link": "http://www.techmeme.com/241212/p40#a241212p40",
+            "published": "Thu, 12 Dec 2024 13:50:04 -0500"
+        },
+        {
+            "title": "Sources: in the past year, US chip companies have lobbied the US government against a China sales ban, citing billions in lost revenue, shocking US officials (Ana Swanson/New York Times)",
+            "link": "http://www.techmeme.com/241212/p39#a241212p39",
+            "published": "Thu, 12 Dec 2024 13:45:01 -0500"
+        },
+        {
             "title": "OpenAI releases Advanced Voice Mode with vision for ChatGPT Plus, Team, and Pro users, letting them share their screen or video from phone cameras with ChatGPT (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241212/p38#a241212p38",
             "published": "Thu, 12 Dec 2024 13:35:12 -0500"
@@ -9,24 +24,14 @@
             "title": "Sources: Apple plans to roll out its own Wi-Fi and Bluetooth chip as part of Apple TV and HomePod mini updates in 2025, and in iPhones later in the year (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/241212/p37#a241212p37",
             "published": "Thu, 12 Dec 2024 13:25:01 -0500"
-        },
-        {
-            "title": "Crusoe Energy, which offers cost-effective generative AI compute at scale using clean energy, raised a $600M Series D led by Founders Fund at a $2.8B valuation (Kyt Dotson/SiliconANGLE)",
-            "link": "http://www.techmeme.com/241212/p36#a241212p36",
-            "published": "Thu, 12 Dec 2024 12:45:04 -0500"
-        },
-        {
-            "title": "Forbes: Elon Musk's net worth crossed $400B on December 12, boosted by Tesla stock and SpaceX's valuation; Jeff Bezos has a $244B net worth, the second highest (Reuters)",
-            "link": "http://www.techmeme.com/241212/p35#a241212p35",
-            "published": "Thu, 12 Dec 2024 12:30:13 -0500"
-        },
-        {
-            "title": "An interview with Google President of Android Ecosystem Sameer Samat on Android XR, why AI can make mixed reality work, Gemini, privacy concerns, and more (CNET)",
-            "link": "http://www.techmeme.com/241212/p34#a241212p34",
-            "published": "Thu, 12 Dec 2024 12:10:04 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How U.S. Firms Battled a Government Crackdown to Keep Tech Sales to China",
+            "link": "https://www.nytimes.com/2024/12/12/us/politics/tech-sales-china-huawei.html",
+            "published": "Thu, 12 Dec 2024 18:01:08 +0000"
+        },
         {
             "title": "Ev Williams, Twitter and Medium Founder, Unveils New Social App",
             "link": "https://www.nytimes.com/2024/12/12/technology/ev-williams-twitter-medium-mozi.html",
@@ -43,14 +48,9 @@
             "published": "Wed, 11 Dec 2024 15:40:27 +0000"
         },
         {
-            "title": "Trump Picks Andrew Ferguson to Lead Federal Trade Commission",
-            "link": "https://www.nytimes.com/2024/12/10/technology/trump-ftc-andrew-ferguson.html",
-            "published": "Wed, 11 Dec 2024 01:44:19 +0000"
-        },
-        {
-            "title": "How U.S. Firms Battled a Government Crackdown to Keep Tech Sales to China",
-            "link": "https://www.nytimes.com/2024/12/12/us/politics/tech-sales-china-huawei.html",
-            "published": "Thu, 12 Dec 2024 18:01:08 +0000"
+            "title": "Why Luigi Mangione\u2019s Reddit and Instagram Were Taken Down, but Not His Goodreads?",
+            "link": "https://www.nytimes.com/2024/12/11/technology/social-media-goodreads-reddit-tiktok.html",
+            "published": "Thu, 12 Dec 2024 16:26:30 +0000"
         }
     ],
     "source_2": [
