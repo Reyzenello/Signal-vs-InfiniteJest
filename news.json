@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Current and former Netflix staff say the company has been scaling back employee benefits, including for parental leave, after shifting focus to profitability (Jessica Toonkel/Wall Street Journal)",
+            "title": "Stigg, which helps companies modernize their payment and billing infrastructure, raised a $17.5M Series A led by Red Dot, taking its total funding to $24M (Mike Wheatley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/241212/p25#a241212p25",
+            "published": "Thu, 12 Dec 2024 09:20:04 -0500"
+        },
+        {
+            "title": "Filing: Samsung accuses India's competition watchdog of unlawfully detaining its employees and seizing data in a 2022 antitrust raid tied to Amazon and Flipkart (Reuters)",
+            "link": "http://www.techmeme.com/241212/p24#a241212p24",
+            "published": "Thu, 12 Dec 2024 09:00:42 -0500"
+        },
+        {
+            "title": "Z&uuml;rich-based robotics startup Anybotics raised a $60M Series B extension, taking the round, announced in May 2023, to $110M and its total funding to $130M (Paul Sawers/TechCrunch)",
+            "link": "http://www.techmeme.com/241212/p23#a241212p23",
+            "published": "Thu, 12 Dec 2024 08:35:17 -0500"
+        },
+        {
+            "title": "Current and former Netflix staff say the company has walked back its parental-leave benefits, after shifting its focus from subscriber growth to profitability (Jessica Toonkel/Wall Street Journal)",
             "link": "http://www.techmeme.com/241212/p22#a241212p22",
             "published": "Thu, 12 Dec 2024 08:15:01 -0500"
         },
         {
-            "title": "Sources: Xiaohongshu, the Instagram-style app popular with younger Chinese users, tells investors it will cross $1B in 2024 profit ahead of a potential IPO (Bloomberg)",
+            "title": "Sources: Xiaohongshu, the Instagram-like app popular with younger Chinese users, told investors it will double profit to $1B+ in 2024, ahead of a potential IPO (Bloomberg)",
             "link": "http://www.techmeme.com/241212/p21#a241212p21",
             "published": "Thu, 12 Dec 2024 07:40:01 -0500"
-        },
-        {
-            "title": "Japanese crypto exchange Coincheck lists on the Nasdaq via a SPAC, closing at $13.35 for a ~$1.7B market cap; Coincheck had 2.15M accounts in November 2024 (The Japan Times)",
-            "link": "http://www.techmeme.com/241212/p20#a241212p20",
-            "published": "Thu, 12 Dec 2024 07:15:00 -0500"
-        },
-        {
-            "title": "Telef&oacute;nica, one of the world's largest carriers, plans to preinstall the Epic Games Store on every new compatible Android phone it sells, including Samsung's (Sean Hollister/The Verge)",
-            "link": "http://www.techmeme.com/241212/p19#a241212p19",
-            "published": "Thu, 12 Dec 2024 06:55:13 -0500"
-        },
-        {
-            "title": "The EU's TikTok scrutiny over the Romanian presidential election will be a litmus test for the DSA and should finally uncover details of algorithmic influence (Marietje Schaake/Financial Times)",
-            "link": "http://www.techmeme.com/241212/p18#a241212p18",
-            "published": "Thu, 12 Dec 2024 06:35:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Controversial chatbot's safety measures 'a sticking plaster'",
+            "link": "https://www.bbc.com/news/articles/c62zgd3kk50o",
+            "published": "Thu, 12 Dec 2024 14:08:13 GMT"
+        },
+        {
             "title": "Mark Zuckerberg's Meta donates $1m to Trump fund",
             "link": "https://www.bbc.com/news/articles/c8j9e1x9z2xo",
             "published": "Thu, 12 Dec 2024 12:43:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Hackers find hole in Krispy Kreme Doughnuts' cyber-security",
             "link": "https://www.bbc.com/news/articles/c4gl9np1g2go",
             "published": "Wed, 11 Dec 2024 17:36:24 GMT"
-        },
-        {
-            "title": "Chatbot 'encouraged teen to kill parents over screen time limit'",
-            "link": "https://www.bbc.com/news/articles/cd605e48q1vo",
-            "published": "Wed, 11 Dec 2024 10:15:35 GMT"
         }
     ]
 }
