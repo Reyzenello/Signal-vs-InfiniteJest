@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Klarna CEO Sebastian Siemiatkowski says Klarna's investment in AI let it stop hiring a year ago and its headcount fell 22% to 3,500, mostly due to attrition (Bloomberg)",
+            "link": "http://www.techmeme.com/241213/p21#a241213p21",
+            "published": "Fri, 13 Dec 2024 13:00:33 -0500"
+        },
+        {
             "title": "Private-credit firm Sixth Street commits $4B in capital for Affirm to underwrite short-term installment loans of between four and six months (Leslie Picker/CNBC)",
             "link": "http://www.techmeme.com/241213/p20#a241213p20",
             "published": "Fri, 13 Dec 2024 12:00:45 -0500"
@@ -19,11 +24,6 @@
             "title": "Google rolls out NotebookLM Plus, the enterprise version of NotebookLM with added controls for access and data management, as part of Agentspace (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241213/p17#a241213p17",
             "published": "Fri, 13 Dec 2024 11:00:46 -0500"
-        },
-        {
-            "title": "Google Cloud launches Agentspace to let enterprises create and deploy AI agents for marketing, HR, software development, and more (Larry Dignan/Constellation Research)",
-            "link": "http://www.techmeme.com/241213/p16#a241213p16",
-            "published": "Fri, 13 Dec 2024 10:51:31 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "BBC complains to Apple over misleading shooting headline",
+            "link": "https://www.bbc.com/news/articles/cd0elzk24dno",
+            "published": "Fri, 13 Dec 2024 17:52:22 GMT"
+        },
+        {
             "title": "Game Awards 2024: Astro Bot Wins Game of the Year",
             "link": "https://www.bbc.com/news/articles/c0rn57j1lkeo",
             "published": "Fri, 13 Dec 2024 09:51:12 GMT"
@@ -73,11 +78,6 @@
             "title": "Mark Zuckerberg's Meta donates $1m to Trump fund",
             "link": "https://www.bbc.com/news/articles/c8j9e1x9z2xo",
             "published": "Thu, 12 Dec 2024 12:43:50 GMT"
-        },
-        {
-            "title": "The AI or real quiz: Christmas edition",
-            "link": "https://www.bbc.co.uk/bitesize/articles/zv74tcw",
-            "published": "Wed, 20 Nov 2024 14:37:37 GMT"
         }
     ]
 }
