@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Private-credit firm Sixth Street commits $4B in capital for Affirm to underwrite short-term installment loans of between four and six months (Leslie Picker/CNBC)",
+            "link": "http://www.techmeme.com/241213/p20#a241213p20",
+            "published": "Fri, 13 Dec 2024 12:00:45 -0500"
+        },
+        {
+            "title": "Liquid, which is building \"liquid foundation models\" inspired by the architecture of worm brains, raised a $250M Series A led by AMD at a $2.3B valuation (Bloomberg)",
+            "link": "http://www.techmeme.com/241213/p19#a241213p19",
+            "published": "Fri, 13 Dec 2024 11:40:13 -0500"
+        },
+        {
             "title": "How Anthropic's Claude became the chatbot of choice for AI industry insiders, who say its responses feel more creative and empathetic and less gratingly robotic (Kevin Roose/New York Times)",
             "link": "http://www.techmeme.com/241213/p18#a241213p18",
             "published": "Fri, 13 Dec 2024 11:10:00 -0500"
@@ -14,16 +24,6 @@
             "title": "Google Cloud launches Agentspace to let enterprises create and deploy AI agents for marketing, HR, software development, and more (Larry Dignan/Constellation Research)",
             "link": "http://www.techmeme.com/241213/p16#a241213p16",
             "published": "Fri, 13 Dec 2024 10:51:31 -0500"
-        },
-        {
-            "title": "Google rolls out interactive Audio Overviews in NotebookLM, an \"experimental feature\" that lets users talk to the AI \"hosts\" of the overviews (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/241213/p15#a241213p15",
-            "published": "Fri, 13 Dec 2024 10:46:51 -0500"
-        },
-        {
-            "title": "OpenAI says the three hour ChatGPT outage on Wednesday was caused by a telemetry service it deployed to collect Kubernetes metrics (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241213/p14#a241213p14",
-            "published": "Fri, 13 Dec 2024 10:35:12 -0500"
         }
     ],
     "source_1": [
@@ -38,19 +38,19 @@
             "published": "Fri, 13 Dec 2024 15:27:31 +0000"
         },
         {
-            "title": "Amazon Plans $1 Million Donation to Trump\u2019s Inaugural Fund",
-            "link": "https://www.nytimes.com/2024/12/12/technology/amazon-trump-inauguration.html",
-            "published": "Fri, 13 Dec 2024 02:19:52 +0000"
+            "title": "Elon Musk\u2019s Playbook for DOGE Has a Precedent: X",
+            "link": "https://www.nytimes.com/2024/12/13/technology/elon-musk-doge-x.html",
+            "published": "Fri, 13 Dec 2024 16:34:30 +0000"
+        },
+        {
+            "title": "Sam Altman of OpenAI to Donate $1 Million to Trump Inauguration",
+            "link": "https://www.nytimes.com/2024/12/13/technology/openai-sam-altman-trump-inauguration.html",
+            "published": "Fri, 13 Dec 2024 17:15:07 +0000"
         },
         {
             "title": "TikTok\u2019s Last Stand, Google\u2019s Quantum Breakthrough and the Cult of Claude",
             "link": "https://www.nytimes.com/2024/12/13/podcasts/hardfork-tiktok-quantum-claude.html",
             "published": "Fri, 13 Dec 2024 16:15:13 +0000"
-        },
-        {
-            "title": "What Happened to the Tech Industry\u2019s \u2018Perks Culture\u2019?",
-            "link": "https://www.nytimes.com/2024/12/13/technology/tech-perks-culture.html",
-            "published": "Fri, 13 Dec 2024 10:02:28 +0000"
         }
     ],
     "source_2": [
