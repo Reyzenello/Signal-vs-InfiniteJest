@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Broadcom shares jump 20%+ a day after the company reported Q4 results that showed strong AI revenue growth, pushing its market cap beyond $1T for the first time (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/241213/p12#a241213p12",
-            "published": "Fri, 13 Dec 2024 10:15:01 -0500"
+            "title": "How Anthropic's Claude became the chatbot of choice for AI industry insiders, who say its responses feel more creative and empathetic and less gratingly robotic (Kevin Roose/New York Times)",
+            "link": "http://www.techmeme.com/241213/p18#a241213p18",
+            "published": "Fri, 13 Dec 2024 11:10:00 -0500"
         },
         {
-            "title": "The EU finds it breached its own privacy rules in a 2023 ad campaign on X that intended to sway opinions for a proposal to force messaging apps to scan for CSAM (Natasha Lomas/TechCrunch)",
-            "link": "http://www.techmeme.com/241213/p11#a241213p11",
-            "published": "Fri, 13 Dec 2024 10:00:46 -0500"
+            "title": "Google rolls out NotebookLM Plus, the enterprise version of NotebookLM with added controls for access and data management, as part of Agentspace (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/241213/p17#a241213p17",
+            "published": "Fri, 13 Dec 2024 11:00:46 -0500"
         },
         {
-            "title": "An interview with Sundar Pichai about Google joining a \"Manhattan Project\" for AI under Trump, playing the long game after ChatGPT launch, Gemini 2.0, and more (Reed Albergotti/Semafor)",
-            "link": "http://www.techmeme.com/241213/p10#a241213p10",
-            "published": "Fri, 13 Dec 2024 09:35:04 -0500"
+            "title": "Google Cloud launches Agentspace to let enterprises create and deploy AI agents for marketing, HR, software development, and more (Larry Dignan/Constellation Research)",
+            "link": "http://www.techmeme.com/241213/p16#a241213p16",
+            "published": "Fri, 13 Dec 2024 10:51:31 -0500"
         },
         {
-            "title": "Source: Sam Altman plans on making a personal commitment of $1M to Trump's Presidential Inaugural Committee, as opposed to a gift from OpenAI (Kristen Altus/Fox Business)",
-            "link": "http://www.techmeme.com/241213/p9#a241213p9",
-            "published": "Fri, 13 Dec 2024 09:25:15 -0500"
+            "title": "Google rolls out interactive Audio Overviews in NotebookLM, an \"experimental feature\" that lets users talk to the AI \"hosts\" of the overviews (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/241213/p15#a241213p15",
+            "published": "Fri, 13 Dec 2024 10:46:51 -0500"
         },
         {
-            "title": "Musk says the SEC sent him a \"settlement demand\" after Twitter buyout probe, asking him to agree to a fine within 48 hours or \"face charges on numerous counts\" (Elizabeth Lopatto/The Verge)",
-            "link": "http://www.techmeme.com/241213/p8#a241213p8",
-            "published": "Fri, 13 Dec 2024 09:15:00 -0500"
+            "title": "OpenAI says the three hour ChatGPT outage on Wednesday was caused by a telemetry service it deployed to collect Kubernetes metrics (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/241213/p14#a241213p14",
+            "published": "Fri, 13 Dec 2024 10:35:12 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "How U.S. Firms Battled a Government Crackdown to Keep Tech Sales to China",
-            "link": "https://www.nytimes.com/2024/12/12/us/politics/tech-sales-china-huawei.html",
-            "published": "Fri, 13 Dec 2024 04:51:39 +0000"
+            "title": "Andreessen Horowitz, Benchmark and the Transformation of Venture Capital",
+            "link": "https://www.nytimes.com/2024/12/13/technology/andreessen-horowitz-benchmark-venture-capital.html",
+            "published": "Fri, 13 Dec 2024 10:00:30 +0000"
         },
         {
-            "title": "Ev Williams, Twitter and Medium Founder, Unveils New Social App",
-            "link": "https://www.nytimes.com/2024/12/12/technology/ev-williams-twitter-medium-mozi.html",
-            "published": "Thu, 12 Dec 2024 16:24:23 +0000"
+            "title": "Why Anthropic\u2019s Claude Is a Hit with Tech Insiders",
+            "link": "https://www.nytimes.com/2024/12/13/technology/claude-ai-anthropic.html",
+            "published": "Fri, 13 Dec 2024 15:27:31 +0000"
         },
         {
-            "title": "YouTube TV Hikes Monthly Price to $82.99, a 14 Percent Increase",
-            "link": "https://www.nytimes.com/2024/12/12/business/youtube-tv-price-increase.html",
-            "published": "Thu, 12 Dec 2024 23:04:43 +0000"
-        },
-        {
-            "title": "Mark Zuckerberg\u2019s Meta Donates $1 Million to Trump\u2019s Inaugural Fund",
-            "link": "https://www.nytimes.com/2024/12/12/technology/meta-trump-inaugural-fund-donation.html",
-            "published": "Thu, 12 Dec 2024 05:02:38 +0000"
+            "title": "Amazon Plans $1 Million Donation to Trump\u2019s Inaugural Fund",
+            "link": "https://www.nytimes.com/2024/12/12/technology/amazon-trump-inauguration.html",
+            "published": "Fri, 13 Dec 2024 02:19:52 +0000"
         },
         {
             "title": "TikTok\u2019s Last Stand, Google\u2019s Quantum Breakthrough and the Cult of Claude",
             "link": "https://www.nytimes.com/2024/12/13/podcasts/hardfork-tiktok-quantum-claude.html",
-            "published": "Fri, 13 Dec 2024 12:00:05 +0000"
+            "published": "Fri, 13 Dec 2024 16:15:13 +0000"
+        },
+        {
+            "title": "What Happened to the Tech Industry\u2019s \u2018Perks Culture\u2019?",
+            "link": "https://www.nytimes.com/2024/12/13/technology/tech-perks-culture.html",
+            "published": "Fri, 13 Dec 2024 10:02:28 +0000"
         }
     ],
     "source_2": [
