@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A look at Anthropic's Clio, an internal AI tool to identify new threats, disrupt coordinated abuse of the company's systems, and generate Claude usage insights (Casey Newton/Platformer)",
+            "link": "http://www.techmeme.com/241213/p6#a241213p6",
+            "published": "Fri, 13 Dec 2024 07:50:16 -0500"
+        },
+        {
+            "title": "Sources: the UK's AI Safety Institute delays plans for its US outpost as it faces Trump's \"starkly\" different AI regulation approach; the AISI has a &pound;50M budget (Financial Times)",
+            "link": "http://www.techmeme.com/241213/p5#a241213p5",
+            "published": "Fri, 13 Dec 2024 06:55:01 -0500"
+        },
+        {
+            "title": "Sources: Apple will begin producing AirPods in India for the first time around Q1, 2025; a Foxconn unit is already making AirPods on a trial basis in Hyderabad (Bloomberg)",
+            "link": "http://www.techmeme.com/241213/p4#a241213p4",
+            "published": "Fri, 13 Dec 2024 06:25:00 -0500"
+        },
+        {
             "title": "China plans to set up a committee of 41 members, including representatives from Baidu and Peking University, to set standards for LLMs and AI risk assessment (Reuters)",
             "link": "http://www.techmeme.com/241213/p3#a241213p3",
             "published": "Fri, 13 Dec 2024 05:50:02 -0500"
@@ -9,28 +24,13 @@
             "title": "How US SMB owners, celebrities, and retailers on TikTok are using livestreaming to boost their sales one year after TikTok Shop's launch in the country (Andrea Chang/Los Angeles Times)",
             "link": "http://www.techmeme.com/241213/p2#a241213p2",
             "published": "Fri, 13 Dec 2024 04:30:02 -0500"
-        },
-        {
-            "title": "Sources detail Anthropic and OpenAI's rivalry: OpenAI boosted ChatGPT's coding skills in response to Claude, Anthropic's safety focus, exec bad blood, and more (The Information)",
-            "link": "http://www.techmeme.com/241213/p1#a241213p1",
-            "published": "Fri, 13 Dec 2024 02:00:32 -0500"
-        },
-        {
-            "title": "In a strategy change, Netflix plans to make its Squid Games battle royale game available for free to non-members for a limited time after its December 17 launch (Jennifer Maas/Variety)",
-            "link": "http://www.techmeme.com/241212/p56#a241212p56",
-            "published": "Thu, 12 Dec 2024 23:55:05 -0500"
-        },
-        {
-            "title": "Australia-based Fleet Space, whose ExoSphere service helps find minerals in space using AI, sensors, and more, raised a AU$150M Series D at a AU$800M+ valuation (FinSMEs)",
-            "link": "http://www.techmeme.com/241212/p55#a241212p55",
-            "published": "Thu, 12 Dec 2024 22:55:06 -0500"
         }
     ],
     "source_1": [
         {
             "title": "How U.S. Firms Battled a Government Crackdown to Keep Tech Sales to China",
             "link": "https://www.nytimes.com/2024/12/12/us/politics/tech-sales-china-huawei.html",
-            "published": "Fri, 13 Dec 2024 04:51:38 +0000"
+            "published": "Fri, 13 Dec 2024 04:51:39 +0000"
         },
         {
             "title": "Ev Williams, Twitter and Medium Founder, Unveils New Social App",
@@ -48,9 +48,9 @@
             "published": "Thu, 12 Dec 2024 05:02:38 +0000"
         },
         {
-            "title": "What Happened to the Tech Industry\u2019s \u2018Perks Culture\u2019?",
-            "link": "https://www.nytimes.com/2024/12/13/technology/tech-perks-culture.html",
-            "published": "Fri, 13 Dec 2024 10:02:28 +0000"
+            "title": "TikTok\u2019s Last Stand, Google\u2019s Quantum Breakthrough and the Cult of Claude",
+            "link": "https://www.nytimes.com/2024/12/13/podcasts/hardfork-tiktok-quantum-claude.html",
+            "published": "Fri, 13 Dec 2024 12:00:04 +0000"
         }
     ],
     "source_2": [
