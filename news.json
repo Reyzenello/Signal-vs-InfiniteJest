@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at Blacksky, the Bluesky custom feed run by a team of six moderators, which is slowly turning into the main avenue for many Black users on the service (Jason Parham/Wired)",
+            "link": "http://www.techmeme.com/241215/p14#a241215p14",
+            "published": "Sun, 15 Dec 2024 12:40:12 -0500"
+        },
+        {
             "title": "A profile of Donald Trump's AI and crypto czar David Sacks, who has urged AI companies and other tech startups to boost US competitiveness and national security (George Hammond/Financial Times)",
             "link": "http://www.techmeme.com/241215/p13#a241215p13",
             "published": "Sun, 15 Dec 2024 11:05:17 -0500"
@@ -19,14 +24,14 @@
             "title": "How Sony turned itself around by innovating its games business beyond consoles and making acquisitions to expand its IP and focus on original content (John Towfighi/CNN)",
             "link": "http://www.techmeme.com/241215/p10#a241215p10",
             "published": "Sun, 15 Dec 2024 08:30:01 -0500"
-        },
-        {
-            "title": "Sports stars promoting crypto coins and exchanges with little knowledge highlight the lack of mechanisms for consumers to distinguish opportunities from scams (Andrew Lawrence/The Guardian)",
-            "link": "http://www.techmeme.com/241215/p9#a241215p9",
-            "published": "Sun, 15 Dec 2024 06:25:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How Student Phones and Social Media Are Fueling Fights in Schools",
+            "link": "https://www.nytimes.com/2024/12/15/technology/school-fight-videos-student-phones.html",
+            "published": "Sun, 15 Dec 2024 13:15:15 +0000"
+        },
         {
             "title": "Tech Industry and CEOs Curry Favor With Trump Ahead of His Inauguration",
             "link": "https://www.nytimes.com/2024/12/14/technology/trump-tech-amazon-meta-openai.html",
@@ -41,11 +46,6 @@
             "title": "Why Anthropic\u2019s Claude Is a Hit with Tech Insiders",
             "link": "https://www.nytimes.com/2024/12/13/technology/claude-ai-anthropic.html",
             "published": "Fri, 13 Dec 2024 19:32:47 +0000"
-        },
-        {
-            "title": "How Student Phones and Social Media Are Fueling Fights in Schools",
-            "link": "https://www.nytimes.com/2024/12/15/technology/school-fight-videos-student-phones.html",
-            "published": "Sun, 15 Dec 2024 13:15:15 +0000"
         },
         {
             "title": "Personal Data of Rhode Island Residents Breached in Large Cyberattack",
