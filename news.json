@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Researchers find a yearlong ongoing supply-chain attack targeting malicious and benevolent security personnel and stealing over 390K WordPress credentials (Dan Goodin/Ars Technica)",
+            "link": "http://www.techmeme.com/241214/p23#a241214p23",
+            "published": "Sat, 14 Dec 2024 23:10:01 -0500"
+        },
+        {
             "title": "An investigation finds Cryptomus, registered in Vancouver, is a payment processor for dozens of Russian crypto exchanges and sites hawking cybercrime services (Brian Krebs/Krebs on Security)",
             "link": "http://www.techmeme.com/241214/p22#a241214p22",
             "published": "Sat, 14 Dec 2024 21:35:14 -0500"
@@ -19,14 +24,14 @@
             "title": "Donald Trump plans to appoint Truth Social CEO Devin Nunes to lead the President's Intelligence Advisory Board, which oversees the US intelligence community (Politico)",
             "link": "http://www.techmeme.com/241214/p19#a241214p19",
             "published": "Sat, 14 Dec 2024 16:50:02 -0500"
-        },
-        {
-            "title": "AI companies, running out of conventional training datasets from the web, may be forced to shift from big, all-purpose LLMs to smaller, more specialized models (Nicola Jones/Nature)",
-            "link": "http://www.techmeme.com/241214/p18#a241214p18",
-            "published": "Sat, 14 Dec 2024 15:05:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Tech Industry and CEOs Curry Favor With Trump Ahead of His Inauguration",
+            "link": "https://www.nytimes.com/2024/12/14/technology/trump-tech-amazon-meta-openai.html",
+            "published": "Sat, 14 Dec 2024 10:02:57 +0000"
+        },
         {
             "title": "Andreessen Horowitz, Benchmark and the Transformation of Venture Capital",
             "link": "https://www.nytimes.com/2024/12/13/technology/andreessen-horowitz-benchmark-venture-capital.html",
@@ -38,19 +43,14 @@
             "published": "Fri, 13 Dec 2024 19:32:47 +0000"
         },
         {
-            "title": "Elon Musk\u2019s Playbook for DOGE Has a Precedent: X",
-            "link": "https://www.nytimes.com/2024/12/13/technology/elon-musk-doge-x.html",
-            "published": "Fri, 13 Dec 2024 16:34:31 +0000"
-        },
-        {
             "title": "Personal Data of Rhode Island Residents Breached in Large Cyberattack",
             "link": "https://www.nytimes.com/2024/12/14/us/cyberattack-rhode-island-ribridges-snap-medicaid.html",
-            "published": "Sat, 14 Dec 2024 21:25:03 +0000"
+            "published": "Sat, 14 Dec 2024 21:25:04 +0000"
         },
         {
-            "title": "Tech Industry and CEOs Curry Favor With Trump Ahead of His Inauguration",
-            "link": "https://www.nytimes.com/2024/12/14/technology/trump-tech-amazon-meta-openai.html",
-            "published": "Sat, 14 Dec 2024 10:02:57 +0000"
+            "title": "Another New Twitter? Good Luck With That.",
+            "link": "https://www.nytimes.com/2024/12/14/magazine/bluesky-social-media.html",
+            "published": "Sat, 14 Dec 2024 10:02:07 +0000"
         }
     ],
     "source_2": [
