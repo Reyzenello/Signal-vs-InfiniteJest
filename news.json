@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Digital bank Tyme Group, which operates in South Africa and the Philippines, raised a $250M Series D led by Brazilian digital bank Nubank at a $1.5B valuation (Bloomberg)",
+            "link": "http://www.techmeme.com/241216/p32#a241216p32",
+            "published": "Mon, 16 Dec 2024 20:15:16 -0500"
+        },
+        {
+            "title": "Waymo plans to test its robotaxis in Tokyo in early 2025, its first international expansion, with partners taxi operator Nihon Kotsu and taxi hailing app GO (CNBC)",
+            "link": "http://www.techmeme.com/241216/p31#a241216p31",
+            "published": "Mon, 16 Dec 2024 19:51:13 -0500"
+        },
+        {
+            "title": "Mark Zuckerberg says Threads now has 100M+ DAUs, revealing its DAU count for the first time, and 300M+ MAUs, up from 275M+ MAUs in Q3 2024 (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/241216/p30#a241216p30",
+            "published": "Mon, 16 Dec 2024 19:10:01 -0500"
+        },
+        {
             "title": "Source: Trump meets with TikTok CEO Shou Zi Chew at Mar-a-Lago, the same day that the company asks the Supreme Court to block the law that could ban the app (NBC News)",
             "link": "http://www.techmeme.com/241216/p29#a241216p29",
             "published": "Mon, 16 Dec 2024 17:55:13 -0500"
@@ -9,21 +24,6 @@
             "title": "Copenhagen-based Keepit, which offers SaaS data protection and backup services, raised $50M led by One Peak and Denmark's EIFO, taking its total raised to $90M (Eduard Kovacs/SecurityWeek)",
             "link": "http://www.techmeme.com/241216/p28#a241216p28",
             "published": "Mon, 16 Dec 2024 17:45:04 -0500"
-        },
-        {
-            "title": "Google debuts Whisk, an image generator that takes other images as prompts to suggest the subject, scene, and style, and uses the newly released Imagen 3 (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/241216/p27#a241216p27",
-            "published": "Mon, 16 Dec 2024 16:25:00 -0500"
-        },
-        {
-            "title": "Sources: Tesla received a high number of complaints about HW4 self-driving hardware in recent Teslas; source: Tesla service was told to downplay safety concerns (Fred Lambert/Electrek)",
-            "link": "http://www.techmeme.com/241216/p26#a241216p26",
-            "published": "Mon, 16 Dec 2024 16:10:04 -0500"
-        },
-        {
-            "title": "ByteDance asks SCOTUS to block the law that could ban TikTok on Jan. 19; Trump said today he has a \"warm spot\" in his heart for TikTok, when asked about the law (Lawrence Hurley/NBC News)",
-            "link": "http://www.techmeme.com/241216/p25#a241216p25",
-            "published": "Mon, 16 Dec 2024 15:43:17 -0500"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "TikTok Asks Supreme Court to Block Law Banning Its U.S. Operations",
             "link": "https://www.nytimes.com/2024/12/16/us/politics/tiktok-ban-supreme-court-first-amendment.html",
-            "published": "Mon, 16 Dec 2024 21:36:03 +0000"
+            "published": "Tue, 17 Dec 2024 01:58:23 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump meeting TikTok CEO as ban deadline looms",
+            "link": "https://www.bbc.com/news/articles/cre7vdz4npzo",
+            "published": "Tue, 17 Dec 2024 00:55:55 GMT"
+        },
         {
             "title": "Social media given 'last chance' to tackle illegal posts",
             "link": "https://www.bbc.com/news/articles/cwy83jdpgw5o",
@@ -73,11 +78,6 @@
             "title": "BBC complains to Apple over misleading shooting headline",
             "link": "https://www.bbc.com/news/articles/cd0elzk24dno",
             "published": "Fri, 13 Dec 2024 17:52:22 GMT"
-        },
-        {
-            "title": "Game Awards 2024: Astro Bot Wins Game of the Year",
-            "link": "https://www.bbc.com/news/articles/c0rn57j1lkeo",
-            "published": "Fri, 13 Dec 2024 09:51:12 GMT"
         }
     ]
 }
