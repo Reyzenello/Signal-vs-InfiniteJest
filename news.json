@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "The US ITC says smartphones made by Lenovo's Motorola Mobility infringe 5G patents owned by Ericsson; a final ruling is scheduled for April 2025 (Blake Brittain/Reuters)",
+            "title": "NYC-based Precision Neuroscience, a maker of brain-computer interfaces, raised a $102M Series C led by General Equity Holdings at a ~$500M post-money valuation (Richard Waters/Financial Times)",
+            "link": "http://www.techmeme.com/241217/p37#a241217p37",
+            "published": "Tue, 17 Dec 2024 20:55:03 -0500"
+        },
+        {
+            "title": "Nvidia unveils Jetson Orin Nano Super Developer Kit, a $249 compact AI development board that promises 67 TOPS, compared to 40 TOPS of the $499 last-gen kit (Avram Piltch/Tom's Hardware)",
+            "link": "http://www.techmeme.com/241217/p36#a241217p36",
+            "published": "Tue, 17 Dec 2024 19:50:00 -0500"
+        },
+        {
+            "title": "Apple Maps on the web adds support for Look Around, Apple's version of Google Street View (Filipe Esp&oacute;sito/9to5Mac)",
+            "link": "http://www.techmeme.com/241217/p35#a241217p35",
+            "published": "Tue, 17 Dec 2024 19:10:01 -0500"
+        },
+        {
+            "title": "The US ITC says smartphones made by Lenovo's Motorola infringe on Ericsson's 5G patents, which could lead to an import ban; a final ruling is set for April 2025 (Blake Brittain/Reuters)",
             "link": "http://www.techmeme.com/241217/p34#a241217p34",
             "published": "Tue, 17 Dec 2024 18:00:35 -0500"
         },
         {
-            "title": "Game emulator Delta adds an in-app link to pay via Patreon outside of the App Store, likely the first US app to use Apple's External Purchase Link Entitlement (John Voorhees/MacStories)",
+            "title": "Game emulator Delta adds an in-app link to pay outside of the App Store, via Patreon, likely the first US app to use Apple's External Purchase Link Entitlement (John Voorhees/MacStories)",
             "link": "http://www.techmeme.com/241217/p33#a241217p33",
             "published": "Tue, 17 Dec 2024 17:35:01 -0500"
-        },
-        {
-            "title": "OpenAI says it's rolling out o1 to its API for some developers, announces new versions of GPT-4o and GPT-4o mini as part of the Realtime API, and more (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241217/p32#a241217p32",
-            "published": "Tue, 17 Dec 2024 17:25:12 -0500"
-        },
-        {
-            "title": "CAA partners with YouTube to help CAA clients identify and remove AI-generated content that features their likeness, with a wider rollout planned in early 2025 (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/241217/p30#a241217p30",
-            "published": "Tue, 17 Dec 2024 16:20:14 -0500"
-        },
-        {
-            "title": "Salesforce says it will hire 2,000 people to sell AI software, a month after saying it would hire 1,000 for the task and two years after laying off 7,000 staff (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/241217/p31#a241217p31",
-            "published": "Tue, 17 Dec 2024 16:20:14 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Elon Musk and SpaceX Face Federal Reviews After Violations of Security Reporting Rules",
             "link": "https://www.nytimes.com/2024/12/17/technology/elon-musk-spacex-national-security-reporting.html",
-            "published": "Tue, 17 Dec 2024 21:05:18 +0000"
+            "published": "Wed, 18 Dec 2024 01:41:28 +0000"
         },
         {
             "title": "Jeff Bezos\u2019 Blue Origin Ramps Up Competition with Elon Musk and SpaceX",
@@ -40,7 +40,7 @@
         {
             "title": "How OpenAI Plans to Move From Being a Nonprofit",
             "link": "https://www.nytimes.com/2024/12/17/technology/openai-nonprofit-control.html",
-            "published": "Tue, 17 Dec 2024 16:30:25 +0000"
+            "published": "Wed, 18 Dec 2024 00:04:16 +0000"
         },
         {
             "title": "Why OpenAI Needs So Much Money",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "How Facebook restricted news in Palestinian territories",
+            "link": "https://www.bbc.com/news/articles/c786wlxz4jgo",
+            "published": "Wed, 18 Dec 2024 00:22:21 GMT"
+        },
         {
             "title": "Ofcom apologises for 'ill-judged' porn joke job ad",
             "link": "https://www.bbc.com/news/articles/clygj1l4yweo",
@@ -73,11 +78,6 @@
             "title": "Amazon aware of warehouse injury risk, report finds",
             "link": "https://www.bbc.com/news/articles/clyjm507462o",
             "published": "Mon, 16 Dec 2024 17:35:20 GMT"
-        },
-        {
-            "title": "Bitcoin hits new record high of more than $106,000",
-            "link": "https://www.bbc.com/news/articles/c5ywp0l0xrxo",
-            "published": "Mon, 16 Dec 2024 11:05:14 GMT"
         }
     ]
 }
