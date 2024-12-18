@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Amazon recently pushed back RTO dates for some staff in Austin, Dallas, and Phoenix by as much as four months, citing a lack of office space (Bloomberg)",
+            "link": "http://www.techmeme.com/241218/p25#a241218p25",
+            "published": "Wed, 18 Dec 2024 11:50:05 -0500"
+        },
+        {
             "title": "Amazon unveils new packaging for its Echo, Kindle, and Fire TV products, including removing plastic, less paper and ink, and using more recycled fibers (Kurt Schlosser/GeekWire)",
             "link": "http://www.techmeme.com/241218/p24#a241218p24",
             "published": "Wed, 18 Dec 2024 11:25:07 -0500"
@@ -19,14 +24,14 @@
             "title": "Q&A with Microsoft Chief Product Officer of Responsible AI Sarah Bird on generative AI, its impact on work, Copilots, OpenAI, AGI, AI agents, bias, and more (Cristina Criddle/Financial Times)",
             "link": "http://www.techmeme.com/241218/p21#a241218p21",
             "published": "Wed, 18 Dec 2024 08:55:13 -0500"
-        },
-        {
-            "title": "Bureau, which offers tools to prevent user identity fraud, raised a $30M Series B led by Sorenson Capital, a source says at a ~$150M valuation (Jaspreet Singh/Reuters)",
-            "link": "http://www.techmeme.com/241218/p20#a241218p20",
-            "published": "Wed, 18 Dec 2024 08:35:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Supreme Court to Hear TikTok\u2019s Challenge to Law That Could Ban It",
+            "link": "https://www.nytimes.com/2024/12/18/us/politics/supreme-court-tiktok-ban.html",
+            "published": "Wed, 18 Dec 2024 17:08:29 +0000"
+        },
         {
             "title": "Elon Musk and SpaceX Face Federal Reviews After Violations of Security Reporting Rules",
             "link": "https://www.nytimes.com/2024/12/17/technology/elon-musk-spacex-national-security-reporting.html",
@@ -35,17 +40,12 @@
         {
             "title": "Jeff Bezos\u2019 Blue Origin Ramps Up Competition with Elon Musk and SpaceX",
             "link": "https://www.nytimes.com/2024/12/17/technology/jeff-bezos-blue-origin-elon-musk.html",
-            "published": "Tue, 17 Dec 2024 16:40:45 +0000"
+            "published": "Tue, 17 Dec 2024 16:40:46 +0000"
         },
         {
             "title": "How OpenAI Plans to Move From Being a Nonprofit",
             "link": "https://www.nytimes.com/2024/12/17/technology/openai-nonprofit-control.html",
             "published": "Wed, 18 Dec 2024 00:04:16 +0000"
-        },
-        {
-            "title": "Why OpenAI Needs So Much Money",
-            "link": "https://www.nytimes.com/2024/12/17/technology/openai-chatgpt-funding.html",
-            "published": "Wed, 18 Dec 2024 14:47:34 +0000"
         },
         {
             "title": "How to Navigate Updates to Apple\u2019s and Google\u2019s Photos Apps",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Supreme Court to hear last gasp TikTok ban challenge",
+            "link": "https://www.bbc.com/news/articles/cn4xw9lx02xo",
+            "published": "Wed, 18 Dec 2024 17:23:06 GMT"
+        },
         {
             "title": "How Facebook restricted news in Palestinian territories",
             "link": "https://www.bbc.com/news/articles/c786wlxz4jgo",
@@ -73,11 +78,6 @@
             "title": "Ofcom apologises for 'ill-judged' porn joke job ad",
             "link": "https://www.bbc.com/news/articles/clygj1l4yweo",
             "published": "Tue, 17 Dec 2024 13:14:28 GMT"
-        },
-        {
-            "title": "Trump meets TikTok CEO as ban deadline looms",
-            "link": "https://www.bbc.com/news/articles/cre7vdz4npzo",
-            "published": "Tue, 17 Dec 2024 10:50:06 GMT"
         }
     ]
 }
