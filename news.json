@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "NERC, overseen by FERC, warns soaring electricity demand from sources including data centers to power AI could strain US and Canadian grids, risking blackouts (Myles McCormick/Financial Times)",
+            "link": "http://www.techmeme.com/241218/p3#a241218p3",
+            "published": "Wed, 18 Dec 2024 01:10:02 -0500"
+        },
+        {
+            "title": "India's commerce minister says that Shein will operate in India purely as a tech partner, with Reliance Retail having full ownership and control of operations (Manish Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/241218/p2#a241218p2",
+            "published": "Wed, 18 Dec 2024 00:50:00 -0500"
+        },
+        {
+            "title": "Google introduces FACTS Grounding benchmark for evaluating the factuality of LLMs, and announces a leaderboard that ranks Gemini 2.0 Flash Experimental on top (Google DeepMind)",
+            "link": "http://www.techmeme.com/241218/p1#a241218p1",
+            "published": "Wed, 18 Dec 2024 00:40:04 -0500"
+        },
+        {
             "title": "Bluesky's use of domains to verify users has led to cybersquatting and impersonation, as domains don't offer enough social proof for the average person (Ernie Smith/Tedium)",
             "link": "http://www.techmeme.com/241217/p38#a241217p38",
             "published": "Tue, 17 Dec 2024 22:15:01 -0500"
@@ -9,21 +24,6 @@
             "title": "NYC-based Precision Neuroscience, a maker of brain-computer interfaces, raised a $102M Series C led by General Equity Holdings at a ~$500M post-money valuation (Richard Waters/Financial Times)",
             "link": "http://www.techmeme.com/241217/p37#a241217p37",
             "published": "Tue, 17 Dec 2024 20:55:03 -0500"
-        },
-        {
-            "title": "Nvidia unveils Jetson Orin Nano Super Developer Kit, a $249 compact AI development board that promises 67 TOPS, compared to 40 TOPS of the $499 last-gen kit (Avram Piltch/Tom's Hardware)",
-            "link": "http://www.techmeme.com/241217/p36#a241217p36",
-            "published": "Tue, 17 Dec 2024 19:50:00 -0500"
-        },
-        {
-            "title": "Apple Maps on the web adds support for Look Around, Apple's version of Google Street View (Filipe Esp&oacute;sito/9to5Mac)",
-            "link": "http://www.techmeme.com/241217/p35#a241217p35",
-            "published": "Tue, 17 Dec 2024 19:10:01 -0500"
-        },
-        {
-            "title": "The US ITC says smartphones made by Lenovo's Motorola infringe on Ericsson's 5G patents, which could lead to an import ban; a final ruling is set for April 2025 (Blake Brittain/Reuters)",
-            "link": "http://www.techmeme.com/241217/p34#a241217p34",
-            "published": "Tue, 17 Dec 2024 18:00:35 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Wed, 18 Dec 2024 00:22:21 GMT"
         },
         {
+            "title": "Amazon union in US authorises strike ahead of Christmas",
+            "link": "https://www.bbc.com/news/articles/c1wq84x8z7yo",
+            "published": "Wed, 18 Dec 2024 05:58:01 GMT"
+        },
+        {
             "title": "Ofcom apologises for 'ill-judged' porn joke job ad",
             "link": "https://www.bbc.com/news/articles/clygj1l4yweo",
             "published": "Tue, 17 Dec 2024 13:14:28 GMT"
@@ -73,11 +78,6 @@
             "title": "Social media given 'last chance' to tackle illegal posts",
             "link": "https://www.bbc.com/news/articles/cwy83jdpgw5o",
             "published": "Mon, 16 Dec 2024 11:52:57 GMT"
-        },
-        {
-            "title": "Amazon aware of warehouse injury risk, report finds",
-            "link": "https://www.bbc.com/news/articles/clyjm507462o",
-            "published": "Mon, 16 Dec 2024 17:35:20 GMT"
         }
     ]
 }
