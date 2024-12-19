@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The US FAA prohibits drone flights over several parts of New Jersey, as public hysteria over sightings of possible drone activity continues to persist (Allyson Versprille/Bloomberg)",
+            "link": "http://www.techmeme.com/241219/p26#a241219p26",
+            "published": "Thu, 19 Dec 2024 12:00:46 -0500"
+        },
+        {
             "title": "Sources: Insight Partners, which bought Dotmatics for around $629M in 2021, is exploring options for the R&D software maker, including selling it for $5B+ (Bloomberg)",
             "link": "http://www.techmeme.com/241219/p25#a241219p25",
             "published": "Thu, 19 Dec 2024 11:20:10 -0500"
@@ -19,28 +24,23 @@
             "title": "Decart, which helps organizations train AI models at scale, raised a $32M Series A, sources say at a $500M+ valuation, after a $21M seed in October 2024 (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/241219/p22#a241219p22",
             "published": "Thu, 19 Dec 2024 09:55:01 -0500"
-        },
-        {
-            "title": "Smart ring maker &Omacr;ura raised a $200M Series D from Fidelity and Dexcom at a $5.2B valuation and says sales doubled in 2024 to ~$500M with 2.5M+ total rings sold (Tim Bradshaw/Financial Times)",
-            "link": "http://www.techmeme.com/241219/p21#a241219p21",
-            "published": "Thu, 19 Dec 2024 09:11:11 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Supreme Court Fast-Tracks TikTok Case in Face of Jan. 19 Deadline",
-            "link": "https://www.nytimes.com/2024/12/18/us/politics/supreme-court-tiktok-ban.html",
-            "published": "Wed, 18 Dec 2024 22:03:09 +0000"
+            "title": "Nvidia\u2019s Global Chips Sales Could Collide With US-China Tensions",
+            "link": "https://www.nytimes.com/2024/12/19/technology/nvidia-chip-sales-us-china.html",
+            "published": "Thu, 19 Dec 2024 17:14:34 +0000"
         },
         {
-            "title": "Elon Musk and SpaceX Face Federal Reviews After Violations of Security Reporting Rules",
-            "link": "https://www.nytimes.com/2024/12/17/technology/elon-musk-spacex-national-security-reporting.html",
-            "published": "Wed, 18 Dec 2024 17:31:31 +0000"
+            "title": "Is the Tech Industry Nearing an A.I. Slowdown?",
+            "link": "https://www.nytimes.com/2024/12/19/technology/artificial-intelligence-data-openai-google.html",
+            "published": "Thu, 19 Dec 2024 16:25:12 +0000"
         },
         {
-            "title": "Jeff Bezos\u2019 Blue Origin Ramps Up Competition with Elon Musk and SpaceX",
-            "link": "https://www.nytimes.com/2024/12/17/technology/jeff-bezos-blue-origin-elon-musk.html",
-            "published": "Tue, 17 Dec 2024 16:40:46 +0000"
+            "title": "Elon Musk Flexes His Political Strength as Government Shutdown Looms",
+            "link": "https://www.nytimes.com/2024/12/19/us/politics/elon-musk-politics.html",
+            "published": "Thu, 19 Dec 2024 17:14:11 +0000"
         },
         {
             "title": "How to Navigate Updates to Apple\u2019s and Google\u2019s Photos Apps",
@@ -48,12 +48,17 @@
             "published": "Wed, 18 Dec 2024 14:00:14 +0000"
         },
         {
-            "title": "Nvidia\u2019s Global Chips Sales Could Collide With US-China Tensions",
-            "link": "https://www.nytimes.com/2024/12/19/technology/nvidia-chip-sales-us-china.html",
-            "published": "Thu, 19 Dec 2024 16:25:18 +0000"
+            "title": "Google Street View Captures a Man Loading a Bag Into a Trunk. Arrests Follow.",
+            "link": "https://www.nytimes.com/2024/12/18/world/europe/google-maps-spain-arrests.html",
+            "published": "Thu, 19 Dec 2024 05:30:37 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Man convicted for repeatedly lying about inventing Bitcoin",
+            "link": "https://www.bbc.com/news/articles/c74x0j47gz8o",
+            "published": "Thu, 19 Dec 2024 16:47:12 GMT"
+        },
         {
             "title": "Apple urged to axe AI feature after false headline",
             "link": "https://www.bbc.com/news/articles/cx2v778x85yo",
@@ -73,11 +78,6 @@
             "title": "How Facebook restricted news in Palestinian territories",
             "link": "https://www.bbc.com/news/articles/c786wlxz4jgo",
             "published": "Wed, 18 Dec 2024 00:22:21 GMT"
-        },
-        {
-            "title": "Apple accused of using conflict minerals",
-            "link": "https://www.bbc.com/news/articles/cn8g540wz3jo",
-            "published": "Tue, 17 Dec 2024 22:18:01 GMT"
         }
     ]
 }
