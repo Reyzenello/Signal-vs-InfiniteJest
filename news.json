@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The US finalizes a $458M grant for SK Hynix under the CHIPS Act and $500M in loans to build a $3.87B chip packaging facility in Indiana (Mackenzie Hawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/241219/p16#a241219p16",
+            "published": "Thu, 19 Dec 2024 06:10:15 -0500"
+        },
+        {
+            "title": "A look at the quickly disappearing web, as digital decay and link rot erase all kinds of media; a Pew study says 38% of webpages accessible in 2013 are now gone (S.E. Smith/The Verge)",
+            "link": "http://www.techmeme.com/241219/p15#a241219p15",
+            "published": "Thu, 19 Dec 2024 05:50:00 -0500"
+        },
+        {
+            "title": "Sony buys ~$320M of shares in Japanese media powerhouse Kadokawa, which owns FromSoftware, taking its stake to ~10% and becoming Kadokawa's top shareholder (Kiyoshi Takenaka/Reuters)",
+            "link": "http://www.techmeme.com/241219/p14#a241219p14",
+            "published": "Thu, 19 Dec 2024 05:35:02 -0500"
+        },
+        {
             "title": "Arm v. Qualcomm: Qualcomm CEO Christian Amon described Arm's Nuvia license cancellation and demand for Qualcomm to destroy IP after buying Nuvia as \"outrageous\" (Jef Feeley/Bloomberg)",
             "link": "http://www.techmeme.com/241219/p13#a241219p13",
             "published": "Thu, 19 Dec 2024 05:15:00 -0500"
@@ -9,21 +24,6 @@
             "title": "Tracxn: Indian startup funding rounds fell 32% YoY to 1,448 in 2024, but overall funding rose 6% YoY to $11.3B; 40+ startups completed IPOs, up 80% YoY (Manish Singh/TechCrunch)",
             "link": "http://www.techmeme.com/241219/p12#a241219p12",
             "published": "Thu, 19 Dec 2024 04:50:01 -0500"
-        },
-        {
-            "title": "A look at BirdVoxDetect, an ML-powered open-source software that ornithologists can use and adapt to detect flight calls from songbirds in audio recordings (Christian Elliott/MIT Technology Review)",
-            "link": "http://www.techmeme.com/241219/p11#a241219p11",
-            "published": "Thu, 19 Dec 2024 04:20:02 -0500"
-        },
-        {
-            "title": "Sources: Apple is in early-stage talks with Tencent and ByteDance about integrating their AI models into iPhones sold in China; ChatGPT is unavailable in China (Reuters)",
-            "link": "http://www.techmeme.com/241219/p10#a241219p10",
-            "published": "Thu, 19 Dec 2024 04:05:02 -0500"
-        },
-        {
-            "title": "A look at Truth Terminal, an AI bot on X that was created to spark debate about AI alignment, as its crypto wallet swells to ~$40M after boosting memecoins (Joel Khalili/Wired)",
-            "link": "http://www.techmeme.com/241219/p9#a241219p9",
-            "published": "Thu, 19 Dec 2024 03:55:17 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple urged to axe AI feature after false headline",
+            "link": "https://www.bbc.com/news/articles/cx2v778x85yo",
+            "published": "Thu, 19 Dec 2024 10:38:29 GMT"
+        },
+        {
             "title": "US Supreme Court to hear TikTok challenge to potential ban",
             "link": "https://www.bbc.com/news/articles/cn4xw9lx02xo",
             "published": "Thu, 19 Dec 2024 04:44:28 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple accused of using conflict minerals",
             "link": "https://www.bbc.com/news/articles/cn8g540wz3jo",
             "published": "Tue, 17 Dec 2024 22:18:01 GMT"
-        },
-        {
-            "title": "Amazon faces US strike threat ahead of Christmas",
-            "link": "https://www.bbc.com/news/articles/c1wq84x8z7yo",
-            "published": "Wed, 18 Dec 2024 05:58:01 GMT"
         }
     ]
 }
