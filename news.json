@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Anysphere, developer of GitHub Copilot rival Cursor, raised a $100M Series B at a $2.6B valuation, up from a $400M valuation in August 2024 (Marina Temkin/TechCrunch)",
+            "link": "http://www.techmeme.com/241219/p37#a241219p37",
+            "published": "Thu, 19 Dec 2024 21:20:00 -0500"
+        },
+        {
+            "title": "Apple researchers say the company's open-source ReDrafter method on Nvidia GPUs led to a 2.7x speed increase in generated tokens per second for greedy encoding (Malcolm Owen/AppleInsider)",
+            "link": "http://www.techmeme.com/241219/p36#a241219p36",
+            "published": "Thu, 19 Dec 2024 20:55:00 -0500"
+        },
+        {
             "title": "Researchers unveil Genesis, an open-source generative physics engine that trains robots in simulated reality 430K times faster than in the real world (Benj Edwards/Ars Technica)",
             "link": "http://www.techmeme.com/241219/p35#a241219p35",
             "published": "Thu, 19 Dec 2024 20:20:04 -0500"
@@ -14,16 +24,6 @@
             "title": "YouTube plans to start a crackdown on \"egregious clickbait\", or videos where the titles or thumbnails make claims the videos don't back up, beginning in India (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/241219/p33#a241219p33",
             "published": "Thu, 19 Dec 2024 17:15:09 -0500"
-        },
-        {
-            "title": "A look at Frank McCourt's efforts to acquire TikTok and the obstacles he faces, as he lobbies Congress and Trump's team and recruits former TikTok executives (Bloomberg)",
-            "link": "http://www.techmeme.com/241219/p32#a241219p32",
-            "published": "Thu, 19 Dec 2024 16:05:00 -0500"
-        },
-        {
-            "title": "Backflip, which is building AI models that can generate 3D designs using text, sketches, or photos as prompts, raised a $30M Series A co-led by NEA and a16z (Charles Rollet/TechCrunch)",
-            "link": "http://www.techmeme.com/241219/p31#a241219p31",
-            "published": "Thu, 19 Dec 2024 15:30:00 -0500"
         }
     ],
     "source_1": [
