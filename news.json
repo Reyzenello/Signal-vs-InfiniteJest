@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "US hospital operator Ascension notifies ~5.6M patients and staffers that their personal and health data was stolen in a May 2024 cyberattack (Sergiu Gatlan/BleepingComputer)",
+            "link": "http://www.techmeme.com/241220/p12#a241220p12",
+            "published": "Fri, 20 Dec 2024 11:20:02 -0500"
+        },
+        {
+            "title": "The CFPB sues Zelle operator EWS, JPMorgan Chase, BoA, and Wells Fargo, alleging that customers lost $870M+ to fraud since the launch of Zelle in 2017 (Hugh Son/CNBC)",
+            "link": "http://www.techmeme.com/241220/p11#a241220p11",
+            "published": "Fri, 20 Dec 2024 10:50:01 -0500"
+        },
+        {
             "title": "Italy's data regulator fines OpenAI &euro;15M after its probe found that the startup processed users' personal data to train ChatGPT without an adequate legal basis (Reuters)",
             "link": "http://www.techmeme.com/241220/p10#a241220p10",
             "published": "Fri, 20 Dec 2024 10:05:03 -0500"
@@ -14,19 +24,19 @@
             "title": "The UK ICO criticizes Google as \"irresponsible\" after the company announced plans to let advertisers employ fingerprinting techniques from February 16, 2025 (Robert Booth/The Guardian)",
             "link": "http://www.techmeme.com/241220/p8#a241220p8",
             "published": "Fri, 20 Dec 2024 07:45:40 -0500"
-        },
-        {
-            "title": "The UK CMA says its phase one probe found that chip designer Synopsys' $35B acquisition of 3D software maker Ansys could reduce innovation and increase prices (Reuters)",
-            "link": "http://www.techmeme.com/241220/p7#a241220p7",
-            "published": "Fri, 20 Dec 2024 07:20:04 -0500"
-        },
-        {
-            "title": "Bluesky updates its app to include a separate mentions tab in notifications, protections against username squatting, and new controls for replies sorting (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/241220/p6#a241220p6",
-            "published": "Fri, 20 Dec 2024 06:55:23 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Amazon Has Overhauled Its Drone Delivery. Will the Public Welcome It?",
+            "link": "https://www.nytimes.com/2024/12/20/technology/amazon-prime-air-drone-delivery.html",
+            "published": "Fri, 20 Dec 2024 14:16:16 +0000"
+        },
+        {
+            "title": "OpenAI\u2019s Reasoning Machine, Instagram Teen Changes and Amazon R.T.O. Drama",
+            "link": "https://www.nytimes.com/2024/09/20/podcasts/hardfork-o1-meta-teens-amazon.html",
+            "published": "Fri, 20 Sep 2024 09:05:38 +0000"
+        },
         {
             "title": "Nvidia\u2019s Global Chips Sales Could Collide With US-China Tensions",
             "link": "https://www.nytimes.com/2024/12/19/technology/nvidia-chip-sales-us-china.html",
@@ -38,19 +48,9 @@
             "published": "Thu, 19 Dec 2024 16:25:13 +0000"
         },
         {
-            "title": "Elon Musk Flexes His Political Strength as Government Shutdown Looms",
-            "link": "https://www.nytimes.com/2024/12/19/us/politics/elon-musk-politics.html",
-            "published": "Fri, 20 Dec 2024 04:09:15 +0000"
-        },
-        {
-            "title": "How to Navigate Updates to Apple\u2019s and Google\u2019s Photos Apps",
-            "link": "https://www.nytimes.com/2024/12/18/technology/personaltech/apple-google-photo-apps-updates-changes.html",
-            "published": "Wed, 18 Dec 2024 14:00:14 +0000"
-        },
-        {
             "title": "Is Amazon\u2019s Drone Delivery Finally Ready for Prime Time?",
             "link": "https://www.nytimes.com/2024/12/20/podcasts/hardfork-amazon-drone-delivery.html",
-            "published": "Fri, 20 Dec 2024 12:00:05 +0000"
+            "published": "Fri, 20 Dec 2024 12:00:06 +0000"
         }
     ],
     "source_2": [
