@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at a lawsuit from 64 families against Snap that alleges Snapchat's design is responsible for connecting teens to dealers selling counterfeit drugs (Olivia Carville/Bloomberg)",
+            "link": "http://www.techmeme.com/241221/p5#a241221p5",
+            "published": "Sat, 21 Dec 2024 02:30:03 -0500"
+        },
+        {
             "title": "Sensor Tower: Indian quick commerce startup Zepto had 31M MAUs in Nov. 2024, up from 6M in May 2022; Blinkit had 30M MAUs in Nov. 2024, up from 28M in May 2022 (Manish Singh/India Dispatch)",
             "link": "http://www.techmeme.com/241221/p4#a241221p4",
             "published": "Sat, 21 Dec 2024 01:50:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Report: Alibaba splits the team developing apps for its AI chatbot Qianwen from the team that builds its LLM, following similar moves by ByteDance and Baidu (Wency Chen/South China Morning Post)",
             "link": "http://www.techmeme.com/241221/p1#a241221p1",
             "published": "Sat, 21 Dec 2024 00:05:01 -0500"
-        },
-        {
-            "title": "Sources: Intel shortlists buyout firms for the next round of bidding for its Altera unit, including Francisco Partners, Silver Lake, and Lattice Semiconductor (Bloomberg)",
-            "link": "http://www.techmeme.com/241220/p35#a241220p35",
-            "published": "Fri, 20 Dec 2024 23:25:06 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google suggests fixes to its search monopoly",
+            "link": "https://www.bbc.com/news/articles/c2kxpn2k08do",
+            "published": "Sat, 21 Dec 2024 07:52:31 GMT"
+        },
+        {
             "title": "Sega considering Netflix-like game subscription service",
             "link": "https://www.bbc.com/news/articles/ckgnj7e8028o",
             "published": "Fri, 20 Dec 2024 22:35:07 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple urged to axe AI feature after false headline",
             "link": "https://www.bbc.com/news/articles/cx2v778x85yo",
             "published": "Thu, 19 Dec 2024 10:38:29 GMT"
-        },
-        {
-            "title": "US Supreme Court to hear TikTok challenge to potential ban",
-            "link": "https://www.bbc.com/news/articles/cn4xw9lx02xo",
-            "published": "Thu, 19 Dec 2024 04:44:28 GMT"
         }
     ]
 }
