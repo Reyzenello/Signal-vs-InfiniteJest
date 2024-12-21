@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Researchers at Anthropic, Oxford, Stanford, and MATS create Best-of-N Jailbreaking, a black-box algorithm that jailbreaks frontier AI systems across modalities (Emanuel Maiberg/404 Media)",
+            "link": "http://www.techmeme.com/241221/p3#a241221p3",
+            "published": "Sat, 21 Dec 2024 01:01:14 -0500"
+        },
+        {
+            "title": "Dealogic data: the global M&A activity in the tech sector in 2024 jumped 20%+ YoY to $534B, accounting for the largest share of the total $3.45T in M&A activity (Reuters)",
+            "link": "http://www.techmeme.com/241221/p2#a241221p2",
+            "published": "Sat, 21 Dec 2024 00:25:05 -0500"
+        },
+        {
             "title": "Report: Alibaba splits the team developing apps for its AI chatbot Qianwen from the team that builds its LLM, following similar moves by ByteDance and Baidu (Wency Chen/South China Morning Post)",
             "link": "http://www.techmeme.com/241221/p1#a241221p1",
             "published": "Sat, 21 Dec 2024 00:05:01 -0500"
@@ -14,19 +24,14 @@
             "title": "Google calls DOJ's proposed Chrome sale \"extreme\" and at odds with the law, urging the judge to take caution to avoid stifling innovation and future investment (Bloomberg)",
             "link": "http://www.techmeme.com/241220/p34#a241220p34",
             "published": "Fri, 20 Dec 2024 23:00:52 -0500"
-        },
-        {
-            "title": "As part of its remedies proposal, Google would make its Android agreements with OEMs non-exclusive and allow them to unbundle Play Store from Chrome and Search (Jody Godoy/Reuters)",
-            "link": "http://www.techmeme.com/241220/p33#a241220p33",
-            "published": "Fri, 20 Dec 2024 22:50:03 -0500"
-        },
-        {
-            "title": "Google files its proposed remedies in the DOJ's search antitrust lawsuit, including letting browser companies have multiple default agreements across platforms (Lee-Anne Mulholland/The Keyword)",
-            "link": "http://www.techmeme.com/241220/p32#a241220p32",
-            "published": "Fri, 20 Dec 2024 22:38:20 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Google Proposes Fix to Solve Search Monopoly",
+            "link": "https://www.nytimes.com/2024/12/20/technology/google-antitrust-search-remedies.html",
+            "published": "Sat, 21 Dec 2024 05:33:44 +0000"
+        },
         {
             "title": "Amazon Has Overhauled Its Drone Delivery. Will the Public Welcome It?",
             "link": "https://www.nytimes.com/2024/12/20/technology/amazon-prime-air-drone-delivery.html",
@@ -41,11 +46,6 @@
             "title": "OpenAI Unveils o3 System That Reasons Through Math, Science Problems",
             "link": "https://www.nytimes.com/2024/12/20/technology/openai-new-ai-math-science.html",
             "published": "Fri, 20 Dec 2024 20:32:28 +0000"
-        },
-        {
-            "title": "Nvidia\u2019s Global Chips Sales Could Collide With US-China Tensions",
-            "link": "https://www.nytimes.com/2024/12/19/technology/nvidia-chip-sales-us-china.html",
-            "published": "Thu, 19 Dec 2024 17:14:35 +0000"
         },
         {
             "title": "Google Antitrust Case: Why Chrome May Be Sold and What Happens Next",
