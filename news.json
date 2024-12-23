@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "AI platforms are unlikely to become a major source of traffic or ad revenue for media outlets, with content deals offering only a short-term revenue boost (Om Malik/On my Om)",
+            "link": "http://www.techmeme.com/241223/p3#a241223p3",
+            "published": "Mon, 23 Dec 2024 05:00:30 -0500"
+        },
+        {
             "title": "Google and OpenAI's AI product announcements over the past month have transformed the state of AI and show the breadth and pace of change (Ethan Mollick/One Useful Thing)",
             "link": "http://www.techmeme.com/241223/p2#a241223p2",
             "published": "Mon, 23 Dec 2024 03:50:09 -0500"
@@ -19,11 +24,6 @@
             "title": "Sources: SoftBank's Masayoshi Son has recently become singularly obsessed with how to build the next Nvidia and wants competitive AI chips ready to ship by 2026 (Bloomberg)",
             "link": "http://www.techmeme.com/241222/p12#a241222p12",
             "published": "Sun, 22 Dec 2024 18:32:55 -0500"
-        },
-        {
-            "title": "Broadcom CEO Hock Tan says AI spending frenzy will continue until the decade's end, and downplays an Intel bid, saying he had his \"hands very full\" in AI chips (Tim Bradshaw/Financial Times)",
-            "link": "http://www.techmeme.com/241222/p11#a241222p11",
-            "published": "Sun, 22 Dec 2024 18:25:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 20 Dec 2024 20:32:28 +0000"
         },
         {
-            "title": "Amazon Warehouse Workers in New York City Join Protest",
-            "link": "https://www.nytimes.com/2024/12/21/business/amazon-warehouse-staten-island-strike.html",
-            "published": "Sat, 21 Dec 2024 20:43:13 +0000"
+            "title": "Under Pressure, Telegram Turns a Profit for the First Time",
+            "link": "https://www.nytimes.com/2024/12/23/technology/telegram-business-profit.html",
+            "published": "Mon, 23 Dec 2024 10:04:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Morrisons customers say Christmas deliveries and discounts not working",
+            "link": "https://www.bbc.com/news/articles/cdjg8kz8jj3o",
+            "published": "Mon, 23 Dec 2024 10:10:42 GMT"
+        },
         {
             "title": "Google suggests fixes to its search monopoly",
             "link": "https://www.bbc.com/news/articles/c2kxpn2k08do",
@@ -73,11 +78,6 @@
             "title": "Man convicted for repeatedly lying about inventing Bitcoin",
             "link": "https://www.bbc.com/news/articles/c74x0j47gz8o",
             "published": "Thu, 19 Dec 2024 16:47:12 GMT"
-        },
-        {
-            "title": "Apple urged to axe AI feature after false headline",
-            "link": "https://www.bbc.com/news/articles/cx2v778x85yo",
-            "published": "Thu, 19 Dec 2024 10:38:29 GMT"
         }
     ]
 }
