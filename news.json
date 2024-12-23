@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "X raises US Premium+ prices by 37.5% to $22 per month, starting on December 21, and EU prices from &euro;16 to &euro;21 per month; the basic subscription still costs $3 (Manish Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/241223/p6#a241223p6",
+            "published": "Mon, 23 Dec 2024 06:10:03 -0500"
+        },
+        {
+            "title": "The Biden administration opens a trade investigation into China's production of older chips, a move that may lead to tariffs and other measures to block imports (New York Times)",
+            "link": "http://www.techmeme.com/241223/p5#a241223p5",
+            "published": "Mon, 23 Dec 2024 05:55:01 -0500"
+        },
+        {
+            "title": "Google says it plans to counter Japan's FTC over claims that it hobbles rivals in search; a source says Japan's FTC sent a cease-and-desist order to Google (Bloomberg)",
+            "link": "http://www.techmeme.com/241223/p4#a241223p4",
+            "published": "Mon, 23 Dec 2024 05:40:02 -0500"
+        },
+        {
             "title": "AI platforms are unlikely to become a major source of traffic or ad revenue for media outlets, with content deals offering only a short-term revenue boost (Om Malik/On my Om)",
             "link": "http://www.techmeme.com/241223/p3#a241223p3",
             "published": "Mon, 23 Dec 2024 05:00:30 -0500"
@@ -9,21 +24,6 @@
             "title": "Google and OpenAI's AI product announcements over the past month have transformed the state of AI and show the breadth and pace of change (Ethan Mollick/One Useful Thing)",
             "link": "http://www.techmeme.com/241223/p2#a241223p2",
             "published": "Mon, 23 Dec 2024 03:50:09 -0500"
-        },
-        {
-            "title": "A look at new tech-based mental health treatments like the Tetris method and Avatar therapy that are offering promising early results and possibilities (Michael Peel/Financial Times)",
-            "link": "http://www.techmeme.com/241223/p1#a241223p1",
-            "published": "Mon, 23 Dec 2024 00:45:03 -0500"
-        },
-        {
-            "title": "OpenAI details \"deliberative alignment\", a new method it used to make o1 and o3 \"think\" about its safety policy before responding, to improve overall alignment (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/241222/p13#a241222p13",
-            "published": "Sun, 22 Dec 2024 21:45:04 -0500"
-        },
-        {
-            "title": "Sources: SoftBank's Masayoshi Son has recently become singularly obsessed with how to build the next Nvidia and wants competitive AI chips ready to ship by 2026 (Bloomberg)",
-            "link": "http://www.techmeme.com/241222/p12#a241222p12",
-            "published": "Sun, 22 Dec 2024 18:32:55 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "Morrisons customers say Christmas deliveries and discounts not working",
+            "title": "Morrisons discount cards not working and Christmas deliveries delayed",
             "link": "https://www.bbc.com/news/articles/cdjg8kz8jj3o",
-            "published": "Mon, 23 Dec 2024 10:10:42 GMT"
+            "published": "Mon, 23 Dec 2024 10:37:07 GMT"
         },
         {
             "title": "Google suggests fixes to its search monopoly",
