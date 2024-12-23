@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Kuo: Apple's M5 chip to use TSMC's advanced N3P node; M5 Pro, Max, and Ultra will use a new server-grade SoIC packaging featuring separate CPU and GPU designs (Ben Lovejoy/9to5Mac)",
+            "link": "http://www.techmeme.com/241223/p13#a241223p13",
+            "published": "Mon, 23 Dec 2024 11:20:17 -0500"
+        },
+        {
+            "title": "Amazon Kindle Paperwhite Signature Edition review: best e-reader screen, fast page turns, and color options, but mostly small upgrades and lacks stylus support (Andrew Liszewski/The Verge)",
+            "link": "http://www.techmeme.com/241223/p12#a241223p12",
+            "published": "Mon, 23 Dec 2024 10:50:15 -0500"
+        },
+        {
             "title": "Dutch tech investor Prosus plans to acquire online travel agency Despegar.com for $1.7B, or $19.50 per share, to expand in Latin America, closing in Q2 2025 (Loni Prinsloo/Bloomberg)",
             "link": "http://www.techmeme.com/241223/p11#a241223p11",
             "published": "Mon, 23 Dec 2024 09:00:42 -0500"
@@ -14,50 +24,40 @@
             "title": "Sources: Meta plans to add displays to its Ray-Ban glasses as soon as H2 2025 to show notifications or AI responses, and has accelerated Orion's development (Financial Times)",
             "link": "http://www.techmeme.com/241223/p9#a241223p9",
             "published": "Mon, 23 Dec 2024 07:25:00 -0500"
-        },
-        {
-            "title": "In a first, Telegram is set to be profitable in 2024, with $1B+ in revenue, up from ~$350M in 2023, and ending 2024 with $500M in cash, as it grapples with debt (New York Times)",
-            "link": "http://www.techmeme.com/241223/p8#a241223p8",
-            "published": "Mon, 23 Dec 2024 06:55:01 -0500"
-        },
-        {
-            "title": "SEC filings: senior Spotify executives have sold $1.25B in stock in 2024, including CEO Daniel Ek selling ~$350M and co-founder Martin Lorentzon selling $550M+ (Financial Times)",
-            "link": "http://www.techmeme.com/241223/p7#a241223p7",
-            "published": "Mon, 23 Dec 2024 06:30:01 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Google Proposes Fix to Solve Search Monopoly",
-            "link": "https://www.nytimes.com/2024/12/20/technology/google-antitrust-search-remedies.html",
-            "published": "Sat, 21 Dec 2024 05:33:44 +0000"
-        },
-        {
-            "title": "Amazon Has Overhauled Its Drone Delivery. Will the Public Welcome It?",
-            "link": "https://www.nytimes.com/2024/12/20/technology/amazon-prime-air-drone-delivery.html",
-            "published": "Fri, 20 Dec 2024 20:27:05 +0000"
-        },
-        {
-            "title": "OpenAI\u2019s Reasoning Machine, Instagram Teen Changes and Amazon R.T.O. Drama",
-            "link": "https://www.nytimes.com/2024/09/20/podcasts/hardfork-o1-meta-teens-amazon.html",
-            "published": "Fri, 20 Sep 2024 09:05:38 +0000"
-        },
-        {
-            "title": "OpenAI Unveils o3 System That Reasons Through Math, Science Problems",
-            "link": "https://www.nytimes.com/2024/12/20/technology/openai-new-ai-math-science.html",
-            "published": "Fri, 20 Dec 2024 20:32:28 +0000"
+            "title": "Under Pressure, Telegram Turns a Profit for the First Time",
+            "link": "https://www.nytimes.com/2024/12/23/technology/telegram-business-profit.html",
+            "published": "Mon, 23 Dec 2024 11:55:10 +0000"
         },
         {
             "title": "How Hallucinatory A.I. Helps Science Dream Up Big Breakthroughs",
             "link": "https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html",
             "published": "Mon, 23 Dec 2024 14:56:52 +0000"
+        },
+        {
+            "title": "U.S. Takes Aim at China\u2019s Production of Essential Chips",
+            "link": "https://www.nytimes.com/2024/12/23/business/economy/us-china-semiconductor-legacy-chips.html",
+            "published": "Mon, 23 Dec 2024 16:17:54 +0000"
+        },
+        {
+            "title": "Silicon Valley Heads to Washington",
+            "link": "https://www.nytimes.com/2024/12/23/business/dealbook/silicon-valley-trump-administration.html",
+            "published": "Mon, 23 Dec 2024 13:25:36 +0000"
+        },
+        {
+            "title": "Amazon Warehouse Workers in New York City Join Protest",
+            "link": "https://www.nytimes.com/2024/12/21/business/amazon-warehouse-staten-island-strike.html",
+            "published": "Sat, 21 Dec 2024 20:43:13 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Some Morrisons shops back to normal after discount 'nightmare'",
             "link": "https://www.bbc.com/news/articles/cdjg8kz8jj3o",
-            "published": "Mon, 23 Dec 2024 15:09:06 GMT"
+            "published": "Mon, 23 Dec 2024 16:27:29 GMT"
         },
         {
             "title": "Google suggests fixes to its search monopoly",
