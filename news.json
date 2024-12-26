@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "AppLovin was 2024's top performing US tech stock, up 758% as of December 24, MicroStrategy was the second top performing, up 467%; Palantir was third, up 380% (Ari Levy/CNBC)",
+            "title": "Alibaba agrees to merge its South Korean operations with E-Mart's Gmarket, creating a 50-50 joint venture; sources say the new company could be valued at ~$4B (Manuel Baigorri/Bloomberg)",
+            "link": "http://www.techmeme.com/241226/p4#a241226p4",
+            "published": "Thu, 26 Dec 2024 05:20:20 -0500"
+        },
+        {
+            "title": "An in-depth analysis of 62 AI queries: ChatGPT search beat Google on content gap analysis and disambiguation queries, but Google was better for most searches (Eric Enge/Search Engine Land)",
+            "link": "http://www.techmeme.com/241226/p3#a241226p3",
+            "published": "Thu, 26 Dec 2024 04:30:00 -0500"
+        },
+        {
+            "title": "AppLovin was 2024's top performing US tech stock, up 758% as of December 24, followed by MicroStrategy, up 467%, and Palantir, up 380%; the Nasdaq jumped 33% (Ari Levy/CNBC)",
             "link": "http://www.techmeme.com/241226/p2#a241226p2",
             "published": "Thu, 26 Dec 2024 02:30:00 -0500"
         },
         {
-            "title": "Japan Airlines halts ticket sales after a cyberattack hit its network equipment, causing delays to more than 40 flights and says flight safety was not impacted (New York Times)",
+            "title": "Japan Airlines halts ticket sales after a cyberattack hit its network equipment, causing delays to more than 40 flights, and says flight safety was not impacted (New York Times)",
             "link": "http://www.techmeme.com/241226/p1#a241226p1",
             "published": "Thu, 26 Dec 2024 00:20:32 -0500"
         },
@@ -14,16 +24,6 @@
             "title": "Netflix's first livestream of NFL games avoided major buffering and freezing issues that plagued the Tyson-Paul fight for the most part, after early glitches (Richard Deitsch/New York Times)",
             "link": "http://www.techmeme.com/241225/p15#a241225p15",
             "published": "Wed, 25 Dec 2024 23:15:22 -0500"
-        },
-        {
-            "title": "A look at Toontown Rewritten, an unofficial recreation of Disney's Toontown Online game that shut down in 2013; Toontown Rewritten now has 10K DAUs and 50K MAUs (J. Clara Chan/Wired)",
-            "link": "http://www.techmeme.com/241225/p14#a241225p14",
-            "published": "Wed, 25 Dec 2024 21:50:02 -0500"
-        },
-        {
-            "title": "Examining Biden's tech legacy and the CHIPS Act, as the White House says $446B has been announced for chips and electronics manufacturing since he took office (Politico)",
-            "link": "http://www.techmeme.com/241225/p13#a241225p13",
-            "published": "Wed, 25 Dec 2024 19:50:03 -0500"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Mon, 23 Dec 2024 11:55:10 +0000"
         },
         {
+            "title": "How A.I. Could Reshape the Economic Geography of America",
+            "link": "https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html",
+            "published": "Thu, 26 Dec 2024 10:01:50 +0000"
+        },
+        {
             "title": "Trump\u2019s Plans to Scrap Climate Policies Has Unnerved Green Energy Investors",
             "link": "https://www.nytimes.com/2024/12/25/business/energy-environment/trump-clean-energy-finance.html",
             "published": "Wed, 25 Dec 2024 15:07:17 +0000"
-        },
-        {
-            "title": "Why Mergers of Carmakers Like Honda and Nissan Often Falter",
-            "link": "https://www.nytimes.com/2024/12/24/business/honda-nissan-auto-merger-deals.html",
-            "published": "Tue, 24 Dec 2024 05:00:06 +0000"
         }
     ],
     "source_2": [
