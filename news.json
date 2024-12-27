@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Experts say hackers compromised several companies' Chrome browser extensions, including Cyberhaven's, in a series of intrusions dating back to mid-December (Reuters)",
+            "link": "http://www.techmeme.com/241227/p11#a241227p11",
+            "published": "Fri, 27 Dec 2024 14:15:07 -0500"
+        },
+        {
+            "title": "The US says it has identified a ninth telecom company impacted by the Salt Typhoon hacks, and the number of individuals directly impacted is \"less than 100\" (Greg Otto/CyberScoop)",
+            "link": "http://www.techmeme.com/241227/p10#a241227p10",
+            "published": "Fri, 27 Dec 2024 14:05:01 -0500"
+        },
+        {
+            "title": "Sydney-based Sitemate, which offers no-code software tools for industries like infrastructure and utilities, raised a AU$27.5M Series A at a ~AU$150M valuation (Shivaune Field/Forbes Australia)",
+            "link": "http://www.techmeme.com/241227/p9#a241227p9",
+            "published": "Fri, 27 Dec 2024 13:40:04 -0500"
+        },
+        {
             "title": "Meta expects AI-generated characters to \"generate and share content\" and \"over time, exist on our platforms\", similarly to regular accounts (Financial Times)",
             "link": "http://www.techmeme.com/241227/p8#a241227p8",
             "published": "Fri, 27 Dec 2024 12:50:00 -0500"
@@ -9,21 +24,6 @@
             "title": "TSMC says it has started mass production at its first factory in Japan, located in Kumamoto, producing 12nm to 28nm chips for use in cars and image sensors (Kyodo News+)",
             "link": "http://www.techmeme.com/241227/p7#a241227p7",
             "published": "Fri, 27 Dec 2024 11:50:01 -0500"
-        },
-        {
-            "title": "Montenegro says Terraform Labs co-founder Do Kwon will be extradited to the US, potentially ending a standoff over competing demands by the US and South Korea (Bloomberg)",
-            "link": "http://www.techmeme.com/241227/p6#a241227p6",
-            "published": "Fri, 27 Dec 2024 10:55:00 -0500"
-        },
-        {
-            "title": "OpenAI says the PBC will oversee commercial operations, and the nonprofit will hire staff to pursue charitable activities in health care, education, and science (Hayden Field/CNBC)",
-            "link": "http://www.techmeme.com/241227/p5#a241227p5",
-            "published": "Fri, 27 Dec 2024 09:25:01 -0500"
-        },
-        {
-            "title": "OpenAI says its non-profit arm would receive shares in the new public benefit corporation at a valuation determined by independent financial advisors (Cade Metz/New York Times)",
-            "link": "http://www.techmeme.com/241227/p4#a241227p4",
-            "published": "Fri, 27 Dec 2024 09:15:01 -0500"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "OpenAI Details Plans for Becoming a For-Profit Company",
             "link": "https://www.nytimes.com/2024/12/27/technology/openai-public-benefit-corporation.html",
-            "published": "Fri, 27 Dec 2024 17:40:07 +0000"
+            "published": "Fri, 27 Dec 2024 19:16:50 +0000"
         }
     ],
     "source_2": [
