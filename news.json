@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable (Dan Goodin/Ars Technica)",
+            "link": "http://www.techmeme.com/241230/p21#a241230p21",
+            "published": "Mon, 30 Dec 2024 14:20:14 -0500"
+        },
+        {
             "title": "Source: ByteDance keeps using a loophole for US chip sanctions and told suppliers it planned to spend up to $7B to access Nvidia chips outside China in 2025 (The Information)",
             "link": "http://www.techmeme.com/241230/p20#a241230p20",
             "published": "Mon, 30 Dec 2024 12:15:01 -0500"
@@ -19,14 +24,14 @@
             "title": "The UK's CMA opens an antitrust investigation into IBM's planned acquisition of cloud software vendor HashiCorp; the US FTC has been investigating it since July (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/241230/p17#a241230p17",
             "published": "Mon, 30 Dec 2024 11:45:13 -0500"
-        },
-        {
-            "title": "Donald Trump's next term may widen the longstanding speech divide between the US and Europe, putting social media companies in the middle of a global tug-of-war (New York Times)",
-            "link": "http://www.techmeme.com/241230/p16#a241230p16",
-            "published": "Mon, 30 Dec 2024 11:00:39 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "The 2024 Good Tech Awards",
+            "link": "https://www.nytimes.com/2024/12/30/technology/good-tech-awards.html",
+            "published": "Mon, 30 Dec 2024 17:00:02 +0000"
+        },
         {
             "title": "Social Media Companies Face Global Tug-of-War Over Free Speech",
             "link": "https://www.nytimes.com/2024/12/30/technology/trump-administration-speech-policy.html",
@@ -43,14 +48,9 @@
             "published": "Fri, 27 Dec 2024 19:16:51 +0000"
         },
         {
-            "title": "How A.I. Could Reshape the Economic Geography of America",
-            "link": "https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html",
-            "published": "Thu, 26 Dec 2024 10:01:51 +0000"
-        },
-        {
-            "title": "The 2024 Good Tech Awards",
-            "link": "https://www.nytimes.com/2024/12/30/technology/good-tech-awards.html",
-            "published": "Mon, 30 Dec 2024 17:00:02 +0000"
+            "title": "China Hacked Treasury Dept. in \u2018Major Incident,\u2019 U.S. Says",
+            "link": "https://www.nytimes.com/2024/12/30/us/politics/china-hack-treasury.html",
+            "published": "Mon, 30 Dec 2024 20:20:06 +0000"
         }
     ],
     "source_2": [
