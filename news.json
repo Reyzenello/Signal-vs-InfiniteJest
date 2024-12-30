@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "VW Group had sensitive info, including GPS coordinates, of 800K+ electric vehicles exposed on an unprotected AWS database for months before it was alerted (Thanos Pappas/Carscoops)",
+            "link": "http://www.techmeme.com/241230/p22#a241230p22",
+            "published": "Mon, 30 Dec 2024 15:55:14 -0500"
+        },
+        {
             "title": "The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable (Dan Goodin/Ars Technica)",
             "link": "http://www.techmeme.com/241230/p21#a241230p21",
             "published": "Mon, 30 Dec 2024 14:20:14 -0500"
@@ -19,11 +24,6 @@
             "title": "Waymo robotaxis, which are now ubiquitous in parts of CA, will often not stop for pedestrians using crosswalks there, unless a pedestrian is far into the road (Geoffrey A. Fowler/Washington Post)",
             "link": "http://www.techmeme.com/241230/p18#a241230p18",
             "published": "Mon, 30 Dec 2024 12:07:32 -0500"
-        },
-        {
-            "title": "The UK's CMA opens an antitrust investigation into IBM's planned acquisition of cloud software vendor HashiCorp; the US FTC has been investigating it since July (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/241230/p17#a241230p17",
-            "published": "Mon, 30 Dec 2024 11:45:13 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 27 Dec 2024 19:16:51 +0000"
         },
         {
-            "title": "China Hacked Treasury Dept. in \u2018Major Incident,\u2019 U.S. Says",
+            "title": "China Hacked Treasury Dept. in \u2018Major\u2019 Breach, U.S. Says",
             "link": "https://www.nytimes.com/2024/12/30/us/politics/china-hack-treasury.html",
-            "published": "Mon, 30 Dec 2024 20:20:06 +0000"
+            "published": "Mon, 30 Dec 2024 20:51:21 +0000"
         }
     ],
     "source_2": [
