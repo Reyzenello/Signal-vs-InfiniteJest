@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Kyivstar, Ukraine's largest mobile operator, signs a deal with Starlink to roll out text messaging in Q4 2025, and plans to add voice and data in later stages (Cagan Koc/Bloomberg)",
+            "link": "http://www.techmeme.com/241230/p15#a241230p15",
+            "published": "Mon, 30 Dec 2024 09:40:00 -0500"
+        },
+        {
             "title": "Nvidia completes its $700M acquisition of Israel-based Run:ai, which helps orchestrate GPU clouds, and plans to open source its software (Dean Takahashi/VentureBeat)",
             "link": "http://www.techmeme.com/241230/p14#a241230p14",
             "published": "Mon, 30 Dec 2024 09:05:01 -0500"
@@ -19,33 +24,28 @@
             "title": "Johns Hopkins and Stanford researchers say they trained robots with videos to perform surgical tasks with the skill of human doctors, even correcting mistakes (Mark Johnson/Washington Post)",
             "link": "http://www.techmeme.com/241230/p11#a241230p11",
             "published": "Mon, 30 Dec 2024 07:20:02 -0500"
-        },
-        {
-            "title": "Elon Musk's new political influence may make it harder for regulators and politicians worldwide to resist Space X's Starlink, which added 20+ nations in 2024 (Bloomberg)",
-            "link": "http://www.techmeme.com/241230/p10#a241230p10",
-            "published": "Mon, 30 Dec 2024 06:50:00 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "An A.I. Boom Makes Electricians Flock to Central Washington",
-            "link": "https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html",
-            "published": "Wed, 25 Dec 2024 15:41:57 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s xAI Raises $6 Billion in New Funding",
-            "link": "https://www.nytimes.com/2024/12/24/technology/elon-musk-xai-funding.html",
-            "published": "Tue, 24 Dec 2024 19:09:11 +0000"
-        },
-        {
-            "title": "Under Pressure, Telegram Turns a Profit for the First Time",
-            "link": "https://www.nytimes.com/2024/12/23/technology/telegram-business-profit.html",
-            "published": "Mon, 23 Dec 2024 11:55:10 +0000"
-        },
-        {
             "title": "Social Media Companies Face Global Tug-of-War Over Free Speech",
             "link": "https://www.nytimes.com/2024/12/30/technology/trump-administration-speech-policy.html",
             "published": "Mon, 30 Dec 2024 10:01:30 +0000"
+        },
+        {
+            "title": "Trump Backers, Including Elon Musk, Clash With Far Right Over Immigrant Workers and H-1B Visas",
+            "link": "https://www.nytimes.com/2024/12/27/technology/trump-musk-immigration-h1b-visa.html",
+            "published": "Fri, 27 Dec 2024 21:00:28 +0000"
+        },
+        {
+            "title": "OpenAI Details Plans for Becoming a For-Profit Company",
+            "link": "https://www.nytimes.com/2024/12/27/technology/openai-public-benefit-corporation.html",
+            "published": "Fri, 27 Dec 2024 19:16:51 +0000"
+        },
+        {
+            "title": "How A.I. Could Reshape the Economic Geography of America",
+            "link": "https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html",
+            "published": "Thu, 26 Dec 2024 10:01:51 +0000"
         },
         {
             "title": "The Men Who Use Instagram to Groom Child Influencers",
