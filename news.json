@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Venezuela's top court fines TikTok $10M over viral challenge deaths, citing a failure to take necessary measures, and orders it to open an office in the country (Agence France-Presse)",
+            "link": "http://www.techmeme.com/241230/p25#a241230p25",
+            "published": "Mon, 30 Dec 2024 19:05:01 -0500"
+        },
+        {
             "title": "Letter: the US Treasury says China-backed hackers gained access to some Treasury workstations and unclassified docs; a vendor notified it of the hack on Dec. 8 (Zack Whittaker/TechCrunch)",
             "link": "http://www.techmeme.com/241230/p24#a241230p24",
             "published": "Mon, 30 Dec 2024 18:00:53 -0500"
@@ -19,18 +24,13 @@
             "title": "The technology of passkeys is elegant, but the complexities of syncing them to password managers can contribute to platform lock-in and make them less usable (Dan Goodin/Ars Technica)",
             "link": "http://www.techmeme.com/241230/p21#a241230p21",
             "published": "Mon, 30 Dec 2024 14:20:14 -0500"
-        },
-        {
-            "title": "Source: ByteDance keeps using a loophole for US chip sanctions and told suppliers it planned to spend up to $7B to access Nvidia chips outside China in 2025 (The Information)",
-            "link": "http://www.techmeme.com/241230/p20#a241230p20",
-            "published": "Mon, 30 Dec 2024 12:15:01 -0500"
         }
     ],
     "source_1": [
         {
             "title": "The 2024 Good Tech Awards",
             "link": "https://www.nytimes.com/2024/12/30/technology/good-tech-awards.html",
-            "published": "Mon, 30 Dec 2024 17:00:02 +0000"
+            "published": "Tue, 31 Dec 2024 00:49:46 +0000"
         },
         {
             "title": "Social Media Companies Face Global Tug-of-War Over Free Speech",
@@ -50,10 +50,15 @@
         {
             "title": "China Hacked Treasury Dept. in \u2018Major\u2019 Breach, U.S. Says",
             "link": "https://www.nytimes.com/2024/12/30/us/politics/china-hack-treasury.html",
-            "published": "Mon, 30 Dec 2024 20:51:21 +0000"
+            "published": "Tue, 31 Dec 2024 01:30:52 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "What we know about US H-1B visas Trump supporters are clashing over",
+            "link": "https://www.bbc.com/news/articles/ckg87n2ml11o",
+            "published": "Tue, 31 Dec 2024 00:05:18 GMT"
+        },
         {
             "title": "'Christmas ruined' after Morrisons missed festive deliveries",
             "link": "https://www.bbc.com/news/articles/cje9p5gpj72o",
@@ -73,11 +78,6 @@
             "title": "The retro hobby that can help boost your happiness (say scientists)",
             "link": "https://www.bbc.com/news/articles/cwyg4lgezj2o",
             "published": "Thu, 26 Dec 2024 01:44:28 GMT"
-        },
-        {
-            "title": "Morrisons Christmas delays extend to second day",
-            "link": "https://www.bbc.com/news/articles/cn8g24qn87no",
-            "published": "Tue, 24 Dec 2024 11:55:21 GMT"
         }
     ]
 }
