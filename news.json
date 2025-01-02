@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
+            "title": "Thomson Reuters acquires Michigan-based tax automation company SafeSend in an all-cash transaction valued at $600M (Paul Sawers/TechCrunch)",
+            "link": "http://www.techmeme.com/250102/p13#a250102p13",
+            "published": "Thu, 02 Jan 2025 11:25:00 -0500"
+        },
+        {
+            "title": "Apple to pay $95M to settle a lawsuit claiming Apple recorded private conversations when Siri was unintentionally activated and shared the data with advertisers (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/250102/p12#a250102p12",
+            "published": "Thu, 02 Jan 2025 10:55:01 -0500"
+        },
+        {
+            "title": "Sources: Morgan Stanley's E-Trade explores adding crypto trading, if approved by Federal Reserve, anticipating a favorable regulatory environment under Trump (Yueqi Yang/The Information)",
+            "link": "http://www.techmeme.com/250102/p11#a250102p11",
+            "published": "Thu, 02 Jan 2025 10:40:00 -0500"
+        },
+        {
             "title": "Telegram rolls out a new account verification method powered by third-parties, new search filters for private chats, and the ability to turn gifts into NFTs (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/250102/p10#a250102p10",
             "published": "Thu, 02 Jan 2025 09:00:54 -0500"
         },
         {
-            "title": "Asus, Samsung, and MSI separately unveil the world's first 27-inch QD-OLED gaming monitors, offering 4K OLED at 240Hz, without giving release dates or pricing (Tom Warren/The Verge)",
+            "title": "Asus, Samsung, and MSI separately unveil the world's first 27-inch QD-OLED gaming monitors, offering 4K OLED at 240Hz, without sharing release dates or pricing (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250102/p9#a250102p9",
             "published": "Thu, 02 Jan 2025 08:40:00 -0500"
-        },
-        {
-            "title": "While the crypto industry anticipates lighter regulation and wider adoption under Trump, some critics worry about systemic risks, particularly from stablecoins (Financial Times)",
-            "link": "http://www.techmeme.com/250102/p8#a250102p8",
-            "published": "Thu, 02 Jan 2025 08:15:00 -0500"
-        },
-        {
-            "title": "Rembrand, which offers AI tools to add product placements in social media videos, raised a $23M Series A and plans to expand to CTV content and add a free tier (Kerry Flynn/Axios)",
-            "link": "http://www.techmeme.com/250102/p7#a250102p7",
-            "published": "Thu, 02 Jan 2025 07:20:02 -0500"
-        },
-        {
-            "title": "In 2024, warning calls about catastrophic AI risks were drowned out by the tech industry's promotion of a practical and prosperous vision of generative AI (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/250102/p6#a250102p6",
-            "published": "Thu, 02 Jan 2025 05:30:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside the Y2K Crisis That Never Was, 25 Years Later",
+            "link": "https://www.nytimes.com/2024/12/31/insider/y2k-crisis.html",
+            "published": "Wed, 01 Jan 2025 04:27:38 +0000"
+        },
+        {
+            "title": "Big Rockets, a Big Telescope and Big Changes in Space Await in 2025",
+            "link": "https://www.nytimes.com/2025/01/01/science/space-astronomy-nasa.html",
+            "published": "Wed, 01 Jan 2025 16:48:40 +0000"
+        },
         {
             "title": "The 2024 Good Tech Awards",
             "link": "https://www.nytimes.com/2024/12/30/technology/good-tech-awards.html",
@@ -38,19 +48,9 @@
             "published": "Mon, 30 Dec 2024 10:01:30 +0000"
         },
         {
-            "title": "Trump Backers, Including Elon Musk, Clash With Far Right Over Immigrant Workers and H-1B Visas",
-            "link": "https://www.nytimes.com/2024/12/27/technology/trump-musk-immigration-h1b-visa.html",
-            "published": "Fri, 27 Dec 2024 21:00:28 +0000"
-        },
-        {
-            "title": "OpenAI Details Plans for Becoming a For-Profit Company",
-            "link": "https://www.nytimes.com/2024/12/27/technology/openai-public-benefit-corporation.html",
-            "published": "Fri, 27 Dec 2024 19:16:51 +0000"
-        },
-        {
-            "title": "Big Rockets, a Big Telescope and Big Changes in Space Await in 2025",
-            "link": "https://www.nytimes.com/2025/01/01/science/space-astronomy-nasa.html",
-            "published": "Wed, 01 Jan 2025 16:48:40 +0000"
+            "title": "Home Beauty Device Trends",
+            "link": "https://www.nytimes.com/2024/12/31/style/home-beauty-device-trends.html",
+            "published": "Tue, 31 Dec 2024 10:00:41 +0000"
         }
     ],
     "source_2": [
@@ -60,9 +60,9 @@
             "published": "Thu, 02 Jan 2025 10:18:35 GMT"
         },
         {
-            "title": "China's BYD closes in on Tesla as sales jump",
+            "title": "Tesla sales stall as China's BYD closes in",
             "link": "https://www.bbc.com/news/articles/c36edjp1l9ko",
-            "published": "Thu, 02 Jan 2025 02:57:24 GMT"
+            "published": "Thu, 02 Jan 2025 16:09:12 GMT"
         },
         {
             "title": "30 years ago Tomorrow's World predicted 2025 - how did it do?",
