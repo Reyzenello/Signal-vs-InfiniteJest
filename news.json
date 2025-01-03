@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Terraform Labs co-founder Do Kwon pleads not guilty before a US federal judge in New York to nine counts, including wire fraud, over the $40B TerraUSD collapse (Bob Van Voris/Bloomberg)",
+            "link": "http://www.techmeme.com/250102/p23#a250102p23",
+            "published": "Thu, 02 Jan 2025 18:35:13 -0500"
+        },
+        {
             "title": "Sources: China-backed hackers accessed the computers of senior US Treasury officials; the department's email system and classified data were not breached (Bloomberg)",
             "link": "http://www.techmeme.com/250102/p22#a250102p22",
             "published": "Thu, 02 Jan 2025 17:40:00 -0500"
@@ -19,18 +24,13 @@
             "title": "Email: NYC-based Level, which raised a $27M Series A in 2021 to help companies offer staff benefits, shuts down after an effort to sell the company fell through (The Information)",
             "link": "http://www.techmeme.com/250102/p19#a250102p19",
             "published": "Thu, 02 Jan 2025 15:15:00 -0500"
-        },
-        {
-            "title": "Short seller Hindenburg shorts Carvana claiming the company's turnaround is a \"mirage\" that's being propped up by unstable loans and accounting manipulation (Michael Wayland/CNBC)",
-            "link": "http://www.techmeme.com/250102/p18#a250102p18",
-            "published": "Thu, 02 Jan 2025 14:25:01 -0500"
         }
     ],
     "source_1": [
         {
             "title": "FCC\u2019s Net Neutrality Rules Struck Down by Federal Appeals Court",
             "link": "https://www.nytimes.com/2025/01/02/technology/net-neutrality-rules-fcc.html",
-            "published": "Thu, 02 Jan 2025 21:15:17 +0000"
+            "published": "Thu, 02 Jan 2025 21:15:18 +0000"
         },
         {
             "title": "Meta Appoints Joel Kaplan to Lead Global Policy, Replacing Nick Clegg",
@@ -55,14 +55,19 @@
     ],
     "source_2": [
         {
-            "title": "YouTuber MrBeast announces engagement",
-            "link": "https://www.bbc.com/news/articles/clyk956j1k8o",
-            "published": "Thu, 02 Jan 2025 10:18:35 GMT"
-        },
-        {
             "title": "Tesla sales stall as China's BYD closes in",
             "link": "https://www.bbc.com/news/articles/c36edjp1l9ko",
             "published": "Thu, 02 Jan 2025 16:09:12 GMT"
+        },
+        {
+            "title": "Court strikes down US net neutrality rules",
+            "link": "https://www.bbc.com/news/articles/c4gl417l757o",
+            "published": "Thu, 02 Jan 2025 22:55:51 GMT"
+        },
+        {
+            "title": "YouTuber MrBeast announces engagement",
+            "link": "https://www.bbc.com/news/articles/clyk956j1k8o",
+            "published": "Thu, 02 Jan 2025 10:18:35 GMT"
         },
         {
             "title": "30 years ago Tomorrow's World predicted 2025 - how did it do?",
@@ -73,11 +78,6 @@
             "title": "Crypto fugitive Do Kwon extradited to US over $40bn crash",
             "link": "https://www.bbc.com/news/articles/cwy30n29qx5o",
             "published": "Tue, 31 Dec 2024 13:34:48 GMT"
-        },
-        {
-            "title": "What we know about US visas Trump supporters are clashing over",
-            "link": "https://www.bbc.com/news/articles/ckg87n2ml11o",
-            "published": "Tue, 31 Dec 2024 00:05:18 GMT"
         }
     ]
 }
