@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Meta required a public statesman like Nick Clegg after the Cambridge Analytica scandal, and now turns to the in-house Republican Joel Kaplan to appease Trump (Dave Lee/Bloomberg)",
+            "title": "Elon Musk fanboy Adrian Dittmann's alleged 4Chan posts and Dittmann's X Spaces appearances suggest he might be a fake online persona used by Musk himself (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250103/p9#a250103p9",
+            "published": "Fri, 03 Jan 2025 10:35:00 -0500"
+        },
+        {
+            "title": "Meta required a public statesman like Nick Clegg after the Cambridge Analytica scandal, but now turns to the in-house Republican Joel Kaplan to appease Trump (Dave Lee/Bloomberg)",
             "link": "http://www.techmeme.com/250103/p8#a250103p8",
             "published": "Fri, 03 Jan 2025 10:00:27 -0500"
         },
@@ -19,14 +24,14 @@
             "title": "China says shipments of foreign smartphones, including iPhones, fell 47.4% YoY in November, after a 44.25% YoY drop in October, marking four months of decline (Reuters)",
             "link": "http://www.techmeme.com/250103/p5#a250103p5",
             "published": "Fri, 03 Jan 2025 07:05:00 -0500"
-        },
-        {
-            "title": "Tass: a Russian court ordered Yandex to hide access to maps and photos of a Russian oil refinery from search results due to repeated attacks by Ukrainian drones (Alexander Marrow/Reuters)",
-            "link": "http://www.techmeme.com/250103/p4#a250103p4",
-            "published": "Fri, 03 Jan 2025 05:45:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Religious Leaders Experiment with A.I. in Sermons",
+            "link": "https://www.nytimes.com/2025/01/03/technology/ai-religious-leaders.html",
+            "published": "Fri, 03 Jan 2025 16:14:11 +0000"
+        },
         {
             "title": "FCC\u2019s Net Neutrality Rules Struck Down by Federal Appeals Court",
             "link": "https://www.nytimes.com/2025/01/02/technology/net-neutrality-rules-fcc.html",
@@ -38,22 +43,22 @@
             "published": "Thu, 02 Jan 2025 21:31:23 +0000"
         },
         {
-            "title": "Inside the Y2K Crisis That Never Was, 25 Years Later",
-            "link": "https://www.nytimes.com/2024/12/31/insider/y2k-crisis.html",
-            "published": "Wed, 01 Jan 2025 04:27:38 +0000"
-        },
-        {
-            "title": "Big Rockets, a Big Telescope and Big Changes in Space Await in 2025",
-            "link": "https://www.nytimes.com/2025/01/01/science/space-astronomy-nasa.html",
-            "published": "Wed, 01 Jan 2025 16:48:40 +0000"
-        },
-        {
             "title": "Our 2025 Tech Predictions and Resolutions + We Answer Your Questions\u200b\u200b",
             "link": "https://www.nytimes.com/2025/01/03/podcasts/hardfork-predictions-resolutions.html",
             "published": "Fri, 03 Jan 2025 12:00:05 +0000"
+        },
+        {
+            "title": "Could Monkeys Really Type All of Shakespeare?",
+            "link": "https://www.nytimes.com/2025/01/03/science/monkeys-typewriter-shakespeare.html",
+            "published": "Fri, 03 Jan 2025 10:01:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple falsely claims Luke Littler won darts championship",
+            "link": "https://www.bbc.com/news/articles/cx27zwp7jpxo",
+            "published": "Fri, 03 Jan 2025 15:20:41 GMT"
+        },
         {
             "title": "Apple to pay $95m to settle Siri 'listening' lawsuit",
             "link": "https://www.bbc.com/news/articles/cr4rvr495rgo",
@@ -73,11 +78,6 @@
             "title": "Tesla sales stall as China's BYD closes in",
             "link": "https://www.bbc.com/news/articles/c36edjp1l9ko",
             "published": "Thu, 02 Jan 2025 16:09:12 GMT"
-        },
-        {
-            "title": "Court strikes down US net neutrality rules",
-            "link": "https://www.bbc.com/news/articles/c4gl417l757o",
-            "published": "Thu, 02 Jan 2025 22:55:51 GMT"
         }
     ]
 }
