@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Filing: Dara Khosrowshahi resigns from self-driving truck startup Aurora's board, to focus on his job as Uber CEO and reduce external board commitments (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/250103/p21#a250103p21",
+            "published": "Fri, 03 Jan 2025 17:10:00 -0500"
+        },
+        {
+            "title": "PitchBook: generative AI companies worldwide raised $56B from VCs in 2024 across 885 deals, up 192% from 2023, with startups outside the US raising just $6.2B (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250103/p20#a250103p20",
+            "published": "Fri, 03 Jan 2025 16:50:00 -0500"
+        },
+        {
             "title": "In a test, asking Claude 3.5 Sonnet to \"write better code\" iteratively improved the code's features and speed, but more aggressive prompt engineering added bugs (Max Woolf/Max Woolf's Blog)",
             "link": "http://www.techmeme.com/250103/p19#a250103p19",
             "published": "Fri, 03 Jan 2025 16:20:01 -0500"
@@ -14,16 +24,6 @@
             "title": "An in-depth look at Elon Musk's criticisms of Wikipedia, as he joins a growing chorus of right-wing voices attacking information sources outside their control (Molly White/Citation Needed)",
             "link": "http://www.techmeme.com/250103/p17#a250103p17",
             "published": "Fri, 03 Jan 2025 15:15:02 -0500"
-        },
-        {
-            "title": "Microsoft says it expects to spend $80B in FY 2025 on the construction of data centers that can handle AI workloads, with 50%+ of the spending in the US (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/250103/p16#a250103p16",
-            "published": "Fri, 03 Jan 2025 14:25:14 -0500"
-        },
-        {
-            "title": "Sources: Getty Images is exploring a merger with rival Shutterstock; deliberations are ongoing and Getty could decide not to pursue a deal (Bloomberg)",
-            "link": "http://www.techmeme.com/250103/p15#a250103p15",
-            "published": "Fri, 03 Jan 2025 14:13:08 -0500"
         }
     ],
     "source_1": [
@@ -55,7 +55,7 @@
     ],
     "source_2": [
         {
-            "title": "Apple AI alert falsely claims Luke Littler has already won darts final",
+            "title": "Apple AI alert falsely claimed Luke Littler had already won darts final",
             "link": "https://www.bbc.com/news/articles/cx27zwp7jpxo",
             "published": "Fri, 03 Jan 2025 17:22:20 GMT"
         },
