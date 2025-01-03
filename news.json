@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "In a test, asking Claude 3.5 Sonnet to \"write better code\" iteratively improved the code's features and speed, but more aggressive prompt engineering added bugs (Max Woolf/Max Woolf's Blog)",
+            "link": "http://www.techmeme.com/250103/p19#a250103p19",
+            "published": "Fri, 03 Jan 2025 16:20:01 -0500"
+        },
+        {
+            "title": "Sources: Tim Cook will personally donate $1M to President-elect Trump's inaugural committee in the spirit of unity; Apple is not expected to donate (Mike Allen/Axios)",
+            "link": "http://www.techmeme.com/250103/p18#a250103p18",
+            "published": "Fri, 03 Jan 2025 16:08:26 -0500"
+        },
+        {
             "title": "An in-depth look at Elon Musk's criticisms of Wikipedia, as he joins a growing chorus of right-wing voices attacking information sources outside their control (Molly White/Citation Needed)",
             "link": "http://www.techmeme.com/250103/p17#a250103p17",
             "published": "Fri, 03 Jan 2025 15:15:02 -0500"
@@ -14,16 +24,6 @@
             "title": "Sources: Getty Images is exploring a merger with rival Shutterstock; deliberations are ongoing and Getty could decide not to pursue a deal (Bloomberg)",
             "link": "http://www.techmeme.com/250103/p15#a250103p15",
             "published": "Fri, 03 Jan 2025 14:13:08 -0500"
-        },
-        {
-            "title": "After outrage, Meta says newly viral AI profiles on Facebook and Instagram were created in 2023 in \"an early experiment\", and it is deleting the profiles (Jason Koebler/404 Media)",
-            "link": "http://www.techmeme.com/250103/p14#a250103p14",
-            "published": "Fri, 03 Jan 2025 13:05:00 -0500"
-        },
-        {
-            "title": "Elon Musk fanboy Adrian Dittmann's alleged 4Chan posts and X activity suggest he might be Musk's fake online persona; source: the viral 4Chan screenshot is fake (The Verge)",
-            "link": "http://www.techmeme.com/250103/p13#a250103p13",
-            "published": "Fri, 03 Jan 2025 12:50:13 -0500"
         }
     ],
     "source_1": [
@@ -48,7 +48,7 @@
             "published": "Fri, 03 Jan 2025 12:00:05 +0000"
         },
         {
-            "title": "Treasury Dept. Hits Chinese Tech Company With Sanctions After Breach",
+            "title": "U.S. Hits Chinese Cybersecurity Company With Sanctions After Breach",
             "link": "https://www.nytimes.com/2025/01/03/us/politics/treasury-chinese-sanctions.html",
             "published": "Fri, 03 Jan 2025 20:15:06 +0000"
         }
