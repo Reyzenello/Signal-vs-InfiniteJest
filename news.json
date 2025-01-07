@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia unveils Mega, an \"Omniverse Blueprint\" for developing, testing, and optimizing physical AI and robot fleets at scale in a digital twin before deployment (Dean Takahashi/VentureBeat)",
+            "link": "http://www.techmeme.com/250106/p41#a250106p41",
+            "published": "Mon, 06 Jan 2025 23:10:00 -0500"
+        },
+        {
+            "title": "Toyota says its next-gen vehicles will have automated driving powered by Nvidia's Drive AGX Orin supercomputer and safety-focused operating system, DriveOS (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/250106/p40#a250106p40",
+            "published": "Mon, 06 Jan 2025 23:05:01 -0500"
+        },
+        {
+            "title": "Nvidia shares Cosmos World Foundation Models, a family of world models that can generate \"physics-aware\" videos, available from Hugging Face and Nvidia's API (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250106/p39#a250106p39",
+            "published": "Mon, 06 Jan 2025 22:55:15 -0500"
+        },
+        {
+            "title": "Nvidia announces the Llama Nemotron and Cosmos Nemotron family of AI models to advance agentic AI, available in Nano, Super, and Ultra sizes on Hugging Face (Dean Takahashi/VentureBeat)",
+            "link": "http://www.techmeme.com/250106/p38#a250106p38",
+            "published": "Mon, 06 Jan 2025 22:45:01 -0500"
+        },
+        {
             "title": "Nvidia says the RTX 5090 has 92B transistors, 4,000 AI TOPS, and GDDR7 memory, with support for next-gen DLSS 4, which can now generate multiple frames at once (Brian Heater/TechCrunch)",
             "link": "http://www.techmeme.com/250106/p37#a250106p37",
             "published": "Mon, 06 Jan 2025 22:30:02 -0500"
-        },
-        {
-            "title": "Nvidia reveals the RTX 50-series Blackwell GPUs: a $1,999 RTX 5090, a $999 RTX 5080, a $749 RTX 5070 Ti, and a $549 RTX 5070, available starting in January (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/250106/p36#a250106p36",
-            "published": "Mon, 06 Jan 2025 22:15:02 -0500"
-        },
-        {
-            "title": "After complaints from the BBC, Apple plans an Apple Intelligence update \"in the coming weeks\" that \"will further clarify\" when it is summarizing notifications (Zoe Kleinman/BBC)",
-            "link": "http://www.techmeme.com/250106/p35#a250106p35",
-            "published": "Mon, 06 Jan 2025 19:40:13 -0500"
-        },
-        {
-            "title": "Sources: Chinese state-sponsored hackers targeted the Philippine president's office and stole sensitive data as part of a yearslong, broad espionage campaign (Jamie Tarabay/Bloomberg)",
-            "link": "http://www.techmeme.com/250106/p34#a250106p34",
-            "published": "Mon, 06 Jan 2025 19:25:00 -0500"
-        },
-        {
-            "title": "Meta says it's testing an \"Imagine Yourself\" feature announced in September that automatically generates AI images of a user and puts them into that user's feed (Jason Koebler/404 Media)",
-            "link": "http://www.techmeme.com/250106/p33#a250106p33",
-            "published": "Mon, 06 Jan 2025 18:55:01 -0500"
         }
     ],
     "source_1": [
