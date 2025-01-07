@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia says the RTX 5090 has 92B transistors, 4,000 AI TOPS, and GDDR7 memory, with support for next-gen DLSS 4, which can now generate multiple frames at once (Brian Heater/TechCrunch)",
+            "link": "http://www.techmeme.com/250106/p37#a250106p37",
+            "published": "Mon, 06 Jan 2025 22:30:02 -0500"
+        },
+        {
+            "title": "Nvidia reveals the RTX 50-series Blackwell GPUs: a $1,999 RTX 5090, a $999 RTX 5080, a $749 RTX 5070 Ti, and a $549 RTX 5070, available starting in January (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250106/p36#a250106p36",
+            "published": "Mon, 06 Jan 2025 22:15:02 -0500"
+        },
+        {
             "title": "After complaints from the BBC, Apple plans an Apple Intelligence update \"in the coming weeks\" that \"will further clarify\" when it is summarizing notifications (Zoe Kleinman/BBC)",
             "link": "http://www.techmeme.com/250106/p35#a250106p35",
             "published": "Mon, 06 Jan 2025 19:40:13 -0500"
@@ -14,16 +24,6 @@
             "title": "Meta says it's testing an \"Imagine Yourself\" feature announced in September that automatically generates AI images of a user and puts them into that user's feed (Jason Koebler/404 Media)",
             "link": "http://www.techmeme.com/250106/p33#a250106p33",
             "published": "Mon, 06 Jan 2025 18:55:01 -0500"
-        },
-        {
-            "title": "Samsung schedules its next Galaxy Unpacked event for 10AM PT on January 22 in San Jose, where Galaxy AI updates, the Galaxy S25 lineup, and more are expected (Ben Schoon/9to5Google)",
-            "link": "http://www.techmeme.com/250106/p32#a250106p32",
-            "published": "Mon, 06 Jan 2025 18:15:02 -0500"
-        },
-        {
-            "title": "Samsung announces new Galaxy Book5 Pro and Book5 360 laptops with Intel Arrow Lake Core Ultra processors, available in the US, Canada, UK, and more in February (Umar Shakir/The Verge)",
-            "link": "http://www.techmeme.com/250106/p31#a250106p31",
-            "published": "Mon, 06 Jan 2025 18:05:01 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 07 Jan 2025 02:17:50 GMT"
         },
         {
+            "title": "UFC boss to join board of Facebook owner Meta",
+            "link": "https://www.bbc.com/news/articles/c627p8leww1o",
+            "published": "Tue, 07 Jan 2025 02:35:41 GMT"
+        },
+        {
             "title": "Apple AI alert falsely claimed Luke Littler had already won darts final",
             "link": "https://www.bbc.com/news/articles/cx27zwp7jpxo",
             "published": "Fri, 03 Jan 2025 17:22:20 GMT"
@@ -73,11 +78,6 @@
             "title": "Why Apple is offering rare iPhone discounts in China",
             "link": "https://www.bbc.com/news/articles/cvg9lgp34e3o",
             "published": "Fri, 03 Jan 2025 06:04:31 GMT"
-        },
-        {
-            "title": "Nick Clegg leaves Meta ahead of Trump's return as US president",
-            "link": "https://www.bbc.com/news/articles/cgrw785585wo",
-            "published": "Fri, 03 Jan 2025 14:59:46 GMT"
         }
     ]
 }
