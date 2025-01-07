@@ -1,12 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "After complaints from BBC, Apple plans an update \"in the coming weeks\" that will make it clearer to users when Apple Intelligence is summarizing notifications (Zoe Kleinman/BBC)",
+            "title": "After complaints from the BBC, Apple plans an Apple Intelligence update \"in the coming weeks\" that \"will further clarify\" when it is summarizing notifications (Zoe Kleinman/BBC)",
             "link": "http://www.techmeme.com/250106/p35#a250106p35",
             "published": "Mon, 06 Jan 2025 19:40:13 -0500"
         },
         {
-            "title": "Sources: China-backed hackers targeted the Philippine president's office and stole sensitive data as part of a yearslong, broad espionage campaign (Jamie Tarabay/Bloomberg)",
+            "title": "Sources: Chinese state-sponsored hackers targeted the Philippine president's office and stole sensitive data as part of a yearslong, broad espionage campaign (Jamie Tarabay/Bloomberg)",
             "link": "http://www.techmeme.com/250106/p34#a250106p34",
             "published": "Mon, 06 Jan 2025 19:25:00 -0500"
         },
@@ -16,7 +16,7 @@
             "published": "Mon, 06 Jan 2025 18:55:01 -0500"
         },
         {
-            "title": "Samsung schedules its next Galaxy Unpacked event for January 22 at 10AM PT in San Jose, where Galaxy AI updates, the Galaxy S25, and more are expected (Ben Schoon/9to5Google)",
+            "title": "Samsung schedules its next Galaxy Unpacked event for 10AM PT on January 22 in San Jose, where Galaxy AI updates, the Galaxy S25 lineup, and more are expected (Ben Schoon/9to5Google)",
             "link": "http://www.techmeme.com/250106/p32#a250106p32",
             "published": "Mon, 06 Jan 2025 18:15:02 -0500"
         },
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US says tech giant Tencent works with Chinese military",
+            "link": "https://www.bbc.com/news/articles/c9q78wn9g8zo",
+            "published": "Tue, 07 Jan 2025 02:17:50 GMT"
+        },
+        {
             "title": "Apple AI alert falsely claimed Luke Littler had already won darts final",
             "link": "https://www.bbc.com/news/articles/cx27zwp7jpxo",
             "published": "Fri, 03 Jan 2025 17:22:20 GMT"
@@ -73,11 +78,6 @@
             "title": "Nick Clegg leaves Meta ahead of Trump's return as US president",
             "link": "https://www.bbc.com/news/articles/cgrw785585wo",
             "published": "Fri, 03 Jan 2025 14:59:46 GMT"
-        },
-        {
-            "title": "Tesla sales stall as China's BYD closes in",
-            "link": "https://www.bbc.com/news/articles/c36edjp1l9ko",
-            "published": "Thu, 02 Jan 2025 16:09:12 GMT"
         }
     ]
 }
