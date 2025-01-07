@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple plans to expand Apple News in more countries and considered building locally focused news coverage in the UK; Apple News has 125M monthly users (Daniel Thomas/Financial Times)",
+            "link": "http://www.techmeme.com/250107/p4#a250107p4",
+            "published": "Tue, 07 Jan 2025 01:00:00 -0500"
+        },
+        {
+            "title": "Nvidia announces early access to Omniverse Cloud Sensor RTX, enabling smarter autonomous machines with generative AI, via APIs for select devs like Accenture (Dean Takahashi/VentureBeat)",
+            "link": "http://www.techmeme.com/250107/p3#a250107p3",
+            "published": "Tue, 07 Jan 2025 00:55:01 -0500"
+        },
+        {
+            "title": "Nvidia updates its Autonomous Game Characters, says the NPCs can \"perceive, plan, and act like human players\" in games like PUBG, with \"small language models\" (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/250107/p2#a250107p2",
+            "published": "Tue, 07 Jan 2025 00:50:00 -0500"
+        },
+        {
+            "title": "Jensen Huang says Nvidia's Cosmos models for humanoids were trained on 20M hours of real footage of \"humans walking, hands moving, manipulating things\" (Will Knight/Wired)",
+            "link": "http://www.techmeme.com/250107/p1#a250107p1",
+            "published": "Tue, 07 Jan 2025 00:30:04 -0500"
+        },
+        {
             "title": "Nvidia unveils Mega, an \"Omniverse Blueprint\" for developing, testing, and optimizing physical AI and robot fleets at scale in a digital twin before deployment (Dean Takahashi/VentureBeat)",
             "link": "http://www.techmeme.com/250106/p41#a250106p41",
             "published": "Mon, 06 Jan 2025 23:10:00 -0500"
-        },
-        {
-            "title": "Toyota says its next-gen vehicles will have automated driving powered by Nvidia's Drive AGX Orin supercomputer and safety-focused operating system, DriveOS (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/250106/p40#a250106p40",
-            "published": "Mon, 06 Jan 2025 23:05:01 -0500"
-        },
-        {
-            "title": "Nvidia shares Cosmos World Foundation Models, a family of world models that can generate \"physics-aware\" videos, available from Hugging Face and Nvidia's API (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250106/p39#a250106p39",
-            "published": "Mon, 06 Jan 2025 22:55:15 -0500"
-        },
-        {
-            "title": "Nvidia announces the Llama Nemotron and Cosmos Nemotron family of AI models to advance agentic AI, available in Nano, Super, and Ultra sizes on Hugging Face (Dean Takahashi/VentureBeat)",
-            "link": "http://www.techmeme.com/250106/p38#a250106p38",
-            "published": "Mon, 06 Jan 2025 22:45:01 -0500"
-        },
-        {
-            "title": "Nvidia says the RTX 5090 has 92B transistors, 4,000 AI TOPS, and GDDR7 memory, with support for next-gen DLSS 4, which can now generate multiple frames at once (Brian Heater/TechCrunch)",
-            "link": "http://www.techmeme.com/250106/p37#a250106p37",
-            "published": "Mon, 06 Jan 2025 22:30:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Nvidia boss unveils next-generation gaming chips",
+            "link": "https://www.bbc.com/news/articles/c0q0jl8pl9ko",
+            "published": "Tue, 07 Jan 2025 06:20:11 GMT"
+        },
+        {
             "title": "US says tech giant Tencent works with Chinese military",
             "link": "https://www.bbc.com/news/articles/c9q78wn9g8zo",
             "published": "Tue, 07 Jan 2025 05:15:44 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple to pay $95m to settle Siri 'listening' lawsuit",
             "link": "https://www.bbc.com/news/articles/cr4rvr495rgo",
             "published": "Fri, 03 Jan 2025 11:38:19 GMT"
-        },
-        {
-            "title": "Why Apple is offering rare iPhone discounts in China",
-            "link": "https://www.bbc.com/news/articles/cvg9lgp34e3o",
-            "published": "Fri, 03 Jan 2025 06:04:31 GMT"
         }
     ]
 }
