@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Meta revamping its content moderation systems with Community Notes is good, but Zuckerberg pretending it's about free speech is bad, and the timing is stupid (Mike Masnick/Techdirt)",
+            "link": "http://www.techmeme.com/250108/p33#a250108p33",
+            "published": "Wed, 08 Jan 2025 13:40:00 -0500"
+        },
+        {
             "title": "Microsoft open sources the 14B-parameter AI model Phi-4 and its weights, available on Hugging Face under a MIT License, after releasing it in December 2024 (Carl Franzen/VentureBeat)",
             "link": "http://www.techmeme.com/250108/p32#a250108p32",
             "published": "Wed, 08 Jan 2025 11:55:00 -0500"
@@ -19,11 +24,6 @@
             "title": "EU rejects Zuckerberg's claim that \"Europe has an ever increasing number of laws institutionalising censorship\", saying it only requires illegal content removal (Philip Blenkinsop/Reuters)",
             "link": "http://www.techmeme.com/250108/p29#a250108p29",
             "published": "Wed, 08 Jan 2025 11:05:00 -0500"
-        },
-        {
-            "title": "JPMorgan files two lawsuits over its investment in fintech Viva Wallet; source: JPM claims &euro;916M, alleging Viva deprived JPM the value of its 2022 investment (Sotiris Nikas/Bloomberg)",
-            "link": "http://www.techmeme.com/250108/p28#a250108p28",
-            "published": "Wed, 08 Jan 2025 10:50:03 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "What\u2019s Behind Meta\u2019s Makeover Ahead of Trump\u2019s Second Term?",
             "link": "https://www.nytimes.com/2025/01/08/technology/meta-facebook-trump-mark-zuckerberg.html",
-            "published": "Wed, 08 Jan 2025 16:46:53 +0000"
+            "published": "Wed, 08 Jan 2025 19:06:47 +0000"
         },
         {
             "title": "Mark Zuckerberg\u2019s Political Evolution, From Apologies to No More Apologies",
