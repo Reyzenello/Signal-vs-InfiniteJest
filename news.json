@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Major quantum computing stocks, up 300%+ in the past year, fell on January 7 after Jensen Huang said \"very useful\" quantum computers are likely decades away (Jeran Wittenstein/Bloomberg)",
+            "link": "http://www.techmeme.com/250108/p19#a250108p19",
+            "published": "Wed, 08 Jan 2025 07:40:13 -0500"
+        },
+        {
+            "title": "Whatnot, which lets users sell comics and other items through live videos, raised a $265M Series E at a $4.97B valuation, and says its annual GMV passed $3B (Lauren Forristal/TechCrunch)",
+            "link": "http://www.techmeme.com/250108/p18#a250108p18",
+            "published": "Wed, 08 Jan 2025 07:15:02 -0500"
+        },
+        {
+            "title": "Magnitt: VC funding in the Middle East fell 29% YoY to $1.5B in 2024, with Saudi Arabia accounting for $750M, down 44% YoY, while the UAE saw $613M, down 8% YoY (Fahad Abuljadayel/Bloomberg)",
+            "link": "http://www.techmeme.com/250108/p17#a250108p17",
+            "published": "Wed, 08 Jan 2025 06:30:01 -0500"
+        },
+        {
             "title": "Indonesia says Apple can't sell its iPhone 16 in the country yet, despite a deal to build a local production facility, as it hasn't met domestic content rules (Bernadette Christina/Reuters)",
             "link": "http://www.techmeme.com/250108/p16#a250108p16",
             "published": "Wed, 08 Jan 2025 06:05:12 -0500"
@@ -9,21 +24,6 @@
             "title": "Akamai plans to end its CDN services in China on June 30, 2026, saying customers can move to an Akamai CDN outside China or use local providers like Tencent (Simon Sharwood/The Register)",
             "link": "http://www.techmeme.com/250108/p15#a250108p15",
             "published": "Wed, 08 Jan 2025 05:50:00 -0500"
-        },
-        {
-            "title": "Dublin-based payments startup NomuPay, formed in 2023 from some of Wirecard's regional payment licenses, raised a $37M Series B at a $200M valuation (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250108/p14#a250108p14",
-            "published": "Wed, 08 Jan 2025 05:35:12 -0500"
-        },
-        {
-            "title": "Micron plans to invest $7B over the next several years to expand its manufacturing footprint in Singapore, with a new HBM chip plant set to open in 2026 (Yuan Gao/Bloomberg)",
-            "link": "http://www.techmeme.com/250108/p13#a250108p13",
-            "published": "Wed, 08 Jan 2025 05:20:01 -0500"
-        },
-        {
-            "title": "NHTSA: software fixes accounted for 15% of US automotive recalls in 2024, up from 6% in 2019, as traditional carmakers struggle with managing software updates (Brooke Masters/Financial Times)",
-            "link": "http://www.techmeme.com/250108/p12#a250108p12",
-            "published": "Wed, 08 Jan 2025 05:05:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Huge problems with axing fact checkers, Meta oversight board says",
+            "link": "https://www.bbc.com/news/articles/cjwlwlqpwx7o",
+            "published": "Wed, 08 Jan 2025 12:10:32 GMT"
+        },
+        {
             "title": "ChatGPT creator denies sister's childhood rape claim",
             "link": "https://www.bbc.com/news/articles/cz6lq6x2gd9o",
             "published": "Wed, 08 Jan 2025 11:10:13 GMT"
@@ -73,11 +78,6 @@
             "title": "Nvidia unveils robot ambitions and powerful new gaming chips",
             "link": "https://www.bbc.com/news/articles/c0q0jl8pl9ko",
             "published": "Tue, 07 Jan 2025 06:20:11 GMT"
-        },
-        {
-            "title": "US designates Tencent a Chinese military company",
-            "link": "https://www.bbc.com/news/articles/c9q78wn9g8zo",
-            "published": "Tue, 07 Jan 2025 07:32:16 GMT"
         }
     ]
 }
