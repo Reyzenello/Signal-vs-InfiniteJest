@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Meta's fact-checking overhaul is set to deepen a growing schism between how platforms do content moderation in the US and in stricter regions like Europe (Cristiano Lima-Strong/Washington Post)",
+            "title": "Niklas Zennstr&ouml;m says European startups can thrive by developing apps for US-based AI platforms and believes pessimism about European startups is exaggerated (Tim Bradshaw/Financial Times)",
+            "link": "http://www.techmeme.com/250108/p27#a250108p27",
+            "published": "Wed, 08 Jan 2025 10:25:13 -0500"
+        },
+        {
+            "title": "Sources: TSMC's Arizona plant is now producing Systems-in-Package for the Apple Watch, almost certainly the S9, in addition to the A16 processor for iPhones (Tim Culpan/Culpium,)",
+            "link": "http://www.techmeme.com/250108/p26#a250108p26",
+            "published": "Wed, 08 Jan 2025 09:55:00 -0500"
+        },
+        {
+            "title": "Google says Nest hubs, Chromecasts, Google TV devices on Android 14, and more can now control Matter devices locally, and opens its Home APIs to all developers (Jennifer Pattison Tuohy/The Verge)",
+            "link": "http://www.techmeme.com/250108/p25#a250108p25",
+            "published": "Wed, 08 Jan 2025 09:40:01 -0500"
+        },
+        {
+            "title": "Meta's fact-checking overhaul is set to deepen a growing schism between how platforms handle content moderation in the US and in stricter regions like Europe (Cristiano Lima-Strong/Washington Post)",
             "link": "http://www.techmeme.com/250108/p24#a250108p24",
             "published": "Wed, 08 Jan 2025 09:20:02 -0500"
         },
         {
-            "title": "Sources: Movement Labs, which is building a layer-2 Ethereum blockchain, is set to raise a $100M Series B at a $3B valuation, after raising $38M in April 2024 (Leo Schwartz/Fortune)",
+            "title": "Sources: Movement Labs, which is building a layer-2 Ethereum blockchain, is set to raise a $100M Series B at a ~$3B valuation, after raising $38M in April 2024 (Leo Schwartz/Fortune)",
             "link": "http://www.techmeme.com/250108/p23#a250108p23",
             "published": "Wed, 08 Jan 2025 09:00:44 -0500"
-        },
-        {
-            "title": "AMD invests $20M in drug-discovery company Absci, which will move toward greater use of AMD's GPUs; Absci has 470+ AI chips, most of which are from Nvidia (Belle Lin/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250108/p22#a250108p22",
-            "published": "Wed, 08 Jan 2025 08:40:01 -0500"
-        },
-        {
-            "title": "Meta will launch a test in Germany, France and the US to publish eBay listings on Facebook Marketplace, after it was fined &euro;798M by EU for abusing dominance (Samuel Stolton/Bloomberg)",
-            "link": "http://www.techmeme.com/250108/p21#a250108p21",
-            "published": "Wed, 08 Jan 2025 08:05:01 -0500"
-        },
-        {
-            "title": "In a first, an EU court fines the EC &euro;400 for breaching its own data protection rules by transferring a citizen's data to the US via \"Sign in with Facebook\" (Reuters)",
-            "link": "http://www.techmeme.com/250108/p20#a250108p20",
-            "published": "Wed, 08 Jan 2025 07:50:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "As Elon Musk Embraces the Far Right, Some of Its Leaders Reject Him",
+            "link": "https://www.nytimes.com/2025/01/08/technology/elon-musk-far-right.html",
+            "published": "Wed, 08 Jan 2025 15:04:54 +0000"
+        },
         {
             "title": "Meta to End Fact-Checking Program in Shift Ahead of Trump Term",
             "link": "https://www.nytimes.com/2025/01/07/technology/meta-fact-checking-facebook.html",
@@ -38,19 +43,14 @@
             "published": "Tue, 07 Jan 2025 23:10:29 +0000"
         },
         {
-            "title": "Taiwan Suspects a Chinese-Linked Ship of Damaging an Internet Cable",
-            "link": "https://www.nytimes.com/2025/01/07/world/asia/taiwan-internet-cable-china.html",
-            "published": "Wed, 08 Jan 2025 04:53:21 +0000"
-        },
-        {
-            "title": "Dana White, U.F.C. Head, Joins Meta\u2019s Board",
-            "link": "https://www.nytimes.com/2025/01/06/technology/dana-white-meta-board-ufc.html",
-            "published": "Tue, 07 Jan 2025 00:16:28 +0000"
-        },
-        {
             "title": "AT&T to Credit Customers After Internet Outages",
             "link": "https://www.nytimes.com/2025/01/08/technology/att-outages-credit.html",
             "published": "Wed, 08 Jan 2025 13:00:05 +0000"
+        },
+        {
+            "title": "Facebook Shifts Content Moderation to Its Users. Are You Ready?",
+            "link": "https://www.nytimes.com/2025/01/07/technology/meta-facebook-content-moderation.html",
+            "published": "Wed, 08 Jan 2025 01:30:52 +0000"
         }
     ],
     "source_2": [
