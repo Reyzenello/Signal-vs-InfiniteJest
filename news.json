@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Disney says it has an estimated 157M global MAUs for ad-supported content across its streaming platforms, including 112M users in the US (Lillian Rizzo/CNBC)",
+            "link": "http://www.techmeme.com/250109/p13#a250109p13",
+            "published": "Thu, 09 Jan 2025 08:10:00 -0500"
+        },
+        {
+            "title": "Ivanti warns that a zero-day in its widely-used Connect Secure VPN service has been exploited to compromise the networks of its corporate customers (Carly Page/TechCrunch)",
+            "link": "http://www.techmeme.com/250109/p12#a250109p12",
+            "published": "Thu, 09 Jan 2025 08:05:14 -0500"
+        },
+        {
             "title": "Sources: Eric Schmidt is working on an AI startup called Hooglee, which describes its mission as \"democratizing video creation with AI\" (Sarah Emerson/Forbes)",
             "link": "http://www.techmeme.com/250109/p11#a250109p11",
             "published": "Thu, 09 Jan 2025 07:25:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Taiwan's National Security Bureau says daily average cyberattacks on government departments doubled in 2024 vs. 2023 to 2.4M, mostly from Chinese cyber forces (Yimou Lee/Reuters)",
             "link": "http://www.techmeme.com/250109/p9#a250109p9",
             "published": "Thu, 09 Jan 2025 06:35:13 -0500"
-        },
-        {
-            "title": "Istanbul-based gaming startup Grand Games, maker of Magic Sort and Car Match, raised a $30M Series A led by Balderton, after securing a $3M seed in 2024 (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250109/p8#a250109p8",
-            "published": "Thu, 09 Jan 2025 05:50:01 -0500"
-        },
-        {
-            "title": "A new English-language Polish film about Vladimir Putin, in which AI is used to superimpose his real face onto an actor, sparks a debate about use of AI (Alicja Ptak/Notes From Poland)",
-            "link": "http://www.techmeme.com/250109/p7#a250109p7",
-            "published": "Thu, 09 Jan 2025 04:50:03 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Political content on Instagram and Threads ramped up",
+            "link": "https://www.bbc.com/news/articles/clyjyd0297go",
+            "published": "Thu, 09 Jan 2025 13:12:38 GMT"
+        },
+        {
             "title": "'Huge problems' with Instagram and Facebook changes, says oversight board",
             "link": "https://www.bbc.com/news/articles/cjwlwlqpwx7o",
             "published": "Wed, 08 Jan 2025 15:33:21 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple urged to withdraw 'out of control' AI news alerts",
             "link": "https://www.bbc.com/news/articles/cge93de21n0o",
             "published": "Tue, 07 Jan 2025 11:52:57 GMT"
-        },
-        {
-            "title": "Nvidia unveils robot ambitions and powerful new gaming chips",
-            "link": "https://www.bbc.com/news/articles/c0q0jl8pl9ko",
-            "published": "Tue, 07 Jan 2025 06:20:11 GMT"
         }
     ]
 }
