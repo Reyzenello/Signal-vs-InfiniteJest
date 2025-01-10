@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Court docs: Mark Zuckerberg gave the Meta team training Llama AI models approval to use data from LibGen, which offers access to pirated, copyrighted material (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250109/p32#a250109p32",
+            "published": "Thu, 09 Jan 2025 19:35:01 -0500"
+        },
+        {
+            "title": "Internal data: Spotify had about 55M US subscribers as of Q3 2024, of which only around 607,000 were on the cheaper \"basic\" plan that doesn't include audiobooks (Ashley Carman/Bloomberg)",
+            "link": "http://www.techmeme.com/250109/p31#a250109p31",
+            "published": "Thu, 09 Jan 2025 18:30:00 -0500"
+        },
+        {
             "title": "Sources: many Meta employees are furious about its moderation changes that allow \"allegations of mental illness\" when based on \"gender or sexual orientation\" (Jason Koebler/404 Media)",
             "link": "http://www.techmeme.com/250109/p30#a250109p30",
             "published": "Thu, 09 Jan 2025 17:10:03 -0500"
@@ -14,16 +24,6 @@
             "title": "Hippocratic AI, which is building an LLM for health care, raised a $141M Series B, valuing the company at $1.64B, and launches a health care AI agent app store (Heather Landi/Fierce Healthcare)",
             "link": "http://www.techmeme.com/250109/p28#a250109p28",
             "published": "Thu, 09 Jan 2025 15:35:01 -0500"
-        },
-        {
-            "title": "Sources: Musk is probing how he and his right-wing allies can go beyond aggressive X posts to destabilize the UK Labour government and remove Keir Starmer as PM (Financial Times)",
-            "link": "http://www.techmeme.com/250109/p27#a250109p27",
-            "published": "Thu, 09 Jan 2025 14:30:01 -0500"
-        },
-        {
-            "title": "Elon Musk calls on California and Delaware AGs to force OpenAI to auction off a large stake in its business; source: OpenAI had no plans for such an auction (George Hammond/Financial Times)",
-            "link": "http://www.techmeme.com/250109/p26#a250109p26",
-            "published": "Thu, 09 Jan 2025 13:30:03 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok to make final plea at Supreme Court against US ban",
+            "link": "https://www.bbc.com/news/articles/cz9g91gn5ddo",
+            "published": "Fri, 10 Jan 2025 00:12:21 GMT"
+        },
+        {
             "title": "Politics content to be pushed on all Instagram and Threads users",
             "link": "https://www.bbc.com/news/articles/clyjyd0297go",
             "published": "Thu, 09 Jan 2025 15:12:32 GMT"
@@ -73,11 +78,6 @@
             "title": "Facebook and Instagram get rid of fact checkers",
             "link": "https://www.bbc.com/news/articles/cly74mpy8klo",
             "published": "Tue, 07 Jan 2025 18:01:47 GMT"
-        },
-        {
-            "title": "Apple urged to withdraw 'out of control' AI news alerts",
-            "link": "https://www.bbc.com/news/articles/cge93de21n0o",
-            "published": "Tue, 07 Jan 2025 11:52:57 GMT"
         }
     ]
 }
