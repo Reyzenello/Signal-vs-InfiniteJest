@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Amazon plans to end Prime Try Before You Buy on January 31; the Stitch Fix competitor let Prime users try on clothes and only pay for items they wanted to keep (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/250110/p23#a250110p23",
+            "published": "Fri, 10 Jan 2025 15:25:14 -0500"
+        },
+        {
+            "title": "Amazon has quietly changed or removed pages on its corporate website that declared its commitment to DEI and other issues (The Information)",
+            "link": "http://www.techmeme.com/250110/p22#a250110p22",
+            "published": "Fri, 10 Jan 2025 15:10:02 -0500"
+        },
+        {
+            "title": "Sources: Rumble, Quora, and WeChat are among 15 companies from which Texas has demanded answers about their collection and use of data of under-18-year-olds (Paresh Dave/Wired)",
+            "link": "http://www.techmeme.com/250110/p21#a250110p21",
+            "published": "Fri, 10 Jan 2025 14:55:02 -0500"
+        },
+        {
+            "title": "Sources detail Zuckerberg's sprint to remake Meta after meeting with Trump at Thanksgiving; he no longer wants to keep his views of how Meta should be run quiet (New York Times)",
+            "link": "http://www.techmeme.com/250110/p20#a250110p20",
+            "published": "Fri, 10 Jan 2025 14:25:00 -0500"
+        },
+        {
             "title": "Overhaul, which uses AI to anticipate freight shipping delays to fight cargo theft for customers like Microsoft, raised $55M, bringing total funding to ~$150M (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250110/p19#a250110p19",
             "published": "Fri, 10 Jan 2025 13:45:02 -0500"
-        },
-        {
-            "title": "SCOTUS signals it is likely to uphold the TikTok divest-or-ban law, as a majority of justices suggested they see national security overriding free speech issues (Greg Stohr/Bloomberg)",
-            "link": "http://www.techmeme.com/250110/p18#a250110p18",
-            "published": "Fri, 10 Jan 2025 13:15:00 -0500"
-        },
-        {
-            "title": "Memo: Meta terminates major DEI programs, including for hiring, training, and procurement, citing a changed \"legal and policy landscape\" around DEI in the US (Axios)",
-            "link": "http://www.techmeme.com/250110/p17#a250110p17",
-            "published": "Fri, 10 Jan 2025 12:46:19 -0500"
-        },
-        {
-            "title": "The US DOJ indicts three Russian citizens for allegedly operating Bender.io and Sinbad.io crypto mixing services used by North Korea and ransomware gangs (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-            "link": "http://www.techmeme.com/250110/p16#a250110p16",
-            "published": "Fri, 10 Jan 2025 12:00:17 -0500"
-        },
-        {
-            "title": "El Capitan, the world's most powerful supercomputer, built by HPE and AMD as part of a $600M US DOE contract, is officially dedicated to handle classified tasks (Axios)",
-            "link": "http://www.techmeme.com/250110/p15#a250110p15",
-            "published": "Fri, 10 Jan 2025 11:10:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside Mark Zuckerberg\u2019s Sprint to Remake Meta for the Trump Era",
+            "link": "https://www.nytimes.com/2025/01/10/technology/meta-mark-zuckerberg-trump.html",
+            "published": "Fri, 10 Jan 2025 20:19:19 +0000"
+        },
         {
             "title": "Can You Still Use TikTok if It\u2019s Banned? What Users Should Know About the App.",
             "link": "https://www.nytimes.com/2025/01/10/technology/tiktok-ban-app-users.html",
@@ -38,26 +43,21 @@
             "published": "Thu, 09 Jan 2025 10:01:32 +0000"
         },
         {
-            "title": "TikTok, Facing a US Ban, Is Also Waging Legal Battles Around the World",
-            "link": "https://www.nytimes.com/2025/01/09/technology/tiktok-ban-global-legal-battles.html",
-            "published": "Fri, 10 Jan 2025 14:18:51 +0000"
-        },
-        {
             "title": "Meta Goes MAGA Mode + a Big Month in A.I. + HatGPT",
             "link": "https://www.nytimes.com/2025/01/10/podcasts/hardfork-meta-zuck-o3.html",
             "published": "Fri, 10 Jan 2025 12:05:30 +0000"
         },
         {
-            "title": "Inside Mark Zuckerberg\u2019s Sprint to Remake Meta for the Trump Era",
-            "link": "https://www.nytimes.com/2025/01/10/technology/meta-mark-zuckerberg-trump.html",
-            "published": "Fri, 10 Jan 2025 19:02:53 +0000"
+            "title": "4 Takeaways From the Arguments Before the Supreme Court in the TikTok Case",
+            "link": "https://www.nytimes.com/2025/01/10/us/politics/takeaways-tiktok-supreme-court.html",
+            "published": "Fri, 10 Jan 2025 19:52:24 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "TikTok makes last ditch legal bid to prevent imminent US ban",
+            "title": "Supreme Court hears TikTok's final plea against US ban",
             "link": "https://www.bbc.com/news/articles/cz9g91gn5ddo",
-            "published": "Fri, 10 Jan 2025 00:12:21 GMT"
+            "published": "Fri, 10 Jan 2025 20:09:43 GMT"
         },
         {
             "title": "Politics content to be pushed on all Instagram and Threads users",
