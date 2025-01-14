@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "DirecTV launches MySports, a sports streamer featuring games from NFL and other major leagues, and access to 40 channels, in 24 US metro areas for $70/month (Hannah Miller/Bloomberg)",
+            "link": "http://www.techmeme.com/250114/p11#a250114p11",
+            "published": "Tue, 14 Jan 2025 07:15:00 -0500"
+        },
+        {
+            "title": "A profile of Hussain Sajwani, who, alongside Donald Trump at Mar-a-Lago, pledged a $20B investment in US data centers, and why some are skeptical of the plan (Bloomberg)",
+            "link": "http://www.techmeme.com/250114/p10#a250114p10",
+            "published": "Tue, 14 Jan 2025 06:50:02 -0500"
+        },
+        {
             "title": "Paris-based Bioptimus, which is developing a foundational AI model for biology, raised $41M led by Cathay Innovation, bringing its total raised to $76M (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/250114/p9#a250114p9",
             "published": "Tue, 14 Jan 2025 06:15:02 -0500"
@@ -14,16 +24,6 @@
             "title": "The Biden admin finalizes a rule banning the import or sale of connected vehicles with hardware or software that have a \"sufficient nexus\" to China or Russia (Bloomberg)",
             "link": "http://www.techmeme.com/250114/p7#a250114p7",
             "published": "Tue, 14 Jan 2025 05:40:02 -0500"
-        },
-        {
-            "title": "The UK CMA opens a probe to assess Google's position in search and search ads business and how it impacts consumers, advertisers, publishers, and its rivals (Ryan Browne/CNBC)",
-            "link": "http://www.techmeme.com/250114/p6#a250114p6",
-            "published": "Tue, 14 Jan 2025 05:35:02 -0500"
-        },
-        {
-            "title": "How Cleo AI and Bright, AI chatbots offering personalized financial advice, often function as a way to sell high-interest loans and cash advances to young users (Reece Rogers/Wired)",
-            "link": "http://www.techmeme.com/250114/p5#a250114p5",
-            "published": "Tue, 14 Jan 2025 04:25:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google faces UK investigation over search dominance",
+            "link": "https://www.bbc.com/news/articles/c5y6x45w6ejo",
+            "published": "Tue, 14 Jan 2025 11:33:06 GMT"
+        },
+        {
             "title": "TikTok says report of possible sale to Musk 'pure fiction'",
             "link": "https://www.bbc.com/news/articles/c78w9zz62ego",
             "published": "Tue, 14 Jan 2025 03:54:57 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple pushes back on call to end diversity programme",
             "link": "https://www.bbc.com/news/articles/cjex3878z3wo",
             "published": "Mon, 13 Jan 2025 03:25:40 GMT"
-        },
-        {
-            "title": "Online safety laws unsatisfactory, minister says",
-            "link": "https://www.bbc.com/news/articles/cx2pk7589rno",
-            "published": "Sun, 12 Jan 2025 15:36:04 GMT"
         }
     ]
 }
