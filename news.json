@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Court docs: internal messages suggest Meta used data from piracy site LibGen to train AI Llama models and worked to conceal it while racing rivals like OpenAI (The Verge)",
+            "title": "AI will face different rules in Northern Ireland and Britain as the EU's AI Act takes effect next month, potentially causing friction in the UK's tech sector (Financial Times)",
+            "link": "http://www.techmeme.com/250115/p4#a250115p4",
+            "published": "Wed, 15 Jan 2025 01:00:37 -0500"
+        },
+        {
+            "title": "Industry insiders say China's share of the global DRAM chip market could double YoY to 10% in 2025, driven by CXMT, up from virtually zero just five years ago (Nikkei Asia)",
+            "link": "http://www.techmeme.com/250115/p3#a250115p3",
+            "published": "Wed, 15 Jan 2025 00:55:01 -0500"
+        },
+        {
+            "title": "The CFTC puts trading of Super Bowl and other sports derivatives on Crypto.com under review; the firm says it rejected the CFTC's request to halt such trading (Lydia Beyoud/Bloomberg)",
+            "link": "http://www.techmeme.com/250115/p2#a250115p2",
+            "published": "Wed, 15 Jan 2025 00:35:01 -0500"
+        },
+        {
+            "title": "Court docs: internal messages suggest Meta used data from piracy site LibGen to train AI Llama models and worked to conceal it, as Meta raced to beat rivals (The Verge)",
             "link": "http://www.techmeme.com/250115/p1#a250115p1",
             "published": "Wed, 15 Jan 2025 00:00:52 -0500"
         },
@@ -9,28 +24,13 @@
             "title": "Sources: TikTok plans to block access to its app for US users on Jan. 19 unless SCOTUS stops the ban; one source says a pop-up message will give users more info (The Information)",
             "link": "http://www.techmeme.com/250114/p40#a250114p40",
             "published": "Tue, 14 Jan 2025 23:30:00 -0500"
-        },
-        {
-            "title": "Experts say Donald Trump and others pushing for stronger US cyber offense must clarify if escalation is a proper response to recent Chinese cyber breaches (CyberScoop)",
-            "link": "http://www.techmeme.com/250114/p39#a250114p39",
-            "published": "Tue, 14 Jan 2025 23:15:00 -0500"
-        },
-        {
-            "title": "Red Hat acquires Neural Magic, which has built tools to boost generative AI inference workloads and raised $50M from a16z and others, for an undisclosed sum (Steven Vaughan-Nichols/ZDNET)",
-            "link": "http://www.techmeme.com/250114/p38#a250114p38",
-            "published": "Tue, 14 Jan 2025 22:20:01 -0500"
-        },
-        {
-            "title": "Elmsford, NY-based quantum computing startup SEEQC raised a $30M Series A extension co-led by Booz Allen and NordicNinja, following a $22.4M Series A in 2020 (Anna Heim/TechCrunch)",
-            "link": "http://www.techmeme.com/250114/p37#a250114p37",
-            "published": "Tue, 14 Jan 2025 22:00:52 -0500"
         }
     ],
     "source_1": [
         {
             "title": "S.E.C. Sues Elon Musk Over Twitter-Related Securities Violations",
             "link": "https://www.nytimes.com/2025/01/14/technology/sec-elon-musk-securities-violations.html",
-            "published": "Wed, 15 Jan 2025 01:14:26 +0000"
+            "published": "Wed, 15 Jan 2025 01:14:27 +0000"
         },
         {
             "title": "Meta to Cut 5% of Its Workers in New Round of Layoffs",
