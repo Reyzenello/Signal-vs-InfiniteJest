@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Sources and docs: Meta has dismantled its system that identified viral hoaxes and limited their reach, and told content-ranking teams to stop penalizing misinfo (Casey Newton/Platformer)",
+            "link": "http://www.techmeme.com/250114/p34#a250114p34",
+            "published": "Tue, 14 Jan 2025 20:10:09 -0500"
+        },
+        {
+            "title": "DJI removes its geofence around US \"No-Fly Zones\", replacing it with a warning, saying the update \"aligns\" with FAA rules and follows similar changes in the EU (Sean Hollister/The Verge)",
+            "link": "http://www.techmeme.com/250114/p33#a250114p33",
+            "published": "Tue, 14 Jan 2025 19:45:01 -0500"
+        },
+        {
+            "title": "In federal court, lawyers for Microsoft and OpenAI defended the scraping of news stories to train LLMs and urged the dismissal of news outlets' copyright claims (Josh Russell/Courthouse News Service)",
+            "link": "http://www.techmeme.com/250114/p32#a250114p32",
+            "published": "Tue, 14 Jan 2025 18:50:02 -0500"
+        },
+        {
+            "title": "The SEC sues Elon Musk, claiming he failed to timely disclose a major purchase of Twitter shares ahead of his takeover of the social media platform in 2022 (Nicola M White/Bloomberg)",
+            "link": "http://www.techmeme.com/250114/p31#a250114p31",
+            "published": "Tue, 14 Jan 2025 18:27:20 -0500"
+        },
+        {
             "title": "Huione Guarantee, a Telegram marketplace that facilitates \"pig butchering\" and other scams, recently launched several crypto products, including a stablecoin (Elliptic)",
             "link": "http://www.techmeme.com/250114/p30#a250114p30",
             "published": "Tue, 14 Jan 2025 18:20:02 -0500"
-        },
-        {
-            "title": "Email: Sonos CPO Maxime Bouvat-Merlin is leaving; some employees say he shares a significant amount of blame for the brand damage after the botched app revamp (Chris Welch/The Verge)",
-            "link": "http://www.techmeme.com/250114/p29#a250114p29",
-            "published": "Tue, 14 Jan 2025 17:05:00 -0500"
-        },
-        {
-            "title": "Intel Capital plans to split off from its parent into a standalone fund with a new name in H2 2025; Intel Capital has invested $20B+ into over 1,800 companies (Dan Primack/Axios)",
-            "link": "http://www.techmeme.com/250114/p28#a250114p28",
-            "published": "Tue, 14 Jan 2025 16:55:02 -0500"
-        },
-        {
-            "title": "Decentralized Instagram alternative Pixelfed debuts iOS and Android apps; its Android app is the top Social app on Google Play in some markets, including the US (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250114/p27#a250114p27",
-            "published": "Tue, 14 Jan 2025 16:30:00 -0500"
-        },
-        {
-            "title": "Quantum computing stocks rebound after a big dip that followed skeptical comments from Nvidia's Huang; RGTI closes up 47.93%+ but is still down ~55% from Jan. 2 (Laura Bratton/Yahoo Finance)",
-            "link": "http://www.techmeme.com/250114/p26#a250114p26",
-            "published": "Tue, 14 Jan 2025 15:32:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "S.E.C. Sues Elon Musk Over Twitter-Related Securities Violations",
+            "link": "https://www.nytimes.com/2025/01/14/technology/sec-elon-musk-securities-violations.html",
+            "published": "Wed, 15 Jan 2025 01:14:26 +0000"
+        },
         {
             "title": "Meta to Cut 5% of Its Workers in New Round of Layoffs",
             "link": "https://www.nytimes.com/2025/01/14/technology/meta-layoffs.html",
@@ -43,17 +48,17 @@
             "published": "Mon, 13 Jan 2025 13:17:19 +0000"
         },
         {
-            "title": "Biden Administration Adopts Rules to Guide A.I.\u2019s Global Spread",
-            "link": "https://www.nytimes.com/2025/01/13/us/politics/biden-administration-rules-artificial-intelligence.html",
-            "published": "Tue, 14 Jan 2025 03:02:56 +0000"
-        },
-        {
             "title": "Why Oil Industry Jobs Are Down, Even With Production Up",
             "link": "https://www.nytimes.com/2025/01/14/business/energy-environment/oil-gas-jobs.html",
             "published": "Tue, 14 Jan 2025 20:55:58 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US markets watchdog sues Musk over Twitter stake disclosure",
+            "link": "https://www.bbc.com/news/articles/cwyp4y4wy7go",
+            "published": "Wed, 15 Jan 2025 01:16:40 GMT"
+        },
         {
             "title": "Google faces UK investigation over search dominance",
             "link": "https://www.bbc.com/news/articles/c5y6x45w6ejo",
@@ -73,11 +78,6 @@
             "title": "TikTok users flock to Chinese app RedNote as US ban looms",
             "link": "https://www.bbc.com/news/articles/c2475l7zpqyo",
             "published": "Tue, 14 Jan 2025 06:57:18 GMT"
-        },
-        {
-            "title": "Apple pushes back on call to end diversity programme",
-            "link": "https://www.bbc.com/news/articles/cjex3878z3wo",
-            "published": "Mon, 13 Jan 2025 03:25:40 GMT"
         }
     ]
 }
