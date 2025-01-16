@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Joe Biden issues a cybersecurity executive order to improve the way the government monitors its networks, buys software, uses AI, and punishes foreign hackers (Eric Geller/Wired)",
-            "link": "http://www.techmeme.com/250116/p13#a250116p13",
-            "published": "Thu, 16 Jan 2025 06:15:01 -0500"
+            "title": "Eve, which makes AI tools for law firms, raised a $47M Series A led by a16z, and says its revenue has grown by 5x over the past eight months (Allie Garfinkle/Fortune)",
+            "link": "http://www.techmeme.com/250116/p22#a250116p22",
+            "published": "Thu, 16 Jan 2025 07:30:01 -0500"
         },
         {
-            "title": "Official report: Chinese hackers who breached the US Treasury accessed 400+ computers and stole over 3K files; classified data and email systems were safe (Bloomberg)",
-            "link": "http://www.techmeme.com/250116/p14#a250116p14",
-            "published": "Thu, 16 Jan 2025 06:15:01 -0500"
+            "title": "Brokerage firm IG Group acquires UK trading app Freetrade for &pound;160M; Freetrade raised ~&pound;30m via crowdfunding and was valued at &pound;650m in 2021 during the pandemic (John Reynolds/Tech.eu)",
+            "link": "http://www.techmeme.com/250116/p21#a250116p21",
+            "published": "Thu, 16 Jan 2025 07:25:01 -0500"
         },
         {
-            "title": "Mistral announces a content deal with the Agence France-Presse to improve answer accuracy in Le Chat, marking the French AI startup's first such partnership (Romain Dillet/TechCrunch)",
-            "link": "http://www.techmeme.com/250116/p12#a250116p12",
-            "published": "Thu, 16 Jan 2025 06:10:00 -0500"
+            "title": "UK's Ofcom imposes robust age checks on porn sites, which could include photo ID matching, facial age estimation technology, and credit card checks (Daniel Thomas/Financial Times)",
+            "link": "http://www.techmeme.com/250116/p20#a250116p20",
+            "published": "Thu, 16 Jan 2025 07:15:01 -0500"
         },
         {
-            "title": "TSMC says it will raise 2025 capital spending to $38B-$40B, an over 30% increase after three years of stagnation (Kathrin Hille/Financial Times)",
-            "link": "http://www.techmeme.com/250116/p11#a250116p11",
-            "published": "Thu, 16 Jan 2025 06:05:00 -0500"
+            "title": "Anduril plans to build a $1B factory in Columbus, Ohio called Arsenal-1 to eventually produce tens of thousands of autonomous systems and weapons each year (New York Times)",
+            "link": "http://www.techmeme.com/250116/p19#a250116p19",
+            "published": "Thu, 16 Jan 2025 07:10:01 -0500"
         },
         {
-            "title": "Canalys: China smartphone shipments rose 4% YoY to 285M units in 2024, with Vivo up 11% to a 17% market share, Huawei up 37% to 16%, and Apple down 17% to 15% (William Langley/Financial Times)",
-            "link": "http://www.techmeme.com/250116/p10#a250116p10",
-            "published": "Thu, 16 Jan 2025 05:05:03 -0500"
+            "title": "China plans to probe whether the US gives its chipmakers an unfair advantage through grants or undercuts Chinese products illegally, escalating the chip war (Bloomberg)",
+            "link": "http://www.techmeme.com/250116/p18#a250116p18",
+            "published": "Thu, 16 Jan 2025 07:05:00 -0500"
         }
     ],
     "source_1": [
@@ -60,9 +60,14 @@
             "published": "Thu, 16 Jan 2025 09:41:24 GMT"
         },
         {
+            "title": "BT scraps EV charging point scheme having only installed one",
+            "link": "https://www.bbc.com/news/articles/c75zwyeq3v9o",
+            "published": "Thu, 16 Jan 2025 12:35:41 GMT"
+        },
+        {
             "title": "What happens if TikTok is banned?",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo",
-            "published": "Wed, 15 Jan 2025 11:00:48 GMT"
+            "published": "Thu, 16 Jan 2025 12:26:22 GMT"
         },
         {
             "title": "US markets watchdog sues Musk over Twitter stake disclosure",
@@ -73,11 +78,6 @@
             "title": "Google faces UK investigation over search dominance",
             "link": "https://www.bbc.com/news/articles/c5y6x45w6ejo",
             "published": "Tue, 14 Jan 2025 12:52:52 GMT"
-        },
-        {
-            "title": "TikTok says report of possible sale to Musk 'pure fiction'",
-            "link": "https://www.bbc.com/news/articles/c78w9zz62ego",
-            "published": "Tue, 14 Jan 2025 03:54:57 GMT"
         }
     ]
 }
