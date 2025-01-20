@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "An interview with Broadcom's Hock Tan on backlash from VMware customers, positioning VMware as a \"sovereign\" alternative to Big Tech's cloud services, and more (Tim Bradshaw/Financial Times)",
+            "link": "http://www.techmeme.com/250120/p8#a250120p8",
+            "published": "Mon, 20 Jan 2025 06:05:01 -0500"
+        },
+        {
+            "title": "A look at the CIA's AI use, including a chatbot that lets analysts talk to virtual versions of foreign presidents and prime ministers to predict their behaviors (Julian E. Barnes/New York Times)",
+            "link": "http://www.techmeme.com/250120/p7#a250120p7",
+            "published": "Mon, 20 Jan 2025 05:40:00 -0500"
+        },
+        {
             "title": "A 2024 study of 205 randomly chosen Community Notes on X about COVID-19 vaccines found that 97% of the notes were accurate and ~50% cited high-quality sources (Adam Kucharski/Bloomberg)",
             "link": "http://www.techmeme.com/250120/p6#a250120p6",
             "published": "Mon, 20 Jan 2025 05:15:05 -0500"
@@ -14,16 +24,6 @@
             "title": "Analysis: Chinese AI researchers produced ~46K collaborative papers with their US counterparts over the past decade, followed by ~19K with researchers in the UK (Khadija Alam/Rest of World)",
             "link": "http://www.techmeme.com/250120/p4#a250120p4",
             "published": "Mon, 20 Jan 2025 04:10:25 -0500"
-        },
-        {
-            "title": "A profile of Spotify's Head of Editorial Sulinna Ong, whose team curates thousands of playlists and discovers new artists to complement Spotify's algorithms (Anne Steele/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250120/p3#a250120p3",
-            "published": "Mon, 20 Jan 2025 02:00:13 -0500"
-        },
-        {
-            "title": "Bluesky launches a custom feed for TikTok-style vertical videos in its mobile app, saying \"we had to get in on the video action too\" (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/250120/p2#a250120p2",
-            "published": "Mon, 20 Jan 2025 00:50:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Why is TikTok back after being banned for one day?",
+            "link": "https://www.bbc.com/news/articles/clyng762q4eo",
+            "published": "Mon, 20 Jan 2025 11:15:56 GMT"
+        },
+        {
             "title": "Melania Trump launches her own cryptocurrency",
             "link": "https://www.bbc.com/news/articles/c98y47vrv2jo",
             "published": "Mon, 20 Jan 2025 05:55:05 GMT"
@@ -68,11 +73,6 @@
             "title": "TikTok creators mourn app where 'overnight' success is possible",
             "link": "https://www.bbc.com/news/articles/cdd99r0jm3jo",
             "published": "Sat, 18 Jan 2025 00:06:34 GMT"
-        },
-        {
-            "title": "Will TikTok come back? What to know after US Supreme Court decision",
-            "link": "https://www.bbc.com/news/articles/clyng762q4eo",
-            "published": "Sun, 19 Jan 2025 16:52:04 GMT"
         },
         {
             "title": "Apple suspends error-strewn AI generated news alerts",
