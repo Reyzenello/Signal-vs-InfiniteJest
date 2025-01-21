@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Apple says installing macOS Sequoia 15.3, iOS 18.3, or iPadOS 18.3 will turn on Apple Intelligence automatically on compatible devices; users can opt out later (Juli Clover/MacRumors)",
+            "link": "http://www.techmeme.com/250121/p18#a250121p18",
+            "published": "Tue, 21 Jan 2025 15:09:32 -0500"
+        },
+        {
+            "title": "Meta says it will offer eligible TikTok creators free verification, content deals, and up to $5,000 in bonuses to post Reels (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/250121/p17#a250121p17",
+            "published": "Tue, 21 Jan 2025 14:55:14 -0500"
+        },
+        {
+            "title": "DeepSeek's new MIT-licensed AI models can be accessed via DeepSeek's API at a fraction of the cost of comparable OpenAI models but there are censorship concerns (Radhika Rajkumar/ZDNET)",
+            "link": "http://www.techmeme.com/250121/p16#a250121p16",
+            "published": "Tue, 21 Jan 2025 14:35:01 -0500"
+        },
+        {
             "title": "The SEC launches a \"Crypto 2.0\" task force led by SEC Commissioner Hester Peirce, to create a \"comprehensive and clear regulatory framework for crypto assets\" (Jeff Cox/CNBC)",
             "link": "http://www.techmeme.com/250121/p15#a250121p15",
             "published": "Tue, 21 Jan 2025 13:30:00 -0500"
@@ -9,24 +24,14 @@
             "title": "Parrot Analytics estimates Severance season 1 earned $200M+, with ~50% coming in the year following the finale; Ted Lasso generated $609.4M from Q3'20 to Q3'24 (Max Goldbart/Deadline)",
             "link": "http://www.techmeme.com/250121/p14#a250121p14",
             "published": "Tue, 21 Jan 2025 13:10:01 -0500"
-        },
-        {
-            "title": "ByteDance-owned video editing app CapCut is now working in the US, but is still not in app stores, after Trump signed an EO attempting to pause the TikTok ban (Lauren Feiner/The Verge)",
-            "link": "http://www.techmeme.com/250121/p13#a250121p13",
-            "published": "Tue, 21 Jan 2025 12:10:00 -0500"
-        },
-        {
-            "title": "Omdia: by the end of 2024, TikTok generated ~$8B in ad revenue in the US and $63.3B globally, and surpassed 1.9B MAUs globally, including 145M MAUs in the US (Marta Balaga/Variety)",
-            "link": "http://www.techmeme.com/250121/p12#a250121p12",
-            "published": "Tue, 21 Jan 2025 11:55:01 -0500"
-        },
-        {
-            "title": "Meta will soon let users link WhatsApp accounts with Instagram and Facebook, allowing cross posts of WhatsApp Statuses as Stories on Instagram and Facebook (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/250121/p11#a250121p11",
-            "published": "Tue, 21 Jan 2025 11:10:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump Plans to Announce $100 Billion A.I. Initiative",
+            "link": "https://www.nytimes.com/2025/01/21/technology/trump-openai-stargate-artificial-intelligence.html",
+            "published": "Tue, 21 Jan 2025 20:03:43 +0000"
+        },
         {
             "title": "When Google Altered Its Ad Rules, Charities Paid the Price",
             "link": "https://www.nytimes.com/2025/01/21/technology/google-online-ads-philanthropies.html",
@@ -41,11 +46,6 @@
             "title": "TikTok, RedNote and the Crushed Promise of the Chinese Internet",
             "link": "https://www.nytimes.com/2025/01/20/business/tiktok-red-note-china-internet.html",
             "published": "Mon, 20 Jan 2025 07:09:27 +0000"
-        },
-        {
-            "title": "TikTok Got a Reprieve, but Americans and Chinese Are Still on RedNote",
-            "link": "https://www.nytimes.com/2025/01/20/business/tiktok-ban-rednote-xiaohongshu-adapts.html",
-            "published": "Tue, 21 Jan 2025 03:01:07 +0000"
         },
         {
             "title": "Trump\u2019s Executive Order to End E.V. Subsidies Draws Pushback",
