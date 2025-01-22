@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google unveils classroom and accessibility ChromeOS features, including rolling out a tool to let users control a device with their head and facial expressions (Antonio G. Di Benedetto/The Verge)",
+            "link": "http://www.techmeme.com/250122/p15#a250122p15",
+            "published": "Wed, 22 Jan 2025 07:20:01 -0500"
+        },
+        {
+            "title": "Memo: ByteDance asks Chinese staff in Singapore to pay tax to China or risk losing their ability to cash out on stock options, as China steps up tax enforcement (Financial Times)",
+            "link": "http://www.techmeme.com/250122/p14#a250122p14",
+            "published": "Wed, 22 Jan 2025 06:40:00 -0500"
+        },
+        {
             "title": "Crypto exchange Deribit reports total trading volume, including options, futures, and more, rose 95% YoY to $1.19T in 2024; options volume rose 99% YoY to $743B (Omkar Godbole/CoinDesk)",
             "link": "http://www.techmeme.com/250122/p13#a250122p13",
             "published": "Wed, 22 Jan 2025 06:15:01 -0500"
@@ -14,16 +24,6 @@
             "title": "UK CMA Chair Marcus Bokkerink plans to leave the antitrust agency, after pressure from UK ministers; the CMA appoints ex-Amazon exec Doug Gurr as interim chair (Financial Times)",
             "link": "http://www.techmeme.com/250122/p11#a250122p11",
             "published": "Wed, 22 Jan 2025 05:35:01 -0500"
-        },
-        {
-            "title": "In 2024, Cloudflare's autonomous DDoS defense systems blocked 21.3M DDoS attacks, up 53% YoY, and 420 DDoS attacks in Q4 2024 exceeded 1 Tbps, up 1,885% QoQ (The Cloudflare Blog)",
-            "link": "http://www.techmeme.com/250122/p10#a250122p10",
-            "published": "Wed, 22 Jan 2025 04:55:00 -0500"
-        },
-        {
-            "title": "Eager to attract investments, politicians in Brazil, India, and other non-Western nations with nascent AI regulations have warmly welcomed major AI companies (Rest of World)",
-            "link": "http://www.techmeme.com/250122/p9#a250122p9",
-            "published": "Wed, 22 Jan 2025 04:24:08 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTokers offered $5,000 to join Facebook and Instagram",
+            "link": "https://www.bbc.com/news/articles/c897pg2nengo",
+            "published": "Wed, 22 Jan 2025 11:40:13 GMT"
+        },
+        {
             "title": "Tech giants announce $500bn 'Stargate' AI plan in US",
             "link": "https://www.bbc.com/news/articles/cy4m84d2xz2o",
             "published": "Wed, 22 Jan 2025 10:49:15 GMT"
@@ -73,11 +78,6 @@
             "title": "Delay to TikTok ban gets Trump sign-off",
             "link": "https://www.bbc.com/news/articles/cd0j24rj4ryo",
             "published": "Tue, 21 Jan 2025 15:47:45 GMT"
-        },
-        {
-            "title": "Government digital document app launching in summer",
-            "link": "https://www.bbc.com/news/articles/cy48vl3p0nyo",
-            "published": "Tue, 21 Jan 2025 17:08:16 GMT"
         }
     ]
 }
