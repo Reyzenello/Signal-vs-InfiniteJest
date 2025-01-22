@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "MrBeast joins an investor group led by Employer.com founder Jesse Tinsley in an all-cash bid to acquire TikTok US operations; several groups have shown interest (Alexandra S. Levine/Bloomberg)",
-            "link": "http://www.techmeme.com/250121/p27#a250121p27",
-            "published": "Tue, 21 Jan 2025 18:20:01 -0500"
+            "title": "Render, which offers developers cloud services for building, deploying, and running apps and websites, raised an $80M Series C led by Georgian (Mike Wheatley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250121/p34#a250121p34",
+            "published": "Tue, 21 Jan 2025 20:25:00 -0500"
         },
         {
-            "title": "OpenAI, SoftBank, and Oracle announce The Stargate Project, a JV to invest in US AI infrastructure, committing $100B now and up to $500B in the next four years (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250121/p26#a250121p26",
-            "published": "Tue, 21 Jan 2025 17:37:18 -0500"
+            "title": "StackBlitz, which offers an AI tool to create websites using text prompts, says it's finalizing raising $83.5M at a $700M valuation, following a $22M Series A (Bloomberg)",
+            "link": "http://www.techmeme.com/250121/p33#a250121p33",
+            "published": "Tue, 21 Jan 2025 19:40:08 -0500"
         },
         {
-            "title": "Nielsen: Netflix captured 8.5% of all US streaming viewership in December 2024, its highest share since July 2023, in part due to NFL games; YouTube had 11.1% (Drew Lerner/Awful Announcing)",
-            "link": "http://www.techmeme.com/250121/p25#a250121p25",
-            "published": "Tue, 21 Jan 2025 17:25:00 -0500"
+            "title": "Trump grants a pardon to Ross Ulbricht, the creator of Silk Road and a cryptocurrency cult hero, serving a life sentence on money laundering and drug charges (New York Times)",
+            "link": "http://www.techmeme.com/250121/p32#a250121p32",
+            "published": "Tue, 21 Jan 2025 19:23:32 -0500"
         },
         {
-            "title": "Crypto.com launches its institutional exchange service for US customers; it had closed the service in June 2023 due to \"limited demand\" (MK Manoylov/The Block)",
-            "link": "http://www.techmeme.com/250121/p24#a250121p24",
-            "published": "Tue, 21 Jan 2025 17:20:01 -0500"
+            "title": "Highnote, which offers businesses a card-issuing software, raised a $90M Series B led by Adams Street Partners, a source says at a $750M+ valuation (Stephen Pastis/Forbes)",
+            "link": "http://www.techmeme.com/250121/p31#a250121p31",
+            "published": "Tue, 21 Jan 2025 19:10:00 -0500"
         },
         {
-            "title": "Tencent unveils Hunyuan3D 2.0, an AI system that turns single images or text prompts into 3D models in seconds, and open sources it on HuggingFace and GitHub (Michael Nu&ntilde;ez/VentureBeat)",
-            "link": "http://www.techmeme.com/250121/p23#a250121p23",
-            "published": "Tue, 21 Jan 2025 17:00:35 -0500"
+            "title": "Survey of 3,000+ game devs: 11% were laid off in the past year, 58% back unionization, 30% say generative AI is having a negative impact on the industry, more (Dean Takahashi/VentureBeat)",
+            "link": "http://www.techmeme.com/250121/p30#a250121p30",
+            "published": "Tue, 21 Jan 2025 18:50:13 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Trump Plans to Announce $100 Billion A.I. Initiative",
+            "title": "Trump Announces $100 Billion A.I. Initiative",
             "link": "https://www.nytimes.com/2025/01/21/technology/trump-openai-stargate-artificial-intelligence.html",
-            "published": "Tue, 21 Jan 2025 20:03:43 +0000"
+            "published": "Tue, 21 Jan 2025 23:26:16 +0000"
         },
         {
             "title": "When Google Altered Its Ad Rules, Charities Paid the Price",
@@ -48,12 +48,17 @@
             "published": "Tue, 21 Jan 2025 19:15:25 +0000"
         },
         {
-            "title": "What Trump\u2019s Pledge to Plant the U.S. Flag on Mars Really Means",
-            "link": "https://www.nytimes.com/2025/01/21/science/trump-mars-flag.html",
-            "published": "Tue, 21 Jan 2025 22:42:09 +0000"
+            "title": "Trump Pardons Ross Ulbricht, Creator of Silk Road Drug Marketplace",
+            "link": "https://www.nytimes.com/2025/01/21/technology/trump-ross-ulbricht-silk-road.html",
+            "published": "Wed, 22 Jan 2025 00:28:56 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Netflix to raise prices as new subscribers soar",
+            "link": "https://www.bbc.com/news/articles/c62693x4qr2o",
+            "published": "Wed, 22 Jan 2025 00:44:13 GMT"
+        },
         {
             "title": "Instagram hides search results for 'Democrats'",
             "link": "https://www.bbc.com/news/articles/c4g32yxpdz0o",
@@ -73,11 +78,6 @@
             "title": "What does Trump's executive order mean for TikTok and who might buy it?",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo",
             "published": "Tue, 21 Jan 2025 10:35:59 GMT"
-        },
-        {
-            "title": "Melania Trump launches her own cryptocurrency",
-            "link": "https://www.bbc.com/news/articles/c98y47vrv2jo",
-            "published": "Mon, 20 Jan 2025 13:52:40 GMT"
         }
     ]
 }
