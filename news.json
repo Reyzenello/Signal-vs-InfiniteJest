@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Researchers detail Subaru's now-fixed web vulnerabilities that let them track millions of Subarus via its Starlink features in the US, Canada, and Japan (Andy Greenberg/Wired)",
+            "link": "http://www.techmeme.com/250123/p23#a250123p23",
+            "published": "Thu, 23 Jan 2025 08:30:01 -0500"
+        },
+        {
             "title": "CAIS and Scale AI release \"Humanity's Last Exam\", a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions (Kevin Roose/New York Times)",
             "link": "http://www.techmeme.com/250123/p22#a250123p22",
             "published": "Thu, 23 Jan 2025 08:00:47 -0500"
@@ -19,11 +24,6 @@
             "title": "An interview with ex-CISA Director Jen Easterly, appointed in 2021, on leaving the agency, Trump, China's Salt Typhoon, Russia, unfinished business, and more (Lily Hay Newman/Wired)",
             "link": "http://www.techmeme.com/250123/p19#a250123p19",
             "published": "Thu, 23 Jan 2025 07:00:46 -0500"
-        },
-        {
-            "title": "Sources: Trump's aides and Elon Musk became annoyed with Vivek Ramaswamy's outspokenness and some were angered by his H-1B comments, leading to his DOGE ouster (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250123/p18#a250123p18",
-            "published": "Thu, 23 Jan 2025 06:45:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "ChatGPT down as thousands report issues worldwide",
+            "link": "https://www.bbc.com/news/articles/c30d80lg579o",
+            "published": "Thu, 23 Jan 2025 13:49:48 GMT"
+        },
+        {
             "title": "Reddit groups ban X links in protest at Musk arm gesture",
             "link": "https://www.bbc.com/news/articles/c77r1p887e5o",
             "published": "Thu, 23 Jan 2025 13:24:15 GMT"
@@ -73,11 +78,6 @@
             "title": "Tech giants are putting $500bn into 'Stargate' to build up AI in US",
             "link": "https://www.bbc.com/news/articles/cy4m84d2xz2o",
             "published": "Wed, 22 Jan 2025 18:16:00 GMT"
-        },
-        {
-            "title": "Netflix to raise prices as new subscribers soar",
-            "link": "https://www.bbc.com/news/articles/c62693x4qr2o",
-            "published": "Wed, 22 Jan 2025 08:21:45 GMT"
         }
     ]
 }
