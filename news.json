@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Researchers detail Subaru's now-fixed web vulnerabilities that let them track millions of Subarus via its Starlink features in the US, Canada, and Japan (Andy Greenberg/Wired)",
+            "title": "Baya Systems, which says its multi-die systems overcome traditional semiconductors' bottlenecks, raised a $36M Series B led by Maverick Silicon (Dean Takahashi/VentureBeat)",
+            "link": "http://www.techmeme.com/250123/p26#a250123p26",
+            "published": "Thu, 23 Jan 2025 10:15:01 -0500"
+        },
+        {
+            "title": "Changpeng Zhao announces that Binance's VC arm Binance Labs, which oversees about $10B of crypto-related assets, will become a family office called YZi Labs (Bloomberg)",
+            "link": "http://www.techmeme.com/250123/p25#a250123p25",
+            "published": "Thu, 23 Jan 2025 09:45:02 -0500"
+        },
+        {
+            "title": "ByteDance board member Bill Ford says ByteDance is exploring alternatives to selling TikTok US, including a change to local control to comply with the US law (Bloomberg)",
+            "link": "http://www.techmeme.com/250123/p24#a250123p24",
+            "published": "Thu, 23 Jan 2025 09:30:00 -0500"
+        },
+        {
+            "title": "Researchers detail Subaru's now-fixed web vulnerabilities that would've let them unlock and start millions of Subarus via Starlink in the US, Canada, and Japan (Andy Greenberg/Wired)",
             "link": "http://www.techmeme.com/250123/p23#a250123p23",
             "published": "Thu, 23 Jan 2025 08:30:01 -0500"
         },
@@ -9,21 +24,6 @@
             "title": "CAIS and Scale AI release \"Humanity's Last Exam\", a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions (Kevin Roose/New York Times)",
             "link": "http://www.techmeme.com/250123/p22#a250123p22",
             "published": "Thu, 23 Jan 2025 08:00:47 -0500"
-        },
-        {
-            "title": "Q&A with Stanford professor and IP lawyer Mark Lemley on deciding to quit representing Meta in AI copyright case Kadrey v. Meta, Trump, DEI, Elon Musk, and more (Kate Knibbs/Wired)",
-            "link": "http://www.techmeme.com/250123/p21#a250123p21",
-            "published": "Thu, 23 Jan 2025 07:30:00 -0500"
-        },
-        {
-            "title": "France says David Balland, co-founder of French crypto wallet startup Ledger, was kidnapped on January 21 and freed on January 22 after a police operation (Benoit Berthelot/Bloomberg)",
-            "link": "http://www.techmeme.com/250123/p20#a250123p20",
-            "published": "Thu, 23 Jan 2025 07:16:07 -0500"
-        },
-        {
-            "title": "An interview with ex-CISA Director Jen Easterly, appointed in 2021, on leaving the agency, Trump, China's Salt Typhoon, Russia, unfinished business, and more (Lily Hay Newman/Wired)",
-            "link": "http://www.techmeme.com/250123/p19#a250123p19",
-            "published": "Thu, 23 Jan 2025 07:00:46 -0500"
         }
     ],
     "source_1": [
@@ -50,14 +50,14 @@
         {
             "title": "A Test So Hard No AI System Can Pass It \u2014 Yet",
             "link": "https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html",
-            "published": "Thu, 23 Jan 2025 11:00:15 +0000"
+            "published": "Thu, 23 Jan 2025 15:04:10 +0000"
         }
     ],
     "source_2": [
         {
             "title": "ChatGPT down as thousands report issues worldwide",
             "link": "https://www.bbc.com/news/articles/c30d80lg579o",
-            "published": "Thu, 23 Jan 2025 13:49:48 GMT"
+            "published": "Thu, 23 Jan 2025 14:31:34 GMT"
         },
         {
             "title": "Reddit groups ban X links in protest at Musk arm gesture",
