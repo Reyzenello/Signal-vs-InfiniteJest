@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Hugging Face releases SmolVLM-256M and SmolVLM-500M, claiming they can analyze images, short videos, and text on \"constrained devices\" with under ~1GB of RAM (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250123/p29#a250123p29",
+            "published": "Thu, 23 Jan 2025 11:20:01 -0500"
+        },
+        {
+            "title": "Pakistan's parliament passes a controversial bill giving the government sweeping controls on social media, including prison terms for spreading \"disinformation\" (Munir Ahmed/Associated Press)",
+            "link": "http://www.techmeme.com/250123/p28#a250123p28",
+            "published": "Thu, 23 Jan 2025 11:10:14 -0500"
+        },
+        {
+            "title": "ChatGPT suffered a major outage on January 23 and OpenAI's API also experienced downtime, after disruptions in December; OpenAI says it has fixed both issues (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250123/p27#a250123p27",
+            "published": "Thu, 23 Jan 2025 10:40:13 -0500"
+        },
+        {
             "title": "Baya Systems, which says its multi-die systems overcome traditional semiconductors' bottlenecks, raised a $36M Series B led by Maverick Silicon (Dean Takahashi/VentureBeat)",
             "link": "http://www.techmeme.com/250123/p26#a250123p26",
             "published": "Thu, 23 Jan 2025 10:15:01 -0500"
@@ -9,24 +24,19 @@
             "title": "Changpeng Zhao announces that Binance's VC arm Binance Labs, which oversees about $10B of crypto-related assets, will become a family office called YZi Labs (Bloomberg)",
             "link": "http://www.techmeme.com/250123/p25#a250123p25",
             "published": "Thu, 23 Jan 2025 09:45:02 -0500"
-        },
-        {
-            "title": "ByteDance board member Bill Ford says ByteDance is exploring alternatives to selling TikTok US, including a change to local control to comply with the US law (Bloomberg)",
-            "link": "http://www.techmeme.com/250123/p24#a250123p24",
-            "published": "Thu, 23 Jan 2025 09:30:00 -0500"
-        },
-        {
-            "title": "Researchers detail Subaru's now-fixed web vulnerabilities that would've let them unlock and start millions of Subarus via Starlink in the US, Canada, and Japan (Andy Greenberg/Wired)",
-            "link": "http://www.techmeme.com/250123/p23#a250123p23",
-            "published": "Thu, 23 Jan 2025 08:30:01 -0500"
-        },
-        {
-            "title": "CAIS and Scale AI release \"Humanity's Last Exam\", a new evaluation that they claim is the hardest-ever AI test, consisting of ~3,000 multiple-choice questions (Kevin Roose/New York Times)",
-            "link": "http://www.techmeme.com/250123/p22#a250123p22",
-            "published": "Thu, 23 Jan 2025 08:00:47 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "A Test So Hard No AI System Can Pass It \u2014 Yet",
+            "link": "https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html",
+            "published": "Thu, 23 Jan 2025 15:04:10 +0000"
+        },
+        {
+            "title": "How Chinese A.I. Start-Up DeepSeek Is Competing With OpenAI and Google",
+            "link": "https://www.nytimes.com/2025/01/23/technology/deepseek-china-ai-chips.html",
+            "published": "Thu, 23 Jan 2025 10:01:15 +0000"
+        },
         {
             "title": "How Trump Decided to Pardon Silk Road Founder Ross Ulbricht",
             "link": "https://www.nytimes.com/2025/01/22/technology/ross-ulbricht-trump-pardon.html",
@@ -38,26 +48,16 @@
             "published": "Wed, 22 Jan 2025 19:36:22 +0000"
         },
         {
-            "title": "Elon Musk Casts Doubt on Trump\u2019s $100 Billion Stargate A.I. Announcement",
-            "link": "https://www.nytimes.com/2025/01/22/us/politics/elon-musk-trump-stargate-ai-announcement.html",
-            "published": "Wed, 22 Jan 2025 22:42:05 +0000"
-        },
-        {
-            "title": "When Google Altered Its Ad Rules, Charities Paid the Price",
-            "link": "https://www.nytimes.com/2025/01/21/technology/google-online-ads-philanthropies.html",
-            "published": "Tue, 21 Jan 2025 15:48:08 +0000"
-        },
-        {
-            "title": "A Test So Hard No AI System Can Pass It \u2014 Yet",
-            "link": "https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html",
-            "published": "Thu, 23 Jan 2025 15:04:10 +0000"
+            "title": "Amazon Closes Operations in Quebec, Laying off 1,700 Workers",
+            "link": "https://www.nytimes.com/2025/01/22/technology/amazon-quebec-closures.html",
+            "published": "Thu, 23 Jan 2025 03:13:41 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "ChatGPT down as thousands report issues worldwide",
+            "title": "ChatGPT back online after outage which hit thousands worldwide",
             "link": "https://www.bbc.com/news/articles/c30d80lg579o",
-            "published": "Thu, 23 Jan 2025 14:31:34 GMT"
+            "published": "Thu, 23 Jan 2025 15:36:02 GMT"
         },
         {
             "title": "Reddit groups ban X links in protest at Musk arm gesture",
