@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Microsoft and OpenAI were arguing over Microsoft's ability to fulfill OpenAI's computing needs, in the months leading up to the Stargate announcement (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250122/p53#a250122p53",
+            "published": "Wed, 22 Jan 2025 23:20:14 -0500"
+        },
+        {
+            "title": "Microsoft was mentioned only as a technology partner in Stargate but the company is poised to benefit from the venture by offloading AI computing costs (Dina Bass/Bloomberg)",
+            "link": "http://www.techmeme.com/250122/p52#a250122p52",
+            "published": "Wed, 22 Jan 2025 22:55:00 -0500"
+        },
+        {
+            "title": "Google signs an agreement to acquire a part of the HTC VIVE engineering team in Taiwan for $250M in cash, aiming to \"accelerate\" Android XR development (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/250122/p51#a250122p51",
+            "published": "Wed, 22 Jan 2025 22:40:01 -0500"
+        },
+        {
             "title": "Moderators for 50+ subreddits announce bans of X links in new posts and comments, with several citing Elon Musk's recent gesture that many saw as a Nazi salute (Kat Tenbarge/NBC News)",
             "link": "http://www.techmeme.com/250122/p50#a250122p50",
             "published": "Wed, 22 Jan 2025 22:20:03 -0500"
@@ -9,21 +24,6 @@
             "title": "SK Hynix reports Q4 revenue up 75% YoY to a record ~$13.7B, a ~$5.6B net profit, and a ~$5.6B operating profit, in line with estimates, as HBM chip demand soars (Yoolim Lee/Bloomberg)",
             "link": "http://www.techmeme.com/250122/p49#a250122p49",
             "published": "Wed, 22 Jan 2025 21:25:00 -0500"
-        },
-        {
-            "title": "A US district judge rules that the FBI's warrantless \"backdoor\" searches of FISA's Section 702 databases violate the Fourth Amendment (Patrick G. Eddington/Cato Institute)",
-            "link": "http://www.techmeme.com/250122/p48#a250122p48",
-            "published": "Wed, 22 Jan 2025 21:05:14 -0500"
-        },
-        {
-            "title": "Sources: Sam Altman told some colleagues that OpenAI and SoftBank will each commit $19B to Stargate, and OpenAI would effectively hold a 40% interest in the JV (The Information)",
-            "link": "http://www.techmeme.com/250122/p47#a250122p47",
-            "published": "Wed, 22 Jan 2025 20:40:02 -0500"
-        },
-        {
-            "title": "Scale AI faces a lawsuit by six people who worked on its Outlier platform, claiming they were forced to write disturbing prompts about violence and abuse (Charles Rollet/TechCrunch)",
-            "link": "http://www.techmeme.com/250122/p46#a250122p46",
-            "published": "Wed, 22 Jan 2025 19:05:01 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "LinkedIn accused of using private messages to train AI",
             "link": "https://www.bbc.com/news/articles/cdxevpzy3yko",
-            "published": "Thu, 23 Jan 2025 03:21:30 GMT"
+            "published": "Thu, 23 Jan 2025 04:16:46 GMT"
         },
         {
             "title": "TikTokers offered $5,000 to join Facebook and Instagram",
