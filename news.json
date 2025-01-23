@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A profile of Chinese AI lab DeepSeek, which says its new open-source DeepSeek-V3 model rivals US models while using fewer AI chips to train, costing just $6M (New York Times)",
-            "link": "http://www.techmeme.com/250123/p16#a250123p16",
-            "published": "Thu, 23 Jan 2025 06:10:03 -0500"
+            "title": "Q&A with Stanford professor and IP lawyer Mark Lemley on deciding to quit representing Meta in AI copyright case Kadrey v. Meta, Trump, DEI, Elon Musk, and more (Kate Knibbs/Wired)",
+            "link": "http://www.techmeme.com/250123/p21#a250123p21",
+            "published": "Thu, 23 Jan 2025 07:30:00 -0500"
         },
         {
-            "title": "Vitalik Buterin and the Ethereum Foundation back Etherealize, a NYC-based startup to market Ethereum to financial firms, as ether lags behind bitcoin's gains (Muyao Shen/Bloomberg)",
-            "link": "http://www.techmeme.com/250123/p15#a250123p15",
-            "published": "Thu, 23 Jan 2025 05:50:05 -0500"
+            "title": "France says David Balland, co-founder of French crypto wallet startup Ledger, was kidnapped on January 21 and freed on January 22 after a police operation (Benoit Berthelot/Bloomberg)",
+            "link": "http://www.techmeme.com/250123/p20#a250123p20",
+            "published": "Thu, 23 Jan 2025 07:16:07 -0500"
         },
         {
-            "title": "The UK CMA opens investigations into Apple's and Google's mobile ecosystems, including OSes, app stores, and browsers, to see the impact on users and businesses (Ryan Browne/CNBC)",
-            "link": "http://www.techmeme.com/250123/p14#a250123p14",
-            "published": "Thu, 23 Jan 2025 05:32:38 -0500"
+            "title": "An interview with ex-CISA Director Jen Easterly, appointed in 2021, on leaving the agency, Trump, China's Salt Typhoon, Russia, unfinished business, and more (Lily Hay Newman/Wired)",
+            "link": "http://www.techmeme.com/250123/p19#a250123p19",
+            "published": "Thu, 23 Jan 2025 07:00:46 -0500"
         },
         {
-            "title": "China and Southeast Asian nations pledge to deal with cybercrime centers, extending efforts that China's Global Times says has led to the arrest of 70K+ people (Bloomberg)",
-            "link": "http://www.techmeme.com/250123/p13#a250123p13",
-            "published": "Thu, 23 Jan 2025 05:05:12 -0500"
+            "title": "Sources: Trump's aides and Elon Musk became annoyed with Vivek Ramaswamy's outspokenness and some were angered by his H-1B comments, leading to his DOGE ouster (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250123/p18#a250123p18",
+            "published": "Thu, 23 Jan 2025 06:45:01 -0500"
         },
         {
-            "title": "Sources: India's technology ministry asked Apple, Google, and other smartphone makers to provide Indians direct access to the state-backed GOV.in app store (Sankalp Phartiyal/Bloomberg)",
-            "link": "http://www.techmeme.com/250123/p12#a250123p12",
-            "published": "Thu, 23 Jan 2025 04:20:00 -0500"
+            "title": "In a Fox News interview, Donald Trump downplays TikTok's national security risk, saying China makes smartphones, PCs, and more and \"isn't that a bigger threat?\" (Justin Sink/Bloomberg)",
+            "link": "http://www.techmeme.com/250123/p17#a250123p17",
+            "published": "Thu, 23 Jan 2025 06:30:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Reddit groups ban X links in protest at Musk arm gesture",
+            "link": "https://www.bbc.com/news/articles/c77r1p887e5o",
+            "published": "Thu, 23 Jan 2025 11:45:11 GMT"
+        },
+        {
             "title": "LinkedIn accused of using private messages to train AI",
             "link": "https://www.bbc.com/news/articles/cdxevpzy3yko",
             "published": "Thu, 23 Jan 2025 04:16:46 GMT"
@@ -73,11 +78,6 @@
             "title": "Netflix to raise prices as new subscribers soar",
             "link": "https://www.bbc.com/news/articles/c62693x4qr2o",
             "published": "Wed, 22 Jan 2025 08:21:45 GMT"
-        },
-        {
-            "title": "Instagram hides search results for 'Democrats'",
-            "link": "https://www.bbc.com/news/articles/c4g32yxpdz0o",
-            "published": "Tue, 21 Jan 2025 12:30:12 GMT"
         }
     ]
 }
