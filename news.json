@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Brave Search rolls out Rerank to let users boost or downgrade domains from their search results through thumbs up or thumbs down buttons (Bill Toulas/BleepingComputer)",
+            "link": "http://www.techmeme.com/250123/p32#a250123p32",
+            "published": "Thu, 23 Jan 2025 12:15:13 -0500"
+        },
+        {
+            "title": "Ramp launches Ramp Treasury, letting businesses store cash in a business account and earn 2.5% or in a money market fund for potentially higher yields (Mary Ann Azevedo/TechCrunch)",
+            "link": "http://www.techmeme.com/250123/p31#a250123p31",
+            "published": "Thu, 23 Jan 2025 11:55:00 -0500"
+        },
+        {
+            "title": "Nvidia GeForce RTX 5090 review: fastest Blender benchmark score ever, DLSS4 frame generation works well, and good cooling but very expensive and power hungry (Devindra Hardawar/Engadget)",
+            "link": "http://www.techmeme.com/250123/p30#a250123p30",
+            "published": "Thu, 23 Jan 2025 11:35:02 -0500"
+        },
+        {
             "title": "Hugging Face releases SmolVLM-256M and SmolVLM-500M, claiming they can analyze images, short videos, and text on \"constrained devices\" with under ~1GB of RAM (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250123/p29#a250123p29",
             "published": "Thu, 23 Jan 2025 11:20:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Pakistan's parliament passes a controversial bill giving the government sweeping controls on social media, including prison terms for spreading \"disinformation\" (Munir Ahmed/Associated Press)",
             "link": "http://www.techmeme.com/250123/p28#a250123p28",
             "published": "Thu, 23 Jan 2025 11:10:14 -0500"
-        },
-        {
-            "title": "ChatGPT suffered a major outage on January 23 and OpenAI's API also experienced downtime, after disruptions in December; OpenAI says it has fixed both issues (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250123/p27#a250123p27",
-            "published": "Thu, 23 Jan 2025 10:40:13 -0500"
-        },
-        {
-            "title": "Baya Systems, which says its multi-die systems overcome traditional semiconductors' bottlenecks, raised a $36M Series B led by Maverick Silicon (Dean Takahashi/VentureBeat)",
-            "link": "http://www.techmeme.com/250123/p26#a250123p26",
-            "published": "Thu, 23 Jan 2025 10:15:01 -0500"
-        },
-        {
-            "title": "Changpeng Zhao announces that Binance's VC arm Binance Labs, which oversees about $10B of crypto-related assets, will become a family office called YZi Labs (Bloomberg)",
-            "link": "http://www.techmeme.com/250123/p25#a250123p25",
-            "published": "Thu, 23 Jan 2025 09:45:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Three outage leaves thousands unable to make calls",
+            "link": "https://www.bbc.com/news/articles/cpdx1l755wdo",
+            "published": "Thu, 23 Jan 2025 17:05:50 GMT"
+        },
+        {
             "title": "ChatGPT back online after outage which hit thousands worldwide",
             "link": "https://www.bbc.com/news/articles/c30d80lg579o",
             "published": "Thu, 23 Jan 2025 15:36:02 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTokers offered $5,000 to join Facebook and Instagram",
             "link": "https://www.bbc.com/news/articles/c897pg2nengo",
             "published": "Wed, 22 Jan 2025 11:40:13 GMT"
-        },
-        {
-            "title": "Tech giants are putting $500bn into 'Stargate' to build up AI in US",
-            "link": "https://www.bbc.com/news/articles/cy4m84d2xz2o",
-            "published": "Wed, 22 Jan 2025 18:16:00 GMT"
         }
     ]
 }
