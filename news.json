@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Meta begins a \"limited, early test\" of ads in Threads in the US and Japan, with the goal of making the ads \"as interesting as organic content\" (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/250124/p15#a250124p15",
+            "published": "Fri, 24 Jan 2025 12:20:00 -0500"
+        },
+        {
+            "title": "Sources: Apple moved Kim Vorrath, a company veteran known for fixing troubled products, to its AI group to help improve Siri and Apple Intelligence (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250124/p14#a250124p14",
+            "published": "Fri, 24 Jan 2025 12:05:13 -0500"
+        },
+        {
+            "title": "The FBI warns that North Korean IT workers are abusing their access to steal source code and extort US companies that have been tricked into hiring them (Sergiu Gatlan/BleepingComputer)",
+            "link": "http://www.techmeme.com/250124/p13#a250124p13",
+            "published": "Fri, 24 Jan 2025 11:50:01 -0500"
+        },
+        {
             "title": "X refuses to remove a video of the stabbing of a Sydney bishop watched by Axel Rudakubana minutes before murdering three kids in UK's Southport last summer (Financial Times)",
             "link": "http://www.techmeme.com/250124/p12#a250124p12",
             "published": "Fri, 24 Jan 2025 11:15:01 -0500"
@@ -9,28 +24,13 @@
             "title": "The US SEC revokes SAB 121, a controversial accounting rule added in 2022 that forced banks to treat BTC and other tokens as a liability on their balance sheets (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250124/p11#a250124p11",
             "published": "Fri, 24 Jan 2025 10:40:03 -0500"
-        },
-        {
-            "title": "Sources: a16z is pulling back from its much-touted expansion into UK crypto investing, seeking to refocus on the US crypto industry following Trump's election (Financial Times)",
-            "link": "http://www.techmeme.com/250124/p10#a250124p10",
-            "published": "Fri, 24 Jan 2025 10:30:03 -0500"
-        },
-        {
-            "title": "Mark Zuckerberg says Meta is planning to invest $60B to $65B in capex in 2025, will end the year with 1.3M+ GPUs, and plans to grow its AI teams \"significantly\" (Jaspreet Singh/Reuters)",
-            "link": "http://www.techmeme.com/250124/p9#a250124p9",
-            "published": "Fri, 24 Jan 2025 09:35:02 -0500"
-        },
-        {
-            "title": "The EC says it will question Meta, X, Snap, Google, TikTok, and LinkedIn on January 31 about their plans to counter disinformation ahead of elections in Germany (Gian Volpicelli/Bloomberg)",
-            "link": "http://www.techmeme.com/250124/p8#a250124p8",
-            "published": "Fri, 24 Jan 2025 08:45:01 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Meta to Increase Spending to $65 Billion This Year in A.I. Push",
             "link": "https://www.nytimes.com/2025/01/24/technology/meta-data-center.html",
-            "published": "Fri, 24 Jan 2025 15:06:20 +0000"
+            "published": "Fri, 24 Jan 2025 16:57:23 +0000"
         },
         {
             "title": "Instagram and Facebook Blocked and Hid Abortion Pill Providers\u2019 Posts",
@@ -65,6 +65,11 @@
             "published": "Fri, 24 Jan 2025 16:14:45 GMT"
         },
         {
+            "title": "Tech Decoded: The latest news direct to your inbox",
+            "link": "https://www.bbc.co.uk/news/technology-65786969",
+            "published": "Fri, 24 Jan 2025 15:17:49 GMT"
+        },
+        {
             "title": "'A mockery': Trump's new meme-coin sparks anger in crypto world",
             "link": "https://www.bbc.com/news/articles/crlkjejpwr8o",
             "published": "Thu, 23 Jan 2025 16:48:59 GMT"
@@ -73,11 +78,6 @@
             "title": "ChatGPT back online after outage which hit thousands worldwide",
             "link": "https://www.bbc.com/news/articles/c30d80lg579o",
             "published": "Thu, 23 Jan 2025 15:36:02 GMT"
-        },
-        {
-            "title": "Reddit groups ban X links in protest at Musk arm gesture",
-            "link": "https://www.bbc.com/news/articles/c77r1p887e5o",
-            "published": "Thu, 23 Jan 2025 13:24:15 GMT"
         }
     ]
 }
