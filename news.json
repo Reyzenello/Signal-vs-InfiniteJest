@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "How China's progress across a range of overlapping industries like smartphones, AI, robotics, and drones creates a mutually reinforcing feedback loop (Kyle Chan/High Capacity)",
+            "link": "http://www.techmeme.com/250124/p4#a250124p4",
+            "published": "Fri, 24 Jan 2025 04:05:02 -0500"
+        },
+        {
             "title": "Although Trump downplayed Elon Musk's Stargate criticism, assuring reporters \"they're putting up the money\", key White House sources say they're furious at Musk (Politico)",
             "link": "http://www.techmeme.com/250124/p3#a250124p3",
             "published": "Fri, 24 Jan 2025 01:20:00 -0500"
@@ -19,11 +24,6 @@
             "title": "PE firm Everstone acquires Delhi-based Wingify, whose flagship product Visual Website Optimizer helps businesses improve online conversion rates, for $200M (Manish Singh/TechCrunch)",
             "link": "http://www.techmeme.com/250123/p56#a250123p56",
             "published": "Thu, 23 Jan 2025 23:30:02 -0500"
-        },
-        {
-            "title": "DeepSeek's latest AI model R1 sticks to Chinese government restrictions on sensitive topics like Tiananmen Square, Taiwan, and the treatment of Uyghurs in China (Jon Keegan/Sherwood News)",
-            "link": "http://www.techmeme.com/250123/p55#a250123p55",
-            "published": "Thu, 23 Jan 2025 22:55:00 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
-            "title": "Customers say Three mobile outage preventing 999 calls",
+            "title": "Three say outage fixed but warn of storm disruption",
             "link": "https://www.bbc.com/news/articles/cpdx1l755wdo",
-            "published": "Thu, 23 Jan 2025 22:43:51 GMT"
+            "published": "Fri, 24 Jan 2025 08:56:22 GMT"
+        },
+        {
+            "title": "'A mockery': Trump's new meme-coin sparks anger in crypto world",
+            "link": "https://www.bbc.com/news/articles/crlkjejpwr8o",
+            "published": "Thu, 23 Jan 2025 16:48:59 GMT"
         },
         {
             "title": "ChatGPT back online after outage which hit thousands worldwide",
@@ -73,11 +78,6 @@
             "title": "LinkedIn accused of using private messages to train AI",
             "link": "https://www.bbc.com/news/articles/cdxevpzy3yko",
             "published": "Thu, 23 Jan 2025 04:16:46 GMT"
-        },
-        {
-            "title": "TikTokers offered $5,000 to join Facebook and Instagram",
-            "link": "https://www.bbc.com/news/articles/c897pg2nengo",
-            "published": "Wed, 22 Jan 2025 11:40:13 GMT"
         }
     ]
 }
