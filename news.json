@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI updates ChatGPT's Canvas feature with o1 model support and HTML and React code rendering, making it a direct competitor to Claude's Artifacts (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/250124/p33#a250124p33",
+            "published": "Fri, 24 Jan 2025 21:10:02 -0500"
+        },
+        {
             "title": "Source: Lightspeed has invested a total of $2.2B in AI deals, excluding the $2B Anthropic funding round it's leading and is close to raising a $7B fund (Kate Clark/Bloomberg)",
             "link": "http://www.techmeme.com/250124/p32#a250124p32",
             "published": "Fri, 24 Jan 2025 20:05:01 -0500"
@@ -19,11 +24,6 @@
             "title": "UnitedHealth says the ransomware attack on its Change Healthcare unit in February 2024 affected ~190M people, nearly double its previous estimate of 100M (Zack Whittaker/TechCrunch)",
             "link": "http://www.techmeme.com/250124/p29#a250124p29",
             "published": "Fri, 24 Jan 2025 18:30:01 -0500"
-        },
-        {
-            "title": "Sources: Rad AI, which creates AI-powered tools for radiologists, raised a $60M Series C at a $525M valuation; Rad AI raised a $50M Series B in March 2024 (Business Insider)",
-            "link": "http://www.techmeme.com/250124/p28#a250124p28",
-            "published": "Fri, 24 Jan 2025 18:20:01 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Meta to Increase Spending to $65 Billion This Year in A.I. Push",
             "link": "https://www.nytimes.com/2025/01/24/technology/meta-data-center.html",
-            "published": "Fri, 24 Jan 2025 21:39:53 +0000"
+            "published": "Fri, 24 Jan 2025 21:39:54 +0000"
         },
         {
             "title": "Instagram and Facebook Blocked and Hid Abortion Pill Providers\u2019 Posts",
