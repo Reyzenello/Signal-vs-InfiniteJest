@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at the growing prevalence of LLM-written posts that have been backdated and attributed to human authors on Physics Forums, which was founded in 2001 (Hall of Impossible Dreams)",
+            "link": "http://www.techmeme.com/250126/p9#a250126p9",
+            "published": "Sun, 26 Jan 2025 13:10:01 -0500"
+        },
+        {
             "title": "Trump denies talks with Oracle about a TikTok deal, says \"I have spoken to many people about TikTok\" and expects a decision in the next 30 days (Reuters)",
             "link": "http://www.techmeme.com/250126/p8#a250126p8",
             "published": "Sun, 26 Jan 2025 12:15:00 -0500"
@@ -19,33 +24,28 @@
             "title": "Sources: US State Dept.'s freeze on foreign aid applies to a bureau that uses cyber diplomacy to fight threats and pursues international norms for emerging tech (Martin Matishak/The Record)",
             "link": "http://www.techmeme.com/250126/p5#a250126p5",
             "published": "Sun, 26 Jan 2025 02:00:00 -0500"
-        },
-        {
-            "title": "CEO Brian Armstrong says Coinbase needs to rethink its listing process for new tokens to keep up with \"~1m tokens a week being created now, and growing\" (Brian Armstrong/@brian_armstrong)",
-            "link": "http://www.techmeme.com/250126/p4#a250126p4",
-            "published": "Sun, 26 Jan 2025 00:40:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk, Video Game King? Well, Maybe Not.",
+            "link": "https://www.nytimes.com/2025/01/26/technology/elon-musk-video-games-diablo-path-of-exile.html",
+            "published": "Sun, 26 Jan 2025 10:01:33 +0000"
+        },
         {
             "title": "The Surveillance Tools That Could Power Trump\u2019s Immigration Crackdown",
             "link": "https://www.nytimes.com/2025/01/25/technology/trump-immigration-deportation-surveillance.html",
             "published": "Sat, 25 Jan 2025 14:31:43 +0000"
         },
         {
+            "title": "Trump\u2019s Crypto Venture Divides the Industry He Aims to Support",
+            "link": "https://www.nytimes.com/2025/01/25/us/politics/trumps-crypto-venture-divides-the-industry-he-aims-to-support.html",
+            "published": "Sat, 25 Jan 2025 17:26:01 +0000"
+        },
+        {
             "title": "TikTok Ban and Trump Executive Order Lead to Tech Company Dilemma",
             "link": "https://www.nytimes.com/2025/01/24/technology/tiktok-ban-trump-amazon-apple-google.html",
             "published": "Sat, 25 Jan 2025 20:39:48 +0000"
-        },
-        {
-            "title": "Meta to Increase Spending to $65 Billion This Year in A.I. Push",
-            "link": "https://www.nytimes.com/2025/01/24/technology/meta-data-center.html",
-            "published": "Fri, 24 Jan 2025 21:39:54 +0000"
-        },
-        {
-            "title": "Elon Musk, Video Game King? Well, Maybe Not.",
-            "link": "https://www.nytimes.com/2025/01/26/technology/elon-musk-video-games-diablo-path-of-exile.html",
-            "published": "Sun, 26 Jan 2025 10:01:33 +0000"
         },
         {
             "title": "How the New York Times Website Got Its URL",
