@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma (Berber Jin/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250127/p11#a250127p11",
+            "published": "Mon, 27 Jan 2025 08:25:02 -0500"
+        },
+        {
             "title": "At Davos, AI leaders clashed over safety concerns and the $100B Stargate project; Demis Hassabis and Anthropic co-founder Dario Amodei reiterated stark warnings (Stephen Morris/Financial Times)",
             "link": "http://www.techmeme.com/250127/p10#a250127p10",
             "published": "Mon, 27 Jan 2025 06:35:01 -0500"
         },
         {
-            "title": "How DeepSeek outpaced OpenAI at 3% of the cost: open-source approach, pure reinforcement learning, not supervised fine-tuning, and building on DeepSeek-R1-Zero (Matt Marshall/VentureBeat)",
+            "title": "How DeepSeek outpaced OpenAI at a fraction of the cost: open source, pure reinforcement learning, no supervised fine-tuning, and building on DeepSeek-R1-Zero (Matt Marshall/VentureBeat)",
             "link": "http://www.techmeme.com/250127/p9#a250127p9",
             "published": "Mon, 27 Jan 2025 06:15:01 -0500"
         },
@@ -19,11 +24,6 @@
             "title": "US tech stocks fall sharply pre-market over DeepSeek worries, with NVDA down 10%+ and META and MSFT down 3%; ASML fell 9%+; Japanese chip companies also dropped (Financial Times)",
             "link": "http://www.techmeme.com/250127/p7#a250127p7",
             "published": "Mon, 27 Jan 2025 05:35:01 -0500"
-        },
-        {
-            "title": "DeepSeek's iOS app is now #1 on the App Store's Top Free Apps chart in the US, ahead of ChatGPT, stirring doubts in Silicon Valley about the US' AI lead (Bloomberg)",
-            "link": "http://www.techmeme.com/250127/p5#a250127p5",
-            "published": "Mon, 27 Jan 2025 04:41:05 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "DeepSeek's 'cheap' Chinese AI chatbot sparks tech stock selloff",
+            "title": "DeepSeek: Chinese AI chatbot sparks market turmoil for rivals",
             "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
-            "published": "Mon, 27 Jan 2025 12:45:01 GMT"
+            "published": "Mon, 27 Jan 2025 13:08:09 GMT"
         },
         {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
