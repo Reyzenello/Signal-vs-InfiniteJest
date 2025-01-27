@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "DeepSeek could be an extinction-level event for venture capital firms that went all-in on foundational model companies; investors say they are not panicking (Dan Primack/Axios)",
+            "link": "http://www.techmeme.com/250127/p14#a250127p14",
+            "published": "Mon, 27 Jan 2025 11:00:14 -0500"
+        },
+        {
+            "title": "DeepSeek shows the complete lack of lock-in that any of these chatbots have, and such a powerful model coming from China may cement \"AGI\" as a national project (Bloomberg)",
+            "link": "http://www.techmeme.com/250127/p13#a250127p13",
+            "published": "Mon, 27 Jan 2025 10:50:01 -0500"
+        },
+        {
             "title": "An in-depth look at DeepSeek: DeepSeekMoE and DeepSeekMLA, cheap V3 training, the US chip ban, \"distillation\" from other models, impact on Nvidia, AGI, and more (Ben Thompson/Stratechery)",
             "link": "http://www.techmeme.com/250127/p12#a250127p12",
             "published": "Mon, 27 Jan 2025 09:25:02 -0500"
@@ -14,16 +24,6 @@
             "title": "At Davos, AI leaders clashed over safety concerns and the $100B Stargate project; Demis Hassabis and Anthropic co-founder Dario Amodei reiterated stark warnings (Stephen Morris/Financial Times)",
             "link": "http://www.techmeme.com/250127/p10#a250127p10",
             "published": "Mon, 27 Jan 2025 06:35:01 -0500"
-        },
-        {
-            "title": "How DeepSeek outpaced OpenAI at a fraction of the cost: open source, pure reinforcement learning, no supervised fine-tuning, and building on DeepSeek-R1-Zero (Matt Marshall/VentureBeat)",
-            "link": "http://www.techmeme.com/250127/p9#a250127p9",
-            "published": "Mon, 27 Jan 2025 06:15:01 -0500"
-        },
-        {
-            "title": "A look at the surveillance tech that could power Trump's immigration crackdown; a review of nearly 15K contracts shows ICE and USCIS spent $7.8B since 2020 (New York Times)",
-            "link": "http://www.techmeme.com/250127/p8#a250127p8",
-            "published": "Mon, 27 Jan 2025 05:55:13 -0500"
         }
     ],
     "source_1": [
@@ -50,14 +50,14 @@
         {
             "title": "E.V. Owners Don\u2019t Pay Gas Taxes. So, Many States Are Charging Them Fees.",
             "link": "https://www.nytimes.com/2025/01/27/business/ev-fees-gas-tax.html",
-            "published": "Mon, 27 Jan 2025 13:56:06 +0000"
+            "published": "Mon, 27 Jan 2025 15:24:06 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Chinese AI chatbot DeepSeek sparks market turmoil",
             "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
-            "published": "Mon, 27 Jan 2025 15:08:00 GMT"
+            "published": "Mon, 27 Jan 2025 15:43:31 GMT"
         },
         {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
