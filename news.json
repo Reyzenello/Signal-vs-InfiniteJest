@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "KuCoin pleads guilty to having an unlicensed money transmitting business, agreeing to ~$300M in fines and forfeitures, in a case brought by US federal attorneys (Bloomberg)",
+            "link": "http://www.techmeme.com/250127/p23#a250127p23",
+            "published": "Mon, 27 Jan 2025 17:10:00 -0500"
+        },
+        {
+            "title": "Nvidia's stock drops 16.86%, closing at $118.58, dropping nearly $600B in market cap, more than twice as much as any US company has ever dropped in a single day (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/250127/p22#a250127p22",
+            "published": "Mon, 27 Jan 2025 16:28:40 -0500"
+        },
+        {
             "title": "Nvidia calls DeepSeek's work \"an excellent AI advancement\", reiterating \"inference requires significant numbers of NVIDIA GPUs and high-performance networking\" (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/250127/p21#a250127p21",
             "published": "Mon, 27 Jan 2025 16:05:14 -0500"
@@ -14,28 +24,18 @@
             "title": "Apple releases iOS 18.3, iPadOS 18.3, and macOS 15.3, enabling Apple Intelligence by default on supported devices but disabling AI summaries for news apps (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/250127/p19#a250127p19",
             "published": "Mon, 27 Jan 2025 13:35:02 -0500"
-        },
-        {
-            "title": "Sources: some banks led by Morgan Stanley are in talks to sell up to $3B of senior secured debt tied to Twitter's buyout, boosted by a claim to a ~$6B xAI stake (Bloomberg)",
-            "link": "http://www.techmeme.com/250127/p18#a250127p18",
-            "published": "Mon, 27 Jan 2025 13:33:45 -0500"
-        },
-        {
-            "title": "Meta says Meta AI will now use account info from across Meta's apps to give personalized suggestions; users can also ask Meta AI to \"remember\" specific things (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250127/p17#a250127p17",
-            "published": "Mon, 27 Jan 2025 13:10:01 -0500"
         }
     ],
     "source_1": [
         {
             "title": "What is DeepSeek? And How Is It Upending A.I.?",
             "link": "https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html",
-            "published": "Mon, 27 Jan 2025 21:21:23 +0000"
+            "published": "Mon, 27 Jan 2025 21:28:48 +0000"
         },
         {
             "title": "Nvidia Reels After DeepSeek\u2019s A.I. Breakthrough",
             "link": "https://www.nytimes.com/2025/01/27/business/deepseek-nvidia-ai-chips.html",
-            "published": "Mon, 27 Jan 2025 21:16:11 +0000"
+            "published": "Mon, 27 Jan 2025 21:43:51 +0000"
         },
         {
             "title": "Elon Musk, Video Game King? Well, Maybe Not.",
@@ -62,7 +62,7 @@
         {
             "title": "Chinese AI chatbot DeepSeek sparks market turmoil",
             "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
-            "published": "Mon, 27 Jan 2025 19:52:16 GMT"
+            "published": "Mon, 27 Jan 2025 22:20:51 GMT"
         },
         {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
