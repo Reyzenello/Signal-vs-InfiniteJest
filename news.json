@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A profile of French health insurer Alan's CEO Jean Charles Samuelian-Werve, a Mistral board member who claims credit for securing most of Mistral's backers (Bloomberg)",
+            "link": "http://www.techmeme.com/250127/p4#a250127p4",
+            "published": "Mon, 27 Jan 2025 04:05:01 -0500"
+        },
+        {
             "title": "A look at China's booming crypto market, with Chinese traders using VPNs, overseas shell companies, and peer-to-peer networks to circumvent China's crackdown (Wall Street Journal)",
             "link": "http://www.techmeme.com/250127/p3#a250127p3",
             "published": "Mon, 27 Jan 2025 02:25:13 -0500"
@@ -11,19 +16,14 @@
             "published": "Mon, 27 Jan 2025 01:35:05 -0500"
         },
         {
-            "title": "DeepSeek's use of commodity, disconnected hardware and open-source design is enough of a shot at AI hyper scaling that it could be \"the way things will go\" (Steven Sinofsky/@stevesi)",
+            "title": "DeepSeek's use of commodity, disconnected hardware, and open-source design is enough of a shot at AI hyper scaling that it could be \"the way things will go\" (Steven Sinofsky/@stevesi)",
             "link": "http://www.techmeme.com/250127/p1#a250127p1",
             "published": "Mon, 27 Jan 2025 01:05:01 -0500"
         },
         {
-            "title": "Some Japanese stocks drop amid DeepSeek anxiety; Advantest, an Nvidia supplier of testing equipment, drops 7%+; datacenter cable company Fujikura drops 9%+ (Bloomberg)",
+            "title": "Some Japanese stocks drop amid DeepSeek anxiety: Advantest, an Nvidia supplier of testing equipment, drops 7%+ and datacenter cable company Fujikura drops 9%+ (Bloomberg)",
             "link": "http://www.techmeme.com/250126/p16#a250126p16",
             "published": "Sun, 26 Jan 2025 23:45:15 -0500"
-        },
-        {
-            "title": "Source: Perplexity AI revises its TikTok US merger proposal, which now allows for the US government to own up to 50% of the new company upon a future IPO (Hayden Field/CNBC)",
-            "link": "http://www.techmeme.com/250126/p15#a250126p15",
-            "published": "Sun, 26 Jan 2025 20:00:14 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
+            "link": "https://www.bbc.com/news/articles/c4g93nvrdz7o",
+            "published": "Sun, 26 Jan 2025 01:14:24 GMT"
+        },
+        {
             "title": "Musk, MrBeast, Larry Ellison - Who might buy TikTok?",
             "link": "https://www.bbc.com/news/articles/cvge68ymej3o",
             "published": "Sat, 25 Jan 2025 01:15:34 GMT"
@@ -73,11 +78,6 @@
             "title": "Three investigates 999 calls not getting through during outage",
             "link": "https://www.bbc.com/news/articles/cpdx1l755wdo",
             "published": "Fri, 24 Jan 2025 16:14:45 GMT"
-        },
-        {
-            "title": "Tech Decoded: The latest news direct to your inbox",
-            "link": "https://www.bbc.co.uk/news/technology-65786969",
-            "published": "Fri, 24 Jan 2025 15:17:49 GMT"
         }
     ]
 }
