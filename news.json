@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Alibaba's Qwen team releases Qwen2.5-VL, a new series of AI models that can control PCs and phones, as well as perform a number of text and image analysis tasks (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250127/p24#a250127p24",
+            "published": "Mon, 27 Jan 2025 17:55:00 -0500"
+        },
+        {
             "title": "KuCoin pleads guilty to having an unlicensed money transmitting business, agreeing to ~$300M in fines and forfeitures, in a case brought by US federal attorneys (Bloomberg)",
             "link": "http://www.techmeme.com/250127/p23#a250127p23",
             "published": "Mon, 27 Jan 2025 17:10:00 -0500"
@@ -19,18 +24,13 @@
             "title": "Google open sources PebbleOS, paving the way for more smartwatch hardware; Pebble founder Eric Migicovsky aims to develop a new smartwatch (Brian Heater/TechCrunch)",
             "link": "http://www.techmeme.com/250127/p20#a250127p20",
             "published": "Mon, 27 Jan 2025 15:40:17 -0500"
-        },
-        {
-            "title": "Apple releases iOS 18.3, iPadOS 18.3, and macOS 15.3, enabling Apple Intelligence by default on supported devices but disabling AI summaries for news apps (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/250127/p19#a250127p19",
-            "published": "Mon, 27 Jan 2025 13:35:02 -0500"
         }
     ],
     "source_1": [
         {
             "title": "What is DeepSeek? And How Is It Upending A.I.?",
             "link": "https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html",
-            "published": "Mon, 27 Jan 2025 21:28:48 +0000"
+            "published": "Mon, 27 Jan 2025 23:14:40 +0000"
         },
         {
             "title": "Nvidia Reels After DeepSeek\u2019s A.I. Breakthrough",
@@ -60,9 +60,9 @@
             "published": "Mon, 27 Jan 2025 20:11:50 GMT"
         },
         {
-            "title": "Chinese AI chatbot DeepSeek sparks market turmoil",
+            "title": "Nvidia shares sink as Chinese AI app spooks markets",
             "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
-            "published": "Mon, 27 Jan 2025 22:20:51 GMT"
+            "published": "Mon, 27 Jan 2025 23:20:00 GMT"
         },
         {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
