@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Meta says Meta AI will now use account info from across Meta's apps to give personalized suggestions; users can also ask Meta AI to \"remember\" specific things (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250127/p17#a250127p17",
+            "published": "Mon, 27 Jan 2025 13:10:01 -0500"
+        },
+        {
+            "title": "DeepSeek debuts a family of multimodal, MIT-licensed open-source models including Janus-Pro-7B, which it claims beats OpenAI's DALL-E 3 in GenEval and DPG-Bench (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250127/p16#a250127p16",
+            "published": "Mon, 27 Jan 2025 12:49:13 -0500"
+        },
+        {
             "title": "DeepSeek says it's temporarily limiting new user registrations \"due to large-scale malicious attacks\" on its services (Hayden Field/CNBC)",
             "link": "http://www.techmeme.com/250127/p15#a250127p15",
             "published": "Mon, 27 Jan 2025 11:42:38 -0500"
@@ -14,16 +24,6 @@
             "title": "DeepSeek shows the complete lack of lock-in that any of these chatbots have, and such a powerful model coming from China may cement \"AGI\" as a national project (Bloomberg)",
             "link": "http://www.techmeme.com/250127/p13#a250127p13",
             "published": "Mon, 27 Jan 2025 10:50:01 -0500"
-        },
-        {
-            "title": "An in-depth look at DeepSeek: DeepSeekMoE and DeepSeekMLA, cheap V3 training, the US chip ban, \"distillation\" from other models, impact on Nvidia, AGI, and more (Ben Thompson/Stratechery)",
-            "link": "http://www.techmeme.com/250127/p12#a250127p12",
-            "published": "Mon, 27 Jan 2025 09:25:02 -0500"
-        },
-        {
-            "title": "Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma (Berber Jin/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250127/p11#a250127p11",
-            "published": "Mon, 27 Jan 2025 08:25:02 -0500"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Sat, 25 Jan 2025 20:39:49 +0000"
         },
         {
-            "title": "E.V. Owners Don\u2019t Pay Gas Taxes. So, Many States Are Charging Them Fees.",
-            "link": "https://www.nytimes.com/2025/01/27/business/ev-fees-gas-tax.html",
-            "published": "Mon, 27 Jan 2025 15:24:06 +0000"
+            "title": "Oil Companies Embrace Trump, but Not \u2018Drill, Baby, Drill\u2019",
+            "link": "https://www.nytimes.com/2025/01/27/business/energy-environment/oil-trump-drill-baby-drill.html",
+            "published": "Mon, 27 Jan 2025 17:57:49 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Chinese AI chatbot DeepSeek sparks market turmoil",
             "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
-            "published": "Mon, 27 Jan 2025 17:07:32 GMT"
+            "published": "Mon, 27 Jan 2025 17:51:56 GMT"
         },
         {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
