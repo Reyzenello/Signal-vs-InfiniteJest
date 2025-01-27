@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An in-depth look at DeepSeek: DeepSeekMoE and DeepSeekMLA, cheap V3 training, the US chip ban, \"distillation\" from other models, impact on Nvidia, AGI, and more (Ben Thompson/Stratechery)",
+            "link": "http://www.techmeme.com/250127/p12#a250127p12",
+            "published": "Mon, 27 Jan 2025 09:25:02 -0500"
+        },
+        {
             "title": "Cancer research startup Manas AI, founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised $24.6M to focus on breast and prostate cancer and lymphoma (Berber Jin/Wall Street Journal)",
             "link": "http://www.techmeme.com/250127/p11#a250127p11",
             "published": "Mon, 27 Jan 2025 08:25:02 -0500"
@@ -16,14 +21,9 @@
             "published": "Mon, 27 Jan 2025 06:15:01 -0500"
         },
         {
-            "title": "A look at the surveillance tech that could power Trump's immigration crackdown; a review of 15K+ contracts shows ICE and USCIS spent $7.8B on tech since 2020 (New York Times)",
+            "title": "A look at the surveillance tech that could power Trump's immigration crackdown; a review of nearly 15K contracts shows ICE and USCIS spent $7.8B since 2020 (New York Times)",
             "link": "http://www.techmeme.com/250127/p8#a250127p8",
             "published": "Mon, 27 Jan 2025 05:55:13 -0500"
-        },
-        {
-            "title": "US tech stocks fall sharply pre-market over DeepSeek worries, with NVDA down 10%+ and META and MSFT down 3%; ASML fell 9%+; Japanese chip companies also dropped (Financial Times)",
-            "link": "http://www.techmeme.com/250127/p7#a250127p7",
-            "published": "Mon, 27 Jan 2025 05:35:01 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "DeepSeek: Chinese AI chatbot sparks market turmoil for rivals",
+            "title": "Chinese AI chatbot DeepSeek sparks market turmoil",
             "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
-            "published": "Mon, 27 Jan 2025 13:08:09 GMT"
+            "published": "Mon, 27 Jan 2025 15:08:00 GMT"
         },
         {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
