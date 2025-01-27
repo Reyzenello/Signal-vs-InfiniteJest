@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "How DeepSeek outpaced OpenAI at 3% of the cost: open-source approach, pure reinforcement learning, not supervised fine-tuning, and building on DeepSeek-R1-Zero (Matt Marshall/VentureBeat)",
+            "link": "http://www.techmeme.com/250127/p9#a250127p9",
+            "published": "Mon, 27 Jan 2025 06:15:01 -0500"
+        },
+        {
+            "title": "A look at the surveillance tech that could power Trump's immigration crackdown; a review of 15K+ contracts shows ICE and USCIS spent $7.8B on tech since 2020 (New York Times)",
+            "link": "http://www.techmeme.com/250127/p8#a250127p8",
+            "published": "Mon, 27 Jan 2025 05:55:13 -0500"
+        },
+        {
+            "title": "US tech stocks fell sharply pre-market over DeepSeek concerns, with NVDA down 8%+ and META and MSFT down 3%; ASML fell 9%+; Japanese chip companies also dropped (Financial Times)",
+            "link": "http://www.techmeme.com/250127/p7#a250127p7",
+            "published": "Mon, 27 Jan 2025 05:35:01 -0500"
+        },
+        {
             "title": "DeepSeek's iOS app is now #1 on the App Store's Top Free Apps chart in the US, ahead of ChatGPT, stirring doubts in Silicon Valley about the US' AI lead (Bloomberg)",
             "link": "http://www.techmeme.com/250127/p5#a250127p5",
             "published": "Mon, 27 Jan 2025 04:41:05 -0500"
@@ -9,21 +24,6 @@
             "title": "A profile of French health insurer Alan's CEO Jean Charles Samuelian-Werve, a Mistral board member who claims credit for securing most of Mistral's backers (Bloomberg)",
             "link": "http://www.techmeme.com/250127/p4#a250127p4",
             "published": "Mon, 27 Jan 2025 04:05:01 -0500"
-        },
-        {
-            "title": "A look at China's booming crypto market, with Chinese traders using VPNs, overseas shell companies, and peer-to-peer networks to circumvent China's crackdown (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250127/p3#a250127p3",
-            "published": "Mon, 27 Jan 2025 02:25:13 -0500"
-        },
-        {
-            "title": "Court filing: Indian digital news firms, including NDTV, Network18, and Hindustan Times, join a copyright lawsuit against OpenAI, first filed by ANI in 2024 (Reuters)",
-            "link": "http://www.techmeme.com/250127/p2#a250127p2",
-            "published": "Mon, 27 Jan 2025 01:35:05 -0500"
-        },
-        {
-            "title": "DeepSeek's use of commodity, disconnected hardware, and open-source design is enough of a shot at AI hyper scaling that it could be \"the way things will go\" (Steven Sinofsky/@stevesi)",
-            "link": "http://www.techmeme.com/250127/p1#a250127p1",
-            "published": "Mon, 27 Jan 2025 01:05:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "DeepSeek shocks AI world with 'cheap' Chinese chatbot",
+            "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
+            "published": "Mon, 27 Jan 2025 11:14:24 GMT"
+        },
+        {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
             "link": "https://www.bbc.com/news/articles/c4g93nvrdz7o",
             "published": "Sun, 26 Jan 2025 01:14:24 GMT"
@@ -73,11 +78,6 @@
             "title": "Clampdown on fake Google reviews announced",
             "link": "https://www.bbc.com/news/articles/c4gx8pn798qo",
             "published": "Fri, 24 Jan 2025 15:19:21 GMT"
-        },
-        {
-            "title": "Three investigates 999 calls not getting through during outage",
-            "link": "https://www.bbc.com/news/articles/cpdx1l755wdo",
-            "published": "Fri, 24 Jan 2025 16:14:45 GMT"
         }
     ]
 }
