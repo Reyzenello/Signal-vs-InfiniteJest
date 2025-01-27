@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia calls DeepSeek's work \"an excellent AI advancement\", reiterating \"inference requires significant numbers of NVIDIA GPUs and high-performance networking\" (Kif Leswing/CNBC)",
+            "link": "http://www.techmeme.com/250127/p21#a250127p21",
+            "published": "Mon, 27 Jan 2025 16:05:14 -0500"
+        },
+        {
+            "title": "Google open sources PebbleOS, paving the way for more smartwatch hardware; Pebble founder Eric Migicovsky aims to develop a new smartwatch (Brian Heater/TechCrunch)",
+            "link": "http://www.techmeme.com/250127/p20#a250127p20",
+            "published": "Mon, 27 Jan 2025 15:40:17 -0500"
+        },
+        {
             "title": "Apple releases iOS 18.3, iPadOS 18.3, and macOS 15.3, enabling Apple Intelligence by default on supported devices but disabling AI summaries for news apps (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/250127/p19#a250127p19",
             "published": "Mon, 27 Jan 2025 13:35:02 -0500"
@@ -14,19 +24,19 @@
             "title": "Meta says Meta AI will now use account info from across Meta's apps to give personalized suggestions; users can also ask Meta AI to \"remember\" specific things (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250127/p17#a250127p17",
             "published": "Mon, 27 Jan 2025 13:10:01 -0500"
-        },
-        {
-            "title": "DeepSeek debuts a family of multimodal, MIT-licensed open-source models including Janus-Pro-7B, which it claims beats OpenAI's DALL-E 3 in GenEval and DPG-Bench (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250127/p16#a250127p16",
-            "published": "Mon, 27 Jan 2025 12:49:13 -0500"
-        },
-        {
-            "title": "DeepSeek says it's temporarily limiting new user registrations \"due to large-scale malicious attacks\" on its services (Hayden Field/CNBC)",
-            "link": "http://www.techmeme.com/250127/p15#a250127p15",
-            "published": "Mon, 27 Jan 2025 11:42:38 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "What is DeepSeek? And How Is It Upending A.I.?",
+            "link": "https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html",
+            "published": "Mon, 27 Jan 2025 21:21:23 +0000"
+        },
+        {
+            "title": "Nvidia Reels After DeepSeek\u2019s A.I. Breakthrough",
+            "link": "https://www.nytimes.com/2025/01/27/business/deepseek-nvidia-ai-chips.html",
+            "published": "Mon, 27 Jan 2025 21:16:11 +0000"
+        },
         {
             "title": "Elon Musk, Video Game King? Well, Maybe Not.",
             "link": "https://www.nytimes.com/2025/01/26/technology/elon-musk-video-games-diablo-path-of-exile.html",
@@ -38,22 +48,17 @@
             "published": "Sat, 25 Jan 2025 14:31:43 +0000"
         },
         {
-            "title": "Trump\u2019s Crypto Venture Divides the Industry He Aims to Support",
-            "link": "https://www.nytimes.com/2025/01/25/us/politics/trumps-crypto-venture-divides-the-industry-he-aims-to-support.html",
-            "published": "Sat, 25 Jan 2025 17:26:01 +0000"
-        },
-        {
-            "title": "TikTok Ban and Trump Executive Order Lead to Tech Company Dilemma",
-            "link": "https://www.nytimes.com/2025/01/24/technology/tiktok-ban-trump-amazon-apple-google.html",
-            "published": "Sat, 25 Jan 2025 20:39:49 +0000"
-        },
-        {
             "title": "Oil Companies Embrace Trump, but Not \u2018Drill, Baby, Drill\u2019",
             "link": "https://www.nytimes.com/2025/01/27/business/energy-environment/oil-trump-drill-baby-drill.html",
             "published": "Mon, 27 Jan 2025 17:57:49 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Is China's AI tool DeepSeek as good as it seems?",
+            "link": "https://www.bbc.com/news/articles/cx2jxvn0r51o",
+            "published": "Mon, 27 Jan 2025 20:11:50 GMT"
+        },
         {
             "title": "Chinese AI chatbot DeepSeek sparks market turmoil",
             "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
@@ -73,11 +78,6 @@
             "title": "X refused to take down video viewed by Southport killer",
             "link": "https://www.bbc.com/news/articles/c2egz1089pwo",
             "published": "Fri, 24 Jan 2025 17:46:28 GMT"
-        },
-        {
-            "title": "Clampdown on fake Google reviews announced",
-            "link": "https://www.bbc.com/news/articles/c4gx8pn798qo",
-            "published": "Fri, 24 Jan 2025 15:19:21 GMT"
         }
     ]
 }
