@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Hands-on with Samsung's Project Moohan headset: resembles Apple Vision Pro, Gemini integration shines, runs Android XR with mobile and tablet apps, and more (Marques Brownlee/Marques Brownlee on YouTube)",
+            "link": "http://www.techmeme.com/250128/p1#a250128p1",
+            "published": "Tue, 28 Jan 2025 00:20:13 -0500"
+        },
+        {
             "title": "DeepSeek's breakthroughs are a big win for app developers with more value accruing back into the app layer as the cost of intelligence continues to drop rapidly (Aaron Levie/@levie)",
             "link": "http://www.techmeme.com/250127/p33#a250127p33",
             "published": "Mon, 27 Jan 2025 23:20:13 -0500"
@@ -19,11 +24,6 @@
             "title": "When asked if Microsoft is in discussions to purchase TikTok, Donald Trump told reporters \"I would say yes\" (Bloomberg)",
             "link": "http://www.techmeme.com/250127/p30#a250127p30",
             "published": "Mon, 27 Jan 2025 21:46:37 -0500"
-        },
-        {
-            "title": "Hands-on with DeepSeek's chatbot: R1 model is free and powerful, but suffers from rampant hallucinations and lacks some ChatGPT tools like the memory feature (Reece Rogers/Wired)",
-            "link": "http://www.techmeme.com/250127/p29#a250127p29",
-            "published": "Mon, 27 Jan 2025 21:00:34 -0500"
         }
     ],
     "source_1": [
@@ -55,14 +55,19 @@
     ],
     "source_2": [
         {
+            "title": "China's DeepSeek AI shakes industry and dents America's swagger",
+            "link": "https://www.bbc.com/news/articles/cd643wx888qo",
+            "published": "Tue, 28 Jan 2025 05:08:22 GMT"
+        },
+        {
+            "title": "Trump says Microsoft in talks to buy TikTok",
+            "link": "https://www.bbc.com/news/articles/c4g3z55zz7xo",
+            "published": "Tue, 28 Jan 2025 04:54:25 GMT"
+        },
+        {
             "title": "Is China's AI tool DeepSeek as good as it seems?",
             "link": "https://www.bbc.com/news/articles/cx2jxvn0r51o",
             "published": "Mon, 27 Jan 2025 20:11:50 GMT"
-        },
-        {
-            "title": "Nvidia shares sink as Chinese AI app spooks markets",
-            "link": "https://www.bbc.com/news/articles/c0qw7z2v1pgo",
-            "published": "Mon, 27 Jan 2025 23:22:37 GMT"
         },
         {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
@@ -73,11 +78,6 @@
             "title": "Musk, MrBeast, Larry Ellison - Who might buy TikTok?",
             "link": "https://www.bbc.com/news/articles/cvge68ymej3o",
             "published": "Sat, 25 Jan 2025 01:15:34 GMT"
-        },
-        {
-            "title": "X refused to take down video viewed by Southport killer",
-            "link": "https://www.bbc.com/news/articles/c2egz1089pwo",
-            "published": "Fri, 24 Jan 2025 17:46:28 GMT"
         }
     ]
 }
