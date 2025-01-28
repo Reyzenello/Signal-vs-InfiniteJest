@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Hugging Face launches Inference Providers, which makes it easier for developers to run AI models on 3rd-party clouds; launch partners include SambaNova and Fal (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250128/p19#a250128p19",
+            "published": "Tue, 28 Jan 2025 11:20:01 -0500"
+        },
+        {
             "title": "Spotify says it paid out a record $10B to the music industry in 2024, up from a then-record $9B in 2023, taking its total to nearly $60B since its 2006 founding (Jem Aswad/Variety)",
             "link": "http://www.techmeme.com/250128/p18#a250128p18",
             "published": "Tue, 28 Jan 2025 09:45:01 -0500"
@@ -19,14 +24,19 @@
             "title": "OpenAI launches ChatGPT Gov, built for US government use, and says 90K+ government employees have generated 18M+ prompts within ChatGPT since the start of 2024 (Hayden Field/CNBC)",
             "link": "http://www.techmeme.com/250128/p15#a250128p15",
             "published": "Tue, 28 Jan 2025 09:10:01 -0500"
-        },
-        {
-            "title": "A profile of DeepSeek founder Liang Wenfeng, a math geek who in 2015 founded hedge fund High-Flyer and who some compare to quant investing pioneer Jim Simons (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250128/p14#a250128p14",
-            "published": "Tue, 28 Jan 2025 08:50:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How DeepSeek Went From Stock Trader to A.I. Star",
+            "link": "https://www.nytimes.com/2025/01/28/business/deepseek-owner-china-ai.html",
+            "published": "Tue, 28 Jan 2025 15:07:29 +0000"
+        },
+        {
+            "title": "Why DeepSeek Could Change What Silicon Valley Believe About A.I.",
+            "link": "https://www.nytimes.com/2025/01/28/technology/china-deepseek-ai-silicon-valley.html",
+            "published": "Tue, 28 Jan 2025 10:02:18 +0000"
+        },
         {
             "title": "What is DeepSeek? And How Is It Upending A.I.?",
             "link": "https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html",
@@ -36,16 +46,6 @@
             "title": "Nvidia Reels After DeepSeek\u2019s A.I. Breakthrough",
             "link": "https://www.nytimes.com/2025/01/27/business/deepseek-nvidia-ai-chips.html",
             "published": "Mon, 27 Jan 2025 21:43:51 +0000"
-        },
-        {
-            "title": "How Does DeepSeek\u2019s A.I. Chatbot Compare to ChatGPT and Other Competitors?",
-            "link": "https://www.nytimes.com/2025/01/27/technology/deepseek-ai-chatbot-first-impressions.html",
-            "published": "Mon, 27 Jan 2025 23:33:09 +0000"
-        },
-        {
-            "title": "Elon Musk, Video Game King? Well, Maybe Not.",
-            "link": "https://www.nytimes.com/2025/01/26/technology/elon-musk-video-games-diablo-path-of-exile.html",
-            "published": "Sun, 26 Jan 2025 18:58:04 +0000"
         },
         {
             "title": "Chevron Wants to Tap Into A.I. Boom by Selling Electricity to Data Centers",
@@ -60,9 +60,14 @@
             "published": "Tue, 28 Jan 2025 12:56:39 GMT"
         },
         {
+            "title": "DeepSeek vs ChatGPT - how do they compare?",
+            "link": "https://www.bbc.com/news/articles/cqx9zn27700o",
+            "published": "Tue, 28 Jan 2025 15:43:31 GMT"
+        },
+        {
             "title": "DeepSeek a 'wake-up call' for US tech firms, Trump says",
             "link": "https://www.bbc.com/news/articles/c4gpq01rvd4o",
-            "published": "Tue, 28 Jan 2025 15:20:10 GMT"
+            "published": "Tue, 28 Jan 2025 15:34:47 GMT"
         },
         {
             "title": "China's DeepSeek AI shakes industry and dents America's swagger",
@@ -73,11 +78,6 @@
             "title": "Microsoft in talks to buy TikTok, Trump says",
             "link": "https://www.bbc.com/news/articles/c4g3z55zz7xo",
             "published": "Tue, 28 Jan 2025 04:54:25 GMT"
-        },
-        {
-            "title": "Is China's AI tool DeepSeek as good as it seems?",
-            "link": "https://www.bbc.com/news/articles/cx2jxvn0r51o",
-            "published": "Mon, 27 Jan 2025 20:11:50 GMT"
         }
     ]
 }
