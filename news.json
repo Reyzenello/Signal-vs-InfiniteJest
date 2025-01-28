@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The EU says upcoming sanctions on Russia aim to crack down on traders who send gaming consoles to Russia that are then often used by the army to control drones (Financial Times)",
+            "link": "http://www.techmeme.com/250128/p22#a250128p22",
+            "published": "Tue, 28 Jan 2025 12:10:14 -0500"
+        },
+        {
+            "title": "Fusion reactor startup Helion, which has a deal to supply Microsoft with electricity by 2028, raised a $425M Series F, valuing the company at $5.245B (Tim De Chant/TechCrunch)",
+            "link": "http://www.techmeme.com/250128/p21#a250128p21",
+            "published": "Tue, 28 Jan 2025 11:40:12 -0500"
+        },
+        {
+            "title": "X announces X Money Account, a digital wallet and peer-to-peer payments service with Visa as its launch partner, debuting \"later this year\" (Hugh Son/CNBC)",
+            "link": "http://www.techmeme.com/250128/p20#a250128p20",
+            "published": "Tue, 28 Jan 2025 11:30:01 -0500"
+        },
+        {
             "title": "Hugging Face launches Inference Providers, which makes it easier for developers to run AI models on 3rd-party clouds; launch partners include SambaNova and Fal (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250128/p19#a250128p19",
             "published": "Tue, 28 Jan 2025 11:20:01 -0500"
@@ -9,24 +24,14 @@
             "title": "Spotify says it paid out a record $10B to the music industry in 2024, up from a then-record $9B in 2023, taking its total to nearly $60B since its 2006 founding (Jem Aswad/Variety)",
             "link": "http://www.techmeme.com/250128/p18#a250128p18",
             "published": "Tue, 28 Jan 2025 09:45:01 -0500"
-        },
-        {
-            "title": "The \"DeepSeek moment\" is like in 2004 when Google detailed using distributed algorithms to build a supercomputer, and unlike Sputnik, when Russia shared little (@yishan)",
-            "link": "http://www.techmeme.com/250128/p17#a250128p17",
-            "published": "Tue, 28 Jan 2025 09:35:03 -0500"
-        },
-        {
-            "title": "Paris-based Alice&amp;Bob, a cat qubit quantum architecture pioneer, raised a &euro;100M Series B for a \"fault tolerant\" quantum computer, after a &euro;27M Series A in 2022 (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250128/p16#a250128p16",
-            "published": "Tue, 28 Jan 2025 09:25:15 -0500"
-        },
-        {
-            "title": "OpenAI launches ChatGPT Gov, built for US government use, and says 90K+ government employees have generated 18M+ prompts within ChatGPT since the start of 2024 (Hayden Field/CNBC)",
-            "link": "http://www.techmeme.com/250128/p15#a250128p15",
-            "published": "Tue, 28 Jan 2025 09:10:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How China Is Reacting to DeepSeek Upending the A.I. Race",
+            "link": "https://www.nytimes.com/2025/01/28/business/deepseek-china-reaction.html",
+            "published": "Tue, 28 Jan 2025 16:34:05 +0000"
+        },
         {
             "title": "How DeepSeek Went From Stock Trader to A.I. Star",
             "link": "https://www.nytimes.com/2025/01/28/business/deepseek-owner-china-ai.html",
@@ -43,14 +48,9 @@
             "published": "Tue, 28 Jan 2025 10:35:17 +0000"
         },
         {
-            "title": "Nvidia Reels After DeepSeek\u2019s A.I. Breakthrough",
-            "link": "https://www.nytimes.com/2025/01/27/business/deepseek-nvidia-ai-chips.html",
-            "published": "Mon, 27 Jan 2025 21:43:51 +0000"
-        },
-        {
-            "title": "Chevron Wants to Tap Into A.I. Boom by Selling Electricity to Data Centers",
-            "link": "https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html",
-            "published": "Tue, 28 Jan 2025 13:00:04 +0000"
+            "title": "Vatican Warns About the Risks of Artificial Intelligence",
+            "link": "https://www.nytimes.com/2025/01/28/world/europe/vatican-artificial-intelligence-warning.html",
+            "published": "Tue, 28 Jan 2025 17:08:41 +0000"
         }
     ],
     "source_2": [
