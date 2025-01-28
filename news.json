@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Three case studies using GPT-4o, OpenAI o1, and Claude 3.5 Sonnet for historical research show that the models are now good enough for PhD-level analysis (Benjamin Breen/Res Obscura)",
+            "link": "http://www.techmeme.com/250128/p3#a250128p3",
+            "published": "Tue, 28 Jan 2025 02:30:01 -0500"
+        },
+        {
             "title": "Business travel startup TravelPerk raised a $200M Series E at a $2.7B valuation and buys expense management startup Yokoy, a source says for a \"nine-figure\" sum (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/250128/p2#a250128p2",
             "published": "Tue, 28 Jan 2025 01:25:12 -0500"
@@ -19,11 +24,6 @@
             "title": "Sam Altman says DeepSeek's R1 is an \"impressive model, particularly around what they're able to deliver for the price\" and OpenAI \"will pull up some releases\" (Vlad Savov/Bloomberg)",
             "link": "http://www.techmeme.com/250127/p32#a250127p32",
             "published": "Mon, 27 Jan 2025 23:00:14 -0500"
-        },
-        {
-            "title": "Even with DeepSeek's breakthroughs, US tech companies still benefit from their large investments to train more advanced models and meet the resulting demand (Casey Newton/Platformer)",
-            "link": "http://www.techmeme.com/250127/p31#a250127p31",
-            "published": "Mon, 27 Jan 2025 22:20:13 -0500"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Sun, 26 Jan 2025 18:58:04 +0000"
         },
         {
-            "title": "How Google Maps Plans to Handle the \u2018Gulf of America\u2019",
-            "link": "https://www.nytimes.com/2025/01/27/technology/google-maps-gulf-of-america-trump.html",
-            "published": "Tue, 28 Jan 2025 01:07:32 +0000"
+            "title": "In Seattle, a Meeting of 5,444 Mathematical Minds",
+            "link": "https://www.nytimes.com/2025/01/28/science/mathematics-ai-conference-jmm.html",
+            "published": "Tue, 28 Jan 2025 08:00:29 +0000"
         }
     ],
     "source_2": [
         {
             "title": "DeepSeek a 'wake-up call' for US tech firms, Trump says",
             "link": "https://www.bbc.com/news/articles/c4gpq01rvd4o",
-            "published": "Tue, 28 Jan 2025 05:38:03 GMT"
+            "published": "Tue, 28 Jan 2025 07:49:09 GMT"
         },
         {
             "title": "China's DeepSeek AI shakes industry and dents America's swagger",
@@ -75,9 +75,9 @@
             "published": "Mon, 27 Jan 2025 20:11:50 GMT"
         },
         {
-            "title": "China's DeepSeek AI shakes industry and dents America's swagger",
-            "link": "https://www.bbc.com/news/articles/cd643wx888qo",
-            "published": "Tue, 28 Jan 2025 05:08:22 GMT"
+            "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
+            "link": "https://www.bbc.com/news/articles/c4g93nvrdz7o",
+            "published": "Sun, 26 Jan 2025 01:14:24 GMT"
         }
     ]
 }
