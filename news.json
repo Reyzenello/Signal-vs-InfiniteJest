@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI told some shareholders revenue from its $200/month ChatGPT Pro plan surpassed that of ChatGPT Enterprise, which was generating $25M/month as of September (The Information)",
+            "link": "http://www.techmeme.com/250128/p32#a250128p32",
+            "published": "Tue, 28 Jan 2025 17:45:03 -0500"
+        },
+        {
+            "title": "Researchers detail two Apple silicon side-channel attacks that could leak secrets: SLAP, affecting M2, A15, and newer chips, and FLOP, affecting M3, M4, and A17 (Dan Goodin/Ars Technica)",
+            "link": "http://www.techmeme.com/250128/p31#a250128p31",
+            "published": "Tue, 28 Jan 2025 17:40:05 -0500"
+        },
+        {
+            "title": "The US Navy has instructed its members to avoid using DeepSeek \"in any capacity\" due to \"potential security and ethical concerns\" (Hayden Field/CNBC)",
+            "link": "http://www.techmeme.com/250128/p30#a250128p30",
+            "published": "Tue, 28 Jan 2025 17:30:01 -0500"
+        },
+        {
             "title": "An ex-OpenAI safety researcher says he's \"terrified\" by AI development's pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up (Dan Milmo/The Guardian)",
             "link": "http://www.techmeme.com/250128/p29#a250128p29",
             "published": "Tue, 28 Jan 2025 16:45:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Hugging Face researchers unveil Open-R1, a project to \"systematically reconstruct DeepSeek-R1's data and training pipeline\" for the open-source community (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250128/p28#a250128p28",
             "published": "Tue, 28 Jan 2025 16:10:01 -0500"
-        },
-        {
-            "title": "Trump and the DOJ have been flouting a bipartisan law to shut down TikTok since his inauguration, and Republicans and Democrats seem to be doing little about it (Ankush Khardori/Politico)",
-            "link": "http://www.techmeme.com/250128/p27#a250128p27",
-            "published": "Tue, 28 Jan 2025 14:25:00 -0500"
-        },
-        {
-            "title": "Chinese state media and social media viewed DeepSeek's success as a shot in the arm for a discouraged tech industry and a public suffering a stagnating economy (Li Yuan/New York Times)",
-            "link": "http://www.techmeme.com/250128/p26#a250128p26",
-            "published": "Tue, 28 Jan 2025 13:40:01 -0500"
-        },
-        {
-            "title": "Nearly two months after GM said it would stop funding Cruise robotaxi development, GM says it expects to save up to $1B annually thanks to the move (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/250128/p25#a250128p25",
-            "published": "Tue, 28 Jan 2025 13:05:01 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Tue, 28 Jan 2025 10:35:17 +0000"
         },
         {
-            "title": "Elon Musk\u2019s X Partners With Visa to Provide Financial Services",
-            "link": "https://www.nytimes.com/2025/01/28/technology/x-visa-financial-services.html",
-            "published": "Tue, 28 Jan 2025 18:37:42 +0000"
+            "title": "How DeepSeek Changed the A.I. Game",
+            "link": "https://www.nytimes.com/video/technology/100000009951972/how-deepseek-changed-the-ai-game.html",
+            "published": "Tue, 28 Jan 2025 22:48:21 +0000"
         }
     ],
     "source_2": [
