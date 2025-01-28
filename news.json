@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "AI enterprise service management startup Atomicwork raised a $25M Series A led by Khosla Ventures and Z47, a source says at a $150M valuation (Kritika Lamba/Reuters)",
+            "link": "http://www.techmeme.com/250128/p12#a250128p12",
+            "published": "Tue, 28 Jan 2025 08:00:48 -0500"
+        },
+        {
             "title": "TechInsights: ChangXin Memory Technologies' DDR5 RAM required advanced manufacturing techniques that haven't previously been seen on the Chinese market (Debby Wu/Bloomberg)",
             "link": "http://www.techmeme.com/250128/p11#a250128p11",
             "published": "Tue, 28 Jan 2025 07:40:02 -0500"
@@ -19,11 +24,6 @@
             "title": "DeepSeek challenges the \"bigger is better\" narrative underpinning the AI arms race in recent years and suggests we may see more investment into smaller startups (Kevin Roose/New York Times)",
             "link": "http://www.techmeme.com/250128/p8#a250128p8",
             "published": "Tue, 28 Jan 2025 06:35:01 -0500"
-        },
-        {
-            "title": "DeepSeek says it used Nvidia H800 chips, available in China until October 2023, to train R1, suggesting future models could be hampered by US export controls (Bloomberg)",
-            "link": "http://www.techmeme.com/250128/p7#a250128p7",
-            "published": "Tue, 28 Jan 2025 06:15:02 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Sun, 26 Jan 2025 18:58:04 +0000"
         },
         {
-            "title": "G.M. Has Plans Ready for Trump\u2019s Canada and Mexico Tariffs",
-            "link": "https://www.nytimes.com/2025/01/28/business/general-motors-trump-mexico-canada-tariffs.html",
-            "published": "Tue, 28 Jan 2025 11:30:04 +0000"
+            "title": "Chevron Wants to Tap Into A.I. Boom by Selling Electricity to Data Centers",
+            "link": "https://www.nytimes.com/2025/01/28/business/energy-environment/chevron-power-plant-ai.html",
+            "published": "Tue, 28 Jan 2025 13:00:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Be careful with DeepSeek, Australia says - so is it safe to use?",
+            "link": "https://www.bbc.com/news/articles/cx2k7r5nrvpo",
+            "published": "Tue, 28 Jan 2025 12:56:39 GMT"
+        },
         {
             "title": "DeepSeek a 'wake-up call' for US tech firms, Trump says",
             "link": "https://www.bbc.com/news/articles/c4gpq01rvd4o",
@@ -73,11 +78,6 @@
             "title": "Is China's AI tool DeepSeek as good as it seems?",
             "link": "https://www.bbc.com/news/articles/cx2jxvn0r51o",
             "published": "Mon, 27 Jan 2025 20:11:50 GMT"
-        },
-        {
-            "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
-            "link": "https://www.bbc.com/news/articles/c4g93nvrdz7o",
-            "published": "Sun, 26 Jan 2025 01:14:24 GMT"
         }
     ]
 }
