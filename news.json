@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Business travel startup TravelPerk raised a $200M Series E at a $2.7B valuation and buys expense management startup Yokoy, a source says for a \"nine-figure\" sum (Paul Sawers/TechCrunch)",
+            "link": "http://www.techmeme.com/250128/p2#a250128p2",
+            "published": "Tue, 28 Jan 2025 01:25:12 -0500"
+        },
+        {
             "title": "Hands-on with Samsung's Project Moohan headset: resembles Apple Vision Pro, Gemini integration shines, runs Android XR with mobile and tablet apps, and more (Marques Brownlee/Marques Brownlee on YouTube)",
             "link": "http://www.techmeme.com/250128/p1#a250128p1",
             "published": "Tue, 28 Jan 2025 00:20:13 -0500"
@@ -19,11 +24,6 @@
             "title": "Even with DeepSeek's breakthroughs, US tech companies still benefit from their large investments to train more advanced models and meet the resulting demand (Casey Newton/Platformer)",
             "link": "http://www.techmeme.com/250127/p31#a250127p31",
             "published": "Mon, 27 Jan 2025 22:20:13 -0500"
-        },
-        {
-            "title": "When asked if Microsoft is in discussions to purchase TikTok, Donald Trump told reporters \"I would say yes\" (Bloomberg)",
-            "link": "http://www.techmeme.com/250127/p30#a250127p30",
-            "published": "Mon, 27 Jan 2025 21:46:37 -0500"
         }
     ],
     "source_1": [
@@ -55,14 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "China's DeepSeek AI shakes industry and dents America's swagger",
-            "link": "https://www.bbc.com/news/articles/cd643wx888qo",
-            "published": "Tue, 28 Jan 2025 05:08:22 GMT"
-        },
-        {
-            "title": "Trump says Microsoft in talks to buy TikTok",
-            "link": "https://www.bbc.com/news/articles/c4g3z55zz7xo",
-            "published": "Tue, 28 Jan 2025 04:54:25 GMT"
+            "title": "Trump says DeepSeek a 'wake-up call' for US tech firms",
+            "link": "https://www.bbc.com/news/articles/c4gpq01rvd4o",
+            "published": "Tue, 28 Jan 2025 05:38:03 GMT"
         },
         {
             "title": "Is China's AI tool DeepSeek as good as it seems?",
@@ -70,14 +65,19 @@
             "published": "Mon, 27 Jan 2025 20:11:50 GMT"
         },
         {
+            "title": "China's DeepSeek AI shakes industry and dents America's swagger",
+            "link": "https://www.bbc.com/news/articles/cd643wx888qo",
+            "published": "Tue, 28 Jan 2025 05:08:22 GMT"
+        },
+        {
+            "title": "Microsoft in talks to buy TikTok, Trump says",
+            "link": "https://www.bbc.com/news/articles/c4g3z55zz7xo",
+            "published": "Tue, 28 Jan 2025 04:54:25 GMT"
+        },
+        {
             "title": "Meta is ditching fact checkers for X-style community notes. Will they work?",
             "link": "https://www.bbc.com/news/articles/c4g93nvrdz7o",
             "published": "Sun, 26 Jan 2025 01:14:24 GMT"
-        },
-        {
-            "title": "Musk, MrBeast, Larry Ellison - Who might buy TikTok?",
-            "link": "https://www.bbc.com/news/articles/cvge68ymej3o",
-            "published": "Sat, 25 Jan 2025 01:15:34 GMT"
         }
     ]
 }
