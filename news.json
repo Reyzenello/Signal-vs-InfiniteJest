@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An ex-OpenAI safety researcher says he's \"terrified\" by AI development's pace and that labs racing to AGI can cut corners on alignment, pushing all to speed up (Dan Milmo/The Guardian)",
+            "link": "http://www.techmeme.com/250128/p29#a250128p29",
+            "published": "Tue, 28 Jan 2025 16:45:01 -0500"
+        },
+        {
             "title": "Hugging Face researchers unveil Open-R1, a project to \"systematically reconstruct DeepSeek-R1's data and training pipeline\" for the open-source community (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250128/p28#a250128p28",
             "published": "Tue, 28 Jan 2025 16:10:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Nearly two months after GM said it would stop funding Cruise robotaxi development, GM says it expects to save up to $1B annually thanks to the move (Rebecca Bellan/TechCrunch)",
             "link": "http://www.techmeme.com/250128/p25#a250128p25",
             "published": "Tue, 28 Jan 2025 13:05:01 -0500"
-        },
-        {
-            "title": "Garmin smartwatch users report their devices are bricking after starting any activity that uses GPS; Garmin says it is looking into the issue (Victoria Song/The Verge)",
-            "link": "http://www.techmeme.com/250128/p24#a250128p24",
-            "published": "Tue, 28 Jan 2025 13:00:13 -0500"
         }
     ],
     "source_1": [
