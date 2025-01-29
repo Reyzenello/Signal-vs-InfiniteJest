@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the Trump administration is exploring additional curbs on the sale of chips to China to cover Nvidia's scaled-down H20, designed for the Chinese market (Bloomberg)",
+            "link": "http://www.techmeme.com/250129/p30#a250129p30",
+            "published": "Wed, 29 Jan 2025 13:25:01 -0500"
+        },
+        {
+            "title": "DeepSeek makes US export controls to China even more important, and DeepSeek-V3 is not a unique breakthrough but an expected point on a cost reduction curve (Dario Amodei)",
+            "link": "http://www.techmeme.com/250129/p29#a250129p29",
+            "published": "Wed, 29 Jan 2025 12:40:01 -0500"
+        },
+        {
             "title": "How employees at Meta, Google, and more have quietly protested tech's rightward shift, as Mark Zuckerberg and others embrace Trump and muffle internal dissent (New York Times)",
             "link": "http://www.techmeme.com/250129/p28#a250129p28",
             "published": "Wed, 29 Jan 2025 11:50:02 -0500"
@@ -14,16 +24,6 @@
             "title": "The US Copyright Office says using AI tools to assist in creative processes doesn't compromise copyright protections as long as the content has human authorship (Gene Maddaus/Variety)",
             "link": "http://www.techmeme.com/250129/p26#a250129p26",
             "published": "Wed, 29 Jan 2025 11:10:02 -0500"
-        },
-        {
-            "title": "Vandatrack: retail traders bought a net $562M of Nvidia's stock on January 27, a record, and $360M on January 28, after DeepSeek's AI model sent NVDA crashing (Financial Times)",
-            "link": "http://www.techmeme.com/250129/p25#a250129p25",
-            "published": "Wed, 29 Jan 2025 10:50:01 -0500"
-        },
-        {
-            "title": "Huawei adds DeepSeek's R1 to its ModelArts Studio platform, saying the free model is \"Ascend-adapted\", referencing its data center GPUs, but offers few details (Matthew Connatser/Tom's Hardware)",
-            "link": "http://www.techmeme.com/250129/p24#a250129p24",
-            "published": "Wed, 29 Jan 2025 10:35:02 -0500"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "Silicon Valley Tech Workers Quietly Protest Their Bosses\u2019 Embrace of Trump",
             "link": "https://www.nytimes.com/2025/01/29/technology/tampons-silicon-valley-workers-protest.html",
             "published": "Wed, 29 Jan 2025 16:27:14 +0000"
+        },
+        {
+            "title": "OpenAI Says DeepSeek May Have Improperly Harvested Its Data",
+            "link": "https://www.nytimes.com/2025/01/29/technology/openai-deepseek-data-harvest.html",
+            "published": "Wed, 29 Jan 2025 17:42:45 +0000"
         },
         {
             "title": "After DeepSeek, Venture Capital Investors Face Questions About Their A.I. Bets",
@@ -41,11 +46,6 @@
             "title": "DeepSeek Shows Meta\u2019s A.I. Strategy Is Working",
             "link": "https://www.nytimes.com/2025/01/29/technology/meta-deepseek-ai-open-source.html",
             "published": "Wed, 29 Jan 2025 15:12:58 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s X Partners With Visa to Provide Financial Services",
-            "link": "https://www.nytimes.com/2025/01/28/technology/x-visa-financial-services.html",
-            "published": "Tue, 28 Jan 2025 18:37:43 +0000"
         },
         {
             "title": "Why Trump Picked a Science Advisor, Michael Kratsios, Who Isn\u2019t a Scientist",
