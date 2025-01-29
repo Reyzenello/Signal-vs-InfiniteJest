@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The US Copyright Office says using AI tools to assist in creative processes doesn't compromise copyright protections as long as the content has human authorship (Gene Maddaus/Variety)",
+            "link": "http://www.techmeme.com/250129/p26#a250129p26",
+            "published": "Wed, 29 Jan 2025 11:10:02 -0500"
+        },
+        {
+            "title": "Vandatrack: retail traders bought a net $562M of Nvidia's stock on January 27, a record, and $360M on January 28, after DeepSeek's AI model sent NVDA crashing (Financial Times)",
+            "link": "http://www.techmeme.com/250129/p25#a250129p25",
+            "published": "Wed, 29 Jan 2025 10:50:01 -0500"
+        },
+        {
+            "title": "Huawei adds DeepSeek's R1 to its ModelArts Studio platform, saying the free model is \"Ascend-adapted\", referencing its data center GPUs, but offers few details (Matthew Connatser/Tom's Hardware)",
+            "link": "http://www.techmeme.com/250129/p24#a250129p24",
+            "published": "Wed, 29 Jan 2025 10:35:02 -0500"
+        },
+        {
             "title": "Ampere: users spent $465M on Microsoft games in December, making it the biggest publisher, ahead of EA's $366M; Call of Duty HQ had 38M MAUs in November 2024 (Christopher Dring/Video Games Chronicle)",
             "link": "http://www.techmeme.com/250129/p23#a250129p23",
             "published": "Wed, 29 Jan 2025 10:20:01 -0500"
@@ -9,48 +24,33 @@
             "title": "Comcast starts rolling out its \"pioneering new, ultra-low lag connectivity experience\" to select US cities, using the L4S standard to significantly cut latency (Jay Peters/The Verge)",
             "link": "http://www.techmeme.com/250129/p22#a250129p22",
             "published": "Wed, 29 Jan 2025 10:10:01 -0500"
-        },
-        {
-            "title": "DeepSeek's app is unavailable on Apple's App Store and Google's Play Store in Italy, after its data protection regulator says it questioned DeepSeek (Stefano Bernabei/Reuters)",
-            "link": "http://www.techmeme.com/250129/p21#a250129p21",
-            "published": "Wed, 29 Jan 2025 09:35:00 -0500"
-        },
-        {
-            "title": "Nvidia GeForce RTX 5080 review: slim, lightweight, reasonable power draw, and DLSS 4, but mild generational performance uplift and spotty availability at launch (Ben Wilson/Windows Central)",
-            "link": "http://www.techmeme.com/250129/p20#a250129p20",
-            "published": "Wed, 29 Jan 2025 09:15:00 -0500"
-        },
-        {
-            "title": "Sources detail Elon Musk's time in government, bringing his friends and employees, as he races to cut staff; Musk's plane has not left DC since the inauguration (New York Times)",
-            "link": "http://www.techmeme.com/250129/p19#a250129p19",
-            "published": "Wed, 29 Jan 2025 09:00:51 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "After DeepSeek, Venture Capital Investors Face Questions About Their A.I. Bets",
+            "link": "https://www.nytimes.com/2025/01/29/technology/deepseek-ai-startups-venture-capital.html",
+            "published": "Wed, 29 Jan 2025 10:03:17 +0000"
+        },
+        {
+            "title": "DeepSeek Shows Meta\u2019s A.I. Strategy Is Working",
+            "link": "https://www.nytimes.com/2025/01/29/technology/meta-deepseek-ai-open-source.html",
+            "published": "Wed, 29 Jan 2025 15:12:58 +0000"
+        },
         {
             "title": "How China Is Reacting to DeepSeek Upending the A.I. Race",
             "link": "https://www.nytimes.com/2025/01/28/business/deepseek-china-reaction.html",
             "published": "Tue, 28 Jan 2025 19:44:39 +0000"
         },
         {
-            "title": "How DeepSeek Went From Stock Trader to A.I. Star",
-            "link": "https://www.nytimes.com/2025/01/28/business/deepseek-owner-china-ai.html",
-            "published": "Tue, 28 Jan 2025 20:53:53 +0000"
+            "title": "Elon Musk\u2019s X Partners With Visa to Provide Financial Services",
+            "link": "https://www.nytimes.com/2025/01/28/technology/x-visa-financial-services.html",
+            "published": "Tue, 28 Jan 2025 18:37:43 +0000"
         },
         {
-            "title": "Why DeepSeek Could Change What Silicon Valley Believe About A.I.",
-            "link": "https://www.nytimes.com/2025/01/28/technology/china-deepseek-ai-silicon-valley.html",
-            "published": "Tue, 28 Jan 2025 10:02:18 +0000"
-        },
-        {
-            "title": "What is DeepSeek? And How Is It Upending A.I.?",
-            "link": "https://www.nytimes.com/2025/01/27/technology/what-is-deepseek-china-ai.html",
-            "published": "Tue, 28 Jan 2025 10:35:17 +0000"
-        },
-        {
-            "title": "After DeepSeek, Venture Capital Investors Face Questions About Their A.I. Bets",
-            "link": "https://www.nytimes.com/2025/01/29/technology/deepseek-ai-startups-venture-capital.html",
-            "published": "Wed, 29 Jan 2025 10:03:17 +0000"
+            "title": "Why Trump Picked a Science Advisor, Michael Kratsios, Who Isn\u2019t a Scientist",
+            "link": "https://www.nytimes.com/2025/01/29/science/trump-science-advisor-michael-kratsios.html",
+            "published": "Wed, 29 Jan 2025 15:04:15 +0000"
         }
     ],
     "source_2": [
