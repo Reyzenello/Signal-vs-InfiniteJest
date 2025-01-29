@@ -30,16 +30,16 @@
         "description": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)"
     },
     {
-        "name": "clai",
-        "full_name": "IBM/clai",
-        "html_url": "https://github.com/IBM/clai",
-        "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
-    },
-    {
         "name": "AI-Resources-Central",
         "full_name": "CoderSJX/AI-Resources-Central",
         "html_url": "https://github.com/CoderSJX/AI-Resources-Central",
         "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. "
+    },
+    {
+        "name": "clai",
+        "full_name": "IBM/clai",
+        "html_url": "https://github.com/IBM/clai",
+        "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
     },
     {
         "name": "taranis-ai",
