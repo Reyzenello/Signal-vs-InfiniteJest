@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Satya Nadella says Microsoft's AI business has surpassed an annual revenue run rate of $13B, up 175% YoY, as the company faces new scrutiny over AI spending (Todd Bishop/GeekWire)",
+            "link": "http://www.techmeme.com/250129/p50#a250129p50",
+            "published": "Wed, 29 Jan 2025 22:55:02 -0500"
+        },
+        {
             "title": "NewsGuard: with news-related prompts, DeepSeek's chatbot repeated false claims 30% of the time and provided non-answers 53% of the time, giving an 83% fail rate (NewsGuard's Reality Check)",
             "link": "http://www.techmeme.com/250129/p49#a250129p49",
             "published": "Wed, 29 Jan 2025 22:05:02 -0500"
@@ -19,11 +24,6 @@
             "title": "Microsoft reports Q2 LinkedIn revenue up 9% YoY, and Satya Nadella says that LinkedIn passed a record $2B in Premium subscriptions revenue in the last 12 months (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/250129/p46#a250129p46",
             "published": "Wed, 29 Jan 2025 19:55:18 -0500"
-        },
-        {
-            "title": "Wiz: DeepSeek left one of its critical databases exposed, leaking more than 1M records including system logs, user prompt submissions, and users' API keys (Wired)",
-            "link": "http://www.techmeme.com/250129/p45#a250129p45",
-            "published": "Wed, 29 Jan 2025 19:25:13 -0500"
         }
     ],
     "source_1": [
