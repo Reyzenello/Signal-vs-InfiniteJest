@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft unveils Intel-powered Surface Pro 11 and Surface Laptop 7 for businesses, both Copilot+ PCs starting at $1500, or $500 more than Qualcomm variants (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/250130/p14#a250130p14",
-            "published": "Thu, 30 Jan 2025 10:20:13 -0500"
+            "title": "Motif, which is building cloud-native 3D computer-aided architecture design tools with AI features, raised $46M in seed and Series A funding (Marina Temkin/TechCrunch)",
+            "link": "http://www.techmeme.com/250130/p21#a250130p21",
+            "published": "Thu, 30 Jan 2025 11:28:01 -0500"
         },
         {
-            "title": "Samsung Galaxy S25 Ultra review: excellent screen, performance, and battery life, slimmer bezels, and new 50MP UW sensor, but no S Pen Air actions and pricey (Sam Rutherford/Engadget)",
-            "link": "http://www.techmeme.com/250130/p13#a250130p13",
-            "published": "Thu, 30 Jan 2025 09:15:14 -0500"
+            "title": "Mark Zuckerberg says he wants to make Facebook \"way more culturally influential than it is today\" and he is focused on returning to \"OG Facebook\" in 2025 (Ryan Christoffel/9to5Mac)",
+            "link": "http://www.techmeme.com/250130/p20#a250130p20",
+            "published": "Thu, 30 Jan 2025 11:25:14 -0500"
         },
         {
-            "title": "Europol and German law enforcement arrest two suspects and seize 17 servers to take down Cracked and Nulled, two of the largest hacking forums with 10M+ users (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/250130/p12#a250130p12",
-            "published": "Thu, 30 Jan 2025 08:55:01 -0500"
+            "title": "Microsoft's stock fell 5%+ after saying it expects revenues for the current quarter to range between $67.7B and $68.7B, compared to $69.78B est. (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/250130/p18#a250130p18",
+            "published": "Thu, 30 Jan 2025 11:05:01 -0500"
         },
         {
-            "title": "The Argonne National Laboratory says its Aurora supercomputer is now fully operational and available to researchers, offering over 1 FP64 exaFLOPS performance (Anton Shilov/Tom's Hardware)",
-            "link": "http://www.techmeme.com/250130/p11#a250130p11",
-            "published": "Thu, 30 Jan 2025 08:10:00 -0500"
+            "title": "Sam Altman briefed US policymakers on the need to invest heavily in physical infrastructure with Stargate to support AI development, citing the rise of DeepSeek (Mackenzie Hawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/250130/p19#a250130p19",
+            "published": "Thu, 30 Jan 2025 11:05:01 -0500"
         },
         {
-            "title": "French startup Formance, which offers an open source, programmable financial ledger and other services, raised a $21M Series A co-led by PayPal and Portage (Romain Dillet/TechCrunch)",
-            "link": "http://www.techmeme.com/250130/p10#a250130p10",
-            "published": "Thu, 30 Jan 2025 07:50:01 -0500"
+            "title": "Microsoft makes OpenAI's o1 model, branded as \"Think Deeper\", free for all Copilot users, after launching it in October as a paid Copilot Pro feature (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250130/p17#a250130p17",
+            "published": "Thu, 30 Jan 2025 10:55:12 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Bill Gates Isn\u2019t Like Those Other Tech Billionaires",
+            "link": "https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html",
+            "published": "Thu, 30 Jan 2025 15:08:30 +0000"
+        },
+        {
+            "title": "Meta Agrees to Pay Trump $25 Million to Settle His Lawsuit",
+            "link": "https://www.nytimes.com/2025/01/29/technology/meta-trump-lawsuit-settlement.html",
+            "published": "Wed, 29 Jan 2025 23:35:42 +0000"
+        },
+        {
+            "title": "Microsoft Continues A.I. Spending Growth as Profit Grows 10%",
+            "link": "https://www.nytimes.com/2025/01/29/technology/microsoft-earnings-stock.html",
+            "published": "Thu, 30 Jan 2025 00:03:32 +0000"
+        },
         {
             "title": "Silicon Valley Tech Workers Quietly Protest Their Bosses\u2019 Embrace of Trump",
             "link": "https://www.nytimes.com/2025/01/29/technology/tampons-silicon-valley-workers-protest.html",
             "published": "Wed, 29 Jan 2025 16:27:14 +0000"
         },
         {
-            "title": "OpenAI Says DeepSeek May Have Improperly Harvested Its Data",
-            "link": "https://www.nytimes.com/2025/01/29/technology/openai-deepseek-data-harvest.html",
-            "published": "Wed, 29 Jan 2025 19:15:24 +0000"
-        },
-        {
-            "title": "After DeepSeek, Venture Capital Investors Face Questions About Their A.I. Bets",
-            "link": "https://www.nytimes.com/2025/01/29/technology/deepseek-ai-startups-venture-capital.html",
-            "published": "Wed, 29 Jan 2025 18:59:10 +0000"
-        },
-        {
-            "title": "DeepSeek Shows Meta\u2019s A.I. Strategy Is Working",
-            "link": "https://www.nytimes.com/2025/01/29/technology/meta-deepseek-ai-open-source.html",
-            "published": "Wed, 29 Jan 2025 19:10:15 +0000"
-        },
-        {
-            "title": "Bill Gates Isn\u2019t Like Those Other Tech Billionaires",
-            "link": "https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html",
-            "published": "Thu, 30 Jan 2025 15:08:29 +0000"
+            "title": "Luddite Teens Still Don\u2019t Want Your Likes",
+            "link": "https://www.nytimes.com/2025/01/30/style/luddite-teens-reunion.html",
+            "published": "Thu, 30 Jan 2025 16:00:12 +0000"
         }
     ],
     "source_2": [
