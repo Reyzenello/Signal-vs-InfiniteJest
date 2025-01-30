@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Motif, which is building cloud-native 3D computer-aided architecture design tools with AI features, raised $46M in seed and Series A funding (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/250130/p21#a250130p21",
-            "published": "Thu, 30 Jan 2025 11:28:01 -0500"
+            "title": "AI audio startup ElevenLabs raised a $180M Series C co-led by a16z and ICONIQ Growth at a $3.3B post-money valuation, taking its total funding to $281M (TechCrunch)",
+            "link": "http://www.techmeme.com/250130/p28#a250130p28",
+            "published": "Thu, 30 Jan 2025 12:15:05 -0500"
         },
         {
-            "title": "Mark Zuckerberg says he wants to make Facebook \"way more culturally influential than it is today\" and he is focused on returning to \"OG Facebook\" in 2025 (Ryan Christoffel/9to5Mac)",
-            "link": "http://www.techmeme.com/250130/p20#a250130p20",
-            "published": "Thu, 30 Jan 2025 11:25:14 -0500"
+            "title": "The US DOJ sues to block HPE's $14B acquisition of Juniper Networks, arguing the deal would harm competition in the enterprise wireless equipment (Leah Nylen/Bloomberg)",
+            "link": "http://www.techmeme.com/250130/p27#a250130p27",
+            "published": "Thu, 30 Jan 2025 12:10:00 -0500"
         },
         {
-            "title": "Microsoft's stock fell 5%+ after saying it expects revenues for the current quarter to range between $67.7B and $68.7B, compared to $69.78B est. (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/250130/p18#a250130p18",
-            "published": "Thu, 30 Jan 2025 11:05:01 -0500"
+            "title": "Mexican President Claudia Sheinbaum writes to Google arguing that Maps should not accept Trump's decision to rename the Gulf of Mexico as the Gulf of America (Stephen Eisenhammer/Reuters)",
+            "link": "http://www.techmeme.com/250130/p26#a250130p26",
+            "published": "Thu, 30 Jan 2025 12:05:00 -0500"
         },
         {
-            "title": "Sam Altman briefed US policymakers on the need to invest heavily in physical infrastructure with Stargate to support AI development, citing the rise of DeepSeek (Mackenzie Hawkins/Bloomberg)",
-            "link": "http://www.techmeme.com/250130/p19#a250130p19",
-            "published": "Thu, 30 Jan 2025 11:05:01 -0500"
+            "title": "Documents: in the Biden administration's final days, the FTC sent info demands to Uber and Lyft, as it probes whether they coordinated to limit NYC driver pay (Bloomberg)",
+            "link": "http://www.techmeme.com/250130/p25#a250130p25",
+            "published": "Thu, 30 Jan 2025 12:00:44 -0500"
         },
         {
-            "title": "Microsoft makes OpenAI's o1 model, branded as \"Think Deeper\", free for all Copilot users, after launching it in October as a paid Copilot Pro feature (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/250130/p17#a250130p17",
-            "published": "Thu, 30 Jan 2025 10:55:12 -0500"
+            "title": "Threads adds a dedicated media tab globally for photos and video, days after X and Bluesky added video tabs, and will let users tag people in photos (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/250130/p24#a250130p24",
+            "published": "Thu, 30 Jan 2025 11:50:01 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Meta Agrees to Pay Trump $25 Million to Settle His Lawsuit",
             "link": "https://www.nytimes.com/2025/01/29/technology/meta-trump-lawsuit-settlement.html",
-            "published": "Wed, 29 Jan 2025 23:35:42 +0000"
+            "published": "Wed, 29 Jan 2025 23:35:43 +0000"
         },
         {
             "title": "Microsoft Continues A.I. Spending Growth as Profit Grows 10%",
@@ -48,12 +48,17 @@
             "published": "Wed, 29 Jan 2025 16:27:14 +0000"
         },
         {
-            "title": "Luddite Teens Still Don\u2019t Want Your Likes",
-            "link": "https://www.nytimes.com/2025/01/30/style/luddite-teens-reunion.html",
-            "published": "Thu, 30 Jan 2025 16:00:12 +0000"
+            "title": "SoftBank in Talks to Invest Up to $25 Billion in OpenAI",
+            "link": "https://www.nytimes.com/2025/01/30/technology/softbank-openai-ai-investment.html",
+            "published": "Thu, 30 Jan 2025 17:13:56 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Mexico asks Google Maps not to rename Gulf of Mexico",
+            "link": "https://www.bbc.com/news/articles/clyn1rgngn8o",
+            "published": "Thu, 30 Jan 2025 16:39:21 GMT"
+        },
         {
             "title": "Satellites could end UK phone 'not spots', Vodafone says",
             "link": "https://www.bbc.com/news/articles/cgrn44nx85ro",
@@ -73,11 +78,6 @@
             "title": "OpenAI says Chinese rivals using its work for their AI apps",
             "link": "https://www.bbc.com/news/articles/c9vm1m8wpr9o",
             "published": "Wed, 29 Jan 2025 18:32:17 GMT"
-        },
-        {
-            "title": "Be careful with DeepSeek, Australia says - so is it safe to use?",
-            "link": "https://www.bbc.com/news/articles/cx2k7r5nrvpo",
-            "published": "Wed, 29 Jan 2025 15:20:39 GMT"
         }
     ]
 }
