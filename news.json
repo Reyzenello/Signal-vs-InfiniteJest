@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Kalshi plans to let users buy into its prediction markets directly from brokerages, says it now has 908 active contracts, up from 691 on Election Day (Michael J. de la Merced/New York Times)",
+            "link": "http://www.techmeme.com/250131/p10#a250131p10",
+            "published": "Fri, 31 Jan 2025 07:20:00 -0500"
+        },
+        {
+            "title": "A close look at DeepSeek, which is estimated to have access to ~50K Hopper GPUs, a total server capex of ~$1.3B, and a GPU spend of $500M+ over its history (Dylan Patel/SemiAnalysis)",
+            "link": "http://www.techmeme.com/250131/p9#a250131p9",
+            "published": "Fri, 31 Jan 2025 07:05:01 -0500"
+        },
+        {
             "title": "Adobe Chief Strategy Officer Scott Belsky leaves the company to join A24 film studio as a partner; he co-founded Behance, which Adobe acquired for $150M in 2012 (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/250131/p8#a250131p8",
             "published": "Fri, 31 Jan 2025 05:40:00 -0500"
@@ -14,16 +24,6 @@
             "title": "A profile of incoming White House OSTP director Michael Kratsios, who lacks a STEM degree and led the American AI Initiative during President Trump's first term (William J. Broad/New York Times)",
             "link": "http://www.techmeme.com/250131/p6#a250131p6",
             "published": "Fri, 31 Jan 2025 02:30:01 -0500"
-        },
-        {
-            "title": "Nvidia updates its PC app and rolls out the new GPU drivers, bringing Multi Frame Generation to RTX 50 Series GPUs and DLSS transformer models to all RTX GPUs (VideoCardz.com)",
-            "link": "http://www.techmeme.com/250131/p5#a250131p5",
-            "published": "Fri, 31 Jan 2025 02:00:33 -0500"
-        },
-        {
-            "title": "Investor letter: Elliott Management warns the White House's embrace of crypto is helping fuel a speculative mania that \"could wreak havoc\" when prices collapse (Costas Mourselas/Financial Times)",
-            "link": "http://www.techmeme.com/250131/p4#a250131p4",
-            "published": "Fri, 31 Jan 2025 01:50:02 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Thu, 30 Jan 2025 21:15:26 +0000"
         },
         {
-            "title": "TikTok True Crime to Stream: \u2018Dancing for the Devil\u2019 and More",
-            "link": "https://www.nytimes.com/2025/01/31/arts/true-crime-streaming-tiktok.html",
-            "published": "Fri, 31 Jan 2025 10:01:21 +0000"
+            "title": "DeepSeek Deep Dive + Hands-On With Operator + Hot Mess Express!",
+            "link": "https://www.nytimes.com/2025/01/31/podcasts/hardfork-deepseek-china.html",
+            "published": "Fri, 31 Jan 2025 12:00:05 +0000"
         }
     ],
     "source_2": [
