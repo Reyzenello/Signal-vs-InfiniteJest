@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Atlassian reports Q2 revenue of $1.29B vs. $1.24B est. and expects 26.5% cloud growth, 21.5% data center growth for the fiscal year; TEAM jumps 20%+ pre-market (Samantha Subin/CNBC)",
+            "title": "LinkedIn says short-form video is its fastest-growing content category, and total video viewership grew 36% YoY between October 30, 2024 and January 29, 2025 (Alexander Lee/Digiday)",
+            "link": "http://www.techmeme.com/250131/p19#a250131p19",
+            "published": "Fri, 31 Jan 2025 10:00:34 -0500"
+        },
+        {
+            "title": "Apple agrees to a $20M settlement to resolve claims that some Watch batteries swelled over time, potentially damaging other key components, such as the display (Samantha Kelly/CNET)",
+            "link": "http://www.techmeme.com/250131/p18#a250131p18",
+            "published": "Fri, 31 Jan 2025 09:40:12 -0500"
+        },
+        {
+            "title": "Finout, which makes cloud cost management software, raised a $40M Series C, following a $26M Series B in March, bringing its total raised to $85M (Frederic Lardinois/TechCrunch)",
+            "link": "http://www.techmeme.com/250131/p17#a250131p17",
+            "published": "Fri, 31 Jan 2025 09:30:02 -0500"
+        },
+        {
+            "title": "Kraken says its revenue hit $1.5B in 2024, up from $671M in 2023, and it finished the year with 2.6M funded accounts, with $42.8B in assets held on the platform (Bloomberg)",
+            "link": "http://www.techmeme.com/250131/p16#a250131p16",
+            "published": "Fri, 31 Jan 2025 09:25:00 -0500"
+        },
+        {
+            "title": "Atlassian reports Q2 revenue of $1.29B vs. $1.24B est. and expects 26.5% cloud growth, 21.5% data center growth for the fiscal year; TEAM jumps 18%+ (Samantha Subin/CNBC)",
             "link": "http://www.techmeme.com/250131/p15#a250131p15",
             "published": "Fri, 31 Jan 2025 09:15:01 -0500"
-        },
-        {
-            "title": "Indian smartphone market's revenue rose 9% YoY in 2024, with shipments up 1% YoY to 153M units; Nothing was the fastest-growing brand, up 577% YoY (Counterpoint Research)",
-            "link": "http://www.techmeme.com/250131/p14#a250131p14",
-            "published": "Fri, 31 Jan 2025 09:00:00 -0500"
-        },
-        {
-            "title": "Sources: STMicroelectronics is considering reducing its workforce by about 6%, or up to 3,000 jobs, through early retirements and attrition, amid a chip slump (Bloomberg)",
-            "link": "http://www.techmeme.com/250131/p13#a250131p13",
-            "published": "Fri, 31 Jan 2025 08:40:14 -0500"
-        },
-        {
-            "title": "Cloudflare Radar: TikTok has nearly bounced back to its original traffic levels after usage fell 85% when the app temporarily shut down on January 19 (Zach Vallese/CNBC)",
-            "link": "http://www.techmeme.com/250131/p12#a250131p12",
-            "published": "Fri, 31 Jan 2025 08:25:01 -0500"
-        },
-        {
-            "title": "Israel-based Anchor, a platform for automated invoice management and collection, raised a $20M Series A, and plans to expand in the US and double its workforce (Meir Orbach/CTech)",
-            "link": "http://www.techmeme.com/250131/p11#a250131p11",
-            "published": "Fri, 31 Jan 2025 08:10:12 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Barclays outage affecting payments and online banking",
+            "link": "https://www.bbc.com/news/articles/cd9qzg92g72o",
+            "published": "Fri, 31 Jan 2025 15:03:02 GMT"
+        },
+        {
             "title": "How an AI-written book shows why the tech 'terrifies' creatives",
             "link": "https://www.bbc.com/news/articles/cp8k5gezykyo",
             "published": "Fri, 31 Jan 2025 00:02:44 GMT"
@@ -73,11 +78,6 @@
             "title": "Meta to pay $25m to settle Trump lawsuit over ban",
             "link": "https://www.bbc.com/news/articles/c79d74nppvpo",
             "published": "Thu, 30 Jan 2025 02:21:25 GMT"
-        },
-        {
-            "title": "Garmin users say smartwatches have stopped working",
-            "link": "https://www.bbc.com/news/articles/c0jnd4eg6ndo",
-            "published": "Wed, 29 Jan 2025 13:20:22 GMT"
         }
     ]
 }
