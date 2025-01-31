@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Researchers: DeepSeek's R1 failed to detect or block any of the 50 malicious prompts that were tested; Adversa: R1 is vulnerable to many jailbreaking tactics (Wired)",
+            "link": "http://www.techmeme.com/250131/p32#a250131p32",
+            "published": "Fri, 31 Jan 2025 15:05:07 -0500"
+        },
+        {
+            "title": "Sources: Apple canceled a project to build AR glasses that would pair with the Mac; the company is still working on successors to the Vision Pro (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250131/p31#a250131p31",
+            "published": "Fri, 31 Jan 2025 14:36:46 -0500"
+        },
+        {
+            "title": "O3-mini will be available to all ChatGPT users, the first time free users of the chatbot will be able to try out OpenAI's reasoning models (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250131/p30#a250131p30",
+            "published": "Fri, 31 Jan 2025 14:22:15 -0500"
+        },
+        {
+            "title": "Sources: Meta is discussing moving its incorporation from Delaware to Texas or another state, following similar moves by Elon Musk (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250131/p29#a250131p29",
+            "published": "Fri, 31 Jan 2025 14:17:38 -0500"
+        },
+        {
             "title": "OpenAI launches o3-mini, its latest reasoning model that it says is largely on par with o1 and o1-mini in capability, but runs faster and costs less (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250131/p28#a250131p28",
             "published": "Fri, 31 Jan 2025 14:15:03 -0500"
-        },
-        {
-            "title": "Microsoft creates the Advanced Planning Unit within its Microsoft AI division to help the company understand the societal, health, and work implications of AI (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250131/p27#a250131p27",
-            "published": "Fri, 31 Jan 2025 13:35:04 -0500"
-        },
-        {
-            "title": "WhatsApp says it disrupted a campaign in which 90 journalists and other members of civil society were targeted using spyware from Israel-based Paragon (Stephanie Kirchgaessner/The Guardian)",
-            "link": "http://www.techmeme.com/250131/p26#a250131p26",
-            "published": "Fri, 31 Jan 2025 12:35:03 -0500"
-        },
-        {
-            "title": "Apple files an emergency motion to halt the remedy trial of the DOJ vs. Google case while it appeals a court's denial of its request to intervene as a defendant (Lauren Feiner/The Verge)",
-            "link": "http://www.techmeme.com/250131/p25#a250131p25",
-            "published": "Fri, 31 Jan 2025 11:55:01 -0500"
-        },
-        {
-            "title": "Grayscale launches a dogecoin-focused fund, says it has \"transitioned from a memecoin\" to a tool for \"global financial inclusion and a viable means of payment\" (Arasu Kannagi Basil/Reuters)",
-            "link": "http://www.techmeme.com/250131/p24#a250131p24",
-            "published": "Fri, 31 Jan 2025 11:30:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Said to Explore Moving Where It Is Incorporated",
+            "link": "https://www.nytimes.com/2025/01/31/technology/meta-incorporation-delaware.html",
+            "published": "Fri, 31 Jan 2025 20:21:55 +0000"
+        },
         {
             "title": "DeepSeek\u2019s Answers Include Chinese Propaganda, Researchers Say",
             "link": "https://www.nytimes.com/2025/01/31/technology/deepseek-chinese-propaganda.html",
@@ -36,11 +41,6 @@
             "title": "Bill Gates Isn\u2019t Like Those Other Tech Billionaires",
             "link": "https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html",
             "published": "Fri, 31 Jan 2025 00:27:02 +0000"
-        },
-        {
-            "title": "Musk\u2019s Twitter Takeover Offers Trump a Blueprint",
-            "link": "https://www.nytimes.com/2025/01/30/technology/musk-doge-x-playbook.html",
-            "published": "Thu, 30 Jan 2025 18:16:56 +0000"
         },
         {
             "title": "DeepSeek Deep Dive + Hands-On With Operator + Hot Mess Express!",
