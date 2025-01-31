@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Interim co-CEO David Zinsner says Intel has already received $2.2B in federal grants through the CHIPS Act, of the $7.86B awarded to build chips in the US (Rebecca Szkutak/TechCrunch)",
+            "link": "http://www.techmeme.com/250130/p55#a250130p55",
+            "published": "Thu, 30 Jan 2025 23:15:01 -0500"
+        },
+        {
+            "title": "In a leaked recording of an all-hands meeting, Mark Zuckerberg said Meta was slow to respond to TikTok's rise because \"we didn't think TikTok was social\" (Business Insider)",
+            "link": "http://www.techmeme.com/250130/p54#a250130p54",
+            "published": "Thu, 30 Jan 2025 22:45:00 -0500"
+        },
+        {
             "title": "Intel says it no longer plans to sell its next-gen Falcon Shores AI accelerator chip, which was set to launch in late 2025, to focus on its Jaguar Shores chip (CRN)",
             "link": "http://www.techmeme.com/250130/p53#a250130p53",
             "published": "Thu, 30 Jan 2025 22:10:00 -0500"
@@ -14,16 +24,6 @@
             "title": "Elastos, a decentralized infrastructure provider building a Bitcoin DeFi protocol called BeL2, raised $20M from private investment company Rollman Management (Jamie Crawley/CoinDesk)",
             "link": "http://www.techmeme.com/250130/p51#a250130p51",
             "published": "Thu, 30 Jan 2025 21:30:01 -0500"
-        },
-        {
-            "title": "Amazon sues Washington state to limit the release of public records to The Washington Post about Jeff Bezos' Amazon Project Kuiper satellite facility in Seattle (Todd Bishop/GeekWire)",
-            "link": "http://www.techmeme.com/250130/p50#a250130p50",
-            "published": "Thu, 30 Jan 2025 20:50:01 -0500"
-        },
-        {
-            "title": "Samsung reports Q4 revenue up 12% YoY to ~$52.2B, vs. ~$51.9B est., operating profit up 132% YoY to ~$4.5B, vs. ~$4.7B est., and FY 2024 revenue of ~$207B (Dylan Butts/CNBC)",
-            "link": "http://www.techmeme.com/250130/p49#a250130p49",
-            "published": "Thu, 30 Jan 2025 20:10:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "How an AI written book shows why the tech 'terrifies' creatives",
+            "link": "https://www.bbc.com/news/articles/cp8k5gezykyo",
+            "published": "Fri, 31 Jan 2025 00:02:44 GMT"
+        },
+        {
             "title": "Mexico asks Google Maps not to rename Gulf of Mexico",
             "link": "https://www.bbc.com/news/articles/clyn1rgngn8o",
             "published": "Thu, 30 Jan 2025 16:39:21 GMT"
@@ -73,11 +78,6 @@
             "title": "Garmin users say smartwatches have stopped working",
             "link": "https://www.bbc.com/news/articles/c0jnd4eg6ndo",
             "published": "Wed, 29 Jan 2025 13:20:22 GMT"
-        },
-        {
-            "title": "OpenAI says Chinese rivals using its work for their AI apps",
-            "link": "https://www.bbc.com/news/articles/c9vm1m8wpr9o",
-            "published": "Wed, 29 Jan 2025 18:32:17 GMT"
         }
     ]
 }
