@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: US officials are investigating whether DeepSeek bought advanced Nvidia chips from third parties in Singapore, circumventing US restrictions on AI chips (Bloomberg)",
+            "link": "http://www.techmeme.com/250131/p1#a250131p1",
+            "published": "Fri, 31 Jan 2025 00:05:14 -0500"
+        },
+        {
+            "title": "The Allen Institute for AI releases Tulu 3 405B, an open source model that it claims outperforms DeepSeek V3 and OpenAI's GPT-4o on certain benchmarks (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250130/p57#a250130p57",
+            "published": "Thu, 30 Jan 2025 23:50:01 -0500"
+        },
+        {
+            "title": "Sources: Samsung's 8-layer HBM3E was cleared by Nvidia in December for use in Nvidia's less powerful AI processors tailored for the Chinese market (Bloomberg)",
+            "link": "http://www.techmeme.com/250130/p56#a250130p56",
+            "published": "Thu, 30 Jan 2025 23:30:00 -0500"
+        },
+        {
             "title": "Interim co-CEO David Zinsner says Intel has already received $2.2B in federal grants through the CHIPS Act, of the $7.86B awarded to build chips in the US (Rebecca Szkutak/TechCrunch)",
             "link": "http://www.techmeme.com/250130/p55#a250130p55",
             "published": "Thu, 30 Jan 2025 23:15:01 -0500"
@@ -9,21 +24,6 @@
             "title": "In a leaked recording of an all-hands meeting, Mark Zuckerberg said Meta was slow to respond to TikTok's rise because \"we didn't think TikTok was social\" (Business Insider)",
             "link": "http://www.techmeme.com/250130/p54#a250130p54",
             "published": "Thu, 30 Jan 2025 22:45:00 -0500"
-        },
-        {
-            "title": "Intel says it no longer plans to sell its next-gen Falcon Shores AI accelerator chip, which was set to launch in late 2025, to focus on its Jaguar Shores chip (CRN)",
-            "link": "http://www.techmeme.com/250130/p53#a250130p53",
-            "published": "Thu, 30 Jan 2025 22:10:00 -0500"
-        },
-        {
-            "title": "Tether plans to bring USDT to the Bitcoin base layer again and to the Layer 2 protocol Lightning Network, following USDT expansions to Celo and other networks (MK Manoylov/The Block)",
-            "link": "http://www.techmeme.com/250130/p52#a250130p52",
-            "published": "Thu, 30 Jan 2025 21:55:01 -0500"
-        },
-        {
-            "title": "Elastos, a decentralized infrastructure provider building a Bitcoin DeFi protocol called BeL2, raised $20M from private investment company Rollman Management (Jamie Crawley/CoinDesk)",
-            "link": "http://www.techmeme.com/250130/p51#a250130p51",
-            "published": "Thu, 30 Jan 2025 21:30:01 -0500"
         }
     ],
     "source_1": [
