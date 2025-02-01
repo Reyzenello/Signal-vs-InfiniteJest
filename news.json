@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google says APT groups from 20+ countries are using Gemini primarily for productivity gains rather than to develop or conduct novel AI-enabled cyberattacks (Bill Toulas/BleepingComputer)",
+            "link": "http://www.techmeme.com/250201/p14#a250201p14",
+            "published": "Sat, 01 Feb 2025 17:10:01 -0500"
+        },
+        {
             "title": "Japan plans to expand export controls on advanced chips, lithography equipment, and cryocoolers for quantum computers, with new rules taking effect by late May (Mayumi Negishi/Bloomberg)",
             "link": "http://www.techmeme.com/250201/p13#a250201p13",
             "published": "Sat, 01 Feb 2025 15:55:14 -0500"
@@ -19,11 +24,6 @@
             "title": "The EU proposes customs reforms that make ecommerce platforms such as Temu, Shein, and Amazon Marketplace liable for dangerous or illegal products they sell (Andy Bounds/Financial Times)",
             "link": "http://www.techmeme.com/250201/p10#a250201p10",
             "published": "Sat, 01 Feb 2025 12:45:14 -0500"
-        },
-        {
-            "title": "India announces a $1.15B Fund of Funds for startups, with an \"expanded scope\" compared to past initiatives, and extends tax benefits for startups by five years (Manish Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250201/p9#a250201p9",
-            "published": "Sat, 01 Feb 2025 11:20:03 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,12 @@
         {
             "title": "Barclays customers face second day of issues after IT outage",
             "link": "https://www.bbc.com/news/articles/cd9qzg92g72o",
-            "published": "Sat, 01 Feb 2025 19:39:17 GMT"
+            "published": "Sat, 01 Feb 2025 22:00:31 GMT"
+        },
+        {
+            "title": "AI-generated child sex abuse images targeted with new laws",
+            "link": "https://www.bbc.com/news/articles/c8d90qe4nylo",
+            "published": "Sat, 01 Feb 2025 22:00:04 GMT"
         },
         {
             "title": "How an AI-written book shows why the tech 'terrifies' creatives",
@@ -73,11 +78,6 @@
             "title": "Mexico asks Google Maps not to rename Gulf of Mexico",
             "link": "https://www.bbc.com/news/articles/clyn1rgngn8o",
             "published": "Thu, 30 Jan 2025 16:39:21 GMT"
-        },
-        {
-            "title": "Meta to pay $25m to settle Trump lawsuit over ban",
-            "link": "https://www.bbc.com/news/articles/c79d74nppvpo",
-            "published": "Thu, 30 Jan 2025 02:21:25 GMT"
         }
     ]
 }
