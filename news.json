@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Hugging Face's Thomas Wolf and other experts say startups like DeepSeek and the rise of AI agents may erode the value of LLMs from OpenAI and Big Tech companies (Ryan Browne/CNBC)",
+            "link": "http://www.techmeme.com/250201/p15#a250201p15",
+            "published": "Sat, 01 Feb 2025 19:10:13 -0500"
+        },
+        {
             "title": "Google says APT groups from 20+ countries are using Gemini primarily for productivity gains rather than to develop or conduct novel AI-enabled cyberattacks (Bill Toulas/BleepingComputer)",
             "link": "http://www.techmeme.com/250201/p14#a250201p14",
             "published": "Sat, 01 Feb 2025 17:10:01 -0500"
@@ -19,11 +24,6 @@
             "title": "India removes import duties on some components for making smartphones, in a boost for local production efforts and benefiting companies like Apple and Xiaomi (Shivangi Acharya/Reuters)",
             "link": "http://www.techmeme.com/250201/p11#a250201p11",
             "published": "Sat, 01 Feb 2025 14:00:01 -0500"
-        },
-        {
-            "title": "The EU proposes customs reforms that make ecommerce platforms such as Temu, Shein, and Amazon Marketplace liable for dangerous or illegal products they sell (Andy Bounds/Financial Times)",
-            "link": "http://www.techmeme.com/250201/p10#a250201p10",
-            "published": "Sat, 01 Feb 2025 12:45:14 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 31 Jan 2025 18:32:55 +0000"
         },
         {
-            "title": "A Look at OpenAI\u2019s Operator, a New A.I. Agent",
-            "link": "https://www.nytimes.com/2025/02/01/technology/openai-operator-agent.html",
-            "published": "Sat, 01 Feb 2025 10:01:31 +0000"
+            "title": "Trump\u2019s Canada and Mexico Tariffs Could Hurt Carmakers",
+            "link": "https://www.nytimes.com/2025/02/01/business/economy/tariffs-trump-automakers-canada-mexico.html",
+            "published": "Sun, 02 Feb 2025 01:22:56 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Barclays customers face second day of issues after IT outage",
             "link": "https://www.bbc.com/news/articles/cd9qzg92g72o",
             "published": "Sat, 01 Feb 2025 22:00:31 GMT"
+        },
+        {
+            "title": "Why Dynasty Warriors makers scrapped sequel to reinvent series",
+            "link": "https://www.bbc.com/news/articles/c1dg0vlr965o",
+            "published": "Sun, 02 Feb 2025 00:07:35 GMT"
         },
         {
             "title": "AI-generated child sex abuse images targeted with new laws",
@@ -73,11 +78,6 @@
             "title": "Press X to sniff: Can smelling a game make it more immersive?",
             "link": "https://www.bbc.com/news/articles/cgkjz3r1j68o",
             "published": "Sat, 01 Feb 2025 00:37:09 GMT"
-        },
-        {
-            "title": "Mexico asks Google Maps not to rename Gulf of Mexico",
-            "link": "https://www.bbc.com/news/articles/clyn1rgngn8o",
-            "published": "Thu, 30 Jan 2025 16:39:21 GMT"
         }
     ]
 }
