@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Adam Candeub, a Big Tech critic and architect of Trump's first term effort to revoke Section 230 protections for social media, will be the FCC's general counsel (Ben Smith/Semafor)",
+            "link": "http://www.techmeme.com/250203/p19#a250203p19",
+            "published": "Mon, 03 Feb 2025 14:55:02 -0500"
+        },
+        {
             "title": "Trump signs an executive action to form a sovereign wealth fund; Commerce secretary nominee Howard Lutnick says it may be used to facilitate a sale of TikTok US (Bloomberg)",
             "link": "http://www.techmeme.com/250203/p18#a250203p18",
             "published": "Mon, 03 Feb 2025 13:30:13 -0500"
@@ -19,14 +24,19 @@
             "title": "OpenAI's Deep Research hands-on: very good at nuanced, complex research, and the first narrow agent to do sophisticated and likely economically valuable work (Ethan Mollick/One Useful Thing)",
             "link": "http://www.techmeme.com/250203/p15#a250203p15",
             "published": "Mon, 03 Feb 2025 11:00:47 -0500"
-        },
-        {
-            "title": "MicroStrategy says it didn't buy any bitcoin in the prior week, ending 12 consecutive weekly purchases worth $20B+ starting in October 2024, and holds ~$44.7B (Monique Mulima/Bloomberg)",
-            "link": "http://www.techmeme.com/250203/p14#a250203p14",
-            "published": "Mon, 03 Feb 2025 09:20:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Unveils New A.I. Agent for Research",
+            "link": "https://www.nytimes.com/2025/02/02/technology/openai-deep-research-tool.html",
+            "published": "Mon, 03 Feb 2025 01:11:48 +0000"
+        },
+        {
+            "title": "A Look at OpenAI\u2019s Operator, a New A.I. Agent",
+            "link": "https://www.nytimes.com/2025/02/01/technology/openai-operator-agent.html",
+            "published": "Sun, 02 Feb 2025 01:49:43 +0000"
+        },
         {
             "title": "Meta Said to Explore Incorporating in a Different State",
             "link": "https://www.nytimes.com/2025/01/31/technology/meta-incorporation-delaware.html",
@@ -38,19 +48,9 @@
             "published": "Fri, 31 Jan 2025 19:14:15 +0000"
         },
         {
-            "title": "Bill Gates Isn\u2019t Like Those Other Tech Billionaires",
-            "link": "https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html",
-            "published": "Fri, 31 Jan 2025 00:27:02 +0000"
-        },
-        {
-            "title": "DeepSeek Deep Dive + Hands-On With Operator + Hot Mess Express!",
-            "link": "https://www.nytimes.com/2025/01/31/podcasts/hardfork-deepseek-china.html",
-            "published": "Fri, 31 Jan 2025 18:32:55 +0000"
-        },
-        {
-            "title": "OpenAI Unveils New A.I. Agent for Research",
-            "link": "https://www.nytimes.com/2025/02/02/technology/openai-deep-research-tool.html",
-            "published": "Mon, 03 Feb 2025 01:11:48 +0000"
+            "title": "Trump\u2019s Canada and Mexico Tariffs Could Hurt Carmakers",
+            "link": "https://www.nytimes.com/2025/02/01/business/economy/tariffs-trump-automakers-canada-mexico.html",
+            "published": "Sun, 02 Feb 2025 18:09:53 +0000"
         }
     ],
     "source_2": [
