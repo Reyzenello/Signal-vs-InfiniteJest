@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI unveils Deep Research, an AI agent for creating in-depth reports, available to subscribers of the $200 ChatGPT Pro tier and limited to 100 queries/month (Anthony Ha/TechCrunch)",
+            "link": "http://www.techmeme.com/250202/p10#a250202p10",
+            "published": "Sun, 02 Feb 2025 19:14:40 -0500"
+        },
+        {
             "title": "Google's X spins out Heritable Agriculture, which aims to use AI to improve crop yield, as the incubator aggressively spins off companies under CEO Astro Teller (Brian Heater/TechCrunch)",
             "link": "http://www.techmeme.com/250202/p9#a250202p9",
             "published": "Sun, 02 Feb 2025 16:20:01 -0500"
         },
         {
-            "title": "Six engineers, apparently between 19 and 24 years old and linked to Elon Musk and Peter Thiel, are helping Musk gain control of federal infrastructure with DOGE (Vittoria Elliott/Wired)",
+            "title": "A look at six engineers with Elon Musk and Peter Thiel ties, between 19 and 24 years old, playing key DOGE roles, as Musk seizes control of US infrastructure (Vittoria Elliott/Wired)",
             "link": "http://www.techmeme.com/250202/p8#a250202p8",
             "published": "Sun, 02 Feb 2025 14:40:02 -0500"
         },
@@ -19,11 +24,6 @@
             "title": "Intel received &euro;515.55M in default interest from the EU after being reimbursed a &euro;1.06B fine levied in 2009; the EU's top court sided with Intel in October 2024 (Foo Yun Chee/Reuters)",
             "link": "http://www.techmeme.com/250202/p6#a250202p6",
             "published": "Sun, 02 Feb 2025 12:25:00 -0500"
-        },
-        {
-            "title": "Reliance Retail relaunches the Shein app in India, with control over operations and data while Shein acts as the technology partner, years after the app's ban (Manish Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250202/p5#a250202p5",
-            "published": "Sun, 02 Feb 2025 10:50:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 31 Jan 2025 18:32:55 +0000"
         },
         {
-            "title": "Trump\u2019s Canada and Mexico Tariffs Could Hurt Carmakers",
-            "link": "https://www.nytimes.com/2025/02/01/business/economy/tariffs-trump-automakers-canada-mexico.html",
-            "published": "Sun, 02 Feb 2025 18:09:52 +0000"
+            "title": "OpenAI Unveils New A.I. Agent for Research",
+            "link": "https://www.nytimes.com/2025/02/02/technology/openai-deep-research-tool.html",
+            "published": "Mon, 03 Feb 2025 01:11:48 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Bill Gates has given away billions, but 'still has more to give'",
+            "link": "https://www.bbc.com/news/articles/cx2p4p4l78zo",
+            "published": "Mon, 03 Feb 2025 00:00:08 GMT"
+        },
         {
             "title": "Barclays working to update account balances after tech outage",
             "link": "https://www.bbc.com/news/articles/c5y7dpdje6xo",
@@ -73,11 +78,6 @@
             "title": "How an AI-written book shows why the tech 'terrifies' creatives",
             "link": "https://www.bbc.com/news/articles/cp8k5gezykyo",
             "published": "Fri, 31 Jan 2025 00:02:44 GMT"
-        },
-        {
-            "title": "Press X to sniff: Can smelling a game make it more immersive?",
-            "link": "https://www.bbc.com/news/articles/cgkjz3r1j68o",
-            "published": "Sat, 01 Feb 2025 00:37:09 GMT"
         }
     ]
 }
