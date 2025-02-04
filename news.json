@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
+            "title": "PayPal reports Q4 revenue up 4% YoY to $8.4B, adjusted net income down 1.9% YoY to $1.21B, above est., payment volume up 7% to $437.8B, and plans a $15B buyback (Paige Smith/Bloomberg)",
+            "link": "http://www.techmeme.com/250204/p10#a250204p10",
+            "published": "Tue, 04 Feb 2025 07:26:17 -0500"
+        },
+        {
+            "title": "Self-driving truck startup Waabi partners with Volvo to develop and deploy autonomous trucks, starting with pilots in Texas and a launch in late 2025 or 2026 (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/250204/p9#a250204p9",
+            "published": "Tue, 04 Feb 2025 07:10:02 -0500"
+        },
+        {
+            "title": "An investigation into 300+ cyberattacks against US K-12 schools since 2020 shows how schools can withhold crucial details from affected students and parents (Mark Keierleber/Wired)",
+            "link": "http://www.techmeme.com/250204/p8#a250204p8",
+            "published": "Tue, 04 Feb 2025 06:50:01 -0500"
+        },
+        {
+            "title": "An interview with The Sims designer Will Wright on the dollhouse game turning 25, the game's mechanics, infusing it with chaos, ants, The Sims Online, and more (Zachary Small/New York Times)",
+            "link": "http://www.techmeme.com/250204/p7#a250204p7",
+            "published": "Tue, 04 Feb 2025 06:30:01 -0500"
+        },
+        {
             "title": "Spotify reports Q4 revenue up 16% YoY to &euro;4.2B, MAUs up 12% YoY to 675M, subscribers up 11% YoY to 263M, and &euro;1.14B in 2024 net income, vs. a &euro;532M loss in 2023 (Anne Steele/Wall Street Journal)",
             "link": "http://www.techmeme.com/250204/p6#a250204p6",
             "published": "Tue, 04 Feb 2025 06:11:50 -0500"
-        },
-        {
-            "title": "Elon Musk's goal seems to amount to a coup over the US administrative state; Musk said he \"deleted\" the Direct File tax department, but that may not be true (Elizabeth Lopatto/The Verge)",
-            "link": "http://www.techmeme.com/250204/p5#a250204p5",
-            "published": "Tue, 04 Feb 2025 05:45:01 -0500"
-        },
-        {
-            "title": "Ola founder Bhavish Aggarwal invests $230M in his Indian AI startup Krutrim, and plans to raise $1.15B from outside investors by 2026, to build local AI (Manish Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250204/p4#a250204p4",
-            "published": "Tue, 04 Feb 2025 05:30:00 -0500"
-        },
-        {
-            "title": "Sources: Marko Elez, a 25-year-old Elon Musk-linked engineer, has admin privileges over Treasury Department code that controls Social Security payments and more (Wired)",
-            "link": "http://www.techmeme.com/250204/p3#a250204p3",
-            "published": "Tue, 04 Feb 2025 05:05:00 -0500"
-        },
-        {
-            "title": "Nintendo reports Q3 revenue down ~33% YoY to ~$2.8B, net profit down ~33% YoY to ~$831M, both below est, 4.8M Switch sales, and cuts Switch and profit forecasts (Bloomberg)",
-            "link": "http://www.techmeme.com/250204/p2#a250204p2",
-            "published": "Tue, 04 Feb 2025 04:25:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How a Sale of TikTok Would Work and Who Might Buy It",
+            "link": "https://www.nytimes.com/2025/02/04/business/media/tiktok-sale-who-could-buy.html",
+            "published": "Tue, 04 Feb 2025 12:04:57 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s Blitz Shakes U.S. Government as He Sweeps Through Agencies",
+            "link": "https://www.nytimes.com/2025/02/03/us/politics/musk-federal-government.html",
+            "published": "Tue, 04 Feb 2025 01:25:38 +0000"
+        },
+        {
+            "title": "Musk Allies Discuss Deploying A.I. to Find Budget Savings",
+            "link": "https://www.nytimes.com/2025/02/03/technology/musk-allies-ai-government.html",
+            "published": "Tue, 04 Feb 2025 00:26:03 +0000"
+        },
         {
             "title": "OpenAI Unveils New A.I. Agent for Research",
             "link": "https://www.nytimes.com/2025/02/02/technology/openai-deep-research-tool.html",
             "published": "Mon, 03 Feb 2025 01:11:48 +0000"
         },
         {
-            "title": "A Look at OpenAI\u2019s Operator, a New A.I. Agent",
-            "link": "https://www.nytimes.com/2025/02/01/technology/openai-operator-agent.html",
-            "published": "Sun, 02 Feb 2025 01:49:43 +0000"
-        },
-        {
-            "title": "Meta Said to Explore Incorporating in a Different State",
-            "link": "https://www.nytimes.com/2025/01/31/technology/meta-incorporation-delaware.html",
-            "published": "Fri, 31 Jan 2025 21:11:13 +0000"
-        },
-        {
-            "title": "DeepSeek\u2019s Answers Include Chinese Propaganda, Researchers Say",
-            "link": "https://www.nytimes.com/2025/01/31/technology/deepseek-chinese-propaganda.html",
-            "published": "Fri, 31 Jan 2025 19:14:15 +0000"
-        },
-        {
-            "title": "Musk Allies Discuss Deploying A.I. to Find Budget Savings",
-            "link": "https://www.nytimes.com/2025/02/03/technology/musk-allies-ai-government.html",
-            "published": "Tue, 04 Feb 2025 00:26:03 +0000"
+            "title": "Trump\u2019s Canada and Mexico Tariffs Could Hurt Carmakers",
+            "link": "https://www.nytimes.com/2025/02/01/business/economy/tariffs-trump-automakers-canada-mexico.html",
+            "published": "Sun, 02 Feb 2025 18:09:53 +0000"
         }
     ],
     "source_2": [
