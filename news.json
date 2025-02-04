@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers' Venture Growth, after raising $300M from Summit Partners in 2022 (Ingrid Lunden/TechCrunch)",
+            "title": "Opera launches Opera Air, a free browser focused on mindfulness and mental well-being, including break reminders and ambient soundscapes, for Windows and macOS (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/250204/p13#a250204p13",
+            "published": "Tue, 04 Feb 2025 09:30:01 -0500"
+        },
+        {
+            "title": "Toronto-based programmatic ad startup StackAdapt raised $235M led by Teachers' Venture Growth, after raising $300M from Summit Partners in June 2022 (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/250204/p12#a250204p12",
             "published": "Tue, 04 Feb 2025 08:55:02 -0500"
         },
@@ -19,11 +24,6 @@
             "title": "Self-driving truck startup Waabi partners with Volvo to develop and deploy autonomous trucks, starting with pilots in Texas and a launch in late 2025 or 2026 (Rebecca Bellan/TechCrunch)",
             "link": "http://www.techmeme.com/250204/p9#a250204p9",
             "published": "Tue, 04 Feb 2025 07:10:02 -0500"
-        },
-        {
-            "title": "An investigation into 300+ cyberattacks against US K-12 schools since 2020 shows how schools can withhold crucial details from affected students and parents (Mark Keierleber/Wired)",
-            "link": "http://www.techmeme.com/250204/p8#a250204p8",
-            "published": "Tue, 04 Feb 2025 06:50:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Australia bans DeepSeek on government devices over security risk",
+            "link": "https://www.bbc.com/news/articles/c8d95v0nr1yo",
+            "published": "Tue, 04 Feb 2025 14:24:34 GMT"
+        },
+        {
             "title": "The Sims at 25: How a virtual dollhouse took over the world",
             "link": "https://www.bbc.com/news/articles/cj021e0y1zqo",
             "published": "Tue, 04 Feb 2025 00:01:41 GMT"
@@ -73,11 +78,6 @@
             "title": "Why Dynasty Warriors makers scrapped sequel to reinvent series",
             "link": "https://www.bbc.com/news/articles/c1dg0vlr965o",
             "published": "Sun, 02 Feb 2025 00:07:35 GMT"
-        },
-        {
-            "title": "AI-generated child sex abuse images targeted with new laws",
-            "link": "https://www.bbc.com/news/articles/c8d90qe4nylo",
-            "published": "Sun, 02 Feb 2025 10:12:31 GMT"
         }
     ]
 }
