@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google releases Gemini 2.0 Flash via its API, an experimental Gemini 2.0 Pro version via its apps, Gemini 2.0 Flash Thinking, and 2.0 Flash-Lite in AI Studio (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250205/p27#a250205p27",
+            "published": "Wed, 05 Feb 2025 11:12:35 -0500"
+        },
+        {
+            "title": "In 2024, ransomware attackers received ~$813.55M in payments from victims, down 35% on 2023's record $1.25B, as more victims refused to pay (Chainalysis)",
+            "link": "http://www.techmeme.com/250205/p26#a250205p26",
+            "published": "Wed, 05 Feb 2025 10:35:02 -0500"
+        },
+        {
             "title": "Oura Ring 4 review: comfortable, better data collection, and gorgeous, clean app, but requires a paid subscription to use basic features and colors cost more (Daniel Cooper/Engadget)",
             "link": "http://www.techmeme.com/250205/p25#a250205p25",
             "published": "Wed, 05 Feb 2025 10:10:05 -0500"
@@ -14,43 +24,33 @@
             "title": "The USPS resumes accepting China and Hong Kong mail hours after suspension due to Trump's EO, disrupting e-commerce, and is implementing \"the new China tariffs\" (Annie Palmer/CNBC)",
             "link": "http://www.techmeme.com/250205/p23#a250205p23",
             "published": "Wed, 05 Feb 2025 08:30:05 -0500"
-        },
-        {
-            "title": "Uber opens a waitlist to request a driverless Waymo vehicle in Austin, ahead of a planned launch later in 2025; Austin rides will be limited to 37 square miles (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/250205/p22#a250205p22",
-            "published": "Wed, 05 Feb 2025 07:15:02 -0500"
-        },
-        {
-            "title": "Uber reports Q4 revenue up 20% YoY to $12B, Gross Bookings up 18% to a record $44.2B, operating profit up 18% to $770M, and trips up 18% to 3.1B; UBER drops 5%+ (Rafe Uddin/Financial Times)",
-            "link": "http://www.techmeme.com/250205/p21#a250205p21",
-            "published": "Wed, 05 Feb 2025 07:07:37 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Is Waymo Friend or Foe to Uber?",
+            "link": "https://www.nytimes.com/2025/02/05/technology/waymo-uber-partnership.html",
+            "published": "Wed, 05 Feb 2025 13:49:22 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s X Becomes Weapon in Government Cost Cutting",
+            "link": "https://www.nytimes.com/2025/02/04/technology/elon-musk-x-doge.html",
+            "published": "Tue, 04 Feb 2025 20:28:12 +0000"
+        },
+        {
+            "title": "Daniel Penny Is Hired by Venture Capital Firm Whose Founder Backed Trump",
+            "link": "https://www.nytimes.com/2025/02/04/nyregion/daniel-penny-hired-andreessen-horowitz.html",
+            "published": "Wed, 05 Feb 2025 00:46:19 +0000"
+        },
         {
             "title": "How a Sale of TikTok Would Work and Who Might Buy It",
             "link": "https://www.nytimes.com/2025/02/04/business/media/tiktok-sale-who-could-buy.html",
             "published": "Tue, 04 Feb 2025 12:04:57 +0000"
         },
         {
-            "title": "Elon Musk\u2019s Blitz Shakes U.S. Government as He Sweeps Through Agencies",
-            "link": "https://www.nytimes.com/2025/02/03/us/politics/musk-federal-government.html",
-            "published": "Wed, 05 Feb 2025 00:15:06 +0000"
-        },
-        {
-            "title": "Musk Allies Discuss Deploying A.I. to Find Budget Savings",
-            "link": "https://www.nytimes.com/2025/02/03/technology/musk-allies-ai-government.html",
-            "published": "Tue, 04 Feb 2025 00:26:03 +0000"
-        },
-        {
-            "title": "OpenAI Unveils New A.I. Agent for Research",
-            "link": "https://www.nytimes.com/2025/02/02/technology/openai-deep-research-tool.html",
-            "published": "Mon, 03 Feb 2025 01:11:48 +0000"
-        },
-        {
             "title": "NASA Gave Up a Ride to the Moon. This Startup\u2019s Rover Took It.",
             "link": "https://www.nytimes.com/2025/02/05/science/nasa-moon-rover-astrolab-astrobotic.html",
-            "published": "Wed, 05 Feb 2025 15:00:04 +0000"
+            "published": "Wed, 05 Feb 2025 15:25:49 +0000"
         }
     ],
     "source_2": [
@@ -60,12 +60,17 @@
             "published": "Wed, 05 Feb 2025 12:46:20 GMT"
         },
         {
+            "title": "The monthly AI or real quiz: February 2025",
+            "link": "https://www.bbc.co.uk/bitesize/articles/zfpt9ty",
+            "published": "Fri, 31 Jan 2025 12:31:42 GMT"
+        },
+        {
             "title": "Mobile ban in schools not improving grades or behaviour, study suggests",
             "link": "https://www.bbc.com/news/articles/cy8plvqv60lo",
             "published": "Wed, 05 Feb 2025 10:15:49 GMT"
         },
         {
-            "title": "Google ending AI arms ban incredibly concerning, campaigners say",
+            "title": "Concern over Google ending ban on AI weapons",
             "link": "https://www.bbc.com/news/articles/cy081nqx2zjo",
             "published": "Wed, 05 Feb 2025 15:23:52 GMT"
         },
@@ -73,11 +78,6 @@
             "title": "Australia bans DeepSeek on government devices over security risk",
             "link": "https://www.bbc.com/news/articles/c8d95v0nr1yo",
             "published": "Tue, 04 Feb 2025 14:24:34 GMT"
-        },
-        {
-            "title": "The Sims at 25: How a virtual dollhouse took over the world",
-            "link": "https://www.bbc.com/news/articles/cj021e0y1zqo",
-            "published": "Tue, 04 Feb 2025 00:01:41 GMT"
         }
     ]
 }
