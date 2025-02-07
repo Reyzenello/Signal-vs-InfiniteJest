@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Amazon expects to boost its capex to $100B in 2025, largely driven by AI and up from 2024's ~$83B, on what Andy Jassy calls a \"once-in-a-lifetime\" opportunity (Annie Palmer/CNBC)",
+            "title": "France and the UAE agree to develop an up to 1 GW data center in France, representing &euro;30B to &euro;50B in investments for French and Emirati AI, chips, and more (Daphn&eacute; Leprince-Ringuet/Sifted)",
+            "link": "http://www.techmeme.com/250206/p45#a250206p45",
+            "published": "Thu, 06 Feb 2025 21:40:02 -0500"
+        },
+        {
+            "title": "Kelly Stonelake, a former Meta director who was at the company from 2009 to 2024, sues Meta, alleging sexual harassment, sex discrimination, and retaliation (TechCrunch)",
+            "link": "http://www.techmeme.com/250206/p44#a250206p44",
+            "published": "Thu, 06 Feb 2025 21:05:01 -0500"
+        },
+        {
+            "title": "Amazon expects to boost its capex to $100B in 2025, largely driven by AI and up from 2024's ~$83B, in what Andy Jassy calls a \"once-in-a-lifetime\" opportunity (Annie Palmer/CNBC)",
             "link": "http://www.techmeme.com/250206/p43#a250206p43",
             "published": "Thu, 06 Feb 2025 19:35:01 -0500"
         },
@@ -14,16 +24,6 @@
             "title": "Affirm reports Q2 revenue up 47% YoY to $866M, vs. $807M est., GMV up 35% YoY to $10.1B, and active consumers up 23% YoY to 21M; AFRM jumps 10%+ after hours (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250206/p41#a250206p41",
             "published": "Thu, 06 Feb 2025 18:10:02 -0500"
-        },
-        {
-            "title": "DOGE staffer Marko Elez resigns after being linked to racist posts on X; he was embedded in the US Treasury and previously worked at SpaceX, Starlink, and X (Katherine Long/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250206/p40#a250206p40",
-            "published": "Thu, 06 Feb 2025 17:20:02 -0500"
-        },
-        {
-            "title": "Take-Two reports Q3 net bookings up 3% YoY to $1.37B, vs. $1.39B est., and reiterates GTA VI is set to launch in the fall of 2025; TTWO jumps 6%+ after hours (Zaheer Kachwala/Reuters)",
-            "link": "http://www.techmeme.com/250206/p39#a250206p39",
-            "published": "Thu, 06 Feb 2025 16:50:00 -0500"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Andreessen Horowitz Defends Hiring Daniel Penny",
             "link": "https://www.nytimes.com/2025/02/05/technology/daniel-penny-andreessen-horowitz-investors.html",
-            "published": "Thu, 06 Feb 2025 20:27:45 +0000"
+            "published": "Thu, 06 Feb 2025 20:27:46 +0000"
         },
         {
             "title": "Google Unwinds Diversity Goals, Citing Trump\u2019s DEI Orders",
@@ -50,10 +50,15 @@
         {
             "title": "As Elon Musk Attacks DEI, Tesla Quietly Addresses Racism Complaints",
             "link": "https://www.nytimes.com/2025/02/06/business/tesla-elon-musk-dei-discrimination.html",
-            "published": "Thu, 06 Feb 2025 16:52:24 +0000"
+            "published": "Thu, 06 Feb 2025 16:52:25 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Concern UK's AI ambitions could lead to water shortages",
+            "link": "https://www.bbc.com/news/articles/ce85wx9jjndo",
+            "published": "Fri, 07 Feb 2025 01:48:21 GMT"
+        },
         {
             "title": "Google remakes Super Bowl ad after AI cheese gaffe",
             "link": "https://www.bbc.com/news/articles/cx2j15r1g09o",
@@ -73,11 +78,6 @@
             "title": "The monthly AI or real quiz: February 2025",
             "link": "https://www.bbc.co.uk/bitesize/articles/zfpt9ty",
             "published": "Fri, 31 Jan 2025 12:31:42 GMT"
-        },
-        {
-            "title": "Mobile ban in schools not improving grades or behaviour, study suggests",
-            "link": "https://www.bbc.com/news/articles/cy8plvqv60lo",
-            "published": "Wed, 05 Feb 2025 17:23:40 GMT"
         }
     ]
 }
