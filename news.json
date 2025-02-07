@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Cloudflare reports Q4 revenue up 27% YoY to $459.9M, fiscal 2024 revenue up 29% YoY to $1.67B, and number of customers spending $1M+/year up 47% YoY to 173 (Cloudflare)",
+            "link": "http://www.techmeme.com/250207/p6#a250207p6",
+            "published": "Fri, 07 Feb 2025 05:10:00 -0500"
+        },
+        {
             "title": "Analysis: 736 memecoins were deposited in $TRUMP wallet over the past three weeks using a Solana function that allows dumping coins into wallets without consent (Financial Times)",
             "link": "http://www.techmeme.com/250207/p5#a250207p5",
             "published": "Fri, 07 Feb 2025 04:05:01 -0500"
@@ -19,11 +24,6 @@
             "title": "OpenAI updates o3-mini's chain of thought to make it easier for users \"to understand how the model thinks\", available to both free and paid ChatGPT users (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250207/p2#a250207p2",
             "published": "Fri, 07 Feb 2025 00:15:03 -0500"
-        },
-        {
-            "title": "Kadrey v. Meta: unsealed emails show Meta allegedly torrented 81.7TB+ of data across multiple shadow libraries through the site Anna's Archive for AI training (Ashley Belanger/Ars Technica)",
-            "link": "http://www.techmeme.com/250207/p1#a250207p1",
-            "published": "Fri, 07 Feb 2025 00:00:45 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok sued by parents of UK teens after alleged challenge deaths",
+            "link": "https://www.bbc.com/news/articles/c0lz2x60w46o",
+            "published": "Fri, 07 Feb 2025 10:21:35 GMT"
+        },
+        {
             "title": "Concern UK's AI ambitions could lead to water shortages",
             "link": "https://www.bbc.com/news/articles/ce85wx9jjndo",
             "published": "Fri, 07 Feb 2025 01:48:21 GMT"
@@ -73,11 +78,6 @@
             "title": "Reddit community banned as user spat with Musk intensifies",
             "link": "https://www.bbc.com/news/articles/czrlep5xpmzo",
             "published": "Wed, 05 Feb 2025 18:00:05 GMT"
-        },
-        {
-            "title": "The monthly AI or real quiz: February 2025",
-            "link": "https://www.bbc.co.uk/bitesize/articles/zfpt9ty",
-            "published": "Fri, 31 Jan 2025 12:31:42 GMT"
         }
     ]
 }
