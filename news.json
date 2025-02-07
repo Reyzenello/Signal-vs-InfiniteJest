@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft, Alphabet, Amazon, and Meta reported combined capex of $246B in 2024, up 63% YoY from $151B, with 2025 forecasts exceeding $320B (Financial Times)",
+            "title": "Sources: Ilya Sutskever's Safe Superintelligence is in talks to raise funding at a valuation of $20B+, up from a $5B valuation from its September funding round (Reuters)",
+            "link": "http://www.techmeme.com/250207/p17#a250207p17",
+            "published": "Fri, 07 Feb 2025 11:15:03 -0500"
+        },
+        {
+            "title": "Paris prosecutors open a probe into X over alleged algorithmic distortions, after an MP's complaint that X was using biased algorithms (Dominique Vidalon/Reuters)",
+            "link": "http://www.techmeme.com/250207/p16#a250207p16",
+            "published": "Fri, 07 Feb 2025 10:45:01 -0500"
+        },
+        {
+            "title": "Microsoft, Alphabet, Amazon, and Meta reported a combined $246B capex in 2024, up 63% YoY from $151B, and forecast that their 2025 spending could exceed $320B (Financial Times)",
             "link": "http://www.techmeme.com/250207/p15#a250207p15",
             "published": "Fri, 07 Feb 2025 10:10:03 -0500"
         },
@@ -11,19 +21,9 @@
             "published": "Fri, 07 Feb 2025 09:30:01 -0500"
         },
         {
-            "title": "WBD lost $300M on gaming in 2024; current and former staffers blame a lack of a strong, cohesive vision during former games chief David Haddad's tenure (Jason Schreier/Bloomberg)",
+            "title": "WBD took $300M in gaming writedowns in 2024; current and former staff blame a lack of a strong, cohesive vision during former games chief David Haddad's tenure (Jason Schreier/Bloomberg)",
             "link": "http://www.techmeme.com/250207/p13#a250207p13",
             "published": "Fri, 07 Feb 2025 08:35:01 -0500"
-        },
-        {
-            "title": "Microsoft warns that attackers are injecting malware into ViewState, which manages state in ASP.NET web forms, using static machine keys found online (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/250207/p12#a250207p12",
-            "published": "Fri, 07 Feb 2025 08:00:49 -0500"
-        },
-        {
-            "title": "Google has edited Gemini's response in a Super Bowl commercial after it was found to contain false information about Gouda cheese (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250207/p11#a250207p11",
-            "published": "Fri, 07 Feb 2025 07:20:01 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "UK demands access to Apple users' encrypted data",
             "link": "https://www.bbc.com/news/articles/c20g288yldko",
-            "published": "Fri, 07 Feb 2025 14:33:52 GMT"
+            "published": "Fri, 07 Feb 2025 15:27:49 GMT"
         },
         {
             "title": "TikTok sued by parents of UK teens after alleged challenge deaths",
