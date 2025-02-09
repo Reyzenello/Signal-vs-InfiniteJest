@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at WikiTok, a site that lets users vertically swipe through an endless stream of random Wikipedia article stubs without algorithmically tracking the user (Benj Edwards/Ars Technica)",
+            "link": "http://www.techmeme.com/250209/p8#a250209p8",
+            "published": "Sun, 09 Feb 2025 09:35:03 -0500"
+        },
+        {
             "title": "An analysis of US DOL data: the IT sector unemployment rate rose from 3.9% in December to 5.7% in January, with the number of unemployed rising from 98K to 152K (Belle Lin/Wall Street Journal)",
             "link": "http://www.techmeme.com/250209/p7#a250209p7",
             "published": "Sun, 09 Feb 2025 08:10:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Source: TikTok CEO Shou Chew proposed to senior White House officials a US-based joint venture between US investors and TikTok that would oversee data security (Wall Street Journal)",
             "link": "http://www.techmeme.com/250209/p4#a250209p4",
             "published": "Sun, 09 Feb 2025 01:50:01 -0500"
-        },
-        {
-            "title": "Data from crypto security company Coinkite shows 78 listed companies globally are following MicroStrategy's example in buying bitcoin to hold in place of cash (Nikou Asgari/Financial Times)",
-            "link": "http://www.techmeme.com/250209/p3#a250209p3",
-            "published": "Sun, 09 Feb 2025 01:10:01 -0500"
         }
     ],
     "source_1": [
