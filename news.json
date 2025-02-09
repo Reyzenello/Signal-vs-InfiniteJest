@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Meta shares work on a system that uses a magnetic scanner and a deep neural network to analyze brain signals and identify which keys people pressed while typing (Antonio Regalado/MIT Technology Review)",
+            "link": "http://www.techmeme.com/250208/p18#a250208p18",
+            "published": "Sat, 08 Feb 2025 19:10:01 -0500"
+        },
+        {
             "title": "PitchBook: almost 66% of VC funding in Europe came from abroad in 2024; no European company with &euro;100B+ in market cap has been built from scratch in 30 years (Bloomberg)",
             "link": "http://www.techmeme.com/250208/p17#a250208p17",
             "published": "Sat, 08 Feb 2025 17:10:00 -0500"
@@ -19,14 +24,24 @@
             "title": "Leaked draft: the statement set to be signed at the Paris AI Action Summit barely mentions AI risks and fails to follow up on commitments from previous Summits (Shakeel Hashim/Transformer)",
             "link": "http://www.techmeme.com/250208/p14#a250208p14",
             "published": "Sat, 08 Feb 2025 14:20:02 -0500"
-        },
-        {
-            "title": "DeepSeek R1 is more susceptible to jailbreaking than ChatGPT, Gemini, and Claude; it can instruct on a bioweapon attack, write a pro-Hitler manifesto, and more (Sam Schechner/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250208/p13#a250208p13",
-            "published": "Sat, 08 Feb 2025 13:25:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How Sam Altman Sidestepped Elon Musk to Win Over Donald Trump",
+            "link": "https://www.nytimes.com/2025/02/08/technology/sam-altman-elon-musk-trump.html",
+            "published": "Sat, 08 Feb 2025 19:47:24 +0000"
+        },
+        {
+            "title": "Microsoft and Nvidia Take a Quieter Approach to Trump",
+            "link": "https://www.nytimes.com/2025/02/08/technology/microsoft-nvidia-trump.html",
+            "published": "Sat, 08 Feb 2025 10:00:57 +0000"
+        },
+        {
+            "title": "Big Tech Keeps Its A.I. Data Center Spending Boom Alive",
+            "link": "https://www.nytimes.com/2025/02/08/technology/deepseek-data-centers-ai.html",
+            "published": "Sat, 08 Feb 2025 08:00:28 +0000"
+        },
         {
             "title": "Right-Wing Crusade Against USAID Has Been Fueled by Falsehoods",
             "link": "https://www.nytimes.com/2025/02/07/business/usaid-conspiracy-theories-disinformation.html",
@@ -36,21 +51,6 @@
             "title": "A.I. Military Start-Up Anduril Close to Deal That Would Value It at $28 Billion",
             "link": "https://www.nytimes.com/2025/02/07/technology/anduril-funding-valuation-28-billion.html",
             "published": "Sat, 08 Feb 2025 01:49:14 +0000"
-        },
-        {
-            "title": "OpenAI Close to Deal that Values Company at $300 Billion",
-            "link": "https://www.nytimes.com/2025/02/07/technology/openai-softbank-investment.html",
-            "published": "Fri, 07 Feb 2025 19:16:25 +0000"
-        },
-        {
-            "title": "Amazon Reports 88% Rise in Profits but Says Growth Could Slow",
-            "link": "https://www.nytimes.com/2025/02/06/technology/amazon-earnings-profits.html",
-            "published": "Thu, 06 Feb 2025 23:38:09 +0000"
-        },
-        {
-            "title": "How Sam Altman Sidestepped Elon Musk to Win Over Donald Trump",
-            "link": "https://www.nytimes.com/2025/02/08/technology/sam-altman-elon-musk-trump.html",
-            "published": "Sat, 08 Feb 2025 19:47:24 +0000"
         }
     ],
     "source_2": [
