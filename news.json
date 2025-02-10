@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: OpenAI is finalizing its first in-house chip design in the next few months, to cut its Nvidia reliance, and plans to send it for fabrication at TSMC (Reuters)",
+            "link": "http://www.techmeme.com/250210/p13#a250210p13",
+            "published": "Mon, 10 Feb 2025 08:15:01 -0500"
+        },
+        {
+            "title": "Inside Binance compliance boss and ex-IRS agent Tigran Gambaryan's imprisonment in Nigeria, relayed via texts from a secret phone, over money laundering charges (Andy Greenberg/Wired)",
+            "link": "http://www.techmeme.com/250210/p12#a250210p12",
+            "published": "Mon, 10 Feb 2025 08:05:00 -0500"
+        },
+        {
+            "title": "Polymarket Analytics: users put $1.1B in volume on the outcome of the Super Bowl despite regulatory hurdles; one trader made a $550K profit from Eagles bets (Sam Reynolds/CoinDesk)",
+            "link": "http://www.techmeme.com/250210/p11#a250210p11",
+            "published": "Mon, 10 Feb 2025 07:55:00 -0500"
+        },
+        {
             "title": "An interview with Arm CEO Rene Haas on DeepSeek, why it isn't AI's \"Sputnik moment\" but is \"a big deal\", how DeepSeek will \"get shut down\" by the US, and more (Matthew Garrahan/Financial Times)",
             "link": "http://www.techmeme.com/250210/p10#a250210p10",
             "published": "Mon, 10 Feb 2025 07:35:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Sources: China is building a list of US tech firms to target in a trade war, including Broadcom and Synopsys, whose $35B acquisition needs Beijing's approval (Wall Street Journal)",
             "link": "http://www.techmeme.com/250210/p9#a250210p9",
             "published": "Mon, 10 Feb 2025 07:20:02 -0500"
-        },
-        {
-            "title": "Taiwanese government data: exports to Mexico surged 479% YoY to $2.7B in January 2025, led by GPU shipments, as Foxconn, Wistron, and more build fabs in Mexico (Bloomberg)",
-            "link": "http://www.techmeme.com/250210/p8#a250210p8",
-            "published": "Mon, 10 Feb 2025 07:00:47 -0500"
-        },
-        {
-            "title": "Nokia names Justin Hotard, who currently leads Intel's Data Center and AI operations, as its CEO starting April 1, as it focuses on data centers to drive growth (Dominic Chopping/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250210/p7#a250210p7",
-            "published": "Mon, 10 Feb 2025 06:40:00 -0500"
-        },
-        {
-            "title": "After the Los Angeles fires, over 1M people donated $250M+ via GoFundMe, or $20M more than the service collected for all natural disasters worldwide in 2024 (New York Times)",
-            "link": "http://www.techmeme.com/250210/p6#a250210p6",
-            "published": "Mon, 10 Feb 2025 06:20:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Macron shares his deepfakes for AI summit attention",
+            "link": "https://www.bbc.com/news/articles/c3e1kne7q1qo",
+            "published": "Mon, 10 Feb 2025 13:11:43 GMT"
+        },
+        {
             "title": "China's ex-UK ambassador clashes with 'AI godfather' on panel",
             "link": "https://www.bbc.com/news/articles/cly7lneqj5xo",
             "published": "Mon, 10 Feb 2025 03:55:19 GMT"
@@ -73,11 +78,6 @@
             "title": "UK demands access to Apple users' encrypted data",
             "link": "https://www.bbc.com/news/articles/c20g288yldko",
             "published": "Fri, 07 Feb 2025 15:27:49 GMT"
-        },
-        {
-            "title": "Concern UK's AI ambitions could lead to water shortages",
-            "link": "https://www.bbc.com/news/articles/ce85wx9jjndo",
-            "published": "Fri, 07 Feb 2025 01:48:21 GMT"
         }
     ]
 }
