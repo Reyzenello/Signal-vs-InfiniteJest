@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A study found that phishing tests and other training programs designed to educate employees about online dangers reduced phishing success rates by just 2% (Robert McMillan/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250210/p1#a250210p1",
+            "published": "Mon, 10 Feb 2025 02:30:00 -0500"
+        },
+        {
             "title": "Sources: Shein asked some top apparel suppliers in China to set up new production lines in Vietnam, with incentives like higher procurement prices of up to 30% (Bloomberg)",
             "link": "http://www.techmeme.com/250209/p17#a250209p17",
             "published": "Sun, 09 Feb 2025 23:40:00 -0500"
@@ -19,11 +24,6 @@
             "title": "A look at the debate over how much authors should get paid for licensing books to train AI; Microsoft offered HarperCollins $5K/title, of which authors get 50% (Alice Robb/Bloomberg)",
             "link": "http://www.techmeme.com/250209/p14#a250209p14",
             "published": "Sun, 09 Feb 2025 20:10:01 -0500"
-        },
-        {
-            "title": "Observations on AI and how it may change society, the likely uneven impact of AGI, which could mess up the balance of power between capital and labor, and more (Sam Altman)",
-            "link": "http://www.techmeme.com/250209/p13#a250209p13",
-            "published": "Sun, 09 Feb 2025 18:35:00 -0500"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "What DeepSeek\u2019s Success Tells Us About China\u2019s Ability to Nurture Talent",
             "link": "https://www.nytimes.com/2025/02/10/world/asia/china-deepseek-education.html",
-            "published": "Mon, 10 Feb 2025 05:01:06 +0000"
+            "published": "Mon, 10 Feb 2025 07:58:33 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "China's ex-UK ambassador clashes with 'AI godfather' on panel",
             "link": "https://www.bbc.com/news/articles/cly7lneqj5xo",
             "published": "Mon, 10 Feb 2025 03:55:19 GMT"
+        },
+        {
+            "title": "PlayStation Network back online, firm says",
+            "link": "https://www.bbc.com/news/articles/c5yezew49k4o",
+            "published": "Sun, 09 Feb 2025 08:57:11 GMT"
         },
         {
             "title": "Parents suing TikTok over children's deaths say it 'has no compassion'",
@@ -73,11 +78,6 @@
             "title": "Concern UK's AI ambitions could lead to water shortages",
             "link": "https://www.bbc.com/news/articles/ce85wx9jjndo",
             "published": "Fri, 07 Feb 2025 01:48:21 GMT"
-        },
-        {
-            "title": "Google remakes Super Bowl ad after AI cheese gaffe",
-            "link": "https://www.bbc.com/news/articles/cx2j15r1g09o",
-            "published": "Thu, 06 Feb 2025 13:31:58 GMT"
         }
     ]
 }
