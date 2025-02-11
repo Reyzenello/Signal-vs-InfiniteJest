@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "A profile of Tom Krause, the CEO of Cloud Software Group, which runs government software security company Citrix, as he works with DOGE to cut federal staff (Bloomberg)",
+            "link": "http://www.techmeme.com/250211/p5#a250211p5",
+            "published": "Tue, 11 Feb 2025 06:15:01 -0500"
+        },
+        {
+            "title": "Paris AI summit: US VP JD Vance warns the EU that excessive AI regulation could strangle the tech and rejects content moderation as \"authoritarian censorship\" (Reuters)",
+            "link": "http://www.techmeme.com/250211/p4#a250211p4",
+            "published": "Tue, 11 Feb 2025 06:05:01 -0500"
+        },
+        {
+            "title": "At the AI Action Summit in Paris, EU Commission President Ursula von der Leyen says the bloc plans to mobilize &euro;200B to invest in AI to catch the US and China (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250211/p3#a250211p3",
+            "published": "Tue, 11 Feb 2025 05:55:02 -0500"
+        },
+        {
+            "title": "Sam Altman says \"OpenAI is not for sale\" and \"OpenAI's mission is not for sale\", especially to \"a competitor who is not able to beat us in the market\" (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/250211/p2#a250211p2",
+            "published": "Tue, 11 Feb 2025 05:40:03 -0500"
+        },
+        {
             "title": "In a January paper, three computer scientists presented a faster hash table, one of the oldest data structures, disproving a 40-year-old data science conjecture (Steve Nadis/Quanta Magazine)",
             "link": "http://www.techmeme.com/250211/p1#a250211p1",
             "published": "Tue, 11 Feb 2025 02:10:00 -0500"
-        },
-        {
-            "title": "Huawei's Watch D2 sees a sales bump in China after users discovered it can be registered as a medical device, letting them purchase the D2 via medical insurance (Karoline Kan/Bloomberg)",
-            "link": "http://www.techmeme.com/250210/p33#a250210p33",
-            "published": "Mon, 10 Feb 2025 23:35:00 -0500"
-        },
-        {
-            "title": "Cybereason CEO Eric Gan sues investors Steven Mnuchin and SoftBank Vision Fund, alleging they put Cybereason at risk of bankruptcy by blocking fundraising plans (Bloomberg)",
-            "link": "http://www.techmeme.com/250210/p32#a250210p32",
-            "published": "Mon, 10 Feb 2025 21:55:00 -0500"
-        },
-        {
-            "title": "Source: Shopify tells support staff to give \"no comment\" if merchant clients asked about Kanye West using its tech to sell a T-shirt with a Nazi swastika (The Logic)",
-            "link": "http://www.techmeme.com/250210/p31#a250210p31",
-            "published": "Mon, 10 Feb 2025 20:45:01 -0500"
-        },
-        {
-            "title": "In response to the $97.4B OpenAI bid, Sam Altman says on X \"no thank you but we will buy twitter for $9.74 billion if you want\"; Elon Musk replies \"swindler\" (The Hill)",
-            "link": "http://www.techmeme.com/250210/p30#a250210p30",
-            "published": "Mon, 10 Feb 2025 20:10:01 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,19 @@
     ],
     "source_2": [
         {
+            "title": "AI chatbots unable to accurately summarise news, BBC finds",
+            "link": "https://www.bbc.com/news/articles/c0m17d8827ko",
+            "published": "Tue, 11 Feb 2025 10:33:06 GMT"
+        },
+        {
             "title": "ChatGPT boss says no thanks to Elon Musk-led $97bn bid",
             "link": "https://www.bbc.com/news/articles/cpdx75zgg88o",
             "published": "Tue, 11 Feb 2025 08:54:55 GMT"
+        },
+        {
+            "title": "Data of four dead British teens may have been removed, says TikTok",
+            "link": "https://www.bbc.com/news/articles/c5yv4j8rzzzo",
+            "published": "Tue, 11 Feb 2025 10:22:21 GMT"
         },
         {
             "title": "Macron shares his deepfakes for AI summit attention",
@@ -68,16 +78,6 @@
             "title": "China's ex-UK ambassador clashes with 'AI godfather' on panel",
             "link": "https://www.bbc.com/news/articles/cly7lneqj5xo",
             "published": "Mon, 10 Feb 2025 03:55:19 GMT"
-        },
-        {
-            "title": "PlayStation Network back online, firm says",
-            "link": "https://www.bbc.com/news/articles/c5yezew49k4o",
-            "published": "Sun, 09 Feb 2025 08:57:11 GMT"
-        },
-        {
-            "title": "Parents suing TikTok over children's deaths say it 'has no compassion'",
-            "link": "https://www.bbc.com/news/articles/c20pyn55v79o",
-            "published": "Sat, 08 Feb 2025 18:49:21 GMT"
         }
     ]
 }
