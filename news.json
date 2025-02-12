@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "In the past few weeks, the Trump administration replaced the CIOs of the OMB, OPM, and Department of Energy with Elon Musk- and Peter Thiel-aligned executives (Makena Kelly/Wired)",
-            "link": "http://www.techmeme.com/250212/p24#a250212p24",
-            "published": "Wed, 12 Feb 2025 10:25:01 -0500"
+            "title": "Snowflake and Anthropic partner to integrate Claude 3.5 Sonnet into Snowflake's new Cortex Agents platform, embedding AI agents in corporate data environments (Michael Nu&ntilde;ez/VentureBeat)",
+            "link": "http://www.techmeme.com/250212/p29#a250212p29",
+            "published": "Wed, 12 Feb 2025 11:20:01 -0500"
         },
         {
-            "title": "Google CEO Sundar Pichai says quantum computers that are \"practically useful\" are five to 10 years away, and quantum \"reminds me of where AI was in the 2010s\" (Marissa Newman/Bloomberg)",
-            "link": "http://www.techmeme.com/250212/p23#a250212p23",
-            "published": "Wed, 12 Feb 2025 10:10:01 -0500"
+            "title": "A survey of attendees at the WSJ's CIO Network Summit: 61% are experimenting with AI agents, but 21% are not using them at all, citing reliability concerns (Belle Lin/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250212/p28#a250212p28",
+            "published": "Wed, 12 Feb 2025 11:10:01 -0500"
         },
         {
-            "title": "DOGE accessing Treasury systems and classified data breaks a fundamental security principle and could help the US' adversaries steal data and install backdoors (Foreign Policy)",
-            "link": "http://www.techmeme.com/250212/p22#a250212p22",
-            "published": "Wed, 12 Feb 2025 09:55:01 -0500"
+            "title": "Trump nominates Apple exec Jonathan Morrison to NHTSA; Morrison was NHTSA's chief counsel in Trump's first term and told Tesla it made inaccurate safety claims (David Shepardson/Reuters)",
+            "link": "http://www.techmeme.com/250212/p27#a250212p27",
+            "published": "Wed, 12 Feb 2025 10:55:00 -0500"
         },
         {
-            "title": "Apple partners with Brigham and Women's Hospital to launch a voluntary, virtual five-year Apple Health Study in its Research app, open to iPhone users in the US (Caroline Igo/CNET)",
-            "link": "http://www.techmeme.com/250212/p21#a250212p21",
-            "published": "Wed, 12 Feb 2025 09:25:00 -0500"
+            "title": "Sam Altman says OpenAI plans to give 10 Deep Research queries per month to its $20/month ChatGPT Plus users and two per month to its ChatGPT free users (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/250212/p26#a250212p26",
+            "published": "Wed, 12 Feb 2025 10:40:00 -0500"
         },
         {
-            "title": "Adobe launches Generate Video in public beta via its re-designed Firefly web app, alongside new image generation, translation, and AI credit subscription tiers (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250212/p20#a250212p20",
-            "published": "Wed, 12 Feb 2025 09:20:01 -0500"
+            "title": "Source: the Trump administration is releasing cybercriminal Alexander Vinnik to Russia in exchange for the US retrieving the American schoolteacher Marc Fogel (Charlie Savage/New York Times)",
+            "link": "http://www.techmeme.com/250212/p25#a250212p25",
+            "published": "Wed, 12 Feb 2025 10:30:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How Did DeepSeek Build Its A.I. With Less Money?",
+            "link": "https://www.nytimes.com/2025/02/12/technology/deepseek-ai-chip-costs.html",
+            "published": "Wed, 12 Feb 2025 10:02:24 +0000"
+        },
         {
             "title": "Elon Musk\u2019s Business Empire Scores Benefits Under Trump Shake-Up",
             "link": "https://www.nytimes.com/2025/02/11/us/politics/elon-musk-companies-conflicts.html",
@@ -38,19 +43,14 @@
             "published": "Wed, 12 Feb 2025 00:37:34 +0000"
         },
         {
-            "title": "Silicon Valley is Embracing Christianity (With the Help of Peter Thiel)",
-            "link": "https://www.nytimes.com/2025/02/11/business/silicon-valley-christianity.html",
-            "published": "Tue, 11 Feb 2025 22:26:12 +0000"
-        },
-        {
-            "title": "Vance, in First Foreign Speech, Tells Europe That U.S. Will Dominate A.I.",
-            "link": "https://www.nytimes.com/2025/02/11/world/europe/vance-speech-paris-ai-summit.html",
-            "published": "Tue, 11 Feb 2025 21:01:26 +0000"
-        },
-        {
             "title": "Digital Estate Planning: How to Prepare Your Social Media Accounts",
             "link": "https://www.nytimes.com/2025/02/12/technology/personaltech/social-media-accounts-death.html",
             "published": "Wed, 12 Feb 2025 14:00:10 +0000"
+        },
+        {
+            "title": "Ford Chief Executive Says Trump Policies May Lead to Layoffs",
+            "link": "https://www.nytimes.com/2025/02/11/business/ford-trump-tariffs-electric-vehicles.html",
+            "published": "Tue, 11 Feb 2025 21:13:36 +0000"
         }
     ],
     "source_2": [
