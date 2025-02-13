@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Dominion Energy says data center power demand in Virginia, home to Data Center Alley, almost doubled in H2 2024, rising to 40.2 gigawatts in December 2024 (Josh Saul/Bloomberg)",
+            "link": "http://www.techmeme.com/250213/p16#a250213p16",
+            "published": "Thu, 13 Feb 2025 06:15:01 -0500"
+        },
+        {
+            "title": "Sony reports PlayStation 5 sales in Q3 were 9.5M, the best quarter since its launch, and hits 75M total PS5 sales; MAUs across its platform rose 43% YoY to 129M (Andy Robinson/Video Games Chronicle)",
+            "link": "http://www.techmeme.com/250213/p15#a250213p15",
+            "published": "Thu, 13 Feb 2025 05:50:01 -0500"
+        },
+        {
+            "title": "Elon Musk and right-wing influencers redefine \"doxxing\" to include reporting on government employees; free speech advocates say they aim to intimidate the press (Ken Bensinger/New York Times)",
+            "link": "http://www.techmeme.com/250213/p14#a250213p14",
+            "published": "Thu, 13 Feb 2025 05:35:00 -0500"
+        },
+        {
             "title": "Experts say Southeast Asian students in Taiwan's work-study programs often end up as low-paid labor in the chip industry under the guise of \"practical training\" (Hsiuwen Liu/Rest of World)",
             "link": "http://www.techmeme.com/250213/p13#a250213p13",
             "published": "Thu, 13 Feb 2025 05:05:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Sony reports Q3 revenue up 18% YoY to $28.6B, operating income up 1% YoY to $3.05B, and gaming revenue up 16% YoY to $10.92B, driven by strong PS5 sales (Naman Ramachandran/Variety)",
             "link": "http://www.techmeme.com/250213/p12#a250213p12",
             "published": "Thu, 13 Feb 2025 03:01:27 -0500"
-        },
-        {
-            "title": "DeepSeek signals India's last chance to back foundational tech via state-funded research, as its private sector remains too risk-averse to lead AI innovation (Andy Mukherjee/Bloomberg)",
-            "link": "http://www.techmeme.com/250213/p11#a250213p11",
-            "published": "Thu, 13 Feb 2025 02:55:01 -0500"
-        },
-        {
-            "title": "SoftBank-backed P2P vehicle sharing service Getaround is shutting down US operations, including HyreCar, to focus on Europe, where it operates in six countries (Kirsten Korosec/TechCrunch)",
-            "link": "http://www.techmeme.com/250213/p10#a250213p10",
-            "published": "Thu, 13 Feb 2025 02:45:03 -0500"
-        },
-        {
-            "title": "Alibaba Chair Joe Tsai says Apple will use the Chinese tech giant's AI technology on iPhones sold in China, speaking at the World Government Summit in Dubai (Vlad Savov/Bloomberg)",
-            "link": "http://www.techmeme.com/250213/p9#a250213p9",
-            "published": "Thu, 13 Feb 2025 02:35:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Unofficial TikTok downloads surge in the US",
+            "link": "https://www.bbc.com/news/articles/cqldw5y4y0no",
+            "published": "Thu, 13 Feb 2025 10:52:34 GMT"
+        },
+        {
             "title": "Ex-Google boss fears AI could be used by terrorists",
             "link": "https://www.bbc.com/news/articles/c5y6eq2zxlno",
             "published": "Thu, 13 Feb 2025 00:54:04 GMT"
@@ -73,11 +78,6 @@
             "title": "UK and US refuse to sign international AI declaration",
             "link": "https://www.bbc.com/news/articles/c8edn0n58gwo",
             "published": "Tue, 11 Feb 2025 17:38:07 GMT"
-        },
-        {
-            "title": "AI chatbots unable to accurately summarise news, BBC finds",
-            "link": "https://www.bbc.com/news/articles/c0m17d8827ko",
-            "published": "Tue, 11 Feb 2025 16:20:56 GMT"
         }
     ]
 }
