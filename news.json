@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple's overhaul of Siri faces engineering problems and software bugs; some features, planned for April, may have to be postponed until May or later (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250214/p28#a250214p28",
+            "published": "Fri, 14 Feb 2025 17:12:52 -0500"
+        },
+        {
+            "title": "OpenAI's board rejects the $97.4B bid by Elon Musk and a consortium of investors, saying they reject \"Musk's latest attempt to disrupt his competition\" (Cade Metz/New York Times)",
+            "link": "http://www.techmeme.com/250214/p27#a250214p27",
+            "published": "Fri, 14 Feb 2025 16:40:01 -0500"
+        },
+        {
+            "title": "Meta announces Project Waterworth, a subsea cable project that will span over 50,000 km and connect five continents (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/250214/p26#a250214p26",
+            "published": "Fri, 14 Feb 2025 16:25:04 -0500"
+        },
+        {
             "title": "Google deactivates an Android feature that crowdsources device sensor data to provide earthquake warnings in Brazil after mistakenly sending notifications (Taylor Kerns/Android Police)",
             "link": "http://www.techmeme.com/250214/p25#a250214p25",
             "published": "Fri, 14 Feb 2025 15:45:01 -0500"
@@ -9,24 +24,14 @@
             "title": "Source: xAI is canvassing potential investors, including Sequoia Capital and a16z, for a roughly $10B funding round that would value the company at about $75B (Gillian Tan/Bloomberg)",
             "link": "http://www.techmeme.com/250214/p24#a250214p24",
             "published": "Fri, 14 Feb 2025 14:55:04 -0500"
-        },
-        {
-            "title": "Source: TSMC is considering taking a controlling stake in Intel's factories at the request of Trump's team; it is unclear whether Intel is open to a transaction (Bloomberg)",
-            "link": "http://www.techmeme.com/250214/p23#a250214p23",
-            "published": "Fri, 14 Feb 2025 14:50:01 -0500"
-        },
-        {
-            "title": "The AI Action Summit in Paris was all about investment and competition as the Trump administration made even a token acknowledgment of AI safety unacceptable (Madeline Renbarger/Newcomer)",
-            "link": "http://www.techmeme.com/250214/p22#a250214p22",
-            "published": "Fri, 14 Feb 2025 14:35:00 -0500"
-        },
-        {
-            "title": "Sources: Dell nears a $5B deal to provide servers with Nvidia's GB200 chips for xAI's supercomputer project in Memphis (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/250214/p21#a250214p21",
-            "published": "Fri, 14 Feb 2025 13:50:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Rejects Elon Musk\u2019s Bid to Gain Control of the Company",
+            "link": "https://www.nytimes.com/2025/02/14/technology/openai-elon-musk.html",
+            "published": "Fri, 14 Feb 2025 22:16:07 +0000"
+        },
         {
             "title": "Apple and Google Restore TikTok to App Stores in the U.S.",
             "link": "https://www.nytimes.com/2025/02/13/technology/tiktok-apple-google-app-stores.html",
@@ -36,11 +41,6 @@
             "title": "Banks Sell $4.7 Billion of X\u2019s Debt, in a Sign of Investor Demand",
             "link": "https://www.nytimes.com/2025/02/13/technology/elon-musk-x-debt-sale.html",
             "published": "Fri, 14 Feb 2025 03:25:45 +0000"
-        },
-        {
-            "title": "Elon Musk Says He Will Drop OpenAI Bid if Company Keeps Corporate Structure",
-            "link": "https://www.nytimes.com/2025/02/13/technology/elon-musk-openai-nonprofit.html",
-            "published": "Thu, 13 Feb 2025 19:20:54 +0000"
         },
         {
             "title": "A.I. Accelerates in Paris + Can A.I. Fix Your Love Life?",
