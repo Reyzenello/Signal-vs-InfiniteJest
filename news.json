@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Mark Zuckerberg's overtures to President Trump have unsettled employees and are part of an effort to shift antitrust scrutiny off Meta and onto Apple (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/250214/p7#a250214p7",
+            "published": "Fri, 14 Feb 2025 07:40:01 -0500"
+        },
+        {
             "title": "The doge.gov website tracking Elon Musk's cuts to the federal government pulls from a database editable by anyone, say two sources who found the vulnerability (Jason Koebler/404 Media)",
             "link": "http://www.techmeme.com/250214/p6#a250214p6",
             "published": "Fri, 14 Feb 2025 06:05:05 -0500"
@@ -19,11 +24,6 @@
             "title": "Sources: Shein's UK IPO may be delayed to H2 2025 after President Trump's tariff crackdown; Shein had told investors a London IPO could happen by Easter (Financial Times)",
             "link": "http://www.techmeme.com/250214/p3#a250214p3",
             "published": "Fri, 14 Feb 2025 02:05:01 -0500"
-        },
-        {
-            "title": "London-based OneID, which provides bank-verified digital ID services, raised &pound;16M led by ACF Investors, with participation from over 200 angel investors (PYMNTS.com)",
-            "link": "http://www.techmeme.com/250214/p2#a250214p2",
-            "published": "Fri, 14 Feb 2025 00:55:02 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 13 Feb 2025 00:35:32 +0000"
         },
         {
-            "title": "What\u2019s Best, According to the Italian Mathematician Alessio Figalli",
-            "link": "https://www.nytimes.com/2025/02/14/science/mathematics-figalli-optimal-transport.html",
-            "published": "Fri, 14 Feb 2025 10:00:17 +0000"
+            "title": "A.I. Accelerates in Paris + Can A.I. Fix Your Love Life?",
+            "link": "https://www.nytimes.com/2025/02/14/podcasts/hardfork-ai-dating-apps.html",
+            "published": "Fri, 14 Feb 2025 12:00:05 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US politicians furious at UK demand for encrypted Apple data",
+            "link": "https://www.bbc.com/news/articles/c5yvn90pl5no",
+            "published": "Fri, 14 Feb 2025 11:23:07 GMT"
+        },
         {
             "title": "TikTok returns to Apple and Google app stores in the US",
             "link": "https://www.bbc.com/news/articles/c4g91kyjw07o",
@@ -73,11 +78,6 @@
             "title": "Ex-Google boss fears for AI 'Bin Laden scenario'",
             "link": "https://www.bbc.com/news/articles/c5y6eq2zxlno",
             "published": "Thu, 13 Feb 2025 11:37:31 GMT"
-        },
-        {
-            "title": "Law firm restricts AI after 'significant' staff use",
-            "link": "https://www.bbc.com/news/articles/cglyjn7le2ko",
-            "published": "Wed, 12 Feb 2025 00:04:01 GMT"
         }
     ]
 }
