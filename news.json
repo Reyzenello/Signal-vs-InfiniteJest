@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "New junior developers are reliant on Copilot, Claude, and other AI tools, meaning foundational coding knowledge is now missing, creating problems down the road (Namanyay Goel/N's Blog)",
+            "link": "http://www.techmeme.com/250217/p5#a250217p5",
+            "published": "Mon, 17 Feb 2025 06:05:01 -0500"
+        },
+        {
+            "title": "Chinese President Xi meets with Alibaba co-founder Jack Ma, Huawei founder Ren Zhengfei, and more, signaling Beijing's support for the long-marginalized sector (Bloomberg)",
+            "link": "http://www.techmeme.com/250217/p4#a250217p4",
+            "published": "Mon, 17 Feb 2025 05:45:01 -0500"
+        },
+        {
             "title": "An interview with Nadia Odunayo on building Goodreads alternative StoryGraph, remaining bootstrapped, reaching 3.8M active users, not allowing DMs, and more (David Barnett/The Guardian)",
             "link": "http://www.techmeme.com/250217/p3#a250217p3",
             "published": "Mon, 17 Feb 2025 04:35:01 -0500"
@@ -14,16 +24,6 @@
             "title": "A look at changes in the UK's CMA after its chair was forced to resign and the agency tries to reconcile its enhanced powers with government's pro-growth focus (Financial Times)",
             "link": "http://www.techmeme.com/250217/p1#a250217p1",
             "published": "Mon, 17 Feb 2025 00:35:01 -0500"
-        },
-        {
-            "title": "South Korea's data protection authority says DeepSeek app downloads have been suspended in the country after DeepSeek failed to follow its personal data rules (Reuters)",
-            "link": "http://www.techmeme.com/250216/p13#a250216p13",
-            "published": "Sun, 16 Feb 2025 22:25:01 -0500"
-        },
-        {
-            "title": "Documents: the NYT greenlights using select internal and external AI tools for editorial and product staff, including from OpenAI, Amazon, Google, and Microsoft (Max Tani/Semafor)",
-            "link": "http://www.techmeme.com/250216/p12#a250216p12",
-            "published": "Sun, 16 Feb 2025 21:25:00 -0500"
         }
     ],
     "source_1": [
@@ -70,14 +70,14 @@
             "published": "Mon, 17 Feb 2025 10:26:27 GMT"
         },
         {
-            "title": "Critics say new Google rules put profits over privacy",
-            "link": "https://www.bbc.com/news/articles/cm21g0052dno",
-            "published": "Sun, 16 Feb 2025 00:00:37 GMT"
-        },
-        {
             "title": "US politicians furious at UK demand for encrypted Apple data",
             "link": "https://www.bbc.com/news/articles/c5yvn90pl5no",
             "published": "Fri, 14 Feb 2025 11:23:07 GMT"
+        },
+        {
+            "title": "TikTok returns to Apple and Google app stores in the US",
+            "link": "https://www.bbc.com/news/articles/c4g91kyjw07o",
+            "published": "Fri, 14 Feb 2025 02:53:47 GMT"
         }
     ]
 }
