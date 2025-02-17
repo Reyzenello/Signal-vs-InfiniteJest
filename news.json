@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An interview with Nadia Odunayo on building Goodreads alternative StoryGraph, remaining bootstrapped, reaching 3.8M active users, not allowing DMs, and more (David Barnett/The Guardian)",
+            "link": "http://www.techmeme.com/250217/p3#a250217p3",
+            "published": "Mon, 17 Feb 2025 04:35:01 -0500"
+        },
+        {
             "title": "A look at the OpenEuroLLM project, a partnership among 20 EU organizations to develop open-source LLMs that support all EU languages, with a budget of &euro;37.4M (Paul Sawers/TechCrunch)",
             "link": "http://www.techmeme.com/250217/p2#a250217p2",
             "published": "Mon, 17 Feb 2025 02:25:00 -0500"
@@ -19,11 +24,6 @@
             "title": "Documents: the NYT greenlights using select internal and external AI tools for editorial and product staff, including from OpenAI, Amazon, Google, and Microsoft (Max Tani/Semafor)",
             "link": "http://www.techmeme.com/250216/p12#a250216p12",
             "published": "Sun, 16 Feb 2025 21:25:00 -0500"
-        },
-        {
-            "title": "A look at \"sim racing\", Formula One world champion Max Verstappen's passion for the competitive esport, and his efforts to get sim drivers into physical racing (Madeline Coleman/New York Times)",
-            "link": "http://www.techmeme.com/250216/p11#a250216p11",
-            "published": "Sun, 16 Feb 2025 16:35:01 -0500"
         }
     ],
     "source_1": [
@@ -67,7 +67,7 @@
         {
             "title": "S Korea removes Deepseek from app stores over privacy concerns",
             "link": "https://www.bbc.com/news/articles/clyzym0vn8go",
-            "published": "Mon, 17 Feb 2025 06:33:24 GMT"
+            "published": "Mon, 17 Feb 2025 10:26:27 GMT"
         },
         {
             "title": "Critics say new Google rules put profits over privacy",
