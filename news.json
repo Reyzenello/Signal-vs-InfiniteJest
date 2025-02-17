@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at the OpenEuroLLM project, a partnership among 20 EU organizations to develop open-source LLMs that support all EU languages, with a budget of &euro;37.4M (Paul Sawers/TechCrunch)",
+            "link": "http://www.techmeme.com/250217/p2#a250217p2",
+            "published": "Mon, 17 Feb 2025 02:25:00 -0500"
+        },
+        {
             "title": "A look at changes in the UK's CMA after its chair was forced to resign and the agency tries to reconcile its enhanced powers with government's pro-growth focus (Financial Times)",
             "link": "http://www.techmeme.com/250217/p1#a250217p1",
             "published": "Mon, 17 Feb 2025 00:35:01 -0500"
@@ -19,11 +24,6 @@
             "title": "A look at sim racing, Formula One world champion Max Verstappen's passion for the competitive esport, and his efforts to get sim drivers into physical racing (Madeline Coleman/New York Times)",
             "link": "http://www.techmeme.com/250216/p11#a250216p11",
             "published": "Sun, 16 Feb 2025 16:35:01 -0500"
-        },
-        {
-            "title": "Match's head of trust and safety, Yoel Roth, says Match is using AI in its apps, like Tinder, to detect men's \"off-color\" messages and drive \"behavioral change\" (Financial Times)",
-            "link": "http://www.techmeme.com/250216/p10#a250216p10",
-            "published": "Sun, 16 Feb 2025 14:00:31 -0500"
         }
     ],
     "source_1": [
@@ -55,29 +55,29 @@
     ],
     "source_2": [
         {
-            "title": "South Korea bans downloads of China's DeepSeek AI",
+            "title": "Can Musk damage OpenAI even though his bid has failed?",
+            "link": "https://www.bbc.com/news/articles/ce8yl47p4k3o",
+            "published": "Mon, 17 Feb 2025 03:50:48 GMT"
+        },
+        {
+            "title": "Critics say new Google rules put profits over privacy",
+            "link": "https://www.bbc.com/news/articles/cm21g0052dno",
+            "published": "Sun, 16 Feb 2025 00:00:37 GMT"
+        },
+        {
+            "title": "South Korea bans new DeepSeek AI downloads",
             "link": "https://www.bbc.com/news/articles/clyzym0vn8go",
             "published": "Mon, 17 Feb 2025 06:33:24 GMT"
+        },
+        {
+            "title": "Critics say new Google rules put profits over privacy",
+            "link": "https://www.bbc.com/news/articles/cm21g0052dno",
+            "published": "Sun, 16 Feb 2025 00:00:37 GMT"
         },
         {
             "title": "US politicians furious at UK demand for encrypted Apple data",
             "link": "https://www.bbc.com/news/articles/c5yvn90pl5no",
             "published": "Fri, 14 Feb 2025 11:23:07 GMT"
-        },
-        {
-            "title": "TikTok returns to Apple and Google app stores in the US",
-            "link": "https://www.bbc.com/news/articles/c4g91kyjw07o",
-            "published": "Fri, 14 Feb 2025 02:53:47 GMT"
-        },
-        {
-            "title": "Google Maps blocks Gulf of America reviews after rename criticism",
-            "link": "https://www.bbc.com/news/articles/crlky380wd7o",
-            "published": "Thu, 13 Feb 2025 17:20:22 GMT"
-        },
-        {
-            "title": "Unofficial TikTok downloads surge in the US",
-            "link": "https://www.bbc.com/news/articles/cqldw5y4y0no",
-            "published": "Thu, 13 Feb 2025 10:52:34 GMT"
         }
     ]
 }
