@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Analysis: Spotify, which reported its first annual profit in 2024, had just &euro;1.8B in ad revenue, 26% above 2022, while subscription revenue grew 35% to &euro;13.8B (Catherine Perloff/The Information)",
+            "link": "http://www.techmeme.com/250217/p12#a250217p12",
+            "published": "Mon, 17 Feb 2025 09:25:37 -0500"
+        },
+        {
             "title": "Dream, which offers cybersecurity tools to governments and critical infrastructure firms, raised $100M led by Bain at a $1.1B valuation, up from $190M in 2023 (Gillian Tan/Bloomberg)",
             "link": "http://www.techmeme.com/250217/p11#a250217p11",
             "published": "Mon, 17 Feb 2025 09:05:01 -0500"
@@ -19,11 +24,6 @@
             "title": "X appears to be blocking Signal's \"Signal.me\" links in DMs, posts, and profile pages, giving error messages and showing a warning page for users clicking them (Matt Binder/disruptionist)",
             "link": "http://www.techmeme.com/250217/p8#a250217p8",
             "published": "Mon, 17 Feb 2025 07:10:20 -0500"
-        },
-        {
-            "title": "An analysis of credit and debit card data shows TikTok Shop passed Shein and Temu in US sales in January 2025, growing 153% to Shein's 26% and Temu's 28% (Bloomberg)",
-            "link": "http://www.techmeme.com/250217/p7#a250217p7",
-            "published": "Mon, 17 Feb 2025 06:50:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Meta plans globe-spanning sub-sea internet cable",
+            "link": "https://www.bbc.com/news/articles/ckgrgz8271go",
+            "published": "Mon, 17 Feb 2025 14:47:23 GMT"
+        },
+        {
             "title": "Can Musk damage OpenAI even though his bid has failed?",
             "link": "https://www.bbc.com/news/articles/ce8yl47p4k3o",
             "published": "Mon, 17 Feb 2025 03:50:48 GMT"
@@ -73,11 +78,6 @@
             "title": "US politicians furious at UK demand for encrypted Apple data",
             "link": "https://www.bbc.com/news/articles/c5yvn90pl5no",
             "published": "Fri, 14 Feb 2025 11:23:07 GMT"
-        },
-        {
-            "title": "TikTok returns to Apple and Google app stores in the US",
-            "link": "https://www.bbc.com/news/articles/c4g91kyjw07o",
-            "published": "Fri, 14 Feb 2025 02:53:47 GMT"
         }
     ]
 }
