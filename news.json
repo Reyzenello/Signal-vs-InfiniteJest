@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Baidu reports Q4 revenue down 2% YoY to ~$4.7B, above $4.6B est., and a ~$717M net income, above ~$540M est., as its search and AI businesses face competition (Bloomberg)",
+            "link": "http://www.techmeme.com/250218/p6#a250218p6",
+            "published": "Tue, 18 Feb 2025 05:20:15 -0500"
+        },
+        {
             "title": "An interview with Shuhei Yoshida, who led PlayStation Studios from 2008-2019 and left Sony on January 15, on his 31 years at PlayStation, early days, and more (Dean Takahashi/VentureBeat)",
             "link": "http://www.techmeme.com/250218/p5#a250218p5",
             "published": "Tue, 18 Feb 2025 04:00:52 -0500"
@@ -19,11 +24,6 @@
             "title": "xAI unveils DeepSearch, a reasoning chatbot that explains its thought process for queries and is capable of doing research, brainstorming, and data analysis (Amy Thomson/Bloomberg)",
             "link": "http://www.techmeme.com/250218/p2#a250218p2",
             "published": "Tue, 18 Feb 2025 00:45:00 -0500"
-        },
-        {
-            "title": "xAI launches Grok3 beta and Grok3 mini, its latest AI models with reasoning capabilities, trained on \"10x\" more compute than Grok2, for X Premium+ subscribers (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250218/p1#a250218p1",
-            "published": "Tue, 18 Feb 2025 00:21:40 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "The quest for video games that don't overstay their welcome",
+            "link": "https://www.bbc.com/news/articles/czxklzlxxwyo",
+            "published": "Tue, 18 Feb 2025 09:24:10 GMT"
+        },
+        {
             "title": "Argentina president faces impeachment calls over crypto crash",
             "link": "https://www.bbc.com/news/articles/cp9x9j89evxo",
             "published": "Mon, 17 Feb 2025 16:30:54 GMT"
@@ -73,11 +78,6 @@
             "title": "Critics say new Google rules put profits over privacy",
             "link": "https://www.bbc.com/news/articles/cm21g0052dno",
             "published": "Sun, 16 Feb 2025 00:00:37 GMT"
-        },
-        {
-            "title": "S Korea removes Deepseek from app stores over privacy concerns",
-            "link": "https://www.bbc.com/news/articles/clyzym0vn8go",
-            "published": "Mon, 17 Feb 2025 10:26:27 GMT"
         }
     ]
 }
