@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources describe disputes at Google between Google Labs and Workspace before NotebookLM's launch and between Google Cloud and DeepMind over the pace of launches (Erin Woo/The Information)",
+            "link": "http://www.techmeme.com/250218/p22#a250218p22",
+            "published": "Tue, 18 Feb 2025 14:25:01 -0500"
+        },
+        {
             "title": "Former OpenAI CTO Mira Murati announces Thinking Machines Lab, a new AI startup that she's leading, with Barret Zoph as CTO and John Schulman as chief scientist (Ina Fried/Axios)",
             "link": "http://www.techmeme.com/250218/p21#a250218p21",
             "published": "Tue, 18 Feb 2025 13:47:49 -0500"
@@ -19,23 +24,18 @@
             "title": "Arkham: FTX users with claims below $50K have started to receive funds via Kraken and BitGo, expected to total $1.2B; users with $50K+ claims will be paid in Q2 (Francisco Rodrigues/CoinDesk)",
             "link": "http://www.techmeme.com/250218/p18#a250218p18",
             "published": "Tue, 18 Feb 2025 12:40:01 -0500"
-        },
-        {
-            "title": "Meta says LlamaCon, its first developer conference dedicated to generative AI, will take place on April 29, and Meta Connect will be held on September 17 and 18 (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250218/p17#a250218p17",
-            "published": "Tue, 18 Feb 2025 11:55:01 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Mira Murati, OpenAI\u2019s Former Chief Technology Officer, Starts Her Own Company",
-            "link": "https://www.nytimes.com/2025/02/18/technology/openai-mira-murati-startup.html",
-            "published": "Tue, 18 Feb 2025 18:54:21 +0000"
-        },
-        {
             "title": "They\u2019ve Been Waiting Years to Go Public. They\u2019re Still Waiting.",
             "link": "https://www.nytimes.com/2025/02/18/technology/tech-ipo-delays.html",
             "published": "Tue, 18 Feb 2025 14:44:37 +0000"
+        },
+        {
+            "title": "Mira Murati, OpenAI\u2019s Former Chief Technology Officer, Starts Her Own Company",
+            "link": "https://www.nytimes.com/2025/02/18/technology/openai-mira-murati-startup.html",
+            "published": "Tue, 18 Feb 2025 18:54:21 +0000"
         },
         {
             "title": "With Trump\u2019s Help, Intel Could Hand Control of Chip Plants to TSMC",
@@ -43,9 +43,9 @@
             "published": "Sat, 15 Feb 2025 01:34:53 +0000"
         },
         {
-            "title": "OpenAI Rejects Elon Musk\u2019s $97.4 Billion Bid for Control of the Company",
-            "link": "https://www.nytimes.com/2025/02/14/technology/openai-elon-musk.html",
-            "published": "Sat, 15 Feb 2025 00:49:54 +0000"
+            "title": "A.I. Accelerates in Paris + Can A.I. Fix Your Love Life?",
+            "link": "https://www.nytimes.com/2025/02/14/podcasts/hardfork-ai-dating-apps.html",
+            "published": "Fri, 14 Feb 2025 12:00:06 +0000"
         },
         {
             "title": "Prominent Cryptocurrency Investor Faces Senate Tax Inquiry",
