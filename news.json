@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Former OpenAI CTO Mira Murati announces Thinking Machines Lab, a new AI startup that she's leading, with Barret Zoph as CTO and John Schulman as chief scientist (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/250218/p21#a250218p21",
+            "published": "Tue, 18 Feb 2025 13:47:49 -0500"
+        },
+        {
+            "title": "An investor group plans to build an AI data center in South Korea that uses up to 3 gigawatts of power, starting with a $10B investment that could grow to $35B (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250218/p20#a250218p20",
+            "published": "Tue, 18 Feb 2025 13:35:02 -0500"
+        },
+        {
             "title": "Starting Feb. 19, Meta will store Facebook Live broadcasts for 30 days instead of storing them indefinitely and will remove videos currently older than 30 days (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/250218/p19#a250218p19",
             "published": "Tue, 18 Feb 2025 13:25:01 -0500"
@@ -14,19 +24,14 @@
             "title": "Meta says LlamaCon, its first developer conference dedicated to generative AI, will take place on April 29, and Meta Connect will be held on September 17 and 18 (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250218/p17#a250218p17",
             "published": "Tue, 18 Feb 2025 11:55:01 -0500"
-        },
-        {
-            "title": "Tel Aviv- and New York-based Blockaid, which offers crypto security tools, raised a $50M Series B led by Ribbit and says it stopped 71M attacks in 2024 (Suvashree Ghosh/Bloomberg)",
-            "link": "http://www.techmeme.com/250218/p16#a250218p16",
-            "published": "Tue, 18 Feb 2025 09:55:00 -0500"
-        },
-        {
-            "title": "Acer CEO Jason Chen says the company will \"probably\" raise US laptop prices by 10% \"by default\" from March 2024 due to Trump's tariffs on Chinese imports (James Titcomb/Telegraph)",
-            "link": "http://www.techmeme.com/250218/p15#a250218p15",
-            "published": "Tue, 18 Feb 2025 09:45:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Mira Murati, OpenAI\u2019s Former Chief Technology Officer, Starts Her Own Company",
+            "link": "https://www.nytimes.com/2025/02/18/technology/openai-mira-murati-startup.html",
+            "published": "Tue, 18 Feb 2025 18:54:21 +0000"
+        },
         {
             "title": "They\u2019ve Been Waiting Years to Go Public. They\u2019re Still Waiting.",
             "link": "https://www.nytimes.com/2025/02/18/technology/tech-ipo-delays.html",
@@ -43,14 +48,9 @@
             "published": "Sat, 15 Feb 2025 00:49:54 +0000"
         },
         {
-            "title": "A.I. Accelerates in Paris + Can A.I. Fix Your Love Life?",
-            "link": "https://www.nytimes.com/2025/02/14/podcasts/hardfork-ai-dating-apps.html",
-            "published": "Fri, 14 Feb 2025 12:00:06 +0000"
-        },
-        {
-            "title": "OpenAI\u2019s Former Chief Technology Officer Starts Her Own Company",
-            "link": "https://www.nytimes.com/2025/02/18/technology/openai-mira-murati-startup.html",
-            "published": "Tue, 18 Feb 2025 18:30:04 +0000"
+            "title": "Prominent Cryptocurrency Investor Faces Senate Tax Inquiry",
+            "link": "https://www.nytimes.com/2025/02/14/technology/dan-morehead-crypto-senate-taxes.html",
+            "published": "Sat, 15 Feb 2025 19:19:00 +0000"
         }
     ],
     "source_2": [
