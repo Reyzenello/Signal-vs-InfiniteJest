@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google is bringing Circle to Search-like visual searches to its Chrome and Google iOS apps, without the Circle to Search branding (Adamya Sharma/Android Authority)",
+            "link": "http://www.techmeme.com/250219/p41#a250219p41",
+            "published": "Wed, 19 Feb 2025 13:30:01 -0500"
+        },
+        {
+            "title": "AheadComputing, a startup co-founded by former Intel execs and engineers that aims to build RISC-V chip technology, raised a $21.5 seed led by Eclipse Ventures (Max A. Cherney/Reuters)",
+            "link": "http://www.techmeme.com/250219/p40#a250219p40",
+            "published": "Wed, 19 Feb 2025 12:40:01 -0500"
+        },
+        {
             "title": "Baseten, which helps companies launch open-source or customized AI models, raised $75M led by IVP and Spark Capital at a $825M valuation and claims 100+ clients (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/250219/p39#a250219p39",
             "published": "Wed, 19 Feb 2025 11:58:30 -0500"
@@ -14,23 +24,13 @@
             "title": "Cambridge, MA-based OpenEvidence, which offers an AI chatbot to help physicians, raised $75M from Sequoia at a $1B valuation, its first outside funding round (Kate Rooney/CNBC)",
             "link": "http://www.techmeme.com/250219/p37#a250219p37",
             "published": "Wed, 19 Feb 2025 11:53:44 -0500"
-        },
-        {
-            "title": "Apple now only sells iPhone models with big screens, in 6.1-inch, 6.7-inch, and 6.9-inch sizes, after discontinuing the 4.7-inch iPhone SE (Hartley Charlton/MacRumors)",
-            "link": "http://www.techmeme.com/250219/p36#a250219p36",
-            "published": "Wed, 19 Feb 2025 11:50:01 -0500"
-        },
-        {
-            "title": "Instagram updates direct messages with translation in 99 languages, scheduling and pinning tools, music-sharing features, and more, on iOS and Android first (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250219/p35#a250219p35",
-            "published": "Wed, 19 Feb 2025 11:30:01 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Apple Unveils Lower-Priced iPhone 16e With A.I. Features",
             "link": "https://www.nytimes.com/2025/02/19/business/apple-iphone-16e-ai.html",
-            "published": "Wed, 19 Feb 2025 17:04:17 +0000"
+            "published": "Wed, 19 Feb 2025 18:25:02 +0000"
         },
         {
             "title": "Microsoft Says It Has Created a New State of Matter to Power Quantum Computers",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple gambles on new iPhone with AI features at lower cost",
+            "link": "https://www.bbc.com/news/articles/cvgw30dr0w3o",
+            "published": "Wed, 19 Feb 2025 17:47:31 GMT"
+        },
+        {
             "title": "Powerful quantum computers in years not decades, says Microsoft",
             "link": "https://www.bbc.com/news/articles/cj3e3252gj8o",
             "published": "Wed, 19 Feb 2025 16:56:01 GMT"
@@ -73,11 +78,6 @@
             "title": "Argentina's President Milei denies crypto fraud allegations",
             "link": "https://www.bbc.com/news/articles/c1w07nq8qqqo",
             "published": "Tue, 18 Feb 2025 11:48:31 GMT"
-        },
-        {
-            "title": "Too many video games, too little time - but could that be changing?",
-            "link": "https://www.bbc.com/news/articles/czxklzlxxwyo",
-            "published": "Tue, 18 Feb 2025 09:24:10 GMT"
         }
     ]
 }
