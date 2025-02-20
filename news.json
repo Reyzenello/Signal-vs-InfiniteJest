@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Spotify will begin accepting AI-narrated audiobooks recorded using ElevenLabs software; Spotify already allows AI-recorded audiobooks, with several restrictions (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250220/p26#a250220p26",
+            "published": "Thu, 20 Feb 2025 10:15:13 -0500"
+        },
+        {
+            "title": "Nvidia launches Signs, a new AI platform to teach American Sign Language and create a validated dataset for sign language learners and ASL app developers (Dean Takahashi/VentureBeat)",
+            "link": "http://www.techmeme.com/250220/p25#a250220p25",
+            "published": "Thu, 20 Feb 2025 09:40:00 -0500"
+        },
+        {
             "title": "AI hiring startup Mercor, founded by 21-year-old Thiel fellow Brendan Foody, raised $100M led by Felicis at a $2B valuation, up from $250M in September 2024 (Lizette Chapman/Bloomberg)",
             "link": "http://www.techmeme.com/250220/p24#a250220p24",
             "published": "Thu, 20 Feb 2025 09:20:01 -0500"
@@ -14,16 +24,6 @@
             "title": "OpenAI COO Brad Lightcap says the company hit 400M weekly active users in February 2025, up from 300M in December 2024, and 2M paying enterprise customers (Kate Rooney/CNBC)",
             "link": "http://www.techmeme.com/250220/p22#a250220p22",
             "published": "Thu, 20 Feb 2025 08:45:01 -0500"
-        },
-        {
-            "title": "Investigation: Google's Display & Video 360 ad platform lets users target Americans' sensitive personal data, despite Google's rules against such practices (Wired)",
-            "link": "http://www.techmeme.com/250220/p21#a250220p21",
-            "published": "Thu, 20 Feb 2025 08:35:02 -0500"
-        },
-        {
-            "title": "Together AI, which provides users access to AI computing, raised $305M co-led by General Catalyst and Saudi Arabia's Prosperity7 at a $3.3B valuation (Paayal Zaveri/Bloomberg)",
-            "link": "http://www.techmeme.com/250220/p20#a250220p20",
-            "published": "Thu, 20 Feb 2025 08:25:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 19 Feb 2025 10:00:54 +0000"
         },
         {
-            "title": "With Truth Social, Trump Has Official Mouthpiece and a Channel for Revenue",
-            "link": "https://www.nytimes.com/2025/02/19/us/politics/truth-social-trump-media.html",
-            "published": "Thu, 20 Feb 2025 13:40:12 +0000"
+            "title": "A.I. Is Changing How Silicon Valley Builds Start-Ups",
+            "link": "https://www.nytimes.com/2025/02/20/technology/ai-silicon-valley-start-ups.html",
+            "published": "Thu, 20 Feb 2025 15:13:39 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Children routinely using social media, Australian regulator says",
+            "link": "https://www.bbc.com/news/articles/clyz65p1k45o",
+            "published": "Thu, 20 Feb 2025 14:31:30 GMT"
+        },
         {
             "title": "AI cracks superbug problem in two days that took scientists years",
             "link": "https://www.bbc.com/news/articles/clyz6e9edy3o",
@@ -73,11 +78,6 @@
             "title": "'Hopeless' to potentially handy: law firm puts AI to the test",
             "link": "https://www.bbc.com/news/articles/c743j83d8kzo",
             "published": "Tue, 18 Feb 2025 12:15:05 GMT"
-        },
-        {
-            "title": "DeepSeek 'shared user data' with TikTok owner ByteDance",
-            "link": "https://www.bbc.com/news/articles/c4gex0x87g4o",
-            "published": "Tue, 18 Feb 2025 11:40:23 GMT"
         }
     ]
 }
