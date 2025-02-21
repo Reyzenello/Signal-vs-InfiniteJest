@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Coinbase says the US SEC agreed \"in principle\" to drop its 2023 case against the company, calling it \"righting a major wrong\"; COIN jumps 5% pre-market (Jesse Pound/CNBC)",
+            "title": "Apple removes Advanced Data Protection in the UK for new users, pulling the optional E2EE feature rather than complying with the UK's order to build a backdoor (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250221/p12#a250221p12",
+            "published": "Fri, 21 Feb 2025 10:12:36 -0500"
+        },
+        {
+            "title": "Sources: the NHTSA is losing about 10% of its workforce through firings and buyout offers, including half of a small team that regulates autonomous vehicles (Ian Duncan/Washington Post)",
+            "link": "http://www.techmeme.com/250221/p11#a250221p11",
+            "published": "Fri, 21 Feb 2025 10:05:04 -0500"
+        },
+        {
+            "title": "Source: AI search engine startup Genspark raised a $100M Series A at a $530M valuation and currently has over 2M MAUs; it raised a $60M seed in June 2024 (Anna Tong/Reuters)",
+            "link": "http://www.techmeme.com/250221/p10#a250221p10",
+            "published": "Fri, 21 Feb 2025 09:25:01 -0500"
+        },
+        {
+            "title": "Coinbase says the US SEC agreed \"in principle\" to drop its 2023 case against the company, calling it \"righting a major wrong\" and a \"huge day\" for crypto (Jesse Pound/CNBC)",
             "link": "http://www.techmeme.com/250221/p9#a250221p9",
             "published": "Fri, 21 Feb 2025 08:31:27 -0500"
         },
@@ -9,28 +24,13 @@
             "title": "DeepSeek will start open-sourcing five code repositories next week, letting anyone download, build on, or improve the code behind its well-regarded AI models (Saritha Rai/Bloomberg)",
             "link": "http://www.techmeme.com/250221/p8#a250221p8",
             "published": "Fri, 21 Feb 2025 08:20:00 -0500"
-        },
-        {
-            "title": "Sensor Tower: Xiaohongshu's downloads fell 91% in five days after Apple and Google relisted TikTok on their US app stores on February 13, while TikTok's doubled (Vlad Savov/Bloomberg)",
-            "link": "http://www.techmeme.com/250221/p7#a250221p7",
-            "published": "Fri, 21 Feb 2025 07:05:02 -0500"
-        },
-        {
-            "title": "OpenAI launches Operator in the UK, Japan, and most ChatGPT regions, and says it's working to expand to the EU, Switzerland, Norway, Liechtenstein, and Iceland (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/250221/p6#a250221p6",
-            "published": "Fri, 21 Feb 2025 06:00:34 -0500"
-        },
-        {
-            "title": "Software engineers, academics, and others say AI coding tools will likely prompt an evolution rather than extinction, pushing developers to learn new skills (Steve Lohr/New York Times)",
-            "link": "http://www.techmeme.com/250221/p5#a250221p5",
-            "published": "Fri, 21 Feb 2025 04:35:02 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Coinbase Says S.E.C. Will Drop Crypto Lawsuit",
             "link": "https://www.nytimes.com/2025/02/21/technology/coinbase-sec-lawsuit.html",
-            "published": "Fri, 21 Feb 2025 13:47:59 +0000"
+            "published": "Fri, 21 Feb 2025 14:45:24 +0000"
         },
         {
             "title": "How \u2018Based\u2019 Is Grok 3? + Robinhood C.E.O. Vlad Tenev on Markets for Everything + Vibecoding 101",
@@ -48,12 +48,17 @@
             "published": "Thu, 20 Feb 2025 22:17:01 +0000"
         },
         {
-            "title": "A.I. Is Changing How Silicon Valley Builds Start-Ups",
-            "link": "https://www.nytimes.com/2025/02/20/technology/ai-silicon-valley-start-ups.html",
-            "published": "Thu, 20 Feb 2025 18:53:52 +0000"
+            "title": "OpenAI Uncovers Evidence of A.I.-Powered Chinese Surveillance Tool",
+            "link": "https://www.nytimes.com/2025/02/21/technology/openai-chinese-surveillance.html",
+            "published": "Fri, 21 Feb 2025 14:30:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple pulls data protection tool after UK government security row",
+            "link": "https://www.bbc.com/news/articles/cgj54eq4vejo",
+            "published": "Fri, 21 Feb 2025 15:02:05 GMT"
+        },
         {
             "title": "What does Jack Ma's return to the spotlight mean?",
             "link": "https://www.bbc.com/news/articles/c5yvyl710jpo",
@@ -73,11 +78,6 @@
             "title": "Apple gambles on new iPhone with AI features at lower cost",
             "link": "https://www.bbc.com/news/articles/cvgw30dr0w3o",
             "published": "Thu, 20 Feb 2025 11:37:50 GMT"
-        },
-        {
-            "title": "Powerful quantum computers in years not decades, says Microsoft",
-            "link": "https://www.bbc.com/news/articles/cj3e3252gj8o",
-            "published": "Wed, 19 Feb 2025 16:56:01 GMT"
         }
     ]
 }
