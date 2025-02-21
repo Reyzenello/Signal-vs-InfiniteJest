@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI told investors that it expects revenue to more than triple in 2025, from $3.7B to over $12.5B; one-third of the revenue growth would come from SoftBank (The Information)",
+            "link": "http://www.techmeme.com/250221/p16#a250221p16",
+            "published": "Fri, 21 Feb 2025 12:00:47 -0500"
+        },
+        {
+            "title": "Sources: Fluidstack, which wants to build a &euro;10B AI data center in France as part of Macron's &euro;109B data center pledge, is in talks to raise a ~$200M Series A (Bloomberg)",
+            "link": "http://www.techmeme.com/250221/p15#a250221p15",
+            "published": "Fri, 21 Feb 2025 11:45:01 -0500"
+        },
+        {
             "title": "Sources: EU antitrust regulators are set to charge Google for breaching the DMA after proposed changes to its search results failed to address concerns (Foo Yun Chee/Reuters)",
             "link": "http://www.techmeme.com/250221/p14#a250221p14",
             "published": "Fri, 21 Feb 2025 11:15:01 -0500"
         },
         {
-            "title": "ZachXBT: crypto exchange Bybit has experienced $1.46B worth of \"suspicious outflows\"; Bybit CEO confirms hacker took control of cold ETH wallet (Oliver Knight/CoinDesk)",
+            "title": "ZachXBT: crypto exchange Bybit has experienced $1.46B worth of \"suspicious outflows\"; Bybit CEO confirms hacker took control of a cold ETH wallet (Oliver Knight/CoinDesk)",
             "link": "http://www.techmeme.com/250221/p13#a250221p13",
             "published": "Fri, 21 Feb 2025 11:10:05 -0500"
         },
@@ -14,23 +24,13 @@
             "title": "Apple removes Advanced Data Protection in the UK for new users, pulling the optional E2EE feature rather than complying with the UK's order to build a backdoor (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/250221/p12#a250221p12",
             "published": "Fri, 21 Feb 2025 10:12:36 -0500"
-        },
-        {
-            "title": "Sources: the US NHTSA is losing ~10% of its workforce via firings and buyout offers, including nearly half of a small team that regulates autonomous vehicles (Ian Duncan/Washington Post)",
-            "link": "http://www.techmeme.com/250221/p11#a250221p11",
-            "published": "Fri, 21 Feb 2025 10:05:04 -0500"
-        },
-        {
-            "title": "Source: AI search engine startup Genspark raised a $100M Series A at a $530M valuation and currently has over 2M MAUs; it raised a $60M seed in June 2024 (Anna Tong/Reuters)",
-            "link": "http://www.techmeme.com/250221/p10#a250221p10",
-            "published": "Fri, 21 Feb 2025 09:25:01 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Coinbase Says S.E.C. Will Drop Crypto Lawsuit",
             "link": "https://www.nytimes.com/2025/02/21/technology/coinbase-sec-lawsuit.html",
-            "published": "Fri, 21 Feb 2025 16:25:13 +0000"
+            "published": "Fri, 21 Feb 2025 17:06:38 +0000"
         },
         {
             "title": "How \u2018Based\u2019 Is Grok 3? + Robinhood C.E.O. Vlad Tenev on Markets for Everything + Vibecoding 101",
@@ -60,6 +60,11 @@
             "published": "Fri, 21 Feb 2025 15:31:56 GMT"
         },
         {
+            "title": "Coinbase boss claims SEC will drop crypto lawsuit",
+            "link": "https://www.bbc.com/news/articles/cgm1g37p1z8o",
+            "published": "Fri, 21 Feb 2025 17:00:10 GMT"
+        },
+        {
             "title": "What does Jack Ma's return to the spotlight mean?",
             "link": "https://www.bbc.com/news/articles/c5yvyl710jpo",
             "published": "Fri, 21 Feb 2025 00:42:26 GMT"
@@ -73,11 +78,6 @@
             "title": "AI cracks superbug problem in two days that took scientists years",
             "link": "https://www.bbc.com/news/articles/clyz6e9edy3o",
             "published": "Thu, 20 Feb 2025 12:08:28 GMT"
-        },
-        {
-            "title": "Apple gambles on new iPhone with AI features at lower cost",
-            "link": "https://www.bbc.com/news/articles/cvgw30dr0w3o",
-            "published": "Thu, 20 Feb 2025 11:37:50 GMT"
         }
     ]
 }
