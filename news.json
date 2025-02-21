@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: AMD is in talks with Asian companies for a $3B to $4B sale of data center manufacturing plants, which it inherited in its $4.9B ZT Systems acquisition (Bloomberg)",
+            "link": "http://www.techmeme.com/250221/p20#a250221p20",
+            "published": "Fri, 21 Feb 2025 14:25:01 -0500"
+        },
+        {
             "title": "OpenAI says it found evidence of an AI-powered surveillance tool used by a Chinese security operation to identify anti-China posts on social media in the West (Cade Metz/New York Times)",
             "link": "http://www.techmeme.com/250221/p19#a250221p19",
             "published": "Fri, 21 Feb 2025 13:55:01 -0500"
@@ -19,14 +24,19 @@
             "title": "OpenAI told investors that it expects revenue to more than triple in 2025, from $3.7B to over $12.5B; one-third of the revenue growth would come from SoftBank (The Information)",
             "link": "http://www.techmeme.com/250221/p16#a250221p16",
             "published": "Fri, 21 Feb 2025 12:00:47 -0500"
-        },
-        {
-            "title": "Sources: Fluidstack, which wants to build a &euro;10B AI data center in France as part of Macron's &euro;109B data center pledge, is in talks to raise a ~$200M Series A (Bloomberg)",
-            "link": "http://www.techmeme.com/250221/p15#a250221p15",
-            "published": "Fri, 21 Feb 2025 11:45:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Apple Pulls iPhone Security Feature in UK",
+            "link": "https://www.nytimes.com/2025/02/21/technology/apple-security-feature-uk.html",
+            "published": "Fri, 21 Feb 2025 19:17:44 +0000"
+        },
+        {
+            "title": "OpenAI Uncovers Evidence of A.I.-Powered Chinese Surveillance Tool",
+            "link": "https://www.nytimes.com/2025/02/21/technology/openai-chinese-surveillance.html",
+            "published": "Fri, 21 Feb 2025 14:30:06 +0000"
+        },
         {
             "title": "Coinbase Says S.E.C. Will Drop Crypto Lawsuit",
             "link": "https://www.nytimes.com/2025/02/21/technology/coinbase-sec-lawsuit.html",
@@ -38,26 +48,16 @@
             "published": "Fri, 21 Feb 2025 12:00:03 +0000"
         },
         {
-            "title": "A.I. Is Prompting an Evolution, Not an Extinction, for Coders",
-            "link": "https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html",
-            "published": "Thu, 20 Feb 2025 16:16:23 +0000"
-        },
-        {
-            "title": "Trump Dismantles Government Fight Against Foreign Influence Operations",
-            "link": "https://www.nytimes.com/2025/02/20/business/trump-foreign-influence-election-interference.html",
-            "published": "Thu, 20 Feb 2025 22:17:01 +0000"
-        },
-        {
-            "title": "Apple Pulls iPhone Security Feature in UK",
-            "link": "https://www.nytimes.com/2025/02/21/technology/apple-security-feature-uk.html",
-            "published": "Fri, 21 Feb 2025 19:10:16 +0000"
+            "title": "A.I. Is Changing How Silicon Valley Builds Start-Ups",
+            "link": "https://www.nytimes.com/2025/02/20/technology/ai-silicon-valley-start-ups.html",
+            "published": "Thu, 20 Feb 2025 18:53:52 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Apple pulls data protection tool after UK government security row",
             "link": "https://www.bbc.com/news/articles/cgj54eq4vejo",
-            "published": "Fri, 21 Feb 2025 18:15:32 GMT"
+            "published": "Fri, 21 Feb 2025 20:04:19 GMT"
         },
         {
             "title": "Coinbase boss claims SEC will drop crypto lawsuit",
