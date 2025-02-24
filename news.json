@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google says it plans to use QR codes for Gmail account authentication, ditching SMS to \"reduce the impact of rampant, global SMS abuse\" (Davey Winder/Forbes)",
+            "link": "http://www.techmeme.com/250224/p8#a250224p8",
+            "published": "Mon, 24 Feb 2025 07:40:00 -0500"
+        },
+        {
+            "title": "TD Cowen: Microsoft cancels leases for a substantial amount of US data centers, potentially due to over-investment fears; Microsoft plans to spend $80B in 2025 (Bloomberg)",
+            "link": "http://www.techmeme.com/250224/p7#a250224p7",
+            "published": "Mon, 24 Feb 2025 06:50:01 -0500"
+        },
+        {
+            "title": "An analysis of the $1.46B Bybit hack, by far the largest crypto heist of all time, ahead of Poly Network's $611M in 2021, and possibly the biggest theft ever (Elliptic)",
+            "link": "http://www.techmeme.com/250224/p6#a250224p6",
+            "published": "Mon, 24 Feb 2025 06:25:01 -0500"
+        },
+        {
             "title": "Apple says it will spend $500B in the US over the next four years, hire 20,000 new US workers, and produce AI servers in Texas, after Tim Cook met with Trump (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/250224/p5#a250224p5",
             "published": "Mon, 24 Feb 2025 06:11:13 -0500"
@@ -9,21 +24,6 @@
             "title": "Some hair stylists, bridal shops, and hardware stores say AI generated \"inspo\", taken from platforms like Pinterest, is warping customers' sense of reality (Tatum Hunter/Washington Post)",
             "link": "http://www.techmeme.com/250224/p4#a250224p4",
             "published": "Mon, 24 Feb 2025 05:50:02 -0500"
-        },
-        {
-            "title": "China is increasingly pooling resources from the state and private sectors, including startups like Infinigence AI, to accelerate adoption of AI data centers (Financial Times)",
-            "link": "http://www.techmeme.com/250224/p3#a250224p3",
-            "published": "Mon, 24 Feb 2025 04:00:12 -0500"
-        },
-        {
-            "title": "Prosus plans to buy Just Eat Takeaway for &euro;20.30 per share, a 22% premium over its three-month high, in an all-cash deal valuing the delivery company at &euro;4B+ (Financial Times)",
-            "link": "http://www.techmeme.com/250224/p2#a250224p2",
-            "published": "Mon, 24 Feb 2025 01:25:01 -0500"
-        },
-        {
-            "title": "Australian tech company WiseTech's shares dropped 22% after most of its board, including the chair, resigned over clashes on co-founder Richard White's role (Nic Fildes/Financial Times)",
-            "link": "http://www.techmeme.com/250224/p1#a250224p1",
-            "published": "Mon, 24 Feb 2025 00:50:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Virgin Media apologises as thousands report internet outage",
+            "link": "https://www.bbc.com/news/articles/cy05n9xn1nqo",
+            "published": "Mon, 24 Feb 2025 12:40:39 GMT"
+        },
+        {
             "title": "List weekly accomplishments or resign, Musk tells US federal workers",
             "link": "https://www.bbc.com/news/articles/cr72n1yyj30o",
             "published": "Sun, 23 Feb 2025 14:33:36 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple pulls data protection tool after UK government security row",
             "link": "https://www.bbc.com/news/articles/cgj54eq4vejo",
             "published": "Sat, 22 Feb 2025 08:59:29 GMT"
-        },
-        {
-            "title": "Coinbase boss claims SEC will drop crypto lawsuit",
-            "link": "https://www.bbc.com/news/articles/cgm1g37p1z8o",
-            "published": "Fri, 21 Feb 2025 17:00:10 GMT"
         }
     ]
 }
