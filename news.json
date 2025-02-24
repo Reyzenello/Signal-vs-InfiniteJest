@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Anthony Levandowski's self-driving truck startup Pronto signs a deal with Heidelberg Materials to use its tech in 100+ dump trucks in mines over three years (Max Chafkin/Bloomberg)",
+            "link": "http://www.techmeme.com/250224/p15#a250224p15",
+            "published": "Mon, 24 Feb 2025 10:25:02 -0500"
+        },
+        {
+            "title": "IT management platform NinjaOne raised $500M led by Iconiq Growth and CapitalG at a $5B valuation, up from $1.9B after its Series C in February 2024 (Leo Schwartz/Fortune)",
+            "link": "http://www.techmeme.com/250224/p14#a250224p14",
+            "published": "Mon, 24 Feb 2025 09:30:01 -0500"
+        },
+        {
             "title": "Strategy, formerly MicroStrategy, bought 20,356 bitcoin for $1.99B between February 18 and 23, taking its holdings to 499,096, worth $47B, or 2.3% of BTC supply (James Hunt/The Block)",
             "link": "http://www.techmeme.com/250224/p13#a250224p13",
             "published": "Mon, 24 Feb 2025 08:40:14 -0500"
@@ -14,16 +24,6 @@
             "title": "Robinhood says it received a letter from the SEC stating the agency is dropping its investigation into Robinhood Crypto, a sign of regulatory change under Trump (Tanaya Macheel/CNBC)",
             "link": "http://www.techmeme.com/250224/p11#a250224p11",
             "published": "Mon, 24 Feb 2025 08:20:10 -0500"
-        },
-        {
-            "title": "Salesforce signs a $2.5B, seven-year deal with Google Cloud to let customers run its software, Agentforce AI assistants, and Data Cloud on Google Cloud (Bloomberg)",
-            "link": "http://www.techmeme.com/250224/p10#a250224p10",
-            "published": "Mon, 24 Feb 2025 08:10:02 -0500"
-        },
-        {
-            "title": "Source: Ethena, which runs the USDe stablecoin, marketed as a \"synthetic dollar\" with a 9% yield and almost $6B in circulation, raised $100M in December 2024 (Ryan Weeks/Bloomberg)",
-            "link": "http://www.techmeme.com/250224/p9#a250224p9",
-            "published": "Mon, 24 Feb 2025 08:00:45 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "Lion King visual effects studio on brink of collapse",
+            "link": "https://www.bbc.com/news/articles/c89yxk1egkgo",
+            "published": "Mon, 24 Feb 2025 15:20:09 GMT"
+        },
+        {
             "title": "Virgin Media apologises as thousands report internet outage",
             "link": "https://www.bbc.com/news/articles/cy05n9xn1nqo",
-            "published": "Mon, 24 Feb 2025 12:40:39 GMT"
+            "published": "Mon, 24 Feb 2025 15:27:26 GMT"
         },
         {
             "title": "List weekly accomplishments or resign, Musk tells US federal workers",
@@ -73,11 +78,6 @@
             "title": "Cryptocurrency theft of \u00a31.1bn could be biggest ever",
             "link": "https://www.bbc.com/news/articles/cx2844nvwx8o",
             "published": "Sat, 22 Feb 2025 01:49:14 GMT"
-        },
-        {
-            "title": "Apple pulls data protection tool after UK government security row",
-            "link": "https://www.bbc.com/news/articles/cgj54eq4vejo",
-            "published": "Sat, 22 Feb 2025 08:59:29 GMT"
         }
     ]
 }
