@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Hume launches Octave, an LLM for text-to-speech that generates custom AI voices with adjustable emotions, offering a free tier with 10,000 characters per month (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/250226/p36#a250226p36",
+            "published": "Wed, 26 Feb 2025 15:25:00 -0500"
+        },
+        {
+            "title": "Google says it received FDA clearance for the Pixel Watch 3's Loss of Pulse Detection feature, available in the EU and rolling out in the US at the end of March (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/250226/p35#a250226p35",
+            "published": "Wed, 26 Feb 2025 14:35:01 -0500"
+        },
+        {
             "title": "Microsoft says it completed a multi-year project, the EU Data Boundary for the Microsoft Cloud, to let Europe-based cloud customers store and process data in EU (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250226/p34#a250226p34",
             "published": "Wed, 26 Feb 2025 13:50:09 -0500"
@@ -14,23 +24,13 @@
             "title": "Letter: US DNI Tulsi Gabbard calls the UK's order for Apple to add an iCloud backdoor an \"egregious\" violation of Americans' rights and plans a legal review (Joseph Menn/Washington Post)",
             "link": "http://www.techmeme.com/250226/p32#a250226p32",
             "published": "Wed, 26 Feb 2025 12:45:01 -0500"
-        },
-        {
-            "title": "AppLovin's stock falls 10%+ after two short sellers released reports questioning the integrity of the company's AI-powered AXON ad software (CJ Haddad/CNBC)",
-            "link": "http://www.techmeme.com/250226/p31#a250226p31",
-            "published": "Wed, 26 Feb 2025 11:30:01 -0500"
-        },
-        {
-            "title": "Amazon says Alexa+ is \"model agnostic\", using Amazon Nova models and Anthropic's models, and picks the \"best\" AI model for a task, drawing on Amazon Bedrock (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250226/p30#a250226p30",
-            "published": "Wed, 26 Feb 2025 11:15:22 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Amazon Unveils Alexa+, Powered by Generative A.I.",
             "link": "https://www.nytimes.com/2025/02/26/technology/amazon-alexa-plus-generative-ai.html",
-            "published": "Wed, 26 Feb 2025 17:32:01 +0000"
+            "published": "Wed, 26 Feb 2025 19:22:43 +0000"
         },
         {
             "title": "Tesla Stock Falls 8% as Concerns About Elon Musk\u2019s Political Role Grow",
@@ -48,9 +48,9 @@
             "published": "Wed, 26 Feb 2025 00:41:40 +0000"
         },
         {
-            "title": "Earth\u2019s 1st Asteroid Mining Prospector Heads to the Launchpad",
-            "link": "https://www.nytimes.com/2025/02/23/science/astroforge-launch-asteroid-mining.html",
-            "published": "Sun, 23 Feb 2025 10:00:35 +0000"
+            "title": "How to Watch the Launch of Intuitive Machines\u2019s Second Moon Landing Mission",
+            "link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
+            "published": "Wed, 26 Feb 2025 20:19:38 +0000"
         }
     ],
     "source_2": [
