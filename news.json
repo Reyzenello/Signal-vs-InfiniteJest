@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft says it completed a multi-year project, the EU Data Boundary for the Microsoft Cloud, to let Europe-based cloud customers store and process data in EU (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250226/p34#a250226p34",
+            "published": "Wed, 26 Feb 2025 13:50:09 -0500"
+        },
+        {
+            "title": "Google redesigns Results About You, its tool for requesting the removal of Search results with personal info, adding a new hub and the ability to update results (Jeremy Gan/Engadget)",
+            "link": "http://www.techmeme.com/250226/p33#a250226p33",
+            "published": "Wed, 26 Feb 2025 13:40:01 -0500"
+        },
+        {
             "title": "Letter: US DNI Tulsi Gabbard calls the UK's order for Apple to add an iCloud backdoor an \"egregious\" violation of Americans' rights and plans a legal review (Joseph Menn/Washington Post)",
             "link": "http://www.techmeme.com/250226/p32#a250226p32",
             "published": "Wed, 26 Feb 2025 12:45:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Amazon says Alexa+ is \"model agnostic\", using Amazon Nova models and Anthropic's models, and picks the \"best\" AI model for a task, drawing on Amazon Bedrock (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250226/p30#a250226p30",
             "published": "Wed, 26 Feb 2025 11:15:22 -0500"
-        },
-        {
-            "title": "Amazon says Alexa+ will be able to navigate through movies on Prime Video due to Alexa, Prime Video, and Fire TV's integration, including \"jump to a scene\" (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250226/p29#a250226p29",
-            "published": "Wed, 26 Feb 2025 11:10:02 -0500"
-        },
-        {
-            "title": "Amazon's Panos Panay demoed Alexa+ in a flowing ongoing conversation and says it can book concert tickets, make restaurant reservations, and text a babysitter (Bloomberg)",
-            "link": "http://www.techmeme.com/250226/p28#a250226p28",
-            "published": "Wed, 26 Feb 2025 10:47:08 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US intelligence head 'not told' about UK's secret Apple data demand",
+            "link": "https://www.bbc.com/news/articles/c1kjmddx2nzo",
+            "published": "Wed, 26 Feb 2025 19:00:57 GMT"
+        },
+        {
             "title": "Crypto sleuths join hunt for $1.5bn stolen in biggest ever heist",
             "link": "https://www.bbc.com/news/articles/ckgdy5e3neko",
             "published": "Wed, 26 Feb 2025 16:21:13 GMT"
@@ -73,11 +78,6 @@
             "title": "Tesla shares slump after European sales fall",
             "link": "https://www.bbc.com/news/articles/cvgd9v3r69qo",
             "published": "Wed, 26 Feb 2025 07:53:15 GMT"
-        },
-        {
-            "title": "What Apple pulling Advanced Data Protection means for you",
-            "link": "https://www.bbc.com/news/articles/cn524lx9445o",
-            "published": "Wed, 26 Feb 2025 06:11:15 GMT"
         }
     ]
 }
