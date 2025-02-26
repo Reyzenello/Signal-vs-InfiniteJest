@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Analysts expect Amazon to spend up to $25B of its $100B capex in 2025 on its retail network, focusing on automation and efficiency, amid the AI spending boom (Rafe Uddin/Financial Times)",
+            "link": "http://www.techmeme.com/250226/p4#a250226p4",
+            "published": "Wed, 26 Feb 2025 01:30:01 -0500"
+        },
+        {
+            "title": "Sources: in July 2024, Microsoft told top GOP officials that Chinese hackers had accessed the RNC email system for months; the RNC chose not to alert the FBI (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250226/p3#a250226p3",
+            "published": "Wed, 26 Feb 2025 01:20:02 -0500"
+        },
+        {
             "title": "Access Now: 54 countries imposed internet shutdowns at least 296 times in 2024, led by Myanmar, displacing India from the top spot for the first time since 2018 (Ina Fried/Axios)",
             "link": "http://www.techmeme.com/250226/p2#a250226p2",
             "published": "Wed, 26 Feb 2025 00:25:01 -0500"
@@ -14,16 +24,6 @@
             "title": "How hackers of the $1.5B Bybit crypto heist used UI manipulation of employee devices and social engineering to gain control of ETH multisig cold wallets (Dan Goodin/Ars Technica)",
             "link": "http://www.techmeme.com/250225/p59#a250225p59",
             "published": "Tue, 25 Feb 2025 23:10:00 -0500"
-        },
-        {
-            "title": "Sensor Tower: in 2024, TikTok, including its Chinese counterpart Douyin, became the first non-game app to reach $6B in annual in-app purchase revenue (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250225/p58#a250225p58",
-            "published": "Tue, 25 Feb 2025 22:35:02 -0500"
-        },
-        {
-            "title": "Sources: Mira Murati's new startup, Thinking Machines Lab, is aiming to raise $1B at a ~$9B valuation; the round is in progress and details could change (Business Insider)",
-            "link": "http://www.techmeme.com/250225/p57#a250225p57",
-            "published": "Tue, 25 Feb 2025 21:35:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Tesla shares slump after European sales fall",
+            "link": "https://www.bbc.com/news/articles/cvgd9v3r69qo",
+            "published": "Tue, 25 Feb 2025 19:35:34 GMT"
+        },
+        {
+            "title": "What Apple pulling Advanced Data Protection means for you",
+            "link": "https://www.bbc.com/news/articles/cn524lx9445o",
+            "published": "Wed, 26 Feb 2025 06:11:15 GMT"
+        },
+        {
             "title": "Historic visual effects studio Technicolor collapses in UK",
             "link": "https://www.bbc.com/news/articles/c89yxk1egkgo",
             "published": "Mon, 24 Feb 2025 18:39:23 GMT"
@@ -68,16 +78,6 @@
             "title": "Virgin Media internet restored after earlier outage",
             "link": "https://www.bbc.com/news/articles/cy05n9xn1nqo",
             "published": "Mon, 24 Feb 2025 17:30:32 GMT"
-        },
-        {
-            "title": "List weekly accomplishments or resign, Musk tells US federal workers",
-            "link": "https://www.bbc.com/news/articles/cr72n1yyj30o",
-            "published": "Sun, 23 Feb 2025 14:33:36 GMT"
-        },
-        {
-            "title": "Watch: A real-life flying car takes to the skies",
-            "link": "https://www.bbc.com/news/videos/cx20nwlqe07o",
-            "published": "Sun, 23 Feb 2025 00:28:08 GMT"
         }
     ]
 }
