@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Canada's broadcast regulator says that Google will be charged a fee to recover regulatory costs related to Canada's online news law, starting April 1 (Paul Vieira/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250226/p45#a250226p45",
+            "published": "Wed, 26 Feb 2025 19:50:01 -0500"
+        },
+        {
             "title": "Cellebrite suspends Serbia as a customer after a report alleged authorities used its tools to unlock phones of a journalist and an activist and plant spyware (Lorenzo Franceschi-Bicchierai/TechCrunch)",
             "link": "http://www.techmeme.com/250226/p44#a250226p44",
             "published": "Wed, 26 Feb 2025 18:20:01 -0500"
@@ -19,11 +24,6 @@
             "title": "IBM releases its Granite 3.2 LLM family, featuring optional reasoning capabilities, a new vision model optimized for document processing, and time series models (Sean Michael Kerner/VentureBeat)",
             "link": "http://www.techmeme.com/250226/p41#a250226p41",
             "published": "Wed, 26 Feb 2025 17:10:02 -0500"
-        },
-        {
-            "title": "Snowflake reports Q4 product revenue up 28% YoY to $943.3M, vs. $915.8M est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 8%+ after hours (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/250226/p40#a250226p40",
-            "published": "Wed, 26 Feb 2025 16:40:01 -0500"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Nvidia\u2019s Profit Jumps 80 Percent as Company Rides Tech\u2019s AI Boom",
             "link": "https://www.nytimes.com/2025/02/26/technology/nvidia-quarterly-earnings.html",
-            "published": "Wed, 26 Feb 2025 22:58:51 +0000"
+            "published": "Wed, 26 Feb 2025 23:35:50 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "US intelligence head 'not told' about UK's secret Apple data demand",
             "link": "https://www.bbc.com/news/articles/c1kjmddx2nzo",
             "published": "Wed, 26 Feb 2025 20:55:34 GMT"
+        },
+        {
+            "title": "Instagram considers standalone Reels app - report",
+            "link": "https://www.bbc.com/news/articles/cvgwwd09vwzo",
+            "published": "Thu, 27 Feb 2025 01:29:13 GMT"
         },
         {
             "title": "Crypto sleuths join hunt for $1.5bn stolen in biggest ever heist",
@@ -73,11 +78,6 @@
             "title": "Apple AI tool transcribed the word 'racist' as 'Trump'",
             "link": "https://www.bbc.com/news/articles/c5ymvjjqzmeo",
             "published": "Wed, 26 Feb 2025 11:04:33 GMT"
-        },
-        {
-            "title": "Tesla shares slump after European sales fall",
-            "link": "https://www.bbc.com/news/articles/cvgd9v3r69qo",
-            "published": "Wed, 26 Feb 2025 07:53:15 GMT"
         }
     ]
 }
