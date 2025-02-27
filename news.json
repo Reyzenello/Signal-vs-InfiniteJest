@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "HP reports Q1 revenue up 2.4% YoY to $13.5B vs. $13.4B est., Personal Systems revenue up 5%, commercial personal systems up 10%, Q2 earnings forecast below est. (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/250227/p40#a250227p40",
+            "published": "Thu, 27 Feb 2025 17:20:04 -0500"
+        },
+        {
+            "title": "Dell reports Q4 revenue up 7% YoY to $23.93B, vs. $24.56B est., forecasts FY 2026 adjusted profit above estimates and FY 2026 revenue in line with expectations (Jaspreet Singh/Reuters)",
+            "link": "http://www.techmeme.com/250227/p39#a250227p39",
+            "published": "Thu, 27 Feb 2025 16:30:01 -0500"
+        },
+        {
             "title": "Sources: Meta plans to launch a standalone Meta AI app in Q2 and test a paid subscription service for Meta AI, as Zuckerberg tries to make Meta the leader in AI (Jonathan Vanian/CNBC)",
             "link": "http://www.techmeme.com/250227/p38#a250227p38",
             "published": "Thu, 27 Feb 2025 16:20:07 -0500"
@@ -14,16 +24,6 @@
             "title": "Sam Altman says OpenAI was forced to stagger GPT-4.5's rollout because it is \"out of GPUs\"; the model is wildly expensive, costing $75 per million input tokens (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250227/p36#a250227p36",
             "published": "Thu, 27 Feb 2025 15:50:00 -0500"
-        },
-        {
-            "title": "A look at GPT-4.5's claimed performance, including for coding, where it matches GPT-4o and o3-mini but falls short of Deep Research and Claude 3.7 Sonnet (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/250227/p35#a250227p35",
-            "published": "Thu, 27 Feb 2025 15:40:03 -0500"
-        },
-        {
-            "title": "Meta unveils Aria Gen 2, its latest research glasses, with a PPG sensor for measuring heart rate and a contact microphone to distinguish the wearer's voice (Scott Hayden/Road to VR)",
-            "link": "http://www.techmeme.com/250227/p34#a250227p34",
-            "published": "Thu, 27 Feb 2025 15:35:05 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Thu, 27 Feb 2025 17:16:56 +0000"
         },
         {
-            "title": "Intuitive Machines\u2019 Athena Lander Launches on Journey to the Moon",
-            "link": "https://www.nytimes.com/2025/02/26/science/intuitive-machines-second-moon-landing-launch-how-to-watch.html",
-            "published": "Thu, 27 Feb 2025 15:35:00 +0000"
+            "title": "Tesla Fires a Manager Who Criticized Elon Musk on Social Media",
+            "link": "https://www.nytimes.com/2025/02/27/business/elon-musk-tesla-firing-worker.html",
+            "published": "Thu, 27 Feb 2025 21:34:18 +0000"
         }
     ],
     "source_2": [
