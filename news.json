@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Mozilla responds to backlash over Firefox's new Terms of Use, which critics have called out for being overly broad, and says it won't use people's data for AI (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/250228/p15#a250228p15",
+            "published": "Fri, 28 Feb 2025 13:25:01 -0500"
+        },
+        {
             "title": "Sources: General Catalyst is in the very early stages of considering an IPO, which would make it first US VC firm to go public (Dan Primack/Axios)",
             "link": "http://www.techmeme.com/250228/p14#a250228p14",
             "published": "Fri, 28 Feb 2025 12:00:50 -0500"
@@ -19,11 +24,6 @@
             "title": "Filings: CFPB employees say the agency's Trump-appointed leadership plans to fire nearly all its 1,700 employees while \"winding down\" the agency (Hugh Son/CNBC)",
             "link": "http://www.techmeme.com/250228/p11#a250228p11",
             "published": "Fri, 28 Feb 2025 09:55:00 -0500"
-        },
-        {
-            "title": "Microsoft says it will shut down Skype on May 5 and directs users to migrate all their contacts and chat data to Teams; Skype had 36M+ DAUs in 2023 (Paul Sawers/TechCrunch)",
-            "link": "http://www.techmeme.com/250228/p10#a250228p10",
-            "published": "Fri, 28 Feb 2025 09:10:02 -0500"
         }
     ],
     "source_1": [
@@ -48,16 +48,21 @@
             "published": "Fri, 28 Feb 2025 12:00:05 +0000"
         },
         {
-            "title": "Tesla Fires a Manager Who Criticized Elon Musk on Social Media",
-            "link": "https://www.nytimes.com/2025/02/27/business/elon-musk-tesla-firing-worker.html",
-            "published": "Fri, 28 Feb 2025 02:09:06 +0000"
+            "title": "Microsoft Will Shut Down Skype in Favor of a Free Version of Teams",
+            "link": "https://www.nytimes.com/2025/02/28/technology/microsoft-skype-shutting-down.html",
+            "published": "Fri, 28 Feb 2025 18:06:23 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Skype announces it will close in May",
+            "title": "Microsoft announces Skype will close in May",
             "link": "https://www.bbc.com/news/articles/cn7vxlrvxyeo",
-            "published": "Fri, 28 Feb 2025 16:36:05 GMT"
+            "published": "Fri, 28 Feb 2025 17:48:12 GMT"
+        },
+        {
+            "title": "WhatsApp says it has resolved technical problem",
+            "link": "https://www.bbc.com/news/articles/c5y0r8wdk62o",
+            "published": "Fri, 28 Feb 2025 18:21:37 GMT"
         },
         {
             "title": "Lloyds Bank says app issues fixed after payday IT issue",
@@ -73,11 +78,6 @@
             "title": "US intelligence head 'not told' about UK's secret Apple data demand",
             "link": "https://www.bbc.com/news/articles/c1kjmddx2nzo",
             "published": "Thu, 27 Feb 2025 09:50:36 GMT"
-        },
-        {
-            "title": "What an AI-generated video of Gaza reveals about Trump tactics",
-            "link": "https://www.bbc.com/news/videos/cj675j69gxgo",
-            "published": "Wed, 26 Feb 2025 18:28:13 GMT"
         }
     ]
 }
