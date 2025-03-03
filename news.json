@@ -1,6 +1,37 @@
 {
-    "techmeme": [],
+    "techmeme": [
+        {
+            "title": "Deutsche Telekom and Perplexity announce they are working on an \"AI Phone\" priced at under $1K, first aimed at the European market and slated to launch in 2026 (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/250303/p19#a250303p19",
+            "published": "Mon, 03 Mar 2025 12:30:01 -0500"
+        },
+        {
+            "title": "BYD unveils \"Lingyuan\", a vehicle-mounted drone launching system available for all of its vehicles that costs about $2,200, developed in collaboration with DJI (Wes Davis/The Verge)",
+            "link": "http://www.techmeme.com/250303/p18#a250303p18",
+            "published": "Mon, 03 Mar 2025 12:20:01 -0500"
+        },
+        {
+            "title": "Anthropic raised a $3.5B Series E at a $61.5B post-money valuation led by Lightspeed Venture Partners; it has now raised $18.2B in total funding, per Crunchbase (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250303/p17#a250303p17",
+            "published": "Mon, 03 Mar 2025 12:07:30 -0500"
+        },
+        {
+            "title": "Documents and sources: the Trump administration cut 170 staff at the National Science Foundation federal agency, threatening AI research and US competitiveness (Jackie Davalos/Bloomberg)",
+            "link": "http://www.techmeme.com/250303/p16#a250303p16",
+            "published": "Mon, 03 Mar 2025 11:50:02 -0500"
+        },
+        {
+            "title": "Tim Cook posts that \"this week\" there's \"something in the AIR\", likely referring to an M4 MacBook Air launch; a new iPad Air is expected around this Spring (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/250303/p15#a250303p15",
+            "published": "Mon, 03 Mar 2025 11:20:00 -0500"
+        }
+    ],
     "source_1": [
+        {
+            "title": "TSMC to Spend $100 Billion in U.S. Over the Next Four Years",
+            "link": "https://www.nytimes.com/2025/03/03/technology/tsmc-investment-trump.html",
+            "published": "Mon, 03 Mar 2025 17:55:44 +0000"
+        },
         {
             "title": "How Elon Musk Uses Internet Slang to Marshal His Army of Online Fans",
             "link": "https://www.nytimes.com/2025/03/02/technology/elon-musk-internet-slang.html",
@@ -15,11 +46,6 @@
             "title": "Microsoft Will Shut Down Skype in Favor of a Free Version of Teams",
             "link": "https://www.nytimes.com/2025/02/28/technology/microsoft-skype-shutting-down.html",
             "published": "Fri, 28 Feb 2025 18:55:43 +0000"
-        },
-        {
-            "title": "Why China\u2019s Xiaomi Can Make an Electric Car and Apple Can\u2019t",
-            "link": "https://www.nytimes.com/2025/02/28/business/china-xiaomi-apple-electric-cars.html",
-            "published": "Mon, 03 Mar 2025 10:59:16 +0000"
         },
         {
             "title": "Firefly\u2019s Blue Ghost Mission 1 Successfully Lands on the Moon",
