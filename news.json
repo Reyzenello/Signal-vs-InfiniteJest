@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The UK's ICO says it's probing how TikTok uses 13-17-year-olds' personal data for content suggestions and how Reddit and Imgur verify the ages of child users (Reuters)",
+            "link": "http://www.techmeme.com/250303/p2#a250303p2",
+            "published": "Mon, 03 Mar 2025 01:20:01 -0500"
+        },
+        {
             "title": "A look at ALERTCalifornia, a program from UC San Diego, which has deployed over 1,150 AI-equipped cameras to monitor wildfires and other natural disasters (Jim Carlton/Wall Street Journal)",
             "link": "http://www.techmeme.com/250303/p1#a250303p1",
             "published": "Mon, 03 Mar 2025 00:05:00 -0500"
@@ -19,11 +24,6 @@
             "title": "CrowdStrike: in 2024, 79% of cyber intrusions were malware-free, up from 40% in 2019, voice phishing overtook phishing as the main first access method, and more (Duncan Riley/SiliconANGLE)",
             "link": "http://www.techmeme.com/250302/p11#a250302p11",
             "published": "Sun, 02 Mar 2025 17:30:01 -0500"
-        },
-        {
-            "title": "Xiaomi launches the 6.36\" Xiaomi 15 and 6.73\" Xiaomi 15 Ultra in the EU and UK, offering the Snapdragon 8 Elite, 120Hz displays, and more, for &euro;999+ and &euro;1,499+ (Simon Hill/Wired)",
-            "link": "http://www.techmeme.com/250302/p10#a250302p10",
-            "published": "Sun, 02 Mar 2025 14:05:33 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok investigated over use of childrens' data",
+            "link": "https://www.bbc.com/news/articles/c62xxz141plo",
+            "published": "Mon, 03 Mar 2025 06:10:56 GMT"
+        },
+        {
             "title": "Crypto prices rally after Trump backs five coins for 'crypto reserve'",
             "link": "https://www.bbc.com/news/articles/cn0jgggd7r4o",
             "published": "Sun, 02 Mar 2025 22:29:46 GMT"
@@ -73,11 +78,6 @@
             "title": "Lloyds Bank says app issues fixed after payday IT issue",
             "link": "https://www.bbc.com/news/articles/cz9nnz2eqzdo",
             "published": "Fri, 28 Feb 2025 12:46:48 GMT"
-        },
-        {
-            "title": "Amazon joins quantum race with 'cat qubit' powered chip",
-            "link": "https://www.bbc.com/news/articles/cly331r4p48o",
-            "published": "Thu, 27 Feb 2025 13:29:51 GMT"
         }
     ]
 }
