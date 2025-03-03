@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "New York-based corporate payments startup Ramp hit a $13B valuation in a $150M share sale to GIC, Stripes, Thrive, and others, up from $7.65B in April 2024 (George Hammond/Financial Times)",
+            "link": "http://www.techmeme.com/250303/p9#a250303p9",
+            "published": "Mon, 03 Mar 2025 07:40:01 -0500"
+        },
+        {
+            "title": "Google demos new Gemini features, including Screenshare to let users ask questions based on their phone's screen, and video search, coming later in March 2025 (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/250303/p8#a250303p8",
+            "published": "Mon, 03 Mar 2025 07:00:42 -0500"
+        },
+        {
             "title": "Guggenheim Partners CEO Mark Walter and ex-Legendary Entertainment owner Thomas Tull launch TWG Global to invest in AI, sources say with nearly $40B in assets (Antoine Gara/Financial Times)",
             "link": "http://www.techmeme.com/250303/p7#a250303p7",
             "published": "Mon, 03 Mar 2025 06:20:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Singapore charges three men in a case suspected to involve Nvidia chip sales that breach US export controls, after a tip-off the chips were exported to Malaysia (Owen Walker/Financial Times)",
             "link": "http://www.techmeme.com/250303/p5#a250303p5",
             "published": "Mon, 03 Mar 2025 05:35:40 -0500"
-        },
-        {
-            "title": "Chinese traders are selling Nvidia-equipped servers, including Blackwell, via third parties in countries like Vietnam and Taiwan; some promise six-week delivery (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250303/p4#a250303p4",
-            "published": "Mon, 03 Mar 2025 03:50:30 -0500"
-        },
-        {
-            "title": "How Anthropic monitoring its AI models playing Pok&eacute;mon games is helping the startup's researchers hone their thinking around the development of its agentic tech (Abram Brown/The Information)",
-            "link": "http://www.techmeme.com/250303/p3#a250303p3",
-            "published": "Mon, 03 Mar 2025 02:25:04 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Hegseth orders pause in US cyber-offensive against Russia",
+            "link": "https://www.bbc.com/news/articles/c2er34w0jgdo",
+            "published": "Mon, 03 Mar 2025 11:19:52 GMT"
+        },
+        {
             "title": "TikTok investigated over use of children's data",
             "link": "https://www.bbc.com/news/articles/c62xxz141plo",
             "published": "Mon, 03 Mar 2025 06:10:56 GMT"
@@ -73,11 +78,6 @@
             "title": "WhatsApp says it has resolved technical problem",
             "link": "https://www.bbc.com/news/articles/c5y0r8wdk62o",
             "published": "Fri, 28 Feb 2025 18:21:37 GMT"
-        },
-        {
-            "title": "Lloyds Bank says app issues fixed after payday IT issue",
-            "link": "https://www.bbc.com/news/articles/cz9nnz2eqzdo",
-            "published": "Fri, 28 Feb 2025 12:46:48 GMT"
         }
     ]
 }
