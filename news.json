@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The US' plan to cut federal contracts imperils Booz Allen Hamilton, which gets most of its revenue from providing IT and AI services across the government (Chip Cutter/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250302/p13#a250302p13",
+            "published": "Sun, 02 Mar 2025 20:00:45 -0500"
+        },
+        {
+            "title": "A trader used $6M to open a 50x leveraged long position on both BTC and ETH before Trump's crypto reserve announcement and closed their position for a $7M gain (Zack Abrams/The Block)",
+            "link": "http://www.techmeme.com/250302/p12#a250302p12",
+            "published": "Sun, 02 Mar 2025 19:00:14 -0500"
+        },
+        {
             "title": "CrowdStrike: in 2024, 79% of cyber intrusions were malware-free, up from 40% in 2019, voice phishing overtook phishing as the main first access method, and more (Duncan Riley/SiliconANGLE)",
             "link": "http://www.techmeme.com/250302/p11#a250302p11",
             "published": "Sun, 02 Mar 2025 17:30:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Honor pledges $10B in AI investments over the next five years and demos a proof-of-concept AI agent powered by Gemini 2 that can book restaurant reservations (Arjun Kharpal/CNBC)",
             "link": "http://www.techmeme.com/250302/p9#a250302p9",
             "published": "Sun, 02 Mar 2025 12:00:13 -0500"
-        },
-        {
-            "title": "President Trump names Bitcoin, Ethereum, XRP, Solana, and Cardano as assets to be included in a strategic US crypto reserve, causing significant price surges (CoinDesk)",
-            "link": "http://www.techmeme.com/250302/p8#a250302p8",
-            "published": "Sun, 02 Mar 2025 11:40:01 -0500"
-        },
-        {
-            "title": "An in-depth look at Apple's AI crisis, as some in Apple's AI division believe that a true conversational \"LLM Siri\" won't be ready until iOS 20 at best in 2027 (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/250302/p7#a250302p7",
-            "published": "Sun, 02 Mar 2025 10:15:03 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Crypto prices rally after Trump backs five coins for 'crypto reserve'",
+            "link": "https://www.bbc.com/news/articles/cn0jgggd7r4o",
+            "published": "Sun, 02 Mar 2025 22:29:46 GMT"
+        },
+        {
             "title": "Microsoft announces Skype will close in May",
             "link": "https://www.bbc.com/news/articles/cn7vxlrvxyeo",
             "published": "Fri, 28 Feb 2025 17:48:12 GMT"
@@ -73,11 +78,6 @@
             "title": "Amazon joins quantum race with 'cat qubit' powered chip",
             "link": "https://www.bbc.com/news/articles/cly331r4p48o",
             "published": "Thu, 27 Feb 2025 13:29:51 GMT"
-        },
-        {
-            "title": "US intelligence head 'not told' about UK's secret Apple data demand",
-            "link": "https://www.bbc.com/news/articles/c1kjmddx2nzo",
-            "published": "Thu, 27 Feb 2025 09:50:36 GMT"
         }
     ]
 }
