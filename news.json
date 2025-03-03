@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "At a press conference with Trump, TSMC CEO CC Wei says the company plans to invest $100B+ in the US over four years, in addition to its current $65B investment (Axios)",
+            "link": "http://www.techmeme.com/250303/p22#a250303p22",
+            "published": "Mon, 03 Mar 2025 15:15:03 -0500"
+        },
+        {
             "title": "Mozilla rewrites Firefox's Terms of Use, after recent changes with overly broad language about user data sparked user backlash (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/250303/p21#a250303p21",
             "published": "Mon, 03 Mar 2025 14:00:32 -0500"
@@ -19,18 +24,18 @@
             "title": "BYD unveils \"Lingyuan\", a vehicle-mounted drone launching system available for all of its vehicles that costs about $2,200, developed in collaboration with DJI (Wes Davis/The Verge)",
             "link": "http://www.techmeme.com/250303/p18#a250303p18",
             "published": "Mon, 03 Mar 2025 12:20:01 -0500"
-        },
-        {
-            "title": "Anthropic raised a $3.5B Series E at a $61.5B post-money valuation led by Lightspeed Venture Partners; it has now raised $18.2B in total funding, per Crunchbase (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250303/p17#a250303p17",
-            "published": "Mon, 03 Mar 2025 12:07:30 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "TSMC to Spend $100 Billion in U.S. Over the Next Four Years",
+            "title": "A.I. Start-Up Anthropic Closes Deal That Values It at $61.5 Billion",
+            "link": "https://www.nytimes.com/2025/03/03/technology/anthropic-ai-fund-raising-61-billion.html",
+            "published": "Mon, 03 Mar 2025 19:57:04 +0000"
+        },
+        {
+            "title": "TSMC to Spend $100 Billion in U.S. Over the Next 4 Years",
             "link": "https://www.nytimes.com/2025/03/03/technology/tsmc-investment-trump.html",
-            "published": "Mon, 03 Mar 2025 17:55:44 +0000"
+            "published": "Mon, 03 Mar 2025 19:25:41 +0000"
         },
         {
             "title": "How Elon Musk Uses Internet Slang to Marshal His Army of Online Fans",
@@ -43,14 +48,9 @@
             "published": "Fri, 28 Feb 2025 19:12:53 +0000"
         },
         {
-            "title": "Microsoft Will Shut Down Skype in Favor of a Free Version of Teams",
-            "link": "https://www.nytimes.com/2025/02/28/technology/microsoft-skype-shutting-down.html",
-            "published": "Fri, 28 Feb 2025 18:55:43 +0000"
-        },
-        {
-            "title": "A.I. Start-Up Anthropic Closes Deal That Values It at $61.5 Billion",
-            "link": "https://www.nytimes.com/2025/03/03/technology/anthropic-ai-fund-raising-61-billion.html",
-            "published": "Mon, 03 Mar 2025 19:00:35 +0000"
+            "title": "Firefly\u2019s Blue Ghost Mission 1 Successfully Lands on the Moon",
+            "link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
+            "published": "Sun, 02 Mar 2025 12:07:15 +0000"
         }
     ],
     "source_2": [
