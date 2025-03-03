@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Tim Cook posts that \"this week\" there's \"something in the AIR\", likely referring to an M4 MacBook Air launch; a new iPad Air is also expected this Spring (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/250303/p15#a250303p15",
+            "published": "Mon, 03 Mar 2025 11:20:00 -0500"
+        },
+        {
+            "title": "India's IT ministry says AWS plans to invest $8.2B in India's western state of Maharashtra over the next few years, and will deploy its own GPUs in India (Reuters)",
+            "link": "http://www.techmeme.com/250303/p14#a250303p14",
+            "published": "Mon, 03 Mar 2025 10:50:04 -0500"
+        },
+        {
+            "title": "Stability AI partners with Arm to bring Stability's Stable Audio Open, an AI model that can generate audio including sound effects, to Arm-based mobile devices (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250303/p13#a250303p13",
+            "published": "Mon, 03 Mar 2025 10:30:00 -0500"
+        },
+        {
             "title": "Microsoft unveils Dragon Copilot, a new voice-activated AI assistant for doctors, combining Dragon Medical One and ambient listening service DAX Copilot (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/250303/p12#a250303p12",
             "published": "Mon, 03 Mar 2025 10:15:01 -0500"
@@ -9,24 +24,14 @@
             "title": "Builder.ai CEO Sachin Dev Duggal says he is stepping down from the London-based startup, which has raised $450M to use AI to develop apps and websites (Alexandra Heal/Financial Times)",
             "link": "http://www.techmeme.com/250303/p11#a250303p11",
             "published": "Mon, 03 Mar 2025 09:55:00 -0500"
-        },
-        {
-            "title": "Sources: Nvidia and Broadcom are running 18A manufacturing tests with Intel, and AMD is also evaluating whether Intel's 18A process is suitable for its needs (Reuters)",
-            "link": "http://www.techmeme.com/250303/p10#a250303p10",
-            "published": "Mon, 03 Mar 2025 08:30:00 -0500"
-        },
-        {
-            "title": "New York-based corporate payments startup Ramp hit a $13B valuation in a $150M share sale to GIC, Stripes, Thrive, and others, up from $7.65B in April 2024 (George Hammond/Financial Times)",
-            "link": "http://www.techmeme.com/250303/p9#a250303p9",
-            "published": "Mon, 03 Mar 2025 07:40:01 -0500"
-        },
-        {
-            "title": "Google demos new Gemini features, including Screenshare to let users ask questions based on their phone's screen, and video search, coming later in March 2025 (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/250303/p8#a250303p8",
-            "published": "Mon, 03 Mar 2025 07:00:42 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How Elon Musk Uses Internet Slang to Marshal His Army of Online Fans",
+            "link": "https://www.nytimes.com/2025/03/02/technology/elon-musk-internet-slang.html",
+            "published": "Sun, 02 Mar 2025 18:18:27 +0000"
+        },
         {
             "title": "Under Trump, U.S. Dismantles Crypto Crackdown",
             "link": "https://www.nytimes.com/2025/02/28/technology/crypto-sec-trump.html",
@@ -43,14 +48,9 @@
             "published": "Mon, 03 Mar 2025 10:59:16 +0000"
         },
         {
-            "title": "Anthropic\u2019s C.E.O., Dario Amodei, on Surviving the A.I. Endgame",
-            "link": "https://www.nytimes.com/2025/02/28/podcasts/hardfork-anthropic-dario-amodei.html",
-            "published": "Fri, 28 Feb 2025 12:00:05 +0000"
-        },
-        {
-            "title": "How Elon Musk Uses Internet Slang to Marshal His Army of Online Fans",
-            "link": "https://www.nytimes.com/2025/03/02/technology/elon-musk-internet-slang.html",
-            "published": "Sun, 02 Mar 2025 18:18:27 +0000"
+            "title": "Firefly\u2019s Blue Ghost Mission 1 Successfully Lands on the Moon",
+            "link": "https://www.nytimes.com/2025/03/01/science/blue-ghost-firefly-mission-1-moon-landing.html",
+            "published": "Sun, 02 Mar 2025 12:07:15 +0000"
         }
     ],
     "source_2": [
