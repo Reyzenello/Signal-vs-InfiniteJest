@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google announces an experimental AI Mode in Search that lets users ask complex, multi-part questions, rolling out to Google One AI Premium subscribers (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/250305/p33#a250305p33",
+            "published": "Wed, 05 Mar 2025 13:00:41 -0500"
+        },
+        {
             "title": "Apple says not every chip generation will get an Ultra tier, after announcing the M3 Ultra, suggesting it will skip the M4 Ultra (Andrew Cunningham/Ars Technica)",
             "link": "http://www.techmeme.com/250305/p32#a250305p32",
             "published": "Wed, 05 Mar 2025 11:35:03 -0500"
@@ -19,11 +24,6 @@
             "title": "Source: OpenAI told some investors about plans for new agents: $2,000/month for knowledge work, a $10K/month for coding, and $20K/month for PhD-level research (The Information)",
             "link": "http://www.techmeme.com/250305/p29#a250305p29",
             "published": "Wed, 05 Mar 2025 10:30:01 -0500"
-        },
-        {
-            "title": "YouTube says YouTube Music and YouTube Premium now have 125M+ subscribers globally, including trials, after passing 100M subscribers in February 2024 (Murray Stassen/Music Business Worldwide)",
-            "link": "http://www.techmeme.com/250305/p28#a250305p28",
-            "published": "Wed, 05 Mar 2025 10:20:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "UK competition watchdog drops Microsoft-OpenAI probe",
+            "link": "https://www.bbc.com/news/articles/clyd87dxezvo",
+            "published": "Wed, 05 Mar 2025 17:33:48 GMT"
+        },
+        {
             "title": "Apple takes legal action in UK data privacy row",
             "link": "https://www.bbc.com/news/articles/c8rkpv50x01o",
             "published": "Tue, 04 Mar 2025 19:27:12 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok investigated over use of children's data",
             "link": "https://www.bbc.com/news/articles/c62xxz141plo",
             "published": "Mon, 03 Mar 2025 06:10:56 GMT"
-        },
-        {
-            "title": "Crypto prices rally after Trump backs five coins for 'crypto reserve'",
-            "link": "https://www.bbc.com/news/articles/cn0jgggd7r4o",
-            "published": "Sun, 02 Mar 2025 22:29:46 GMT"
         }
     ]
 }
