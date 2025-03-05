@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Apple unveils M3 Ultra, built from two 3nm M3 Max chips, offering Thunderbolt 5, a new UltraFusion packaging architecture, 80-core GPU, and up to 512GB memory (Andrew E. Freedman/Tom's Hardware)",
+            "link": "http://www.techmeme.com/250305/p23#a250305p23",
+            "published": "Wed, 05 Mar 2025 09:20:00 -0500"
+        },
+        {
+            "title": "Apple updates the Mac Studio with an M4 Max for $1,999+ and an M3 Ultra for $3,999+, with up to 32 cores, including 24 performance cores, shipping from March 12 (Wes Davis/The Verge)",
+            "link": "http://www.techmeme.com/250305/p22#a250305p22",
+            "published": "Wed, 05 Mar 2025 09:08:38 -0500"
+        },
+        {
+            "title": "Apple updates the $999+ 13-inch and $1,199+ 15-inch MacBook Air with M4, with a 10-core CPU and 8-core GPU, and a new sky blue color option, shipping March 12 (Antonio G. Di Benedetto/The Verge)",
+            "link": "http://www.techmeme.com/250305/p21#a250305p21",
+            "published": "Wed, 05 Mar 2025 09:06:43 -0500"
+        },
+        {
             "title": "The UK CMA clears Microsoft's $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says \"Microsoft did acquire material influence\" (Upmanyu Trivedi/Bloomberg)",
             "link": "http://www.techmeme.com/250305/p20#a250305p20",
             "published": "Wed, 05 Mar 2025 08:00:14 -0500"
@@ -9,21 +24,6 @@
             "title": "Digg founder Kevin Rose and Reddit founder Alexis Ohanian buy Digg for an undisclosed sum from Money Group, aiming to focus on \"connection and humanity\" online (Mike Isaac/New York Times)",
             "link": "http://www.techmeme.com/250305/p19#a250305p19",
             "published": "Wed, 05 Mar 2025 07:10:02 -0500"
-        },
-        {
-            "title": "After Qualcomm unveiled its X85 modem, CEO Cristiano Amon says it creates a \"huge delta\" in performance over Apple and is \"the first modem that has so much AI\" (Arjun Kharpal/CNBC)",
-            "link": "http://www.techmeme.com/250305/p18#a250305p18",
-            "published": "Wed, 05 Mar 2025 07:00:52 -0500"
-        },
-        {
-            "title": "Indian SaaS hiring platform Darwinbox raised $140M co-led by KKR and Partners Group, taking its total funding to $270M; the startup had a $1B+ valuation in 2022 (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250305/p17#a250305p17",
-            "published": "Wed, 05 Mar 2025 06:45:03 -0500"
-        },
-        {
-            "title": "Q&A with ex-White House AI adviser Ben Buchanan on the Biden administration, AGI, OpenAI's Deep Research, the US labor market, China, hacks, AI labs, and more (Ezra Klein/New York Times)",
-            "link": "http://www.techmeme.com/250305/p16#a250305p16",
-            "published": "Wed, 05 Mar 2025 06:25:02 -0500"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "The Return of Digg, a Star of Web 2.0",
             "link": "https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html",
-            "published": "Wed, 05 Mar 2025 11:00:10 +0000"
+            "published": "Wed, 05 Mar 2025 11:00:11 +0000"
         }
     ],
     "source_2": [
