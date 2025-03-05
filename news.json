@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Apple unveils M3 Ultra, built from two 3nm M3 Max chips, offering Thunderbolt 5, a new UltraFusion packaging architecture, 80-core GPU, and up to 512GB memory (Andrew E. Freedman/Tom's Hardware)",
-            "link": "http://www.techmeme.com/250305/p23#a250305p23",
-            "published": "Wed, 05 Mar 2025 09:20:00 -0500"
+            "title": "YouTube says YouTube Music and Premium now have 125M+ subscribers globally, including trials, after announcing 100M in February 2024 (Murray Stassen/Music Business Worldwide)",
+            "link": "http://www.techmeme.com/250305/p28#a250305p28",
+            "published": "Wed, 05 Mar 2025 10:20:02 -0500"
         },
         {
-            "title": "Apple updates the Mac Studio with an M4 Max for $1,999+ and an M3 Ultra for $3,999+, with up to 32 cores, including 24 performance cores, shipping from March 12 (Wes Davis/The Verge)",
-            "link": "http://www.techmeme.com/250305/p22#a250305p22",
-            "published": "Wed, 05 Mar 2025 09:08:38 -0500"
+            "title": "YouTube launches Premium Lite, a $7.99/month pilot in the US with ad-free videos like gaming and news, and plans to launch in Thailand, Germany, and Australia (Jack Greenberg/YouTube Official Blog)",
+            "link": "http://www.techmeme.com/250305/p27#a250305p27",
+            "published": "Wed, 05 Mar 2025 10:10:01 -0500"
         },
         {
-            "title": "Apple updates the $999+ 13-inch and $1,199+ 15-inch MacBook Air with M4, with a 10-core CPU and 8-core GPU, and a new sky blue color option, shipping March 12 (Antonio G. Di Benedetto/The Verge)",
-            "link": "http://www.techmeme.com/250305/p21#a250305p21",
-            "published": "Wed, 05 Mar 2025 09:06:43 -0500"
+            "title": "Microsoft says China-linked hacking group Silk Typhoon was targeting remote management tools and cloud apps in the US and abroad in late 2024 (Ryan Gallagher/Bloomberg)",
+            "link": "http://www.techmeme.com/250305/p26#a250305p26",
+            "published": "Wed, 05 Mar 2025 10:00:37 -0500"
         },
         {
-            "title": "The UK CMA clears Microsoft's $13B OpenAI investment in 2023, ending 14 months of uncertainty over the deal, but says \"Microsoft did acquire material influence\" (Upmanyu Trivedi/Bloomberg)",
-            "link": "http://www.techmeme.com/250305/p20#a250305p20",
-            "published": "Wed, 05 Mar 2025 08:00:14 -0500"
+            "title": "AMD Radeon RX 9070 and 9070 XT review: 16GB of VRAM, FSR 4, and lower power draw than prior Radeon cards, but no AMD reference design and they are bulky cards (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250305/p25#a250305p25",
+            "published": "Wed, 05 Mar 2025 09:45:03 -0500"
         },
         {
-            "title": "Digg founder Kevin Rose and Reddit founder Alexis Ohanian buy Digg for an undisclosed sum from Money Group, aiming to focus on \"connection and humanity\" online (Mike Isaac/New York Times)",
-            "link": "http://www.techmeme.com/250305/p19#a250305p19",
-            "published": "Wed, 05 Mar 2025 07:10:02 -0500"
+            "title": "Scale AI signs a US DOD prototype contract for \"Thunderforge\", to use AI agents for planning and operations; a source says it is a multimillion-dollar deal (Hayden Field/CNBC)",
+            "link": "http://www.techmeme.com/250305/p24#a250305p24",
+            "published": "Wed, 05 Mar 2025 09:30:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "The Return of Digg, a Star of Web 2.0",
+            "link": "https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html",
+            "published": "Wed, 05 Mar 2025 11:00:11 +0000"
+        },
+        {
+            "title": "Turing Award Goes to A.I. Pioneers Andrew Barto and Richard Sutton",
+            "link": "https://www.nytimes.com/2025/03/05/technology/turing-award-andrew-barto-richard-sutton.html",
+            "published": "Wed, 05 Mar 2025 10:03:27 +0000"
+        },
         {
             "title": "A.I. Start-Up Anthropic Closes Deal That Values It at $61.5 Billion",
             "link": "https://www.nytimes.com/2025/03/03/technology/anthropic-ai-fund-raising-61-billion.html",
@@ -38,19 +48,9 @@
             "published": "Tue, 04 Mar 2025 01:30:29 +0000"
         },
         {
-            "title": "How Elon Musk Uses Internet Slang to Marshal His Army of Online Fans",
-            "link": "https://www.nytimes.com/2025/03/02/technology/elon-musk-internet-slang.html",
-            "published": "Sun, 02 Mar 2025 18:18:27 +0000"
-        },
-        {
-            "title": "Under Trump, U.S. Dismantles Crypto Crackdown",
-            "link": "https://www.nytimes.com/2025/02/28/technology/crypto-sec-trump.html",
-            "published": "Fri, 28 Feb 2025 19:12:53 +0000"
-        },
-        {
-            "title": "The Return of Digg, a Star of Web 2.0",
-            "link": "https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html",
-            "published": "Wed, 05 Mar 2025 11:00:11 +0000"
+            "title": "Judge Denies Musk\u2019s Request to Block OpenAI\u2019s For-Profit Plan",
+            "link": "https://www.nytimes.com/2025/03/05/technology/elon-musk-openai-profit-lawsuit.html",
+            "published": "Wed, 05 Mar 2025 05:40:16 +0000"
         }
     ],
     "source_2": [
