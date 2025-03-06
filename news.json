@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Reddit adds new tools, including Post Insights and Rules Check, which lets users see if what they are posting potentially goes against a subreddit's rules (Mariella Moon/Engadget)",
+            "link": "http://www.techmeme.com/250306/p22#a250306p22",
+            "published": "Thu, 06 Mar 2025 11:15:00 -0500"
+        },
+        {
+            "title": "Sources: there haven't been negotiations between ByteDance and prospective TikTok US buyers, amid confusion over who's leading Trump administration negotiations (Dan Primack/Axios)",
+            "link": "http://www.techmeme.com/250306/p21#a250306p21",
+            "published": "Thu, 06 Mar 2025 10:55:01 -0500"
+        },
+        {
             "title": "Nansen: Trump's World Liberty Financial bought Ether worth $10M, WBTC worth $10M, and MOVE worth $1.5M ahead of the White House Crypto Summit (Brian McGleenon/The Block)",
             "link": "http://www.techmeme.com/250306/p20#a250306p20",
             "published": "Thu, 06 Mar 2025 10:25:03 -0500"
@@ -14,16 +24,6 @@
             "title": "Turing, which works with engineers to contribute code to AI projects, raised a $111M Series E led by Malaysia's sovereign wealth fund at a $2.2B valuation (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/250306/p18#a250306p18",
             "published": "Thu, 06 Mar 2025 09:10:01 -0500"
-        },
-        {
-            "title": "A look at the Trump administration's strategy to transform its traditional press shop into a rapid-response influencer operation via memes, TikTok, and podcasts (Washington Post)",
-            "link": "http://www.techmeme.com/250306/p17#a250306p17",
-            "published": "Thu, 06 Mar 2025 08:50:02 -0500"
-        },
-        {
-            "title": "DuckDuckGo says AI answers are out of beta and now get info from across the web, not just Wikipedia; setting AI answers to \"often\" shows them ~20% of the time (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250306/p16#a250306p16",
-            "published": "Thu, 06 Mar 2025 08:15:01 -0500"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Thu, 06 Mar 2025 02:06:57 +0000"
         },
         {
-            "title": "The Return of Digg, a Star of Web 2.0",
-            "link": "https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html",
-            "published": "Wed, 05 Mar 2025 19:14:00 +0000"
+            "title": "Facing the Looming Threat of A.I., Publishers Turn to Decentralized Platforms",
+            "link": "https://www.nytimes.com/2025/03/06/technology/mike-mccue-surf-browser-decentralized-internet.html",
+            "published": "Thu, 06 Mar 2025 16:28:57 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Banks pay customers millions after month's worth of IT outages",
+            "title": "Banks to pay customers millions after month's worth of IT outages",
             "link": "https://www.bbc.com/news/articles/cjd3yzx3xgvo",
-            "published": "Thu, 06 Mar 2025 14:57:25 GMT"
+            "published": "Thu, 06 Mar 2025 16:05:26 GMT"
         },
         {
             "title": "US charges Chinese hackers who targeted dissidents",
@@ -77,7 +77,7 @@
         {
             "title": "I wish my job didn't exist - the team that has to find child abuse images",
             "link": "https://www.bbc.com/news/articles/ckg843y8y7no",
-            "published": "Thu, 06 Mar 2025 12:02:06 GMT"
+            "published": "Thu, 06 Mar 2025 15:57:28 GMT"
         }
     ]
 }
