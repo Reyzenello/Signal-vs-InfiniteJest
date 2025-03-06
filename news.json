@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "1Password adds a feature to help find a login, password, or access code by adding a specific physical location to items in a new Nearby section of the app (Andrew Liszewski/The Verge)",
+            "link": "http://www.techmeme.com/250306/p19#a250306p19",
+            "published": "Thu, 06 Mar 2025 09:20:02 -0500"
+        },
+        {
+            "title": "Turing, which works with engineers to contribute code to AI projects, raised a $111M Series E led by Malaysia's sovereign wealth fund at a $2.2B valuation (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/250306/p18#a250306p18",
+            "published": "Thu, 06 Mar 2025 09:10:01 -0500"
+        },
+        {
+            "title": "A look at the Trump administration's strategy to transform its traditional press shop into a rapid-response influencer operation via memes, TikTok, and podcasts (Washington Post)",
+            "link": "http://www.techmeme.com/250306/p17#a250306p17",
+            "published": "Thu, 06 Mar 2025 08:50:02 -0500"
+        },
+        {
             "title": "DuckDuckGo says AI answers are out of beta and now get info from across the web, not just Wikipedia; setting AI answers to \"often\" shows them ~20% of the time (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/250306/p16#a250306p16",
             "published": "Thu, 06 Mar 2025 08:15:01 -0500"
@@ -9,24 +24,24 @@
             "title": "Kuo: Apple is developing an updated C1 modem chip for mass production in 2026 with mmWave support and improved power consumption and transmission speed (Tim Hardwick/MacRumors)",
             "link": "http://www.techmeme.com/250306/p15#a250306p15",
             "published": "Thu, 06 Mar 2025 07:25:00 -0500"
-        },
-        {
-            "title": "US Commerce Secretary Howard Lutnick unveils an overhaul of Biden's $42B broadband grant to \"take a tech-neutral approach\", a move that could benefit Starlink (Cecilia Kang/New York Times)",
-            "link": "http://www.techmeme.com/250306/p14#a250306p14",
-            "published": "Thu, 06 Mar 2025 07:05:01 -0500"
-        },
-        {
-            "title": "JD reports Q4 revenue up 13% YoY to ~$48B, its fastest growth in three years and above est., net income up 100%+ to ~$1.4B, as Chinese consumer spending rises (Bloomberg)",
-            "link": "http://www.techmeme.com/250306/p13#a250306p13",
-            "published": "Thu, 06 Mar 2025 06:50:01 -0500"
-        },
-        {
-            "title": "Sources: President Trump is set to meet the CEOs of HP, Intel, IBM, and Qualcomm on March 10, as new US tariffs threaten to roil the PC hardware industry (Bloomberg)",
-            "link": "http://www.techmeme.com/250306/p12#a250306p12",
-            "published": "Thu, 06 Mar 2025 06:30:03 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How the Crypto Exchange Bybit Lost $1.5 Billion to North Korean Hackers",
+            "link": "https://www.nytimes.com/2025/03/06/technology/bybit-crypto-hack-north-korea.html",
+            "published": "Thu, 06 Mar 2025 13:37:57 +0000"
+        },
+        {
+            "title": "Taiwan President Defends TSMC\u2019s $100 Billion U.S. Chip Investment",
+            "link": "https://www.nytimes.com/2025/03/06/world/asia/taiwan-tsmc-chips-arizona.html",
+            "published": "Thu, 06 Mar 2025 12:05:17 +0000"
+        },
+        {
+            "title": "Federal Grant Program Opens Door to Elon Musk\u2019s Starlink",
+            "link": "https://www.nytimes.com/2025/03/05/technology/broadband-rules-elon-musk-starlink.html",
+            "published": "Thu, 06 Mar 2025 01:29:33 +0000"
+        },
         {
             "title": "Discord in Early Talks With Bankers for Potential I.P.O.",
             "link": "https://www.nytimes.com/2025/03/05/technology/discord-ipo.html",
@@ -36,21 +51,6 @@
             "title": "The Return of Digg, a Star of Web 2.0",
             "link": "https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html",
             "published": "Wed, 05 Mar 2025 19:14:00 +0000"
-        },
-        {
-            "title": "Turing Award Goes to A.I. Pioneers Andrew Barto and Richard Sutton",
-            "link": "https://www.nytimes.com/2025/03/05/technology/turing-award-andrew-barto-richard-sutton.html",
-            "published": "Wed, 05 Mar 2025 10:03:27 +0000"
-        },
-        {
-            "title": "A.I. Start-Up Anthropic Closes Deal That Values It at $61.5 Billion",
-            "link": "https://www.nytimes.com/2025/03/03/technology/anthropic-ai-fund-raising-61-billion.html",
-            "published": "Mon, 03 Mar 2025 19:57:04 +0000"
-        },
-        {
-            "title": "How the Crypto Exchange Bybit Lost $1.5 Billion to North Korean Hackers",
-            "link": "https://www.nytimes.com/2025/03/06/technology/bybit-crypto-hack-north-korea.html",
-            "published": "Thu, 06 Mar 2025 10:01:56 +0000"
         }
     ],
     "source_2": [
