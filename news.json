@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "MongoDB Q4: revenue up ~20% YoY to $548.4M, vs. $519.6M est., and projects the slowest growth for FY 2026 since going public in 2017; MDB drops 16%+ after hours (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/250305/p49#a250305p49",
+            "published": "Wed, 05 Mar 2025 21:55:01 -0500"
+        },
+        {
             "title": "Broadcom fixes three VMware zero-days exploited in the wild; attackers with admin privileges can chain the flaws to escape the virtual machine's sandbox (Sergiu Gatlan/BleepingComputer)",
             "link": "http://www.techmeme.com/250305/p48#a250305p48",
             "published": "Wed, 05 Mar 2025 20:35:02 -0500"
@@ -19,18 +24,13 @@
             "title": "Shares of the chipmaker SiTime closed up 19.53% on Wednesday after an iPhone 16e teardown revealed that its timer chips are used in the smartphone (Bloomberg)",
             "link": "http://www.techmeme.com/250305/p45#a250305p45",
             "published": "Wed, 05 Mar 2025 19:30:09 -0500"
-        },
-        {
-            "title": "SpecterOps, a cybersecurity company focused on detecting and addressing identity-based attack paths, raised a $75M Series B led by Insight Partners (Duncan Riley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/250305/p44#a250305p44",
-            "published": "Wed, 05 Mar 2025 18:40:03 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Discord in Early Talks With Bankers for Potential I.P.O.",
             "link": "https://www.nytimes.com/2025/03/05/technology/discord-ipo.html",
-            "published": "Wed, 05 Mar 2025 23:04:55 +0000"
+            "published": "Thu, 06 Mar 2025 02:06:57 +0000"
         },
         {
             "title": "The Return of Digg, a Star of Web 2.0",
@@ -50,7 +50,7 @@
         {
             "title": "Federal Grant Program Opens Door to Elon Musk\u2019s Starlink",
             "link": "https://www.nytimes.com/2025/03/05/technology/broadband-rules-elon-musk-starlink.html",
-            "published": "Thu, 06 Mar 2025 01:29:32 +0000"
+            "published": "Thu, 06 Mar 2025 01:29:33 +0000"
         }
     ],
     "source_2": [
