@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "In a policy paper, Eric Schmidt, Scale AI's Alexandr Wang, and Center for AI Safety's Dan Hendrycks argue the US should not pursue a \"Manhattan Project\" for AGI (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250306/p8#a250306p8",
+            "published": "Thu, 06 Mar 2025 02:30:02 -0500"
+        },
+        {
             "title": "A TollBit analysis of 160 websites on its content licensing platform finds AI search engines drive 96% less referral traffic than traditional Google Search (Rashi Shrivastava/Forbes)",
             "link": "http://www.techmeme.com/250306/p7#a250306p7",
             "published": "Thu, 06 Mar 2025 02:25:01 -0500"
@@ -19,11 +24,6 @@
             "title": "ON Semiconductor reveals a $6.9B bid to acquire chipmaker Allegro Microsystems, which had a ~$4.9B market cap as of March 5, while Onsemi's stood at $19.6B (Bloomberg)",
             "link": "http://www.techmeme.com/250306/p4#a250306p4",
             "published": "Thu, 06 Mar 2025 01:00:01 -0500"
-        },
-        {
-            "title": "Sources: Microsoft canceled some CoreWeave agreements over delivery issues and missed deadlines before its IPO; Microsoft made up 62% of CoreWeave's 2024 sales (Financial Times)",
-            "link": "http://www.techmeme.com/250306/p3#a250306p3",
-            "published": "Thu, 06 Mar 2025 00:40:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Month of bank IT failures in the last two years, MPs say",
+            "link": "https://www.bbc.com/news/articles/cjd3yzx3xgvo",
+            "published": "Thu, 06 Mar 2025 08:18:40 GMT"
+        },
+        {
             "title": "US charges Chinese hackers who targeted dissidents",
             "link": "https://www.bbc.com/news/articles/cj4nw84dzr8o",
             "published": "Thu, 06 Mar 2025 04:58:15 GMT"
@@ -73,11 +78,6 @@
             "title": "I wish my job didn't exist - the team that has to find child abuse images",
             "link": "https://www.bbc.com/news/articles/ckg843y8y7no",
             "published": "Thu, 06 Mar 2025 06:07:28 GMT"
-        },
-        {
-            "title": "Hellblade 2 leads the way at Bafta Games Awards",
-            "link": "https://www.bbc.com/news/articles/c201p1w53ypo",
-            "published": "Tue, 04 Mar 2025 14:11:09 GMT"
         }
     ]
 }
