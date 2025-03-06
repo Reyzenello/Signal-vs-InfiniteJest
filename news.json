@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "ON Semiconductor reveals a $6.9B bid to acquire chipmaker Allegro Microsystems, which had a ~$4.9B market cap as of March 5, while Onsemi's stood at $19.6B (Bloomberg)",
+            "link": "http://www.techmeme.com/250306/p4#a250306p4",
+            "published": "Thu, 06 Mar 2025 01:00:01 -0500"
+        },
+        {
+            "title": "Sources: Microsoft canceled some CoreWeave agreements over delivery issues and missed deadlines before its IPO; Microsoft made up 62% of CoreWeave's 2024 sales (Financial Times)",
+            "link": "http://www.techmeme.com/250306/p3#a250306p3",
+            "published": "Thu, 06 Mar 2025 00:40:01 -0500"
+        },
+        {
             "title": "USCIS proposes to review social media accounts of people applying for US citizenship, green cards, and asylum or refugee status, to comply with Trump's EO (Gaby Del Valle/The Verge)",
             "link": "http://www.techmeme.com/250306/p2#a250306p2",
             "published": "Thu, 06 Mar 2025 00:25:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Intel defeats a shareholder lawsuit accusing it of fraudulently concealing problems in its foundry unit, leading to job cuts and a $32B stock plunge (Jonathan Stempel/Reuters)",
             "link": "http://www.techmeme.com/250305/p54#a250305p54",
             "published": "Wed, 05 Mar 2025 23:35:01 -0500"
-        },
-        {
-            "title": "Microsoft unveils Sales Agent and Sales Chat AI agents, available in public preview in May, designed to work with Dynamics 365 business apps and with Salesforce (Todd Bishop/GeekWire)",
-            "link": "http://www.techmeme.com/250305/p53#a250305p53",
-            "published": "Wed, 05 Mar 2025 23:30:01 -0500"
-        },
-        {
-            "title": "Salesforce announces Agentforce 2dx, letting AI agents work proactively and autonomously across enterprise systems without constant human supervision (Michael Nu&ntilde;ez/VentureBeat)",
-            "link": "http://www.techmeme.com/250305/p52#a250305p52",
-            "published": "Wed, 05 Mar 2025 23:00:15 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US charges Chinese hackers who targeted dissidents",
+            "link": "https://www.bbc.com/news/articles/cj4nw84dzr8o",
+            "published": "Thu, 06 Mar 2025 04:58:15 GMT"
+        },
+        {
             "title": "UK competition watchdog drops Microsoft-OpenAI probe",
             "link": "https://www.bbc.com/news/articles/clyd87dxezvo",
             "published": "Wed, 05 Mar 2025 17:33:48 GMT"
@@ -67,17 +72,12 @@
         {
             "title": "'I look at hundreds of child sex abuse images every week to stop them'",
             "link": "https://www.bbc.com/news/articles/ckg843y8y7no",
-            "published": "Wed, 05 Mar 2025 23:00:05 GMT"
+            "published": "Thu, 06 Mar 2025 06:07:28 GMT"
         },
         {
             "title": "Hellblade 2 leads the way at Bafta Games Awards",
             "link": "https://www.bbc.com/news/articles/c201p1w53ypo",
             "published": "Tue, 04 Mar 2025 14:11:09 GMT"
-        },
-        {
-            "title": "Hegseth orders pause in US cyber-offensive against Russia",
-            "link": "https://www.bbc.com/news/articles/c2er34w0jgdo",
-            "published": "Mon, 03 Mar 2025 11:19:52 GMT"
         }
     ]
 }
