@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A TollBit analysis of 160 websites on its content licensing platform finds AI search engines drive 96% less referral traffic than traditional Google Search (Rashi Shrivastava/Forbes)",
+            "link": "http://www.techmeme.com/250306/p7#a250306p7",
+            "published": "Thu, 06 Mar 2025 02:25:01 -0500"
+        },
+        {
+            "title": "India's Income Tax Bill 2025 grants income tax officers the legal authority to access taxpayers' email and social media accounts if they suspect tax evasion (Ira Alok Puranik/The Economic Times)",
+            "link": "http://www.techmeme.com/250306/p6#a250306p6",
+            "published": "Thu, 06 Mar 2025 02:00:41 -0500"
+        },
+        {
+            "title": "Alibaba releases QwQ-32B, an open-source reasoning model, on Hugging Face and ModelScope, claiming performance similar to DeepSeek-R1 with lower compute needs (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/250306/p5#a250306p5",
+            "published": "Thu, 06 Mar 2025 01:50:00 -0500"
+        },
+        {
             "title": "ON Semiconductor reveals a $6.9B bid to acquire chipmaker Allegro Microsystems, which had a ~$4.9B market cap as of March 5, while Onsemi's stood at $19.6B (Bloomberg)",
             "link": "http://www.techmeme.com/250306/p4#a250306p4",
             "published": "Thu, 06 Mar 2025 01:00:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Sources: Microsoft canceled some CoreWeave agreements over delivery issues and missed deadlines before its IPO; Microsoft made up 62% of CoreWeave's 2024 sales (Financial Times)",
             "link": "http://www.techmeme.com/250306/p3#a250306p3",
             "published": "Thu, 06 Mar 2025 00:40:01 -0500"
-        },
-        {
-            "title": "USCIS proposes to review social media accounts of people applying for US citizenship, green cards, and asylum or refugee status, to comply with Trump's EO (Gaby Del Valle/The Verge)",
-            "link": "http://www.techmeme.com/250306/p2#a250306p2",
-            "published": "Thu, 06 Mar 2025 00:25:01 -0500"
-        },
-        {
-            "title": "NY-based Ataraxis AI, which uses AI to predict if a patient has cancer and what their cancer outcome looks like, raised a $20.4M Series A led by AIX Ventures (Charles Rollet/TechCrunch)",
-            "link": "http://www.techmeme.com/250306/p1#a250306p1",
-            "published": "Thu, 06 Mar 2025 00:00:13 -0500"
-        },
-        {
-            "title": "Intel defeats a shareholder lawsuit accusing it of fraudulently concealing problems in its foundry unit, leading to job cuts and a $32B stock plunge (Jonathan Stempel/Reuters)",
-            "link": "http://www.techmeme.com/250305/p54#a250305p54",
-            "published": "Wed, 05 Mar 2025 23:35:01 -0500"
         }
     ],
     "source_1": [
@@ -70,7 +70,7 @@
             "published": "Tue, 04 Mar 2025 19:27:12 GMT"
         },
         {
-            "title": "'I look at hundreds of child sex abuse images every week to stop them'",
+            "title": "I wish my job didn't exist - the team that has to find child abuse images",
             "link": "https://www.bbc.com/news/articles/ckg843y8y7no",
             "published": "Thu, 06 Mar 2025 06:07:28 GMT"
         },
