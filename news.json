@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "USCIS proposes to review social media accounts of people applying for US citizenship, green cards, and asylum or refugee status, to comply with Trump's EO (Gaby Del Valle/The Verge)",
+            "link": "http://www.techmeme.com/250306/p2#a250306p2",
+            "published": "Thu, 06 Mar 2025 00:25:01 -0500"
+        },
+        {
+            "title": "NY-based Ataraxis AI, which uses AI to predict if a patient has cancer and what their cancer outcome looks like, raised a $20.4M Series A led by AIX Ventures (Charles Rollet/TechCrunch)",
+            "link": "http://www.techmeme.com/250306/p1#a250306p1",
+            "published": "Thu, 06 Mar 2025 00:00:13 -0500"
+        },
+        {
+            "title": "Intel defeats a shareholder lawsuit accusing it of fraudulently concealing problems in its foundry unit, leading to job cuts and a $32B stock plunge (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/250305/p54#a250305p54",
+            "published": "Wed, 05 Mar 2025 23:35:01 -0500"
+        },
+        {
+            "title": "Microsoft unveils Sales Agent and Sales Chat AI agents, available in public preview in May, designed to work with Dynamics 365 business apps and with Salesforce (Todd Bishop/GeekWire)",
+            "link": "http://www.techmeme.com/250305/p53#a250305p53",
+            "published": "Wed, 05 Mar 2025 23:30:01 -0500"
+        },
+        {
             "title": "Salesforce announces Agentforce 2dx, letting AI agents work proactively and autonomously across enterprise systems without constant human supervision (Michael Nu&ntilde;ez/VentureBeat)",
             "link": "http://www.techmeme.com/250305/p52#a250305p52",
             "published": "Wed, 05 Mar 2025 23:00:15 -0500"
-        },
-        {
-            "title": "Ola's AI venture Krutrim partners with Lenovo to develop the 700B-parameter Krutrim 3 LLM and India's largest supercomputer, as India grows its AI capabilities (The Economic Times)",
-            "link": "http://www.techmeme.com/250305/p51#a250305p51",
-            "published": "Wed, 05 Mar 2025 22:45:01 -0500"
-        },
-        {
-            "title": "Tel Aviv-based Grain, which helps businesses find the best FX hedges using FX derivatives and AI, emerges from stealth with a $33M Series A and an $18M seed (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250305/p50#a250305p50",
-            "published": "Wed, 05 Mar 2025 22:20:01 -0500"
-        },
-        {
-            "title": "MongoDB Q4: revenue up ~20% YoY to $548.4M, vs. $519.6M est., and projects the slowest growth for FY 2026 since going public in 2017; MDB drops 16%+ after hours (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/250305/p49#a250305p49",
-            "published": "Wed, 05 Mar 2025 21:55:01 -0500"
-        },
-        {
-            "title": "Broadcom fixes three VMware zero-days exploited in the wild; attackers with admin privileges can chain the flaws to escape the virtual machine's sandbox (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/250305/p48#a250305p48",
-            "published": "Wed, 05 Mar 2025 20:35:02 -0500"
         }
     ],
     "source_1": [
@@ -65,6 +65,11 @@
             "published": "Tue, 04 Mar 2025 19:27:12 GMT"
         },
         {
+            "title": "'I look at hundreds of child sex abuse images every week to stop them'",
+            "link": "https://www.bbc.com/news/articles/ckg843y8y7no",
+            "published": "Wed, 05 Mar 2025 23:00:05 GMT"
+        },
+        {
             "title": "Hellblade 2 leads the way at Bafta Games Awards",
             "link": "https://www.bbc.com/news/articles/c201p1w53ypo",
             "published": "Tue, 04 Mar 2025 14:11:09 GMT"
@@ -73,11 +78,6 @@
             "title": "Hegseth orders pause in US cyber-offensive against Russia",
             "link": "https://www.bbc.com/news/articles/c2er34w0jgdo",
             "published": "Mon, 03 Mar 2025 11:19:52 GMT"
-        },
-        {
-            "title": "TikTok investigated over use of children's data",
-            "link": "https://www.bbc.com/news/articles/c62xxz141plo",
-            "published": "Mon, 03 Mar 2025 06:10:56 GMT"
         }
     ]
 }
