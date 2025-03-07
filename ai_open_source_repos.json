@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "name": "sql-translator",
+        "full_name": "whoiskatrin/sql-translator",
+        "html_url": "https://github.com/whoiskatrin/sql-translator",
+        "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source."
+    },
+    {
+        "name": "wppconnect",
+        "full_name": "wppconnect-team/wppconnect",
+        "html_url": "https://github.com/wppconnect-team/wppconnect",
+        "description": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination"
+    },
+    {
+        "name": "pywinassistant",
+        "full_name": "a-real-ai/pywinassistant",
+        "html_url": "https://github.com/a-real-ai/pywinassistant",
+        "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions."
+    },
+    {
+        "name": "AI-Resources-Central",
+        "full_name": "CoderSJX/AI-Resources-Central",
+        "html_url": "https://github.com/CoderSJX/AI-Resources-Central",
+        "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. "
+    },
+    {
+        "name": "PIXIU",
+        "full_name": "The-FinAI/PIXIU",
+        "html_url": "https://github.com/The-FinAI/PIXIU",
+        "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI)."
+    },
+    {
+        "name": "awesome-ai",
+        "full_name": "hades217/awesome-ai",
+        "html_url": "https://github.com/hades217/awesome-ai",
+        "description": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)"
+    },
+    {
+        "name": "clai",
+        "full_name": "IBM/clai",
+        "html_url": "https://github.com/IBM/clai",
+        "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
+    },
+    {
+        "name": "taranis-ai",
+        "full_name": "taranis-ai/taranis-ai",
+        "html_url": "https://github.com/taranis-ai/taranis-ai",
+        "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis."
+    },
+    {
+        "name": "shoggoth",
+        "full_name": "shog-ai/shoggoth",
+        "html_url": "https://github.com/shog-ai/shoggoth",
+        "description": "Shoggoth is a peer-to-peer network for publishing and distributing open-source Artificial Intelligence"
+    },
+    {
+        "name": "hypergraphdb",
+        "full_name": "hypergraphdb/hypergraphdb",
+        "html_url": "https://github.com/hypergraphdb/hypergraphdb",
+        "description": "HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and semantic web projects, it can also be used as an embedded object-oriented database for projects of all sizes."
+    }
+]
