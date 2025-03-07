@@ -1,17 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "CoreWeave denies an FT report that Microsoft withdrew from some of its agreements ahead of CoreWeave's IPO, saying \"there have been no contract cancellations\" (Angela Christy/Reuters)",
+            "link": "http://www.techmeme.com/250306/p40#a250306p40",
+            "published": "Thu, 06 Mar 2025 21:05:02 -0500"
+        },
+        {
             "title": "Sam Altman's World Network unveils World Chat, a \"mini app\" in the World App wallet for messaging and sending and receiving crypto, in beta on Android and iOS (Margaux Nijkerk/CoinDesk)",
             "link": "http://www.techmeme.com/250306/p39#a250306p39",
             "published": "Thu, 06 Mar 2025 20:25:01 -0500"
         },
         {
-            "title": "Trump signs an EO to establish a Strategic Bitcoin Reserve and a Digital Asset Stockpile, with BTC and other digital assets forfeited in criminal or civil cases (Jesse Coghlan/Cointelegraph)",
+            "title": "Trump signs an EO to establish a Strategic Bitcoin Reserve and a Digital Asset Stockpile using BTC and other digital assets forfeited in criminal or civil cases (Jesse Coghlan/Cointelegraph)",
             "link": "http://www.techmeme.com/250306/p38#a250306p38",
             "published": "Thu, 06 Mar 2025 19:45:02 -0500"
         },
         {
-            "title": "A Brazilian judge gives Apple 90 days to allow sideloading on iOS in Brazil, saying the \"limitations\" imposed by Apple on developers could stifle competition (Filipe Esp&oacute;sito/9to5Mac)",
+            "title": "A Brazilian judge gives Apple 90 days to allow sideloading on iOS in Brazil, saying the \"limitations\" imposed by Apple on developers could deter new competitors (Filipe Esp&oacute;sito/9to5Mac)",
             "link": "http://www.techmeme.com/250306/p37#a250306p37",
             "published": "Thu, 06 Mar 2025 19:00:45 -0500"
         },
@@ -19,18 +24,23 @@
             "title": "DoubleZero, which is coordinating a global network of fiber optic cables to improve blockchains, raised $28M in a token round, sources say at a $400M valuation (Danny Nelson/CoinDesk)",
             "link": "http://www.techmeme.com/250306/p36#a250306p36",
             "published": "Thu, 06 Mar 2025 18:20:00 -0500"
-        },
-        {
-            "title": "The US Department of Labor has been investigating Scale AI for compliance with the Fair Labor Standards Act, a source says since at least August 2024 (Charles Rollet/TechCrunch)",
-            "link": "http://www.techmeme.com/250306/p35#a250306p35",
-            "published": "Thu, 06 Mar 2025 17:50:03 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "Trump Signs Order to Create a \u2018Crypto Reserve,\u2019 Adviser Says",
+            "link": "https://www.nytimes.com/2025/03/06/technology/trump-crypto-reserve-executive-order.html",
+            "published": "Fri, 07 Mar 2025 01:58:14 +0000"
+        },
+        {
             "title": "How the Crypto Exchange Bybit Lost $1.5 Billion to North Korean Hackers",
             "link": "https://www.nytimes.com/2025/03/06/technology/bybit-crypto-hack-north-korea.html",
             "published": "Thu, 06 Mar 2025 15:07:24 +0000"
+        },
+        {
+            "title": "StubHub Eyes Potential I.P.O. as Soon as This Year",
+            "link": "https://www.nytimes.com/2025/03/06/technology/figma-stubhub-ipo.html",
+            "published": "Fri, 07 Mar 2025 00:21:44 +0000"
         },
         {
             "title": "Facing the Looming Threat of A.I., Publishers Turn to Decentralized Platforms",
@@ -38,31 +48,26 @@
             "published": "Thu, 06 Mar 2025 16:28:58 +0000"
         },
         {
-            "title": "Taiwan President Defends TSMC\u2019s $100 Billion U.S. Chip Investment",
-            "link": "https://www.nytimes.com/2025/03/06/world/asia/taiwan-tsmc-chips-arizona.html",
-            "published": "Thu, 06 Mar 2025 12:05:17 +0000"
-        },
-        {
-            "title": "Federal Grant Program Opens Door to Elon Musk\u2019s Starlink",
-            "link": "https://www.nytimes.com/2025/03/05/technology/broadband-rules-elon-musk-starlink.html",
-            "published": "Thu, 06 Mar 2025 01:29:33 +0000"
-        },
-        {
-            "title": "StubHub Eyes Potential I.P.O. as Soon as This Year",
-            "link": "https://www.nytimes.com/2025/03/06/technology/figma-stubhub-ipo.html",
-            "published": "Fri, 07 Mar 2025 00:21:44 +0000"
+            "title": "How Dan Bongino Would Run the F.B.I., According to Dan Bongino",
+            "link": "https://www.nytimes.com/2025/03/06/technology/dan-bongino-fbi.html",
+            "published": "Thu, 06 Mar 2025 21:05:15 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Flights halted at some Florida airports over SpaceX debris",
-            "link": "https://www.bbc.com/news/articles/cj92wgeyvzzo",
-            "published": "Fri, 07 Mar 2025 01:52:55 GMT"
+            "title": "Plan to ban smart phones in schools scrapped by MP",
+            "link": "https://www.bbc.com/news/articles/cq8y7dvw9ddo",
+            "published": "Fri, 07 Mar 2025 02:16:15 GMT"
         },
         {
             "title": "Banks to pay customers millions after month's worth of IT outages",
             "link": "https://www.bbc.com/news/articles/cjd3yzx3xgvo",
             "published": "Thu, 06 Mar 2025 16:05:26 GMT"
+        },
+        {
+            "title": "Flights halted at some Florida airports over SpaceX debris",
+            "link": "https://www.bbc.com/news/articles/cj92wgeyvzzo",
+            "published": "Fri, 07 Mar 2025 02:10:57 GMT"
         },
         {
             "title": "US charges Chinese hackers who targeted dissidents",
@@ -73,11 +78,6 @@
             "title": "UK competition watchdog drops Microsoft-OpenAI probe",
             "link": "https://www.bbc.com/news/articles/clyd87dxezvo",
             "published": "Wed, 05 Mar 2025 17:33:48 GMT"
-        },
-        {
-            "title": "Apple takes legal action in UK data privacy row",
-            "link": "https://www.bbc.com/news/articles/c8rkpv50x01o",
-            "published": "Tue, 04 Mar 2025 19:27:12 GMT"
         }
     ]
 }
