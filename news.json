@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An audit found that 10 top AI chatbots, including ChatGPT, Copilot, and Gemini, repeated false claims from a pro-Kremlin disinformation network 33% of the time (NewsGuard's Reality Check)",
+            "link": "http://www.techmeme.com/250306/p42#a250306p42",
+            "published": "Thu, 06 Mar 2025 22:50:00 -0500"
+        },
+        {
             "title": "Former OpenAI policy researcher Miles Brundage criticizes OpenAI for \"rewriting the history of GPT-2\", after OpenAI outlined its safety and alignment philosophy (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250306/p41#a250306p41",
             "published": "Thu, 06 Mar 2025 22:05:02 -0500"
@@ -19,11 +24,6 @@
             "title": "Trump signs an EO to establish a Strategic Bitcoin Reserve and a Digital Asset Stockpile using BTC and other digital assets forfeited in criminal or civil cases (Jesse Coghlan/Cointelegraph)",
             "link": "http://www.techmeme.com/250306/p38#a250306p38",
             "published": "Thu, 06 Mar 2025 19:45:02 -0500"
-        },
-        {
-            "title": "A Brazilian judge gives Apple 90 days to allow sideloading on iOS in Brazil, saying the \"limitations\" imposed by Apple on developers could deter new competitors (Filipe Esp&oacute;sito/9to5Mac)",
-            "link": "http://www.techmeme.com/250306/p37#a250306p37",
-            "published": "Thu, 06 Mar 2025 19:00:45 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Why did Trump just establish a crypto strategic reserve?",
+            "link": "https://www.bbc.com/news/articles/cqx0g1py5v0o",
+            "published": "Fri, 07 Mar 2025 03:39:57 GMT"
+        },
+        {
             "title": "Plan to ban smart phones in schools scrapped by MP",
             "link": "https://www.bbc.com/news/articles/cq8y7dvw9ddo",
             "published": "Fri, 07 Mar 2025 02:16:15 GMT"
@@ -65,19 +70,14 @@
             "published": "Thu, 06 Mar 2025 16:05:26 GMT"
         },
         {
-            "title": "Flights halted at some Florida airports over SpaceX debris",
+            "title": "SpaceX rocket explodes, raining debris from sky for second time in a row",
             "link": "https://www.bbc.com/news/articles/cj92wgeyvzzo",
-            "published": "Fri, 07 Mar 2025 02:10:57 GMT"
+            "published": "Fri, 07 Mar 2025 04:03:55 GMT"
         },
         {
             "title": "US charges Chinese hackers who targeted dissidents",
             "link": "https://www.bbc.com/news/articles/cj4nw84dzr8o",
             "published": "Thu, 06 Mar 2025 08:37:09 GMT"
-        },
-        {
-            "title": "UK competition watchdog drops Microsoft-OpenAI probe",
-            "link": "https://www.bbc.com/news/articles/clyd87dxezvo",
-            "published": "Wed, 05 Mar 2025 17:33:48 GMT"
         }
     ]
 }
