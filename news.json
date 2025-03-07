@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Investors are turning to \"AI wrappers\", startups that leverage existing LLMs by other developers to build tools for coders, clinicians, lawyers, and others (Kate Clark/Bloomberg)",
+            "title": "Source: Microsoft completed the training of a family of models, codenamed MAI, and is experimenting swapping out the MAI models for OpenAI's models in Copilot (Aaron Holmes/The Information)",
+            "link": "http://www.techmeme.com/250307/p6#a250307p6",
+            "published": "Fri, 07 Mar 2025 09:20:02 -0500"
+        },
+        {
+            "title": "VCs are increasingly pouring money into \"AI wrappers\", startups that leverage other developers' LLMs to build tools for coders, clinicians, lawyers, and others (Kate Clark/Bloomberg)",
             "link": "http://www.techmeme.com/250307/p5#a250307p5",
             "published": "Fri, 07 Mar 2025 08:00:13 -0500"
         },
@@ -19,14 +24,19 @@
             "title": "A look at McDonald's new tech initiatives, including the use of edge computing to predict equipment breakdowns and computer vision to ensure order accuracy (Wall Street Journal)",
             "link": "http://www.techmeme.com/250307/p2#a250307p2",
             "published": "Fri, 07 Mar 2025 02:20:02 -0500"
-        },
-        {
-            "title": "Sources: Meta plans to add improved voice features in Llama 4, expected in weeks, betting that future AI agents will be conversational rather than text-led (Financial Times)",
-            "link": "http://www.techmeme.com/250307/p1#a250307p1",
-            "published": "Fri, 07 Mar 2025 00:50:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Is Google Search Cooked? + We\u2019re Getting a U.S. Crypto Reserve? + What You\u2019re Vibecoding",
+            "link": "https://www.nytimes.com/2025/03/07/podcasts/hardfork-google-ai-mode.html",
+            "published": "Fri, 07 Mar 2025 12:00:07 +0000"
+        },
+        {
+            "title": "How Dan Bongino Would Run the F.B.I., According to Dan Bongino",
+            "link": "https://www.nytimes.com/2025/03/06/technology/dan-bongino-fbi.html",
+            "published": "Thu, 06 Mar 2025 21:05:16 +0000"
+        },
         {
             "title": "Trump Signs Order to Create a \u2018Crypto Reserve\u2019",
             "link": "https://www.nytimes.com/2025/03/06/technology/trump-crypto-reserve-executive-order.html",
@@ -41,16 +51,6 @@
             "title": "StubHub Eyes Potential I.P.O. as Soon as This Year",
             "link": "https://www.nytimes.com/2025/03/06/technology/figma-stubhub-ipo.html",
             "published": "Fri, 07 Mar 2025 00:21:44 +0000"
-        },
-        {
-            "title": "Facing the Looming Threat of A.I., Publishers Turn to Decentralized Platforms",
-            "link": "https://www.nytimes.com/2025/03/06/technology/mike-mccue-surf-browser-decentralized-internet.html",
-            "published": "Thu, 06 Mar 2025 16:28:58 +0000"
-        },
-        {
-            "title": "Is Google Search Cooked? + We\u2019re Getting a U.S. Crypto Reserve? + What You\u2019re Vibecoding",
-            "link": "https://www.nytimes.com/2025/03/07/podcasts/hardfork-google-ai-mode.html",
-            "published": "Fri, 07 Mar 2025 12:00:07 +0000"
         }
     ],
     "source_2": [
