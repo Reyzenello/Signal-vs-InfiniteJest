@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sam Altman's World Network unveils World Chat, a \"mini app\" in the World App wallet for messaging and sending and receiving crypto, in beta on Android and iOS (Margaux Nijkerk/CoinDesk)",
+            "link": "http://www.techmeme.com/250306/p39#a250306p39",
+            "published": "Thu, 06 Mar 2025 20:25:01 -0500"
+        },
+        {
+            "title": "Trump signs an EO to establish a Strategic Bitcoin Reserve and a Digital Asset Stockpile, with BTC and other digital assets forfeited in criminal or civil cases (Jesse Coghlan/Cointelegraph)",
+            "link": "http://www.techmeme.com/250306/p38#a250306p38",
+            "published": "Thu, 06 Mar 2025 19:45:02 -0500"
+        },
+        {
+            "title": "A Brazilian judge gives Apple 90 days to allow sideloading on iOS in Brazil, saying the \"limitations\" imposed by Apple on developers could stifle competition (Filipe Esp&oacute;sito/9to5Mac)",
+            "link": "http://www.techmeme.com/250306/p37#a250306p37",
+            "published": "Thu, 06 Mar 2025 19:00:45 -0500"
+        },
+        {
             "title": "DoubleZero, which is coordinating a global network of fiber optic cables to improve blockchains, raised $28M in a token round, sources say at a $400M valuation (Danny Nelson/CoinDesk)",
             "link": "http://www.techmeme.com/250306/p36#a250306p36",
             "published": "Thu, 06 Mar 2025 18:20:00 -0500"
@@ -9,21 +24,6 @@
             "title": "The US Department of Labor has been investigating Scale AI for compliance with the Fair Labor Standards Act, a source says since at least August 2024 (Charles Rollet/TechCrunch)",
             "link": "http://www.techmeme.com/250306/p35#a250306p35",
             "published": "Thu, 06 Mar 2025 17:50:03 -0500"
-        },
-        {
-            "title": "HPE reports Q1 revenue up 16% YoY to $7.85B, vs. $7.82B est., Q2 and FY 2025 guidance below est., and plans to cut ~2,500 employees; HPE drops 16%+ after hours (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/250306/p34#a250306p34",
-            "published": "Thu, 06 Mar 2025 17:12:47 -0500"
-        },
-        {
-            "title": "Broadcom reports Q1 revenue up 25% YoY to $14.92B, vs. $14.61B est., and forecasts Q2 revenue above estimates; AVGO jumps 8%+ after hours (Zaheer Kachwala/Reuters)",
-            "link": "http://www.techmeme.com/250306/p33#a250306p33",
-            "published": "Thu, 06 Mar 2025 16:45:01 -0500"
-        },
-        {
-            "title": "US State Department officials say they launched an effort to use AI to review social media accounts of foreign students to revoke visas of \"pro-Hamas\" students (Marc Caputo/Axios)",
-            "link": "http://www.techmeme.com/250306/p32#a250306p32",
-            "published": "Thu, 06 Mar 2025 16:40:01 -0500"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "StubHub Eyes Potential I.P.O. as Soon as This Year",
             "link": "https://www.nytimes.com/2025/03/06/technology/figma-stubhub-ipo.html",
-            "published": "Thu, 06 Mar 2025 22:47:47 +0000"
+            "published": "Fri, 07 Mar 2025 00:21:44 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Flights halted at some Florida airports over SpaceX debris",
+            "link": "https://www.bbc.com/news/articles/cj92wgeyvzzo",
+            "published": "Fri, 07 Mar 2025 01:52:55 GMT"
+        },
         {
             "title": "Banks to pay customers millions after month's worth of IT outages",
             "link": "https://www.bbc.com/news/articles/cjd3yzx3xgvo",
@@ -73,11 +78,6 @@
             "title": "Apple takes legal action in UK data privacy row",
             "link": "https://www.bbc.com/news/articles/c8rkpv50x01o",
             "published": "Tue, 04 Mar 2025 19:27:12 GMT"
-        },
-        {
-            "title": "I wish my job didn't exist - the team that has to find child abuse images",
-            "link": "https://www.bbc.com/news/articles/ckg843y8y7no",
-            "published": "Thu, 06 Mar 2025 15:57:28 GMT"
         }
     ]
 }
