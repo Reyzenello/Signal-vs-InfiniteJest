@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: workflow automation company ServiceNow nears deal to buy enterprise AI assistants company Moveworks in a deal that could value Moveworks at ~$3B (Bloomberg)",
+            "link": "http://www.techmeme.com/250309/p16#a250309p16",
+            "published": "Sun, 09 Mar 2025 21:35:01 -0400"
+        },
+        {
+            "title": "Hugging Face co-founder Thomas Wolf: current AI development paradigms won't yield outside-the-box problem-solving that leads to true scientific breakthroughs (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250309/p15#a250309p15",
+            "published": "Sun, 09 Mar 2025 20:40:01 -0400"
+        },
+        {
             "title": "PitchBook: the AI frenzy has led to the fastest investment pace since 2021, with $30B+ invested into startups so far this quarter and $50B more in the works (George Hammond/Financial Times)",
             "link": "http://www.techmeme.com/250309/p14#a250309p14",
             "published": "Sun, 09 Mar 2025 19:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "How focusing on West Africa helped music streamer Audiomack grow alongside industry giants like Spotify; 50% of its 40M monthly listeners are from Africa (Janko Roettgers/Fast Company)",
             "link": "http://www.techmeme.com/250309/p12#a250309p12",
             "published": "Sun, 09 Mar 2025 17:15:01 -0400"
-        },
-        {
-            "title": "Asset managers and investors say wealthy Chinese investors are using SPVs to quietly funnel tens of millions of dollars into Musk's xAI, Neuralink, and SpaceX (Sun Yu/Financial Times)",
-            "link": "http://www.techmeme.com/250309/p11#a250309p11",
-            "published": "Sun, 09 Mar 2025 14:20:01 -0400"
-        },
-        {
-            "title": "A look at Manus, which its Chinese creators claim is the world's first fully autonomous AI agent, as some say it might be China's second DeepSeek moment (Craig S. Smith/Forbes)",
-            "link": "http://www.techmeme.com/250309/p10#a250309p10",
-            "published": "Sun, 09 Mar 2025 13:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "North Korean hackers cash out hundreds of millions from $1.5bn ByBit hack",
+            "link": "https://www.bbc.com/news/articles/c2kgndwwd7lo",
+            "published": "Mon, 10 Mar 2025 01:11:47 GMT"
+        },
+        {
             "title": "Grandmother gets X-rated message after Apple AI fail",
             "link": "https://www.bbc.com/news/articles/c0l1kpz3w32o",
             "published": "Fri, 07 Mar 2025 17:15:19 GMT"
@@ -73,11 +78,6 @@
             "title": "Banks to pay customers millions after month's worth of IT outages",
             "link": "https://www.bbc.com/news/articles/cjd3yzx3xgvo",
             "published": "Thu, 06 Mar 2025 16:05:26 GMT"
-        },
-        {
-            "title": "SpaceX rocket explodes, raining debris from sky for second time in a row",
-            "link": "https://www.bbc.com/news/articles/cj92wgeyvzzo",
-            "published": "Fri, 07 Mar 2025 04:03:55 GMT"
         }
     ]
 }
