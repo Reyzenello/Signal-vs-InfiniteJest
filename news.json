@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Trump's call to scrap the \"horrible\" CHIPS Act causes concern among Republican lawmakers, who sought and received White House reassurances over the program (New York Times)",
+            "link": "http://www.techmeme.com/250311/p10#a250311p10",
+            "published": "Tue, 11 Mar 2025 06:25:15 -0400"
+        },
+        {
+            "title": "Q&A with PlayStation Lead System Architect Mark Cerny on FSR 4's PS5 Pro \"reimplementation\", working with AMD on a better hardware architecture for ML, and more (Richard Leadbetter/Eurogamer.net)",
+            "link": "http://www.techmeme.com/250311/p9#a250311p9",
+            "published": "Tue, 11 Mar 2025 06:10:20 -0400"
+        },
+        {
+            "title": "A look at Amazon's growing array of warehouse robots, from robotic arms to heavy lift units and sorting machines; Amazon Robotics has rolled out 750K+ devices (Rafe Uddin/Financial Times)",
+            "link": "http://www.techmeme.com/250311/p8#a250311p8",
+            "published": "Tue, 11 Mar 2025 05:55:17 -0400"
+        },
+        {
+            "title": "Sources: Kirkland-based enterprise cybersecurity startup Chainguard is in talks to raise $350M led by Kleiner at a $3.5B valuation, up from $1.1B in July 2024 (Katie Roof/Bloomberg)",
+            "link": "http://www.techmeme.com/250311/p7#a250311p7",
+            "published": "Tue, 11 Mar 2025 05:40:15 -0400"
+        },
+        {
             "title": "Meituan, Ele.me, and other Chinese food delivery companies plan to offer social security benefits to riders after JD's February move, amid government pressure (Financial Times)",
             "link": "http://www.techmeme.com/250311/p6#a250311p6",
             "published": "Tue, 11 Mar 2025 03:55:00 -0400"
-        },
-        {
-            "title": "Cerebras, Groq, and Big Tech target AI inference to challenge Nvidia; Barclays sees inference capex surpassing training in two years, reaching $208.2B in 2026 (Tim Bradshaw/Financial Times)",
-            "link": "http://www.techmeme.com/250311/p5#a250311p5",
-            "published": "Tue, 11 Mar 2025 02:25:01 -0400"
-        },
-        {
-            "title": "Seagate and other HDD makers bet on tech like heat-assisted magnetic recording to stay competitive; IDC expects data center HDD spending to hit $22B by 2028 (John Keilman/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250311/p4#a250311p4",
-            "published": "Tue, 11 Mar 2025 01:50:01 -0400"
-        },
-        {
-            "title": "Infinite Uptime, which uses AI and proprietary sensors to offer predictive maintenance solutions for factories, raised a $35M Series C led by Avataar Ventures (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250311/p3#a250311p3",
-            "published": "Tue, 11 Mar 2025 01:05:01 -0400"
-        },
-        {
-            "title": "Thailand's SEC approves Tether's USDT and Circle's USDC for exchange trading, with both available in Thailand on March 16, signaling growing stablecoin adoption (Liz Napolitano/Decrypt)",
-            "link": "http://www.techmeme.com/250311/p2#a250311p2",
-            "published": "Tue, 11 Mar 2025 00:45:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 11 Mar 2025 02:42:44 GMT"
         },
         {
+            "title": "A dating app for video games tackles one of the industry's big issues",
+            "link": "https://www.bbc.com/news/articles/cr52rey0ng8o",
+            "published": "Tue, 11 Mar 2025 09:46:33 GMT"
+        },
+        {
             "title": "From chatbots to intelligent toys: How AI is booming in China",
             "link": "https://www.bbc.com/news/articles/ckg8jqj393eo",
             "published": "Mon, 10 Mar 2025 22:34:20 GMT"
@@ -73,11 +78,6 @@
             "title": "Software bug at firm left NHS data 'vulnerable to hackers'",
             "link": "https://www.bbc.com/news/articles/c5yxv7wylz7o",
             "published": "Mon, 10 Mar 2025 01:24:16 GMT"
-        },
-        {
-            "title": "Grandmother gets X-rated message after Apple AI fail",
-            "link": "https://www.bbc.com/news/articles/c0l1kpz3w32o",
-            "published": "Fri, 07 Mar 2025 17:15:19 GMT"
         }
     ]
 }
