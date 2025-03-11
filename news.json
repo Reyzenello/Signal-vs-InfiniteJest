@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Google is in final talks to acquire AdHawk Microsystems, a Canadian maker of eye-tracking tech, for $115M, including $15M in performance-based payments (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250311/p37#a250311p37",
+            "published": "Tue, 11 Mar 2025 17:15:04 -0400"
+        },
+        {
+            "title": "Delivery Hero says Uber has terminated its $950M deal to acquire Foodpanda in Taiwan and will pay a ~$250M termination fee after Taiwan's FTC blocked the deal (Reuters)",
+            "link": "http://www.techmeme.com/250311/p36#a250311p36",
+            "published": "Tue, 11 Mar 2025 16:55:01 -0400"
+        },
+        {
             "title": "Source: Anthropic's annualized revenue grew from $1B at the end of 2024 to $1.4B in early March; Manus uses tools including Claude 3.7 Sonnet to power its agent (The Information)",
             "link": "http://www.techmeme.com/250311/p35#a250311p35",
             "published": "Tue, 11 Mar 2025 15:55:01 -0400"
@@ -14,19 +24,14 @@
             "title": "Review of the M3 Ultra Mac Studio with 512GB of unified memory: opens up new workflows on a ~$10K desktop, like running a quantized 4-bit version of DeepSeek R1 (Dave2D on YouTube)",
             "link": "http://www.techmeme.com/250311/p33#a250311p33",
             "published": "Tue, 11 Mar 2025 13:35:03 -0400"
-        },
-        {
-            "title": "Sen. Lummis unveils the Bitcoin Act in the US Senate, with five Republican cosponsors, to codify a strategic Bitcoin reserve and let the US buy up to 1M BTC (Sander Lutz/Decrypt)",
-            "link": "http://www.techmeme.com/250311/p32#a250311p32",
-            "published": "Tue, 11 Mar 2025 13:25:48 -0400"
-        },
-        {
-            "title": "OpenAI debuts a Responses API to help devs build agents that search the web, scan for files, and perform tasks on computers, and an Agents SDK for orchestration (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250311/p31#a250311p31",
-            "published": "Tue, 11 Mar 2025 13:20:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside Google\u2019s Investment in Anthropic",
+            "link": "https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html",
+            "published": "Tue, 11 Mar 2025 20:43:20 +0000"
+        },
         {
             "title": "Lila Sciences Uses A.I. to Turbocharge Scientific Discovery",
             "link": "https://www.nytimes.com/2025/03/10/technology/ai-science-lab-lila.html",
@@ -43,14 +48,9 @@
             "published": "Tue, 11 Mar 2025 16:10:46 +0000"
         },
         {
-            "title": "\u2018The Apprentice,\u2019 Starring Donald Trump, Begins Streaming on Amazon",
-            "link": "https://www.nytimes.com/2025/03/10/business/media/amazon-the-apprentice-trump.html",
-            "published": "Mon, 10 Mar 2025 18:06:33 +0000"
-        },
-        {
-            "title": "Inside Google\u2019s Investment in Anthropic",
-            "link": "https://www.nytimes.com/2025/03/11/technology/google-investment-anthropic.html",
-            "published": "Tue, 11 Mar 2025 20:03:14 +0000"
+            "title": "Solar Energy, Criticized by Trump, Claims Big U.S. Gain in 2024",
+            "link": "https://www.nytimes.com/2025/03/11/business/energy-environment/solar-energy-trump-record.html",
+            "published": "Tue, 11 Mar 2025 13:41:10 +0000"
         }
     ],
     "source_2": [
