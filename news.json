@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Infinite Uptime, which uses AI and proprietary sensors to offer predictive maintenance solutions for factories, raised a $35M Series C led by Avataar Ventures (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/250311/p3#a250311p3",
+            "published": "Tue, 11 Mar 2025 01:05:01 -0400"
+        },
+        {
+            "title": "Thailand's SEC approves Tether's USDT and Circle's USDC for exchange trading, with both available in Thailand on March 16, signaling growing stablecoin adoption (Liz Napolitano/Decrypt)",
+            "link": "http://www.techmeme.com/250311/p2#a250311p2",
+            "published": "Tue, 11 Mar 2025 00:45:01 -0400"
+        },
+        {
             "title": "ServiceNow says it plans to acquire agentic AI company Moveworks for $2.85B in its largest-ever acquisition, a cash and stock deal set to close in H2 2025 (Jaspreet Singh/Reuters)",
             "link": "http://www.techmeme.com/250311/p1#a250311p1",
             "published": "Tue, 11 Mar 2025 00:10:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Leaked video: Sony is working on a prototype AI-powered version of a PlayStation game character that can interact with players through voice prompts (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250310/p27#a250310p27",
             "published": "Mon, 10 Mar 2025 19:50:01 -0400"
-        },
-        {
-            "title": "Virtual physical therapy service Hinge Health files for a US IPO, and reports revenue of $390M in 2024, up from $293M in 2023, and a net loss of $11.9M (Bailey Lipschultz/Bloomberg)",
-            "link": "http://www.techmeme.com/250310/p26#a250310p26",
-            "published": "Mon, 10 Mar 2025 19:35:08 -0400"
-        },
-        {
-            "title": "Bluesky adds support for three-minute videos, up from the previous one-minute limit, and a new \"Chat Requests\" feature to screen messages from unknown users (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250310/p25#a250310p25",
-            "published": "Mon, 10 Mar 2025 18:35:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "From chatbots to intelligent toys: How AI is booming in China",
+            "link": "https://www.bbc.com/news/articles/ckg8jqj393eo",
+            "published": "Mon, 10 Mar 2025 22:34:20 GMT"
+        },
+        {
             "title": "North Korean hackers cash out hundreds of millions from $1.5bn ByBit hack",
             "link": "https://www.bbc.com/news/articles/c2kgndwwd7lo",
             "published": "Mon, 10 Mar 2025 01:11:47 GMT"
@@ -73,11 +78,6 @@
             "title": "'A pig in lipstick': Trump's strategic Bitcoin reserve criticised",
             "link": "https://www.bbc.com/news/articles/cqx0g1py5v0o",
             "published": "Fri, 07 Mar 2025 20:01:58 GMT"
-        },
-        {
-            "title": "Plan to make phone use safer for teens watered down",
-            "link": "https://www.bbc.com/news/articles/cq8y7dvw9ddo",
-            "published": "Fri, 07 Mar 2025 16:47:03 GMT"
         }
     ]
 }
