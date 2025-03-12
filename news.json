@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google DeepMind launches two AI models, Gemini 2.0-based Robotics and Robotics-ER, to help robots \"perform a wider range of real-world tasks than ever before\" (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250312/p25#a250312p25",
+            "published": "Wed, 12 Mar 2025 11:10:02 -0400"
+        },
+        {
+            "title": "Binance says Abu Dhabi's MGX acquired a minority stake for $2B, the first institutional investment in the exchange and MGX's first entry into the crypto (Olga Kharif/Bloomberg)",
+            "link": "http://www.techmeme.com/250312/p24#a250312p24",
+            "published": "Wed, 12 Mar 2025 10:55:01 -0400"
+        },
+        {
             "title": "Roomba maker iRobot warns of \"substantial doubt\" over its ability to continue operating, after Amazon abandoned a $1B+ takeover in January 2024; IRBT drops 35%+ (Bloomberg)",
             "link": "http://www.techmeme.com/250312/p23#a250312p23",
             "published": "Wed, 12 Mar 2025 09:47:42 -0400"
@@ -14,16 +24,6 @@
             "title": "Niantic's $3.5B deal gives Scopely, acquired by Saudi-owned Savvy Games Group in 2023 for $4.9B, a total audience of 500M+ players, driven by Monopoly Go! (Financial Times)",
             "link": "http://www.techmeme.com/250312/p21#a250312p21",
             "published": "Wed, 12 Mar 2025 08:10:01 -0400"
-        },
-        {
-            "title": "Niantic Labs says it is selling its video game division, including Pok&eacute;mon Go, to Saudi Arabia-owned developer Scopely for $3.5B, subject to regulatory approval (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250312/p20#a250312p20",
-            "published": "Wed, 12 Mar 2025 08:06:10 -0400"
-        },
-        {
-            "title": "Alibaba demos R1-Omni, an open-source model that its Tongyi Lab researchers say can read emotions, building on HumanOmni, in a bid to compete with OpenAI (Luz Ding/Bloomberg)",
-            "link": "http://www.techmeme.com/250312/p19#a250312p19",
-            "published": "Wed, 12 Mar 2025 07:45:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Secret hearing on Friday in Apple and UK government data row",
+            "link": "https://www.bbc.com/news/articles/c798xv5qwylo",
+            "published": "Wed, 12 Mar 2025 14:48:38 GMT"
+        },
+        {
             "title": "Global smartwatch sales fall for first time",
             "link": "https://www.bbc.com/news/articles/cx20d3r7p5do",
             "published": "Tue, 11 Mar 2025 16:39:53 GMT"
@@ -73,11 +78,6 @@
             "title": "From chatbots to intelligent toys: How AI is booming in China",
             "link": "https://www.bbc.com/news/articles/ckg8jqj393eo",
             "published": "Mon, 10 Mar 2025 22:34:20 GMT"
-        },
-        {
-            "title": "North Korean hackers cash out hundreds of millions from $1.5bn ByBit hack",
-            "link": "https://www.bbc.com/news/articles/c2kgndwwd7lo",
-            "published": "Mon, 10 Mar 2025 01:11:47 GMT"
         }
     ]
 }
