@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The US Strategic Bitcoin Reserve, to be funded via civil asset forfeitures, goes against bitcoiners' early skepticism of state overreach and market intervention (Molly White/Citation Needed)",
+            "link": "http://www.techmeme.com/250313/p6#a250313p6",
+            "published": "Thu, 13 Mar 2025 02:30:01 -0400"
+        },
+        {
+            "title": "Ernst & Young: German startups raised ~&euro;7B across 755 deals in 2024, up from ~&euro;6B across 861 deals in 2023, but far below the peak of over &euro;17B in 2021 (Sophie Spiegelberger/Financial Times)",
+            "link": "http://www.techmeme.com/250313/p5#a250313p5",
+            "published": "Thu, 13 Mar 2025 02:15:02 -0400"
+        },
+        {
+            "title": "CoinGecko data shows that daily trading volume of crypto dropped from a peak of $440B in early February to $163B on March 12, a 63% decrease (Martin Young/Cointelegraph)",
+            "link": "http://www.techmeme.com/250313/p4#a250313p4",
+            "published": "Thu, 13 Mar 2025 01:45:01 -0400"
+        },
+        {
             "title": "GoTo, which operates Gojek and is a part owner of e-commerce company Tokopedia, reports adjusted EBITDA of $23.5M for 2024, its first annual profit (A. Anantha Lakshmi/Financial Times)",
             "link": "http://www.techmeme.com/250313/p3#a250313p3",
             "published": "Thu, 13 Mar 2025 01:25:02 -0400"
@@ -9,21 +24,6 @@
             "title": "A profile of Intel's new CEO Lip-Bu Tan, who invested in Annapurna Labs and Nuvia and revived the fortunes of chip design firm Cadence Design Systems as its CEO (Reuters)",
             "link": "http://www.techmeme.com/250313/p2#a250313p2",
             "published": "Thu, 13 Mar 2025 01:10:01 -0400"
-        },
-        {
-            "title": "Boston-based Insilico, which uses AI for drug discovery and has extensive operations in China, raised a $110M Series E led by Value Partners at a $1B+ valuation (Saritha Rai/Bloomberg)",
-            "link": "http://www.techmeme.com/250313/p1#a250313p1",
-            "published": "Thu, 13 Mar 2025 01:05:05 -0400"
-        },
-        {
-            "title": "By previewing smarter Siri vaporware at WWDC and the iPhone 16 launch, Apple burned a reputation earned over decades for only promising actual working products (John Gruber/Daring Fireball)",
-            "link": "http://www.techmeme.com/250312/p44#a250312p44",
-            "published": "Wed, 12 Mar 2025 23:00:02 -0400"
-        },
-        {
-            "title": "UiPath shares fell over 15% after the company projected FY 2026 sales of $1.525B to $1.53B, vs. $1.58B estimates; PATH is down 51.6% over the past 12 months (Bill Peters/MarketWatch)",
-            "link": "http://www.techmeme.com/250312/p43#a250312p43",
-            "published": "Wed, 12 Mar 2025 22:15:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Keep kids off Roblox if you're worried, its CEO tells parents",
+            "link": "https://www.bbc.com/news/articles/c5yrjkl7dd6o",
+            "published": "Thu, 13 Mar 2025 06:06:12 GMT"
+        },
+        {
             "title": "Secret hearing on Friday in Apple and UK government data row",
             "link": "https://www.bbc.com/news/articles/c798xv5qwylo",
             "published": "Wed, 12 Mar 2025 14:48:38 GMT"
@@ -73,11 +78,6 @@
             "title": "Google Chromecast users' fury at second day of TV streaming issue",
             "link": "https://www.bbc.com/news/articles/ckgzm1lgv22o",
             "published": "Tue, 11 Mar 2025 12:16:02 GMT"
-        },
-        {
-            "title": "'Garbage' to blame Ukraine for massive X outage, experts say",
-            "link": "https://www.bbc.com/news/articles/c62x5k44rl0o",
-            "published": "Tue, 11 Mar 2025 11:24:46 GMT"
         }
     ]
 }
