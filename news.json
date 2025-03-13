@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI releases a 15-page set of policy suggestions for the White House, arguing that hundreds of AI bills pending across the US risk undercutting US progress (Jackie Davalos/Bloomberg)",
+            "link": "http://www.techmeme.com/250313/p15#a250313p15",
+            "published": "Thu, 13 Mar 2025 07:15:02 -0400"
+        },
+        {
+            "title": "Estonia-based Blackwall, formerly BotGuard, raised a &euro;45M Series B to protect SMBs from malicious online traffic, after a &euro;12M Series A in March 2024 (Anna Heim/TechCrunch)",
+            "link": "http://www.techmeme.com/250313/p14#a250313p14",
+            "published": "Thu, 13 Mar 2025 07:05:01 -0400"
+        },
+        {
             "title": "Alibaba debuts New Quark, an updated app using its flagship Qwen reasoning model, rolling out gradually, as it seeks to keep up with DeepSeek and Chinese rivals (Bloomberg)",
             "link": "http://www.techmeme.com/250313/p13#a250313p13",
             "published": "Thu, 13 Mar 2025 06:20:03 -0400"
@@ -14,16 +24,6 @@
             "title": "Singapore prosecutors say a case in which Singapore-based companies are accused of fraudulently supplying US servers to Malaysia involves $390M in transactions (Reuters)",
             "link": "http://www.techmeme.com/250313/p11#a250313p11",
             "published": "Thu, 13 Mar 2025 05:45:01 -0400"
-        },
-        {
-            "title": "A look at Paris-based incubator Station F, which includes Hugging Face as alumni and whose startups raised &euro;1B+ for three straight years, up from &euro;250M in 2017 (Financial Times)",
-            "link": "http://www.techmeme.com/250313/p10#a250313p10",
-            "published": "Thu, 13 Mar 2025 05:25:00 -0400"
-        },
-        {
-            "title": "Intel's new CEO Lip-Bu Tan says he will stick with the costly foundry plan, which led to Pat Gelsinger's ouster, to make Intel \"a world-class products company\" (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/250313/p9#a250313p9",
-            "published": "Thu, 13 Mar 2025 05:00:42 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Thu, 13 Mar 2025 10:03:15 GMT"
         },
         {
+            "title": "US tech firms feel pinch from China tariffs",
+            "link": "https://www.bbc.com/news/articles/cdjy8x9w9zzo",
+            "published": "Thu, 13 Mar 2025 00:04:03 GMT"
+        },
+        {
             "title": "Secret hearing on Friday in Apple and UK government data row",
             "link": "https://www.bbc.com/news/articles/c798xv5qwylo",
             "published": "Wed, 12 Mar 2025 14:48:38 GMT"
@@ -73,11 +78,6 @@
             "title": "Global smartwatch sales fall for first time",
             "link": "https://www.bbc.com/news/articles/cx20d3r7p5do",
             "published": "Tue, 11 Mar 2025 16:39:53 GMT"
-        },
-        {
-            "title": "Google Chromecast users' fury at second day of TV streaming issue",
-            "link": "https://www.bbc.com/news/articles/ckgzm1lgv22o",
-            "published": "Tue, 11 Mar 2025 12:16:02 GMT"
         }
     ]
 }
