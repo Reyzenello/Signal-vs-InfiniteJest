@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple is planning a new AirPods feature as part of iOS 19 that will enable live-translation of in-person conversations (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250313/p43#a250313p43",
+            "published": "Thu, 13 Mar 2025 16:07:58 -0400"
+        },
+        {
+            "title": "Google releases its proposals for White House's AI Action Plan, arguing that \"fair use and text-and-data mining exceptions\" are \"critical\" to AI development (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250313/p42#a250313p42",
+            "published": "Thu, 13 Mar 2025 15:50:01 -0400"
+        },
+        {
             "title": "Crypto payments company MoonPay acquires Iron, an API-focused stablecoin infrastructure company, a source says in a \"nine-figure\" deal (The Block)",
             "link": "http://www.techmeme.com/250313/p41#a250313p41",
             "published": "Thu, 13 Mar 2025 15:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Elon Musk visited the NSA and discussed staff reductions and operations with its leadership, a week after saying the agency needs an overhaul (Wall Street Journal)",
             "link": "http://www.techmeme.com/250313/p39#a250313p39",
             "published": "Thu, 13 Mar 2025 13:50:01 -0400"
-        },
-        {
-            "title": "UiPath acquires Peak, which makes AI tools to optimize product inventory and pricing; Peak raised a total of $121M and reported revenue of just ~&pound;9M in 2023 (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250313/p38#a250313p38",
-            "published": "Thu, 13 Mar 2025 13:40:02 -0400"
-        },
-        {
-            "title": "Cohere debuts Command A, its latest generative AI model for agentic enterprise tasks, with a context length of 256K tokens and requiring just two A100s or H100s (Carl Franzen/VentureBeat)",
-            "link": "http://www.techmeme.com/250313/p37#a250313p37",
-            "published": "Thu, 13 Mar 2025 12:50:00 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Meta Tries to Stop Sarah Wynn-Williams From Further Selling Scathing Memoir",
             "link": "https://www.nytimes.com/2025/03/12/technology/meta-book-sales-blocked.html",
-            "published": "Thu, 13 Mar 2025 18:29:18 +0000"
+            "published": "Thu, 13 Mar 2025 20:21:12 +0000"
         },
         {
             "title": "Inside Google\u2019s Investment in Anthropic",
