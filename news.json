@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A US bankruptcy court lets 3AC raise its claim against FTX from $120M to $1.53B, despite FTX's objection that it was too late; 3AC originally filed in June 2023 (Danny Park/The Block)",
+            "link": "http://www.techmeme.com/250314/p5#a250314p5",
+            "published": "Fri, 14 Mar 2025 06:15:02 -0400"
+        },
+        {
+            "title": "SoftBank plans to buy a former Sharp LCD panel plant in Osaka for ~$676M, sources say to turn it into a data center for jointly developing AI agents with OpenAI (Kate Park/TechCrunch)",
+            "link": "http://www.techmeme.com/250314/p4#a250314p4",
+            "published": "Fri, 14 Mar 2025 05:45:01 -0400"
+        },
+        {
+            "title": "Foxconn reports Q4 profit down 13% YoY to ~$1.41B, missing the ~$1.65B estimate, its first quarterly drop since Q2 2023, but forecasts strong Q1 2025 growth (Reuters)",
+            "link": "http://www.techmeme.com/250314/p3#a250314p3",
+            "published": "Fri, 14 Mar 2025 05:40:02 -0400"
+        },
+        {
             "title": "Two activist groups launch a legal challenge against the UK's bid to force Apple to create a data \"backdoor\", arguing it would breach consumers' privacy rights (Financial Times)",
             "link": "http://www.techmeme.com/250314/p2#a250314p2",
             "published": "Fri, 14 Mar 2025 04:05:00 -0400"
@@ -9,21 +24,6 @@
             "title": "DeepSeek spurred a Chinese asset manager AI arms race that could shake up China's $10T fund management industry, as firms expand AI research and adopt DeepSeek (Reuters)",
             "link": "http://www.techmeme.com/250314/p1#a250314p1",
             "published": "Fri, 14 Mar 2025 01:00:45 -0400"
-        },
-        {
-            "title": "Sources: SoftBank plans to buy a former Sharp LCD panel plant in Osaka for ~$676M and convert it into a data center for jointly developing AI agents with OpenAI (Nikkei Asia)",
-            "link": "http://www.techmeme.com/250313/p48#a250313p48",
-            "published": "Thu, 13 Mar 2025 23:25:02 -0400"
-        },
-        {
-            "title": "Sources: DeepSeek has shown little intention to further commercialize its tech in the near term, instead focusing on model development and building AGI (Zijing Wu/Financial Times)",
-            "link": "http://www.techmeme.com/250313/p47#a250313p47",
-            "published": "Thu, 13 Mar 2025 22:45:01 -0400"
-        },
-        {
-            "title": "Terabase, which is developing robots and automated systems using AI tools to rapidly build solar farms, raised a $130M Series C led by SoftBank's Vision Fund 2 (Financial Times)",
-            "link": "http://www.techmeme.com/250313/p46#a250313p46",
-            "published": "Thu, 13 Mar 2025 21:40:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Thu, 13 Mar 2025 16:21:47 GMT"
         },
         {
+            "title": "Judge orders Trump administration to give fired workers their jobs back",
+            "link": "https://www.bbc.com/news/articles/cgj5w052x3xo",
+            "published": "Thu, 13 Mar 2025 22:13:27 GMT"
+        },
+        {
             "title": "'Huawei lobbyists' held in Belgium raids over EU corruption",
             "link": "https://www.bbc.com/news/articles/ce98ydrpy7no",
             "published": "Thu, 13 Mar 2025 18:40:21 GMT"
@@ -73,11 +78,6 @@
             "title": "US tech firms feel pinch from China tariffs",
             "link": "https://www.bbc.com/news/articles/cdjy8x9w9zzo",
             "published": "Thu, 13 Mar 2025 00:04:03 GMT"
-        },
-        {
-            "title": "Secret hearing on Friday in Apple and UK government data row",
-            "link": "https://www.bbc.com/news/articles/c798xv5qwylo",
-            "published": "Wed, 12 Mar 2025 14:48:38 GMT"
         }
     ]
 }
