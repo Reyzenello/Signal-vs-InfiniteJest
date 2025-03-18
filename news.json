@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A RevenueCat report, covering data from 75K+ mobile apps and $10B+ in revenue across 1B+ transactions, shows most apps fail to reach $1K/month after two years (Scharon Harding/Ars Technica)",
+            "link": "http://www.techmeme.com/250318/p3#a250318p3",
+            "published": "Tue, 18 Mar 2025 02:20:30 -0400"
+        },
+        {
             "title": "San Francisco grants Waymo a temporary permit to map SFO roads with human-driven cars, paving the way for future commercial operations (Kirsten Korosec/TechCrunch)",
             "link": "http://www.techmeme.com/250318/p2#a250318p2",
             "published": "Tue, 18 Mar 2025 00:45:04 -0400"
@@ -19,11 +24,6 @@
             "title": "In an open letter to the OSTP, Ben Stiller and 400+ Hollywood creatives urge President Trump to not let Google, OpenAI, and others \"exploit\" copyrighted works (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/250317/p37#a250317p37",
             "published": "Mon, 17 Mar 2025 22:00:00 -0400"
-        },
-        {
-            "title": "A critical Apache Tomcat RCE flaw is being exploited, letting attackers take over servers via a PUT request; Wallarm: the attack \"requires no authentication\" (Bill Toulas/BleepingComputer)",
-            "link": "http://www.techmeme.com/250317/p36#a250317p36",
-            "published": "Mon, 17 Mar 2025 21:35:01 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Elon Musk\u2019s Starlink Expands Across White House Complex",
             "link": "https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html",
-            "published": "Tue, 18 Mar 2025 02:23:31 +0000"
+            "published": "Tue, 18 Mar 2025 05:28:24 +0000"
         },
         {
             "title": "Digital Therapists Get Stressed Too, Study Finds",
