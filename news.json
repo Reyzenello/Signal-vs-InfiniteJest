@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Mark Zuckerberg says Meta's Llama models have been downloaded 1B times, up from 650M downloads in early December 2024 (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250318/p22#a250318p22",
+            "published": "Tue, 18 Mar 2025 11:05:01 -0400"
+        },
+        {
+            "title": "Taboola strikes a deal with Microsoft to sell display ads for MSN.com, Outlook, Games, Office products, and more, as it expands beyond native advertising (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/250318/p21#a250318p21",
+            "published": "Tue, 18 Mar 2025 10:35:02 -0400"
+        },
+        {
             "title": "Halliday, which helps developers delegate workflows to autonomous systems when creating smart contracts, raised a $20M Series A led by a16z Crypto (MK Manoylov/The Block)",
             "link": "http://www.techmeme.com/250318/p20#a250318p20",
             "published": "Tue, 18 Mar 2025 09:25:03 -0400"
@@ -14,43 +24,33 @@
             "title": "Google says Wiz will join Google Cloud and that Wiz's products will continue to work \"across all major clouds\", including AWS, Microsoft Azure, and Oracle Cloud (Andrew Martin/Bloomberg)",
             "link": "http://www.techmeme.com/250318/p18#a250318p18",
             "published": "Tue, 18 Mar 2025 09:03:16 -0400"
-        },
-        {
-            "title": "Google acquires NYC-based cybersecurity startup Wiz for $32B in cash, its largest acquisition yet, pending approval; antitrust fears stalled a $23B deal in 2024 (The Verge)",
-            "link": "http://www.techmeme.com/250318/p17#a250318p17",
-            "published": "Tue, 18 Mar 2025 08:44:36 -0400"
-        },
-        {
-            "title": "Solana deletes a social media video ad promoting its NYC conference in May 2025 after the crypto community criticized it for insensitivity towards gender issues (Timmy Shen/The Block)",
-            "link": "http://www.techmeme.com/250318/p16#a250318p16",
-            "published": "Tue, 18 Mar 2025 08:00:49 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Powerful A.I. Is Coming. We\u2019re Not Ready.",
-            "link": "https://www.nytimes.com/2025/03/14/technology/why-im-feeling-the-agi.html",
-            "published": "Fri, 14 Mar 2025 14:55:44 +0000"
-        },
-        {
-            "title": "Telegram\u2019s Pavel Durov, Charged With Range of Crimes, Is Allowed to Leave France",
-            "link": "https://www.nytimes.com/2025/03/17/world/europe/pavel-durov-france-telegram-founder.html",
-            "published": "Mon, 17 Mar 2025 15:30:00 +0000"
-        },
-        {
-            "title": "Elon Musk Shared, Then Deleted X Post Absolving Hitler, Stalin and Mao of Genocide",
-            "link": "https://www.nytimes.com/2025/03/14/technology/elon-musk-x-post-hitler-stalin-mao.html",
-            "published": "Sat, 15 Mar 2025 00:49:35 +0000"
-        },
-        {
             "title": "Google Seals $32 Billion Deal for Cyber Start-Up Wiz",
             "link": "https://www.nytimes.com/2025/03/18/technology/google-alphabet-wiz-deal.html",
-            "published": "Tue, 18 Mar 2025 12:47:09 +0000"
+            "published": "Tue, 18 Mar 2025 14:36:58 +0000"
         },
         {
             "title": "Nvidia Is Hosting the Super Bowl of A.I.",
             "link": "https://www.nytimes.com/2025/03/18/technology/nvidia-gtc-conference-ai.html",
-            "published": "Tue, 18 Mar 2025 09:02:21 +0000"
+            "published": "Tue, 18 Mar 2025 15:00:54 +0000"
+        },
+        {
+            "title": "How CoreWeave Went From Crypto Mining to Wall Street\u2019s A.I. Bellwether",
+            "link": "https://www.nytimes.com/2025/03/18/technology/coreweave-wall-street-ai-ipo.html",
+            "published": "Tue, 18 Mar 2025 09:00:33 +0000"
+        },
+        {
+            "title": "The One Place on Social Media That Still Feels Human",
+            "link": "https://www.nytimes.com/2025/03/18/magazine/facebook-marketplace.html",
+            "published": "Tue, 18 Mar 2025 09:00:47 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s Starlink Expands Across White House Complex",
+            "link": "https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html",
+            "published": "Tue, 18 Mar 2025 15:03:32 +0000"
         }
     ],
     "source_2": [
