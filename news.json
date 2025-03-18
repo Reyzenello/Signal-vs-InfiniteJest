@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "A critical Apache Tomcat RCE flaw is being exploited, letting attackers take over servers via a PUT request; Wallarm: the attack \"requires no authentication\" (Bill Toulas/BleepingComputer)",
+            "link": "http://www.techmeme.com/250317/p36#a250317p36",
+            "published": "Mon, 17 Mar 2025 21:35:01 -0400"
+        },
+        {
+            "title": "Some owners of devices running Roku OS report seeing autoplaying video ads before they can access the home screen; Roku says it is just a test (Scharon Harding/Ars Technica)",
+            "link": "http://www.techmeme.com/250317/p35#a250317p35",
+            "published": "Mon, 17 Mar 2025 20:25:00 -0400"
+        },
+        {
+            "title": "Sources: US Commerce Department bureaus informed staffers in recent weeks that DeepSeek is banned on their government devices (Karen Freifeld/Reuters)",
+            "link": "http://www.techmeme.com/250317/p34#a250317p34",
+            "published": "Mon, 17 Mar 2025 19:50:01 -0400"
+        },
+        {
+            "title": "Amazon sues the US CPSC, accusing it of stretching consumer safety law by ruling Amazon responsible for recalling products sold by third parties on Amazon.com (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250317/p33#a250317p33",
+            "published": "Mon, 17 Mar 2025 19:25:03 -0400"
+        },
+        {
             "title": "President Trump's World Liberty Financial says it raised $250M in its second token sale, bringing the total amount of coins sold to $550M (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250317/p32#a250317p32",
             "published": "Mon, 17 Mar 2025 19:20:01 -0400"
-        },
-        {
-            "title": "Qualcomm unveils the Snapdragon G3 Gen 3, G2 Gen 2, and G1 Gen 2 for gaming handhelds, saying the G3 Gen 3 offers a CPU 30% faster than the previous generation (Zhiye Liu/Tom's Hardware)",
-            "link": "http://www.techmeme.com/250317/p31#a250317p31",
-            "published": "Mon, 17 Mar 2025 18:25:02 -0400"
-        },
-        {
-            "title": "Snap updates Spectacles AR glasses to add GPS support for Lenses, improved hand tracking, an AR keyboard, and more (Andrew Liszewski/The Verge)",
-            "link": "http://www.techmeme.com/250317/p30#a250317p30",
-            "published": "Mon, 17 Mar 2025 18:00:02 -0400"
-        },
-        {
-            "title": "Mistral debuts Mistral Small 3.1, a 24B-parameter multimodal and multilingual open-source model it says outperforms Gemma 3 and GPT-4o-mini and runs on 32GB RAM (Michael Nu&ntilde;ez/VentureBeat)",
-            "link": "http://www.techmeme.com/250317/p29#a250317p29",
-            "published": "Mon, 17 Mar 2025 17:40:01 -0400"
-        },
-        {
-            "title": "Sources: Alphabet is in advanced talks to acquire cybersecurity startup Wiz for ~$30B; Alphabet was close to a $23B deal for Wiz last summer before talks ended (Lauren Thomas/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250317/p28#a250317p28",
-            "published": "Mon, 17 Mar 2025 16:15:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Subsea fibre cables can 'listen out' for sabotage",
+            "link": "https://www.bbc.com/news/articles/cn52rglxr62o",
+            "published": "Tue, 18 Mar 2025 01:27:38 GMT"
+        },
+        {
             "title": "Telegram founder allowed to leave France following arrest",
             "link": "https://www.bbc.com/news/articles/cg703lz02l0o",
             "published": "Mon, 17 Mar 2025 15:12:21 GMT"
@@ -73,11 +78,6 @@
             "title": "It's not a competition! The collaborative video game loved by players",
             "link": "https://www.bbc.com/news/articles/c2ljgp4v48no",
             "published": "Sat, 15 Mar 2025 00:14:25 GMT"
-        },
-        {
-            "title": "Two judges order Trump administration to give fired workers their jobs back",
-            "link": "https://www.bbc.com/news/articles/cgj5w052x3xo",
-            "published": "Fri, 14 Mar 2025 11:18:23 GMT"
         }
     ]
 }
