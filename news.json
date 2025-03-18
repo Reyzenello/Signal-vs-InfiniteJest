@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: US Commerce Secretary Howard Lutnick urged civil servants in charge of the $42B rural broadband program to increase the project's use of Starlink (Financial Times)",
+            "link": "http://www.techmeme.com/250318/p45#a250318p45",
+            "published": "Tue, 18 Mar 2025 18:25:03 -0400"
+        },
+        {
+            "title": "Trump fires the two Democratic members of the FTC, threatening the independence of the regulator in a decision that is likely to face a legal challenge (New York Times)",
+            "link": "http://www.techmeme.com/250318/p44#a250318p44",
+            "published": "Tue, 18 Mar 2025 17:50:02 -0400"
+        },
+        {
             "title": "Crossmint, which helps developers add crypto functionality to their code, raised $23.6M, including a seed and a Series A led by Ribbit Capital (Ben Weiss/Fortune)",
             "link": "http://www.techmeme.com/250318/p43#a250318p43",
             "published": "Tue, 18 Mar 2025 17:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Sequoia's ~10% stake in Wiz would net the firm ~$3B from Wiz's sale to Alphabet, a 25-fold return; Greenoaks would secure ~$2B on its ~$300M investment (Bloomberg)",
             "link": "http://www.techmeme.com/250318/p41#a250318p41",
             "published": "Tue, 18 Mar 2025 16:50:02 -0400"
-        },
-        {
-            "title": "Nvidia debuts Nvidia AI-Q Blueprint, a framework for connecting knowledge bases to agents, Llama Nemotron AI models with advanced reasoning capabilities, more (Mike Wheatley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/250318/p40#a250318p40",
-            "published": "Tue, 18 Mar 2025 16:26:47 -0400"
-        },
-        {
-            "title": "Crusoe: Stargate's first data center complex, in Abilene, TX, will finish in mid-2026 and have eight buildings, each designed for up to 50K Nvidia GB200 chips (Bloomberg)",
-            "link": "http://www.techmeme.com/250318/p39#a250318p39",
-            "published": "Tue, 18 Mar 2025 16:15:02 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Tue, 18 Mar 2025 09:00:33 +0000"
         },
         {
+            "title": "Trump Fires Democrats on Federal Trade Commission",
+            "link": "https://www.nytimes.com/2025/03/18/technology/trump-ftc-fires-democrats.html",
+            "published": "Tue, 18 Mar 2025 21:26:07 +0000"
+        },
+        {
             "title": "The One Place on Social Media That Still Feels Human",
             "link": "https://www.nytimes.com/2025/03/18/magazine/facebook-marketplace.html",
             "published": "Tue, 18 Mar 2025 09:00:47 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s Starlink Expands Across White House Complex",
-            "link": "https://www.nytimes.com/2025/03/17/us/politics/elon-musk-starlink-white-house.html",
-            "published": "Tue, 18 Mar 2025 15:03:32 +0000"
         }
     ],
     "source_2": [
