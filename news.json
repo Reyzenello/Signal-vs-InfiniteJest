@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Current and former employees say the FTC removed 300+ business guidance blogs from the Biden era, including info on AI consumer protection and Big Tech lawsuits (Makena Kelly/Wired)",
+            "link": "http://www.techmeme.com/250319/p5#a250319p5",
+            "published": "Wed, 19 Mar 2025 02:30:01 -0400"
+        },
+        {
+            "title": "Chinese firms like Alibaba, Baidu and DeepSeek are open sourcing AI models to bypass US curbs, decentralize development, and tap global talent for refinement (June Yoon/Financial Times)",
+            "link": "http://www.techmeme.com/250319/p4#a250319p4",
+            "published": "Wed, 19 Mar 2025 02:15:02 -0400"
+        },
+        {
+            "title": "US sanctions, export controls, and tariff threats are driving TSMC&apos;s Taiwan peers, including Foxconn, server maker Wiwynn, and Quanta, to expand US production (Bloomberg)",
+            "link": "http://www.techmeme.com/250319/p3#a250319p3",
+            "published": "Wed, 19 Mar 2025 02:00:38 -0400"
+        },
+        {
             "title": "Global VR headset shipments fell 12% YoY in 2024, with Meta&apos;s market share rising to 84%; Vision Pro shipments fell 43% QoQ in Q4, but its enterprise sales grew (Counterpoint Research)",
             "link": "http://www.techmeme.com/250319/p2#a250319p2",
             "published": "Wed, 19 Mar 2025 01:25:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Microsoft partners with Swiss startup Inait to deploy an AI model that simulates mammal brain reasoning to advance fields like financial trading and robotics (Michael Peel/Financial Times)",
             "link": "http://www.techmeme.com/250319/p1#a250319p1",
             "published": "Wed, 19 Mar 2025 00:40:05 -0400"
-        },
-        {
-            "title": "A source details how Google built the Pixel 10&apos;s Tensor G5 chip without Samsung&apos;s help, using in-house and off-the-shelf IP, and partnering with Arm and others (Kamila Wojciechowska/Android Authority)",
-            "link": "http://www.techmeme.com/250318/p53#a250318p53",
-            "published": "Tue, 18 Mar 2025 23:50:05 -0400"
-        },
-        {
-            "title": "Flashpoint: 3.2B credentials were stolen from organizations in 2024, up 33% YoY, of which 2.1B were compromised using info-stealing malware infecting 23M hosts (Matt Kapko/CyberScoop)",
-            "link": "http://www.techmeme.com/250318/p52#a250318p52",
-            "published": "Tue, 18 Mar 2025 23:30:01 -0400"
-        },
-        {
-            "title": "Sources: the real closer for Wiz and Google executives was President Trump&apos;s election, which brought with it the prospect of a friendlier antitrust review (Reuters)",
-            "link": "http://www.techmeme.com/250318/p51#a250318p51",
-            "published": "Tue, 18 Mar 2025 23:00:02 -0400"
         }
     ],
     "source_1": [
@@ -55,7 +55,7 @@
     ],
     "source_2": [
         {
-            "title": "Google agrees to pay $28m over racial bias case",
+            "title": "Google agrees to pay $28m in racial bias lawsuit",
             "link": "https://www.bbc.com/news/articles/c39v2ykwgdno",
             "published": "Wed, 19 Mar 2025 04:50:20 GMT"
         },
