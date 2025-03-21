@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "At Nvidia's Quantum Day, Jensen Huang walked back his January comments that cast doubt on the timeline for useful quantum computing and caused a stock selloff (Kif Leswing/CNBC)",
+            "link": "http://www.techmeme.com/250320/p45#a250320p45",
+            "published": "Thu, 20 Mar 2025 21:25:00 -0400"
+        },
+        {
             "title": "The US SEC says proof-of-work crypto mining doesn't trigger federal securities laws and mining operators do not need to register their transactions with the SEC (Cheyenne Ligon/CoinDesk)",
             "link": "http://www.techmeme.com/250320/p44#a250320p44",
             "published": "Thu, 20 Mar 2025 19:15:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Researchers unveil Aardvark, an AI weather prediction system that they say uses thousands of times less computing power and is much faster than current methods (The Guardian)",
             "link": "http://www.techmeme.com/250320/p41#a250320p41",
             "published": "Thu, 20 Mar 2025 17:25:02 -0400"
-        },
-        {
-            "title": "Google adds \"smarter search\" to Gmail for Android, iOS, and the web, using AI to show the most relevant results instead of showing them in chronological order (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/250320/p40#a250320p40",
-            "published": "Thu, 20 Mar 2025 16:15:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,21 @@
     ],
     "source_2": [
         {
+            "title": "TikTokers call for 'chubby filter' to be banned",
+            "link": "https://www.bbc.com/news/articles/c4gmvjvv6vjo",
+            "published": "Fri, 21 Mar 2025 00:02:37 GMT"
+        },
+        {
+            "title": "Tesla vandals face up to 20 years in prison, says attorney general",
+            "link": "https://www.bbc.com/news/articles/c204yvv1eexo",
+            "published": "Fri, 21 Mar 2025 01:20:20 GMT"
+        },
+        {
+            "title": "Why Elon Musk's Grok is kicking up a storm in India",
+            "link": "https://www.bbc.com/news/articles/cd65p1pv8pdo",
+            "published": "Thu, 20 Mar 2025 22:51:08 GMT"
+        },
+        {
             "title": "Man files complaint after ChatGPT said he killed his children",
             "link": "https://www.bbc.com/news/articles/c0kgydkr516o",
             "published": "Thu, 20 Mar 2025 17:09:19 GMT"
@@ -63,21 +78,6 @@
             "title": "Google agrees to pay $28m in racial bias lawsuit",
             "link": "https://www.bbc.com/news/articles/c39v2ykwgdno",
             "published": "Wed, 19 Mar 2025 04:50:20 GMT"
-        },
-        {
-            "title": "Subsea fibre cables can 'listen out' for sabotage",
-            "link": "https://www.bbc.com/news/articles/cn52rglxr62o",
-            "published": "Tue, 18 Mar 2025 01:27:38 GMT"
-        },
-        {
-            "title": "Telegram founder allowed to leave France following arrest",
-            "link": "https://www.bbc.com/news/articles/cg703lz02l0o",
-            "published": "Mon, 17 Mar 2025 15:12:21 GMT"
-        },
-        {
-            "title": "Shut vile death video site, families say, as Ofcom gets new powers",
-            "link": "https://www.bbc.com/news/articles/c3w1z248145o",
-            "published": "Mon, 17 Mar 2025 00:02:04 GMT"
         }
     ]
 }
