@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: KKR, Coatue, and other ByteDance investors are exploring buying out Chinese investors from TikTok US to assure Trump that it is free of Chinese control (Financial Times)",
+            "link": "http://www.techmeme.com/250321/p19#a250321p19",
+            "published": "Fri, 21 Mar 2025 12:15:02 -0400"
+        },
+        {
+            "title": "The US Treasury's sanctions watchdog removes Tornado Cash from its global blacklist, after a federal appeals court ruled against the sanctions in November 2024 (Nikhilesh De/CoinDesk)",
+            "link": "http://www.techmeme.com/250321/p18#a250321p18",
+            "published": "Fri, 21 Mar 2025 12:05:02 -0400"
+        },
+        {
+            "title": "Yahoo strikes a deal to sell TechCrunch to media investment firm Regent, which acquired PCWorld publisher Foundry earlier this week (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/250321/p17#a250321p17",
+            "published": "Fri, 21 Mar 2025 11:40:40 -0400"
+        },
+        {
             "title": "Interviews with 50+ current and ex-staffers reveal Google's two-year race to catch up with OpenAI, including through layoffs and lowering some guardrails (Wired)",
             "link": "http://www.techmeme.com/250321/p16#a250321p16",
             "published": "Fri, 21 Mar 2025 11:20:01 -0400"
@@ -9,21 +24,6 @@
             "title": "BuildOps, which develops software for commercial services contractors, raised a $127M Series C led by Meritech Capital at a $1B post-money valuation (Mary Ann Azevedo/TechCrunch)",
             "link": "http://www.techmeme.com/250321/p15#a250321p15",
             "published": "Fri, 21 Mar 2025 10:15:01 -0400"
-        },
-        {
-            "title": "Source: US Senators Dick Durbin and Lindsey Graham plan to introduce a bipartisan bill with wide support that would make Section 230 expire on January 1, 2027 (Paris Martineau/The Information)",
-            "link": "http://www.techmeme.com/250321/p14#a250321p14",
-            "published": "Fri, 21 Mar 2025 09:25:16 -0400"
-        },
-        {
-            "title": "Cloudflare announces AI Labyrinth, which uses AI-generated content to confuse and waste the resources of AI Crawlers and bots that ignore \"no crawl\" directives (The Cloudflare Blog)",
-            "link": "http://www.techmeme.com/250321/p13#a250321p13",
-            "published": "Fri, 21 Mar 2025 08:45:02 -0400"
-        },
-        {
-            "title": "Report: North Korea is launching Research Center 227, a cybersecurity research unit focused on AI-based hacking for stealing information and digital assets (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-            "link": "http://www.techmeme.com/250321/p12#a250321p12",
-            "published": "Fri, 21 Mar 2025 07:55:13 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Uber offers 20 hours of free childcare in bid to lure female drivers",
+            "link": "https://www.bbc.com/news/articles/cgm1pmdlvx8o",
+            "published": "Fri, 21 Mar 2025 16:11:10 GMT"
+        },
+        {
             "title": "'Chubby filter' pulled from TikTok after user backlash",
             "link": "https://www.bbc.com/news/articles/c4gmvjvv6vjo",
             "published": "Fri, 21 Mar 2025 14:00:11 GMT"
@@ -73,11 +78,6 @@
             "title": "Man files complaint after ChatGPT said he killed his children",
             "link": "https://www.bbc.com/news/articles/c0kgydkr516o",
             "published": "Fri, 21 Mar 2025 11:37:19 GMT"
-        },
-        {
-            "title": "Google agrees to pay $28m in racial bias lawsuit",
-            "link": "https://www.bbc.com/news/articles/c39v2ykwgdno",
-            "published": "Wed, 19 Mar 2025 04:50:20 GMT"
         }
     ]
 }
