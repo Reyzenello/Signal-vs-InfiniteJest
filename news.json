@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Cloudflare announces AI Labyrinth, which uses AI-generated content to confuse and waste the resources of AI Crawlers and bots that ignore \"no crawl\" directives (The Cloudflare Blog)",
+            "link": "http://www.techmeme.com/250321/p13#a250321p13",
+            "published": "Fri, 21 Mar 2025 08:45:02 -0400"
+        },
+        {
+            "title": "Report: North Korea is launching a new cybersecurity research unit called Research Center 227 focused on AI-based hacking and stealing digital assets (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+            "link": "http://www.techmeme.com/250321/p12#a250321p12",
+            "published": "Fri, 21 Mar 2025 07:55:13 -0400"
+        },
+        {
             "title": "Chinese food delivery giant Meituan reports Q4 revenue up 20% to $12.21B, vs. $12.1B est., net profit up 180% YoY to $858M, even as it faces stiff competition (Kimberley Kao/Wall Street Journal)",
             "link": "http://www.techmeme.com/250321/p11#a250321p11",
             "published": "Fri, 21 Mar 2025 07:00:41 -0400"
         },
         {
-            "title": "Micron Q2: revenue up 38% YoY to $8.05B vs. $7.89B est., net income up 99% to $1.58B, says data center revenue tripled, offers better-than-expected Q3 guidance (Ashley Capoot/CNBC)",
+            "title": "Micron Q2: revenue up 38% YoY to $8.05B, vs. $7.89B est., net income up 100% to $1.58B, data center revenue up 200%, and offers better-than-expected Q3 guidance (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/250321/p10#a250321p10",
             "published": "Fri, 21 Mar 2025 06:20:04 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "A profile of Wiz CEO Assaf Rappaport, who served in Israel's elite cyber intelligence unit 8200; sources say Wiz was on track to surpass $1B of ARR in 2025 (Financial Times)",
             "link": "http://www.techmeme.com/250321/p9#a250321p9",
             "published": "Fri, 21 Mar 2025 05:20:01 -0400"
-        },
-        {
-            "title": "A book excerpt from AI Valley details the 2024 mass defection of staff at Inflection AI, which seemed to be thriving but faced scaling challenges, to Microsoft (Gary Rivlin/Bloomberg)",
-            "link": "http://www.techmeme.com/250321/p8#a250321p8",
-            "published": "Fri, 21 Mar 2025 04:05:02 -0400"
-        },
-        {
-            "title": "A look at LibGen, one of the largest online pirate libraries, with 7.5M+ books and 81M+ research papers, allegedly used by Meta and OpenAI to train AI models (Alex Reisner/The Atlantic)",
-            "link": "http://www.techmeme.com/250321/p7#a250321p7",
-            "published": "Fri, 21 Mar 2025 02:35:02 -0400"
         }
     ],
     "source_1": [
@@ -72,7 +72,7 @@
         {
             "title": "Man files complaint after ChatGPT said he killed his children",
             "link": "https://www.bbc.com/news/articles/c0kgydkr516o",
-            "published": "Thu, 20 Mar 2025 17:09:19 GMT"
+            "published": "Fri, 21 Mar 2025 11:37:19 GMT"
         },
         {
             "title": "Google agrees to pay $28m in racial bias lawsuit",
