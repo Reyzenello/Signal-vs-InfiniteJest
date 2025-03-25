@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI is integrating Sora's image generation capabilities directly into ChatGPT across all tiers including free, initially just for images, not videos (Kylie Robison/The Verge)",
+            "link": "http://www.techmeme.com/250325/p29#a250325p29",
+            "published": "Tue, 25 Mar 2025 14:19:27 -0400"
+        },
+        {
+            "title": "The Arc Prize Foundation says its new ARC-AGI-2 test stumps most AI models; humans get 60% of the questions right but GPT-4.5 and Claude 3.7 Sonnet score ~1% (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250325/p28#a250325p28",
+            "published": "Tue, 25 Mar 2025 14:15:02 -0400"
+        },
+        {
+            "title": "Meta rolls out a pilot program on Instagram designed to let US schools flag any potentially rule-violating post or account for prioritized review (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250325/p27#a250325p27",
+            "published": "Tue, 25 Mar 2025 13:55:04 -0400"
+        },
+        {
             "title": "Apple announces WWDC 2025 for June 9-13, which will be an \"entirely online\" event free for developers, with an in-person special event at Apple Park on June 9 (Chance Miller/9to5Mac)",
             "link": "http://www.techmeme.com/250325/p26#a250325p26",
             "published": "Tue, 25 Mar 2025 13:14:18 -0400"
@@ -9,33 +24,18 @@
             "title": "Google debuts Gemini 2.5, first with 2.5 Pro Experimental, a \"thinking\" model that Google says leads on some benchmarks; available now for Gemini Advanced users (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/250325/p25#a250325p25",
             "published": "Tue, 25 Mar 2025 13:10:02 -0400"
-        },
-        {
-            "title": "Google releases TxGemma, a collection of open models built on Gemma that are designed to improve the efficiency of therapeutic drug development (Shekoofeh Azizi/Google Developers Blog)",
-            "link": "http://www.techmeme.com/250325/p24#a250325p24",
-            "published": "Tue, 25 Mar 2025 13:05:00 -0400"
-        },
-        {
-            "title": "Quora's Poe launches its most affordable subscription plan for $5/month (Lauren Forristal/TechCrunch)",
-            "link": "http://www.techmeme.com/250325/p23#a250325p23",
-            "published": "Tue, 25 Mar 2025 13:01:21 -0400"
-        },
-        {
-            "title": "As TikTok faces a US ban on April 5, the ByteDance-owned app has a new ad campaign framing TikTok as a savior of Americans and a champion of small businesses (Sapna Maheshwari/New York Times)",
-            "link": "http://www.techmeme.com/250325/p22#a250325p22",
-            "published": "Tue, 25 Mar 2025 12:40:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "TikTok Ads Portray App as Force for Good as US Ban Looms",
             "link": "https://www.nytimes.com/2025/03/25/technology/tiktok-ban-ads.html",
-            "published": "Tue, 25 Mar 2025 15:56:15 +0000"
+            "published": "Tue, 25 Mar 2025 18:25:13 +0000"
         },
         {
             "title": "Trump\u2019s Crypto Venture Introduces a Stablecoin",
             "link": "https://www.nytimes.com/2025/03/25/technology/trump-crypto-stablecoin.html",
-            "published": "Tue, 25 Mar 2025 17:10:13 +0000"
+            "published": "Tue, 25 Mar 2025 18:18:47 +0000"
         },
         {
             "title": "Inside A.I.\u2019s Super Bowl: Nvidia Dreams of A Robot Future",
@@ -48,9 +48,9 @@
             "published": "Tue, 25 Mar 2025 12:17:34 +0000"
         },
         {
-            "title": "Layoffs and Unemployment Grow Among College Graduates",
-            "link": "https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html",
-            "published": "Tue, 25 Mar 2025 09:01:43 +0000"
+            "title": "OpenAI Unveils New Image Generator for ChatGPT",
+            "link": "https://www.nytimes.com/2025/03/25/technology/chatgpt-image-generator.html",
+            "published": "Tue, 25 Mar 2025 18:00:07 +0000"
         }
     ],
     "source_2": [
