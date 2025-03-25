@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Apple Music is opening its catalog to DJs by integrating with popular DJ software and hardware platforms including Algoriddim's djay Pro and AlphaTheta (Michael Burkhardt/9to5Mac)",
+            "link": "http://www.techmeme.com/250325/p18#a250325p18",
+            "published": "Tue, 25 Mar 2025 10:50:02 -0400"
+        },
+        {
+            "title": "AI startup Synthesia says it's creating a $1M stock pool to pay actors with equity for the use of their likeness, a first for the AI industry (Melissa Heikkil\u00e4/Financial Times)",
+            "link": "http://www.techmeme.com/250325/p17#a250325p17",
+            "published": "Tue, 25 Mar 2025 10:35:01 -0400"
+        },
+        {
             "title": "3D tech company Infinite Reality acquires Napster for $207M; Infinite's CEO says that the file-sharing phenomenon will be used for marketing in the metaverse (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/250325/p16#a250325p16",
             "published": "Tue, 25 Mar 2025 08:20:04 -0400"
@@ -14,19 +24,14 @@
             "title": "TechInsights: the costs of 300mm wafers at TSMC's Fab 21 near Phoenix, Arizona, are set to be only ~10% higher than those of similar wafers processed in Taiwan (Anton Shilov/Tom's Hardware)",
             "link": "http://www.techmeme.com/250325/p14#a250325p14",
             "published": "Tue, 25 Mar 2025 07:50:01 -0400"
-        },
-        {
-            "title": "Sources: the European Commission is set to close its year-long probe into browser options on iOS without a fine after Apple made changes to comply with the DMA (Foo Yun Chee/Reuters)",
-            "link": "http://www.techmeme.com/250325/p13#a250325p13",
-            "published": "Tue, 25 Mar 2025 07:35:01 -0400"
-        },
-        {
-            "title": "Waymo plans to launch its Waymo One ride-hailing service in Washington, DC in 2026; the city currently prohibits autonomous vehicles without safety drivers (Andrew J. Hawkins/The Verge)",
-            "link": "http://www.techmeme.com/250325/p12#a250325p12",
-            "published": "Tue, 25 Mar 2025 07:25:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside A.I.\u2019s Super Bowl: Nvidia Dreams Of A Robot Future",
+            "link": "https://www.nytimes.com/2025/03/25/technology/nvidia-ai-robots.html",
+            "published": "Tue, 25 Mar 2025 15:10:22 +0000"
+        },
         {
             "title": "Samsung Electronics Executive Han Jong-Hee Dies at 63",
             "link": "https://www.nytimes.com/2025/03/24/business/han-jong-hee-dead.html",
@@ -43,17 +48,17 @@
             "published": "Mon, 24 Mar 2025 21:17:06 +0000"
         },
         {
-            "title": "Netflix\u2019s Reed Hastings Gives $50 Million to Bowdoin for A.I. Program",
-            "link": "https://www.nytimes.com/2025/03/24/technology/reed-hastings-bowdoin-ai.html",
-            "published": "Mon, 24 Mar 2025 10:00:06 +0000"
-        },
-        {
-            "title": "Layoffs and Unemployment Grow Among College Graduates",
-            "link": "https://www.nytimes.com/2025/03/25/business/economy/white-collar-layoffs.html",
-            "published": "Tue, 25 Mar 2025 09:01:43 +0000"
+            "title": "Trump\u2019s Crypto Venture Introduces a Stablecoin",
+            "link": "https://www.nytimes.com/2025/03/25/technology/trump-crypto-stablecoin.html",
+            "published": "Tue, 25 Mar 2025 15:07:46 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "What is the Signal messaging app and how secure is it?",
+            "link": "https://www.bbc.com/news/articles/c1kjd091019o",
+            "published": "Tue, 25 Mar 2025 14:54:20 GMT"
+        },
         {
             "title": "Chinese electric carmaker BYD sales beat Tesla",
             "link": "https://www.bbc.com/news/articles/cd65d583qvzo",
@@ -73,11 +78,6 @@
             "title": "The man with a mind-reading chip in his brain - thanks to Elon Musk",
             "link": "https://www.bbc.com/news/articles/cewk49j7j1po",
             "published": "Sun, 23 Mar 2025 01:04:10 GMT"
-        },
-        {
-            "title": "Honest or unrealistic? Roblox boss' online safety advice sparks debate",
-            "link": "https://www.bbc.com/news/articles/clynwgdrr48o",
-            "published": "Sat, 22 Mar 2025 00:54:21 GMT"
         }
     ]
 }
