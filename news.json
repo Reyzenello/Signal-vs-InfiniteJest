@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A look at the 25-year-old CVE program, which assigns unique IDs to flaws; 413 orgs now report CVEs, with 40K+ reported in 2024, pushing the total past 270K (Cynthia Brumfield/CyberScoop)",
+            "link": "http://www.techmeme.com/250325/p4#a250325p4",
+            "published": "Tue, 25 Mar 2025 02:25:01 -0400"
+        },
+        {
+            "title": "A look at Apple's strategy missteps with TV+, including trying to rival Netflix by building a platform from scratch, using TV+ to boost device sales, and more (M.G. Siegler/Spyglass)",
+            "link": "http://www.techmeme.com/250325/p3#a250325p3",
+            "published": "Tue, 25 Mar 2025 01:45:00 -0400"
+        },
+        {
             "title": "Alibaba releases Qwen2.5-VL-32B, a 32B open model under Apache 2.0, claims better alignment with human preferences and math reasoning than earlier 2.5 VL models (Simon Willison/Simon Willison's Weblog)",
             "link": "http://www.techmeme.com/250325/p2#a250325p2",
             "published": "Tue, 25 Mar 2025 01:05:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Alibaba Chairman Joe Tsai warns of a data center bubble, saying the buildout may outpace early AI demand and is starting to look indiscriminate (Luz Ding/Bloomberg)",
             "link": "http://www.techmeme.com/250324/p35#a250324p35",
             "published": "Mon, 24 Mar 2025 23:35:00 -0400"
-        },
-        {
-            "title": "Sources: the European Commission is expected to find that Meta violated the DMA and fine the company hundreds of millions of dollars, possibly over $1B (Thomas Barrabi/New York Post)",
-            "link": "http://www.techmeme.com/250324/p34#a250324p34",
-            "published": "Mon, 24 Mar 2025 23:00:38 -0400"
-        },
-        {
-            "title": "Chinese AI startups revamp business models after DeepSeek's rise; sources: Zhipu eyes IPO, 01.ai drops pre-training LLMs to sell apps using DeepSeek, and more (Financial Times)",
-            "link": "http://www.techmeme.com/250324/p33#a250324p33",
-            "published": "Mon, 24 Mar 2025 22:20:02 -0400"
         }
     ],
     "source_1": [
