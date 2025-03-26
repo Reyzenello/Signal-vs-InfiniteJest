@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Island, which offers a Chromium-based secure enterprise browser, raised a $250M Series E led by Coatue at a $4.8B valuation, taking its total funding to ~$730M (Kyt Dotson/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250326/p30#a250326p30",
+            "published": "Wed, 26 Mar 2025 13:00:59 -0400"
+        },
+        {
+            "title": "Sources: Italy hands tax demands to Meta, X, and LinkedIn in the last step in its VAT case, seeking \u20ac887.6M from Meta, \u20ac12.5M from X, and ~\u20ac140M from LinkedIn (Reuters)",
+            "link": "http://www.techmeme.com/250326/p29#a250326p29",
+            "published": "Wed, 26 Mar 2025 12:40:01 -0400"
+        },
+        {
             "title": "Waze says it is removing Google Assistant for iPhone users, citing \"ongoing difficulties\" with the integration, after recently testing a Gemini-based assistant (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/250326/p28#a250326p28",
             "published": "Wed, 26 Mar 2025 11:55:04 -0400"
@@ -14,23 +24,13 @@
             "title": "iPad (A16) review: fast chip, double the storage, 2GB more RAM, good build quality and battery, and loads of apps, but an aging display and no M chips or AI (Jeff Dunn/Engadget)",
             "link": "http://www.techmeme.com/250326/p26#a250326p26",
             "published": "Wed, 26 Mar 2025 11:15:01 -0400"
-        },
-        {
-            "title": "eMarketer expects X to generate $1.31B in US ad sales in 2025, up 17.5%, and $2.26B in global ad sales, up 16.5%, its first year of ad revenue growth since 2022 (Kurt Wagner/Bloomberg)",
-            "link": "http://www.techmeme.com/250326/p25#a250326p25",
-            "published": "Wed, 26 Mar 2025 10:30:02 -0400"
-        },
-        {
-            "title": "IPO filings: CoreWeave, set to launch a $32B IPO on March 28, violated key terms of a $7.6B Blackstone loan in 2024, triggering a series of technical defaults (Financial Times)",
-            "link": "http://www.techmeme.com/250326/p24#a250326p24",
-            "published": "Wed, 26 Mar 2025 10:20:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Reflecting on TikTok\u2019s Role in Society as New Ban Deadline Approaches",
             "link": "https://www.nytimes.com/2025/03/26/technology/personaltech/tiktok-ban-deadline.html",
-            "published": "Wed, 26 Mar 2025 09:02:40 +0000"
+            "published": "Wed, 26 Mar 2025 16:36:13 +0000"
         },
         {
             "title": "TikTok Ads Portray App as Force for Good as US Ban Looms",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "23andMe users struggle to delete their highly sensitive data",
+            "link": "https://www.bbc.com/news/articles/cddy8d63262o",
+            "published": "Wed, 26 Mar 2025 16:42:57 GMT"
+        },
+        {
             "title": "What is the Signal messaging app and how secure is it?",
             "link": "https://www.bbc.com/news/articles/c1kjd091019o",
             "published": "Wed, 26 Mar 2025 09:51:03 GMT"
@@ -73,11 +78,6 @@
             "title": "DNA testing site 23andMe files for bankruptcy protection",
             "link": "https://www.bbc.com/news/articles/c9q4r9xy9wro",
             "published": "Mon, 24 Mar 2025 09:42:23 GMT"
-        },
-        {
-            "title": "The man with a mind-reading chip in his brain - thanks to Elon Musk",
-            "link": "https://www.bbc.com/news/articles/cewk49j7j1po",
-            "published": "Sun, 23 Mar 2025 01:04:10 GMT"
         }
     ]
 }
