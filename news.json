@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Client notice: Chinese server maker H3C warns of potential shortages of Nvidia H20 chips, the most advanced AI chips available in China under US export rules (Reuters)",
+            "link": "http://www.techmeme.com/250327/p20#a250327p20",
+            "published": "Thu, 27 Mar 2025 08:05:04 -0400"
+        },
+        {
+            "title": "Xiaomi's Poco unveils the \u00a3649+ F7 Ultra, with a 6.67\" display, Snapdragon 8 Elite, a triple rear camera, 120W wired charging, and IP68, and the \u00a3499+ F7 Pro (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/250327/p19#a250327p19",
+            "published": "Thu, 27 Mar 2025 07:45:01 -0400"
+        },
+        {
+            "title": "Meta VP of Asia Pacific Dan Neary is leaving for personal reasons; the Singapore-based executive joined in 2013, and Meta now has ~1.1B users in the region (Newley Purnell/Bloomberg)",
+            "link": "http://www.techmeme.com/250327/p18#a250327p18",
+            "published": "Thu, 27 Mar 2025 07:30:00 -0400"
+        },
+        {
             "title": "Pat Gelsinger says TSMC's pledge to invest $100B+ in US chip manufacturing will do little to restore the US' chipmaking leadership as R&D will remain in Taiwan (Financial Times)",
             "link": "http://www.techmeme.com/250327/p17#a250327p17",
             "published": "Thu, 27 Mar 2025 07:10:41 -0400"
@@ -9,21 +24,6 @@
             "title": "Source: Nvidia is in advanced talks to acquire Lepton AI, which rents Nvidia GPU servers, for several hundred million dollars; Lepton raised $11M in 2023 (The Information)",
             "link": "http://www.techmeme.com/250327/p16#a250327p16",
             "published": "Thu, 27 Mar 2025 06:55:29 -0400"
-        },
-        {
-            "title": "After OpenAI released a new ChatGPT image generator, social media has been flooded with AI memes in the style of Studio Ghibli, highlighting copyright concerns (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/250327/p15#a250327p15",
-            "published": "Thu, 27 Mar 2025 06:40:29 -0400"
-        },
-        {
-            "title": "An EU confidential decision, now public, shows the EU pressed Meta to create a separate version of Facebook Marketplace or let users access rival services (Samuel Stolton/Bloomberg)",
-            "link": "http://www.techmeme.com/250327/p14#a250327p14",
-            "published": "Thu, 27 Mar 2025 06:30:02 -0400"
-        },
-        {
-            "title": "Sources: after taking five years to build its first US plant, TSMC expects new factories to take two years; a 3nm plant is set for 2028 and 2nm before 2030 (Nikkei Asia)",
-            "link": "http://www.techmeme.com/250327/p13#a250327p13",
-            "published": "Thu, 27 Mar 2025 06:15:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OnlyFans fined over user age-check information failings",
+            "link": "https://www.bbc.com/news/articles/cr42g1lprw5o",
+            "published": "Thu, 27 Mar 2025 11:33:19 GMT"
+        },
+        {
             "title": "China tariffs may be cut to seal TikTok sale, Trump says",
             "link": "https://www.bbc.com/news/articles/c241ezrpg69o",
             "published": "Thu, 27 Mar 2025 08:08:47 GMT"
@@ -73,11 +78,6 @@
             "title": "Atomfall: How a forgotten nuclear disaster inspired a video game",
             "link": "https://www.bbc.com/news/articles/c5y4n5127dxo",
             "published": "Thu, 27 Mar 2025 00:04:56 GMT"
-        },
-        {
-            "title": "23andMe users struggle to delete their highly sensitive data",
-            "link": "https://www.bbc.com/news/articles/cddy8d63262o",
-            "published": "Wed, 26 Mar 2025 16:42:57 GMT"
         }
     ]
 }
