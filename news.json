@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: after taking five years to build its first US plant, TSMC expects new factories to take two years; a 3nm plant is set for 2028 and 2nm before 2030 (Nikkei Asia)",
+            "link": "http://www.techmeme.com/250327/p13#a250327p13",
+            "published": "Thu, 27 Mar 2025 06:15:02 -0400"
+        },
+        {
+            "title": "Q&A with Mike Clark, the chief architect of AMD's Zen microarchitecture, on x86, ARM, CPUs vs GPUs, Zen 4 to Zen 5, software developers, and more (Casey Muratori/Computer, Enhance!)",
+            "link": "http://www.techmeme.com/250327/p12#a250327p12",
+            "published": "Thu, 27 Mar 2025 05:55:26 -0400"
+        },
+        {
+            "title": "A leaked Chinese dataset on \"public opinion work\" reveals 133,000 entries fed into an LLM designed to automatically flag content deemed sensitive by China (Charles Rollet/TechCrunch)",
+            "link": "http://www.techmeme.com/250327/p11#a250327p11",
+            "published": "Thu, 27 Mar 2025 05:40:28 -0400"
+        },
+        {
             "title": "A look at OpenWorm, a 13-year-old project that has so far failed to simulate C. elegans, one of the simplest and most extensively studied organisms in the world (Claire L. Evans/Wired)",
             "link": "http://www.techmeme.com/250327/p10#a250327p10",
             "published": "Thu, 27 Mar 2025 05:25:46 -0400"
@@ -9,21 +24,6 @@
             "title": "Takeaways after using AI search exclusively for one month: AI search is more of a UX revamp than a replacement for Google's blue links-based web search paradigm (Joanna Stern/Wall Street Journal)",
             "link": "http://www.techmeme.com/250327/p9#a250327p9",
             "published": "Thu, 27 Mar 2025 05:00:57 -0400"
-        },
-        {
-            "title": "A survey of US adults: 34% support a TikTok ban, down from 50% in March 2023, and 49% say TikTok is a national security threat, down from 59% in May 2023 (Colleen McClain/Pew Research Center)",
-            "link": "http://www.techmeme.com/250327/p8#a250327p8",
-            "published": "Thu, 27 Mar 2025 04:47:21 -0400"
-        },
-        {
-            "title": "JPMorgan researchers say they have generated and certified truly random numbers using a quantum computer, a world-first with potential security and trading uses (Isabella Ward/Bloomberg)",
-            "link": "http://www.techmeme.com/250327/p7#a250327p7",
-            "published": "Thu, 27 Mar 2025 02:55:00 -0400"
-        },
-        {
-            "title": "Sources: many new Chinese AI data centers sit unused due to weak demand and DeepSeek-driven shifts; local reports say ~80% of new computing resources are idle (Caiwei Chen/MIT Technology Review)",
-            "link": "http://www.techmeme.com/250327/p6#a250327p6",
-            "published": "Thu, 27 Mar 2025 02:40:02 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "How A.I. Chatbots Like ChatGPT and DeepSeek Reason",
             "link": "https://www.nytimes.com/2025/03/26/technology/ai-reasoning-chatgpt-deepseek.html",
-            "published": "Wed, 26 Mar 2025 22:41:44 +0000"
+            "published": "Wed, 26 Mar 2025 22:41:45 +0000"
         }
     ],
     "source_2": [
