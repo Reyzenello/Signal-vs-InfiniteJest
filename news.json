@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Flexport CEO Ryan Petersen says the company generated revenue of $2.1B in 2024, up from $1.6B in 2023 but missed its target to be profitable by the end of 2024 (Paul Berger/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250327/p24#a250327p24",
+            "published": "Thu, 27 Mar 2025 10:15:14 -0400"
+        },
+        {
+            "title": "Source: CoreWeave plans to cut the size of its IPO to ~$1.5B, offering 37.5M shares at $40 each, down from 49M shares at $47 to $55, a sign of market volatility (Bloomberg)",
+            "link": "http://www.techmeme.com/250327/p23#a250327p23",
+            "published": "Thu, 27 Mar 2025 09:50:01 -0400"
+        },
+        {
             "title": "Instacart rolls out Store View, paying shoppers to take videos of store shelves \"one aisle at a time\" to assess inventory, starting with select retailers (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/250327/p22#a250327p22",
             "published": "Thu, 27 Mar 2025 09:25:01 -0400"
@@ -14,19 +24,14 @@
             "title": "Client notice: Chinese server maker H3C warns of potential shortages of Nvidia H20 chips, the most advanced AI chips available in China under US export rules (Reuters)",
             "link": "http://www.techmeme.com/250327/p20#a250327p20",
             "published": "Thu, 27 Mar 2025 08:05:04 -0400"
-        },
-        {
-            "title": "Xiaomi's Poco unveils the \u00a3649+ F7 Ultra, with a 6.67\" display, Snapdragon 8 Elite, a triple rear camera, 120W wired charging, and IP68, and the \u00a3499+ F7 Pro (Dominic Preston/The Verge)",
-            "link": "http://www.techmeme.com/250327/p19#a250327p19",
-            "published": "Thu, 27 Mar 2025 07:45:01 -0400"
-        },
-        {
-            "title": "Meta VP of Asia Pacific Dan Neary is leaving for personal reasons; the Singapore-based executive joined in 2013, and Meta now has ~1.1B users in the region (Newley Purnell/Bloomberg)",
-            "link": "http://www.techmeme.com/250327/p18#a250327p18",
-            "published": "Thu, 27 Mar 2025 07:30:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How A.I. Chatbots Like ChatGPT and DeepSeek Reason",
+            "link": "https://www.nytimes.com/2025/03/26/technology/ai-reasoning-chatgpt-deepseek.html",
+            "published": "Wed, 26 Mar 2025 22:41:45 +0000"
+        },
         {
             "title": "Reflecting on TikTok\u2019s Role in Society as New Ban Deadline Approaches",
             "link": "https://www.nytimes.com/2025/03/26/technology/personaltech/tiktok-ban-deadline.html",
@@ -38,22 +43,22 @@
             "published": "Tue, 25 Mar 2025 18:25:13 +0000"
         },
         {
+            "title": "After the Signal Leak, How Well Do You Know Your Own Group Chats?",
+            "link": "https://www.nytimes.com/2025/03/25/style/group-chat-security-signal.html",
+            "published": "Wed, 26 Mar 2025 12:48:07 +0000"
+        },
+        {
             "title": "What Is Signal, the App Involved in a War Plans Security Breach?",
             "link": "https://www.nytimes.com/2025/03/25/technology/signal-app-security-leak.html",
             "published": "Wed, 26 Mar 2025 18:13:21 +0000"
-        },
-        {
-            "title": "OpenAI Unveils New Image Generator for ChatGPT",
-            "link": "https://www.nytimes.com/2025/03/25/technology/chatgpt-image-generator.html",
-            "published": "Tue, 25 Mar 2025 20:26:33 +0000"
-        },
-        {
-            "title": "How A.I. Chatbots Like ChatGPT and DeepSeek Reason",
-            "link": "https://www.nytimes.com/2025/03/26/technology/ai-reasoning-chatgpt-deepseek.html",
-            "published": "Wed, 26 Mar 2025 22:41:45 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "H&M to use digital clones of models in ads and social media",
+            "link": "https://www.bbc.com/news/articles/c3vwg73xndeo",
+            "published": "Thu, 27 Mar 2025 13:57:41 GMT"
+        },
         {
             "title": "OnlyFans fined over user age-check information failings",
             "link": "https://www.bbc.com/news/articles/cr42g1lprw5o",
@@ -73,11 +78,6 @@
             "title": "Social media ban not practical or effective, teens say",
             "link": "https://www.bbc.com/news/articles/c8x40qplk15o",
             "published": "Thu, 27 Mar 2025 08:21:27 GMT"
-        },
-        {
-            "title": "Atomfall: How a forgotten nuclear disaster inspired a video game",
-            "link": "https://www.bbc.com/news/articles/c5y4n5127dxo",
-            "published": "Thu, 27 Mar 2025 00:04:56 GMT"
         }
     ]
 }
