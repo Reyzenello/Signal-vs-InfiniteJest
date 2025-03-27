@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Filing: Dell says it had about 108K employees as of January 31, 2025, down from 120K employees in February 2024, marking a 10% annual reduction in its workforce (Polly Thompson/Business Insider)",
+            "link": "http://www.techmeme.com/250326/p41#a250326p41",
+            "published": "Wed, 26 Mar 2025 21:55:02 -0400"
+        },
+        {
+            "title": "Oracle customers confirm the authenticity of data samples shared by a threat actor who allegedly breached Oracle Cloud servers, after Oracle denied the breach (Lawrence Abrams/BleepingComputer)",
+            "link": "http://www.techmeme.com/250326/p40#a250326p40",
+            "published": "Wed, 26 Mar 2025 20:05:02 -0400"
+        },
+        {
             "title": "Google says it plans to develop Android fully in private to streamline the development process but will continue to publish the source code for new releases (Mishaal Rahman/Android Authority)",
             "link": "http://www.techmeme.com/250326/p39#a250326p39",
             "published": "Wed, 26 Mar 2025 19:00:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Utah Gov. Spencer Cox signs a bill requiring Apple's and Google's mobile app stores to verify user ages and require parental consent for minors to use some apps (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/250326/p37#a250326p37",
             "published": "Wed, 26 Mar 2025 18:10:02 -0400"
-        },
-        {
-            "title": "A US federal judge rejects OpenAI's request to dismiss the NYT's lawsuit, allowing the main copyright infringement claims to go forward while narrowing the suit (Bobby Allyn/NPR)",
-            "link": "http://www.techmeme.com/250326/p36#a250326p36",
-            "published": "Wed, 26 Mar 2025 17:25:02 -0400"
-        },
-        {
-            "title": "A software update for some Amazon Kindle models lets users double-tap the sides or back of the device to turn pages in books or scroll down in Home and Library (Michael Kozlowski/Good e-Reader)",
-            "link": "http://www.techmeme.com/250326/p35#a250326p35",
-            "published": "Wed, 26 Mar 2025 17:20:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,21 @@
     ],
     "source_2": [
         {
+            "title": "NHS software provider fined \u00a33m over data breach after ransomware attack",
+            "link": "https://www.bbc.com/news/articles/cp3yv1zxn94o",
+            "published": "Thu, 27 Mar 2025 01:25:34 GMT"
+        },
+        {
+            "title": "Tougher rules needed to protect young people online, report warns",
+            "link": "https://www.bbc.com/news/articles/c8x40qplk15o",
+            "published": "Thu, 27 Mar 2025 01:49:27 GMT"
+        },
+        {
+            "title": "Atomfall: How a forgotten nuclear disaster inspired a video game",
+            "link": "https://www.bbc.com/news/articles/c5y4n5127dxo",
+            "published": "Thu, 27 Mar 2025 00:04:56 GMT"
+        },
+        {
             "title": "23andMe users struggle to delete their highly sensitive data",
             "link": "https://www.bbc.com/news/articles/cddy8d63262o",
             "published": "Wed, 26 Mar 2025 16:42:57 GMT"
@@ -63,21 +78,6 @@
             "title": "What is the Signal messaging app and how secure is it?",
             "link": "https://www.bbc.com/news/articles/c1kjd091019o",
             "published": "Wed, 26 Mar 2025 09:51:03 GMT"
-        },
-        {
-            "title": "Chinese electric carmaker BYD sales beat Tesla",
-            "link": "https://www.bbc.com/news/articles/cd65d583qvzo",
-            "published": "Tue, 25 Mar 2025 03:24:09 GMT"
-        },
-        {
-            "title": "Meta considers charging for ad-free Facebook and Instagram in the UK",
-            "link": "https://www.bbc.com/news/articles/c0kglle0p3vo",
-            "published": "Mon, 24 Mar 2025 15:45:53 GMT"
-        },
-        {
-            "title": "DNA testing site 23andMe files for bankruptcy protection",
-            "link": "https://www.bbc.com/news/articles/c9q4r9xy9wro",
-            "published": "Mon, 24 Mar 2025 09:42:23 GMT"
         }
     ]
 }
