@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Robinhood plans to roll out checking and savings accounts in 2025 for its paying Gold subscribers, aiming to provide more of a private banking-like experience (Paige Smith/Bloomberg)",
+            "link": "http://www.techmeme.com/250326/p43#a250326p43",
+            "published": "Wed, 26 Mar 2025 22:55:01 -0400"
+        },
+        {
+            "title": "Sources: Apple is promoting Vanessa Trigub to VP of stores and retail operations globally, as it streamlines management of its retail arm under Deirdre O'Brien (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250326/p42#a250326p42",
+            "published": "Wed, 26 Mar 2025 22:30:02 -0400"
+        },
+        {
             "title": "Filing: Dell says it had about 108K employees as of January 31, 2025, down from 120K employees in February 2024, marking a 10% annual reduction in its workforce (Polly Thompson/Business Insider)",
             "link": "http://www.techmeme.com/250326/p41#a250326p41",
             "published": "Wed, 26 Mar 2025 21:55:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Google says it plans to develop Android fully in private to streamline the development process but will continue to publish the source code for new releases (Mishaal Rahman/Android Authority)",
             "link": "http://www.techmeme.com/250326/p39#a250326p39",
             "published": "Wed, 26 Mar 2025 19:00:02 -0400"
-        },
-        {
-            "title": "xAI's Grok AI chatbot is now integrated with Telegram for Telegram Premium users, marking Grok's first big expansion beyond X (Andrew Hutchinson/Social Media Today)",
-            "link": "http://www.techmeme.com/250326/p38#a250326p38",
-            "published": "Wed, 26 Mar 2025 18:25:01 -0400"
-        },
-        {
-            "title": "Utah Gov. Spencer Cox signs a bill requiring Apple's and Google's mobile app stores to verify user ages and require parental consent for minors to use some apps (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/250326/p37#a250326p37",
-            "published": "Wed, 26 Mar 2025 18:10:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "China tariffs may be cut to seal TikTok sale, Trump says",
+            "link": "https://www.bbc.com/news/articles/c241ezrpg69o",
+            "published": "Thu, 27 Mar 2025 01:52:13 GMT"
+        },
+        {
             "title": "NHS software provider fined \u00a33m over data breach after ransomware attack",
             "link": "https://www.bbc.com/news/articles/cp3yv1zxn94o",
             "published": "Thu, 27 Mar 2025 01:25:34 GMT"
@@ -73,11 +78,6 @@
             "title": "23andMe users struggle to delete their highly sensitive data",
             "link": "https://www.bbc.com/news/articles/cddy8d63262o",
             "published": "Wed, 26 Mar 2025 16:42:57 GMT"
-        },
-        {
-            "title": "What is the Signal messaging app and how secure is it?",
-            "link": "https://www.bbc.com/news/articles/c1kjd091019o",
-            "published": "Wed, 26 Mar 2025 09:51:03 GMT"
         }
     ]
 }
