@@ -1,59 +1,69 @@
 {
     "techmeme": [
         {
+            "title": "In the latest Windows 11 preview build, Microsoft removed the \"bypassnro\" command, which let users skip signing into a Microsoft Account when installing Windows (Zac Bowden/Windows Central)",
+            "link": "http://www.techmeme.com/250328/p34#a250328p34",
+            "published": "Fri, 28 Mar 2025 21:15:02 -0400"
+        },
+        {
+            "title": "A US judge rejects Musk's bid to dismiss a lawsuit claiming he defrauded ex-Twitter shareholders by delaying the disclosure of his initial Twitter investment (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/250328/p33#a250328p33",
+            "published": "Fri, 28 Mar 2025 21:01:00 -0400"
+        },
+        {
+            "title": "Source: the new combined entity housing xAI and X is called XAI Holdings and is valued at more than $100B, not including debt (Bloomberg)",
+            "link": "http://www.techmeme.com/250328/p32#a250328p32",
+            "published": "Fri, 28 Mar 2025 20:25:14 -0400"
+        },
+        {
+            "title": "Filing: Intel says three board members will not stand for reelection at its 2025 annual meeting, shrinking the size of the board to 11 members (Arsheeya Bajwa/Reuters)",
+            "link": "http://www.techmeme.com/250328/p31#a250328p31",
+            "published": "Fri, 28 Mar 2025 19:40:12 -0400"
+        },
+        {
             "title": "Source: hackers broke into Oracle's Cerner servers sometime after January 22 and stole patient data to extort US medical providers; the FBI is investigating (Bloomberg)",
             "link": "http://www.techmeme.com/250328/p30#a250328p30",
             "published": "Fri, 28 Mar 2025 19:20:01 -0400"
-        },
-        {
-            "title": "Sources: Blackstone is evaluating a small minority investment in TikTok's US operations, joining the front-running bid by ByteDance's non-Chinese shareholders (Reuters)",
-            "link": "http://www.techmeme.com/250328/p29#a250328p29",
-            "published": "Fri, 28 Mar 2025 18:50:01 -0400"
-        },
-        {
-            "title": "Elon Musk says xAI acquired X in an all-stock deal valuing xAI at $80B and X at $33B; xAI was reportedly in talks to raise funds in February at a $75B valuation (CNBC)",
-            "link": "http://www.techmeme.com/250328/p28#a250328p28",
-            "published": "Fri, 28 Mar 2025 18:00:39 -0400"
-        },
-        {
-            "title": "@xAI has acquired @X in an all-stock transaction.  The combination values xAI at $80 billion and X at $33 billion ($45B less $12B debt).  Since its founding two years ago, xAI has rapidly become one of the leading AI labs in the world, building models and data centers at unprecedented speed and scale... xAI and X's futures are intertwined.  Today, we officially take the step to combine the data, models, compute, distribution and talent. (Elon Musk/@elonmusk)",
-            "link": "http://www.techmeme.com/250328/p27#a250328p27",
-            "published": "Fri, 28 Mar 2025 17:25:06 -0400"
-        },
-        {
-            "title": "Sources: ScaleAI is seeking a valuation as high as $25B in a potential tender offer; it was last valued at $13.8B in a $1B Series F round led by Accel in 2024 (Ben Bergman/Business Insider)",
-            "link": "http://www.techmeme.com/250328/p26#a250328p26",
-            "published": "Fri, 28 Mar 2025 17:15:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk Says He Has Sold X to His A.I. Start-Up xAI",
+            "link": "https://www.nytimes.com/2025/03/28/technology/musk-x-xai.html",
+            "published": "Sat, 29 Mar 2025 00:33:22 +0000"
+        },
+        {
+            "title": "Blackstone Considers Small Investment in TikTok",
+            "link": "https://www.nytimes.com/2025/03/28/business/media/blackstone-tiktok-bytedance.html",
+            "published": "Sat, 29 Mar 2025 00:36:51 +0000"
+        },
         {
             "title": "CoreWeave Disappoints on Opening of Trading",
             "link": "https://www.nytimes.com/2025/03/28/technology/coreweave-stock.html",
             "published": "Fri, 28 Mar 2025 21:04:56 +0000"
         },
         {
-            "title": "CoreWeave Scales Back Ambition for Its I.P.O.",
-            "link": "https://www.nytimes.com/2025/03/27/technology/coreweave-scales-back-ambitions-for-its-ipo.html",
-            "published": "Fri, 28 Mar 2025 02:06:20 +0000"
-        },
-        {
-            "title": "How A.I. Chatbots Like ChatGPT and DeepSeek Reason",
-            "link": "https://www.nytimes.com/2025/03/26/technology/ai-reasoning-chatgpt-deepseek.html",
-            "published": "Wed, 26 Mar 2025 22:41:45 +0000"
-        },
-        {
-            "title": "F.C.C. Chairman Orders Inquiry Into Disney\u2019s D.E.I. Practices",
+            "title": "FCC Orders Investigation Into Disney\u2019s DEI Practices",
             "link": "https://www.nytimes.com/2025/03/28/technology/disney-fcc-dei-investigation.html",
             "published": "Fri, 28 Mar 2025 22:55:19 +0000"
         },
         {
-            "title": "Elon Musk Says He Has Sold X to His A.I. Start-Up xAI",
-            "link": "https://www.nytimes.com/2025/03/28/technology/musk-x-xai.html",
-            "published": "Fri, 28 Mar 2025 23:07:42 +0000"
+            "title": "Look Again: That H&M Model Showing Off a New Look May Be a Digital Clone",
+            "link": "https://www.nytimes.com/2025/03/28/technology/hm-ai-models-social-media.html",
+            "published": "Sat, 29 Mar 2025 00:50:14 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Amateur photographers hope to fix Wikipedia's 'terrible' pictures",
+            "link": "https://www.bbc.com/news/articles/cqly43k3d45o",
+            "published": "Sat, 29 Mar 2025 01:42:30 GMT"
+        },
+        {
+            "title": "Center Parcs removes X account from website after fake account set up",
+            "link": "https://www.bbc.com/news/articles/cwyjyj9lnryo",
+            "published": "Sat, 29 Mar 2025 01:42:34 GMT"
+        },
         {
             "title": "Assassin's Creed maker gets $1.25bn Chinese investment",
             "link": "https://www.bbc.com/news/articles/cy4l4y0yd03o",
@@ -68,16 +78,6 @@
             "title": "OnlyFans fined over user age-check information failings",
             "link": "https://www.bbc.com/news/articles/cr42g1lprw5o",
             "published": "Thu, 27 Mar 2025 11:33:19 GMT"
-        },
-        {
-            "title": "China tariffs may be cut to seal TikTok sale, Trump says",
-            "link": "https://www.bbc.com/news/articles/c241ezrpg69o",
-            "published": "Thu, 27 Mar 2025 08:08:47 GMT"
-        },
-        {
-            "title": "NHS software provider fined \u00a33m over data breach after ransomware attack",
-            "link": "https://www.bbc.com/news/articles/cp3yv1zxn94o",
-            "published": "Thu, 27 Mar 2025 01:25:34 GMT"
         }
     ]
 }
