@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at the new, open-source Model Context Protocol for connecting LLMs to data sources and why its success depends on overcoming middleware challenges (Steven Sinofsky/Hardcore Software)",
+            "link": "http://www.techmeme.com/250329/p17#a250329p17",
+            "published": "Sat, 29 Mar 2025 22:10:01 -0400"
+        },
+        {
             "title": "How AI tools are causing problems and sowing distrust in both job hunting and hiring; a Polish cybersecurity startup says it almost hired a deepfake candidate (Taylor Telford/Washington Post)",
             "link": "http://www.techmeme.com/250329/p16#a250329p16",
             "published": "Sat, 29 Mar 2025 20:10:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Kalshi sues Nevada's gaming regulators to keep offering event contracts to bet on sports and politics, citing federal regulation by the US CFTC (Robert Burnson/Bloomberg)",
             "link": "http://www.techmeme.com/250329/p13#a250329p13",
             "published": "Sat, 29 Mar 2025 14:50:02 -0400"
-        },
-        {
-            "title": "A look at AI-generated fake movie trailers on YouTube; WBD, Paramount, and Sony have earned ad revenue from some videos instead of defending their copyright (Jake Kanter/Deadline)",
-            "link": "http://www.techmeme.com/250329/p12#a250329p12",
-            "published": "Sat, 29 Mar 2025 13:40:33 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Kink and LGBT dating apps exposed 1.5m private user images online",
+            "link": "https://www.bbc.com/news/articles/c05m5m5v327o",
+            "published": "Sun, 30 Mar 2025 00:10:16 GMT"
+        },
+        {
             "title": "Musk's xAI buys his social media platform X",
             "link": "https://www.bbc.com/news/articles/ceqjq11202ro",
             "published": "Sat, 29 Mar 2025 02:01:34 GMT"
@@ -73,11 +78,6 @@
             "title": "'UK crowds are the best': Does home advantage make a difference in esports?",
             "link": "https://www.bbc.com/news/articles/cx2rw484jvdo",
             "published": "Sat, 29 Mar 2025 02:14:43 GMT"
-        },
-        {
-            "title": "Assassin's Creed maker gets $1.25bn Chinese investment",
-            "link": "https://www.bbc.com/news/articles/cy4l4y0yd03o",
-            "published": "Fri, 28 Mar 2025 05:22:58 GMT"
         }
     ]
 }
