@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Seattle-based Temporal, an open-source microservices orchestration service, raised a $146M Series C led by Tiger Global at a $1.72B post-money valuation (TechCrunch)",
+            "link": "http://www.techmeme.com/250331/p25#a250331p25",
+            "published": "Mon, 31 Mar 2025 10:40:44 -0400"
+        },
+        {
             "title": "Cerebras says it has resolved \"all open issues\" with the CFIUS, as it prepares for an IPO; the AI startup filed a notice about its ties to Abu Dhabi's G42 (Ian King/Bloomberg)",
             "link": "http://www.techmeme.com/250331/p24#a250331p24",
             "published": "Mon, 31 Mar 2025 10:25:40 -0400"
@@ -19,28 +24,13 @@
             "title": "Amazon's AGI Lab unveils Nova Act, a general purpose AI agent to control a web browser and independently perform some simple actions, and a Nova Act SDK (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250331/p21#a250331p21",
             "published": "Mon, 31 Mar 2025 09:15:01 -0400"
-        },
-        {
-            "title": "How the Trump family took over World Liberty Financial, which raised $550M+ via governance tokens; the family has a claim on 75% of net revenues of token sales (Reuters)",
-            "link": "http://www.techmeme.com/250331/p20#a250331p20",
-            "published": "Mon, 31 Mar 2025 08:25:36 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Elon Musk Says He Has Sold X to His A.I. Start-Up xAI",
-            "link": "https://www.nytimes.com/2025/03/28/technology/musk-x-xai.html",
-            "published": "Sat, 29 Mar 2025 00:33:22 +0000"
-        },
-        {
-            "title": "Blackstone Considers Small Investment in TikTok",
-            "link": "https://www.nytimes.com/2025/03/28/business/media/blackstone-tiktok-bytedance.html",
-            "published": "Sat, 29 Mar 2025 00:36:52 +0000"
-        },
-        {
-            "title": "CoreWeave Disappoints on Opening of Trading",
-            "link": "https://www.nytimes.com/2025/03/28/technology/coreweave-stock.html",
-            "published": "Fri, 28 Mar 2025 21:04:56 +0000"
+            "title": "Trump Family Starts Bitcoin Mining Venture in Further Push Into Crypto",
+            "link": "https://www.nytimes.com/2025/03/31/business/trump-bitcoin-mining.html",
+            "published": "Mon, 31 Mar 2025 14:13:22 +0000"
         },
         {
             "title": "Isomorphic Labs, Google\u2019s A.I. Drug Business, Raises Money From Thrive",
@@ -48,9 +38,19 @@
             "published": "Mon, 31 Mar 2025 11:00:05 +0000"
         },
         {
+            "title": "Elon Musk Says He Has Sold X to His A.I. Start-Up xAI",
+            "link": "https://www.nytimes.com/2025/03/28/technology/musk-x-xai.html",
+            "published": "Sat, 29 Mar 2025 00:33:22 +0000"
+        },
+        {
             "title": "5 U.S. Voters Weigh In on the Signal Leak",
             "link": "https://www.nytimes.com/2025/03/29/us/trump-signal-leak-war-plans.html",
             "published": "Sat, 29 Mar 2025 09:02:56 +0000"
+        },
+        {
+            "title": "FCC Orders Investigation Into Disney\u2019s DEI Practices",
+            "link": "https://www.nytimes.com/2025/03/28/technology/disney-fcc-dei-investigation.html",
+            "published": "Fri, 28 Mar 2025 22:55:19 +0000"
         }
     ],
     "source_2": [
