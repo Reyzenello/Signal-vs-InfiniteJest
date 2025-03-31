@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Source: SoftBank will invest an initial $7.5B in OpenAI's $40B round, plus $22.5B by 2025's end; other backers include Microsoft, Coatue, Altimeter, and Thrive (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/250331/p41#a250331p41",
+            "published": "Mon, 31 Mar 2025 19:20:04 -0400"
+        },
+        {
+            "title": "Trump signs an EO to establish an office within the Commerce Department to facilitate investments above $1B in the US and administer funds from the CHIPS Act (Bloomberg)",
+            "link": "http://www.techmeme.com/250331/p40#a250331p40",
+            "published": "Mon, 31 Mar 2025 18:50:00 -0400"
+        },
+        {
             "title": "OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B (CNBC)",
             "link": "http://www.techmeme.com/250331/p39#a250331p39",
             "published": "Mon, 31 Mar 2025 18:10:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Sesame, which makes realistic AI voice assistants, is in talks to raise $200M+ co-led by Sequoia Capital and Spark Capital, valuing the company at $1B+ (Kate Clark/Bloomberg)",
             "link": "http://www.techmeme.com/250331/p37#a250331p37",
             "published": "Mon, 31 Mar 2025 16:55:09 -0400"
-        },
-        {
-            "title": "Sam Altman says OpenAI is planning to \"release a powerful new open-weight language model with reasoning in the coming months\" (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250331/p36#a250331p36",
-            "published": "Mon, 31 Mar 2025 16:09:33 -0400"
-        },
-        {
-            "title": "TL;DR: we are excited to release a powerful new open-weight language model with reasoning in the coming months, and we want to talk to devs about how to make it maximally useful: https://openai.com/open-model- feedback we are excited to make this a very, very good model!... (Sam Altman/@sama)",
-            "link": "http://www.techmeme.com/250331/p35#a250331p35",
-            "published": "Mon, 31 Mar 2025 15:55:01 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Sat, 29 Mar 2025 00:33:22 +0000"
         },
         {
+            "title": "OpenAI Closes Deal That Values Company at $300 Billion",
+            "link": "https://www.nytimes.com/2025/03/31/technology/openai-valuation-300-billion.html",
+            "published": "Mon, 31 Mar 2025 23:17:36 +0000"
+        },
+        {
             "title": "5 U.S. Voters Weigh In on the Signal Leak",
             "link": "https://www.nytimes.com/2025/03/29/us/trump-signal-leak-war-plans.html",
             "published": "Sat, 29 Mar 2025 09:02:56 +0000"
-        },
-        {
-            "title": "FCC Orders Investigation Into Disney\u2019s DEI Practices",
-            "link": "https://www.nytimes.com/2025/03/28/technology/disney-fcc-dei-investigation.html",
-            "published": "Fri, 28 Mar 2025 22:55:19 +0000"
         }
     ],
     "source_2": [
