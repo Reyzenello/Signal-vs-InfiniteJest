@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Source: SoftBank will invest an initial $7.5B in OpenAI's $40B round, plus $22.5B by 2025's end; other backers include Microsoft, Coatue, Altimeter, and Thrive (Shirin Ghaffary/Bloomberg)",
-            "link": "http://www.techmeme.com/250331/p41#a250331p41",
-            "published": "Mon, 31 Mar 2025 19:20:04 -0400"
+            "title": "Coinbase's stock fell 31% in Q1 2025, its worst quarterly performance since FTX collapsed in 2022; nearly every major crypto-linked stock plunged alongside it (Matthew Griffin/Bloomberg)",
+            "link": "http://www.techmeme.com/250331/p46#a250331p46",
+            "published": "Mon, 31 Mar 2025 21:10:00 -0400"
         },
         {
-            "title": "Trump signs an EO to establish an office within the Commerce Department to facilitate investments above $1B in the US and administer funds from the CHIPS Act (Bloomberg)",
-            "link": "http://www.techmeme.com/250331/p40#a250331p40",
-            "published": "Mon, 31 Mar 2025 18:50:00 -0400"
+            "title": "Amazon resumes drone deliveries in Texas and Arizona, after halting them in January to roll out a software update to fix issues with the drone's altitude sensor (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/250331/p45#a250331p45",
+            "published": "Mon, 31 Mar 2025 20:40:01 -0400"
         },
         {
-            "title": "OpenAI closes a $40B funding round, the most ever raised by a private tech company, at a $300B post-money valuation; SoftBank led the round with $30B (CNBC)",
-            "link": "http://www.techmeme.com/250331/p39#a250331p39",
-            "published": "Mon, 31 Mar 2025 18:10:00 -0400"
+            "title": "Builder.ai dropped H2 2024 revenue estimates by ~25% after some sales channels \"did not come through\" and says a full audit report is expected by summer 2025 (Bloomberg)",
+            "link": "http://www.techmeme.com/250331/p44#a250331p44",
+            "published": "Mon, 31 Mar 2025 20:25:02 -0400"
         },
         {
-            "title": "Tampa-based ReliaQuest, which provides AI-powered cybersecurity tools, raised $500M+ in a funding round led by EQT, KKR, and FTV Capital, valuing it at $3.4B (Angus Loten/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250331/p38#a250331p38",
-            "published": "Mon, 31 Mar 2025 17:15:00 -0400"
+            "title": "Microsoft expands Copilot+ PC features like Live Captions and Cocreator, previously exclusive to models with Snapdragon chips, to models with AMD or Intel chips (Sean Endicott/Windows Central)",
+            "link": "http://www.techmeme.com/250331/p43#a250331p43",
+            "published": "Mon, 31 Mar 2025 19:45:01 -0400"
         },
         {
-            "title": "Sources: Sesame, which makes realistic AI voice assistants, is in talks to raise $200M+ co-led by Sequoia Capital and Spark Capital, valuing the company at $1B+ (Kate Clark/Bloomberg)",
-            "link": "http://www.techmeme.com/250331/p37#a250331p37",
-            "published": "Mon, 31 Mar 2025 16:55:09 -0400"
+            "title": "At the Intel Vision conference, CEO Lip-Bu Tan says Intel plans to spin off non-core assets, create new products including custom semiconductors, and more (Ian King/Bloomberg)",
+            "link": "http://www.techmeme.com/250331/p42#a250331p42",
+            "published": "Mon, 31 Mar 2025 19:35:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Closes Deal That Values Company at $300 Billion",
+            "link": "https://www.nytimes.com/2025/03/31/technology/openai-valuation-300-billion.html",
+            "published": "Mon, 31 Mar 2025 23:17:36 +0000"
+        },
         {
             "title": "Trump Family Starts Bitcoin Mining Venture in Further Push Into Crypto",
             "link": "https://www.nytimes.com/2025/03/31/business/trump-bitcoin-mining.html",
@@ -41,11 +46,6 @@
             "title": "Elon Musk Says He Has Sold X to His A.I. Start-Up xAI",
             "link": "https://www.nytimes.com/2025/03/28/technology/musk-x-xai.html",
             "published": "Sat, 29 Mar 2025 00:33:22 +0000"
-        },
-        {
-            "title": "OpenAI Closes Deal That Values Company at $300 Billion",
-            "link": "https://www.nytimes.com/2025/03/31/technology/openai-valuation-300-billion.html",
-            "published": "Mon, 31 Mar 2025 23:17:36 +0000"
         },
         {
             "title": "5 U.S. Voters Weigh In on the Signal Leak",
