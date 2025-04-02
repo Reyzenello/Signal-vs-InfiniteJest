@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "UFC signs a wide-ranging, multimillion-dollar, multiple-year sponsorship deal with Meta, which will be its \"official fan technology partner\" (Alex Sherman/CNBC)",
+            "link": "http://www.techmeme.com/250402/p17#a250402p17",
+            "published": "Wed, 02 Apr 2025 08:30:00 -0400"
+        },
+        {
+            "title": "Roblox rolls out new parental controls, including letting parents block and report specific people on their child's friends list, building on changes from 2024 (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/250402/p16#a250402p16",
+            "published": "Wed, 02 Apr 2025 08:20:01 -0400"
+        },
+        {
+            "title": "Documents: the NLRB froze Janneke Parrish and Cher Scarlett's cases against Apple pending a review after Trump nominated an Apple attorney as general counsel (Michael Acton/Financial Times)",
+            "link": "http://www.techmeme.com/250402/p15#a250402p15",
+            "published": "Wed, 02 Apr 2025 07:45:01 -0400"
+        },
+        {
+            "title": "X users are asking Grok to fact-check posts by tagging @grok, often during political or historical arguments, as a new passive aggressive way to dunk on others (Katie Notopoulos/Business Insider)",
+            "link": "http://www.techmeme.com/250402/p14#a250402p14",
+            "published": "Wed, 02 Apr 2025 07:30:01 -0400"
+        },
+        {
             "title": "In a March 28 brief, X asked SCOTUS to shield user data from US law enforcement without \"probable cause\", in Coinbase user James Harper's long-running case (Financial Times)",
             "link": "http://www.techmeme.com/250402/p13#a250402p13",
             "published": "Wed, 02 Apr 2025 06:35:02 -0400"
-        },
-        {
-            "title": "Elon Musk's X and xAI all-stock merger broke Wall Street's usual rules, with the same advisers, Morgan Stanley and Sullivan & Cromwell, working on both sides (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250402/p12#a250402p12",
-            "published": "Wed, 02 Apr 2025 06:15:00 -0400"
-        },
-        {
-            "title": "In its first post-IPO earnings, Raspberry Pi reports FY 2024 revenue down 2% YoY to $259.5M, pre-tax profit down 57% YoY to $16.3M, and 1.9M Pi 5 units sold (Financial Times)",
-            "link": "http://www.techmeme.com/250402/p11#a250402p11",
-            "published": "Wed, 02 Apr 2025 05:40:31 -0400"
-        },
-        {
-            "title": "Indian investment bank The Rainmaker Group says 36+ Indian tech startups like Flipkart and PhonePe with a combined $100B valuation are set to go public by 2027 (Sankalp Phartiyal/Bloomberg)",
-            "link": "http://www.techmeme.com/250402/p10#a250402p10",
-            "published": "Wed, 02 Apr 2025 05:20:03 -0400"
-        },
-        {
-            "title": "The Wikimedia Foundation says base bandwidth demand for downloading Wikimedia Commons multimedia content is up 50% since January 2024, driven by AI crawlers (Wikimedia)",
-            "link": "http://www.techmeme.com/250402/p9#a250402p9",
-            "published": "Wed, 02 Apr 2025 05:05:00 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Tesla Sales Are Slumping, Even in the Most E.V.-Friendly Place",
             "link": "https://www.nytimes.com/2025/04/02/business/tesla-sales-elon-musk.html",
-            "published": "Wed, 02 Apr 2025 09:03:28 +0000"
+            "published": "Wed, 02 Apr 2025 11:24:02 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Parents allowed to block children's games and friends on Roblox",
+            "link": "https://www.bbc.com/news/articles/c86j9ygw45xo",
+            "published": "Wed, 02 Apr 2025 12:02:01 GMT"
+        },
         {
             "title": "Screen time in bed linked to worse sleep, study finds",
             "link": "https://www.bbc.com/news/articles/cz79jpxzev5o",
@@ -73,11 +78,6 @@
             "title": "Musk's xAI buys his social media platform X",
             "link": "https://www.bbc.com/news/articles/ceqjq11202ro",
             "published": "Sat, 29 Mar 2025 02:01:34 GMT"
-        },
-        {
-            "title": "Amateur photographers hope to fix Wikipedia's 'terrible' pictures",
-            "link": "https://www.bbc.com/news/articles/cqly43k3d45o",
-            "published": "Sat, 29 Mar 2025 01:42:30 GMT"
         }
     ]
 }
