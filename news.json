@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Source: Scale AI generated ~$870M in revenue in 2024, with its annualized run rate reaching $1.5B by the end of the year, and expects $2B in revenue in 2025 (Bloomberg)",
+            "link": "http://www.techmeme.com/250402/p46#a250402p46",
+            "published": "Wed, 02 Apr 2025 18:00:39 -0400"
+        },
+        {
+            "title": "Google unveils a NotebookLM \"Discover sources\" feature, which searches the web and recommends up to 10 sources for users to add to their notebooks (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/250402/p45#a250402p45",
+            "published": "Wed, 02 Apr 2025 17:30:01 -0400"
+        },
+        {
             "title": "Amazon plans to launch the first 27 satellites for its Project Kuiper internet network on April 9, after launching two prototype satellites in 2023 (Joey Roulette/Reuters)",
             "link": "http://www.techmeme.com/250402/p44#a250402p44",
             "published": "Wed, 02 Apr 2025 17:05:02 -0400"
@@ -14,19 +24,19 @@
             "title": "Siemens agrees to acquire Boston-based R&D scientific software company Dotmatics from Insight Partners for $5.1B, in a deal expected to close in H1 2026 (Bloomberg)",
             "link": "http://www.techmeme.com/250402/p42#a250402p42",
             "published": "Wed, 02 Apr 2025 16:05:02 -0400"
-        },
-        {
-            "title": "Source: Trump plans to announce a company called TikTok America, with a 50% stake for US investors and 19.9% for ByteDance, which would license the algorithm (Kaya Yurieff/The Information)",
-            "link": "http://www.techmeme.com/250402/p41#a250402p41",
-            "published": "Wed, 02 Apr 2025 15:22:00 -0400"
-        },
-        {
-            "title": "Sources: Zuckerberg is lobbying Trump for a settlement that would prevent Meta from facing an antitrust trial later this month; he visited the White House today (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250402/p40#a250402p40",
-            "published": "Wed, 02 Apr 2025 15:20:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump\u2019s New Tariffs Test Apple\u2019s Global Supply Chain",
+            "link": "https://www.nytimes.com/2025/04/02/technology/trump-tariffs-apple-iphones.html",
+            "published": "Wed, 02 Apr 2025 21:35:45 +0000"
+        },
+        {
+            "title": "To Counter Trump\u2019s Tariffs on Goods, Countries May Hit Back at US Services",
+            "link": "https://www.nytimes.com/2025/04/02/business/economy/tariffs-foreign-goods-tariffs-us-services.html",
+            "published": "Wed, 02 Apr 2025 21:05:45 +0000"
+        },
         {
             "title": "How Trump Could Make Larry Ellison the Next Media Mogul",
             "link": "https://www.nytimes.com/2025/04/02/technology/trump-larry-ellison-tiktok-oracle.html",
@@ -38,19 +48,9 @@
             "published": "Wed, 02 Apr 2025 01:13:07 +0000"
         },
         {
-            "title": "Elon Musk Backlash Turns Into Global Sales Slump for Tesla",
-            "link": "https://www.nytimes.com/2025/04/02/business/tesla-sales-elon-musk.html",
-            "published": "Wed, 02 Apr 2025 19:50:22 +0000"
-        },
-        {
-            "title": "OpenAI Closes Deal That Values Company at $300 Billion",
-            "link": "https://www.nytimes.com/2025/03/31/technology/openai-valuation-300-billion.html",
-            "published": "Mon, 31 Mar 2025 23:17:36 +0000"
-        },
-        {
-            "title": "Trump\u2019s New Tariffs Test Apple\u2019s Global Supply Chain",
-            "link": "https://www.nytimes.com/2025/04/02/technology/trump-tariffs-apple-iphones.html",
-            "published": "Wed, 02 Apr 2025 21:14:12 +0000"
+            "title": "Mark Zuckerberg Lobbies Trump to Settle Antitrust Suit Against Meta",
+            "link": "https://www.nytimes.com/2025/04/02/technology/mark-zuckerberg-trump-meta-antitrust.html",
+            "published": "Wed, 02 Apr 2025 21:22:20 +0000"
         }
     ],
     "source_2": [
