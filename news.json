@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Portland-based Hydrolix, a data lake service that offers a repository for log data, raised an $80M Series C led by QED, bringing its total raised to $148M (Taylor Soper/GeekWire)",
+            "link": "http://www.techmeme.com/250403/p23#a250403p23",
+            "published": "Thu, 03 Apr 2025 12:50:00 -0400"
+        },
+        {
             "title": "Sources: Oracle told some clients this week that hackers stole old login credentials, the second breach that Oracle acknowledged to clients in the past month (Jake Bleiberg/Bloomberg)",
             "link": "http://www.techmeme.com/250403/p22#a250403p22",
             "published": "Thu, 03 Apr 2025 12:05:04 -0400"
@@ -19,14 +24,14 @@
             "title": "Unframe, which helps enterprises deploy tailored AI products for any use case within hours, comes out of stealth with $50M from Bessemer, TLV, Craft, and others (Duncan Riley/SiliconANGLE)",
             "link": "http://www.techmeme.com/250403/p19#a250403p19",
             "published": "Thu, 03 Apr 2025 10:35:00 -0400"
-        },
-        {
-            "title": "Bitcoin fell ~5% to ~$81K, ether dropped 7%, and Solana fell 13% after President Trump unveiled new tariffs; Coinbase's and MicroStrategy's shares are down 6%+ (Tanaya Macheel/CNBC)",
-            "link": "http://www.techmeme.com/250403/p18#a250403p18",
-            "published": "Thu, 03 Apr 2025 09:30:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "This A.I. Forecast Predicts Storms Ahead",
+            "link": "https://www.nytimes.com/2025/04/03/technology/ai-futures-project-ai-2027.html",
+            "published": "Thu, 03 Apr 2025 16:00:07 +0000"
+        },
         {
             "title": "Trump\u2019s Tariffs Don\u2019t Apply to Chips, but Taiwan Remains Wary",
             "link": "https://www.nytimes.com/2025/04/03/business/trump-tariffs-taiwan-chips.html",
@@ -43,14 +48,9 @@
             "published": "Wed, 02 Apr 2025 21:22:20 +0000"
         },
         {
-            "title": "How Trump Could Make Larry Ellison the Next Media Mogul",
-            "link": "https://www.nytimes.com/2025/04/02/technology/trump-larry-ellison-tiktok-oracle.html",
-            "published": "Thu, 03 Apr 2025 00:40:13 +0000"
-        },
-        {
-            "title": "This A.I. Forecast Predicts Storms Ahead",
-            "link": "https://www.nytimes.com/2025/04/03/technology/ai-futures-project-ai-2027.html",
-            "published": "Thu, 03 Apr 2025 16:00:07 +0000"
+            "title": "Ford Offers Discounts on Cars and Trucks as Auto Tariffs Kick In",
+            "link": "https://www.nytimes.com/2025/04/03/business/economy/ford-discounts-auto-tariffs.html",
+            "published": "Thu, 03 Apr 2025 16:15:42 +0000"
         }
     ],
     "source_2": [
@@ -60,7 +60,7 @@
             "published": "Thu, 03 Apr 2025 13:05:17 GMT"
         },
         {
-            "title": "Buyers circle and rumours swirl as TikTok sale deadline looms",
+            "title": "Vance confident TikTok will be sold in US as deadline looms",
             "link": "https://www.bbc.com/news/articles/c62gj52qjjlo",
             "published": "Thu, 03 Apr 2025 12:54:24 GMT"
         },
