@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Bitcoin falls ~5% to ~$81K, ether drops 7%, and Solana falls 13% after President Trump unveiled tariffs; Coinbase's and MicroStrategy's shares fall by 7%+ (Tanaya Macheel/CNBC)",
+            "link": "http://www.techmeme.com/250403/p18#a250403p18",
+            "published": "Thu, 03 Apr 2025 09:30:02 -0400"
+        },
+        {
+            "title": "AI video startup Runway raised $308M led by General Atlantic, sources say at a $3B+ valuation, and plans to hire more filmmakers, screenwriters, and others (Bloomberg)",
+            "link": "http://www.techmeme.com/250403/p17#a250403p17",
+            "published": "Thu, 03 Apr 2025 09:20:01 -0400"
+        },
+        {
+            "title": "Nintendo Switch 2 hands-on: larger than the Switch without being uncomfortable, flagship games play well, and the Joy-Con's mouse-like mode mostly works well (Andrew Webster/The Verge)",
+            "link": "http://www.techmeme.com/250403/p16#a250403p16",
+            "published": "Thu, 03 Apr 2025 09:10:01 -0400"
+        },
+        {
             "title": "Intel unveils a new slogan, \"That's the power of Intel Inside\", building on its Intel Inside campaign in 1991; its current marketing focuses on the Core series (Anton Shilov/Tom's Hardware)",
             "link": "http://www.techmeme.com/250403/p15#a250403p15",
             "published": "Thu, 03 Apr 2025 08:40:01 -0400"
@@ -9,43 +24,28 @@
             "title": "Sources: Ireland's DPC will fine TikTok \u20ac500M+ before the end of April for illegally shipping European users' data to China, after a lengthy GDPR investigation (Samuel Stolton/Bloomberg)",
             "link": "http://www.techmeme.com/250403/p14#a250403p14",
             "published": "Thu, 03 Apr 2025 07:50:03 -0400"
-        },
-        {
-            "title": "Plaid raised $575M at a $6.1B valuation, below its peak $13B+ valuation in 2021, mostly to cover employees' tax bills for those converting RSUs to common stock (Financial Times)",
-            "link": "http://www.techmeme.com/250403/p13#a250403p13",
-            "published": "Thu, 03 Apr 2025 07:15:02 -0400"
-        },
-        {
-            "title": "Sources: Microsoft has halted talks for, or delayed development of, data center projects in Indonesia, the UK, Australia, Illinois, North Dakota, and Wisconsin (Bloomberg)",
-            "link": "http://www.techmeme.com/250403/p12#a250403p12",
-            "published": "Thu, 03 Apr 2025 06:40:01 -0400"
-        },
-        {
-            "title": "PDD-owned Pinduoduo says it plans to allocate ~$13B over the next three years to support its merchants, following other Chinese e-commerce companies (Tracy Qu/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250403/p11#a250403p11",
-            "published": "Thu, 03 Apr 2025 06:25:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump\u2019s Tariffs Don\u2019t Apply to Chips, but Taiwan Remains Wary",
+            "link": "https://www.nytimes.com/2025/04/03/business/trump-tariffs-taiwan-chips.html",
+            "published": "Thu, 03 Apr 2025 13:24:54 +0000"
+        },
+        {
+            "title": "Mark Zuckerberg Lobbies Trump to Settle Antitrust Suit Against Meta",
+            "link": "https://www.nytimes.com/2025/04/02/technology/mark-zuckerberg-trump-meta-antitrust.html",
+            "published": "Wed, 02 Apr 2025 21:22:20 +0000"
+        },
         {
             "title": "Trump\u2019s New Tariffs Test Apple\u2019s Global Supply Chain",
             "link": "https://www.nytimes.com/2025/04/02/technology/trump-tariffs-apple-iphones.html",
             "published": "Wed, 02 Apr 2025 21:35:46 +0000"
         },
         {
-            "title": "To Counter Trump\u2019s Tariffs on Goods, Countries May Hit Back at US Services",
-            "link": "https://www.nytimes.com/2025/04/02/business/economy/tariffs-foreign-goods-tariffs-us-services.html",
-            "published": "Wed, 02 Apr 2025 21:05:45 +0000"
-        },
-        {
             "title": "How Trump Could Make Larry Ellison the Next Media Mogul",
             "link": "https://www.nytimes.com/2025/04/02/technology/trump-larry-ellison-tiktok-oracle.html",
             "published": "Thu, 03 Apr 2025 00:40:12 +0000"
-        },
-        {
-            "title": "Trump Set to Meet With Top Aides to Decide TikTok\u2019s Fate",
-            "link": "https://www.nytimes.com/2025/04/01/technology/trump-tiktok-sale-meeting.html",
-            "published": "Wed, 02 Apr 2025 01:13:07 +0000"
         },
         {
             "title": "Auto Tariffs Take Effect, Putting Pressure on New Car Prices",
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "I played the \u00a375 Mario Kart World on Switch 2 - was it worth it?",
+            "link": "https://www.bbc.com/news/articles/cy9vjn9rg72o",
+            "published": "Thu, 03 Apr 2025 13:05:17 GMT"
+        },
+        {
             "title": "Buyers circle and rumours swirl as TikTok sale deadline looms",
             "link": "https://www.bbc.com/news/articles/c62gj52qjjlo",
-            "published": "Thu, 03 Apr 2025 11:56:56 GMT"
+            "published": "Thu, 03 Apr 2025 12:54:24 GMT"
         },
         {
             "title": "'Google AI presented my April Fools' story as real news'",
@@ -73,11 +78,6 @@
             "title": "Nintendo announces Switch 2 release date - and a new Mario Kart game",
             "link": "https://www.bbc.com/news/articles/c1dr5913qx0o",
             "published": "Wed, 02 Apr 2025 17:02:12 GMT"
-        },
-        {
-            "title": "Parents allowed to block children's games and friends on Roblox",
-            "link": "https://www.bbc.com/news/articles/c86j9ygw45xo",
-            "published": "Wed, 02 Apr 2025 12:02:01 GMT"
         }
     ]
 }
