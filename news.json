@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Netscout: DDoS attacks rose from 13M+ in 2023 to ~17M in 2024, becoming a staple of geopolitical conflict as new tech like AI supercharges their power (Ryan Gallagher/Bloomberg)",
+            "link": "http://www.techmeme.com/250403/p2#a250403p2",
+            "published": "Thu, 03 Apr 2025 03:15:00 -0400"
+        },
+        {
             "title": "Sources: Sumitomo Mitsui Banking Corp. is in talks with Fujitsu to help the bank's biggest customers make key decisions using AI-inferred demand predictions (Hideki Suzuki/Bloomberg)",
             "link": "http://www.techmeme.com/250403/p1#a250403p1",
             "published": "Thu, 03 Apr 2025 02:05:01 -0400"
@@ -19,11 +24,6 @@
             "title": "US announces a 34% \"reciprocal\" tariff hike on China, going into effect from April 9; economists: average US tariffs on Chinese products may get as high as 65% (Bloomberg)",
             "link": "http://www.techmeme.com/250402/p51#a250402p51",
             "published": "Wed, 02 Apr 2025 22:00:33 -0400"
-        },
-        {
-            "title": "Key parts of the US Social Security site have crashed in the past week, as phone support is reduced; report: SSA's site was down four times in 10 days in March (Lucas Ropek/Gizmodo)",
-            "link": "http://www.techmeme.com/250402/p50#a250402p50",
-            "published": "Wed, 02 Apr 2025 20:45:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Tesla sales plunge after Elon Musk backlash",
+            "link": "https://www.bbc.com/news/articles/c4g4zp3z1p3o",
+            "published": "Wed, 02 Apr 2025 18:35:01 GMT"
+        },
+        {
             "title": "Nintendo announces Switch 2 release date - and a new Mario Kart game",
             "link": "https://www.bbc.com/news/articles/c1dr5913qx0o",
             "published": "Wed, 02 Apr 2025 17:02:12 GMT"
@@ -73,11 +78,6 @@
             "title": "Could TikTok be banned again and who might buy it?",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo",
             "published": "Mon, 31 Mar 2025 08:57:22 GMT"
-        },
-        {
-            "title": "Kink and LGBT dating apps exposed 1.5m private user images online",
-            "link": "https://www.bbc.com/news/articles/c05m5m5v327o",
-            "published": "Sun, 30 Mar 2025 00:10:16 GMT"
         }
     ]
 }
