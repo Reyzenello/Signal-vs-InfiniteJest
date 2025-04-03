@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Rotterdam-based Gradyent, which lets energy providers optimize their systems by creating digital twins of heating and cooling grids, raised a \u20ac28M Series B (Cate Lawrence/Tech.eu)",
+            "link": "http://www.techmeme.com/250403/p5#a250403p5",
+            "published": "Thu, 03 Apr 2025 04:05:01 -0400"
+        },
+        {
+            "title": "AttoTude, which offers THz interconnect tech for AI and hyperscale data centers, raised a $50M Series B, after a $30M Series A and $11M seed in 2024 (FinSMEs)",
+            "link": "http://www.techmeme.com/250403/p4#a250403p4",
+            "published": "Thu, 03 Apr 2025 03:50:03 -0400"
+        },
+        {
+            "title": "Adaptive Security, which uses AI for simulating cyberthreats, raised $43M co-led by OpenAI and a16z, marking OpenAI's first investment in a cybersecurity firm (Laya Neelakandan/CNBC)",
+            "link": "http://www.techmeme.com/250403/p3#a250403p3",
+            "published": "Thu, 03 Apr 2025 03:35:01 -0400"
+        },
+        {
             "title": "Netscout: DDoS attacks rose from 13M+ in 2023 to ~17M in 2024, becoming a staple of geopolitical conflict as new tech like AI supercharges their power (Ryan Gallagher/Bloomberg)",
             "link": "http://www.techmeme.com/250403/p2#a250403p2",
             "published": "Thu, 03 Apr 2025 03:15:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Sumitomo Mitsui Banking Corp. is in talks with Fujitsu to help the bank's biggest customers make key decisions using AI-inferred demand predictions (Hideki Suzuki/Bloomberg)",
             "link": "http://www.techmeme.com/250403/p1#a250403p1",
             "published": "Thu, 03 Apr 2025 02:05:01 -0400"
-        },
-        {
-            "title": "Samsung has turned to Chinese customers like Baidu to prop up its ailing chip business; SemiAnalysis says Samsung is the \"biggest supplier of HBM into China\" (Financial Times)",
-            "link": "http://www.techmeme.com/250402/p53#a250402p53",
-            "published": "Wed, 02 Apr 2025 23:35:00 -0400"
-        },
-        {
-            "title": "Sources: Google is in advanced talks to rent Nvidia Blackwell AI chips from CoreWeave, highlighting how major Nvidia customers are struggling to get chips (The Information)",
-            "link": "http://www.techmeme.com/250402/p52#a250402p52",
-            "published": "Wed, 02 Apr 2025 23:00:34 -0400"
-        },
-        {
-            "title": "US announces a 34% \"reciprocal\" tariff hike on China, going into effect from April 9; economists: average US tariffs on Chinese products may get as high as 65% (Bloomberg)",
-            "link": "http://www.techmeme.com/250402/p51#a250402p51",
-            "published": "Wed, 02 Apr 2025 22:00:33 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "'Google AI presented my April Fools' story as real news'",
+            "link": "https://www.bbc.com/news/articles/cly12egqq5ko",
+            "published": "Thu, 03 Apr 2025 05:14:06 GMT"
+        },
+        {
             "title": "Tesla sales plunge after Elon Musk backlash",
             "link": "https://www.bbc.com/news/articles/c4g4zp3z1p3o",
             "published": "Wed, 02 Apr 2025 18:35:01 GMT"
@@ -73,11 +78,6 @@
             "title": "Screen time in bed linked to worse sleep, study finds",
             "link": "https://www.bbc.com/news/articles/cz79jpxzev5o",
             "published": "Tue, 01 Apr 2025 13:48:00 GMT"
-        },
-        {
-            "title": "Could TikTok be banned again and who might buy it?",
-            "link": "https://www.bbc.com/news/articles/clyng762q4eo",
-            "published": "Mon, 31 Mar 2025 08:57:22 GMT"
         }
     ]
 }
