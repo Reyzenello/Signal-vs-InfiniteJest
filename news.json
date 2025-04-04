@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Despite a tariff exemption on direct chip imports for now, the semiconductor industry faces challenges as higher prices for end products may hurt demand (Asa Fitch/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250404/p17#a250404p17",
+            "published": "Fri, 04 Apr 2025 12:25:02 -0400"
+        },
+        {
+            "title": "On Microsoft's 50th anniversary, company executives reflect on its history and how it responds to challenges and evolves (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250404/p16#a250404p16",
+            "published": "Fri, 04 Apr 2025 12:00:53 -0400"
+        },
+        {
             "title": "Sources: Klarna has halted its planned IPO in the wake of Trump's tariffs turmoil; StubHub has also delayed its IPO plans (Wall Street Journal)",
             "link": "http://www.techmeme.com/250404/p15#a250404p15",
             "published": "Fri, 04 Apr 2025 11:23:46 -0400"
@@ -14,16 +24,6 @@
             "title": "Sam Altman says OpenAI plans to release o3 and o4-mini \"after all\" and GPT-5 \"in a few months\", citing challenges in \"smoothly integrating everything\" (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250404/p13#a250404p13",
             "published": "Fri, 04 Apr 2025 11:02:04 -0400"
-        },
-        {
-            "title": "Vimeo launches Vimeo Streaming, letting creators launch subscription streaming services without any coding experience and offering features like AI translations (Alex Weprin/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/250404/p12#a250404p12",
-            "published": "Fri, 04 Apr 2025 10:35:02 -0400"
-        },
-        {
-            "title": "China places export restrictions on key rare earth elements as part of its response to President Trump's tariffs and an extra 34% retaliatory tariff on US goods (Reuters)",
-            "link": "http://www.techmeme.com/250404/p11#a250404p11",
-            "published": "Fri, 04 Apr 2025 09:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 04 Apr 2025 11:00:08 +0000"
         },
         {
-            "title": "Ford Offers Discounts on Cars and Trucks as Auto Tariffs Kick In",
-            "link": "https://www.nytimes.com/2025/04/03/business/economy/ford-discounts-auto-tariffs.html",
-            "published": "Thu, 03 Apr 2025 16:15:43 +0000"
+            "title": "How \u2018Free Speech\u2019 Became a New Flashpoint Between Europe and U.S.",
+            "link": "https://www.nytimes.com/2025/04/04/world/europe/european-union-free-speech-x-facebook-elon-musk.html",
+            "published": "Fri, 04 Apr 2025 15:58:01 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Nintendo pulls Switch 2 pre-orders in US over Trump tariffs",
+            "link": "https://www.bbc.com/news/articles/c78j64dqj2qo",
+            "published": "Fri, 04 Apr 2025 16:04:51 GMT"
+        },
         {
             "title": "Who might buy TikTok as ban deadline looms? Amazon joins bidders",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo",
@@ -73,11 +78,6 @@
             "title": "'Google AI presented my April Fools' story as real news'",
             "link": "https://www.bbc.com/news/articles/cly12egqq5ko",
             "published": "Thu, 03 Apr 2025 05:14:06 GMT"
-        },
-        {
-            "title": "Tesla sales plunge after Elon Musk backlash",
-            "link": "https://www.bbc.com/news/articles/c4g4zp3z1p3o",
-            "published": "Wed, 02 Apr 2025 18:35:01 GMT"
         }
     ]
 }
