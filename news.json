@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "GitHub announces \"premium requests\" for GitHub Copilot, a new system that imposes rate limits when users switch from the base GPT-4o to other AI models (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250404/p25#a250404p25",
+            "published": "Fri, 04 Apr 2025 15:15:01 -0400"
+        },
+        {
+            "title": "Codex, which is building a blockchain for stablecoins, raised a $15.8M seed led by Dragonfly, with Coinbase, Circle, and others participating (Ben Weiss/Fortune)",
+            "link": "http://www.techmeme.com/250404/p24#a250404p24",
+            "published": "Fri, 04 Apr 2025 14:35:04 -0400"
+        },
+        {
             "title": "Trump says he will sign an EO to keep TikTok running for an additional 75 days, as a deal \"requires more work to ensure all necessary approvals are signed\" (Jonathan Vanian/CNBC)",
             "link": "http://www.techmeme.com/250404/p23#a250404p23",
             "published": "Fri, 04 Apr 2025 13:51:37 -0400"
         },
         {
-            "title": "How Trump's tariffs affect Meta, which relies heavily on SMBs around the world for ad revenue; 10% of Meta's 2023 revenue was from Chinese advertisers like Temu (Mike Isaac/New York Times)",
+            "title": "Trump's tariffs may reduce ad spending on Meta platforms, which rely heavily on SMBs globally; 10% of Meta's 2023 revenue was from Chinese advertisers like Temu (Mike Isaac/New York Times)",
             "link": "http://www.techmeme.com/250404/p22#a250404p22",
             "published": "Fri, 04 Apr 2025 13:25:01 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Q&A with Microsoft's AI CEO Mustafa Suleyman about the new Copilot updates, differentiating Copilot from other assistants through personality and tone, and more (Alex Kantrowitz/Big Technology)",
             "link": "http://www.techmeme.com/250404/p21#a250404p21",
             "published": "Fri, 04 Apr 2025 13:00:50 -0400"
-        },
-        {
-            "title": "Google releases API pricing for Gemini 2.5 Pro: $1.25 per 1M input tokens and $10 for 1M output tokens for prompts up to 200K tokens, its priciest model yet (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/250404/p20#a250404p20",
-            "published": "Fri, 04 Apr 2025 12:55:01 -0400"
-        },
-        {
-            "title": "Microsoft brings Copilot Vision feature to Windows and its iOS and Android apps, letting it analyze real-time video from a mobile camera, and more (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/250404/p19#a250404p19",
-            "published": "Fri, 04 Apr 2025 12:45:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Why Trump\u2019s Tariffs Are Rattling Even Meta",
             "link": "https://www.nytimes.com/2025/04/04/technology/trump-tariffs-meta.html",
-            "published": "Fri, 04 Apr 2025 17:23:52 +0000"
+            "published": "Fri, 04 Apr 2025 18:30:30 +0000"
         },
         {
             "title": "E.U. Prepares Major Penalties Against Elon Musk\u2019s X",
@@ -48,9 +48,9 @@
             "published": "Fri, 04 Apr 2025 11:00:08 +0000"
         },
         {
-            "title": "Trump Extends Deadline for a TikTok Deal",
+            "title": "Trump Extends TikTok Deal Deadline, Delaying a Potential Ban",
             "link": "https://www.nytimes.com/2025/04/04/technology/trump-tiktok-deadline-delay.html",
-            "published": "Fri, 04 Apr 2025 18:27:47 +0000"
+            "published": "Fri, 04 Apr 2025 18:54:34 +0000"
         }
     ],
     "source_2": [
