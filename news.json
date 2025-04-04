@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The US SEC says that \"covered\" US dollar stablecoins like USDT and USDC are not securities, and registration is not required for minting or redeeming them (RT Watson/The Block)",
+            "link": "http://www.techmeme.com/250404/p27#a250404p27",
+            "published": "Fri, 04 Apr 2025 16:20:00 -0400"
+        },
+        {
+            "title": "Investors, founders, and others detail a culture of fear around criticizing Elon Musk or DOGE; some are appalled he is seen as a reflection of the tech industry (Issie Lapowsky/Politico)",
+            "link": "http://www.techmeme.com/250404/p26#a250404p26",
+            "published": "Fri, 04 Apr 2025 16:00:55 -0400"
+        },
+        {
             "title": "GitHub announces \"premium requests\" for GitHub Copilot, a new system that imposes rate limits when users switch from the base GPT-4o to other AI models (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250404/p25#a250404p25",
             "published": "Fri, 04 Apr 2025 15:15:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Trump says he will sign an EO to keep TikTok running for an additional 75 days, as a deal \"requires more work to ensure all necessary approvals are signed\" (Jonathan Vanian/CNBC)",
             "link": "http://www.techmeme.com/250404/p23#a250404p23",
             "published": "Fri, 04 Apr 2025 13:51:37 -0400"
-        },
-        {
-            "title": "Trump's tariffs may reduce ad spending on Meta platforms, which rely heavily on SMBs globally; 10% of Meta's 2023 revenue was from Chinese advertisers like Temu (Mike Isaac/New York Times)",
-            "link": "http://www.techmeme.com/250404/p22#a250404p22",
-            "published": "Fri, 04 Apr 2025 13:25:01 -0400"
-        },
-        {
-            "title": "Q&A with Microsoft's AI CEO Mustafa Suleyman about the new Copilot updates, differentiating Copilot from other assistants through personality and tone, and more (Alex Kantrowitz/Big Technology)",
-            "link": "http://www.techmeme.com/250404/p21#a250404p21",
-            "published": "Fri, 04 Apr 2025 13:00:50 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Why Trump\u2019s Tariffs Are Rattling Even Meta",
             "link": "https://www.nytimes.com/2025/04/04/technology/trump-tariffs-meta.html",
-            "published": "Fri, 04 Apr 2025 18:30:30 +0000"
+            "published": "Fri, 04 Apr 2025 19:32:18 +0000"
         },
         {
             "title": "E.U. Prepares Major Penalties Against Elon Musk\u2019s X",
