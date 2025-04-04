@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Tech stocks fell for a second day following Trump's tariffs announcement: Nvidia closed down 7.4%, Apple 7.3%, Netflix 6.7%, Meta 5%, and Amazon 4.2% (Todd Spangler/Variety)",
+            "title": "Analysts say Microsoft, whose shares fell the least among top tech companies, is shielded from the worst tariff impacts due to Azure and a broad enterprise base (Fortune)",
+            "link": "http://www.techmeme.com/250404/p30#a250404p30",
+            "published": "Fri, 04 Apr 2025 18:15:01 -0400"
+        },
+        {
+            "title": "Sources: a TikTok deal, which was largely finalized by Wednesday, was put on hold after China indicated it would the reject the deal over Trump's tariffs (Reuters)",
+            "link": "http://www.techmeme.com/250404/p29#a250404p29",
+            "published": "Fri, 04 Apr 2025 17:25:01 -0400"
+        },
+        {
+            "title": "The Nasdaq fell 5.8% on the second day following Trump's tariffs announcement, with Nvidia closing down 7.4%, Apple 7.3%, Netflix 6.7%, Meta 5%, and Amazon 4.2% (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/250404/p28#a250404p28",
             "published": "Fri, 04 Apr 2025 17:15:02 -0400"
         },
@@ -14,19 +24,14 @@
             "title": "Investors, founders, and others detail a culture of fear around criticizing Elon Musk or DOGE; some are appalled he is seen as a reflection of the tech industry (Issie Lapowsky/Politico)",
             "link": "http://www.techmeme.com/250404/p26#a250404p26",
             "published": "Fri, 04 Apr 2025 16:00:55 -0400"
-        },
-        {
-            "title": "GitHub announces \"premium requests\" for GitHub Copilot, a new system that imposes rate limits when users switch from the base GPT-4o to other AI models (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250404/p25#a250404p25",
-            "published": "Fri, 04 Apr 2025 15:15:01 -0400"
-        },
-        {
-            "title": "Codex, which is building a blockchain for stablecoins, raised a $15.8M seed led by Dragonfly, with Coinbase, Circle, and others participating (Ben Weiss/Fortune)",
-            "link": "http://www.techmeme.com/250404/p24#a250404p24",
-            "published": "Fri, 04 Apr 2025 14:35:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump Extends TikTok Deal Deadline, Delaying a Potential Ban",
+            "link": "https://www.nytimes.com/2025/04/04/technology/trump-tiktok-deadline-delay.html",
+            "published": "Fri, 04 Apr 2025 21:09:03 +0000"
+        },
         {
             "title": "Invasion of the Home Humanoid Robots",
             "link": "https://www.nytimes.com/2025/04/04/technology/humanoid-robots-1x.html",
@@ -38,19 +43,14 @@
             "published": "Fri, 04 Apr 2025 19:32:18 +0000"
         },
         {
-            "title": "E.U. Prepares Major Penalties Against Elon Musk\u2019s X",
-            "link": "https://www.nytimes.com/2025/04/03/technology/eu-penalties-x-elon-musk.html",
-            "published": "Fri, 04 Apr 2025 12:50:47 +0000"
-        },
-        {
             "title": "Tech Stock Shock + Solving the Mystery of OpenAI\u2019s \u2018Blip\u2019 + Tinder\u2019s Flirt-Off",
             "link": "https://www.nytimes.com/2025/04/04/podcasts/hardfork-tariffs-hagey-tinder.html",
             "published": "Fri, 04 Apr 2025 11:00:08 +0000"
         },
         {
-            "title": "Trump Extends TikTok Deal Deadline, Delaying a Potential Ban",
-            "link": "https://www.nytimes.com/2025/04/04/technology/trump-tiktok-deadline-delay.html",
-            "published": "Fri, 04 Apr 2025 21:09:03 +0000"
+            "title": "Something Else for Europe and the U.S. to Disagree About: \u2018Free Speech\u2019",
+            "link": "https://www.nytimes.com/2025/04/04/world/europe/european-union-free-speech-x-facebook-elon-musk.html",
+            "published": "Fri, 04 Apr 2025 17:08:55 +0000"
         }
     ],
     "source_2": [
