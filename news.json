@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: enterprise AI search startup Glean is in talks to raise hundreds of millions, including money to buy employee shares, at an estimated ~$7B valuation (Sri Muppidi/The Information)",
+            "link": "http://www.techmeme.com/250404/p35#a250404p35",
+            "published": "Fri, 04 Apr 2025 21:55:02 -0400"
+        },
+        {
+            "title": "Turbine, which allows LPs to borrow funds secured by their position in venture funds, emerges from stealth with a $13M Series A and an $8.75M seed (Marina Temkin/TechCrunch)",
+            "link": "http://www.techmeme.com/250404/p34#a250404p34",
+            "published": "Fri, 04 Apr 2025 20:10:02 -0400"
+        },
+        {
+            "title": "Ring founder Jamie Siminoff rejoins Amazon as a VP of product overseeing Ring and related businesses, replacing Elizabeth Hamren, who succeeded him in 2023 (Taylor Soper/GeekWire)",
+            "link": "http://www.techmeme.com/250404/p33#a250404p33",
+            "published": "Fri, 04 Apr 2025 19:25:01 -0400"
+        },
+        {
             "title": "Amazon introduces a Kindle Recaps feature that uses GenAI and moderators to create short summaries of books in a series (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/250404/p32#a250404p32",
             "published": "Fri, 04 Apr 2025 19:00:42 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: StubHub, Klarna, eToro, and adtech group MNTN have paused their IPO plans as President Trump's trade war upends the global economy (Fareed Sahloul/Bloomberg)",
             "link": "http://www.techmeme.com/250404/p31#a250404p31",
             "published": "Fri, 04 Apr 2025 18:30:00 -0400"
-        },
-        {
-            "title": "Analysts say Microsoft, whose shares fell the least among top tech companies, is shielded from the worst tariff impacts due to Azure and a broad enterprise base (Fortune)",
-            "link": "http://www.techmeme.com/250404/p30#a250404p30",
-            "published": "Fri, 04 Apr 2025 18:15:01 -0400"
-        },
-        {
-            "title": "Sources: a TikTok deal, which was largely finalized by Wednesday, was put on hold after China indicated it would the reject the deal over Trump's tariffs (Reuters)",
-            "link": "http://www.techmeme.com/250404/p29#a250404p29",
-            "published": "Fri, 04 Apr 2025 17:25:01 -0400"
-        },
-        {
-            "title": "The Nasdaq fell 5.8% on the second day following Trump's tariffs announcement, with Nvidia closing down 7.4%, Apple 7.3%, Netflix 6.7%, Meta 5%, and Amazon 4.2% (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/250404/p28#a250404p28",
-            "published": "Fri, 04 Apr 2025 17:15:02 -0400"
         }
     ],
     "source_1": [
@@ -48,36 +48,36 @@
             "published": "Fri, 04 Apr 2025 11:00:08 +0000"
         },
         {
-            "title": "How Tariffs Are Hitting Digital Commerce Companies",
-            "link": "https://www.nytimes.com/2025/04/04/technology/tariffs-digital-commerce.html",
-            "published": "Fri, 04 Apr 2025 23:02:56 +0000"
+            "title": "Man Employs A.I. Avatar in Legal Appeal, and Judge Isn\u2019t Amused",
+            "link": "https://www.nytimes.com/2025/04/04/nyregion/ai-lawyer-replica-new-york.html",
+            "published": "Sat, 05 Apr 2025 01:01:19 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Nintendo pulls Switch 2 pre-orders in US over Trump tariffs",
-            "link": "https://www.bbc.com/news/articles/c78j64dqj2qo",
-            "published": "Fri, 04 Apr 2025 16:04:51 GMT"
+            "title": "Meta and Pinterest make secret donation to Molly Russell charity",
+            "link": "https://www.bbc.com/news/articles/cx208nkvw83o",
+            "published": "Fri, 04 Apr 2025 23:42:14 GMT"
+        },
+        {
+            "title": "Trump extends deadline to keep TikTok running in US",
+            "link": "https://www.bbc.com/news/articles/cx256dd1znpo",
+            "published": "Fri, 04 Apr 2025 21:12:39 GMT"
         },
         {
             "title": "Who might buy TikTok as ban deadline looms? Amazon joins bidders",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo",
-            "published": "Fri, 04 Apr 2025 02:16:42 GMT"
+            "published": "Sat, 05 Apr 2025 00:13:30 GMT"
         },
         {
-            "title": "I played the \u00a375 Mario Kart World on Switch 2 - was it worth it?",
-            "link": "https://www.bbc.com/news/articles/cy9vjn9rg72o",
-            "published": "Thu, 03 Apr 2025 13:05:17 GMT"
+            "title": "Will \u00a375 be the new normal for video games after Switch 2's Mario Kart?",
+            "link": "https://www.bbc.com/news/articles/cd7v5v10grzo",
+            "published": "Fri, 04 Apr 2025 23:51:01 GMT"
         },
         {
-            "title": "Vance confident TikTok will be sold in US as deadline looms",
-            "link": "https://www.bbc.com/news/articles/c62gj52qjjlo",
-            "published": "Thu, 03 Apr 2025 12:54:24 GMT"
-        },
-        {
-            "title": "'Google AI presented my April Fools' story as real news'",
-            "link": "https://www.bbc.com/news/articles/cly12egqq5ko",
-            "published": "Thu, 03 Apr 2025 05:14:06 GMT"
+            "title": "Nintendo pulls Switch 2 pre-orders in US over Trump tariffs",
+            "link": "https://www.bbc.com/news/articles/c78j64dqj2qo",
+            "published": "Fri, 04 Apr 2025 16:04:51 GMT"
         }
     ]
 }
