@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google announces Sec-Gemini v1, an experimental AI model for cybersecurity, claiming it outperforms others on the leading CTI-MCQ threat intelligence benchmark (Google Online Security Blog)",
+            "link": "http://www.techmeme.com/250405/p4#a250405p4",
+            "published": "Sat, 05 Apr 2025 01:10:01 -0400"
+        },
+        {
+            "title": "Utah-based SchoolAI, an AI-powered teaching and learning platform used in 1M+ classrooms across 80+ countries, raised a $25M Series A led by Insight Partners (FinSMEs)",
+            "link": "http://www.techmeme.com/250405/p3#a250405p3",
+            "published": "Sat, 05 Apr 2025 00:50:01 -0400"
+        },
+        {
+            "title": "A US federal judge decides Elon Musk's lawsuit against OpenAI will go to a jury trial in spring 2026; Musk and OpenAI agreed to fast-track the trial last month (Anna Tong/Reuters)",
+            "link": "http://www.techmeme.com/250405/p2#a250405p2",
+            "published": "Sat, 05 Apr 2025 00:35:02 -0400"
+        },
+        {
             "title": "SensorTower: users in India have spent $8M on ChatGPT subscriptions through IAP since 2023, not including web app purchases, versus ~$330M spent by US users (TechCrunch)",
             "link": "http://www.techmeme.com/250405/p1#a250405p1",
             "published": "Sat, 05 Apr 2025 00:00:13 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: enterprise AI search startup Glean is in talks to raise hundreds of millions, including money to buy employee shares, at an estimated ~$7B valuation (Sri Muppidi/The Information)",
             "link": "http://www.techmeme.com/250404/p35#a250404p35",
             "published": "Fri, 04 Apr 2025 21:55:02 -0400"
-        },
-        {
-            "title": "Turbine, which allows LPs to borrow funds secured by their position in venture funds, emerges from stealth with a $13M Series A and an $8.75M seed (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/250404/p34#a250404p34",
-            "published": "Fri, 04 Apr 2025 20:10:02 -0400"
-        },
-        {
-            "title": "Ring founder Jamie Siminoff rejoins Amazon as a VP of product overseeing Ring and related businesses, replacing Elizabeth Hamren, who succeeded him in 2023 (Taylor Soper/GeekWire)",
-            "link": "http://www.techmeme.com/250404/p33#a250404p33",
-            "published": "Fri, 04 Apr 2025 19:25:01 -0400"
-        },
-        {
-            "title": "Amazon introduces a Kindle Recaps feature that uses GenAI and moderators to create short summaries of books in a series (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/250404/p32#a250404p32",
-            "published": "Fri, 04 Apr 2025 19:00:42 -0400"
         }
     ],
     "source_1": [
@@ -65,7 +65,7 @@
             "published": "Sat, 05 Apr 2025 02:11:35 GMT"
         },
         {
-            "title": "Who might buy TikTok as ban deadline looms? Amazon joins bidders",
+            "title": "Who\u2018s trying to buy TikTok?",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo",
             "published": "Sat, 05 Apr 2025 00:13:30 GMT"
         },
