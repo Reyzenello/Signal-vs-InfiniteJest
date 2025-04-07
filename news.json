@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Stanford's 2025 AI index: China files more AI patents than the US, but US companies produced 40 frontier models, compared to 15 from China and three from Europe (Will Knight/Wired)",
+            "link": "http://www.techmeme.com/250407/p13#a250407p13",
+            "published": "Mon, 07 Apr 2025 08:20:00 -0400"
+        },
+        {
+            "title": "Huawei says it \"terminated the employment of two individuals\" from April 1 and suspended a third from April 2 in response to the EU corruption scandal (Mathieu Pollet/Politico)",
+            "link": "http://www.techmeme.com/250407/p12#a250407p12",
+            "published": "Mon, 07 Apr 2025 08:05:01 -0400"
+        },
+        {
+            "title": "Global chip stocks drop as the US tariff rout on markets intensifies, extending last week's losses; Nvidia, Intel, ASML, SK Hynix, Infineon, and STMicro fall (Mauro Orru/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250407/p11#a250407p11",
+            "published": "Mon, 07 Apr 2025 07:50:02 -0400"
+        },
+        {
+            "title": "SignalFire raised a $1B+ fund to bet on early-stage AI startups, taking its AUM to $3B, and plans to use AI to spot market trends to help portfolio companies (Katie Roof/Bloomberg)",
+            "link": "http://www.techmeme.com/250407/p10#a250407p10",
+            "published": "Mon, 07 Apr 2025 07:30:01 -0400"
+        },
+        {
             "title": "Filing: the UK Investigatory Powers Tribunal confirms Apple is appealing against a UK order to create a \"back door\" in its Advanced Data Protection service (Sam Tobin/Reuters)",
             "link": "http://www.techmeme.com/250407/p9#a250407p9",
             "published": "Mon, 07 Apr 2025 07:10:03 -0400"
-        },
-        {
-            "title": "Source: AI coding startup Cursor, which has helped permeate \"vibe coding\", hit 1M+ DAUs in March 2025, driven largely by word-of-mouth growth (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/250407/p8#a250407p8",
-            "published": "Mon, 07 Apr 2025 06:35:02 -0400"
-        },
-        {
-            "title": "Tether CEO Paolo Ardoino says the company is involved in discussions about US rules on stablecoins, and may offer a US-only coin depending on new US regulations (Philip Stafford/Financial Times)",
-            "link": "http://www.techmeme.com/250407/p7#a250407p7",
-            "published": "Mon, 07 Apr 2025 06:15:00 -0400"
-        },
-        {
-            "title": "Bitcoin is down 10% to around $76,000 after President Trump's global tariffs, far below its record $110,000 high at Trump's January 20 inauguration (David Yaffe-Bellany/New York Times)",
-            "link": "http://www.techmeme.com/250407/p6#a250407p6",
-            "published": "Mon, 07 Apr 2025 06:00:33 -0400"
-        },
-        {
-            "title": "TSMC and Foxconn fell by the Taiex exchange's daily 10% limit on April 7 as US tariffs roil global supply chains; Taiwan's 32% tariff is among Asia's highest (Reuters)",
-            "link": "http://www.techmeme.com/250407/p5#a250407p5",
-            "published": "Mon, 07 Apr 2025 05:45:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple's encryption row with UK should not be secret, court rules",
+            "link": "https://www.bbc.com/news/articles/cvgn1lz3v4no",
+            "published": "Mon, 07 Apr 2025 12:30:00 GMT"
+        },
+        {
             "title": "Elon Musk's X to clamp down on parody accounts",
             "link": "https://www.bbc.com/news/articles/c4g37elkrxdo",
             "published": "Mon, 07 Apr 2025 10:59:09 GMT"
@@ -73,11 +78,6 @@
             "title": "Who's trying to buy TikTok?",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo",
             "published": "Sat, 05 Apr 2025 00:13:30 GMT"
-        },
-        {
-            "title": "Will \u00a375 be the new normal for video games after Switch 2's Mario Kart?",
-            "link": "https://www.bbc.com/news/articles/cd7v5v10grzo",
-            "published": "Fri, 04 Apr 2025 23:51:01 GMT"
         }
     ]
 }
