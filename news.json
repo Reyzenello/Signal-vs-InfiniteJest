@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Filing: the UK Investigatory Powers Tribunal confirms Apple is appealing against a UK order to create a \"back door\" in its Advanced Data Protection service (Sam Tobin/Reuters)",
+            "link": "http://www.techmeme.com/250407/p9#a250407p9",
+            "published": "Mon, 07 Apr 2025 07:10:03 -0400"
+        },
+        {
+            "title": "Source: AI coding startup Cursor, which has helped permeate \"vibe coding\", hit 1M+ DAUs in March 2025, driven largely by word-of-mouth growth (Rachel Metz/Bloomberg)",
+            "link": "http://www.techmeme.com/250407/p8#a250407p8",
+            "published": "Mon, 07 Apr 2025 06:35:02 -0400"
+        },
+        {
             "title": "Tether CEO Paolo Ardoino says the company is involved in discussions about US rules on stablecoins, and may offer a US-only coin depending on new US regulations (Philip Stafford/Financial Times)",
             "link": "http://www.techmeme.com/250407/p7#a250407p7",
             "published": "Mon, 07 Apr 2025 06:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "TSMC and Foxconn fell by the Taiex exchange's daily 10% limit on April 7 as US tariffs roil global supply chains; Taiwan's 32% tariff is among Asia's highest (Reuters)",
             "link": "http://www.techmeme.com/250407/p5#a250407p5",
             "published": "Mon, 07 Apr 2025 05:45:00 -0400"
-        },
-        {
-            "title": "Nintendo and Sony fell by 10%+ on April 7 amid a widespread selloff in Japan exacerbated by US tariffs; most Switch hardware is assembled in China and Vietnam (Vlad Savov/Bloomberg)",
-            "link": "http://www.techmeme.com/250407/p4#a250407p4",
-            "published": "Mon, 07 Apr 2025 05:35:02 -0400"
-        },
-        {
-            "title": "AI is aiding radiologists with tools like tumor-detection algorithms; 75%+ of AI software cleared by the US FDA for medical use is designed to support radiology (Jamie Friedlander Serrano/Washington Post)",
-            "link": "http://www.techmeme.com/250407/p3#a250407p3",
-            "published": "Mon, 07 Apr 2025 03:55:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Elon Musk's X to clamp down on parody accounts",
+            "link": "https://www.bbc.com/news/articles/c4g37elkrxdo",
+            "published": "Mon, 07 Apr 2025 10:59:09 GMT"
+        },
+        {
             "title": "Meta and Pinterest make secret donation to Molly Russell charity",
             "link": "https://www.bbc.com/news/articles/cx208nkvw83o",
             "published": "Fri, 04 Apr 2025 23:42:14 GMT"
@@ -73,11 +78,6 @@
             "title": "Will \u00a375 be the new normal for video games after Switch 2's Mario Kart?",
             "link": "https://www.bbc.com/news/articles/cd7v5v10grzo",
             "published": "Fri, 04 Apr 2025 23:51:01 GMT"
-        },
-        {
-            "title": "Nintendo pulls Switch 2 pre-orders in US over Trump tariffs",
-            "link": "https://www.bbc.com/news/articles/c78j64dqj2qo",
-            "published": "Fri, 04 Apr 2025 16:04:51 GMT"
         }
     ]
 }
