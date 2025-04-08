@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Toronto-based Tailscale, which helps set up corporate VPNs, raised $160M led by Accel, a source says at a $1.5B valuation, up from $1B in May 2022 (Katie Roof/Bloomberg)",
+            "link": "http://www.techmeme.com/250408/p12#a250408p12",
+            "published": "Tue, 08 Apr 2025 07:15:01 -0400"
+        },
+        {
+            "title": "Turkish startup Sipay, which bills itself as \"Stripe for emerging markets\", raised a $78M Series B at an $875M valuation to expand outside of Turkey (Mike Butcher/TechCrunch)",
+            "link": "http://www.techmeme.com/250408/p11#a250408p11",
+            "published": "Tue, 08 Apr 2025 07:00:01 -0400"
+        },
+        {
+            "title": "Analysts: the original Switch's huge success has given Nintendo a high mountain to climb, and the Switch 2 is a massive bet that fans want more of the same (Financial Times)",
+            "link": "http://www.techmeme.com/250408/p10#a250408p10",
+            "published": "Tue, 08 Apr 2025 06:50:01 -0400"
+        },
+        {
+            "title": "Interviews with 40 sources describe concerns about Helsing, Europe's most valuable defense tech startup, including whether it can live up to its \u20ac5B valuation (Bloomberg)",
+            "link": "http://www.techmeme.com/250408/p9#a250408p9",
+            "published": "Tue, 08 Apr 2025 06:40:07 -0400"
+        },
+        {
             "title": "Meta rolls out Teen Accounts to Facebook and Messenger, automatically enrolling young users and adding built-in protections, in the US, the UK, and others (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/250408/p8#a250408p8",
             "published": "Tue, 08 Apr 2025 06:30:01 -0400"
-        },
-        {
-            "title": "Google rolls out Gemini Live camera and screenshare features to the Pixel 9 series and Samsung Galaxy S25 devices, available in 45 languages for users over 18 (Umar Shakir/The Verge)",
-            "link": "http://www.techmeme.com/250408/p7#a250408p7",
-            "published": "Tue, 08 Apr 2025 06:20:01 -0400"
-        },
-        {
-            "title": "Sources: Beijing opposes fast-fashion giant Shein's plans to move some production out of China, as it seeks to stave off a manufacturing exodus after US tariffs (Bloomberg)",
-            "link": "http://www.techmeme.com/250408/p6#a250408p6",
-            "published": "Tue, 08 Apr 2025 06:00:36 -0400"
-        },
-        {
-            "title": "Nintendo says the Switch 2's new Game-Key cards, which trigger a game download when loaded, are not tied to a user's account and can be borrowed or resold (Darryn Bonthuys/GameSpot)",
-            "link": "http://www.techmeme.com/250408/p5#a250408p5",
-            "published": "Tue, 08 Apr 2025 05:50:01 -0400"
-        },
-        {
-            "title": "Samsung reports Q1 revenue up ~10% YoY to ~$53.4B and operating profit flat YoY at ~$4.5B, above ~$3.8B est., boosted by Galaxy S25 and legacy DRAM sales (Yoolim Lee/Bloomberg)",
-            "link": "http://www.techmeme.com/250408/p4#a250408p4",
-            "published": "Tue, 08 Apr 2025 05:35:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Meta expands restrictions for teen users to Facebook and Messenger",
+            "link": "https://www.bbc.com/news/articles/cvgqe6yv0yzo",
+            "published": "Tue, 08 Apr 2025 11:18:36 GMT"
+        },
+        {
             "title": "Apple's encryption row with UK should not be secret, court rules",
             "link": "https://www.bbc.com/news/articles/cvgn1lz3v4no",
             "published": "Mon, 07 Apr 2025 13:22:01 GMT"
@@ -73,11 +78,6 @@
             "title": "Trump extends deadline to keep TikTok running in US",
             "link": "https://www.bbc.com/news/articles/cx256dd1znpo",
             "published": "Sat, 05 Apr 2025 02:11:35 GMT"
-        },
-        {
-            "title": "Who's trying to buy TikTok?",
-            "link": "https://www.bbc.com/news/articles/clyng762q4eo",
-            "published": "Sat, 05 Apr 2025 00:13:30 GMT"
         }
     ]
 }
