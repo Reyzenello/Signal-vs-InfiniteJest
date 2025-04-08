@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Amazon expands Haul, its Temu competitor, to offer name-brand items from Amazon's US inventory, as the US plans to end de minimis tariff exemptions on May 2 (Theo Wayt/The Information)",
+            "link": "http://www.techmeme.com/250408/p36#a250408p36",
+            "published": "Tue, 08 Apr 2025 18:25:02 -0400"
+        },
+        {
+            "title": "Google says Deep Research is now available on Gemini 2.5 Pro Experimental for Gemini Advanced subscribers (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/250408/p35#a250408p35",
+            "published": "Tue, 08 Apr 2025 18:15:02 -0400"
+        },
+        {
+            "title": "Aurascape, which offers enterprise security tools to mitigate risks from third-party AI apps, emerges from stealth with $50M from Menlo, Mayfield, and others (Ryan Naraine/SecurityWeek)",
+            "link": "http://www.techmeme.com/250408/p34#a250408p34",
+            "published": "Tue, 08 Apr 2025 17:45:00 -0400"
+        },
+        {
             "title": "Source: Instagram is working on an iPad app, and Adam Mosseri told staff to be willing to assume more \"risk\" to take advantage of a potential TikTok ban (The Information)",
             "link": "http://www.techmeme.com/250408/p33#a250408p33",
             "published": "Tue, 08 Apr 2025 17:20:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Germany-based Hawk, which offers AI-powered anti-money laundering services, raised a $56M Series C led by One Peak and says it has over 80 customers worldwide (Cameron Emanuel-Burns/FinTech Futures)",
             "link": "http://www.techmeme.com/250408/p32#a250408p32",
             "published": "Tue, 08 Apr 2025 16:40:02 -0400"
-        },
-        {
-            "title": "The White House says that tariffs on China are set to rise to 104% at 12:01am ET Wednesday after China missed Trump's deadline to remove its reciprocal tariff (Elisabeth Buchwald/CNN)",
-            "link": "http://www.techmeme.com/250408/p31#a250408p31",
-            "published": "Tue, 08 Apr 2025 15:20:00 -0400"
-        },
-        {
-            "title": "Razer pauses direct sales of the upcoming Blade 16 and other laptops in the US as new tariffs loom (Antonio G. Di Benedetto/The Verge)",
-            "link": "http://www.techmeme.com/250408/p30#a250408p30",
-            "published": "Tue, 08 Apr 2025 14:50:01 -0400"
-        },
-        {
-            "title": "White House Press Secretary Karoline Leavitt says that President Trump believes the US has the resources and workforce to build iPhones in the US (Chance Miller/9to5Mac)",
-            "link": "http://www.techmeme.com/250408/p29#a250408p29",
-            "published": "Tue, 08 Apr 2025 14:47:15 -0400"
         }
     ],
     "source_1": [
@@ -50,14 +50,19 @@
         {
             "title": "Robert W. McChesney, Who Warned of Corporate Media Control, Dies at 72",
             "link": "https://www.nytimes.com/2025/04/08/business/media/robert-w-mcchesney-dead.html",
-            "published": "Tue, 08 Apr 2025 20:12:54 +0000"
+            "published": "Tue, 08 Apr 2025 21:28:26 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Musk labels Trump trade adviser 'moron' over Tesla comments",
             "link": "https://www.bbc.com/news/articles/cdrgx4ky1xxo",
-            "published": "Tue, 08 Apr 2025 16:03:07 GMT"
+            "published": "Tue, 08 Apr 2025 21:41:23 GMT"
+        },
+        {
+            "title": "Astro Bot dominates Bafta Games Awards with five wins",
+            "link": "https://www.bbc.com/news/articles/cvgn17k9j30o",
+            "published": "Tue, 08 Apr 2025 21:19:58 GMT"
         },
         {
             "title": "Meta expands restrictions for teen users to Facebook and Messenger",
@@ -73,11 +78,6 @@
             "title": "Elon Musk's X to clamp down on parody accounts",
             "link": "https://www.bbc.com/news/articles/c4g37elkrxdo",
             "published": "Mon, 07 Apr 2025 10:59:09 GMT"
-        },
-        {
-            "title": "Meta and Pinterest make secret donation to Molly Russell charity",
-            "link": "https://www.bbc.com/news/articles/cx208nkvw83o",
-            "published": "Fri, 04 Apr 2025 23:42:14 GMT"
         }
     ]
 }
