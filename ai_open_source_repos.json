@@ -42,16 +42,16 @@
         "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
     },
     {
-        "name": "YC-Killer",
-        "full_name": "sahibzada-allahyar/YC-Killer",
-        "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
-        "description": "A collection of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you have a stellar academic background and are excited about democratizing AI access, please star this repository. We'll review your GitHub profile as your application."
-    },
-    {
         "name": "taranis-ai",
         "full_name": "taranis-ai/taranis-ai",
         "html_url": "https://github.com/taranis-ai/taranis-ai",
         "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis."
+    },
+    {
+        "name": "YC-Killer",
+        "full_name": "sahibzada-allahyar/YC-Killer",
+        "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
+        "description": "A collection of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you have a stellar academic background and are excited about democratizing AI access, please star this repository. We'll review your GitHub profile as your application."
     },
     {
         "name": "shoggoth",
