@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "In her Senate testimony, Sarah Wynn-Williams alleged Meta briefed China on US AI efforts, ignored warnings on China potentially accessing US user data, and more (Barbara Ortutay/Associated Press)",
+            "link": "http://www.techmeme.com/250409/p54#a250409p54",
+            "published": "Wed, 09 Apr 2025 21:30:01 -0400"
+        },
+        {
+            "title": "The US Senate confirms former SEC Commissioner Paul Atkins as SEC chair, succeeding Gary Gensler; Atkins is widely expected to support crypto-friendly policies (Jesse Hamilton/CoinDesk)",
+            "link": "http://www.techmeme.com/250409/p53#a250409p53",
+            "published": "Wed, 09 Apr 2025 20:30:01 -0400"
+        },
+        {
+            "title": "OpenAI countersues Elon Musk, claiming harassment and asking a federal judge to stop Musk from any further attacks in a case over OpenAI's future structure (Anna Tong/Reuters)",
+            "link": "http://www.techmeme.com/250409/p52#a250409p52",
+            "published": "Wed, 09 Apr 2025 20:20:00 -0400"
+        },
+        {
+            "title": "Ex-Facebook employee Sarah Wynn-Williams tells US senators that Meta targeted teens with ads based on their emotional state identified via their online activity (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/250409/p51#a250409p51",
+            "published": "Wed, 09 Apr 2025 20:00:45 -0400"
+        },
+        {
             "title": "President Trump directs the DOJ to investigate former CISA director Chris Krebs, who was fired after he contradicted Trump's baseless 2020 election fraud claims (David DiMolfetta/Nextgov/FCW)",
             "link": "http://www.techmeme.com/250409/p50#a250409p50",
             "published": "Wed, 09 Apr 2025 18:50:01 -0400"
-        },
-        {
-            "title": "Docs: NSO Group, which is still on the US Commerce Department's Entity List, has hired Vogel Group, a lobbying firm with direct ties to the Trump administration (Vas Panagiotopoulos/Wired)",
-            "link": "http://www.techmeme.com/250409/p49#a250409p49",
-            "published": "Wed, 09 Apr 2025 18:00:35 -0400"
-        },
-        {
-            "title": "BTC jumped 7%+ to ~$83K, while ETH, DOGE, XRP, and SOL gained over 12% as Trump paused some tariffs; Strategy closed up 25%, Robinhood up 24%, Coinbase up 17% (Tanaya Macheel/CNBC)",
-            "link": "http://www.techmeme.com/250409/p48#a250409p48",
-            "published": "Wed, 09 Apr 2025 17:25:15 -0400"
-        },
-        {
-            "title": "Framework opens Laptop 12 preorders in the UK, Europe, and Canada starting at \u20ac569, \u00a3499, and CA$719; US preorders are delayed due to Trump's tariffs (Sean Hollister/The Verge)",
-            "link": "http://www.techmeme.com/250409/p47#a250409p47",
-            "published": "Wed, 09 Apr 2025 17:10:15 -0400"
-        },
-        {
-            "title": "Nasdaq jumps 12% after Trump announced a 90-day tariff pause, with Nvidia up 19%, Apple up 15%, Meta up 15%, Amazon up 12%, Microsoft up 10%, Alphabet up 10% (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/250409/p46#a250409p46",
-            "published": "Wed, 09 Apr 2025 16:20:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "OpenAI Asks Court to Bar Elon Musk From Unfairly Attacking It",
             "link": "https://www.nytimes.com/2025/04/09/technology/openai-elon-musk-lawsuit.html",
-            "published": "Wed, 09 Apr 2025 23:03:57 +0000"
+            "published": "Thu, 10 Apr 2025 01:27:55 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Leave school phone bans to head teachers, children's commissioner says",
+            "link": "https://www.bbc.com/news/articles/cly11270npeo",
+            "published": "Thu, 10 Apr 2025 00:06:30 GMT"
+        },
         {
             "title": "First Ofcom probe launched into suicide site exposed by BBC",
             "link": "https://www.bbc.com/news/articles/c24q1n6905mo",
@@ -73,11 +78,6 @@
             "title": "Meta expands restrictions for teen users to Facebook and Messenger",
             "link": "https://www.bbc.com/news/articles/cvgqe6yv0yzo",
             "published": "Tue, 08 Apr 2025 11:18:36 GMT"
-        },
-        {
-            "title": "Apple's encryption row with UK should not be secret, court rules",
-            "link": "https://www.bbc.com/news/articles/cvgn1lz3v4no",
-            "published": "Mon, 07 Apr 2025 13:22:01 GMT"
         }
     ]
 }
