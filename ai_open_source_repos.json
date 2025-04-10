@@ -42,6 +42,12 @@
         "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
     },
     {
+        "name": "-Prototype-AIVTuber",
+        "full_name": "ponlponl123/-Prototype-AIVTuber",
+        "html_url": "https://github.com/ponlponl123/-Prototype-AIVTuber",
+        "description": "a open-source Artificial Intelligence Virtual Youtuber (AI VTuber), (this project is deprecated)"
+    },
+    {
         "name": "taranis-ai",
         "full_name": "taranis-ai/taranis-ai",
         "html_url": "https://github.com/taranis-ai/taranis-ai",
@@ -52,11 +58,5 @@
         "full_name": "sahibzada-allahyar/YC-Killer",
         "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
         "description": "A collection of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you have a stellar academic background and are excited about democratizing AI access, please star this repository. We'll review your GitHub profile as your application."
-    },
-    {
-        "name": "shoggoth",
-        "full_name": "shog-ai/shoggoth",
-        "html_url": "https://github.com/shog-ai/shoggoth",
-        "description": "Shoggoth is a peer-to-peer network for publishing and distributing open-source Artificial Intelligence"
     }
 ]
