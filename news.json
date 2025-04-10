@@ -1,6 +1,42 @@
 {
-    "techmeme": [],
+    "techmeme": [
+        {
+            "title": "nEye Systems, which is developing data center chips that use light to send data, raised a $58M Series B led by CapitalG, bringing its total funding to $72.5M (Stephen Nellis/Reuters)",
+            "link": "http://www.techmeme.com/250410/p41#a250410p41",
+            "published": "Thu, 10 Apr 2025 15:15:00 -0400"
+        },
+        {
+            "title": "Sonos appoints software veteran Hugo Barra to its board, replacing Mike Volpi, who is stepping down after 15 years; Barra is the head of product at /dev/agents (Chris Welch/The Verge)",
+            "link": "http://www.techmeme.com/250410/p40#a250410p40",
+            "published": "Thu, 10 Apr 2025 14:45:01 -0400"
+        },
+        {
+            "title": "Sources: Chinese officials acknowledged in a secret December meeting that China was behind Volt Typhoon hacks, linking them to escalating US support for Taiwan (Dustin Volz/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250410/p39#a250410p39",
+            "published": "Thu, 10 Apr 2025 14:05:00 -0400"
+        },
+        {
+            "title": "DoorDash launches robot deliveries in LA and Chicago in partnership with Coco Robotics, whose robots already deliver for DoorDash sub-brand Wolt in Helsinki (Lawrence Bonk/Engadget)",
+            "link": "http://www.techmeme.com/250410/p38#a250410p38",
+            "published": "Thu, 10 Apr 2025 13:55:01 -0400"
+        },
+        {
+            "title": "Canva launches Canva AI, which lets users create images and design ideas, and Canva Code, to create mini apps that can be integrated in designs (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/250410/p37#a250410p37",
+            "published": "Thu, 10 Apr 2025 13:40:01 -0400"
+        }
+    ],
     "source_1": [
+        {
+            "title": "Nintendo Switch Game Console Release Is Whipsawed by Tariff Threats",
+            "link": "https://www.nytimes.com/2025/04/10/technology/nintendo-switch-tariffs-trump.html",
+            "published": "Thu, 10 Apr 2025 17:47:47 +0000"
+        },
+        {
+            "title": "How Do the iPhone 16E and Google Pixel 9A Compare to More Expensive Models?",
+            "link": "https://www.nytimes.com/2025/04/10/technology/personaltech/iphone-16e-pixel-9a-cheaper-phone-models.html",
+            "published": "Thu, 10 Apr 2025 14:55:44 +0000"
+        },
         {
             "title": "How Musk and Trump Are Working to Consolidate Government Data About You",
             "link": "https://www.nytimes.com/2025/04/09/us/politics/trump-musk-data-access.html",
@@ -10,16 +46,6 @@
             "title": "Pilot Files Defamation Lawsuit Against Matt Wallace, X Influencer",
             "link": "https://www.nytimes.com/2025/04/09/technology/pilot-lawsuit-jo-ellis-matt-wallace.html",
             "published": "Wed, 09 Apr 2025 18:40:55 +0000"
-        },
-        {
-            "title": "Tech C.E.O.s Spent Millions Courting Trump. It Has Yet to Pay Off.",
-            "link": "https://www.nytimes.com/2025/04/08/technology/tech-ceos-lobbying-trump.html",
-            "published": "Tue, 08 Apr 2025 09:01:22 +0000"
-        },
-        {
-            "title": "How Trump\u2019s TikTok Negotiations Were Upended by China and Tariffs",
-            "link": "https://www.nytimes.com/2025/04/07/technology/trump-tiktok-china-tariffs.html",
-            "published": "Wed, 09 Apr 2025 06:37:07 +0000"
         },
         {
             "title": "Neutrinos Are Shrinking, and That\u2019s a Good Thing for Physics",
