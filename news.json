@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "In his annual shareholder letter, Amazon CEO Andy Jassy says the company has to operate like the \"world's largest startup\" to stay competitive in AI (Bloomberg)",
+            "link": "http://www.techmeme.com/250410/p22#a250410p22",
+            "published": "Thu, 10 Apr 2025 07:25:03 -0400"
+        },
+        {
             "title": "Analysis: Intel CEO Lip-Bu Tan and his VC firms invested in 600+ Chinese tech companies including 8+ with military ties; a source says he divested the positions (Reuters)",
             "link": "http://www.techmeme.com/250410/p21#a250410p21",
             "published": "Thu, 10 Apr 2025 07:10:13 -0400"
         },
         {
-            "title": "A deep dive on what Trump's Liberation Day tariffs mean for AI infrastructure: how the tariffs work, the USMCA's GPU loophole, GPU/XPU global trade, and more (Dylan Patel/SemiAnalysis)",
+            "title": "A deep dive into what Trump's Liberation Day tariffs mean for AI infrastructure: how the tariffs work, the USMCA's GPU loophole, GPU/XPU global trade, and more (Dylan Patel/SemiAnalysis)",
             "link": "http://www.techmeme.com/250410/p20#a250410p20",
             "published": "Thu, 10 Apr 2025 06:55:01 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "Greenpeace: emissions from AI chip production rose 357% in 2024, driven by a heavy reliance on fossil fuels, outpacing a 351% rise in electricity consumption (Aaron Clark/Bloomberg)",
             "link": "http://www.techmeme.com/250410/p18#a250410p18",
             "published": "Thu, 10 Apr 2025 06:30:00 -0400"
-        },
-        {
-            "title": "Sources: Apple chartered cargo flights to ferry 600 tons of iPhones, or up to 1.5M units, to the US from India; a source says Apple \"wanted to beat the tariff\" (Reuters)",
-            "link": "http://www.techmeme.com/250410/p17#a250410p17",
-            "published": "Thu, 10 Apr 2025 06:20:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Will iPhones cost more because of Trump's tariffs on China?",
+            "link": "https://www.bbc.com/news/articles/cx28845z30go",
+            "published": "Thu, 10 Apr 2025 12:24:21 GMT"
+        },
+        {
             "title": "Leave school phone bans to head teachers, children's commissioner says",
             "link": "https://www.bbc.com/news/articles/cly11270npeo",
             "published": "Thu, 10 Apr 2025 09:39:57 GMT"
@@ -73,11 +78,6 @@
             "title": "Astro Bot dominates Bafta Games Awards with five wins",
             "link": "https://www.bbc.com/news/articles/cvgn17k9j30o",
             "published": "Wed, 09 Apr 2025 00:57:49 GMT"
-        },
-        {
-            "title": "Meta expands restrictions for teen users to Facebook and Messenger",
-            "link": "https://www.bbc.com/news/articles/cvgqe6yv0yzo",
-            "published": "Tue, 08 Apr 2025 11:18:36 GMT"
         }
     ]
 }
