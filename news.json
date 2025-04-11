@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "China's retail giants launch initiatives to help Chinese exporters pivot to the domestic market in response to the US trade war; JD.com launched a $27B fund (Reuters)",
+            "title": "OpenAI will retire GPT-4, launched over two years ago, from ChatGPT on April 30, to be \"fully replaced\" by GPT-4o; GPT-4 will remain available in OpenAI's API (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250411/p14#a250411p14",
+            "published": "Fri, 11 Apr 2025 11:10:01 -0400"
+        },
+        {
+            "title": "Ireland's DPC opens an investigation into how personal data in public X posts was used to train xAI's Grok, which could stoke tensions between the EU and the US (Ellen O'Regan/Politico)",
+            "link": "http://www.techmeme.com/250411/p13#a250411p13",
+            "published": "Fri, 11 Apr 2025 10:35:01 -0400"
+        },
+        {
+            "title": "China's retail giants launch initiatives to help Chinese exporters pivot to the domestic market in response to the US trade war; JD.com launched a ~$27.35B fund (Reuters)",
             "link": "http://www.techmeme.com/250411/p12#a250411p12",
             "published": "Fri, 11 Apr 2025 10:05:01 -0400"
         },
@@ -11,19 +21,9 @@
             "published": "Fri, 11 Apr 2025 09:20:02 -0400"
         },
         {
-            "title": "US Defense Secretary Pete Hegseth cuts $5.1B in IT and consulting contracts, including with Accenture and Deloitte, calling them \"wasteful spending\" (Business Insider)",
+            "title": "US Defense Secretary Pete Hegseth cuts $5.1B in IT and consulting contracts, such as with Accenture, Deloitte, and Booz Allen, calling them \"wasteful spending\" (Business Insider)",
             "link": "http://www.techmeme.com/250411/p10#a250411p10",
             "published": "Fri, 11 Apr 2025 08:25:01 -0400"
-        },
-        {
-            "title": "AI reasoning models cost more to benchmark, making it harder to independently verify claims; Artificial Analysis: OpenAI's o1 costs $2,767.05 to evaluate (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250411/p9#a250411p9",
-            "published": "Fri, 11 Apr 2025 08:00:53 -0400"
-        },
-        {
-            "title": "Sources: Tim Cook approved doubling Apple's AI chips budget in 2023 after John Giannandrea sought more GPUs, but CFO Luca Maestri cut the increase to under half (Tripp Mickle/New York Times)",
-            "link": "http://www.techmeme.com/250411/p8#a250411p8",
-            "published": "Fri, 11 Apr 2025 06:31:14 -0400"
         }
     ],
     "source_1": [
@@ -62,7 +62,7 @@
         {
             "title": "OpenAI sues Elon Musk claiming 'bad-faith tactics'",
             "link": "https://www.bbc.com/news/articles/cg4114271x2o",
-            "published": "Thu, 10 Apr 2025 17:56:16 GMT"
+            "published": "Fri, 11 Apr 2025 15:06:07 GMT"
         },
         {
             "title": "Will iPhones cost more because of Trump's tariffs on China?",
