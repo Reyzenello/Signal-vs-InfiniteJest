@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Intel is nearing a deal to sell its stake in Altera to Silver Lake and could announce it as soon as this week; Intel paid $17B for Altera in 2015 (Bloomberg)",
+            "link": "http://www.techmeme.com/250414/p7#a250414p7",
+            "published": "Mon, 14 Apr 2025 06:25:00 -0400"
+        },
+        {
+            "title": "Legal experts: Meta's FTC antitrust trial, where Mark Zuckerberg could take the stand as early as today, is set to be more grueling than Congressional hearings (New York Times)",
+            "link": "http://www.techmeme.com/250414/p6#a250414p6",
+            "published": "Mon, 14 Apr 2025 06:10:02 -0400"
+        },
+        {
+            "title": "Sources: Apple asked suppliers in India, Vietnam, and Thailand to ramp up production earlier in 2025; Indian factory utilization rates are already at the limit (Nikkei Asia)",
+            "link": "http://www.techmeme.com/250414/p5#a250414p5",
+            "published": "Mon, 14 Apr 2025 05:50:00 -0400"
+        },
+        {
+            "title": "Topgolf and Puttshack founders' Poolhouse raised a $34M seed to build a \"tech-enabled\" version of pool, including via video projections and tracking players (Josh Noble/Financial Times)",
+            "link": "http://www.techmeme.com/250414/p4#a250414p4",
+            "published": "Mon, 14 Apr 2025 05:35:03 -0400"
+        },
+        {
             "title": "Sony hikes PlayStation 5 prices in Europe, the UK, Australia, and New Zealand, citing a \"challenging economic environment\"; the PS5 Pro remains the same price (Arjun Kharpal/CNBC)",
             "link": "http://www.techmeme.com/250414/p3#a250414p3",
             "published": "Mon, 14 Apr 2025 04:35:00 -0400"
-        },
-        {
-            "title": "Dealroom: UK-based startups raised \u00a316.2B in 2024, the lowest amount since 2020, as several consider moving their headquarters to the US in search of capital (Financial Times)",
-            "link": "http://www.techmeme.com/250414/p2#a250414p2",
-            "published": "Mon, 14 Apr 2025 02:25:01 -0400"
-        },
-        {
-            "title": "A look at the limits of large context LLMs, as their increased latency, higher costs, and reduced usability result in diminishing returns for enterprises (VentureBeat)",
-            "link": "http://www.techmeme.com/250414/p1#a250414p1",
-            "published": "Mon, 14 Apr 2025 00:35:01 -0400"
-        },
-        {
-            "title": "President Trump told reporters he would announce the tariff rate on imported semiconductors over the next week, giving some flexibility to certain companies (Reuters)",
-            "link": "http://www.techmeme.com/250413/p17#a250413p17",
-            "published": "Sun, 13 Apr 2025 22:20:01 -0400"
-        },
-        {
-            "title": "A French law requiring adult websites to run age checks and block under-18 users became applicable to sites based in France and outside of the EU on April 11 (Politico)",
-            "link": "http://www.techmeme.com/250413/p16#a250413p16",
-            "published": "Sun, 13 Apr 2025 18:40:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "PS5 price jumps \u00a340 as Sony cites 'challenging' market conditions",
+            "link": "https://www.bbc.com/news/articles/ce82391x2kyo",
+            "published": "Mon, 14 Apr 2025 10:07:20 GMT"
+        },
+        {
             "title": "Landmark antitrust trial could force Zuckerberg to sell Instagram",
             "link": "https://www.bbc.com/news/articles/cedy2ygy50do",
             "published": "Sun, 13 Apr 2025 23:41:19 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI sues Elon Musk claiming 'bad-faith tactics'",
             "link": "https://www.bbc.com/news/articles/cg4114271x2o",
             "published": "Fri, 11 Apr 2025 15:06:07 GMT"
-        },
-        {
-            "title": "Will iPhones cost more because of Trump's tariffs on China?",
-            "link": "https://www.bbc.com/news/articles/cx28845z30go",
-            "published": "Thu, 10 Apr 2025 16:37:19 GMT"
         }
     ]
 }
