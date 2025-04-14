@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI releases GPT\u20114.1, GPT\u20114.1 mini, and GPT\u20114.1 nano, which excel at coding, instruction following, and long context understanding, available via its API (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250414/p26#a250414p26",
+            "published": "Mon, 14 Apr 2025 13:13:59 -0400"
+        },
+        {
+            "title": "Sources: OpenAI's upcoming o3 and o4-mini reasoning models may excel at suggesting new types of science experiments, from nuclear fusion to pathogen detection (The Information)",
+            "link": "http://www.techmeme.com/250414/p25#a250414p25",
+            "published": "Mon, 14 Apr 2025 13:00:47 -0400"
+        },
+        {
+            "title": "Crypto exchange Kraken begins rolling out commission-free trading for over 11,000 US-listed stocks and ETFs, initially in nine US states and DC (Naga Avan-Nomayo/The Block)",
+            "link": "http://www.techmeme.com/250414/p24#a250414p24",
+            "published": "Mon, 14 Apr 2025 12:35:01 -0400"
+        },
+        {
             "title": "Sources: the European Commission is issuing burner phones and laptops to some US-bound staff to mitigate espionage risks, a move typically reserved for China (Andy Bounds/Financial Times)",
             "link": "http://www.techmeme.com/250414/p23#a250414p23",
             "published": "Mon, 14 Apr 2025 11:45:02 -0400"
@@ -9,28 +24,13 @@
             "title": "Source: FTC Chair Andrew Ferguson, Assistant AG Gail Slater, and activist Mike Davis met Trump on April 8 to combat Meta's lobbying over the FTC antitrust case (Ben Smith/Semafor)",
             "link": "http://www.techmeme.com/250414/p22#a250414p22",
             "published": "Mon, 14 Apr 2025 10:55:01 -0400"
-        },
-        {
-            "title": "Q&A with Robinhood co-founder Vlad Tenev on becoming sole CEO, prediction markets, regulatory compliance, sports betting, the American dream, media, and more (Nilay Patel/The Verge)",
-            "link": "http://www.techmeme.com/250414/p21#a250414p21",
-            "published": "Mon, 14 Apr 2025 10:45:01 -0400"
-        },
-        {
-            "title": "Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week (Associated Press)",
-            "link": "http://www.techmeme.com/250414/p20#a250414p20",
-            "published": "Mon, 14 Apr 2025 10:30:01 -0400"
-        },
-        {
-            "title": "FTC v. Meta: in opening arguments, FTC lawyers accuse Meta of a \"buy-or-bury strategy\" to cement a social networking monopoly by buying Instagram and WhatsApp (New York Times)",
-            "link": "http://www.techmeme.com/250414/p19#a250414p19",
-            "published": "Mon, 14 Apr 2025 10:20:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Meta\u2019s Antitrust Trial Begins as FTC Argues Company Built Social Media Monopoly",
             "link": "https://www.nytimes.com/2025/04/14/technology/meta-antitrust-trial-ftc.html",
-            "published": "Mon, 14 Apr 2025 16:15:31 +0000"
+            "published": "Mon, 14 Apr 2025 16:56:16 +0000"
         },
         {
             "title": "What If Mark Zuckerberg Had Not Bought Instagram and WhatsApp?",
@@ -60,6 +60,11 @@
             "published": "Mon, 14 Apr 2025 10:07:20 GMT"
         },
         {
+            "title": "What are semiconductors and why is Trump targeting them?",
+            "link": "https://www.bbc.co.uk/news/technology-66394406",
+            "published": "Mon, 14 Apr 2025 12:04:16 GMT"
+        },
+        {
             "title": "Landmark antitrust trial could force Zuckerberg to sell Instagram",
             "link": "https://www.bbc.com/news/articles/cedy2ygy50do",
             "published": "Sun, 13 Apr 2025 23:41:19 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'",
             "link": "https://www.bbc.com/news/articles/cj3xjrj7v78o",
             "published": "Fri, 11 Apr 2025 13:49:25 GMT"
-        },
-        {
-            "title": "OpenAI sues Elon Musk claiming 'bad-faith tactics'",
-            "link": "https://www.bbc.com/news/articles/cg4114271x2o",
-            "published": "Fri, 11 Apr 2025 15:06:07 GMT"
         }
     ]
 }
