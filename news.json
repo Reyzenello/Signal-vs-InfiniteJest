@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Source: FTC Chair Andrew Ferguson, Assistant AG Gail Slater, and activist Mike Davis met Trump on April 8 to combat Meta's lobbying over the FTC antitrust case (Ben Smith/Semafor)",
+            "link": "http://www.techmeme.com/250414/p22#a250414p22",
+            "published": "Mon, 14 Apr 2025 10:55:01 -0400"
+        },
+        {
+            "title": "Q&A with Robinhood co-founder Vlad Tenev on becoming sole CEO, prediction markets, regulatory compliance, sports betting, the American dream, media, and more (Nilay Patel/The Verge)",
+            "link": "http://www.techmeme.com/250414/p21#a250414p21",
+            "published": "Mon, 14 Apr 2025 10:45:01 -0400"
+        },
+        {
+            "title": "Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week (Associated Press)",
+            "link": "http://www.techmeme.com/250414/p20#a250414p20",
+            "published": "Mon, 14 Apr 2025 10:30:01 -0400"
+        },
+        {
             "title": "FTC v. Meta: in opening arguments, FTC lawyers accuse Meta of a \"buy-or-bury strategy\" to cement a social networking monopoly by buying Instagram and WhatsApp (New York Times)",
             "link": "http://www.techmeme.com/250414/p19#a250414p19",
             "published": "Mon, 14 Apr 2025 10:20:02 -0400"
@@ -9,33 +24,18 @@
             "title": "Autonomous trucking startup Kodiak Robotics says it plans to go public in the US via blank-check company Ares Acquisition Corp II, valuing Kodiak at $2.5B (Deborah Sophia/Reuters)",
             "link": "http://www.techmeme.com/250414/p18#a250414p18",
             "published": "Mon, 14 Apr 2025 10:09:17 -0400"
-        },
-        {
-            "title": "Hugging Face acquires French startup Pollen Robotics, which makes the bug-eyed, two-armed, humanoid robot called Reachy 2, and plans to sell the robot (Will Knight/Wired)",
-            "link": "http://www.techmeme.com/250414/p17#a250414p17",
-            "published": "Mon, 14 Apr 2025 10:00:32 -0400"
-        },
-        {
-            "title": "Meta says it plans to train its AI models on public content, like posts and comments, and interactions that users have with its AI in the EU starting this week (Meta)",
-            "link": "http://www.techmeme.com/250414/p16#a250414p16",
-            "published": "Mon, 14 Apr 2025 09:40:00 -0400"
-        },
-        {
-            "title": "Nvidia starts making its Blackwell chips at TSMC's Phoenix plant and says it aims to make up to $500B of AI infrastructure in the US in the next four years (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250414/p15#a250414p15",
-            "published": "Mon, 14 Apr 2025 09:20:03 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "U.S. Argues Meta Built a Social Media Monopoly",
+            "title": "Meta\u2019s Antitrust Trial Begins as FTC Argues Company Built Social Media Monopoly",
             "link": "https://www.nytimes.com/2025/04/14/technology/meta-antitrust-trial-ftc.html",
-            "published": "Mon, 14 Apr 2025 14:07:36 +0000"
+            "published": "Mon, 14 Apr 2025 14:51:57 +0000"
         },
         {
-            "title": "Meta\u2019s Antitrust Trial to Put Mark Zuckerberg, Serial Witness, to the Test Again",
-            "link": "https://www.nytimes.com/2025/04/14/technology/zuckerberg-testifies-meta-trial-ftc.html",
-            "published": "Mon, 14 Apr 2025 09:01:47 +0000"
+            "title": "What If Mark Zuckerberg Had Not Bought Instagram and WhatsApp?",
+            "link": "https://www.nytimes.com/2025/04/14/technology/mark-zuckerberg-facebook-instagram-whatsapp.html",
+            "published": "Mon, 14 Apr 2025 14:34:27 +0000"
         },
         {
             "title": "How Geo Group\u2019s Surveillance Tech Is Aiding Trump\u2019s Immigration Agenda",
