@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Dealroom: UK-based startups raised \u00a316.2B in 2024, the lowest amount since 2020, as several consider moving their headquarters to the US in search of capital (Financial Times)",
+            "link": "http://www.techmeme.com/250414/p2#a250414p2",
+            "published": "Mon, 14 Apr 2025 02:25:01 -0400"
+        },
+        {
             "title": "A look at the limits of large context LLMs, as their increased latency, higher costs, and reduced usability result in diminishing returns for enterprises (VentureBeat)",
             "link": "http://www.techmeme.com/250414/p1#a250414p1",
             "published": "Mon, 14 Apr 2025 00:35:01 -0400"
@@ -19,11 +24,6 @@
             "title": "According to a recently published support page, OpenAI may soon require organizations to complete an ID verification process to access new advanced AI models (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250413/p15#a250413p15",
             "published": "Sun, 13 Apr 2025 18:20:01 -0400"
-        },
-        {
-            "title": "A look at slopsquatting, a supply chain attack where threat actors create malicious packages on indexes using AI-hallucinated names resembling popular libraries (Bill Toulas/BleepingComputer)",
-            "link": "http://www.techmeme.com/250413/p14#a250413p14",
-            "published": "Sun, 13 Apr 2025 17:30:01 -0400"
         }
     ],
     "source_1": [
