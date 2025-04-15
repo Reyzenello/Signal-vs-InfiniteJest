@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google rolls out a Play services update, including an Android security feature to auto-reboot phones and tablets that are \"locked for three consecutive days\" (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/250415/p11#a250415p11",
+            "published": "Tue, 15 Apr 2025 08:10:01 -0400"
+        },
+        {
             "title": "UK data-based car insurance startup Marshmallow raised $90M, roughly split 50-50 in equity and debt, at a $2B+ valuation, up from $1.25B in September 2021 (Ingrid Lunden/TechCrunch)",
             "link": "http://www.techmeme.com/250415/p10#a250415p10",
             "published": "Tue, 15 Apr 2025 07:15:03 -0400"
@@ -19,11 +24,6 @@
             "title": "Chinese state media: police in Harbin accuse the NSA of launching \"advanced\" cyberattacks during the Asian Winter Games in February 2025 and name three agents (Reuters)",
             "link": "http://www.techmeme.com/250415/p7#a250415p7",
             "published": "Tue, 15 Apr 2025 06:25:05 -0400"
-        },
-        {
-            "title": "An interview with eFishery CEO Gibran Huzaifah and 20+ sources detail how Gibran's \"fake-it-till-you-make-it\" deceptions spiraled, losing investors $300M+ (Bloomberg)",
-            "link": "http://www.techmeme.com/250415/p6#a250415p6",
-            "published": "Tue, 15 Apr 2025 06:10:02 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "How Geo Group\u2019s Surveillance Tech Is Aiding Trump\u2019s Immigration Agenda",
             "link": "https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html",
-            "published": "Mon, 14 Apr 2025 16:12:39 +0000"
+            "published": "Tue, 15 Apr 2025 12:08:01 +0000"
         },
         {
             "title": "The Former C.I.A. Officer Capitalizing On Europe\u2019s Military Spending Boom",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Minister's X account hacked to promote crypto scam",
+            "link": "https://www.bbc.com/news/articles/cr5drp0n8zjo",
+            "published": "Tue, 15 Apr 2025 11:26:55 GMT"
+        },
         {
             "title": "Mark Zuckerberg defends Meta in social media monopoly trial",
             "link": "https://www.bbc.com/news/articles/c4g2z80e2kjo",
@@ -73,11 +78,6 @@
             "title": "Everyone's jumping on the AI doll trend - but what are the concerns?",
             "link": "https://www.bbc.com/news/articles/c5yg690e9eno",
             "published": "Fri, 11 Apr 2025 23:28:02 GMT"
-        },
-        {
-            "title": "Microsoft rolls out AI screenshot tool dubbed 'privacy nightmare'",
-            "link": "https://www.bbc.com/news/articles/cj3xjrj7v78o",
-            "published": "Fri, 11 Apr 2025 13:49:25 GMT"
         }
     ]
 }
