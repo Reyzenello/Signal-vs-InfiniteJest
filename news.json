@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic's Claude adds Research, capable of searching the web and internal documents to give comprehensive answers, in beta for Max, Team, Enterprise plans (Ben Sherry/Inc)",
+            "link": "http://www.techmeme.com/250415/p27#a250415p27",
+            "published": "Tue, 15 Apr 2025 14:20:02 -0400"
+        },
+        {
+            "title": "China Outs US Hackers for Attack, a New Frontier in Spy Games (Ryan Gallagher/Bloomberg)",
+            "link": "http://www.techmeme.com/250415/p26#a250415p26",
+            "published": "Tue, 15 Apr 2025 14:00:37 -0400"
+        },
+        {
+            "title": "Whistleblower: at NLRB, DOGE staff disabled monitoring tools, deleted logs, one worked on \"NxGenBdoorExtract\"; one DOGE account tried to log in via a Russian IP (Jenna McLaughlin/NPR)",
+            "link": "http://www.techmeme.com/250415/p25#a250415p25",
+            "published": "Tue, 15 Apr 2025 13:25:01 -0400"
+        },
+        {
             "title": "Source: Anthropic could launch a \"voice mode\" feature for Claude as soon as this month, which will initially roll out on a limited basis (Bloomberg)",
             "link": "http://www.techmeme.com/250415/p24#a250415p24",
             "published": "Tue, 15 Apr 2025 13:18:13 -0400"
@@ -9,21 +24,6 @@
             "title": "Anthropic says Claude now integrates with Google Workspace for access to Gmail, Calendar, and Google Docs, coming first to Max, Team, Enterprise, and Pro plans (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250415/p23#a250415p23",
             "published": "Tue, 15 Apr 2025 13:15:02 -0400"
-        },
-        {
-            "title": "Google rolls out its text-to-video AI model Veo 2 to Gemini Advanced subscribers and makes its Whisk Animate tool available for Google One AI Premium users (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250415/p22#a250415p22",
-            "published": "Tue, 15 Apr 2025 13:11:36 -0400"
-        },
-        {
-            "title": "Mark Zuckerberg's $1B Instagram and $19B WhatsApp deals, central to the FTC's antitrust case, were mocked at the time, and the trial hinges on hypotheticals (Mike Isaac/New York Times)",
-            "link": "http://www.techmeme.com/250415/p21#a250415p21",
-            "published": "Tue, 15 Apr 2025 12:50:01 -0400"
-        },
-        {
-            "title": "FTC v. Meta: Mark Zuckerberg testified about his acquisitions of Instagram and WhatsApp, including a 2012 email exchange rationalizing the apps' acquisition (Bloomberg)",
-            "link": "http://www.techmeme.com/250415/p20#a250415p20",
-            "published": "Tue, 15 Apr 2025 12:20:03 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "At Trial, Mark Zuckerberg Avoids Explaining Takeovers of Instagram and WhatsApp",
             "link": "https://www.nytimes.com/2025/04/15/technology/meta-antitrust-trial-mark-zuckerberg.html",
-            "published": "Tue, 15 Apr 2025 17:17:46 +0000"
+            "published": "Tue, 15 Apr 2025 17:42:06 +0000"
         }
     ],
     "source_2": [
