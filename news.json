@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Cohere debuts Embed 4, its search engine for enterprise AI assistants, now with a 128K context length, better multimodal abilities for complex documents, more (Emilia David/VentureBeat)",
+            "link": "http://www.techmeme.com/250415/p16#a250415p16",
+            "published": "Tue, 15 Apr 2025 11:25:14 -0400"
+        },
+        {
+            "title": "Notion releases Notion Mail, a lightweight Gmail client to help users schedule meetings and organize and draft emails, available as a free macOS and web app (David Pierce/The Verge)",
+            "link": "http://www.techmeme.com/250415/p15#a250415p15",
+            "published": "Tue, 15 Apr 2025 11:20:01 -0400"
+        },
+        {
             "title": "AI safety and security startup Virtue AI raised $30M in seed and Series A funding and says its customers include several frontier labs, Uber, and Glean (Sam Sabin/Axios)",
             "link": "http://www.techmeme.com/250415/p14#a250415p14",
             "published": "Tue, 15 Apr 2025 10:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Nvidia unveils its RTX 5060 family, including the RTX 5060 Ti with 4,608 CUDA cores for $379 with 8GB of VRAM or $429 for 16GB of VRAM, launching on April 16 (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250415/p12#a250415p12",
             "published": "Tue, 15 Apr 2025 09:10:00 -0400"
-        },
-        {
-            "title": "Google rolls out a Play services update, including an Android security feature to auto-reboot phones and tablets that are \"locked for three consecutive days\" (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/250415/p11#a250415p11",
-            "published": "Tue, 15 Apr 2025 08:10:01 -0400"
-        },
-        {
-            "title": "UK data-based car insurance startup Marshmallow raised $90M, roughly split 50-50 in equity and debt, at a $2B+ valuation, up from $1.25B in September 2021 (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250415/p10#a250415p10",
-            "published": "Tue, 15 Apr 2025 07:15:03 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "What If Mark Zuckerberg Had Not Bought Instagram and WhatsApp?",
             "link": "https://www.nytimes.com/2025/04/14/technology/mark-zuckerberg-facebook-instagram-whatsapp.html",
-            "published": "Mon, 14 Apr 2025 20:40:19 +0000"
+            "published": "Tue, 15 Apr 2025 14:38:25 +0000"
         },
         {
             "title": "How Geo Group\u2019s Surveillance Tech Is Aiding Trump\u2019s Immigration Agenda",
@@ -48,9 +48,9 @@
             "published": "Mon, 14 Apr 2025 10:59:23 +0000"
         },
         {
-            "title": "The Techno-Utopian Seasteaders Who Want to Colonize the Ocean",
-            "link": "https://www.nytimes.com/2025/04/15/magazine/seasteading-libertarian-ocean-living.html",
-            "published": "Tue, 15 Apr 2025 09:01:23 +0000"
+            "title": "Trump Tariffs Could Raise iPhone Prices, But Affordable Options Remain",
+            "link": "https://www.nytimes.com/2025/04/15/technology/personaltech/trump-tariffs-iphone-cost.html",
+            "published": "Tue, 15 Apr 2025 15:14:38 +0000"
         }
     ],
     "source_2": [
