@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "SEC filing: AMD estimates new US export rules for its MI308 chips to China will cost ~$800M in inventory, purchase commitments, and related reserves charges (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250416/p26#a250416p26",
+            "published": "Wed, 16 Apr 2025 09:30:00 -0400"
+        },
+        {
+            "title": "Patreon plans to test livestreaming within its mobile app and on the web with select users this week ahead of a wider rollout in summer 2025 (Lauren Forristal/TechCrunch)",
+            "link": "http://www.techmeme.com/250416/p25#a250416p25",
+            "published": "Wed, 16 Apr 2025 09:25:01 -0400"
+        },
+        {
+            "title": "Medicare broker Chapter, which was co-founded by Vivek Ramaswamy and uses AI to aggregate comprehensive plan data, raised $75M at a $1.5B valuation (Max Chafkin/Bloomberg)",
+            "link": "http://www.techmeme.com/250416/p24#a250416p24",
+            "published": "Wed, 16 Apr 2025 09:10:01 -0400"
+        },
+        {
+            "title": "Infinite Reality, which recently bought Napster, acquires AI customer support startup Touchcast for $500M in cash and stock, valuing Infinite Reality at $15.5B (Anne VanderMey/Bloomberg)",
+            "link": "http://www.techmeme.com/250416/p23#a250416p23",
+            "published": "Wed, 16 Apr 2025 08:55:01 -0400"
+        },
+        {
             "title": "Lyft acquires Hamburg-based taxi app FreeNow from BMW and Mercedes-Benz for \u20ac175M and says the combined operations will serve 50M+ riders annually (Tim Bradshaw/Financial Times)",
             "link": "http://www.techmeme.com/250416/p22#a250416p22",
             "published": "Wed, 16 Apr 2025 08:20:00 -0400"
-        },
-        {
-            "title": "Data orchestration startup Hammerspace, which counts Nvidia, Meta, Tesla, Palantir, and the DOD as clients, raised $100M, sources say at a $500M+ valuation (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250416/p21#a250416p21",
-            "published": "Wed, 16 Apr 2025 07:40:01 -0400"
-        },
-        {
-            "title": "CVE Board members launch the CVE Foundation, a dedicated, non-profit to continue identifying vulnerabilities, after the US ended its contract with Mitre (CVE Foundation)",
-            "link": "http://www.techmeme.com/250416/p20#a250416p20",
-            "published": "Wed, 16 Apr 2025 07:15:01 -0400"
-        },
-        {
-            "title": "US credit and debit card data: Shein's US sales rose 29% YoY in March and 38% YoY in April's first 11 days, while Temu rose 46% and 60%, ahead of US tariffs (Bloomberg)",
-            "link": "http://www.techmeme.com/250416/p19#a250416p19",
-            "published": "Wed, 16 Apr 2025 07:05:00 -0400"
-        },
-        {
-            "title": "Google says it suspended 39.2M US advertiser accounts on its platform in 2024, up over 3x from 12.7M in 2023, and took down 1.8B ads, aided by new AI tools (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250416/p18#a250416p18",
-            "published": "Wed, 16 Apr 2025 06:35:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Thousands report Spotify problems around the world",
+            "link": "https://www.bbc.com/news/articles/cde2rz199y5o",
+            "published": "Wed, 16 Apr 2025 13:11:54 GMT"
+        },
+        {
             "title": "Trump's chips strategy: The US will struggle to take on Asia",
             "link": "https://www.bbc.com/news/articles/cd9ljwgg9y0o",
             "published": "Tue, 15 Apr 2025 23:39:32 GMT"
@@ -73,11 +78,6 @@
             "title": "PS5 price jumps \u00a340 as Sony cites 'challenging' market conditions",
             "link": "https://www.bbc.com/news/articles/ce82391x2kyo",
             "published": "Mon, 14 Apr 2025 10:07:20 GMT"
-        },
-        {
-            "title": "What are semiconductors and why is Trump targeting them?",
-            "link": "https://www.bbc.co.uk/news/technology-66394406",
-            "published": "Mon, 14 Apr 2025 12:04:16 GMT"
         }
     ]
 }
