@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
+            "title": "OKX relaunches in the US and unveils a new crypto wallet for users, two months after a $500M DOJ settlement over insufficient anti-money laundering processes (Ben Weiss/Fortune)",
+            "link": "http://www.techmeme.com/250415/p42#a250415p42",
+            "published": "Tue, 15 Apr 2025 22:00:01 -0400"
+        },
+        {
+            "title": "PitchBook: US startups raised $91.5B in Q1 2025, up 116% YoY, while the number of deals fell 25% YoY to 3,003, as more money went into fewer very large rounds (Natasha Mascarenhas/The Information)",
+            "link": "http://www.techmeme.com/250415/p41#a250415p41",
+            "published": "Tue, 15 Apr 2025 21:40:06 -0400"
+        },
+        {
+            "title": "Email: Mark Zuckerberg offered to buy Snapchat for $6B in 2013; Zuckerberg testified that he thought Snapchat \"wasn't growing at the potential that it could\" (Business Insider)",
+            "link": "http://www.techmeme.com/250415/p40#a250415p40",
+            "published": "Tue, 15 Apr 2025 20:15:01 -0400"
+        },
+        {
+            "title": "Sources: chip industry executives told US officials and lawmakers that Trump's new tariffs could cost US semiconductor equipment makers more than $1B a year (Max A. Cherney/Reuters)",
+            "link": "http://www.techmeme.com/250415/p39#a250415p39",
+            "published": "Tue, 15 Apr 2025 19:40:02 -0400"
+        },
+        {
             "title": "Mitre, the nonprofit research organization behind the CVE program, says the US government funding needed to develop and operate CVE will expire on April 16 (David DiMolfetta/Nextgov/FCW)",
             "link": "http://www.techmeme.com/250415/p38#a250415p38",
             "published": "Tue, 15 Apr 2025 18:50:01 -0400"
-        },
-        {
-            "title": "OpenAI is adding an image library to ChatGPT to make it easier for users to access their AI-generated images, rolling out to all Free, Plus, and Pro users (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/250415/p37#a250415p37",
-            "published": "Tue, 15 Apr 2025 18:35:00 -0400"
-        },
-        {
-            "title": "Google plans to redirect all Search users to google.com over the coming months, saying \"country-level domains are no longer necessary\" (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/250415/p36#a250415p36",
-            "published": "Tue, 15 Apr 2025 18:25:01 -0400"
-        },
-        {
-            "title": "Filing: Nvidia says it will record a $5.5B charge after the US said it would require a license to export the H20 chips to China; NVDA drops 6%+ after hours (CNBC)",
-            "link": "http://www.techmeme.com/250415/p35#a250415p35",
-            "published": "Tue, 15 Apr 2025 18:10:01 -0400"
-        },
-        {
-            "title": "Sources: Meta offered $450M in late March to settle the FTC's antitrust case and raised its offer to ~$1B as the trial neared; the FTC had demanded $30B (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250415/p34#a250415p34",
-            "published": "Tue, 15 Apr 2025 17:35:03 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Meta\u2019s Antitrust Trial Begins as FTC Argues Company Built Social Media Monopoly",
-            "link": "https://www.nytimes.com/2025/04/14/technology/meta-antitrust-trial-ftc.html",
-            "published": "Tue, 15 Apr 2025 02:17:07 +0000"
-        },
-        {
-            "title": "What If Mark Zuckerberg Had Not Bought Instagram and WhatsApp?",
-            "link": "https://www.nytimes.com/2025/04/14/technology/mark-zuckerberg-facebook-instagram-whatsapp.html",
-            "published": "Tue, 15 Apr 2025 14:38:25 +0000"
-        },
-        {
-            "title": "How Geo Group\u2019s Surveillance Tech Is Aiding Trump\u2019s Immigration Agenda",
-            "link": "https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html",
-            "published": "Tue, 15 Apr 2025 12:08:01 +0000"
-        },
-        {
-            "title": "The Former C.I.A. Officer Capitalizing On Europe\u2019s Military Spending Boom",
-            "link": "https://www.nytimes.com/2025/04/14/technology/cia-officer-europe-military-spending.html",
-            "published": "Mon, 14 Apr 2025 10:59:23 +0000"
+            "title": "Nvidia Says U.S. Will Restrict Sales of More of Its A.I. Chips to China",
+            "link": "https://www.nytimes.com/2025/04/15/technology/nvidia-h20-chip-china-restrictions.html",
+            "published": "Wed, 16 Apr 2025 01:37:25 +0000"
         },
         {
             "title": "At Trial, Mark Zuckerberg Avoids Explaining Takeovers of Instagram and WhatsApp",
             "link": "https://www.nytimes.com/2025/04/15/technology/meta-antitrust-trial-mark-zuckerberg.html",
             "published": "Tue, 15 Apr 2025 21:49:12 +0000"
+        },
+        {
+            "title": "Why Antitrust Breakups of Google and Meta Could Be Difficult",
+            "link": "https://www.nytimes.com/2025/04/15/technology/antitrust-structure-deals-challenge.html",
+            "published": "Tue, 15 Apr 2025 22:24:33 +0000"
+        },
+        {
+            "title": "Trump Tariffs Could Raise iPhone Prices, But Affordable Options Remain",
+            "link": "https://www.nytimes.com/2025/04/15/technology/personaltech/trump-tariffs-iphone-cost.html",
+            "published": "Tue, 15 Apr 2025 15:47:36 +0000"
+        },
+        {
+            "title": "The Techno-Utopian Seasteaders Who Want to Colonize the Ocean",
+            "link": "https://www.nytimes.com/2025/04/15/magazine/seasteading-libertarian-ocean-living.html",
+            "published": "Tue, 15 Apr 2025 09:01:23 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "The perils of Trump's chips strategy: the US will struggle to take on Asia",
+            "link": "https://www.bbc.com/news/articles/cd9ljwgg9y0o",
+            "published": "Tue, 15 Apr 2025 23:39:32 GMT"
+        },
         {
             "title": "Minister's X account hacked to promote crypto scam",
             "link": "https://www.bbc.com/news/articles/cr5drp0n8zjo",
@@ -73,11 +78,6 @@
             "title": "What are semiconductors and why is Trump targeting them?",
             "link": "https://www.bbc.co.uk/news/technology-66394406",
             "published": "Mon, 14 Apr 2025 12:04:16 GMT"
-        },
-        {
-            "title": "Everyone's jumping on the AI doll trend - but what are the concerns?",
-            "link": "https://www.bbc.com/news/articles/c5yg690e9eno",
-            "published": "Fri, 11 Apr 2025 23:28:02 GMT"
         }
     ]
 }
