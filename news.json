@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI debuts Codex CLI, an open-source coding agent tool for terminals that links AI models with local code and computing tasks, like moving files (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250416/p39#a250416p39",
+            "published": "Wed, 16 Apr 2025 13:16:40 -0400"
+        },
+        {
+            "title": "OpenAI launches o3, its most advanced reasoning model, and o4-mini, a lower cost alternative that still delivers \"impressive results\", for ChatGPT paid users (Igor Bonifacic/Engadget)",
+            "link": "http://www.techmeme.com/250416/p38#a250416p38",
+            "published": "Wed, 16 Apr 2025 13:14:36 -0400"
+        },
+        {
+            "title": "Apple says it has reduced its global greenhouse gas emissions by over 60% vs. 2015 levels as part of its commitment to reach full carbon neutrality by 2030 (Hartley Charlton/MacRumors)",
+            "link": "http://www.techmeme.com/250416/p37#a250416p37",
+            "published": "Wed, 16 Apr 2025 12:45:01 -0400"
+        },
+        {
             "title": "Deezer says ~18% of songs uploaded to the service are AI-generated; 20K AI-generated songs are uploaded daily, nearly twice the number reported four months ago (Reuters)",
             "link": "http://www.techmeme.com/250416/p36#a250416p36",
             "published": "Wed, 16 Apr 2025 12:25:03 -0400"
@@ -9,21 +24,6 @@
             "title": "Q&A with Phil Spencer on A Minecraft Movie, potential IP for future movies, Microsoft's Hollywood goals, Fallout Season 2 and the Minecraft TV series, and more (Jennifer Maas/Variety)",
             "link": "http://www.techmeme.com/250416/p35#a250416p35",
             "published": "Wed, 16 Apr 2025 11:30:00 -0400"
-        },
-        {
-            "title": "Mark Zuckerberg says TikTok has been \"probably the highest competitive threat for Instagram and Facebook over the last few years\", in his third day of testimony (New York Times)",
-            "link": "http://www.techmeme.com/250416/p34#a250416p34",
-            "published": "Wed, 16 Apr 2025 11:20:02 -0400"
-        },
-        {
-            "title": "UBS: Nvidia's $5.5B inventory charge indicates ~$13B in actual H20 sales; Nvidia reported $17.11B in FY 2025 revenue from China, up from $10.31B in FY 2024 (Dan Gallagher/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250416/p33#a250416p33",
-            "published": "Wed, 16 Apr 2025 11:10:00 -0400"
-        },
-        {
-            "title": "Spotify is down in the US, Europe, and more; users reported issues from 8:00AM ET, and Spotify says it is \"aware of the outage\" and it is not \"a security hack\" (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250416/p32#a250416p32",
-            "published": "Wed, 16 Apr 2025 10:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "Thousands report Spotify problems around the world",
+            "title": "Spotify 'back and functioning normally' after global outage",
             "link": "https://www.bbc.com/news/articles/cde2rz199y5o",
-            "published": "Wed, 16 Apr 2025 15:03:27 GMT"
+            "published": "Wed, 16 Apr 2025 16:54:17 GMT"
         },
         {
             "title": "Trump's chips strategy: The US will struggle to take on Asia",
