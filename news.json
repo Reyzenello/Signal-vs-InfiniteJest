@@ -1,63 +1,63 @@
 {
     "techmeme": [
         {
+            "title": "Mark Zuckerberg says TikTok has been \"probably the highest competitive threat for Instagram and Facebook over the last few years\", in his third day of testimony (New York Times)",
+            "link": "http://www.techmeme.com/250416/p34#a250416p34",
+            "published": "Wed, 16 Apr 2025 11:20:02 -0400"
+        },
+        {
+            "title": "UBS: Nvidia's $5.5B inventory charge indicates ~$13B in actual H20 sales; Nvidia reported $17.11B in FY 2025 revenue from China, up from $10.31B in FY 2024 (Dan Gallagher/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250416/p33#a250416p33",
+            "published": "Wed, 16 Apr 2025 11:10:00 -0400"
+        },
+        {
+            "title": "Spotify is down in the US, Europe, and more; users reported issues from 8:00AM ET, and Spotify says it is \"aware of the outage\" and it is not \"a security hack\" (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250416/p32#a250416p32",
+            "published": "Wed, 16 Apr 2025 10:50:01 -0400"
+        },
+        {
+            "title": "Documents: ICE awarded Palantir nearly $30M in April 2025 to enhance its Investigative Case Management system, after a $90M, five-year deal in September 2022 (Joseph Cox/404 Media)",
+            "link": "http://www.techmeme.com/250416/p31#a250416p31",
+            "published": "Wed, 16 Apr 2025 10:40:01 -0400"
+        },
+        {
             "title": "Microsoft adds a \"computer use\" tool in Copilot Studio to let AI agents use websites and desktop apps; the feature is designed to detect UI changes dynamically (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250416/p30#a250416p30",
             "published": "Wed, 16 Apr 2025 10:25:04 -0400"
-        },
-        {
-            "title": "TikTok begins testing Footnotes, a Community Notes-like feature to add \"more context\" to videos, in the US; Footnotes won't affect algorithmic ranking (Karissa Bell/Engadget)",
-            "link": "http://www.techmeme.com/250416/p29#a250416p29",
-            "published": "Wed, 16 Apr 2025 10:10:01 -0400"
-        },
-        {
-            "title": "CISA says it will extend funding to Mitre, which runs the CVE Program, and \"there will be no lapse in critical CVE services\", after Mitre said funding expired (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/250416/p28#a250416p28",
-            "published": "Wed, 16 Apr 2025 09:50:02 -0400"
-        },
-        {
-            "title": "Nvidia GeForce RTX 5060 Ti 16GB review: great value and performance, and GDDR7 offers more bandwidth, but the GPU's pricing and availability remain uncertain (Jarred Walton/Tom's Hardware)",
-            "link": "http://www.techmeme.com/250416/p27#a250416p27",
-            "published": "Wed, 16 Apr 2025 09:45:01 -0400"
-        },
-        {
-            "title": "SEC filing: AMD estimates new US export rules for its MI308 chips to China will cost ~$800M in inventory, purchase commitments, and related reserves charges (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250416/p26#a250416p26",
-            "published": "Wed, 16 Apr 2025 09:30:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Tariff Confusion and Recession Fears Leave Advertisers \u2018Paralyzed\u2019",
+            "link": "https://www.nytimes.com/2025/04/16/business/media/tariffs-economy-recession-advertisers.html",
+            "published": "Wed, 16 Apr 2025 09:04:42 +0000"
+        },
+        {
+            "title": "Shein and Temu Will be Hit by Trump\u2019s China Tariffs. Americans Are Worried.",
+            "link": "https://www.nytimes.com/2025/04/16/business/tariffs-china-shein-temu.html",
+            "published": "Wed, 16 Apr 2025 14:39:13 +0000"
+        },
+        {
+            "title": "Taiwan\u2019s Chip Companies Are Caught in the U.S.-China Tariff War",
+            "link": "https://www.nytimes.com/2025/04/16/business/china-taiwan-tariffs-chips.html",
+            "published": "Wed, 16 Apr 2025 04:00:05 +0000"
+        },
         {
             "title": "Nvidia Says U.S. Will Restrict Sales of More of Its A.I. Chips to China",
             "link": "https://www.nytimes.com/2025/04/15/technology/nvidia-h20-chip-china-restrictions.html",
             "published": "Wed, 16 Apr 2025 01:37:25 +0000"
         },
         {
-            "title": "At Trial, Mark Zuckerberg Avoids Explaining Takeovers of Instagram and WhatsApp",
-            "link": "https://www.nytimes.com/2025/04/15/technology/meta-antitrust-trial-mark-zuckerberg.html",
-            "published": "Tue, 15 Apr 2025 21:49:12 +0000"
-        },
-        {
-            "title": "Why Antitrust Breakups of Google and Meta Could Be Difficult",
-            "link": "https://www.nytimes.com/2025/04/15/technology/antitrust-structure-deals-challenge.html",
-            "published": "Tue, 15 Apr 2025 22:24:33 +0000"
-        },
-        {
-            "title": "Trump Tariffs Could Raise iPhone Prices, But Affordable Options Remain",
-            "link": "https://www.nytimes.com/2025/04/15/technology/personaltech/trump-tariffs-iphone-cost.html",
-            "published": "Tue, 15 Apr 2025 15:47:36 +0000"
-        },
-        {
-            "title": "The Techno-Utopian Seasteaders Who Want to Colonize the Ocean",
-            "link": "https://www.nytimes.com/2025/04/15/magazine/seasteading-libertarian-ocean-living.html",
-            "published": "Tue, 15 Apr 2025 09:01:23 +0000"
+            "title": "At Meta Antitrust Trial, Zuckerberg Calls TikTok a Competitive Threat",
+            "link": "https://www.nytimes.com/2025/04/16/technology/zuckerberg-meta-antitrust-trial.html",
+            "published": "Wed, 16 Apr 2025 15:03:04 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Thousands report Spotify problems around the world",
             "link": "https://www.bbc.com/news/articles/cde2rz199y5o",
-            "published": "Wed, 16 Apr 2025 13:44:40 GMT"
+            "published": "Wed, 16 Apr 2025 15:03:27 GMT"
         },
         {
             "title": "Trump's chips strategy: The US will struggle to take on Asia",
