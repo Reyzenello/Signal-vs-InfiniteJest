@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The US FDA cleared Neuralink rival Precision Neuroscience in late March 2025 to offer a less invasive brain implant; the device contains 1,024 metal electrodes (Ike Swetlitz/Bloomberg)",
+            "link": "http://www.techmeme.com/250417/p16#a250417p16",
+            "published": "Thu, 17 Apr 2025 08:00:48 -0400"
+        },
+        {
             "title": "The Wikimedia Foundation partners with Kaggle to release a dataset of \"structured Wikipedia content in English and French\" optimized for AI model training (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/250417/p15#a250417p15",
             "published": "Thu, 17 Apr 2025 06:35:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Polish parcel locker operator InPost acquires UK delivery service Yodel, boosting its UK market share from 2% to ~8% and delivering 300M+ UK parcels annually (Konrad Krasuski/Bloomberg)",
             "link": "http://www.techmeme.com/250417/p12#a250417p12",
             "published": "Thu, 17 Apr 2025 05:10:00 -0400"
-        },
-        {
-            "title": "Sources: Nvidia has privately pushed back against new US export rules, arguing China can already make some H20-level chips; Nvidia sold ~$12B of H20s in FY 2024 (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250417/p11#a250417p11",
-            "published": "Thu, 17 Apr 2025 04:55:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Discord's face scanning age checks 'start of a bigger shift'",
+            "link": "https://www.bbc.com/news/articles/cjr75wypg0vo",
+            "published": "Thu, 17 Apr 2025 12:13:58 GMT"
+        },
+        {
             "title": "Tesla whistleblower wins latest legal battle in fight against Musk",
             "link": "https://www.bbc.com/news/articles/cevdz4yxpd9o",
             "published": "Thu, 17 Apr 2025 09:41:26 GMT"
@@ -73,11 +78,6 @@
             "title": "Shein and Temu warn tariffs will raise prices in US",
             "link": "https://www.bbc.com/news/articles/c3r8v2l8vwpo",
             "published": "Thu, 17 Apr 2025 05:04:18 GMT"
-        },
-        {
-            "title": "Trump's chips strategy: The US will struggle to take on Asia",
-            "link": "https://www.bbc.com/news/articles/cd9ljwgg9y0o",
-            "published": "Tue, 15 Apr 2025 23:39:32 GMT"
         }
     ]
 }
