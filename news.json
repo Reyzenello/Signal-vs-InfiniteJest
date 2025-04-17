@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google rolls out Gemini 2.5 Flash in preview, with support for Canvas for working on text or code; developers can disable thinking or set a token limit for it (Ryan Whitwam/Ars Technica)",
+            "link": "http://www.techmeme.com/250417/p36#a250417p36",
+            "published": "Thu, 17 Apr 2025 17:00:49 -0400"
+        },
+        {
+            "title": "Netflix says co-founder Reed Hastings has left his post as executive chairman to become chairman and non-executive director of the company (Dade Hayes/Deadline)",
+            "link": "http://www.techmeme.com/250417/p35#a250417p35",
+            "published": "Thu, 17 Apr 2025 16:35:00 -0400"
+        },
+        {
             "title": "Netflix reports Q1 revenue up 12.5% YoY to $10.54B, vs. $10.51B est., net income of $2.89B, and stops reporting subscriber numbers on a quarterly basis (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/250417/p34#a250417p34",
             "published": "Thu, 17 Apr 2025 16:10:02 -0400"
@@ -14,23 +24,13 @@
             "title": "Framework Laptop 13 review: it's modular and customizable, has a great keyboard and improved thermals, but it's pricey and the screen's brightness can be better (Kyle Barr/Gizmodo)",
             "link": "http://www.techmeme.com/250417/p32#a250417p32",
             "published": "Thu, 17 Apr 2025 15:40:01 -0400"
-        },
-        {
-            "title": "Google is offering its Google One AI Premium plan for free to US college students until spring 2026; students have until June 30, 2025, to sign up (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250417/p31#a250417p31",
-            "published": "Thu, 17 Apr 2025 15:05:03 -0400"
-        },
-        {
-            "title": "Global Payments shares plunge 15%+ and FIS shares jump 9%+ after Global Payments said it's buying Worldpay from FIS and GTCR and selling Issuer Solutions to FIS (MacKenzie Sigalos/CNBC)",
-            "link": "http://www.techmeme.com/250417/p30#a250417p30",
-            "published": "Thu, 17 Apr 2025 14:55:07 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Google Is Illegally Monopolizing Online Advertising Tech, Judge Rules",
             "link": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html",
-            "published": "Thu, 17 Apr 2025 18:38:02 +0000"
+            "published": "Thu, 17 Apr 2025 21:07:47 +0000"
         },
         {
             "title": "At Meta Antitrust Trial, Sheryl Sandberg Testifies About Competition and Instagram Deal",
@@ -57,7 +57,7 @@
         {
             "title": "Google has illegal advertising monopoly, judge rules",
             "link": "https://www.bbc.com/news/articles/c3674nl7g74o",
-            "published": "Thu, 17 Apr 2025 18:27:06 GMT"
+            "published": "Thu, 17 Apr 2025 21:15:07 GMT"
         },
         {
             "title": "Discord's face scanning age checks 'start of a bigger shift'",
