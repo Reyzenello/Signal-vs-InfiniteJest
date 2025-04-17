@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia CEO Jensen Huang arrived in China on April 16 and visited Beijing on April 17, a source says to meet officials to discuss Trump's new chip export rules (Financial Times)",
+            "link": "http://www.techmeme.com/250417/p13#a250417p13",
+            "published": "Thu, 17 Apr 2025 05:25:01 -0400"
+        },
+        {
+            "title": "Polish parcel locker operator InPost acquires UK delivery service Yodel, boosting its UK market share from 2% to ~8% and delivering 300M+ UK parcels annually (Konrad Krasuski/Bloomberg)",
+            "link": "http://www.techmeme.com/250417/p12#a250417p12",
+            "published": "Thu, 17 Apr 2025 05:10:00 -0400"
+        },
+        {
+            "title": "Sources: Nvidia has privately pushed back against new US export rules, arguing China can already make some H20-level chips; Nvidia sold ~$12B of H20s in FY 2024 (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250417/p11#a250417p11",
+            "published": "Thu, 17 Apr 2025 04:55:01 -0400"
+        },
+        {
+            "title": "In Q1 2025, AI and ML startups raised $73.1B, accounting for 57.9% of global VC funding, with OpenAI's recent round led by SoftBank contributing $40B (Jacob Robbins/PitchBook)",
+            "link": "http://www.techmeme.com/250417/p10#a250417p10",
+            "published": "Thu, 17 Apr 2025 04:40:02 -0400"
+        },
+        {
             "title": "Smashing, an AI-powered news and social media posts aggregation app by Goodreads co-founder Otis Chandler, shuts down, citing its inability to grow quickly (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/250417/p9#a250417p9",
             "published": "Thu, 17 Apr 2025 04:20:01 -0400"
-        },
-        {
-            "title": "Konvoy: the gaming industry saw 43 M&A transactions and 77 VC deals in Q1 2025, and the sector is projected to be worth $186B in 2026, a 4.7% YoY jump (Rachel Kaser/VentureBeat)",
-            "link": "http://www.techmeme.com/250417/p8#a250417p8",
-            "published": "Thu, 17 Apr 2025 04:05:08 -0400"
-        },
-        {
-            "title": "Workers and researchers say data annotation jobs that many Venezuelans relied on have become scarce and poorly paid with the rise of generative AI (Laura Rodr\u00edguez Salamanca/Rest of World)",
-            "link": "http://www.techmeme.com/250417/p7#a250417p7",
-            "published": "Thu, 17 Apr 2025 03:50:00 -0400"
-        },
-        {
-            "title": "US community colleges are battling a flood of fake, or bot, students who bilk financial aid by enrolling in online classes and submitting AI-generated work (Jakob McWhinney/Voice of San Diego)",
-            "link": "http://www.techmeme.com/250417/p6#a250417p6",
-            "published": "Thu, 17 Apr 2025 02:35:01 -0400"
-        },
-        {
-            "title": "Study: in South Korea, active YouTube users spent 210 minutes per day on the service in Q4, while Netflix subscribers spent 96 minutes per day on the streamer (Max Goldbart/Deadline)",
-            "link": "http://www.techmeme.com/250417/p5#a250417p5",
-            "published": "Thu, 17 Apr 2025 02:25:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Wed, 16 Apr 2025 14:47:43 +0000"
         },
         {
-            "title": "OpenAI Unveils New \u2018Reasoning\u2019 Models o3 and o4-mini",
-            "link": "https://www.nytimes.com/2025/04/16/technology/openai-reasoning-models-o3-o4-mini.html",
-            "published": "Wed, 16 Apr 2025 22:05:56 +0000"
+            "title": "What Mark Zuckerberg\u2019s Washington, D.C., Mansion Says About His Ideological Shifts",
+            "link": "https://www.nytimes.com/2025/04/17/realestate/mark-zuckerberg-washington-dc-mansion.html",
+            "published": "Thu, 17 Apr 2025 09:02:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Tesla whistleblower wins legal battle against Elon Musk",
+            "link": "https://www.bbc.com/news/articles/cevdz4yxpd9o",
+            "published": "Thu, 17 Apr 2025 01:16:50 GMT"
+        },
+        {
+            "title": "'Scammers used fake app to steal from me in person'",
+            "link": "https://www.bbc.com/news/articles/cn05d58jwvdo",
+            "published": "Thu, 17 Apr 2025 05:25:07 GMT"
+        },
         {
             "title": "Spotify 'back and functioning normally' after global outage",
             "link": "https://www.bbc.com/news/articles/cde2rz199y5o",
@@ -65,19 +75,9 @@
             "published": "Thu, 17 Apr 2025 05:04:18 GMT"
         },
         {
-            "title": "Tesla whistleblower wins legal battle against Elon Musk",
-            "link": "https://www.bbc.com/news/articles/cevdz4yxpd9o",
-            "published": "Thu, 17 Apr 2025 01:16:50 GMT"
-        },
-        {
             "title": "Trump's chips strategy: The US will struggle to take on Asia",
             "link": "https://www.bbc.com/news/articles/cd9ljwgg9y0o",
             "published": "Tue, 15 Apr 2025 23:39:32 GMT"
-        },
-        {
-            "title": "Minister's X account hacked to promote crypto scam",
-            "link": "https://www.bbc.com/news/articles/cr5drp0n8zjo",
-            "published": "Tue, 15 Apr 2025 11:26:55 GMT"
         }
     ]
 }
