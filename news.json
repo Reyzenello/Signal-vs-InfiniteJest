@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Santiago, Chile-based Toku, which helps businesses accept consumer payments, send payment reminders, and more, raised a $39M Series A led by Oak HC/FT (Jeff Kauflin/Forbes)",
-            "link": "http://www.techmeme.com/250417/p20#a250417p20",
-            "published": "Thu, 17 Apr 2025 11:15:02 -0400"
+            "title": "Goodfire, which works on decoding the inner workings of AI models, raised $50M led by Menlo; source: Anthropic invested $1M, its first startup investment (Rocket Drew/The Information)",
+            "link": "http://www.techmeme.com/250417/p25#a250417p25",
+            "published": "Thu, 17 Apr 2025 12:20:01 -0400"
         },
         {
-            "title": "A US judge says Google acted illegally to maintain a monopoly in some online advertising tech, the second time in a year a court found Google acted illegally (David McCabe/New York Times)",
-            "link": "http://www.techmeme.com/250417/p19#a250417p19",
-            "published": "Thu, 17 Apr 2025 10:57:16 -0400"
+            "title": "Instagram launches Blend, an invite-only, personalized Reels feed for users and their friends in a group chat with new content everyday (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/250417/p24#a250417p24",
+            "published": "Thu, 17 Apr 2025 12:10:01 -0400"
         },
         {
-            "title": "Leaked email: the US CFPB plans a 50% reduction in supervisory activities and a shift in focus from fintech companies back to traditional banks (Paige Smith/Bloomberg)",
-            "link": "http://www.techmeme.com/250417/p18#a250417p18",
-            "published": "Thu, 17 Apr 2025 10:40:04 -0400"
+            "title": "The DOJ and 17 US states that brought the antitrust case seek to force Google to sell off its \"network\" ad business, which is ~12% of Alphabet's total revenue (Axios)",
+            "link": "http://www.techmeme.com/250417/p23#a250417p23",
+            "published": "Thu, 17 Apr 2025 11:55:03 -0400"
         },
         {
-            "title": "Global Payments acquires the 45% stake in Worldpay that Fidelity still owned and buys the 55% held by PE firm GTCR, in a deal valuing Worldpay at $24.3B (Steve Dickson/Bloomberg)",
-            "link": "http://www.techmeme.com/250417/p17#a250417p17",
-            "published": "Thu, 17 Apr 2025 09:15:13 -0400"
+            "title": "Google says \"we won half of this case and we will appeal the other half\" of the US antitrust ruling, and \"we disagree\" with the decision on its publisher tools (@newsfromgoogle)",
+            "link": "http://www.techmeme.com/250417/p22#a250417p22",
+            "published": "Thu, 17 Apr 2025 11:50:01 -0400"
         },
         {
-            "title": "The US FDA cleared Neuralink rival Precision Neuroscience in late March 2025 to offer a less invasive brain implant; the device contains 1,024 metal electrodes (Ike Swetlitz/Bloomberg)",
-            "link": "http://www.techmeme.com/250417/p16#a250417p16",
-            "published": "Thu, 17 Apr 2025 08:00:48 -0400"
+            "title": "In her ruling, Judge Brinkema says Google did not meet the monopoly definition for tools used to buy display ads, but did for ad exchanges and website ad tools (Bloomberg)",
+            "link": "http://www.techmeme.com/250417/p21#a250417p21",
+            "published": "Thu, 17 Apr 2025 11:40:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Google Is a Monopolist in Online Advertising Tech, Judge Says",
             "link": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html",
-            "published": "Thu, 17 Apr 2025 14:56:18 +0000"
+            "published": "Thu, 17 Apr 2025 15:29:47 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Google has illegal advertising monopoly, judge rules",
+            "link": "https://www.bbc.com/news/articles/c3674nl7g74o",
+            "published": "Thu, 17 Apr 2025 16:09:34 GMT"
+        },
         {
             "title": "Discord's face scanning age checks 'start of a bigger shift'",
             "link": "https://www.bbc.com/news/articles/cjr75wypg0vo",
@@ -73,11 +78,6 @@
             "title": "Spotify 'back and functioning normally' after global outage",
             "link": "https://www.bbc.com/news/articles/cde2rz199y5o",
             "published": "Wed, 16 Apr 2025 16:54:17 GMT"
-        },
-        {
-            "title": "Shein and Temu warn tariffs will raise prices in US",
-            "link": "https://www.bbc.com/news/articles/c3r8v2l8vwpo",
-            "published": "Thu, 17 Apr 2025 05:04:18 GMT"
         }
     ]
 }
