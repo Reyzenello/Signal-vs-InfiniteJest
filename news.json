@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Amazon plans to release its first TV streaming device with its Vega OS, used in some Echo devices, in 2025 and is courting publishers to add their apps (Janko Roettgers/Lowpass)",
+            "link": "http://www.techmeme.com/250417/p29#a250417p29",
+            "published": "Thu, 17 Apr 2025 14:20:02 -0400"
+        },
+        {
+            "title": "Sources: Tim Cook spoke to the US Commerce Secretary last week about how tariffs could affect iPhone prices before Trump exempted products from Apple and others (Washington Post)",
+            "link": "http://www.techmeme.com/250417/p28#a250417p28",
+            "published": "Thu, 17 Apr 2025 13:55:04 -0400"
+        },
+        {
+            "title": "LMArena says it's starting a company, whose corporate name will be Arena Intelligence, with plans to raise money, and releases a new beta version of its website (Rachel Metz/Bloomberg)",
+            "link": "http://www.techmeme.com/250417/p27#a250417p27",
+            "published": "Thu, 17 Apr 2025 13:40:00 -0400"
+        },
+        {
             "title": "New Jersey's AG sues Discord, alleging the platform's features to keep children under 13 safe from sexual predators and harmful content are inadequate (Justin Ling/Wired)",
             "link": "http://www.techmeme.com/250417/p26#a250417p26",
             "published": "Thu, 17 Apr 2025 12:55:00 -0400"
@@ -9,28 +24,13 @@
             "title": "Goodfire, which works on decoding the inner workings of AI models, raised $50M led by Menlo; source: Anthropic invested $1M, its first startup investment (Rocket Drew/The Information)",
             "link": "http://www.techmeme.com/250417/p25#a250417p25",
             "published": "Thu, 17 Apr 2025 12:20:01 -0400"
-        },
-        {
-            "title": "Instagram launches Blend, an invite-only, personalized Reels feed for users and their friends in a group chat with new content everyday (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/250417/p24#a250417p24",
-            "published": "Thu, 17 Apr 2025 12:10:01 -0400"
-        },
-        {
-            "title": "The DOJ and 17 US states that brought the antitrust case seek to force Google to sell off its \"network\" ad business, which is ~12% of Alphabet's total revenue (Axios)",
-            "link": "http://www.techmeme.com/250417/p23#a250417p23",
-            "published": "Thu, 17 Apr 2025 11:55:03 -0400"
-        },
-        {
-            "title": "Google says \"we won half of this case and we will appeal the other half\" of the US antitrust ruling, and \"we disagree\" with the decision on its publisher tools (@newsfromgoogle)",
-            "link": "http://www.techmeme.com/250417/p22#a250417p22",
-            "published": "Thu, 17 Apr 2025 11:50:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Google Is Illegally Monopolizing Online Advertising Tech, Judge Rules",
             "link": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html",
-            "published": "Thu, 17 Apr 2025 16:56:40 +0000"
+            "published": "Thu, 17 Apr 2025 17:30:21 +0000"
         },
         {
             "title": "At Meta Antitrust Trial, Sheryl Sandberg Testifies About Competition and Instagram Deal",
@@ -45,7 +45,7 @@
         {
             "title": "Nvidia C.E.O. Meets With Chinese Trade Officials in Beijing",
             "link": "https://www.nytimes.com/2025/04/17/business/nvidia-china-tariffs-chips-jensen-huang.html",
-            "published": "Thu, 17 Apr 2025 13:42:23 +0000"
+            "published": "Thu, 17 Apr 2025 18:21:01 +0000"
         },
         {
             "title": "OpenAI Unveils New \u2018Reasoning\u2019 Models o3 and o4-mini",
@@ -57,12 +57,12 @@
         {
             "title": "Google has illegal advertising monopoly, judge rules",
             "link": "https://www.bbc.com/news/articles/c3674nl7g74o",
-            "published": "Thu, 17 Apr 2025 17:00:51 GMT"
+            "published": "Thu, 17 Apr 2025 18:27:06 GMT"
         },
         {
             "title": "Discord's face scanning age checks 'start of a bigger shift'",
             "link": "https://www.bbc.com/news/articles/cjr75wypg0vo",
-            "published": "Thu, 17 Apr 2025 12:13:58 GMT"
+            "published": "Thu, 17 Apr 2025 18:13:56 GMT"
         },
         {
             "title": "Tesla whistleblower wins latest legal battle in fight against Musk",
