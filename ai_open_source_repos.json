@@ -42,16 +42,16 @@
         "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
     },
     {
-        "name": "-Prototype-AIVTuber",
-        "full_name": "ponlponl123/-Prototype-AIVTuber",
-        "html_url": "https://github.com/ponlponl123/-Prototype-AIVTuber",
-        "description": "a open-source Artificial Intelligence Virtual Youtuber (AI VTuber), (this project is deprecated)"
-    },
-    {
         "name": "taranis-ai",
         "full_name": "taranis-ai/taranis-ai",
         "html_url": "https://github.com/taranis-ai/taranis-ai",
         "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis."
+    },
+    {
+        "name": "-Prototype-AIVTuber",
+        "full_name": "ponlponl123/-Prototype-AIVTuber",
+        "html_url": "https://github.com/ponlponl123/-Prototype-AIVTuber",
+        "description": "a open-source Artificial Intelligence Virtual Youtuber (AI VTuber), (this project is deprecated)"
     },
     {
         "name": "YC-Killer",
