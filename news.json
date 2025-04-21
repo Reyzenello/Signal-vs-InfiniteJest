@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "Judge overseeing hearing on fixing Google's monopoly questioned if DOJ's proposal to force a sale of Chrome met the \"causation\" standard for a structural remedy (Erin Woo/The Information)",
+            "link": "http://www.techmeme.com/250421/p15#a250421p15",
+            "published": "Mon, 21 Apr 2025 16:15:09 -0400"
+        },
+        {
             "title": "Airbnb now shows the full cost of a stay, excluding taxes, in search results by default; a Biden-era FTC rule on \"junk fees\" is set to go into effect on May 12 (Natalie Lung/Bloomberg)",
             "link": "http://www.techmeme.com/250421/p14#a250421p14",
             "published": "Mon, 21 Apr 2025 15:20:01 -0400"
         },
         {
-            "title": "After Meta blocked news on its platforms in Canada, misleading content from right-wing Facebook pages like Canada Proud has surged ahead of the federal election (New York Times)",
+            "title": "After Meta blocked news on its platforms in Canada, misleading content from right-wing pages like Canada Proud filled the gap ahead of the federal election (New York Times)",
             "link": "http://www.techmeme.com/250421/p13#a250421p13",
             "published": "Mon, 21 Apr 2025 14:20:01 -0400"
         },
@@ -19,18 +24,13 @@
             "title": "The US FTC sues Uber, claiming the company charged for Uber One without consent, made it difficult to cancel, and failed to deliver promised savings (Annie Palmer/CNBC)",
             "link": "http://www.techmeme.com/250421/p11#a250421p11",
             "published": "Mon, 21 Apr 2025 13:24:16 -0400"
-        },
-        {
-            "title": "Report: over a thousand international students have had US immigration statuses terminated in 2025; a Caltech ML professor says it's harming the talent pipeline (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250421/p10#a250421p10",
-            "published": "Mon, 21 Apr 2025 13:10:00 -0400"
         }
     ],
     "source_1": [
         {
             "title": "U.S. Asks Judge to Break Up Google",
             "link": "https://www.nytimes.com/2025/04/21/technology/google-search-remedies-hearing.html",
-            "published": "Mon, 21 Apr 2025 18:38:16 +0000"
+            "published": "Mon, 21 Apr 2025 19:53:50 +0000"
         },
         {
             "title": "Will a Federal Judge Break Up Google?",
@@ -38,9 +38,9 @@
             "published": "Mon, 21 Apr 2025 13:17:17 +0000"
         },
         {
-            "title": "Canadians Confront News Void on Facebook and Instagram as Election Nears",
+            "title": "As Election Nears, Canadians Confront News Void on Facebook and Instagram",
             "link": "https://www.nytimes.com/2025/04/21/technology/canada-election-facebook-instagram-meta.html",
-            "published": "Mon, 21 Apr 2025 16:51:20 +0000"
+            "published": "Mon, 21 Apr 2025 19:38:18 +0000"
         },
         {
             "title": "Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72",
