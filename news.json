@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Several VCs say they fear Trump's tariffs could slow down tech investments, further decelerate the market for IPOs, and put some tech startups out of business (Lauren Goode/Wired)",
-            "link": "http://www.techmeme.com/250422/p10#a250422p10",
-            "published": "Tue, 22 Apr 2025 10:55:01 -0400"
+            "title": "The Washington Post partners with OpenAI to make its content \"more accessible\" in ChatGPT; OpenAI says it now has similar deals with 20+ other publishers (Todd Spangler/Variety)",
+            "link": "http://www.techmeme.com/250422/p15#a250422p15",
+            "published": "Tue, 22 Apr 2025 12:30:02 -0400"
         },
         {
-            "title": "Docs: in July 2024, Amazon set up Project Greenland to manage and optimize GPU allocation across its retail unit; Amazon says it now has \"ample\" GPU capacity (Eugene Kim/Business Insider)",
-            "link": "http://www.techmeme.com/250422/p9#a250422p9",
-            "published": "Tue, 22 Apr 2025 09:25:01 -0400"
+            "title": "Sources: Apple's new Siri engineering chief Mike Rockwell is replacing much of Siri's leadership with top Vision Pro software execs, and is restructuring teams (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250422/p14#a250422p14",
+            "published": "Tue, 22 Apr 2025 12:25:01 -0400"
         },
         {
-            "title": "A survey of US teens and parents: 48% of teens say social media harms people their age, up from 32% in 2022, and girls' experiences skew more negative at times (Pew Research Center)",
-            "link": "http://www.techmeme.com/250422/p8#a250422p8",
-            "published": "Tue, 22 Apr 2025 07:50:00 -0400"
+            "title": "Boeing agrees to sell parts of its digital aviation unit, including software maker Jeppesen and navigation app ForeFlight, to Thoma Bravo for $10.55B in cash (Financial Times)",
+            "link": "http://www.techmeme.com/250422/p13#a250422p13",
+            "published": "Tue, 22 Apr 2025 12:10:04 -0400"
         },
         {
-            "title": "Manychat, which offers social messaging tools for brands, raised a $140M Series B led by Summit, after an $18M Series A in 2019, and says it has ~1.5M customers (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250422/p7#a250422p7",
-            "published": "Tue, 22 Apr 2025 07:30:01 -0400"
+            "title": "Global PC shipments rose 6.7% YoY in Q1 2025 driven by anticipation of US tariffs and growing adoption of AI PCs; Apple rose 17% YoY and Lenovo jumped 11% YoY (Counterpoint Research)",
+            "link": "http://www.techmeme.com/250422/p12#a250422p12",
+            "published": "Tue, 22 Apr 2025 12:05:02 -0400"
         },
         {
-            "title": "A draft executive order sent to US agencies shows the Trump administration is considering issuing an order to create a policy integrating AI into K-12 education (Frances Vinall/Washington Post)",
-            "link": "http://www.techmeme.com/250422/p6#a250422p6",
-            "published": "Tue, 22 Apr 2025 06:55:01 -0400"
+            "title": "The US DOJ says Google backed off more restrictive Gemini distribution deals, partly due to its case; Google says rivals talked to Samsung about chatbot deals (Erin Woo/The Information)",
+            "link": "http://www.techmeme.com/250422/p11#a250422p11",
+            "published": "Tue, 22 Apr 2025 11:50:01 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,21 @@
             "published": "Sat, 19 Apr 2025 16:44:22 +0000"
         },
         {
-            "title": "Tesla\u2019s Falling Profit May Pressure Elon Musk to Return to Day Job",
-            "link": "https://www.nytimes.com/2025/04/22/business/tesla-earnings-elon-musk.html",
-            "published": "Tue, 22 Apr 2025 14:27:08 +0000"
+            "title": "At Meta Trial, Instagram Co-Founder Says Startup Was Thriving Before Acquisition",
+            "link": "https://www.nytimes.com/2025/04/22/technology/meta-trial-instagram-kevin-systrom.html",
+            "published": "Tue, 22 Apr 2025 16:29:12 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "M&S says cyber 'incident' hitting click and collect orders",
+            "title": "Gamers shocked as Elder Scrolls IV revealed and launched on same day",
+            "link": "https://www.bbc.com/news/articles/c5y42wvjrd3o",
+            "published": "Tue, 22 Apr 2025 16:32:53 GMT"
+        },
+        {
+            "title": "Cyber attack on M&S leads to click and collect delays",
             "link": "https://www.bbc.com/news/articles/c9djvzwn858o",
-            "published": "Tue, 22 Apr 2025 15:16:19 GMT"
+            "published": "Tue, 22 Apr 2025 15:56:38 GMT"
         },
         {
             "title": "Films made with AI can win Oscars, Academy says",
@@ -73,11 +78,6 @@
             "title": "I won't put my relationships online again, says Lilly Sabri",
             "link": "https://www.bbc.com/news/articles/c4g22mvmkmeo",
             "published": "Sat, 19 Apr 2025 01:29:31 GMT"
-        },
-        {
-            "title": "Designed in US, made in China: Why Apple is stuck",
-            "link": "https://www.bbc.com/news/articles/czx17361pw1o",
-            "published": "Fri, 18 Apr 2025 22:56:24 GMT"
         }
     ]
 }
