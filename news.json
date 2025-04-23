@@ -1,63 +1,68 @@
 {
     "techmeme": [
         {
+            "title": "The FBI says cybercriminals and online scammers stole a record $16.6B in 2024, up from $12.5B in 2023; over 60s lost $4.8B, including $1.8B via investment scams (Kevin Collier/NBC News)",
+            "link": "http://www.techmeme.com/250423/p30#a250423p30",
+            "published": "Wed, 23 Apr 2025 10:20:01 -0400"
+        },
+        {
+            "title": "Roku updates its $30 Streaming Stick and $40 Streaming Stick Plus, saying they are \"the most compact sticks on the market\", and unveils new software updates (Chris Welch/The Verge)",
+            "link": "http://www.techmeme.com/250423/p29#a250423p29",
+            "published": "Wed, 23 Apr 2025 10:10:02 -0400"
+        },
+        {
+            "title": "Nvidia announces the general availability of its NeMo platform to build AI agents, supporting Meta's Llama, Microsoft's Phi, Google's Gemma, and Mistral (Kyt Dotson/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250423/p28#a250423p28",
+            "published": "Wed, 23 Apr 2025 09:55:05 -0400"
+        },
+        {
+            "title": "Endor Labs, which scans AI-generated code for vulnerabilities, raised a $93M Series B, taking its total funding to $163M, and says it performs 1M+ weekly scans (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250423/p27#a250423p27",
+            "published": "Wed, 23 Apr 2025 09:40:03 -0400"
+        },
+        {
             "title": "Microsoft launches new OpenAI-powered AI agents, Researcher and Analyst, designed to function as digital colleagues, available via its Agent Store (Michael Nu\u00f1ez/VentureBeat)",
             "link": "http://www.techmeme.com/250423/p26#a250423p26",
             "published": "Wed, 23 Apr 2025 09:25:08 -0400"
-        },
-        {
-            "title": "Chainguard, which helps companies secure software supply chains, raised a $356M Series D led by Kleiner and IVP at a $3.5B valuation, up from $1.12B in 2024 (Allie Garfinkle/Fortune)",
-            "link": "http://www.techmeme.com/250423/p25#a250423p25",
-            "published": "Wed, 23 Apr 2025 09:15:01 -0400"
-        },
-        {
-            "title": "On the 20th birthday of its first video, YouTube says it has had 20T+ uploads, including 20M+ daily now, and unveils app and TV updates, including new Multiview (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/250423/p24#a250423p24",
-            "published": "Wed, 23 Apr 2025 09:10:09 -0400"
-        },
-        {
-            "title": "London and Tel Aviv-based Cynomi, which offers a \"virtual CISO\" for SMBs, raised a $37M Series B, sources say at a $140M+ post-money valuation (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250423/p23#a250423p23",
-            "published": "Wed, 23 Apr 2025 09:01:12 -0400"
-        },
-        {
-            "title": "Nintendo says Switch 2 preorder demand in Japan \"far exceeds expectations\" and 2.2M applied via a lottery; Nintendo is offering a cheaper, region-locked model (Tom Phillips/Eurogamer.net)",
-            "link": "http://www.techmeme.com/250423/p22#a250423p22",
-            "published": "Wed, 23 Apr 2025 08:45:02 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "U.S. Asks Judge to Break Up Google",
-            "link": "https://www.nytimes.com/2025/04/21/technology/google-search-remedies-hearing.html",
-            "published": "Mon, 21 Apr 2025 19:53:50 +0000"
+            "title": "At Meta\u2019s Antitrust Trial, a Bygone Internet Era Comes Back to Life",
+            "link": "https://www.nytimes.com/2025/04/23/technology/meta-trial-silicon-valley-social-apps.html",
+            "published": "Wed, 23 Apr 2025 13:43:45 +0000"
         },
         {
-            "title": "FTC Sues Uber Over Billing for Its Uber One Subscription Service",
-            "link": "https://www.nytimes.com/2025/04/21/technology/uber-one-lawsuit-ftc.html",
-            "published": "Mon, 21 Apr 2025 20:28:15 +0000"
-        },
-        {
-            "title": "As Election Nears, Canadians Confront News Void on Facebook and Instagram",
-            "link": "https://www.nytimes.com/2025/04/21/technology/canada-election-facebook-instagram-meta.html",
-            "published": "Mon, 21 Apr 2025 19:38:18 +0000"
-        },
-        {
-            "title": "Mike Wood, Whose LeapFrog Toys Taught a Generation, Dies at 72",
-            "link": "https://www.nytimes.com/2025/04/19/business/michael-c-wood-dead.html",
-            "published": "Sat, 19 Apr 2025 16:44:22 +0000"
+            "title": "EU Fines Apple and Meta Total of $800 Million in First Use of Digital Competition Law",
+            "link": "https://www.nytimes.com/2025/04/23/technology/apple-meta-eu-fines-competition-law.html",
+            "published": "Wed, 23 Apr 2025 13:17:36 +0000"
         },
         {
             "title": "Time-Saving New iPhone and Android Features You Might Have Missed",
             "link": "https://www.nytimes.com/2025/04/23/technology/personaltech/iphone-android-phone-updates.html",
             "published": "Wed, 23 Apr 2025 13:00:12 +0000"
+        },
+        {
+            "title": "At Meta Trial, Instagram Co-Founder Says Startup Was Denied Resources",
+            "link": "https://www.nytimes.com/2025/04/22/technology/meta-trial-instagram-kevin-systrom.html",
+            "published": "Tue, 22 Apr 2025 21:21:06 +0000"
+        },
+        {
+            "title": "Tesla Profits Drop 71% Amid Backlash to Elon Musk\u2019s Role Under Trump",
+            "link": "https://www.nytimes.com/2025/04/22/business/tesla-earnings-elon-musk.html",
+            "published": "Wed, 23 Apr 2025 14:00:42 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "WhatsApp defends 'optional' AI tool that cannot be turned off",
+            "link": "https://www.bbc.com/news/articles/cd7vzw78gz9o",
+            "published": "Wed, 23 Apr 2025 14:26:00 GMT"
+        },
+        {
             "title": "Apple and Meta attack 'unfair' \u20ac700m EU fines",
             "link": "https://www.bbc.com/news/articles/cm248vzg9jwo",
-            "published": "Wed, 23 Apr 2025 11:43:28 GMT"
+            "published": "Wed, 23 Apr 2025 14:02:52 GMT"
         },
         {
             "title": "ChatGPT-maker wants to buy Google Chrome",
@@ -73,11 +78,6 @@
             "title": "Instagram still posing serious risks to children, campaigners say",
             "link": "https://www.bbc.com/news/articles/c8epyx0y1zdo",
             "published": "Wed, 23 Apr 2025 01:50:01 GMT"
-        },
-        {
-            "title": "Gamers shocked as Elder Scrolls IV revealed and launched on same day",
-            "link": "https://www.bbc.com/news/articles/c5y42wvjrd3o",
-            "published": "Tue, 22 Apr 2025 16:32:53 GMT"
         }
     ]
 }
