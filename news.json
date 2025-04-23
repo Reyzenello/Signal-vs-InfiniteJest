@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Noxtua, which develops AI tech to research, analyze, and draft legal documents, raised an \u20ac80.7M Series B led by C.H. Beck, Germany's leading legal publisher (Mike Butcher/TechCrunch)",
-            "link": "http://www.techmeme.com/250423/p9#a250423p9",
-            "published": "Wed, 23 Apr 2025 04:20:01 -0400"
+            "title": "FTC v. Meta: the first two weeks have been like entering a time warp, focusing on long-dead apps like Path, underscoring the FTC's challenge in bringing a case (New York Times)",
+            "link": "http://www.techmeme.com/250423/p15#a250423p15",
+            "published": "Wed, 23 Apr 2025 06:30:02 -0400"
         },
         {
-            "title": "A look at New Mexico's efforts to become a quantum computing hub through partnerships between the state, its universities, and national labs and companies (Belle Lin/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250423/p8#a250423p8",
-            "published": "Wed, 23 Apr 2025 04:05:03 -0400"
+            "title": "Trump's chip tariffs may lead to even more overseas manufacturing to offset costs, not creating self-sufficiency; the US should focus on China's chip subsidies (Chris Miller/Financial Times)",
+            "link": "http://www.techmeme.com/250423/p14#a250423p14",
+            "published": "Wed, 23 Apr 2025 06:20:01 -0400"
         },
         {
-            "title": "Study: models like OpenAI's o3 outperform expert virologists in wet lab problem-solving, which might accelerate research but could also be abused by bad actors (Andrew R. Chow/Time)",
-            "link": "http://www.techmeme.com/250423/p7#a250423p7",
-            "published": "Wed, 23 Apr 2025 02:35:02 -0400"
+            "title": "How Nike and US manufacturer Flex's plan to automate sneaker production in Guadalajara ran into trouble, with factory robots struggling to handle soft materials (Jon Emont/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250423/p13#a250423p13",
+            "published": "Wed, 23 Apr 2025 06:05:01 -0400"
         },
         {
-            "title": "The UN says the ~$40B cybercrime call center industry, tied to East and Southeast Asian crime syndicates, is expanding globally to regions with weak governance (Connor Jones/The Register)",
-            "link": "http://www.techmeme.com/250423/p6#a250423p6",
-            "published": "Wed, 23 Apr 2025 02:25:01 -0400"
+            "title": "The EU Commission fines Apple \u20ac500M and Meta \u20ac200M under the DMA and issues cease-and-desist orders; Apple says it will appeal, and Meta says it likely would (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250423/p12#a250423p12",
+            "published": "Wed, 23 Apr 2025 05:55:01 -0400"
         },
         {
-            "title": "Sources: Cursor maker Anysphere has reached ~$300M in ARR and declined an acquisition offer from OpenAI, which now aims to buy rival Windsurf, with $100M in ARR (TechCrunch)",
-            "link": "http://www.techmeme.com/250423/p5#a250423p5",
-            "published": "Wed, 23 Apr 2025 02:10:01 -0400"
+            "title": "Trump Media partners with Crypto.com and Florida-based Yorkville America Digital to launch ETFs by the end of 2025, as it moves into financial services (Matthew Goldstein/New York Times)",
+            "link": "http://www.techmeme.com/250423/p11#a250423p11",
+            "published": "Wed, 23 Apr 2025 05:50:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Sat, 19 Apr 2025 16:44:22 +0000"
         },
         {
-            "title": "At Meta\u2019s Antitrust Trial, a Bygone Internet Era Comes Back to Life",
-            "link": "https://www.nytimes.com/2025/04/23/technology/meta-trial-silicon-valley-social-apps.html",
-            "published": "Wed, 23 Apr 2025 09:03:40 +0000"
+            "title": "EU Fines Apple and Meta Total of $800 Million in First Use of Digital Competition Law",
+            "link": "https://www.nytimes.com/2025/04/23/technology/apple-meta-eu-fines-competition-law.html",
+            "published": "Wed, 23 Apr 2025 09:53:52 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "ChatGPT-maker wants to buy Google Chrome",
+            "link": "https://www.bbc.com/news/articles/c1dr6neg766o",
+            "published": "Wed, 23 Apr 2025 09:54:45 GMT"
+        },
         {
             "title": "Musk to reduce Doge role after Tesla profits plunge",
             "link": "https://www.bbc.com/news/articles/cy0x50yr46lo",
@@ -73,11 +78,6 @@
             "title": "Cyber attack on M&S leads to click and collect delays",
             "link": "https://www.bbc.com/news/articles/c9djvzwn858o",
             "published": "Tue, 22 Apr 2025 16:48:23 GMT"
-        },
-        {
-            "title": "Films made with AI can win Oscars, Academy says",
-            "link": "https://www.bbc.com/news/articles/cqx4y1lrz2vo",
-            "published": "Tue, 22 Apr 2025 11:15:11 GMT"
         }
     ]
 }
