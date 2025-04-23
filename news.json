@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Nourish, which offers virtual, insurance-covered nutritional care from 3,000+ dietitians, raised a $70M Series B led by JPM, sources say at a $1B+ valuation (Rebecca Torrence/Business Insider)",
+            "link": "http://www.techmeme.com/250423/p18#a250423p18",
+            "published": "Wed, 23 Apr 2025 07:20:01 -0400"
+        },
+        {
+            "title": "Geoffrey Hinton, other AI experts, and 10 former OpenAI staff, write to the CA and DE AGs opposing OpenAI's for-profit restructure, echoing Elon Musk's concerns (Cristina Criddle/Financial Times)",
+            "link": "http://www.techmeme.com/250423/p17#a250423p17",
+            "published": "Wed, 23 Apr 2025 07:05:01 -0400"
+        },
+        {
+            "title": "Samsung resumes rolling out One UI 7, per users on Reddit, X, and forums, after pausing it earlier in April, bringing new icons, a new camera UI, and more (Hadlee Simons/Android Authority)",
+            "link": "http://www.techmeme.com/250423/p16#a250423p16",
+            "published": "Wed, 23 Apr 2025 06:45:01 -0400"
+        },
+        {
             "title": "FTC v. Meta: the first two weeks have been like entering a time warp, focusing on long-dead apps like Path, underscoring the FTC's challenge in bringing a case (New York Times)",
             "link": "http://www.techmeme.com/250423/p15#a250423p15",
             "published": "Wed, 23 Apr 2025 06:30:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Trump's chip tariffs may lead to even more overseas manufacturing to offset costs, not creating self-sufficiency; the US should focus on China's chip subsidies (Chris Miller/Financial Times)",
             "link": "http://www.techmeme.com/250423/p14#a250423p14",
             "published": "Wed, 23 Apr 2025 06:20:01 -0400"
-        },
-        {
-            "title": "How Nike and US manufacturer Flex's plan to automate sneaker production in Guadalajara ran into trouble, with factory robots struggling to handle soft materials (Jon Emont/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250423/p13#a250423p13",
-            "published": "Wed, 23 Apr 2025 06:05:01 -0400"
-        },
-        {
-            "title": "The EU Commission fines Apple \u20ac500M and Meta \u20ac200M under the DMA and issues cease-and-desist orders; Apple says it will appeal, and Meta says it likely would (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250423/p12#a250423p12",
-            "published": "Wed, 23 Apr 2025 05:55:01 -0400"
-        },
-        {
-            "title": "Trump Media partners with Crypto.com and Florida-based Yorkville America Digital to launch ETFs by the end of 2025, as it moves into financial services (Matthew Goldstein/New York Times)",
-            "link": "http://www.techmeme.com/250423/p11#a250423p11",
-            "published": "Wed, 23 Apr 2025 05:50:02 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "EU Fines Apple and Meta Total of $800 Million in First Use of Digital Competition Law",
             "link": "https://www.nytimes.com/2025/04/23/technology/apple-meta-eu-fines-competition-law.html",
-            "published": "Wed, 23 Apr 2025 09:53:52 +0000"
+            "published": "Wed, 23 Apr 2025 11:05:10 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "EU hits Apple and Meta with \u20ac700m of fines",
+            "link": "https://www.bbc.com/news/articles/cm248vzg9jwo",
+            "published": "Wed, 23 Apr 2025 11:00:56 GMT"
+        },
         {
             "title": "ChatGPT-maker wants to buy Google Chrome",
             "link": "https://www.bbc.com/news/articles/c1dr6neg766o",
@@ -73,11 +78,6 @@
             "title": "Gamers shocked as Elder Scrolls IV revealed and launched on same day",
             "link": "https://www.bbc.com/news/articles/c5y42wvjrd3o",
             "published": "Tue, 22 Apr 2025 16:32:53 GMT"
-        },
-        {
-            "title": "Cyber attack on M&S leads to click and collect delays",
-            "link": "https://www.bbc.com/news/articles/c9djvzwn858o",
-            "published": "Tue, 22 Apr 2025 16:48:23 GMT"
         }
     ]
 }
