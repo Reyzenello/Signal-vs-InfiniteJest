@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "On the Apple Watch's 10th anniversary, a look at how Apple reshaped the watch industry and ushered in a new age of fitness tracking (Adrienne So/Wired)",
+            "link": "http://www.techmeme.com/250424/p19#a250424p19",
+            "published": "Thu, 24 Apr 2025 10:50:02 -0400"
+        },
+        {
             "title": "The EU unveils new mandatory labels for smartphones and tablets sold in the bloc that rate energy efficiency, durability, and repairability, starting June 20 (Dominic Preston/The Verge)",
             "link": "http://www.techmeme.com/250424/p18#a250424p18",
             "published": "Thu, 24 Apr 2025 09:20:00 -0400"
@@ -19,38 +24,33 @@
             "title": "Elon Musk is stepping back from DOGE in May, spending 1-2 days per week on government work, as tariffs, customer anger, and Chinese competition weigh on Tesla (Financial Times)",
             "link": "http://www.techmeme.com/250424/p15#a250424p15",
             "published": "Thu, 24 Apr 2025 07:20:02 -0400"
-        },
-        {
-            "title": "US v. Google: DuckDuckGo CEO Gabriel Weinberg testifies that Chrome is worth \"upwards of $50B if it went on the market\" based on \"back-of-the-envelope\" math (Bloomberg)",
-            "link": "http://www.techmeme.com/250424/p14#a250424p14",
-            "published": "Thu, 24 Apr 2025 06:15:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "At Meta\u2019s Antitrust Trial, a Bygone Internet Era Comes Back to Life",
-            "link": "https://www.nytimes.com/2025/04/23/technology/meta-trial-silicon-valley-social-apps.html",
-            "published": "Wed, 23 Apr 2025 13:43:46 +0000"
+            "title": "Chinese Factory Owners Use TikTok to Make Appeal to Americans: Buy Direct",
+            "link": "https://www.nytimes.com/2025/04/24/technology/chinese-factories-tiktok-trade-war.html",
+            "published": "Thu, 24 Apr 2025 04:00:05 +0000"
         },
         {
-            "title": "EU Fines Apple and Meta Total of $800 Million in First Use of Digital Competition Law",
-            "link": "https://www.nytimes.com/2025/04/23/technology/apple-meta-eu-fines-competition-law.html",
-            "published": "Thu, 24 Apr 2025 01:29:51 +0000"
+            "title": "Trump Offers a Private Dinner to Top 220 Investors in His Memecoin",
+            "link": "https://www.nytimes.com/2025/04/23/technology/trump-private-dinner-crypto-memecoin.html",
+            "published": "Wed, 23 Apr 2025 23:45:10 +0000"
         },
         {
-            "title": "Time-Saving New iPhone and Android Features You Might Have Missed",
-            "link": "https://www.nytimes.com/2025/04/23/technology/personaltech/iphone-android-phone-updates.html",
-            "published": "Wed, 23 Apr 2025 13:00:13 +0000"
+            "title": "Discord\u2019s Jason Citron Steps Down as CEO of the Social Chat App",
+            "link": "https://www.nytimes.com/2025/04/23/business/discord-jason-citron.html",
+            "published": "Wed, 23 Apr 2025 20:00:45 +0000"
+        },
+        {
+            "title": "Should We Start Taking the Welfare of A.I. Seriously?",
+            "link": "https://www.nytimes.com/2025/04/24/technology/ai-welfare-anthropic-claude.html",
+            "published": "Thu, 24 Apr 2025 15:09:53 +0000"
         },
         {
             "title": "The Cybercriminals Who Organized a $243 Million Crypto Heist",
             "link": "https://www.nytimes.com/2025/04/24/magazine/crybercrime-crypto-minecraft.html",
-            "published": "Thu, 24 Apr 2025 09:01:10 +0000"
-        },
-        {
-            "title": "On TikTok, Chinese Manufacturers Open a New Line in the Trade War",
-            "link": "https://www.nytimes.com/2025/04/24/technology/chinese-factories-tiktok-trade-war.html",
-            "published": "Thu, 24 Apr 2025 04:00:05 +0000"
+            "published": "Thu, 24 Apr 2025 14:27:00 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Overhaul algorithms and age checks or face fines, tech firms told",
             "link": "https://www.bbc.com/news/articles/c5yljn2vkn1o",
             "published": "Thu, 24 Apr 2025 11:20:59 GMT"
+        },
+        {
+            "title": "How can you keep your child safe online?",
+            "link": "https://www.bbc.co.uk/news/technology-68225707",
+            "published": "Thu, 24 Apr 2025 15:13:17 GMT"
         },
         {
             "title": "Trump crypto soars as president offers dinner to top holders",
@@ -73,11 +78,6 @@
             "title": "Apple and Meta attack 'unfair' \u20ac700m EU fines",
             "link": "https://www.bbc.com/news/articles/cm248vzg9jwo",
             "published": "Wed, 23 Apr 2025 15:46:36 GMT"
-        },
-        {
-            "title": "ChatGPT-maker wants to buy Google Chrome",
-            "link": "https://www.bbc.com/news/articles/c1dr6neg766o",
-            "published": "Wed, 23 Apr 2025 09:54:45 GMT"
         }
     ]
 }
