@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Revolut reports 2024 revenue up 72% YoY to \u00a33.1B, net profit up 149% YoY to \u00a31.1B, and wealth unit revenue up 298% YoY to \u00a3506M; its loan book grew 86% to \u00a3979M (Ryan Browne/CNBC)",
+            "link": "http://www.techmeme.com/250424/p10#a250424p10",
+            "published": "Thu, 24 Apr 2025 04:55:06 -0400"
+        },
+        {
+            "title": "STMicro reports Q1 revenue down 27.3% YoY to $2.52B, below its $2.51B guidance, and projects Q2 revenue down 16.2% YoY to $2.71B, excluding any tariff changes (Nathan Vifflin/Reuters)",
+            "link": "http://www.techmeme.com/250424/p9#a250424p9",
+            "published": "Thu, 24 Apr 2025 04:40:05 -0400"
+        },
+        {
             "title": "A look at the collapse of Stenn, an invoice financing startup that got major banks to unwittingly fund millions in suspect payments and was last valued at $900M (Bloomberg)",
             "link": "http://www.techmeme.com/250424/p8#a250424p8",
             "published": "Thu, 24 Apr 2025 04:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Q&A with Margaret Mitchell, an AI ethics researcher at Hugging Face, on the SHADES dataset, designed to test AI models for bias in languages beyond English (Reece Rogers/Wired)",
             "link": "http://www.techmeme.com/250424/p6#a250424p6",
             "published": "Thu, 24 Apr 2025 02:25:55 -0400"
-        },
-        {
-            "title": "Hands-on with Cluely's \"cheat on everything\" tool: the AI can't intuit what the user needs despite being given prior context and takes long to give a response (Victoria Song/The Verge)",
-            "link": "http://www.techmeme.com/250424/p5#a250424p5",
-            "published": "Thu, 24 Apr 2025 02:10:55 -0400"
-        },
-        {
-            "title": "Hackers have been using hijacked online brokerage accounts in Japan to drive up penny stocks globally in an illicit $700M trading spree since February 2025 (Bloomberg)",
-            "link": "http://www.techmeme.com/250424/p4#a250424p4",
-            "published": "Thu, 24 Apr 2025 02:00:01 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Wed, 23 Apr 2025 13:00:13 +0000"
         },
         {
+            "title": "The Cybercriminals Who Organized a $243 Million Crypto Heist",
+            "link": "https://www.nytimes.com/2025/04/24/magazine/crybercrime-crypto-minecraft.html",
+            "published": "Thu, 24 Apr 2025 09:01:10 +0000"
+        },
+        {
             "title": "On TikTok, Chinese Manufacturers Open a New Line in the Trade War",
             "link": "https://www.nytimes.com/2025/04/24/technology/chinese-factories-tiktok-trade-war.html",
             "published": "Thu, 24 Apr 2025 04:00:05 +0000"
-        },
-        {
-            "title": "Discord\u2019s Jason Citron Steps Down as CEO of the Social Chat App",
-            "link": "https://www.nytimes.com/2025/04/23/business/discord-jason-citron.html",
-            "published": "Wed, 23 Apr 2025 20:00:45 +0000"
         }
     ],
     "source_2": [
