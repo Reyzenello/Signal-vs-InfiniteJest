@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Report: Bluesky restricted access to 72 accounts in Turkey at the government's request; the accounts are available on third-party apps using the AT Protocol (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/250423/p59#a250423p59",
+            "published": "Wed, 23 Apr 2025 23:25:51 -0400"
+        },
+        {
             "title": "Meta's Oversight Board rules that two posts disparaging trans women aren't hate speech, in the first major test since Meta weakened its policies in January (Naomi Nix/Washington Post)",
             "link": "http://www.techmeme.com/250423/p58#a250423p58",
             "published": "Wed, 23 Apr 2025 22:50:04 -0400"
@@ -19,18 +24,13 @@
             "title": "Trump signs an EO to boost AI education and workforce training, and establishes an AI education task force led by White House OSTP Director Michael Kratsios (Stephanie Lai/Bloomberg)",
             "link": "http://www.techmeme.com/250423/p55#a250423p55",
             "published": "Wed, 23 Apr 2025 20:35:01 -0400"
-        },
-        {
-            "title": "Lyft plans to dispatch licensed taxis for the first time to US riders who have opted in, beginning in St. Louis on May 5; Uber has long let users hail taxis (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/250423/p54#a250423p54",
-            "published": "Wed, 23 Apr 2025 20:10:45 -0400"
         }
     ],
     "source_1": [
         {
             "title": "At Meta\u2019s Antitrust Trial, a Bygone Internet Era Comes Back to Life",
             "link": "https://www.nytimes.com/2025/04/23/technology/meta-trial-silicon-valley-social-apps.html",
-            "published": "Wed, 23 Apr 2025 13:43:45 +0000"
+            "published": "Wed, 23 Apr 2025 13:43:46 +0000"
         },
         {
             "title": "EU Fines Apple and Meta Total of $800 Million in First Use of Digital Competition Law",
@@ -40,20 +40,25 @@
         {
             "title": "Time-Saving New iPhone and Android Features You Might Have Missed",
             "link": "https://www.nytimes.com/2025/04/23/technology/personaltech/iphone-android-phone-updates.html",
-            "published": "Wed, 23 Apr 2025 13:00:12 +0000"
+            "published": "Wed, 23 Apr 2025 13:00:13 +0000"
+        },
+        {
+            "title": "On TikTok, Chinese Manufacturers Open a New Line in the Trade War",
+            "link": "https://www.nytimes.com/2025/04/24/technology/chinese-factories-tiktok-trade-war.html",
+            "published": "Thu, 24 Apr 2025 04:00:04 +0000"
         },
         {
             "title": "Discord\u2019s Jason Citron Steps Down as CEO of the Social Chat App",
             "link": "https://www.nytimes.com/2025/04/23/business/discord-jason-citron.html",
             "published": "Wed, 23 Apr 2025 20:00:45 +0000"
-        },
-        {
-            "title": "Trump Offers a Private Dinner to Top 220 Investors in His Memecoin",
-            "link": "https://www.nytimes.com/2025/04/23/technology/trump-private-dinner-crypto-memecoin.html",
-            "published": "Wed, 23 Apr 2025 23:45:10 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump crypto soars as president offers dinner to top holders",
+            "link": "https://www.bbc.com/news/articles/ce8g2kpzx0go",
+            "published": "Thu, 24 Apr 2025 03:55:07 GMT"
+        },
         {
             "title": "WhatsApp defends 'optional' AI tool that cannot be turned off",
             "link": "https://www.bbc.com/news/articles/cd7vzw78gz9o",
@@ -73,11 +78,6 @@
             "title": "Musk to reduce Doge role after Tesla profits plunge",
             "link": "https://www.bbc.com/news/articles/cy0x50yr46lo",
             "published": "Wed, 23 Apr 2025 09:16:40 GMT"
-        },
-        {
-            "title": "Instagram still posing serious risks to children, campaigners say",
-            "link": "https://www.bbc.com/news/articles/c8epyx0y1zdo",
-            "published": "Wed, 23 Apr 2025 16:01:05 GMT"
         }
     ]
 }
