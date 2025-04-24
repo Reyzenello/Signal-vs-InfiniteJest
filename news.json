@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "ServiceNow reports Q1 revenue up 19% YoY to $3.09B and gives an upbeat forecast; its CEO says it had \"very positive\" discussions with DOGE; NOW jumps 14%+ (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/250424/p22#a250424p22",
+            "published": "Thu, 24 Apr 2025 12:25:03 -0400"
+        },
+        {
+            "title": "Motorola unveils three new Razr models, including the $1,300 Razr Ultra flip phone with a 7-inch inner and 4-inch outer screen and wood option, shipping May 15 (Allison Johnson/The Verge)",
+            "link": "http://www.techmeme.com/250424/p21#a250424p21",
+            "published": "Thu, 24 Apr 2025 12:15:02 -0400"
+        },
+        {
+            "title": "An interview with Kyle Fish, who Anthropic hired in 2024 as a welfare researcher to study AI consciousness and estimates a ~15% chance that models are conscious (Kevin Roose/New York Times)",
+            "link": "http://www.techmeme.com/250424/p20#a250424p20",
+            "published": "Thu, 24 Apr 2025 12:00:50 -0400"
+        },
+        {
             "title": "On the Apple Watch's 10th anniversary, a look at how Apple reshaped the watch industry and ushered in a new age of fitness tracking (Adrienne So/Wired)",
             "link": "http://www.techmeme.com/250424/p19#a250424p19",
             "published": "Thu, 24 Apr 2025 10:50:02 -0400"
@@ -9,28 +24,13 @@
             "title": "The EU unveils new mandatory labels for smartphones and tablets sold in the bloc that rate energy efficiency, durability, and repairability, starting June 20 (Dominic Preston/The Verge)",
             "link": "http://www.techmeme.com/250424/p18#a250424p18",
             "published": "Thu, 24 Apr 2025 09:20:00 -0400"
-        },
-        {
-            "title": "VW and Uber unveil an ambitious plan to launch a commercial robotaxi service using ID. BUZZ vehicles in US cities over the next decade, starting in LA in 2026 (Kirsten Korosec/TechCrunch)",
-            "link": "http://www.techmeme.com/250424/p17#a250424p17",
-            "published": "Thu, 24 Apr 2025 08:45:01 -0400"
-        },
-        {
-            "title": "Framework Laptop 13 review: a matte 3:2 display, AMD's Ryzen AI CPU is the Laptop 13's fastest ever, and Copilot+, but some glitchiness and poor battery life (Andrew Cunningham/Ars Technica)",
-            "link": "http://www.techmeme.com/250424/p16#a250424p16",
-            "published": "Thu, 24 Apr 2025 07:45:00 -0400"
-        },
-        {
-            "title": "Elon Musk is stepping back from DOGE in May, spending 1-2 days per week on government work, as tariffs, customer anger, and Chinese competition weigh on Tesla (Financial Times)",
-            "link": "http://www.techmeme.com/250424/p15#a250424p15",
-            "published": "Thu, 24 Apr 2025 07:20:02 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Chinese Factory Owners Use TikTok to Make Appeal to Americans: Buy Direct",
+            "title": "Chinese Factory Owners Make Appeals to Americans on TikTok: Buy Direct",
             "link": "https://www.nytimes.com/2025/04/24/technology/chinese-factories-tiktok-trade-war.html",
-            "published": "Thu, 24 Apr 2025 04:00:05 +0000"
+            "published": "Thu, 24 Apr 2025 16:10:05 +0000"
         },
         {
             "title": "Trump Offers a Private Dinner to Top 220 Investors in His Memecoin",
@@ -43,17 +43,22 @@
             "published": "Wed, 23 Apr 2025 20:00:45 +0000"
         },
         {
+            "title": "Saying \u2018Thank You\u2019 to Chat GPT Is Costly. But Maybe It\u2019s Worth the Price.",
+            "link": "https://www.nytimes.com/2025/04/24/technology/chat-gpt-alexa-please-thank-you.html",
+            "published": "Thu, 24 Apr 2025 16:02:36 +0000"
+        },
+        {
             "title": "Should We Start Taking the Welfare of A.I. Seriously?",
             "link": "https://www.nytimes.com/2025/04/24/technology/ai-welfare-anthropic-claude.html",
             "published": "Thu, 24 Apr 2025 15:09:53 +0000"
-        },
-        {
-            "title": "The Cybercriminals Who Organized a $243 Million Crypto Heist",
-            "link": "https://www.nytimes.com/2025/04/24/magazine/crybercrime-crypto-minecraft.html",
-            "published": "Thu, 24 Apr 2025 14:27:00 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Cyber attack causes further chaos for M&S shoppers",
+            "link": "https://www.bbc.com/news/articles/cly802x1jz5o",
+            "published": "Thu, 24 Apr 2025 15:57:04 GMT"
+        },
         {
             "title": "Overhaul algorithms and age checks or face fines, tech firms told",
             "link": "https://www.bbc.com/news/articles/c5yljn2vkn1o",
@@ -73,11 +78,6 @@
             "title": "WhatsApp defends 'optional' AI tool that cannot be turned off",
             "link": "https://www.bbc.com/news/articles/cd7vzw78gz9o",
             "published": "Wed, 23 Apr 2025 14:26:00 GMT"
-        },
-        {
-            "title": "Apple and Meta attack 'unfair' \u20ac700m EU fines",
-            "link": "https://www.bbc.com/news/articles/cm248vzg9jwo",
-            "published": "Wed, 23 Apr 2025 15:46:36 GMT"
         }
     ]
 }
