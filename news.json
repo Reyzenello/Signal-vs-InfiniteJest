@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "George Hinton worries AI companies are under-investing in safety research, embracing military usage, and sharing model weights while pushing for less regulation (CBS Mornings on YouTube)",
+            "title": "A look at the sprawling network of group chats that began in 2020 as a place for SV leaders to talk candidly, with Marc Andreessen playing a central role (Ben Smith/Semafor)",
+            "link": "http://www.techmeme.com/250427/p18#a250427p18",
+            "published": "Sun, 27 Apr 2025 22:03:30 -0400"
+        },
+        {
+            "title": "Huawei's recovery shows the limits of US policies aimed at restricting China, and how those policies can backfire, spurring Chinese firms to innovate and grow (Samm Sacks/Bloomberg)",
+            "link": "http://www.techmeme.com/250427/p17#a250427p17",
+            "published": "Sun, 27 Apr 2025 20:50:01 -0400"
+        },
+        {
+            "title": "Geoffrey Hinton fears AI companies are under-investing in safety research, embracing military usage, and sharing model weights while pushing for less regulation (CBS Mornings on YouTube)",
             "link": "http://www.techmeme.com/250427/p16#a250427p16",
             "published": "Sun, 27 Apr 2025 19:20:02 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Analysis: Meesho accounts for about 37% of India's e-commerce orders, but only 8%-9% of the sector's total value due to the small average transaction size (Manish Singh/India Dispatch)",
             "link": "http://www.techmeme.com/250427/p14#a250427p14",
             "published": "Sun, 27 Apr 2025 17:05:01 -0400"
-        },
-        {
-            "title": "While Apple's iPhone manufacturing in India matches China in quality, making the extraordinarily complex 20th anniversary iPhones outside China remains doubtful (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/250427/p13#a250427p13",
-            "published": "Sun, 27 Apr 2025 14:25:00 -0400"
-        },
-        {
-            "title": "Architect Partners: crypto firms have struck 88 M&A and SPAC deals worth $8.2B so far in 2025, nearly 3x the $2.75B transaction value across 188 deals in 2024 (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250427/p12#a250427p12",
-            "published": "Sun, 27 Apr 2025 12:45:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Sat, 26 Apr 2025 08:42:17 GMT"
         },
         {
+            "title": "How Armenia is trying to build a Silicon Valley in the Caucasus",
+            "link": "https://www.bbc.com/news/articles/c2ew48p13y0o",
+            "published": "Sun, 27 Apr 2025 23:46:46 GMT"
+        },
+        {
             "title": "Overhaul algorithms and age checks or face fines, tech firms told",
             "link": "https://www.bbc.com/news/articles/c5yljn2vkn1o",
             "published": "Thu, 24 Apr 2025 11:20:59 GMT"
@@ -73,11 +78,6 @@
             "title": "Trump crypto soars as president offers dinner to top holders",
             "link": "https://www.bbc.com/news/articles/ce8g2kpzx0go",
             "published": "Thu, 24 Apr 2025 04:55:23 GMT"
-        },
-        {
-            "title": "WhatsApp defends 'optional' AI tool that cannot be turned off",
-            "link": "https://www.bbc.com/news/articles/cd7vzw78gz9o",
-            "published": "Wed, 23 Apr 2025 14:26:00 GMT"
         }
     ]
 }
