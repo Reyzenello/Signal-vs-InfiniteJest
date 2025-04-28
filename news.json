@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Tel Aviv-based Lightrun, an observability platform that uses AI to identify and debug code in production, raised a $70M Series B co-led by Accel and Insight (Ingrid Lunden/TechCrunch)",
+            "link": "http://www.techmeme.com/250428/p11#a250428p11",
+            "published": "Mon, 28 Apr 2025 09:05:01 -0400"
+        },
+        {
             "title": "IBM plans to invest $150B in the US over the next five years, including in R&D, to fuel the economy and \"accelerate its role as the global leader in computing\" (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/250428/p10#a250428p10",
             "published": "Mon, 28 Apr 2025 08:55:17 -0400"
@@ -19,14 +24,19 @@
             "title": "Spotify says it has paid $100M+ to podcast publishers and creators since January 2025 via a new creator program based on Premium subscribers' video engagement (Jessica Testa/New York Times)",
             "link": "http://www.techmeme.com/250428/p7#a250428p7",
             "published": "Mon, 28 Apr 2025 07:40:17 -0400"
-        },
-        {
-            "title": "Munich-based ARX Robotics, which makes self-driving, modular battlefield robots, raised \u20ac31M led by HV Capital and plans to build a plant in southwest England (Yazhou Sun/Bloomberg)",
-            "link": "http://www.techmeme.com/250428/p6#a250428p6",
-            "published": "Mon, 28 Apr 2025 06:15:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "American Children Sent to Honduras, and A.I. on the Battlefield",
+            "link": "https://www.nytimes.com/2025/04/28/podcasts/the-headlines/american-children-honduras-ukraine-trump.html",
+            "published": "Mon, 28 Apr 2025 10:02:19 +0000"
+        },
+        {
+            "title": "Inside The Mad Dash to Turn Division I Athletes Into Influencers",
+            "link": "https://www.nytimes.com/2025/04/27/business/unc-student-athlete-influencers.html",
+            "published": "Sun, 27 Apr 2025 09:00:25 +0000"
+        },
         {
             "title": "Israel\u2019s A.I. Experiments in Gaza War Raise Ethical Concerns",
             "link": "https://www.nytimes.com/2025/04/25/technology/israel-gaza-ai.html",
@@ -38,22 +48,17 @@
             "published": "Fri, 25 Apr 2025 11:00:06 +0000"
         },
         {
-            "title": "If A.I. Systems Become Conscious, Should They Have Rights?",
-            "link": "https://www.nytimes.com/2025/04/24/technology/ai-welfare-anthropic-claude.html",
-            "published": "Thu, 24 Apr 2025 16:57:41 +0000"
-        },
-        {
-            "title": "Google Parent Alphabet Reports 12% Increase in Revenue",
-            "link": "https://www.nytimes.com/2025/04/24/technology/google-alphabet-earnings.html",
-            "published": "Thu, 24 Apr 2025 23:16:43 +0000"
-        },
-        {
             "title": "Spotify Paid $100 Million to Podcasters as Creator Wars Heat Up",
             "link": "https://www.nytimes.com/2025/04/28/business/dealbook/spotify-100-million-paid-creators-podcast-video.html",
             "published": "Mon, 28 Apr 2025 12:11:36 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "M&S customers in limbo as cyber attack chaos continues",
+            "link": "https://www.bbc.com/news/articles/cyvq0q14y03o",
+            "published": "Mon, 28 Apr 2025 13:04:41 GMT"
+        },
         {
             "title": "Call for ban on AI apps creating naked images of children",
             "link": "https://www.bbc.com/news/articles/cr78pd7p42ro",
@@ -73,11 +78,6 @@
             "title": "Overhaul algorithms and age checks or face fines, tech firms told",
             "link": "https://www.bbc.com/news/articles/c5yljn2vkn1o",
             "published": "Thu, 24 Apr 2025 11:20:59 GMT"
-        },
-        {
-            "title": "How can you keep your child safe online?",
-            "link": "https://www.bbc.co.uk/news/technology-68225707",
-            "published": "Thu, 24 Apr 2025 15:13:17 GMT"
         }
     ]
 }
