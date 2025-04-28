@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "German defense startup ARX Robotics, which makes self-driving, modular battlefield robots, raised \u20ac31M led by HV Capital and plans to build a plant in England (Yazhou Sun/Bloomberg)",
+            "link": "http://www.techmeme.com/250428/p6#a250428p6",
+            "published": "Mon, 28 Apr 2025 06:15:01 -0400"
+        },
+        {
+            "title": "A deep dive on Apple's iPhone manufacturing process, including 2,700 parts from 187 suppliers in 28 countries; just 30 suppliers have no presence in China (Financial Times)",
+            "link": "http://www.techmeme.com/250428/p5#a250428p5",
+            "published": "Mon, 28 Apr 2025 06:00:00 -0400"
+        },
+        {
             "title": "Music creation startup Splice buys London-based orchestral sound studio Spitfire Audio, a source says for ~$50M; sources say Splice has $100M+ in annual revenue (Anna Nicolaou/Financial Times)",
             "link": "http://www.techmeme.com/250428/p4#a250428p4",
             "published": "Mon, 28 Apr 2025 05:40:05 -0400"
@@ -14,16 +24,6 @@
             "title": "While Big Tech is largely spared from tariffs, small companies making devices like baby monitors face price hikes, shortages, and degrading product quality (Nicole Nguyen/Wall Street Journal)",
             "link": "http://www.techmeme.com/250428/p2#a250428p2",
             "published": "Mon, 28 Apr 2025 03:55:05 -0400"
-        },
-        {
-            "title": "How AI tools like Autistic Translator and Goblin Tools are helping those with autism and other neurodiverse people understand social situations (Andrea Jim\u00e9nez/Washington Post)",
-            "link": "http://www.techmeme.com/250428/p1#a250428p1",
-            "published": "Mon, 28 Apr 2025 02:15:01 -0400"
-        },
-        {
-            "title": "A look at Interpol's innovation lab in Singapore for studying cybercrime, digital piracy, and more, and developing new techniques for bringing down criminals (Owen Walker/Financial Times)",
-            "link": "http://www.techmeme.com/250427/p19#a250427p19",
-            "published": "Sun, 27 Apr 2025 23:50:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Call for ban on AI apps creating naked images of children",
+            "link": "https://www.bbc.com/news/articles/cr78pd7p42ro",
+            "published": "Mon, 28 Apr 2025 10:30:22 GMT"
+        },
+        {
             "title": "M&S stops online orders and issues refunds after cyber attack",
             "link": "https://www.bbc.com/news/articles/cdxnkg7rln2o",
             "published": "Sat, 26 Apr 2025 08:42:17 GMT"
@@ -73,11 +78,6 @@
             "title": "How can you keep your child safe online?",
             "link": "https://www.bbc.co.uk/news/technology-68225707",
             "published": "Thu, 24 Apr 2025 15:13:17 GMT"
-        },
-        {
-            "title": "Trump crypto soars as president offers dinner to top holders",
-            "link": "https://www.bbc.com/news/articles/ce8g2kpzx0go",
-            "published": "Thu, 24 Apr 2025 04:55:23 GMT"
         }
     ]
 }
