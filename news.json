@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Spotify reports Q1 revenue up 15% YoY to \u20ac4.2B, operating income of \u20ac509M, below its \u20ac548M forecast, Q2 MAUs forecast below analysts' estimates; SPOT drops 8%+ (Ashley Carman/Bloomberg)",
+            "link": "http://www.techmeme.com/250429/p14#a250429p14",
+            "published": "Tue, 29 Apr 2025 10:27:14 -0400"
+        },
+        {
+            "title": "Oligo researchers detail AirBorne, a set of vulnerabilities in Apple's AirPlay SDK that could affect 10M+ third-party devices; Apple has patched its own devices (Wired)",
+            "link": "http://www.techmeme.com/250429/p13#a250429p13",
+            "published": "Tue, 29 Apr 2025 09:40:03 -0400"
+        },
+        {
             "title": "White House Press Secretary Karoline Leavitt says Amazon reportedly adding tariff pricing to each product on its site \"is a hostile and political act by Amazon\" (Kevin Breuninger/CNBC)",
             "link": "http://www.techmeme.com/250429/p12#a250429p12",
             "published": "Tue, 29 Apr 2025 09:30:01 -0400"
@@ -14,19 +24,19 @@
             "title": "PayPal reports Q1 net revenue up 1% YoY to $7.8B, transaction margin dollars up 7% to $3.7B, above est., TPV up 3% to $417.2B, and active accounts up 2% to 436M (Paige Smith/Bloomberg)",
             "link": "http://www.techmeme.com/250429/p10#a250429p10",
             "published": "Tue, 29 Apr 2025 07:20:26 -0400"
-        },
-        {
-            "title": "Helsinki-based IXI, which is building low-power glasses that can autofocus to a user's prescription, emerges from stealth and raised a $36.5M Series A (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250429/p9#a250429p9",
-            "published": "Tue, 29 Apr 2025 07:05:22 -0400"
-        },
-        {
-            "title": "Google tracked 75 zero days exploited in the wild in 2024, down from 98 in 2023 but up from 63 in 2022; state-sponsored threat groups led in zero-day exploits (Google Cloud Blog)",
-            "link": "http://www.techmeme.com/250429/p8#a250429p8",
-            "published": "Tue, 29 Apr 2025 06:50:19 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Secret Deals, Foreign Investments, Presidential Policy Changes: The Rise of Trump\u2019s Crypto Firm",
+            "link": "https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html",
+            "published": "Tue, 29 Apr 2025 09:01:44 +0000"
+        },
+        {
+            "title": "With Trump In Power, Foreign Crypto Companies Make Inroads in US",
+            "link": "https://www.nytimes.com/2025/04/29/technology/trump-crypto-tether.html",
+            "published": "Tue, 29 Apr 2025 09:02:48 +0000"
+        },
         {
             "title": "House Passes Bill to Ban Sharing of Revenge Porn, Sending It to Trump",
             "link": "https://www.nytimes.com/2025/04/28/us/politics/house-revenge-porn-bill.html",
@@ -35,17 +45,7 @@
         {
             "title": "Amazon Launches First 27 Project Kuiper Internet Satellites",
             "link": "https://www.nytimes.com/2025/04/28/science/amazon-kuiper-launch-ula.html",
-            "published": "Tue, 29 Apr 2025 01:49:16 +0000"
-        },
-        {
-            "title": "American Children Sent to Honduras, and A.I. on the Battlefield",
-            "link": "https://www.nytimes.com/2025/04/28/podcasts/the-headlines/american-children-honduras-ukraine-trump.html",
-            "published": "Mon, 28 Apr 2025 10:02:19 +0000"
-        },
-        {
-            "title": "Inside The Mad Dash to Turn Division I Athletes Into Influencers",
-            "link": "https://www.nytimes.com/2025/04/27/business/unc-student-athlete-influencers.html",
-            "published": "Mon, 28 Apr 2025 19:01:54 +0000"
+            "published": "Tue, 29 Apr 2025 14:24:01 +0000"
         },
         {
             "title": "G.M. Withdraws Profit Forecast as Trump Tariffs Take a Toll",
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "Why is the M&S cyber attack chaos taking so long to resolve?",
+            "link": "https://www.bbc.com/news/articles/cz79547nywno",
+            "published": "Tue, 29 Apr 2025 14:04:19 GMT"
+        },
+        {
             "title": "Some M&S stores left with empty shelves after cyber attack",
             "link": "https://www.bbc.com/news/articles/cy489zelvx2o",
-            "published": "Tue, 29 Apr 2025 12:32:57 GMT"
+            "published": "Tue, 29 Apr 2025 14:29:21 GMT"
         },
         {
             "title": "Call for ban on AI apps creating naked images of children",
@@ -73,11 +78,6 @@
             "title": "M&S stops online orders and issues refunds after cyber attack",
             "link": "https://www.bbc.com/news/articles/cdxnkg7rln2o",
             "published": "Sat, 26 Apr 2025 08:42:17 GMT"
-        },
-        {
-            "title": "How Armenia is trying to build a Silicon Valley in the Caucasus",
-            "link": "https://www.bbc.com/news/articles/c2ew48p13y0o",
-            "published": "Sun, 27 Apr 2025 23:46:46 GMT"
         }
     ]
 }
