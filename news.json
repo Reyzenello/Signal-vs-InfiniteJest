@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Appfigures: Google Play hosts 1.8M apps, down from 3.4M at the beginning of 2024, a 47% decline likely due to raised minimum quality requirements (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/250429/p37#a250429p37",
+            "published": "Tue, 29 Apr 2025 18:40:02 -0400"
+        },
+        {
             "title": "Sources: Trump officials are considering removing a Biden-era rule that divides the world into tiers that help determine how many AI chips a country can obtain (Karen Freifeld/Reuters)",
             "link": "http://www.techmeme.com/250429/p36#a250429p36",
             "published": "Tue, 29 Apr 2025 17:45:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Intel's next chip node, 14A, is slated for a 2027 release, will feature \"Turbo Cells\" and allegedly have 15-20% better performance-per-watt over the 18A process (Michael Kan/PCMag)",
             "link": "http://www.techmeme.com/250429/p33#a250429p33",
             "published": "Tue, 29 Apr 2025 17:00:51 -0400"
-        },
-        {
-            "title": "Snap reports Q1 revenue up 14% YoY to $1.36B, vs. $1.35B est., and declines to provide guidance, citing macroeconomic uncertainties; SNAP drops 12%+ after hours (CNBC)",
-            "link": "http://www.techmeme.com/250429/p32#a250429p32",
-            "published": "Tue, 29 Apr 2025 16:23:25 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Ex-School Athletic Director Gets 4 Months in Jail for Racist Deepfake Recording",
             "link": "https://www.nytimes.com/2025/04/29/technology/baltimore-pikesville-high-athletic-director-ai-deepfake.html",
-            "published": "Tue, 29 Apr 2025 21:50:43 +0000"
+            "published": "Tue, 29 Apr 2025 22:35:26 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Robot vacuums 'could water plants or play with cat'",
+            "link": "https://www.bbc.com/news/articles/c5yrzyzke8do",
+            "published": "Tue, 29 Apr 2025 23:07:05 GMT"
+        },
         {
             "title": "Why is the M&S cyber attack chaos taking so long to resolve?",
             "link": "https://www.bbc.com/news/articles/cz79547nywno",
@@ -73,11 +78,6 @@
             "title": "M&S customers in limbo as cyber attack chaos continues",
             "link": "https://www.bbc.com/news/articles/cyvq0q14y03o",
             "published": "Mon, 28 Apr 2025 13:04:41 GMT"
-        },
-        {
-            "title": "M&S stops online orders and issues refunds after cyber attack",
-            "link": "https://www.bbc.com/news/articles/cdxnkg7rln2o",
-            "published": "Sat, 26 Apr 2025 08:42:17 GMT"
         }
     ]
 }
