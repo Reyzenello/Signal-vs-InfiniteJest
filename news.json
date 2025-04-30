@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "US v. Google: Sundar Pichai said Google expects to strike a Gemini deal with Apple by mid-2025 and Tim Cook told him Apple plans to add more AI models this year (The Verge)",
+            "link": "http://www.techmeme.com/250430/p53#a250430p53",
+            "published": "Wed, 30 Apr 2025 18:25:03 -0400"
+        },
+        {
+            "title": "eBay reports Q1 revenue up 1% YoY to $2.59B vs. $2.55B est., forecasts Q2 revenue above est.; CFO Steve Priest to step down in May, with Peggy Alford succeeding (Juby Babu/Reuters)",
+            "link": "http://www.techmeme.com/250430/p52#a250430p52",
+            "published": "Wed, 30 Apr 2025 17:40:01 -0400"
+        },
+        {
+            "title": "Mark Zuckerberg says Threads has 350M MAUs, having added 30M in Q1 2025, compared to 20M in Q4 2024 (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/250430/p51#a250430p51",
+            "published": "Wed, 30 Apr 2025 17:35:01 -0400"
+        },
+        {
+            "title": "Galaxy Digital plans to list on the Nasdaq Global Select Market on May 16; it will still have shares listed on the Toronto Stock Exchange for some time (Liz Napolitano/Decrypt)",
+            "link": "http://www.techmeme.com/250430/p50#a250430p50",
+            "published": "Wed, 30 Apr 2025 17:25:02 -0400"
+        },
+        {
             "title": "Amazon says it will spend $4B+ to expand its US rural delivery network by the end of 2026, growing the network to 200+ delivery stations and creating 100K jobs (Sriparna Roy/Reuters)",
             "link": "http://www.techmeme.com/250430/p49#a250430p49",
             "published": "Wed, 30 Apr 2025 17:15:01 -0400"
-        },
-        {
-            "title": "Microsoft's Q3 capex rose 52.9% YoY to $21.4B, vs. $22.4B est.; Microsoft reiterated this month that it would spend $80B on its data center build-out this year (Reuters)",
-            "link": "http://www.techmeme.com/250430/p48#a250430p48",
-            "published": "Wed, 30 Apr 2025 17:10:00 -0400"
-        },
-        {
-            "title": "Marc Andreessen says VC may be one of the last fields safe from AI after it replaces most workers, as it requires \"intangible\" skills like psychological insight (Lucas Ropek/Gizmodo)",
-            "link": "http://www.techmeme.com/250430/p47#a250430p47",
-            "published": "Wed, 30 Apr 2025 17:05:01 -0400"
-        },
-        {
-            "title": "Nuvo, a B2B startup that scales trade partnerships by streamlining credit approvals and more, raised a $34M Series A from Sequoia Capital and Spark Capital (Mary Ann Azevedo/TechCrunch)",
-            "link": "http://www.techmeme.com/250430/p46#a250430p46",
-            "published": "Wed, 30 Apr 2025 16:45:00 -0400"
-        },
-        {
-            "title": "Robinhood reports Q1 revenue up 50% YoY to $927M, vs. $920.1M est., crypto transaction revenue up 100% to $252M, increases share buyback authorization by $500M (Helene Braun/CoinDesk)",
-            "link": "http://www.techmeme.com/250430/p45#a250430p45",
-            "published": "Wed, 30 Apr 2025 16:45:00 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Microsoft Profit Increases 18% While It Slows A.I. Spending",
             "link": "https://www.nytimes.com/2025/04/30/technology/microsoft-earnings-ai-spending.html",
-            "published": "Wed, 30 Apr 2025 20:43:46 +0000"
+            "published": "Wed, 30 Apr 2025 21:34:37 +0000"
         },
         {
             "title": "How to Protect Your Phone While Traveling Abroad",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Meta warns of 'worse' experience for European users",
+            "link": "https://www.bbc.com/news/articles/czd3mey1ej2o",
+            "published": "Wed, 30 Apr 2025 21:47:26 GMT"
+        },
         {
             "title": "Hackers target the Co-op as police probe M&S cyber attack",
             "link": "https://www.bbc.com/news/articles/c3wx092exlzo",
@@ -73,11 +78,6 @@
             "title": "Why is the M&S cyber attack chaos taking so long to resolve?",
             "link": "https://www.bbc.com/news/articles/cz79547nywno",
             "published": "Wed, 30 Apr 2025 08:15:24 GMT"
-        },
-        {
-            "title": "Some M&S stores left with empty shelves after cyber attack",
-            "link": "https://www.bbc.com/news/articles/cy489zelvx2o",
-            "published": "Wed, 30 Apr 2025 07:44:39 GMT"
         }
     ]
 }
