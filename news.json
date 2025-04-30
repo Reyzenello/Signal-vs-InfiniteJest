@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
+            "title": "Meta, Spotify, and Match launch the Coalition for a Competitive Mobile Experience, a lobbying coalition to take on Apple and Google over user age verification (Emily Birnbaum/Bloomberg)",
+            "link": "http://www.techmeme.com/250430/p26#a250430p26",
+            "published": "Wed, 30 Apr 2025 10:16:16 -0400"
+        },
+        {
+            "title": "Kintsugi, which uses AI to help companies automate their sales tax compliance, raised $18M at a $150M post-money valuation, up from $80M in November 2024 (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/250430/p25#a250430p25",
+            "published": "Wed, 30 Apr 2025 09:55:00 -0400"
+        },
+        {
+            "title": "Grindr rolls out A-List, powered by Claude Sonnet 3.7 and Amazon Bedrock, to curate \"meaningful past connections, high-potential matches\" and chat summaries (Natalie Lung/Bloomberg)",
+            "link": "http://www.techmeme.com/250430/p24#a250430p24",
+            "published": "Wed, 30 Apr 2025 09:45:06 -0400"
+        },
+        {
+            "title": "AI legal analysis startup Supio, which focuses on personal injury law across 114+ case types, raised $60M led by Sapphire, taking its total funding to $91M (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250430/p23#a250430p23",
+            "published": "Wed, 30 Apr 2025 09:35:01 -0400"
+        },
+        {
             "title": "Rogo, which offers an AI chatbot that replicates an investment banker, raised a $50M Series B led by Thrive at a $350M valuation, after raising $18.5M in 2024 (Financial Times)",
             "link": "http://www.techmeme.com/250430/p22#a250430p22",
             "published": "Wed, 30 Apr 2025 09:25:01 -0400"
-        },
-        {
-            "title": "Doc: the EU's draft International Digital Strategy, set for June 4, acknowledges that decoupling from US tech is \"unrealistic\" and calls for strategic alliances (Mathieu Pollet/Politico)",
-            "link": "http://www.techmeme.com/250430/p21#a250430p21",
-            "published": "Wed, 30 Apr 2025 09:10:01 -0400"
-        },
-        {
-            "title": "Miami-based Cast, which optimizes AI and other workloads via automation, raised a $108M Series C led by G2 and Vision Fund 2, sources say at a $900M valuation (Ingrid Lunden/TechCrunch)",
-            "link": "http://www.techmeme.com/250430/p20#a250430p20",
-            "published": "Wed, 30 Apr 2025 08:55:04 -0400"
-        },
-        {
-            "title": "DeepSeek quietly open sources Prover-V2, a math-focused, 671B-parameter AI model using mixture-of-experts, on Hugging Face, one day after Alibaba released Qwen3 (Ben Jiang/South China Morning Post)",
-            "link": "http://www.techmeme.com/250430/p19#a250430p19",
-            "published": "Wed, 30 Apr 2025 08:40:01 -0400"
-        },
-        {
-            "title": "Identity verification startup Persona, which has 3,000+ clients, raised a $200M Series D led by Ribbit at a $2B valuation, taking its total funding to $417M (Rashi Shrivastava/Forbes)",
-            "link": "http://www.techmeme.com/250430/p18#a250430p18",
-            "published": "Wed, 30 Apr 2025 08:00:44 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How to Protect Your Phone While Traveling Abroad",
+            "link": "https://www.nytimes.com/2025/04/30/technology/personaltech/travel-burner-phone-cbp.html",
+            "published": "Wed, 30 Apr 2025 09:03:40 +0000"
+        },
+        {
+            "title": "White House-Amazon Spat Culminates in Trump Calling Bezos \u2018Very Nice\u2019",
+            "link": "https://www.nytimes.com/2025/04/29/us/politics/trump-amazon-tariffs-prices.html",
+            "published": "Tue, 29 Apr 2025 21:01:04 +0000"
+        },
         {
             "title": "Secret Deals, Foreign Investments, Presidential Policy Changes: The Rise of Trump\u2019s Crypto Firm",
             "link": "https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html",
@@ -38,24 +48,14 @@
             "published": "Tue, 29 Apr 2025 15:30:17 +0000"
         },
         {
-            "title": "House Passes Bill to Ban Sharing of Revenge Porn, Sending It to Trump",
-            "link": "https://www.nytimes.com/2025/04/28/us/politics/house-revenge-porn-bill.html",
-            "published": "Tue, 29 Apr 2025 01:12:07 +0000"
-        },
-        {
-            "title": "Amazon Launches First 27 Project Kuiper Internet Satellites",
-            "link": "https://www.nytimes.com/2025/04/28/science/amazon-kuiper-launch-ula.html",
-            "published": "Tue, 29 Apr 2025 14:24:01 +0000"
-        },
-        {
-            "title": "How to Protect Your Phone While Traveling Abroad",
-            "link": "https://www.nytimes.com/2025/04/30/technology/personaltech/travel-burner-phone-cbp.html",
-            "published": "Wed, 30 Apr 2025 09:03:40 +0000"
+            "title": "Ex-School Athletic Director Gets 4 Months in Jail for Racist Deepfake Recording",
+            "link": "https://www.nytimes.com/2025/04/29/technology/baltimore-pikesville-high-athletic-director-ai-deepfake.html",
+            "published": "Tue, 29 Apr 2025 22:35:26 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Co-op fends off hackers as police probe M&S cyber attack",
+            "title": "Hackers target the Co-op as police probe M&S cyber attack",
             "link": "https://www.bbc.com/news/articles/c3wx092exlzo",
             "published": "Wed, 30 Apr 2025 12:16:02 GMT"
         },
