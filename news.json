@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "DeepSeek quietly open-sources Prover-V2 AI, a math-focused, 671B-parameter model using mixture-of-experts, on Hugging Face, one day after Alibaba released Qwen3 (Ben Jiang/South China Morning Post)",
+            "link": "http://www.techmeme.com/250430/p19#a250430p19",
+            "published": "Wed, 30 Apr 2025 08:40:01 -0400"
+        },
+        {
+            "title": "Identity verification startup Persona, which has 3,000+ clients, raised a $200M Series D led by Ribbit at a $2B valuation, taking its total funding to $417M (Rashi Shrivastava/Forbes)",
+            "link": "http://www.techmeme.com/250430/p18#a250430p18",
+            "published": "Wed, 30 Apr 2025 08:00:44 -0400"
+        },
+        {
+            "title": "Sources: Shein is exploring ways to restructure its US business if Trump sticks with punitive tariffs on Chinese imports; the de minimis exemption closes May 2 (Financial Times)",
+            "link": "http://www.techmeme.com/250430/p17#a250430p17",
+            "published": "Wed, 30 Apr 2025 07:45:01 -0400"
+        },
+        {
             "title": "Adyen reports Q1 net revenue up 22% YoY to \u20ac534.7M, below \u20ac539.6M est., and processed payment volume up 6% YoY to \u20ac314.8B, below est.; ADYEN drops ~5% (Sarah Jacob/Bloomberg)",
             "link": "http://www.techmeme.com/250430/p16#a250430p16",
             "published": "Wed, 30 Apr 2025 06:25:00 -0400"
         },
         {
-            "title": "Microsoft President Brad Smith says the company would take the US government to court if necessary to protect European customers' access to its services (Financial Times)",
+            "title": "Microsoft President Brad Smith says the company would take the US to court if necessary to protect European customers' \"continuity of access\" to its services (Financial Times)",
             "link": "http://www.techmeme.com/250430/p15#a250430p15",
             "published": "Wed, 30 Apr 2025 06:10:02 -0400"
-        },
-        {
-            "title": "EA says it laid off staff and canceled \"two early-stage incubation projects\"; sources say EA cut 300 to 400 roles and its Respawn unit canceled a Titanfall game (Jason Schreier/Bloomberg)",
-            "link": "http://www.techmeme.com/250430/p14#a250430p14",
-            "published": "Wed, 30 Apr 2025 05:55:00 -0400"
-        },
-        {
-            "title": "Sources: Huawei has sold 10+ sets of its AI chip cluster CloudMatrix 384, including to data centers that serve Chinese tech companies, in a bid to rival Nvidia (Financial Times)",
-            "link": "http://www.techmeme.com/250430/p13#a250430p13",
-            "published": "Wed, 30 Apr 2025 05:40:04 -0400"
-        },
-        {
-            "title": "Filing: PayPal says the US SEC concluded its investigation into PayPal USD stablecoin in February 2025 \"without enforcement action\" (Martin Young/Cointelegraph)",
-            "link": "http://www.techmeme.com/250430/p12#a250430p12",
-            "published": "Wed, 30 Apr 2025 05:05:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Co-op fends off hackers as police probe M&S cyber attack",
+            "link": "https://www.bbc.com/news/articles/c3wx092exlzo",
+            "published": "Wed, 30 Apr 2025 12:16:02 GMT"
+        },
+        {
             "title": "Update that made ChatGPT 'dangerously' sycophantic pulled",
             "link": "https://www.bbc.com/news/articles/cn4jnwdvg9qo",
             "published": "Wed, 30 Apr 2025 10:48:33 GMT"
@@ -73,11 +78,6 @@
             "title": "Some M&S stores left with empty shelves after cyber attack",
             "link": "https://www.bbc.com/news/articles/cy489zelvx2o",
             "published": "Wed, 30 Apr 2025 07:44:39 GMT"
-        },
-        {
-            "title": "Call for ban on AI apps creating naked images of children",
-            "link": "https://www.bbc.com/news/articles/cr78pd7p42ro",
-            "published": "Mon, 28 Apr 2025 10:30:22 GMT"
         }
     ]
 }
