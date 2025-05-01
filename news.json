@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Sources: about a month ago, Tesla board members opened a search for a CEO to succeed Elon Musk; the current status of the succession planning is not clear (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250430/p59#a250430p59",
+            "published": "Wed, 30 Apr 2025 21:45:00 -0400"
+        },
+        {
+            "title": "AWS launches Nova Premier, which can process text, images, and videos, and is priced at $2.50/1M input tokens and $12.50/1M output tokens, available in Bedrock (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250430/p58#a250430p58",
+            "published": "Wed, 30 Apr 2025 21:10:01 -0400"
+        },
+        {
+            "title": "Tim Sweeney says Epic plans to submit Fortnite to the US iOS App Store next week and offers a \"peace proposal\" to end all litigation over App Store policies (Zac Hall/9to5Mac)",
+            "link": "http://www.techmeme.com/250430/p57#a250430p57",
+            "published": "Wed, 30 Apr 2025 20:45:00 -0400"
+        },
+        {
+            "title": "Epic v. Apple: a judge says Phil Schiller wanted Apple to comply with the court order, but Tim Cook ignored him, and its finance VP \"outright lied under oath\" (Kif Leswing/CNBC)",
+            "link": "http://www.techmeme.com/250430/p56#a250430p56",
+            "published": "Wed, 30 Apr 2025 20:15:01 -0400"
+        },
+        {
             "title": "A US judge rules Apple violated a 2021 court order to open the App Store to outside payment options, and refers the case for a criminal contempt investigation (Josh Sisco/Bloomberg)",
             "link": "http://www.techmeme.com/250430/p55#a250430p55",
             "published": "Wed, 30 Apr 2025 19:05:00 -0400"
-        },
-        {
-            "title": "In Meta's earnings call, Mark Zuckerberg says the company plans to add ads to the Meta AI app, plus a paid tier for more compute and functionality (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250430/p54#a250430p54",
-            "published": "Wed, 30 Apr 2025 18:45:01 -0400"
-        },
-        {
-            "title": "US v. Google: Sundar Pichai said Google expects to strike a Gemini deal with Apple by mid-2025 and Tim Cook told him Apple plans to add more AI models this year (The Verge)",
-            "link": "http://www.techmeme.com/250430/p53#a250430p53",
-            "published": "Wed, 30 Apr 2025 18:25:03 -0400"
-        },
-        {
-            "title": "eBay reports Q1 revenue up 1% YoY to $2.59B vs. $2.55B est., forecasts Q2 revenue above est.; CFO Steve Priest to step down in May, with Peggy Alford succeeding (Juby Babu/Reuters)",
-            "link": "http://www.techmeme.com/250430/p52#a250430p52",
-            "published": "Wed, 30 Apr 2025 17:40:01 -0400"
-        },
-        {
-            "title": "Mark Zuckerberg says Threads has 350M MAUs, having added 30M in Q1 2025, compared to 20M in Q4 2024 (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250430/p51#a250430p51",
-            "published": "Wed, 30 Apr 2025 17:35:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Judge Rebukes Apple and Orders It to Loosen Grip on App Store",
+            "link": "https://www.nytimes.com/2025/04/30/technology/apple-epic-app-store-ruling.html",
+            "published": "Thu, 01 May 2025 01:55:24 +0000"
+        },
         {
             "title": "Google\u2019s Chief Says Breakup Proposal Would Hobble Business",
             "link": "https://www.nytimes.com/2025/04/30/technology/google-ceo-antitrust-trial.html",
@@ -46,11 +51,6 @@
             "title": "How to Protect Your Phone While Traveling Abroad",
             "link": "https://www.nytimes.com/2025/04/30/technology/personaltech/travel-burner-phone-cbp.html",
             "published": "Wed, 30 Apr 2025 21:12:13 +0000"
-        },
-        {
-            "title": "Ex-School Athletic Director Gets 4 Months in Jail for Racist Deepfake Recording",
-            "link": "https://www.nytimes.com/2025/04/29/technology/baltimore-pikesville-high-athletic-director-ai-deepfake.html",
-            "published": "Tue, 29 Apr 2025 22:35:26 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Meta warns of 'worse' experience for European users",
             "link": "https://www.bbc.com/news/articles/czd3mey1ej2o",
             "published": "Wed, 30 Apr 2025 21:47:26 GMT"
+        },
+        {
+            "title": "Apple referred for possible criminal contempt investigation",
+            "link": "https://www.bbc.com/news/articles/c62xv43xqq5o",
+            "published": "Thu, 01 May 2025 01:54:35 GMT"
         },
         {
             "title": "Hackers target the Co-op as police probe M&S cyber attack",
@@ -73,11 +78,6 @@
             "title": "Robot vacuums 'could water plants or play with cat'",
             "link": "https://www.bbc.com/news/articles/c5yrzyzke8do",
             "published": "Tue, 29 Apr 2025 23:07:05 GMT"
-        },
-        {
-            "title": "Why is the M&S cyber attack chaos taking so long to resolve?",
-            "link": "https://www.bbc.com/news/articles/cz79547nywno",
-            "published": "Wed, 30 Apr 2025 08:15:24 GMT"
         }
     ]
 }
