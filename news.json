@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "London's Court of Appeal rules Apple must pay Optis $502M as a lump sum for using Optis' 4G patents from 2013 to 2027, overturning a 2023 High Court decision (Sam Tobin/Reuters)",
+            "link": "http://www.techmeme.com/250501/p26#a250501p26",
+            "published": "Thu, 01 May 2025 09:25:01 -0400"
+        },
+        {
+            "title": "Microsoft raises the prices of its Xbox Series S and X consoles, Xbox controllers, and some new Xbox games globally; the Xbox Series S is up $80 to $380 (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250501/p25#a250501p25",
+            "published": "Thu, 01 May 2025 09:07:03 -0400"
+        },
+        {
             "title": "Roblox reports Q1 revenue up 29% YoY to ~$1B, Bookings up 31% YoY to ~$1.2B, above $1.11B est., and DAUs up 26% YoY to 97.8M, above 93.3M est.; RBLX jumps 8%+ (Cecilia D'Anastasio/Bloomberg)",
             "link": "http://www.techmeme.com/250501/p24#a250501p24",
             "published": "Thu, 01 May 2025 08:45:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Document: a US Army report from April ranks Palantir's new $178M mobile battlefield intelligence-gathering vehicle and trailer among its top-performing programs (Anthony Capaccio/Bloomberg)",
             "link": "http://www.techmeme.com/250501/p22#a250501p22",
             "published": "Thu, 01 May 2025 07:35:01 -0400"
-        },
-        {
-            "title": "In an hour-long Q&A with reporters, Elon Musk talked DOGE, including acknowledging its shortcoming, leaving the US government, working with Trump, and more (Alex Isenstadt/Axios)",
-            "link": "http://www.techmeme.com/250501/p21#a250501p21",
-            "published": "Thu, 01 May 2025 07:15:02 -0400"
-        },
-        {
-            "title": "Q&A with Mark Zuckerberg on LlamaCon, Llama API, Meta's AI opportunity, social networking 2.0, Ray-Bans, Apple, the Meta AI app, tariffs, Reality Labs, and more (Ben Thompson/Stratechery)",
-            "link": "http://www.techmeme.com/250501/p20#a250501p20",
-            "published": "Thu, 01 May 2025 06:55:02 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,26 @@
             "published": "Wed, 30 Apr 2025 22:46:11 +0000"
         },
         {
-            "title": "Apple Would Be Worth Half as Much If It Stopped Manufacturing in China",
-            "link": "https://www.nytimes.com/2025/05/01/technology/apple-china-tariffs.html",
-            "published": "Thu, 01 May 2025 09:03:12 +0000"
+            "title": "Tesla Chair Denies That Board Sought to Replace Elon Musk",
+            "link": "https://www.nytimes.com/2025/05/01/business/tesla-board-elon-musk.html",
+            "published": "Thu, 01 May 2025 12:59:48 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "'They wanted $4m': Lessons for M&S from other cyber attacks",
+            "link": "https://www.bbc.com/news/articles/cg72kg5yn2ko",
+            "published": "Thu, 01 May 2025 12:53:04 GMT"
+        },
+        {
             "title": "Co-op cyber attack: Staff urged to keep cameras on in meetings",
             "link": "https://www.bbc.com/news/articles/cg72k851dd8o",
             "published": "Thu, 01 May 2025 12:47:11 GMT"
+        },
+        {
+            "title": "Tesla denies contacting headhunters to replace Musk",
+            "link": "https://www.bbc.com/news/articles/cr4n94klqg9o",
+            "published": "Thu, 01 May 2025 11:10:39 GMT"
         },
         {
             "title": "Meta warns of 'worse' experience for European users",
@@ -68,16 +78,6 @@
             "title": "Apple referred for possible criminal contempt investigation",
             "link": "https://www.bbc.com/news/articles/c62xv43xqq5o",
             "published": "Thu, 01 May 2025 01:54:35 GMT"
-        },
-        {
-            "title": "Hackers target the Co-op as police probe M&S cyber attack",
-            "link": "https://www.bbc.com/news/articles/c3wx092exlzo",
-            "published": "Wed, 30 Apr 2025 15:23:56 GMT"
-        },
-        {
-            "title": "Update that made ChatGPT 'dangerously' sycophantic pulled",
-            "link": "https://www.bbc.com/news/articles/cn4jnwdvg9qo",
-            "published": "Wed, 30 Apr 2025 10:48:33 GMT"
         }
     ]
 }
