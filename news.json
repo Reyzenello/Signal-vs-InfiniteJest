@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia says Anthropic is telling \"tall tales\" after the startup argued for tighter export controls by saying China is smuggling chips in \"prosthetic baby bumps\" (Kristina Partsinevelos/CNBC)",
+            "link": "http://www.techmeme.com/250501/p31#a250501p31",
+            "published": "Thu, 01 May 2025 11:15:01 -0400"
+        },
+        {
+            "title": "Dub, which lets users trade the same stock as celebrities and politicians like Nancy Pelosi, raised a $30M Series A co-led by Notable Capital and Neo (Catherine McGrath/Fortune)",
+            "link": "http://www.techmeme.com/250501/p30#a250501p30",
+            "published": "Thu, 01 May 2025 10:50:01 -0400"
+        },
+        {
+            "title": "True Anomaly, which designs hardware and software for military and intelligence space reconnaissance, raised a $260M Series C led by Accel (Sandra Erwin/SpaceNews)",
+            "link": "http://www.techmeme.com/250501/p29#a250501p29",
+            "published": "Thu, 01 May 2025 10:30:01 -0400"
+        },
+        {
             "title": "Pinterest rolls out global AI labels to mark images made or edited with generative AI, adding an \"AI modified\" stamp, via metadata analysis and AI classifiers (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/250501/p28#a250501p28",
             "published": "Thu, 01 May 2025 09:55:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: CVC and Blackstone invest $2B+ in equity and debt to take a minority stake in Istanbul-based Dream Games, which makes Royal Match, valuing it at ~$5B (Financial Times)",
             "link": "http://www.techmeme.com/250501/p27#a250501p27",
             "published": "Thu, 01 May 2025 09:40:01 -0400"
-        },
-        {
-            "title": "London's Court of Appeal rules Apple must pay Optis $502M as a lump sum for using Optis' 4G patents from 2013 to 2027, overturning a 2023 High Court decision (Sam Tobin/Reuters)",
-            "link": "http://www.techmeme.com/250501/p26#a250501p26",
-            "published": "Thu, 01 May 2025 09:25:01 -0400"
-        },
-        {
-            "title": "Microsoft raises the prices of its Xbox Series S and X consoles, Xbox controllers, and some new Xbox games globally; the consoles are priced $80 to $100 more (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/250501/p25#a250501p25",
-            "published": "Thu, 01 May 2025 09:07:03 -0400"
-        },
-        {
-            "title": "Roblox reports Q1 revenue up 29% YoY to ~$1B, Bookings up 31% YoY to ~$1.2B, above $1.11B est., and DAUs up 26% YoY to 97.8M, above 93.3M est.; RBLX jumps 8%+ (Cecilia D'Anastasio/Bloomberg)",
-            "link": "http://www.techmeme.com/250501/p24#a250501p24",
-            "published": "Thu, 01 May 2025 08:45:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 30 Apr 2025 22:46:11 +0000"
         },
         {
-            "title": "Tesla Chair Denies That Board Sought to Replace Elon Musk",
-            "link": "https://www.nytimes.com/2025/05/01/business/tesla-board-elon-musk.html",
-            "published": "Thu, 01 May 2025 12:59:48 +0000"
+            "title": "How Google\u2019s Antitrust Case Could Upend the A.I. Race",
+            "link": "https://www.nytimes.com/2025/05/01/technology/google-antitrust-trial-ai.html",
+            "published": "Thu, 01 May 2025 15:06:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Xbox price rises by \u00a350 amid tariff uncertainty",
+            "link": "https://www.bbc.com/news/articles/cze1zn9d9p4o",
+            "published": "Thu, 01 May 2025 15:23:49 GMT"
+        },
         {
             "title": "'They wanted $4m': Lessons for M&S from other cyber attacks",
             "link": "https://www.bbc.com/news/articles/cg72kg5yn2ko",
@@ -73,11 +78,6 @@
             "title": "Meta warns of 'worse' experience for European users",
             "link": "https://www.bbc.com/news/articles/czd3mey1ej2o",
             "published": "Thu, 01 May 2025 11:53:52 GMT"
-        },
-        {
-            "title": "Apple referred for possible criminal contempt investigation",
-            "link": "https://www.bbc.com/news/articles/c62xv43xqq5o",
-            "published": "Thu, 01 May 2025 01:54:35 GMT"
         }
     ]
 }
