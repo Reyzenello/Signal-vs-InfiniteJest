@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Google says \"a small percentage\" of people in the US will start seeing a tab in Search for its AI Mode chatbot \"in the coming weeks\" (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250501/p36#a250501p36",
-            "published": "Thu, 01 May 2025 12:15:01 -0400"
+            "title": "Data integration company Fivetran acquires Census, which helps companies move data out of databases and into operational tools and was valued at $630M in 2022 (Rebecca Szkutak/TechCrunch)",
+            "link": "http://www.techmeme.com/250501/p41#a250501p41",
+            "published": "Thu, 01 May 2025 13:15:00 -0400"
         },
         {
-            "title": "Polygon staffers, including co-founder and EIC Chris Plante, say the video games website has laid them off, after Vox Media sold Polygon to publisher Valnet (Ethan Gach/Kotaku)",
-            "link": "http://www.techmeme.com/250501/p35#a250501p35",
-            "published": "Thu, 01 May 2025 12:05:14 -0400"
+            "title": "Redis, the popular in-memory data store, returns its main system to open source license AGPL, after facing criticism in 2024 for moving to a dual-license model (Lindsay Clark/The Register)",
+            "link": "http://www.techmeme.com/250501/p40#a250501p40",
+            "published": "Thu, 01 May 2025 13:10:01 -0400"
         },
         {
-            "title": "Tether says its \"total exposure\" to US Treasurys had neared $120B at the end of March, and reports $1B+ in Q1 operating profit from traditional investments (RT Watson/The Block)",
-            "link": "http://www.techmeme.com/250501/p34#a250501p34",
-            "published": "Thu, 01 May 2025 11:55:05 -0400"
+            "title": "Anthropic launches Integrations to connect apps to Claude, and expanded deep research tool Advanced Research, in beta for Claude Max, Team, and Enterprise users (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250501/p39#a250501p39",
+            "published": "Thu, 01 May 2025 13:05:01 -0400"
         },
         {
-            "title": "Sources: the US is weighing a potential easing of restrictions on Nvidia chip sales to the UAE as Trump plans a visit to the country; NVDA jumps 4%+ (Bloomberg)",
-            "link": "http://www.techmeme.com/250501/p33#a250501p33",
-            "published": "Thu, 01 May 2025 11:35:02 -0400"
+            "title": "Epic Games says it will take a 0% store fee from developers on their first $1M in revenue per app per year, and plans to let developers launch own webshops (Zac Hall/9to5Mac)",
+            "link": "http://www.techmeme.com/250501/p38#a250501p38",
+            "published": "Thu, 01 May 2025 12:45:01 -0400"
         },
         {
-            "title": "Plenful, which makes AI-powered healthcare workflow automation tools, raised a $50M Series B co-led by Arena Holdings and billionaire Mitchell Rales (Shimite Obialo/Forbes)",
-            "link": "http://www.techmeme.com/250501/p32#a250501p32",
-            "published": "Thu, 01 May 2025 11:30:02 -0400"
+            "title": "LinkedIn will share ad revenue with creators for the first time, starting with 30 B2B creators, and says users now watch 36% more video content than a year ago (Aisha Counts/Bloomberg)",
+            "link": "http://www.techmeme.com/250501/p37#a250501p37",
+            "published": "Thu, 01 May 2025 12:35:00 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,21 @@
             "published": "Wed, 30 Apr 2025 23:13:04 +0000"
         },
         {
-            "title": "Tesla Chair Denies That Board Sought to Replace Elon Musk",
-            "link": "https://www.nytimes.com/2025/05/01/business/tesla-board-elon-musk.html",
-            "published": "Thu, 01 May 2025 12:59:48 +0000"
+            "title": "At a Dubai Conference, Trump\u2019s Conflicts Take Center Stage",
+            "link": "https://www.nytimes.com/2025/05/01/us/politics/trump-cryptocurrency-usd1-dubai-conference-announcement.html",
+            "published": "Thu, 01 May 2025 17:13:51 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Harrods latest retailer to be hit by cyber attack",
+            "link": "https://www.bbc.com/news/articles/c62x4zxe418o",
+            "published": "Thu, 01 May 2025 17:04:01 GMT"
+        },
+        {
             "title": "Xbox prices hiked worldwide amid tariff uncertainty",
             "link": "https://www.bbc.com/news/articles/cze1zn9d9p4o",
-            "published": "Thu, 01 May 2025 16:04:57 GMT"
+            "published": "Thu, 01 May 2025 17:09:02 GMT"
         },
         {
             "title": "'They wanted $4m': Lessons for M&S from other cyber attacks",
@@ -73,11 +78,6 @@
             "title": "Tesla denies contacting headhunters to replace Musk",
             "link": "https://www.bbc.com/news/articles/cr4n94klqg9o",
             "published": "Thu, 01 May 2025 11:10:39 GMT"
-        },
-        {
-            "title": "Meta warns of 'worse' experience for European users",
-            "link": "https://www.bbc.com/news/articles/czd3mey1ej2o",
-            "published": "Thu, 01 May 2025 11:53:52 GMT"
         }
     ]
 }
