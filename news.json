@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "As Trump closes the de minimis exemption on May 2, small online sellers on platforms like Etsy and eBay scramble to adapt; DHL and FedEx face duties up to 145% (Danielle Kaye/New York Times)",
+            "link": "http://www.techmeme.com/250501/p18#a250501p18",
+            "published": "Thu, 01 May 2025 06:25:05 -0400"
+        },
+        {
+            "title": "On Meta's Q1 call, Mark Zuckerberg says WhatsApp now has 3B+ MAUs, up from 2B in February 2020 and 1.5B in January 2018; Facebook passed 3B MAUs in July 2023 (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/250501/p17#a250501p17",
+            "published": "Thu, 01 May 2025 06:10:59 -0400"
+        },
+        {
+            "title": "Global smartphone shipments rose 0.2% to 296.9M in Q1 2025; Samsung shipped 60.5M units for a 20% market share and Apple shipped 55M units for a 19% share (Canalys)",
+            "link": "http://www.techmeme.com/250501/p16#a250501p16",
+            "published": "Thu, 01 May 2025 05:50:05 -0400"
+        },
+        {
             "title": "Microsoft releases three Phi-4 reasoning models on Hugging Face, expanding its Phi \"small model\" family, which it launched in May 2024 for edge app developers (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250501/p15#a250501p15",
             "published": "Thu, 01 May 2025 05:15:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Microsoft says GitHub Copilot has 15M+ users, up 4x YoY; GitHub CEO Thomas Dohmke says its code review agent, launched in April, has handled 8M+ pull requests (Paul Thurrott/Thurrott)",
             "link": "http://www.techmeme.com/250501/p14#a250501p14",
             "published": "Thu, 01 May 2025 05:00:47 -0400"
-        },
-        {
-            "title": "An oral history from 19 current and former natural language processing researchers of the past five years, including how LLMs and ChatGPT disrupted their fields (John Pavlus/Quanta Magazine)",
-            "link": "http://www.techmeme.com/250501/p13#a250501p13",
-            "published": "Thu, 01 May 2025 04:35:00 -0400"
-        },
-        {
-            "title": "Gruve.ai, which aims to change the traditional IT consultancy model by using AI agents to improve enterprise margins, raised a $20M Series A led by Mayfield (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/250501/p12#a250501p12",
-            "published": "Thu, 01 May 2025 04:10:01 -0400"
-        },
-        {
-            "title": "Experts say China's hacking breakthroughs have become more secretive since laws began requiring researchers to report vulnerabilities to the government first (Jamie Tarabay/Bloomberg)",
-            "link": "http://www.techmeme.com/250501/p11#a250501p11",
-            "published": "Thu, 01 May 2025 03:55:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Co-op cyber attack: Staff urged to keep cameras on in meetings",
+            "link": "https://www.bbc.com/news/articles/cg72k851dd8o",
+            "published": "Thu, 01 May 2025 10:21:22 GMT"
+        },
+        {
             "title": "Meta warns of 'worse' experience for European users",
             "link": "https://www.bbc.com/news/articles/czd3mey1ej2o",
             "published": "Wed, 30 Apr 2025 21:47:26 GMT"
@@ -73,11 +78,6 @@
             "title": "Update that made ChatGPT 'dangerously' sycophantic pulled",
             "link": "https://www.bbc.com/news/articles/cn4jnwdvg9qo",
             "published": "Wed, 30 Apr 2025 10:48:33 GMT"
-        },
-        {
-            "title": "Robot vacuums 'could water plants or play with cat'",
-            "link": "https://www.bbc.com/news/articles/c5yrzyzke8do",
-            "published": "Tue, 29 Apr 2025 23:07:05 GMT"
         }
     ]
 }
