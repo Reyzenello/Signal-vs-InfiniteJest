@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft releases three Phi-4 reasoning models on Hugging Face, expanding its Phi \"small model\" family, which it launched in May 2024 for edge app developers (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250501/p15#a250501p15",
+            "published": "Thu, 01 May 2025 05:15:01 -0400"
+        },
+        {
+            "title": "Microsoft says GitHub Copilot has 15M+ users, up 4x YoY; GitHub CEO Thomas Dohmke says its code review agent, launched in April, has handled 8M+ pull requests (Paul Thurrott/Thurrott)",
+            "link": "http://www.techmeme.com/250501/p14#a250501p14",
+            "published": "Thu, 01 May 2025 05:00:47 -0400"
+        },
+        {
+            "title": "An oral history from 19 current and former natural language processing researchers of the past five years, including how LLMs and ChatGPT disrupted their fields (John Pavlus/Quanta Magazine)",
+            "link": "http://www.techmeme.com/250501/p13#a250501p13",
+            "published": "Thu, 01 May 2025 04:35:00 -0400"
+        },
+        {
             "title": "Gruve.ai, which aims to change the traditional IT consultancy model by using AI agents to improve enterprise margins, raised a $20M Series A led by Mayfield (Marina Temkin/TechCrunch)",
             "link": "http://www.techmeme.com/250501/p12#a250501p12",
             "published": "Thu, 01 May 2025 04:10:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Experts say China's hacking breakthroughs have become more secretive since laws began requiring researchers to report vulnerabilities to the government first (Jamie Tarabay/Bloomberg)",
             "link": "http://www.techmeme.com/250501/p11#a250501p11",
             "published": "Thu, 01 May 2025 03:55:01 -0400"
-        },
-        {
-            "title": "Norway's $1.8T oil fund aims to save $400M from its $2B in annual trading costs by using AI to trade more efficiently, and it has already saved nearly $100M (Financial Times)",
-            "link": "http://www.techmeme.com/250501/p10#a250501p10",
-            "published": "Thu, 01 May 2025 03:30:01 -0400"
-        },
-        {
-            "title": "AI tools from Google, LinkedIn, Salesforce, and others are helping job seekers sell their skills, identify new roles, and tailor r\u00e9sum\u00e9s to different fields (Lindsay Ellis/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250501/p9#a250501p9",
-            "published": "Thu, 01 May 2025 02:35:00 -0400"
-        },
-        {
-            "title": "Alibaba releases Qwen2.5-Omni-3B, a scaled-down 3B-parameter variant of its flagship 7B-parameter multimodal model, designed to run on consumer PCs and laptops (Carl Franzen/VentureBeat)",
-            "link": "http://www.techmeme.com/250501/p8#a250501p8",
-            "published": "Thu, 01 May 2025 02:20:15 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Wed, 30 Apr 2025 22:46:11 +0000"
         },
         {
-            "title": "How to Protect Your Phone While Traveling Abroad",
-            "link": "https://www.nytimes.com/2025/04/30/technology/personaltech/travel-burner-phone-cbp.html",
-            "published": "Wed, 30 Apr 2025 21:12:13 +0000"
+            "title": "Apple Would Be Worth Half as Much If It Stopped Manufacturing in China",
+            "link": "https://www.nytimes.com/2025/05/01/technology/apple-china-tariffs.html",
+            "published": "Thu, 01 May 2025 09:03:12 +0000"
         }
     ],
     "source_2": [
