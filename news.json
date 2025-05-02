@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple is working with Anthropic for a new version of Xcode that will use Claude Sonnet to write, edit, and test code, with plans to roll out internally (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250502/p22#a250502p22",
+            "published": "Fri, 02 May 2025 13:56:36 -0400"
+        },
+        {
+            "title": "OpenAI shares details on how an update to GPT-4o inadvertently increased the model's sycophancy, why OpenAI failed to catch it, and the changes it is planning (OpenAI)",
+            "link": "http://www.techmeme.com/250502/p21#a250502p21",
+            "published": "Fri, 02 May 2025 13:50:22 -0400"
+        },
+        {
+            "title": "Sources: eToro is considering launching its US IPO as soon as next week, after pausing its plans in April amid tariff-related stock volatility (Bloomberg)",
+            "link": "http://www.techmeme.com/250502/p20#a250502p20",
+            "published": "Fri, 02 May 2025 13:30:02 -0400"
+        },
+        {
             "title": "Uber partners with Chinese self-driving startup Momenta to launch robotaxi services outside the US and China, starting with Europe in early 2026 (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250502/p19#a250502p19",
             "published": "Fri, 02 May 2025 12:55:02 -0400"
@@ -9,33 +24,18 @@
             "title": "A US judge schedules the US government's remedies trial in the Google antitrust case regarding its advertising tech to begin on September 22 (Hayden Field/CNBC)",
             "link": "http://www.techmeme.com/250502/p18#a250502p18",
             "published": "Fri, 02 May 2025 12:20:31 -0400"
-        },
-        {
-            "title": "Filing: Amazon restructured part of its $8B Anthropic investment from convertible notes into stock in Q1, creating a $3.3B pre-tax gain that boosted its profits (Todd Bishop/GeekWire)",
-            "link": "http://www.techmeme.com/250502/p17#a250502p17",
-            "published": "Fri, 02 May 2025 11:55:01 -0400"
-        },
-        {
-            "title": "Livestream marketplace Whatnot says it hit $3B+ worth of goods sold through its app last year and viewers spend 80+ minutes per day on average on the app (Ann Gehan/The Information)",
-            "link": "http://www.techmeme.com/250502/p16#a250502p16",
-            "published": "Fri, 02 May 2025 11:30:02 -0400"
-        },
-        {
-            "title": "An investigation finds 70+ content-farm YouTube channels using AI to produce cartoon content featuring gore and child abuse, featuring characters like minions (Laura Holliday/Wired)",
-            "link": "http://www.techmeme.com/250502/p15#a250502p15",
-            "published": "Fri, 02 May 2025 10:35:08 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Justice Dept. Lawyers Say US Wants to Break up Google\u2019s Ad Technology",
+            "title": "Justice Dept. Lawyers Say US Wants to Break Up Google\u2019s Ad Technology",
             "link": "https://www.nytimes.com/2025/05/02/technology/google-advertising-technology-hearing.html",
-            "published": "Fri, 02 May 2025 16:49:43 +0000"
+            "published": "Fri, 02 May 2025 18:01:58 +0000"
         },
         {
             "title": "TikTok Fined $600 Million for Sending European User Data to China",
             "link": "https://www.nytimes.com/2025/05/02/business/tiktok-eu-data-china.html",
-            "published": "Fri, 02 May 2025 11:45:37 +0000"
+            "published": "Fri, 02 May 2025 18:10:08 +0000"
         },
         {
             "title": "How a U.S. Tax Loophole Supercharged China\u2019s Exports",
@@ -48,12 +48,17 @@
             "published": "Fri, 02 May 2025 11:00:03 +0000"
         },
         {
-            "title": "Apple\u2019s Quarterly Earnings Tops Wall Street Expectations With $24.78 Billion Profit",
-            "link": "https://www.nytimes.com/2025/05/01/technology/apple-earnings-profit.html",
-            "published": "Thu, 01 May 2025 22:35:07 +0000"
+            "title": "Google Plans to Roll Out Gemini A.I. Chatbot to Children Under 13",
+            "link": "https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html",
+            "published": "Fri, 02 May 2025 18:05:13 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Co-op hackers stole 'significant' amount of customer data",
+            "link": "https://www.bbc.com/news/articles/crkx3vy54nzo",
+            "published": "Fri, 02 May 2025 17:41:13 GMT"
+        },
         {
             "title": "Co-op gives away free pasta sauce and coffee by mistake",
             "link": "https://www.bbc.com/news/articles/c9856ge2742o",
@@ -73,11 +78,6 @@
             "title": "Xbox prices hiked worldwide amid tariff uncertainty",
             "link": "https://www.bbc.com/news/articles/cze1zn9d9p4o",
             "published": "Thu, 01 May 2025 17:09:02 GMT"
-        },
-        {
-            "title": "'They wanted $4m': Lessons for M&S from other cyber attacks",
-            "link": "https://www.bbc.com/news/articles/cg72kg5yn2ko",
-            "published": "Thu, 01 May 2025 12:53:04 GMT"
         }
     ]
 }
