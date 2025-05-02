@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Twilio reports Q1 revenue up 12% YoY to $1.17B, 335K+ active customer accounts vs. 313K+ in Q1 2024, and Q2 revenue forecast above est.; TWLO jumps 8%+ (Yahoo Finance)",
+            "link": "http://www.techmeme.com/250502/p10#a250502p10",
+            "published": "Fri, 02 May 2025 08:35:01 -0400"
+        },
+        {
+            "title": "Apple plans to source more than 19B chips from the US this year, including from TSMC's expanding Arizona facilities, as it seeks to lessen its reliance on China (Bloomberg)",
+            "link": "http://www.techmeme.com/250502/p9#a250502p9",
+            "published": "Fri, 02 May 2025 08:25:02 -0400"
+        },
+        {
+            "title": "Rockstar Games delays the release of Grand Theft Auto VI from fall 2025 to May 26, 2026, saying it needs extra time to deliver the expected and deserved quality (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250502/p8#a250502p8",
+            "published": "Fri, 02 May 2025 07:55:04 -0400"
+        },
+        {
+            "title": "Microsoft says new accounts will be \"passwordless by default\", asking people to use more secure methods like passkeys, push notifications, and security keys (Umar Shakir/The Verge)",
+            "link": "http://www.techmeme.com/250502/p7#a250502p7",
+            "published": "Fri, 02 May 2025 07:40:02 -0400"
+        },
+        {
             "title": "Ireland's DPC fines TikTok \u20ac530M for illegally sending user data to China, ordering a halt to EU data transfers in six months if protections aren't guaranteed (Sam Schechner/Wall Street Journal)",
             "link": "http://www.techmeme.com/250502/p6#a250502p6",
             "published": "Fri, 02 May 2025 06:21:44 -0400"
-        },
-        {
-            "title": "The Google search antitrust trial is effectively a fight about AI's future, as lawyers and rivals argue Google's monopoly could make it the dominant AI player (David McCabe/New York Times)",
-            "link": "http://www.techmeme.com/250502/p5#a250502p5",
-            "published": "Fri, 02 May 2025 06:05:14 -0400"
-        },
-        {
-            "title": "Kuwait cracks down on crypto miners for being a \"major\" cause of blackouts; energy consumption in the Al-Wafrah region fell by 55% after the crackdown (Ahmed Hagagy/Reuters)",
-            "link": "http://www.techmeme.com/250502/p4#a250502p4",
-            "published": "Fri, 02 May 2025 04:30:00 -0400"
-        },
-        {
-            "title": "A California man pleads guilty to illegally accessing Disney's Slack channels and stealing 1.1TB of data in 2024; he later posed as hacktivist group \"NullBulge\" (Lawrence Abrams/BleepingComputer)",
-            "link": "http://www.techmeme.com/250502/p3#a250502p3",
-            "published": "Fri, 02 May 2025 02:25:01 -0400"
-        },
-        {
-            "title": "Sources: Beijing's decision to exempt eight types of US-made chips from tariffs came after auto industry lobbying, exposing China's dependence on US auto chips (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250502/p2#a250502p2",
-            "published": "Fri, 02 May 2025 01:45:00 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 01 May 2025 09:03:12 +0000"
         },
         {
-            "title": "The Dangers of A.I. Flattery + Kevin Meets the Orb + Group Chat Chat",
-            "link": "https://www.nytimes.com/2025/05/02/podcasts/hardfork-ai-flattery.html",
-            "published": "Fri, 02 May 2025 11:00:02 +0000"
+            "title": "TikTok Fined $600 Million for Sending European User Data to China",
+            "link": "https://www.nytimes.com/2025/05/02/business/tiktok-eu-data-china.html",
+            "published": "Fri, 02 May 2025 11:45:36 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Co-op gives away free pasta sauce and coffee by mistake",
+            "link": "https://www.bbc.com/news/articles/c9856ge2742o",
+            "published": "Fri, 02 May 2025 12:25:05 GMT"
+        },
         {
             "title": "Apple says most US-bound iPhones no longer made in China",
             "link": "https://www.bbc.com/news/articles/c86jx18y9e2o",
@@ -73,11 +78,6 @@
             "title": "'They wanted $4m': Lessons for M&S from other cyber attacks",
             "link": "https://www.bbc.com/news/articles/cg72kg5yn2ko",
             "published": "Thu, 01 May 2025 12:53:04 GMT"
-        },
-        {
-            "title": "Co-op cyber attack: Staff told to keep cameras on in meetings",
-            "link": "https://www.bbc.com/news/articles/cg72k851dd8o",
-            "published": "Thu, 01 May 2025 12:47:11 GMT"
         }
     ]
 }
