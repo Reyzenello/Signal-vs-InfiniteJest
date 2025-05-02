@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Temu stops shipping products from China directly to US shoppers and lists only products shipped from US warehouses, as Trump closes the de minimis exemption (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/250502/p24#a250502p24",
+            "published": "Fri, 02 May 2025 15:10:02 -0400"
+        },
+        {
+            "title": "Google plans to roll out Gemini next week for children under 13 whose parents use Family Link and says it will not use the under-13 users' data to train its AI (Natasha Singer/New York Times)",
+            "link": "http://www.techmeme.com/250502/p23#a250502p23",
+            "published": "Fri, 02 May 2025 14:35:22 -0400"
+        },
+        {
             "title": "Sources: Apple is working with Anthropic for a new version of Xcode that will use Claude Sonnet to write, edit, and test code, with plans to roll out internally (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/250502/p22#a250502p22",
             "published": "Fri, 02 May 2025 13:56:36 -0400"
@@ -14,23 +24,18 @@
             "title": "Sources: eToro is considering launching its US IPO as soon as next week, after pausing its plans in April amid tariff-related stock volatility (Bloomberg)",
             "link": "http://www.techmeme.com/250502/p20#a250502p20",
             "published": "Fri, 02 May 2025 13:30:02 -0400"
-        },
-        {
-            "title": "Uber partners with Chinese self-driving startup Momenta to launch robotaxi services outside the US and China, starting with Europe in early 2026 (MacKenzie Sigalos/CNBC)",
-            "link": "http://www.techmeme.com/250502/p19#a250502p19",
-            "published": "Fri, 02 May 2025 12:55:02 -0400"
-        },
-        {
-            "title": "A US judge schedules the US government's remedies trial in the Google antitrust case regarding its advertising tech to begin on September 22 (Hayden Field/CNBC)",
-            "link": "http://www.techmeme.com/250502/p18#a250502p18",
-            "published": "Fri, 02 May 2025 12:20:31 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Google Plans to Roll Out Gemini A.I. Chatbot to Children Under 13",
+            "link": "https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html",
+            "published": "Fri, 02 May 2025 18:05:13 +0000"
+        },
+        {
             "title": "Justice Dept. Lawyers Say US Wants to Break Up Google\u2019s Ad Technology",
             "link": "https://www.nytimes.com/2025/05/02/technology/google-advertising-technology-hearing.html",
-            "published": "Fri, 02 May 2025 18:01:58 +0000"
+            "published": "Fri, 02 May 2025 18:01:59 +0000"
         },
         {
             "title": "TikTok Fined $600 Million for Sending European User Data to China",
@@ -38,24 +43,19 @@
             "published": "Fri, 02 May 2025 18:10:08 +0000"
         },
         {
-            "title": "How a U.S. Tax Loophole Supercharged China\u2019s Exports",
-            "link": "https://www.nytimes.com/2025/05/02/business/china-tariffs-economy-de-minimis.html",
-            "published": "Fri, 02 May 2025 04:51:39 +0000"
-        },
-        {
             "title": "The Dangers of A.I. Flattery + Kevin Meets the Orb + Group Chat Chat",
             "link": "https://www.nytimes.com/2025/05/02/podcasts/hardfork-ai-flattery.html",
             "published": "Fri, 02 May 2025 11:00:03 +0000"
         },
         {
-            "title": "Google Plans to Roll Out Gemini A.I. Chatbot to Children Under 13",
-            "link": "https://www.nytimes.com/2025/05/02/technology/google-gemini-ai-chatbot-kids.html",
-            "published": "Fri, 02 May 2025 18:05:13 +0000"
+            "title": "Apple\u2019s Quarterly Earnings Tops Wall Street Expectations With $24.78 Billion Profit",
+            "link": "https://www.nytimes.com/2025/05/01/technology/apple-earnings-profit.html",
+            "published": "Thu, 01 May 2025 22:35:07 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Co-op hackers stole 'significant' amount of customer data",
+            "title": "Co-op cyber attack affects customer data, firm admits, after hackers contact BBC",
             "link": "https://www.bbc.com/news/articles/crkx3vy54nzo",
             "published": "Fri, 02 May 2025 17:41:13 GMT"
         },
