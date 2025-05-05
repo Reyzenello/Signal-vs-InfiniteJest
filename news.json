@@ -1,17 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Researchers: open source serialization tool easyjson, developed by Russia's VK Group and widely used by the US DOD and others, poses a national security risk (Matt Burgess/Wired)",
+            "title": "Meta AI goes beyond ChatGPT and Gemini regarding privacy concerns, building a detailed Memory file that includes sensitive personal information about the user (Geoffrey A. Fowler/Washington Post)",
+            "link": "http://www.techmeme.com/250505/p7#a250505p7",
+            "published": "Mon, 05 May 2025 09:25:01 -0400"
+        },
+        {
+            "title": "Researchers warn that open-source Go serialization tool easyjson, owned by Russia's VK Group and used by the US DOD and others, poses a national security risk (Matt Burgess/Wired)",
             "link": "http://www.techmeme.com/250505/p6#a250505p6",
             "published": "Mon, 05 May 2025 08:15:01 -0400"
         },
         {
-            "title": "Tether CEO Paolo Ardoino announces Tether AI, an open-source AI runtime that supports USDT and Bitcoin payments without a central point of failure (Sam Reynolds/CoinDesk)",
+            "title": "Tether CEO Paolo Ardoino announces Tether AI, an open-source AI runtime that supports USDT and Bitcoin payments with no API keys or a central point of failure (Sam Reynolds/CoinDesk)",
             "link": "http://www.techmeme.com/250505/p5#a250505p5",
             "published": "Mon, 05 May 2025 07:45:00 -0400"
         },
         {
-            "title": "Some say ChatGPT fueled their loved ones' spiritual delusions; experts warn AI's human-like chats can exacerbate existing psychological vulnerabilities (Miles Klee/Rolling Stone)",
+            "title": "Some say ChatGPT fueled their loved ones' religious delusions of grandeur; experts warn that human-like chats can worsen tendencies toward psychological issues (Miles Klee/Rolling Stone)",
             "link": "http://www.techmeme.com/250505/p4#a250505p4",
             "published": "Mon, 05 May 2025 06:40:00 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "An interview with Phillip Koskinas, the head of anti-cheat at Riot Games, on the various strategies the company employs to combat cheaters and cheat developers (Lorenzo Franceschi-Bicchierai/TechCrunch)",
             "link": "http://www.techmeme.com/250505/p3#a250505p3",
             "published": "Mon, 05 May 2025 04:40:00 -0400"
-        },
-        {
-            "title": "A look at \"kidfluencers\" in Brazil who promote online get-rich-quick schemes to other children on TikTok, Kwai, and Instagram, amid growing government scrutiny (Pedro Nakamura/Rest of World)",
-            "link": "http://www.techmeme.com/250505/p2#a250505p2",
-            "published": "Mon, 05 May 2025 02:10:01 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "A.I. Hallucinations Are Getting Worse, Even as New Systems Become More Powerful",
             "link": "https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html",
-            "published": "Mon, 05 May 2025 09:01:39 +0000"
+            "published": "Mon, 05 May 2025 09:01:40 +0000"
         }
     ],
     "source_2": [
