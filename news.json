@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "The AI arms race between employers and jobseekers isn't going well for anyone, as applicants turn to GenAI to speed up a process that already feels dehumanized (Sarah O'Connor/Financial Times)",
+            "link": "http://www.techmeme.com/250507/p6#a250507p6",
+            "published": "Wed, 07 May 2025 04:25:03 -0400"
+        },
+        {
             "title": "A look at the impact of ChatGPT use on energy consumption, as analysis suggests AI usage is still a rounding error on a person's total electricity footprint (Hannah Ritchie/Sustainability)",
             "link": "http://www.techmeme.com/250507/p5#a250507p5",
             "published": "Wed, 07 May 2025 02:35:01 -0400"
         },
         {
-            "title": "DoorDash's planned takeover of Deliveroo has renewed questions about the UK's ability to attract and retain large tech listings in the face of NY's dominance (Financial Times)",
+            "title": "DoorDash's planned Deliveroo acquisition renews questions about the UK's ability to attract and retain large tech listings in the face of New York's dominance (Financial Times)",
             "link": "http://www.techmeme.com/250507/p4#a250507p4",
             "published": "Wed, 07 May 2025 01:20:02 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "The CFPB says it will stop enforcing a Biden-era rule treating BNPL firms like credit card lenders; Affirm and other BNPL firms had opposed the rule (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250507/p2#a250507p2",
             "published": "Wed, 07 May 2025 00:50:00 -0400"
-        },
-        {
-            "title": "New Hampshire becomes the first US state to pass a \"Strategic Bitcoin Reserve\" bill, permitting public fund investment in BTC, either directly or through an ETF (Daniel Kuhn/The Block)",
-            "link": "http://www.techmeme.com/250507/p1#a250507p1",
-            "published": "Wed, 07 May 2025 00:30:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Maker of Pegasus spyware told to pay $167m for WhatsApp hack",
+            "link": "https://www.bbc.com/news/articles/c77n76kzmz4o",
+            "published": "Wed, 07 May 2025 08:30:00 GMT"
+        },
+        {
             "title": "Delivery delays and empty shelves at Co-op after cyber attack",
             "link": "https://www.bbc.com/news/articles/cze1eg3z307o",
             "published": "Tue, 06 May 2025 15:25:09 GMT"
@@ -73,11 +78,6 @@
             "title": "Beware phony IT calls after Co-op and M&S hacks, says UK cyber centre",
             "link": "https://www.bbc.com/news/articles/c4grn878712o",
             "published": "Mon, 05 May 2025 10:30:03 GMT"
-        },
-        {
-            "title": "Long-distance romance and closure from husband's death - your memories of Skype",
-            "link": "https://www.bbc.com/news/articles/cp913ze3k9jo",
-            "published": "Sun, 04 May 2025 03:18:58 GMT"
         }
     ]
 }
