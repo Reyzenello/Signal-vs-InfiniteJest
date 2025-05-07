@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A look at the hype and reality surrounding AI agents, currently used primarily by companies to boost efficiency and cut costs, rather than drive top-line growth (Lucy Colback/Financial Times)",
+            "link": "http://www.techmeme.com/250507/p9#a250507p9",
+            "published": "Wed, 07 May 2025 05:20:01 -0400"
+        },
+        {
+            "title": "US credit and debit card data: Shein's US sales dropped 23% during the week of April 25 to May 1 compared to the prior seven days, while Temu's sales fell 17% (Bloomberg)",
+            "link": "http://www.techmeme.com/250507/p8#a250507p8",
+            "published": "Wed, 07 May 2025 05:05:02 -0400"
+        },
+        {
+            "title": "Leaked audio and memos: Uber CEO Dara Khosrowshahi defended increasing the RTO to three days per week at a heated all-hands meeting, saying \"it is what it is\" (Jennifer Elias/CNBC)",
+            "link": "http://www.techmeme.com/250507/p7#a250507p7",
+            "published": "Wed, 07 May 2025 04:40:05 -0400"
+        },
+        {
             "title": "The AI arms race between employers and jobseekers isn't going well for anyone, as applicants turn to GenAI to speed up a process that already feels dehumanized (Sarah O'Connor/Financial Times)",
             "link": "http://www.techmeme.com/250507/p6#a250507p6",
             "published": "Wed, 07 May 2025 04:25:03 -0400"
@@ -9,28 +24,13 @@
             "title": "A look at the impact of ChatGPT use on energy consumption, as analysis suggests AI usage is still a rounding error on a person's total electricity footprint (Hannah Ritchie/Sustainability)",
             "link": "http://www.techmeme.com/250507/p5#a250507p5",
             "published": "Wed, 07 May 2025 02:35:01 -0400"
-        },
-        {
-            "title": "DoorDash's planned Deliveroo acquisition renews questions about the UK's ability to attract and retain large tech listings in the face of New York's dominance (Financial Times)",
-            "link": "http://www.techmeme.com/250507/p4#a250507p4",
-            "published": "Wed, 07 May 2025 01:20:02 -0400"
-        },
-        {
-            "title": "Jeff Bezos and Michael Dell's family offices have committed $1B in total to Coatue's new investment fund targeting high-growth public and private tech companies (Angel Au-Yeung/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250507/p3#a250507p3",
-            "published": "Wed, 07 May 2025 01:00:14 -0400"
-        },
-        {
-            "title": "The CFPB says it will stop enforcing a Biden-era rule treating BNPL firms like credit card lenders; Affirm and other BNPL firms had opposed the rule (MacKenzie Sigalos/CNBC)",
-            "link": "http://www.techmeme.com/250507/p2#a250507p2",
-            "published": "Wed, 07 May 2025 00:50:00 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Elon Musk Tried Keeping Issues at His Texas Mansion Private, Emails Show",
             "link": "https://www.nytimes.com/2025/05/06/technology/elon-musk-texas-neighbors.html",
-            "published": "Wed, 07 May 2025 00:47:51 +0000"
+            "published": "Wed, 07 May 2025 00:47:52 +0000"
         },
         {
             "title": "A.I. Hallucinations Are Getting Worse, Even as New Systems Become More Powerful",
@@ -48,12 +48,17 @@
             "published": "Mon, 05 May 2025 20:11:30 +0000"
         },
         {
-            "title": "NSO Group Ordered to Pay Meta $167 Million in Damages",
-            "link": "https://www.nytimes.com/2025/05/06/technology/nso-meta-damages-whatsapp.html",
-            "published": "Tue, 06 May 2025 23:40:24 +0000"
+            "title": "How to Use A.I.-Powered Writing Tools on Your iPhone and Android",
+            "link": "https://www.nytimes.com/2025/05/07/technology/personaltech/ai-writing-tools-phone.html",
+            "published": "Wed, 07 May 2025 09:01:49 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Ofcom needs more powers to remove misleading posts, says watchdog",
+            "link": "https://www.bbc.com/news/articles/c0jzj18w77yo",
+            "published": "Wed, 07 May 2025 08:53:30 GMT"
+        },
         {
             "title": "Maker of Pegasus spyware told to pay $167m for WhatsApp hack",
             "link": "https://www.bbc.com/news/articles/c77n76kzmz4o",
@@ -73,11 +78,6 @@
             "title": "The people refusing to use AI",
             "link": "https://www.bbc.com/news/articles/c15q5qzdjqxo",
             "published": "Mon, 05 May 2025 23:16:41 GMT"
-        },
-        {
-            "title": "Beware phony IT calls after Co-op and M&S hacks, says UK cyber centre",
-            "link": "https://www.bbc.com/news/articles/c4grn878712o",
-            "published": "Mon, 05 May 2025 10:30:03 GMT"
         }
     ]
 }
