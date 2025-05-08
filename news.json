@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI hires Instacart CEO Fidji Simo as CEO of Applications, reporting to Sam Altman, who says he'll stay CEO focusing \"on research, compute, and safety\" (Sam Altman/@sama)",
+            "title": "Interview with curl project founder Daniel Stenberg, who likens \"AI slop\" in HackerOne submissions to a DDoS attack, echoing concerns of others like Seth Larson (Kevin Purdy/Ars Technica)",
+            "link": "http://www.techmeme.com/250508/p7#a250508p7",
+            "published": "Thu, 08 May 2025 02:30:01 -0400"
+        },
+        {
+            "title": "In an email to Instacart employees, Fidji Simo says the new CEO will be an existing member of the management team and she will stay on as Chair of the Board (Fidji Simo/Instacart Corporate Blog)",
+            "link": "http://www.techmeme.com/250508/p6#a250508p6",
+            "published": "Thu, 08 May 2025 01:40:03 -0400"
+        },
+        {
+            "title": "OpenAI hires Instacart CEO Fidji Simo as CEO of Applications, reporting to Sam Altman, who says he'll stay CEO focusing \"on research, compute, and safety\" (OpenAI)",
+            "link": "http://www.techmeme.com/250508/p5#a250508p5",
+            "published": "Thu, 08 May 2025 01:35:01 -0400"
+        },
+        {
+            "title": "so excited that @fidjissimo is joining openai in a new role: ceo of applications, reporting to me. i'll remain ceo of openai, but in this new configuration i'll be able to increase my focus on research, compute, and safety. these are critical as we approach superintelligence. (Sam Altman/@sama)",
             "link": "http://www.techmeme.com/250508/p4#a250508p4",
             "published": "Thu, 08 May 2025 01:26:49 -0400"
         },
@@ -9,48 +24,33 @@
             "title": "In prepared Senate testimony, Microsoft and others urge US lawmakers to streamline federal AI energy permits and open government data sets for AI training (David Shepardson/Reuters)",
             "link": "http://www.techmeme.com/250508/p3#a250508p3",
             "published": "Thu, 08 May 2025 01:15:02 -0400"
-        },
-        {
-            "title": "Latin American e-commerce and fintech giant MercadoLibre reports Q1 revenue up 37% YoY to $5.9B, $494M in net income, and Argentina revenue up 125% YoY to $1.3B (Daniel Cancel/Bloomberg)",
-            "link": "http://www.techmeme.com/250508/p2#a250508p2",
-            "published": "Thu, 08 May 2025 01:10:02 -0400"
-        },
-        {
-            "title": "Nebius Group's Toloka, which uses human experts to train and evaluate AI models and has worked with Amazon and Anthropic, raised $72M led by Bezos Expeditions (Alexander Marrow/Reuters)",
-            "link": "http://www.techmeme.com/250508/p1#a250508p1",
-            "published": "Thu, 08 May 2025 01:05:01 -0400"
-        },
-        {
-            "title": "Eddy Cue's disclosure of Apple's plan to shift its browser to AI systems had a clear goal of downplaying the importance of Apple's search deal with Google (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/250507/p54#a250507p54",
-            "published": "Wed, 07 May 2025 23:30:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Elon Musk Tried Keeping Issues at His Texas Mansion Private, Emails Show",
-            "link": "https://www.nytimes.com/2025/05/06/technology/elon-musk-texas-neighbors.html",
-            "published": "Wed, 07 May 2025 00:47:52 +0000"
-        },
-        {
-            "title": "A.I. Hallucinations Are Getting Worse, Even as New Systems Become More Powerful",
-            "link": "https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html",
-            "published": "Tue, 06 May 2025 20:26:49 +0000"
-        },
-        {
-            "title": "OpenAI Backtracks on Plans to Drop Nonprofit Control",
-            "link": "https://www.nytimes.com/2025/05/05/technology/openai-nonprofit.html",
-            "published": "Tue, 06 May 2025 03:05:59 +0000"
-        },
-        {
-            "title": "Elon Musk, His 16-Foot Wall and the Feud With His Texas Neighbors",
-            "link": "https://www.nytimes.com/2025/05/05/technology/elon-musk-texas-neighbors.html",
-            "published": "Mon, 05 May 2025 20:11:30 +0000"
+            "title": "OpenAI Hires Instacart C.E.O. to Run Business and Operations",
+            "link": "https://www.nytimes.com/2025/05/08/technology/openai-fidji-simo.html",
+            "published": "Thu, 08 May 2025 05:53:46 +0000"
         },
         {
             "title": "Uber Revenue Is Up 14%, Despite Economic Fears",
             "link": "https://www.nytimes.com/2025/05/07/technology/uber-earnings-revenue-tariffs.html",
             "published": "Wed, 07 May 2025 18:06:13 +0000"
+        },
+        {
+            "title": "NSO Group Ordered to Pay Meta $167 Million in Damages",
+            "link": "https://www.nytimes.com/2025/05/06/technology/nso-meta-damages-whatsapp.html",
+            "published": "Tue, 06 May 2025 23:40:25 +0000"
+        },
+        {
+            "title": "How to Use A.I.-Powered Writing Tools on Your iPhone and Android",
+            "link": "https://www.nytimes.com/2025/05/07/technology/personaltech/ai-writing-tools-phone.html",
+            "published": "Wed, 07 May 2025 15:30:56 +0000"
+        },
+        {
+            "title": "Elon Musk Tried Keeping Issues at His Texas Mansion Private, Emails Show",
+            "link": "https://www.nytimes.com/2025/05/06/technology/elon-musk-texas-neighbors.html",
+            "published": "Wed, 07 May 2025 00:47:52 +0000"
         }
     ],
     "source_2": [
