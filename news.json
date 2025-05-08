@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Filing: Apple seeks to pause the part of the April 30 US federal court ruling that blocked it from charging App Store commissions on outside transactions (Bloomberg)",
+            "link": "http://www.techmeme.com/250507/p51#a250507p51",
+            "published": "Wed, 07 May 2025 21:20:03 -0400"
+        },
+        {
+            "title": "WisdomAI, which offers AI-powered data analytics from structured, unstructured, and \"dirty\" data, launches with a $23M seed led by Coatue Ventures (Julie Bort/TechCrunch)",
+            "link": "http://www.techmeme.com/250507/p50#a250507p50",
+            "published": "Wed, 07 May 2025 20:55:03 -0400"
+        },
+        {
+            "title": "TPG and Corpay agree to acquire Charlotte, NC-based AvidXchange, a payment automation software provider, for $2.2B, with Corpay investing ~$500M for a 33% stake (Reuters)",
+            "link": "http://www.techmeme.com/250507/p49#a250507p49",
+            "published": "Wed, 07 May 2025 20:25:00 -0400"
+        },
+        {
+            "title": "Samsung plans to launch the Galaxy S25 Edge at a May 12 virtual event at 8pm ET, and reservations for the super-slim device are now open with a $50 credit (Ben Schoon/9to5Google)",
+            "link": "http://www.techmeme.com/250507/p48#a250507p48",
+            "published": "Wed, 07 May 2025 19:35:01 -0400"
+        },
+        {
             "title": "At Stripe Sessions, the company announced an AI foundation model for payments, plans for stablecoin-powered accounts, a recent migration with Nvidia, and more (Mary Ann Azevedo/TechCrunch)",
             "link": "http://www.techmeme.com/250507/p47#a250507p47",
             "published": "Wed, 07 May 2025 19:00:33 -0400"
-        },
-        {
-            "title": "Anthropic launches web search on its API for Claude 3.7 Sonnet, 3.5 Sonnet, and 3.5 Haiku at $10/1K searches, giving the models access to up-to-date information (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250507/p46#a250507p46",
-            "published": "Wed, 07 May 2025 18:30:01 -0400"
-        },
-        {
-            "title": "Alibaba partners with RedNote, also known as Xiaohongshu, to allow users on RedNote to directly click on product links to shop on Alibaba's Taobao platform (Reuters)",
-            "link": "http://www.techmeme.com/250507/p45#a250507p45",
-            "published": "Wed, 07 May 2025 18:00:32 -0400"
-        },
-        {
-            "title": "AppLovin reports Q1 revenue up 40% YoY to $1.48B, vs. $1.38B est., net income up 144% to $576M, and forecasts Q2 revenue below est.; APP jumps 13%+ after hours (Jonathan Vanian/CNBC)",
-            "link": "http://www.techmeme.com/250507/p44#a250507p44",
-            "published": "Wed, 07 May 2025 17:30:00 -0400"
-        },
-        {
-            "title": "The Commerce Department says it will rescind the Biden-era \"AI diffusion rule\", which limits exports of AI chips and is set to take effect on May 15 (Bloomberg)",
-            "link": "http://www.techmeme.com/250507/p43#a250507p43",
-            "published": "Wed, 07 May 2025 17:25:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "iPhone maker announces plan to build Mitsubishi EVs",
+            "link": "https://www.bbc.com/news/articles/cz7974l151po",
+            "published": "Thu, 08 May 2025 01:51:00 GMT"
+        },
+        {
             "title": "Ofcom needs more powers to remove misleading posts, says watchdog",
             "link": "https://www.bbc.com/news/articles/c0jzj18w77yo",
             "published": "Wed, 07 May 2025 09:38:02 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI says non-profit will remain in control after backlash",
             "link": "https://www.bbc.com/news/articles/cwy603eg0w8o",
             "published": "Mon, 05 May 2025 23:08:41 GMT"
-        },
-        {
-            "title": "The people refusing to use AI",
-            "link": "https://www.bbc.com/news/articles/c15q5qzdjqxo",
-            "published": "Mon, 05 May 2025 23:16:41 GMT"
         }
     ]
 }
