@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Analysis: ~66% of US data center projects built or in development since 2022 are in areas with high water stress, with five states having 72% of new facilities (Bloomberg)",
+            "link": "http://www.techmeme.com/250508/p20#a250508p20",
+            "published": "Thu, 08 May 2025 06:25:02 -0400"
+        },
+        {
+            "title": "The Greater Memphis Chamber says xAI is using Tesla's 150MW Megapack batteries to shore up its Colossus supercomputer; xAI spent ~$230M on them in 2024 and 2025 (Dana Hull/Bloomberg)",
+            "link": "http://www.techmeme.com/250508/p19#a250508p19",
+            "published": "Thu, 08 May 2025 06:10:01 -0400"
+        },
+        {
+            "title": "Rockstar says its new Grand Theft Auto VI trailer was \"captured entirely in-game from a PlayStation 5, comprised of equal parts gameplay and cutscenes\" (Andrew Webster/The Verge)",
+            "link": "http://www.techmeme.com/250508/p18#a250508p18",
+            "published": "Thu, 08 May 2025 05:55:03 -0400"
+        },
+        {
+            "title": "Reddit CEO Steve Huffman says the service will work with \"various third-party services\" to verify a user's humanity, after an AI experiment in r/ChangeMyView (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/250508/p17#a250508p17",
+            "published": "Thu, 08 May 2025 05:40:05 -0400"
+        },
+        {
             "title": "The US OCC says banks can buy and sell customers' crypto assets on their behalf and can outsource crypto custody and trade execution services to third parties (Danny Park/The Block)",
             "link": "http://www.techmeme.com/250508/p16#a250508p16",
             "published": "Thu, 08 May 2025 04:55:01 -0400"
-        },
-        {
-            "title": "The European Commission is facing pressure from member states, led by Ireland, to require Google, Meta, and others to vet financial ads for potential scams (Financial Times)",
-            "link": "http://www.techmeme.com/250508/p15#a250508p15",
-            "published": "Thu, 08 May 2025 04:40:01 -0400"
-        },
-        {
-            "title": "Nintendo projects Switch 2 sales to reach 15M units for the fiscal year ending March 2026, below 16.8M est., and $2.2B annual operating profit, below est. (Takashi Mochizuki/Bloomberg)",
-            "link": "http://www.techmeme.com/250508/p14#a250508p14",
-            "published": "Thu, 08 May 2025 04:25:01 -0400"
-        },
-        {
-            "title": "OpenAI says Fidji Simo will lead its business and operations teams in her new role as CEO of Applications, overseeing sales, marketing, and finance (Mike Isaac/New York Times)",
-            "link": "http://www.techmeme.com/250508/p13#a250508p13",
-            "published": "Thu, 08 May 2025 04:15:02 -0400"
-        },
-        {
-            "title": "Source: Fidji Simo will oversee several OpenAI executives who previously reported to Altman, including COO Brad Lightcap, CFO Sarah Friar, and CPO Kevin Weil (Bloomberg)",
-            "link": "http://www.techmeme.com/250508/p12#a250508p12",
-            "published": "Thu, 08 May 2025 04:05:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Wikipedia legally challenges 'flawed' online safety rules",
+            "link": "https://www.bbc.com/news/articles/c62j2gr8866o",
+            "published": "Thu, 08 May 2025 09:30:31 GMT"
+        },
+        {
             "title": "Apple hits back at US judge's 'extraordinary' contempt order",
             "link": "https://www.bbc.com/news/articles/c3r8rg4w2v0o",
             "published": "Thu, 08 May 2025 07:49:45 GMT"
@@ -73,11 +78,6 @@
             "title": "Ofcom needs more powers to remove misleading posts, says watchdog",
             "link": "https://www.bbc.com/news/articles/c0jzj18w77yo",
             "published": "Wed, 07 May 2025 09:38:02 GMT"
-        },
-        {
-            "title": "Maker of Pegasus spyware told to pay $167m for WhatsApp hack",
-            "link": "https://www.bbc.com/news/articles/c77n76kzmz4o",
-            "published": "Wed, 07 May 2025 10:26:35 GMT"
         }
     ]
 }
