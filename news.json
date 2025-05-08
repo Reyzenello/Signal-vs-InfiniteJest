@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Q&A with Bill Gates on shutting down the Gates Foundation on December 31, 2045, the Trump administration, Elon Musk, AI drug discovery, AI's potential, and more (David Wallace-Wells/New York Times)",
+            "title": "Coinbase agrees to acquire Dubai-based Deribit, the world's biggest trading platform for bitcoin and ether options, for ~$2.9B, including $700M in cash (Lauren Thomas/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250508/p28#a250508p28",
+            "published": "Thu, 08 May 2025 09:41:43 -0400"
+        },
+        {
+            "title": "Q&A with Bill Gates on closing the Gates Foundation on December 31, 2045, donating ~$200B, President Trump, Elon Musk, AI drug discovery, AI advances, and more (David Wallace-Wells/New York Times)",
             "link": "http://www.techmeme.com/250508/p27#a250508p27",
             "published": "Thu, 08 May 2025 09:02:09 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "SMIC reports Q1 revenue up 28.4% YoY to $2.2B, vs. $2.3B est., profit up 161.9% YoY to $188M, vs. $222.4M est., and says H2 has \"opportunities and challenges\" (Reuters)",
             "link": "http://www.techmeme.com/250508/p24#a250508p24",
             "published": "Thu, 08 May 2025 07:55:01 -0400"
-        },
-        {
-            "title": "Hackers defaced the LockBit ransomware gang's dark web affiliate panels, linking to a MySQL database dump, including 59,975 BTC addresses and 4,442 victim chats (Lawrence Abrams/BleepingComputer)",
-            "link": "http://www.techmeme.com/250508/p23#a250508p23",
-            "published": "Thu, 08 May 2025 07:45:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Pay day banking outages hit 1.2m people, banks reveal",
+            "link": "https://www.bbc.com/news/articles/c7875w07l93o",
+            "published": "Thu, 08 May 2025 13:28:41 GMT"
+        },
+        {
             "title": "Wikipedia legally challenges 'flawed' online safety rules",
             "link": "https://www.bbc.com/news/articles/c62j2gr8866o",
             "published": "Thu, 08 May 2025 09:30:31 GMT"
@@ -73,11 +78,6 @@
             "title": "iPhone maker announces plan to build Mitsubishi EVs",
             "link": "https://www.bbc.com/news/articles/cz7974l151po",
             "published": "Thu, 08 May 2025 01:51:00 GMT"
-        },
-        {
-            "title": "Ofcom needs more powers to remove misleading posts, says watchdog",
-            "link": "https://www.bbc.com/news/articles/c0jzj18w77yo",
-            "published": "Wed, 07 May 2025 09:38:02 GMT"
         }
     ]
 }
