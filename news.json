@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "An Arizona man was sentenced to 10.5 years in prison after his deceased victim gave an impact statement to the court via an AI-generated video (David K. Li/NBC News)",
+            "link": "http://www.techmeme.com/250509/p6#a250509p6",
+            "published": "Fri, 09 May 2025 08:35:00 -0400"
+        },
+        {
+            "title": "Sources: CoreWeave plans to raise ~$1.5B through a high-yield bond offering, aiming to refinance part of its massive liabilities, weeks after a muted IPO (Financial Times)",
+            "link": "http://www.techmeme.com/250509/p5#a250509p5",
+            "published": "Fri, 09 May 2025 07:25:01 -0400"
+        },
+        {
             "title": "Appfigures estimates Apple's US App Store revenue from commissions was ~$10.1B in 2024, more than doubling from ~$4.76B in 2020 (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/250509/p4#a250509p4",
             "published": "Fri, 09 May 2025 06:45:01 -0400"
@@ -11,19 +21,9 @@
             "published": "Fri, 09 May 2025 05:40:02 -0400"
         },
         {
-            "title": "Japan's Panasonic says it will cut 10,000 jobs, including 5,000 roles overseas, and book ~$895M in restructuring charges in the current fiscal year (Yuki Furukawa/Bloomberg)",
+            "title": "Panasonic says it will cut 10,000 jobs, or 4%+ of its staff, 5,000 in Japan and 5,000 overseas, and expects ~$895M in restructuring charges this fiscal year (Yuki Furukawa/Bloomberg)",
             "link": "http://www.techmeme.com/250509/p2#a250509p2",
             "published": "Fri, 09 May 2025 04:35:01 -0400"
-        },
-        {
-            "title": "Huawei teases its first laptop running HarmonyOS 5, after its Windows license for PCs expired in March 2025, and plans a full reveal on May 19 (Coco Feng/South China Morning Post)",
-            "link": "http://www.techmeme.com/250509/p1#a250509p1",
-            "published": "Fri, 09 May 2025 02:05:00 -0400"
-        },
-        {
-            "title": "Broadcom is sending cease-and-desist letters to owners of VMware perpetual licenses with expired support contracts, to get them to buy VMware product bundles (Scharon Harding/Ars Technica)",
-            "link": "http://www.techmeme.com/250508/p55#a250508p55",
-            "published": "Thu, 08 May 2025 23:05:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Two porn sites investigated for suspected age check failings",
+            "link": "https://www.bbc.com/news/articles/cx2qn1j0jd6o",
+            "published": "Fri, 09 May 2025 12:09:22 GMT"
+        },
+        {
             "title": "Pay day banking outages hit 1.2m people, banks reveal",
             "link": "https://www.bbc.com/news/articles/c7875w07l93o",
             "published": "Thu, 08 May 2025 15:47:05 GMT"
@@ -73,11 +78,6 @@
             "title": "Arizona man shot to death in road rage 'returns' to address his killer",
             "link": "https://www.bbc.com/news/articles/cq808px90wxo",
             "published": "Wed, 07 May 2025 22:27:48 GMT"
-        },
-        {
-            "title": "iPhone maker announces plan to build Mitsubishi EVs",
-            "link": "https://www.bbc.com/news/articles/cz7974l151po",
-            "published": "Thu, 08 May 2025 01:51:00 GMT"
         }
     ]
 }
