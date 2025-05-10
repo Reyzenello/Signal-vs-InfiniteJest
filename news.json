@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Ramp AI index: 32.4% of US businesses had OpenAI subscriptions in April, up from 28% in March; Google AI subscriptions fell from 2.3% in Feb. to 0.1% in April (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250510/p13#a250510p13",
+            "published": "Sat, 10 May 2025 14:40:27 -0400"
+        },
+        {
             "title": "Q&A with Sonos interim CEO Tom Conrad on the disastrous app redesign, the Ace headphones, subscriptions, the canceled video player, Google, and more (Chris Welch/The Verge)",
             "link": "http://www.techmeme.com/250510/p12#a250510p12",
             "published": "Sat, 10 May 2025 13:30:02 -0400"
@@ -19,33 +24,28 @@
             "title": "A look at Microsoft's Threat Intelligence Center, staffed largely by ex-intelligence and military personnel, which has become a key pillar of US cyber defense (Bloomberg)",
             "link": "http://www.techmeme.com/250510/p9#a250510p9",
             "published": "Sat, 10 May 2025 09:35:01 -0400"
-        },
-        {
-            "title": "A study finds that asking LLMs to be concise in their answers, particularly on ambiguous topics, can negatively affect factuality and worsen hallucinations (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250510/p8#a250510p8",
-            "published": "Sat, 10 May 2025 06:35:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk\u2019s Use of X Mimics Hearst\u2019s and Ford\u2019s Manipulation of Media",
+            "link": "https://www.nytimes.com/2025/05/10/technology/elon-musk-x-ford-hearst.html",
+            "published": "Sat, 10 May 2025 09:00:28 +0000"
+        },
+        {
+            "title": "Google Agrees to Pay $1.4 Billion to Settle 2 Privacy Lawsuits",
+            "link": "https://www.nytimes.com/2025/05/09/technology/google-texas-privacy-settlement.html",
+            "published": "Sat, 10 May 2025 01:39:15 +0000"
+        },
         {
             "title": "How Apple Created a Legal Mess When It Skirted Judge\u2019s Ruling",
             "link": "https://www.nytimes.com/2025/05/09/technology/apple-app-store-antitrust.html",
             "published": "Fri, 09 May 2025 23:07:33 +0000"
         },
         {
-            "title": "How iPhone Apps Are Changing After a Recent App Store Ruling",
-            "link": "https://www.nytimes.com/2025/05/09/technology/iphone-app-store-changes.html",
-            "published": "Fri, 09 May 2025 23:08:12 +0000"
-        },
-        {
-            "title": "The 2006 Zuckerberg Quote at the Center of Meta\u2019s Antitrust Trial",
-            "link": "https://www.nytimes.com/2025/05/09/technology/meta-antitrust-trial-competitors.html",
-            "published": "Fri, 09 May 2025 14:55:05 +0000"
-        },
-        {
-            "title": "U.S. v. Google: What Both Sides Argued in a Hearing to Fix Its Search Monopoly",
-            "link": "https://www.nytimes.com/2025/05/09/technology/google-chrome-monopoly-remedies.html",
-            "published": "Fri, 09 May 2025 17:48:51 +0000"
+            "title": "Bad Apple, the Rise of the A.I. Empire and Italian Brain Rot",
+            "link": "https://www.nytimes.com/2025/05/09/podcasts/hardfork-apple-app-store.html",
+            "published": "Fri, 09 May 2025 11:00:05 +0000"
         },
         {
             "title": "\u2018The Interview\u2019: Can Whitney Wolfe Herd Make Us Love Dating Apps Again?",
