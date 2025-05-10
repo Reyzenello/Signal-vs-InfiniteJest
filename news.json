@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Texas AG Ken Paxton says Google has agreed in principle to pay $1.375B to settle allegations of violating data privacy rights of the state's residents (CNBC)",
+            "title": "Q&A with SAP CEO Christian Klein on data security, Databricks partnership, building a \"social network for B2B\", positioning SAP as a neutral player, and more (Ben Thompson/Stratechery)",
+            "link": "http://www.techmeme.com/250509/p24#a250509p24",
+            "published": "Fri, 09 May 2025 21:45:00 -0400"
+        },
+        {
+            "title": "Google agrees to pay Texas $1.4B to settle two lawsuits claiming it tracks Texans' personal location and maintains their facial recognition data without consent (Ryan Autullo/Bloomberg Law)",
+            "link": "http://www.techmeme.com/250509/p23#a250509p23",
+            "published": "Fri, 09 May 2025 19:35:03 -0400"
+        },
+        {
+            "title": "Pinterest agrees to pay $34.7M to settle a 2021 lawsuit from Christine Martinez, an early adviser who claimed she co-created the platform without compensation (Eli Tan/New York Times)",
+            "link": "http://www.techmeme.com/250509/p22#a250509p22",
+            "published": "Fri, 09 May 2025 19:30:01 -0400"
+        },
+        {
+            "title": "Google agrees to pay Texas $1.4 billion data privacy settlement (Dan Mangan/CNBC)",
             "link": "http://www.techmeme.com/250509/p21#a250509p21",
             "published": "Fri, 09 May 2025 19:10:01 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "A profile of Gail Slater, the head of the DOJ's antitrust unit who has become the leader of the MAGA antitrust movement over Big Tech \"censorship\" concerns (Nancy Scola/Politico)",
             "link": "http://www.techmeme.com/250509/p20#a250509p20",
             "published": "Fri, 09 May 2025 18:45:02 -0400"
-        },
-        {
-            "title": "President Claudia Sheinbaum says Mexico is suing Google for ignoring requests not to call the Gulf of Mexico the Gulf of America on Google Maps in the US (Danai Nesta Kupemba/BBC)",
-            "link": "http://www.techmeme.com/250509/p19#a250509p19",
-            "published": "Fri, 09 May 2025 17:15:01 -0400"
-        },
-        {
-            "title": "Brian Armstrong says Coinbase considered allocating 80% of its balance sheet into bitcoin but decided against the scheme as it was too risky (Olga Kharif/Bloomberg)",
-            "link": "http://www.techmeme.com/250509/p18#a250509p18",
-            "published": "Fri, 09 May 2025 17:05:00 -0400"
-        },
-        {
-            "title": "Sources: Snowflake challenger ClickHouse is in talks to raise hundreds of millions led by Khosla Ventures at a $6B valuation, triple its valuation from 2021 (Sri Muppidi/The Information)",
-            "link": "http://www.techmeme.com/250509/p17#a250509p17",
-            "published": "Fri, 09 May 2025 16:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 09 May 2025 17:48:51 +0000"
         },
         {
-            "title": "Pinterest Agreed to Settle Christine Martinez Lawsuit for $34.7 Million",
-            "link": "https://www.nytimes.com/2025/05/09/technology/pinterest-settles-lawsuit-34-7-million.html",
-            "published": "Fri, 09 May 2025 20:46:03 +0000"
+            "title": "Google Agrees to Pay $1.4 Billion to Settle 2 Privacy Lawsuits",
+            "link": "https://www.nytimes.com/2025/05/09/technology/google-texas-privacy-settlement.html",
+            "published": "Sat, 10 May 2025 01:39:15 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Elton John and Dua Lipa seek protection from AI",
+            "link": "https://www.bbc.com/news/articles/c071elp1rv1o",
+            "published": "Sat, 10 May 2025 00:27:24 GMT"
+        },
         {
             "title": "Two porn sites investigated for suspected age check failings",
             "link": "https://www.bbc.com/news/articles/cx2qn1j0jd6o",
@@ -73,11 +78,6 @@
             "title": "Apple hits back at US judge's 'extraordinary' contempt order",
             "link": "https://www.bbc.com/news/articles/c3r8rg4w2v0o",
             "published": "Thu, 08 May 2025 15:45:10 GMT"
-        },
-        {
-            "title": "Arizona man shot to death in road rage 'returns' to address his killer",
-            "link": "https://www.bbc.com/news/articles/cq808px90wxo",
-            "published": "Wed, 07 May 2025 22:27:48 GMT"
         }
     ]
 }
