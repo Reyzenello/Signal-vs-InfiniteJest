@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Google announces its Material 3 Expressive design, which it will roll out to Android and Wear OS, nearly four years after introducing Material You (Mindy Brooks/The Keyword)",
+            "link": "http://www.techmeme.com/250513/p30#a250513p30",
+            "published": "Tue, 13 May 2025 13:20:51 -0400"
+        },
+        {
+            "title": "Google announces Android 16 security features like expanded fraud detection in Messages, prevention of some actions while on calls, like side loading apps, more (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/250513/p29#a250513p29",
+            "published": "Tue, 13 May 2025 13:15:01 -0400"
+        },
+        {
+            "title": "Global tablet shipments grew 8.5% YoY to 36.8M in Q1, led by consumer and education refresh cycles; Apple's market share grew 14% to 37%, above Samsung's 18% (Canalys)",
+            "link": "http://www.techmeme.com/250513/p28#a250513p28",
+            "published": "Tue, 13 May 2025 12:51:02 -0400"
+        },
+        {
+            "title": "FTC v. Meta: the US case may come down to whether Judge James Boasberg believes blockchain social platform MeWe is a closer competitor to Instagram than TikTok (Lauren Feiner/The Verge)",
+            "link": "http://www.techmeme.com/250513/p27#a250513p27",
+            "published": "Tue, 13 May 2025 12:40:03 -0400"
+        },
+        {
             "title": "The US Commerce Department formally rescinds the Biden-era AI Diffusion Rule, which would have limited US AI chip exports and taken effect on May 13 (Rebecca Szkutak/TechCrunch)",
             "link": "http://www.techmeme.com/250513/p26#a250513p26",
             "published": "Tue, 13 May 2025 12:20:28 -0400"
-        },
-        {
-            "title": "Yuga Labs sells its CryptoPunks NFT collection, acquired in 2022, to Infinite Node Foundation for an undisclosed sum, after its market value and sales stagnated (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250513/p25#a250513p25",
-            "published": "Tue, 13 May 2025 12:14:58 -0400"
-        },
-        {
-            "title": "Microsoft says it will lay off 6,000 staff in a bid to cut management layers, including at LinkedIn; Microsoft had 228K staff in June 2024 and cut 10K in 2023 (Bloomberg)",
-            "link": "http://www.techmeme.com/250513/p24#a250513p24",
-            "published": "Tue, 13 May 2025 12:05:26 -0400"
-        },
-        {
-            "title": "Microsoft is cutting 3% of its workforce (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/250513/p23#a250513p23",
-            "published": "Tue, 13 May 2025 10:38:01 -0400"
-        },
-        {
-            "title": "Sources: Saudi Arabia's sovereign wealth fund-backed AI company Humain picked US-based chipmaker Groq for inference; Groq plans to expand its Dammam data center (Kelsey Warner/Semafor)",
-            "link": "http://www.techmeme.com/250513/p22#a250513p22",
-            "published": "Tue, 13 May 2025 10:33:12 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Tesla Board Chair Robyn Denholm Made $198 Million Selling Stock as Profit Fell",
             "link": "https://www.nytimes.com/2025/05/13/business/tesla-stock-sales-robyn-denholm.html",
-            "published": "Tue, 13 May 2025 16:13:22 +0000"
+            "published": "Tue, 13 May 2025 16:57:27 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "M&S says customer data stolen in cyber attack",
+            "link": "https://www.bbc.com/news/articles/c62v34zv828o",
+            "published": "Tue, 13 May 2025 13:56:38 GMT"
+        },
         {
             "title": "US cuts tariffs on small parcels from Chinese firms like Shein and Temu",
             "link": "https://www.bbc.com/news/articles/c308pg239n1o",
@@ -73,11 +78,6 @@
             "title": "Two porn sites investigated for suspected age check failings",
             "link": "https://www.bbc.com/news/articles/cx2qn1j0jd6o",
             "published": "Fri, 09 May 2025 12:09:22 GMT"
-        },
-        {
-            "title": "Pay day banking outages hit 1.2m people, banks reveal",
-            "link": "https://www.bbc.com/news/articles/c7875w07l93o",
-            "published": "Thu, 08 May 2025 15:47:05 GMT"
         }
     ]
 }
