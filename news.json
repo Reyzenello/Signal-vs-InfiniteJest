@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft plans to shut down Bing Search APIs on August 11; a source says the largest customers will retain access, and DuckDuckGo confirms it won't be affected (Paresh Dave/Wired)",
+            "link": "http://www.techmeme.com/250514/p47#a250514p47",
+            "published": "Wed, 14 May 2025 18:20:01 -0400"
+        },
+        {
+            "title": "Chinese sites like JD.com are offering discounts of up to 2,530 yuan, ~$350, on iPhone 16 models, an effort to spur sales after Q1 shipments fell (Reuters)",
+            "link": "http://www.techmeme.com/250514/p46#a250514p46",
+            "published": "Wed, 14 May 2025 17:35:01 -0400"
+        },
+        {
             "title": "Cisco reports Q3 revenue up 11% YoY to $14.15B, vs. $14.08B est., forecasts Q4 revenue above estimates, and announces CFO Scott Herren will retire on July 26 (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/250514/p45#a250514p45",
             "published": "Wed, 14 May 2025 17:10:00 -0400"
@@ -14,19 +24,35 @@
             "title": "Foxconn receives approval from India's cabinet to build a new $435M semiconductor plant, expected to open in 2027, in a joint venture with IT giant HCL Group (Jagmeet Singh/TechCrunch)",
             "link": "http://www.techmeme.com/250514/p43#a250514p43",
             "published": "Wed, 14 May 2025 16:45:03 -0400"
-        },
-        {
-            "title": "Epic has submitted a new version of Fortnite to the US App Store, saying it needs to release a weekly update, after pulling the version it submitted on Friday (Juli Clover/MacRumors)",
-            "link": "http://www.techmeme.com/250514/p42#a250514p42",
-            "published": "Wed, 14 May 2025 16:40:01 -0400"
-        },
-        {
-            "title": "Grok replied with information about South Africa's \"white genocide\" when X users asked it to fact-check unrelated topics; the issue appears to have been fixed (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/250514/p41#a250514p41",
-            "published": "Wed, 14 May 2025 15:50:01 -0400"
         }
     ],
-    "source_1": [],
+    "source_1": [
+        {
+            "title": "A.I. Was Coming for Radiologists\u2019 Jobs. So Far, They\u2019re Just More Efficient.",
+            "link": "https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html",
+            "published": "Wed, 14 May 2025 09:00:57 +0000"
+        },
+        {
+            "title": "College Professors Are Using ChatGPT. Some Students Aren\u2019t Happy.",
+            "link": "https://www.nytimes.com/2025/05/14/technology/chatgpt-college-professors.html",
+            "published": "Wed, 14 May 2025 15:57:24 +0000"
+        },
+        {
+            "title": "At LAX, Uber Drivers Wait. And Wait. And Wait.",
+            "link": "https://www.nytimes.com/2025/05/14/technology/lax-uber-driver-wages.html",
+            "published": "Wed, 14 May 2025 16:27:09 +0000"
+        },
+        {
+            "title": "OpenAI Is in Talks to Acquire Programming Tool Windsurf for $3 Billion",
+            "link": "https://www.nytimes.com/2025/05/13/technology/openai-windsurf-talks.html",
+            "published": "Tue, 13 May 2025 21:44:47 +0000"
+        },
+        {
+            "title": "Richard L. Garwin, a Creator of the Hydrogen Bomb, Dies at 97",
+            "link": "https://www.nytimes.com/2025/05/14/science/richard-l-garwin-dead.html",
+            "published": "Wed, 14 May 2025 20:43:18 +0000"
+        }
+    ],
     "source_2": [
         {
             "title": "Co-op says shelves to be more fully stocked this weekend",
