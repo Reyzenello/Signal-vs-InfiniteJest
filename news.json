@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Austin Russell, the founder and CEO of lidar manufacturer Luminar, resigns following an ethics inquiry and is replaced by former Nuance CEO Paul Ricci (Kirsten Korosec/TechCrunch)",
+            "link": "http://www.techmeme.com/250514/p51#a250514p51",
+            "published": "Wed, 14 May 2025 21:30:00 -0400"
+        },
+        {
+            "title": "Samaya AI, which is building AI models to assist financial analysts, raised a $43.5M Series A led by NEA, with participation from Eric Schmidt and others (Jeremy Kahn/Fortune)",
+            "link": "http://www.techmeme.com/250514/p50#a250514p50",
+            "published": "Wed, 14 May 2025 21:05:01 -0400"
+        },
+        {
+            "title": "CoreWeave plans to spend $20B to $23B in 2025 on AI infrastructure and data center capacity to meet demand, including from Microsoft; CRWV drops 7%+ after hours (Reuters)",
+            "link": "http://www.techmeme.com/250514/p49#a250514p49",
+            "published": "Wed, 14 May 2025 20:10:02 -0400"
+        },
+        {
+            "title": "Uber and delivery service iFood partner to integrate their services into each others' apps in Brazil; Uber ended its Uber Eats service in Brazil in March 2022 (Natalie Lung/Bloomberg)",
+            "link": "http://www.techmeme.com/250514/p48#a250514p48",
+            "published": "Wed, 14 May 2025 19:50:01 -0400"
+        },
+        {
             "title": "Microsoft plans to shut down Bing Search APIs on August 11; a source says the largest customers will retain access, and DuckDuckGo confirms it won't be affected (Paresh Dave/Wired)",
             "link": "http://www.techmeme.com/250514/p47#a250514p47",
             "published": "Wed, 14 May 2025 18:20:01 -0400"
-        },
-        {
-            "title": "Chinese sites like JD.com are offering discounts of up to 2,530 yuan, ~$350, on iPhone 16 models, an effort to spur sales after Q1 shipments fell (Reuters)",
-            "link": "http://www.techmeme.com/250514/p46#a250514p46",
-            "published": "Wed, 14 May 2025 17:35:01 -0400"
-        },
-        {
-            "title": "Cisco reports Q3 revenue up 11% YoY to $14.15B, vs. $14.08B est., forecasts Q4 revenue above estimates, and announces CFO Scott Herren will retire on July 26 (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/250514/p45#a250514p45",
-            "published": "Wed, 14 May 2025 17:10:00 -0400"
-        },
-        {
-            "title": "CoreWeave reports Q1 revenue up 420% YoY to $981.6M, vs. $853M est., and net loss of $314.6M, up from $129.2M a year earlier; CRWV jumps 9%+ after hours (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/250514/p44#a250514p44",
-            "published": "Wed, 14 May 2025 17:00:12 -0400"
-        },
-        {
-            "title": "Foxconn receives approval from India's cabinet to build a new $435M semiconductor plant, expected to open in 2027, in a joint venture with IT giant HCL Group (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250514/p43#a250514p43",
-            "published": "Wed, 14 May 2025 16:45:03 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "College Professors Are Using ChatGPT. Some Students Aren\u2019t Happy.",
             "link": "https://www.nytimes.com/2025/05/14/technology/chatgpt-college-professors.html",
-            "published": "Wed, 14 May 2025 15:57:24 +0000"
+            "published": "Thu, 15 May 2025 00:51:08 +0000"
         },
         {
             "title": "At LAX, Uber Drivers Wait. And Wait. And Wait.",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Co-op narrowly avoided an even worse cyber attack, BBC learns",
+            "link": "https://www.bbc.com/news/articles/cwy382w9eglo",
+            "published": "Wed, 14 May 2025 23:25:06 GMT"
+        },
+        {
             "title": "Co-op says shelves to be more fully stocked this weekend",
             "link": "https://www.bbc.com/news/articles/ckg4zrpk5p7o",
             "published": "Wed, 14 May 2025 10:57:41 GMT"
@@ -73,11 +78,6 @@
             "title": "M&S says customer data stolen in cyber attack",
             "link": "https://www.bbc.com/news/articles/c62v34zv828o",
             "published": "Tue, 13 May 2025 18:26:14 GMT"
-        },
-        {
-            "title": "US cuts tariffs on small parcels from Chinese firms like Shein and Temu",
-            "link": "https://www.bbc.com/news/articles/c308pg239n1o",
-            "published": "Tue, 13 May 2025 07:02:00 GMT"
         }
     ]
 }
