@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia says it won't send GPU designs to China to be modified to comply with export controls, after a report said it is planning a research center in Shanghai (CNBC)",
+            "link": "http://www.techmeme.com/250516/p15#a250516p15",
+            "published": "Fri, 16 May 2025 11:20:02 -0400"
+        },
+        {
+            "title": "OpenAI rolls out Codex, an AI coding agent powered by codex-1, a version of o3 optimized for software engineering, for ChatGPT Pro, Enterprise, and Team users (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250516/p14#a250516p14",
+            "published": "Fri, 16 May 2025 11:10:03 -0400"
+        },
+        {
+            "title": "Japan enacts the Active Cyberdefense Law, which permits the country's authorities to preemptively engage with adversaries through offensive cyber operations (Alexander Martin/The Record)",
+            "link": "http://www.techmeme.com/250516/p13#a250516p13",
+            "published": "Fri, 16 May 2025 10:45:28 -0400"
+        },
+        {
             "title": "Q&A with Wired's Steven Levy on the evolving relationship between the tech industry and the press, media outlets' licensing deals with AI companies, and more (Camille Bromley/Columbia Journalism ...)",
             "link": "http://www.techmeme.com/250516/p12#a250516p12",
             "published": "Fri, 16 May 2025 09:55:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Microsoft says internal and external reviews found no evidence the Israeli military used its tech to harm civilians in Gaza, after months of employee protests (Todd Bishop/GeekWire)",
             "link": "http://www.techmeme.com/250516/p11#a250516p11",
             "published": "Fri, 16 May 2025 08:50:00 -0400"
-        },
-        {
-            "title": "Analysis: since January, 36+ staff and associates of Elon Musk, Peter Thiel, Marc Andreessen, and Palmer Luckey got federal roles that oversee their companies (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250516/p10#a250516p10",
-            "published": "Fri, 16 May 2025 08:05:01 -0400"
-        },
-        {
-            "title": "Charter announces plans to merge with Cox Communications in a deal that values Cox at $34.5B including debt and unites two of the biggest US cable providers (Reuters)",
-            "link": "http://www.techmeme.com/250516/p9#a250516p9",
-            "published": "Fri, 16 May 2025 07:35:01 -0400"
-        },
-        {
-            "title": "Sources: ByteDance expects 2025 revenue to grow ~20% YoY to ~$186B, vs. 29% in 2024, driven by TikTok's global expansion; ByteDance has 4B+ MAUs across its apps (Bloomberg)",
-            "link": "http://www.techmeme.com/250516/p8#a250516p8",
-            "published": "Fri, 16 May 2025 07:30:25 -0400"
         }
     ],
     "source_1": [
@@ -43,17 +43,22 @@
             "published": "Fri, 16 May 2025 11:14:15 +0000"
         },
         {
+            "title": "OpenAI Unveils Codex, a New Tool for Computer Programmers",
+            "link": "https://www.nytimes.com/2025/05/16/technology/openai-codex-programming-tool.html",
+            "published": "Fri, 16 May 2025 15:00:09 +0000"
+        },
+        {
             "title": "Data Centers\u2019 Hunger for Energy Could Raise All Electric Bills",
             "link": "https://www.nytimes.com/2025/05/16/business/energy-environment/data-centers-utilities-electricity-bills.html",
             "published": "Fri, 16 May 2025 14:26:43 +0000"
-        },
-        {
-            "title": "Nine Federally Funded Scientific Breakthroughs That Changed Everything",
-            "link": "https://www.nytimes.com/2025/05/16/science/federally-funded-science-breakthroughs.html",
-            "published": "Fri, 16 May 2025 09:00:42 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Some Tesco customers report problems with app and website",
+            "link": "https://www.bbc.com/news/articles/c8re57856jmo",
+            "published": "Fri, 16 May 2025 15:22:59 GMT"
+        },
         {
             "title": "UK needs more nuclear to power AI, says Amazon boss",
             "link": "https://www.bbc.com/news/articles/cewd5014wpno",
@@ -73,11 +78,6 @@
             "title": "Co-op says shelves to be more fully stocked this weekend",
             "link": "https://www.bbc.com/news/articles/ckg4zrpk5p7o",
             "published": "Wed, 14 May 2025 10:57:41 GMT"
-        },
-        {
-            "title": "Airbnb offers private chefs and massages as it revamps app",
-            "link": "https://www.bbc.com/news/articles/c1mglv2d455o",
-            "published": "Wed, 14 May 2025 03:58:05 GMT"
         }
     ]
 }
