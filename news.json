@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft says reviews found no evidence its tech was used by the Israeli military to harm civilians in Gaza, following months of protests by Microsoft staffers (Todd Bishop/GeekWire)",
+            "title": "Q&A with Wired's Steven Levy on the evolving relationship between the tech industry and the press, media outlets' licensing deals with AI companies, and more (Camille Bromley/Columbia Journalism ...)",
+            "link": "http://www.techmeme.com/250516/p12#a250516p12",
+            "published": "Fri, 16 May 2025 09:55:01 -0400"
+        },
+        {
+            "title": "Microsoft says internal and external reviews found no evidence the Israeli military used its tech to harm civilians in Gaza, after months of employee protests (Todd Bishop/GeekWire)",
             "link": "http://www.techmeme.com/250516/p11#a250516p11",
             "published": "Fri, 16 May 2025 08:50:00 -0400"
         },
@@ -16,36 +21,31 @@
             "published": "Fri, 16 May 2025 07:35:01 -0400"
         },
         {
-            "title": "Sources: ByteDance expects 2025 revenue to grow 20% YoY to $186B vs. 29% growth in 2024, driven by TikTok's global expansion; ByteDance has 4B MAUs across apps (Bloomberg)",
+            "title": "Sources: ByteDance expects 2025 revenue to grow ~20% YoY to ~$186B, vs. 29% in 2024, driven by TikTok's global expansion; ByteDance has 4B+ MAUs across its apps (Bloomberg)",
             "link": "http://www.techmeme.com/250516/p8#a250516p8",
             "published": "Fri, 16 May 2025 07:30:25 -0400"
-        },
-        {
-            "title": "Charter Is in Talks to Combine with Rival Cox Communications (Michelle F Davis/Bloomberg)",
-            "link": "http://www.techmeme.com/250516/p7#a250516p7",
-            "published": "Fri, 16 May 2025 07:20:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "S.E.C. Investigating Whether Coinbase Misstated Its User Numbers",
-            "link": "https://www.nytimes.com/2025/05/15/technology/coinbase-sec-investigation.html",
-            "published": "Thu, 15 May 2025 17:21:41 +0000"
-        },
-        {
-            "title": "Does Meta Have a Social Media Monopoly? Here\u2019s What the U.S. Has Argued.",
-            "link": "https://www.nytimes.com/2025/05/15/technology/meta-trial-ftc-takeaways.html",
-            "published": "Thu, 15 May 2025 18:22:59 +0000"
-        },
-        {
-            "title": "Terrorists Continue to Pay for Check Marks on X, Report Says",
-            "link": "https://www.nytimes.com/2025/05/15/technology/x-terrorists-verified-badges.html",
-            "published": "Thu, 15 May 2025 12:00:08 +0000"
+            "title": "Why We\u2019re Unlikely to Get Artificial General Intelligence Anytime Soon",
+            "link": "https://www.nytimes.com/2025/05/16/technology/what-is-agi.html",
+            "published": "Fri, 16 May 2025 12:49:46 +0000"
         },
         {
             "title": "Ed Helms Answers Your Hard Questions",
             "link": "https://www.nytimes.com/2025/05/16/podcasts/ed-helms-hard-questions.html",
             "published": "Fri, 16 May 2025 11:00:02 +0000"
+        },
+        {
+            "title": "Trump\u2019s Billion-Dollar Tech Deals, and a Military Buildup at the Border",
+            "link": "https://www.nytimes.com/2025/05/16/podcasts/the-headlines/trump-tech-deals-immigration-crackdown.html",
+            "published": "Fri, 16 May 2025 11:14:15 +0000"
+        },
+        {
+            "title": "Data Centers\u2019 Hunger for Energy Could Raise All Electric Bills",
+            "link": "https://www.nytimes.com/2025/05/16/business/energy-environment/data-centers-utilities-electricity-bills.html",
+            "published": "Fri, 16 May 2025 14:26:43 +0000"
         },
         {
             "title": "Nine Federally Funded Scientific Breakthroughs That Changed Everything",
