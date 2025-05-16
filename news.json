@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Apple says a warning on EU App Store listings for apps with no IAP has been live since March 2024, and the EU told it to hold off on tweaks that Apple proposed (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250515/p41#a250515p41",
-            "published": "Thu, 15 May 2025 19:15:24 -0400"
+            "title": "Following Grok's \"white genocide in South Africa\" responses on X, xAI says an \"unauthorized modification\" was made to the Grok response bot's prompt on May 14 (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250515/p46#a250515p46",
+            "published": "Thu, 15 May 2025 22:05:01 -0400"
         },
         {
-            "title": "Sources: DOJ is conducting a criminal antitrust probe into whether Live Nation and AEG illegally colluded on concert refunds at the start of the COVID pandemic (Bloomberg)",
-            "link": "http://www.techmeme.com/250515/p40#a250515p40",
-            "published": "Thu, 15 May 2025 17:25:01 -0400"
+            "title": "Montana became the first US state to close a data broker loophole that let police buy users' geolocation data and other digital info without a judge's warrant (Matthew Guariglia/Electronic Frontier ...)",
+            "link": "http://www.techmeme.com/250515/p45#a250515p45",
+            "published": "Thu, 15 May 2025 21:30:29 -0400"
         },
         {
-            "title": "Take-Two reports Q4 net bookings up 17% YoY to $1.58B, vs. $1.55B est., net revenue up 13% YoY to $1.58B, and forecasts FY 2026 net bookings below expectations (Jason Schreier/Bloomberg)",
-            "link": "http://www.techmeme.com/250515/p39#a250515p39",
-            "published": "Thu, 15 May 2025 17:05:01 -0400"
+            "title": "Sources: Microsoft stops production of its Surface Laptop Studio 2 and plans to mark the device's end of life in June, with no plans for a successor (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250515/p44#a250515p44",
+            "published": "Thu, 15 May 2025 20:50:01 -0400"
         },
         {
-            "title": "Filing: Anthropic apologizes after one of its expert witnesses cited a fake article hallucinated by Claude in the company's legal battle with music publishers (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/250515/p38#a250515p38",
-            "published": "Thu, 15 May 2025 16:20:00 -0400"
+            "title": "FTC v. Meta: Meta asks the judge to throw out the antitrust case, arguing the FTC failed to prove that Meta is an illegal monopoly after five weeks of trial (Adi Robertson/The Verge)",
+            "link": "http://www.techmeme.com/250515/p43#a250515p43",
+            "published": "Thu, 15 May 2025 20:15:29 -0400"
         },
         {
-            "title": "Neal Mohan says the monetization rate of Shorts hit parity with core YouTube in the US and multiple other countries, and Shorts viewing grew 20% YoY in Q1 2025 (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/250515/p37#a250515p37",
-            "published": "Thu, 15 May 2025 15:50:01 -0400"
+            "title": "Windsurf launches SWE-1, its first family of software engineering AI models, claiming its largest model matches Claude 3.5 Sonnet, GPT-4.1, and Gemini 2.5 Pro (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250515/p42#a250515p42",
+            "published": "Thu, 15 May 2025 19:45:25 -0400"
         }
     ],
     "source_1": [
         {
             "title": "S.E.C. Investigating Whether Coinbase Misstated Its User Numbers",
             "link": "https://www.nytimes.com/2025/05/15/technology/coinbase-sec-investigation.html",
-            "published": "Thu, 15 May 2025 17:21:40 +0000"
+            "published": "Thu, 15 May 2025 17:21:41 +0000"
         },
         {
             "title": "Does Meta Have a Social Media Monopoly? Here\u2019s What the U.S. Has Argued.",
@@ -40,7 +40,7 @@
         {
             "title": "Terrorists Continue to Pay for Check Marks on X, Report Says",
             "link": "https://www.nytimes.com/2025/05/15/technology/x-terrorists-verified-badges.html",
-            "published": "Thu, 15 May 2025 12:00:07 +0000"
+            "published": "Thu, 15 May 2025 12:00:08 +0000"
         },
         {
             "title": "Colorado Air Traffic Controllers Lost Contact With Some Airplanes Monday",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "UK needs more nuclear to power AI, says Amazon boss",
+            "link": "https://www.bbc.com/news/articles/cewd5014wpno",
+            "published": "Thu, 15 May 2025 23:12:49 GMT"
+        },
         {
             "title": "Leading crypto firm Coinbase faces up to $400m hit from cyber attack",
             "link": "https://www.bbc.com/news/articles/c80k5plpx8do",
@@ -73,11 +78,6 @@
             "title": "Airbnb offers private chefs and massages as it revamps app",
             "link": "https://www.bbc.com/news/articles/c1mglv2d455o",
             "published": "Wed, 14 May 2025 03:58:05 GMT"
-        },
-        {
-            "title": "AI tool put to test sifting public views on botox and fillers",
-            "link": "https://www.bbc.com/news/articles/cpd4nxvw9lyo",
-            "published": "Tue, 13 May 2025 23:01:04 GMT"
         }
     ]
 }
