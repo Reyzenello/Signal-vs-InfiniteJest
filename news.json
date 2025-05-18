@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "NYC-based Optimal Dynamics, a provider of AI-powered fleet management software to trucking companies, raised a $40M Series C led by Koch Disruptive Technologies (Marc Vartabedian/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250518/p4#a250518p4",
+            "published": "Sun, 18 May 2025 01:20:00 -0400"
+        },
+        {
+            "title": "About 30% of South Korean schools have adopted AI-powered digital textbooks since the country's education ministry began a full-scale rollout in March 2025 (Nikkei Asia)",
+            "link": "http://www.techmeme.com/250518/p3#a250518p3",
+            "published": "Sun, 18 May 2025 01:05:00 -0400"
+        },
+        {
+            "title": "Somite AI, which is developing AI foundation models for stem cell therapies, raised a $47M+ Series A led by Khosla Ventures, taking its total funding to ~$60M (Gil Press/Forbes)",
+            "link": "http://www.techmeme.com/250518/p2#a250518p2",
+            "published": "Sun, 18 May 2025 00:55:00 -0400"
+        },
+        {
             "title": "Addepar, which provides wealth management software, raised a $230M Series G co-led by Vitruvian Partners and WestCap at a $3.25B valuation, up from $2B in 2021 (Lawrence White/Reuters)",
             "link": "http://www.techmeme.com/250518/p1#a250518p1",
             "published": "Sun, 18 May 2025 00:25:01 -0400"
@@ -9,21 +24,6 @@
             "title": "London-based Origin, which offers software to help HR teams administer employee benefits, emerges from stealth with a $21M Series A led by Felix Capital (Lucy Adams/Tech.eu)",
             "link": "http://www.techmeme.com/250517/p18#a250517p18",
             "published": "Sat, 17 May 2025 23:40:01 -0400"
-        },
-        {
-            "title": "A Fireblocks survey of 295 finance executives: 49% say their institutions use stablecoins in payments, 23% are testing them, and 18% are in the planning stages (Ezra Reguerra/Cointelegraph)",
-            "link": "http://www.techmeme.com/250517/p17#a250517p17",
-            "published": "Sat, 17 May 2025 23:05:00 -0400"
-        },
-        {
-            "title": "An analysis of YouTube's new weekly ranking of top podcasts in the US by watch time shows many popular and well-established podcasts did not rank in the top 100 (Jessica Testa/New York Times)",
-            "link": "http://www.techmeme.com/250517/p16#a250517p16",
-            "published": "Sat, 17 May 2025 22:10:01 -0400"
-        },
-        {
-            "title": "Chinese startups are highlighting their roots instead of downplaying them as they grow overseas, fueled by the success of Chinese social media apps and DeepSeek (Kinling Lo/Rest of World)",
-            "link": "http://www.techmeme.com/250517/p15#a250517p15",
-            "published": "Sat, 17 May 2025 20:10:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Sun, 18 May 2025 00:43:33 GMT"
         },
         {
+            "title": "Elton John brands government 'absolute losers' over AI copyright plans",
+            "link": "https://www.bbc.com/news/articles/c8jg0348yvxo",
+            "published": "Sun, 18 May 2025 05:00:26 GMT"
+        },
+        {
             "title": "Tesco apologises after software issue hits website and app",
             "link": "https://www.bbc.com/news/articles/c8re57856jmo",
             "published": "Fri, 16 May 2025 16:13:59 GMT"
@@ -73,11 +78,6 @@
             "title": "Leading crypto firm Coinbase faces up to $400m hit from cyber attack",
             "link": "https://www.bbc.com/news/articles/c80k5plpx8do",
             "published": "Thu, 15 May 2025 15:19:08 GMT"
-        },
-        {
-            "title": "'They yanked their own plug': How Co-op averted an even worse cyber attack",
-            "link": "https://www.bbc.com/news/articles/cwy382w9eglo",
-            "published": "Wed, 14 May 2025 23:25:06 GMT"
         }
     ]
 }
