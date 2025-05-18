@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "An analysis of YouTube's new weekly ranking of top podcasts in the US by watch time shows many popular and well-established podcasts did not rank in the top 100 (Jessica Testa/New York Times)",
+            "link": "http://www.techmeme.com/250517/p16#a250517p16",
+            "published": "Sat, 17 May 2025 22:10:01 -0400"
+        },
+        {
+            "title": "Chinese startups are highlighting their roots instead of downplaying them as they grow overseas, fueled by the success of Chinese social media apps and DeepSeek (Kinling Lo/Rest of World)",
+            "link": "http://www.techmeme.com/250517/p15#a250517p15",
+            "published": "Sat, 17 May 2025 20:10:01 -0400"
+        },
+        {
             "title": "Q&A with Nintendo of America President Doug Bowser on Switch 2 pricing backlash, physical games' importance to its business despite Game-Key cards, and more (Logan Plant/IGN)",
             "link": "http://www.techmeme.com/250517/p14#a250517p14",
             "published": "Sat, 17 May 2025 18:10:00 -0400"
@@ -14,16 +24,6 @@
             "title": "A look at EA's attempts to shut down \"anti-DEI\" mods for The Sims 4, including one that changes LGBT and Black NPCs to straight and white (Alana Yzola/Wired)",
             "link": "http://www.techmeme.com/250517/p12#a250517p12",
             "published": "Sat, 17 May 2025 14:45:01 -0400"
-        },
-        {
-            "title": "What to expect at Google I/O 2025: an updated Gemini Ultra model, updates for Android 16, Project Astra AI assistant, and Project Mariner AI agents, and more (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250517/p11#a250517p11",
-            "published": "Sat, 17 May 2025 13:25:00 -0400"
-        },
-        {
-            "title": "Jensen Huang says Nvidia's next chip for China will not be from the Hopper series following US restrictions on Hopper H20 chip sales to China (Wen-Yee Lee/Reuters)",
-            "link": "http://www.techmeme.com/250517/p10#a250517p10",
-            "published": "Sat, 17 May 2025 12:00:49 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "A letter from the M&S hackers landed in my inbox - this is what happened next",
+            "link": "https://www.bbc.com/news/articles/cgr5nen5gxyo",
+            "published": "Sun, 18 May 2025 00:43:33 GMT"
+        },
+        {
             "title": "Tesco apologises after software issue hits website and app",
             "link": "https://www.bbc.com/news/articles/c8re57856jmo",
             "published": "Fri, 16 May 2025 16:13:59 GMT"
@@ -73,11 +78,6 @@
             "title": "'They yanked their own plug': How Co-op averted an even worse cyber attack",
             "link": "https://www.bbc.com/news/articles/cwy382w9eglo",
             "published": "Wed, 14 May 2025 23:25:06 GMT"
-        },
-        {
-            "title": "Co-op says shelves to be more fully stocked this weekend",
-            "link": "https://www.bbc.com/news/articles/ckg4zrpk5p7o",
-            "published": "Wed, 14 May 2025 10:57:41 GMT"
         }
     ]
 }
