@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "How the crypto industry is adapting to the recent wave of kidnappings, from more extensive security around conferences, to a rise in personal bodyguards, more (Emily Nicolle/Bloomberg)",
+            "link": "http://www.techmeme.com/250518/p18#a250518p18",
+            "published": "Sun, 18 May 2025 18:55:02 -0400"
+        },
+        {
+            "title": "Some parent groups are hosting Alternative Device Fairs, showcasing phones with limited features, social media blocks, and AI-powered content filters (Kaitlyn Tiffany/The Atlantic)",
+            "link": "http://www.techmeme.com/250518/p17#a250518p17",
+            "published": "Sun, 18 May 2025 18:50:01 -0400"
+        },
+        {
             "title": "Sources: Cyera is raising $500M led by Lightspeed, Greenoaks and Georgian in a round valuing the data security company at $6B, up from 2024's $3.4B valuation (Bloomberg)",
             "link": "http://www.techmeme.com/250518/p16#a250518p16",
             "published": "Sun, 18 May 2025 18:25:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources detail Apple's AI efforts, including John Giannandrea's tenure, Craig Federighi's initial lack of interest in LLMs, and its acquisitions, including Siri (Bloomberg)",
             "link": "http://www.techmeme.com/250518/p14#a250518p14",
             "published": "Sun, 18 May 2025 18:05:02 -0400"
-        },
-        {
-            "title": "Eight workers, from a nurse dealing with hospital discharge planning algorithms to a salon owner with AI-generated hairstyles, share how AI changed their work (Marin Cogan/Bloomberg)",
-            "link": "http://www.techmeme.com/250518/p13#a250518p13",
-            "published": "Sun, 18 May 2025 16:45:03 -0400"
-        },
-        {
-            "title": "An interview with GitHub CEO Thomas Dohmke and CPO Mario Rodriguez on the year of SWE agents, Copilot phase two, Project Padawan, programming's future, and more (Frederic Lardinois/The New Stack)",
-            "link": "http://www.techmeme.com/250518/p12#a250518p12",
-            "published": "Sun, 18 May 2025 13:15:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "The secretive US factory that lays bare the contradiction in Trump's America First plan",
+            "link": "https://www.bbc.com/news/articles/cwywj0zgzwxo",
+            "published": "Sun, 18 May 2025 21:55:21 GMT"
+        },
+        {
             "title": "A letter from the M&S hackers landed in my inbox - this is what happened next",
             "link": "https://www.bbc.com/news/articles/cgr5nen5gxyo",
             "published": "Sun, 18 May 2025 00:43:33 GMT"
@@ -73,11 +78,6 @@
             "title": "UK needs more nuclear to power AI, says Amazon boss",
             "link": "https://www.bbc.com/news/articles/cewd5014wpno",
             "published": "Thu, 15 May 2025 23:12:49 GMT"
-        },
-        {
-            "title": "Leading crypto firm Coinbase faces up to $400m hit from cyber attack",
-            "link": "https://www.bbc.com/news/articles/c80k5plpx8do",
-            "published": "Thu, 15 May 2025 15:19:08 GMT"
         }
     ]
 }
