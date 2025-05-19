@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Filing: Taiwan-based Apple supplier Hon Hai plans to inject $1.5B into its India unit via its Singaporean subsidiary, as production shifts away from China (Twinnie Siu/Bloomberg)",
-            "link": "http://www.techmeme.com/250519/p16#a250519p16",
-            "published": "Mon, 19 May 2025 10:25:02 -0400"
+            "title": "Google releases a standalone NotebookLM app for Android (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/250519/p26#a250519p26",
+            "published": "Mon, 19 May 2025 12:33:21 -0400"
         },
         {
-            "title": "China says the US must \"immediately correct its wrongdoings\" and stop \"discriminatory\" measures, after US guidance warning companies not to use Chinese AI chips (Reuters)",
-            "link": "http://www.techmeme.com/250519/p15#a250519p15",
-            "published": "Mon, 19 May 2025 10:10:01 -0400"
+            "title": "Microsoft expands Entra, Defender, and Purview, embedding them directly into Azure AI Foundry and Copilot Studio to help organizations secure AI apps and agents (Duncan Riley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250519/p25#a250519p25",
+            "published": "Mon, 19 May 2025 12:32:09 -0400"
         },
         {
-            "title": "Chinese state-backed company Huaneng deploys 100+ all-electric autonomous haul trucks powered by Huawei's 5G-Advanced network at the Yimin open-pit mine (Jo Borr\u00e1s/Electrek)",
-            "link": "http://www.techmeme.com/250519/p14#a250519p14",
-            "published": "Mon, 19 May 2025 09:45:02 -0400"
+            "title": "A live stream of Microsoft's Build 2025 keynote (Microsoft on YouTube)",
+            "link": "http://www.techmeme.com/250519/p24#a250519p24",
+            "published": "Mon, 19 May 2025 12:29:27 -0400"
         },
         {
-            "title": "Q&A with Jensen Huang on AI in the Middle East, the US Chip Diffusion rule, China, AI and GDP growth, Dynamo and full-stack Nvidia, enterprise, gaming, and more (Ben Thompson/Stratechery)",
-            "link": "http://www.techmeme.com/250519/p13#a250519p13",
-            "published": "Mon, 19 May 2025 09:25:01 -0400"
+            "title": "Microsoft launches an open project called NLWeb to help devs add a \"conversational interface\" to their website in a few lines of code (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250519/p23#a250519p23",
+            "published": "Mon, 19 May 2025 12:22:11 -0400"
         },
         {
-            "title": "The UK says hackers breached its Legal Aid Agency to steal a \"significant amount of personal data\" from people who received legal aid across England and Wales (Ryan Gallagher/Bloomberg)",
-            "link": "http://www.techmeme.com/250519/p12#a250519p12",
-            "published": "Mon, 19 May 2025 08:40:02 -0400"
+            "title": "Microsoft announces experimental cross-platform APIs for Edge to give web apps access to models built into Edge, like Microsoft's Phi-4-mini (Wes Davis/The Verge)",
+            "link": "http://www.techmeme.com/250519/p22#a250519p22",
+            "published": "Mon, 19 May 2025 12:16:15 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "How to Travel Without a Phone",
             "link": "https://www.nytimes.com/2025/05/19/travel/travel-without-phone.html",
-            "published": "Mon, 19 May 2025 09:00:23 +0000"
+            "published": "Mon, 19 May 2025 09:00:24 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "UK weather forecast more accurate with Met Office supercomputer",
+            "link": "https://www.bbc.com/news/articles/clyg4ygerpjo",
+            "published": "Mon, 19 May 2025 16:05:39 GMT"
+        },
         {
             "title": "Struggling DNA testing firm 23andMe to be bought for $256m",
             "link": "https://www.bbc.com/news/articles/c0ln0e5g6kgo",
@@ -73,11 +78,6 @@
             "title": "The secretive US factory that lays bare the contradiction in Trump's America First plan",
             "link": "https://www.bbc.com/news/articles/cwywj0zgzwxo",
             "published": "Sun, 18 May 2025 21:55:21 GMT"
-        },
-        {
-            "title": "The inside story of a council held to ransom in cyber-attack",
-            "link": "https://www.bbc.com/news/articles/cpw72pxrgdzo",
-            "published": "Mon, 19 May 2025 01:26:43 GMT"
         }
     ]
 }
