@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Protesters disrupt Build keynote; one then emailed thousands of Microsoft coworkers calling the company's report on its tech's impact on Gaza civilians a \"lie\" (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250519/p29#a250519p29",
+            "published": "Mon, 19 May 2025 13:20:00 -0400"
+        },
+        {
+            "title": "For its Copilot Studio agents, Microsoft announces a \"computer use\" feature available in its Frontier program for select US users, WhatsApp integration, more (Michael Nu\u00f1ez/VentureBeat)",
+            "link": "http://www.techmeme.com/250519/p28#a250519p28",
+            "published": "Mon, 19 May 2025 12:55:01 -0400"
+        },
+        {
+            "title": "Microsoft introduces Foundry Local, a service coming to Windows AI Foundry as well as macOS, to run AI models and tools on-device, using ONXX Runtime (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250519/p27#a250519p27",
+            "published": "Mon, 19 May 2025 12:40:59 -0400"
+        },
+        {
             "title": "Google releases a standalone NotebookLM app for Android (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/250519/p26#a250519p26",
             "published": "Mon, 19 May 2025 12:33:21 -0400"
@@ -9,21 +24,6 @@
             "title": "Microsoft expands Entra, Defender, and Purview, embedding them directly into Azure AI Foundry and Copilot Studio to help organizations secure AI apps and agents (Duncan Riley/SiliconANGLE)",
             "link": "http://www.techmeme.com/250519/p25#a250519p25",
             "published": "Mon, 19 May 2025 12:32:09 -0400"
-        },
-        {
-            "title": "A live stream of Microsoft's Build 2025 keynote (Microsoft on YouTube)",
-            "link": "http://www.techmeme.com/250519/p24#a250519p24",
-            "published": "Mon, 19 May 2025 12:29:27 -0400"
-        },
-        {
-            "title": "Microsoft launches an open project called NLWeb to help devs add a \"conversational interface\" to their website in a few lines of code (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250519/p23#a250519p23",
-            "published": "Mon, 19 May 2025 12:22:11 -0400"
-        },
-        {
-            "title": "Microsoft announces experimental cross-platform APIs for Edge to give web apps access to models built into Edge, like Microsoft's Phi-4-mini (Wes Davis/The Verge)",
-            "link": "http://www.techmeme.com/250519/p22#a250519p22",
-            "published": "Mon, 19 May 2025 12:16:15 -0400"
         }
     ],
     "source_1": [
@@ -72,7 +72,7 @@
         {
             "title": "Domestic abuse victim data stolen in Legal Aid hack",
             "link": "https://www.bbc.com/news/articles/cgr5g4pv2l0o",
-            "published": "Mon, 19 May 2025 10:45:44 GMT"
+            "published": "Mon, 19 May 2025 16:43:55 GMT"
         },
         {
             "title": "The secretive US factory that lays bare the contradiction in Trump's America First plan",
