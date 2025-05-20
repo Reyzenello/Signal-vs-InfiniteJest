@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Palo Alto Networks reports Q3 revenue up 15% YoY to $2.29B, vs. $2.28B est., net income down 6% to $262.1M, and non-GAAP gross margin of 76%, vs. 77.2% est. (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/250520/p48#a250520p48",
+            "published": "Tue, 20 May 2025 17:15:02 -0400"
+        },
+        {
+            "title": "Take-Two plans to sell $1B of new stock to investors and use the proceeds for general corporate purposes, including repayment of debt and future acquisitions (Jason Schreier/Bloomberg)",
+            "link": "http://www.techmeme.com/250520/p47#a250520p47",
+            "published": "Tue, 20 May 2025 17:10:01 -0400"
+        },
+        {
+            "title": "Google commits up to $150M, including $75M for product development and commercialization, as part of its partnership with Warby Parker to make smart glasses (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/250520/p46#a250520p46",
+            "published": "Tue, 20 May 2025 17:00:46 -0400"
+        },
+        {
+            "title": "Google launches SynthID Detector, a verification portal that lets users upload files and tries to identify if they contain content made with Google AI (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250520/p45#a250520p45",
+            "published": "Tue, 20 May 2025 16:30:02 -0400"
+        },
+        {
             "title": "Xreal unveils Project Aura, expected to be the first Android XR glasses, powered by a separate puck with a Qualcomm chip, slated to launch by early 2026 (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/250520/p44#a250520p44",
             "published": "Tue, 20 May 2025 16:00:14 -0400"
-        },
-        {
-            "title": "Google debuts Search Live, which lets users tap a \"Live\" icon in AI Mode or Lens and then converse with Search about what's in their camera's field of view (Dominic Preston/The Verge)",
-            "link": "http://www.techmeme.com/250520/p43#a250520p43",
-            "published": "Tue, 20 May 2025 15:37:45 -0400"
-        },
-        {
-            "title": "Google unveils Gemini in Chrome, which initially works across just two tabs but will eventually support many and be agentic, for Google AI Pro and Ultra users (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/250520/p42#a250520p42",
-            "published": "Tue, 20 May 2025 14:55:01 -0400"
-        },
-        {
-            "title": "Google will soon let users shop in AI Mode, unveils agentic checkout, and updates its virtual try-on feature in Search Labs for clothes shoppers in the US (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250520/p41#a250520p41",
-            "published": "Tue, 20 May 2025 14:53:05 -0400"
-        },
-        {
-            "title": "Google's AI Mode, its chatbot for Search, rolls out to everyone in the US and will include features like Deep Search, agentic capabilities, and chart generation (Igor Bonifacic/Engadget)",
-            "link": "http://www.techmeme.com/250520/p40#a250520p40",
-            "published": "Tue, 20 May 2025 14:31:09 -0400"
         }
     ],
     "source_1": [
@@ -46,6 +46,11 @@
             "title": "How Miami Schools Are Leading 100,000 Students Into the A.I. Future",
             "link": "https://www.nytimes.com/2025/05/19/technology/ai-miami-schools-google-gemini.html",
             "published": "Mon, 19 May 2025 12:30:06 +0000"
+        },
+        {
+            "title": "G.M. Stops Exporting Cars to China",
+            "link": "https://www.nytimes.com/2025/05/19/business/general-motors-gm-china-exports.html",
+            "published": "Mon, 19 May 2025 23:55:13 +0000"
         }
     ],
     "source_2": [
