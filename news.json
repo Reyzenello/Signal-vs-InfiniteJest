@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Epic Games announces that Fortnite is back on the App Store in the US for iPhone and iPad users, and on the Epic Games Store and AltStore in the EU (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/250520/p51#a250520p51",
+            "published": "Tue, 20 May 2025 18:18:52 -0400"
+        },
+        {
+            "title": "Sweden passes a law criminalizing the purchase of live online sexual performances, including cam shows and sex chats; buying pre-recorded content remains legal (Charles Szumski/Euractiv)",
+            "link": "http://www.techmeme.com/250520/p50#a250520p50",
+            "published": "Tue, 20 May 2025 18:15:07 -0400"
+        },
+        {
+            "title": "Google rolls out Jules, its asynchronous, agentic coding assistant unveiled in December 2024, in public beta and expects to announce pricing after the beta (Emilia David/VentureBeat)",
+            "link": "http://www.techmeme.com/250520/p49#a250520p49",
+            "published": "Tue, 20 May 2025 17:35:01 -0400"
+        },
+        {
             "title": "Palo Alto Networks reports Q3 revenue up 15% YoY to $2.29B, vs. $2.28B est., net income down 6% to $262.1M, and non-GAAP gross margin of 76%, vs. 77.2% est. (Jonathan Vanian/CNBC)",
             "link": "http://www.techmeme.com/250520/p48#a250520p48",
             "published": "Tue, 20 May 2025 17:15:02 -0400"
@@ -9,28 +24,13 @@
             "title": "Take-Two plans to sell $1B of new stock to investors and use the proceeds for general corporate purposes, including repayment of debt and future acquisitions (Jason Schreier/Bloomberg)",
             "link": "http://www.techmeme.com/250520/p47#a250520p47",
             "published": "Tue, 20 May 2025 17:10:01 -0400"
-        },
-        {
-            "title": "Google commits up to $150M, including $75M for product development and commercialization, as part of its partnership with Warby Parker to make smart glasses (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/250520/p46#a250520p46",
-            "published": "Tue, 20 May 2025 17:00:46 -0400"
-        },
-        {
-            "title": "Google launches SynthID Detector, a verification portal that lets users upload files and tries to identify if they contain content made with Google AI (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250520/p45#a250520p45",
-            "published": "Tue, 20 May 2025 16:30:02 -0400"
-        },
-        {
-            "title": "Xreal unveils Project Aura, expected to be the first Android XR glasses, powered by a separate puck with a Qualcomm chip, slated to launch by early 2026 (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/250520/p44#a250520p44",
-            "published": "Tue, 20 May 2025 16:00:14 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Google Unveils \u2018A.I. Mode\u2019 Chatbot, Signaling a New Era for Search",
             "link": "https://www.nytimes.com/2025/05/20/technology/personaltech/google-ai-mode-search.html",
-            "published": "Tue, 20 May 2025 19:46:10 +0000"
+            "published": "Tue, 20 May 2025 22:11:44 +0000"
         },
         {
             "title": "Elon Musk Plans \u2018a Lot Less\u2019 Spending as He Edges Away From Politics",
@@ -48,12 +48,17 @@
             "published": "Mon, 19 May 2025 12:30:06 +0000"
         },
         {
-            "title": "G.M. Stops Exporting Cars to China",
-            "link": "https://www.nytimes.com/2025/05/19/business/general-motors-gm-china-exports.html",
-            "published": "Mon, 19 May 2025 23:55:13 +0000"
+            "title": "Fortnite\u2019s Darth Vader Is A.I.-Powered. Voice Actors Are Rebelling.",
+            "link": "https://www.nytimes.com/2025/05/20/arts/fortnite-darth-vader-ai-voice.html",
+            "published": "Tue, 20 May 2025 21:45:55 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AI chatbot to be embedded in Google search",
+            "link": "https://www.bbc.com/news/articles/cpw77qwd117o",
+            "published": "Tue, 20 May 2025 21:14:46 GMT"
+        },
         {
             "title": "Cyber-attack threat keeps me awake at night, bank boss says",
             "link": "https://www.bbc.com/news/articles/c4g3372vl3yo",
@@ -73,11 +78,6 @@
             "title": "UK weather forecast more accurate with Met Office supercomputer",
             "link": "https://www.bbc.com/news/articles/clyg4ygerpjo",
             "published": "Mon, 19 May 2025 16:05:39 GMT"
-        },
-        {
-            "title": "Sesame Street heads to Netflix after Trump pulled funding",
-            "link": "https://www.bbc.com/news/articles/c80k7z8z77yo",
-            "published": "Tue, 20 May 2025 03:38:31 GMT"
         }
     ]
 }
