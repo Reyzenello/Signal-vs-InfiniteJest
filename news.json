@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google unveils Gemini in Chrome, which initially works across just two tabs but will eventually support many and be agentic, for Google AI Pro and Ultra users (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/250520/p42#a250520p42",
+            "published": "Tue, 20 May 2025 14:55:01 -0400"
+        },
+        {
+            "title": "Google will soon let users shop in AI Mode, unveils agentic checkout, and updates its virtual try-on feature in Search Labs for clothes shoppers in the US (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250520/p41#a250520p41",
+            "published": "Tue, 20 May 2025 14:53:05 -0400"
+        },
+        {
             "title": "Google's AI Mode, its chatbot for Search, rolls out to everyone in the US and will include features like Deep Search, agentic capabilities, and chart generation (Igor Bonifacic/Engadget)",
             "link": "http://www.techmeme.com/250520/p40#a250520p40",
             "published": "Tue, 20 May 2025 14:31:09 -0400"
@@ -14,19 +24,19 @@
             "title": "Google debuts Deep Think, an enhanced reasoning mode in Gemini 2.5 Pro that it says excels at math and coding, available to \"trusted testers\" via the Gemini API (Taryn Plumb/VentureBeat)",
             "link": "http://www.techmeme.com/250520/p38#a250520p38",
             "published": "Tue, 20 May 2025 14:15:02 -0400"
-        },
-        {
-            "title": "Google says it is partnering with Samsung, Gentle Monster, Xreal, and Warby Parker to create Android XR smart glasses, offering AI assistance via Gemini (Victoria Song/The Verge)",
-            "link": "http://www.techmeme.com/250520/p37#a250520p37",
-            "published": "Tue, 20 May 2025 14:11:54 -0400"
-        },
-        {
-            "title": "Google rolls out Project Mariner, its web-browsing AI agent, to Google's AI Ultra plan, and brings its capabilities to the Gemini API and Vertex AI (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/250520/p36#a250520p36",
-            "published": "Tue, 20 May 2025 14:05:05 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Google Unveils \u2018A.I. Mode\u2019 Chatbot, Signaling a New Era for Search",
+            "link": "https://www.nytimes.com/2025/05/20/technology/personaltech/google-ai-mode-search.html",
+            "published": "Tue, 20 May 2025 18:01:20 +0000"
+        },
+        {
+            "title": "Elon Musk Plans \u2018a Lot Less\u2019 Spending as He Edges Away From Politics",
+            "link": "https://www.nytimes.com/2025/05/20/us/politics/elon-musk-trump-political-spending.html",
+            "published": "Tue, 20 May 2025 18:40:54 +0000"
+        },
         {
             "title": "Trump\u2019s Gulf Trip Also Brought Benefits to Elon Musk",
             "link": "https://www.nytimes.com/2025/05/20/world/middleeast/gulf-deal-making-spree-also-benefited-elon-musk-and-his-family.html",
@@ -38,19 +48,9 @@
             "published": "Mon, 19 May 2025 12:30:06 +0000"
         },
         {
-            "title": "Apple\u2019s Alibaba A.I. Deal Provokes Washington\u2019s Resistance",
-            "link": "https://www.nytimes.com/2025/05/17/technology/apple-alibaba-ai-tool-china.html",
-            "published": "Sat, 17 May 2025 09:01:00 +0000"
-        },
-        {
-            "title": "Why We\u2019re Unlikely to Get Artificial General Intelligence Anytime Soon",
-            "link": "https://www.nytimes.com/2025/05/16/technology/what-is-agi.html",
-            "published": "Fri, 16 May 2025 12:49:47 +0000"
-        },
-        {
-            "title": "Google Unveils \u2018A.I. Mode\u2019 Chatbot, Signaling a New Era for Search",
-            "link": "https://www.nytimes.com/2025/05/20/technology/personaltech/google-ai-mode-search.html",
-            "published": "Tue, 20 May 2025 18:01:20 +0000"
+            "title": "G.M. Stops Exporting Cars to China",
+            "link": "https://www.nytimes.com/2025/05/19/business/general-motors-gm-china-exports.html",
+            "published": "Mon, 19 May 2025 23:55:13 +0000"
         }
     ],
     "source_2": [
