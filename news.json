@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Zhejiang, home to Alibaba and DeepSeek, publishes an AI policy that expects companies in the AI supply chain to make $138B+ in total operating revenues by 2027 (Coco Feng/South China Morning Post)",
+            "link": "http://www.techmeme.com/250520/p60#a250520p60",
+            "published": "Tue, 20 May 2025 23:40:01 -0400"
+        },
+        {
+            "title": "Google announces Firebase AI Logic, combining Vertex AI and Genkit tools to more easily integrate AI into apps, and adds Figma import support in Firebase Studio (Kyt Dotson/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250520/p59#a250520p59",
+            "published": "Tue, 20 May 2025 23:05:46 -0400"
+        },
+        {
+            "title": "Washington Gov. Bob Ferguson approves controversial new taxes expanding the state's sales tax on companies providing digital services, starting in October 2025 (Taylor Soper/GeekWire)",
+            "link": "http://www.techmeme.com/250520/p58#a250520p58",
+            "published": "Tue, 20 May 2025 22:40:00 -0400"
+        },
+        {
             "title": "Kalshi withdrew announcements about a collaboration with xAI just hours after CEO Tarek Mansour said the deal would \"further take prediction markets mainstream\" (Paige Smith/Bloomberg)",
             "link": "http://www.techmeme.com/250520/p57#a250520p57",
             "published": "Tue, 20 May 2025 21:35:46 -0400"
@@ -9,21 +24,6 @@
             "title": "Waymo co-CEO Tekedra Mawakana says Waymo has reached 10M paid trips, doubling in the past five months, and that the company is not yet profitable (CNBC)",
             "link": "http://www.techmeme.com/250520/p56#a250520p56",
             "published": "Tue, 20 May 2025 19:50:40 -0400"
-        },
-        {
-            "title": "Hands-on with Google's Android XR Gemini-powered prototype glasses: they are light and comfortable to wear, and the single display in the right lens works well (Michael L Hicks/Android Central)",
-            "link": "http://www.techmeme.com/250520/p55#a250520p55",
-            "published": "Tue, 20 May 2025 19:25:01 -0400"
-        },
-        {
-            "title": "Matthew Lane, a 19-year-old from Massachusetts, pleads guilty to hacking two US companies and extorting them for ransoms; source: one of them is PowerSchool (Kevin Collier/NBC News)",
-            "link": "http://www.techmeme.com/250520/p54#a250520p54",
-            "published": "Tue, 20 May 2025 19:15:02 -0400"
-        },
-        {
-            "title": "The Argentine government dismantles a unit created three months ago to investigate the Libra cryptocurrency scandal involving President Milei and his sister (Ignacio Olivera Doll/Bloomberg)",
-            "link": "http://www.techmeme.com/250520/p53#a250520p53",
-            "published": "Tue, 20 May 2025 19:10:01 -0400"
         }
     ],
     "source_1": [
@@ -65,6 +65,11 @@
             "published": "Tue, 20 May 2025 22:53:05 GMT"
         },
         {
+            "title": "Fortnite back on US Apple app store after five years",
+            "link": "https://www.bbc.com/news/articles/c0711mrl470o",
+            "published": "Wed, 21 May 2025 02:04:11 GMT"
+        },
+        {
             "title": "Cyber-attack threat keeps me awake at night, bank boss says",
             "link": "https://www.bbc.com/news/articles/c4g3372vl3yo",
             "published": "Tue, 20 May 2025 13:50:18 GMT"
@@ -73,11 +78,6 @@
             "title": "Fortnite faces complaint from actors' union over AI Darth Vader",
             "link": "https://www.bbc.com/news/articles/cn844l3eznqo",
             "published": "Tue, 20 May 2025 10:36:25 GMT"
-        },
-        {
-            "title": "Can AI therapists really be an alternative to human help?",
-            "link": "https://www.bbc.com/news/articles/ced2ywg7246o",
-            "published": "Mon, 19 May 2025 23:04:34 GMT"
         }
     ]
 }
