@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Amazon plans to sell Nike products directly for the first time since 2019, when Nike stopped selling through Amazon due to lingering counterfeit issues (The Information)",
+            "link": "http://www.techmeme.com/250521/p49#a250521p49",
+            "published": "Wed, 21 May 2025 18:15:04 -0400"
+        },
+        {
+            "title": "Zoom reports Q1 revenue up 3% YoY to $1.17B, in line with expectations, Enterprise revenue up 6% YoY to $704.7M, and raises its FY 2026 forecast above estimates (Juby Babu/Reuters)",
+            "link": "http://www.techmeme.com/250521/p48#a250521p48",
+            "published": "Wed, 21 May 2025 17:25:09 -0400"
+        },
+        {
             "title": "Snowflake reports Q1 product revenue up 26% YoY to $996.8M, vs. $966M est., and forecasts Q2 product revenue above estimates; SNOW jumps 6%+ after hours (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/250521/p47#a250521p47",
             "published": "Wed, 21 May 2025 17:23:06 -0400"
@@ -14,16 +24,6 @@
             "title": "CoreWeave announces a $2B debt offering, representing a $500M increase from its initial announcement, and says it was five times oversubscribed; CRWV jumps 19% (Samantha Subin/CNBC)",
             "link": "http://www.techmeme.com/250521/p45#a250521p45",
             "published": "Wed, 21 May 2025 16:40:03 -0400"
-        },
-        {
-            "title": "Shopify launches new AI tools, including one for setting up storefronts and another for creating elements like banners, and upgrades its AI assistant Sidekick (Lauren Forristal/TechCrunch)",
-            "link": "http://www.techmeme.com/250521/p44#a250521p44",
-            "published": "Wed, 21 May 2025 16:15:01 -0400"
-        },
-        {
-            "title": "Epic v. Apple: Spotify says its recent update supporting web payments has resulted in \"a significant increase in iOS users upgrading to a Premium subscription\" (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250521/p43#a250521p43",
-            "published": "Wed, 21 May 2025 15:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Tue, 20 May 2025 20:24:31 +0000"
         },
         {
-            "title": "A.I.-Generated Reading List in Chicago Sun-Times Recommends Nonexistent Books",
-            "link": "https://www.nytimes.com/2025/05/21/business/media/chicago-sun-times-ai-reading-list.html",
-            "published": "Wed, 21 May 2025 19:31:19 +0000"
+            "title": "Here\u2019s What Meta Argued to Fend Off Monopoly Claims in Landmark Trial",
+            "link": "https://www.nytimes.com/2025/05/21/technology/meta-antitrust-trial-arguments.html",
+            "published": "Wed, 21 May 2025 21:59:31 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,16 @@
             "title": "UK exposes Russian cyber campaign targeting support for Ukraine",
             "link": "https://www.bbc.com/news/articles/c17rrjdr79po",
             "published": "Wed, 21 May 2025 16:37:38 GMT"
+        },
+        {
+            "title": "M&S website completely down, leaving users unable to browse",
+            "link": "https://www.bbc.com/news/articles/c0k374x1y8do",
+            "published": "Wed, 21 May 2025 21:51:37 GMT"
+        },
+        {
+            "title": "Famous Apple designer Sir Jony Ive joins OpenAI",
+            "link": "https://www.bbc.com/news/articles/c5y66yemjdmo",
+            "published": "Wed, 21 May 2025 21:44:10 GMT"
         },
         {
             "title": "Retail hackers believed to be young and from US and UK, detectives say",
@@ -68,16 +78,6 @@
             "title": "National parking platform seeks to end 'hassle' of multiple parking apps",
             "link": "https://www.bbc.com/news/articles/ckg44pgn2g4o",
             "published": "Wed, 21 May 2025 13:41:50 GMT"
-        },
-        {
-            "title": "M&S cyber-attack disruption to last until July",
-            "link": "https://www.bbc.com/news/articles/c93llkg4n51o",
-            "published": "Wed, 21 May 2025 09:55:44 GMT"
-        },
-        {
-            "title": "AI chatbot to be embedded in Google search",
-            "link": "https://www.bbc.com/news/articles/cpw77qwd117o",
-            "published": "Tue, 20 May 2025 22:53:05 GMT"
         }
     ]
 }
