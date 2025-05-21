@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "In April ChatGPT started to, by default, reference all past chats for more personalized responses, but this means users lose control of their prompts' context (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/250521/p32#a250521p32",
+            "published": "Wed, 21 May 2025 12:25:01 -0400"
+        },
+        {
+            "title": "AI model ranking project LMArena spins off from UC Berkeley and raises a $100M seed led by a16z and UC Investments, sources say at a $600M valuation (Bloomberg)",
+            "link": "http://www.techmeme.com/250521/p31#a250521p31",
+            "published": "Wed, 21 May 2025 11:55:00 -0400"
+        },
+        {
+            "title": "Sources and docs: a \"major lapse\" at Thoma Bravo's Opexus, which helps US agencies manage investigations and FOIA, let two convicted hackers delete databases (Jason Leopold/Bloomberg)",
+            "link": "http://www.techmeme.com/250521/p30#a250521p30",
+            "published": "Wed, 21 May 2025 11:50:00 -0400"
+        },
+        {
             "title": "Mistral partners with All Hands AI to release Devstral, a model to help with coding, in \"research preview\" under Apache 2.0, and says it outperforms Gemma 3 27B (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250521/p29#a250521p29",
             "published": "Wed, 21 May 2025 11:15:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Brazilian researchers scraped 2B+ Discord messages from 3,167 public servers using Discord's public API, covering 2015 to 2024, and publish the messages online (Matthew Gault/404 Media)",
             "link": "http://www.techmeme.com/250521/p28#a250521p28",
             "published": "Wed, 21 May 2025 10:30:02 -0400"
-        },
-        {
-            "title": "Filed, which uses AI to automate tax professionals' low-value tasks, raised $17.2M across seed and preseed led by Northzone, Day One Ventures, and others (Mike Wheatley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/250521/p27#a250521p27",
-            "published": "Wed, 21 May 2025 09:30:04 -0400"
-        },
-        {
-            "title": "Singapore-based business banking and payments startup Airwallex raised $150M at a $6.2B valuation, up from $5.6B in October 2022, and debuts a $150M share sale (Emily Mason/Bloomberg)",
-            "link": "http://www.techmeme.com/250521/p26#a250521p26",
-            "published": "Wed, 21 May 2025 08:30:04 -0400"
-        },
-        {
-            "title": "After a protest at Build 2025, Microsoft's head of security for AI, Neta Haiby, accidentally revealed confidential messages about Walmart's planned AI tools use (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/250521/p25#a250521p25",
-            "published": "Wed, 21 May 2025 08:10:01 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "UK exposes Russian cyber campaign targeting support for Ukraine",
             "link": "https://www.bbc.com/news/articles/c17rrjdr79po",
-            "published": "Wed, 21 May 2025 15:16:59 GMT"
+            "published": "Wed, 21 May 2025 16:00:35 GMT"
         },
         {
             "title": "Retail hackers believed to be young and from US and UK, detectives say",
