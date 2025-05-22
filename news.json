@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Q&A with Google DeepMind CEO Demis Hassabis and Google co-founder Sergey Brin on AI frontier models, scaling data centers, reasoning, DeepThink, AGI, and more (Alex Kantrowitz/Big Technology)",
+            "link": "http://www.techmeme.com/250522/p15#a250522p15",
+            "published": "Thu, 22 May 2025 06:25:29 -0400"
+        },
+        {
+            "title": "Q&A with legendary game designer Shigeru Miyamoto on Super Nintendo World, redesigning Donkey Kong, the new Mario Kart, the Pikmin franchise, Switch 2, and more (IGN)",
+            "link": "http://www.techmeme.com/250522/p14#a250522p14",
+            "published": "Thu, 22 May 2025 06:10:28 -0400"
+        },
+        {
+            "title": "Google is using its extensive data on users to give its AI models an advantage over OpenAI and Anthropic, starting with its opt-in Gemini with personalization (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250522/p13#a250522p13",
+            "published": "Thu, 22 May 2025 05:50:01 -0400"
+        },
+        {
+            "title": "Running app Strava raised new funding at a $2.2B valuation including debt, up from $1.5B after raising $110M in November 2020, and nears $500M in ARR (Ben Glickman/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250522/p12#a250522p12",
+            "published": "Thu, 22 May 2025 05:35:01 -0400"
+        },
+        {
             "title": "How SpaceX's Starlink moved quickly to solidify its lead in the satellite internet business, as its competitors face production and launch capacity bottlenecks (Financial Times)",
             "link": "http://www.techmeme.com/250522/p11#a250522p11",
             "published": "Thu, 22 May 2025 05:00:14 -0400"
-        },
-        {
-            "title": "Lenovo reports Q4 revenue up 23% to $16.98B, vs. $15.6B est., and net profit down 64% YoY to ~$90M, below $225.8M est., reflecting AI and PC market competition (Bloomberg)",
-            "link": "http://www.techmeme.com/250522/p10#a250522p10",
-            "published": "Thu, 22 May 2025 04:35:01 -0400"
-        },
-        {
-            "title": "China is catching up with the US in AI, robotics, and other sectors, driven by an R&D spending rise, hitting $500B in 2024, up 3x since Xi took office in 2012 (Brian Spegele/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250522/p9#a250522p9",
-            "published": "Thu, 22 May 2025 04:10:24 -0400"
-        },
-        {
-            "title": "How animation startup Toonstar uses its AI tools to make animated content up to 90% cheaper than traditional methods; its YouTube series has 30M weekly viewers (Brooks Barnes/New York Times)",
-            "link": "http://www.techmeme.com/250522/p8#a250522p8",
-            "published": "Thu, 22 May 2025 02:35:00 -0400"
-        },
-        {
-            "title": "An overview of major streamers' revenues, subscriber churn, cancellation rates, shares of US TV viewing time, and shares of US sports TV rights deals since 2023 (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250522/p7#a250522p7",
-            "published": "Thu, 22 May 2025 02:20:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple iPhone designer Jony Ive joins OpenAI in $6.5bn deal",
+            "link": "https://www.bbc.com/news/articles/c5y66yemjdmo",
+            "published": "Thu, 22 May 2025 09:44:30 GMT"
+        },
+        {
             "title": "UK exposes Russian cyber campaign targeting support for Ukraine",
             "link": "https://www.bbc.com/news/articles/c17rrjdr79po",
             "published": "Wed, 21 May 2025 16:37:38 GMT"
@@ -63,11 +68,6 @@
             "title": "M&S website back online, allowing users to browse",
             "link": "https://www.bbc.com/news/articles/c0k374x1y8do",
             "published": "Thu, 22 May 2025 06:43:02 GMT"
-        },
-        {
-            "title": "Famous Apple designer Sir Jony Ive joins OpenAI",
-            "link": "https://www.bbc.com/news/articles/c5y66yemjdmo",
-            "published": "Wed, 21 May 2025 21:44:10 GMT"
         },
         {
             "title": "Retail hackers believed to be young and from US and UK, detectives say",
