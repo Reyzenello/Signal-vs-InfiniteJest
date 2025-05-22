@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Analysis: since 2023, US states enacted 120+ deepfake-related laws, with 26 passed in 2025 alone; California passed eight deepfake bills in September 2024 (Tiffany Hsu/New York Times)",
+            "link": "http://www.techmeme.com/250522/p18#a250522p18",
+            "published": "Thu, 22 May 2025 07:10:42 -0400"
+        },
+        {
+            "title": "M&S CEO Stuart Machin says hackers accessed the UK retailer's systems using social engineering tactics via a third-party supplier, putting M&S \"on its backside\" (Financial Times)",
+            "link": "http://www.techmeme.com/250522/p17#a250522p17",
+            "published": "Thu, 22 May 2025 06:55:31 -0400"
+        },
+        {
+            "title": "FTC v. Meta: Meta rested its case on May 21 after four days of arguments, including that it faces hefty competition and helped build Instagram and WhatsApp (New York Times)",
+            "link": "http://www.techmeme.com/250522/p16#a250522p16",
+            "published": "Thu, 22 May 2025 06:40:31 -0400"
+        },
+        {
             "title": "Q&A with Google DeepMind CEO Demis Hassabis and Google co-founder Sergey Brin on AI frontier models, scaling data centers, reasoning, DeepThink, AGI, and more (Alex Kantrowitz/Big Technology)",
             "link": "http://www.techmeme.com/250522/p15#a250522p15",
             "published": "Thu, 22 May 2025 06:25:29 -0400"
@@ -9,21 +24,6 @@
             "title": "Q&A with legendary game designer Shigeru Miyamoto on Super Nintendo World, redesigning Donkey Kong, the new Mario Kart, the Pikmin franchise, Switch 2, and more (IGN)",
             "link": "http://www.techmeme.com/250522/p14#a250522p14",
             "published": "Thu, 22 May 2025 06:10:28 -0400"
-        },
-        {
-            "title": "Google is using its extensive data on users to give its AI models an advantage over OpenAI and Anthropic, starting with its opt-in Gemini with personalization (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250522/p13#a250522p13",
-            "published": "Thu, 22 May 2025 05:50:01 -0400"
-        },
-        {
-            "title": "Running app Strava raised new funding at a $2.2B valuation including debt, up from $1.5B after raising $110M in November 2020, and nears $500M in ARR (Ben Glickman/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250522/p12#a250522p12",
-            "published": "Thu, 22 May 2025 05:35:01 -0400"
-        },
-        {
-            "title": "How SpaceX's Starlink moved quickly to solidify its lead in the satellite internet business, as its competitors face production and launch capacity bottlenecks (Financial Times)",
-            "link": "http://www.techmeme.com/250522/p11#a250522p11",
-            "published": "Thu, 22 May 2025 05:00:14 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,12 @@
         {
             "title": "Apple iPhone designer Jony Ive joins OpenAI in $6.5bn deal",
             "link": "https://www.bbc.com/news/articles/c5y66yemjdmo",
-            "published": "Thu, 22 May 2025 09:44:30 GMT"
+            "published": "Thu, 22 May 2025 10:39:50 GMT"
+        },
+        {
+            "title": "Trump to host investors in his cryptocurrency despite ethical concerns",
+            "link": "https://www.bbc.com/news/articles/c74nn4ppdvdo",
+            "published": "Thu, 22 May 2025 11:17:56 GMT"
         },
         {
             "title": "UK exposes Russian cyber campaign targeting support for Ukraine",
@@ -73,11 +78,6 @@
             "title": "Retail hackers believed to be young and from US and UK, detectives say",
             "link": "https://www.bbc.com/news/articles/ckgnndrgxv3o",
             "published": "Wed, 21 May 2025 10:07:26 GMT"
-        },
-        {
-            "title": "National parking platform seeks to end 'hassle' of multiple parking apps",
-            "link": "https://www.bbc.com/news/articles/ckg44pgn2g4o",
-            "published": "Wed, 21 May 2025 13:41:50 GMT"
         }
     ]
 }
