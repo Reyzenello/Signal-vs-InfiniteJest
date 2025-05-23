@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Oracle will buy ~400,000 Nvidia GB200 chips and lease them to OpenAI at its 1.2 gigawatts Texas data center, billed as the first US Stargate project (Financial Times)",
+            "link": "http://www.techmeme.com/250523/p20#a250523p20",
+            "published": "Fri, 23 May 2025 14:15:02 -0400"
+        },
+        {
+            "title": "OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250523/p19#a250523p19",
+            "published": "Fri, 23 May 2025 13:55:01 -0400"
+        },
+        {
+            "title": "A look at Anthropic's first developer conference, where CPO Mike Krieger said 70%+ of Anthropic's code pull requests are now written by their AI model Claude (Kylie Robison/Wired)",
+            "link": "http://www.techmeme.com/250523/p18#a250523p18",
+            "published": "Fri, 23 May 2025 13:35:01 -0400"
+        },
+        {
             "title": "Monarch, which makes a personal finance app, raised a $75M Series B at a $850M valuation, says its subscribers grew by 20x since Intuit closed Mint in 2023 (Hugh Son/CNBC)",
             "link": "http://www.techmeme.com/250523/p17#a250523p17",
             "published": "Fri, 23 May 2025 13:10:01 -0400"
@@ -9,33 +24,18 @@
             "title": "First Lady Melania Trump releases an audiobook of her memoir, with her \"official AI voice\" created by ElevenLabs, available exclusively in the ElevenReader app (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/250523/p16#a250523p16",
             "published": "Fri, 23 May 2025 12:05:03 -0400"
-        },
-        {
-            "title": "Sources: Tim Cook called Texas Governor Greg Abbott last week urging a veto or changes to a bill that would require Apple to verify users' ages on its devices (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250523/p15#a250523p15",
-            "published": "Fri, 23 May 2025 11:20:01 -0400"
-        },
-        {
-            "title": "Intuit stock jumps 9%+ after reporting Q3 revenue up 15% YoY to $7.8B with FY 2025 guidance of $18.72B to $18.76B, up from $18.16B to $18.35B (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/250523/p14#a250523p14",
-            "published": "Fri, 23 May 2025 11:10:01 -0400"
-        },
-        {
-            "title": "Samsung Galaxy S25 Edge review: a thin design and a good 200MP camera give a fresh take on the baseline model but battery life is mediocre and the price is high (Abrar Al-Heeti/CNET)",
-            "link": "http://www.techmeme.com/250523/p13#a250523p13",
-            "published": "Fri, 23 May 2025 10:55:03 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Why Making an iPhone in the U.S. Would Be So Difficult",
             "link": "https://www.nytimes.com/2025/05/23/technology/apple-iphone-trump-india-china.html",
-            "published": "Fri, 23 May 2025 16:46:30 +0000"
+            "published": "Fri, 23 May 2025 17:50:17 +0000"
         },
         {
             "title": "Trump Threatens 50% Tariff on E.U. and 25% Tariff on Apple",
             "link": "https://www.nytimes.com/2025/05/23/us/politics/trump-tariffs-eu-apple.html",
-            "published": "Fri, 23 May 2025 16:59:18 +0000"
+            "published": "Fri, 23 May 2025 17:38:13 +0000"
         },
         {
             "title": "Google DeepMind\u2019s Demis Hassabis on AGI, Innovation and More",
@@ -50,7 +50,7 @@
         {
             "title": "South Africa Sets the Stage for Starlink Approval",
             "link": "https://www.nytimes.com/2025/05/23/world/africa/south-africa-elon-musk-trump-starlink-white-house.html",
-            "published": "Fri, 23 May 2025 16:33:27 +0000"
+            "published": "Fri, 23 May 2025 17:38:44 +0000"
         }
     ],
     "source_2": [
