@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Salesforce is in talks to acquire cloud data management company Informatica, reviving discussions that stalled in 2024; INFA closes up 17.45% (Bloomberg)",
+            "link": "http://www.techmeme.com/250523/p24#a250523p24",
+            "published": "Fri, 23 May 2025 16:20:03 -0400"
+        },
+        {
+            "title": "Sources: CommScope is exploring a sale of its broadband connectivity and cable arm CCS for up to $10B, seeking to unload assets to repay debt (Bloomberg)",
+            "link": "http://www.techmeme.com/250523/p23#a250523p23",
+            "published": "Fri, 23 May 2025 15:45:02 -0400"
+        },
+        {
+            "title": "Q&A with Demis Hassabis about how Google I/O became the Gemini show, Google getting \"AGI-pilled\", Project Astra, Sergey Brin's shorter AGI timelines, and more (New York Times)",
+            "link": "http://www.techmeme.com/250523/p22#a250523p22",
+            "published": "Fri, 23 May 2025 15:25:01 -0400"
+        },
+        {
             "title": "President Trump says that the tariffs he has threatened against Apple would also be aimed at \"Samsung and anybody that makes that product\" (Bloomberg)",
             "link": "http://www.techmeme.com/250523/p21#a250523p21",
             "published": "Fri, 23 May 2025 14:55:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Oracle will buy ~400,000 Nvidia GB200 chips and lease them to OpenAI at its 1.2 gigawatts Texas data center, billed as the first US Stargate project (Financial Times)",
             "link": "http://www.techmeme.com/250523/p20#a250523p20",
             "published": "Fri, 23 May 2025 14:15:02 -0400"
-        },
-        {
-            "title": "OpenAI says Operator, its AI agent that can use the web to perform tasks, will soon use a model based on o3 after previously using a custom version of GPT-4o (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250523/p19#a250523p19",
-            "published": "Fri, 23 May 2025 13:55:01 -0400"
-        },
-        {
-            "title": "A look at Anthropic's first developer conference, where CPO Mike Krieger said 70%+ of Anthropic's code pull requests are now written by their AI model Claude (Kylie Robison/Wired)",
-            "link": "http://www.techmeme.com/250523/p18#a250523p18",
-            "published": "Fri, 23 May 2025 13:35:01 -0400"
-        },
-        {
-            "title": "Monarch, which makes a personal finance app, raised a $75M Series B at a $850M valuation, says its subscribers grew by 20x since Intuit closed Mint in 2023 (Hugh Son/CNBC)",
-            "link": "http://www.techmeme.com/250523/p17#a250523p17",
-            "published": "Fri, 23 May 2025 13:10:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Trump Threatens 50% Tariff on E.U. and 25% Tariff on Apple",
             "link": "https://www.nytimes.com/2025/05/23/us/politics/trump-tariffs-eu-apple.html",
-            "published": "Fri, 23 May 2025 17:38:13 +0000"
+            "published": "Fri, 23 May 2025 20:06:39 +0000"
         },
         {
             "title": "Google DeepMind\u2019s Demis Hassabis on AGI, Innovation and More",
@@ -50,7 +50,7 @@
         {
             "title": "South Africa Sets the Stage for Starlink Approval",
             "link": "https://www.nytimes.com/2025/05/23/world/africa/south-africa-elon-musk-trump-starlink-white-house.html",
-            "published": "Fri, 23 May 2025 17:38:44 +0000"
+            "published": "Fri, 23 May 2025 19:59:47 +0000"
         }
     ],
     "source_2": [
