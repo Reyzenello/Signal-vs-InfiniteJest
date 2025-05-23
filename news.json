@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Trump hosted a gala dinner for the top buyers of his memecoin, including Justin Sun, and reaffirmed his commitment to making the US the world's \"crypto capital\" (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250523/p9#a250523p9",
+            "published": "Fri, 23 May 2025 08:45:01 -0400"
+        },
+        {
+            "title": "Discord SVP Peter Sellis says the app is exploring forums and LLM-powered summaries to make discussions easy to follow and shareable outside the platform (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/250523/p8#a250523p8",
+            "published": "Fri, 23 May 2025 08:15:01 -0400"
+        },
+        {
+            "title": "Trump says a 25% tariff \"must be paid by Apple\" on iPhones not made in the US, says he told Tim Cook long ago that iPhones sold in the US must be made in the US (Jesse Pound/CNBC)",
+            "link": "http://www.techmeme.com/250523/p7#a250523p7",
+            "published": "Fri, 23 May 2025 08:07:12 -0400"
+        },
+        {
+            "title": "Apple raises trade-in prices for iPhones in China to spur demand in key market (Arjun Kharpal/CNBC)",
+            "link": "http://www.techmeme.com/250523/p6#a250523p6",
+            "published": "Fri, 23 May 2025 07:34:03 -0400"
+        },
+        {
             "title": "Sources: DOGE is using a customized Grok to analyze US government data, including at DHS where it has not been approved, raising security and privacy concerns (Reuters)",
             "link": "http://www.techmeme.com/250523/p5#a250523p5",
             "published": "Fri, 23 May 2025 07:10:03 -0400"
-        },
-        {
-            "title": "Vietnam orders ISPs to block Telegram over its failure to prevent illegal content and activities, including fraud, drug sales and suspected terrorism on the app (Francesca Stevens/Bloomberg)",
-            "link": "http://www.techmeme.com/250523/p4#a250523p4",
-            "published": "Fri, 23 May 2025 06:20:04 -0400"
-        },
-        {
-            "title": "An interview with Roku founder and CEO Anthony Wood about diversifying Roku's business beyond hardware, its services business, the Roku Channel, ads, and more (Harry McCracken/Fast Company)",
-            "link": "http://www.techmeme.com/250523/p3#a250523p3",
-            "published": "Fri, 23 May 2025 05:05:01 -0400"
-        },
-        {
-            "title": "PitchBook: emerging managers in VC, defined as those with three or fewer funds, raised $17B in the US in 2024, down from $64B in 2021, and $4.7B so far in 2025 (Bloomberg)",
-            "link": "http://www.techmeme.com/250523/p2#a250523p2",
-            "published": "Fri, 23 May 2025 02:15:01 -0400"
-        },
-        {
-            "title": "An interview with Niantic CEO John Hanke on the company selling its games business, pivoting to enterprise AI, returning to its digital mapping roots, and more (Richard Nieva/Forbes)",
-            "link": "http://www.techmeme.com/250523/p1#a250523p1",
-            "published": "Fri, 23 May 2025 00:05:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 22 May 2025 01:41:54 +0000"
         },
         {
-            "title": "The Man Who \u2018A.G.I.-Pilled\u2019 Google",
-            "link": "https://www.nytimes.com/2025/05/23/podcasts/google-ai-demis-hassabis-hard-fork.html",
-            "published": "Fri, 23 May 2025 11:00:07 +0000"
+            "title": "Trump Escalates Tariff Threats, Targeting Europe and Apple",
+            "link": "https://www.nytimes.com/2025/05/23/us/politics/trump-tariffs-eu-apple.html",
+            "published": "Fri, 23 May 2025 12:46:48 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AI system resorts to blackmail if told it will be removed",
+            "link": "https://www.bbc.com/news/articles/cpqeng9d20go",
+            "published": "Fri, 23 May 2025 12:15:22 GMT"
+        },
         {
             "title": "'World's greatest designer' Jony Ive joins OpenAI to 'reimagine' computers",
             "link": "https://www.bbc.com/news/articles/c5y66yemjdmo",
@@ -73,11 +78,6 @@
             "title": "M&S website back online, allowing users to browse",
             "link": "https://www.bbc.com/news/articles/c0k374x1y8do",
             "published": "Thu, 22 May 2025 06:43:02 GMT"
-        },
-        {
-            "title": "Retail hackers believed to be young and from US and UK, detectives say",
-            "link": "https://www.bbc.com/news/articles/ckgnndrgxv3o",
-            "published": "Wed, 21 May 2025 10:07:26 GMT"
         }
     ]
 }
