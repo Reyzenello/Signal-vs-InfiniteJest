@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A profile of Zach Witkoff, World Liberty Financial co-founder and son of Trump's Middle East envoy, who is pursuing crypto deals with countries like Pakistan (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250525/p11#a250525p11",
+            "published": "Sun, 25 May 2025 14:25:02 -0400"
+        },
+        {
             "title": "London-based Converge, which uses sensors and AI to optimize the use of concrete in construction projects, raised a $22M Series A led by Dutch bank ABN Amro (Katie Fehrenbacher/Axios)",
             "link": "http://www.techmeme.com/250525/p10#a250525p10",
             "published": "Sun, 25 May 2025 11:50:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Some VCs, such as Khosla Ventures, are considering acquiring mature businesses, like call center operators, and optimizing them with AI to serve more customers (Marina Temkin/TechCrunch)",
             "link": "http://www.techmeme.com/250525/p7#a250525p7",
             "published": "Sun, 25 May 2025 06:05:00 -0400"
-        },
-        {
-            "title": "A security researcher details how he discovered a zero-day vulnerability in the Linux kernel's SMB implementation by analyzing the code using OpenAI's o3 API (Sean Heelan/Sean Heelan's Blog)",
-            "link": "http://www.techmeme.com/250525/p6#a250525p6",
-            "published": "Sun, 25 May 2025 02:00:36 -0400"
         }
     ],
     "source_1": [
