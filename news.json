@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Some VCs, such as Khosla Ventures, are considering acquiring mature businesses, like call center operators, and optimizing them with AI to serve more customers (Marina Temkin/TechCrunch)",
+            "link": "http://www.techmeme.com/250525/p7#a250525p7",
+            "published": "Sun, 25 May 2025 06:05:00 -0400"
+        },
+        {
             "title": "A security researcher details how he discovered a zero-day vulnerability in the Linux kernel's SMB implementation by analyzing the code using OpenAI's o3 API (Sean Heelan/Sean Heelan's Blog)",
             "link": "http://www.techmeme.com/250525/p6#a250525p6",
             "published": "Sun, 25 May 2025 02:00:36 -0400"
@@ -19,11 +24,6 @@
             "title": "CX2, a defense tech startup building software and hardware, including autonomous drones, for electronic warfare, raised a $31M Series A led by Point72 Ventures (Colin Demarest/Axios)",
             "link": "http://www.techmeme.com/250525/p3#a250525p3",
             "published": "Sun, 25 May 2025 01:25:04 -0400"
-        },
-        {
-            "title": "General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, launches with $32M in funding led by Matrix (Jason Del Rey/Fortune)",
-            "link": "http://www.techmeme.com/250525/p2#a250525p2",
-            "published": "Sun, 25 May 2025 00:50:02 -0400"
         }
     ],
     "source_1": [
