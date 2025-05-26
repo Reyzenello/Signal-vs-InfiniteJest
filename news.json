@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Highlights from the system prompts of Claude Opus 4 and Claude Sonnet 4, including model safety, avoiding sycophancy, and not regurgitating copyrighted content (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/250525/p17#a250525p17",
+            "published": "Sun, 25 May 2025 20:05:01 -0400"
+        },
+        {
+            "title": "Tools like Microsoft Copilot are helping execs, managers, and staff quickly catch up on work after a vacation by triaging emails and summarizing Slack threads (Jo Constantz/Bloomberg)",
+            "link": "http://www.techmeme.com/250525/p16#a250525p16",
+            "published": "Sun, 25 May 2025 19:55:00 -0400"
+        },
+        {
             "title": "Study: users in China's Henan province were on average denied access to 5x more websites than a typical Chinese internet user between Nov. 2023 and March 2025 (Amy Hawkins/The Guardian)",
             "link": "http://www.techmeme.com/250525/p15#a250525p15",
             "published": "Sun, 25 May 2025 19:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Some Amazon engineers say managers have increasingly pushed them to use AI over the past year, raising output goals and becoming less forgiving about deadlines (Noam Scheiber/New York Times)",
             "link": "http://www.techmeme.com/250525/p13#a250525p13",
             "published": "Sun, 25 May 2025 17:30:01 -0400"
-        },
-        {
-            "title": "Google expands Veo 3 availability to 71 additional countries, and Gemini Pro subscribers now get a trial pack of 10 Veo 3 generations on the Gemini web app (Matthias Bastian/The Decoder)",
-            "link": "http://www.techmeme.com/250525/p12#a250525p12",
-            "published": "Sun, 25 May 2025 15:15:01 -0400"
-        },
-        {
-            "title": "A profile of Zach Witkoff, World Liberty Financial co-founder and son of Trump's Middle East envoy, who is pursuing crypto deals with countries like Pakistan (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250525/p11#a250525p11",
-            "published": "Sun, 25 May 2025 14:25:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "AI could already be conscious. Are we ready for it?",
+            "link": "https://www.bbc.com/news/articles/c0k3700zljjo",
+            "published": "Mon, 26 May 2025 00:38:27 GMT"
+        },
+        {
             "title": "Indian IT giant investigates link to M&S cyber-attack",
             "link": "https://www.bbc.com/news/articles/c989le2p3lno",
             "published": "Fri, 23 May 2025 19:13:07 GMT"
@@ -73,11 +78,6 @@
             "title": "Protestors accuse Trump of corruption as he hosts crypto gala dinner",
             "link": "https://www.bbc.com/news/articles/c74nn4ppdvdo",
             "published": "Fri, 23 May 2025 09:22:18 GMT"
-        },
-        {
-            "title": "UK exposes Russian cyber campaign targeting support for Ukraine",
-            "link": "https://www.bbc.com/news/articles/c17rrjdr79po",
-            "published": "Wed, 21 May 2025 16:37:38 GMT"
         }
     ]
 }
