@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Researcher: factoring 2048 bit RSA integers could be done with ~20x fewer noisy qubits than previously estimated, though still far beyond current quantum tech (Jose Antonio Lanz/Decrypt)",
+            "link": "http://www.techmeme.com/250527/p4#a250527p4",
+            "published": "Tue, 27 May 2025 04:30:05 -0400"
+        },
+        {
+            "title": "The UK, which launched open banking in 2018, is seeing its fintech sector struggle to make open banking-powered payments a viable alternative to card payments (Akila Quinio/Financial Times)",
+            "link": "http://www.techmeme.com/250527/p3#a250527p3",
+            "published": "Tue, 27 May 2025 04:10:01 -0400"
+        },
+        {
+            "title": "Tesla is set to launch its robotaxi service in Austin in June, but city officials say they are still awaiting important information regarding safety protocols (Jessica Mathews/Fortune)",
+            "link": "http://www.techmeme.com/250527/p2#a250527p2",
+            "published": "Tue, 27 May 2025 03:55:03 -0400"
+        },
+        {
             "title": "Taiwan is ramping up its defense drone push with help from startups like Coretronic, as giants like TSMC and Foxconn hold back due to a smaller local market (Bloomberg)",
             "link": "http://www.techmeme.com/250527/p1#a250527p1",
             "published": "Tue, 27 May 2025 01:45:01 -0400"
@@ -9,21 +24,6 @@
             "title": "California's population is growing again, rising 0.6% in 2024, with the H-1B visa program being one of the drivers, helping offset the residents who are leaving (Wall Street Journal)",
             "link": "http://www.techmeme.com/250526/p21#a250526p21",
             "published": "Mon, 26 May 2025 23:30:00 -0400"
-        },
-        {
-            "title": "Researchers detail an exploit in GitHub's official MCP server that lets hackers trick an LLM agent into leaking private information about the MCP user (Simon Willison/Simon Willison's Weblog)",
-            "link": "http://www.techmeme.com/250526/p20#a250526p20",
-            "published": "Mon, 26 May 2025 21:20:02 -0400"
-        },
-        {
-            "title": "The top contributor to X's Community Notes is Web3 Antivirus, a startup that uses an automated process to flag crypto scam posts and has posted 52,000 times (Alexios Mantzarlis/Indicator)",
-            "link": "http://www.techmeme.com/250526/p19#a250526p19",
-            "published": "Mon, 26 May 2025 19:45:14 -0400"
-        },
-        {
-            "title": "Scam victims in Singapore lost a total of ~$858M last year, up 70% YoY; most are contacted via Meta-owned apps, and deepfakes in scams are increasingly common (Owen Walker/Financial Times)",
-            "link": "http://www.techmeme.com/250526/p18#a250526p18",
-            "published": "Mon, 26 May 2025 19:05:00 -0400"
         }
     ],
     "source_1": [
