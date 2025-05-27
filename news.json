@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic is rolling out voice mode in beta for its Claude mobile apps, available in English; free users can expect 20-30 voice messages before hitting a limit (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250527/p32#a250527p32",
+            "published": "Tue, 27 May 2025 17:15:12 -0400"
+        },
+        {
+            "title": "The US FTC's antitrust trial against Meta ends; Judge James Boasberg, who is presiding over the case, says he will work \"expeditiously\" to issue an opinion (Cecilia Kang/New York Times)",
+            "link": "http://www.techmeme.com/250527/p31#a250527p31",
+            "published": "Tue, 27 May 2025 16:50:01 -0400"
+        },
+        {
             "title": "An Iranian man pleads guilty in US court to participating in the Robbinhood ransomware gang, compromising networks of US cities and orgs between 2019 and 2024 (Lawrence Abrams/BleepingComputer)",
             "link": "http://www.techmeme.com/250527/p30#a250527p30",
             "published": "Tue, 27 May 2025 16:20:01 -0400"
@@ -14,19 +24,14 @@
             "title": "Memo: the Trump admin pauses new student visa interviews as it mulls requiring all foreign students applying to study in the US to undergo social media vetting (Nahal Toosi/Politico)",
             "link": "http://www.techmeme.com/250527/p28#a250527p28",
             "published": "Tue, 27 May 2025 14:45:08 -0400"
-        },
-        {
-            "title": "More US states are rolling out subsidies for satellite connectivity in rural areas, including some that have funded programs that exclusively subsidize Starlink (Patience Haggin/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250527/p27#a250527p27",
-            "published": "Tue, 27 May 2025 14:15:10 -0400"
-        },
-        {
-            "title": "Texas enacts an online child-safety bill requiring app stores verify users' ages and secure parental approval before minors can get most apps or make IAPs (Bloomberg)",
-            "link": "http://www.techmeme.com/250527/p26#a250527p26",
-            "published": "Tue, 27 May 2025 14:00:06 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Texas Requires Apple and Google to Verify Ages for App Downloads",
+            "link": "https://www.nytimes.com/2025/05/27/technology/apple-google-age-verification-apps-texas.html",
+            "published": "Tue, 27 May 2025 20:45:16 +0000"
+        },
         {
             "title": "Meta\u2019s Fate Now Rests With a Judge",
             "link": "https://www.nytimes.com/2025/05/27/technology/meta-antitrust-trial-concludes.html",
@@ -43,14 +48,9 @@
             "published": "Mon, 26 May 2025 09:03:37 +0000"
         },
         {
-            "title": "Hotel and Ticket Sites Now Show the Full Price, but Hidden Fees Still Lurk",
-            "link": "https://www.nytimes.com/2025/05/25/technology/personaltech/hotel-ticket-fees-changes.html",
-            "published": "Sun, 25 May 2025 09:01:02 +0000"
-        },
-        {
-            "title": "Trump\u2019s Tariffs and Tax Bill May Derail U.S. Battery Industry",
-            "link": "https://www.nytimes.com/2025/05/26/business/energy-environment/trump-tariffs-tax-batteries.html",
-            "published": "Mon, 26 May 2025 11:55:23 +0000"
+            "title": "SpaceX to Launch Starship Flight 9: When and How to Watch",
+            "link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
+            "published": "Tue, 27 May 2025 20:48:48 +0000"
         }
     ],
     "source_2": [
