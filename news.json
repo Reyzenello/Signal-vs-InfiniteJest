@@ -1,63 +1,63 @@
 {
     "techmeme": [
         {
-            "title": "Meta launches a dedicated iPad app for WhatsApp (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250527/p18#a250527p18",
-            "published": "Tue, 27 May 2025 10:55:02 -0400"
+            "title": "Mistral launches an API for agents, which can run code, make images, access docs, search the web, and \"hand off\" to other agents, similar to OpenAI's offerings (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/250527/p23#a250527p23",
+            "published": "Tue, 27 May 2025 12:10:01 -0400"
         },
         {
-            "title": "Civitai is banning \"real-person likeness content\" on its site, citing new laws and the loss of its payment processor, after problems with nonconsensual porn (Emanuel Maiberg/404 Media)",
-            "link": "http://www.techmeme.com/250527/p17#a250527p17",
-            "published": "Tue, 27 May 2025 10:41:26 -0400"
+            "title": "Memo: Meta reorganizes its AI teams into an AI products team and AGI Foundations; FAIR remains separate but one specific FAIR team is moving to AGI Foundations (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/250527/p22#a250527p22",
+            "published": "Tue, 27 May 2025 12:01:03 -0400"
         },
         {
-            "title": "Sources on how Apple declined a deal from Elon Musk to use SpaceX instead of Globalstar for its iOS SOS feature and its 2015 plans to build satellite internet (The Information)",
-            "link": "http://www.techmeme.com/250527/p16#a250527p16",
-            "published": "Tue, 27 May 2025 10:25:01 -0400"
+            "title": "Q&A with Sundar Pichai on search's future, seeing \"overall query growth\", AI agents, not altering search rankings or AI Mode answers to favor Trump, and more (Nilay Patel/The Verge)",
+            "link": "http://www.techmeme.com/250527/p21#a250527p21",
+            "published": "Tue, 27 May 2025 11:45:01 -0400"
         },
         {
-            "title": "Trump Media & Technology Group plans to sell ~$1.5B in stock and $1B in 0% convertible notes to buy bitcoin for its treasury, following Strategy's model (Monique Mulima/Bloomberg)",
-            "link": "http://www.techmeme.com/250527/p15#a250527p15",
-            "published": "Tue, 27 May 2025 10:05:01 -0400"
+            "title": "Apple says its App Store blocked $9B+ in fraudulent transactions over the past five years, with $2B in just 2024, and rejected ~2M risky app submissions in 2024 (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/250527/p20#a250527p20",
+            "published": "Tue, 27 May 2025 11:35:02 -0400"
         },
         {
-            "title": "Stablecoin operator Circle files for an NYSE IPO and plans to offer 24M shares at $24 to $26 each, raising up to nearly $250M; Cathie Wood's ARK may buy $150M (Parikshit Mishra/CoinDesk)",
-            "link": "http://www.techmeme.com/250527/p14#a250527p14",
-            "published": "Tue, 27 May 2025 09:05:02 -0400"
+            "title": "Memo: nearly all of CISA's top leaders, including heads of five of its six operational divisions and six of 10 regional offices, have left or are leaving in May (Eric Geller/Cybersecurity Dive)",
+            "link": "http://www.techmeme.com/250527/p19#a250527p19",
+            "published": "Tue, 27 May 2025 11:30:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Tech\u2019s Trump Whisperer, Tim Cook, Goes Quiet as His Influence Fades",
+            "link": "https://www.nytimes.com/2025/05/26/technology/techs-trump-whisperer-tim-cook-goes-quiet-as-his-influence-fades.html",
+            "published": "Mon, 26 May 2025 09:03:37 +0000"
+        },
+        {
+            "title": "Hotel and Ticket Sites Now Show the Full Price, but Hidden Fees Still Lurk",
+            "link": "https://www.nytimes.com/2025/05/25/technology/personaltech/hotel-ticket-fees-changes.html",
+            "published": "Sun, 25 May 2025 09:01:02 +0000"
+        },
+        {
+            "title": "Who Won a Seat at Trump\u2019s Crypto Dinner?",
+            "link": "https://www.nytimes.com/2025/05/23/us/politics/trump-crypto-dinner-attendees.html",
+            "published": "Sun, 25 May 2025 22:44:38 +0000"
+        },
         {
             "title": "Why Making an iPhone in the U.S. Would Be So Difficult",
             "link": "https://www.nytimes.com/2025/05/23/technology/apple-iphone-trump-india-china.html",
             "published": "Fri, 23 May 2025 17:50:17 +0000"
         },
         {
-            "title": "Trump Threatens 50% Tariff on E.U. and 25% Tariff on Apple",
-            "link": "https://www.nytimes.com/2025/05/23/us/politics/trump-tariffs-eu-apple.html",
-            "published": "Sat, 24 May 2025 14:21:43 +0000"
-        },
-        {
-            "title": "Google DeepMind\u2019s Demis Hassabis on AGI, Innovation and More",
-            "link": "https://www.nytimes.com/2025/05/23/podcasts/google-ai-demis-hassabis-hard-fork.html",
-            "published": "Fri, 23 May 2025 18:57:33 +0000"
-        },
-        {
-            "title": "OpenAI Says It Will Build Massive New Data Center in the U.A.E.",
-            "link": "https://www.nytimes.com/2025/05/22/technology/openai-uae-data-centers.html",
-            "published": "Thu, 22 May 2025 18:29:03 +0000"
-        },
-        {
-            "title": "Tech\u2019s Trump Whisperer, Tim Cook, Goes Quiet as His Influence Fades",
-            "link": "https://www.nytimes.com/2025/05/26/technology/techs-trump-whisperer-tim-cook-goes-quiet-as-his-influence-fades.html",
-            "published": "Mon, 26 May 2025 09:03:37 +0000"
+            "title": "Trump\u2019s Tariffs and Tax Bill May Derail U.S. Battery Industry",
+            "link": "https://www.nytimes.com/2025/05/26/business/energy-environment/trump-tariffs-tax-batteries.html",
+            "published": "Mon, 26 May 2025 11:55:23 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Adidas says customer data stolen in cyber attack",
             "link": "https://www.bbc.com/news/articles/c071m82v80po",
-            "published": "Tue, 27 May 2025 12:21:31 GMT"
+            "published": "Tue, 27 May 2025 16:13:10 GMT"
         },
         {
             "title": "Pornhub and three other porn sites face EU child safety probe",
