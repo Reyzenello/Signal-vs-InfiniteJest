@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Salesforce agrees to acquire cloud data management company Informatica for ~$8B, set to close in its FY 2027, one year after an earlier deal fell through (Bloomberg)",
+            "link": "http://www.techmeme.com/250527/p13#a250527p13",
+            "published": "Tue, 27 May 2025 08:32:25 -0400"
+        },
+        {
+            "title": "SpAItial, which is building text-to-3D environment generation tools, raised a $13M seed led by Earlybird and plans to license its foundation model to developers (Anna Heim/TechCrunch)",
+            "link": "http://www.techmeme.com/250527/p12#a250527p12",
+            "published": "Tue, 27 May 2025 07:40:01 -0400"
+        },
+        {
             "title": "Temu-owner PDD reports Q1 revenue up 10% YoY to ~$13.3B, below ~$14.4B est., and says it is fulfilling US orders exclusively via local warehouses and merchants (Luz Ding/Bloomberg)",
             "link": "http://www.techmeme.com/250527/p11#a250527p11",
             "published": "Tue, 27 May 2025 07:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "The European Commission says it is investigating Pornhub, Stripchat, XNXX, and XVideos for potential child safety DSA violations \"as a matter of priority\" (Edith Hancock/Wall Street Journal)",
             "link": "http://www.techmeme.com/250527/p9#a250527p9",
             "published": "Tue, 27 May 2025 06:30:01 -0400"
-        },
-        {
-            "title": "Documents: self-driving truck startup TuSimple transferred critical autonomous driving tech and data to Chinese partners despite a 2022 agreement with CFIUS (Heather Somerville/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250527/p8#a250527p8",
-            "published": "Tue, 27 May 2025 06:15:01 -0400"
-        },
-        {
-            "title": "Xiaomi reports Q1 revenue up ~50% YoY to ~$15.5B, above ~$15.17B est., as it invests heavily in autonomous EVs and growing its smartphone business (Bloomberg)",
-            "link": "http://www.techmeme.com/250527/p7#a250527p7",
-            "published": "Tue, 27 May 2025 05:55:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Adidas says customer data stolen in cyber attack",
+            "link": "https://www.bbc.com/news/articles/c071m82v80po",
+            "published": "Tue, 27 May 2025 12:21:31 GMT"
+        },
+        {
             "title": "Pornhub and three other porn sites face EU child safety probe",
             "link": "https://www.bbc.com/news/articles/c1j58pwy82no",
             "published": "Tue, 27 May 2025 11:17:57 GMT"
@@ -73,11 +78,6 @@
             "title": "Indian IT giant investigates link to M&S cyber-attack",
             "link": "https://www.bbc.com/news/articles/c989le2p3lno",
             "published": "Fri, 23 May 2025 19:13:07 GMT"
-        },
-        {
-            "title": "AI system resorts to blackmail if told it will be removed",
-            "link": "https://www.bbc.com/news/articles/cpqeng9d20go",
-            "published": "Fri, 23 May 2025 12:15:22 GMT"
         }
     ]
 }
