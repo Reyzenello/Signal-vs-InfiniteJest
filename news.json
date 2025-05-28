@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Shein is shifting its IPO plans from London to Hong Kong after failing to secure approval from Chinese regulators, and aims to file in the coming weeks (Reuters)",
+            "link": "http://www.techmeme.com/250528/p25#a250528p25",
+            "published": "Wed, 28 May 2025 09:35:00 -0400"
+        },
+        {
+            "title": "Discord unveils Discord Orbs, a new in-app currency in beta that users can earn by completing Quests, which reward participants who interact with ads (Wes Davis/The Verge)",
+            "link": "http://www.techmeme.com/250528/p24#a250528p24",
+            "published": "Wed, 28 May 2025 09:25:01 -0400"
+        },
+        {
+            "title": "Instacart appoints Chief Business Officer Chris Rogers as its new CEO, effect August 15, replacing Fidji Simo, who left to become OpenAI's CEO of Applications (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/250528/p23#a250528p23",
+            "published": "Wed, 28 May 2025 09:15:55 -0400"
+        },
+        {
+            "title": "Pavel Durov says Telegram and xAI agreed a one-year deal to distribute Grok; Telegram will get $300M in cash and equity from xAI and 50% of subscription revenue (Oliver Knight/CoinDesk)",
+            "link": "http://www.techmeme.com/250528/p22#a250528p22",
+            "published": "Wed, 28 May 2025 09:01:54 -0400"
+        },
+        {
             "title": "Global Payments says it will sell its Heartland Payroll Solutions unit, which has 50K+ clients, to Michigan-based fintech Acrisure for $1.1B, closing in H2 2025 (Reuters)",
             "link": "http://www.techmeme.com/250528/p21#a250528p21",
             "published": "Wed, 28 May 2025 08:45:57 -0400"
-        },
-        {
-            "title": "Microsoft Surface Laptop 13 review: exquisite hardware, great keyboard, trackpad, and battery, and a 3:2 display, but Snapdragon X has app compatibility issues (Antonio G. Di Benedetto/The Verge)",
-            "link": "http://www.techmeme.com/250528/p20#a250528p20",
-            "published": "Wed, 28 May 2025 08:20:00 -0400"
-        },
-        {
-            "title": "DeepSeek completes a \"minor trial upgrade\" to R1 and says users can now start testing it, according to its post in an official WeChat group (Luz Ding/Bloomberg)",
-            "link": "http://www.techmeme.com/250528/p19#a250528p19",
-            "published": "Wed, 28 May 2025 08:05:01 -0400"
-        },
-        {
-            "title": "Apple launches its Self Service Repair program for the iPad lineup, a first, and plans to bring the program to Canada in summer, the 34th country to offer it (Hartley Charlton/MacRumors)",
-            "link": "http://www.techmeme.com/250528/p18#a250528p18",
-            "published": "Wed, 28 May 2025 07:55:00 -0400"
-        },
-        {
-            "title": "African e-commerce giant Jumia says it is ramping up the number of China-based merchants on its platform, as it faces competition from Temu and Shein (Olumuyiwa Olowogboyega/Semafor)",
-            "link": "http://www.techmeme.com/250528/p17#a250528p17",
-            "published": "Wed, 28 May 2025 07:45:52 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
             "link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "published": "Wed, 28 May 2025 07:01:08 +0000"
+            "published": "Wed, 28 May 2025 12:53:34 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Telegram announces partnership with Musk's xAI",
+            "link": "https://www.bbc.com/news/articles/cdxvr3n7wlxo",
+            "published": "Wed, 28 May 2025 12:59:58 GMT"
+        },
         {
             "title": "Temu's Chinese owner sees profits plunge as trade war bites",
             "link": "https://www.bbc.com/news/articles/cy8dvywypp2o",
@@ -73,11 +78,6 @@
             "title": "Adidas says customer data stolen in cyber attack",
             "link": "https://www.bbc.com/news/articles/c071m82v80po",
             "published": "Tue, 27 May 2025 16:13:10 GMT"
-        },
-        {
-            "title": "Pornhub and three other porn sites face EU child safety probe",
-            "link": "https://www.bbc.com/news/articles/c1j58pwy82no",
-            "published": "Tue, 27 May 2025 13:59:41 GMT"
         }
     ]
 }
