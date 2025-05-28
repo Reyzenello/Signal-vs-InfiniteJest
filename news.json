@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Unacademy cofounder Gaurav Munjal is stepping down as CEO, as the company pivots to in-person coaching centers and its Duolingo-like learning app (Samidha Sharma/The Economic Times)",
+            "link": "http://www.techmeme.com/250527/p41#a250527p41",
+            "published": "Tue, 27 May 2025 23:15:43 -0400"
+        },
+        {
+            "title": "The EU has published its April 23 decision to fine Apple \u20ac500M for DMA non-compliance; Apple has until end of June to be in compliance or face periodic fines (Marcus Mendes/9to5Mac)",
+            "link": "http://www.techmeme.com/250527/p40#a250527p40",
+            "published": "Tue, 27 May 2025 22:10:02 -0400"
+        },
+        {
             "title": "Circle's S-1 shows that 60% of the 24M shares being sold in its IPO come from existing stakeholders rather than the company, a highly unusual move in a tech IPO (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/250527/p39#a250527p39",
             "published": "Tue, 27 May 2025 21:20:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Block plans to roll out bitcoin payments on Square in H2 2025; the system runs on the Lightning Network and lets merchants accept bitcoin via Square's hardware (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250527/p37#a250527p37",
             "published": "Tue, 27 May 2025 19:25:01 -0400"
-        },
-        {
-            "title": "Circle aims to raise up to $624M in its US IPO, offering 24M shares at $24-$26 each, valuing it at ~$5.65B, or ~$6.7B fully diluted, at the top of the range (Bloomberg)",
-            "link": "http://www.techmeme.com/250527/p36#a250527p36",
-            "published": "Tue, 27 May 2025 18:45:12 -0400"
-        },
-        {
-            "title": "Zscaler agrees to acquire Red Canary, a provider of managed detection and response services, for an undisclosed sum; the deal is expected to close in August (Greg Otto/CyberScoop)",
-            "link": "http://www.techmeme.com/250527/p35#a250527p35",
-            "published": "Tue, 27 May 2025 18:15:09 -0400"
         }
     ],
     "source_1": [
@@ -50,14 +50,24 @@
         {
             "title": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
             "link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "published": "Wed, 28 May 2025 00:51:43 +0000"
+            "published": "Wed, 28 May 2025 02:31:21 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Temu's Chinese owner sees profits plunge as trade war bites",
+            "link": "https://www.bbc.com/news/articles/cy8dvywypp2o",
+            "published": "Wed, 28 May 2025 03:17:34 GMT"
+        },
+        {
             "title": "Second suspect arrested in alleged crypto torture scheme",
             "link": "https://www.bbc.com/news/articles/cn84x31vw96o",
             "published": "Tue, 27 May 2025 23:11:23 GMT"
+        },
+        {
+            "title": "Texas governor signs online safety law in blow to Apple and Google",
+            "link": "https://www.bbc.com/news/articles/cz63ny02d8po",
+            "published": "Wed, 28 May 2025 02:14:14 GMT"
         },
         {
             "title": "Adidas says customer data stolen in cyber attack",
@@ -68,16 +78,6 @@
             "title": "Pornhub and three other porn sites face EU child safety probe",
             "link": "https://www.bbc.com/news/articles/c1j58pwy82no",
             "published": "Tue, 27 May 2025 13:59:41 GMT"
-        },
-        {
-            "title": "The people who think AI might become conscious",
-            "link": "https://www.bbc.com/news/articles/c0k3700zljjo",
-            "published": "Mon, 26 May 2025 00:38:27 GMT"
-        },
-        {
-            "title": "Humanoid robots fight in Chinese kick-boxing competition",
-            "link": "https://www.bbc.com/news/videos/cgeg2x3lwepo",
-            "published": "Mon, 26 May 2025 06:09:34 GMT"
         }
     ]
 }
