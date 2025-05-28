@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Circle's S-1 shows that 60% of the 24M shares being sold in its IPO come from existing stakeholders rather than the company, a highly unusual move in a tech IPO (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/250527/p39#a250527p39",
+            "published": "Tue, 27 May 2025 21:20:01 -0400"
+        },
+        {
+            "title": "Okta reports Q1 revenue up 12% YoY to $688M, vs. $680M est., and maintains its FY 2026 guidance due to macroeconomic uncertainties; OKTA drops 12%+ after hours (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/250527/p38#a250527p38",
+            "published": "Tue, 27 May 2025 20:05:00 -0400"
+        },
+        {
+            "title": "Block plans to roll out bitcoin payments on Square in H2 2025; the system runs on the Lightning Network and lets merchants accept bitcoin via Square's hardware (MacKenzie Sigalos/CNBC)",
+            "link": "http://www.techmeme.com/250527/p37#a250527p37",
+            "published": "Tue, 27 May 2025 19:25:01 -0400"
+        },
+        {
             "title": "Circle aims to raise up to $624M in its US IPO, offering 24M shares at $24-$26 each, valuing it at ~$5.65B, or ~$6.7B fully diluted, at the top of the range (Bloomberg)",
             "link": "http://www.techmeme.com/250527/p36#a250527p36",
             "published": "Tue, 27 May 2025 18:45:12 -0400"
@@ -9,21 +24,6 @@
             "title": "Zscaler agrees to acquire Red Canary, a provider of managed detection and response services, for an undisclosed sum; the deal is expected to close in August (Greg Otto/CyberScoop)",
             "link": "http://www.techmeme.com/250527/p35#a250527p35",
             "published": "Tue, 27 May 2025 18:15:09 -0400"
-        },
-        {
-            "title": "Apple acquires RAC7, the two-person studio behind the popular Apple Arcade game Sneaky Sasquatch, marking its first acquisition of a video game studio (Giovanni Colantonio/Digital Trends)",
-            "link": "http://www.techmeme.com/250527/p34#a250527p34",
-            "published": "Tue, 27 May 2025 17:45:13 -0400"
-        },
-        {
-            "title": "TSMC plans to open a design center in Munich in Q3 2025 to support European customers in designing chips for automotive, industrial, AI, and IoT applications (Nathan Vifflin/Reuters)",
-            "link": "http://www.techmeme.com/250527/p33#a250527p33",
-            "published": "Tue, 27 May 2025 17:35:01 -0400"
-        },
-        {
-            "title": "Anthropic is rolling out voice mode in beta for its Claude mobile apps, available in English; free users can expect 20-30 voice messages before hitting a limit (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250527/p32#a250527p32",
-            "published": "Tue, 27 May 2025 17:15:12 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Rape Charge Is Dropped Against Dan Price of Gravity Payments",
             "link": "https://www.nytimes.com/2025/05/27/technology/dan-price-gravity-payments-rape-charge-dropped.html",
-            "published": "Tue, 27 May 2025 20:07:13 +0000"
+            "published": "Tue, 27 May 2025 23:41:38 +0000"
         },
         {
             "title": "Tech\u2019s Trump Whisperer, Tim Cook, Goes Quiet as His Influence Fades",
@@ -48,12 +48,17 @@
             "published": "Mon, 26 May 2025 09:03:37 +0000"
         },
         {
-            "title": "SpaceX to Launch Starship Flight 9: Watch Live Video",
+            "title": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
             "link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "published": "Tue, 27 May 2025 22:58:31 +0000"
+            "published": "Wed, 28 May 2025 00:51:43 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Second suspect arrested in alleged crypto torture scheme",
+            "link": "https://www.bbc.com/news/articles/cn84x31vw96o",
+            "published": "Tue, 27 May 2025 23:11:23 GMT"
+        },
         {
             "title": "Adidas says customer data stolen in cyber attack",
             "link": "https://www.bbc.com/news/articles/c071m82v80po",
@@ -73,11 +78,6 @@
             "title": "Humanoid robots fight in Chinese kick-boxing competition",
             "link": "https://www.bbc.com/news/videos/cgeg2x3lwepo",
             "published": "Mon, 26 May 2025 06:09:34 GMT"
-        },
-        {
-            "title": "Indian IT giant investigates link to M&S cyber-attack",
-            "link": "https://www.bbc.com/news/articles/c989le2p3lno",
-            "published": "Fri, 23 May 2025 19:13:07 GMT"
         }
     ]
 }
