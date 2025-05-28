@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Conduit, whose cross-border payments network integrates stablecoins and local currencies, raised a $36M Series A co-led by Dragonfly and Altos Ventures (RT Watson/The Block)",
+            "link": "http://www.techmeme.com/250528/p43#a250528p43",
+            "published": "Wed, 28 May 2025 19:20:01 -0400"
+        },
+        {
+            "title": "X says it's pausing the encrypted DMs feature to \"work on making some improvements\"; users can view previous encrypted DMs but cannot send new ones (Karissa Bell/Engadget)",
+            "link": "http://www.techmeme.com/250528/p42#a250528p42",
+            "published": "Wed, 28 May 2025 18:40:02 -0400"
+        },
+        {
             "title": "Nvidia reports H20 sales of $4.6B in Q1 but says it was unable to ship $2.5B of chips due to new export rules, and it expects a loss of $8B in H20 revenue in Q2 (Dean Takahashi/VentureBeat)",
             "link": "http://www.techmeme.com/250528/p41#a250528p41",
             "published": "Wed, 28 May 2025 17:05:03 -0400"
@@ -14,16 +24,6 @@
             "title": "Salesforce reports Q1 revenue up 8% YoY to $9.83B, vs. $9.75B est., and raises its FY 2026 revenue forecast to between $41B and $41.3B (Zaheer Kachwala/Reuters)",
             "link": "http://www.techmeme.com/250528/p39#a250528p39",
             "published": "Wed, 28 May 2025 16:40:01 -0400"
-        },
-        {
-            "title": "HP reports Q2 revenue up 3.3% YoY to $13.22B, vs. $13.14B est., Personal Systems revenue up 7% to $9B, and Q3 forecast below est.; HPQ drops 15%+ after hours (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/250528/p38#a250528p38",
-            "published": "Wed, 28 May 2025 16:35:01 -0400"
-        },
-        {
-            "title": "Nvidia reports Q1 revenue up 69% YoY to $44.06B, vs. $43.31B est., Data Center revenue up 73% to $39.1B, and net income up 26% to $18.78B (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/250528/p37#a250528p37",
-            "published": "Wed, 28 May 2025 16:30:01 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Nvidia Earnings: Revenue Tops $44 Billion Despite Sales Limits to China",
             "link": "https://www.nytimes.com/2025/05/28/technology/nvidia-earnings-ai-chips.html",
-            "published": "Wed, 28 May 2025 21:11:53 +0000"
+            "published": "Wed, 28 May 2025 22:25:39 +0000"
         }
     ],
     "source_2": [
@@ -60,7 +60,7 @@
             "published": "Wed, 28 May 2025 14:45:33 GMT"
         },
         {
-            "title": "Nvidia weathers tariff uncertainty as revenues surge",
+            "title": "Nvidia revenues surge despite tariff uncertainty",
             "link": "https://www.bbc.com/news/articles/c1j59dry4dpo",
             "published": "Wed, 28 May 2025 21:35:53 GMT"
         },
