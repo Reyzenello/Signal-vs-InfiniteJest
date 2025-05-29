@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Dutch information services company Wolters Kluwer agrees to acquire legal software maker Brightflag for ~$480M in cash, set to close in June 2025 (Andrea Figueras/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250529/p23#a250529p23",
+            "published": "Thu, 29 May 2025 07:05:02 -0400"
+        },
+        {
+            "title": "Beijing-based Kuaishou updates its Kling video-generation tool to cut the cost and time to create clips, and says it can generate 1080p videos in under a minute (Luz Ding/Bloomberg)",
+            "link": "http://www.techmeme.com/250529/p22#a250529p22",
+            "published": "Thu, 29 May 2025 06:50:01 -0400"
+        },
+        {
+            "title": "At Foxconn's shareholder conference, Chair Young Liu says 2025 revenue is set to reach ~$234B due to AI, and reassures shareholders amid US tariff uncertainty (Sherry Qin/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250529/p21#a250529p21",
+            "published": "Thu, 29 May 2025 06:35:02 -0400"
+        },
+        {
             "title": "Inside Las Vegas' Bitcoin Conference: Eric and Donald Trump Jr gave speeches, JD Vance said bitcoin is \"only going to help the American dollar\", and more (Alex Rogers/Financial Times)",
             "link": "http://www.techmeme.com/250529/p20#a250529p20",
             "published": "Thu, 29 May 2025 06:25:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Nvidia CEO Jensen Huang says Chinese AI rivals are filling the void left by US companies leaving China and Huawei has become \"quite formidable\" (Bloomberg)",
             "link": "http://www.techmeme.com/250529/p19#a250529p19",
             "published": "Thu, 29 May 2025 06:10:01 -0400"
-        },
-        {
-            "title": "Sources: the Trump administration suspends sales of more US tech, including chips and jet engines, in response to China's critical mineral export restrictions (Ana Swanson/New York Times)",
-            "link": "http://www.techmeme.com/250529/p18#a250529p18",
-            "published": "Thu, 29 May 2025 05:55:01 -0400"
-        },
-        {
-            "title": "Source: Victoria's Secret stops some office operations and tells staff to avoid using its tech amid a \"security incident\" that also disrupted its website (Bloomberg)",
-            "link": "http://www.techmeme.com/250529/p17#a250529p17",
-            "published": "Thu, 29 May 2025 05:45:01 -0400"
-        },
-        {
-            "title": "Researcher: a Virgin Media O2 network security flaw exposed the locations of tens of million of users for up to two years; Virgin says it has fixed the issue (Kieran Smith/Financial Times)",
-            "link": "http://www.techmeme.com/250529/p16#a250529p16",
-            "published": "Thu, 29 May 2025 05:30:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Victoria's Secret takes down US website after 'security incident'",
+            "link": "https://www.bbc.com/news/articles/cwy6l5573jyo",
+            "published": "Thu, 29 May 2025 10:59:05 GMT"
+        },
+        {
             "title": "Elon Musk leaves White House but says Doge will continue",
             "link": "https://www.bbc.com/news/articles/cz9y4exj822o",
             "published": "Thu, 29 May 2025 02:49:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Temu's Chinese owner sees profits plunge as trade war bites",
             "link": "https://www.bbc.com/news/articles/cy8dvywypp2o",
             "published": "Wed, 28 May 2025 03:17:34 GMT"
-        },
-        {
-            "title": "Second suspect arrested in alleged crypto torture scheme",
-            "link": "https://www.bbc.com/news/articles/cn84x31vw96o",
-            "published": "Wed, 28 May 2025 18:58:46 GMT"
         }
     ]
 }
