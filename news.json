@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Like its predecessor, DeepSeek-R1-0528 has an MIT License and model weights are on Hugging Face; DeepSeek API users will get to use the model at no extra cost (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/250529/p30#a250529p30",
+            "published": "Thu, 29 May 2025 11:05:01 -0400"
+        },
+        {
             "title": "ClickHouse, which offers an OLAP database management system, raised $350M led by Khosla, a source says at a $6.35B valuation; it is nearing an ARR of $100M (Bloomberg)",
             "link": "http://www.techmeme.com/250529/p29#a250529p29",
             "published": "Thu, 29 May 2025 10:20:01 -0400"
@@ -19,11 +24,6 @@
             "title": "DeepSeek says its R1 update can perform mathematics, programming, and general logic better than the previous version, and comes close to o3 and Gemini 2.5 Pro (Luz Ding/Bloomberg)",
             "link": "http://www.techmeme.com/250529/p26#a250529p26",
             "published": "Thu, 29 May 2025 08:50:00 -0400"
-        },
-        {
-            "title": "Victoria's Secret replaces its website with a message saying \"we identified and are taking steps to address a security incident\", and closes some store services (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/250529/p25#a250529p25",
-            "published": "Thu, 29 May 2025 07:40:54 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 27 May 2025 19:49:13 +0000"
         },
         {
-            "title": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
-            "link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
-            "published": "Wed, 28 May 2025 12:53:34 +0000"
+            "title": "Google AI Mode for Search Has Arrived. Proceed With Caution.",
+            "link": "https://www.nytimes.com/2025/05/29/technology/personaltech/google-ai-mode-search.html",
+            "published": "Thu, 29 May 2025 15:14:28 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Customers furious after Game cancels Nintendo Switch 2 pre-orders",
+            "link": "https://www.bbc.com/news/articles/ceqg10zqd38o",
+            "published": "Thu, 29 May 2025 14:48:13 GMT"
+        },
         {
             "title": "Victoria's Secret takes down US website after 'security incident'",
             "link": "https://www.bbc.com/news/articles/cwy6l5573jyo",
@@ -73,11 +78,6 @@
             "title": "Nvidia revenues surge despite tariff uncertainty",
             "link": "https://www.bbc.com/news/articles/c1j59dry4dpo",
             "published": "Thu, 29 May 2025 09:40:04 GMT"
-        },
-        {
-            "title": "Temu's Chinese owner sees profits plunge as trade war bites",
-            "link": "https://www.bbc.com/news/articles/cy8dvywypp2o",
-            "published": "Wed, 28 May 2025 03:17:34 GMT"
         }
     ]
 }
