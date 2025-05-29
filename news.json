@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft opens Windows Update to any third-party app that needs to be updated, letting developers sign up for a private preview of a new orchestration platform (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250528/p47#a250528p47",
+            "published": "Wed, 28 May 2025 21:25:01 -0400"
+        },
+        {
+            "title": "Elon Musk departs the Trump administration as a \"special government employee\", defending DOGE's mission to reduce wasteful government spending (Zachary Basu/Axios)",
+            "link": "http://www.techmeme.com/250528/p46#a250528p46",
+            "published": "Wed, 28 May 2025 21:05:01 -0400"
+        },
+        {
+            "title": "The US Court of International Trade blocks Trump from imposing sweeping import tariffs under an emergency-powers law, finding Trump exceeded his authority (Lindsay Whitehurst/Associated Press)",
+            "link": "http://www.techmeme.com/250528/p45#a250528p45",
+            "published": "Wed, 28 May 2025 20:10:03 -0400"
+        },
+        {
+            "title": "Samsung releases the first One UI 8 beta for Galaxy S25, S25+, and S25 Ultra, with an updated Quick Share and more, in South Korea, the US, and other regions (Ben Schoon/9to5Google)",
+            "link": "http://www.techmeme.com/250528/p44#a250528p44",
+            "published": "Wed, 28 May 2025 19:40:02 -0400"
+        },
+        {
             "title": "Conduit, whose cross-border payments network integrates stablecoins and local currencies, raised a $36M Series A co-led by Dragonfly and Altos Ventures (RT Watson/The Block)",
             "link": "http://www.techmeme.com/250528/p43#a250528p43",
             "published": "Wed, 28 May 2025 19:20:01 -0400"
-        },
-        {
-            "title": "X says it's pausing the encrypted DMs feature to \"work on making some improvements\"; users can view previous encrypted DMs but cannot send new ones (Karissa Bell/Engadget)",
-            "link": "http://www.techmeme.com/250528/p42#a250528p42",
-            "published": "Wed, 28 May 2025 18:40:02 -0400"
-        },
-        {
-            "title": "Nvidia reports H20 sales of $4.6B in Q1 but says it was unable to ship $2.5B of chips due to new export rules, and it expects a loss of $8B in H20 revenue in Q2 (Dean Takahashi/VentureBeat)",
-            "link": "http://www.techmeme.com/250528/p41#a250528p41",
-            "published": "Wed, 28 May 2025 17:05:03 -0400"
-        },
-        {
-            "title": "Opera announces Opera Neon, an AI \"agentic browser\" that performs tasks on users' behalf, describing it as a \"premium subscription product\" behind a waitlist (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250528/p40#a250528p40",
-            "published": "Wed, 28 May 2025 16:50:01 -0400"
-        },
-        {
-            "title": "Salesforce reports Q1 revenue up 8% YoY to $9.83B, vs. $9.75B est., and raises its FY 2026 revenue forecast to between $41B and $41.3B (Zaheer Kachwala/Reuters)",
-            "link": "http://www.techmeme.com/250528/p39#a250528p39",
-            "published": "Wed, 28 May 2025 16:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Nvidia Earnings: Revenue Tops $44 Billion Despite Sales Limits to China",
+            "link": "https://www.nytimes.com/2025/05/28/technology/nvidia-earnings-ai-chips.html",
+            "published": "Wed, 28 May 2025 22:25:39 +0000"
+        },
         {
             "title": "Texas Requires Apple and Google to Verify Ages for App Downloads",
             "link": "https://www.nytimes.com/2025/05/27/technology/apple-google-age-verification-apps-texas.html",
@@ -43,17 +48,17 @@
             "published": "Tue, 27 May 2025 23:41:39 +0000"
         },
         {
-            "title": "Tech\u2019s Trump Whisperer, Tim Cook, Goes Quiet as His Influence Fades",
-            "link": "https://www.nytimes.com/2025/05/26/technology/techs-trump-whisperer-tim-cook-goes-quiet-as-his-influence-fades.html",
-            "published": "Mon, 26 May 2025 09:03:37 +0000"
-        },
-        {
-            "title": "Nvidia Earnings: Revenue Tops $44 Billion Despite Sales Limits to China",
-            "link": "https://www.nytimes.com/2025/05/28/technology/nvidia-earnings-ai-chips.html",
-            "published": "Wed, 28 May 2025 22:25:39 +0000"
+            "title": "SpaceX Starship Loses Control on Test Flight 9 as Rocket Re-enters Earth",
+            "link": "https://www.nytimes.com/2025/05/27/science/spacex-starship-launch-elon-musk-mars.html",
+            "published": "Wed, 28 May 2025 12:53:34 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Elon Musk bids farewell to White House but says Doge will continue",
+            "link": "https://www.bbc.com/news/articles/cz9y4exj822o",
+            "published": "Thu, 29 May 2025 01:28:50 GMT"
+        },
         {
             "title": "Telegram announces partnership with Musk's xAI",
             "link": "https://www.bbc.com/news/articles/cdxvr3n7wlxo",
@@ -73,11 +78,6 @@
             "title": "Second suspect arrested in alleged crypto torture scheme",
             "link": "https://www.bbc.com/news/articles/cn84x31vw96o",
             "published": "Wed, 28 May 2025 18:58:46 GMT"
-        },
-        {
-            "title": "Texas governor signs online safety law in blow to Apple and Google",
-            "link": "https://www.bbc.com/news/articles/cz63ny02d8po",
-            "published": "Wed, 28 May 2025 02:14:14 GMT"
         }
     ]
 }
