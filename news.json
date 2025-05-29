@@ -1,10 +1,36 @@
 {
-    "techmeme": [],
+    "techmeme": [
+        {
+            "title": "ClickHouse, which offers an OLAP database management system, raised $350M led by Khosla, a source says at a $6.35B valuation; it is nearing an ARR of $100M (Bloomberg)",
+            "link": "http://www.techmeme.com/250529/p29#a250529p29",
+            "published": "Thu, 29 May 2025 10:20:01 -0400"
+        },
+        {
+            "title": "Nvidia debuts a native GeForce NOW app for Steam Deck, supporting games in up to 4K at 60 FPS; in testing, the app extended Steam Deck battery life by up to 50% (Jennifer Young/Windows Central)",
+            "link": "http://www.techmeme.com/250529/p28#a250529p28",
+            "published": "Thu, 29 May 2025 09:45:01 -0400"
+        },
+        {
+            "title": "NYT and Amazon agree to a content licensing deal for use in Amazon's AI platforms and to bring the NYT's \"content to a variety of Amazon customer experiences\" (New York Times)",
+            "link": "http://www.techmeme.com/250529/p27#a250529p27",
+            "published": "Thu, 29 May 2025 09:10:02 -0400"
+        },
+        {
+            "title": "DeepSeek says its R1 update can perform mathematics, programming, and general logic better than the previous version, and comes close to o3 and Gemini 2.5 Pro (Luz Ding/Bloomberg)",
+            "link": "http://www.techmeme.com/250529/p26#a250529p26",
+            "published": "Thu, 29 May 2025 08:50:00 -0400"
+        },
+        {
+            "title": "Victoria's Secret replaces its website with a message saying \"we identified and are taking steps to address a security incident\", and closes some store services (Sergiu Gatlan/BleepingComputer)",
+            "link": "http://www.techmeme.com/250529/p25#a250529p25",
+            "published": "Thu, 29 May 2025 07:40:54 -0400"
+        }
+    ],
     "source_1": [
         {
-            "title": "The Times and Amazon Announce A.I. Licensing Deal",
+            "title": "The Times and Amazon Announce an A.I. Licensing Deal",
             "link": "https://www.nytimes.com/2025/05/29/business/media/new-york-times-amazon-ai-licensing.html",
-            "published": "Thu, 29 May 2025 13:05:15 +0000"
+            "published": "Thu, 29 May 2025 13:53:28 +0000"
         },
         {
             "title": "Nvidia Earnings: Revenue Tops $44 Billion Despite Sales Limits to China",
