@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Palantir's Foundry is now deployed in at least four federal agencies, after Trump signed an EO calling for the government to share data across agencies (New York Times)",
+            "link": "http://www.techmeme.com/250530/p11#a250530p11",
+            "published": "Fri, 30 May 2025 11:25:01 -0400"
+        },
+        {
+            "title": "Snorkel AI, which pivoted from data labeling to building AI evaluation tools, raised a $100M Series D led by Addition at a $1.3B valuation, up from $1B in 2021 (Rashi Shrivastava/Forbes)",
+            "link": "http://www.techmeme.com/250530/p10#a250530p10",
+            "published": "Fri, 30 May 2025 10:35:03 -0400"
+        },
+        {
             "title": "Source: Chime's IPO is expected to price at ~$11B, down from its $25B private valuation in 2021; every VC-backed IPO in the past 12 months has been a down round (Cory Weinberg/The Information)",
             "link": "http://www.techmeme.com/250530/p9#a250530p9",
             "published": "Fri, 30 May 2025 09:50:00 -0400"
@@ -14,50 +24,40 @@
             "title": "Sources: Elon Musk engaged in intense drug use during the 2024 presidential campaign, as he juggled the messy consequences of efforts to produce more babies (New York Times)",
             "link": "http://www.techmeme.com/250530/p7#a250530p7",
             "published": "Fri, 30 May 2025 08:12:12 -0400"
-        },
-        {
-            "title": "Letter: Synopsys tells staff to stop sales, services, and new orders in China to comply with new US export curbs, and pulls its annual and quarterly forecasts (Reuters)",
-            "link": "http://www.techmeme.com/250530/p6#a250530p6",
-            "published": "Fri, 30 May 2025 07:35:01 -0400"
-        },
-        {
-            "title": "The US Treasury sanctions Philippines-based Funnull Technology for allegedly facilitating \"pig butchering\" crypto scams that stole over $200M from US victims (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-            "link": "http://www.techmeme.com/250530/p5#a250530p5",
-            "published": "Fri, 30 May 2025 07:00:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Energy Department Unveils New Supercomputer That Merges With A.I.",
-            "link": "https://www.nytimes.com/2025/05/29/technology/energy-department-supercomputer-ai.html",
-            "published": "Thu, 29 May 2025 19:45:06 +0000"
+            "title": "Trump Taps Palantir to Compile Data on Americans",
+            "link": "https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html",
+            "published": "Fri, 30 May 2025 09:00:59 +0000"
         },
         {
-            "title": "Google AI Mode for Search Has Arrived. Proceed With Caution.",
-            "link": "https://www.nytimes.com/2025/05/29/technology/personaltech/google-ai-mode-search.html",
-            "published": "Fri, 30 May 2025 14:08:31 +0000"
+            "title": "Elon Musk Juggled Drugs and Family Drama on Trump\u2019s Campaign Trail",
+            "link": "https://www.nytimes.com/2025/05/30/us/elon-musk-drugs-children-trump.html",
+            "published": "Fri, 30 May 2025 15:06:11 +0000"
         },
         {
-            "title": "Amazon and The New York Times Announce an A.I. Licensing Deal",
-            "link": "https://www.nytimes.com/2025/05/29/business/media/new-york-times-amazon-ai-licensing.html",
-            "published": "Thu, 29 May 2025 17:55:13 +0000"
+            "title": "For Some Recent Graduates, the A.I. Job Apocalypse May Already Be Here",
+            "link": "https://www.nytimes.com/2025/05/30/technology/ai-jobs-college-graduates.html",
+            "published": "Fri, 30 May 2025 09:02:29 +0000"
         },
         {
-            "title": "Nvidia Earnings: Revenue Tops $44 Billion Despite Sales Limits to China",
-            "link": "https://www.nytimes.com/2025/05/28/technology/nvidia-earnings-ai-chips.html",
-            "published": "Wed, 28 May 2025 22:25:39 +0000"
+            "title": "The Judge\u2019s Data Dilemma in the Google Search Case",
+            "link": "https://www.nytimes.com/2025/05/30/business/google-search-antitrust-data.html",
+            "published": "Fri, 30 May 2025 09:02:01 +0000"
         },
         {
-            "title": "The A.I. Jobpocalypse, Building at Anthropic with Mike Krieger and Hard Fork Crimes Division",
-            "link": "https://www.nytimes.com/2025/05/30/podcasts/hardfork-ai-jobpocalypse.html",
-            "published": "Fri, 30 May 2025 11:00:05 +0000"
+            "title": "Judge Hears Final Arguments on How to Fix Google\u2019s Search Monopoly",
+            "link": "https://www.nytimes.com/2025/05/30/technology/google-search-antitrust-chrome.html",
+            "published": "Fri, 30 May 2025 14:32:56 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Football and other premium TV being pirated at 'industrial scale'",
             "link": "https://www.bbc.com/news/articles/cp3n7dx2174o",
-            "published": "Fri, 30 May 2025 11:44:46 GMT"
+            "published": "Fri, 30 May 2025 14:42:23 GMT"
         },
         {
             "title": "Customers furious after Game cancels Nintendo Switch 2 pre-orders",
