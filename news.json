@@ -1,5 +1,31 @@
 {
-    "techmeme": [],
+    "techmeme": [
+        {
+            "title": "Cerby, which provides an identity security automation service to help secure \"unmanageable\" and nonstandard enterprise apps, raised a $40M Series B led by DTCP (Kyt Dotson/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250529/p48#a250529p48",
+            "published": "Thu, 29 May 2025 22:05:01 -0400"
+        },
+        {
+            "title": "The US Department of Energy says its Doudna supercomputer, due in 2026, will use Nvidia's latest Vera Rubin chips built into liquid-cooled servers by Dell (Stephen Nellis/Reuters)",
+            "link": "http://www.techmeme.com/250529/p47#a250529p47",
+            "published": "Thu, 29 May 2025 21:20:01 -0400"
+        },
+        {
+            "title": "Black Forest Labs releases Flux.1 Kontext, a suite of AI models that let users generate and edit images using both text and images as inputs (Kyle Wiggers/TechCrunch)",
+            "link": "http://www.techmeme.com/250529/p46#a250529p46",
+            "published": "Thu, 29 May 2025 20:20:05 -0400"
+        },
+        {
+            "title": "Sources: Microsoft has sidelined its native Xbox handheld to focus on improving Windows 11 gaming performance for devices like the Asus model debuting in 2025 (Jez Corden/Windows Central)",
+            "link": "http://www.techmeme.com/250529/p45#a250529p45",
+            "published": "Thu, 29 May 2025 19:25:00 -0400"
+        },
+        {
+            "title": "Marvell reports Q1 revenue up 63% YoY to $1.9B, vs. $1.88B est., data center revenue up 76% YoY to $1.44B, and forecasts Q2 revenue above est. on AI chip demand (Priyanka G/Reuters)",
+            "link": "http://www.techmeme.com/250529/p44#a250529p44",
+            "published": "Thu, 29 May 2025 18:55:02 -0400"
+        }
+    ],
     "source_1": [
         {
             "title": "Energy Department Unveils New Supercomputer That Merges With A.I.",
@@ -14,7 +40,7 @@
         {
             "title": "Amazon and The New York Times Announce an A.I. Licensing Deal",
             "link": "https://www.nytimes.com/2025/05/29/business/media/new-york-times-amazon-ai-licensing.html",
-            "published": "Thu, 29 May 2025 17:55:12 +0000"
+            "published": "Thu, 29 May 2025 17:55:13 +0000"
         },
         {
             "title": "Nvidia Earnings: Revenue Tops $44 Billion Despite Sales Limits to China",
@@ -39,6 +65,11 @@
             "published": "Thu, 29 May 2025 10:59:05 GMT"
         },
         {
+            "title": "Five ways the world's richest man changed the White House",
+            "link": "https://www.bbc.com/news/articles/cpd46266vgdo",
+            "published": "Fri, 30 May 2025 01:39:37 GMT"
+        },
+        {
             "title": "Elon Musk leaves White House but says Doge will continue",
             "link": "https://www.bbc.com/news/articles/cz9y4exj822o",
             "published": "Thu, 29 May 2025 02:49:50 GMT"
@@ -47,11 +78,6 @@
             "title": "Telegram announces partnership with Musk's xAI",
             "link": "https://www.bbc.com/news/articles/cdxvr3n7wlxo",
             "published": "Wed, 28 May 2025 14:45:33 GMT"
-        },
-        {
-            "title": "Nvidia revenues surge despite tariff uncertainty",
-            "link": "https://www.bbc.com/news/articles/c1j59dry4dpo",
-            "published": "Thu, 29 May 2025 09:40:04 GMT"
         }
     ]
 }
