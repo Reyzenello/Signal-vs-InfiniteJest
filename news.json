@@ -1,22 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "A UK government trial with 20K+ civil servants using Microsoft's Copilot AI for three months found a 26 minute average daily time saving, or two weeks per year (Melissa Heikkil\u00e4/Financial Times)",
+            "title": "A UK government trial of 20K+ civil servants using Microsoft Copilot for three months found that they saved 26 minutes per day on average, or two weeks per year (Melissa Heikkil\u00e4/Financial Times)",
             "link": "http://www.techmeme.com/250602/p14#a250602p14",
             "published": "Mon, 02 Jun 2025 09:30:01 -0400"
         },
         {
-            "title": "Filing: neobank Chime plans to sell 26M shares in its IPO at $24 to $26, giving it a valuation between $10.3B and $11.1B; its two co-founders own 4% to 5% each (Cory Weinberg/The Information)",
+            "title": "Filing: neobank Chime plans to sell ~26M shares in its IPO at $24 to $26, valuing it a $10.3B to $11.1B; co-founders Chris Britt and Ryan King each own 4% to 5% (Cory Weinberg/The Information)",
             "link": "http://www.techmeme.com/250602/p13#a250602p13",
             "published": "Mon, 02 Jun 2025 09:10:31 -0400"
         },
         {
-            "title": "Paradromics implanted and removed its Connexus brain implant in a patient for ~10 minutes during epilepsy surgery on May 14, a first for the Neuralink rival (Emily Mullin/Wired)",
+            "title": "Paradromics inserted its Connexus brain implant in a patient and removed it after ~10 minutes during epilepsy surgery on May 14, a first for the Neuralink rival (Emily Mullin/Wired)",
             "link": "http://www.techmeme.com/250602/p12#a250602p12",
             "published": "Mon, 02 Jun 2025 08:30:01 -0400"
         },
         {
-            "title": "Germany's Federal Cartel Office warns Amazon that its price controls for marketplace retailers likely violate national and EU laws, in preliminary findings (Karin Matussek/Bloomberg)",
+            "title": "Germany's Federal Cartel Office warns Amazon that its marketplace retailer price controls likely violate national and EU laws, in its preliminary assessment (Karin Matussek/Bloomberg)",
             "link": "http://www.techmeme.com/250602/p11#a250602p11",
             "published": "Mon, 02 Jun 2025 07:50:01 -0400"
         },
@@ -28,6 +28,11 @@
     ],
     "source_1": [
         {
+            "title": "How A.I. Is Changing How Chefs Cook",
+            "link": "https://www.nytimes.com/2025/06/02/dining/ai-chefs-restaurants.html",
+            "published": "Mon, 02 Jun 2025 13:56:11 +0000"
+        },
+        {
             "title": "Trump Taps Palantir to Compile Data on Americans",
             "link": "https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html",
             "published": "Fri, 30 May 2025 16:01:46 +0000"
@@ -38,19 +43,14 @@
             "published": "Sat, 31 May 2025 20:42:13 +0000"
         },
         {
-            "title": "For Some Recent Graduates, the A.I. Job Apocalypse May Already Be Here",
-            "link": "https://www.nytimes.com/2025/05/30/technology/ai-jobs-college-graduates.html",
-            "published": "Fri, 30 May 2025 09:02:29 +0000"
+            "title": "Fate of Google\u2019s Search Monopoly Is Now in a Judge\u2019s Hands",
+            "link": "https://www.nytimes.com/2025/05/30/technology/google-search-antitrust-chrome.html",
+            "published": "Fri, 30 May 2025 22:08:37 +0000"
         },
         {
-            "title": "The Judge\u2019s Data Dilemma in the Google Search Case",
-            "link": "https://www.nytimes.com/2025/05/30/business/google-search-antitrust-data.html",
-            "published": "Sat, 31 May 2025 00:22:46 +0000"
-        },
-        {
-            "title": "How A.I. Is Changing How Chefs Cook",
-            "link": "https://www.nytimes.com/2025/06/02/dining/ai-chefs-restaurants.html",
-            "published": "Mon, 02 Jun 2025 12:03:08 +0000"
+            "title": "The A.I. Jobpocalypse, Building at Anthropic with Mike Krieger and Hard Fork Crimes Division",
+            "link": "https://www.nytimes.com/2025/05/30/podcasts/hardfork-ai-jobpocalypse.html",
+            "published": "Fri, 30 May 2025 18:46:04 +0000"
         }
     ],
     "source_2": [
