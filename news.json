@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A website for \"$TRUMP Wallet\" launches, saying it is \"The Official $TRUMP Wallet by President Trump\" powered by NFT service Magic Eden, and opens a waitlist (Molly White/Citation Needed)",
+            "link": "http://www.techmeme.com/250603/p28#a250603p28",
+            "published": "Tue, 03 Jun 2025 13:25:02 -0400"
+        },
+        {
+            "title": "TikTok expands Manage Topics, a feature that lets users customize how often specific topics appear in the For You feed, and adds AI-powered keyword filtering (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250603/p27#a250603p27",
+            "published": "Tue, 03 Jun 2025 13:05:02 -0400"
+        },
+        {
+            "title": "Nintendo says it didn't send any Switch 2 review units to outlets as \"important features and updates\" will only be available via an update on its June 5 launch (Andy Robinson/Video Games Chronicle)",
+            "link": "http://www.techmeme.com/250603/p26#a250603p26",
+            "published": "Tue, 03 Jun 2025 12:45:01 -0400"
+        },
+        {
             "title": "Some researchers say it looks like DeepSeek may have used Google Gemini to help train its R1-0528 reasoning model (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250603/p25#a250603p25",
             "published": "Tue, 03 Jun 2025 12:35:18 -0400"
@@ -9,28 +24,13 @@
             "title": "How AppLovin, which lets advertisers use IP addresses to track users, began eroding Google's ad market share and pushed Google to loosen its privacy stance (Catherine Perloff/The Information)",
             "link": "http://www.techmeme.com/250603/p24#a250603p24",
             "published": "Tue, 03 Jun 2025 12:25:01 -0400"
-        },
-        {
-            "title": "Epic Games launches MetaHuman, its game developer tool to quickly create realistic digital human characters, now embedded as part of Unreal Engine 5.6 (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/250603/p23#a250603p23",
-            "published": "Tue, 03 Jun 2025 12:20:01 -0400"
-        },
-        {
-            "title": "Pornhub's parent company plans to stop serving adult content in France as soon as June 4, in protest of government measures forcing it to verify visitors' ages (Politico)",
-            "link": "http://www.techmeme.com/250603/p22#a250603p22",
-            "published": "Tue, 03 Jun 2025 11:00:34 -0400"
-        },
-        {
-            "title": "Tel Aviv-based Speedata, which is designing analytics processing units for big data workloads, raised a $44M Series B and aims to showcase its first APU in June (Kate Park/TechCrunch)",
-            "link": "http://www.techmeme.com/250603/p21#a250603p21",
-            "published": "Tue, 03 Jun 2025 10:40:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "David Cope, Godfather of A.I. Music, Is Dead at 83",
             "link": "https://www.nytimes.com/2025/06/02/technology/david-cope-dead-ai-music.html",
-            "published": "Mon, 02 Jun 2025 20:57:49 +0000"
+            "published": "Tue, 03 Jun 2025 17:06:39 +0000"
         },
         {
             "title": "F.T.C. Investigates Ad Groups and Watchdogs, Alleging Boycott Collusion",
@@ -45,7 +45,7 @@
         {
             "title": "What if Google Just Broke Itself Up? A Tech Insider Makes the Case.",
             "link": "https://www.nytimes.com/2025/06/02/technology/google-antitrust-breakup.html",
-            "published": "Mon, 02 Jun 2025 18:25:01 +0000"
+            "published": "Mon, 02 Jun 2025 18:25:02 +0000"
         },
         {
             "title": "Tesla Protesters Claim a Victory as Elon Musk Leaves Trump\u2019s Side",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Pornhub pulls out of France over age verification law",
+            "link": "https://www.bbc.com/news/articles/c5yelvlnzveo",
+            "published": "Tue, 03 Jun 2025 16:38:10 GMT"
+        },
         {
             "title": "Apple and Google clash with police and MPs over phone thefts",
             "link": "https://www.bbc.com/news/articles/c4ge8k5dn7go",
@@ -73,11 +78,6 @@
             "title": "Tesla is 'not interested' in producing cars in India - minister",
             "link": "https://www.bbc.com/news/articles/ce9vm07k0y7o",
             "published": "Tue, 03 Jun 2025 06:32:51 GMT"
-        },
-        {
-            "title": "Football and other premium TV being pirated at 'industrial scale'",
-            "link": "https://www.bbc.com/news/articles/cp3n7dx2174o",
-            "published": "Fri, 30 May 2025 17:03:47 GMT"
         }
     ]
 }
