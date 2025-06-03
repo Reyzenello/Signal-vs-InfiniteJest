@@ -1,31 +1,5 @@
 {
-    "techmeme": [
-        {
-            "title": "Meta agrees to acquire power from Constellation's operating Illinois nuclear plant, in a 20-year deal starting in mid-2027 when a state subsidy expires (Bloomberg)",
-            "link": "http://www.techmeme.com/250603/p11#a250603p11",
-            "published": "Tue, 03 Jun 2025 07:15:02 -0400"
-        },
-        {
-            "title": "Sources: Xiaomi is among the Chinese tech companies most impacted by new US chip design export rules, affecting its new 3nm mobile chip made by TSMC in Taiwan (Financial Times)",
-            "link": "http://www.techmeme.com/250603/p10#a250603p10",
-            "published": "Tue, 03 Jun 2025 07:05:00 -0400"
-        },
-        {
-            "title": "Germany's data protection commission fines Vodafone a record \u20ac45M due to data privacy violations linked to malicious behavior by third-party sales agents (Karin Matussek/Bloomberg)",
-            "link": "http://www.techmeme.com/250603/p9#a250603p9",
-            "published": "Tue, 03 Jun 2025 06:45:02 -0400"
-        },
-        {
-            "title": "David Cope, a composer and algorithmic composition pioneer who created a program in the 1980s to write music in the style of Bach and others, died at age 83 (Miguel Salazar/New York Times)",
-            "link": "http://www.techmeme.com/250603/p8#a250603p8",
-            "published": "Tue, 03 Jun 2025 06:30:00 -0400"
-        },
-        {
-            "title": "Thoma Bravo raised $34.4B across three funds, including $24.3B for its main software company buyout fund and $8.1B for its midsize software-focused fund (Miriam Gottfried/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250603/p7#a250603p7",
-            "published": "Tue, 03 Jun 2025 06:10:03 -0400"
-        }
-    ],
+    "techmeme": [],
     "source_1": [
         {
             "title": "Elon Musk Returns to His Tech Empire, Facing Questions of Inattention",
@@ -55,9 +29,14 @@
     ],
     "source_2": [
         {
+            "title": "Apple and Google clash with police and MPs over phone thefts",
+            "link": "https://www.bbc.com/news/articles/c4ge8k5dn7go",
+            "published": "Tue, 03 Jun 2025 12:49:09 GMT"
+        },
+        {
             "title": "North Face and Cartier customer data stolen in cyber attacks",
             "link": "https://www.bbc.com/news/articles/c39x3jpv8lyo",
-            "published": "Tue, 03 Jun 2025 09:38:14 GMT"
+            "published": "Tue, 03 Jun 2025 12:19:20 GMT"
         },
         {
             "title": "Government AI copyright plan suffers fourth House of Lords defeat",
@@ -73,11 +52,6 @@
             "title": "Football and other premium TV being pirated at 'industrial scale'",
             "link": "https://www.bbc.com/news/articles/cp3n7dx2174o",
             "published": "Fri, 30 May 2025 17:03:47 GMT"
-        },
-        {
-            "title": "Customers furious after Game cancels Nintendo Switch 2 pre-orders",
-            "link": "https://www.bbc.com/news/articles/ceqg10zqd38o",
-            "published": "Thu, 29 May 2025 14:48:13 GMT"
         }
     ]
 }
