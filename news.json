@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "David Cope, a composer and algorithmic composition pioneer who created a program in the 1980s to write music in the style of Bach and others, died at age 83 (Miguel Salazar/New York Times)",
+            "link": "http://www.techmeme.com/250603/p8#a250603p8",
+            "published": "Tue, 03 Jun 2025 06:30:00 -0400"
+        },
+        {
+            "title": "Thoma Bravo raised $34.4B across three funds, including $24.3B for its main software company buyout fund and $8.1B for its midsize software-focused fund (Miriam Gottfried/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250603/p7#a250603p7",
+            "published": "Tue, 03 Jun 2025 06:10:03 -0400"
+        },
+        {
+            "title": "Dublin-based cross-border payment startup NomuPay raised a $40M Series C at a $290M valuation, following a $37M Series B at a $200M valuation in January 2025 (Kate Park/TechCrunch)",
+            "link": "http://www.techmeme.com/250603/p6#a250603p6",
+            "published": "Tue, 03 Jun 2025 05:55:01 -0400"
+        },
+        {
+            "title": "TSMC CEO C.C. Wei blames worsening traffic for delays in expanding its new Japan facility, and reaffirms plans to spend $100B in Arizona in the next five years (Debby Wu/Bloomberg)",
+            "link": "http://www.techmeme.com/250603/p5#a250603p5",
+            "published": "Tue, 03 Jun 2025 05:40:01 -0400"
+        },
+        {
             "title": "A look at Walmart's use of automation to grow sales without adding staff, as analysts say its efforts raise questions about the future of US retail labor (Gregory Meyer/Financial Times)",
             "link": "http://www.techmeme.com/250603/p4#a250603p4",
             "published": "Tue, 03 Jun 2025 03:55:02 -0400"
-        },
-        {
-            "title": "TSMC CEO C.C. Wei says TSMC expects record profit in 2025 despite geopolitical, tariff, and FX risks, and confirms it is not building a fab in the Middle East (Cheng Ting-Fang/Nikkei Asia)",
-            "link": "http://www.techmeme.com/250603/p3#a250603p3",
-            "published": "Tue, 03 Jun 2025 02:25:01 -0400"
-        },
-        {
-            "title": "AI pioneer Yoshua Bengio launches LawZero, a nonprofit focused on safer AI; LawZero has raised $30M in donations, including from Skype co-founder Jaan Tallinn (Cristina Criddle/Financial Times)",
-            "link": "http://www.techmeme.com/250603/p2#a250603p2",
-            "published": "Tue, 03 Jun 2025 01:20:01 -0400"
-        },
-        {
-            "title": "Sensor Tower: daily US users of PDD Holdings' Temu fell by 58% in May; the US closed the \"de minimis\" loophole on May 2, and Temu then slashed its ad spending (Reuters)",
-            "link": "http://www.techmeme.com/250603/p1#a250603p1",
-            "published": "Tue, 03 Jun 2025 00:45:01 -0400"
-        },
-        {
-            "title": "A software developer explains how LLMs, especially AI agents, help automate tedious coding tasks and addresses concerns like hallucinations, job loss, and more (Thomas Ptacek/Fly)",
-            "link": "http://www.techmeme.com/250602/p33#a250602p33",
-            "published": "Mon, 02 Jun 2025 23:40:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "North Face and Cartier customer data stolen in cyber attacks",
+            "link": "https://www.bbc.com/news/articles/c39x3jpv8lyo",
+            "published": "Tue, 03 Jun 2025 09:38:14 GMT"
+        },
+        {
             "title": "Government AI copyright plan suffers fourth House of Lords defeat",
             "link": "https://www.bbc.com/news/articles/clyrgv2n190o",
             "published": "Mon, 02 Jun 2025 06:22:46 GMT"
@@ -73,11 +78,6 @@
             "title": "Customers furious after Game cancels Nintendo Switch 2 pre-orders",
             "link": "https://www.bbc.com/news/articles/ceqg10zqd38o",
             "published": "Thu, 29 May 2025 14:48:13 GMT"
-        },
-        {
-            "title": "Outrage in Kenya over detention of software developer",
-            "link": "https://www.bbc.com/news/articles/cgmjlp1gnp8o",
-            "published": "Mon, 02 Jun 2025 12:20:00 GMT"
         }
     ]
 }
