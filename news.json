@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Broadcom begins shipping its Tomahawk 6 data center switch chips, which it says can perform the work of six previous-gen chips to improve GPU utilization rates (Dina Bass/Bloomberg)",
+            "title": "Ciroos.AI, whose AI-powered site reliability engineering tool built on MPC and A2A helps businesses automate operations, emerges from stealth and raised $21M (Gina Narcisi/CRN)",
+            "link": "http://www.techmeme.com/250603/p20#a250603p20",
+            "published": "Tue, 03 Jun 2025 10:00:36 -0400"
+        },
+        {
+            "title": "Broadcom begins shipping its Tomahawk 6 data center switch chips, which it says can perform the work of six previous-gen chips, to improve GPU utilization rates (Dina Bass/Bloomberg)",
             "link": "http://www.techmeme.com/250603/p19#a250603p19",
             "published": "Tue, 03 Jun 2025 09:30:02 -0400"
         },
         {
-            "title": "Adobe launches a Photoshop app for Android in beta for devices running Android 11 or later with 6GB+ of RAM, including core desktop features like layering (Aisha Malik/TechCrunch)",
+            "title": "Adobe launches Photoshop for Android in beta for devices running Android 11 or later with 6GB+ of RAM, offering tools like layers, masks, and Generative Fill (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/250603/p18#a250603p18",
             "published": "Tue, 03 Jun 2025 09:20:01 -0400"
         },
         {
-            "title": "Huawei Pura X review: the ~$1,050, China-only clamshell is Huawei's first flagship running HarmonyOS 5, with novel ergonomics and an incomplete app ecosystem (Bloomberg)",
+            "title": "Huawei Pura X review: Huawei's ~$1,050, China-only clamshell and first flagship to debut with HarmonyOS offers novel ergonomics but an incomplete app ecosystem (Bloomberg)",
             "link": "http://www.techmeme.com/250603/p17#a250603p17",
             "published": "Tue, 03 Jun 2025 09:05:01 -0400"
         },
         {
-            "title": "Q&A with Airbnb CEO Brian Chesky on Airbnb Experiences, its push into services, OpenAI, AI agents, making decisions at Airbnb, cutting PMs, Jony Ive, and more (Nilay Patel/The Verge)",
+            "title": "Q&A with Airbnb CEO Brian Chesky on Airbnb Experiences, launching new services, OpenAI, AI agents, making decisions at Airbnb, cutting PMs, Jony Ive, and more (Nilay Patel/The Verge)",
             "link": "http://www.techmeme.com/250603/p16#a250603p16",
             "published": "Tue, 03 Jun 2025 08:55:01 -0400"
-        },
-        {
-            "title": "Israeli startup Zero Networks, which aims to prevent ransomware and other cyberattacks, raised $55M led by Highland Europe, taking its total funding to $100M+ (Steven Scheer/Reuters)",
-            "link": "http://www.techmeme.com/250603/p15#a250603p15",
-            "published": "Tue, 03 Jun 2025 08:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "David Cope, Godfather of A.I. Music, Is Dead at 83",
+            "link": "https://www.nytimes.com/2025/06/02/technology/david-cope-dead-ai-music.html",
+            "published": "Mon, 02 Jun 2025 20:57:49 +0000"
+        },
+        {
+            "title": "F.T.C. Investigates Ad Groups and Watchdogs, Alleging Boycott Collusion",
+            "link": "https://www.nytimes.com/2025/06/02/technology/ftc-investigation-advertising-boycotts.html",
+            "published": "Mon, 02 Jun 2025 23:50:47 +0000"
+        },
         {
             "title": "Elon Musk Returns to His Tech Empire, Facing Questions of Inattention",
             "link": "https://www.nytimes.com/2025/06/02/business/elon-musk-tesla-spacex-x.html",
@@ -41,16 +51,6 @@
             "title": "How A.I. Is Changing How Chefs Cook",
             "link": "https://www.nytimes.com/2025/06/02/dining/ai-chefs-restaurants.html",
             "published": "Mon, 02 Jun 2025 14:45:21 +0000"
-        },
-        {
-            "title": "Trump Taps Palantir to Compile Data on Americans",
-            "link": "https://www.nytimes.com/2025/05/30/technology/trump-palantir-data-americans.html",
-            "published": "Fri, 30 May 2025 16:01:46 +0000"
-        },
-        {
-            "title": "F.T.C. Investigates Ad Groups and Watchdogs, Alleging Boycott Collusion",
-            "link": "https://www.nytimes.com/2025/06/02/technology/ftc-investigation-advertising-boycotts.html",
-            "published": "Mon, 02 Jun 2025 23:50:47 +0000"
         }
     ],
     "source_2": [
