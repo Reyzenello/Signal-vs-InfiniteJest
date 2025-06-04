@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An interview with Gaia Marcus, director of the UK-based think tank Ada Lovelace Institute, on AI regulation in the UK and Europe, AI safety, bias, and more (Melissa Heikkil\u00e4/Financial Times)",
+            "link": "http://www.techmeme.com/250604/p10#a250604p10",
+            "published": "Wed, 04 Jun 2025 04:10:01 -0400"
+        },
+        {
             "title": "How Morgan Stanley is using its DevGen.AI tool, built in-house on OpenAI's GPT models, to translate legacy code into modern coding languages (Isabelle Bousquette/Wall Street Journal)",
             "link": "http://www.techmeme.com/250604/p9#a250604p9",
             "published": "Wed, 04 Jun 2025 02:40:03 -0400"
@@ -19,11 +24,6 @@
             "title": "Chinese startup Butterfly Effect's Manus launches text-to-video generation tool in early access for paid users, with plans to roll it out for free to all users (Saritha Rai/Bloomberg)",
             "link": "http://www.techmeme.com/250604/p6#a250604p6",
             "published": "Wed, 04 Jun 2025 01:55:00 -0400"
-        },
-        {
-            "title": "AI coding startups are at risk of being disrupted by Google, Microsoft, and OpenAI; source: Microsoft's GitHub Copilot grew to over $500M in revenue last year (Reuters)",
-            "link": "http://www.techmeme.com/250604/p5#a250604p5",
-            "published": "Wed, 04 Jun 2025 01:30:01 -0400"
         }
     ],
     "source_1": [
