@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Google rolls out an upgraded preview of Gemini 2.5 Pro and says its Elo scored jumped by 24 points to 1470 and it leads on coding benchmarks like Aider Polyglot (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/250605/p31#a250605p31",
+            "published": "Thu, 05 Jun 2025 12:20:49 -0400"
+        },
+        {
+            "title": "Defense tech startup Anduril raised a $2.5B Series G led by Founders Fund, which invested $1B, at a $30.5B valuation, up from $14B in August 2024 (Edward Ludlow/Bloomberg)",
+            "link": "http://www.techmeme.com/250605/p30#a250605p30",
+            "published": "Thu, 05 Jun 2025 12:10:01 -0400"
+        },
+        {
+            "title": "iVerify says it found the first evidence of an active spyware campaign targeting iPhones in the US and the EU; Apple fixed a flaw, but says it wasn't exploited (Sam Sabin/Axios)",
+            "link": "http://www.techmeme.com/250605/p29#a250605p29",
+            "published": "Thu, 05 Jun 2025 12:00:14 -0400"
+        },
+        {
+            "title": "Anthropic CEO says a 10-year moratorium on AI regulation is \"far too blunt an instrument\" and calls for US federal transparency standards for AI companies (Dario Amodei/New York Times)",
+            "link": "http://www.techmeme.com/250605/p28#a250605p28",
+            "published": "Thu, 05 Jun 2025 11:35:00 -0400"
+        },
+        {
             "title": "Source: X is piloting a program to use Community Notes to highlight posts on which people of typically differing opinions agree (Sara Fischer/Axios)",
             "link": "http://www.techmeme.com/250605/p27#a250605p27",
             "published": "Thu, 05 Jun 2025 11:05:01 -0400"
-        },
-        {
-            "title": "An Apple-funded study says developers using the App Store generated $1.3T globally in billings and sales in 2024, 90% on which developers paid no commission (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250605/p26#a250605p26",
-            "published": "Thu, 05 Jun 2025 10:30:00 -0400"
-        },
-        {
-            "title": "Anthropic unveils a new set of Claude Gov models tailored for US national security customers and designed to be applied to planning, analysis, and more (Kyle Wiggers/TechCrunch)",
-            "link": "http://www.techmeme.com/250605/p25#a250605p25",
-            "published": "Thu, 05 Jun 2025 09:45:00 -0400"
-        },
-        {
-            "title": "OpenAI says it disrupted 10 malicious operations in the past three months, four of which likely originated in China and targeted multiple countries and topics (Shannon Bond/NPR)",
-            "link": "http://www.techmeme.com/250605/p24#a250605p24",
-            "published": "Thu, 05 Jun 2025 09:05:00 -0400"
-        },
-        {
-            "title": "Apple's July 2022 to June 2024 transparency report shows it gave governments data tied to thousands of push notifications, which can include unencrypted content (Joseph Cox/404 Media)",
-            "link": "http://www.techmeme.com/250605/p23#a250605p23",
-            "published": "Thu, 05 Jun 2025 08:40:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How ASML, a Key Supplier to the Chip Industry, Is Navigating Trump\u2019s Trade War",
+            "link": "https://www.nytimes.com/2025/06/05/technology/asml-chips-tariffs-trade.html",
+            "published": "Thu, 05 Jun 2025 16:11:03 +0000"
+        },
         {
             "title": "Reddit Sues Anthropic, Accusing It of Illegally Using Data From Its Site",
             "link": "https://www.nytimes.com/2025/06/04/technology/reddit-anthropic-lawsuit-data.html",
@@ -36,11 +41,6 @@
             "title": "Elon Musk Calls Trump Policy Bill a \u2018Disgusting Abomination\u2019",
             "link": "https://www.nytimes.com/2025/06/03/technology/elon-musk-criticizes-republican-legislation.html",
             "published": "Wed, 04 Jun 2025 00:19:12 +0000"
-        },
-        {
-            "title": "Is Trump Unveiling a Crypto Wallet? His Associates Say Yes. His Sons Say No.",
-            "link": "https://www.nytimes.com/2025/06/03/technology/trump-crypto-wallet-sons-rift.html",
-            "published": "Wed, 04 Jun 2025 00:40:06 +0000"
         },
         {
             "title": "How to Research and Plan a Vacation, Right on Your Phone",
