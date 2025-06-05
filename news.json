@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Broadcom reports Q2 revenue up 20% YoY to $15B, vs. $14.96B est., net income up 134% YoY to $4.97B, and sales from the AI industry up 46% YoY to $4.4B+ (Katherine Hamilton/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250605/p39#a250605p39",
+            "published": "Thu, 05 Jun 2025 16:55:01 -0400"
+        },
+        {
+            "title": "Anthropic co-founder Jared Kaplan says Anthropic cut Windsurf's direct access to Claude models because of reports that OpenAI is acquiring Windsurf (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250605/p38#a250605p38",
+            "published": "Thu, 05 Jun 2025 16:30:02 -0400"
+        },
+        {
             "title": "Trump says Elon Musk \"went CRAZY\" and that canceling his government contracts is \"the easiest way to save money\", as their One Big Beautiful bill feud escalates (Kevin Breuninger/CNBC)",
             "link": "http://www.techmeme.com/250605/p37#a250605p37",
             "published": "Thu, 05 Jun 2025 15:28:19 -0400"
@@ -14,23 +24,13 @@
             "title": "In May, Microsoft launched Signal, a 120-page print magazine focused on its tech and distributed to business leaders every few months, to counter digital noise (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250605/p35#a250605p35",
             "published": "Thu, 05 Jun 2025 14:15:07 -0400"
-        },
-        {
-            "title": "X changes its developer agreement to prevent third parties from using \"the X API or X Content to fine-tune or train a foundation or frontier model\" (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/250605/p34#a250605p34",
-            "published": "Thu, 05 Jun 2025 13:35:41 -0400"
-        },
-        {
-            "title": "Cursor maker Anysphere raised $900M led by Thrive at a $9.9B valuation, bringing its total funding to $1B+ and says its annualized revenue crossed $500M (Bloomberg)",
-            "link": "http://www.techmeme.com/250605/p33#a250605p33",
-            "published": "Thu, 05 Jun 2025 13:15:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How ASML, a Key Supplier to the Chip Industry, Is Navigating Trump\u2019s Trade War",
             "link": "https://www.nytimes.com/2025/06/05/technology/asml-chips-tariffs-trade.html",
-            "published": "Thu, 05 Jun 2025 16:11:04 +0000"
+            "published": "Thu, 05 Jun 2025 20:53:53 +0000"
         },
         {
             "title": "Reddit Sues Anthropic, Accusing It of Illegally Using Data From Its Site",
