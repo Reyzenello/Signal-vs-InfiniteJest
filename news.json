@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "DocuSign reports Q1 revenue up 8% YoY to $764M, subscription revenue up 8% to $746.2M, net income up 113% to $72.1M, and cuts FY 2026 forecast; DOCU falls 18%+ (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/250606/p9#a250606p9",
+            "published": "Fri, 06 Jun 2025 11:10:02 -0400"
+        },
+        {
             "title": "What to expect at WWDC 2025: iOS 26 and other software branding changes, redesigned software interfaces, productivity enhancements, minor AI changes, and more (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/250606/p8#a250606p8",
             "published": "Fri, 06 Jun 2025 10:20:01 -0400"
@@ -19,45 +24,40 @@
             "title": "United Airlines partners with Spotify to provide passengers with free access to 450+ hours of curated playlists, audiobooks, and podcasts across 130K screens (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/250606/p5#a250606p5",
             "published": "Fri, 06 Jun 2025 07:25:02 -0400"
-        },
-        {
-            "title": "An interview with ASML CEO Christophe Fouquet, as the company navigates political firestorms in The Netherlands and abroad and the impacts of Trump's trade war (Adam Satariano/New York Times)",
-            "link": "http://www.techmeme.com/250606/p4#a250606p4",
-            "published": "Fri, 06 Jun 2025 05:30:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "If Elon Musk and Donald Trump Make Up, Don\u2019t Be Surprised",
+            "link": "https://www.nytimes.com/2025/06/06/technology/elon-musk-trump-feud.html",
+            "published": "Fri, 06 Jun 2025 14:26:22 +0000"
+        },
+        {
+            "title": "He\u2019s a Master of Outrage on X. He\u2019s Also Broke.",
+            "link": "https://www.nytimes.com/2025/06/06/technology/x-right-wing-influencer.html",
+            "published": "Fri, 06 Jun 2025 13:00:14 +0000"
+        },
         {
             "title": "How ASML, a Key Supplier to the Chip Industry, Is Navigating Trump\u2019s Trade War",
             "link": "https://www.nytimes.com/2025/06/05/technology/asml-chips-tariffs-trade.html",
             "published": "Thu, 05 Jun 2025 20:53:53 +0000"
         },
         {
-            "title": "Reddit Sues Anthropic, Accusing It of Illegally Using Data From Its Site",
-            "link": "https://www.nytimes.com/2025/06/04/technology/reddit-anthropic-lawsuit-data.html",
-            "published": "Wed, 04 Jun 2025 18:42:59 +0000"
+            "title": "The Trump-Musk Fallout + A DOGE Coder Speaks + ChefGPT",
+            "link": "https://www.nytimes.com/2025/06/06/podcasts/hardfork-trump-musk-fallout.html",
+            "published": "Fri, 06 Jun 2025 11:00:06 +0000"
         },
         {
-            "title": "Elon Musk Calls Trump Policy Bill a \u2018Disgusting Abomination\u2019",
-            "link": "https://www.nytimes.com/2025/06/03/technology/elon-musk-criticizes-republican-legislation.html",
-            "published": "Wed, 04 Jun 2025 00:19:12 +0000"
-        },
-        {
-            "title": "How to Research and Plan a Vacation, Right on Your Phone",
-            "link": "https://www.nytimes.com/2025/06/04/technology/personaltech/plan-vacation-google-maps-apple.html",
-            "published": "Wed, 04 Jun 2025 09:02:14 +0000"
-        },
-        {
-            "title": "He\u2019s a Master of Outrage on X. He\u2019s Also Broke.",
-            "link": "https://www.nytimes.com/2025/06/06/technology/x-right-wing-influencer.html",
-            "published": "Fri, 06 Jun 2025 13:00:14 +0000"
+            "title": "How NASA Would Struggle Without SpaceX if Trump Cancels Musk\u2019s Contracts",
+            "link": "https://www.nytimes.com/2025/06/05/science/spacex-nasa-trump-elon-musk.html",
+            "published": "Fri, 06 Jun 2025 02:12:35 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "NatWest apologises as banking app goes offline",
+            "title": "NatWest fixes app outage which left customers fuming",
             "link": "https://www.bbc.com/news/articles/c4gry29g30qo",
-            "published": "Fri, 06 Jun 2025 11:13:30 GMT"
+            "published": "Fri, 06 Jun 2025 15:05:18 GMT"
         },
         {
             "title": "M&S hackers sent abuse and ransom demand directly to CEO",
