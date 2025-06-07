@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft plans to add a \"safety\" category to its AI leaderboard on Azure Foundry, with a safety metric based on its ToxiGen and CAIS's WMD Proxy benchmarks (Financial Times)",
+            "link": "http://www.techmeme.com/250607/p10#a250607p10",
+            "published": "Sat, 07 Jun 2025 10:35:05 -0400"
+        },
+        {
             "title": "YouTube rolls out a tool to let some creators upload different thumbnails for each video dubbed into a different language, to help expand their global audience (Dan Whateley/Business Insider)",
             "link": "http://www.techmeme.com/250607/p9#a250607p9",
             "published": "Sat, 07 Jun 2025 09:40:01 -0400"
@@ -19,11 +24,6 @@
             "title": "AI research nonprofit EleutherAI releases the Common Pile v0.1, an 8TB dataset of licensed and open-domain text for AI models that it says is one of the largest (Kyle Wiggers/TechCrunch)",
             "link": "http://www.techmeme.com/250607/p6#a250607p6",
             "published": "Sat, 07 Jun 2025 02:20:05 -0400"
-        },
-        {
-            "title": "Simetrik, which uses AI to automate account reconciliation, raised a $30M Series B extension led by a Goldman Sachs Alternatives unit, taking the round to $85M (Bloomberg)",
-            "link": "http://www.techmeme.com/250607/p5#a250607p5",
-            "published": "Sat, 07 Jun 2025 02:10:01 -0400"
         }
     ],
     "source_1": [
