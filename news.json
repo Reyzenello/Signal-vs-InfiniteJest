@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The UK Financial Conduct Authority partners with Nvidia to launch a Supercharged Sandbox for financial companies to test AI tools, starting in October 2025 (Sam Tabahriti/Reuters)",
+            "link": "http://www.techmeme.com/250609/p8#a250609p8",
+            "published": "Mon, 09 Jun 2025 06:20:00 -0400"
+        },
+        {
+            "title": "Protesters against immigration raids in LA damaged and set several Waymo autonomous taxis on fire on Sunday; Waymo says it is working with law enforcement (Los Angeles Times)",
+            "link": "http://www.techmeme.com/250609/p7#a250609p7",
+            "published": "Mon, 09 Jun 2025 06:05:01 -0400"
+        },
+        {
+            "title": "Alibaba, Tencent, and other Chinese AI companies temporarily disabled chatbot functions like image recognition during China's annual college entrance exams (Luz Ding/Bloomberg)",
+            "link": "http://www.techmeme.com/250609/p6#a250609p6",
+            "published": "Mon, 09 Jun 2025 05:45:01 -0400"
+        },
+        {
             "title": "Getty's copyright lawsuit against Stability AI begins at London's High Court, accusing it of unlawfully scraping millions of images; Stability denies the claims (Sam Tobin/Reuters)",
             "link": "http://www.techmeme.com/250609/p5#a250609p5",
             "published": "Mon, 09 Jun 2025 05:30:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Maryland-based quantum computing company IonQ agrees to acquire Oxford Ionics, which spun out of Oxford University, in a $1.07B all-stock deal, closing in 2025 (Oliver Barnes/Financial Times)",
             "link": "http://www.techmeme.com/250609/p4#a250609p4",
             "published": "Mon, 09 Jun 2025 05:15:01 -0400"
-        },
-        {
-            "title": "Qualcomm agrees to acquire UK-listed Alphawave, which makes high-speed chip and connectivity tech for data centers, for $2.4B in cash, set to close in Q1 2026 (Amy Thomson/Bloomberg)",
-            "link": "http://www.techmeme.com/250609/p3#a250609p3",
-            "published": "Mon, 09 Jun 2025 04:35:01 -0400"
-        },
-        {
-            "title": "An interview with Duolingo CEO Luis von Ahn on criticism after Duolingo went \"AI-first\", parasocial interactions with \"personality\"-infused chatbots, and more (Emma Jacobs/Financial Times)",
-            "link": "http://www.techmeme.com/250609/p2#a250609p2",
-            "published": "Mon, 09 Jun 2025 04:00:14 -0400"
-        },
-        {
-            "title": "Cloudflare open sourced an OAuth library mostly written by Claude, showing how AI handles mechanical implementation while humans guide with context and judgment (Max Mitchell)",
-            "link": "http://www.techmeme.com/250609/p1#a250609p1",
-            "published": "Mon, 09 Jun 2025 01:05:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Xbox finally reveals handheld console after a decade of speculation",
+            "link": "https://www.bbc.com/news/articles/c1de113lkdpo",
+            "published": "Mon, 09 Jun 2025 10:07:34 GMT"
+        },
+        {
             "title": "Government considers social media time limits for children",
             "link": "https://www.bbc.com/news/articles/c3d4349gdx4o",
             "published": "Sun, 08 Jun 2025 18:23:09 GMT"
@@ -73,11 +78,6 @@
             "title": "M&S hackers sent abuse and ransom demand directly to CEO",
             "link": "https://www.bbc.com/news/articles/cr58pqjlnjlo",
             "published": "Fri, 06 Jun 2025 05:39:25 GMT"
-        },
-        {
-            "title": "Tesla shares tumble as Trump-Musk feud erupts",
-            "link": "https://www.bbc.com/news/articles/cy902rv7q8do",
-            "published": "Thu, 05 Jun 2025 21:46:09 GMT"
         }
     ]
 }
