@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Researcher brutecat finds a vulnerability that revealed the phone number linked to any Google account via brute forcing phone numbers; Google fixed the issue (Joseph Cox/404 Media)",
+            "link": "http://www.techmeme.com/250609/p15#a250609p15",
+            "published": "Mon, 09 Jun 2025 10:30:02 -0400"
+        },
+        {
+            "title": "Nintendo Switch 2 hands-on: after a few days, it is just a bigger, more powerful Switch, transferring games works smoothly, the new Joy-Cons are great, and more (Andrew Webster/The Verge)",
+            "link": "http://www.techmeme.com/250609/p14#a250609p14",
+            "published": "Mon, 09 Jun 2025 10:20:00 -0400"
+        },
+        {
             "title": "Xbox Ally X hands-on: an AMD Ryzen AI Z2 Extreme APU, 24GB of RAM, and a 1TB SSD, 1080p games run at 60 FPS with no issues, a super-slim Windows, and more (IGN)",
             "link": "http://www.techmeme.com/250609/p13#a250609p13",
             "published": "Mon, 09 Jun 2025 07:35:00 -0400"
@@ -14,19 +24,19 @@
             "title": "Sources: Shein and Reliance plan to expand their Indian supplier base from 150 to 1,000 and sell India-made, Shein-branded clothes globally within 12 months (Reuters)",
             "link": "http://www.techmeme.com/250609/p11#a250609p11",
             "published": "Mon, 09 Jun 2025 07:05:00 -0400"
-        },
-        {
-            "title": "Docs: from mid-December, YouTube told moderators to prioritize \"freedom of expression\" over potential harm, including for political, social, and cultural issues (New York Times)",
-            "link": "http://www.techmeme.com/250609/p10#a250609p10",
-            "published": "Mon, 09 Jun 2025 06:50:01 -0400"
-        },
-        {
-            "title": "The Guardian partners with Cambridge University to launch Secure Messaging in its app, protecting sources by making messages indistinguishable from other data (Katharine Viner/The Guardian)",
-            "link": "http://www.techmeme.com/250609/p9#a250609p9",
-            "published": "Mon, 09 Jun 2025 06:35:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "YouTube Loosens Video Content Moderation Rules",
+            "link": "https://www.nytimes.com/2025/06/09/technology/youtube-videos-content-moderation.html",
+            "published": "Mon, 09 Jun 2025 12:46:39 +0000"
+        },
+        {
+            "title": "Bill Atkinson, Who Made Computers Easier to Use, Is Dead at 74",
+            "link": "https://www.nytimes.com/2025/06/07/technology/bill-atkinson-dead.html",
+            "published": "Mon, 09 Jun 2025 04:37:38 +0000"
+        },
         {
             "title": "Inside OpenAI\u2019s Plan to Embed ChatGPT Into College Students\u2019 Lives",
             "link": "https://www.nytimes.com/2025/06/07/technology/chatgpt-openai-colleges.html",
@@ -38,19 +48,9 @@
             "published": "Fri, 06 Jun 2025 20:29:12 +0000"
         },
         {
-            "title": "If Elon Musk and President Trump Divorce, Who Gets Silicon Valley?",
-            "link": "https://www.nytimes.com/2025/06/06/technology/elon-musk-trump-silicon-valley-tech.html",
-            "published": "Fri, 06 Jun 2025 18:03:03 +0000"
-        },
-        {
-            "title": "He\u2019s a Master of Outrage on X. The Pay Isn\u2019t Great.",
-            "link": "https://www.nytimes.com/2025/06/06/technology/x-right-wing-influencer.html",
-            "published": "Fri, 06 Jun 2025 20:58:05 +0000"
-        },
-        {
-            "title": "YouTube Loosens Video Content Moderation Rules",
-            "link": "https://www.nytimes.com/2025/06/09/technology/youtube-videos-content-moderation.html",
-            "published": "Mon, 09 Jun 2025 12:46:39 +0000"
+            "title": "Takeaways From Graduation Speeches by Trump, Taraji P. Henson and Others",
+            "link": "https://www.nytimes.com/2025/06/08/us/graduation-speeches-2025.html",
+            "published": "Sun, 08 Jun 2025 18:28:14 +0000"
         }
     ],
     "source_2": [
