@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Cloudflare open sourced an OAuth library mostly written by Claude, showing how AI handles mechanical implementation while humans guide with context and judgment (Max Mitchell)",
+            "link": "http://www.techmeme.com/250609/p1#a250609p1",
+            "published": "Mon, 09 Jun 2025 01:05:03 -0400"
+        },
+        {
             "title": "Apple researchers detail the limitations of top LLMs and large reasoning models, like o3, especially on problems of medium to high complexity (Gary Marcus/Marcus on AI)",
             "link": "http://www.techmeme.com/250608/p17#a250608p17",
             "published": "Sun, 08 Jun 2025 20:30:00 -0400"
@@ -16,14 +21,9 @@
             "published": "Sun, 08 Jun 2025 16:40:01 -0400"
         },
         {
-            "title": "Microsoft showcases a new fullscreen Xbox experience optimized for handhelds, coming first to the Xbox Ally and Xbox Ally X and to other handhelds in 2026 (Tom Warren/The Verge)",
+            "title": "Microsoft showcases a Windows-based fullscreen Xbox experience optimized for handheld gaming with the Asus ROG Xbox Ally, coming to other handhelds in 2026 (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250608/p14#a250608p14",
             "published": "Sun, 08 Jun 2025 14:15:01 -0400"
-        },
-        {
-            "title": "Microsoft and Asus unveil the ROG Xbox Ally and ROG Xbox Ally X, two gaming handhelds that will run Windows games from multiple storefronts, including Steam (Stephen Totilo/Game File)",
-            "link": "http://www.techmeme.com/250608/p13#a250608p13",
-            "published": "Sun, 08 Jun 2025 13:50:01 -0400"
         }
     ],
     "source_1": [
