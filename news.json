@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Apple unveils Xcode 26, which will integrate ChatGPT for coding, doc generation, and more, and says devs can use API keys to add AI models from other providers (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/250609/p38#a250609p38",
+            "published": "Mon, 09 Jun 2025 14:47:13 -0400"
+        },
+        {
             "title": "Apple unveils an updated Spotlight in macOS Tahoe, letting users quickly take actions in apps from playing music to creating notes and files, similar to Raycast (David Pierce/The Verge)",
             "link": "http://www.techmeme.com/250609/p37#a250609p37",
             "published": "Mon, 09 Jun 2025 14:35:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Apple says ChatGPT image generation is now available in Image Playground with new ChatGPT styles, releases an API, adds Genmoji text descriptions, and more (Hartley Charlton/MacRumors)",
             "link": "http://www.techmeme.com/250609/p34#a250609p34",
             "published": "Mon, 09 Jun 2025 14:00:32 -0400"
-        },
-        {
-            "title": "Apple announces a new live translation feature across Messages, FaceTime, and Phone apps, but has not yet said how many languages will be supported (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/250609/p33#a250609p33",
-            "published": "Mon, 09 Jun 2025 13:55:00 -0400"
         }
     ],
     "source_1": [
@@ -48,7 +48,7 @@
             "published": "Fri, 06 Jun 2025 20:29:12 +0000"
         },
         {
-            "title": "Apple Opens Conference With New iPhone Software Design",
+            "title": "Apple Opens WWDC 2025 With \u2018Liquid Glass\u2019 Design and iOS 26",
             "link": "https://www.nytimes.com/2025/06/09/technology/apple-wwdc-ios-26.html",
             "published": "Mon, 09 Jun 2025 18:02:31 +0000"
         }
