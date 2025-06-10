@@ -1,5 +1,31 @@
 {
-    "techmeme": [],
+    "techmeme": [
+        {
+            "title": "Apple's WWDC 2025 marked a strategic retreat from its overambitious AI promises; SVP Craig Federighi openly admitted Siri's AI features need more time (Ben Thompson/Stratechery)",
+            "link": "http://www.techmeme.com/250610/p24#a250610p24",
+            "published": "Tue, 10 Jun 2025 13:15:00 -0400"
+        },
+        {
+            "title": "Mark Zuckerberg says Threads users will soon be able to send DMs to each other without having to leave the platform, first in Hong Kong, Argentina, and Thailand (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250610/p23#a250610p23",
+            "published": "Tue, 10 Jun 2025 12:10:02 -0400"
+        },
+        {
+            "title": "Israel-based Hypernative, which offers real-time threat prevention for crypto companies, raised a $40M Series B, taking its total funding to $67M (Ryan Lawler/Axios)",
+            "link": "http://www.techmeme.com/250610/p22#a250610p22",
+            "published": "Tue, 10 Jun 2025 12:05:02 -0400"
+        },
+        {
+            "title": "Sources: Meta agrees to take a 49% stake in Scale AI for $14.8B, in a deal that gives cash to Scale's shareholders and makes Alexandr Wang a top Meta executive (Cory Weinberg/The Information)",
+            "link": "http://www.techmeme.com/250610/p21#a250610p21",
+            "published": "Tue, 10 Jun 2025 11:35:01 -0400"
+        },
+        {
+            "title": "Generative AI enterprise search startup Glean raised a $150M Series F led by Wellington, taking its valuation to $7.2B, up from $4.6B in September 2024 (Afshan Musani/CNBC)",
+            "link": "http://www.techmeme.com/250610/p20#a250610p20",
+            "published": "Tue, 10 Jun 2025 11:25:03 -0400"
+        }
+    ],
     "source_1": [
         {
             "title": "Amid LA Protests, Conspiracy Theories and Fake Images Spread Online",
@@ -9,7 +35,7 @@
         {
             "title": "Meta Is Creating a New A.I. Lab to Pursue \u2018Superintelligence\u2019",
             "link": "https://www.nytimes.com/2025/06/10/technology/meta-new-ai-lab-superintelligence.html",
-            "published": "Tue, 10 Jun 2025 15:48:36 +0000"
+            "published": "Tue, 10 Jun 2025 15:48:37 +0000"
         },
         {
             "title": "Waymo Limits Service in San Francisco as LA Protests Spread",
