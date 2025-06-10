@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Mark Zuckerberg, frustrated at Meta's AI shortfalls, is personally assembling a team of AI experts and met engineers at his homes in recent weeks (Bloomberg)",
+            "link": "http://www.techmeme.com/250610/p3#a250610p3",
+            "published": "Tue, 10 Jun 2025 04:10:01 -0400"
+        },
+        {
+            "title": "Sources: Meta plans to unveil an AI lab dedicated to \"superintelligence\", led by Scale AI CEO Alexandr Wang, and is offering seven- to nine-figure compensation (New York Times)",
+            "link": "http://www.techmeme.com/250610/p2#a250610p2",
+            "published": "Tue, 10 Jun 2025 04:02:33 -0400"
+        },
+        {
             "title": "SEC Chair Paul Atkins says the agency is working on an \"innovation exemption\" to boost onchain product creation and support Trump's vision of a US crypto hub (Stephen Katte/Cointelegraph)",
             "link": "http://www.techmeme.com/250610/p1#a250610p1",
             "published": "Tue, 10 Jun 2025 02:00:32 -0400"
@@ -11,19 +21,9 @@
             "published": "Mon, 09 Jun 2025 23:45:01 -0400"
         },
         {
-            "title": "Analysis of X's new XChat shows that X can probably decrypt users' messages, as it holds users' private keys on its servers (Matthew Green/A Few Thoughts ...)",
+            "title": "An analysis of X's new XChat features shows that X can probably decrypt users' messages, as it holds users' private keys on its servers (Matthew Green/Cryptographic Engineering)",
             "link": "http://www.techmeme.com/250609/p47#a250609p47",
             "published": "Mon, 09 Jun 2025 22:25:00 -0400"
-        },
-        {
-            "title": "Roblox hires Paramount's Naveen Chopra as CFO starting June 30; Chopra previously held senior roles at Amazon and served as CFO at Pandora and TiVo (Cecilia D'Anastasio/Bloomberg)",
-            "link": "http://www.techmeme.com/250609/p46#a250609p46",
-            "published": "Mon, 09 Jun 2025 21:40:01 -0400"
-        },
-        {
-            "title": "Turnkey, which builds low-level infrastructure for digital wallets used to store and manage crypto, raised a $30M Series B led by Bain Capital Crypto (Ben Weiss/Fortune)",
-            "link": "http://www.techmeme.com/250609/p45#a250609p45",
-            "published": "Mon, 09 Jun 2025 21:10:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Uber brings forward trialling driverless taxis in UK",
+            "link": "https://www.bbc.com/news/articles/cwynm4wl1j7o",
+            "published": "Tue, 10 Jun 2025 08:30:42 GMT"
+        },
+        {
             "title": "China's electric cars are becoming slicker and cheaper - but is there a deeper cost?",
             "link": "https://www.bbc.com/news/articles/cy8d4v69jw6o",
             "published": "Mon, 09 Jun 2025 23:04:10 GMT"
@@ -73,11 +78,6 @@
             "title": "Will Musk's explosive row with Trump help or harm his businesses?",
             "link": "https://www.bbc.com/news/articles/ceqgdnd2g9xo",
             "published": "Fri, 06 Jun 2025 23:18:39 GMT"
-        },
-        {
-            "title": "NatWest fixes app outage which left customers fuming",
-            "link": "https://www.bbc.com/news/articles/c4gry29g30qo",
-            "published": "Fri, 06 Jun 2025 15:05:18 GMT"
         }
     ]
 }
