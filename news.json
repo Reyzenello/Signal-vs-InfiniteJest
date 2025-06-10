@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Cisco unveils updated networking and security products, including a new generation of switches with 10x performance, to boost AI networks and cut bottlenecks (Dina Bass/Bloomberg)",
+            "link": "http://www.techmeme.com/250610/p16#a250610p16",
+            "published": "Tue, 10 Jun 2025 09:30:01 -0400"
+        },
+        {
+            "title": "Investigation: Russian network engineer Viktor Vedeneev controls thousands of Telegram IP addresses and maintains its servers; his companies have FSB links (Roman Anin/OCCRP)",
+            "link": "http://www.techmeme.com/250610/p15#a250610p15",
+            "published": "Tue, 10 Jun 2025 09:05:04 -0400"
+        },
+        {
             "title": "OpenAI says it is \"working on implementing a mitigation\" to a ChatGPT, Sora, and API issue causing \"elevated error rates\", starting at around 3am ET (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/250610/p14#a250610p14",
             "published": "Tue, 10 Jun 2025 08:52:02 -0400"
@@ -14,23 +24,18 @@
             "title": "Ofcom launches nine Online Safety Act investigations, including into 4chan over alleged illegal content and into seven file-sharing services over possible CSAM (Sam Tabahriti/Reuters)",
             "link": "http://www.techmeme.com/250610/p12#a250610p12",
             "published": "Tue, 10 Jun 2025 07:20:01 -0400"
-        },
-        {
-            "title": "Tencent Music agrees to buy podcasting startup Ximalaya for $1.3B in cash, plus some stock, in a bid to become China's Spotify; Ximalaya had 303M MAUs in 2023 (Bloomberg)",
-            "link": "http://www.techmeme.com/250610/p11#a250610p11",
-            "published": "Tue, 10 Jun 2025 07:10:01 -0400"
-        },
-        {
-            "title": "Top500: the US retains the top three supercomputers with El Capitan, Frontier, and Aurora; the US has 173 of the top 500 to Europe's 163 and China's 46 (Doug Black/InsideHPC)",
-            "link": "http://www.techmeme.com/250610/p10#a250610p10",
-            "published": "Tue, 10 Jun 2025 07:00:35 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Amid LA Protests, Conspiracy Theories and Fake Images Spread Online",
+            "link": "https://www.nytimes.com/2025/06/10/technology/la-protests-conspiracy-theories-disinformation.html",
+            "published": "Tue, 10 Jun 2025 09:02:30 +0000"
+        },
+        {
             "title": "Meta Is Creating a New A.I. Lab to Pursue \u2018Superintelligence\u2019",
             "link": "https://www.nytimes.com/2025/06/10/technology/meta-new-ai-lab-superintelligence.html",
-            "published": "Tue, 10 Jun 2025 08:57:27 +0000"
+            "published": "Tue, 10 Jun 2025 08:57:28 +0000"
         },
         {
             "title": "Waymo Limits Service in San Francisco as LA Protests Spread",
@@ -43,14 +48,9 @@
             "published": "Mon, 09 Jun 2025 21:03:30 +0000"
         },
         {
-            "title": "YouTube Loosens Video Content Moderation Rules",
-            "link": "https://www.nytimes.com/2025/06/09/technology/youtube-videos-content-moderation.html",
-            "published": "Mon, 09 Jun 2025 12:46:39 +0000"
-        },
-        {
-            "title": "Amid LA Protests, Conspiracy Theories and Fake Images Spread Online",
-            "link": "https://www.nytimes.com/2025/06/10/technology/la-protests-conspiracy-theories-disinformation.html",
-            "published": "Tue, 10 Jun 2025 09:02:30 +0000"
+            "title": "Meta in Talks to Invest in Scale AI",
+            "link": "https://www.nytimes.com/2025/06/09/technology/meta-scale-ai-investment.html",
+            "published": "Mon, 09 Jun 2025 20:31:36 +0000"
         }
     ],
     "source_2": [
