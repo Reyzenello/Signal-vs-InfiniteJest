@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "The UK passes the Data (Use and Access) Bill, criticized by creatives, without an amendment to force companies to declare using copyrighted material to train AI (Zoe Kleinman/BBC)",
+            "link": "http://www.techmeme.com/250612/p22#a250612p22",
+            "published": "Thu, 12 Jun 2025 08:45:00 -0400"
+        },
+        {
+            "title": "Meter, which sells and maintains packages of custom data center networking equipment, raised $170M led by General Catalyst at a $1B+ valuation (Michael J. de la Merced/New York Times)",
+            "link": "http://www.techmeme.com/250612/p21#a250612p21",
+            "published": "Thu, 12 Jun 2025 08:25:03 -0400"
+        },
+        {
+            "title": "Tesla sues ex-Optimus engineer Zhongjie Li, who worked at Tesla from 2022 to 2024, accusing him of stealing humanoid robot info and setting up a rival startup (Dana Hull/Bloomberg)",
+            "link": "http://www.techmeme.com/250612/p20#a250612p20",
+            "published": "Thu, 12 Jun 2025 08:15:06 -0400"
+        },
+        {
+            "title": "Spain-based Multiverse Computing, which makes tools to compress LLMs by up to 95% using \"quantum-inspired\" networks, raised a \u20ac189M Series B and has 100 clients (Julie Bort/TechCrunch)",
+            "link": "http://www.techmeme.com/250612/p19#a250612p19",
+            "published": "Thu, 12 Jun 2025 07:45:04 -0400"
+        },
+        {
             "title": "Meta sues Joy Timeline, which makes nudify app CrushAI, in Hong Kong to \"prevent them from advertising CrushAI apps on Meta platforms\"; CrushAI had run 5K+ ads (Emanuel Maiberg/404 Media)",
             "link": "http://www.techmeme.com/250612/p18#a250612p18",
             "published": "Thu, 12 Jun 2025 07:20:01 -0400"
-        },
-        {
-            "title": "Pittsburgh-based Gecko Robotics, which makes robots to inspect infrastructure, raised a $125M Series D at a $1.25B valuation, up from $633M in December 2023 (Ian Thomas/CNBC)",
-            "link": "http://www.techmeme.com/250612/p17#a250612p17",
-            "published": "Thu, 12 Jun 2025 07:05:01 -0400"
-        },
-        {
-            "title": "Visa: stablecoin transaction volumes hit $752B in May, up from $409B in May 2024, and wallets that regularly send and receive payments hit a record 46M average (Financial Times)",
-            "link": "http://www.techmeme.com/250612/p16#a250612p16",
-            "published": "Thu, 12 Jun 2025 06:50:00 -0400"
-        },
-        {
-            "title": "Gemini and Glassnode research: centralized treasuries, including governments, ETFs, and public companies, now control 30.9% of bitcoin's circulating supply (Martin Young/Cointelegraph)",
-            "link": "http://www.techmeme.com/250612/p15#a250612p15",
-            "published": "Thu, 12 Jun 2025 06:35:06 -0400"
-        },
-        {
-            "title": "Apple unveils updates to help parents protect kids and teens, including easier Child Accounts setup, stronger defaults, and granular App Store age ratings (Marcus Mendes/9to5Mac)",
-            "link": "http://www.techmeme.com/250612/p14#a250612p14",
-            "published": "Thu, 12 Jun 2025 06:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Data bill opposed by Sir Elton John and Dua Lipa finally passes",
+            "link": "https://www.bbc.com/news/articles/c8e6z590wweo",
+            "published": "Thu, 12 Jun 2025 12:13:32 GMT"
+        },
+        {
+            "title": "Meta sues app-maker as it cracks down on 'nudifying'",
+            "link": "https://www.bbc.com/news/articles/cgr58dlnne5o",
+            "published": "Thu, 12 Jun 2025 11:28:16 GMT"
+        },
+        {
             "title": "Disney and Universal sue AI firm Midjourney over images",
             "link": "https://www.bbc.com/news/articles/cg5vjqdm1ypo",
             "published": "Thu, 12 Jun 2025 00:11:26 GMT"
@@ -68,16 +78,6 @@
             "title": "4chan and porn site investigated by Ofcom over online safety",
             "link": "https://www.bbc.com/news/articles/ckgqwlvq180o",
             "published": "Tue, 10 Jun 2025 11:01:31 GMT"
-        },
-        {
-            "title": "Uber brings forward trialling driverless taxis in UK",
-            "link": "https://www.bbc.com/news/articles/cwynm4wl1j7o",
-            "published": "Tue, 10 Jun 2025 08:30:42 GMT"
-        },
-        {
-            "title": "China's electric cars are becoming slicker and cheaper - but is there a deeper cost?",
-            "link": "https://www.bbc.com/news/articles/cy8d4v69jw6o",
-            "published": "Mon, 09 Jun 2025 23:04:10 GMT"
         }
     ]
 }
