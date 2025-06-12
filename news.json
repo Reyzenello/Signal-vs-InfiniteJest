@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple has set an internal release target of spring 2026 for its delayed upgrade of Siri, as part of an iOS 26.4 software update (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250612/p39#a250612p39",
+            "published": "Thu, 12 Jun 2025 16:59:20 -0400"
+        },
+        {
+            "title": "Internal docs: Fidelity, TPG, Sequoia, and others are buying ~$250M worth of shares in xAI under a tender offer valuing it at $113B; Fidelity is purchasing $20M (New York Times)",
+            "link": "http://www.techmeme.com/250612/p38#a250612p38",
+            "published": "Thu, 12 Jun 2025 16:50:02 -0400"
+        },
+        {
             "title": "Shopify partners with Coinbase to enable USDC payments for its merchants through Coinbase's Base layer-2 network, starting with a limited group of merchants (CoinDesk)",
             "link": "http://www.techmeme.com/250612/p37#a250612p37",
             "published": "Thu, 12 Jun 2025 16:30:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Coinbase announces its first branded credit card, in partnership with American Express, for Coinbase One US users, and creates a lower-cost Basic subscription (Tanaya Macheel/CNBC)",
             "link": "http://www.techmeme.com/250612/p35#a250612p35",
             "published": "Thu, 12 Jun 2025 15:25:00 -0400"
-        },
-        {
-            "title": "Google services, AWS, Spotify, Cloudflare, and other services appear to be in a partial outage, according to Downdetector (Ben Schoon/9to5Google)",
-            "link": "http://www.techmeme.com/250612/p34#a250612p34",
-            "published": "Thu, 12 Jun 2025 15:05:01 -0400"
-        },
-        {
-            "title": "Jensen Huang says Nvidia will exclude the Chinese market from its revenue and profit forecasts going forward, amid US restrictions on chip sales to China (CNN)",
-            "link": "http://www.techmeme.com/250612/p33#a250612p33",
-            "published": "Thu, 12 Jun 2025 15:00:32 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "Nintendo Switch 2 Review: Bigger and Better, for a Higher Price",
             "link": "https://www.nytimes.com/2025/06/12/technology/personaltech/nintendo-switch-2-review.html",
             "published": "Thu, 12 Jun 2025 09:03:50 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s xAI Is Getting $250 Million in Investments From TPG, Sequoia and Others",
+            "link": "https://www.nytimes.com/2025/06/12/business/xai-elon-musk-investors.html",
+            "published": "Thu, 12 Jun 2025 20:32:29 +0000"
         },
         {
             "title": "This A.I. Company Wants to Take Your Job",
@@ -41,11 +46,6 @@
             "title": "Elon Musk Says His Trump Criticisms \u2018Went Too Far\u2019",
             "link": "https://www.nytimes.com/2025/06/11/business/elon-musk-trump-feud.html",
             "published": "Wed, 11 Jun 2025 19:15:17 +0000"
-        },
-        {
-            "title": "Amid LA Protests, Conspiracy Theories and Fake Images Spread Online",
-            "link": "https://www.nytimes.com/2025/06/10/technology/la-protests-conspiracy-theories-disinformation.html",
-            "published": "Tue, 10 Jun 2025 14:20:00 +0000"
         },
         {
             "title": "Google DeepMind and National Hurricane Center Join on New A.I. Model",
