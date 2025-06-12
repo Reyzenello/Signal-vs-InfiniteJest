@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: OpenAI talked with Saudi Arabia's PIF, India's Reliance, and the UAE's MGX about investing in the next installment of its $40B round led by SoftBank (Sri Muppidi/The Information)",
+            "link": "http://www.techmeme.com/250611/p46#a250611p46",
+            "published": "Wed, 11 Jun 2025 20:50:02 -0400"
+        },
+        {
+            "title": "Some domains of Nvidia, Stanford, NPR, and the CDC were exploited to host AI spam blogs redirecting users to a spam marketing site (Samantha Cole/404 Media)",
+            "link": "http://www.techmeme.com/250611/p45#a250611p45",
+            "published": "Wed, 11 Jun 2025 20:30:04 -0400"
+        },
+        {
+            "title": "Chime priced its US IPO at $27 a share, above the expected range, raising ~$700M and another $165M from shares sold by investors, valuing the company at $11.6B (MacKenzie Sigalos/CNBC)",
+            "link": "http://www.techmeme.com/250611/p44#a250611p44",
+            "published": "Wed, 11 Jun 2025 19:35:01 -0400"
+        },
+        {
             "title": "Nvidia plans to build its first industrial AI cloud platform in Germany for European manufacturers, combining AI with robotics to assist carmakers like BMW (Reuters)",
             "link": "http://www.techmeme.com/250611/p43#a250611p43",
             "published": "Wed, 11 Jun 2025 19:25:00 -0400"
@@ -9,21 +24,6 @@
             "title": "A majority of six of the 11 judges on Brazil's Supreme Court have voted to hold social media companies liable for some types of users' content seen as illegal (Ricardo Brito/Reuters)",
             "link": "http://www.techmeme.com/250611/p42#a250611p42",
             "published": "Wed, 11 Jun 2025 18:10:01 -0400"
-        },
-        {
-            "title": "Android 16 review: live updates and Advanced Protection are nice, but features like desktop mode and Material 3 Expressive design won't come until later in 2025 (Ryan Whitwam/Ars Technica)",
-            "link": "http://www.techmeme.com/250611/p41#a250611p41",
-            "published": "Wed, 11 Jun 2025 17:15:07 -0400"
-        },
-        {
-            "title": "London-based OneBalance, which lets developers integrate crypto features into their apps, raised a $20M Series A led by Cyber Fund and Blockchain Capital (Catherine McGrath/Fortune)",
-            "link": "http://www.techmeme.com/250611/p40#a250611p40",
-            "published": "Wed, 11 Jun 2025 16:55:00 -0400"
-        },
-        {
-            "title": "Oracle Q4: revenue up 11% YoY to $15.9B, vs. $15.59B est., cloud revenue up 27% YoY, signals strong cloud infrastructure revenue growth; ORCL up 6%+ after hours (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/250611/p39#a250611p39",
-            "published": "Wed, 11 Jun 2025 16:40:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Disney and Universal sue AI firm Midjourney over images",
+            "link": "https://www.bbc.com/news/articles/cg5vjqdm1ypo",
+            "published": "Thu, 12 Jun 2025 00:11:26 GMT"
+        },
+        {
             "title": "WhatsApp tells BBC it backs Apple in legal row with UK over user data",
             "link": "https://www.bbc.com/news/articles/cgmjrn42wdwo",
             "published": "Wed, 11 Jun 2025 16:01:09 GMT"
@@ -73,11 +78,6 @@
             "title": "China's electric cars are becoming slicker and cheaper - but is there a deeper cost?",
             "link": "https://www.bbc.com/news/articles/cy8d4v69jw6o",
             "published": "Mon, 09 Jun 2025 23:04:10 GMT"
-        },
-        {
-            "title": "Xbox handheld console finally revealed after a decade of speculation",
-            "link": "https://www.bbc.com/news/articles/c1de113lkdpo",
-            "published": "Mon, 09 Jun 2025 10:07:34 GMT"
         }
     ]
 }
