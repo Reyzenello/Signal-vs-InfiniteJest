@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google plans to shut down Android's Instant Apps, which let users launch apps without installing them, later this year citing low usage and engagement (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/250613/p9#a250613p9",
+            "published": "Fri, 13 Jun 2025 08:30:01 -0400"
+        },
+        {
+            "title": "Sources: Tencent is in early talks to acquire Nexon, the South Korean gaming giant behind Dungeon & Fighter Mobile; Tencent pursued a Nexon acquisition in 2019 (Dong Cao/Bloomberg)",
+            "link": "http://www.techmeme.com/250613/p8#a250613p8",
+            "published": "Fri, 13 Jun 2025 07:55:01 -0400"
+        },
+        {
             "title": "Sources: Walmart, Amazon, and Expedia have recently explored issuing or using stablecoins in the US to potentially save fees from cash and card transactions (Wall Street Journal)",
             "link": "http://www.techmeme.com/250613/p7#a250613p7",
             "published": "Fri, 13 Jun 2025 06:30:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Betting platform Kalshi aired a fully AI-generated 30-second ad during the NBA Finals, reportedly made in 2-3 days with 300-400 generations using Google's Veo 3 (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/250613/p5#a250613p5",
             "published": "Fri, 13 Jun 2025 02:10:00 -0400"
-        },
-        {
-            "title": "Garmin unveils the $799 Venu X1 smartwatch with a 2\" square AMOLED screen, a titanium body, an eight-day battery, and a blood oxygen monitor, coming on June 18 (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250613/p4#a250613p4",
-            "published": "Fri, 13 Jun 2025 01:25:01 -0400"
-        },
-        {
-            "title": "Sources: China delays approval of Synopsys' Ansys deal as the US moved in late May to ban chip design software sales by US firms, including Synopsys, to China (Financial Times)",
-            "link": "http://www.techmeme.com/250613/p3#a250613p3",
-            "published": "Fri, 13 Jun 2025 00:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Meta AI searches made public - but do all its users realise?",
+            "link": "https://www.bbc.com/news/articles/c0573lj172jo",
+            "published": "Fri, 13 Jun 2025 12:01:50 GMT"
+        },
+        {
             "title": "Data bill opposed by Sir Elton John and Dua Lipa finally passes",
             "link": "https://www.bbc.com/news/articles/c8e6z590wweo",
             "published": "Thu, 12 Jun 2025 12:13:32 GMT"
@@ -73,11 +78,6 @@
             "title": "WhatsApp tells BBC it backs Apple in legal row with UK over user data",
             "link": "https://www.bbc.com/news/articles/cgmjrn42wdwo",
             "published": "Wed, 11 Jun 2025 16:01:09 GMT"
-        },
-        {
-            "title": "4chan and porn site investigated by Ofcom over online safety",
-            "link": "https://www.bbc.com/news/articles/ckgqwlvq180o",
-            "published": "Tue, 10 Jun 2025 11:01:31 GMT"
         }
     ]
 }
