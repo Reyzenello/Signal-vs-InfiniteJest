@@ -1,5 +1,31 @@
 {
-    "techmeme": [],
+    "techmeme": [
+        {
+            "title": "Anthropic details how it built its multi-agent Claude Research system, claiming significant improvements in internal evaluations over single-agent systems (Anthropic)",
+            "link": "http://www.techmeme.com/250615/p10#a250615p10",
+            "published": "Sun, 15 Jun 2025 06:05:00 -0400"
+        },
+        {
+            "title": "Researchers find Llama 3.1 recalls large parts of popular copyrighted books, possibly weakening AI industry claims that such memorization is fringe behavior (Timothy B. Lee/Understanding AI)",
+            "link": "http://www.techmeme.com/250615/p9#a250615p9",
+            "published": "Sun, 15 Jun 2025 02:01:36 -0400"
+        },
+        {
+            "title": "Berlin-based Payrails, whose platform helps enterprises accept payments, issue payouts, and more, raised a $32M Series A, taking its total funding to $52.8M+ (Tamara Djurickovic/Tech.eu)",
+            "link": "http://www.techmeme.com/250615/p8#a250615p8",
+            "published": "Sun, 15 Jun 2025 01:45:55 -0400"
+        },
+        {
+            "title": "Bedrock Ocean, which has developed an autonomous underwater vehicle to map the ocean floor using sonar and magnetic sensors, raised a $25M Series A-2 (Tim De Chant/TechCrunch)",
+            "link": "http://www.techmeme.com/250615/p7#a250615p7",
+            "published": "Sun, 15 Jun 2025 01:35:01 -0400"
+        },
+        {
+            "title": "Austin-based Autonomize AI, which develops AI agents for automating administrative workflows in healthcare and life sciences, raised a $28M Series A (Axios)",
+            "link": "http://www.techmeme.com/250615/p6#a250615p6",
+            "published": "Sun, 15 Jun 2025 01:30:49 -0400"
+        }
+    ],
     "source_1": [
         {
             "title": "They Asked ChatGPT Questions. The Answers Sent Them Spiraling.",
