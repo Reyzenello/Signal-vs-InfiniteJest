@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "The Trump Organization teases the $499 \"T1 Phone\", a \"sleek, gold\" phone \"designed and built\" in the US, and Trump Mobile, based on AT&T, Verizon, and T-Mobile (Todd Spangler/Variety)",
+            "title": "WhatsApp rolls out ads in its Updates tab, a first for the app, and Meta will collect some data to target the ads, but says it has no plans to put ads in chats (New York Times)",
+            "link": "http://www.techmeme.com/250616/p11#a250616p11",
+            "published": "Mon, 16 Jun 2025 09:06:00 -0400"
+        },
+        {
+            "title": "The Trump Organization teases the $499 \"T1 Phone\", a gold phone \"designed and built\" in the US, and Trump Mobile, an MVNO that uses AT&T, Verizon, and T-Mobile (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/250616/p10#a250616p10",
             "published": "Mon, 16 Jun 2025 08:50:00 -0400"
         },
@@ -11,7 +16,7 @@
             "published": "Mon, 16 Jun 2025 08:40:00 -0400"
         },
         {
-            "title": "The UK CMA launches a probe into the planned $13.25B merger of ad giants Omnicom and Interpublic to assess potential competition reduction in the UK ad market (DhanushVignesh Babu/Reuters)",
+            "title": "The UK CMA opens an investigation into the planned $13.25B merger of ad giants Omnicom and Interpublic to assess potential lower competition in the UK ad market (DhanushVignesh Babu/Reuters)",
             "link": "http://www.techmeme.com/250616/p8#a250616p8",
             "published": "Mon, 16 Jun 2025 08:35:01 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "A whistleblower provides nonpublic data revealing that 1M+ 2FA SMS messages from June 2023 passed via Fink Telecom, a small Swiss company linked to spy agencies (Bloomberg)",
             "link": "http://www.techmeme.com/250616/p7#a250616p7",
             "published": "Mon, 16 Jun 2025 08:15:00 -0400"
-        },
-        {
-            "title": "Amazon Ads and Roku sign an ad initiative that will give media buyers access to 80%+ of US connected-TV households, set to launch by Q4 2025, using Amazon's DSP (Dade Hayes/Deadline)",
-            "link": "http://www.techmeme.com/250616/p6#a250616p6",
-            "published": "Mon, 16 Jun 2025 07:25:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 13 Jun 2025 11:00:06 +0000"
         },
         {
-            "title": "Everyone Is Using A.I. for Everything. Is That Bad?",
-            "link": "https://www.nytimes.com/2025/06/16/magazine/using-ai-hard-fork.html",
-            "published": "Mon, 16 Jun 2025 09:01:08 +0000"
+            "title": "WhatsApp Introduces Ads in Its App",
+            "link": "https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html",
+            "published": "Mon, 16 Jun 2025 13:00:09 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "WhatsApp to start showing more adverts in messaging app",
+            "link": "https://www.bbc.com/news/articles/cn5y07yqg5do",
+            "published": "Mon, 16 Jun 2025 13:00:08 GMT"
+        },
         {
             "title": "Race to mine metals for EV batteries threatens marine paradise",
             "link": "https://www.bbc.com/news/articles/c0k36v50zvro",
@@ -73,11 +78,6 @@
             "title": "Meta urged to go further in crackdown on 'nudify' apps",
             "link": "https://www.bbc.com/news/articles/cgr58dlnne5o",
             "published": "Thu, 12 Jun 2025 14:07:53 GMT"
-        },
-        {
-            "title": "Disney and Universal sue AI firm Midjourney over images",
-            "link": "https://www.bbc.com/news/articles/cg5vjqdm1ypo",
-            "published": "Thu, 12 Jun 2025 00:11:26 GMT"
         }
     ]
 }
