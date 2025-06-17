@@ -1,32 +1,47 @@
 {
     "techmeme": [
         {
+            "title": "Salesforce says it will increase prices on many products in August, including Slack; major product lines will see a 6% increase on average (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/250617/p20#a250617p20",
+            "published": "Tue, 17 Jun 2025 11:30:07 -0400"
+        },
+        {
+            "title": "Eigen Labs raised $70M via a token purchase by a16z and launched EigenCloud, which helps developers cryptographically prove what happens in off-chain apps (Liam Wright/Forbes)",
+            "link": "http://www.techmeme.com/250617/p19#a250617p19",
+            "published": "Tue, 17 Jun 2025 11:25:04 -0400"
+        },
+        {
+            "title": "Disney and Amazon partner to let media buyers using Amazon's DSP have better tools to target consumers on ad-tier programming across Disney+, Hulu, and ESPN+ (Erik Hayden/The Hollywood Reporter)",
+            "link": "http://www.techmeme.com/250617/p18#a250617p18",
+            "published": "Tue, 17 Jun 2025 10:55:01 -0400"
+        },
+        {
             "title": "AI-powered virtual physical therapy startup Sword Health raised $40M led by General Catalyst at a $4B valuation, up from its $3B valuation from June 2024 (Marina Temkin/TechCrunch)",
             "link": "http://www.techmeme.com/250617/p17#a250617p17",
             "published": "Tue, 17 Jun 2025 10:15:02 -0400"
         },
         {
-            "title": "Sources: Elon Musk's xAI is in talks to raise $4.3B via an equity investment on top of the $5B it has recently been trying to borrow from debt investors (Bloomberg)",
+            "title": "Sources: xAI is in talks to raise $4.3B via an equity investment on top of the $5B in debt it's trying to borrow; of its previously raised $14B, it has $4B left (Bloomberg)",
             "link": "http://www.techmeme.com/250617/p16#a250617p16",
             "published": "Tue, 17 Jun 2025 09:50:02 -0400"
-        },
-        {
-            "title": "Adobe releases iOS and Android apps for Firefly, letting users generate images and videos using text prompts and experiment with popular AI photo editing tools (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250617/p15#a250617p15",
-            "published": "Tue, 17 Jun 2025 09:15:00 -0400"
-        },
-        {
-            "title": "Israeli observability startup Coralogix raised a $115M Series E led by NewView Capital at a $1B+ valuation, and plans to invest ~$100M in India over five years (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250617/p14#a250617p14",
-            "published": "Tue, 17 Jun 2025 08:45:00 -0400"
-        },
-        {
-            "title": "Self-driving simulation software maker Applied Intuition raised $600M co-led by BlackRock and Kleiner Perkins at a $15B valuation, up from $6B in March 2024 (Katie Roof/Bloomberg)",
-            "link": "http://www.techmeme.com/250617/p13#a250617p13",
-            "published": "Tue, 17 Jun 2025 08:15:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Lawmakers Demand Palantir Provide Information About U.S. Contracts",
+            "link": "https://www.nytimes.com/2025/06/17/technology/palantir-government-contracts-democrats-letter.html",
+            "published": "Tue, 17 Jun 2025 09:01:22 +0000"
+        },
+        {
+            "title": "China\u2019s Spy Agencies Are Investing Heavily in A.I., Researchers Say",
+            "link": "https://www.nytimes.com/2025/06/17/us/politics/chinas-ai-spy-agencies.html",
+            "published": "Tue, 17 Jun 2025 14:00:15 +0000"
+        },
+        {
+            "title": "22 New Jobs A.I. Could Give You",
+            "link": "https://www.nytimes.com/2025/06/17/magazine/ai-new-jobs.html",
+            "published": "Tue, 17 Jun 2025 09:00:25 +0000"
+        },
         {
             "title": "WhatsApp Introduces Ads in Its App",
             "link": "https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html",
@@ -36,28 +51,13 @@
             "title": "Trumps Promote American Bitcoin, a New Crypto Mining Venture",
             "link": "https://www.nytimes.com/2025/06/16/technology/trump-american-bitcoin-mining.html",
             "published": "Mon, 16 Jun 2025 19:50:23 +0000"
-        },
-        {
-            "title": "A.I. Is Poised to Rewrite History. Literally.",
-            "link": "https://www.nytimes.com/2025/06/16/magazine/ai-history-historians-scholarship.html",
-            "published": "Mon, 16 Jun 2025 19:22:00 +0000"
-        },
-        {
-            "title": "Everyone Is Using A.I. for Everything. Is That Bad?",
-            "link": "https://www.nytimes.com/2025/06/16/magazine/using-ai-hard-fork.html",
-            "published": "Mon, 16 Jun 2025 09:01:08 +0000"
-        },
-        {
-            "title": "China\u2019s Spy Agencies Are Investing Heavily in A.I., Researchers Say",
-            "link": "https://www.nytimes.com/2025/06/17/us/politics/chinas-ai-spy-agencies.html",
-            "published": "Tue, 17 Jun 2025 14:00:15 +0000"
         }
     ],
     "source_2": [
         {
             "title": "UK watchdog fines 23andMe for 'profoundly damaging' data breach",
             "link": "https://www.bbc.com/news/articles/c4grggw4n56o",
-            "published": "Tue, 17 Jun 2025 13:44:52 GMT"
+            "published": "Tue, 17 Jun 2025 15:09:31 GMT"
         },
         {
             "title": "Experts question whether $499 gold Trump phone can be US-made",
