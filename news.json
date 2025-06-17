@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "China's MiniMax open sources MiniMax-M1, a model to handle complicated productivity tasks that supports 1M input tokens and it says surpasses DeepSeek's R1-0528 (Bloomberg)",
+            "title": "Israeli observability startup Coralogix raised a $115M Series E led by NewView Capital at a $1B+ valuation, and plans to invest ~$100M in India over five years (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/250617/p14#a250617p14",
+            "published": "Tue, 17 Jun 2025 08:45:00 -0400"
+        },
+        {
+            "title": "Self-driving simulation software maker Applied Intuition raised $600M co-led by BlackRock and Kleiner Perkins at a $15B valuation, up from $6B in March 2024 (Katie Roof/Bloomberg)",
+            "link": "http://www.techmeme.com/250617/p13#a250617p13",
+            "published": "Tue, 17 Jun 2025 08:15:01 -0400"
+        },
+        {
+            "title": "Nielsen: in May, Americans watched more TV on streaming than on cable and broadcast networks combined, the first time streaming was king of TV over a full month (John Koblin/New York Times)",
+            "link": "http://www.techmeme.com/250617/p12#a250617p12",
+            "published": "Tue, 17 Jun 2025 08:05:03 -0400"
+        },
+        {
+            "title": "Shanghai-based MiniMax open sources MiniMax-M1, a model for complicated productivity tasks that supports 1M input tokens and it says beats DeepSeek's R1-0528 (Bloomberg)",
             "link": "http://www.techmeme.com/250617/p11#a250617p11",
             "published": "Tue, 17 Jun 2025 07:15:01 -0400"
         },
         {
-            "title": "Grow a Garden, a simple farming simulator game made within Roblox, hit 16.4M active players on June 14, surpassing other popular games' peak concurrent users (Kieran Press-Reynolds/New York Times)",
+            "title": "Grow a Garden, a simplistic farming simulator game within Roblox, hit 16.4M active players on June 14, beating Fortnite and other games' peak concurrent users (Kieran Press-Reynolds/New York Times)",
             "link": "http://www.techmeme.com/250617/p10#a250617p10",
             "published": "Tue, 17 Jun 2025 07:05:00 -0400"
-        },
-        {
-            "title": "Meta launches generative AI tools in its Advantage+ suite for advertisers and agencies at Cannes, including to turn still images into videos and Virtual Try-On (Mark Mwachiro/Adweek)",
-            "link": "http://www.techmeme.com/250617/p9#a250617p9",
-            "published": "Tue, 17 Jun 2025 06:45:03 -0400"
-        },
-        {
-            "title": "Sky, ITV, and Channel 4 plan to provide streaming ad space in one marketplace, letting advertisers run campaigns simultaneously, to combat Google and Meta (Mark Sweney/The Guardian)",
-            "link": "http://www.techmeme.com/250617/p8#a250617p8",
-            "published": "Tue, 17 Jun 2025 06:25:01 -0400"
-        },
-        {
-            "title": "[Thread] A new US paper shows the best frontier LLM models achieve 0% on hard real-life Programming Contest problems, domains where expert humans still excel (Rohan Paul/@rohanpaul_ai)",
-            "link": "http://www.techmeme.com/250617/p7#a250617p7",
-            "published": "Tue, 17 Jun 2025 06:05:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Experts question whether $499 gold Trump phone can be US-made",
+            "link": "https://www.bbc.com/news/articles/cjrld3erq4eo",
+            "published": "Tue, 17 Jun 2025 10:34:12 GMT"
+        },
+        {
             "title": "WhatsApp to start showing more adverts in messaging app",
             "link": "https://www.bbc.com/news/articles/cn5y07yqg5do",
             "published": "Mon, 16 Jun 2025 13:00:08 GMT"
@@ -73,11 +78,6 @@
             "title": "Data bill opposed by Sir Elton John and Dua Lipa finally passes",
             "link": "https://www.bbc.com/news/articles/c8e6z590wweo",
             "published": "Thu, 12 Jun 2025 12:13:32 GMT"
-        },
-        {
-            "title": "Meta urged to go further in crackdown on 'nudify' apps",
-            "link": "https://www.bbc.com/news/articles/cgr58dlnne5o",
-            "published": "Thu, 12 Jun 2025 14:07:53 GMT"
         }
     ]
 }
