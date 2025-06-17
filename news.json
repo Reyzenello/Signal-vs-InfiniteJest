@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "AI-powered virtual physical therapy startup Sword Health raised $40M led by General Catalyst at a $4B valuation, up from its $3B valuation from June 2024 (Marina Temkin/TechCrunch)",
+            "link": "http://www.techmeme.com/250617/p17#a250617p17",
+            "published": "Tue, 17 Jun 2025 10:15:02 -0400"
+        },
+        {
+            "title": "Sources: Elon Musk's xAI is in talks to raise $4.3B via an equity investment on top of the $5B it has recently been trying to borrow from debt investors (Bloomberg)",
+            "link": "http://www.techmeme.com/250617/p16#a250617p16",
+            "published": "Tue, 17 Jun 2025 09:50:02 -0400"
+        },
+        {
             "title": "Adobe releases iOS and Android apps for Firefly, letting users generate images and videos using text prompts and experiment with popular AI photo editing tools (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/250617/p15#a250617p15",
             "published": "Tue, 17 Jun 2025 09:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Self-driving simulation software maker Applied Intuition raised $600M co-led by BlackRock and Kleiner Perkins at a $15B valuation, up from $6B in March 2024 (Katie Roof/Bloomberg)",
             "link": "http://www.techmeme.com/250617/p13#a250617p13",
             "published": "Tue, 17 Jun 2025 08:15:01 -0400"
-        },
-        {
-            "title": "Nielsen: in May, Americans watched more TV on streaming than on cable and broadcast networks combined, the first time streaming was king of TV over a full month (John Koblin/New York Times)",
-            "link": "http://www.techmeme.com/250617/p12#a250617p12",
-            "published": "Tue, 17 Jun 2025 08:05:03 -0400"
-        },
-        {
-            "title": "Shanghai-based MiniMax open sources MiniMax-M1, a model for complicated productivity tasks that supports 1M input tokens and it says beats DeepSeek's R1-0528 (Bloomberg)",
-            "link": "http://www.techmeme.com/250617/p11#a250617p11",
-            "published": "Tue, 17 Jun 2025 07:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 16 Jun 2025 09:01:08 +0000"
         },
         {
-            "title": "Lawmakers Demand Palantir Provide Information About U.S. Contracts",
-            "link": "https://www.nytimes.com/2025/06/17/technology/palantir-government-contracts-democrats-letter.html",
-            "published": "Tue, 17 Jun 2025 09:01:22 +0000"
+            "title": "China\u2019s Spy Agencies Are Investing Heavily in A.I., Researchers Say",
+            "link": "https://www.nytimes.com/2025/06/17/us/politics/chinas-ai-spy-agencies.html",
+            "published": "Tue, 17 Jun 2025 14:00:15 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "UK watchdog fines 23andMe for 'profoundly damaging' data breach",
+            "link": "https://www.bbc.com/news/articles/c4grggw4n56o",
+            "published": "Tue, 17 Jun 2025 13:44:52 GMT"
+        },
         {
             "title": "Experts question whether $499 gold Trump phone can be US-made",
             "link": "https://www.bbc.com/news/articles/cjrld3erq4eo",
@@ -73,11 +78,6 @@
             "title": "Meta AI searches made public - but do all its users realise?",
             "link": "https://www.bbc.com/news/articles/c0573lj172jo",
             "published": "Fri, 13 Jun 2025 12:01:50 GMT"
-        },
-        {
-            "title": "Data bill opposed by Sir Elton John and Dua Lipa finally passes",
-            "link": "https://www.bbc.com/news/articles/c8e6z590wweo",
-            "published": "Thu, 12 Jun 2025 12:13:32 GMT"
         }
     ]
 }
