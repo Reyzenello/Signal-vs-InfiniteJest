@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Anduril partners with Germany's Rheinmetall to build variants of Anduril's Barracuda and Fury aerial drones, aiming to enhance sovereign capabilities in Europe (Sylvia Pfeifer/Financial Times)",
+            "link": "http://www.techmeme.com/250618/p17#a250618p17",
+            "published": "Wed, 18 Jun 2025 07:15:01 -0400"
+        },
+        {
+            "title": "UBS confirms data was stolen in a cyberattack on supplier Chain IQ, which said it and 19 other companies were targeted; Swiss media says it impacts 130K+ staff (Noele Illien/Bloomberg)",
+            "link": "http://www.techmeme.com/250618/p16#a250618p16",
+            "published": "Wed, 18 Jun 2025 06:40:00 -0400"
+        },
+        {
             "title": "An interview with Samsung SVP Dr. Hon Pak on the Galaxy Watch adding its first-ever blood analysis feature, AI health tools, and a potential subscription (Vanessa Hand Orellana/CNET)",
             "link": "http://www.techmeme.com/250618/p15#a250618p15",
             "published": "Wed, 18 Jun 2025 06:30:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Hands-on with Apple's new Speech framework components in the macOS Tahoe beta: the APIs deliver transcription speeds significantly faster than OpenAI's Whisper (John Voorhees/MacStories)",
             "link": "http://www.techmeme.com/250618/p13#a250618p13",
             "published": "Wed, 18 Jun 2025 06:00:01 -0400"
-        },
-        {
-            "title": "AWS says Anthropic's Claude Opus 4 launched on its Trainium2 GPUs, and Project Rainier, AWS' supercomputer built for Anthropic, uses 500K+ Trainium2 chips (Kristina Partsinevelos/CNBC)",
-            "link": "http://www.techmeme.com/250618/p12#a250618p12",
-            "published": "Wed, 18 Jun 2025 05:45:01 -0400"
-        },
-        {
-            "title": "Netflix signs a landmark deal with French network TF1 to show linear TV for the first time; TF1 will broadcast all five channels, showing live sports and more (Financial Times)",
-            "link": "http://www.techmeme.com/250618/p11#a250618p11",
-            "published": "Wed, 18 Jun 2025 05:15:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI boss: Meta offering $100m plus to poach my staff",
+            "link": "https://www.bbc.com/news/articles/c8730088e5do",
+            "published": "Wed, 18 Jun 2025 10:33:04 GMT"
+        },
+        {
             "title": "Amazon boss says AI will replace jobs at tech giant",
             "link": "https://www.bbc.com/news/articles/cn0q2v851k9o",
             "published": "Tue, 17 Jun 2025 21:31:36 GMT"
@@ -73,11 +78,6 @@
             "title": "Experts question whether $499 gold Trump phone can be US-made",
             "link": "https://www.bbc.com/news/articles/cjrld3erq4eo",
             "published": "Tue, 17 Jun 2025 10:34:12 GMT"
-        },
-        {
-            "title": "WhatsApp to start showing more adverts in messaging app",
-            "link": "https://www.bbc.com/news/articles/cn5y07yqg5do",
-            "published": "Mon, 16 Jun 2025 13:00:08 GMT"
         }
     ]
 }
