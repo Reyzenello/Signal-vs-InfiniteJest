@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "On a podcast, Sam Altman said Meta made \"giant offers to a lot of people on our team\", like $100M signing bonuses, and \"none of our best people\" have accepted (Maxwell Zeff/TechCrunch)",
+            "title": "The NAACP intends to sue xAI over the natural gas turbines at its Memphis data center, which it claims are polluting nearby predominantly Black neighborhoods (Hiroko Tabuchi/New York Times)",
+            "link": "http://www.techmeme.com/250617/p45#a250617p45",
+            "published": "Tue, 17 Jun 2025 22:05:02 -0400"
+        },
+        {
+            "title": "How Walmart plans to leverage its $2.3B Vizio acquisition to push shoppable TV experiences; Walmart's ad business had just $4.4B of sales in FY 2025 (Jaewon Kang/Bloomberg)",
+            "link": "http://www.techmeme.com/250617/p44#a250617p44",
+            "published": "Tue, 17 Jun 2025 21:05:01 -0400"
+        },
+        {
+            "title": "The Iranian government says it has restricted internet access in response to Israeli cyberattacks; some Western communication apps have reportedly been blocked (Kevin Collier/NBC News)",
+            "link": "http://www.techmeme.com/250617/p43#a250617p43",
+            "published": "Tue, 17 Jun 2025 19:55:01 -0400"
+        },
+        {
+            "title": "On a podcast, Sam Altman said Meta made \"giant offers to a lot of people on our team...like, $100M signing bonuses\", and \"none of our best people\" have accepted (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250617/p42#a250617p42",
             "published": "Tue, 17 Jun 2025 19:20:01 -0400"
         },
@@ -9,28 +24,13 @@
             "title": "A cyberattack claimed by the pro-Israel hacktivist group Predatory Sparrow has reportedly disrupted services at Iran's state-owned Bank Sepah (Matt Kapko/CyberScoop)",
             "link": "http://www.techmeme.com/250617/p41#a250617p41",
             "published": "Tue, 17 Jun 2025 19:15:00 -0400"
-        },
-        {
-            "title": "Sources: Substack is pitching investors on a round between $50M and $100M that would value it above its ~$700M last round price, and is generating ~$45M in ARR (Eric Newcomer/Newcomer)",
-            "link": "http://www.techmeme.com/250617/p40#a250617p40",
-            "published": "Tue, 17 Jun 2025 18:45:04 -0400"
-        },
-        {
-            "title": "President Trump plans to sign an executive order this week to grant TikTok a 90-day extension in enforcement of the sale-or-ban law, marking his third extension (CNN)",
-            "link": "http://www.techmeme.com/250617/p39#a250617p39",
-            "published": "Tue, 17 Jun 2025 18:25:02 -0400"
-        },
-        {
-            "title": "The US Senate confirms Olivia Trusty to the FCC, giving Republicans a 2-1 majority after the recent departures of two members (Ted Johnson/Deadline)",
-            "link": "http://www.techmeme.com/250617/p38#a250617p38",
-            "published": "Tue, 17 Jun 2025 18:10:00 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Lawmakers Demand Palantir Provide Information About U.S. Contracts",
             "link": "https://www.nytimes.com/2025/06/17/technology/palantir-government-contracts-democrats-letter.html",
-            "published": "Tue, 17 Jun 2025 09:01:22 +0000"
+            "published": "Wed, 18 Jun 2025 02:07:16 +0000"
         },
         {
             "title": "China\u2019s Spy Agencies Are Investing Heavily in A.I., Researchers Say",
@@ -48,12 +48,22 @@
             "published": "Mon, 16 Jun 2025 13:00:10 +0000"
         },
         {
-            "title": "Senate Passes Cryptocurrency and Stablecoin Rules Bill",
-            "link": "https://www.nytimes.com/2025/06/17/us/politics/senate-cryptocurrency-bill.html",
-            "published": "Tue, 17 Jun 2025 23:02:20 +0000"
+            "title": "Trump to Again Extend TikTok\u2019s Reprieve From U.S. Ban",
+            "link": "https://www.nytimes.com/2025/06/17/technology/tiktok-ban-extension-trump.html",
+            "published": "Wed, 18 Jun 2025 01:28:39 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Amazon boss says AI will replace jobs at tech giant",
+            "link": "https://www.bbc.com/news/articles/cn0q2v851k9o",
+            "published": "Tue, 17 Jun 2025 21:31:36 GMT"
+        },
+        {
+            "title": "Trump to extend US TikTok ban deadline, White House says",
+            "link": "https://www.bbc.com/news/articles/cwyqjepq2e1o",
+            "published": "Wed, 18 Jun 2025 00:15:27 GMT"
+        },
         {
             "title": "UK watchdog fines 23andMe for 'profoundly damaging' data breach",
             "link": "https://www.bbc.com/news/articles/c4grggw4n56o",
@@ -68,16 +78,6 @@
             "title": "WhatsApp to start showing more adverts in messaging app",
             "link": "https://www.bbc.com/news/articles/cn5y07yqg5do",
             "published": "Mon, 16 Jun 2025 13:00:08 GMT"
-        },
-        {
-            "title": "Race to mine metals for EV batteries threatens marine paradise",
-            "link": "https://www.bbc.com/news/articles/c0k36v50zvro",
-            "published": "Sun, 15 Jun 2025 00:29:33 GMT"
-        },
-        {
-            "title": "Meta AI searches made public - but do all its users realise?",
-            "link": "https://www.bbc.com/news/articles/c0573lj172jo",
-            "published": "Fri, 13 Jun 2025 12:01:50 GMT"
         }
     ]
 }
