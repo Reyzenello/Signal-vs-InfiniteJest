@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The Irish Data Protection Commission says Meta told it that WhatsApp ads \"won't be launching\" in the EU \"until 2026\"; WhatsApp says ads are coming \"gradually\" (Ellen O'Regan/Politico)",
+            "link": "http://www.techmeme.com/250619/p31#a250619p31",
+            "published": "Thu, 19 Jun 2025 13:50:00 -0400"
+        },
+        {
             "title": "Trump extends the TikTok ban deadline for a third time; there is no legal basis for the extensions and it is unclear how many times the deadline can be extended (Barbara Ortutay/Associated Press)",
             "link": "http://www.techmeme.com/250619/p30#a250619p30",
             "published": "Thu, 19 Jun 2025 13:05:01 -0400"
@@ -19,23 +24,23 @@
             "title": "Interviews with 45+ sources detail Mark Zuckerberg's transformation into \"MAGA Mark\"; sources say there were talks about Zuckerberg becoming a Trump adviser (Financial Times)",
             "link": "http://www.techmeme.com/250619/p27#a250619p27",
             "published": "Thu, 19 Jun 2025 12:15:00 -0400"
-        },
-        {
-            "title": "Sources: Google is using its expansive library of YouTube videos to train Gemini and Veo 3; Google says it only uses a subset of videos for the training (Zach Vallese/CNBC)",
-            "link": "http://www.techmeme.com/250619/p26#a250619p26",
-            "published": "Thu, 19 Jun 2025 12:00:13 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Lawmakers Demand Palantir Provide Information About U.S. Contracts",
-            "link": "https://www.nytimes.com/2025/06/17/technology/palantir-government-contracts-democrats-letter.html",
-            "published": "Wed, 18 Jun 2025 02:07:16 +0000"
+            "title": "TikTok Hits Cannes, Where a U.S. Ban Seems a Distant Dream",
+            "link": "https://www.nytimes.com/2025/06/19/business/media/tiktok-cannes-shou-chew.html",
+            "published": "Thu, 19 Jun 2025 17:57:24 +0000"
         },
         {
-            "title": "China\u2019s Spy Agencies Are Investing Heavily in A.I., Researchers Say",
-            "link": "https://www.nytimes.com/2025/06/17/us/politics/chinas-ai-spy-agencies.html",
-            "published": "Tue, 17 Jun 2025 20:18:54 +0000"
+            "title": "Can A.I. Quicken the Pace of Math Discoveries?",
+            "link": "https://www.nytimes.com/2025/06/19/science/math-ai-darpa.html",
+            "published": "Thu, 19 Jun 2025 09:02:06 +0000"
+        },
+        {
+            "title": "Your A.I. Queries Come With a Climate Cost",
+            "link": "https://www.nytimes.com/2025/06/19/climate/ai-emissions-chatbot-accuracy.html",
+            "published": "Thu, 19 Jun 2025 11:28:09 +0000"
         },
         {
             "title": "22 New Jobs A.I. Could Give You",
@@ -43,21 +48,16 @@
             "published": "Tue, 17 Jun 2025 09:00:25 +0000"
         },
         {
-            "title": "WhatsApp Introduces Ads in Its App",
-            "link": "https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html",
-            "published": "Mon, 16 Jun 2025 13:00:10 +0000"
-        },
-        {
-            "title": "TikTok Hits Cannes, Where a U.S. Ban Seems a Distant Dream",
-            "link": "https://www.nytimes.com/2025/06/19/business/media/tiktok-cannes-shou-chew.html",
-            "published": "Thu, 19 Jun 2025 17:21:09 +0000"
+            "title": "Tesla\u2019s Robotaxi, Long Promised by Elon Musk, Joins a Crowded Field",
+            "link": "https://www.nytimes.com/2025/06/18/business/tesla-robotaxi-austin-elon-musk.html",
+            "published": "Wed, 18 Jun 2025 21:35:37 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Trump confirms further delay to TikTok ban or sale deadline",
             "link": "https://www.bbc.com/news/articles/cd78xljd71yo",
-            "published": "Thu, 19 Jun 2025 16:38:47 GMT"
+            "published": "Thu, 19 Jun 2025 18:26:16 GMT"
         },
         {
             "title": "Texas Instruments pledges 'historic' $60bn US chip investment",
