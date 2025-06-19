@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Trump extends the TikTok ban deadline for a third time; there is no legal basis for the extensions and it is unclear how many times the deadline can be extended (Barbara Ortutay/Associated Press)",
+            "link": "http://www.techmeme.com/250619/p30#a250619p30",
+            "published": "Thu, 19 Jun 2025 13:05:01 -0400"
+        },
+        {
+            "title": "European satellite company Eutelsat raised \u20ac1.35B, including \u20ac717M from France, to build out its fleet of satellites to rival Starlink; France's stake is ~30% (Bloomberg)",
+            "link": "http://www.techmeme.com/250619/p29#a250619p29",
+            "published": "Thu, 19 Jun 2025 12:45:02 -0400"
+        },
+        {
             "title": "The EU says Apple and Meta will not face sanctions immediately after their 60 day DMA grace period ends on June 26, following \u20ac500M and \u20ac200M fines in April (Peggy Corlin/Euronews)",
             "link": "http://www.techmeme.com/250619/p28#a250619p28",
             "published": "Thu, 19 Jun 2025 12:20:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Google is using its expansive library of YouTube videos to train Gemini and Veo 3; Google says it only uses a subset of videos for the training (Zach Vallese/CNBC)",
             "link": "http://www.techmeme.com/250619/p26#a250619p26",
             "published": "Thu, 19 Jun 2025 12:00:13 -0400"
-        },
-        {
-            "title": "Andrej Karpathy's talk on \"Software 3.0\", with LLMs enabling programming via natural language, the decade of agents, LLMs as \"fallible people spirits\", and more (Andrej Karpathy/Y Combinator on YouTube)",
-            "link": "http://www.techmeme.com/250619/p25#a250619p25",
-            "published": "Thu, 19 Jun 2025 11:50:00 -0400"
-        },
-        {
-            "title": "A look at Scale AI rival Surge AI, which raised no outside capital, told staff it had $1B+ in 2024 revenue, vs. Scale's $870M, and has always been profitable (The Information)",
-            "link": "http://www.techmeme.com/250619/p24#a250619p24",
-            "published": "Thu, 19 Jun 2025 11:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 16 Jun 2025 13:00:10 +0000"
         },
         {
-            "title": "Can A.I. Quicken the Pace of Math Discoveries?",
-            "link": "https://www.nytimes.com/2025/06/19/science/math-ai-darpa.html",
-            "published": "Thu, 19 Jun 2025 09:02:06 +0000"
+            "title": "TikTok Hits Cannes, Where a U.S. Ban Seems a Distant Dream",
+            "link": "https://www.nytimes.com/2025/06/19/business/media/tiktok-cannes-shou-chew.html",
+            "published": "Thu, 19 Jun 2025 17:21:09 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump confirms further delay to TikTok ban or sale deadline",
+            "link": "https://www.bbc.com/news/articles/cd78xljd71yo",
+            "published": "Thu, 19 Jun 2025 16:38:47 GMT"
+        },
         {
             "title": "Texas Instruments pledges 'historic' $60bn US chip investment",
             "link": "https://www.bbc.com/news/articles/c5yl0877zzmo",
@@ -73,11 +78,6 @@
             "title": "Amazon boss says AI will replace jobs at tech giant",
             "link": "https://www.bbc.com/news/articles/cn0q2v851k9o",
             "published": "Tue, 17 Jun 2025 21:31:36 GMT"
-        },
-        {
-            "title": "Trump to extend US TikTok ban deadline, White House says",
-            "link": "https://www.bbc.com/news/articles/cwyqjepq2e1o",
-            "published": "Wed, 18 Jun 2025 00:15:27 GMT"
         }
     ]
 }
