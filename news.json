@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Waymo launches robotaxis in Atlanta via Uber's app, covering a 65-square-mile area, after launching in Austin on March 4; its vehicles don't drive on highways (Andrew J. Hawkins/The Verge)",
+            "link": "http://www.techmeme.com/250624/p11#a250624p11",
+            "published": "Tue, 24 Jun 2025 07:15:03 -0400"
+        },
+        {
+            "title": "Abridge, which uses AI to automate doctors' note-taking, raised $300M led by a16z at a $5.3B valuation, after raising $250M at a $2.75B valuation in February (Belle Lin/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250624/p10#a250624p10",
+            "published": "Tue, 24 Jun 2025 07:05:01 -0400"
+        },
+        {
+            "title": "Inside Amazon's Indiana data center complex: built for Anthropic with plans for ~30 centers, consuming 2.2GW of power and millions of gallons of water per year (New York Times)",
+            "link": "http://www.techmeme.com/250624/p9#a250624p9",
+            "published": "Tue, 24 Jun 2025 06:50:01 -0400"
+        },
+        {
             "title": "Researchers: \"chain of thought\" techniques used by Anthropic, Google, OpenAI, and xAI show inconsistencies where chatbot answers contradict the stated reasoning (Cristina Criddle/Financial Times)",
             "link": "http://www.techmeme.com/250624/p8#a250624p8",
             "published": "Tue, 24 Jun 2025 06:30:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Digital Asset, which builds Canton Network, an open-source public blockchain for regulated financial institutions, raised $135M co-led by DRW and Tradeweb (Ryan Browne/CNBC)",
             "link": "http://www.techmeme.com/250624/p7#a250624p7",
             "published": "Tue, 24 Jun 2025 06:15:02 -0400"
-        },
-        {
-            "title": "Amazon says it plans to invest \u00a340B in the UK economy over the next three years, including opening four new warehouses; Amazon invested \u00a312B+ in the UK in 2023 (Freya Jones/Bloomberg)",
-            "link": "http://www.techmeme.com/250624/p6#a250624p6",
-            "published": "Tue, 24 Jun 2025 06:05:02 -0400"
-        },
-        {
-            "title": "How Broadway is embracing large-scale, high-resolution videos and projectors as an integrated narrative tool aided by AI, as some creatives worry about overuse (Michael Paulson/New York Times)",
-            "link": "http://www.techmeme.com/250624/p5#a250624p5",
-            "published": "Tue, 24 Jun 2025 05:55:03 -0400"
-        },
-        {
-            "title": "The Linux Foundation unveils the Agent2Agent Project, with founding members including Google Cloud, AWS, and Microsoft; Google donated the protocol spec and SDK (Google Developers Blog)",
-            "link": "http://www.techmeme.com/250624/p4#a250624p4",
-            "published": "Tue, 24 Jun 2025 05:45:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US safety regulators contact Tesla over erratic robotaxis",
+            "link": "https://www.bbc.com/news/articles/cg75zv4gny2o",
+            "published": "Tue, 24 Jun 2025 10:39:09 GMT"
+        },
+        {
             "title": "Google may be forced to link to rival search platforms in the UK",
             "link": "https://www.bbc.com/news/articles/cy4ym77rkgeo",
             "published": "Tue, 24 Jun 2025 09:02:12 GMT"
@@ -73,11 +78,6 @@
             "title": "Grow a Garden: The surprise Roblox gaming hit",
             "link": "https://www.bbc.com/news/articles/cj4edkdxz2xo",
             "published": "Fri, 20 Jun 2025 23:58:02 GMT"
-        },
-        {
-            "title": "BBC threatens AI firm with legal action over unauthorised content use",
-            "link": "https://www.bbc.com/news/articles/cy7ndgylzzmo",
-            "published": "Fri, 20 Jun 2025 13:57:46 GMT"
         }
     ]
 }
