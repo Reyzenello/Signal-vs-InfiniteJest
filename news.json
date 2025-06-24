@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The UK CMA says it has provisionally found Google meets the legal tests to designate it with \"strategic market status\" in general search and search advertising (Financial Times)",
+            "link": "http://www.techmeme.com/250624/p2#a250624p2",
+            "published": "Tue, 24 Jun 2025 01:55:00 -0400"
+        },
+        {
+            "title": "Q&A with Meta's Andrew Bosworth on joining Detachment 201, the Army's tech challenges, the vibe shift in Silicon Valley's military relations, and more (Blake Dodge/Pirate Wires)",
+            "link": "http://www.techmeme.com/250624/p1#a250624p1",
+            "published": "Tue, 24 Jun 2025 01:35:03 -0400"
+        },
+        {
             "title": "Q&A with Hinge CEO Justin McLeod on why AI companionship is like junk food, plans for a Hinge mobile payment system to avoid App Store fees, and more (Nilay Patel/The Verge)",
             "link": "http://www.techmeme.com/250623/p42#a250623p42",
             "published": "Mon, 23 Jun 2025 23:00:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Internal memo: Goldman Sachs launches a generative AI assistant firmwide to boost productivity; around 10,000 employees are already using the GS AI Assistant (Reuters)",
             "link": "http://www.techmeme.com/250623/p40#a250623p40",
             "published": "Mon, 23 Jun 2025 19:45:00 -0400"
-        },
-        {
-            "title": "Samsung schedules its next Galaxy Unpacked event for July 9 at 10am ET in Brooklyn, where AI updates, the Galaxy Z Fold 7, and Galaxy Z Flip 7 are expected (Chris Welch/Bloomberg)",
-            "link": "http://www.techmeme.com/250623/p39#a250623p39",
-            "published": "Mon, 23 Jun 2025 19:25:01 -0400"
-        },
-        {
-            "title": "Sources: Mira Murati has told investors Thinking Machines Lab plans to develop customized AI models based on business KPIs, and also plans a consumer product (The Information)",
-            "link": "http://www.techmeme.com/250623/p38#a250623p38",
-            "published": "Mon, 23 Jun 2025 18:50:57 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google may be forced to make changes to UK search",
+            "link": "https://www.bbc.com/news/articles/cy4ym77rkgeo",
+            "published": "Tue, 24 Jun 2025 06:32:31 GMT"
+        },
+        {
             "title": "Tesla robotaxi 'low-key' launch in Texas",
             "link": "https://www.bbc.com/news/articles/cjwnlje3yp1o",
             "published": "Mon, 23 Jun 2025 10:52:41 GMT"
@@ -73,11 +78,6 @@
             "title": "BBC threatens AI firm with legal action over unauthorised content use",
             "link": "https://www.bbc.com/news/articles/cy7ndgylzzmo",
             "published": "Fri, 20 Jun 2025 13:57:46 GMT"
-        },
-        {
-            "title": "Trump confirms further delay to TikTok ban or sale deadline",
-            "link": "https://www.bbc.com/news/articles/cd78xljd71yo",
-            "published": "Thu, 19 Jun 2025 18:26:16 GMT"
         }
     ]
 }
