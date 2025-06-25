@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Google unveils Gemini CLI, an agentic AI tool that lets developers make natural language requests by connecting Gemini models to local codebases in terminals (Maxwell Zeff/TechCrunch)",
+            "title": "Paraform, which operates a hiring marketplace with AI-powered candidate relationship management and other tools, raised a $20M Series A led by Felicis (FinSMEs)",
+            "link": "http://www.techmeme.com/250625/p17#a250625p17",
+            "published": "Wed, 25 Jun 2025 10:10:02 -0400"
+        },
+        {
+            "title": "Bumble plans to lay off 30% of its workforce, or ~240 roles, and invest the up to $40M saved annually into new product and tech development; BMBL jumps 15%+ (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/250625/p16#a250625p16",
+            "published": "Wed, 25 Jun 2025 09:55:01 -0400"
+        },
+        {
+            "title": "Google launches Gemini CLI, an agentic AI tool that lets developers make natural language requests in terminals by connecting Gemini models to local codebases (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250625/p15#a250625p15",
             "published": "Wed, 25 Jun 2025 09:30:05 -0400"
         },
         {
-            "title": "Metaview, which builds AI tools to automate hiring, including interview note-taking and generating job descriptions, raised a $35M Series B led by GV (Beatrice Nolan/Fortune)",
+            "title": "London-based Metaview, which builds AI tools to automate hiring, like via interview notetaking and job description generation, raised a $35M Series B led by GV (Beatrice Nolan/Fortune)",
             "link": "http://www.techmeme.com/250625/p14#a250625p14",
             "published": "Wed, 25 Jun 2025 08:55:01 -0400"
         },
         {
-            "title": "Data management software vendor Rubrik agrees to acquire Predibase, which helps with deploying AI models; source: Rubrik plans to pay between $100M and $500M (Jordan Novet/CNBC)",
+            "title": "Data management software vendor Rubrik agrees to acquire Predibase, which helps with deploying AI models; a source says Rubrik intends to pay $100M to $500M (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/250625/p13#a250625p13",
             "published": "Wed, 25 Jun 2025 08:25:01 -0400"
-        },
-        {
-            "title": "Satellite company Maxar launches Sentry, an AI service that autonomously guides satellites to monitor cities, ports, and other sites for unusual activity (Sana Pashankar/Bloomberg)",
-            "link": "http://www.techmeme.com/250625/p12#a250625p12",
-            "published": "Wed, 25 Jun 2025 08:05:01 -0400"
-        },
-        {
-            "title": "OpenRouter, which directs prompts to LLMs based on factors like cost and speed, raised $40M across a seed and Series A; source: the startup is valued at ~$500M (Yuliya Chernova/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250625/p11#a250625p11",
-            "published": "Wed, 25 Jun 2025 07:15:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Takeaways From Hard Fork\u2019s Interview With OpenAI\u2019s Sam Altman",
+            "link": "https://www.nytimes.com/2025/06/25/technology/hard-fork-sam-altman.html",
+            "published": "Wed, 25 Jun 2025 13:30:39 +0000"
+        },
         {
             "title": "At Amazon\u2019s Biggest Data Center, Everything Is Supersized for A.I.",
             "link": "https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html",
@@ -38,19 +43,14 @@
             "published": "Mon, 23 Jun 2025 19:48:45 +0000"
         },
         {
-            "title": "Tesla Begins Limited Robotaxi Service in Austin",
-            "link": "https://www.nytimes.com/2025/06/22/business/tesla-robotaxi-service-austin.html",
-            "published": "Mon, 23 Jun 2025 15:21:33 +0000"
-        },
-        {
             "title": "Why Does Every Commercial for A.I. Think You\u2019re a Moron?",
             "link": "https://www.nytimes.com/2025/06/25/magazine/ai-commercials-ads-loneliness.html",
             "published": "Wed, 25 Jun 2025 09:01:09 +0000"
         },
         {
-            "title": "Takeaways From Hard Fork\u2019s Interview With OpenAI\u2019s Sam Altman",
-            "link": "https://www.nytimes.com/2025/06/25/technology/hard-fork-sam-altman.html",
-            "published": "Wed, 25 Jun 2025 13:30:39 +0000"
+            "title": "Four Astronauts Lift Off on Axiom Mission to the I.S.S.",
+            "link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
+            "published": "Wed, 25 Jun 2025 08:11:18 +0000"
         }
     ],
     "source_2": [
