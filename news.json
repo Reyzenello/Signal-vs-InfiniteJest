@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "OpenRouter, which directs AI prompts to various LLMs based on cost, speed, and other factors, raised $40M at a valuation of about $500M (Yuliya Chernova/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250625/p11#a250625p11",
+            "published": "Wed, 25 Jun 2025 07:15:02 -0400"
+        },
+        {
+            "title": "Paris-based Zama, which is developing fully homomorphic encryption tech for blockchain and AI apps, raised a $57M Series B at a $1B+ valuation (Cate Lawrence/Tech.eu)",
+            "link": "http://www.techmeme.com/250625/p10#a250625p10",
+            "published": "Wed, 25 Jun 2025 06:35:03 -0400"
+        },
+        {
             "title": "Fairphone announces the \u20ac599 Fairphone 6, with a 6.31\" 120Hz LTPO OLED display, a Snapdragon 7s Gen 3 chip, and enhanced modularity with 12 swappable parts (Andrew Liszewski/The Verge)",
             "link": "http://www.techmeme.com/250625/p9#a250625p9",
             "published": "Wed, 25 Jun 2025 06:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Gallup: ~60% of 2,232 teachers at US K-12 public schools say they used AI tools in the past school year; regular users estimate weekly time savings of 5.9 hours (Jocelyn Gecker/Associated Press)",
             "link": "http://www.techmeme.com/250625/p7#a250625p7",
             "published": "Wed, 25 Jun 2025 04:40:01 -0400"
-        },
-        {
-            "title": "How AI is reshaping the perfume industry, as fragrance tech startup Osmo promises 48-hour sample turnarounds and incumbents like DSM-Firmenich embrace the tech (Arabelle Sicardi/The Verge)",
-            "link": "http://www.techmeme.com/250625/p6#a250625p6",
-            "published": "Wed, 25 Jun 2025 02:35:01 -0400"
-        },
-        {
-            "title": "Daydream, which raised a $50M seed in June 2024 to build a generative AI shopping agent for fashion, launches in beta, with an app expected later this summer (Hilary Milnes/Vogue Business)",
-            "link": "http://www.techmeme.com/250625/p5#a250625p5",
-            "published": "Wed, 25 Jun 2025 02:10:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Three network phone calls down but data still working",
+            "link": "https://www.bbc.com/news/articles/cdxlqeyw95no",
+            "published": "Wed, 25 Jun 2025 11:15:35 GMT"
+        },
+        {
             "title": "'Fast tech' warning as demand for cheap gadgets heats up",
             "link": "https://www.bbc.com/news/articles/cx20kd173z1o",
             "published": "Tue, 24 Jun 2025 23:02:05 GMT"
@@ -73,11 +78,6 @@
             "title": "Google may be forced to link to rival search platforms in the UK",
             "link": "https://www.bbc.com/news/articles/cy4ym77rkgeo",
             "published": "Tue, 24 Jun 2025 09:02:12 GMT"
-        },
-        {
-            "title": "Tesla robotaxi 'low-key' launch in Texas",
-            "link": "https://www.bbc.com/news/articles/cjwnlje3yp1o",
-            "published": "Mon, 23 Jun 2025 10:52:41 GMT"
         }
     ]
 }
