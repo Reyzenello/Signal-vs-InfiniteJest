@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google unveils Gemini CLI, an agentic AI tool that lets developers make natural language requests by connecting Gemini models to local codebases in terminals (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250625/p15#a250625p15",
+            "published": "Wed, 25 Jun 2025 09:30:05 -0400"
+        },
+        {
             "title": "Metaview, which builds AI tools to automate hiring, including interview note-taking and generating job descriptions, raised a $35M Series B led by GV (Beatrice Nolan/Fortune)",
             "link": "http://www.techmeme.com/250625/p14#a250625p14",
             "published": "Wed, 25 Jun 2025 08:55:01 -0400"
@@ -19,11 +24,6 @@
             "title": "OpenRouter, which directs prompts to LLMs based on factors like cost and speed, raised $40M across a seed and Series A; source: the startup is valued at ~$500M (Yuliya Chernova/Wall Street Journal)",
             "link": "http://www.techmeme.com/250625/p11#a250625p11",
             "published": "Wed, 25 Jun 2025 07:15:02 -0400"
-        },
-        {
-            "title": "Paris-based Zama, which is developing fully homomorphic encryption tech for blockchain and AI apps, raised a $57M Series B at a $1B+ valuation (Cate Lawrence/Tech.eu)",
-            "link": "http://www.techmeme.com/250625/p10#a250625p10",
-            "published": "Wed, 25 Jun 2025 06:35:03 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Takeaways From Hard Fork\u2019s Interview With OpenAI\u2019s Sam Altman",
             "link": "https://www.nytimes.com/2025/06/25/technology/hard-fork-sam-altman.html",
-            "published": "Wed, 25 Jun 2025 05:16:40 +0000"
+            "published": "Wed, 25 Jun 2025 13:30:39 +0000"
         }
     ],
     "source_2": [
