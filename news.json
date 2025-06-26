@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Kraken launches Krak, a P2P payments app that lets users send funds across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies (Ian Allison/CoinDesk)",
+            "link": "http://www.techmeme.com/250626/p21#a250626p21",
+            "published": "Thu, 26 Jun 2025 09:30:00 -0400"
+        },
+        {
+            "title": "Sources: DeepSeek's highly anticipated R2 model faces delays due to a shortage of Nvidia server chips in China, exacerbated by the US ban of Nvidia's H20 chips (The Information)",
+            "link": "http://www.techmeme.com/250626/p20#a250626p20",
+            "published": "Thu, 26 Jun 2025 09:18:15 -0400"
+        },
+        {
+            "title": "Marc Benioff says \"AI is doing 30% to 50% of the work at Salesforce now\", including software engineering and customer service (Bloomberg)",
+            "link": "http://www.techmeme.com/250626/p19#a250626p19",
+            "published": "Thu, 26 Jun 2025 09:10:05 -0400"
+        },
+        {
             "title": "Sources: Apple execs discussed starting their own theatrical distribution unit; Warner Bros. is distributing the F1 movie and getting a share of the box office (Wall Street Journal)",
             "link": "http://www.techmeme.com/250626/p18#a250626p18",
             "published": "Thu, 26 Jun 2025 08:50:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Indonesia changes rules to require e-commerce platforms like TikTok Shop to withhold income tax from sellers, instead of asking sellers to pay the government (Grace Sihombing/Bloomberg)",
             "link": "http://www.techmeme.com/250626/p17#a250626p17",
             "published": "Thu, 26 Jun 2025 07:55:02 -0400"
-        },
-        {
-            "title": "A look at Zhipu AI, the China-backed startup offering AI tools to governments globally, as OpenAI says Zhipu is on the \"front line\" of the global AI race (Dylan Butts/CNBC)",
-            "link": "http://www.techmeme.com/250626/p16#a250626p16",
-            "published": "Thu, 26 Jun 2025 07:05:02 -0400"
-        },
-        {
-            "title": "The Trump Organization replaces T1 Phone's \"made in America\" language on Trump Mobile's site with \"brought to life right here in the USA\" and \"proudly American\" (Anthony Robledo/USA Today)",
-            "link": "http://www.techmeme.com/250626/p15#a250626p15",
-            "published": "Thu, 26 Jun 2025 06:20:01 -0400"
-        },
-        {
-            "title": "EU competition chief Teresa Ribera rejects claims DMA enforcement could be traded to avoid Trump's tariffs, and urges mutual respect for each side's regulations (Bloomberg)",
-            "link": "http://www.techmeme.com/250626/p14#a250626p14",
-            "published": "Thu, 26 Jun 2025 06:05:07 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Thu, 26 Jun 2025 09:56:58 GMT"
         },
         {
+            "title": "Meta admits wrongly suspending Facebook Groups but denies wider problem",
+            "link": "https://www.bbc.com/news/articles/c3r9nwgvwy3o",
+            "published": "Thu, 26 Jun 2025 13:24:59 GMT"
+        },
+        {
             "title": "Three network phone calls down but data still working",
             "link": "https://www.bbc.com/news/articles/cdxlqeyw95no",
             "published": "Wed, 25 Jun 2025 11:15:35 GMT"
@@ -73,11 +78,6 @@
             "title": "Judge backs AI firm over use of copyrighted books",
             "link": "https://www.bbc.com/news/articles/c77vr00enzyo",
             "published": "Wed, 25 Jun 2025 09:55:59 GMT"
-        },
-        {
-            "title": "US safety regulators contact Tesla over erratic robotaxis",
-            "link": "https://www.bbc.com/news/articles/cg75zv4gny2o",
-            "published": "Tue, 24 Jun 2025 10:39:09 GMT"
         }
     ]
 }
