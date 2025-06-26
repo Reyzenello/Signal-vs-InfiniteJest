@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "As AI kills search traffic, Google launches Offerwall, a Google Ad Manager tool to help publishers generate revenue beyond ads, including via micropayments (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250626/p25#a250626p25",
-            "published": "Thu, 26 Jun 2025 12:30:00 -0400"
+            "title": "Microsoft plans to replace the Blue Screen of Death in Windows 11 with a simplified black screen \"providing better information\" in an update \"later this summer\" (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250626/p30#a250626p30",
+            "published": "Thu, 26 Jun 2025 13:20:13 -0400"
         },
         {
-            "title": "UAE-based Aqua 1 Foundation buys $100M worth of tokens from Trump's World Liberty Financial, becoming its largest individual investor ahead of Justin Sun (Muyao Shen/Bloomberg)",
-            "link": "http://www.techmeme.com/250626/p24#a250626p24",
-            "published": "Thu, 26 Jun 2025 11:40:02 -0400"
+            "title": "A federal judge rejects a joint motion by Ripple Labs and the US SEC to approve a reduced $50M fine to settle a lawsuit over XRP sales, and chastises both sides (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/250626/p29#a250626p29",
+            "published": "Thu, 26 Jun 2025 13:00:46 -0400"
         },
         {
-            "title": "YouTube launches an AI Overviews-like carousel for searches related to shopping, places, and things to do in a specific place, for Premium users in the US (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/250626/p23#a250626p23",
-            "published": "Thu, 26 Jun 2025 10:30:01 -0400"
+            "title": "Source: Meta has hired highly influential OpenAI researcher Trapit Bansal to work on its AI reasoning models under the company's new AI superintelligence unit (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250626/p28#a250626p28",
+            "published": "Thu, 26 Jun 2025 12:45:01 -0400"
         },
         {
-            "title": "Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more (Brian Merchant/Blood in the Machine)",
-            "link": "http://www.techmeme.com/250626/p22#a250626p22",
-            "published": "Thu, 26 Jun 2025 09:55:02 -0400"
+            "title": "Sources: CoreWeave is in talks to acquire bitcoin miner Core Scientific, which has a market value of ~$3.7B; Core Scientific rejected CoreWeave's bid in 2024 (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250626/p27#a250626p27",
+            "published": "Thu, 26 Jun 2025 12:40:02 -0400"
         },
         {
-            "title": "Kraken launches Krak, a payments app that lets users send funds P2P across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies (Ian Allison/CoinDesk)",
-            "link": "http://www.techmeme.com/250626/p21#a250626p21",
-            "published": "Thu, 26 Jun 2025 09:30:00 -0400"
+            "title": "Amazon's VP of Generative AI Vasi Philomin left for another company; VP of Amazon Elastic Block Store Rajesh Sheth assumed some of Philomin's responsibilities (Greg Bensinger/Reuters)",
+            "link": "http://www.techmeme.com/250626/p26#a250626p26",
+            "published": "Thu, 26 Jun 2025 12:35:03 -0400"
         }
     ],
     "source_1": [
         {
             "title": "A.I. Is Starting to Wear Down Democracy",
             "link": "https://www.nytimes.com/2025/06/26/technology/ai-elections-democracy.html",
-            "published": "Thu, 26 Jun 2025 09:00:31 +0000"
+            "published": "Thu, 26 Jun 2025 16:48:03 +0000"
         },
         {
             "title": "Takeaways From Hard Fork\u2019s Interview With OpenAI\u2019s Sam Altman",
@@ -43,17 +43,22 @@
             "published": "Tue, 24 Jun 2025 17:09:36 +0000"
         },
         {
+            "title": "\u2018Life Was Awesome:\u2019 Tanner Martin Announces His Own Death",
+            "link": "https://www.nytimes.com/2025/06/26/us/tanner-martin-dead-cancer-tiktok.html",
+            "published": "Thu, 26 Jun 2025 17:20:40 +0000"
+        },
+        {
             "title": "Why Does Every Commercial for A.I. Think You\u2019re a Moron?",
             "link": "https://www.nytimes.com/2025/06/25/magazine/ai-commercials-ads-loneliness.html",
             "published": "Wed, 25 Jun 2025 09:01:09 +0000"
-        },
-        {
-            "title": "Four Astronauts Lift Off on Axiom Mission to the I.S.S.",
-            "link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
-            "published": "Wed, 25 Jun 2025 08:11:18 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "'Made in the USA' reference disappears from Trump phone listing",
+            "link": "https://www.bbc.com/news/articles/cy4yv3pmmwjo",
+            "published": "Thu, 26 Jun 2025 16:53:29 GMT"
+        },
         {
             "title": "Pornhub to introduce 'government approved' age checks in UK",
             "link": "https://www.bbc.com/news/articles/cr5v2lz5vl6o",
@@ -73,11 +78,6 @@
             "title": "'Fast tech' warning as demand for cheap gadgets heats up",
             "link": "https://www.bbc.com/news/articles/cx20kd173z1o",
             "published": "Tue, 24 Jun 2025 23:02:05 GMT"
-        },
-        {
-            "title": "Judge backs AI firm over use of copyrighted books",
-            "link": "https://www.bbc.com/news/articles/c77vr00enzyo",
-            "published": "Wed, 25 Jun 2025 09:55:59 GMT"
         }
     ]
 }
