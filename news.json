@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "New Zealand-based Halter, which provides smart collars and geofencing software for the dairy industry, raised a $100M Series D led by Bond at a $1B valuation (Kritika Lamba/Reuters)",
+            "link": "http://www.techmeme.com/250626/p40#a250626p40",
+            "published": "Thu, 26 Jun 2025 18:50:02 -0400"
+        },
+        {
             "title": "A look at The Browser Company's AI-first browser Dia, which merges AI models and hides that complexity for end users, pointing to the future of web browsing (M.G. Siegler/Spyglass)",
             "link": "http://www.techmeme.com/250626/p39#a250626p39",
             "published": "Thu, 26 Jun 2025 18:00:35 -0400"
@@ -19,11 +24,6 @@
             "title": "Apple overhauls EU App Store to comply with DMA: developers can push offers and alt payments, and the Core Technology Fee will be swapped for tiered commission (Chance Miller/9to5Mac)",
             "link": "http://www.techmeme.com/250626/p36#a250626p36",
             "published": "Thu, 26 Jun 2025 15:45:00 -0400"
-        },
-        {
-            "title": "Sources: Uber is in talks with Travis Kalanick to help fund his acquisition of Pony.ai's US arm; Pony.ai has permits to operate robo taxis in the US and China (Mike Isaac/New York Times)",
-            "link": "http://www.techmeme.com/250626/p35#a250626p35",
-            "published": "Thu, 26 Jun 2025 15:26:26 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Tanner Martin Announces His Own Death",
             "link": "https://www.nytimes.com/2025/06/26/us/tanner-martin-dead-cancer-tiktok.html",
-            "published": "Thu, 26 Jun 2025 21:34:48 +0000"
+            "published": "Thu, 26 Jun 2025 22:51:57 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Should we be letting flies eat our food waste?",
+            "link": "https://www.bbc.com/news/articles/cz9y1l397vno",
+            "published": "Thu, 26 Jun 2025 23:10:12 GMT"
+        },
         {
             "title": "'Made in the USA' reference disappears from Trump phone listing",
             "link": "https://www.bbc.com/news/articles/cy4yv3pmmwjo",
@@ -73,11 +78,6 @@
             "title": "Three network phone calls down but data still working",
             "link": "https://www.bbc.com/news/articles/cdxlqeyw95no",
             "published": "Wed, 25 Jun 2025 11:15:35 GMT"
-        },
-        {
-            "title": "'Fast tech' warning as demand for cheap gadgets heats up",
-            "link": "https://www.bbc.com/news/articles/cx20kd173z1o",
-            "published": "Tue, 24 Jun 2025 23:02:05 GMT"
         }
     ]
 }
