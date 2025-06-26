@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Kraken launches Krak, a P2P payments app that lets users send funds across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies (Ian Allison/CoinDesk)",
+            "title": "Workers at Google, TikTok, Adobe, Dropbox, CrowdStrike, and other tech firms recount how managers used AI to justify firing them, speed up their work, and more (Brian Merchant/Blood in the Machine)",
+            "link": "http://www.techmeme.com/250626/p22#a250626p22",
+            "published": "Thu, 26 Jun 2025 09:55:02 -0400"
+        },
+        {
+            "title": "Kraken launches Krak, a payments app that lets users send funds P2P across 110 countries using 300+ assets, including crypto, stablecoins, and fiat currencies (Ian Allison/CoinDesk)",
             "link": "http://www.techmeme.com/250626/p21#a250626p21",
             "published": "Thu, 26 Jun 2025 09:30:00 -0400"
         },
@@ -11,22 +16,22 @@
             "published": "Thu, 26 Jun 2025 09:18:15 -0400"
         },
         {
-            "title": "Marc Benioff says \"AI is doing 30% to 50% of the work at Salesforce now\", including software engineering and customer service (Bloomberg)",
+            "title": "Marc Benioff says \"AI is doing 30% to 50% of the work at Salesforce\", like software engineering and customer service, and its AI product has hit ~93% accuracy (Bloomberg)",
             "link": "http://www.techmeme.com/250626/p19#a250626p19",
             "published": "Thu, 26 Jun 2025 09:10:05 -0400"
         },
         {
-            "title": "Sources: Apple execs discussed starting their own theatrical distribution unit; Warner Bros. is distributing the F1 movie and getting a share of the box office (Wall Street Journal)",
+            "title": "Sources: Apple execs have discussed starting a theatrical distribution unit; Warner Bros. is distributing the F1 movie and getting a share of box office revenue (Wall Street Journal)",
             "link": "http://www.techmeme.com/250626/p18#a250626p18",
             "published": "Thu, 26 Jun 2025 08:50:02 -0400"
-        },
-        {
-            "title": "Indonesia changes rules to require e-commerce platforms like TikTok Shop to withhold income tax from sellers, instead of asking sellers to pay the government (Grace Sihombing/Bloomberg)",
-            "link": "http://www.techmeme.com/250626/p17#a250626p17",
-            "published": "Thu, 26 Jun 2025 07:55:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "A.I. Is Starting to Wear Down Democracy",
+            "link": "https://www.nytimes.com/2025/06/26/technology/ai-elections-democracy.html",
+            "published": "Thu, 26 Jun 2025 09:00:31 +0000"
+        },
         {
             "title": "Takeaways From Hard Fork\u2019s Interview With OpenAI\u2019s Sam Altman",
             "link": "https://www.nytimes.com/2025/06/25/technology/hard-fork-sam-altman.html",
@@ -38,26 +43,21 @@
             "published": "Tue, 24 Jun 2025 17:09:36 +0000"
         },
         {
-            "title": "Media Matters Sues F.T.C. Over Advertising Investigation",
-            "link": "https://www.nytimes.com/2025/06/23/technology/media-matters-ftc-lawsuit.html",
-            "published": "Mon, 23 Jun 2025 19:48:45 +0000"
-        },
-        {
-            "title": "A.I. Is Starting to Wear Down Democracy",
-            "link": "https://www.nytimes.com/2025/06/26/technology/ai-elections-democracy.html",
-            "published": "Thu, 26 Jun 2025 09:00:31 +0000"
-        },
-        {
             "title": "Why Does Every Commercial for A.I. Think You\u2019re a Moron?",
             "link": "https://www.nytimes.com/2025/06/25/magazine/ai-commercials-ads-loneliness.html",
             "published": "Wed, 25 Jun 2025 09:01:09 +0000"
+        },
+        {
+            "title": "Four Astronauts Lift Off on Axiom Mission to the I.S.S.",
+            "link": "https://www.nytimes.com/2025/06/25/science/spacex-launch-axiom-mission-4-watch.html",
+            "published": "Wed, 25 Jun 2025 08:11:18 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Pornhub to introduce 'government approved' age checks in UK",
             "link": "https://www.bbc.com/news/articles/cr5v2lz5vl6o",
-            "published": "Thu, 26 Jun 2025 09:56:58 GMT"
+            "published": "Thu, 26 Jun 2025 13:39:14 GMT"
         },
         {
             "title": "Meta admits wrongly suspending Facebook Groups but denies wider problem",
