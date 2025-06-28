@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "As Reddit turns 20, a look at its AI efforts, including the Reddit Answers chatbot, while it battles unauthorized scraping of user data for AI training (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/250628/p15#a250628p15",
+            "published": "Sat, 28 Jun 2025 16:30:00 -0400"
+        },
+        {
             "title": "Hands-on with seven coding agents tasked with building a website: Claude Code performed best, OpenAI's Codex lacked polish, and Replit failed to build the site (Timothy B. Lee/Understanding AI)",
             "link": "http://www.techmeme.com/250628/p14#a250628p14",
             "published": "Sat, 28 Jun 2025 15:20:59 -0400"
@@ -19,11 +24,6 @@
             "title": "A profile of London-based CloudNC, a leading provider of AI-powered CNC software that is helping US manufacturers overcome a shortage of trained operators (Jeremy Kahn/Fortune)",
             "link": "http://www.techmeme.com/250628/p11#a250628p11",
             "published": "Sat, 28 Jun 2025 12:20:48 -0400"
-        },
-        {
-            "title": "The DOJ settles its lawsuit challenging HPE's $14B acquisition of Juniper; HPE must divest Instant On and license the source code for Juniper's Mist AI software (Rishabh Jaiswal/Reuters)",
-            "link": "http://www.techmeme.com/250628/p10#a250628p10",
-            "published": "Sat, 28 Jun 2025 11:10:00 -0400"
         }
     ],
     "source_1": [
