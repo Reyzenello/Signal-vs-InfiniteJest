@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The term \"context engineering\" is gaining traction over \"prompt engineering\" as it better describes the skill of providing LLMs with the necessary information (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/250627/p29#a250627p29",
+            "published": "Fri, 27 Jun 2025 21:45:02 -0400"
+        },
+        {
+            "title": "Indian digital payments company Pine Labs files for an IPO in India to raise up to ~$304M; source: Pine Labs is seeking a valuation of between $5B and $6B (Vivek Kumar M/Reuters)",
+            "link": "http://www.techmeme.com/250627/p28#a250627p28",
+            "published": "Fri, 27 Jun 2025 20:30:01 -0400"
+        },
+        {
             "title": "Anthropic tested Claude's ability to manage a physical \"storefront\" to mixed results, as the AI struggled with pricing strategy and inventory management (Ryan Daws/AI News)",
             "link": "http://www.techmeme.com/250627/p27#a250627p27",
             "published": "Fri, 27 Jun 2025 18:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "A group of 17 GOP governors write to Senate majority leader and House speaker urging for the state AI bill moratorium to be removed from the reconciliation bill (Ashley Gold/Axios)",
             "link": "http://www.techmeme.com/250627/p25#a250627p25",
             "published": "Fri, 27 Jun 2025 17:25:04 -0400"
-        },
-        {
-            "title": "Sources: OpenAI is not releasing an internal paper on AI stages as it may complicate OpenAI's ability to declare AGI and block Microsoft from its tech (Kylie Robison/Wired)",
-            "link": "http://www.techmeme.com/250627/p24#a250627p24",
-            "published": "Fri, 27 Jun 2025 16:30:02 -0400"
-        },
-        {
-            "title": "Source: OpenAI recently began renting Google's TPUs to power ChatGPT, marking its first significant use of non-Nvidia chips; Meta also considered using TPUs (The Information)",
-            "link": "http://www.techmeme.com/250627/p23#a250627p23",
-            "published": "Fri, 27 Jun 2025 16:25:01 -0400"
         }
     ],
     "source_1": [
