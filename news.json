@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Spinwheel, which helps fintech companies and banks authenticate users, automate data retrieval, and facilitate payments, raised a $30M Series A led by F-Prime (Ryan Lawler/Axios)",
+            "link": "http://www.techmeme.com/250629/p23#a250629p23",
+            "published": "Sun, 29 Jun 2025 19:10:44 -0400"
+        },
+        {
+            "title": "Kuo expects Apple to mass produce a Vision Pro with M5 in Q3 2025, a Vision Air in Q3 2027, a Vision Pro with a new design and XR glasses in H2 2028, and more (Marcus Mendes/9to5Mac)",
+            "link": "http://www.techmeme.com/250629/p22#a250629p22",
+            "published": "Sun, 29 Jun 2025 19:05:01 -0400"
+        },
+        {
+            "title": "Sources: Menlo Ventures targets ~$1.5B for new funds to invest in AI ventures, including $650M for early-stage startups, and $850M for later-stage companies (Yuliya Chernova/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250629/p21#a250629p21",
+            "published": "Sun, 29 Jun 2025 18:35:00 -0400"
+        },
+        {
             "title": "Winnipeg-based Conquest Planning, which uses AI to help financial advisors and other clients make decisions, raised an $80M Series B led by Goldman Sachs (Jon Fingas/BetaKit)",
             "link": "http://www.techmeme.com/250629/p20#a250629p20",
             "published": "Sun, 29 Jun 2025 16:35:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Memo: OpenAI's Mark Chen responds to Meta offers, says it feels like \"someone has broken into our home and stolen something\" and OpenAI is \"recalibrating comp\" (Zo\u00eb Schiffer/Wired)",
             "link": "http://www.techmeme.com/250629/p19#a250629p19",
             "published": "Sun, 29 Jun 2025 15:26:23 -0400"
-        },
-        {
-            "title": "The F1 movie gives Apple its first box office hit, opening to $144M worldwide and $55.6M in the US; it was pushed on Apple Music, Podcasts, Fitness+, and Wallet (Anthony D'Alessandro/Deadline)",
-            "link": "http://www.techmeme.com/250629/p18#a250629p18",
-            "published": "Sun, 29 Jun 2025 14:45:01 -0400"
-        },
-        {
-            "title": "Elon Musk calls the Senate tax bill \"utterly insane\" as it raises taxes on nuclear and geothermal energy and battery storage, which are crucial for AI training (Noah Smith/Noahpinion)",
-            "link": "http://www.techmeme.com/250629/p17#a250629p17",
-            "published": "Sun, 29 Jun 2025 13:55:32 -0400"
-        },
-        {
-            "title": "Baidu plans to open-source its Ernie LLM on June 30; some say this could cement China's AI leadership, while others doubt it will be a \"DeepSeek moment\" (Kevin Williams/CNBC)",
-            "link": "http://www.techmeme.com/250629/p16#a250629p16",
-            "published": "Sun, 29 Jun 2025 13:15:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Trump says he has 'a group of very wealthy people' to buy TikTok",
+            "link": "https://www.bbc.com/news/articles/c20nqdl5ydjo",
+            "published": "Sun, 29 Jun 2025 18:52:21 GMT"
+        },
+        {
             "title": "Should we be letting flies eat our food waste?",
             "link": "https://www.bbc.com/news/articles/cz9y1l397vno",
             "published": "Thu, 26 Jun 2025 23:10:12 GMT"
@@ -73,11 +78,6 @@
             "title": "Meta admits wrongly suspending Facebook Groups but denies wider problem",
             "link": "https://www.bbc.com/news/articles/c3r9nwgvwy3o",
             "published": "Thu, 26 Jun 2025 13:24:59 GMT"
-        },
-        {
-            "title": "Three network phone calls down but data still working",
-            "link": "https://www.bbc.com/news/articles/cdxlqeyw95no",
-            "published": "Wed, 25 Jun 2025 11:15:35 GMT"
         }
     ]
 }
