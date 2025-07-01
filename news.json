@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sam Altman said in a memo to staff, \"missionaries will beat mercenaries\" and \"I believe there is much, much more upside to OpenAI stock than Meta stock\" (Zo\u00eb Schiffer/Wired)",
+            "link": "http://www.techmeme.com/250701/p19#a250701p19",
+            "published": "Tue, 01 Jul 2025 14:08:11 -0400"
+        },
+        {
             "title": "AT&T launches Account Lock to protect wireless users against SIM swapping attacks, following similar features from T-Mobile, Verizon, and Google Fi (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/250701/p18#a250701p18",
             "published": "Tue, 01 Jul 2025 13:20:00 -0400"
@@ -19,18 +24,13 @@
             "title": "Sources: data labeling company Surge AI aims to raise up to $1B, targeting a $15B+ valuation; Surge AI had $1B+ in 2024 revenue, vs. Scale AI's reported $870M (Reuters)",
             "link": "http://www.techmeme.com/250701/p15#a250701p15",
             "published": "Tue, 01 Jul 2025 11:45:01 -0400"
-        },
-        {
-            "title": "CoinMarketCap: bitcoin's share of crypto market value grew to 64% in 2025, the highest since January 2021, and altcoins lost $300B+, as investors buy BTC ETFs (Bloomberg)",
-            "link": "http://www.techmeme.com/250701/p14#a250701p14",
-            "published": "Tue, 01 Jul 2025 11:30:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Defeat of a 10-Year Ban on State A.I. Laws Is a Blow to Tech Industry",
+            "title": "Senate Votes to Allow State A.I. Laws, a Blow to Tech Companies",
             "link": "https://www.nytimes.com/2025/07/01/us/politics/state-ai-laws.html",
-            "published": "Tue, 01 Jul 2025 14:33:19 +0000"
+            "published": "Tue, 01 Jul 2025 14:33:20 +0000"
         },
         {
             "title": "Cloudflare Introduces Blocking of A.I. Scrapers By Default",
