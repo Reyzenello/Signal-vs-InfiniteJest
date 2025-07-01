@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "Filing: Apple sues Di Liu, a former senior product designer who worked on the Vision Pro, for allegedly stealing trade secrets and taking them to Snap (Ethan Baron/SiliconValley.com)",
+            "link": "http://www.techmeme.com/250701/p8#a250701p8",
+            "published": "Tue, 01 Jul 2025 08:10:02 -0400"
+        },
+        {
             "title": "Huawei open sources its 7B and 72B Pangu AI models, and some of its model reasoning tech, to incentivize the use of Huawei products like its Ascend AI chips (Dylan Butts/CNBC)",
             "link": "http://www.techmeme.com/250701/p7#a250701p7",
             "published": "Tue, 01 Jul 2025 07:05:02 -0400"
         },
         {
-            "title": "Cloudflare launches Pay per Crawl, a marketplace letting sites charge AI crawlers per crawl; new sites set up with Cloudflare will block AI crawlers by default (Maxwell Zeff/TechCrunch)",
+            "title": "Cloudflare debuts \"Pay per Crawl\", a marketplace that lets sites charge AI crawlers per crawl; new sites using Cloudflare will now block AI crawlers by default (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250701/p6#a250701p6",
             "published": "Tue, 01 Jul 2025 06:20:02 -0400"
         },
@@ -19,14 +24,14 @@
             "title": "Morgan Stanley says xAI raised $5B of equity in addition to $5B in debt; the company raised $6B in December from a16z and others (Miles Kruppa/The Information)",
             "link": "http://www.techmeme.com/250701/p4#a250701p4",
             "published": "Tue, 01 Jul 2025 05:05:01 -0400"
-        },
-        {
-            "title": "The Senate votes 99-1 to remove a Trump tax bill provision that would have barred states from regulating AI if they got funding from a $500M broadband program (Bloomberg)",
-            "link": "http://www.techmeme.com/250701/p3#a250701p3",
-            "published": "Tue, 01 Jul 2025 04:51:35 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Cloudflare Introduces Blocking of A.I. Scrapers By Default",
+            "link": "https://www.nytimes.com/2025/07/01/technology/cloudflare-introduces-default-blocking-of-ai-data-scrapers.html",
+            "published": "Tue, 01 Jul 2025 10:00:12 +0000"
+        },
         {
             "title": "How Do You Teach Computer Science in the A.I. Era?",
             "link": "https://www.nytimes.com/2025/06/30/technology/computer-science-education-ai.html",
@@ -43,14 +48,9 @@
             "published": "Mon, 30 Jun 2025 12:44:07 +0000"
         },
         {
-            "title": "Mark Zuckerberg and Priscilla Chan Narrow CZI\u2019s Focus to Science Efforts",
-            "link": "https://www.nytimes.com/2025/06/28/technology/mark-zuckerberg-priscilla-chan-czi.html",
-            "published": "Sat, 28 Jun 2025 09:00:43 +0000"
-        },
-        {
-            "title": "Cloudflare Introduces Blocking of A.I. Scrapers By Default",
-            "link": "https://www.nytimes.com/2025/07/01/technology/cloudflare-introduces-default-blocking-of-ai-data-scrapers.html",
-            "published": "Tue, 01 Jul 2025 10:00:12 +0000"
+            "title": "China Bans Some Portable Batteries From Flights as Safety Concerns Grow",
+            "link": "https://www.nytimes.com/2025/07/01/world/asia/china-portable-battery-ban-planes.html",
+            "published": "Tue, 01 Jul 2025 10:00:05 +0000"
         }
     ],
     "source_2": [
