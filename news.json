@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Cloudflare launches Pay per Crawl, a marketplace letting sites charge AI crawlers per crawl; new sites set up with Cloudflare will block AI crawlers by default (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250701/p6#a250701p6",
+            "published": "Tue, 01 Jul 2025 06:20:02 -0400"
+        },
+        {
+            "title": "Google warns that the DMA is hampering innovation for EU users, asks regulators for more detailed guidance and critics to provide evidence to prove their case (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/250701/p5#a250701p5",
+            "published": "Tue, 01 Jul 2025 05:45:01 -0400"
+        },
+        {
             "title": "Morgan Stanley says xAI raised $5B of equity in addition to $5B in debt; the company raised $6B in December from a16z and others (Miles Kruppa/The Information)",
             "link": "http://www.techmeme.com/250701/p4#a250701p4",
             "published": "Tue, 01 Jul 2025 05:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "An interview with Claude AI product lead Scott White on Claude Code writing 90% of its own code, MCP, coding being accessible to non-technical workers, and more (Michael Nu\u00f1ez/VentureBeat)",
             "link": "http://www.techmeme.com/250701/p2#a250701p2",
             "published": "Tue, 01 Jul 2025 02:25:01 -0400"
-        },
-        {
-            "title": "Q&A with Matt Mullenweg on licensing deals with AI companies, putting Tumblr's backend migration to WordPress \"on hold\", fediverse, content moderation, and more (Nilay Patel/The Verge)",
-            "link": "http://www.techmeme.com/250701/p1#a250701p1",
-            "published": "Tue, 01 Jul 2025 00:45:04 -0400"
-        },
-        {
-            "title": "Amazon says it has deployed over 1M robots in its warehouses, its most ever and close to its human workforce, with 75% of global deliveries aided by robotics (Sebastian Herrera/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250630/p38#a250630p38",
-            "published": "Mon, 30 Jun 2025 22:25:03 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Sat, 28 Jun 2025 09:00:43 +0000"
         },
         {
-            "title": "He Made Billions on Google and PayPal. Now, He\u2019s Betting on News.",
-            "link": "https://www.nytimes.com/2025/06/30/business/media/michael-moritz-san-francisco-standard-charter.html",
-            "published": "Mon, 30 Jun 2025 18:06:22 +0000"
+            "title": "Cloudflare Introduces Blocking of A.I. Scrapers By Default",
+            "link": "https://www.nytimes.com/2025/07/01/technology/cloudflare-introduces-default-blocking-of-ai-data-scrapers.html",
+            "published": "Tue, 01 Jul 2025 10:00:12 +0000"
         }
     ],
     "source_2": [
