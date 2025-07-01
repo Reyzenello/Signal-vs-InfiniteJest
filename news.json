@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Levelpath, which provides AI-powered enterprise procurement services, raised a $55M Series B led by Battery Ventures, bringing its total funding to $100M (Marina Temkin/TechCrunch)",
+            "title": "Amazon says it has deployed over 1M robots in its warehouses, its most ever and close to its human workforce, with 75% of global deliveries aided by robotics (Sebastian Herrera/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250630/p38#a250630p38",
+            "published": "Mon, 30 Jun 2025 22:25:03 -0400"
+        },
+        {
+            "title": "After criticism, Sen. Blackburn backs off her own AI compromise for the tax bill, saying \"we can't block states from making laws that protect their citizens\" (Kate Knibbs/Wired)",
+            "link": "http://www.techmeme.com/250630/p37#a250630p37",
+            "published": "Mon, 30 Jun 2025 21:50:01 -0400"
+        },
+        {
+            "title": "Investigation: three US Treasury hacks in the past five years were due to a failure to deploy basic security measures, as DOGE cuts further weaken the agency (Bloomberg)",
+            "link": "http://www.techmeme.com/250630/p36#a250630p36",
+            "published": "Mon, 30 Jun 2025 19:45:03 -0400"
+        },
+        {
+            "title": "Levelpath, which offers AI-powered procurement software for enterprises, raised a $55M Series B led by Battery Ventures, bringing its total funding to $100M (Marina Temkin/TechCrunch)",
             "link": "http://www.techmeme.com/250630/p35#a250630p35",
             "published": "Mon, 30 Jun 2025 18:50:00 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "US chipmaker Wolfspeed files for Chapter 11 to enact a creditor-backed plan to slash $4.6B in debt; it expects to emerge out of bankruptcy by the end of Q3 (Bloomberg)",
             "link": "http://www.techmeme.com/250630/p34#a250630p34",
             "published": "Mon, 30 Jun 2025 18:20:12 -0400"
-        },
-        {
-            "title": "Circle applies for a US national trust bank license, which would let it act as a custodian for its own reserves and hold crypto for its institutional clients (Hannah Lang/Reuters)",
-            "link": "http://www.techmeme.com/250630/p33#a250630p33",
-            "published": "Mon, 30 Jun 2025 18:00:35 -0400"
-        },
-        {
-            "title": "Rapid7 finds eight vulnerabilities, including one remotely-exploitable flaw that cannot be fixed via firmware patch, affecting 689 models of Brother printers (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250630/p32#a250630p32",
-            "published": "Mon, 30 Jun 2025 17:25:13 -0400"
-        },
-        {
-            "title": "Canada-based Clio, which makes cloud tools for law firms, agrees to acquire vLex, which offers a legal and regulatory database and an AI assistant, for $1B (Alex Riehl/BetaKit)",
-            "link": "http://www.techmeme.com/250630/p31#a250630p31",
-            "published": "Mon, 30 Jun 2025 17:10:01 -0400"
         }
     ],
     "source_1": [
