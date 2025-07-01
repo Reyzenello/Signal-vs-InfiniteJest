@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "American Bitcoin, a bitcoin mining and holding company backed by Eric Trump and Donald Trump Jr. and a subsidiary of publicly-traded Hut 8, raised $220M (Ben Weiss/Fortune)",
+            "link": "http://www.techmeme.com/250701/p13#a250701p13",
+            "published": "Tue, 01 Jul 2025 11:20:01 -0400"
+        },
+        {
+            "title": "AI researcher salaries are steadily rising, with total pay packages of $500K to $2M at Big Tech for mid to senior level staffers, up from $400K to $900K in 2022 (Financial Times)",
+            "link": "http://www.techmeme.com/250701/p12#a250701p12",
+            "published": "Tue, 01 Jul 2025 10:40:01 -0400"
+        },
+        {
             "title": "Trump says \"We might have to put DOGE on Elon\", \"DOGE is the monster that might have to go back and eat Elon\", and \"We'll have to take a look\" at deporting Musk (Avery Lotz/Axios)",
             "link": "http://www.techmeme.com/250701/p11#a250701p11",
             "published": "Tue, 01 Jul 2025 10:20:01 -0400"
@@ -14,19 +24,14 @@
             "title": "Genesis AI, which generates synthetic data for training an AI model meant to power robots, emerges from stealth with a $105M seed co-led by Eclipse and Khosla (Marina Temkin/TechCrunch)",
             "link": "http://www.techmeme.com/250701/p9#a250701p9",
             "published": "Tue, 01 Jul 2025 09:15:02 -0400"
-        },
-        {
-            "title": "Filing: Apple sues Di Liu, a former senior product designer for the Vision Pro, for allegedly stealing a \"massive volume\" of its trade secrets to take to Snap (Ethan Baron/SiliconValley.com)",
-            "link": "http://www.techmeme.com/250701/p8#a250701p8",
-            "published": "Tue, 01 Jul 2025 08:10:02 -0400"
-        },
-        {
-            "title": "Huawei open sources its 7B and 72B Pangu AI models and some of its model reasoning tech to incentivize the use of its other products, like its Ascend AI chips (Dylan Butts/CNBC)",
-            "link": "http://www.techmeme.com/250701/p7#a250701p7",
-            "published": "Tue, 01 Jul 2025 07:05:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Defeat of a 10-Year Ban on State A.I. Laws Is a Blow to Tech Industry",
+            "link": "https://www.nytimes.com/2025/07/01/us/politics/state-ai-laws.html",
+            "published": "Tue, 01 Jul 2025 14:33:19 +0000"
+        },
         {
             "title": "Cloudflare Introduces Blocking of A.I. Scrapers By Default",
             "link": "https://www.nytimes.com/2025/07/01/technology/cloudflare-ai-data.html",
@@ -43,11 +48,6 @@
             "published": "Mon, 30 Jun 2025 09:03:10 +0000"
         },
         {
-            "title": "Trump Wants America to Make iPhones. Here\u2019s How India Is Doing It.",
-            "link": "https://www.nytimes.com/2025/06/30/business/apple-foxconn-india.html",
-            "published": "Mon, 30 Jun 2025 12:44:07 +0000"
-        },
-        {
             "title": "China Bans Some Portable Batteries From Flights as Safety Concerns Grow",
             "link": "https://www.nytimes.com/2025/07/01/world/asia/china-portable-battery-ban-planes.html",
             "published": "Tue, 01 Jul 2025 10:00:05 +0000"
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "Millions of websites to get 'game-changing' AI bot blocker",
+            "link": "https://www.bbc.com/news/articles/cvg885p923jo",
+            "published": "Tue, 01 Jul 2025 15:15:29 GMT"
+        },
+        {
             "title": "Musk's X appoints 'king of virality' in bid to draw in younger users",
             "link": "https://www.bbc.com/news/articles/c78nnxv3lppo",
-            "published": "Tue, 01 Jul 2025 13:09:46 GMT"
+            "published": "Tue, 01 Jul 2025 14:42:37 GMT"
         },
         {
             "title": "Tech firms face demands to stop illegal content going viral",
@@ -73,11 +78,6 @@
             "title": "Trump says he has 'a group of very wealthy people' to buy TikTok",
             "link": "https://www.bbc.com/news/articles/c20nqdl5ydjo",
             "published": "Sun, 29 Jun 2025 18:52:21 GMT"
-        },
-        {
-            "title": "Should we be letting flies eat our food waste?",
-            "link": "https://www.bbc.com/news/articles/cz9y1l397vno",
-            "published": "Thu, 26 Jun 2025 23:10:12 GMT"
         }
     ]
 }
