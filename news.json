@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the FTC has opened an in-depth investigation of SoftBank's $6.5B acquisition of Ampere, which could take a year or more to conclude (Bloomberg Law)",
+            "link": "http://www.techmeme.com/250701/p28#a250701p28",
+            "published": "Tue, 01 Jul 2025 21:35:02 -0400"
+        },
+        {
             "title": "Ambrook, a startup providing specialized accounting software for US farmers and ranchers, raised a $26.1M Series A led by Thrive Capital and Figma's Dylan Field (Allie Garfinkle/Fortune)",
             "link": "http://www.techmeme.com/250701/p27#a250701p27",
             "published": "Tue, 01 Jul 2025 19:20:00 -0400"
@@ -19,11 +24,6 @@
             "title": "Nothing unveils the $799 Phone 3, with a 6.7\" AMOLED display, Snapdragon 8s Gen 4 chip, three 50MP rear cameras, and the $299 Headphone 1, both shipping July 15 (Bloomberg)",
             "link": "http://www.techmeme.com/250701/p24#a250701p24",
             "published": "Tue, 01 Jul 2025 17:10:00 -0400"
-        },
-        {
-            "title": "X will start to publish Community Notes written by AI agents; developers will soon be able to submit their own \"fact-checking\" AI agents for review (Kurt Wagner/Bloomberg)",
-            "link": "http://www.techmeme.com/250701/p23#a250701p23",
-            "published": "Tue, 01 Jul 2025 16:25:05 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Qantas data breach exposes up to six million customer profiles",
+            "link": "https://www.bbc.com/news/articles/cd6gnyl9923o",
+            "published": "Wed, 02 Jul 2025 01:34:59 GMT"
+        },
+        {
             "title": "Millions of websites to get 'game-changing' AI bot blocker",
             "link": "https://www.bbc.com/news/articles/cvg885p923jo",
             "published": "Tue, 01 Jul 2025 15:15:29 GMT"
@@ -70,14 +75,9 @@
             "published": "Mon, 30 Jun 2025 16:21:31 GMT"
         },
         {
-            "title": "Watch: Humanoid robots stumble through football match in China",
-            "link": "https://www.bbc.com/news/videos/c5ylkyrkjnzo",
-            "published": "Mon, 30 Jun 2025 05:03:01 GMT"
-        },
-        {
-            "title": "Trump says he has 'a group of very wealthy people' to buy TikTok",
-            "link": "https://www.bbc.com/news/articles/c20nqdl5ydjo",
-            "published": "Sun, 29 Jun 2025 18:52:21 GMT"
+            "title": "Singapore police can now seize bank accounts to stop scams",
+            "link": "https://www.bbc.com/news/articles/c2k1148dwdwo",
+            "published": "Tue, 01 Jul 2025 07:08:17 GMT"
         }
     ]
 }
