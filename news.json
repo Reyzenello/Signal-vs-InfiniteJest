@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Tax credits for Intel, TSMC, and other chip companies under the Big Beautiful Bill rise from 25% to 35% if they expand their manufacturing in the US before 2026 (Dylan Butts/CNBC)",
+            "title": "Berlin-based Talon.One, which provides software for brands to run personalized promotions and loyalty schemes, raised $135M (Freya Pratty/Sifted)",
+            "link": "http://www.techmeme.com/250702/p17#a250702p17",
+            "published": "Wed, 02 Jul 2025 11:15:47 -0400"
+        },
+        {
+            "title": "Tax credits for Intel, TSMC, and other chip companies under the Big Beautiful Bill would rise from 25% to 35% if they expand their US manufacturing before 2026 (Dylan Butts/CNBC)",
             "link": "http://www.techmeme.com/250702/p16#a250702p16",
             "published": "Wed, 02 Jul 2025 10:10:00 -0400"
         },
         {
-            "title": "Source: Microsoft plans to lay off ~9,000 employees, or less than 4% of its global workforce, across teams and role types, after cutting ~6,000 jobs in May (Jordan Novet/CNBC)",
+            "title": "Source: Microsoft plans to lay off ~9,000 employees, or less than 4% of its workforce, across teams and role types, after cutting ~6,000 in May and 300+ in June (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/250702/p15#a250702p15",
             "published": "Wed, 02 Jul 2025 09:15:46 -0400"
         },
@@ -16,14 +21,9 @@
             "published": "Wed, 02 Jul 2025 08:45:41 -0400"
         },
         {
-            "title": "A report finds Google undercounted its carbon emissions, which rose 65% from 2019 to 2024, not 51% as claimed; biggest yearly jump was 26% between 2023 and 2024 (Johana Bhuiyan/The Guardian)",
+            "title": "A report finds Google undercounted its carbon emissions, which rose 65% from 2019 to 2024, not 51% as claimed; the largest YoY jump was 26%, from 2023 to 2024 (Johana Bhuiyan/The Guardian)",
             "link": "http://www.techmeme.com/250702/p13#a250702p13",
             "published": "Wed, 02 Jul 2025 08:10:01 -0400"
-        },
-        {
-            "title": "Sources: Apple supplier Luxshare is working with China International, Citic, and Goldman Sachs on its Hong Kong IPO for as soon as 2025, aiming to raise $1B+ (Bloomberg)",
-            "link": "http://www.techmeme.com/250702/p12#a250702p12",
-            "published": "Wed, 02 Jul 2025 07:25:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 30 Jun 2025 09:03:10 +0000"
         },
         {
-            "title": "Tesla Sales Fall as Elon Musk Focuses on Self-Driving Cars",
-            "link": "https://www.nytimes.com/2025/07/02/business/tesla-sales-elon-musk.html",
-            "published": "Wed, 02 Jul 2025 13:42:58 +0000"
+            "title": "Scientist Use A.I. To Mimic the Mind, Warts and All",
+            "link": "https://www.nytimes.com/2025/07/02/science/ai-psychology-mind.html",
+            "published": "Wed, 02 Jul 2025 15:00:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Tesla deliveries fall for second quarter in a row",
+            "link": "https://www.bbc.com/news/articles/ckgdydzxe6go",
+            "published": "Wed, 02 Jul 2025 14:30:49 GMT"
+        },
         {
             "title": "Qantas data breach exposes up to six million customer profiles",
             "link": "https://www.bbc.com/news/articles/cd6gnyl9923o",
@@ -73,11 +78,6 @@
             "title": "Tech firms face demands to stop illegal content going viral",
             "link": "https://www.bbc.com/news/articles/cgrxxyy2v1jo",
             "published": "Mon, 30 Jun 2025 16:21:31 GMT"
-        },
-        {
-            "title": "Singapore police can now seize bank accounts to stop scams",
-            "link": "https://www.bbc.com/news/articles/c2k1148dwdwo",
-            "published": "Tue, 01 Jul 2025 07:08:17 GMT"
         }
     ]
 }
