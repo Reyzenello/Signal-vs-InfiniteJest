@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Siemens says it has restored full access to its chip design software for its Chinese clients after the Trump admin lifted export curbs, initially imposed in May (Mackenzie Hawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/250702/p31#a250702p31",
+            "published": "Wed, 02 Jul 2025 21:50:00 -0400"
+        },
+        {
+            "title": "Datadog is joining the S&P 500, replacing Juniper Networks after HPE acquired Juniper, before trading on July 9; DDOG jumps 10%+ after hours (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/250702/p30#a250702p30",
+            "published": "Wed, 02 Jul 2025 21:10:01 -0400"
+        },
+        {
+            "title": "xAI has been granted a permit to operate 15 gas turbines at its Memphis campus until 2027, despite protests and a potential NAACP lawsuit over air pollution (Molly Taft/Wired)",
+            "link": "http://www.techmeme.com/250702/p29#a250702p29",
+            "published": "Wed, 02 Jul 2025 20:35:02 -0400"
+        },
+        {
             "title": "OpenAI says the tokenized OpenAI shares Robinhood has started offering are not equity: \"We did not partner with Robinhood...and do not endorse it\" (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250702/p28#a250702p28",
             "published": "Wed, 02 Jul 2025 17:05:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Ripple has applied for a national banking license, which would place Ripple's dollar-backed stablecoin, RLUSD, under the US OCC's regulatory remit (Vicky Ge Huang/Wall Street Journal)",
             "link": "http://www.techmeme.com/250702/p27#a250702p27",
             "published": "Wed, 02 Jul 2025 16:40:01 -0400"
-        },
-        {
-            "title": "Microsoft cuts hundreds of Xbox jobs across studios, sources say including Halo Studios and King, and cancels games like Perfect Dark and Everwild (Eddie Makuch/GameSpot)",
-            "link": "http://www.techmeme.com/250702/p26#a250702p26",
-            "published": "Wed, 02 Jul 2025 16:25:03 -0400"
-        },
-        {
-            "title": "Sources: Netflix has held talks with Spotify about partnering on projects such as a music awards show, as it adds content that was core to the cable bundle (Jessica Toonkel/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250702/p25#a250702p25",
-            "published": "Wed, 02 Jul 2025 16:15:01 -0400"
-        },
-        {
-            "title": "Sources: OpenAI will rent additional computing power from Oracle, totaling about 4.5 gigawatts of US data center power, as part of its Stargate initiative (Bloomberg)",
-            "link": "http://www.techmeme.com/250702/p24#a250702p24",
-            "published": "Wed, 02 Jul 2025 15:20:07 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Wed, 02 Jul 2025 23:13:37 GMT"
         },
         {
+            "title": "Microsoft to cut up to 9,000 jobs as it invests in AI",
+            "link": "https://www.bbc.com/news/articles/cdxl0w1w394o",
+            "published": "Wed, 02 Jul 2025 23:49:18 GMT"
+        },
+        {
             "title": "Tesla deliveries fall for second quarter in a row",
             "link": "https://www.bbc.com/news/articles/ckgdydzxe6go",
             "published": "Wed, 02 Jul 2025 14:30:49 GMT"
@@ -73,11 +78,6 @@
             "title": "Millions of websites to get 'game-changing' AI bot blocker",
             "link": "https://www.bbc.com/news/articles/cvg885p923jo",
             "published": "Tue, 01 Jul 2025 15:15:29 GMT"
-        },
-        {
-            "title": "Musk's X appoints 'king of virality' in bid to draw in younger users",
-            "link": "https://www.bbc.com/news/articles/c78nnxv3lppo",
-            "published": "Tue, 01 Jul 2025 14:42:37 GMT"
         }
     ]
 }
