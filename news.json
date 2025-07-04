@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the US plans to restrict shipments of AI chips to Malaysia and Thailand, as part of an effort to crack down on suspected chip smuggling into China (Mackenzie Hawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/250704/p7#a250704p7",
+            "published": "Fri, 04 Jul 2025 10:25:01 -0400"
+        },
+        {
             "title": "Sources: Google plans to propose a price comparison box at the top of search results in EU, featuring ranked options from competitors, to avoid DMA fines (Gian Volpicelli/Bloomberg)",
             "link": "http://www.techmeme.com/250704/p6#a250704p6",
             "published": "Fri, 04 Jul 2025 09:25:01 -0400"
@@ -19,11 +24,6 @@
             "title": "As companies like SpaceX, Stripe, and OpenAI stay private longer, tokenized stocks on blockchains offer a way for the public to access lucrative private markets (Matt Levine/Bloomberg)",
             "link": "http://www.techmeme.com/250704/p3#a250704p3",
             "published": "Fri, 04 Jul 2025 05:40:04 -0400"
-        },
-        {
-            "title": "A look at Scattered Spider, a group of mainly young UK and US hackers using targeted social engineering to gain access to company systems and install ransomware (Wired)",
-            "link": "http://www.techmeme.com/250704/p2#a250704p2",
-            "published": "Fri, 04 Jul 2025 02:25:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Minister tells Turing AI institute to focus on defence",
+            "link": "https://www.bbc.com/news/articles/cy7nppe5gkgo",
+            "published": "Fri, 04 Jul 2025 13:59:56 GMT"
+        },
+        {
             "title": "AI claims and a hoax spokesman: Viral band confuses the world of music",
             "link": "https://www.bbc.com/news/articles/cp8mjnn7eqno",
             "published": "Thu, 03 Jul 2025 23:07:54 GMT"
@@ -73,11 +78,6 @@
             "title": "Tesla deliveries fall for second quarter in a row",
             "link": "https://www.bbc.com/news/articles/ckgdydzxe6go",
             "published": "Wed, 02 Jul 2025 14:30:49 GMT"
-        },
-        {
-            "title": "Qantas data breach exposes up to six million customer profiles",
-            "link": "https://www.bbc.com/news/articles/cd6gnyl9923o",
-            "published": "Wed, 02 Jul 2025 04:12:21 GMT"
         }
     ]
 }
