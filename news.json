@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Huawei's AI lab refutes accusations that its Pangu Pro MoE model source code used uncredited material from rivals, after a GitHub group accused it of copying (Bloomberg)",
+            "title": "Stat Counter: Windows 11 had a 50.9% share of the Windows market on July 4, ahead of Windows 10's 46.2%; the OS, released in 2021, only had a <10% share in 2022 (Zac Bowden/Windows Central)",
+            "link": "http://www.techmeme.com/250707/p10#a250707p10",
+            "published": "Mon, 07 Jul 2025 07:45:02 -0400"
+        },
+        {
+            "title": "Huawei's AI lab refutes accusations that its Pangu Pro MoE model source code used uncredited material from key rivals, after a GitHub group debated its origins (Bloomberg)",
             "link": "http://www.techmeme.com/250707/p9#a250707p9",
             "published": "Mon, 07 Jul 2025 07:20:01 -0400"
         },
         {
-            "title": "Experts say ransomware group DragonForce, which targeted M&S, Harrods, and the Co-op, started a turf war with rival RansomHub, potentially bringing more hacks (Kieran Smith/Financial Times)",
+            "title": "Experts say ransomware group DragonForce, which targeted M&S, Harrods, and the Co-op, started a turf war with rival RansomHub that may bring more company hacks (Kieran Smith/Financial Times)",
             "link": "http://www.techmeme.com/250707/p8#a250707p8",
             "published": "Mon, 07 Jul 2025 06:40:01 -0400"
         },
         {
-            "title": "An analysis of Crunchbase and PitchBook data shows that in 2025 so far at least 36 tech startups hit a $1B+ valuation, including seven in June and six in May (Dominic-Madori Davis/TechCrunch)",
+            "title": "An analysis of Crunchbase and PitchBook data: in 2025 so far, 36+ tech startups hit a $1B+ valuation, including seven in June, six in May, and four in April (Dominic-Madori Davis/TechCrunch)",
             "link": "http://www.techmeme.com/250707/p7#a250707p7",
             "published": "Mon, 07 Jul 2025 05:35:10 -0400"
         },
         {
-            "title": "Apple says it is appealing the EU's \u20ac500M DMA fine, levied in April 2025 over App Store steering rules, and claims it goes \"far beyond what the law requires\" (Juli Clover/MacRumors)",
+            "title": "Apple appeals the EU's \u20ac500M DMA fine, levied in April 2025 over its App Store steering rules, claiming the decision goes \"far beyond what the law requires\" (Juli Clover/MacRumors)",
             "link": "http://www.techmeme.com/250707/p6#a250707p6",
             "published": "Mon, 07 Jul 2025 05:10:01 -0400"
-        },
-        {
-            "title": "France's Capgemini plans to acquire US-listed IT outsourcing company WNS for $3.3B in cash, seeking to boost its agentic AI services; WNS serves 600+ clients (Bloomberg)",
-            "link": "http://www.techmeme.com/250707/p5#a250707p5",
-            "published": "Mon, 07 Jul 2025 05:00:44 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple hits back against 'unprecedented' \u20ac500m EU fine",
+            "link": "https://www.bbc.com/news/articles/cpvjdm4mp92o",
+            "published": "Mon, 07 Jul 2025 12:21:02 GMT"
+        },
+        {
             "title": "Minister tells Turing AI institute to focus on defence",
             "link": "https://www.bbc.com/news/articles/cy7nppe5gkgo",
             "published": "Fri, 04 Jul 2025 13:59:56 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft to cut up to 9,000 more jobs as it invests in AI",
             "link": "https://www.bbc.com/news/articles/cdxl0w1w394o",
             "published": "Thu, 03 Jul 2025 11:28:48 GMT"
-        },
-        {
-            "title": "Tesla deliveries fall for second quarter in a row",
-            "link": "https://www.bbc.com/news/articles/ckgdydzxe6go",
-            "published": "Wed, 02 Jul 2025 14:30:49 GMT"
         }
     ]
 }
