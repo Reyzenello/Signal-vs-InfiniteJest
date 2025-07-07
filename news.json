@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Ruoming Pang, head of the foundation models team at Apple, is leaving to join Meta, which offered a package worth tens of millions of dollars per year (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250707/p19#a250707p19",
+            "published": "Mon, 07 Jul 2025 18:05:02 -0400"
+        },
+        {
             "title": "A look at various responses to AI firms' scraping, like open source Anubis that uses cryptographic JavaScript challenges, Cloudflare's \"link mazes\", and more (Emanuel Maiberg/404 Media)",
             "link": "http://www.techmeme.com/250707/p18#a250707p18",
             "published": "Mon, 07 Jul 2025 17:20:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Jack Dorsey shares TestFlight and GitHub links to his \"weekend project\", Bitchat, a decentralized P2P messaging iOS app that relies on Bluetooth mesh networks (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250707/p15#a250707p15",
             "published": "Mon, 07 Jul 2025 13:25:03 -0400"
-        },
-        {
-            "title": "Trump announces 25% tariffs on Japan, South Korea, and Malaysia, 32% for Indonesia, 36% for Cambodia and Thailand, 40% for Laos and Myanmar, starting August 1 (Kevin Breuninger/CNBC)",
-            "link": "http://www.techmeme.com/250707/p14#a250707p14",
-            "published": "Mon, 07 Jul 2025 12:31:27 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "YouTube Pirates Are Cashing In on Hollywood\u2019s Summer Blockbusters",
             "link": "https://www.nytimes.com/2025/07/05/technology/youtube-piracy-movies-copyright.html",
-            "published": "Sat, 05 Jul 2025 09:00:05 +0000"
+            "published": "Mon, 07 Jul 2025 22:04:21 +0000"
         },
         {
             "title": "Trump Says He Will Start Talks With China on TikTok Deal",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Why don't we trust technology in sport?",
+            "link": "https://www.bbc.com/sport/tennis/articles/cdr3nk7vd28o",
+            "published": "Mon, 07 Jul 2025 21:15:57 GMT"
+        },
         {
             "title": "Xbox producer tells staff to use AI to ease job loss pain",
             "link": "https://www.bbc.com/news/articles/ckglzxy389zo",
@@ -73,11 +78,6 @@
             "title": "AI claims and a hoax spokesman: Viral band confuses the world of music",
             "link": "https://www.bbc.com/news/articles/cp8mjnn7eqno",
             "published": "Thu, 03 Jul 2025 23:07:54 GMT"
-        },
-        {
-            "title": "'There is a problem': Facebook and Instagram users complain of account bans",
-            "link": "https://www.bbc.com/news/articles/cvgnp9ykm3xo",
-            "published": "Thu, 03 Jul 2025 07:59:08 GMT"
         }
     ]
 }
