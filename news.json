@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "X says the Indian government ordered it to block two Reuters accounts on July 3 and demanded immediate action, then told X to unblock them after \"public outcry\" (Swati Gupta/Bloomberg)",
+            "title": "Sources: an impostor used AI to mimic Marco Rubio's voice and writing style and contacted foreign ministers, a US governor, and a member of Congress (Washington Post)",
+            "link": "http://www.techmeme.com/250708/p17#a250708p17",
+            "published": "Tue, 08 Jul 2025 11:05:01 -0400"
+        },
+        {
+            "title": "ReserveOne, a cryptocurrency holding company with bitcoin, ethereum, and Solana, plans to list on the Nasdaq through a SPAC deal expected to raise $1B+ (Niket Nishant/Reuters)",
+            "link": "http://www.techmeme.com/250708/p16#a250708p16",
+            "published": "Tue, 08 Jul 2025 10:55:00 -0400"
+        },
+        {
+            "title": "AirGarage, whose platform analyzes parking facilities' data to improve efficiency, raised a $23M Series B led by Headline, bringing its total funding to $41M (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/250708/p15#a250708p15",
+            "published": "Tue, 08 Jul 2025 10:40:01 -0400"
+        },
+        {
+            "title": "X says India ordered it to block 2,355 accounts, including two from Reuters, on July 3, but then told X to unblock the Reuters accounts after a \"public outcry\" (Swati Gupta/Bloomberg)",
             "link": "http://www.techmeme.com/250708/p14#a250708p14",
             "published": "Tue, 08 Jul 2025 10:01:05 -0400"
         },
         {
-            "title": "Moonvalley releases Marey, its fully licensed AI video model, available for $14.99, $34.99, or $149.99/month; 80% of its footage is from independent filmmakers (Andrew R. Chow/Time)",
+            "title": "Moonvalley debuts Marey, its licensed AI video model, for $14.99, $34.99, or $149.99 per month; ~80% of its footage is from independent filmmakers and agencies (Andrew R. Chow/Time)",
             "link": "http://www.techmeme.com/250708/p13#a250708p13",
             "published": "Tue, 08 Jul 2025 09:55:01 -0400"
-        },
-        {
-            "title": "In Q2 2025, global VC funding reached $91B, up from $82B in Q2 2024, driven largely by AI investments, but down from $114B in Q1 2025, the highest since Q3 2022 (Gen\u00e9 Teare/Crunchbase News)",
-            "link": "http://www.techmeme.com/250708/p12#a250708p12",
-            "published": "Tue, 08 Jul 2025 09:45:25 -0400"
-        },
-        {
-            "title": "France-based chipmaker SiPearl raised a \u20ac130M Series A from Taiwan's Cathay Venture and others to develop its ARM-based Rhea1 AI chip, set to feature 80 cores (Benoit Berthelot/Bloomberg)",
-            "link": "http://www.techmeme.com/250708/p11#a250708p11",
-            "published": "Tue, 08 Jul 2025 09:01:21 -0400"
-        },
-        {
-            "title": "IBM unveils Power11, its first major update to the chips since 2020, available from July 25, and says they can detect and respond to ransomware within a minute (Stephen Nellis/Reuters)",
-            "link": "http://www.techmeme.com/250708/p10#a250708p10",
-            "published": "Tue, 08 Jul 2025 08:50:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "OpenAI and Microsoft Bankroll New A.I. Training for Teachers",
+            "link": "https://www.nytimes.com/2025/07/08/technology/chatgpt-teachers-openai-microsoft.html",
+            "published": "Tue, 08 Jul 2025 09:00:08 +0000"
+        },
+        {
             "title": "Your Job Interviewer Is Not a Person. It\u2019s A.I.",
             "link": "https://www.nytimes.com/2025/07/07/technology/ai-job-interviews.html",
             "published": "Tue, 08 Jul 2025 14:08:21 +0000"
+        },
+        {
+            "title": "Will A.I. Replace New Hires or Middle Managers?",
+            "link": "https://www.nytimes.com/2025/07/07/business/ai-job-cuts.html",
+            "published": "Mon, 07 Jul 2025 15:20:55 +0000"
         },
         {
             "title": "The Coder \u2018Village\u2019 at the Heart of China\u2019s A.I. Frenzy",
@@ -41,16 +51,6 @@
             "title": "YouTube Pirates Are Cashing In on Hollywood\u2019s Summer Blockbusters",
             "link": "https://www.nytimes.com/2025/07/05/technology/youtube-piracy-movies-copyright.html",
             "published": "Mon, 07 Jul 2025 22:04:21 +0000"
-        },
-        {
-            "title": "Trump Says He Will Start Talks With China on TikTok Deal",
-            "link": "https://www.nytimes.com/2025/07/05/us/politics/trump-china-tiktok.html",
-            "published": "Sat, 05 Jul 2025 18:21:05 +0000"
-        },
-        {
-            "title": "OpenAI and Microsoft Bankroll New A.I. Training for Teachers",
-            "link": "https://www.nytimes.com/2025/07/08/technology/chatgpt-teachers-openai-microsoft.html",
-            "published": "Tue, 08 Jul 2025 09:00:08 +0000"
         }
     ],
     "source_2": [
@@ -65,6 +65,11 @@
             "published": "Tue, 08 Jul 2025 12:37:11 GMT"
         },
         {
+            "title": "Esports World Cup: The contest teams can't afford to miss",
+            "link": "https://www.bbc.com/news/articles/ce8zqvgpm3lo",
+            "published": "Tue, 08 Jul 2025 15:23:35 GMT"
+        },
+        {
             "title": "Xbox producer tells staff to use AI to ease job loss pain",
             "link": "https://www.bbc.com/news/articles/ckglzxy389zo",
             "published": "Mon, 07 Jul 2025 14:29:43 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple hits back against 'unprecedented' \u20ac500m EU fine",
             "link": "https://www.bbc.com/news/articles/cpvjdm4mp92o",
             "published": "Mon, 07 Jul 2025 12:21:02 GMT"
-        },
-        {
-            "title": "Minister tells Turing AI institute to focus on defence",
-            "link": "https://www.bbc.com/news/articles/cy7nppe5gkgo",
-            "published": "Fri, 04 Jul 2025 13:59:56 GMT"
         }
     ]
 }
