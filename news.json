@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "ThinkBroadband: 78% of UK properties have access to full-fiber broadband, up from 12% in Jan. 2020, which experts credit to Ofcom's 2021 pro-competition push (Financial Times)",
+            "link": "http://www.techmeme.com/250709/p7#a250709p7",
+            "published": "Wed, 09 Jul 2025 02:30:52 -0400"
+        },
+        {
+            "title": "A look at Yahoo Creators, launched in March 2024, offering creators a 50/50 ad revenue split for posting original written content and has signed up 135 creators (Digiday)",
+            "link": "http://www.techmeme.com/250709/p6#a250709p6",
+            "published": "Wed, 09 Jul 2025 02:05:01 -0400"
+        },
+        {
+            "title": "CA state Senator Scott Wiener releases amendments to SB 53, which has transparency requirements for AI companies but omits SB 1047's provision on liability (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/250709/p5#a250709p5",
+            "published": "Wed, 09 Jul 2025 01:40:00 -0400"
+        },
+        {
             "title": "Federal prosecutors accuse two US men of operating and promoting OmegaPro, a crypto multi-level marketing scheme that allegedly defrauded victims of $650M+ (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250709/p4#a250709p4",
             "published": "Wed, 09 Jul 2025 01:25:02 -0400"
@@ -9,21 +24,6 @@
             "title": "An over $242M Polymarket bet on whether President Zelenskyy would wear a suit before July closed as \"No\" despite claims he did, raising governance concerns (Sebastian Sinclair/Decrypt)",
             "link": "http://www.techmeme.com/250709/p3#a250709p3",
             "published": "Wed, 09 Jul 2025 01:10:01 -0400"
-        },
-        {
-            "title": "Qantas confirms personal info of 5.7M customers were held on the system compromised in a recent cyberattack, including names, email addresses, and phone numbers (Stephanie Chalmers/ABC)",
-            "link": "http://www.techmeme.com/250709/p2#a250709p2",
-            "published": "Wed, 09 Jul 2025 00:55:01 -0400"
-        },
-        {
-            "title": "Sources: Apple is in talks to acquire US streaming rights for Formula 1 following the success of F1 the Movie, which has grossed ~$300M at the box office (Financial Times)",
-            "link": "http://www.techmeme.com/250709/p1#a250709p1",
-            "published": "Wed, 09 Jul 2025 00:25:00 -0400"
-        },
-        {
-            "title": "Millions of China's gig workers are having to endure record heat waves without legally mandated \"heat wave allowances\", cooling breaks, or adequate insurance (Karoline Kan/Bloomberg)",
-            "link": "http://www.techmeme.com/250708/p35#a250708p35",
-            "published": "Tue, 08 Jul 2025 23:15:49 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Musk's AI firm says it's removing 'inappropriate' chatbot posts",
+            "link": "https://www.bbc.com/news/articles/c4g8r34nxeno",
+            "published": "Wed, 09 Jul 2025 05:46:37 GMT"
+        },
+        {
             "title": "Instagram wrongly accuses some users of breaching child sex abuse rules",
             "link": "https://www.bbc.com/news/articles/cy8kjdz9nr3o",
             "published": "Wed, 09 Jul 2025 00:09:29 GMT"
@@ -73,11 +78,6 @@
             "title": "Emergency alert to be sent to smartphones in UK test",
             "link": "https://www.bbc.com/news/articles/c4ge9xk8wj0o",
             "published": "Tue, 08 Jul 2025 12:37:11 GMT"
-        },
-        {
-            "title": "Esports World Cup: The contest teams can't afford to miss",
-            "link": "https://www.bbc.com/news/articles/ce8zqvgpm3lo",
-            "published": "Tue, 08 Jul 2025 15:23:35 GMT"
         }
     ]
 }
