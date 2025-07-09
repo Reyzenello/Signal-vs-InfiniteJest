@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "ServiceUp, a vehicle repair process automation startup, raised a $55M Series B led by PeakSpan Capital, taking its total funding to nearly $70M (Mary Ann Azevedo/Crunchbase News)",
-            "link": "http://www.techmeme.com/250709/p16#a250709p16",
-            "published": "Wed, 09 Jul 2025 08:40:01 -0400"
+            "title": "Samsung's new Galaxy Z Fold7 and Z Flip7 are the first smartphones to ship loaded with Android 16, and the Watch 8 Series are the first to get Wear OS 6 (Mariella Moon/Engadget)",
+            "link": "http://www.techmeme.com/250709/p25#a250709p25",
+            "published": "Wed, 09 Jul 2025 10:30:02 -0400"
         },
         {
-            "title": "Hugging Face begins taking orders for its $449 Reachy Mini Wireless and $299 Reachy Mini Lite open-source robots, which come in a kit for developers to build (Rebecca Szkutak/TechCrunch)",
-            "link": "http://www.techmeme.com/250709/p15#a250709p15",
-            "published": "Wed, 09 Jul 2025 08:15:04 -0400"
+            "title": "Google begins rolling out Gemini for Wear OS, replacing Assistant, \"over the coming weeks\" to Wear OS 4+ on the Pixel, Samsung, OnePlus, OPPO, Xiaomi, and more (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/250709/p24#a250709p24",
+            "published": "Wed, 09 Jul 2025 10:25:01 -0400"
         },
         {
-            "title": "How crypto executives, lobbyists, campaign operatives, and Trump business partners successfully turned Trump from an outspoken bitcoin skeptic into a supporter (New York Times)",
-            "link": "http://www.techmeme.com/250709/p14#a250709p14",
-            "published": "Wed, 09 Jul 2025 06:50:01 -0400"
+            "title": "Samsung unveils the $899+ Galaxy Z Flip7 FE, with a smaller cover screen than the Z Flip7's, a smaller battery, no telephoto, and Android 16, in two colors (Andrew Romero/9to5Google)",
+            "link": "http://www.techmeme.com/250709/p23#a250709p23",
+            "published": "Wed, 09 Jul 2025 10:21:20 -0400"
         },
         {
-            "title": "Ikea plans to relaunch its smart home line with 20+ new Matter-over-Thread devices, starting in January 2026, and releases a beta update for its Dirigera hub (Jennifer Pattison Tuohy/The Verge)",
-            "link": "http://www.techmeme.com/250709/p13#a250709p13",
-            "published": "Wed, 09 Jul 2025 06:30:01 -0400"
+            "title": "Google adds new AI and gaming features to Android's Circle to Search, and Gemini Live support for foldables and third-party apps, starting with Samsung devices (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250709/p22#a250709p22",
+            "published": "Wed, 09 Jul 2025 10:16:32 -0400"
         },
         {
-            "title": "The US Treasury's OFAC sanctions individuals and companies linked to North Korea's fake tech worker scheme, including \"malicious cyber actor\" Song Kum Hyok (Magdalena Del Valle/Bloomberg)",
-            "link": "http://www.techmeme.com/250709/p12#a250709p12",
-            "published": "Wed, 09 Jul 2025 06:05:03 -0400"
+            "title": "Samsung unveils the $1,100+ Galaxy Z Flip7, with a larger 4.1-inch external and 6.9-inch internal display, a 13.7mm body, a more durable folding hinge, and more (Mariella Moon/Engadget)",
+            "link": "http://www.techmeme.com/250709/p20#a250709p20",
+            "published": "Wed, 09 Jul 2025 10:12:19 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Crypto Lobbying Won Over Trump",
+            "link": "https://www.nytimes.com/2025/07/09/us/politics/trump-crypto-lobbying.html",
+            "published": "Wed, 09 Jul 2025 12:45:19 +0000"
+        },
         {
             "title": "Grok, Elon Musk\u2019s AI Chatbot, Shares Antisemitic Posts on X",
             "link": "https://www.nytimes.com/2025/07/08/technology/grok-antisemitism-ai-x.html",
@@ -43,17 +48,17 @@
             "published": "Tue, 08 Jul 2025 09:00:08 +0000"
         },
         {
-            "title": "Your Job Interviewer Is Not a Person. It\u2019s A.I.",
-            "link": "https://www.nytimes.com/2025/07/07/technology/ai-job-interviews.html",
-            "published": "Tue, 08 Jul 2025 14:08:22 +0000"
-        },
-        {
-            "title": "How Crypto Lobbying Won Over Trump",
-            "link": "https://www.nytimes.com/2025/07/09/us/politics/trump-crypto-lobbying.html",
-            "published": "Wed, 09 Jul 2025 12:45:19 +0000"
+            "title": "Marco Rubio Impersonation Under State Dept. Investigation",
+            "link": "https://www.nytimes.com/2025/07/08/us/politics/rubio-ai-impersonation-investigation.html",
+            "published": "Wed, 09 Jul 2025 02:57:54 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Nvidia becomes world's first $4tn company",
+            "link": "https://www.bbc.com/news/articles/c8j13m74lklo",
+            "published": "Wed, 09 Jul 2025 14:26:39 GMT"
+        },
         {
             "title": "Musk's Grok chatbot praises Hitler and insults politicians",
             "link": "https://www.bbc.com/news/articles/c4g8r34nxeno",
@@ -73,11 +78,6 @@
             "title": "Why don't we trust technology in sport?",
             "link": "https://www.bbc.com/sport/tennis/articles/cdr3nk7vd28o",
             "published": "Mon, 07 Jul 2025 21:15:57 GMT"
-        },
-        {
-            "title": "Emergency alert to be sent to smartphones in UK test",
-            "link": "https://www.bbc.com/news/articles/c4ge9xk8wj0o",
-            "published": "Tue, 08 Jul 2025 12:37:11 GMT"
         }
     ]
 }
