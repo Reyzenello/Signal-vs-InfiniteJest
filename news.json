@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Samsung's new Galaxy Z Fold7 and Z Flip7 are the first smartphones to ship loaded with Android 16, and the Watch 8 Series are the first to get Wear OS 6 (Mariella Moon/Engadget)",
+            "title": "Perplexity launches Comet, its first AI web browser, initially available on its $200 per month Max plan and via a waitlist, in a bid to compete with Chrome (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250709/p27#a250709p27",
+            "published": "Wed, 09 Jul 2025 11:15:01 -0400"
+        },
+        {
+            "title": "X CEO Linda Yaccarino says that \"after two incredible years, I've decided to step down\"; X hired Yaccarino in 2023 after running NBCUniversal's ad business (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/250709/p26#a250709p26",
+            "published": "Wed, 09 Jul 2025 10:44:44 -0400"
+        },
+        {
+            "title": "Samsung's new Galaxy Z Fold7 and Z Flip7 will be the first smartphones to ship with Android 16, and the Watch 8 Series will be the first to ship with Wear OS 6 (Mariella Moon/Engadget)",
             "link": "http://www.techmeme.com/250709/p25#a250709p25",
             "published": "Wed, 09 Jul 2025 10:30:02 -0400"
         },
         {
-            "title": "Google begins rolling out Gemini for Wear OS, replacing Assistant, \"over the coming weeks\" to Wear OS 4+ on the Pixel, Samsung, OnePlus, OPPO, Xiaomi, and more (Abner Li/9to5Google)",
+            "title": "Google says it will roll out Gemini for Wear OS \"over the coming weeks\" to Wear OS 4+ on Pixel, Samsung, OnePlus, OPPO, Xiaomi, and more, replacing Assistant (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/250709/p24#a250709p24",
             "published": "Wed, 09 Jul 2025 10:25:01 -0400"
         },
@@ -14,19 +24,14 @@
             "title": "Samsung unveils the $899+ Galaxy Z Flip7 FE, with a smaller cover screen than the Z Flip7's, a smaller battery, no telephoto, and Android 16, in two colors (Andrew Romero/9to5Google)",
             "link": "http://www.techmeme.com/250709/p23#a250709p23",
             "published": "Wed, 09 Jul 2025 10:21:20 -0400"
-        },
-        {
-            "title": "Google adds new AI and gaming features to Android's Circle to Search, and Gemini Live support for foldables and third-party apps, starting with Samsung devices (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250709/p22#a250709p22",
-            "published": "Wed, 09 Jul 2025 10:16:32 -0400"
-        },
-        {
-            "title": "Samsung unveils the $1,100+ Galaxy Z Flip7, with a larger 4.1-inch external and 6.9-inch internal display, a 13.7mm body, a more durable folding hinge, and more (Mariella Moon/Engadget)",
-            "link": "http://www.techmeme.com/250709/p20#a250709p20",
-            "published": "Wed, 09 Jul 2025 10:12:19 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "X CEO Linda Yaccarino Says She Is Leaving the Social Media Platform",
+            "link": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+            "published": "Wed, 09 Jul 2025 14:45:27 +0000"
+        },
         {
             "title": "How Crypto Lobbying Won Over Trump",
             "link": "https://www.nytimes.com/2025/07/09/us/politics/trump-crypto-lobbying.html",
@@ -43,11 +48,6 @@
             "published": "Tue, 08 Jul 2025 22:53:32 +0000"
         },
         {
-            "title": "OpenAI and Microsoft Bankroll New A.I. Training for Teachers",
-            "link": "https://www.nytimes.com/2025/07/08/technology/chatgpt-teachers-openai-microsoft.html",
-            "published": "Tue, 08 Jul 2025 09:00:08 +0000"
-        },
-        {
             "title": "Marco Rubio Impersonation Under State Dept. Investigation",
             "link": "https://www.nytimes.com/2025/07/08/us/politics/rubio-ai-impersonation-investigation.html",
             "published": "Wed, 09 Jul 2025 02:57:54 +0000"
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "Linda Yaccarino departs as boss of Musk's X",
+            "link": "https://www.bbc.com/news/articles/cx2gy3j9xq6o",
+            "published": "Wed, 09 Jul 2025 15:27:33 GMT"
+        },
+        {
             "title": "Nvidia becomes world's first $4tn company",
             "link": "https://www.bbc.com/news/articles/c8j13m74lklo",
-            "published": "Wed, 09 Jul 2025 14:26:39 GMT"
+            "published": "Wed, 09 Jul 2025 14:56:18 GMT"
         },
         {
             "title": "Musk's Grok chatbot praises Hitler and insults politicians",
@@ -73,11 +78,6 @@
             "title": "Teachers urge parents not to buy children smartphones",
             "link": "https://www.bbc.com/news/articles/cwyxggv9j9zo",
             "published": "Wed, 09 Jul 2025 10:38:48 GMT"
-        },
-        {
-            "title": "Why don't we trust technology in sport?",
-            "link": "https://www.bbc.com/sport/tennis/articles/cdr3nk7vd28o",
-            "published": "Mon, 07 Jul 2025 21:15:57 GMT"
         }
     ]
 }
