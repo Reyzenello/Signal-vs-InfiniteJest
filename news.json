@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "UK police arrest four people, a 20-year-old woman and three men age 17 to 19, in relation to the M&S and Co-op hacks, which started in April and caused havoc (Joe Tidy/BBC)",
+            "title": "Substack co-founder Hamish McKenzie is launching a biweekly column on Lachlan Cartwright's Breaker, a publication hosted on Substack rival beehiiv (Emily Sundberg/Feed Me)",
+            "link": "http://www.techmeme.com/250710/p24#a250710p24",
+            "published": "Thu, 10 Jul 2025 08:40:49 -0400"
+        },
+        {
+            "title": "The Internet Watch Foundation identified 1,286 AI-generated videos of child sexual abuse so far in 2025 globally, up from just two in the first half of 2024 (Cecilia Kang/New York Times)",
+            "link": "http://www.techmeme.com/250710/p23#a250710p23",
+            "published": "Thu, 10 Jul 2025 08:25:49 -0400"
+        },
+        {
+            "title": "Artificial Analysis' benchmarks show Grok 4 is the leading AI model, a first for xAI, and its per-token pricing is more expensive than Gemini 2.5 Pro and o3 (@artificialanlys)",
+            "link": "http://www.techmeme.com/250710/p22#a250710p22",
+            "published": "Thu, 10 Jul 2025 08:10:47 -0400"
+        },
+        {
+            "title": "Cond\u00e9 Nast and Hearst sign multi-year agreements with Amazon to license their content for use in Amazon's AI shopping assistant Rufus (Jessica Davies/Digiday)",
+            "link": "http://www.techmeme.com/250710/p21#a250710p21",
+            "published": "Thu, 10 Jul 2025 07:40:53 -0400"
+        },
+        {
+            "title": "UK police arrest four people, a 20-year-old woman and three men aged 17 to 19, in connection to the M&S and Co-op hacks that began in mid-April and caused havoc (Joe Tidy/BBC)",
             "link": "http://www.techmeme.com/250710/p20#a250710p20",
             "published": "Thu, 10 Jul 2025 07:11:42 -0400"
-        },
-        {
-            "title": "Disney and ITV agree a deal to stream hit shows like The Bear and Love Island on each other's platforms for the first time, starting July 16; both can sell ads (Daniel Thomas/Financial Times)",
-            "link": "http://www.techmeme.com/250710/p19#a250710p19",
-            "published": "Thu, 10 Jul 2025 06:30:00 -0400"
-        },
-        {
-            "title": "The EU publishes a voluntary code of practice to help companies follow its AI Act, including requiring developers to provide up-to-date AI feature documentation (Gian Volpicelli/Bloomberg)",
-            "link": "http://www.techmeme.com/250710/p18#a250710p18",
-            "published": "Thu, 10 Jul 2025 06:20:01 -0400"
-        },
-        {
-            "title": "Despite continued technological advances, US emergency alerts often fail to reach those in danger, as alert fatigue leads many people to disable notifications (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250710/p17#a250710p17",
-            "published": "Thu, 10 Jul 2025 06:10:31 -0400"
-        },
-        {
-            "title": "Mark Zuckerberg's hiring blitz for top AI talent is spurring other leading AI scientists to join Meta in the race to build \"superintelligent\" AI (Parmy Olson/Bloomberg)",
-            "link": "http://www.techmeme.com/250710/p16#a250710p16",
-            "published": "Thu, 10 Jul 2025 06:01:00 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,12 @@
         {
             "title": "Four arrested in connection with M&S and Co-op cyber-attacks",
             "link": "https://www.bbc.com/news/articles/cwykgrv374eo",
-            "published": "Thu, 10 Jul 2025 11:00:06 GMT"
+            "published": "Thu, 10 Jul 2025 11:44:30 GMT"
+        },
+        {
+            "title": "Musk says Grok chatbot was 'manipulated' into praising Hitler",
+            "link": "https://www.bbc.com/news/articles/c4g8r34nxeno",
+            "published": "Thu, 10 Jul 2025 12:02:11 GMT"
         },
         {
             "title": "Linda Yaccarino departs as boss of Musk's X",
@@ -68,11 +73,6 @@
             "title": "Nvidia becomes world's first $4tn company",
             "link": "https://www.bbc.com/news/articles/c8j13m74lklo",
             "published": "Wed, 09 Jul 2025 14:56:18 GMT"
-        },
-        {
-            "title": "Musk's Grok chatbot praises Hitler and insults politicians",
-            "link": "https://www.bbc.com/news/articles/c4g8r34nxeno",
-            "published": "Wed, 09 Jul 2025 11:17:37 GMT"
         },
         {
             "title": "Instagram wrongly accuses some users of breaching child sex abuse rules",
