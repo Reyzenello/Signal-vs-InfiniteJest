@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "T-Mobile has received FCC and DOJ approval for its $4.4B acquisition of US Cellular, after agreeing to phase out DEI programs to comply with FCC policy (Kelcee Griffis/Bloomberg)",
+            "link": "http://www.techmeme.com/250711/p32#a250711p32",
+            "published": "Fri, 11 Jul 2025 21:05:01 -0400"
+        },
+        {
+            "title": "Meta has completed a deal to acquire AI voice technology startup PlayAI, and the \"entire PlayAI team\" is set to join Meta next week, per an internal memo (Kurt Wagner/Bloomberg)",
+            "link": "http://www.techmeme.com/250711/p31#a250711p31",
+            "published": "Fri, 11 Jul 2025 20:00:49 -0400"
+        },
+        {
             "title": "Google will have a nonexclusive license to certain Windsurf technology, but will not be taking a stake in the company (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250711/p30#a250711p30",
             "published": "Fri, 11 Jul 2025 19:00:38 -0400"
@@ -14,16 +24,6 @@
             "title": "Google hires Windsurf CEO Varun Mohan, co-founder Douglas Chen, and some of Windsurf's R&D employees to focus on agentic coding efforts at DeepMind (Hayden Field/The Verge)",
             "link": "http://www.techmeme.com/250711/p28#a250711p28",
             "published": "Fri, 11 Jul 2025 17:32:28 -0400"
-        },
-        {
-            "title": "The exclusivity period on OpenAI's $3B offer to acquire coding startup Windsurf has expired (Allie Garfinkle/Fortune)",
-            "link": "http://www.techmeme.com/250711/p27#a250711p27",
-            "published": "Fri, 11 Jul 2025 16:50:01 -0400"
-        },
-        {
-            "title": "Jio Platforms debuts JioPC, a cloud PC service offered via its set-top box; Counterpoint: 70% of Indian households have a TV, but only 15% of them own a PC (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250711/p26#a250711p26",
-            "published": "Fri, 11 Jul 2025 16:25:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Is A.I. the Future of Web Browsing?",
             "link": "https://www.nytimes.com/2025/07/11/technology/personaltech/ai-internet-browser-dia.html",
-            "published": "Fri, 11 Jul 2025 18:13:20 +0000"
+            "published": "Fri, 11 Jul 2025 18:13:21 +0000"
         },
         {
             "title": "Nvidia Becomes First Public Company Worth $4 Trillion",
@@ -48,9 +48,9 @@
             "published": "Fri, 11 Jul 2025 11:00:08 +0000"
         },
         {
-            "title": "Strava Fitness App Revealed Locations of Swedish Leaders",
-            "link": "https://www.nytimes.com/2025/07/11/world/europe/strava-sweden-bodyguards-prime-minister.html",
-            "published": "Fri, 11 Jul 2025 17:45:56 +0000"
+            "title": "Google Hires Top A.I. Leaders From Windsurf, Which OpenAI Was Courting",
+            "link": "https://www.nytimes.com/2025/07/11/technology/google-windsurf-openai.html",
+            "published": "Sat, 12 Jul 2025 02:03:40 +0000"
         }
     ],
     "source_2": [
