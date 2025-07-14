@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "The US DOD announces OpenAI, Google, Anthropic, and xAI have won DOD contracts, each with a $200M ceiling, aimed at enabling agentic AI workflows and more (Deborah Sophia/Reuters)",
+            "title": "Cognition acquires Windsurf, saying Windsurf employees will have vesting cliffs waived and receive fully accelerated vesting for their work to date (Mike Isaac/New York Times)",
+            "link": "http://www.techmeme.com/250714/p22#a250714p22",
+            "published": "Mon, 14 Jul 2025 14:13:20 -0400"
+        },
+        {
+            "title": "Sources: ByteDance is working on a lightweight MR device that resembles goggles, tethered to a compute puck, and has a team working on the device's custom chips (The Information)",
+            "link": "http://www.techmeme.com/250714/p21#a250714p21",
+            "published": "Mon, 14 Jul 2025 14:05:00 -0400"
+        },
+        {
+            "title": "The European Commission says France, Spain, Italy, Denmark, and Greece will test an age verification app meant to protect kids online (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/250714/p20#a250714p20",
+            "published": "Mon, 14 Jul 2025 13:55:00 -0400"
+        },
+        {
+            "title": "Anthropic now uses Canva's MCP server, letting Canva users manage designs via Claude's UI, following similar integrations with Figma, Notion, Stripe, and Prisma (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250714/p19#a250714p19",
+            "published": "Mon, 14 Jul 2025 13:40:01 -0400"
+        },
+        {
+            "title": "The US DOD announces OpenAI, Google, Anthropic, and xAI have each won contracts with a $200M ceiling, aimed at enabling agentic AI national security workflows (Deborah Sophia/Reuters)",
             "link": "http://www.techmeme.com/250714/p18#a250714p18",
             "published": "Mon, 14 Jul 2025 13:10:01 -0400"
-        },
-        {
-            "title": "Adobe Analytics: Prime Day's four-day event drove over $24B in US e-commerce sales, up 30.3% YoY; traffic from generative AI sources was up 3,300% YoY (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250714/p17#a250714p17",
-            "published": "Mon, 14 Jul 2025 13:05:13 -0400"
-        },
-        {
-            "title": "Mark Zuckerberg says Meta is building several multi-gigawatt \"clusters\", starting with Prometheus, a massive datacenter that is scheduled to come online in 2026 (Riley Griffin/Bloomberg)",
-            "link": "http://www.techmeme.com/250714/p16#a250714p16",
-            "published": "Mon, 14 Jul 2025 11:35:01 -0400"
-        },
-        {
-            "title": "Amazon launches Kiro, an IDE that aims to bridge the gap between rapidly vibe-coded prototypes and production systems with specs, testing, and documentation (Todd Bishop/GeekWire)",
-            "link": "http://www.techmeme.com/250714/p15#a250714p15",
-            "published": "Mon, 14 Jul 2025 11:11:28 -0400"
-        },
-        {
-            "title": "Moonvalley, which is developing \"ethical\" AI video models trained on licensed content, raised $84M led by General Catalyst, bringing its total funding to $154M (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/250714/p14#a250714p14",
-            "published": "Mon, 14 Jul 2025 10:50:00 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Meta Built a Data Center Next Door. The Neighbors\u2019 Water Taps Went Dry.",
             "link": "https://www.nytimes.com/2025/07/14/technology/meta-data-center-water.html",
-            "published": "Mon, 14 Jul 2025 14:42:09 +0000"
+            "published": "Mon, 14 Jul 2025 18:21:20 +0000"
+        },
+        {
+            "title": "Meta\u2019s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes",
+            "link": "https://www.nytimes.com/2025/07/14/technology/meta-superintelligence-lab-ai.html",
+            "published": "Mon, 14 Jul 2025 18:28:20 +0000"
+        },
+        {
+            "title": "Cognition AI Buys Windsurf as A.I. Frenzy Escalates",
+            "link": "https://www.nytimes.com/2025/07/14/technology/cognition-ai-windsurf.html",
+            "published": "Mon, 14 Jul 2025 18:14:53 +0000"
         },
         {
             "title": "How the Deep Sea Cables That Power the World Are Made",
@@ -38,19 +48,9 @@
             "published": "Mon, 14 Jul 2025 13:34:35 +0000"
         },
         {
-            "title": "Grok Chatbot Mirrored X Users\u2019 \u2018Extremist Views\u2019 in Antisemitic Posts, xAI Says",
-            "link": "https://www.nytimes.com/2025/07/12/technology/x-ai-grok-antisemitism.html",
-            "published": "Sat, 12 Jul 2025 15:40:54 +0000"
-        },
-        {
-            "title": "Is A.I. the Future of Web Browsing?",
-            "link": "https://www.nytimes.com/2025/07/11/technology/personaltech/ai-internet-browser-dia.html",
-            "published": "Fri, 11 Jul 2025 18:13:21 +0000"
-        },
-        {
             "title": "Daniel Kleppner, Physicist Who Brought Precision to GPS, Dies at 92",
             "link": "https://www.nytimes.com/2025/07/12/science/daniel-kleppner-dead.html",
-            "published": "Sat, 12 Jul 2025 16:12:50 +0000"
+            "published": "Mon, 14 Jul 2025 17:41:29 +0000"
         }
     ],
     "source_2": [
