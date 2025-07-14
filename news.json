@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "IDC: the global smartphone market grew 1% YoY in Q2, despite economic uncertainty and weak demand in China; Samsung led with 58M shipments, up 7.9% YoY (Andrew Orr/AppleInsider)",
+            "link": "http://www.techmeme.com/250714/p28#a250714p28",
+            "published": "Mon, 14 Jul 2025 16:20:00 -0400"
+        },
+        {
+            "title": "NetBox Labs, whose open-source tools help manage networks and are used by CoreWeave, ARM, Cisco, JP Morgan, and Riot Games, raised a $35M Series B (Marcus Schuler/implicator.ai)",
+            "link": "http://www.techmeme.com/250714/p27#a250714p27",
+            "published": "Mon, 14 Jul 2025 16:10:01 -0400"
+        },
+        {
+            "title": "Google adds featured notebooks to NotebookLM from publications, including The Economist and The Atlantic, as well as professors, authors, and select works (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/250714/p26#a250714p26",
+            "published": "Mon, 14 Jul 2025 15:25:00 -0400"
+        },
+        {
             "title": "Analysis of 10 crypto exchanges: on average they took four days to list $TRUMP, whereas the other top four meme coins since 2022 took 129 days to be listed (Reuters)",
             "link": "http://www.techmeme.com/250714/p25#a250714p25",
             "published": "Mon, 14 Jul 2025 15:20:13 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Meta's new superintelligence lab led by Alexandr Wang discussed abandoning its top open-source model, Behemoth, in favor of developing a closed model (Eli Tan/New York Times)",
             "link": "http://www.techmeme.com/250714/p24#a250714p24",
             "published": "Mon, 14 Jul 2025 14:50:02 -0400"
-        },
-        {
-            "title": "Google Cloud has competed well against AWS in AI, attracting business from The Browser Company, Safe Superintelligence, Thinking Machines Lab, and OpenAI (Kevin McLaughlin/The Information)",
-            "link": "http://www.techmeme.com/250714/p23#a250714p23",
-            "published": "Mon, 14 Jul 2025 14:45:01 -0400"
-        },
-        {
-            "title": "Cognition acquires Windsurf, saying it will waive 100% of Windsurf employees' vesting cliffs and give them \"fully accelerated vesting for their work to date\" (Mike Isaac/New York Times)",
-            "link": "http://www.techmeme.com/250714/p22#a250714p22",
-            "published": "Mon, 14 Jul 2025 14:13:20 -0400"
-        },
-        {
-            "title": "Sources: ByteDance is working on a lightweight MR device that resembles goggles, tethered to a compute puck, and has a team working on the device's custom chips (The Information)",
-            "link": "http://www.techmeme.com/250714/p21#a250714p21",
-            "published": "Mon, 14 Jul 2025 14:05:00 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Cognition AI Buys Windsurf as A.I. Frenzy Escalates",
             "link": "https://www.nytimes.com/2025/07/14/technology/cognition-ai-windsurf.html",
-            "published": "Mon, 14 Jul 2025 18:14:53 +0000"
+            "published": "Mon, 14 Jul 2025 19:31:03 +0000"
         },
         {
             "title": "How the Deep Sea Cables That Power the World Are Made",
