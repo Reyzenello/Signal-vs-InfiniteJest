@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "CSET researchers: China's SMEE has only a 4% market share in older-generation chip lithography, far below ASML and Nikon, a \"chokepoint\" for China's chip plans (Debby Wu/Bloomberg)",
+            "link": "http://www.techmeme.com/250714/p12#a250714p12",
+            "published": "Mon, 14 Jul 2025 09:30:01 -0400"
+        },
+        {
+            "title": "Discord launches Orbs, a virtual reward system that incentivizes users to interact with ads by completing Quests to earn digital items, after a seven week beta (Lauren Forristal/TechCrunch)",
+            "link": "http://www.techmeme.com/250714/p11#a250714p11",
+            "published": "Mon, 14 Jul 2025 09:15:01 -0400"
+        },
+        {
             "title": "Tesla is set to face a Florida federal jury to defend allegations that Autopilot was at fault in a fatal 2019 crash, as it tests autonomous robotaxis in Austin (Trisha Thadani/Washington Post)",
             "link": "http://www.techmeme.com/250714/p10#a250714p10",
             "published": "Mon, 14 Jul 2025 08:55:00 -0400"
@@ -14,16 +24,6 @@
             "title": "A four-day US military drone exercise in Alaska exposed significant technological and operational gaps compared to Chinese and Russian drone capabilities (Farah Stockman/New York Times)",
             "link": "http://www.techmeme.com/250714/p8#a250714p8",
             "published": "Mon, 14 Jul 2025 08:20:01 -0400"
-        },
-        {
-            "title": "Malaysia says individuals and companies must get a permit 30+ days before exporting AI chips, effective now, signaling it is clamping down on China chip exports (Bloomberg)",
-            "link": "http://www.techmeme.com/250714/p7#a250714p7",
-            "published": "Mon, 14 Jul 2025 08:05:01 -0400"
-        },
-        {
-            "title": "An interview with Google President of Android Ecosystem Sameer Samat, who says Google is going to combine \"ChromeOS and Android into a single platform\" (Lance Ulanoff/TechRadar)",
-            "link": "http://www.techmeme.com/250714/p6#a250714p6",
-            "published": "Mon, 14 Jul 2025 07:10:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,20 @@
         {
             "title": "How the Deep Sea Cables That Power the World Are Made",
             "link": "https://www.nytimes.com/2025/07/14/business/undersea-power-cables-electricity.html",
-            "published": "Mon, 14 Jul 2025 04:01:12 +0000"
+            "published": "Mon, 14 Jul 2025 13:34:34 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Paddy Power and Betfair users warned of 'email danger' after breach",
+            "link": "https://www.bbc.com/news/articles/cz7l29zved9o",
+            "published": "Mon, 14 Jul 2025 13:13:40 GMT"
+        },
+        {
+            "title": "From Bitcoin to XRP: Key cryptocurrency terms and what they mean",
+            "link": "https://www.bbc.com/news/articles/cy5w2k5k5ylo",
+            "published": "Mon, 14 Jul 2025 11:27:58 GMT"
+        },
         {
             "title": "More rules being considered to keep children safe online",
             "link": "https://www.bbc.com/news/articles/cp82447l84ko",
@@ -68,16 +78,6 @@
             "title": "Musk says Grok chatbot was 'manipulated' into praising Hitler",
             "link": "https://www.bbc.com/news/articles/c4g8r34nxeno",
             "published": "Thu, 10 Jul 2025 12:02:11 GMT"
-        },
-        {
-            "title": "Linda Yaccarino departs as boss of Musk's X",
-            "link": "https://www.bbc.com/news/articles/cx2gy3j9xq6o",
-            "published": "Wed, 09 Jul 2025 19:47:26 GMT"
-        },
-        {
-            "title": "Nvidia becomes world's first $4tn company",
-            "link": "https://www.bbc.com/news/articles/c8j13m74lklo",
-            "published": "Wed, 09 Jul 2025 14:56:18 GMT"
         }
     ]
 }
