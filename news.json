@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Apple signs a $500M deal to buy rare-earth minerals from US producer MP, which secured Pentagon backing last week, as it seeks to cut its reliance on China (Carlos Caminada/Bloomberg)",
+            "link": "http://www.techmeme.com/250715/p11#a250715p11",
+            "published": "Tue, 15 Jul 2025 08:30:00 -0400"
+        },
+        {
+            "title": "AMD says it will restart shipments of its MI308 AI chips to China after the US Commerce Department said it would approve the sales, following Nvidia (Mackenzie Hawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/250715/p10#a250715p10",
+            "published": "Tue, 15 Jul 2025 08:10:00 -0400"
+        },
+        {
+            "title": "Anthropic launches Claude for Financial Services, aiming to help analysts conduct market research and handle due diligence, with data from FactSet and others (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/250715/p9#a250715p9",
+            "published": "Tue, 15 Jul 2025 07:55:00 -0400"
+        },
+        {
             "title": "Google signs two 20-year power purchase agreements worth $3B to access hydroelectric power from Brookfield's renewables arm, delivering up to 670MW of power (Martha Muir/Financial Times)",
             "link": "http://www.techmeme.com/250715/p8#a250715p8",
             "published": "Tue, 15 Jul 2025 06:55:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Nextdoor unveils new features like an interactive neighborhood map called Alerts, partners with 3,500+ local news outlets, and more, to revitalize its app (Mia Sato/The Verge)",
             "link": "http://www.techmeme.com/250715/p7#a250715p7",
             "published": "Tue, 15 Jul 2025 06:40:04 -0400"
-        },
-        {
-            "title": "CoreWeave says it plans to invest up to $6B to set up a 100MW data center in Lancaster, PA, creating 175 jobs and potentially expanding to 300MW in the future (Dina Bass/Bloomberg)",
-            "link": "http://www.techmeme.com/250715/p6#a250715p6",
-            "published": "Tue, 15 Jul 2025 06:30:01 -0400"
-        },
-        {
-            "title": "Researchers: during the 12-day Iran-Israel war, both sides engaged in unprecedented psychological warfare using AI content and social media to spread propaganda (New York Times)",
-            "link": "http://www.techmeme.com/250715/p5#a250715p5",
-            "published": "Tue, 15 Jul 2025 06:10:01 -0400"
-        },
-        {
-            "title": "Researcher: a DOGE staffer inadvertently published a private API key for xAI on GitHub on July 13, exposing access to 52+ LLMs, including \"grok-4-0709\" (Brian Krebs/Krebs on Security)",
-            "link": "http://www.techmeme.com/250715/p4#a250715p4",
-            "published": "Tue, 15 Jul 2025 05:55:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "WeTransfer says files not used to train AI after backlash",
+            "link": "https://www.bbc.com/news/articles/cp8mp79gyz1o",
+            "published": "Tue, 15 Jul 2025 12:47:23 GMT"
+        },
+        {
             "title": "New AI voice tool trained to copy British regional accents",
             "link": "https://www.bbc.com/news/articles/c07d2dyx19zo",
             "published": "Mon, 14 Jul 2025 23:06:09 GMT"
@@ -73,11 +78,6 @@
             "title": "Reddit starts verifying ages of users in the UK",
             "link": "https://www.bbc.com/news/articles/cj4ep1znk4zo",
             "published": "Tue, 15 Jul 2025 08:14:17 GMT"
-        },
-        {
-            "title": "Paddy Power and Betfair users warned of 'email danger' after breach",
-            "link": "https://www.bbc.com/news/articles/cz7l29zved9o",
-            "published": "Mon, 14 Jul 2025 13:13:40 GMT"
         }
     ]
 }
