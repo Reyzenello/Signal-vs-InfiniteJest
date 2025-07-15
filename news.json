@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Cloudflare starts blocking access to pirate sites in the UK; previously, blocking was almost entirely done by local ISPs (Andy Maxwell/TorrentFreak)",
+            "link": "http://www.techmeme.com/250715/p24#a250715p24",
+            "published": "Tue, 15 Jul 2025 16:20:01 -0400"
+        },
+        {
+            "title": "Claude Code, Gemini CLI, and CLI Codex, terminal-based AI tools launched since February, have surprisingly gained ground on AI code editors with traditional UIs (Russell Brandom/TechCrunch)",
+            "link": "http://www.techmeme.com/250715/p23#a250715p23",
+            "published": "Tue, 15 Jul 2025 15:40:01 -0400"
+        },
+        {
             "title": "Crypto PAC Fairshake says it has raised $109M since the US elections in November 2024, and $52M in H1 2025, as it prepares for the 2026 US midterm elections (Sarah Wynn/The Block)",
             "link": "http://www.techmeme.com/250715/p22#a250715p22",
             "published": "Tue, 15 Jul 2025 15:10:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Mark Zuckerberg Q&A: Meta's focus on \"personal super intelligence\", how large compensation packages pale in comparison to AI infra investments, AI glasses, more (Jessica E. Lessin/The Information)",
             "link": "http://www.techmeme.com/250715/p20#a250715p20",
             "published": "Tue, 15 Jul 2025 14:20:01 -0400"
-        },
-        {
-            "title": "Researchers demonstrate a Rowhammer-style attack on Nvidia's RTX A6000, widely used in cloud services, and say it would likely work against other Nvidia GPUs (Dan Goodin/Ars Technica)",
-            "link": "http://www.techmeme.com/250715/p19#a250715p19",
-            "published": "Tue, 15 Jul 2025 13:55:01 -0400"
-        },
-        {
-            "title": "Thinking Machines Lab, Mira Murati's AI startup that launched only in February, raised $2B led by a16z; Nvidia, Accel, ServiceNow, Cisco, and AMD also invested (Aditya Soni/Reuters)",
-            "link": "http://www.techmeme.com/250715/p18#a250715p18",
-            "published": "Tue, 15 Jul 2025 13:20:01 -0400"
         }
     ],
     "source_1": [
