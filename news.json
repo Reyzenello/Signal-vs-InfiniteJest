@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A former OpenAI engineer details his experience working at the company, including its culture, engineering practices, rapid growth, and the launch of Codex (Calvin French-Owen)",
+            "link": "http://www.techmeme.com/250715/p31#a250715p31",
+            "published": "Tue, 15 Jul 2025 18:15:00 -0400"
+        },
+        {
+            "title": "Several crypto regulation bills backed by Trump fail to clear a key hurdle in the US House after 13 Republicans voted with Democrats to block the legislation (Erin Doherty/CNBC)",
+            "link": "http://www.techmeme.com/250715/p30#a250715p30",
+            "published": "Tue, 15 Jul 2025 18:05:03 -0400"
+        },
+        {
+            "title": "Roblox launches a licensing platform to help IP rights holders collaborate with creators, with Lionsgate, Netflix, Sega, and Kodansha as founding partners (Jennifer Maas/Variety)",
+            "link": "http://www.techmeme.com/250715/p29#a250715p29",
+            "published": "Tue, 15 Jul 2025 17:50:07 -0400"
+        },
+        {
             "title": "Mark Zuckerberg Q&A: Meta's focus on \"personal super intelligence\", how large compensation packages pale in comparison to AI infra investments, AI glasses, more (The Information on YouTube)",
             "link": "http://www.techmeme.com/250715/p28#a250715p28",
             "published": "Tue, 15 Jul 2025 17:25:02 -0400"
@@ -9,48 +24,33 @@
             "title": "Unify, which offers AI-powered tools to boost revenue pipelines, raised a $40M Series B led by Battery Ventures, valuing it at $260M, following a $12M Series A (Alex Konrad/Upstarts Media)",
             "link": "http://www.techmeme.com/250715/p27#a250715p27",
             "published": "Tue, 15 Jul 2025 17:15:00 -0400"
-        },
-        {
-            "title": "Sources: Cantor Equity Partners 1, a SPAC backed by Cantor Fitzgerald, is in late-stage talks with Blockstream Capital founder Adam Back to buy $3B+ in bitcoin (Financial Times)",
-            "link": "http://www.techmeme.com/250715/p26#a250715p26",
-            "published": "Tue, 15 Jul 2025 17:05:03 -0400"
-        },
-        {
-            "title": "Users have uploaded 5,000 AI models, previously banned from Civitai for generating nonconsensual sexual content of real people, to Hugging Face (Emanuel Maiberg/404 Media)",
-            "link": "http://www.techmeme.com/250715/p25#a250715p25",
-            "published": "Tue, 15 Jul 2025 16:45:00 -0400"
-        },
-        {
-            "title": "Cloudflare starts blocking access to pirate sites in the UK; previously, blocking was almost entirely done by local ISPs (Andy Maxwell/TorrentFreak)",
-            "link": "http://www.techmeme.com/250715/p24#a250715p24",
-            "published": "Tue, 15 Jul 2025 16:20:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump Hails $90 Billion in AI Infrastructure Investments at Pennsylvania Summit",
+            "link": "https://www.nytimes.com/2025/07/15/us/politics/trump-ai-pittsburgh-speech.html",
+            "published": "Tue, 15 Jul 2025 21:50:13 +0000"
+        },
+        {
+            "title": "Israel and Iran Usher In New Era of Psychological Warfare",
+            "link": "https://www.nytimes.com/2025/07/15/technology/israel-iran-psychological-warfare.html",
+            "published": "Tue, 15 Jul 2025 04:00:05 +0000"
+        },
+        {
+            "title": "Federal Prosecutors Close Inquiry Into Polymarket Betting Website",
+            "link": "https://www.nytimes.com/2025/07/15/technology/polymarket-betting-investigation-dropped.html",
+            "published": "Tue, 15 Jul 2025 19:16:33 +0000"
+        },
         {
             "title": "Nvidia Says U.S. Has Lifted Restrictions on A.I. Chip Sales to China",
             "link": "https://www.nytimes.com/2025/07/14/technology/nvidia-ai-chip-sales-china.html",
             "published": "Tue, 15 Jul 2025 14:17:02 +0000"
         },
         {
-            "title": "Meta Built a Data Center Next Door. The Neighbors\u2019 Water Taps Went Dry.",
-            "link": "https://www.nytimes.com/2025/07/14/technology/meta-data-center-water.html",
-            "published": "Mon, 14 Jul 2025 23:33:28 +0000"
-        },
-        {
             "title": "Meta\u2019s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes",
             "link": "https://www.nytimes.com/2025/07/14/technology/meta-superintelligence-lab-ai.html",
             "published": "Tue, 15 Jul 2025 05:27:04 +0000"
-        },
-        {
-            "title": "Cognition AI Buys Windsurf as A.I. Frenzy Escalates",
-            "link": "https://www.nytimes.com/2025/07/14/technology/cognition-ai-windsurf.html",
-            "published": "Mon, 14 Jul 2025 19:31:03 +0000"
-        },
-        {
-            "title": "Federal Prosecutors Close Inquiry Into Polymarket Betting Website",
-            "link": "https://www.nytimes.com/2025/07/15/technology/polymarket-betting-investigation-dropped.html",
-            "published": "Tue, 15 Jul 2025 19:16:33 +0000"
         }
     ],
     "source_2": [
