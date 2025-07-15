@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Mistral releases Voxtral, its first open source AI audio model family, and says its API transcription offerings are cheaper than models from OpenAI and Google (Rebecca Bellan/TechCrunch)",
+            "title": "Thinking Machines Lab, Mira Murati's AI startup that launched only in February, raised $2B led by a16z; Nvidia, Accel, ServiceNow, Cisco, and AMD also invested (Aditya Soni/Reuters)",
+            "link": "http://www.techmeme.com/250715/p18#a250715p18",
+            "published": "Tue, 15 Jul 2025 13:20:01 -0400"
+        },
+        {
+            "title": "OpenEvidence, whose free AI search tool has signed up 40% of doctors in the US, raised $210M led by GV at a $3.5B valuation, up from $1B in February (Amy Feldman/Forbes)",
+            "link": "http://www.techmeme.com/250715/p17#a250715p17",
+            "published": "Tue, 15 Jul 2025 13:13:04 -0400"
+        },
+        {
+            "title": "Apple seems to be working on adding CUDA support to open-source ML framework MLX, which may mean that code developed using MLX would work with CUDA (Malcolm Owen/AppleInsider)",
+            "link": "http://www.techmeme.com/250715/p16#a250715p16",
+            "published": "Tue, 15 Jul 2025 12:40:04 -0400"
+        },
+        {
+            "title": "Mistral releases Voxtral, its first open-source AI audio model family, and says Voxtral Mini Transcribe outperforms OpenAI Whisper for less than half the price (Rebecca Bellan/TechCrunch)",
             "link": "http://www.techmeme.com/250715/p15#a250715p15",
             "published": "Tue, 15 Jul 2025 12:10:01 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "Sources: the US DOJ and CFTC ended a pair of investigations into crypto betting platform Polymarket that started in the waning days of the Biden administration (Bloomberg)",
             "link": "http://www.techmeme.com/250715/p14#a250715p14",
             "published": "Tue, 15 Jul 2025 11:55:02 -0400"
-        },
-        {
-            "title": "Uber and Baidu announce a multi-year partnership to launch robotaxis in markets outside the US and mainland China, starting in Asia and the Middle East in 2025 (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/250715/p13#a250715p13",
-            "published": "Tue, 15 Jul 2025 10:25:01 -0400"
-        },
-        {
-            "title": "Investigation: Microsoft uses engineers in China to help maintain US DOD systems, with minimal supervision by US personnel, leaving sensitive data vulnerable (ProPublica)",
-            "link": "http://www.techmeme.com/250715/p12#a250715p12",
-            "published": "Tue, 15 Jul 2025 09:10:01 -0400"
-        },
-        {
-            "title": "Apple signs a $500M deal to buy rare-earth minerals from US producer MP, which secured Pentagon backing last week, as it seeks to reduce its dependence on China (Carlos Caminada/Bloomberg)",
-            "link": "http://www.techmeme.com/250715/p11#a250715p11",
-            "published": "Tue, 15 Jul 2025 08:30:00 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Meta\u2019s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes",
             "link": "https://www.nytimes.com/2025/07/14/technology/meta-superintelligence-lab-ai.html",
-            "published": "Tue, 15 Jul 2025 05:27:03 +0000"
+            "published": "Tue, 15 Jul 2025 05:27:04 +0000"
         },
         {
             "title": "Cognition AI Buys Windsurf as A.I. Frenzy Escalates",
