@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
+            "title": "Airbus' Acubed and Google spinout SandboxAQ test MagNav, a quantum-sensing navigation device and potential GPS alternative, for 150+ flight hours across the US (Isabelle Bousquette/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250716/p24#a250716p24",
+            "published": "Wed, 16 Jul 2025 11:10:01 -0400"
+        },
+        {
+            "title": "Europol and Eurojust disrupt pro-Russian hacktivist group NoName057(16), which claimed responsibility for 1,000+ DDoS attacks since 2022, and arrest two people (Jordan Robertson/Bloomberg)",
+            "link": "http://www.techmeme.com/250716/p23#a250716p23",
+            "published": "Wed, 16 Jul 2025 11:00:30 -0400"
+        },
+        {
+            "title": "Microsoft begins testing a Windows 11 feature for sharing the entire desktop with Copilot Vision; it requires first entering a special mode in the Copilot app (Zac Bowden/Windows Central)",
+            "link": "http://www.techmeme.com/250716/p22#a250716p22",
+            "published": "Wed, 16 Jul 2025 10:40:00 -0400"
+        },
+        {
             "title": "Jensen Huang says \"I don't think I changed\" Trump's mind on the US' China export rules, and \"it's my job to inform the president about what I know very well\" (New York Times)",
             "link": "http://www.techmeme.com/250716/p21#a250716p21",
             "published": "Wed, 16 Jul 2025 10:30:00 -0400"
         },
         {
-            "title": "Sources: OpenAI is aiming to add a checkout system into ChatGPT, to ensure users complete transactions within the platform, with merchants paying a commission (Financial Times)",
+            "title": "Sources: OpenAI aims to integrate a checkout system into ChatGPT, to ensure users complete transactions within the platform, with merchants paying a commission (Financial Times)",
             "link": "http://www.techmeme.com/250716/p20#a250716p20",
             "published": "Wed, 16 Jul 2025 10:20:01 -0400"
-        },
-        {
-            "title": "Saudi startup Lucidya, which develops customer experience software, raised a $30M Series B led by Impact46, marking the largest AI funding round in the kingdom (Yassmin Jabri/Bloomberg)",
-            "link": "http://www.techmeme.com/250716/p19#a250716p19",
-            "published": "Wed, 16 Jul 2025 10:15:01 -0400"
-        },
-        {
-            "title": "ASML CEO Christophe Fouquet says \"while we still prepare for growth in 2026, we cannot confirm it\", after Trump threatened 30% EU tariffs; ASML falls 10%+ (Mauro Orru/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250716/p18#a250716p18",
-            "published": "Wed, 16 Jul 2025 10:05:00 -0400"
-        },
-        {
-            "title": "HPE unveils several business changes, including forming a strategy committee and appointing a new board member, as it agrees to work with Elliott to boost value (Molly Schuetz/Bloomberg)",
-            "link": "http://www.techmeme.com/250716/p17#a250716p17",
-            "published": "Wed, 16 Jul 2025 08:55:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Nvidia C.E.O. Treads Carefully in Beijing",
+            "link": "https://www.nytimes.com/2025/07/16/business/nvidia-jensen-huang-beijing.html",
+            "published": "Wed, 16 Jul 2025 14:04:29 +0000"
+        },
+        {
+            "title": "China Is Spending Billions to Become an A.I. Superpower",
+            "link": "https://www.nytimes.com/2025/07/16/technology/china-ai.html",
+            "published": "Wed, 16 Jul 2025 04:00:06 +0000"
+        },
         {
             "title": "Trump Hails $90 Billion in AI Infrastructure Investments at Pennsylvania Summit",
             "link": "https://www.nytimes.com/2025/07/15/us/politics/trump-ai-pittsburgh-speech.html",
@@ -41,16 +51,6 @@
             "title": "Federal Prosecutors Close Inquiry Into Polymarket Betting Website",
             "link": "https://www.nytimes.com/2025/07/15/technology/polymarket-betting-investigation-dropped.html",
             "published": "Tue, 15 Jul 2025 19:16:33 +0000"
-        },
-        {
-            "title": "Nvidia Says U.S. Has Lifted Restrictions on A.I. Chip Sales to China",
-            "link": "https://www.nytimes.com/2025/07/14/technology/nvidia-ai-chip-sales-china.html",
-            "published": "Tue, 15 Jul 2025 14:17:02 +0000"
-        },
-        {
-            "title": "China Is Spending Billions to Become an A.I. Superpower",
-            "link": "https://www.nytimes.com/2025/07/16/technology/china-ai.html",
-            "published": "Wed, 16 Jul 2025 04:00:06 +0000"
         }
     ],
     "source_2": [
