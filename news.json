@@ -1,17 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Tokopedia sellers say Tokopedia's strengths have eroded since its TikTok Shop merger in Indonesia, driving thousands of sellers to join rivals, including Toco (Michelle Anindya/Rest of World)",
+            "link": "http://www.techmeme.com/250716/p7#a250716p7",
+            "published": "Wed, 16 Jul 2025 04:25:02 -0400"
+        },
+        {
             "title": "Google says its Big Sleep AI agent for finding unknown software vulnerabilities recently discovered a critical SQLite flaw that \"was at risk of being exploited\" (Jonathan Greig/The Record)",
             "link": "http://www.techmeme.com/250716/p6#a250716p6",
             "published": "Wed, 16 Jul 2025 02:35:04 -0400"
         },
         {
-            "title": "ASML reports Q2 net sales of \u20ac7.7B, net income of \u20ac2.29B, and net bookings of \u20ac5.5B vs. \u20ac4.19B est., with tariffs having a \"less negative\" impact than expected (Arjun Kharpal/CNBC)",
+            "title": "ASML reports Q2 net sales of \u20ac7.7B, net income of \u20ac2.29B, and net bookings of \u20ac5.5B, above \u20ac4.19B est., as tariffs have a \"less negative\" impact than expected (Arjun Kharpal/CNBC)",
             "link": "http://www.techmeme.com/250716/p5#a250716p5",
             "published": "Wed, 16 Jul 2025 02:15:01 -0400"
         },
         {
-            "title": "SharpLink Gaming, a Nasdaq-listed online gambling marketing company, becomes the largest corporate ether holder with 280,706 ETH, surpassing Ethereum Foundation (Naga Avan-Nomayo/The Block)",
+            "title": "SharpLink Gaming, a Nasdaq-listed online gambling marketing company, becomes the largest corporate ether holder with 280,706, surpassing the Ethereum Foundation (Naga Avan-Nomayo/The Block)",
             "link": "http://www.techmeme.com/250716/p4#a250716p4",
             "published": "Wed, 16 Jul 2025 02:10:01 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "US Commerce Secretary Howard Lutnick says Nvidia's planned resumption of its H20 AI chip sales to China is part of US negotiations over rare earths and magnets (Reuters)",
             "link": "http://www.techmeme.com/250716/p3#a250716p3",
             "published": "Wed, 16 Jul 2025 01:05:00 -0400"
-        },
-        {
-            "title": "Sources: OpenAI researcher Jason Wei, who worked on o3 and deep research models, and his colleague Hyung Won Chung are joining Meta's new superintelligence lab (Kylie Robison/Wired)",
-            "link": "http://www.techmeme.com/250716/p2#a250716p2",
-            "published": "Wed, 16 Jul 2025 01:00:48 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Co-op boss confirms all 6.5m members had data stolen",
+            "link": "https://www.bbc.com/news/articles/cql0ple066po",
+            "published": "Wed, 16 Jul 2025 08:30:13 GMT"
+        },
+        {
+            "title": "How will age verification for porn work and what about privacy?",
+            "link": "https://www.bbc.com/news/articles/ceq7ye3q2zwo",
+            "published": "Wed, 16 Jul 2025 08:04:09 GMT"
+        },
+        {
             "title": "WeTransfer says files not used to train AI after backlash",
             "link": "https://www.bbc.com/news/articles/cp8mp79gyz1o",
             "published": "Tue, 15 Jul 2025 12:47:23 GMT"
@@ -68,16 +78,6 @@
             "title": "Nvidia says it will restart AI chip sales to China",
             "link": "https://www.bbc.com/news/articles/cy8g22n32d0o",
             "published": "Tue, 15 Jul 2025 06:03:35 GMT"
-        },
-        {
-            "title": "Meta to spend hundreds of billions to build AI data centres",
-            "link": "https://www.bbc.com/news/articles/c1e02vx55wpo",
-            "published": "Tue, 15 Jul 2025 03:59:02 GMT"
-        },
-        {
-            "title": "Reddit starts verifying ages of users in the UK",
-            "link": "https://www.bbc.com/news/articles/cj4ep1znk4zo",
-            "published": "Tue, 15 Jul 2025 08:14:17 GMT"
         }
     ]
 }
