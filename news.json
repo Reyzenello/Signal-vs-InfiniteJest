@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The trial for an $8B lawsuit by Meta investors against Mark Zuckerberg and other leaders opens over claims tied to the 2018 Cambridge Analytica privacy scandal (Associated Press)",
+            "link": "http://www.techmeme.com/250716/p39#a250716p39",
+            "published": "Wed, 16 Jul 2025 18:55:00 -0400"
+        },
+        {
             "title": "Filing: Intel is laying off 5,000+ employees across California, Oregon, Texas, and Arizona; California cuts affect 1,935, more than double the initial estimates (Nathan Owens/Manufacturing Dive)",
             "link": "http://www.techmeme.com/250716/p38#a250716p38",
             "published": "Wed, 16 Jul 2025 18:05:00 -0400"
@@ -19,11 +24,6 @@
             "title": "Crypto exchange BigONE confirms a $27M hack from a hot wallet exploit, plans to pay back users and is working with security firm SlowMist to trace stolen assets (Shaurya Malwa/CoinDesk)",
             "link": "http://www.techmeme.com/250716/p35#a250716p35",
             "published": "Wed, 16 Jul 2025 15:45:01 -0400"
-        },
-        {
-            "title": "Sources: Anthropic's financial performance has prompted some investors to indicate interest in funding the company at a valuation of $100B+ if it pursues a deal (The Information)",
-            "link": "http://www.techmeme.com/250716/p34#a250716p34",
-            "published": "Wed, 16 Jul 2025 14:57:57 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 15 Jul 2025 21:50:13 +0000"
         },
         {
-            "title": "Federal Prosecutors Close Inquiry Into Polymarket Betting Website",
-            "link": "https://www.nytimes.com/2025/07/15/technology/polymarket-betting-investigation-dropped.html",
-            "published": "Tue, 15 Jul 2025 19:16:34 +0000"
+            "title": "The Bills That Could Change Crypto in The U.S.",
+            "link": "https://www.nytimes.com/video/technology/100000010285812/the-bills-that-could-change-crypto-in-the-us.html",
+            "published": "Wed, 16 Jul 2025 22:27:44 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Does the UK video games industry have a class problem?",
+            "link": "https://www.bbc.com/news/articles/cvg9jeg2nxgo",
+            "published": "Wed, 16 Jul 2025 23:08:25 GMT"
+        },
         {
             "title": "Co-op boss confirms all 6.5m members had data stolen",
             "link": "https://www.bbc.com/news/articles/cql0ple066po",
@@ -73,11 +78,6 @@
             "title": "New AI voice tool trained to copy British regional accents",
             "link": "https://www.bbc.com/news/articles/c07d2dyx19zo",
             "published": "Mon, 14 Jul 2025 23:06:09 GMT"
-        },
-        {
-            "title": "Nvidia says it will restart AI chip sales to China",
-            "link": "https://www.bbc.com/news/articles/cy8g22n32d0o",
-            "published": "Tue, 15 Jul 2025 06:03:35 GMT"
         }
     ]
 }
