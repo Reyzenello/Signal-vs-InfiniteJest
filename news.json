@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The US House passes the GENIUS Act, sending the stablecoin bill to Trump for his signature, and advances two other crypto bills to the Senate for consideration (Reuters)",
+            "link": "http://www.techmeme.com/250717/p51#a250717p51",
+            "published": "Thu, 17 Jul 2025 18:55:01 -0400"
+        },
+        {
+            "title": "A federal judge reinstates FTC Commissioner Rebecca Kelly Slaughter, months after President Trump sought to fire her and Democratic colleague Alvaro Bedoya (Bloomberg Law)",
+            "link": "http://www.techmeme.com/250717/p50#a250717p50",
+            "published": "Thu, 17 Jul 2025 18:50:01 -0400"
+        },
+        {
             "title": "Netflix says it's on track to double its advertising revenue this year and that it will roll out interactive ads in the second half of 2025 (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/250717/p49#a250717p49",
             "published": "Thu, 17 Jul 2025 18:25:03 -0400"
@@ -14,23 +24,13 @@
             "title": "Netflix reports Q2 revenue up 16% YoY to $11.08B, vs. $11.07B est., net income of $3.13B, and forecasts 2025 revenue of $44.8B-$45.2B, up from $43.5B-$44.5B (Sarah Whitten/CNBC)",
             "link": "http://www.techmeme.com/250717/p47#a250717p47",
             "published": "Thu, 17 Jul 2025 16:10:00 -0400"
-        },
-        {
-            "title": "The House passes the GENIUS Act, sending the first-ever regulatory framework for issuers of stablecoins to President Trump for his signature (Axios)",
-            "link": "http://www.techmeme.com/250717/p46#a250717p46",
-            "published": "Thu, 17 Jul 2025 16:02:08 -0400"
-        },
-        {
-            "title": "Google's Veo 3 video generation model launches on the Gemini API, with an eight-second video costing $6, making it one of the most expensive AI video options (Matthias Bastian/The Decoder)",
-            "link": "http://www.techmeme.com/250717/p45#a250717p45",
-            "published": "Thu, 17 Jul 2025 15:30:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Crypto Industry Reaches Milestone With Passage of Genius Act",
             "link": "https://www.nytimes.com/2025/07/17/technology/crypto-industry-milestone-legislation.html",
-            "published": "Thu, 17 Jul 2025 22:15:25 +0000"
+            "published": "Thu, 17 Jul 2025 23:04:02 +0000"
         },
         {
             "title": "How Nvidia\u2019s Jensen Huang Persuaded Trump to Sell A.I. Chips to China",
@@ -50,10 +50,15 @@
         {
             "title": "U.S. Proposes Steep Tariffs on Critical E.V. Battery Material",
             "link": "https://www.nytimes.com/2025/07/17/business/trump-graphite-tariff-electric-vehicles.html",
-            "published": "Thu, 17 Jul 2025 20:16:54 +0000"
+            "published": "Thu, 17 Jul 2025 22:58:30 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US passes first major national crypto legislation",
+            "link": "https://www.bbc.com/news/articles/cd78lvd94zyo",
+            "published": "Thu, 17 Jul 2025 23:17:14 GMT"
+        },
         {
             "title": "Meta investors settle $8bn lawsuit with Zuckerberg over Facebook privacy",
             "link": "https://www.bbc.com/news/articles/cx2jmledvr3o",
@@ -73,11 +78,6 @@
             "title": "Co-op boss confirms all 6.5m members had data stolen",
             "link": "https://www.bbc.com/news/articles/cql0ple066po",
             "published": "Wed, 16 Jul 2025 13:10:12 GMT"
-        },
-        {
-            "title": "How will age verification for porn work and what about privacy?",
-            "link": "https://www.bbc.com/news/articles/ceq7ye3q2zwo",
-            "published": "Wed, 16 Jul 2025 08:04:09 GMT"
         }
     ]
 }
