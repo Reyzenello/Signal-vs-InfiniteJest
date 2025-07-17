@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Firestorm Labs, which has contracts with the US DOD for its 3D printed drones, raised a $47M Series A and plans to grow its fleet of airliftable xCell factories (Colin Demarest/Axios)",
-            "link": "http://www.techmeme.com/250717/p31#a250717p31",
-            "published": "Thu, 17 Jul 2025 11:30:01 -0400"
+            "title": "Decentralized messaging protocol XMTP developer Ephemera raised a $20M Series B at a $300M equity and $750M network valuation, following a $20M Series A in 2021 (Yogita Khatri/The Block)",
+            "link": "http://www.techmeme.com/250717/p36#a250717p36",
+            "published": "Thu, 17 Jul 2025 12:15:00 -0400"
         },
         {
-            "title": "A US judge rules that three authors suing Anthropic can bring a class action on behalf of all US writers whose books Anthropic allegedly pirated to train its AI (Blake Brittain/Reuters)",
-            "link": "http://www.techmeme.com/250717/p30#a250717p30",
-            "published": "Thu, 17 Jul 2025 11:05:01 -0400"
+            "title": "Internal memo: Adam Mosseri says Meta has named long time executive Connor Hayes as head of Threads, starting in mid-September; Hayes joined Meta in 2011 (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/250717/p35#a250717p35",
+            "published": "Thu, 17 Jul 2025 12:10:05 -0400"
         },
         {
-            "title": "Spotify expands audiobook access to family plan members with new plans, including Audiobooks+, offering more listening hours, in the UK and 10+ countries (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250717/p29#a250717p29",
-            "published": "Thu, 17 Jul 2025 10:55:01 -0400"
+            "title": "SEC filing: Seattle-based Augmodo, which is developing wearable tech for retail store employees, like a Smartbadge that collects inventory data, raised $37.5M (Taylor Soper/GeekWire)",
+            "link": "http://www.techmeme.com/250717/p34#a250717p34",
+            "published": "Thu, 17 Jul 2025 12:00:46 -0400"
         },
         {
-            "title": "Q&A with Perplexity CEO Aravind Srinivas on the browser as AI's killer app, AI talent wars, why users will eventually pay thousands for a single AI prompt, more (Alex Heath/The Verge)",
-            "link": "http://www.techmeme.com/250717/p28#a250717p28",
-            "published": "Thu, 17 Jul 2025 10:45:00 -0400"
+            "title": "Boulevard, which provides business management software for the self-care sector, raised an $80M Series D led by JMI Equity at an ~$800M post-money valuation (Mary Ann Azevedo/Crunchbase News)",
+            "link": "http://www.techmeme.com/250717/p33#a250717p33",
+            "published": "Thu, 17 Jul 2025 11:50:12 -0400"
         },
         {
-            "title": "Substack raised a $100M Series C from Chernin Group, a16z, and others, sources say at a $1.1B valuation, as it builds its social network and warms up to ads (New York Times)",
-            "link": "http://www.techmeme.com/250717/p27#a250717p27",
-            "published": "Thu, 17 Jul 2025 10:12:05 -0400"
+            "title": "Mistral adds new features to its Le Chat chatbot, including a new \"deep research\" mode, native multilingual reasoning, and advanced image editing (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/250717/p32#a250717p32",
+            "published": "Thu, 17 Jul 2025 11:40:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Meta investors settle $8bn lawsuit with Zuckerberg over Facebook privacy",
+            "link": "https://www.bbc.com/news/articles/cx2jmledvr3o",
+            "published": "Thu, 17 Jul 2025 15:35:58 GMT"
+        },
+        {
             "title": "Does the UK video games industry have a class problem?",
             "link": "https://www.bbc.com/news/articles/cvg9jeg2nxgo",
             "published": "Wed, 16 Jul 2025 23:08:25 GMT"
@@ -73,11 +78,6 @@
             "title": "How will age verification for porn work and what about privacy?",
             "link": "https://www.bbc.com/news/articles/ceq7ye3q2zwo",
             "published": "Wed, 16 Jul 2025 08:04:09 GMT"
-        },
-        {
-            "title": "WeTransfer says files not used to train AI after backlash",
-            "link": "https://www.bbc.com/news/articles/cp8mp79gyz1o",
-            "published": "Tue, 15 Jul 2025 12:47:23 GMT"
         }
     ]
 }
