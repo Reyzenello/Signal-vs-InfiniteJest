@@ -1,12 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Survey: when it comes to using AI as a companion to seek advice, flirt, or share deep conversations, ~75% of US teens say they've used AI this way at least once (Neda Ulaby/NPR)",
+            "title": "Survey: when asked about using AI as a companion to seek advice, flirt, or share deep conversations, ~75% of US teens say they've used AI this way at least once (Neda Ulaby/NPR)",
             "link": "http://www.techmeme.com/250721/p2#a250721p2",
             "published": "Mon, 21 Jul 2025 02:20:01 -0400"
         },
         {
-            "title": "Microsoft releases a patch for a SharePoint 0-day RCE flaw exploited globally on thousands of on-prem servers, says updates for SharePoint 2016 are in the works (Bloomberg)",
+            "title": "Microsoft releases a patch for a SharePoint 0-day RCE flaw exploited globally on thousands of on-prem servers and says SharePoint 2016 updates are in the works (Bloomberg)",
             "link": "http://www.techmeme.com/250721/p1#a250721p1",
             "published": "Mon, 21 Jul 2025 01:35:00 -0400"
         },
@@ -16,7 +16,7 @@
             "published": "Sun, 20 Jul 2025 22:35:00 -0400"
         },
         {
-            "title": "A look at the video podcasting surge; study: ~75% of podcast consumers play video episodes and ~30% play video episodes minimized or in background mode (Joseph Bernstein/New York Times)",
+            "title": "A look at the video podcasting surge; a study shows ~75% of podcast consumers play video episodes and ~30% play video episodes minimized or in background mode (Joseph Bernstein/New York Times)",
             "link": "http://www.techmeme.com/250720/p13#a250720p13",
             "published": "Sun, 20 Jul 2025 20:00:14 -0400"
         },
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "How the rise of green tech is feeding another environmental crisis",
+            "link": "https://www.bbc.com/news/articles/c30741j351go",
+            "published": "Sat, 19 Jul 2025 23:05:12 GMT"
+        },
+        {
             "title": "US passes first major national crypto legislation",
             "link": "https://www.bbc.com/news/articles/cd78lvd94zyo",
             "published": "Thu, 17 Jul 2025 23:17:14 GMT"
@@ -73,11 +78,6 @@
             "title": "Does the UK video games industry have a class problem?",
             "link": "https://www.bbc.com/news/articles/cvg9jeg2nxgo",
             "published": "Wed, 16 Jul 2025 23:08:25 GMT"
-        },
-        {
-            "title": "Samsung boss cleared of fraud by South Korea's top court",
-            "link": "https://www.bbc.com/news/articles/ckgj04nw19zo",
-            "published": "Thu, 17 Jul 2025 06:13:59 GMT"
         }
     ]
 }
