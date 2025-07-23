@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Meta debuts a prototype wristband to read electrical signals from forearm muscles, letting users control devices without touch, trained on 10K peoples' EMG data (Cade Metz/New York Times)",
+            "link": "http://www.techmeme.com/250723/p26#a250723p26",
+            "published": "Wed, 23 Jul 2025 11:12:08 -0400"
+        },
+        {
+            "title": "President Trump's AI Action Plan, which has 90+ policy recommendations, explicitly seeks to roll back Biden-era measures on AI bias and cybersecurity threats (Kate Knibbs/Wired)",
+            "link": "http://www.techmeme.com/250723/p25#a250723p25",
+            "published": "Wed, 23 Jul 2025 11:05:21 -0400"
+        },
+        {
+            "title": "The White House unveils the AI Action Plan, seeking to assert US dominance over China, including proposals to ease permitting for AI infrastructure projects (Bloomberg)",
+            "link": "http://www.techmeme.com/250723/p24#a250723p24",
+            "published": "Wed, 23 Jul 2025 10:41:38 -0400"
+        },
+        {
             "title": "A US federal jury gives five Nevada men varying prison sentences for their roles in running Jetflicks, one of the largest illegal TV streaming services (Jonathan Greig/The Record)",
             "link": "http://www.techmeme.com/250723/p23#a250723p23",
             "published": "Wed, 23 Jul 2025 10:20:15 -0400"
@@ -9,33 +24,23 @@
             "title": "A hacker claims to have compromised Amazon's Q coding assistant for VS Code via a GitHub pull request; Amazon says \"no customer resources were impacted\" (Joseph Cox/404 Media)",
             "link": "http://www.techmeme.com/250723/p22#a250723p22",
             "published": "Wed, 23 Jul 2025 10:10:01 -0400"
-        },
-        {
-            "title": "Ukraine arrests the suspected administrator of Russian-speaking hacking forum XSS.is at the Paris public prosecutor's request, with help from France and Europol (Bill Toulas/BleepingComputer)",
-            "link": "http://www.techmeme.com/250723/p21#a250723p21",
-            "published": "Wed, 23 Jul 2025 09:45:01 -0400"
-        },
-        {
-            "title": "Uber plans to launch a pilot ride type to match female riders and drivers in LA, San Francisco, and Detroit over the next few weeks, called \"Women Drivers\" (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/250723/p20#a250723p20",
-            "published": "Wed, 23 Jul 2025 09:05:08 -0400"
-        },
-        {
-            "title": "Sonos names interim CEO Tom Conrad as CEO, effective immediately, as it works to restore confidence after its app disaster; Conrad took the job in January 2025 (Chris Welch/Bloomberg)",
-            "link": "http://www.techmeme.com/250723/p19#a250723p19",
-            "published": "Wed, 23 Jul 2025 08:55:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Trump Administration Plans to Speed Up A.I. Development",
+            "link": "https://www.nytimes.com/2025/07/23/technology/trump-ai-executive-orders.html",
+            "published": "Wed, 23 Jul 2025 15:04:36 +0000"
+        },
+        {
+            "title": "A.I. May Be the Future, but First It Has to Study Ancient Roman History",
+            "link": "https://www.nytimes.com/2025/07/23/science/ai-history-ancient-rome-google-deepmind.html",
+            "published": "Wed, 23 Jul 2025 15:00:25 +0000"
+        },
+        {
             "title": "Google A.I. System Wins Gold In International Math Olympiad",
             "link": "https://www.nytimes.com/2025/07/21/technology/google-ai-international-mathematics-olympiad.html",
             "published": "Mon, 21 Jul 2025 20:52:14 +0000"
-        },
-        {
-            "title": "How a Sequoia Capital Partner\u2019s Mamdani Posts Dragged the Firm Into Politics",
-            "link": "https://www.nytimes.com/2025/07/19/technology/sequoia-capital-shaun-maguire-mamdani.html",
-            "published": "Tue, 22 Jul 2025 00:45:11 +0000"
         },
         {
             "title": "Mike Lynch\u2019s Estate Ordered to Pay Hewlett Packard $945 Million",
@@ -43,14 +48,9 @@
             "published": "Tue, 22 Jul 2025 19:37:36 +0000"
         },
         {
-            "title": "X Hits Grok Bottom + More A.I. Talent Wars + \u2018Crypto Week\u2019",
-            "link": "https://www.nytimes.com/2025/07/18/podcasts/x-hits-grok-bottom-more-ai-talent-wars-crypto-week.html",
-            "published": "Fri, 18 Jul 2025 11:00:03 +0000"
-        },
-        {
-            "title": "Federal Prosecutors Close Inquiry Into Co-Founder of Kraken Crypto Exchange",
-            "link": "https://www.nytimes.com/2025/07/22/technology/jesse-powell-kraken-verge-investigation.html",
-            "published": "Wed, 23 Jul 2025 01:36:46 +0000"
+            "title": "Meta Unveils Wristband For Controlling Computers With Hand Gestures",
+            "link": "https://www.nytimes.com/2025/07/23/science/meta-computer-wristband-reardon.html",
+            "published": "Wed, 23 Jul 2025 15:00:18 +0000"
         }
     ],
     "source_2": [
