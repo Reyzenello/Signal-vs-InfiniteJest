@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "BetterComp, which provides compensation management services for HR teams, raised a $33M Series A led by Ten Coves Capital (Duncan Riley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250722/p46#a250722p46",
+            "published": "Tue, 22 Jul 2025 23:50:00 -0400"
+        },
+        {
+            "title": "xLight, which is developing a new class of laser for EUV machines in partnership with ASML, raised a $40M Series B led by Playground Global (Stephen Nellis/Reuters)",
+            "link": "http://www.techmeme.com/250722/p45#a250722p45",
+            "published": "Tue, 22 Jul 2025 23:30:01 -0400"
+        },
+        {
+            "title": "Sources: the Trump admin is pressuring South Korea, Brazil, the EU, and others to drop plans for new taxes on US tech firms as a part of broader trade talks (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250722/p44#a250722p44",
+            "published": "Tue, 22 Jul 2025 22:45:01 -0400"
+        },
+        {
             "title": "PitchBook: in H1, AI startups raised $104.3B in the US, or about 66% of all US VC funding, up from 49% last year; there were 281 VC-backed exits totaling $36B (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/250722/p43#a250722p43",
             "published": "Tue, 22 Jul 2025 21:40:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Source: the US National Nuclear Security Administration was among those breached by a hack of SharePoint; no sensitive information is known to be compromised (Ari Natter/Bloomberg)",
             "link": "http://www.techmeme.com/250722/p42#a250722p42",
             "published": "Tue, 22 Jul 2025 20:23:20 -0400"
-        },
-        {
-            "title": "Researchers detail \"subliminal learning\", where LLMs learn traits from model-generated data that is semantically unrelated to those traits (Anthropic)",
-            "link": "http://www.techmeme.com/250722/p41#a250722p41",
-            "published": "Tue, 22 Jul 2025 20:10:01 -0400"
-        },
-        {
-            "title": "Businesses and households served by PJM, the US' largest power grid operator, will pay a record $16.1B for electricity supplies amid an AI-driven demand surge (Naureen S Malik/Bloomberg)",
-            "link": "http://www.techmeme.com/250722/p40#a250722p40",
-            "published": "Tue, 22 Jul 2025 19:55:00 -0400"
-        },
-        {
-            "title": "Microsoft launches the 13.8-inch Surface Laptop 5G for business customers, featuring Intel Core Ultra series 2 processors, shipping on August 26 for $1,799+ (Zac Bowden/Windows Central)",
-            "link": "http://www.techmeme.com/250722/p39#a250722p39",
-            "published": "Tue, 22 Jul 2025 19:15:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Microsoft servers hacked by Chinese groups, firm says",
+            "link": "https://www.bbc.com/news/articles/c4gdnz1nlgyo",
+            "published": "Wed, 23 Jul 2025 02:53:31 GMT"
+        },
+        {
             "title": "OpenAI and UK sign deal to use AI in public services",
             "link": "https://www.bbc.com/news/articles/czdv68gejm7o",
             "published": "Tue, 22 Jul 2025 12:00:26 GMT"
@@ -73,11 +78,6 @@
             "title": "Netflix uses AI effects for first time to cut costs",
             "link": "https://www.bbc.com/news/articles/c9vr4rymlw9o",
             "published": "Fri, 18 Jul 2025 08:54:29 GMT"
-        },
-        {
-            "title": "Meta investors settle $8bn lawsuit with Zuckerberg over Facebook privacy",
-            "link": "https://www.bbc.com/news/articles/cx2jmledvr3o",
-            "published": "Thu, 17 Jul 2025 20:05:28 GMT"
         }
     ]
 }
