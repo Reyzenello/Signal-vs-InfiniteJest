@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Proton launches Lumo, an AI chatbot to summarize documents, generate code, and more and says it will protect users' information via \"zero-access\" encryption (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250723/p13#a250723p13",
+            "published": "Wed, 23 Jul 2025 07:25:00 -0400"
+        },
+        {
+            "title": "The UK CMA proposes giving Apple and Google \"strategic market status\" in mobile platforms after an investigation and finds \"opportunities for more innovation\" (Muvija M/Reuters)",
+            "link": "http://www.techmeme.com/250723/p12#a250723p12",
+            "published": "Wed, 23 Jul 2025 07:16:16 -0400"
+        },
+        {
             "title": "VenHub, which uses robotics and AI to run fully automated retail stores, confidentially files for a US direct listing, after a $715M SPAC merger failed in May (Anthony Hughes/Bloomberg)",
             "link": "http://www.techmeme.com/250723/p11#a250723p11",
             "published": "Wed, 23 Jul 2025 06:10:04 -0400"
@@ -14,16 +24,6 @@
             "title": "Dell says COO Jeff Clarke will now oversee its Client Solutions Group, which includes desktop and notebook PCs; Dell's consumer PC revenue fell 19% in Q1 (Bloomberg)",
             "link": "http://www.techmeme.com/250723/p9#a250723p9",
             "published": "Wed, 23 Jul 2025 05:40:00 -0400"
-        },
-        {
-            "title": "Researchers say North Korean scammers infiltrating the US workforce often reference Minions and other Despicable Me characters in GitHub and Telegram profiles (Robert McMillan/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250723/p8#a250723p8",
-            "published": "Wed, 23 Jul 2025 04:00:50 -0400"
-        },
-        {
-            "title": "OpenAI details how its tools have boosted US worker productivity and says its chief economist is leading a 12-month study to assess AI's impact on productivity (OpenAI)",
-            "link": "http://www.techmeme.com/250723/p7#a250723p7",
-            "published": "Wed, 23 Jul 2025 02:50:15 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple and Google have 'effective duopoly' in UK says regulator",
+            "link": "https://www.bbc.com/news/articles/c5yknl04dnno",
+            "published": "Wed, 23 Jul 2025 11:11:23 GMT"
+        },
+        {
             "title": "Microsoft servers hacked by Chinese groups, says tech giant",
             "link": "https://www.bbc.com/news/articles/c4gdnz1nlgyo",
             "published": "Wed, 23 Jul 2025 02:53:31 GMT"
@@ -73,11 +78,6 @@
             "title": "US passes first major national crypto legislation",
             "link": "https://www.bbc.com/news/articles/cd78lvd94zyo",
             "published": "Thu, 17 Jul 2025 23:17:14 GMT"
-        },
-        {
-            "title": "Netflix uses AI effects for first time to cut costs",
-            "link": "https://www.bbc.com/news/articles/c9vr4rymlw9o",
-            "published": "Fri, 18 Jul 2025 08:54:29 GMT"
         }
     ]
 }
