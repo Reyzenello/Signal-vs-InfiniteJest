@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Leena AI, which develops an employee-facing agentic AI assistant, launches \"AI colleagues\" that it says can work and interact just like human employees (Kyt Dotson/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250724/p25#a250724p25",
+            "published": "Thu, 24 Jul 2025 10:30:04 -0400"
+        },
+        {
+            "title": "Gamefound, a board game crowdfunding company, acquires Indiegogo, which has 38M members and will change its pricing to be in line with Gamefound's flat 5% fee (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/250724/p24#a250724p24",
+            "published": "Thu, 24 Jul 2025 10:25:00 -0400"
+        },
+        {
+            "title": "LegalOn, whose contract review tool uses AI to identify risks and suggest edits, raised a $50M Series C, bringing its total raised to $200M+ (Kate Park/TechCrunch)",
+            "link": "http://www.techmeme.com/250724/p23#a250724p23",
+            "published": "Thu, 24 Jul 2025 10:15:01 -0400"
+        },
+        {
             "title": "Google launches its virtual clothes try-on feature, letting users upload photos of themselves, in the US and updates price alerts to let users specify an amount (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/250724/p22#a250724p22",
             "published": "Thu, 24 Jul 2025 09:25:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Amazon updates its color screen Kindle Colorsoft with a cheaper 16GB model for $250 and a kids-focused bundle with one year of Kids Plus for $270, available now (Jay Peters/The Verge)",
             "link": "http://www.techmeme.com/250724/p21#a250724p21",
             "published": "Thu, 24 Jul 2025 09:15:01 -0400"
-        },
-        {
-            "title": "Analysis and sources: $1B+ of Nvidia's AI chips were shipped to China in the three months after President Trump tightened chip export controls in May (Financial Times)",
-            "link": "http://www.techmeme.com/250724/p20#a250724p20",
-            "published": "Thu, 24 Jul 2025 07:15:00 -0400"
-        },
-        {
-            "title": "Q&A with Stability AI CEO Prem Akkaraju on taking over from Emad Mostaque, his movie background, data and copyright, working with creative industries, and more (Melissa Heikkil\u00e4/Financial Times)",
-            "link": "http://www.techmeme.com/250724/p19#a250724p19",
-            "published": "Thu, 24 Jul 2025 06:55:04 -0400"
-        },
-        {
-            "title": "Sources and a document: China aims to build a national network to sell surplus computing power and address an oversupply caused by a three-year data center boom (Reuters)",
-            "link": "http://www.techmeme.com/250724/p18#a250724p18",
-            "published": "Thu, 24 Jul 2025 06:36:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Thousands unable to make calls as EE mobile network down",
+            "link": "https://www.bbc.com/news/articles/cnvmvqrnq7go",
+            "published": "Thu, 24 Jul 2025 14:20:24 GMT"
+        },
+        {
             "title": "As porn sites apply new age checks, will users hand over personal ID?",
             "link": "https://www.bbc.com/news/articles/c1k81lj8nvpo",
             "published": "Thu, 24 Jul 2025 02:25:59 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft servers hacked by Chinese groups, says tech giant",
             "link": "https://www.bbc.com/news/articles/c4gdnz1nlgyo",
             "published": "Wed, 23 Jul 2025 02:53:31 GMT"
-        },
-        {
-            "title": "OpenAI and UK sign deal to use AI in public services",
-            "link": "https://www.bbc.com/news/articles/czdv68gejm7o",
-            "published": "Tue, 22 Jul 2025 12:00:26 GMT"
         }
     ]
 }
