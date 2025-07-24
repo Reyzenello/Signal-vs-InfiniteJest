@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Hands-on with macOS 26: the interface is a mess, like a poorly imported iOS design, but the power of Spotlight and Shortcuts will delight many longtime users (Jason Snell/Six Colors)",
+            "link": "http://www.techmeme.com/250724/p51#a250724p51",
+            "published": "Thu, 24 Jul 2025 19:20:01 -0400"
+        },
+        {
+            "title": "Starlink says it's experiencing a network outage and is \"implementing a solution\"; NetBlocks reports that connectivity dropped to \"16% of ordinary levels\" (Richard Lawler/The Verge)",
+            "link": "http://www.techmeme.com/250724/p50#a250724p50",
+            "published": "Thu, 24 Jul 2025 18:40:01 -0400"
+        },
+        {
             "title": "X is testing using Community Notes to highlight posts that are liked by users with different perspectives (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/250724/p49#a250724p49",
             "published": "Thu, 24 Jul 2025 17:25:01 -0400"
@@ -14,19 +24,14 @@
             "title": "Intel cancelled planned fab projects in Germany and Poland, and will consolidate its testing and assembly operations in Vietnam and Malaysia (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/250724/p47#a250724p47",
             "published": "Thu, 24 Jul 2025 16:30:01 -0400"
-        },
-        {
-            "title": "Hands-on with iPadOS 26: new windowing system is great and other enhancements like smarter Shortcuts and Files app make the iPad better for professional use (Jason Snell/Six Colors)",
-            "link": "http://www.techmeme.com/250724/p46#a250724p46",
-            "published": "Thu, 24 Jul 2025 16:20:01 -0400"
-        },
-        {
-            "title": "Intel reports Q2 revenue flat YoY at $12.9B, vs. $11.9B est., a $2.9B loss due to restructuring and impairment charges, and forecasts Q3 revenue above estimates (Michael Acton/Financial Times)",
-            "link": "http://www.techmeme.com/250724/p45#a250724p45",
-            "published": "Thu, 24 Jul 2025 16:13:51 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Intel Expects Work Force to Shrink by 25,000",
+            "link": "https://www.nytimes.com/2025/07/24/technology/intel-layoffs-25000.html",
+            "published": "Thu, 24 Jul 2025 22:52:45 +0000"
+        },
         {
             "title": "The Chatbot Culture Wars Are Here",
             "link": "https://www.nytimes.com/2025/07/23/technology/trump-ai-chatbots-bias.html",
@@ -43,14 +48,9 @@
             "published": "Wed, 23 Jul 2025 22:44:01 +0000"
         },
         {
-            "title": "Meta Unveils Wristband For Controlling Computers With Hand Gestures",
-            "link": "https://www.nytimes.com/2025/07/23/science/meta-computer-wristband-reardon.html",
-            "published": "Wed, 23 Jul 2025 15:00:18 +0000"
-        },
-        {
-            "title": "Intel Expects Work Force to Shrink by 25,000",
-            "link": "https://www.nytimes.com/2025/07/24/technology/intel-layoffs-25000.html",
-            "published": "Thu, 24 Jul 2025 22:22:10 +0000"
+            "title": "In the Latest Space Race, It\u2019s China vs. SpaceX",
+            "link": "https://www.nytimes.com/video/technology/100000010290263/china-starlink-space-race.html",
+            "published": "Thu, 24 Jul 2025 10:04:34 +0000"
         }
     ],
     "source_2": [
