@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Adani Group has shelved plans for a consumer super app amid losses and internal turmoil, as Reliance and Tata also struggle to scale their platforms (Bloomberg)",
+            "link": "http://www.techmeme.com/250724/p3#a250724p3",
+            "published": "Thu, 24 Jul 2025 01:25:04 -0400"
+        },
+        {
+            "title": "China's Qianfan, the third largest satellite broadband constellation with 90 operational satellites, remains far short of its goal of 648 by the end of 2025 (Ling Xin/South China Morning Post)",
+            "link": "http://www.techmeme.com/250724/p2#a250724p2",
+            "published": "Thu, 24 Jul 2025 01:10:01 -0400"
+        },
+        {
+            "title": "Tether CEO Paolo Ardoino says the USDT issuer is making plans to do business in the US after the passage of Genius Act, with a focus on institutional markets (Bloomberg)",
+            "link": "http://www.techmeme.com/250724/p1#a250724p1",
+            "published": "Thu, 24 Jul 2025 00:55:01 -0400"
+        },
+        {
             "title": "Sources: the US FDA's AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work (Sarah Owermohle/CNN)",
             "link": "http://www.techmeme.com/250723/p45#a250723p45",
             "published": "Wed, 23 Jul 2025 23:00:00 -0400"
@@ -9,21 +24,6 @@
             "title": "The Wireless Power Consortium launches faster Qi2 25W wireless charging, with \"major Android smartphones\" finally adopting the standard alongside the iPhone (Dominic Preston/The Verge)",
             "link": "http://www.techmeme.com/250723/p44#a250723p44",
             "published": "Wed, 23 Jul 2025 22:10:01 -0400"
-        },
-        {
-            "title": "ServiceNow reports Q2 revenue up 22.5% YoY to $3.22B, vs. $3.12B est., and net income up 47% YoY to $385M, fueled by AI growth; NOW jumps 7%+ after hours (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/250723/p43#a250723p43",
-            "published": "Wed, 23 Jul 2025 21:30:01 -0400"
-        },
-        {
-            "title": "T-Mobile's Starlink-powered satellite service T-Satellite is now generally available as a standalone subscription for US users, not just T-Mobile customers (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250723/p42#a250723p42",
-            "published": "Wed, 23 Jul 2025 21:10:00 -0400"
-        },
-        {
-            "title": "At an All-In Podcast summit, President Trump said forcing AI firms to pay for each copyrighted work is \"not doable\", calling for \"common sense\" AI and IP rules (Deadline)",
-            "link": "http://www.techmeme.com/250723/p41#a250723p41",
-            "published": "Wed, 23 Jul 2025 20:45:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Thu, 24 Jul 2025 02:25:59 GMT"
         },
         {
+            "title": "South Park to stream on Paramount+ after bidding war",
+            "link": "https://www.bbc.com/news/articles/cr4wgywwg0qo",
+            "published": "Thu, 24 Jul 2025 04:14:14 GMT"
+        },
+        {
             "title": "Apple and Google have 'effective duopoly' in UK says regulator",
             "link": "https://www.bbc.com/news/articles/c5yknl04dnno",
             "published": "Wed, 23 Jul 2025 11:11:23 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI and UK sign deal to use AI in public services",
             "link": "https://www.bbc.com/news/articles/czdv68gejm7o",
             "published": "Tue, 22 Jul 2025 12:00:26 GMT"
-        },
-        {
-            "title": "How the rise of green tech is feeding another environmental crisis",
-            "link": "https://www.bbc.com/news/articles/c30741j351go",
-            "published": "Sat, 19 Jul 2025 23:05:12 GMT"
         }
     ]
 }
