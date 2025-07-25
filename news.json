@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft's Recall is meeting a lot of resistance from app developers, with Brave and AdGuard joining Signal in blocking the controversial Windows AI tool (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250725/p8#a250725p8",
+            "published": "Fri, 25 Jul 2025 08:35:00 -0400"
+        },
+        {
+            "title": "Google is testing a vibe-coding tool called Opal that lets users create mini web apps using text prompts or remix existing apps, available in the US via Labs (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/250725/p7#a250725p7",
+            "published": "Fri, 25 Jul 2025 07:40:01 -0400"
+        },
+        {
+            "title": "Meta will end political, election, or social issue ads in the EU from October, like Google, with both citing incoming regulation (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/250725/p6#a250725p6",
+            "published": "Fri, 25 Jul 2025 07:30:01 -0400"
+        },
+        {
             "title": "Public companies are loading up on crypto tokens, including $TRUMP, HYPE, and litecoin, as they expand beyond bitcoin to boost their own share prices (Financial Times)",
             "link": "http://www.techmeme.com/250725/p5#a250725p5",
             "published": "Fri, 25 Jul 2025 07:10:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Analysis: US and UK entry-level graduate job listings have plunged since 2022, but there's only tentative evidence of AI-related disruption in some occupations (Financial Times)",
             "link": "http://www.techmeme.com/250725/p4#a250725p4",
             "published": "Fri, 25 Jul 2025 05:55:01 -0400"
-        },
-        {
-            "title": "Intel says it may exit cutting-edge manufacturing if it can't secure customers for its 14A process, a major shift for the long-time steward of Moore's Law (Reuters)",
-            "link": "http://www.techmeme.com/250725/p3#a250725p3",
-            "published": "Fri, 25 Jul 2025 04:15:14 -0400"
-        },
-        {
-            "title": "Sources: repair demand in China for Nvidia's banned AI chips, including H100 and A100, surges as ~12 firms now repair chips that made their way into the country (Reuters)",
-            "link": "http://www.techmeme.com/250725/p2#a250725p2",
-            "published": "Fri, 25 Jul 2025 02:05:01 -0400"
-        },
-        {
-            "title": "Tether says it has ~250K Tether Gold tokens in circulation as of Q2 2025, backed 1:1 by a troy ounce of physical gold; the stablecoin was launched in Jan. 2020 (Daniel Kuhn/The Block)",
-            "link": "http://www.techmeme.com/250725/p1#a250725p1",
-            "published": "Fri, 25 Jul 2025 00:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Around 6,000 porn sites start checking ages in UK",
+            "link": "https://www.bbc.com/news/articles/c24v4dl5r16o",
+            "published": "Fri, 25 Jul 2025 11:30:21 GMT"
+        },
+        {
             "title": "EE and BT network outage resolved, firm says",
             "link": "https://www.bbc.com/news/articles/cnvmvqrnq7go",
             "published": "Thu, 24 Jul 2025 20:40:14 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple and Google have 'effective duopoly' in UK says regulator",
             "link": "https://www.bbc.com/news/articles/c5yknl04dnno",
             "published": "Wed, 23 Jul 2025 11:11:23 GMT"
-        },
-        {
-            "title": "Microsoft servers hacked by Chinese groups, says tech giant",
-            "link": "https://www.bbc.com/news/articles/c4gdnz1nlgyo",
-            "published": "Wed, 23 Jul 2025 02:53:31 GMT"
         }
     ]
 }
