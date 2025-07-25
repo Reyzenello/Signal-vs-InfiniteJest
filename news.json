@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: GPT-5 shows improved performance in coding, particularly in practical software engineering tasks, outperforming prior OpenAI models and Claude Sonnet 4 (Stephanie Palazzolo/The Information)",
+            "link": "http://www.techmeme.com/250725/p12#a250725p12",
+            "published": "Fri, 25 Jul 2025 10:20:01 -0400"
+        },
+        {
+            "title": "Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities (Natalie Lung/Bloomberg)",
+            "link": "http://www.techmeme.com/250725/p11#a250725p11",
+            "published": "Fri, 25 Jul 2025 09:45:30 -0400"
+        },
+        {
             "title": "Anysphere launches Bugbot, an AI-powered tool that integrates with GitHub to detect coding errors introduced by humans or AI agents, for $40 per month per user (Lauren Goode/Wired)",
             "link": "http://www.techmeme.com/250725/p10#a250725p10",
             "published": "Fri, 25 Jul 2025 09:35:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Microsoft's Recall is meeting a lot of resistance from app developers, with Brave and AdGuard joining Signal in blocking the controversial Windows AI tool (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250725/p8#a250725p8",
             "published": "Fri, 25 Jul 2025 08:35:00 -0400"
-        },
-        {
-            "title": "Google is testing a vibe-coding tool called Opal that lets users create mini web apps using text prompts or remix existing apps, available in the US via Labs (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/250725/p7#a250725p7",
-            "published": "Fri, 25 Jul 2025 07:40:01 -0400"
-        },
-        {
-            "title": "Meta will end political, election, or social issue ads in the EU from October, like Google, with both citing incoming regulation (Sara Fischer/Axios)",
-            "link": "http://www.techmeme.com/250725/p6#a250725p6",
-            "published": "Fri, 25 Jul 2025 07:30:01 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Wed, 23 Jul 2025 23:24:27 +0000"
         },
         {
-            "title": "Alphabet Earnings Show 14% Revenue Increase as Google Faces A.I. Competition",
-            "link": "https://www.nytimes.com/2025/07/23/technology/alphabet-google-earnings-ai.html",
-            "published": "Wed, 23 Jul 2025 22:44:02 +0000"
-        },
-        {
             "title": "Trump Fights \u2018Woke\u2019 A.I. + We Hear Out Our Critics",
             "link": "https://www.nytimes.com/2025/07/25/podcasts/trump-fights-woke-ai-we-hear-out-our-critics.html",
             "published": "Fri, 25 Jul 2025 11:00:03 +0000"
+        },
+        {
+            "title": "In the Latest Space Race, It\u2019s China vs. SpaceX",
+            "link": "https://www.nytimes.com/video/technology/100000010290263/china-starlink-space-race.html",
+            "published": "Fri, 25 Jul 2025 02:54:42 +0000"
         }
     ],
     "source_2": [
