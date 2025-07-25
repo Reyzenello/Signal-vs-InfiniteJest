@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Some 4chan users claim they breached Tea, the women's dating safety app that has topped the US App Store charts, exposing selfies and drivers' licenses (Emanuel Maiberg/404 Media)",
+            "link": "http://www.techmeme.com/250725/p16#a250725p16",
+            "published": "Fri, 25 Jul 2025 12:10:04 -0400"
+        },
+        {
+            "title": "A look at Tea, a women-only safety app with 4M users that lets users anonymously assign red or green flags to local men, as it goes viral with 900K new signups (Angela Yang/NBC News)",
+            "link": "http://www.techmeme.com/250725/p15#a250725p15",
+            "published": "Fri, 25 Jul 2025 12:05:01 -0400"
+        },
+        {
             "title": "Microsoft previews Copilot Appearance, a virtual character with real-time expressions, voice, and conversational memory, for some users in the US, UK, Canada (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250725/p14#a250725p14",
             "published": "Fri, 25 Jul 2025 10:55:02 -0400"
@@ -14,19 +24,14 @@
             "title": "Sources: GPT-5 shows improved performance in coding, particularly in practical software engineering tasks, outperforming prior OpenAI models and Claude Sonnet 4 (Stephanie Palazzolo/The Information)",
             "link": "http://www.techmeme.com/250725/p12#a250725p12",
             "published": "Fri, 25 Jul 2025 10:20:01 -0400"
-        },
-        {
-            "title": "Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/250725/p11#a250725p11",
-            "published": "Fri, 25 Jul 2025 09:45:30 -0400"
-        },
-        {
-            "title": "Anysphere launches Bugbot, an AI-powered tool that integrates with GitHub to detect coding errors introduced by humans or AI agents, for $40 per month per user (Lauren Goode/Wired)",
-            "link": "http://www.techmeme.com/250725/p10#a250725p10",
-            "published": "Fri, 25 Jul 2025 09:35:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Citing New Rules, Meta Says It Will End Political Ads in E.U.",
+            "link": "https://www.nytimes.com/2025/07/25/business/meta-eu-political-ad-ban.html",
+            "published": "Fri, 25 Jul 2025 16:16:06 +0000"
+        },
         {
             "title": "Intel Expects Work Force to Shrink by 25,000",
             "link": "https://www.nytimes.com/2025/07/24/technology/intel-layoffs-25000.html",
@@ -36,11 +41,6 @@
             "title": "The Chatbot Culture Wars Are Here",
             "link": "https://www.nytimes.com/2025/07/23/technology/trump-ai-chatbots-bias.html",
             "published": "Wed, 23 Jul 2025 23:25:06 +0000"
-        },
-        {
-            "title": "Trump Plans to Give A.I. Developers a Free Hand",
-            "link": "https://www.nytimes.com/2025/07/23/technology/trump-ai-executive-orders.html",
-            "published": "Wed, 23 Jul 2025 23:24:27 +0000"
         },
         {
             "title": "Trump Fights \u2018Woke\u2019 A.I. + We Hear Out Our Critics",
