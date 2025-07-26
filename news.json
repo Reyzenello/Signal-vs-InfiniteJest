@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "US insurance giant Allianz Life says hackers stole the personal information of the \"majority\" of its customers, staffers, and employees, in a mid-July breach (Zack Whittaker/TechCrunch)",
+            "link": "http://www.techmeme.com/250726/p8#a250726p8",
+            "published": "Sat, 26 Jul 2025 10:00:00 -0400"
+        },
+        {
+            "title": "The AI Action Plan suggests Trump wants to inculcate a \"try-first\" culture through regulatory sandboxes for AI, which have already popped up in some US states (Aaron Mak/Politico)",
+            "link": "http://www.techmeme.com/250726/p7#a250726p7",
+            "published": "Sat, 26 Jul 2025 09:50:00 -0400"
+        },
+        {
             "title": "The SharePoint hacks increase pressure on Microsoft's Secure Future Initiative, which the company calls an ambitious effort expected to take years to complete (Andrew Martin/Bloomberg)",
             "link": "http://www.techmeme.com/250726/p6#a250726p6",
             "published": "Sat, 26 Jul 2025 08:40:05 -0400"
@@ -14,16 +24,6 @@
             "title": "Christina Marie Chapman, who pleaded guilty and was sentenced to prison for aiding a North Korean remote IT worker scheme, details her time as a \"laptop farmer\" (Evan Ratliff/Bloomberg)",
             "link": "http://www.techmeme.com/250726/p4#a250726p4",
             "published": "Sat, 26 Jul 2025 02:30:00 -0400"
-        },
-        {
-            "title": "Source: India orders ISPs and app stores to block 25 streaming services, like Ullu and ALTT with millions of downloads, for allegedly promoting obscene content (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250726/p3#a250726p3",
-            "published": "Sat, 26 Jul 2025 01:50:01 -0400"
-        },
-        {
-            "title": "China's Unitree is marketing the R1, a humanoid robot that has multimodal AI and weighs 25kg, for $5,900, drastically lowering the entry price for such machines (Bloomberg)",
-            "link": "http://www.techmeme.com/250726/p2#a250726p2",
-            "published": "Sat, 26 Jul 2025 01:40:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Hackers steal images from women's dating safety app that vets men",
+            "link": "https://www.bbc.com/news/articles/c7vl57n74pqo",
+            "published": "Sat, 26 Jul 2025 13:58:47 GMT"
+        },
+        {
             "title": "Around 6,000 porn sites start checking ages in UK",
             "link": "https://www.bbc.com/news/articles/c24v4dl5r16o",
             "published": "Fri, 25 Jul 2025 11:30:21 GMT"
@@ -73,11 +78,6 @@
             "title": "South Park to stream on Paramount+ after bidding war",
             "link": "https://www.bbc.com/news/articles/cr4wgywwg0qo",
             "published": "Thu, 24 Jul 2025 04:14:14 GMT"
-        },
-        {
-            "title": "Apple and Google have 'effective duopoly' in UK says regulator",
-            "link": "https://www.bbc.com/news/articles/c5yknl04dnno",
-            "published": "Wed, 23 Jul 2025 11:11:23 GMT"
         }
     ]
 }
