@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Israeli customer service automation company Nice acquires Cognigy, which develops a conversational and agentic AI platform, for $955M, set to close in Q4 2025 (Shiri Habib-Valdhorn/Globes)",
+            "link": "http://www.techmeme.com/250728/p11#a250728p11",
+            "published": "Mon, 28 Jul 2025 08:35:00 -0400"
+        },
+        {
+            "title": "Google says it revised its Android Earthquake Alerts algorithm after it failed to send the highest-level Take Action warnings to 10M people in Turkey in 2023 (BBC)",
+            "link": "http://www.techmeme.com/250728/p10#a250728p10",
+            "published": "Mon, 28 Jul 2025 07:55:11 -0400"
+        },
+        {
             "title": "The European Commission accuses Temu of breaching the DSA by failing to do enough to stop the sale of illegal products on its platform, in preliminary findings (Laura Dubois/Financial Times)",
             "link": "http://www.techmeme.com/250728/p9#a250728p9",
             "published": "Mon, 28 Jul 2025 07:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "How the video game industry, which has used AI since the 1980s, is embracing AI-enhanced gameplay, worrying some developers as major studios cut employees (Zachary Small/New York Times)",
             "link": "http://www.techmeme.com/250728/p7#a250728p7",
             "published": "Mon, 28 Jul 2025 06:10:20 -0400"
-        },
-        {
-            "title": "At Shanghai's World AI Conference, ByteDance, Unitree, UBTech, Agibot, and other Chinese companies demoed a wide range of robots, including boxing droids (Bloomberg)",
-            "link": "http://www.techmeme.com/250728/p6#a250728p6",
-            "published": "Mon, 28 Jul 2025 05:45:00 -0400"
-        },
-        {
-            "title": "At the International Mathematical Olympiad, 26 students got higher scores than DeepMind and OpenAI models, possibly the last time humans beat AI at the exam (Ben Cohen/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250728/p5#a250728p5",
-            "published": "Mon, 28 Jul 2025 04:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "VPNs top App Store charts as Online Safety Act age checks kick in",
+            "link": "https://www.bbc.com/news/articles/cn72ydj70g5o",
+            "published": "Mon, 28 Jul 2025 11:55:59 GMT"
+        },
+        {
             "title": "Google failed to warn 10 million of Turkey earthquake severity",
             "link": "https://www.bbc.com/news/articles/c77v2kx304go",
             "published": "Sun, 27 Jul 2025 23:16:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Around 6,000 porn sites start checking ages in UK",
             "link": "https://www.bbc.com/news/articles/c24v4dl5r16o",
             "published": "Fri, 25 Jul 2025 11:30:21 GMT"
-        },
-        {
-            "title": "As porn sites apply new age checks, will users hand over personal ID?",
-            "link": "https://www.bbc.com/news/articles/c1k81lj8nvpo",
-            "published": "Thu, 24 Jul 2025 02:25:59 GMT"
         }
     ]
 }
