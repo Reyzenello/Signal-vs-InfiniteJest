@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Harmonic, an AI math startup co-founded by Robinhood CEO Vlad Tenev, unveils its model Aristotle, saying it achieved gold medal performance on the 2025 IMO (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250728/p27#a250728p27",
+            "published": "Mon, 28 Jul 2025 19:20:01 -0400"
+        },
+        {
+            "title": "Flexport announces it is selling Convoy's tech to DAT Freight & Analytics, after acquiring the digital freight startup's tech stack in late 2023 (John Kingston/FreightWaves)",
+            "link": "http://www.techmeme.com/250728/p26#a250728p26",
+            "published": "Mon, 28 Jul 2025 19:10:57 -0400"
+        },
+        {
+            "title": "Salient, which uses AI to automate the post-loan origination process for lenders, raised a $60M Series A led by a16z, a source says at a $350M valuation (Lucinda Shen/Axios)",
+            "link": "http://www.techmeme.com/250728/p25#a250728p25",
+            "published": "Mon, 28 Jul 2025 18:40:58 -0400"
+        },
+        {
             "title": "Seattle-based Dropzone AI, which offers AI agents that act as Security Operations Center analysts, raised a $37M Series B led by Theory Ventures (Taylor Soper/GeekWire)",
             "link": "http://www.techmeme.com/250728/p24#a250728p24",
             "published": "Mon, 28 Jul 2025 18:25:58 -0400"
@@ -9,21 +24,6 @@
             "title": "Cadence Design agrees to plead guilty and pay more than $140M to resolve US charges for selling its chip design products to a Chinese military university (Karen Freifeld/Reuters)",
             "link": "http://www.techmeme.com/250728/p23#a250728p23",
             "published": "Mon, 28 Jul 2025 17:40:53 -0400"
-        },
-        {
-            "title": "EssilorLuxottica says sales of Ray-Ban Meta more than tripled year-over-year in the first half of 2025, and it expects \"a very fast ramp-up\" of Oakley Meta (Bloomberg)",
-            "link": "http://www.techmeme.com/250728/p22#a250728p22",
-            "published": "Mon, 28 Jul 2025 16:35:01 -0400"
-        },
-        {
-            "title": "Anthropic to debut new rate limits for Claude Pro and Max on Aug. 28, likely curbing <5% of users, saying some run Claude Code \"continuously in the background\" (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/250728/p21#a250728p21",
-            "published": "Mon, 28 Jul 2025 15:40:48 -0400"
-        },
-        {
-            "title": "Faculty and students on Chinese campuses are enthusiastically embracing AI, and the level of public excitement for AI in China is far greater vs. the US and UK (Caiwei Chen/MIT Technology Review)",
-            "link": "http://www.techmeme.com/250728/p20#a250728p20",
-            "published": "Mon, 28 Jul 2025 15:10:48 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google launches new AI search feature in UK",
+            "link": "https://www.bbc.com/news/articles/clyj4zky4zwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Jul 2025 23:01:34 GMT"
+        },
+        {
             "title": "VPNs top download charts as age verification law kicks in",
             "link": "https://www.bbc.com/news/articles/cn72ydj70g5o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 28 Jul 2025 14:25:21 GMT"
@@ -73,11 +78,6 @@
             "title": "EE says latest outage fixed after 'technical fault'",
             "link": "https://www.bbc.com/news/articles/cx2q8qw0q0go?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 26 Jul 2025 19:02:36 GMT"
-        },
-        {
-            "title": "Around 6,000 porn sites start checking ages in UK",
-            "link": "https://www.bbc.com/news/articles/c24v4dl5r16o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 25 Jul 2025 11:30:21 GMT"
         }
     ]
 }
