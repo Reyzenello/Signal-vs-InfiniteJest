@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "PayPal reports Q2 net revenue up 5% YoY to $8.3B, vs. $8.08B est., TPV up 6% YoY to $443.5B, transactions down 5% YoY to 6.2B, active accounts up 2% YoY to 438M (MacKenzie Sigalos/CNBC)",
+            "link": "http://www.techmeme.com/250729/p10#a250729p10",
+            "published": "Tue, 29 Jul 2025 07:11:27 -0400"
+        },
+        {
+            "title": "Chinese crypto mining hardware maker Bitmain plans to open a new HQ and assembly line in either Texas or Florida by the end of Q3 and start production in 2026 (Ryan Weeks/Bloomberg)",
+            "link": "http://www.techmeme.com/250729/p9#a250729p9",
+            "published": "Tue, 29 Jul 2025 07:10:03 -0400"
+        },
+        {
             "title": "Sources: the US DOJ fired two of its most senior antitrust enforcers after disagreements related to defusing its lawsuit against HPE over its $14B Juniper deal (Dave Michaels/Wall Street Journal)",
             "link": "http://www.techmeme.com/250729/p8#a250729p8",
             "published": "Tue, 29 Jul 2025 06:35:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Quince, a DTC luxury brand that is viral on Instagram and TikTok, raised ~$200M led by Iconiq at a $4.5B valuation, after raising $120M in January 2025 (Bloomberg)",
             "link": "http://www.techmeme.com/250729/p6#a250729p6",
             "published": "Tue, 29 Jul 2025 06:00:56 -0400"
-        },
-        {
-            "title": "China used its World AI Conference to assert its AI ambitions to an international audience, presenting an alternative to President Trump's \"America First\" plans (Financial Times)",
-            "link": "http://www.techmeme.com/250729/p5#a250729p5",
-            "published": "Tue, 29 Jul 2025 05:45:03 -0400"
-        },
-        {
-            "title": "Waymo plans to launch its robotaxi service in Dallas in 2026 with Avis as the fleet partner, a first after exclusively working with Uber in Austin and Atlanta (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/250729/p4#a250729p4",
-            "published": "Tue, 29 Jul 2025 05:30:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "EE to launch phone plans which restrict internet for teens",
+            "link": "https://www.bbc.com/news/articles/cvg3lgdv3r7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Jul 2025 11:11:08 GMT"
+        },
+        {
+            "title": "Minister must apologise over Savile claim, says Farage",
+            "link": "https://www.bbc.com/news/articles/cgery3eeqzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Jul 2025 11:08:37 GMT"
+        },
+        {
             "title": "Google launches new AI search feature in UK",
             "link": "https://www.bbc.com/news/articles/clyj4zky4zwo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 29 Jul 2025 08:43:59 GMT"
@@ -68,16 +78,6 @@
             "title": "Google failed to warn 10 million of Turkey earthquake severity",
             "link": "https://www.bbc.com/news/articles/c77v2kx304go?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 27 Jul 2025 23:16:50 GMT"
-        },
-        {
-            "title": "Hackers steal images from women's dating safety app that vets men",
-            "link": "https://www.bbc.com/news/articles/c7vl57n74pqo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 26 Jul 2025 13:58:47 GMT"
-        },
-        {
-            "title": "EE says latest outage fixed after 'technical fault'",
-            "link": "https://www.bbc.com/news/articles/cx2q8qw0q0go?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 26 Jul 2025 19:02:36 GMT"
         }
     ]
 }
