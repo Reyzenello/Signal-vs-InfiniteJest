@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google says it will sign the EU's code of practice for AI, in a boost to EU's efforts to regulate AI in the face of opposition from Meta and pressure from US (Alice Hancock/Financial Times)",
+            "link": "http://www.techmeme.com/250730/p12#a250730p12",
+            "published": "Wed, 30 Jul 2025 04:10:01 -0400"
+        },
+        {
+            "title": "The US-China trade war has spurred demand for Vietnamese companies that produce chip components like wafers, as Vietnam scales up its semiconductor ambitions (Lam Le/Rest of World)",
+            "link": "http://www.techmeme.com/250730/p11#a250730p11",
+            "published": "Wed, 30 Jul 2025 03:45:01 -0400"
+        },
+        {
             "title": "A look at OneChronos, as it seeks to create \"smart markets\" that would allow firms to trade GPU compute like other commodities, such as electricity and oil (Alex Konrad/Upstarts Media)",
             "link": "http://www.techmeme.com/250730/p10#a250730p10",
             "published": "Wed, 30 Jul 2025 03:30:00 -0400"
@@ -14,16 +24,6 @@
             "title": "An inside look at ex-unicorn Builder.ai's demise, which oversold its AI platform's abilities and frustrated customers with delivery delays and buggy products (Varsha Bansal/Rest of World)",
             "link": "http://www.techmeme.com/250730/p8#a250730p8",
             "published": "Wed, 30 Jul 2025 02:45:13 -0400"
-        },
-        {
-            "title": "Israel-based Teramount, which develops fiber-to-chip interconnect tools for AI infrastructure chips, raised a $50M Series A led by Koch Disruptive Technologies (Meir Orbach/CTech)",
-            "link": "http://www.techmeme.com/250730/p7#a250730p7",
-            "published": "Wed, 30 Jul 2025 02:35:01 -0400"
-        },
-        {
-            "title": "A US trade group for 30+ fintechs and aggregators says JPMorgan's plan to charge for data access could cost some firms 60% to over 100% of their annual revenue (Financial Times)",
-            "link": "http://www.techmeme.com/250730/p6#a250730p6",
-            "published": "Wed, 30 Jul 2025 02:25:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Dating safety app Tea suspends messaging after hack",
+            "link": "https://www.bbc.com/news/articles/cd0dgkjgzvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Jul 2025 08:08:21 GMT"
+        },
+        {
             "title": "YouTube to be included in Australia's teen social media ban",
             "link": "https://www.bbc.com/news/articles/cpv0zkxx0njo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 30 Jul 2025 01:24:49 GMT"
@@ -73,11 +78,6 @@
             "title": "Google launches new AI search feature in UK",
             "link": "https://www.bbc.com/news/articles/clyj4zky4zwo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 29 Jul 2025 08:43:59 GMT"
-        },
-        {
-            "title": "VPNs top download charts as age verification law kicks in",
-            "link": "https://www.bbc.com/news/articles/cn72ydj70g5o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 28 Jul 2025 14:25:21 GMT"
         }
     ]
 }
