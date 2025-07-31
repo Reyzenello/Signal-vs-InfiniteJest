@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The Cyberspace Administration of China questioned Nvidia over H20 chip security concerns after US lawmakers urged adding tracking features to exported AI chips (Reuters)",
-            "link": "http://www.techmeme.com/250731/p8#a250731p8",
-            "published": "Thu, 31 Jul 2025 04:35:00 -0400"
+            "title": "The UK's CMA finds that Microsoft's software licensing terms harm competition in the cloud market, may open a probe into Microsoft and Amazon in 2026 (Financial Times)",
+            "link": "http://www.techmeme.com/250731/p14#a250731p14",
+            "published": "Thu, 31 Jul 2025 06:35:01 -0400"
         },
         {
-            "title": "How AI has transformed data center design, with concerns about overspending on AI infrastructure, sparked by DeepSeek, fading amid the ongoing building frenzy (Financial Times)",
-            "link": "http://www.techmeme.com/250731/p7#a250731p7",
-            "published": "Thu, 31 Jul 2025 02:35:02 -0400"
+            "title": "UK's Ofcom launches probes into four companies, which collectively run 34 pornography sites, to assess if they have \"highly effective\" age verification checks (Catarina Demony/Reuters)",
+            "link": "http://www.techmeme.com/250731/p13#a250731p13",
+            "published": "Thu, 31 Jul 2025 06:31:01 -0400"
         },
         {
-            "title": "OpenAI launches Stargate Norway, the first Stargate-branded initiative in Europe, to build a 230MW data center owned by a joint venture between Nscale and Aker (Bloomberg)",
-            "link": "http://www.techmeme.com/250731/p6#a250731p6",
-            "published": "Thu, 31 Jul 2025 02:25:02 -0400"
+            "title": "iPhone exports to the US from India are currently exempt from Trump's latest 25% tariffs on India; India now accounts for 20%+ of global iPhone production (Sankalp Phartiyal/Bloomberg)",
+            "link": "http://www.techmeme.com/250731/p12#a250731p12",
+            "published": "Thu, 31 Jul 2025 06:20:02 -0400"
         },
         {
-            "title": "Grab reports Q2 revenue up 23% YoY to $819M, vs. 812M est., and an adjusted EBITDA of $109M; Grab's shares are up 60% over the past year as its profit increased (Bloomberg)",
-            "link": "http://www.techmeme.com/250731/p5#a250731p5",
-            "published": "Thu, 31 Jul 2025 02:10:01 -0400"
+            "title": "Trump signs an EO ending the de minimis exemption for packages worth $800 or less from all countries, after shuttering the loophole for goods from China in May (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/250731/p11#a250731p11",
+            "published": "Thu, 31 Jul 2025 06:01:35 -0400"
         },
         {
-            "title": "Experts say Samsung's $16.5B Tesla chip deal alone is unlikely to revive its foundry division, which has struggled since TSMC became Apple's principal supplier (Financial Times)",
-            "link": "http://www.techmeme.com/250731/p4#a250731p4",
-            "published": "Thu, 31 Jul 2025 01:55:00 -0400"
+            "title": "Sources: Trump administration is reconsidering plans to replace the Biden-era AI export rules as part of a broader softening on chip controls targeting China (Semafor)",
+            "link": "http://www.techmeme.com/250731/p10#a250731p10",
+            "published": "Thu, 31 Jul 2025 05:55:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Ofcom investigates 34 porn sites over age checks",
+            "link": "https://www.bbc.com/news/articles/c5y2xx6z6eko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 31 Jul 2025 10:12:49 GMT"
+        },
+        {
             "title": "What screen time does to children's brains is more complicated than it seems",
             "link": "https://www.bbc.com/news/articles/c9d0l40v551o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 30 Jul 2025 23:44:30 GMT"
@@ -73,11 +78,6 @@
             "title": "Dating safety app Tea suspends messaging after hack",
             "link": "https://www.bbc.com/news/articles/cd0dgkjgzvjo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 30 Jul 2025 10:01:32 GMT"
-        },
-        {
-            "title": "YouTube to be included in Australia's teen social media ban",
-            "link": "https://www.bbc.com/news/articles/cpv0zkxx0njo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 30 Jul 2025 01:24:49 GMT"
         }
     ]
 }
