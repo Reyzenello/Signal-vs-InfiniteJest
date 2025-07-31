@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Figma opens at $85 on the NYSE, after selling shares at $33 in its IPO, hitting a ~$50B valuation, more than a year after Adobe's $20B failed acquisition (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/250731/p36#a250731p36",
+            "published": "Thu, 31 Jul 2025 14:15:02 -0400"
+        },
+        {
+            "title": "A look at Big Tech's AI talent wars with massive compensation packages; sources: Meta told potential hires they would be allotted 30K GPUs for their AI research (New York Times)",
+            "link": "http://www.techmeme.com/250731/p35#a250731p35",
+            "published": "Thu, 31 Jul 2025 13:35:01 -0400"
+        },
+        {
             "title": "Google loses its appeal of a judge's order requiring an overhaul of its app store policies in an antitrust case filed by Epic Games (Bloomberg)",
             "link": "http://www.techmeme.com/250731/p34#a250731p34",
             "published": "Thu, 31 Jul 2025 13:10:01 -0400"
@@ -14,19 +24,14 @@
             "title": "Russian Hackers Pose as Cyber Firm to Spy on Embassies (Patrick Howell O'Neill/Bloomberg)",
             "link": "http://www.techmeme.com/250731/p32#a250731p32",
             "published": "Thu, 31 Jul 2025 12:30:05 -0400"
-        },
-        {
-            "title": "Microsoft's FY 2025 report excludes the names of rivals, breaking from a common industry practice; its last report designated 25+ companies as competitors (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/250731/p31#a250731p31",
-            "published": "Thu, 31 Jul 2025 11:55:01 -0400"
-        },
-        {
-            "title": "Tether reports Q2 net profit of $4.9B, a quarterly record, and says it held nearly $9B in bitcoin at the end of the quarter (RT Watson/The Block)",
-            "link": "http://www.techmeme.com/250731/p30#a250731p30",
-            "published": "Thu, 31 Jul 2025 11:45:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Figma\u2019s $20 Billion Sale Died. It Came Back to Go Public.",
+            "link": "https://www.nytimes.com/2025/07/31/technology/figma-ipo.html",
+            "published": "Thu, 31 Jul 2025 18:39:51 +0000"
+        },
         {
             "title": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like NBA Stars.",
             "link": "https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html",
@@ -36,11 +41,6 @@
             "title": "Nvidia Chips Are Front and Center in China at Crucial Moment in the A.I. Race",
             "link": "https://www.nytimes.com/2025/07/31/technology/china-ai-nvidia-chips.html",
             "published": "Thu, 31 Jul 2025 15:08:12 +0000"
-        },
-        {
-            "title": "\u2018Superintelligence\u2019 Will Create a New Era of Empowerment, Mark Zuckerberg Says",
-            "link": "https://www.nytimes.com/2025/07/30/technology/meta-earnings-ai-spending.html",
-            "published": "Thu, 31 Jul 2025 16:40:01 +0000"
         },
         {
             "title": "Microsoft Backs Up A.I. Spending With $27.2 Billion Quarterly Profit",
