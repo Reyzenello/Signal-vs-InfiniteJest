@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
+            "title": "The US Army awards Palantir a contract worth up to $10B over the next decade, creating a \"comprehensive framework for the Army's future software and data needs\" (Elizabeth Dwoskin/Washington Post)",
+            "link": "http://www.techmeme.com/250731/p56#a250731p56",
+            "published": "Thu, 31 Jul 2025 22:20:01 -0400"
+        },
+        {
+            "title": "OpenAI removes a ChatGPT feature that let users make their conversations discoverable by Google and other search engines, calling it a \"short-lived experiment\" (Amanda Silberling/TechCrunch)",
+            "link": "http://www.techmeme.com/250731/p55#a250731p55",
+            "published": "Thu, 31 Jul 2025 21:55:01 -0400"
+        },
+        {
+            "title": "Sources: Index Ventures' nearly $100M investment in Figma was worth $2.17B at the initial IPO price, while Greylock's $50M investment was worth $2.03B (Katie Roof/Bloomberg)",
+            "link": "http://www.techmeme.com/250731/p54#a250731p54",
+            "published": "Thu, 31 Jul 2025 21:25:01 -0400"
+        },
+        {
+            "title": "Tim Cook says Apple is \"significantly growing\" investment in AI and reassigning staff to work on AI features, while remaining \"very open to M&A\" (Kif Leswing/CNBC)",
+            "link": "http://www.techmeme.com/250731/p53#a250731p53",
+            "published": "Thu, 31 Jul 2025 20:40:00 -0400"
+        },
+        {
             "title": "Cloudflare reports Q2 revenue up 28% YoY to $512.3M, vs. $501.21M est., and forecasts Q3 revenue of $543.5M to $544.5M, vs. $538.6M est. (Duncan Riley/SiliconANGLE)",
             "link": "http://www.techmeme.com/250731/p52#a250731p52",
             "published": "Thu, 31 Jul 2025 19:15:01 -0400"
-        },
-        {
-            "title": "Apple incurred ~$800M in tariff-related costs in Q3, $100M less than expected, and expects a jump to $1.1B in Q4 if current rates and policies remain in place (William Gallagher/AppleInsider)",
-            "link": "http://www.techmeme.com/250731/p51#a250731p51",
-            "published": "Thu, 31 Jul 2025 18:55:01 -0400"
-        },
-        {
-            "title": "Apple has now sold over 3B iPhones since its 2007 launch; it reached 1B sold in July 2016, and is estimated to have reached 2B around September 2021 (Chance Miller/9to5Mac)",
-            "link": "http://www.techmeme.com/250731/p50#a250731p50",
-            "published": "Thu, 31 Jul 2025 18:00:32 -0400"
-        },
-        {
-            "title": "Coinbase reports Q2 revenue up 3% YoY to $1.5B, vs. $1.6B est., and retail trading volume up 16% to $43B, vs. $48.05B est.; COIN drops 6%+ after hours (Tanaya Macheel/CNBC)",
-            "link": "http://www.techmeme.com/250731/p49#a250731p49",
-            "published": "Thu, 31 Jul 2025 17:35:01 -0400"
-        },
-        {
-            "title": "Roku reports Q2 revenue up 15% YoY to $1.11B, vs. $1.07B est., a net profit of $10.5M, and Platform segment sales up 18% to $976M (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/250731/p48#a250731p48",
-            "published": "Thu, 31 Jul 2025 16:55:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Figma\u2019s $20 Billion Sale Died. It Came Back to Go Public.",
             "link": "https://www.nytimes.com/2025/07/31/technology/figma-ipo.html",
-            "published": "Thu, 31 Jul 2025 20:58:49 +0000"
+            "published": "Thu, 31 Jul 2025 20:58:50 +0000"
         },
         {
             "title": "A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like NBA Stars.",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Tech giants blocking some Ukraine and Gaza posts under new online rules",
+            "link": "https://www.bbc.com/news/articles/cj3l0e4vr0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 31 Jul 2025 23:38:38 GMT"
+        },
+        {
             "title": "Ofcom investigates 34 porn sites over age checks",
             "link": "https://www.bbc.com/news/articles/c5y2xx6z6eko?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 31 Jul 2025 12:29:13 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok removes video by Huda Beauty boss over anti-Israel conspiracy theories",
             "link": "https://www.bbc.com/news/articles/c93d7qlp974o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 30 Jul 2025 16:16:28 GMT"
-        },
-        {
-            "title": "Dating safety app Tea suspends messaging after hack",
-            "link": "https://www.bbc.com/news/articles/cd0dgkjgzvjo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 30 Jul 2025 10:01:32 GMT"
         }
     ]
 }
