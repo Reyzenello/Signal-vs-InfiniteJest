@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "TikTok launches a new version of its app called TikTok Pro in Germany, Portugal, and Spain, allowing users to earn \"virtual sunshine\" to support charities (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/250801/p18#a250801p18",
+            "published": "Fri, 01 Aug 2025 11:20:42 -0400"
+        },
+        {
+            "title": "China accuses the US of exploiting an old Microsoft Exchange flaw to control a key Chinese defense company's servers for nearly a year and steal military data (Bloomberg)",
+            "link": "http://www.techmeme.com/250801/p17#a250801p17",
+            "published": "Fri, 01 Aug 2025 11:05:51 -0400"
+        },
+        {
             "title": "The UK's Financial Conduct Authority plans to allow retail investors to access crypto exchange-traded notes, dubbed cETNs, on FCA-approved, UK-based exchanges (James Hunt/The Block)",
             "link": "http://www.techmeme.com/250801/p16#a250801p16",
             "published": "Fri, 01 Aug 2025 10:30:01 -0400"
         },
         {
-            "title": "Reddit wants to become \"a go-to search engine\" for users; its core search has 70M+ weekly active unique users and AI-powered Reddit Answers has 6M weekly users (Jay Peters/The Verge)",
+            "title": "Reddit wants to become \"a go-to search engine\" for users; its core search has 70M+ weekly active unique users and its AI tool Reddit Answers has 6M weekly users (Jay Peters/The Verge)",
             "link": "http://www.techmeme.com/250801/p15#a250801p15",
             "published": "Fri, 01 Aug 2025 09:50:10 -0400"
         },
@@ -14,19 +24,14 @@
             "title": "Hong Kong's stablecoin licensing regime takes effect, requiring issuers to get approval from the Monetary Authority, comply with AML protocols, and more (Callan Quinn/Decrypt)",
             "link": "http://www.techmeme.com/250801/p14#a250801p14",
             "published": "Fri, 01 Aug 2025 09:15:02 -0400"
-        },
-        {
-            "title": "Microsoft plans to end support for Windows 11 SE next year, five years after launching the OS on low-cost laptops designed to compete with Google Chromebooks (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/250801/p13#a250801p13",
-            "published": "Fri, 01 Aug 2025 08:45:01 -0400"
-        },
-        {
-            "title": "Source: OpenAI raised $8.3B led by Dragoneer at a $300B valuation, months ahead of schedule and part of a $40B goal for 2025; 5M business users pay for ChatGPT (New York Times)",
-            "link": "http://www.techmeme.com/250801/p12#a250801p12",
-            "published": "Fri, 01 Aug 2025 08:30:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Raises Another Funding Deal, From Dragoneer, Blackstone and More",
+            "link": "https://www.nytimes.com/2025/08/01/business/dealbook/openai-ai-mega-funding-deal.html",
+            "published": "Fri, 01 Aug 2025 13:41:13 +0000"
+        },
         {
             "title": "Figma\u2019s $20 Billion Sale Died. It Came Back to Go Public.",
             "link": "https://www.nytimes.com/2025/07/31/technology/figma-ipo.html",
@@ -38,19 +43,14 @@
             "published": "Thu, 31 Jul 2025 19:20:34 +0000"
         },
         {
-            "title": "Nvidia Chips Are Front and Center in China at Crucial Moment in the A.I. Race",
-            "link": "https://www.nytimes.com/2025/07/31/technology/china-ai-nvidia-chips.html",
-            "published": "Thu, 31 Jul 2025 15:08:12 +0000"
-        },
-        {
-            "title": "Microsoft Backs Up A.I. Spending With $27.2 Billion Quarterly Profit",
-            "link": "https://www.nytimes.com/2025/07/30/technology/microsoft-earnings-ai-data-centers.html",
-            "published": "Wed, 30 Jul 2025 22:50:52 +0000"
-        },
-        {
             "title": "Age-Gating the Internet + Cloudflare Takes On A.I. Scrapers + HatGPT",
             "link": "https://www.nytimes.com/2025/08/01/podcasts/hardfork-age-restrictions-cloudflare.html",
             "published": "Fri, 01 Aug 2025 11:00:09 +0000"
+        },
+        {
+            "title": "Nvidia Chips Are Front and Center in China at Crucial Moment in the A.I. Race",
+            "link": "https://www.nytimes.com/2025/07/31/technology/china-ai-nvidia-chips.html",
+            "published": "Thu, 31 Jul 2025 15:08:12 +0000"
         }
     ],
     "source_2": [
