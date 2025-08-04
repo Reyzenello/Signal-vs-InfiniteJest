@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Figma's stock dropped 27.4% to $88.60 on Monday after last week's IPO pop; its fully diluted valuation now sits at ~$56B, still almost triple Adobe's 2022 offer (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/250804/p32#a250804p32",
+            "published": "Mon, 04 Aug 2025 17:10:01 -0400"
+        },
+        {
+            "title": "Source: Figma considered a higher IPO price, but its CEO wanted to bring on board certain long-term institutional shareholders and signed off on $33 per share (Anthony Hughes/Bloomberg)",
+            "link": "http://www.techmeme.com/250804/p31#a250804p31",
+            "published": "Mon, 04 Aug 2025 17:05:00 -0400"
+        },
+        {
+            "title": "Google says Big Sleep, its vulnerability research tool \"powered by Gemini\", found 20 flaws in various popular open-source software projects (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+            "link": "http://www.techmeme.com/250804/p30#a250804p30",
+            "published": "Mon, 04 Aug 2025 16:50:01 -0400"
+        },
+        {
             "title": "Palantir reports Q2 revenue up 48% YoY to $1B, vs. $940M expected, and boosts full-year outlook guidance to $4.14B-$4.15B, up from $3.89B-$3.90B (Samantha Subin/CNBC)",
             "link": "http://www.techmeme.com/250804/p29#a250804p29",
             "published": "Mon, 04 Aug 2025 16:25:02 -0400"
@@ -9,43 +24,28 @@
             "title": "Google unveils Kaggle Game Arena, a benchmarking platform where AI models compete head-to-head in strategic games, starting with a chess tournament this week (Mike Wheatley/SiliconANGLE)",
             "link": "http://www.techmeme.com/250804/p28#a250804p28",
             "published": "Mon, 04 Aug 2025 15:55:02 -0400"
-        },
-        {
-            "title": "OpenAI says ChatGPT now offers \"gentle reminders\" to take breaks during long sessions, and it is building tools to better detect signs of emotional distress (Ian Carlos Campbell/Engadget)",
-            "link": "http://www.techmeme.com/250804/p27#a250804p27",
-            "published": "Mon, 04 Aug 2025 14:20:01 -0400"
-        },
-        {
-            "title": "Transcripts from the trial over a fatal 2019 Autopilot crash: Tesla withheld crash\u2011snapshot data and took years to admit it existed or was relevant to the case (Fred Lambert/Electrek)",
-            "link": "http://www.techmeme.com/250804/p26#a250804p26",
-            "published": "Mon, 04 Aug 2025 12:50:02 -0400"
-        },
-        {
-            "title": "Elon Musk says Vine's video archive is being brought back, and xAI's newly launched Grok Imagine, available to X Premium+ subscribers, is \"AI Vine\" (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250804/p25#a250804p25",
-            "published": "Mon, 04 Aug 2025 11:33:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "A.I. Has Ushered in Silicon Valley\u2019s \u2018Hard Tech\u2019 Era",
             "link": "https://www.nytimes.com/2025/08/04/technology/ai-silicon-valley-hard-tech.html",
-            "published": "Mon, 04 Aug 2025 09:00:11 +0000"
+            "published": "Mon, 04 Aug 2025 20:48:18 +0000"
         },
         {
             "title": "How Tech Firms Like Google and Meta Are Embracing the Military",
             "link": "https://www.nytimes.com/2025/08/04/technology/google-meta-openai-military-war.html",
-            "published": "Mon, 04 Aug 2025 09:00:32 +0000"
+            "published": "Mon, 04 Aug 2025 20:56:16 +0000"
         },
         {
             "title": "The Rise of Silicon Valley\u2019s Techno-Religion",
             "link": "https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html",
-            "published": "Mon, 04 Aug 2025 09:00:19 +0000"
+            "published": "Mon, 04 Aug 2025 20:50:46 +0000"
         },
         {
             "title": "Swarming to San Francisco\u2019s A.I. Boom: a New Crop of 20-Something CEOs",
             "link": "https://www.nytimes.com/2025/08/04/technology/ai-young-ceos-san-francisco.html",
-            "published": "Mon, 04 Aug 2025 09:00:57 +0000"
+            "published": "Mon, 04 Aug 2025 20:57:57 +0000"
         },
         {
             "title": "Joby Will Buy Blade\u2019s Helicopter Taxi Business for $125 Million",
