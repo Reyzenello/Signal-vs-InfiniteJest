@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Wikipedia editors adopt a policy giving admins the authority to quickly delete AI-generated articles that meet certain criteria, like incorrect citations (Emanuel Maiberg/404 Media)",
+            "link": "http://www.techmeme.com/250805/p46#a250805p46",
+            "published": "Tue, 05 Aug 2025 17:40:01 -0400"
+        },
+        {
+            "title": "The DOJ says two Chinese nationals were arrested in California on charges of illegally shipping AI chips, including Nvidia H100s, to China from 2022 to 2025 (Karen Freifeld/Reuters)",
+            "link": "http://www.techmeme.com/250805/p45#a250805p45",
+            "published": "Tue, 05 Aug 2025 17:30:01 -0400"
+        },
+        {
             "title": "Alibaba's Qwen releases Qwen-Image, an AI image generation model focused on accurate text rendering, with support for alphabetic and logographic scripts (Carl Franzen/VentureBeat)",
             "link": "http://www.techmeme.com/250805/p44#a250805p44",
             "published": "Tue, 05 Aug 2025 17:15:01 -0400"
@@ -14,16 +24,6 @@
             "title": "AMD reports Q2 revenue up 32% YoY to $7.7B vs. $7.43B est., Data Center revenue up 14% to $3.2B vs. $3.25B est., Client revenue up 67% to $2.5B vs. $2.56B est. (Ian King/Bloomberg)",
             "link": "http://www.techmeme.com/250805/p42#a250805p42",
             "published": "Tue, 05 Aug 2025 16:50:00 -0400"
-        },
-        {
-            "title": "Match Q2: revenue of $864M, flat YoY, net earnings of $125.5M, down from $133.3M YoY, and provides a Q3 forecast beating estimates; MTCH jumps 11% after hours (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/250805/p41#a250805p41",
-            "published": "Tue, 05 Aug 2025 16:40:01 -0400"
-        },
-        {
-            "title": "Filing: in its ChatGPT lawsuit, the NYT asked OpenAI to produce 120M user chats to analyze how often ChatGPT regurgitates its articles, after OpenAI offered 20M (Ashley Belanger/Ars Technica)",
-            "link": "http://www.techmeme.com/250805/p40#a250805p40",
-            "published": "Tue, 05 Aug 2025 16:35:01 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "OpenAI to Open-Source Some of the A.I. Systems Behind ChatGPT",
             "link": "https://www.nytimes.com/2025/08/05/technology/openai-artificial-intelligence-chatgpt.html",
-            "published": "Tue, 05 Aug 2025 19:27:49 +0000"
+            "published": "Tue, 05 Aug 2025 19:27:50 +0000"
         }
     ],
     "source_2": [
