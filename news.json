@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Netherlands-based dronemaker Destinus agrees to acquire Zurich-based Daedalean, which develops ML aviation autopilot software, for $223M in cash and stock (Yazhou Sun/Bloomberg)",
+            "link": "http://www.techmeme.com/250805/p12#a250805p12",
+            "published": "Tue, 05 Aug 2025 04:35:01 -0400"
+        },
+        {
+            "title": "India's IT giants face revenue erosion from challenges including corporations establishing their own global capability centers in the country and the rise of AI (Manish Singh/India Dispatch)",
+            "link": "http://www.techmeme.com/250805/p11#a250805p11",
+            "published": "Tue, 05 Aug 2025 04:25:00 -0400"
+        },
+        {
+            "title": "Uzbek fintech and e-commerce company Uzum raised $65.5M led by Tencent and VR Capital at a ~$1.5B valuation, up from $1.16B in March 2024 after a $114M Series A (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/250805/p10#a250805p10",
+            "published": "Tue, 05 Aug 2025 04:15:00 -0400"
+        },
+        {
+            "title": "Users say AI notetaking tools for meetings can misinterpret context when generating summaries or share content meant for a select audience with all participants (Ann-Marie Alc\u00e1ntara/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250805/p9#a250805p9",
+            "published": "Tue, 05 Aug 2025 04:00:48 -0400"
+        },
+        {
             "title": "Shareholder letter: Reddit cites Profound's analysis showing it is the most cited domain across AI models, ahead of Wikipedia, YouTube, Forbes, and others (Alice Brooker/Press Gazette)",
             "link": "http://www.techmeme.com/250805/p8#a250805p8",
             "published": "Tue, 05 Aug 2025 03:25:00 -0400"
-        },
-        {
-            "title": "As Delta experiments with AI-driven pricing, regulators and travelers alike worry about dynamic fare schemes that \"go beyond the human cognitive limits\" (Max Chafkin/Bloomberg)",
-            "link": "http://www.techmeme.com/250805/p7#a250805p7",
-            "published": "Tue, 05 Aug 2025 02:35:14 -0400"
-        },
-        {
-            "title": "DRAM prices remain high after doubling from May 2025 to June 2025, amid speculation that China's CXMT may have halted DDR4 production to focus on DDR5 and HBM (Nikkei Asia)",
-            "link": "http://www.techmeme.com/250805/p6#a250805p6",
-            "published": "Tue, 05 Aug 2025 02:00:01 -0400"
-        },
-        {
-            "title": "White House OSTP Director Michael Kratsios says the US is exploring software or physical methods to track the location of AI chips, as part of AI Action Plan (Bloomberg)",
-            "link": "http://www.techmeme.com/250805/p5#a250805p5",
-            "published": "Tue, 05 Aug 2025 01:50:05 -0400"
-        },
-        {
-            "title": "Sources: Core Scientific's hedge fund shareholders may reject CoreWeave's all-stock merger bid, seeking better terms, as CRWV has fallen 30%+ post-announcement (Financial Times)",
-            "link": "http://www.techmeme.com/250805/p4#a250805p4",
-            "published": "Tue, 05 Aug 2025 01:30:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Jobs in video games dried up, so we made our own",
+            "link": "https://www.bbc.com/news/articles/c87e82pd97wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 05 Aug 2025 08:21:03 GMT"
+        },
+        {
             "title": "Tesla found partly to blame for fatal Autopilot crash",
             "link": "https://www.bbc.com/news/articles/c93dqpkwx4xo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 Aug 2025 23:17:40 GMT"
@@ -73,11 +78,6 @@
             "title": "Ofcom investigates 34 porn sites over age checks",
             "link": "https://www.bbc.com/news/articles/c5y2xx6z6eko?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 31 Jul 2025 12:29:13 GMT"
-        },
-        {
-            "title": "What screen time does to children's brains is more complicated than it seems",
-            "link": "https://www.bbc.com/news/articles/c9d0l40v551o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 30 Jul 2025 23:44:30 GMT"
         }
     ]
 }
