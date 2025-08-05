@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI releases gpt-oss-120b and gpt-oss-20b, its first open-weight models since GPT-2; the smaller model can run locally on a consumer device with 16GB+ of RAM (Reece Rogers/Wired)",
+            "link": "http://www.techmeme.com/250805/p34#a250805p34",
+            "published": "Tue, 05 Aug 2025 13:10:03 -0400"
+        },
+        {
+            "title": "Anthropic's Mike Krieger: Opus 4.1 is better at coding, agentic tasks, and more, and Anthropic was previously too focused on only shipping \"really big upgrades\" (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/250805/p33#a250805p33",
+            "published": "Tue, 05 Aug 2025 13:00:51 -0400"
+        },
+        {
+            "title": "WhatsApp adds a new \"safety overview\" that appears in new group chats, including info on the group and when it was created, to help protect users from scams (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250805/p32#a250805p32",
+            "published": "Tue, 05 Aug 2025 12:50:01 -0400"
+        },
+        {
+            "title": "Anthropic releases Claude Opus 4.1 to paid Claude users, in Claude Code, via its API, and more, featuring broad improvements over Opus 4 for the same cost (Anthropic)",
+            "link": "http://www.techmeme.com/250805/p31#a250805p31",
+            "published": "Tue, 05 Aug 2025 12:44:02 -0400"
+        },
+        {
             "title": "US DOT Secretary Sean Duffy proposes a rule change to let commercial drones fly beyond an operator's line of sight, a boon for Walmart and Alphabet's Wing (Bloomberg)",
             "link": "http://www.techmeme.com/250805/p30#a250805p30",
             "published": "Tue, 05 Aug 2025 12:15:02 -0400"
-        },
-        {
-            "title": "Google DeepMind releases its Genie 3 model, which can generate 3D worlds from a prompt and has enough visual memory for a few minutes of continuous interaction (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/250805/p29#a250805p29",
-            "published": "Tue, 05 Aug 2025 10:30:01 -0400"
-        },
-        {
-            "title": "Cisco Talos finds a flaw in the Broadcom BCM5820X chip used in Dell's ControlVault security firmware, affecting 100+ laptop models; Dell issued patches in 2025 (A.J. Vicens/Reuters)",
-            "link": "http://www.techmeme.com/250805/p28#a250805p28",
-            "published": "Tue, 05 Aug 2025 09:45:00 -0400"
-        },
-        {
-            "title": "Roku launches Howdy, an ad-free streaming service for $2.99 per month, initially only on Roku devices, with content from Lionsgate, WBD, FilmRise, and others (Kelly Lawler/USA Today)",
-            "link": "http://www.techmeme.com/250805/p27#a250805p27",
-            "published": "Tue, 05 Aug 2025 09:30:01 -0400"
-        },
-        {
-            "title": "Patreon CEO Jack Conte says the platform paid out $10B+ to creators since its 2013 founding, creators now get $2B+ annually, and there are 25M+ paid memberships (Sara Fischer/Axios)",
-            "link": "http://www.techmeme.com/250805/p26#a250805p26",
-            "published": "Tue, 05 Aug 2025 09:10:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Mon, 04 Aug 2025 20:57:57 +0000"
         },
         {
-            "title": "Joby Will Buy Blade\u2019s Helicopter Taxi Business for $125 Million",
-            "link": "https://www.nytimes.com/2025/08/04/business/joby-blade-electric-air-taxi.html",
-            "published": "Mon, 04 Aug 2025 12:57:43 +0000"
+            "title": "OpenAI to Open-Source Some of the A.I. Systems Behind ChatGPT",
+            "link": "https://www.nytimes.com/2025/08/05/technology/openai-artificial-intelligence-chatgpt.html",
+            "published": "Tue, 05 Aug 2025 17:00:11 +0000"
         }
     ],
     "source_2": [
