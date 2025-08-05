@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Snap Q2: revenue up 9% YoY to $1.34B, vs. $1.35B est., 469M global DAUs, vs. 467M est., and global ARPU of $2.87, vs. $2.90 est.; SNAP drops ~15% after hours (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/250805/p39#a250805p39",
+            "published": "Tue, 05 Aug 2025 16:28:07 -0400"
+        },
+        {
+            "title": "Coinbase adds Embedded Wallets to its mobile SDK, allowing devs to integrate wallets into their apps with minimal code, with support for on-ramps and swaps (Vishal Chawla/The Block)",
+            "link": "http://www.techmeme.com/250805/p38#a250805p38",
+            "published": "Tue, 05 Aug 2025 15:45:01 -0400"
+        },
+        {
             "title": "Newsletter service Ghost says publishers have earned $100M+ on it, its annual revenue is $8.5M+, it now supports ActivityPub, and is upping new member pricing (Neel Dhanesha/Nieman Lab)",
             "link": "http://www.techmeme.com/250805/p37#a250805p37",
             "published": "Tue, 05 Aug 2025 14:45:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Florida sues some of the biggest porn platforms, accusing them of not complying with the state's age verification law (Samantha Cole/404 Media)",
             "link": "http://www.techmeme.com/250805/p35#a250805p35",
             "published": "Tue, 05 Aug 2025 13:50:00 -0400"
-        },
-        {
-            "title": "OpenAI releases gpt-oss-120b and gpt-oss-20b, its first open-weight models since GPT-2; the smaller model can run locally on a consumer device with 16GB+ of RAM (Reece Rogers/Wired)",
-            "link": "http://www.techmeme.com/250805/p34#a250805p34",
-            "published": "Tue, 05 Aug 2025 13:10:03 -0400"
-        },
-        {
-            "title": "Anthropic's Mike Krieger: Opus 4.1 is better at coding, agentic tasks, and more, and Anthropic was previously too focused on only shipping \"really big upgrades\" (Shirin Ghaffary/Bloomberg)",
-            "link": "http://www.techmeme.com/250805/p33#a250805p33",
-            "published": "Tue, 05 Aug 2025 13:00:51 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "OpenAI to Open-Source Some of the A.I. Systems Behind ChatGPT",
             "link": "https://www.nytimes.com/2025/08/05/technology/openai-artificial-intelligence-chatgpt.html",
-            "published": "Tue, 05 Aug 2025 18:23:15 +0000"
+            "published": "Tue, 05 Aug 2025 19:27:49 +0000"
         }
     ],
     "source_2": [
