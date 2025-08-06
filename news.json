@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: OpenAI is in early talks to hold a secondary share sale for current and former employees at a valuation of ~$500B; OpenAI was valued at $300B in March (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/250805/p49#a250805p49",
+            "published": "Tue, 05 Aug 2025 22:05:01 -0400"
+        },
+        {
+            "title": "Sources: AI video startup Runway is looking to raise ~$500M at a $5B+ pre-money valuation; rival Luma AI aims to raise $1.1B+ at a $3.2B+ pre-money valuation (The Information)",
+            "link": "http://www.techmeme.com/250805/p48#a250805p48",
+            "published": "Tue, 05 Aug 2025 20:55:01 -0400"
+        },
+        {
             "title": "Linda Yaccarino is named CEO of digital health platform eMed Population Health less than a month after stepping down as CEO of X (Reuters)",
             "link": "http://www.techmeme.com/250805/p47#a250805p47",
             "published": "Tue, 05 Aug 2025 19:20:00 -0400"
@@ -14,16 +24,6 @@
             "title": "The DOJ says two Chinese nationals were arrested in California on charges of illegally shipping AI chips, including Nvidia H100s, to China from 2022 to 2025 (Karen Freifeld/Reuters)",
             "link": "http://www.techmeme.com/250805/p45#a250805p45",
             "published": "Tue, 05 Aug 2025 17:30:01 -0400"
-        },
-        {
-            "title": "Alibaba's Qwen releases Qwen-Image, an AI image generation model focused on accurate text rendering, with support for alphabetic and logographic scripts (Carl Franzen/VentureBeat)",
-            "link": "http://www.techmeme.com/250805/p44#a250805p44",
-            "published": "Tue, 05 Aug 2025 17:15:01 -0400"
-        },
-        {
-            "title": "Super Micro reports Q4 revenue up 7.5% YoY to $5.76B, vs. $6.01B est., and lowers its fiscal year sales forecast; SMCI drops 14%+ after hours (Dina Bass/Bloomberg)",
-            "link": "http://www.techmeme.com/250805/p43#a250805p43",
-            "published": "Tue, 05 Aug 2025 17:00:13 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Call to vet YouTube ads like regular TV to stop scams",
+            "link": "https://www.bbc.com/news/articles/ckge5xdwjx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 06 Aug 2025 01:28:14 GMT"
+        },
+        {
+            "title": "WhatsApp deletes over 6.8m accounts linked to scams, Meta says",
+            "link": "https://www.bbc.com/news/articles/ce35q2ly1w5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 06 Aug 2025 01:45:06 GMT"
+        },
+        {
             "title": "Jobs in video games dried up, so we made our own",
             "link": "https://www.bbc.com/news/articles/c87e82pd97wo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 05 Aug 2025 08:21:03 GMT"
@@ -68,16 +78,6 @@
             "title": "Chess grandmaster Carlsen wins at Esports World Cup",
             "link": "https://www.bbc.com/news/articles/ce3jl1kgyv0o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 02 Aug 2025 01:49:02 GMT"
-        },
-        {
-            "title": "Some Gaza and Ukraine posts blocked under new age checks",
-            "link": "https://www.bbc.com/news/articles/cj3l0e4vr0ko?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 31 Jul 2025 23:38:38 GMT"
-        },
-        {
-            "title": "Ofcom investigates 34 porn sites over age checks",
-            "link": "https://www.bbc.com/news/articles/c5y2xx6z6eko?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 31 Jul 2025 12:29:13 GMT"
         }
     ]
 }
