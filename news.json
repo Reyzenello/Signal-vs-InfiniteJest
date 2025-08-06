@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft unveils Project Ire, a prototype AI system that can reverse engineer and identify malicious software autonomously, without human assistance (Todd Bishop/GeekWire)",
+            "link": "http://www.techmeme.com/250806/p3#a250806p3",
+            "published": "Wed, 06 Aug 2025 00:50:03 -0400"
+        },
+        {
+            "title": "Latin American e-commerce giant MercadoLibre reports Q2 net revenue up 34% YoY to $6.8B, vs. $6.7B est., net income down 1.5% YoY to $523M, vs. $596M est. (Andre Romani/Reuters)",
+            "link": "http://www.techmeme.com/250806/p2#a250806p2",
+            "published": "Wed, 06 Aug 2025 00:15:02 -0400"
+        },
+        {
             "title": "The \"spicy\" option on Grok's new generative AI video tool Imagine produces nude deepfakes of celebrities like Taylor Swift, even without explicit user prompting (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/250806/p1#a250806p1",
             "published": "Wed, 06 Aug 2025 00:00:13 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: China held talks about merging a group of chip equipment makers into a national champion but faced pushback over ownership structure and valuation (Financial Times)",
             "link": "http://www.techmeme.com/250805/p52#a250805p52",
             "published": "Tue, 05 Aug 2025 23:45:00 -0400"
-        },
-        {
-            "title": "A federal judge struck down a California law blocking large platforms from hosting deceptive AI-generated content related to elections, citing Section 230 (Chase DiFeliciantonio/Politico)",
-            "link": "http://www.techmeme.com/250805/p51#a250805p51",
-            "published": "Tue, 05 Aug 2025 23:30:01 -0400"
-        },
-        {
-            "title": "The Trump administration is warning states that they risk losing access to broadband funds if they set price caps on low-cost ISP plans (Jon Brodkin/Ars Technica)",
-            "link": "http://www.techmeme.com/250805/p50#a250805p50",
-            "published": "Tue, 05 Aug 2025 22:55:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Chinese nationals charged with exporting Nvidia AI chips to China",
+            "link": "https://www.bbc.com/news/articles/c4gm921x424o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 06 Aug 2025 04:13:15 GMT"
+        },
+        {
             "title": "Call to vet YouTube ads like regular TV to stop scams",
             "link": "https://www.bbc.com/news/articles/ckge5xdwjx5o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 Aug 2025 01:28:14 GMT"
@@ -73,11 +78,6 @@
             "title": "Tesla found partly to blame for fatal Autopilot crash",
             "link": "https://www.bbc.com/news/articles/c93dqpkwx4xo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 Aug 2025 23:17:40 GMT"
-        },
-        {
-            "title": "Chess grandmaster Carlsen wins at Esports World Cup",
-            "link": "https://www.bbc.com/news/articles/ce3jl1kgyv0o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 02 Aug 2025 01:49:02 GMT"
         }
     ]
 }
