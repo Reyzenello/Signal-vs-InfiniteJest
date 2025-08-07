@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "President Trump calls on Intel CEO Lip-Bu Tan to \"resign, immediately\" and says he \"is highly CONFLICTED\", after Senator Cotton asked about Tan's ties to China (Peter Elstrom/Bloomberg)",
+            "link": "http://www.techmeme.com/250807/p21#a250807p21",
+            "published": "Thu, 07 Aug 2025 08:05:00 -0400"
+        },
+        {
+            "title": "SignalFire: as the AI talent race explodes, Anthropic is hiring engineers 2.68x faster than losing them, above OpenAI's 2.18x, Meta's 2.07x, and Google's 1.17x (Isabelle Bousquette/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250807/p20#a250807p20",
+            "published": "Thu, 07 Aug 2025 07:35:01 -0400"
+        },
+        {
             "title": "The EU says companies exporting chips to the US will face a 15% tariff ceiling despite President Trump's new \"approximately 100%\" chip levy announcement (Mauro Orru/Wall Street Journal)",
             "link": "http://www.techmeme.com/250807/p19#a250807p19",
             "published": "Thu, 07 Aug 2025 06:45:38 -0400"
@@ -11,19 +21,9 @@
             "published": "Thu, 07 Aug 2025 06:30:39 -0400"
         },
         {
-            "title": "Internal OpenAI code suggests a tiered GPT-5 rollout: free users get basic GPT-5, Plus users get advanced reasoning, and Pro gets research-level performance (Alexey Shabanov/TestingCatalog)",
+            "title": "Internal OpenAI code suggests a tiered GPT-5 rollout: the free tier gets basic GPT-5, Plus gets \"advanced reasoning\", and Pro gets \"research-level\" performance (Alexey Shabanov/TestingCatalog)",
             "link": "http://www.techmeme.com/250807/p17#a250807p17",
             "published": "Thu, 07 Aug 2025 06:15:40 -0400"
-        },
-        {
-            "title": "A now-deleted GitHub blog post reveals GPT-5, available as gpt-5, gpt-5-mini, gpt-5-nano, and gpt-5-chat with \"major improvements\" in reasoning, code, and more (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/250807/p16#a250807p16",
-            "published": "Thu, 07 Aug 2025 06:05:01 -0400"
-        },
-        {
-            "title": "State Department cable: Marco Rubio orders diplomats in Europe to lobby against the DSA, arguing it imposes free speech restrictions and high compliance costs (Humeyra Pamuk/Reuters)",
-            "link": "http://www.techmeme.com/250807/p15#a250807p15",
-            "published": "Thu, 07 Aug 2025 05:55:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "What are semiconductors and why is Trump threatening 100% tariffs?",
+            "link": "https://www.bbc.com/news/articles/cly3r664q1eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 07 Aug 2025 12:31:58 GMT"
+        },
+        {
             "title": "Woman awarded \u00a3150,000 after LG phone sparks fire in her home",
             "link": "https://www.bbc.com/news/articles/c04r5ye59w2o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 Aug 2025 18:57:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Call to vet YouTube ads like regular TV to stop scams",
             "link": "https://www.bbc.com/news/articles/ckge5xdwjx5o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 Aug 2025 09:48:15 GMT"
-        },
-        {
-            "title": "WhatsApp deletes over 6.8m accounts linked to scams, Meta says",
-            "link": "https://www.bbc.com/news/articles/ce35q2ly1w5o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 06 Aug 2025 12:23:06 GMT"
         }
     ]
 }
