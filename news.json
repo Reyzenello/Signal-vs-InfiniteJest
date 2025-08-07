@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The US GSA says AWS has agreed to provide federal agencies with up to $1B in discounts for cloud adoption, modernization, and training through 2028 (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/250807/p24#a250807p24",
+            "published": "Thu, 07 Aug 2025 10:30:01 -0400"
+        },
+        {
             "title": "SMIC reports Q2 revenue up 16.2% YoY to $2.2B, in line with expectations, and profit down 19.5% YoY to $132.5M, below $183.35M est. (Reuters)",
             "link": "http://www.techmeme.com/250807/p23#a250807p23",
             "published": "Thu, 07 Aug 2025 09:20:01 -0400"
@@ -19,38 +24,33 @@
             "title": "SignalFire: as the AI talent race explodes, Anthropic is hiring engineers 2.68x faster than losing them, above OpenAI's 2.18x, Meta's 2.07x, and Google's 1.17x (Isabelle Bousquette/Wall Street Journal)",
             "link": "http://www.techmeme.com/250807/p20#a250807p20",
             "published": "Thu, 07 Aug 2025 07:35:01 -0400"
-        },
-        {
-            "title": "The EU says companies exporting chips to the US will face a 15% tariff ceiling despite President Trump's new \"approximately 100%\" chip levy announcement (Mauro Orru/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250807/p19#a250807p19",
-            "published": "Thu, 07 Aug 2025 06:45:38 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump\u2019s Threat to Hit Chips With 100% Tariffs Raises Big Questions",
+            "link": "https://www.nytimes.com/2025/08/07/business/trump-tariffs-chips.html",
+            "published": "Thu, 07 Aug 2025 11:30:05 +0000"
+        },
+        {
+            "title": "Right-Wing Influence Shaped the Sydney Sweeney Ad Debate",
+            "link": "https://www.nytimes.com/2025/08/07/business/sydney-sweeney-ad-right-wing-media.html",
+            "published": "Thu, 07 Aug 2025 09:03:45 +0000"
+        },
+        {
+            "title": "Trump Threatens 100% Tariff on Chips, With a Big Caveat",
+            "link": "https://www.nytimes.com/2025/08/06/technology/trump-chip-tariffs-semiconductors.html",
+            "published": "Thu, 07 Aug 2025 08:33:02 +0000"
+        },
         {
             "title": "OpenAI to Open-Source Some of the A.I. Systems Behind ChatGPT",
             "link": "https://www.nytimes.com/2025/08/05/technology/openai-artificial-intelligence-chatgpt.html",
             "published": "Tue, 05 Aug 2025 19:27:50 +0000"
         },
         {
-            "title": "Taiwan Investigates TSMC Employees Over Possible Trade Secret Theft",
-            "link": "https://www.nytimes.com/2025/08/05/business/taiwan-tsmc-chips-leak-trade-secrets.html",
-            "published": "Tue, 05 Aug 2025 18:03:02 +0000"
-        },
-        {
-            "title": "Silicon Valley\u2019s Dream Tech Job Is Disappearing",
-            "link": "https://www.nytimes.com/2025/08/04/technology/tech-jobs-silicon-valley-changes.html",
-            "published": "Mon, 04 Aug 2025 20:53:48 +0000"
-        },
-        {
-            "title": "A.I. Has Ushered in Silicon Valley\u2019s \u2018Hard Tech\u2019 Era",
-            "link": "https://www.nytimes.com/2025/08/04/technology/ai-silicon-valley-hard-tech.html",
-            "published": "Mon, 04 Aug 2025 20:48:19 +0000"
-        },
-        {
-            "title": "Right-Wing Influence Shaped the Sydney Sweeney Ad Debate",
-            "link": "https://www.nytimes.com/2025/08/07/business/sydney-sweeney-ad-right-wing-media.html",
-            "published": "Thu, 07 Aug 2025 09:03:45 +0000"
+            "title": "California Start-Up Will Buy Assets of Bankrupt Swedish Battery Maker",
+            "link": "https://www.nytimes.com/2025/08/07/business/lyten-northvolt-ev-batteries.html",
+            "published": "Thu, 07 Aug 2025 14:00:05 +0000"
         }
     ],
     "source_2": [
