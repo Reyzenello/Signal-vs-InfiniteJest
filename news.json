@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI says GPT-5 is its first \"unified\" AI model and combines the reasoning abilities of its o-series of models with the fast responses of its GPT series (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250807/p31#a250807p31",
+            "published": "Thu, 07 Aug 2025 13:18:36 -0400"
+        },
+        {
+            "title": "OpenAI launches a research preview of four preset personalities for ChatGPT users to better tailor their interactions: Cynic, Robot, Listener, and Nerd (Rachel Metz/Bloomberg)",
+            "link": "http://www.techmeme.com/250807/p30#a250807p30",
+            "published": "Thu, 07 Aug 2025 13:14:00 -0400"
+        },
+        {
+            "title": "OpenAI releases GPT-5, its new flagship model, to all of its ChatGPT users and developers, available in three flavors via the API (Alex Heath/The Verge)",
+            "link": "http://www.techmeme.com/250807/p29#a250807p29",
+            "published": "Thu, 07 Aug 2025 13:05:00 -0400"
+        },
+        {
+            "title": "A livestream of OpenAI's GPT-5 announcement (OpenAI on YouTube)",
+            "link": "http://www.techmeme.com/250807/p28#a250807p28",
+            "published": "Thu, 07 Aug 2025 13:00:46 -0400"
+        },
+        {
             "title": "Source: OpenAI awards bonuses to ~1,000 research and engineering employees, or ~30% of its staff, ranging from several hundred thousand to millions of dollars (Stephanie Palazzolo/The Information)",
             "link": "http://www.techmeme.com/250807/p27#a250807p27",
             "published": "Thu, 07 Aug 2025 12:30:04 -0400"
-        },
-        {
-            "title": "Framework Desktop review: the $1,099+ desktop is compact and easy to assemble with solid performance and power efficiency, but CPU, GPU, and RAM are soldered (Andrew Cunningham/Ars Technica)",
-            "link": "http://www.techmeme.com/250807/p26#a250807p26",
-            "published": "Thu, 07 Aug 2025 11:45:01 -0400"
-        },
-        {
-            "title": "Tether acquires a minority stake in MiCA-licensed Spanish crypto exchange Bit2Me and is leading a \u20ac30M funding round that will close in the coming weeks (Naga Avan-Nomayo/The Block)",
-            "link": "http://www.techmeme.com/250807/p25#a250807p25",
-            "published": "Thu, 07 Aug 2025 11:20:00 -0400"
-        },
-        {
-            "title": "The US GSA says AWS has agreed to provide federal agencies with up to $1B in discounts for cloud adoption, modernization, and training through 2028 (Annie Palmer/CNBC)",
-            "link": "http://www.techmeme.com/250807/p24#a250807p24",
-            "published": "Thu, 07 Aug 2025 10:30:01 -0400"
-        },
-        {
-            "title": "SMIC reports Q2 revenue up 16.2% YoY to $2.2B, in line with expectations, and profit down 19.5% YoY to $132.5M, below $183.35M est. (Reuters)",
-            "link": "http://www.techmeme.com/250807/p23#a250807p23",
-            "published": "Thu, 07 Aug 2025 09:20:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Unveils GPT-5, New AI Model, to ChatGPT Users",
+            "link": "https://www.nytimes.com/2025/08/07/technology/openai-chatgpt-gpt-5.html",
+            "published": "Thu, 07 Aug 2025 17:00:06 +0000"
+        },
         {
             "title": "Trump\u2019s Threat to Hit Chips With 100% Tariffs Raises Big Questions",
             "link": "https://www.nytimes.com/2025/08/07/business/trump-tariffs-chips.html",
@@ -43,17 +48,17 @@
             "published": "Thu, 07 Aug 2025 08:33:02 +0000"
         },
         {
-            "title": "OpenAI to Open-Source Some of the A.I. Systems Behind ChatGPT",
-            "link": "https://www.nytimes.com/2025/08/05/technology/openai-artificial-intelligence-chatgpt.html",
-            "published": "Tue, 05 Aug 2025 19:27:50 +0000"
-        },
-        {
             "title": "U.K. Forces Porn Sites to Get Serious on \u2018Age-Gating\u2019",
             "link": "https://www.nytimes.com/2025/08/07/technology/uk-porn-age-verification.html",
             "published": "Thu, 07 Aug 2025 15:58:25 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI claims GPT-5 model boosts ChatGPT to 'PhD level'",
+            "link": "https://www.bbc.com/news/articles/cy5prvgw0r1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 07 Aug 2025 17:15:33 GMT"
+        },
         {
             "title": "What are semiconductors and why is Trump threatening 100% tariffs?",
             "link": "https://www.bbc.com/news/articles/cly3r664q1eo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Chinese nationals charged with exporting Nvidia AI chips to China",
             "link": "https://www.bbc.com/news/articles/c4gm921x424o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 Aug 2025 09:56:37 GMT"
-        },
-        {
-            "title": "Call to vet YouTube ads like regular TV to stop scams",
-            "link": "https://www.bbc.com/news/articles/ckge5xdwjx5o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 06 Aug 2025 09:48:15 GMT"
         }
     ]
 }
