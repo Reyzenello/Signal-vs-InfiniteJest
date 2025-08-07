@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Intel's board has stalled recent efforts by CEO Lip-Bu Tan to raise new capital and acquire an AI company meant to help it compete against Nvidia (Lauren Thomas/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250807/p50#a250807p50",
+            "published": "Thu, 07 Aug 2025 19:25:00 -0400"
+        },
+        {
+            "title": "Sources: Tesla is disbanding the Dojo supercomputer team, and its leader is leaving, after ~20 team members joined DensityAI, a new data center services startup (Edward Ludlow/Bloomberg)",
+            "link": "http://www.techmeme.com/250807/p48#a250807p48",
+            "published": "Thu, 07 Aug 2025 18:54:05 -0400"
+        },
+        {
+            "title": "Sources: German AI startup n8n is expected to raise hundreds of millions of euros led by Accel at a pre-money valuation of $2.3B, up from ~$350M four months ago (Bloomberg)",
+            "link": "http://www.techmeme.com/250807/p49#a250807p49",
+            "published": "Thu, 07 Aug 2025 18:54:05 -0400"
+        },
+        {
+            "title": "A Texas law enacted in June, inspired by the crippling 2021 winter storm, lets the state's grid operator cut off electricity to data centers in an emergency (Caroline O'Donovan/Washington Post)",
+            "link": "http://www.techmeme.com/250807/p47#a250807p47",
+            "published": "Thu, 07 Aug 2025 18:35:01 -0400"
+        },
+        {
             "title": "Two founders of the Samourai Wallet cryptocurrency mixer plead guilty to operating a money transmitting business that transmitted $200M+ in criminal proceeds (Sergiu Gatlan/BleepingComputer)",
             "link": "http://www.techmeme.com/250807/p45#a250807p45",
             "published": "Thu, 07 Aug 2025 17:55:05 -0400"
-        },
-        {
-            "title": "Source: Meta has acquired WaveForms AI, which is working on AI that understands and mimics emotion in audio and debuted in December with a $40M seed led by a16z (Kalley Huang/The Information)",
-            "link": "http://www.techmeme.com/250807/p44#a250807p44",
-            "published": "Thu, 07 Aug 2025 17:45:05 -0400"
-        },
-        {
-            "title": "Sources detail Google's struggles to monetize Google TV, which has been costing the company hundreds of millions of dollars annually and has yet to break even (Janko Roettgers/The Verge)",
-            "link": "http://www.techmeme.com/250807/p43#a250807p43",
-            "published": "Thu, 07 Aug 2025 17:40:00 -0400"
-        },
-        {
-            "title": "Pinterest reports Q2 revenue up 17% YoY to $998M vs. $975M est., 578M global MAUs vs. 574.5M est., and earnings per share below est.; PINS down 10%+ after hours (Jonathan Vanian/CNBC)",
-            "link": "http://www.techmeme.com/250807/p42#a250807p42",
-            "published": "Thu, 07 Aug 2025 17:10:02 -0400"
-        },
-        {
-            "title": "Take-Two reports Q1 net bookings up 17% YoY to $1.42B, net revenue up 12% YoY to $1.5B, vs. $1.32B est., and raises its FY 2026 net bookings projection (Jennifer Maas/Variety)",
-            "link": "http://www.techmeme.com/250807/p41#a250807p41",
-            "published": "Thu, 07 Aug 2025 17:00:13 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "California Supreme Court Requires New Review of Rooftop Solar Policy",
             "link": "https://www.nytimes.com/2025/08/07/business/energy-environment/california-supreme-court-rooftop-solar.html",
-            "published": "Thu, 07 Aug 2025 19:46:08 +0000"
+            "published": "Thu, 07 Aug 2025 22:56:05 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "OpenAI claims GPT-5 model boosts ChatGPT to 'PhD level'",
             "link": "https://www.bbc.com/news/articles/cy5prvgw0r1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 07 Aug 2025 19:15:55 GMT"
+        },
+        {
+            "title": "Trump calls for Intel boss to resign immediately, alleging China ties",
+            "link": "https://www.bbc.com/news/articles/c70x6602pdyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 07 Aug 2025 22:47:38 GMT"
         },
         {
             "title": "What are semiconductors and why is Trump threatening 100% tariffs?",
@@ -73,11 +78,6 @@
             "title": "Apple to invest $100bn after pressure from Trump",
             "link": "https://www.bbc.com/news/articles/cdx0n7y29kdo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 Aug 2025 22:04:06 GMT"
-        },
-        {
-            "title": "Chinese nationals charged with exporting Nvidia AI chips to China",
-            "link": "https://www.bbc.com/news/articles/c4gm921x424o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 06 Aug 2025 09:56:37 GMT"
         }
     ]
 }
