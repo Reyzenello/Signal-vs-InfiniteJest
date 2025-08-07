@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI releases GPT-5 pro, a version with extended reasoning exclusive to ChatGPT Pro subscribers, saying it scored 88.4% without tools on the GPQA benchmark (Maximilian Schreiner/The Decoder)",
+            "link": "http://www.techmeme.com/250807/p35#a250807p35",
+            "published": "Thu, 07 Aug 2025 14:40:01 -0400"
+        },
+        {
+            "title": "GPT-5 hands-on: it exudes competence but doesn't feel like a dramatic leap ahead of other LLMs, and the pricing is aggressively competitive with other providers (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/250807/p34#a250807p34",
+            "published": "Thu, 07 Aug 2025 14:05:01 -0400"
+        },
+        {
+            "title": "GPT-5 will use \"safe completions\", a training approach to maximize model helpfulness within safety constraints and an improvement over refusal-based training (OpenAI)",
+            "link": "http://www.techmeme.com/250807/p33#a250807p33",
+            "published": "Thu, 07 Aug 2025 13:55:08 -0400"
+        },
+        {
+            "title": "GPT-5 is priced at $1.25/1M input tokens and $10/1M output tokens, GPT-5 mini costs $0.25 and $2, respectively, and GPT-5 nano costs $0.05 and $0.40 (Kylie Robison/Wired)",
+            "link": "http://www.techmeme.com/250807/p32#a250807p32",
+            "published": "Thu, 07 Aug 2025 13:36:41 -0400"
+        },
+        {
             "title": "OpenAI says GPT-5 is its first \"unified\" AI model and combines the reasoning abilities of its o-series of models with the fast responses of its GPT series (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250807/p31#a250807p31",
             "published": "Thu, 07 Aug 2025 13:18:36 -0400"
-        },
-        {
-            "title": "OpenAI launches a research preview of four preset personalities for ChatGPT users to better tailor their interactions: Cynic, Robot, Listener, and Nerd (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/250807/p30#a250807p30",
-            "published": "Thu, 07 Aug 2025 13:14:00 -0400"
-        },
-        {
-            "title": "OpenAI releases GPT-5, its new flagship model, to all of its ChatGPT users and developers, available in three flavors via the API (Alex Heath/The Verge)",
-            "link": "http://www.techmeme.com/250807/p29#a250807p29",
-            "published": "Thu, 07 Aug 2025 13:05:00 -0400"
-        },
-        {
-            "title": "A livestream of OpenAI's GPT-5 announcement (OpenAI on YouTube)",
-            "link": "http://www.techmeme.com/250807/p28#a250807p28",
-            "published": "Thu, 07 Aug 2025 13:00:46 -0400"
-        },
-        {
-            "title": "Source: OpenAI awards bonuses to ~1,000 research and engineering employees, or ~30% of its staff, ranging from several hundred thousand to millions of dollars (Stephanie Palazzolo/The Information)",
-            "link": "http://www.techmeme.com/250807/p27#a250807p27",
-            "published": "Thu, 07 Aug 2025 12:30:04 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Trump\u2019s Threat to Hit Chips With 100% Tariffs Raises Big Questions",
             "link": "https://www.nytimes.com/2025/08/07/business/trump-tariffs-chips.html",
-            "published": "Thu, 07 Aug 2025 11:30:05 +0000"
+            "published": "Thu, 07 Aug 2025 17:54:35 +0000"
         },
         {
             "title": "Right-Wing Influence Shaped the Sydney Sweeney Ad Debate",
@@ -50,7 +50,7 @@
         {
             "title": "U.K. Forces Porn Sites to Get Serious on \u2018Age-Gating\u2019",
             "link": "https://www.nytimes.com/2025/08/07/technology/uk-porn-age-verification.html",
-            "published": "Thu, 07 Aug 2025 15:58:25 +0000"
+            "published": "Thu, 07 Aug 2025 18:29:15 +0000"
         }
     ],
     "source_2": [
