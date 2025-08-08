@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Apple says Apple Intelligence will use OpenAI's GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September (Zac Hall/9to5Mac)",
+            "title": "President Trump orders regulators to investigate banks for \"politicized or unlawful debanking\", echoing allegations from conservatives and the crypto industry (Joel Khalili/Wired)",
+            "link": "http://www.techmeme.com/250808/p11#a250808p11",
+            "published": "Fri, 08 Aug 2025 08:55:01 -0400"
+        },
+        {
+            "title": "OpenStore is scaling back its e-commerce aggregation efforts, closing nearly all of its 40+ Shopify stores and rebranding under its Jack Archer menswear label (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/250808/p10#a250808p10",
+            "published": "Fri, 08 Aug 2025 08:40:01 -0400"
+        },
+        {
+            "title": "Sources: SoftBank purchased Foxconn's EV plant in Ohio for $375M, a move aimed at kickstarting its $500B Stargate data center project with OpenAI and Oracle (Bloomberg)",
+            "link": "http://www.techmeme.com/250808/p9#a250808p9",
+            "published": "Fri, 08 Aug 2025 07:35:00 -0400"
+        },
+        {
+            "title": "Apple says Apple Intelligence will use OpenAI's GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the software updates expected to arrive in September (Zac Hall/9to5Mac)",
             "link": "http://www.techmeme.com/250808/p8#a250808p8",
             "published": "Fri, 08 Aug 2025 06:20:02 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "A look at the impact of AI voice cloning on India's dubbing and voiceover sector, as artists demand consent, credit, and fair pay amid a lack of laws for AI use (Zico Ghosh/The Hollywood Reporter)",
             "link": "http://www.techmeme.com/250808/p7#a250808p7",
             "published": "Fri, 08 Aug 2025 05:10:19 -0400"
-        },
-        {
-            "title": "As Trump targets Intel CEO Lip-Bu Tan, a look at his VC firm Walden International, which has invested $5B+ in 600+ companies, with 100+ in China including SMIC (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/250808/p6#a250808p6",
-            "published": "Fri, 08 Aug 2025 02:30:01 -0400"
-        },
-        {
-            "title": "Analysis: 12 Chinese tech companies have applied to list in Hong Kong so far this year, the most since 2023, after rules allowed lossmaking companies to float (Financial Times)",
-            "link": "http://www.techmeme.com/250808/p5#a250808p5",
-            "published": "Fri, 08 Aug 2025 02:05:01 -0400"
-        },
-        {
-            "title": "Intel CEO Lip-Bu Tan tells employees the company is engaging with the Trump administration to address concerns about him and \"ensure they have the facts\" (Lip-Bu Tan/Intel)",
-            "link": "http://www.techmeme.com/250808/p4#a250808p4",
-            "published": "Fri, 08 Aug 2025 01:40:18 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 07 Aug 2025 08:33:02 +0000"
         },
         {
-            "title": "GPT-5 Arrives + We Try the New Alexa+",
+            "title": "GPT-5 Arrives, and We Try the New Alexa+",
             "link": "https://www.nytimes.com/2025/08/08/podcasts/hardfork-gpt5-alexa.html",
-            "published": "Fri, 08 Aug 2025 11:00:06 +0000"
+            "published": "Fri, 08 Aug 2025 12:19:59 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI beats Elon Musk's Grok in AI chess tournament",
+            "link": "https://www.bbc.com/news/articles/ce830l92p68o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 08 Aug 2025 11:37:19 GMT"
+        },
         {
             "title": "OpenAI claims GPT-5 model boosts ChatGPT to 'PhD level'",
             "link": "https://www.bbc.com/news/articles/cy5prvgw0r1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Life-like robots for sale to the public as China opens new store",
             "link": "https://www.bbc.com/news/articles/cgm2jed7xvyo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 08 Aug 2025 04:58:20 GMT"
-        },
-        {
-            "title": "What are semiconductors and why is Trump threatening 100% tariffs?",
-            "link": "https://www.bbc.com/news/articles/cly3r664q1eo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 07 Aug 2025 12:31:58 GMT"
         }
     ]
 }
