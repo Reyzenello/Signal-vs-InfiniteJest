@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Two tech groups are backing Anthropic's appeal of a court ruling allowing a copyright class action, saying potential big settlements could chill AI investment (Ashley Belanger/Ars Technica)",
+            "link": "http://www.techmeme.com/250808/p26#a250808p26",
+            "published": "Fri, 08 Aug 2025 19:05:00 -0400"
+        },
+        {
+            "title": "Sources: the US has started issuing licenses to Nvidia to export H20 chips to China following weeks of inaction, after Jensen Huang met Trump on Wednesday (Financial Times)",
+            "link": "http://www.techmeme.com/250808/p25#a250808p25",
+            "published": "Fri, 08 Aug 2025 18:45:00 -0400"
+        },
+        {
             "title": "Silver Lake unveils a $400M project to secure powered land for data center developers; it has secured 3GW of power and is developing sites in Texas and Georgia (Isabelle Bousquette/Wall Street Journal)",
             "link": "http://www.techmeme.com/250808/p24#a250808p24",
             "published": "Fri, 08 Aug 2025 18:10:04 -0400"
@@ -14,16 +24,6 @@
             "title": "Coinbase rolls out DEX trading in its app for US users, excluding New York state, starting with assets on the Base network, with Solana support \"coming soon\" (Mat Di Salvo/Decrypt)",
             "link": "http://www.techmeme.com/250808/p22#a250808p22",
             "published": "Fri, 08 Aug 2025 16:30:01 -0400"
-        },
-        {
-            "title": "OpenAI says ChatGPT Pro users can select old models for now but plans to deprecate them in 60 days; Sam Altman says Plus users will be able to keep using GPT-4o (Joanna Stern/Joanna Stern's Newsletter)",
-            "link": "http://www.techmeme.com/250808/p21#a250808p21",
-            "published": "Fri, 08 Aug 2025 15:55:05 -0400"
-        },
-        {
-            "title": "Google is testing an AI-powered Google Finance website in the US, letting users ask questions, access advanced charting tools, view a live news feed, and more (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/250808/p20#a250808p20",
-            "published": "Fri, 08 Aug 2025 15:05:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Elon Musk's AI accused of making explicit AI Taylor Swift videos",
+            "link": "https://www.bbc.com/news/articles/cwye62e1ndjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 08 Aug 2025 23:06:01 GMT"
+        },
+        {
             "title": "OpenAI beats Elon Musk's Grok in AI chess tournament",
             "link": "https://www.bbc.com/news/articles/ce830l92p68o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 08 Aug 2025 11:37:19 GMT"
@@ -73,11 +78,6 @@
             "title": "Trump calls for Intel boss to resign immediately, alleging China ties",
             "link": "https://www.bbc.com/news/articles/c70x6602pdyo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 08 Aug 2025 16:43:07 GMT"
-        },
-        {
-            "title": "Life-like robots for sale to the public as China opens new store",
-            "link": "https://www.bbc.com/news/articles/cgm2jed7xvyo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 08 Aug 2025 04:58:20 GMT"
         }
     ]
 }
