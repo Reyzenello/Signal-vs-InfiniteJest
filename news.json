@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "GPT-5's system card says gpt-5-thinking has a hallucination rate of 4.5% with browsing enabled, compared to gpt-5-main's 9.6%, GPT-4o's 12.9%, and o3's 12.7% (Cecily Mauran/Mashable)",
+            "link": "http://www.techmeme.com/250808/p14#a250808p14",
+            "published": "Fri, 08 Aug 2025 10:00:01 -0400"
+        },
+        {
             "title": "Sources: China told local brokers and think tanks to stop promoting stablecoins by publishing research or holding seminars, aiming to prevent market instability (Bloomberg)",
             "link": "http://www.techmeme.com/250808/p13#a250808p13",
             "published": "Fri, 08 Aug 2025 09:45:00 -0400"
@@ -19,14 +24,19 @@
             "title": "OpenStore is scaling back its e-commerce aggregation efforts, closing nearly all of its 40+ Shopify stores and rebranding under its Jack Archer menswear label (Annie Palmer/CNBC)",
             "link": "http://www.techmeme.com/250808/p10#a250808p10",
             "published": "Fri, 08 Aug 2025 08:40:01 -0400"
-        },
-        {
-            "title": "Sources: SoftBank purchased Foxconn's EV plant in Ohio for $375M, a move aimed at kickstarting its $500B Stargate data center project with OpenAI and Oracle (Bloomberg)",
-            "link": "http://www.techmeme.com/250808/p9#a250808p9",
-            "published": "Fri, 08 Aug 2025 07:35:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Chatbots Can Go Into a Delusional Spiral. Here\u2019s How It Happens.",
+            "link": "https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html",
+            "published": "Fri, 08 Aug 2025 11:08:12 +0000"
+        },
+        {
+            "title": "GPT-5 Arrives, and We Try the New Alexa+",
+            "link": "https://www.nytimes.com/2025/08/08/podcasts/hardfork-gpt5-alexa.html",
+            "published": "Fri, 08 Aug 2025 12:19:59 +0000"
+        },
         {
             "title": "OpenAI Unveils GPT-5, New AI Model, to ChatGPT Users",
             "link": "https://www.nytimes.com/2025/08/07/technology/openai-chatgpt-gpt-5.html",
@@ -38,19 +48,9 @@
             "published": "Thu, 07 Aug 2025 17:54:36 +0000"
         },
         {
-            "title": "Right-Wing Influence Shaped the Sydney Sweeney Ad Debate",
-            "link": "https://www.nytimes.com/2025/08/07/business/sydney-sweeney-ad-right-wing-media.html",
-            "published": "Thu, 07 Aug 2025 09:03:45 +0000"
-        },
-        {
-            "title": "Trump Threatens 100% Tariff on Chips, With a Big Caveat",
-            "link": "https://www.nytimes.com/2025/08/06/technology/trump-chip-tariffs-semiconductors.html",
-            "published": "Thu, 07 Aug 2025 08:33:02 +0000"
-        },
-        {
-            "title": "GPT-5 Arrives, and We Try the New Alexa+",
-            "link": "https://www.nytimes.com/2025/08/08/podcasts/hardfork-gpt5-alexa.html",
-            "published": "Fri, 08 Aug 2025 12:19:59 +0000"
+            "title": "California Supreme Court Requires New Review of Rooftop Solar Policy",
+            "link": "https://www.nytimes.com/2025/08/07/business/energy-environment/california-supreme-court-rooftop-solar.html",
+            "published": "Thu, 07 Aug 2025 22:56:06 +0000"
         }
     ],
     "source_2": [
