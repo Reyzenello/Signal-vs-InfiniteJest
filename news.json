@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft launches Copilot 3D, a free AI-powered tool allowing users to transform 2D images into 3D models without a text prompt, available in Copilot Labs (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250810/p8#a250810p8",
+            "published": "Sun, 10 Aug 2025 12:25:01 -0400"
+        },
+        {
             "title": "Bo Hines, the head of the White House Presidential Council of Advisers for Digital Assets, says he is stepping down and returning to the private sector (Hadriana Lowenkron/Bloomberg)",
             "link": "http://www.techmeme.com/250810/p7#a250810p7",
             "published": "Sun, 10 Aug 2025 10:55:00 -0400"
@@ -19,14 +24,19 @@
             "title": "Investors are increasingly divesting from companies they fear are at risk of AI disruption, like Wix and Shutterstock, which are down at least 30% in 2025 (Bloomberg)",
             "link": "http://www.techmeme.com/250810/p4#a250810p4",
             "published": "Sun, 10 Aug 2025 09:35:01 -0400"
-        },
-        {
-            "title": "Q&A with OpenAI COO Brad Lightcap on GPT-5, its dynamic reasoning, defining AGI, scaling vs. post-training, hallucinations, enterprise adoption, and more (Alex Kantrowitz/Big Technology)",
-            "link": "http://www.techmeme.com/250810/p3#a250810p3",
-            "published": "Sun, 10 Aug 2025 06:05:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Computer Science Grads Struggle to Find Jobs in the A.I. Age",
+            "link": "https://www.nytimes.com/2025/08/10/technology/coding-ai-jobs-students.html",
+            "published": "Sun, 10 Aug 2025 09:00:31 +0000"
+        },
+        {
+            "title": "Alexa Got an A.I. Brain Transplant. How Smart Is It Now?",
+            "link": "https://www.nytimes.com/2025/08/09/business/alexa-artificial-intelligence-amazon.html",
+            "published": "Sat, 09 Aug 2025 09:02:35 +0000"
+        },
         {
             "title": "Chatbots Can Go Into a Delusional Spiral. Here\u2019s How It Happens.",
             "link": "https://www.nytimes.com/2025/08/08/technology/ai-chatbots-delusions-chatgpt.html",
@@ -38,19 +48,9 @@
             "published": "Fri, 08 Aug 2025 12:19:59 +0000"
         },
         {
-            "title": "OpenAI Unveils GPT-5, New AI Model, to ChatGPT Users",
-            "link": "https://www.nytimes.com/2025/08/07/technology/openai-chatgpt-gpt-5.html",
-            "published": "Thu, 07 Aug 2025 17:00:06 +0000"
-        },
-        {
-            "title": "Trump\u2019s Threat to Hit Chips With 100% Tariffs Raises Big Questions",
-            "link": "https://www.nytimes.com/2025/08/07/business/trump-tariffs-chips.html",
-            "published": "Thu, 07 Aug 2025 17:54:36 +0000"
-        },
-        {
-            "title": "Computer Science Grads Struggle to Find Jobs in the A.I. Age",
-            "link": "https://www.nytimes.com/2025/08/10/technology/coding-ai-jobs-students.html",
-            "published": "Sun, 10 Aug 2025 09:00:31 +0000"
+            "title": "What to Know About Instagram Map, Location Sharing and Privacy Concerns",
+            "link": "https://www.nytimes.com/2025/08/09/us/instagram-map-location-meta.html",
+            "published": "Sat, 09 Aug 2025 16:33:54 +0000"
         }
     ],
     "source_2": [
