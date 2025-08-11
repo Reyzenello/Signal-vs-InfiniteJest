@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia announces two low-power Blackwell workstation GPUs, the RTX PRO 4000 SFF and RTX PRO 2000, both featuring compact designs and available later this year (VideoCardz.com)",
+            "link": "http://www.techmeme.com/250811/p31#a250811p31",
+            "published": "Mon, 11 Aug 2025 18:50:01 -0400"
+        },
+        {
+            "title": "Nvidia debuts new Omniverse SDKs and Cosmos world foundation models for robotics devs, including Cosmos Reason, a 7B-parameter reasoning vision language model (Rebecca Szkutak/TechCrunch)",
+            "link": "http://www.techmeme.com/250811/p30#a250811p30",
+            "published": "Mon, 11 Aug 2025 18:30:01 -0400"
+        },
+        {
             "title": "Paxos applies to create a US national trust bank, which would allow it to manage and hold assets for customers, following applications by Circle and Ripple (Hannah Lang/Reuters)",
             "link": "http://www.techmeme.com/250811/p29#a250811p29",
             "published": "Mon, 11 Aug 2025 18:05:00 -0400"
@@ -14,16 +24,6 @@
             "title": "The Yomiuri Shimbun, Japan's largest newspaper by circulation, sues Perplexity, alleging unauthorized reproduction of its articles, and seeks $14.7M in damages (Andrew Deck/Nieman Lab)",
             "link": "http://www.techmeme.com/250811/p27#a250811p27",
             "published": "Mon, 11 Aug 2025 17:30:01 -0400"
-        },
-        {
-            "title": "SEC filing: crypto exchange Bullish increased the size and price of its US IPO to sell 30M shares for $32 to $33 each, up from 20.3M shares for $28 to $31 each (Charles Capel/Bloomberg)",
-            "link": "http://www.techmeme.com/250811/p26#a250811p26",
-            "published": "Mon, 11 Aug 2025 16:50:01 -0400"
-        },
-        {
-            "title": "Source: StubHub now aims to hold its IPO in September after pausing plans in April; it updated its IPO prospectus, reporting Q1 revenue up 10% YoY to $397.6M (CNBC)",
-            "link": "http://www.techmeme.com/250811/p25#a250811p25",
-            "published": "Mon, 11 Aug 2025 16:46:08 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "President Trump Calls Intel C.E.O. a \u2018Success\u2019 After Meeting",
             "link": "https://www.nytimes.com/2025/08/11/technology/president-trump-intel-ceo.html",
-            "published": "Mon, 11 Aug 2025 21:44:10 +0000"
+            "published": "Mon, 11 Aug 2025 23:20:58 +0000"
         }
     ],
     "source_2": [
@@ -77,7 +77,7 @@
         {
             "title": "Nvidia and AMD to pay 15% of China chip sales to US",
             "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 11 Aug 2025 22:04:58 GMT"
+            "published": "Mon, 11 Aug 2025 22:30:14 GMT"
         }
     ]
 }
