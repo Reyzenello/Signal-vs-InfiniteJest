@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Rumble says it plans to acquire German AI cloud group Northern Data in an all-stock deal; estimates show the deal could be valued at $1.17B (Reuters)",
+            "link": "http://www.techmeme.com/250811/p2#a250811p2",
+            "published": "Mon, 11 Aug 2025 01:10:01 -0400"
+        },
+        {
+            "title": "Sam Altman says OpenAI is restoring GPT-4o to ChatGPT and raising reasoning model limits for free and Plus users, as usage of reasoning models increases (Luc Olinga/Gizmodo)",
+            "link": "http://www.techmeme.com/250811/p1#a250811p1",
+            "published": "Mon, 11 Aug 2025 00:45:01 -0400"
+        },
+        {
             "title": "Wondery's restructure suggests the end of the \"Serial\" podcasting era and the start of a new one, marked by investment tied to video and the creator economy (Ashley Carman/Bloomberg)",
             "link": "http://www.techmeme.com/250810/p16#a250810p16",
             "published": "Sun, 10 Aug 2025 22:40:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: SoftBank has selected banks for a potential US IPO of its payments app operator PayPay, which may raise over $2B and could take place as soon as Q4 (Reuters)",
             "link": "http://www.techmeme.com/250810/p14#a250810p14",
             "published": "Sun, 10 Aug 2025 19:35:00 -0400"
-        },
-        {
-            "title": "Sources: Nvidia and AMD agreed to pay the US government 15% of revenues from H20 and MI308 chip sales in China to obtain export licenses granted last week (Financial Times)",
-            "link": "http://www.techmeme.com/250810/p13#a250810p13",
-            "published": "Sun, 10 Aug 2025 17:50:01 -0400"
-        },
-        {
-            "title": "Sources: Intel CEO Lip-Bu Tan is set to meet Trump on Monday to propose ways the US and Intel could work together, show his commitment to the US, and more (Lauren Thomas/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250810/p12#a250810p12",
-            "published": "Sun, 10 Aug 2025 17:40:00 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 08 Aug 2025 12:19:59 +0000"
         },
         {
-            "title": "U.S. Government to Take Cut of Nvidia and AMD A.I. Chip Sales to China",
-            "link": "https://www.nytimes.com/2025/08/10/technology/us-government-nvidia-amd-chips-china.html",
-            "published": "Mon, 11 Aug 2025 01:25:59 +0000"
+            "title": "AOL Will Shut Its Dial-Up Internet Service (Yes, It\u2019s Still Operating)",
+            "link": "https://www.nytimes.com/2025/08/11/business/aol-dial-up-internet.html",
+            "published": "Mon, 11 Aug 2025 04:04:45 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Musk's Tesla applies to supply power to British homes",
+            "link": "https://www.bbc.com/news/articles/c3v3333rlp7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 11 Aug 2025 04:17:07 GMT"
+        },
         {
             "title": "Chip giants Nvidia and AMD to pay 15% of China revenue to US",
             "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "OpenAI claims GPT-5 model boosts ChatGPT to 'PhD level'",
             "link": "https://www.bbc.com/news/articles/cy5prvgw0r1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 07 Aug 2025 19:15:55 GMT"
-        },
-        {
-            "title": "Trump opens door for crypto in retirement accounts",
-            "link": "https://www.bbc.com/news/articles/c62w8ewg849o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 07 Aug 2025 22:41:52 GMT"
         }
     ]
 }
