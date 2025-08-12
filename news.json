@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "In US court, Terraform Labs co-founder Do Kwon says he will plead guilty to charges of conspiracy and wire fraud under an agreement with prosecutors (Bob Van Voris/Bloomberg)",
+            "link": "http://www.techmeme.com/250812/p14#a250812p14",
+            "published": "Tue, 12 Aug 2025 11:15:00 -0400"
+        },
+        {
             "title": "Indian entrepreneur Bhavin Turakhia partners with GoDaddy to offer enterprises his email service Titan, which costs $2+ per month, aiming for 10M+ users by 2029 (Benicia Tan/Bloomberg)",
             "link": "http://www.techmeme.com/250812/p13#a250812p13",
             "published": "Tue, 12 Aug 2025 09:10:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Sea reports Q2 revenue up 38% YoY to $5.26B, vs. $5B est., a $414M net income, vs. $444M est., Shopee revenue up 34% YoY to $3.8B, driven by commissions and ads (Bloomberg)",
             "link": "http://www.techmeme.com/250812/p10#a250812p10",
             "published": "Tue, 12 Aug 2025 07:25:02 -0400"
-        },
-        {
-            "title": "Q&A with AMD CEO Lisa Su on AI accelerators, US manufacturing, becoming AMD's CEO in 2014, OpenAI, Tesla, xAI, China, ROCm, aiming to surpass Nvidia, and more (Lauren Goode/Wired)",
-            "link": "http://www.techmeme.com/250812/p9#a250812p9",
-            "published": "Tue, 12 Aug 2025 06:40:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "HMRC using AI to scour suspected tax cheats' social media",
+            "link": "https://www.bbc.com/news/articles/cqjyedz202ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 12 Aug 2025 15:11:48 GMT"
+        },
+        {
             "title": "Staff fear UK's Turing AI Institute at risk of collapse",
             "link": "https://www.bbc.com/news/articles/c24zz2vdv51o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 11 Aug 2025 23:01:26 GMT"
@@ -73,11 +78,6 @@
             "title": "Tough, smart and ahead of her time - how Dame Stephanie changed women's role in the tech industry",
             "link": "https://www.bbc.com/news/articles/c4gzzlp7p3po?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 11 Aug 2025 15:20:58 GMT"
-        },
-        {
-            "title": "M&S click and collect returns 15 weeks after cyber attack",
-            "link": "https://www.bbc.com/news/articles/cewyyjdzql4o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 11 Aug 2025 09:09:15 GMT"
         }
     ]
 }
