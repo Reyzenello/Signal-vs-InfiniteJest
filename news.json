@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Q&A with Notion CEO Ivan Zhao on Notion's evolution into an \"AI workspace\", being profitable, B2B vs. B2C, usage-based pricing for AI, and more (Casey Newton/The Verge)",
+            "link": "http://www.techmeme.com/250811/p33#a250811p33",
+            "published": "Mon, 11 Aug 2025 20:20:02 -0400"
+        },
+        {
+            "title": "Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump's tariffs as a backdrop (Ana Ionova/New York Times)",
+            "link": "http://www.techmeme.com/250811/p32#a250811p32",
+            "published": "Mon, 11 Aug 2025 19:30:00 -0400"
+        },
+        {
             "title": "Nvidia announces two low-power Blackwell workstation GPUs, the RTX PRO 4000 SFF and RTX PRO 2000, both featuring compact designs and available later this year (VideoCardz.com)",
             "link": "http://www.techmeme.com/250811/p31#a250811p31",
             "published": "Mon, 11 Aug 2025 18:50:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Paxos applies to create a US national trust bank, which would allow it to manage and hold assets for customers, following applications by Circle and Ripple (Hannah Lang/Reuters)",
             "link": "http://www.techmeme.com/250811/p29#a250811p29",
             "published": "Mon, 11 Aug 2025 18:05:00 -0400"
-        },
-        {
-            "title": "Trump says he met with Lip-Bu Tan and that the Intel CEO will continue talks with his Cabinet members in the coming days, after calling for his resignation (Skylar Woodhouse/Bloomberg)",
-            "link": "http://www.techmeme.com/250811/p28#a250811p28",
-            "published": "Mon, 11 Aug 2025 17:55:01 -0400"
-        },
-        {
-            "title": "The Yomiuri Shimbun, Japan's largest newspaper by circulation, sues Perplexity, alleging unauthorized reproduction of its articles, and seeks $14.7M in damages (Andrew Deck/Nieman Lab)",
-            "link": "http://www.techmeme.com/250811/p27#a250811p27",
-            "published": "Mon, 11 Aug 2025 17:30:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,20 @@
         {
             "title": "President Trump Calls Intel C.E.O. a \u2018Success\u2019 After Meeting",
             "link": "https://www.nytimes.com/2025/08/11/technology/president-trump-intel-ceo.html",
-            "published": "Mon, 11 Aug 2025 23:20:58 +0000"
+            "published": "Mon, 11 Aug 2025 23:38:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Staff fear UK's Turing AI Institute at risk of collapse",
+            "link": "https://www.bbc.com/news/articles/c24zz2vdv51o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 11 Aug 2025 23:01:26 GMT"
+        },
+        {
+            "title": "AOL ends dial-up service after more than 30 years",
+            "link": "https://www.bbc.com/news/articles/cj0yy3e6z4zo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 11 Aug 2025 20:26:24 GMT"
+        },
         {
             "title": "Wikipedia loses challenge against Online Safety Act verification rules",
             "link": "https://www.bbc.com/news/articles/cjr11qqvvwlo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "M&S click and collect returns 15 weeks after cyber attack",
             "link": "https://www.bbc.com/news/articles/cewyyjdzql4o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 11 Aug 2025 09:09:15 GMT"
-        },
-        {
-            "title": "Musk's Tesla applies to supply power to British homes",
-            "link": "https://www.bbc.com/news/articles/c3v3333rlp7o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 11 Aug 2025 04:17:07 GMT"
-        },
-        {
-            "title": "Nvidia and AMD to pay 15% of China chip sales to US",
-            "link": "https://www.bbc.com/news/articles/cvgvvnx8y19o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 11 Aug 2025 22:30:14 GMT"
         }
     ]
 }
