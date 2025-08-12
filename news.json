@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic updates Claude Sonnet 4 to support a 1M token context window, letting it process prompts up to 750K words or 75K lines of code, up 5x on its old limit (Maxwell Zeff/TechCrunch)",
+            "link": "http://www.techmeme.com/250812/p16#a250812p16",
+            "published": "Tue, 12 Aug 2025 12:30:01 -0400"
+        },
+        {
+            "title": "Perplexity offers to acquire Chrome for $34.5B, significantly more than Perplexity's estimated $18B valuation, and says large VC funds agreed to back the deal (Katherine Blunt/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250812/p15#a250812p15",
+            "published": "Tue, 12 Aug 2025 11:45:01 -0400"
+        },
+        {
             "title": "In US court, Terraform Labs co-founder Do Kwon says he will plead guilty to charges of conspiracy and wire fraud under an agreement with prosecutors (Bob Van Voris/Bloomberg)",
             "link": "http://www.techmeme.com/250812/p14#a250812p14",
             "published": "Tue, 12 Aug 2025 11:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Circle reports Q2 revenue up 53% YoY to $658M, USDC circulation up 90% YoY to $61.3B, a $482M net loss, and unveils Arc, a stablecoin-focused Layer 1 blockchain (James Hunt/The Block)",
             "link": "http://www.techmeme.com/250812/p12#a250812p12",
             "published": "Tue, 12 Aug 2025 08:40:00 -0400"
-        },
-        {
-            "title": "Anthropic signs a deal to offer Claude to US lawmakers for $1/year, following OpenAI; a source says Google is in talks to offer Gemini on similarly cheap terms (Financial Times)",
-            "link": "http://www.techmeme.com/250812/p11#a250812p11",
-            "published": "Tue, 12 Aug 2025 08:10:02 -0400"
-        },
-        {
-            "title": "Sea reports Q2 revenue up 38% YoY to $5.26B, vs. $5B est., a $414M net income, vs. $444M est., Shopee revenue up 34% YoY to $3.8B, driven by commissions and ads (Bloomberg)",
-            "link": "http://www.techmeme.com/250812/p10#a250812p10",
-            "published": "Tue, 12 Aug 2025 07:25:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Musk threatens Apple and calls OpenAI boss a liar as feud deepens",
+            "link": "https://www.bbc.com/news/articles/cn842x1v1n1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 12 Aug 2025 16:22:44 GMT"
+        },
+        {
             "title": "HMRC using AI to scour suspected tax cheats' social media",
             "link": "https://www.bbc.com/news/articles/cqjyedz202ko?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 12 Aug 2025 15:11:48 GMT"
@@ -73,11 +78,6 @@
             "title": "Wikipedia loses challenge against Online Safety Act verification rules",
             "link": "https://www.bbc.com/news/articles/cjr11qqvvwlo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 11 Aug 2025 15:37:06 GMT"
-        },
-        {
-            "title": "Tough, smart and ahead of her time - how Dame Stephanie changed women's role in the tech industry",
-            "link": "https://www.bbc.com/news/articles/c4gzzlp7p3po?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 11 Aug 2025 15:20:58 GMT"
         }
     ]
 }
