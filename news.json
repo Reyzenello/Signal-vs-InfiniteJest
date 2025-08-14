@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "An internal Meta doc shows its chatbots were allowed to engage in provocative conversations; Meta removed some examples, including romantic roleplay with kids (Jeff Horwitz/Reuters)",
+            "link": "http://www.techmeme.com/250814/p19#a250814p19",
+            "published": "Thu, 14 Aug 2025 08:55:01 -0400"
+        },
+        {
+            "title": "The US NSF and Nvidia partner to fund the Open Multimodal Infrastructure to Accelerate Science project, led by Ai2; NSF is contributing $75M and Nvidia $77M (Kyt Dotson/SiliconANGLE)",
+            "link": "http://www.techmeme.com/250814/p18#a250814p18",
+            "published": "Thu, 14 Aug 2025 08:45:34 -0400"
+        },
+        {
+            "title": "Arkham Intelligence: SpaceX now holds 8,285 bitcoin, valued at ~$1.02B, down from 28,000 bitcoin worth $1.8B in April 2021 after cutting its holdings in 2022 (Danny Park/The Block)",
+            "link": "http://www.techmeme.com/250814/p17#a250814p17",
+            "published": "Thu, 14 Aug 2025 07:35:02 -0400"
+        },
+        {
             "title": "A deep dive on Big Tech's AI energy boom as Amazon, Microsoft, and Google become major players, leading to fears that individuals' and SMBs' rates may rise (New York Times)",
             "link": "http://www.techmeme.com/250814/p16#a250814p16",
             "published": "Thu, 14 Aug 2025 06:40:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Milan-based Bending Spoons raised \u20ac500M+ in debt led by JPMorgan Chase to buy more software businesses; the company raised $155M at a $2.6B valuation in 2024 (Mark Bergen/Bloomberg)",
             "link": "http://www.techmeme.com/250814/p15#a250814p15",
             "published": "Thu, 14 Aug 2025 06:30:02 -0400"
-        },
-        {
-            "title": "How Wall Street is embracing crypto, spurred in part by political opportunism, as some executives fear the rush may risk the safety of personal bank accounts (Rob Copeland/New York Times)",
-            "link": "http://www.techmeme.com/250814/p14#a250814p14",
-            "published": "Thu, 14 Aug 2025 06:20:01 -0400"
-        },
-        {
-            "title": "JD.com reports Q2 revenue up 22% YoY to $49.7B, above $46.8B est., and net income down 50% YoY to ~$846M, benefiting from government-directed consumer subsidies (Bloomberg)",
-            "link": "http://www.techmeme.com/250814/p13#a250814p13",
-            "published": "Thu, 14 Aug 2025 06:05:01 -0400"
-        },
-        {
-            "title": "Q&A with researcher Petter T\u00f6rnberg on his pre-print study showing how social media's structural architecture creates problematic outcomes like echo chambers (Jennifer Ouellette/Ars Technica)",
-            "link": "http://www.techmeme.com/250814/p12#a250814p12",
-            "published": "Thu, 14 Aug 2025 05:55:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Big Tech\u2019s A.I. Boom Is Reordering the U.S. Power Grid",
             "link": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
-            "published": "Thu, 14 Aug 2025 09:00:12 +0000"
+            "published": "Thu, 14 Aug 2025 12:34:57 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Firm apologises for saying it would not process LGBTQ+ payments",
+            "link": "https://www.bbc.com/news/articles/c15lpwzzzqgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 14 Aug 2025 12:23:01 GMT"
+        },
         {
             "title": "Porn site traffic plummets as UK age verification rules enforced",
             "link": "https://www.bbc.com/news/articles/c17n9k54qz2o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Government expands police use of facial recognition vans",
             "link": "https://www.bbc.com/news/articles/cj4wy21dwkwo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 14 Aug 2025 09:55:02 GMT"
-        },
-        {
-            "title": "'Cryptocrash king' Do Kwon pleads guilty to fraud",
-            "link": "https://www.bbc.com/news/articles/c2kznpdvwwlo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 13 Aug 2025 03:53:28 GMT"
         }
     ]
 }
