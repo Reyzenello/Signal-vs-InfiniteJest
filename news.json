@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: xAI was part of a US government AI initiative alongside OpenAI, Anthropic, and Google, but was removed after Grok posted antisemitic content in July (Wired)",
+            "link": "http://www.techmeme.com/250814/p32#a250814p32",
+            "published": "Thu, 14 Aug 2025 14:35:01 -0400"
+        },
+        {
+            "title": "Google announces Gemma 3 270M, a compact model designed for task-specific fine-tuning with strong capabilities in instruction following and text structuring (Google Developers Blog)",
+            "link": "http://www.techmeme.com/250814/p31#a250814p31",
+            "published": "Thu, 14 Aug 2025 14:05:01 -0400"
+        },
+        {
+            "title": "Anthropic expands Claude's Learning Mode, available only to Education users since an April launch, to all users, including two learning variants for Claude Code (Igor Bonifacic/Engadget)",
+            "link": "http://www.techmeme.com/250814/p30#a250814p30",
+            "published": "Thu, 14 Aug 2025 13:30:15 -0400"
+        },
+        {
             "title": "Q&A with OpenAI VP and Head of ChatGPT Nick Turley on ChatGPT's future, showing ads in chatbots, hallucinations, GPT-5 blowback, 4o, subscriptions, and more (Alex Heath/The Verge)",
             "link": "http://www.techmeme.com/250814/p29#a250814p29",
             "published": "Thu, 14 Aug 2025 12:45:10 -0400"
@@ -9,21 +24,6 @@
             "title": "Google launches Flight Deals, an AI tool within Google Flights to let users find fares using natural language queries, in beta in the US, Canada, and India (Jagmeet Singh/TechCrunch)",
             "link": "http://www.techmeme.com/250814/p28#a250814p28",
             "published": "Thu, 14 Aug 2025 11:50:00 -0400"
-        },
-        {
-            "title": "Ex-Twitter CEO Parag Agrawal launches Parallel Web Systems to build infrastructure for AI agents to search the web, raising $30M from Khosla Ventures and others (Bloomberg)",
-            "link": "http://www.techmeme.com/250814/p27#a250814p27",
-            "published": "Thu, 14 Aug 2025 11:25:01 -0400"
-        },
-        {
-            "title": "Sola, which wants AI agents to automate businesses' repetitive tasks, raised $21M, including a $3.5M seed led by Conviction and a $17.5M Series A led by a16z (Emma Hinchliffe/Fortune)",
-            "link": "http://www.techmeme.com/250814/p26#a250814p26",
-            "published": "Thu, 14 Aug 2025 10:55:02 -0400"
-        },
-        {
-            "title": "Toronto-based Cohere raised $500M led by Radical and Inovia at a $6.8B valuation, up from $5.5B in July 2024, and has doubled its ARR to $100M so far in 2025 (George Hammond/Financial Times)",
-            "link": "http://www.techmeme.com/250814/p25#a250814p25",
-            "published": "Thu, 14 Aug 2025 10:21:34 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Blood Oxygen Measurements to Return to Some Apple Watches",
             "link": "https://www.nytimes.com/2025/08/14/technology/apple-watch-masimo-blood-oxygen-levels.html",
-            "published": "Thu, 14 Aug 2025 15:33:46 +0000"
+            "published": "Thu, 14 Aug 2025 17:53:14 +0000"
         }
     ],
     "source_2": [
