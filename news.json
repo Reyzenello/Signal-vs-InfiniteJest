@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
+            "title": "CoreWeave's IPO lockup expires Friday for holders of 80%+ of its Class A shares; its stock plunged 33% in the two days after its Q2 earnings amid selloff fears (Carmen Reinicke/Bloomberg)",
+            "link": "http://www.techmeme.com/250815/p8#a250815p8",
+            "published": "Fri, 15 Aug 2025 08:30:56 -0400"
+        },
+        {
+            "title": "Klarna reports Q2 revenue up 25% YoY to $823M with a net loss of $53M, up from a net loss of $18M in Q2 2024, as it prepares for a second attempt at a US IPO (Akila Quinio/Financial Times)",
+            "link": "http://www.techmeme.com/250815/p7#a250815p7",
+            "published": "Fri, 15 Aug 2025 08:05:00 -0400"
+        },
+        {
+            "title": "Sources: some N26 investors seek to replace its co-CEOs after German regulator Bafin identified new deficiencies in the digital bank's internal controls (Bloomberg)",
+            "link": "http://www.techmeme.com/250815/p6#a250815p6",
+            "published": "Fri, 15 Aug 2025 07:30:50 -0400"
+        },
+        {
+            "title": "SoftBank-owned PayPay files for a US listing; sources: PayPay aims to raise $2B+ at a $10B+ valuation, and the listing could happen by the end of the year (David Keohane/Financial Times)",
+            "link": "http://www.techmeme.com/250815/p5#a250815p5",
+            "published": "Fri, 15 Aug 2025 07:25:01 -0400"
+        },
+        {
             "title": "Meta's standalone Meta AI app, launched in April 2025, offers an uneven experience, often hallucinating facts and failing to provide personalized responses (Bloomberg)",
             "link": "http://www.techmeme.com/250815/p4#a250815p4",
             "published": "Fri, 15 Aug 2025 07:16:03 -0400"
-        },
-        {
-            "title": "An interview with Sam Altman on spending billions on AI infrastructure, wanting Chrome if it's really selling, AI models saturating the chat use case, and more (Ina Fried/Axios)",
-            "link": "http://www.techmeme.com/250815/p3#a250815p3",
-            "published": "Fri, 15 Aug 2025 06:05:01 -0400"
-        },
-        {
-            "title": "How Google's Jigsaw and longtime pollster Scott Rasmussen plan to use AI to survey Americans to find common ground ahead of the US' 250th anniversary (Richard Nieva/Forbes)",
-            "link": "http://www.techmeme.com/250815/p2#a250815p2",
-            "published": "Fri, 15 Aug 2025 05:05:02 -0400"
-        },
-        {
-            "title": "Meta's strong Q2 shows it has learned a company must give investors short-term results to get permission for long-term investments, such as its AI ambitions (Ben Thompson/Stratechery)",
-            "link": "http://www.techmeme.com/250815/p1#a250815p1",
-            "published": "Fri, 15 Aug 2025 02:01:21 -0400"
-        },
-        {
-            "title": "Accenture plans to acquire Australian cybersecurity company CyberCX from private equity firm BGH Capital; the deal reportedly values CyberCX at more than AU$1B (Mark Anderson/Bloomberg Law)",
-            "link": "http://www.techmeme.com/250814/p43#a250814p43",
-            "published": "Thu, 14 Aug 2025 23:15:36 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk\u2019s SpaceX Most Likely Doesn\u2019t Pay Taxes",
+            "link": "https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html",
+            "published": "Fri, 15 Aug 2025 09:00:17 +0000"
+        },
+        {
+            "title": "GPT-5 Backlash + Perplexity C.E.O. Aravind Srinivas on the Browser Wars + Hot Mess Express",
+            "link": "https://www.nytimes.com/2025/08/15/podcasts/hardfork-gpt5-perplexity.html",
+            "published": "Fri, 15 Aug 2025 11:00:09 +0000"
+        },
         {
             "title": "Big Tech\u2019s A.I. Data Centers Are Driving Up Electricity Bills for Everyone",
             "link": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
@@ -38,22 +48,17 @@
             "published": "Wed, 13 Aug 2025 13:28:39 +0000"
         },
         {
-            "title": "Companies Are Pouring Billions Into A.I. It Has Yet to Pay Off.",
-            "link": "https://www.nytimes.com/2025/08/13/business/ai-business-payoff-lags.html",
-            "published": "Wed, 13 Aug 2025 09:01:01 +0000"
-        },
-        {
-            "title": "Hidden Inside Our Electronics, Tiny Doodles From Another Era",
-            "link": "https://www.nytimes.com/2025/08/12/technology/silicon-chips-doodles.html",
-            "published": "Tue, 12 Aug 2025 22:11:43 +0000"
-        },
-        {
-            "title": "GPT-5 Backlash + Perplexity C.E.O. Aravind Srinivas on the Browser Wars + Hot Mess Express",
-            "link": "https://www.nytimes.com/2025/08/15/podcasts/hardfork-gpt5-perplexity.html",
-            "published": "Fri, 15 Aug 2025 11:00:09 +0000"
+            "title": "They\u2019re Stuffed Animals. They\u2019re Also A.I. Chatbots.",
+            "link": "https://www.nytimes.com/2025/08/15/arts/ai-toys-curio-grem.html",
+            "published": "Fri, 15 Aug 2025 09:01:32 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "UK's Turing AI Institute responds to staff anger about defence focus",
+            "link": "https://www.bbc.com/news/articles/c86076qd40xo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 15 Aug 2025 12:06:13 GMT"
+        },
         {
             "title": "Data centres to be expanded across UK as concerns mount",
             "link": "https://www.bbc.com/news/articles/clyr9nx0jrzo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Firm apologises for saying it would not process LGBTQ+ payments",
             "link": "https://www.bbc.com/news/articles/c15lpwzzzqgo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 14 Aug 2025 12:23:01 GMT"
-        },
-        {
-            "title": "Porn site traffic plummets as UK age verification rules enforced",
-            "link": "https://www.bbc.com/news/articles/c17n9k54qz2o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 13 Aug 2025 16:30:27 GMT"
         }
     ]
 }
