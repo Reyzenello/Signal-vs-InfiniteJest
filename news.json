@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Sam Altman says OpenAI \"totally screwed up some things\" on the GPT-5 rollout, confirms plans to fund a brain-computer interface startup to rival Neuralink (Alex Heath/The Verge)",
+            "title": "Opendoor CEO Carrie Wheeler steps down, with Shrisha Radhakrishna named president and interim CEO; OPEN jumps 8%+ (Norah Mulinda/Bloomberg)",
+            "link": "http://www.techmeme.com/250815/p10#a250815p10",
+            "published": "Fri, 15 Aug 2025 10:10:02 -0400"
+        },
+        {
+            "title": "Sam Altman says OpenAI \"totally screwed up some things\" on the GPT-5 rollout and confirms plans to fund a brain-computer interface startup to rival Neuralink (Alex Heath/The Verge)",
             "link": "http://www.techmeme.com/250815/p9#a250815p9",
             "published": "Fri, 15 Aug 2025 09:10:03 -0400"
         },
@@ -16,14 +21,9 @@
             "published": "Fri, 15 Aug 2025 08:05:00 -0400"
         },
         {
-            "title": "Sources: some N26 investors seek to replace its co-CEOs after German regulator Bafin identified new deficiencies in the digital bank's internal controls (Bloomberg)",
+            "title": "Sources: some investors seek to replace N26's co-CEOs after German financial regulator Bafin identified new deficiencies in the digital bank's internal controls (Bloomberg)",
             "link": "http://www.techmeme.com/250815/p6#a250815p6",
             "published": "Fri, 15 Aug 2025 07:30:50 -0400"
-        },
-        {
-            "title": "SoftBank-owned PayPay files for a US listing; sources: PayPay aims to raise $2B+ at a $10B+ valuation, and the listing could happen by the end of the year (David Keohane/Financial Times)",
-            "link": "http://www.techmeme.com/250815/p5#a250815p5",
-            "published": "Fri, 15 Aug 2025 07:25:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "VW introduces monthly subscription to increase car power",
+            "link": "https://www.bbc.com/news/articles/c62weyp4qqgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 15 Aug 2025 13:32:22 GMT"
+        },
+        {
             "title": "UK's Turing AI Institute responds to staff anger about defence focus",
             "link": "https://www.bbc.com/news/articles/c86076qd40xo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 15 Aug 2025 12:06:13 GMT"
@@ -73,11 +78,6 @@
             "title": "Intel shares jump after report of possible US stake in chipmaker",
             "link": "https://www.bbc.com/news/articles/cpv01pl208lo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 15 Aug 2025 07:29:36 GMT"
-        },
-        {
-            "title": "Firm apologises for saying it would not process LGBTQ+ payments",
-            "link": "https://www.bbc.com/news/articles/c15lpwzzzqgo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 14 Aug 2025 12:23:01 GMT"
         }
     ]
 }
