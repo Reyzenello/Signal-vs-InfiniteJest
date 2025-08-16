@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Barbour ABI: the UK's data center count, currently 477, is set to jump by ~100 over the next five years, with more than half in London and neighboring counties (BBC)",
+            "link": "http://www.techmeme.com/250816/p17#a250816p17",
+            "published": "Sat, 16 Aug 2025 19:20:00 -0400"
+        },
+        {
             "title": "A new Artificial Analysis benchmark, focusing on OpenAI's gpt-oss-120b, shows how open-weight LLMs exhibit inconsistent performance across hosting providers (Simon Willison/Simon Willison's Weblog)",
             "link": "http://www.techmeme.com/250816/p16#a250816p16",
             "published": "Sat, 16 Aug 2025 17:20:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Global smart glasses shipments grew 110% YoY in H1; Meta's share of the market rose to 73%; AI smart glasses accounted for 78% of shipments, up from 46% YoY (Counterpoint Research)",
             "link": "http://www.techmeme.com/250816/p13#a250816p13",
             "published": "Sat, 16 Aug 2025 12:40:01 -0400"
-        },
-        {
-            "title": "Anthropic enables Claude Opus 4 and 4.1 to end conversations in \"cases of persistently harmful or abusive user interactions\"; users can still start new chats (Anthropic)",
-            "link": "http://www.techmeme.com/250816/p12#a250816p12",
-            "published": "Sat, 16 Aug 2025 11:00:40 -0400"
         }
     ],
     "source_1": [
