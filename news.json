@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A profile of UCB CS professor Ion Stoica, a billionaire who has helped launch four startups out of his privately-funded research lab, including Databricks (Martina Di Licosa/Forbes)",
+            "link": "http://www.techmeme.com/250816/p10#a250816p10",
+            "published": "Sat, 16 Aug 2025 08:40:01 -0400"
+        },
+        {
             "title": "TikTok is updating its Community Guidelines, adding new rules for Live creators, including a requirement that commercial content must be disclosed (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/250816/p9#a250816p9",
             "published": "Sat, 16 Aug 2025 05:35:01 -0400"
@@ -19,40 +24,9 @@
             "title": "Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges (Kelly Cloonan/Wall Street Journal)",
             "link": "http://www.techmeme.com/250816/p6#a250816p6",
             "published": "Sat, 16 Aug 2025 02:05:01 -0400"
-        },
-        {
-            "title": "Jump, a SaaS startup founded by Alex Rodriguez and Marc Lore for managing sports ticketing and fan experiences, raised a $23M Series A at a $100M+ valuation (Justin Birnbaum/Forbes)",
-            "link": "http://www.techmeme.com/250816/p5#a250816p5",
-            "published": "Sat, 16 Aug 2025 01:55:01 -0400"
         }
     ],
-    "source_1": [
-        {
-            "title": "Elon Musk\u2019s SpaceX Most Likely Doesn\u2019t Pay Taxes",
-            "link": "https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html",
-            "published": "Fri, 15 Aug 2025 09:00:17 +0000"
-        },
-        {
-            "title": "GPT-5 Backlash + Perplexity C.E.O. Aravind Srinivas on the Browser Wars + Hot Mess Express",
-            "link": "https://www.nytimes.com/2025/08/15/podcasts/hardfork-gpt5-perplexity.html",
-            "published": "Fri, 15 Aug 2025 11:00:09 +0000"
-        },
-        {
-            "title": "Big Tech\u2019s A.I. Data Centers Are Driving Up Electricity Bills for Everyone",
-            "link": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
-            "published": "Thu, 14 Aug 2025 15:13:37 +0000"
-        },
-        {
-            "title": "Trump Has Made Himself Commander in Chief of the Chip Industry",
-            "link": "https://www.nytimes.com/2025/08/13/technology/trump-chips-nvidia-intel.html",
-            "published": "Wed, 13 Aug 2025 13:28:39 +0000"
-        },
-        {
-            "title": "Judge Blocks F.T.C. Investigation of Media Matters",
-            "link": "https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html",
-            "published": "Fri, 15 Aug 2025 23:02:00 +0000"
-        }
-    ],
+    "source_1": [],
     "source_2": [
         {
             "title": "VW introduces monthly subscription to increase car power",
