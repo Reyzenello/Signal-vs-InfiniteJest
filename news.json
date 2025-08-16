@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A new Artificial Analysis benchmark, focusing on OpenAI's gpt-oss-120b, shows how open-weight LLMs exhibit inconsistent performance across hosting providers (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/250816/p16#a250816p16",
+            "published": "Sat, 16 Aug 2025 17:20:01 -0400"
+        },
+        {
             "title": "GPT-5's underwhelming performance on benchmarks suggests that the current approach of scaling LLMs is starting to reach the limits of available resources (Financial Times)",
             "link": "http://www.techmeme.com/250816/p15#a250816p15",
             "published": "Sat, 16 Aug 2025 15:25:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Anthropic enables Claude Opus 4 and 4.1 to end conversations in \"cases of persistently harmful or abusive user interactions\"; users can still start new chats (Anthropic)",
             "link": "http://www.techmeme.com/250816/p12#a250816p12",
             "published": "Sat, 16 Aug 2025 11:00:40 -0400"
-        },
-        {
-            "title": "A look at AI-powered stuffed animals like Grem, Grok, and Gabbo, which are being promoted as an alternative to screen time for children as young as 3 (Amanda Hess/New York Times)",
-            "link": "http://www.techmeme.com/250816/p11#a250816p11",
-            "published": "Sat, 16 Aug 2025 10:00:38 -0400"
         }
     ],
     "source_1": [
