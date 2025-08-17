@@ -42,16 +42,16 @@
         "description": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)"
     },
     {
-        "name": "clai",
-        "full_name": "IBM/clai",
-        "html_url": "https://github.com/IBM/clai",
-        "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
-    },
-    {
         "name": "YC-Killer",
         "full_name": "sahibzada-allahyar/YC-Killer",
         "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
         "description": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you are excited about democratizing AI access & AI agents, please star this repository. Once you \u2b50\ufe0f star the GitHub repo, we'll review your application."
+    },
+    {
+        "name": "clai",
+        "full_name": "IBM/clai",
+        "html_url": "https://github.com/IBM/clai",
+        "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
     },
     {
         "name": "-Prototype-AIVTuber",
