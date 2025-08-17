@@ -36,16 +36,16 @@
         "description": "This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI)."
     },
     {
-        "name": "awesome-ai",
-        "full_name": "hades217/awesome-ai",
-        "html_url": "https://github.com/hades217/awesome-ai",
-        "description": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)"
-    },
-    {
         "name": "YC-Killer",
         "full_name": "sahibzada-allahyar/YC-Killer",
         "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
         "description": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you are excited about democratizing AI access & AI agents, please star this repository. Once you \u2b50\ufe0f star the GitHub repo, we'll review your application."
+    },
+    {
+        "name": "awesome-ai",
+        "full_name": "hades217/awesome-ai",
+        "html_url": "https://github.com/hades217/awesome-ai",
+        "description": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)"
     },
     {
         "name": "clai",
