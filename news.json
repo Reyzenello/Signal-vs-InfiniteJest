@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "IVIX, which uses AI to help regulators detect financial fraud, raised a $60M Series B led by OG Venture Partners, bringing its total funding to $85M (Marc Vartabedian/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250818/p9#a250818p9",
+            "published": "Mon, 18 Aug 2025 08:15:00 -0400"
+        },
+        {
+            "title": "Digital bank Monzo, which has 13M UK customers, plans to launch a mobile phone service; Revolut and Klarna, each with ~11M UK customers, announced similar plans (Financial Times)",
+            "link": "http://www.techmeme.com/250818/p8#a250818p8",
+            "published": "Mon, 18 Aug 2025 07:35:01 -0400"
+        },
+        {
             "title": "Medallion, which automates healthcare back-office operations and compliance, raised $43M at a valuation of around $440M, bringing its total raised to $130M (Amy Feldman/Forbes)",
             "link": "http://www.techmeme.com/250818/p7#a250818p7",
             "published": "Mon, 18 Aug 2025 07:20:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans (Yan Zhuang/New York Times)",
             "link": "http://www.techmeme.com/250818/p5#a250818p5",
             "published": "Mon, 18 Aug 2025 06:05:00 -0400"
-        },
-        {
-            "title": "Sources: the EU and US are delaying formalizing their trade deal over \"non-tariff barriers\", including relaxing the DSA, which the EU sees as a red line (Financial Times)",
-            "link": "http://www.techmeme.com/250818/p4#a250818p4",
-            "published": "Mon, 18 Aug 2025 05:05:01 -0400"
-        },
-        {
-            "title": "SoftBank buys Foxconn's Ohio EV plant; Foxconn will produce AI servers at the plant as part of Softbank's $500B Stargate project with OpenAI and Oracle (Debby Wu/Bloomberg)",
-            "link": "http://www.techmeme.com/250818/p3#a250818p3",
-            "published": "Mon, 18 Aug 2025 04:50:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Meta investigated over AI having 'sensual' chats with children",
+            "link": "https://www.bbc.com/news/articles/c3dpmlvx1k2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 18 Aug 2025 12:04:06 GMT"
+        },
+        {
             "title": "Should Europe wean itself off US tech?",
             "link": "https://www.bbc.com/news/articles/c3dpr2zkny0o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 17 Aug 2025 23:03:19 GMT"
@@ -73,11 +78,6 @@
             "title": "Data centres to be expanded across UK as concerns mount",
             "link": "https://www.bbc.com/news/articles/clyr9nx0jrzo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 15 Aug 2025 08:17:29 GMT"
-        },
-        {
-            "title": "Angry, confused and worried about police \u2013 behind Instagram bans",
-            "link": "https://www.bbc.com/news/articles/ce8307ge49eo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 15 Aug 2025 01:00:49 GMT"
         }
     ]
 }
