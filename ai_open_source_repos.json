@@ -24,16 +24,16 @@
         "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. "
     },
     {
-        "name": "taranis-ai",
-        "full_name": "taranis-ai/taranis-ai",
-        "html_url": "https://github.com/taranis-ai/taranis-ai",
-        "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis."
-    },
-    {
         "name": "YC-Killer",
         "full_name": "sahibzada-allahyar/YC-Killer",
         "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
         "description": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you are excited about democratizing AI access & AI agents, please star this repository. Once you \u2b50\ufe0f star the GitHub repo, we'll review your application."
+    },
+    {
+        "name": "taranis-ai",
+        "full_name": "taranis-ai/taranis-ai",
+        "html_url": "https://github.com/taranis-ai/taranis-ai",
+        "description": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis."
     },
     {
         "name": "PIXIU",
