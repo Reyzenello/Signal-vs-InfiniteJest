@@ -18,16 +18,16 @@
         "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions."
     },
     {
-        "name": "AI-Resources-Central",
-        "full_name": "CoderSJX/AI-Resources-Central",
-        "html_url": "https://github.com/CoderSJX/AI-Resources-Central",
-        "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. "
-    },
-    {
         "name": "YC-Killer",
         "full_name": "sahibzada-allahyar/YC-Killer",
         "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
         "description": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you are excited about democratizing AI access & AI agents, please star this repository. Once you \u2b50\ufe0f star the GitHub repo, we'll review your application."
+    },
+    {
+        "name": "AI-Resources-Central",
+        "full_name": "CoderSJX/AI-Resources-Central",
+        "html_url": "https://github.com/CoderSJX/AI-Resources-Central",
+        "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. "
     },
     {
         "name": "taranis-ai",
