@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "SoftBank agrees to invest $2B in Intel, buying roughly 2% of Intel's outstanding shares (CNBC)",
+            "title": "An MIT report says 95% of GenAI pilots at companies have little to no financial impact, mainly due to a \"learning gap\" for both the tools and the companies (Sheryl Estrada/Fortune)",
+            "link": "http://www.techmeme.com/250818/p32#a250818p32",
+            "published": "Mon, 18 Aug 2025 21:45:01 -0400"
+        },
+        {
+            "title": "Nvidia debuts the Nemotron-Nano-9B-v2, a hybrid Mamba-transformer model, saying it achieves scores comparable to or better than Qwen3-8B on reasoning benchmarks (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/250818/p31#a250818p31",
+            "published": "Mon, 18 Aug 2025 19:35:00 -0400"
+        },
+        {
+            "title": "SoftBank agrees to invest $2B in Intel, paying $23/share for Intel's common stock and buying ~2% of its outstanding shares; INTC jumps ~6% to ~$25 after hours (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/250818/p30#a250818p30",
             "published": "Mon, 18 Aug 2025 19:23:39 -0400"
         },
         {
-            "title": "American Exceptionalism Acquisition, a SPAC led by Chamath Palihapitiya, files for a US IPO, seeking to raise $250M (Kia Kokalitcheva/PitchBook)",
+            "title": "American Exceptionalism Acquisition, a SPAC led by Chamath Palihapitiya and focused on energy, AI, DeFi, and defense, files for a US IPO, seeking to raise $250M (Kia Kokalitcheva/PitchBook)",
             "link": "http://www.techmeme.com/250818/p29#a250818p29",
             "published": "Mon, 18 Aug 2025 19:00:32 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Blockchain-based lender Figure files for a US IPO, reporting H1 revenue up 22.4% YoY to $191M and a profit of $29M, compared with a loss of $13M in H1 2024 (Arasu Kannagi Basil/Reuters)",
             "link": "http://www.techmeme.com/250818/p28#a250818p28",
             "published": "Mon, 18 Aug 2025 18:40:00 -0400"
-        },
-        {
-            "title": "Source: Arm has hired Amazon AI chip director Rami Sinno to help develop its own chips; he previously worked on Amazon's Trainium and Inferentia chips (Max A. Cherney/Reuters)",
-            "link": "http://www.techmeme.com/250818/p27#a250818p27",
-            "published": "Mon, 18 Aug 2025 17:50:02 -0400"
-        },
-        {
-            "title": "Palo Alto Networks reports Q4 revenue up 16% YoY to $2.54B, vs. $2.5B est., and Q1 and FY 2026 guidance above estimates; PANW jumps 4%+ after hours (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/250818/p26#a250818p26",
-            "published": "Mon, 18 Aug 2025 17:10:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 13 Aug 2025 13:28:39 +0000"
         },
         {
-            "title": "Did You Recently Buy a Used E.V.? We Want to Hear From You.",
-            "link": "https://www.nytimes.com/2025/08/18/business/used-electric-vehicles-callout.html",
-            "published": "Mon, 18 Aug 2025 17:26:27 +0000"
+            "title": "Trump Administration Discusses Taking 10% Stake in Intel",
+            "link": "https://www.nytimes.com/2025/08/18/technology/intel-trump-government-stake.html",
+            "published": "Mon, 18 Aug 2025 23:55:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Intel shares jump as Softbank to buy $2bn stake in chip giant",
+            "link": "https://www.bbc.com/news/articles/cly4vn1nxg7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 19 Aug 2025 02:06:02 GMT"
+        },
         {
             "title": "Meta investigated over AI having 'sensual' chats with children",
             "link": "https://www.bbc.com/news/articles/c3dpmlvx1k2o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "UK's Turing AI Institute responds to staff anger about defence focus",
             "link": "https://www.bbc.com/news/articles/c86076qd40xo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 15 Aug 2025 12:06:13 GMT"
-        },
-        {
-            "title": "Data centres to be expanded across UK as concerns mount",
-            "link": "https://www.bbc.com/news/articles/clyr9nx0jrzo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 15 Aug 2025 08:17:29 GMT"
         }
     ]
 }
