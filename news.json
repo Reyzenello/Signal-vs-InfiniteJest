@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google will pay $30M to settle a class action lawsuit alleging it violated kids' privacy on YouTube by collecting data without parental consent for targeted ads (Jonathan Stempel/Reuters)",
+            "link": "http://www.techmeme.com/250819/p20#a250819p20",
+            "published": "Tue, 19 Aug 2025 13:25:01 -0400"
+        },
+        {
+            "title": "Sources: Meta considers downsizing its AI division, with some executives expected to leave, and is exploring using third-party models for its AI products (New York Times)",
+            "link": "http://www.techmeme.com/250819/p19#a250819p19",
+            "published": "Tue, 19 Aug 2025 13:10:14 -0400"
+        },
+        {
+            "title": "Memo: Meta restructures Superintelligence Labs; Alexandr Wang heads TBD Lab, Robert Fergus heads FAIR, Nat Friedman heads products, Aparna Ramani heads Infra (Riley Griffin/Bloomberg)",
+            "link": "http://www.techmeme.com/250819/p18#a250819p18",
+            "published": "Tue, 19 Aug 2025 12:55:05 -0400"
+        },
+        {
             "title": "Google proposes Play Store changes in the EU, like making it easier for developers to direct users to websites and a new tiered fee structure, after EU scrutiny (Samuel Stolton/Bloomberg)",
             "link": "http://www.techmeme.com/250819/p17#a250819p17",
             "published": "Tue, 19 Aug 2025 12:05:02 -0400"
@@ -9,28 +24,23 @@
             "title": "Functionize, which offers a cloud platform that uses AI to speed up software testing, raised a $41M Series B, bringing its total funding to $67M+ (Maria Deutscher/SiliconANGLE)",
             "link": "http://www.techmeme.com/250819/p16#a250819p16",
             "published": "Tue, 19 Aug 2025 11:55:00 -0400"
-        },
-        {
-            "title": "Tether hires Bo Hines, who stepped down as White House Crypto Council Executive Director earlier in August, as an adviser to help it expand in the US (Prakhar Srivastava/Reuters)",
-            "link": "http://www.techmeme.com/250819/p15#a250819p15",
-            "published": "Tue, 19 Aug 2025 11:40:01 -0400"
-        },
-        {
-            "title": "What to expect from Google's \"Made by Google\" Pixel hardware event on August 20: four Pixel 10 phones, including a 10 Pro Fold, Pixel Watch 4, and Pixel Buds 2A (Dominic Preston/The Verge)",
-            "link": "http://www.techmeme.com/250819/p14#a250819p14",
-            "published": "Tue, 19 Aug 2025 11:35:00 -0400"
-        },
-        {
-            "title": "NYC-based Keychain, which makes AI-based software that helps manufacturers manage their product cycles, raised a $30M Series B, taking its total funding to $68M (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250819/p13#a250819p13",
-            "published": "Tue, 19 Aug 2025 10:45:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Elon Musk\u2019s SpaceX Most Likely Doesn\u2019t Pay Taxes",
-            "link": "https://www.nytimes.com/2025/08/15/technology/spacex-musk-government-contracts-taxes.html",
-            "published": "Sat, 16 Aug 2025 13:14:32 +0000"
+            "title": "Zuckerberg Plans Another Overhaul of Meta\u2019s A.I. Efforts",
+            "link": "https://www.nytimes.com/2025/08/19/technology/mark-zuckerberg-meta-ai.html",
+            "published": "Tue, 19 Aug 2025 17:04:20 +0000"
+        },
+        {
+            "title": "Britain Drops Request That Apple Create a Back Door",
+            "link": "https://www.nytimes.com/2025/08/19/technology/britain-apple-back-door.html",
+            "published": "Tue, 19 Aug 2025 04:50:05 +0000"
+        },
+        {
+            "title": "Trump Administration Discusses Taking 10% Stake in Intel",
+            "link": "https://www.nytimes.com/2025/08/18/technology/intel-trump-government-stake.html",
+            "published": "Mon, 18 Aug 2025 23:55:16 +0000"
         },
         {
             "title": "GPT-5 Backlash + Perplexity C.E.O. Aravind Srinivas on the Browser Wars + Hot Mess Express",
@@ -38,22 +48,17 @@
             "published": "Fri, 15 Aug 2025 11:00:09 +0000"
         },
         {
-            "title": "Big Tech\u2019s A.I. Data Centers Are Driving Up Electricity Bills for Everyone",
-            "link": "https://www.nytimes.com/2025/08/14/business/energy-environment/ai-data-centers-electricity-costs.html",
-            "published": "Thu, 14 Aug 2025 15:13:37 +0000"
-        },
-        {
-            "title": "Trump Has Made Himself Commander in Chief of the Chip Industry",
-            "link": "https://www.nytimes.com/2025/08/13/technology/trump-chips-nvidia-intel.html",
-            "published": "Wed, 13 Aug 2025 13:28:39 +0000"
-        },
-        {
-            "title": "Zuckerberg Plans Another Overhaul of Meta\u2019s A.I. Efforts",
-            "link": "https://www.nytimes.com/2025/08/19/technology/mark-zuckerberg-meta-ai.html",
-            "published": "Tue, 19 Aug 2025 16:31:37 +0000"
+            "title": "A.I. Travel Tools Are Everywhere. Are They Any Good?",
+            "link": "https://www.nytimes.com/2025/08/19/travel/ai-travel-tools-test.html",
+            "published": "Tue, 19 Aug 2025 09:00:15 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "French government demands answers over streamer's death",
+            "link": "https://www.bbc.com/news/articles/c1mpjplk4pxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 19 Aug 2025 17:08:44 GMT"
+        },
         {
             "title": "UK backs down in Apple privacy row, US says",
             "link": "https://www.bbc.com/news/articles/cdj2m3rrk74o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Meta investigated over AI having 'sensual' chats with children",
             "link": "https://www.bbc.com/news/articles/c3dpmlvx1k2o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 18 Aug 2025 12:04:06 GMT"
-        },
-        {
-            "title": "Should Europe wean itself off US tech?",
-            "link": "https://www.bbc.com/news/articles/c3dpr2zkny0o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 17 Aug 2025 23:03:19 GMT"
         }
     ]
 }
