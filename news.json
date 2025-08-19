@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI launches ChatGPT Go, a new India-only plan priced at Rs. 399, or ~$4.57, per month, its most affordable yet, to expand in its second-largest market (Kashish Tandon/Reuters)",
+            "link": "http://www.techmeme.com/250819/p2#a250819p2",
+            "published": "Tue, 19 Aug 2025 00:45:00 -0400"
+        },
+        {
             "title": "A federal appeals court rejects T-Mobile's bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling (Jon Brodkin/Ars Technica)",
             "link": "http://www.techmeme.com/250819/p1#a250819p1",
             "published": "Tue, 19 Aug 2025 00:00:14 -0400"
@@ -19,11 +24,6 @@
             "title": "An MIT report says 95% of GenAI pilots at companies have little to no financial impact, mainly due to a \"learning gap\" for both the tools and the companies (Sheryl Estrada/Fortune)",
             "link": "http://www.techmeme.com/250818/p32#a250818p32",
             "published": "Mon, 18 Aug 2025 21:45:01 -0400"
-        },
-        {
-            "title": "Nvidia debuts the Nemotron-Nano-9B-v2, a hybrid Mamba-transformer model, saying it achieves scores comparable to or better than Qwen3-8B on reasoning benchmarks (Carl Franzen/VentureBeat)",
-            "link": "http://www.techmeme.com/250818/p31#a250818p31",
-            "published": "Mon, 18 Aug 2025 19:35:00 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Wed, 13 Aug 2025 13:28:39 +0000"
         },
         {
-            "title": "Trump Administration Discusses Taking 10% Stake in Intel",
-            "link": "https://www.nytimes.com/2025/08/18/technology/intel-trump-government-stake.html",
-            "published": "Mon, 18 Aug 2025 23:55:16 +0000"
+            "title": "Britain Drops Request That Apple Create a Back Door",
+            "link": "https://www.nytimes.com/2025/08/19/technology/britain-apple-back-door.html",
+            "published": "Tue, 19 Aug 2025 04:50:05 +0000"
         }
     ],
     "source_2": [
