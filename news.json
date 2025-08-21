@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "GFW Report: on August 20, China's Great Firewall blocked all TCP port 443 traffic, used for HTTPS, for 74 minutes, an unusual move; the cause may be accidental (Nathaniel Mott/Tom's Hardware)",
+            "link": "http://www.techmeme.com/250821/p15#a250821p15",
+            "published": "Thu, 21 Aug 2025 09:10:02 -0400"
+        },
+        {
             "title": "Autonomous driving tech startup Nuro closed its $203M Series E at a $6B valuation, adding $97M from Uber, Nvidia, and others to April's $106M tranche (Rafe Uddin/Financial Times)",
             "link": "http://www.techmeme.com/250821/p14#a250821p14",
             "published": "Thu, 21 Aug 2025 08:50:01 -0400"
         },
         {
-            "title": "Google rolls out AI Mode to 180 countries and territories in English, after testing in the US, UK, and India, and plans to add more languages and regions \"soon\" (Abner Li/9to5Google)",
+            "title": "Google expands AI Mode to 180 countries and territories in English, following the US, the UK, and India, and plans to add more languages and regions \"soon\" (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/250821/p13#a250821p13",
             "published": "Thu, 21 Aug 2025 08:40:03 -0400"
         },
@@ -16,14 +21,9 @@
             "published": "Thu, 21 Aug 2025 08:15:00 -0400"
         },
         {
-            "title": "CBP data: between April and June 2025, CBP searched 14,899 devices carried by international travelers, up from a high of 12,766+ between January and March 2022 (Matt Burgess/Wired)",
+            "title": "CBP data: between April and June 2025, CBP searched 14,899 devices carried by international travelers, up from a record 12,766+ between January and March 2022 (Matt Burgess/Wired)",
             "link": "http://www.techmeme.com/250821/p11#a250821p11",
             "published": "Thu, 21 Aug 2025 07:55:01 -0400"
-        },
-        {
-            "title": "Sources: Take-Two lays off 80 staff at BioShock studio Cloud Chamber, or ~33% of its 250 staff, and delays the next BioShock game to late 2026 or early 2027 (Jason Schreier/Bloomberg)",
-            "link": "http://www.techmeme.com/250821/p10#a250821p10",
-            "published": "Thu, 21 Aug 2025 06:50:59 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Hundreds of thousands of Grok chats exposed in Google results",
+            "link": "https://www.bbc.com/news/articles/cdrkmk00jy0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 21 Aug 2025 12:55:28 GMT"
+        },
+        {
             "title": "Microsoft boss troubled by rise in reports of 'AI psychosis'",
             "link": "https://www.bbc.com/news/articles/c24zdel5j18o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 20 Aug 2025 16:36:03 GMT"
@@ -73,11 +78,6 @@
             "title": "Police investigating death of French streamer seize equipment and videos",
             "link": "https://www.bbc.com/news/articles/cd0d31r423ko?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 20 Aug 2025 14:36:45 GMT"
-        },
-        {
-            "title": "Human rights regulator criticises Met's use of facial recognition cameras",
-            "link": "https://www.bbc.com/news/articles/c1kzgx4v2pko?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 20 Aug 2025 16:18:42 GMT"
         }
     ]
 }
