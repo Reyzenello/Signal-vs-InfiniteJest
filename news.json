@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Trump says Intel has agreed to give the US a 10% stake; source: the government won't be on the board or play a major role in Intel's governance; INTC jumps 6%+ (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250822/p20#a250822p20",
+            "published": "Fri, 22 Aug 2025 14:25:02 -0400"
+        },
+        {
+            "title": "Cloud security provider Netskope files for a US IPO, reports H1 FY 2026 revenue up 30.7% YoY to $328.5M; it is seeking to raise $500M+ at a $5B+ valuation (Arasu Kannagi Basil/Reuters)",
+            "link": "http://www.techmeme.com/250822/p19#a250822p19",
+            "published": "Fri, 22 Aug 2025 13:40:02 -0400"
+        },
+        {
             "title": "Sources: Apple is in talks with Google about using Gemini to power a revamped Siri; Google has started training a model that could run on Apple's servers (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/250822/p18#a250822p18",
             "published": "Fri, 22 Aug 2025 13:25:00 -0400"
@@ -14,43 +24,33 @@
             "title": "X removes the ability for free-tier developers to like posts and follow users via its API to \"protect the platform from spam, bots, and manipulative activities\" (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/250822/p16#a250822p16",
             "published": "Fri, 22 Aug 2025 11:10:01 -0400"
-        },
-        {
-            "title": "NYC grants Waymo its first permit, which extends through late September, to test up to eight of its autonomous vehicles in Manhattan and Downtown Brooklyn (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/250822/p15#a250822p15",
-            "published": "Fri, 22 Aug 2025 10:45:06 -0400"
-        },
-        {
-            "title": "Source: Snap is considering raising outside money to fund Spectacles development or spinning off Spectacles, to compete with deeper-pocketed rivals like Meta (The Information)",
-            "link": "http://www.techmeme.com/250822/p14#a250822p14",
-            "published": "Fri, 22 Aug 2025 10:25:07 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump Says Intel Has Agreed to Give U.S. a 10% Stake in Its Business",
+            "link": "https://www.nytimes.com/2025/08/22/technology/trump-intel-stake.html",
+            "published": "Fri, 22 Aug 2025 18:26:37 +0000"
+        },
+        {
+            "title": "Nvidia\u2019s Jensen Huang in Talks With China to Allay Security Fears Over A.I. Chips",
+            "link": "https://www.nytimes.com/2025/08/22/business/jensen-huang-nvidia-china.html",
+            "published": "Fri, 22 Aug 2025 09:54:50 +0000"
+        },
         {
             "title": "Apple Fitness Chief Accused of Toxic Workplace Culture and Harassment",
             "link": "https://www.nytimes.com/2025/08/21/technology/apple-fitness-jay-blahnik.html",
             "published": "Thu, 21 Aug 2025 15:09:54 +0000"
         },
         {
-            "title": "Zuckerberg Again Overhauls Meta\u2019s A.I. Efforts",
-            "link": "https://www.nytimes.com/2025/08/19/technology/mark-zuckerberg-meta-ai.html",
-            "published": "Wed, 20 Aug 2025 02:58:52 +0000"
-        },
-        {
-            "title": "OpenAI Employee Stock Sale Would Value ChatGPT Maker at $500 Billion",
-            "link": "https://www.nytimes.com/2025/08/19/technology/openai-chatgpt-stock-sale-valuation.html",
-            "published": "Tue, 19 Aug 2025 18:16:29 +0000"
-        },
-        {
-            "title": "Britain Drops Request That Apple Create a Back Door",
-            "link": "https://www.nytimes.com/2025/08/19/technology/britain-apple-back-door.html",
-            "published": "Thu, 21 Aug 2025 15:28:03 +0000"
-        },
-        {
             "title": "Is This an A.I. Bubble? + Meta\u2019s Missing Morals + TikTok Shock Slop",
             "link": "https://www.nytimes.com/2025/08/22/podcasts/is-this-an-ai-bubble-metas-missing-morals-tiktok-shock-slop.html",
             "published": "Fri, 22 Aug 2025 11:00:03 +0000"
+        },
+        {
+            "title": "The Hobbyist Restorer Who Rocked the Art World With an A.I. Innovation",
+            "link": "https://www.nytimes.com/2025/08/22/world/europe/art-restoration-ai-innovation.html",
+            "published": "Fri, 22 Aug 2025 09:02:16 +0000"
         }
     ],
     "source_2": [
