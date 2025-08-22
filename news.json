@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: OpenAI has been partially using Google search results scraped by a startup called SerpApi for ChatGPT responses on current events like news and sports (The Information)",
+            "link": "http://www.techmeme.com/250822/p12#a250822p12",
+            "published": "Fri, 22 Aug 2025 08:25:00 -0400"
+        },
+        {
+            "title": "Filing: OnlyFans took in $7.2B from subscribers in FY ending Nov. 2024, up from $6.6B YoY, and paid out $5.8B, up from $5.3B; creator accounts grew 13% to 4.6M (Daniel Thomas/Financial Times)",
+            "link": "http://www.techmeme.com/250822/p11#a250822p11",
+            "published": "Fri, 22 Aug 2025 08:05:09 -0400"
+        },
+        {
             "title": "Email: TikTok plans to lay off several hundred UK trust and safety staff in the UK and Asia, citing \"technological advances\" such as LLMs in content moderation (Financial Times)",
             "link": "http://www.techmeme.com/250822/p10#a250822p10",
             "published": "Fri, 22 Aug 2025 07:20:04 -0400"
@@ -14,16 +24,6 @@
             "title": "OpenAI sets up a legal entity, and plans to open its first office in India after launching ChatGPT Go, its cheapest plan, in the country on August 19 (Munsif Vengattil/Reuters)",
             "link": "http://www.techmeme.com/250822/p8#a250822p8",
             "published": "Fri, 22 Aug 2025 05:35:01 -0400"
-        },
-        {
-            "title": "Sources: EU officials are fast-tracking digital euro plans, and considering Ethereum or Solana over a private blockchain after the US passed the Genius Act (Nikou Asgari/Financial Times)",
-            "link": "http://www.techmeme.com/250822/p7#a250822p7",
-            "published": "Fri, 22 Aug 2025 04:45:01 -0400"
-        },
-        {
-            "title": "Vivo demos Vivo Vision, its first MR headset, which looks like an Apple Vision Pro clone but is ~40% lighter with micro-OLED displays, and could cost ~$1,400 (David Heaney/UploadVR)",
-            "link": "http://www.techmeme.com/250822/p6#a250822p6",
-            "published": "Fri, 22 Aug 2025 02:50:07 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok to lay off hundreds of UK content moderators",
+            "link": "https://www.bbc.com/news/articles/cgjyp48dp21o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 22 Aug 2025 12:32:06 GMT"
+        },
+        {
             "title": "4chan will refuse to pay daily online safety fines, lawyer tells BBC",
             "link": "https://www.bbc.com/news/articles/cq68j5g2nr1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 21 Aug 2025 23:45:55 GMT"
@@ -73,11 +78,6 @@
             "title": "Hundreds of thousands of Grok chats exposed in Google results",
             "link": "https://www.bbc.com/news/articles/cdrkmk00jy0o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 21 Aug 2025 12:55:28 GMT"
-        },
-        {
-            "title": "Microsoft boss troubled by rise in reports of 'AI psychosis'",
-            "link": "https://www.bbc.com/news/articles/c24zdel5j18o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 20 Aug 2025 16:36:03 GMT"
         }
     ]
 }
