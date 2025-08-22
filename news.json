@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Meta has poached Frank Chu, an Apple exec who led AI teams focused on cloud infrastructure, training and search, despite Meta's plans to slow hiring (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/250821/p34#a250821p34",
+            "published": "Thu, 21 Aug 2025 21:55:01 -0400"
+        },
+        {
+            "title": "Clothing subscription service Rent the Runway gives up around 86% ownership to three lenders in exchange for $240M+ in debt relief and $20M in fresh financing (Bloomberg)",
+            "link": "http://www.techmeme.com/250821/p33#a250821p33",
+            "published": "Thu, 21 Aug 2025 21:10:00 -0400"
+        },
+        {
+            "title": "Zoom reports Q2 revenue up 5% YoY to $1.22B, Enterprise revenue up 7% to $730.7M, vs. $716.7M est., raises FY 2026 forecast above est.; ZM jumps 6%+ after hours (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/250821/p32#a250821p32",
+            "published": "Thu, 21 Aug 2025 19:45:01 -0400"
+        },
+        {
             "title": "Source: the Trump administration considers taking equity stakes in CHIPS Act recipients but not in firms that are increasing US investment, like TSMC and Micron (Wall Street Journal)",
             "link": "http://www.techmeme.com/250821/p31#a250821p31",
             "published": "Thu, 21 Aug 2025 19:20:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Source: Meta has signed a deal with Google, worth more than $10B over six years, to use Google Cloud's servers, storage, networking, and other services (The Information)",
             "link": "http://www.techmeme.com/250821/p30#a250821p30",
             "published": "Thu, 21 Aug 2025 19:00:00 -0400"
-        },
-        {
-            "title": "Anthropic says it worked with the US National Nuclear Security Administration on a classifier to block concerning chats, like those on building nuclear reactors (Morgan Chalfant/Semafor)",
-            "link": "http://www.techmeme.com/250821/p29#a250821p29",
-            "published": "Thu, 21 Aug 2025 18:00:01 -0400"
-        },
-        {
-            "title": "Russia orders that state-backed messenger app MAX, which critics say could be used to track users, must be pre-installed on phones and tablets from next month (Andrew Osborn/Reuters)",
-            "link": "http://www.techmeme.com/250821/p28#a250821p28",
-            "published": "Thu, 21 Aug 2025 17:50:00 -0400"
-        },
-        {
-            "title": "Trump signs an EO creating the National Design Studio to improve \"websites and physical sites\"; sources say he's tapping Airbnb co-founder Joe Gebbia to lead it (Gregory Korte/Bloomberg)",
-            "link": "http://www.techmeme.com/250821/p27#a250821p27",
-            "published": "Thu, 21 Aug 2025 17:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "4chan will refuse to pay daily online safety fines, lawyer tells BBC",
+            "link": "https://www.bbc.com/news/articles/cq68j5g2nr1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 21 Aug 2025 23:45:55 GMT"
+        },
+        {
             "title": "French streamer's death 'not due to trauma', autopsy finds",
             "link": "https://www.bbc.com/news/articles/cr4e1k6l4lyo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 21 Aug 2025 16:47:26 GMT"
@@ -73,11 +78,6 @@
             "title": "Netflix signs up another YouTube star with Mark Rober deal",
             "link": "https://www.bbc.com/news/articles/c20939pp04po?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 21 Aug 2025 11:26:08 GMT"
-        },
-        {
-            "title": "Sony raises PlayStation 5 prices in US as tariff fears persist",
-            "link": "https://www.bbc.com/news/articles/cy081prg9jjo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 21 Aug 2025 01:45:10 GMT"
         }
     ]
 }
