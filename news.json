@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at FoundHer House, an all-female hacker house in San Francisco that has become a hot spot for dinners and panel discussions sponsored by a16z and others (New York Times)",
+            "link": "http://www.techmeme.com/250824/p18#a250824p18",
+            "published": "Sun, 24 Aug 2025 19:10:01 -0400"
+        },
+        {
             "title": "Two former executives who ran the CHIPS Program Office say the US-Intel deal won't solve Intel's real issue: a lack of external customers for its foundry unit (Wall Street Journal)",
             "link": "http://www.techmeme.com/250824/p17#a250824p17",
             "published": "Sun, 24 Aug 2025 17:30:00 -0400"
@@ -19,11 +24,6 @@
             "title": "xAI releases the weights of Grok 2 on Hugging Face, under the Grok 2 Community License Agreement; Musk says Grok 3 \"will be made open source in about 6 months\" (Anthony Ha/TechCrunch)",
             "link": "http://www.techmeme.com/250824/p14#a250824p14",
             "published": "Sun, 24 Aug 2025 12:15:00 -0400"
-        },
-        {
-            "title": "A look at Apple's three-year iPhone redesign plan, starting with iPhone Air this fall, foldable with Touch ID in 2026, and a curved-glass \"iPhone 20\" in 2027 (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/250824/p13#a250824p13",
-            "published": "Sun, 24 Aug 2025 11:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 22 Aug 2025 11:00:03 +0000"
         },
         {
-            "title": "SpaceX Starship 10th Test Flight: How and When to Watch the Launch",
+            "title": "SpaceX Scrubs Critical 10th Test Launch of Starship Rocket",
             "link": "https://www.nytimes.com/2025/08/24/science/spacex-starship-launch.html",
-            "published": "Sun, 24 Aug 2025 22:20:32 +0000"
+            "published": "Sun, 24 Aug 2025 23:20:41 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Women aren't just 'cosy gamers' - I play horror games and 600,000 watch",
+            "link": "https://www.bbc.com/news/articles/cm21xy23npyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 24 Aug 2025 23:05:06 GMT"
+        },
         {
             "title": "My ex stalked me, so I joined a 'dating safety' app. Then my address was leaked",
             "link": "https://www.bbc.com/news/articles/ce87rer52k3o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "4chan will refuse to pay daily online safety fines, lawyer tells BBC",
             "link": "https://www.bbc.com/news/articles/cq68j5g2nr1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 21 Aug 2025 23:45:55 GMT"
-        },
-        {
-            "title": "Elon Musk and X reach settlement with axed Twitter workers",
-            "link": "https://www.bbc.com/news/articles/c1ejq154nqzo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 22 Aug 2025 02:51:40 GMT"
         }
     ]
 }
