@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "French prosecutors open an investigation into Australian video platform Kick over the death of a content creator who was violently abused during livestreams (Graham Fraser/BBC)",
+            "link": "http://www.techmeme.com/250826/p15#a250826p15",
+            "published": "Tue, 26 Aug 2025 08:55:21 -0400"
+        },
+        {
+            "title": "Sources and docs: Microsoft worked with the FBI to track anti-Israel protests, flagged internal emails with words like \"Gaza\", deleted posts, and fired staff (Bloomberg)",
+            "link": "http://www.techmeme.com/250826/p14#a250826p14",
+            "published": "Tue, 26 Aug 2025 08:40:09 -0400"
+        },
+        {
+            "title": "Sources: Klarna seeks a $13B to $14B valuation in its IPO next month, selling shares for $34-$36 as early as this week; Klarna sought a ~$50B valuation in 2021 (Reuters)",
+            "link": "http://www.techmeme.com/250826/p13#a250826p13",
+            "published": "Tue, 26 Aug 2025 08:05:02 -0400"
+        },
+        {
+            "title": "Sources: Temu resumes shipping goods from China directly to US consumers and increases its US ad spending, after a trade truce between Washington and Beijing (Financial Times)",
+            "link": "http://www.techmeme.com/250826/p12#a250826p12",
+            "published": "Tue, 26 Aug 2025 07:35:01 -0400"
+        },
+        {
             "title": "AT&T agrees to buy spectrum licenses from EchoStar for ~$23B in cash, adding 50MHz of low-band and mid-band spectrum, set to close by mid-2026 (Olivia Solon/Bloomberg)",
             "link": "http://www.techmeme.com/250826/p11#a250826p11",
             "published": "Tue, 26 Aug 2025 07:15:02 -0400"
-        },
-        {
-            "title": "Spotify launches a DM feature to let users share audio and send text-based messages, available to mobile users over 16 years old in \"select markets\" this week (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250826/p10#a250826p10",
-            "published": "Tue, 26 Aug 2025 07:10:02 -0400"
-        },
-        {
-            "title": "Yield Sec: illegal gambling operators captured 71% of Europe's online betting and casino market in 2024, or \u20ac80.65B, as regulators struggle with crypto casinos (Navya Menon/Bloomberg)",
-            "link": "http://www.techmeme.com/250826/p9#a250826p9",
-            "published": "Tue, 26 Aug 2025 07:00:01 -0400"
-        },
-        {
-            "title": "The US taking a 10% equity stake in Intel is a terrible idea and a dangerous turn for US industrial policy, but also the least bad idea to make Foundry viable (Ben Thompson/Stratechery)",
-            "link": "http://www.techmeme.com/250826/p8#a250826p8",
-            "published": "Tue, 26 Aug 2025 06:40:09 -0400"
-        },
-        {
-            "title": "Stanford researchers: over the past three years, employment has dropped 13% for entry-level workers starting out in fields that are the most exposed to AI (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/250826/p7#a250826p7",
-            "published": "Tue, 26 Aug 2025 06:25:16 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Sat, 23 Aug 2025 14:29:37 +0000"
         },
         {
-            "title": "SpaceX Scrubs 10th Starship Test Launch Because of Lousy Weather",
-            "link": "https://www.nytimes.com/2025/08/25/science/spacex-starship-launch.html",
-            "published": "Tue, 26 Aug 2025 00:32:28 +0000"
+            "title": "A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.",
+            "link": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
+            "published": "Tue, 26 Aug 2025 12:48:25 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Video platform Kick investigated over streamer's death",
+            "link": "https://www.bbc.com/news/articles/czxpepn5qlxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 26 Aug 2025 12:53:37 GMT"
+        },
         {
             "title": "Musk firms sue Apple and OpenAI, alleging they hurt competition",
             "link": "https://www.bbc.com/news/articles/cly6xjg9nnyo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "My ex stalked me, so I joined a 'dating safety' app. Then my address was leaked",
             "link": "https://www.bbc.com/news/articles/ce87rer52k3o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 23 Aug 2025 00:34:38 GMT"
-        },
-        {
-            "title": "TikTok puts hundreds of UK content moderator jobs at risk",
-            "link": "https://www.bbc.com/news/articles/cgjyp48dp21o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 22 Aug 2025 12:32:06 GMT"
         }
     ]
 }
