@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Apple partners with TuneIn to make Apple Music's six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs (Rolfe Winkler/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250827/p22#a250827p22",
+            "published": "Wed, 27 Aug 2025 09:05:01 -0400"
+        },
+        {
             "title": "Anthropic's Threat Intelligence report for August says Claude was weaponized for sophisticated cybercrimes, including a \"vibe-hacking\" data extortion scheme (Hayden Field/The Verge)",
             "link": "http://www.techmeme.com/250827/p21#a250827p21",
             "published": "Wed, 27 Aug 2025 08:50:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources: a Chinese fab making Huawei's AI chips is set to start production as soon as the end of 2025, with two more due in 2026; the fabs' ownership is unclear (Zijing Wu/Financial Times)",
             "link": "http://www.techmeme.com/250827/p18#a250827p18",
             "published": "Wed, 27 Aug 2025 06:30:03 -0400"
-        },
-        {
-            "title": "Meituan reports Q2 revenue up 11.7% YoY to ~$12.8B and net income down 97% YoY to ~$51M, blaming \"irrational competition\" in the Chinese food delivery market (Bloomberg)",
-            "link": "http://www.techmeme.com/250827/p17#a250827p17",
-            "published": "Wed, 27 Aug 2025 06:10:55 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Silicon Valley Pledges $200 Million to New Pro-A.I. Super PACs",
             "link": "https://www.nytimes.com/2025/08/26/technology/silicon-valley-ai-super-pacs.html",
-            "published": "Tue, 26 Aug 2025 23:39:22 +0000"
+            "published": "Tue, 26 Aug 2025 23:39:23 +0000"
         },
         {
             "title": "Trump Wants Europe to Stop Regulating Big Tech. Will It Bend?",
@@ -48,12 +48,17 @@
             "published": "Mon, 25 Aug 2025 18:27:19 +0000"
         },
         {
-            "title": "South Korea Outlaws Use of Smartphones During Class",
-            "link": "https://www.nytimes.com/2025/08/27/world/asia/south-korea-school-smartphone-ban.html",
-            "published": "Wed, 27 Aug 2025 12:25:00 +0000"
+            "title": "How to Set Up a Personalized News Feed on Your Phone",
+            "link": "https://www.nytimes.com/2025/08/27/technology/personaltech/apple-google-news-customize.html",
+            "published": "Wed, 27 Aug 2025 13:00:14 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "HSBC apologises as app and online banking go down",
+            "link": "https://www.bbc.com/news/articles/cqjykl7ek9qo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 27 Aug 2025 13:30:08 GMT"
+        },
         {
             "title": "Kpop Demon Hunters becomes Netflix's most viewed film ever",
             "link": "https://www.bbc.com/news/articles/c1kz12v08l1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Child sex abuse victim begs Elon Musk to remove links to her images",
             "link": "https://www.bbc.com/news/articles/cq587wv4d5go?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 25 Aug 2025 23:17:45 GMT"
-        },
-        {
-            "title": "Women aren't just 'cosy gamers' - I play horror games and 600,000 watch",
-            "link": "https://www.bbc.com/news/articles/cm21xy23npyo?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 24 Aug 2025 23:05:06 GMT"
         }
     ]
 }
