@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Report: German banks blocked \u20ac10B+ in PayPal payments on Monday over fraud concerns; PayPal says a temporary service interruption affected some transactions (Reuters)",
+            "link": "http://www.techmeme.com/250827/p31#a250827p31",
+            "published": "Wed, 27 Aug 2025 14:00:00 -0400"
+        },
+        {
+            "title": "Google Pixel 10 review: justifies its price better than the Pixel 9 with upgrades like a triple camera system and Qi2 support, but it's not a gaming powerhouse (Derrek Lee/Android Central)",
+            "link": "http://www.techmeme.com/250827/p30#a250827p30",
+            "published": "Wed, 27 Aug 2025 13:35:01 -0400"
+        },
+        {
+            "title": "Google Pixel 10 Pro review: the best AI phone on the market with handy features like Magic Cue, with a great display and Qi2 charging but no design improvements (Max Buondonno/The Shortcut)",
+            "link": "http://www.techmeme.com/250827/p29#a250827p29",
+            "published": "Wed, 27 Aug 2025 13:25:02 -0400"
+        },
+        {
             "title": "The FBI and agencies in the UK, Canada, and others warn that a Chinese hacking campaign targeting US telecoms has expanded to 80 countries and 200+ US companies (Joseph Menn/Washington Post)",
             "link": "http://www.techmeme.com/250827/p28#a250827p28",
             "published": "Wed, 27 Aug 2025 11:15:01 -0400"
@@ -9,24 +24,14 @@
             "title": "Circana: in July, Sea's Free Fire jumped seven spots to 6th in US mobile game sales, above COD, driven by anime and Netflix tie-ins; US users buy 2M Switch 2s (Bloomberg)",
             "link": "http://www.techmeme.com/250827/p27#a250827p27",
             "published": "Wed, 27 Aug 2025 11:05:02 -0400"
-        },
-        {
-            "title": "Sources: ByteDance plans an employee share buyback at $200.41/share, valuing it at $330B+, up from $315B in March 2025, and its Q2 revenue grew 25% YoY to $48B (Reuters)",
-            "link": "http://www.techmeme.com/250827/p26#a250827p26",
-            "published": "Wed, 27 Aug 2025 10:45:01 -0400"
-        },
-        {
-            "title": "Sources and docs: a Russia-based Yandex employee maintains open-source tool fast-glob, embedded in 30 US DOD software packages and downloaded 70M times per week (David DiMolfetta/Nextgov/FCW)",
-            "link": "http://www.techmeme.com/250827/p25#a250827p25",
-            "published": "Wed, 27 Aug 2025 10:35:01 -0400"
-        },
-        {
-            "title": "Google updates video editing tool Vids to add AI avatars, automatic transcript trimming, and image-to-video tools, and releases a basic version to all users (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/250827/p24#a250827p24",
-            "published": "Wed, 27 Aug 2025 10:15:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Google Pixel 10 Pro Review: This A.I. Phone Can Save Time if You Surrender Your Data",
+            "link": "https://www.nytimes.com/2025/08/27/technology/personaltech/google-pixel-10-pro-review-ai-phone.html",
+            "published": "Wed, 27 Aug 2025 17:00:10 +0000"
+        },
         {
             "title": "A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.",
             "link": "https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html",
@@ -38,19 +43,14 @@
             "published": "Tue, 26 Aug 2025 23:39:23 +0000"
         },
         {
-            "title": "Trump Wants Europe to Stop Regulating Big Tech. Will It Bend?",
-            "link": "https://www.nytimes.com/2025/08/26/business/trump-technology-european-union-tariffs.html",
-            "published": "Tue, 26 Aug 2025 18:04:27 +0000"
+            "title": "How to Set Up a Personalized News Feed on Your Phone",
+            "link": "https://www.nytimes.com/2025/08/27/technology/personaltech/apple-google-news-customize.html",
+            "published": "Wed, 27 Aug 2025 13:00:14 +0000"
         },
         {
-            "title": "Elon Musk\u2019s xAI Sues Apple and OpenAI Over Claims It Is Being Shut Out",
-            "link": "https://www.nytimes.com/2025/08/25/technology/elon-musk-xai-sues-apple.html",
-            "published": "Mon, 25 Aug 2025 18:27:19 +0000"
-        },
-        {
-            "title": "Google Pixel 10 Pro Review: This A.I. Phone Can Save Time if You Surrender Your Data",
-            "link": "https://www.nytimes.com/2025/08/27/technology/personaltech/google-pixel-10-pro-review-ai-phone.html",
-            "published": "Wed, 27 Aug 2025 17:00:10 +0000"
+            "title": "South Korea Outlaws Use of Smartphones During Class",
+            "link": "https://www.nytimes.com/2025/08/27/world/asia/south-korea-school-smartphone-ban.html",
+            "published": "Wed, 27 Aug 2025 12:25:00 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "European banks hit by rogue PayPal payments worth 'billions'",
             "link": "https://www.bbc.com/news/articles/cj6y42jggdyo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 27 Aug 2025 15:38:52 GMT"
+        },
+        {
+            "title": "4chan launches legal action against Ofcom in US",
+            "link": "https://www.bbc.com/news/articles/clyjq40vjl7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 27 Aug 2025 18:30:12 GMT"
         },
         {
             "title": "HSBC resolves app and online banking  outage",
@@ -73,11 +78,6 @@
             "title": "Video platform Kick investigated over streamer's death",
             "link": "https://www.bbc.com/news/articles/czxpepn5qlxo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 26 Aug 2025 15:39:31 GMT"
-        },
-        {
-            "title": "Musk firms sue Apple and OpenAI, alleging they hurt competition",
-            "link": "https://www.bbc.com/news/articles/cly6xjg9nnyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 25 Aug 2025 17:21:41 GMT"
         }
     ]
 }
