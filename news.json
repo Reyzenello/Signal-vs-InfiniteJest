@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Samsung rolls out Microsoft's Copilot AI assistant in its 2025 lineup of TVs and monitors, letting users ask for movie suggestions, plot recaps, and more (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250828/p2#a250828p2",
+            "published": "Thu, 28 Aug 2025 00:20:23 -0400"
+        },
+        {
+            "title": "Google launches Pixel Care+, replacing Preferred Care and Fi Device Protection in the US, with upgrades but slightly higher pricing than the previous offering (Will Sattelberg/9to5Google)",
+            "link": "http://www.techmeme.com/250828/p1#a250828p1",
+            "published": "Thu, 28 Aug 2025 00:05:10 -0400"
+        },
+        {
             "title": "Kuo: Meta's Hypernova AR glasses will enter mass production in Q3 2025 to beat Apple to market, but have a modest sales target of 150-200K over two years (@mingchikuo)",
             "link": "http://www.techmeme.com/250827/p43#a250827p43",
             "published": "Wed, 27 Aug 2025 23:00:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Nvidia says it had no new H20 sales to China in Q2 and assumes the same for Q3, but could realize $2B-$5B in H20 sales in Q3 if geopolitical issues are resolved (Robbie Whelan/Wall Street Journal)",
             "link": "http://www.techmeme.com/250827/p41#a250827p41",
             "published": "Wed, 27 Aug 2025 21:10:05 -0400"
-        },
-        {
-            "title": "Google Cloud says its Universal Ledger, a layer-1 blockchain for financial products, is in a private testnet, and more details will be revealed at a later date (Danny Park/The Block)",
-            "link": "http://www.techmeme.com/250827/p40#a250827p40",
-            "published": "Wed, 27 Aug 2025 20:30:01 -0400"
-        },
-        {
-            "title": "Samsung announces a virtual Galaxy event for September 4 at 5:30am ET, where new tablets and the Galaxy S25 FE are expected (Ian Carlos Campbell/Engadget)",
-            "link": "http://www.techmeme.com/250827/p39#a250827p39",
-            "published": "Wed, 27 Aug 2025 19:25:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Google Pixel 10 Pro Review: This A.I. Phone Can Save Time if You Surrender Your Data",
             "link": "https://www.nytimes.com/2025/08/27/technology/personaltech/google-pixel-10-pro-review-ai-phone.html",
-            "published": "Wed, 27 Aug 2025 18:54:07 +0000"
+            "published": "Wed, 27 Aug 2025 18:54:08 +0000"
         },
         {
             "title": "A Teen Was Suicidal. ChatGPT Was the Friend He Confided In.",
@@ -65,6 +65,11 @@
             "published": "Wed, 27 Aug 2025 22:19:13 GMT"
         },
         {
+            "title": "Japanese town proposes two-hour daily limit on smartphones",
+            "link": "https://www.bbc.com/news/articles/cqlew2rv337o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 28 Aug 2025 02:27:00 GMT"
+        },
+        {
             "title": "European banks hit by rogue PayPal payments worth 'billions'",
             "link": "https://www.bbc.com/news/articles/cj6y42jggdyo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 27 Aug 2025 15:38:52 GMT"
@@ -73,11 +78,6 @@
             "title": "4chan launches legal action against Ofcom in US",
             "link": "https://www.bbc.com/news/articles/clyjq40vjl7o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 27 Aug 2025 18:30:12 GMT"
-        },
-        {
-            "title": "HSBC resolves app and online banking  outage",
-            "link": "https://www.bbc.com/news/articles/cqjykl7ek9qo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 27 Aug 2025 15:29:59 GMT"
         }
     ]
 }
