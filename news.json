@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic says it will train its AI models on user data, including new chat transcripts and coding sessions, unless users opt out by September 28 (Hayden Field/The Verge)",
+            "link": "http://www.techmeme.com/250828/p26#a250828p26",
+            "published": "Thu, 28 Aug 2025 12:05:05 -0400"
+        },
+        {
+            "title": "Commonwealth, which wants to build a fusion power plant, raised $863M from Nvidia's NVentures, Khosla Ventures, and Google, bringing its total raised to ~$3B (Will Wade/Bloomberg)",
+            "link": "http://www.techmeme.com/250828/p25#a250828p25",
+            "published": "Thu, 28 Aug 2025 11:50:01 -0400"
+        },
+        {
             "title": "Two House Republicans open a probe into alleged organized efforts to inject bias into Wikipedia, citing an ADL report about anti-Israel bias on the site (Emily Brooks/The Hill)",
             "link": "http://www.techmeme.com/250828/p24#a250828p24",
             "published": "Thu, 28 Aug 2025 11:15:01 -0400"
         },
         {
-            "title": "Review of Honor Magic V5, the world's thinnest foldable phone at 8.8mm thick when folded, as it launches in Europe for \u20ac1,999, following a July launch in China (Dominic Preston/The Verge)",
+            "title": "A review of the Honor Magic V5, the world's thinnest foldable phone at 8.8mm when folded, as it launches in Europe for \u20ac1,999, following a July launch in China (Dominic Preston/The Verge)",
             "link": "http://www.techmeme.com/250828/p23#a250828p23",
             "published": "Thu, 28 Aug 2025 10:55:01 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "The US starts publishing GDP data on nine public blockchains including Bitcoin, Ethereum, and Solana, with the help of Coinbase, Kraken, and Gemini (Bloomberg)",
             "link": "http://www.techmeme.com/250828/p22#a250828p22",
             "published": "Thu, 28 Aug 2025 10:15:00 -0400"
-        },
-        {
-            "title": "Dutch web design automation startup Framer raised $100M led by Meritech and Atomico with Accel participation at a $2B valuation, after raising $27M in 2023 (Yazhou Sun/Bloomberg)",
-            "link": "http://www.techmeme.com/250828/p21#a250828p21",
-            "published": "Thu, 28 Aug 2025 09:25:01 -0400"
-        },
-        {
-            "title": "M0, which develops stablecoin infrastructure to boost interoperability and liquidity, raised a $40M Series B led by Polychain and Ribbit Capital (Ben Weiss/Fortune)",
-            "link": "http://www.techmeme.com/250828/p20#a250828p20",
-            "published": "Thu, 28 Aug 2025 09:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Kick accuses French authorities of politicising streamer's death",
+            "link": "https://www.bbc.com/news/articles/cx23zdvk854o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 28 Aug 2025 16:03:28 GMT"
+        },
+        {
             "title": "AI firm says its technology weaponised by hackers",
             "link": "https://www.bbc.com/news/articles/crr24eqnnq9o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 28 Aug 2025 11:40:27 GMT"
@@ -73,11 +78,6 @@
             "title": "Japanese town proposes two-hour daily limit on smartphones",
             "link": "https://www.bbc.com/news/articles/cqlew2rv337o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 28 Aug 2025 02:27:00 GMT"
-        },
-        {
-            "title": "European banks hit by rogue PayPal payments worth 'billions'",
-            "link": "https://www.bbc.com/news/articles/cj6y42jggdyo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 27 Aug 2025 15:38:52 GMT"
         }
     ]
 }
