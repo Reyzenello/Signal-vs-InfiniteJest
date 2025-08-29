@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Perplexity's head of advertising and shopping Taz Patel has left after nine months; its ad business reportedly generated only about $20,000 in Q4 2024 (Trishla Ostwal/Adweek)",
+            "link": "http://www.techmeme.com/250829/p19#a250829p19",
+            "published": "Fri, 29 Aug 2025 12:25:02 -0400"
+        },
+        {
+            "title": "Valve adds credit card-based age checks for UK users to access \"mature content\" games on Steam; Discord and others are using selfies for verification (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250829/p18#a250829p18",
+            "published": "Fri, 29 Aug 2025 12:05:02 -0400"
+        },
+        {
             "title": "FriendliAI, which aims to help companies run AI model inference faster and cheaper, raised a $20M extension to its $6M seed fund from late 2021 (Mary Ann Azevedo/Crunchbase News)",
             "link": "http://www.techmeme.com/250829/p17#a250829p17",
             "published": "Fri, 29 Aug 2025 11:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: the US government restored xAI to its vendors list after removing it for Grok's antisemitic content; email: the White House asked GSA to add xAI \"ASAP\" (Zo\u00eb Schiffer/Wired)",
             "link": "http://www.techmeme.com/250829/p15#a250829p15",
             "published": "Fri, 29 Aug 2025 10:10:03 -0400"
-        },
-        {
-            "title": "EU competition commissioner Teresa Ribera says the EU must be ready to walk away from the US trade deal if the US demands a watered-down DSA and DMA (Financial Times)",
-            "link": "http://www.techmeme.com/250829/p14#a250829p14",
-            "published": "Fri, 29 Aug 2025 10:00:34 -0400"
-        },
-        {
-            "title": "Reliance launches a subsidiary called Reliance Intelligence, aiming to create national-scale AI infrastructure in India, in partnership with Google and Meta (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/250829/p13#a250829p13",
-            "published": "Fri, 29 Aug 2025 09:40:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Court documents shed new light on UK-Apple row over user data",
+            "link": "https://www.bbc.com/news/articles/cx293qg7z39o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 29 Aug 2025 15:58:33 GMT"
+        },
+        {
             "title": "Taco Bell rethinks AI drive-through after man orders 18,000 waters",
             "link": "https://www.bbc.com/news/articles/ckgyk2p55g8o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 29 Aug 2025 10:33:42 GMT"
@@ -73,11 +78,6 @@
             "title": "AI firm says its technology weaponised by hackers",
             "link": "https://www.bbc.com/news/articles/crr24eqnnq9o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 28 Aug 2025 11:40:27 GMT"
-        },
-        {
-            "title": "Apple warns UK against introducing tougher tech regulation",
-            "link": "https://www.bbc.com/news/articles/ckgj9kjmvzzo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 27 Aug 2025 21:03:24 GMT"
         }
     ]
 }
