@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Alibaba reports Q1 revenue up 2% YoY to ~$34.6B, below ~$35.4B est., and net income up 76% to ~$5.9B, above ~$4B est., as AI demand drives cloud sales up 26% (Arjun Kharpal/CNBC)",
+            "link": "http://www.techmeme.com/250829/p8#a250829p8",
+            "published": "Fri, 29 Aug 2025 07:15:16 -0400"
+        },
+        {
+            "title": "Sources: ChatGPT co-creator Shengjia Zhao threatened to quit Meta within days of joining and return to OpenAI; later, he was given the chief AI scientist title (Financial Times)",
+            "link": "http://www.techmeme.com/250829/p7#a250829p7",
+            "published": "Fri, 29 Aug 2025 07:10:01 -0400"
+        },
+        {
+            "title": "Huawei reports H1 2025 revenue up 3.9% YoY to ~$58.5B, driven by soaring AI compute demand and a rebound in phone sales, and net profit down 32% YoY to ~$5.2B (Bloomberg)",
+            "link": "http://www.techmeme.com/250829/p6#a250829p6",
+            "published": "Fri, 29 Aug 2025 06:40:01 -0400"
+        },
+        {
             "title": "India's largest telco Reliance Jio, owned by Asia's richest man Mukesh Ambani, says it aims to list its shares through an IPO in India by the first half of 2026 (Chandini Monnappa/Reuters)",
             "link": "http://www.techmeme.com/250829/p5#a250829p5",
             "published": "Fri, 29 Aug 2025 06:05:02 -0400"
@@ -9,21 +24,6 @@
             "title": "An investigation finds spammers are deploying Holocaust-themed AI slop images across Facebook, in an attempt to game Meta's content monetization program (BBC)",
             "link": "http://www.techmeme.com/250829/p4#a250829p4",
             "published": "Fri, 29 Aug 2025 04:45:00 -0400"
-        },
-        {
-            "title": "Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250829/p3#a250829p3",
-            "published": "Fri, 29 Aug 2025 02:00:35 -0400"
-        },
-        {
-            "title": "Elon Musk files a motion to dismiss a US SEC suit over his 2022 Twitter stake disclosure, calling allegations that he cheated investors a government overreach (Nicola M White/Bloomberg)",
-            "link": "http://www.techmeme.com/250829/p2#a250829p2",
-            "published": "Fri, 29 Aug 2025 01:00:15 -0400"
-        },
-        {
-            "title": "Court filing: the UK sought broad access to Apple user data, including bulk iCloud interception beyond ADP, and hasn't dropped the mandate as the US claimed (Financial Times)",
-            "link": "http://www.techmeme.com/250829/p1#a250829p1",
-            "published": "Fri, 29 Aug 2025 00:45:04 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Wed, 27 Aug 2025 13:00:14 +0000"
         },
         {
-            "title": "Can Cadillac Keep Selling E.V.s as Trump Repeals Climate Policies?",
-            "link": "https://www.nytimes.com/2025/08/29/business/cadillac-electric-vehicles-trump.html",
-            "published": "Fri, 29 Aug 2025 09:01:44 +0000"
+            "title": "Intel\u2019s New Deal + Waymo C.E.O. Tekedra Mawakana on Scaling Driverless Cars + Trumps in Tech",
+            "link": "https://www.nytimes.com/2025/08/29/podcasts/hardfork-intel-waymo.html",
+            "published": "Fri, 29 Aug 2025 11:00:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Taco Bell rethinks AI drive-through after man orders 18,000 waters",
+            "link": "https://www.bbc.com/news/articles/ckgyk2p55g8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 29 Aug 2025 10:33:42 GMT"
+        },
+        {
+            "title": "Musk files to dismiss lawsuit over his purchase of Twitter shares",
+            "link": "https://www.bbc.com/news/articles/cn47ey2wxkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 29 Aug 2025 11:09:32 GMT"
+        },
         {
             "title": "Kick accuses French authorities of politicising streamer's death",
             "link": "https://www.bbc.com/news/articles/cx23zdvk854o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Apple warns UK against introducing tougher tech regulation",
             "link": "https://www.bbc.com/news/articles/ckgj9kjmvzzo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 27 Aug 2025 21:03:24 GMT"
-        },
-        {
-            "title": "AI boom boosts Nvidia despite 'geopolitical issues'",
-            "link": "https://www.bbc.com/news/articles/c3wnj8611y7o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 28 Aug 2025 06:38:35 GMT"
-        },
-        {
-            "title": "Japanese town proposes two-hour daily limit on smartphones",
-            "link": "https://www.bbc.com/news/articles/cqlew2rv337o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 28 Aug 2025 02:27:00 GMT"
         }
     ]
 }
