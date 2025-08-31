@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "El Salvador has split its 6,000+ bitcoin across 14 wallets, describing the move as a precaution against quantum attacks, a merely theoretical threat for now (Brayden Lindrea/Cointelegraph)",
+            "link": "http://www.techmeme.com/250830/p14#a250830p14",
+            "published": "Sat, 30 Aug 2025 20:25:01 -0400"
+        },
+        {
+            "title": "An inside look at how Netflix's use of data led to generic \"algorithm films\" intended for broad appeal, with AI set to further entrench the production style (Phil Hoad/The Guardian)",
+            "link": "http://www.techmeme.com/250830/p13#a250830p13",
+            "published": "Sat, 30 Aug 2025 19:40:00 -0400"
+        },
+        {
             "title": "How Turkmenistan turned censorship into a lucrative extortion scheme by intentionally restricting internet access in order to sell its own VPNs to citizens (Tor Blog)",
             "link": "http://www.techmeme.com/250830/p12#a250830p12",
             "published": "Sat, 30 Aug 2025 17:40:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Purgatory, tied to online community The Com, claims responsibility for swatting attacks on US universities, airports, and more, charging $20 to $95 per incident (David Gilbert/Wired)",
             "link": "http://www.techmeme.com/250830/p10#a250830p10",
             "published": "Sat, 30 Aug 2025 14:20:01 -0400"
-        },
-        {
-            "title": "TikTok suspends its live feature for the \"next few days\" in Indonesia, citing \"increasing violence in protests\" over lawmakers' pay (Stefanno Sulaiman/Reuters)",
-            "link": "http://www.techmeme.com/250830/p9#a250830p9",
-            "published": "Sat, 30 Aug 2025 12:30:01 -0400"
-        },
-        {
-            "title": "Filing: StubHub, which is planning a September IPO, says revenue grew 3% to $828M in H1, missing its earlier projection of $885M, with adjusted EBITDA down 7% (Cory Weinberg/The Information)",
-            "link": "http://www.techmeme.com/250830/p8#a250830p8",
-            "published": "Sat, 30 Aug 2025 11:10:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "The first game to feel truly cinematic is back - years after its creator left",
+            "link": "https://www.bbc.com/news/articles/cy08jr6jwn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 31 Aug 2025 00:58:36 GMT"
+        },
+        {
             "title": "Court documents shed new light on UK-Apple row over user data",
             "link": "https://www.bbc.com/news/articles/cx293qg7z39o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 29 Aug 2025 15:58:33 GMT"
@@ -73,11 +78,6 @@
             "title": "Kick accuses French authorities of politicising streamer's death",
             "link": "https://www.bbc.com/news/articles/cx23zdvk854o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 28 Aug 2025 16:03:28 GMT"
-        },
-        {
-            "title": "AI firm says its technology weaponised by hackers",
-            "link": "https://www.bbc.com/news/articles/crr24eqnnq9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 28 Aug 2025 11:40:27 GMT"
         }
     ]
 }
