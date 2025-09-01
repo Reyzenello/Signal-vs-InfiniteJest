@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Q&A with Cloudflare CEO Matthew Prince on why he thinks AI chatbots imperil the web and journalism's future, his company's pay-per-crawl initiative, and more (Fred Vogelstein/Crazy Stupid Tech)",
+            "link": "http://www.techmeme.com/250901/p3#a250901p3",
+            "published": "Mon, 01 Sep 2025 05:00:45 -0400"
+        },
+        {
             "title": "A survey of 1,047 US college students on GenAI: 55% use the tech for brainstorming ideas, 18% now question the value of college more than they used to, and more (Colleen Flaherty/Inside Higher Ed)",
             "link": "http://www.techmeme.com/250901/p2#a250901p2",
             "published": "Mon, 01 Sep 2025 03:50:01 -0400"
@@ -19,11 +24,6 @@
             "title": "A new policy document from seven Chinese government departments outlines plans to create a globally competitive brain-computer interface industry by 2030 (Emily Mullin/Wired)",
             "link": "http://www.techmeme.com/250831/p12#a250831p12",
             "published": "Sun, 31 Aug 2025 18:10:00 -0400"
-        },
-        {
-            "title": "An interview with CrowdStrike CEO George Kurtz on the company's M&A strategy as it acquires Madrid-based data observability startup Onum for about $290M (Allie Garfinkle/Fortune)",
-            "link": "http://www.techmeme.com/250831/p11#a250831p11",
-            "published": "Sun, 31 Aug 2025 16:00:14 -0400"
         }
     ],
     "source_1": [
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "Ticketless train travel to be trialled across cities",
-            "link": "https://www.bbc.com/news/articles/cly702xd0edo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Sep 2025 02:33:40 GMT"
-        },
-        {
             "title": "Enforcing Australia's social media ban on kids is possible but contains risks, report says",
             "link": "https://www.bbc.com/news/articles/clyrkj0d44vo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Sep 2025 02:34:13 GMT"
@@ -78,6 +73,11 @@
             "title": "Court documents shed new light on UK-Apple row over user data",
             "link": "https://www.bbc.com/news/articles/cx293qg7z39o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 29 Aug 2025 15:58:33 GMT"
+        },
+        {
+            "title": "Taco Bell rethinks AI drive-through after man orders 18,000 waters",
+            "link": "https://www.bbc.com/news/articles/ckgyk2p55g8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 29 Aug 2025 10:33:42 GMT"
         }
     ]
 }
