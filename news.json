@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Source: G42 is talking to Google, AWS, Meta, Microsoft, and xAI to become tenants at its UAE-US AI Campus, and aims to diversify chip suppliers beyond Nvidia (Kelsey Warner/Semafor)",
+            "link": "http://www.techmeme.com/250901/p7#a250901p7",
+            "published": "Mon, 01 Sep 2025 09:30:02 -0400"
+        },
+        {
             "title": "Sources: OpenAI is scouting local partners to set up a 1GW+ data center in India, although the exact timeline is unclear; Sam Altman is set to visit this month (Bloomberg)",
             "link": "http://www.techmeme.com/250901/p6#a250901p6",
             "published": "Mon, 01 Sep 2025 07:05:03 -0400"
@@ -19,11 +24,6 @@
             "title": "Q&A with Cloudflare CEO Matthew Prince on why he thinks AI chatbots imperil the web and journalism's future, his company's pay-per-crawl initiative, and more (Fred Vogelstein/Crazy Stupid Tech)",
             "link": "http://www.techmeme.com/250901/p3#a250901p3",
             "published": "Mon, 01 Sep 2025 05:00:45 -0400"
-        },
-        {
-            "title": "A survey of 1,047 US college students on GenAI: 55% use the tech for brainstorming ideas, 18% now question the value of college more than they used to, and more (Colleen Flaherty/Inside Higher Ed)",
-            "link": "http://www.techmeme.com/250901/p2#a250901p2",
-            "published": "Mon, 01 Sep 2025 03:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,14 +55,14 @@
     ],
     "source_2": [
         {
-            "title": "Meta to stop its AI chatbots from talking to teens about suicide",
-            "link": "https://www.bbc.com/news/articles/c2kzl79jv15o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Sep 2025 12:05:05 GMT"
-        },
-        {
             "title": "Children at risk of identity theft and fraud from 'sharenting'",
             "link": "https://www.bbc.com/news/articles/c8904njvy03o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Sep 2025 11:57:07 GMT"
+        },
+        {
+            "title": "Meta to stop its AI chatbots from talking to teens about suicide",
+            "link": "https://www.bbc.com/news/articles/c2kzl79jv15o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 01 Sep 2025 12:05:05 GMT"
         },
         {
             "title": "Enforcing Australia's social media ban on kids is possible but contains risks, report says",
