@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Procurement records show the Trump administration jettisoned a Biden-era order and reactivated an ICE contract for Paragon spyware (Ryan Gallagher/Bloomberg)",
+            "title": "OpenAI sent subpoenas to AI governance nonprofits Encode and CANI, alleging they are part of a conspiracy involving Elon Musk, Mark Zuckerberg, and others (Emily Shugerman/The San Francisco Standard)",
+            "link": "http://www.techmeme.com/250902/p26#a250902p26",
+            "published": "Tue, 02 Sep 2025 12:20:01 -0400"
+        },
+        {
+            "title": "Anthropic raised a $13B Series F led by Iconiq, Fidelity, and Lightspeed at a $183B valuation, up from $61.5B in March, and reports a $5B+ run-rate revenue (Anthropic)",
+            "link": "http://www.techmeme.com/250902/p25#a250902p25",
+            "published": "Tue, 02 Sep 2025 12:06:46 -0400"
+        },
+        {
+            "title": "Amazon plans to end the ability for Prime members to share free shipping benefits with individuals outside their household, starting on October 1 (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/250902/p24#a250902p24",
+            "published": "Tue, 02 Sep 2025 11:30:01 -0400"
+        },
+        {
+            "title": "US procurement records show the Trump administration jettisoned a Biden-era order and reactivated an ICE contract for Tel Aviv-based Paragon's spyware (Ryan Gallagher/Bloomberg)",
             "link": "http://www.techmeme.com/250902/p23#a250902p23",
             "published": "Tue, 02 Sep 2025 11:10:02 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "Blockchain-based lender Figure plans to sell 26.3M shares priced between $18 and $20 to raise up to $526.3M in its US IPO, targeting a valuation of ~$4.13B (Reuters)",
             "link": "http://www.techmeme.com/250902/p22#a250902p22",
             "published": "Tue, 02 Sep 2025 10:50:03 -0400"
-        },
-        {
-            "title": "Source: Mexico City-based Kapital, which offers financial visibility tools to SMBs, raised an $86M Series C led by Tribe Capital at a ~$1.3B valuation (Matthew Monks/Bloomberg)",
-            "link": "http://www.techmeme.com/250902/p21#a250902p21",
-            "published": "Tue, 02 Sep 2025 10:30:00 -0400"
-        },
-        {
-            "title": "Winklevoss twins' Gemini plans to sell 16.67M shares at $17 to $19 each in its US IPO, seeking to raise $317M, which would value the crypto exchange at $2.22B (CoinDesk)",
-            "link": "http://www.techmeme.com/250902/p20#a250902p20",
-            "published": "Tue, 02 Sep 2025 10:25:15 -0400"
-        },
-        {
-            "title": "Sources: the EU delayed a planned September 1 fine against Google over its ad tech practices, amid fears it could provoke Trump to unravel recent trade progress (Bloomberg)",
-            "link": "http://www.techmeme.com/250902/p19#a250902p19",
-            "published": "Tue, 02 Sep 2025 10:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "ChatGPT to tell parents when their child is in 'acute distress'",
+            "link": "https://www.bbc.com/news/articles/cg505mn84ydo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Sep 2025 15:35:38 GMT"
+        },
+        {
             "title": "Jaguar Land Rover production severely hit by cyber-attack",
             "link": "https://www.bbc.com/news/articles/c9wywvllq7wo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 02 Sep 2025 12:51:37 GMT"
+            "published": "Tue, 02 Sep 2025 16:14:10 GMT"
         },
         {
             "title": "Children at risk of identity theft and fraud from 'sharenting'",
@@ -73,11 +78,6 @@
             "title": "Enforcing Australia's social media ban on kids is possible but contains risks, report says",
             "link": "https://www.bbc.com/news/articles/clyrkj0d44vo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Sep 2025 02:34:13 GMT"
-        },
-        {
-            "title": "BYD shares slide as China's EV price war hits profits",
-            "link": "https://www.bbc.com/news/articles/cx2pr1wwq44o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Sep 2025 07:50:54 GMT"
         }
     ]
 }
