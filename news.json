@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "US v. Google: a judge bars Google from paying to be the exclusive search engine on devices and browsers but allows it to make payments for product distribution (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250902/p35#a250902p35",
+            "published": "Tue, 02 Sep 2025 17:15:00 -0400"
+        },
+        {
+            "title": "US v. Google: a federal judge rules that Google will not be required to divest Chrome or Android but must share search data; GOOG jumps 8%+ after hours (Jennifer Elias/CNBC)",
+            "link": "http://www.techmeme.com/250902/p34#a250902p34",
+            "published": "Tue, 02 Sep 2025 16:30:00 -0400"
+        },
+        {
             "title": "Cloudflare says attackers gained access to a Salesforce instance it uses for internal customer case management, as part of the Salesloft Drift breach (Sergiu Gatlan/BleepingComputer)",
             "link": "http://www.techmeme.com/250902/p33#a250902p33",
             "published": "Tue, 02 Sep 2025 16:20:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Apple's lead AI researcher for robotics, Jian Zhang, has left for Meta's Robotics Studio; sources: three more researchers left Apple's Foundation Models team (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/250902/p31#a250902p31",
             "published": "Tue, 02 Sep 2025 15:20:02 -0400"
-        },
-        {
-            "title": "Plaud says it has sold 1M+ of its $159 NotePin AI recording devices since 2023, is profitable, and is on track to bring in $250M in annualized revenue this year (Iain Martin/Forbes)",
-            "link": "http://www.techmeme.com/250902/p30#a250902p30",
-            "published": "Tue, 02 Sep 2025 15:05:01 -0400"
-        },
-        {
-            "title": "OpenAI acquires product analytics company Statsig for $1.1B and shuffles executive roles, with Statsig CEO Vijaye Raji becoming OpenAI's CTO of Applications (Hayden Field/The Verge)",
-            "link": "http://www.techmeme.com/250902/p29#a250902p29",
-            "published": "Tue, 02 Sep 2025 14:16:17 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Sun, 31 Aug 2025 09:00:47 +0000"
         },
         {
-            "title": "How Fining Elon Musk\u2019s X Could Threaten the U.S.-E.U. Trade Deal",
-            "link": "https://www.nytimes.com/2025/09/02/business/dealbook/elon-musk-x-europe-trump.html",
-            "published": "Tue, 02 Sep 2025 16:34:09 +0000"
+            "title": "Google Must Share Search Data With Rivals, Judge Rules in Antitrust Case",
+            "link": "https://www.nytimes.com/2025/09/02/technology/google-search-antitrust-decision.html",
+            "published": "Tue, 02 Sep 2025 20:48:50 +0000"
         }
     ],
     "source_2": [
