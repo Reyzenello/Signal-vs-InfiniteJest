@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia acquires Solver, a three-year-old AI coding agent startup formerly known as Laredo Labs, which had raised $8M from Radical Ventures and other investors (The Information)",
+            "link": "http://www.techmeme.com/250903/p10#a250903p10",
+            "published": "Wed, 03 Sep 2025 05:11:07 -0400"
+        },
+        {
+            "title": "Philippines government data: online gambling revenue in the country overtook traditional casinos in H1 2025, generating ~$2B, or 53%+ of the industry's total (Ramon Royandoyan/Nikkei Asia)",
+            "link": "http://www.techmeme.com/250903/p9#a250903p9",
+            "published": "Wed, 03 Sep 2025 04:55:53 -0400"
+        },
+        {
+            "title": "A reporter details how her mother, a kidney transplant patient who lives in China, bonded with DeepSeek's chatbot as her AI doctor, calling it \"more humane\" (Viola Zhou/Rest of World)",
+            "link": "http://www.techmeme.com/250903/p8#a250903p8",
+            "published": "Wed, 03 Sep 2025 04:35:01 -0400"
+        },
+        {
             "title": "The EU's General Court backs the EU-US Data Privacy Framework, approved in 2023, rejecting a legal challenge that US surveillance laws fall short of EU laws (Bloomberg)",
             "link": "http://www.techmeme.com/250903/p7#a250903p7",
             "published": "Wed, 03 Sep 2025 04:10:48 -0400"
@@ -9,21 +24,6 @@
             "title": "A look at issues facing AI companies, including LLMs' limited memory, as they tackle safety in chatbots engaging in conversations about suicide and self-harm (Financial Times)",
             "link": "http://www.techmeme.com/250903/p6#a250903p6",
             "published": "Wed, 03 Sep 2025 03:50:00 -0400"
-        },
-        {
-            "title": "A deep dive into the state of the tech job market in 2025, including an increase in demand for AI engineers and a rising average tenure at Big Tech companies (Gergely Orosz/The Pragmatic Engineer)",
-            "link": "http://www.techmeme.com/250903/p5#a250903p5",
-            "published": "Wed, 03 Sep 2025 02:35:01 -0400"
-        },
-        {
-            "title": "How SK Hynix's rise as Nvidia's main HBM chip supplier, ahead of Samsung and Micron, disrupted the old order at the top end of the memory chip market (Financial Times)",
-            "link": "http://www.techmeme.com/250903/p4#a250903p4",
-            "published": "Wed, 03 Sep 2025 02:25:43 -0400"
-        },
-        {
-            "title": "IDC: in Q1 2025, the world's top four robot vacuum makers, all from China, together accounted for 54.1% of shipments, as iRobot fell from first to fifth place (Wataru Suzuki/Nikkei Asia)",
-            "link": "http://www.techmeme.com/250903/p3#a250903p3",
-            "published": "Wed, 03 Sep 2025 02:15:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Family of dead teen say ChatGPT's new parental controls not enough",
+            "link": "https://www.bbc.com/news/articles/cg505mn84ydo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 03 Sep 2025 08:41:18 GMT"
+        },
+        {
             "title": "A let off or tougher than it looks? What the Google monopoly ruling means",
             "link": "https://www.bbc.com/news/articles/cx2q2kkdedno?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 03 Sep 2025 07:28:22 GMT"
@@ -63,11 +68,6 @@
             "title": "Google avoids break-up but must share data with rivals",
             "link": "https://www.bbc.com/news/articles/cp8zdrenm1zo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Sep 2025 23:51:46 GMT"
-        },
-        {
-            "title": "ChatGPT to tell parents when their child is in 'acute distress'",
-            "link": "https://www.bbc.com/news/articles/cg505mn84ydo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 02 Sep 2025 15:35:38 GMT"
         },
         {
             "title": "Jaguar Land Rover production severely hit by cyber-attack",
