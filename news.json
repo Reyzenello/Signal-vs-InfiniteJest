@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The EU's General Court backs the EU-US Data Privacy Framework, approved in 2023, rejecting a legal challenge that US surveillance laws fall short of EU laws (Bloomberg)",
+            "link": "http://www.techmeme.com/250903/p7#a250903p7",
+            "published": "Wed, 03 Sep 2025 04:10:48 -0400"
+        },
+        {
+            "title": "A look at issues facing AI companies, including LLMs' limited memory, as they tackle safety in chatbots engaging in conversations about suicide and self-harm (Financial Times)",
+            "link": "http://www.techmeme.com/250903/p6#a250903p6",
+            "published": "Wed, 03 Sep 2025 03:50:00 -0400"
+        },
+        {
             "title": "A deep dive into the state of the tech job market in 2025, including an increase in demand for AI engineers and a rising average tenure at Big Tech companies (Gergely Orosz/The Pragmatic Engineer)",
             "link": "http://www.techmeme.com/250903/p5#a250903p5",
             "published": "Wed, 03 Sep 2025 02:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "IDC: in Q1 2025, the world's top four robot vacuum makers, all from China, together accounted for 54.1% of shipments, as iRobot fell from first to fifth place (Wataru Suzuki/Nikkei Asia)",
             "link": "http://www.techmeme.com/250903/p3#a250903p3",
             "published": "Wed, 03 Sep 2025 02:15:00 -0400"
-        },
-        {
-            "title": "BMW's iX3 electric SUV, debuting September 5, will be the first in a series of \"software-defined vehicles\" on its \u20ac10B+ Neue Klasse platform unveiled in 2021 (Financial Times)",
-            "link": "http://www.techmeme.com/250903/p2#a250903p2",
-            "published": "Wed, 03 Sep 2025 02:05:01 -0400"
-        },
-        {
-            "title": "The ruling that allows Google to continue paying for traffic acquisition is a huge win for Apple and for Mozilla, which relies heavily on payments from Google (M.G. Siegler/Spyglass)",
-            "link": "http://www.techmeme.com/250903/p1#a250903p1",
-            "published": "Wed, 03 Sep 2025 00:40:39 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "A let off or tougher than it looks? What the Google monopoly ruling means",
+            "link": "https://www.bbc.com/news/articles/cx2q2kkdedno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 03 Sep 2025 07:28:22 GMT"
+        },
+        {
             "title": "Google avoids break-up but must share data with rivals",
             "link": "https://www.bbc.com/news/articles/cp8zdrenm1zo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Sep 2025 23:51:46 GMT"
@@ -73,11 +78,6 @@
             "title": "Children at risk of identity theft and fraud from 'sharenting'",
             "link": "https://www.bbc.com/news/articles/c8904njvy03o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Sep 2025 11:57:07 GMT"
-        },
-        {
-            "title": "Meta to stop its AI chatbots from talking to teens about suicide",
-            "link": "https://www.bbc.com/news/articles/c2kzl79jv15o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Sep 2025 12:05:05 GMT"
         }
     ]
 }
