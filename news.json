@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "SK Hynix's union approves a 6% wage bump and 10% allocation of SK's annual profit to a bonus pool, totaling ~$2.7B for 33,625 staff in 2025, averting a strike (Yoolim Lee/Bloomberg)",
+            "link": "http://www.techmeme.com/250904/p19#a250904p19",
+            "published": "Thu, 04 Sep 2025 07:20:01 -0400"
+        },
+        {
+            "title": "GSR fund documents: TikTok rival Xiaohongshu, known as RedNote in the US, saw its valuation rise 19% to $31B from $26B in March during recent GSR transactions (Echo Wong/Bloomberg)",
+            "link": "http://www.techmeme.com/250904/p18#a250904p18",
+            "published": "Thu, 04 Sep 2025 06:40:01 -0400"
+        },
+        {
             "title": "Sources: Alibaba, ByteDance, and other Chinese tech companies remain keen on Nvidia's AI chips despite Beijing strongly discouraging them from such purchases (Reuters)",
             "link": "http://www.techmeme.com/250904/p17#a250904p17",
             "published": "Thu, 04 Sep 2025 06:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Tencent releases HunyuanWorld-Voyager, an open-weights AI model that generates 3D-consistent video sequences from a single image, trained on 100K+ video clips (Benj Edwards/Ars Technica)",
             "link": "http://www.techmeme.com/250904/p15#a250904p15",
             "published": "Thu, 04 Sep 2025 06:05:00 -0400"
-        },
-        {
-            "title": "The US v. Google ruling signals a cautious antitrust approach by courts and a reluctance to intervene too deeply, ahead of other Big Tech antitrust rulings (Steve Lohr/New York Times)",
-            "link": "http://www.techmeme.com/250904/p14#a250904p14",
-            "published": "Thu, 04 Sep 2025 05:55:03 -0400"
-        },
-        {
-            "title": "Samsung unveils the $650+ Galaxy S25 FE and $800+ Tab S11 series in 11\" and 14.6\", offering thinner, lighter designs alongside modest upgrades, shipping now (Dominic Preston/The Verge)",
-            "link": "http://www.techmeme.com/250904/p13#a250904p13",
-            "published": "Thu, 04 Sep 2025 05:45:00 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,12 @@
         {
             "title": "World's largest sports piracy site shut down by police",
             "link": "https://www.bbc.com/news/articles/c62q4l0d171o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Sep 2025 09:43:00 GMT"
+            "published": "Thu, 04 Sep 2025 10:33:38 GMT"
+        },
+        {
+            "title": "Creator of Charli XCX Apple dance settles Roblox lawsuit",
+            "link": "https://www.bbc.com/news/articles/cdxqljv7nvdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 04 Sep 2025 10:41:33 GMT"
         },
         {
             "title": "M&S hackers claim to be behind Jaguar Land Rover cyber attack",
@@ -73,11 +78,6 @@
             "title": "Luigi Mangione's likeness used to model shirt on Shein",
             "link": "https://www.bbc.com/news/articles/c4g5vr4vzpzo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 03 Sep 2025 14:08:55 GMT"
-        },
-        {
-            "title": "Family of dead teen say ChatGPT's new parental controls not enough",
-            "link": "https://www.bbc.com/news/articles/cg505mn84ydo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 03 Sep 2025 08:41:18 GMT"
         }
     ]
 }
