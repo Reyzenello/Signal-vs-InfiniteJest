@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Lambda, a cloud provider that rents out Nvidia chips, has hired banks to prepare for a US IPO as soon as H1 2026; it was valued at $2.5B in February (The Information)",
+            "link": "http://www.techmeme.com/250903/p50#a250903p50",
+            "published": "Wed, 03 Sep 2025 22:20:00 -0400"
+        },
+        {
             "title": "Anthropic named the Qatar Investment Authority as a \"significant\" investor in its $13B round; QIA expects to do up to 25 tech deals through 2026 (Bloomberg)",
             "link": "http://www.techmeme.com/250903/p49#a250903p49",
             "published": "Wed, 03 Sep 2025 21:30:06 -0400"
@@ -19,11 +24,6 @@
             "title": "OpenAI makes ChatGPT Projects available to all free users, and allows more files to be added to projects; Projects was previously exclusive to paid subscribers (Ian Carlos Campbell/Engadget)",
             "link": "http://www.techmeme.com/250903/p46#a250903p46",
             "published": "Wed, 03 Sep 2025 20:15:02 -0400"
-        },
-        {
-            "title": "France's CNIL fines Google \u20ac325M for placing tracking cookies and ads in Gmail without users' consent; Google says it is reviewing the decision (France 24)",
-            "link": "http://www.techmeme.com/250903/p45#a250903p45",
-            "published": "Wed, 03 Sep 2025 19:45:12 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Wed, 03 Sep 2025 17:08:41 GMT"
         },
         {
+            "title": "Google told to pay $425m in privacy lawsuit",
+            "link": "https://www.bbc.com/news/articles/c3dr91z0g4zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 04 Sep 2025 02:02:13 GMT"
+        },
+        {
             "title": "Luigi Mangione's likeness used to model shirt on Shein",
             "link": "https://www.bbc.com/news/articles/c4g5vr4vzpzo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 03 Sep 2025 14:08:55 GMT"
@@ -73,11 +78,6 @@
             "title": "A let-off or tougher than it looks? What the Google monopoly ruling means",
             "link": "https://www.bbc.com/news/articles/cx2q2kkdedno?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 03 Sep 2025 07:28:22 GMT"
-        },
-        {
-            "title": "Google avoids break-up but must share data with rivals",
-            "link": "https://www.bbc.com/news/articles/cp8zdrenm1zo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 02 Sep 2025 23:51:46 GMT"
         }
     ]
 }
