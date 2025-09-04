@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "DOJ charges ex-IRL CEO Abraham Shafi with securities and wire fraud for allegedly misleading investors about user growth, concealing personal expenses, and more (Fortune)",
+            "link": "http://www.techmeme.com/250904/p35#a250904p35",
+            "published": "Thu, 04 Sep 2025 12:55:01 -0400"
+        },
+        {
+            "title": "Adobe plans to launch a free version of its Premiere video editor for iPhone later this month, with one-tap exporting to TikTok, YouTube Shorts, and Instagram (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/250904/p34#a250904p34",
+            "published": "Thu, 04 Sep 2025 12:50:00 -0400"
+        },
+        {
             "title": "A profile of Anthropic's Frontier Red Team, which is unique among AI companies in having a mandate to both evaluate its AI models and publicize findings widely (Sharon Goldman/Fortune)",
             "link": "http://www.techmeme.com/250904/p33#a250904p33",
             "published": "Thu, 04 Sep 2025 12:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Stripe and Paradigm unveil Tempo, a Layer-1 blockchain for stablecoins; a source says Tempo will not launch with its own token and there is no launch timeline (Leo Schwartz/Fortune)",
             "link": "http://www.techmeme.com/250904/p31#a250904p31",
             "published": "Thu, 04 Sep 2025 12:15:05 -0400"
-        },
-        {
-            "title": "Sources: Microsoft is set to avoid a potentially hefty EU antitrust fine by agreeing to sell Teams separately from its Office 365 and Microsoft 365 packages (Samuel Stolton/Bloomberg)",
-            "link": "http://www.techmeme.com/250904/p30#a250904p30",
-            "published": "Thu, 04 Sep 2025 11:50:01 -0400"
-        },
-        {
-            "title": "Ketryx, which is building an AI-native compliance platform to speed up medical device development, raised a $39M Series B, bringing its total funding to $55M+ (Kyt Dotson/SiliconANGLE)",
-            "link": "http://www.techmeme.com/250904/p29#a250904p29",
-            "published": "Thu, 04 Sep 2025 11:15:05 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Gamers frustrated as Hollow Knight: Silksong crashes stores on launch",
+            "link": "https://www.bbc.com/news/articles/ckgejpxzepko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 04 Sep 2025 17:04:03 GMT"
+        },
+        {
             "title": "Head of UK's Turing AI Institute resigns after funding threat",
             "link": "https://www.bbc.com/news/articles/c8rvx85z3z7o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 04 Sep 2025 15:37:13 GMT"
@@ -73,11 +78,6 @@
             "title": "Lost in translation - How Africa is trying to close the AI language gap",
             "link": "https://www.bbc.com/news/articles/crkzgkkpx0lo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 04 Sep 2025 00:28:10 GMT"
-        },
-        {
-            "title": "M&S hackers claim to be behind Jaguar Land Rover cyber attack",
-            "link": "https://www.bbc.com/news/articles/c4gqepe5355o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 03 Sep 2025 17:08:41 GMT"
         }
     ]
 }
