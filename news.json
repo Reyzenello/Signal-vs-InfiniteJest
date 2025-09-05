@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Isotopes, co-founded by Scale AI's former CTO Arun Murthy to build an AI agent for enterprise business analytics, raised a $20M seed (Julie Bort/TechCrunch)",
+            "link": "http://www.techmeme.com/250905/p15#a250905p15",
+            "published": "Fri, 05 Sep 2025 13:00:14 -0400"
+        },
+        {
             "title": "At the White House dinner on Thursday night, Big Tech executives put on an uncanny display of fealty to Donald Trump by taking turns praising his leadership (Brian Barrett/Wired)",
             "link": "http://www.techmeme.com/250905/p14#a250905p14",
             "published": "Fri, 05 Sep 2025 12:20:03 -0400"
@@ -19,11 +24,6 @@
             "title": "World Liberty Financial blacklisted Justin Sun's wallet after it transferred ~$9M worth of WLFI tokens to exchange HTX; Sun called out the freezing of assets (Bloomberg)",
             "link": "http://www.techmeme.com/250905/p11#a250905p11",
             "published": "Fri, 05 Sep 2025 11:16:08 -0400"
-        },
-        {
-            "title": "Baseten, which helps companies launch open-source or custom AI models, raised a $150M Series D led by Bond at a $2.15B valuation, up from $825M in February (Allie Garfinkle/Fortune)",
-            "link": "http://www.techmeme.com/250905/p10#a250905p10",
-            "published": "Fri, 05 Sep 2025 09:40:00 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Elon Musk Could Become First Trillionaire Under New Tesla Pay Package",
             "link": "https://www.nytimes.com/2025/09/05/business/elon-musk-tesla-pay-trillionaire.html",
-            "published": "Fri, 05 Sep 2025 13:12:22 +0000"
+            "published": "Fri, 05 Sep 2025 17:04:18 +0000"
         },
         {
             "title": "A.I. School Is in Session: Two Takes on the Future of Education",
@@ -50,10 +50,15 @@
         {
             "title": "Google Is Fined $3.5 Billion for Breaking Europe\u2019s Antitrust Laws",
             "link": "https://www.nytimes.com/2025/09/05/business/google-eu-antitrust-fine.html",
-            "published": "Fri, 05 Sep 2025 15:26:33 +0000"
+            "published": "Fri, 05 Sep 2025 17:01:37 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Google fined \u20ac2.95bn by EU for abusing advertising dominance",
+            "link": "https://www.bbc.com/news/articles/c1wgn3lre14o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Sep 2025 16:56:21 GMT"
+        },
         {
             "title": "Gamers frustrated as Hollow Knight: Silksong crashes stores on launch",
             "link": "https://www.bbc.com/news/articles/ckgejpxzepko?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Creator of Charli XCX Apple dance settles Roblox lawsuit",
             "link": "https://www.bbc.com/news/articles/cdxqljv7nvdo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 04 Sep 2025 10:41:33 GMT"
-        },
-        {
-            "title": "Lost in translation - How Africa is trying to close the AI language gap",
-            "link": "https://www.bbc.com/news/articles/crkzgkkpx0lo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Sep 2025 00:28:10 GMT"
         }
     ]
 }
