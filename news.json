@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI researchers argue that language models hallucinate because standard training and evaluation procedures reward guessing over admitting uncertainty (OpenAI)",
+            "link": "http://www.techmeme.com/250906/p18#a250906p18",
+            "published": "Sat, 06 Sep 2025 20:35:00 -0400"
+        },
+        {
             "title": "GPT-5 Thinking in ChatGPT is shockingly good at search and demonstrates the potential of combining tool calling with chain-of-thought reasoning (Simon Willison/Simon Willison's Weblog)",
             "link": "http://www.techmeme.com/250906/p17#a250906p17",
             "published": "Sat, 06 Sep 2025 18:35:01 -0400"
@@ -19,11 +24,6 @@
             "title": "An analysis of US DOL data: the IT sector's unemployment rate fell from 5.5% in July to 4.5% in August, while active tech job postings declined 2.6% from July (Belle Lin/Wall Street Journal)",
             "link": "http://www.techmeme.com/250906/p14#a250906p14",
             "published": "Sat, 06 Sep 2025 13:40:00 -0400"
-        },
-        {
-            "title": "Data shows WLFI's sharp drop was driven by shorting and dumping across exchanges, not Justin Sun's token movements; WLFI blames phishing-related compromises (Sam Reynolds/CoinDesk)",
-            "link": "http://www.techmeme.com/250906/p13#a250906p13",
-            "published": "Sat, 06 Sep 2025 11:55:00 -0400"
         }
     ],
     "source_1": [
