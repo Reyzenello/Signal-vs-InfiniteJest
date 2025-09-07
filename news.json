@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: ASML is committing \u20ac1.3B for Mistral's \u20ac1.7B Series C funding round, becoming the top shareholder, and is expected to get a board seat (Reuters)",
+            "link": "http://www.techmeme.com/250907/p14#a250907p14",
+            "published": "Sun, 07 Sep 2025 12:20:01 -0400"
+        },
+        {
+            "title": "Shift5, which develops cybersecurity tools for the military and critical infrastructure, raised a $75M Series C led by Hedosophia (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/250907/p13#a250907p13",
+            "published": "Sun, 07 Sep 2025 11:50:00 -0400"
+        },
+        {
+            "title": "A profile of Razer CEO Min-Liang Tan, as the gaming hardware giant readies AI tools for game development and to help players sharpen their skills (John Kang/Forbes)",
+            "link": "http://www.techmeme.com/250907/p12#a250907p12",
+            "published": "Sun, 07 Sep 2025 11:25:01 -0400"
+        },
+        {
             "title": "PitchBook: VCs have invested $5B+ in humanoid robotics startups since the beginning of 2024, as years of steady progress and GenAI triggers an investment frenzy (Washington Post)",
             "link": "http://www.techmeme.com/250907/p11#a250907p11",
             "published": "Sun, 07 Sep 2025 10:00:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Dealroom: European VC deals are set to rise 3-4% YoY in 2025 to $57B, about the same as in 2023, driven by rising startup valuations in AI, fintech, and defense (Ivan Levingston/Financial Times)",
             "link": "http://www.techmeme.com/250907/p10#a250907p10",
             "published": "Sun, 07 Sep 2025 08:25:01 -0400"
-        },
-        {
-            "title": "The Winklevoss twins have become major GOP donors; a source says they've donated $32M+ since 2017, including $21M to a new pro-Trump and pro-crypto super PAC (Alex Isenstadt/Axios)",
-            "link": "http://www.techmeme.com/250907/p9#a250907p9",
-            "published": "Sun, 07 Sep 2025 06:20:02 -0400"
-        },
-        {
-            "title": "An in-depth look at AWS' underperformance in the GenAI era, as Microsoft Azure and Google Cloud gain ground, and how Anthropic could spark an AWS AI resurgence (SemiAnalysis)",
-            "link": "http://www.techmeme.com/250907/p8#a250907p8",
-            "published": "Sun, 07 Sep 2025 04:15:03 -0400"
-        },
-        {
-            "title": "A profile of Mercor, a Scale AI rival valued at $2B in February, which hires domain experts to train models; it had a $100M run rate in March and $6M H1 profit (Richard Nieva/Forbes)",
-            "link": "http://www.techmeme.com/250907/p7#a250907p7",
-            "published": "Sun, 07 Sep 2025 02:10:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "The Spectacular Comeback Tour of Ross Ulbricht, the Founder of Silk Road",
             "link": "https://www.nytimes.com/2025/09/07/technology/ross-ulbricht-silk-road-comeback.html",
-            "published": "Sun, 07 Sep 2025 09:00:54 +0000"
+            "published": "Sun, 07 Sep 2025 15:48:34 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Microsoft cloud services disrupted by Red Sea cable cuts",
+            "link": "https://www.bbc.com/news/articles/c3rvx470yg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 07 Sep 2025 15:20:43 GMT"
+        },
         {
             "title": "Google fined \u20ac2.95bn by EU for abusing advertising dominance",
             "link": "https://www.bbc.com/news/articles/c1wgn3lre14o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "World's largest sports piracy site shut down by police",
             "link": "https://www.bbc.com/news/articles/c62q4l0d171o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 04 Sep 2025 10:33:38 GMT"
-        },
-        {
-            "title": "Creator of Charli XCX Apple dance settles Roblox lawsuit",
-            "link": "https://www.bbc.com/news/articles/cdxqljv7nvdo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Sep 2025 10:41:33 GMT"
         }
     ]
 }
