@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Aikido Security says attackers injected malware into 18 popular npm packages, including the debug package, with over 2.6B total weekly downloads (Sergiu Gatlan/BleepingComputer)",
+            "link": "http://www.techmeme.com/250908/p28#a250908p28",
+            "published": "Mon, 08 Sep 2025 13:10:02 -0400"
+        },
+        {
+            "title": "A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment (Farah Stockman/New York Times)",
+            "link": "http://www.techmeme.com/250908/p27#a250908p27",
+            "published": "Mon, 08 Sep 2025 12:45:04 -0400"
+        },
+        {
+            "title": "Attaullah Baig, ex-head of security at WhatsApp, sues Meta for allegedly ignoring critical security flaws, claims Meta staffers could access sensitive user data (Cecilia Kang/New York Times)",
+            "link": "http://www.techmeme.com/250908/p26#a250908p26",
+            "published": "Mon, 08 Sep 2025 12:40:00 -0400"
+        },
+        {
             "title": "Anthropic becomes the first major AI company to back SB 53, a California bill that requires large AI companies to disclose safety testing protocols (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250908/p25#a250908p25",
             "published": "Mon, 08 Sep 2025 12:10:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Motion, which sells an integrated suite of AI agents for SMB, raised a $38M Series C led by Scale Venture Partners, bringing its total funding to $75M (Julie Bort/TechCrunch)",
             "link": "http://www.techmeme.com/250908/p24#a250908p24",
             "published": "Mon, 08 Sep 2025 11:30:01 -0400"
-        },
-        {
-            "title": "Cognition raised $400M led by Founders Fund at a $10.2B valuation, up from $4B in March; its coding tool Devin's ARR grew from $1M in Sept. 2024 to $73M by June (Bloomberg)",
-            "link": "http://www.techmeme.com/250908/p23#a250908p23",
-            "published": "Mon, 08 Sep 2025 11:18:55 -0400"
-        },
-        {
-            "title": "YouTube says its first exclusive NFL broadcast on September 5 averaged more than 17.3M global viewers, including 1.1M average minute audiences outside of the US (Jennifer Maas/Variety)",
-            "link": "http://www.techmeme.com/250908/p22#a250908p22",
-            "published": "Mon, 08 Sep 2025 10:50:01 -0400"
-        },
-        {
-            "title": "AI audio startup ElevenLabs launches a tender offer to let staff sell up to $100M in stock at a $6.6B valuation, up from a $3.3B valuation in January 2025 (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/250908/p21#a250908p21",
-            "published": "Mon, 08 Sep 2025 10:20:00 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Whistle-Blower Sues Meta Over Claims of WhatsApp Security Flaws",
             "link": "https://www.nytimes.com/2025/09/08/technology/whatsapp-whistleblower-lawsuit.html",
-            "published": "Mon, 08 Sep 2025 16:12:56 +0000"
+            "published": "Mon, 08 Sep 2025 16:12:57 +0000"
         },
         {
             "title": "Tech Companies Show Off for Trump\u2019s \u2018Golden Dome\u2019",
