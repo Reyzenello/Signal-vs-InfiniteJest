@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The Nepalese government lifts its social media ban after local media reported 19+ deaths in clashes over anti-government demonstrations sparked by the ban (Gopal Sharma/Reuters)",
+            "link": "http://www.techmeme.com/250908/p44#a250908p44",
+            "published": "Mon, 08 Sep 2025 22:35:01 -0400"
+        },
+        {
+            "title": "Evan Spiegel says Snap is restructuring around small \"squads\" of 10 to 15 people to compete better; Snapchat+ now brings in $700M+ in ARR from 15M+ paying users (Connie Loizos/TechCrunch)",
+            "link": "http://www.techmeme.com/250908/p43#a250908p43",
+            "published": "Mon, 08 Sep 2025 22:15:01 -0400"
+        },
+        {
             "title": "Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort (Berber Jin/Wall Street Journal)",
             "link": "http://www.techmeme.com/250908/p42#a250908p42",
             "published": "Mon, 08 Sep 2025 21:20:00 -0400"
@@ -14,16 +24,6 @@
             "title": "A judge postpones Anthropic's $1.5B copyright settlement over concerns that class lawyers are striking a deal behind the scenes that will be forced on authors (Annelise Levy/Bloomberg Law)",
             "link": "http://www.techmeme.com/250908/p40#a250908p40",
             "published": "Mon, 08 Sep 2025 19:04:17 -0400"
-        },
-        {
-            "title": "Google announces Veo updates: support for vertical video and 1080p, lower pricing, and general availability of Veo 3 and Veo 3 Fast in the Gemini API (Google Developers Blog)",
-            "link": "http://www.techmeme.com/250908/p39#a250908p39",
-            "published": "Mon, 08 Sep 2025 18:25:00 -0400"
-        },
-        {
-            "title": "SEC filing: Microsoft strikes a deal worth up to $19.4B through 2031 to get AI cloud computing power from Nebius Group; NBIS jumps 50%+ after hours (Bloomberg)",
-            "link": "http://www.techmeme.com/250908/p38#a250908p38",
-            "published": "Mon, 08 Sep 2025 17:45:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Mon, 08 Sep 2025 23:11:46 GMT"
         },
         {
+            "title": "Nepal lifts social media ban after 19 killed in protests",
+            "link": "https://www.bbc.com/news/articles/cp98n1eg443o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 09 Sep 2025 01:51:11 GMT"
+        },
+        {
             "title": "Microsoft cloud services disrupted by Red Sea cable cuts",
             "link": "https://www.bbc.com/news/articles/c3rvx470yg8o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 07 Sep 2025 15:20:43 GMT"
@@ -73,11 +78,6 @@
             "title": "Gamers frustrated as Hollow Knight: Silksong crashes stores on launch",
             "link": "https://www.bbc.com/news/articles/ckgejpxzepko?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 05 Sep 2025 03:27:29 GMT"
-        },
-        {
-            "title": "Head of UK's Turing AI Institute resigns after funding threat",
-            "link": "https://www.bbc.com/news/articles/c8rvx85z3z7o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Sep 2025 15:37:13 GMT"
         }
     ]
 }
