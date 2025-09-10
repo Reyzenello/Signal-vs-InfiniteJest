@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A US Treasury Department document says \"digital content creators\", including podcasters, social media influencers, and streamers, are eligible for tax-free tips (Alex Weprin/The Hollywood Reporter)",
+            "link": "http://www.techmeme.com/250910/p34#a250910p34",
+            "published": "Wed, 10 Sep 2025 10:20:02 -0400"
+        },
+        {
+            "title": "Amazon and Netflix partner to let advertisers buy Netflix ad inventory via Amazon's demand-side platform, after Amazon signed a similar deal with Disney in June (Brian Steinberg/Variety)",
+            "link": "http://www.techmeme.com/250910/p33#a250910p33",
+            "published": "Wed, 10 Sep 2025 10:10:05 -0400"
+        },
+        {
+            "title": "Israeli chip monitoring startup ProteanTecs raised a $51M Series D led by IAG, with participation from Arm, Samsung, and more, taking its total funding to $250M (Meir Orbach/CTech)",
+            "link": "http://www.techmeme.com/250910/p32#a250910p32",
+            "published": "Wed, 10 Sep 2025 10:00:38 -0400"
+        },
+        {
             "title": "Brain Co., co-founded by Jared Kushner, Elad Gil, and others to help enterprises and governments use AI, comes out of stealth with a $30M Series A (Forbes)",
             "link": "http://www.techmeme.com/250910/p31#a250910p31",
             "published": "Wed, 10 Sep 2025 09:30:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Bending Spoons agrees to acquire video platform Vimeo in an all-cash deal valued at ~$1.38B, set to close in Q4; Vimeo will be delisted from exchanges (Lynn Doan/Bloomberg)",
             "link": "http://www.techmeme.com/250910/p30#a250910p30",
             "published": "Wed, 10 Sep 2025 09:19:19 -0400"
-        },
-        {
-            "title": "Sources: Amazon is developing consumer AR glasses codenamed Jayhawk with microphones, speakers, a camera, and color display, set for late 2026 or early 2027 (The Information)",
-            "link": "http://www.techmeme.com/250910/p29#a250910p29",
-            "published": "Wed, 10 Sep 2025 09:15:01 -0400"
-        },
-        {
-            "title": "Reddit, Yahoo, Medium, Quora, People, O'Reilly, wikiHow, Ziff Davis, and others adopt the Really Simple Licensing (RSL) Standard to set terms for AI scraping (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/250910/p28#a250910p28",
-            "published": "Wed, 10 Sep 2025 09:10:01 -0400"
-        },
-        {
-            "title": "Amazon's Zoox launches its robotaxi service in Las Vegas, letting riders hail its toaster-shaped cars between specific destinations in the city's 4.2-mile Strip (Rafe Rosner-Uddin/Financial Times)",
-            "link": "http://www.techmeme.com/250910/p27#a250910p27",
-            "published": "Wed, 10 Sep 2025 09:07:05 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Jaguar Land Rover admits hackers may have taken data",
+            "link": "https://www.bbc.com/news/articles/cp8wk7rdz8yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 10 Sep 2025 13:43:57 GMT"
+        },
+        {
             "title": "Meta covered up potential child harms, whistleblowers claim",
             "link": "https://www.bbc.com/news/articles/c5y8x3md05no?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 10 Sep 2025 02:05:05 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft cloud services disrupted by Red Sea cable cuts",
             "link": "https://www.bbc.com/news/articles/c3rvx470yg8o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 07 Sep 2025 15:20:43 GMT"
-        },
-        {
-            "title": "Google fined \u20ac2.95bn by EU for abusing advertising dominance",
-            "link": "https://www.bbc.com/news/articles/c1wgn3lre14o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 05 Sep 2025 19:42:04 GMT"
         }
     ]
 }
