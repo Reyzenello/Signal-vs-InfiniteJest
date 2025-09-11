@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The FTC orders Google, OpenAI, Meta and Instagram, Snap, xAI, and Character.AI to provide information on how their AI chatbots impact children and teens (Leah Nylen/Bloomberg)",
+            "link": "http://www.techmeme.com/250911/p13#a250911p13",
+            "published": "Thu, 11 Sep 2025 11:35:01 -0400"
+        },
+        {
+            "title": "F5 plans to acquire CalypsoAI, which helps companies secure their generative AI infrastructure, for $180M; CalypsoAI raised $43.2M (Taylor Soper/GeekWire)",
+            "link": "http://www.techmeme.com/250911/p12#a250911p12",
+            "published": "Thu, 11 Sep 2025 11:25:06 -0400"
+        },
+        {
             "title": "Digital banking group NOBA plans to list on Nasdaq Stockholm in Q3 2025, in a deal expected to value the company at around $3.74B (Reuters)",
             "link": "http://www.techmeme.com/250911/p11#a250911p11",
             "published": "Thu, 11 Sep 2025 10:25:14 -0400"
@@ -14,23 +24,13 @@
             "title": "AI companies' bet on prediction token-based LLMs may make them vulnerable to disruption by a novel approach, especially as new models face diminishing returns (Parmy Olson/Bloomberg)",
             "link": "http://www.techmeme.com/250911/p9#a250911p9",
             "published": "Thu, 11 Sep 2025 06:15:02 -0400"
-        },
-        {
-            "title": "How Larry Ellison, briefly the world's richest man, and Oracle CEO Safra Catz capitalized on the AI boom and vaulted Oracle into contention with industry giants (Financial Times)",
-            "link": "http://www.techmeme.com/250911/p8#a250911p8",
-            "published": "Thu, 11 Sep 2025 05:50:00 -0400"
-        },
-        {
-            "title": "Vantage Data Centers raised $1.6B from GIC and the Abu Dhabi Investment Authority to expand in APAC, including the acquisition of a Malaysian data center campus (Bloomberg)",
-            "link": "http://www.techmeme.com/250911/p7#a250911p7",
-            "published": "Thu, 11 Sep 2025 04:55:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Videos of Charlie Kirk\u2019s Shooting Spread Rapidly on Social Media",
             "link": "https://www.nytimes.com/2025/09/10/technology/charlie-kirk-shooting-videos-social-media.html",
-            "published": "Thu, 11 Sep 2025 14:38:54 +0000"
+            "published": "Thu, 11 Sep 2025 16:21:47 +0000"
         },
         {
             "title": "OpenAI Signs $300 Billion Data Center Pact With Tech Giant Oracle",
@@ -48,9 +48,9 @@
             "published": "Tue, 09 Sep 2025 21:58:42 +0000"
         },
         {
-            "title": "Small Businesses Face a New Threat: Pay Up or Be Flooded With Bad Reviews",
-            "link": "https://www.nytimes.com/2025/09/11/technology/fake-reviews-small-businesses.html",
-            "published": "Thu, 11 Sep 2025 14:19:21 +0000"
+            "title": "Their Schools Banned Phones. Out Came the iPods and Cassette Players.",
+            "link": "https://www.nytimes.com/2025/09/11/style/phone-ban-ipod-mp3-school.html",
+            "published": "Thu, 11 Sep 2025 15:56:03 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Children hacking their own schools for 'fun', watchdog warns",
             "link": "https://www.bbc.com/news/articles/c203pedz58go?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 11 Sep 2025 10:59:34 GMT"
+        },
+        {
+            "title": "Ban social media for under-15s, says French report warning of TikTok risks",
+            "link": "https://www.bbc.com/news/articles/crkjep23403o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 11 Sep 2025 15:38:43 GMT"
         },
         {
             "title": "Jaguar Land Rover admits hackers may have taken data",
@@ -73,11 +78,6 @@
             "title": "It's taken three years to recover from China hack, election watchdog says",
             "link": "https://www.bbc.com/news/articles/c80gl8yvj9go?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 08 Sep 2025 23:11:46 GMT"
-        },
-        {
-            "title": "Nepal lifts social media ban after 19 killed in protests",
-            "link": "https://www.bbc.com/news/articles/cp98n1eg443o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 09 Sep 2025 05:21:20 GMT"
         }
     ]
 }
