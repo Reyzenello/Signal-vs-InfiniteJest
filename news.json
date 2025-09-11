@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "In 2030, OpenAI projects $200B in revenue, with R&D spending hitting ~45% of that, or ~$90B; R&D costs of Alphabet and others are currently 10%-20% of revenue (The Information)",
+            "title": "Google plans to shut down Tables, a work-tracking tool and competitor to Airtable, in December and directs users to migrate to Google Sheets or AppSheet (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/250911/p20#a250911p20",
+            "published": "Thu, 11 Sep 2025 16:15:01 -0400"
+        },
+        {
+            "title": "Encyclopedia Britannica and Merriam-Webster sue Perplexity, alleging that it unlawfully scraped their websites and redirected their traffic to its AI summaries (Blake Brittain/Reuters)",
+            "link": "http://www.techmeme.com/250911/p19#a250911p19",
+            "published": "Thu, 11 Sep 2025 15:50:00 -0400"
+        },
+        {
+            "title": "OpenAI projects $200B in revenue in 2030, with R&D spending hitting ~45% of that, or ~$90B; R&D costs of Alphabet and others are currently 10%-20% of revenue (The Information)",
             "link": "http://www.techmeme.com/250911/p18#a250911p18",
             "published": "Thu, 11 Sep 2025 14:55:02 -0400"
         },
@@ -14,23 +24,13 @@
             "title": "The US DOJ sues Uber, with its civil rights division alleging that Uber discriminates against people with physical disabilities in violation of federal law (Natalie Lung/Bloomberg)",
             "link": "http://www.techmeme.com/250911/p16#a250911p16",
             "published": "Thu, 11 Sep 2025 13:50:00 -0400"
-        },
-        {
-            "title": "Figure's shares opened up 44% at $44 in its Nasdaq debut, giving it a $7.62B+ market cap, after the company and some of its backers raised $787.5M in its IPO (Reuters)",
-            "link": "http://www.techmeme.com/250911/p15#a250911p15",
-            "published": "Thu, 11 Sep 2025 13:05:01 -0400"
-        },
-        {
-            "title": "GE Vernova plans to sell its Proficy industrial software unit to PE firm TPG for $600M and reinvest the proceeds in grid software (Reuters)",
-            "link": "http://www.techmeme.com/250911/p14#a250911p14",
-            "published": "Thu, 11 Sep 2025 12:45:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "F.T.C. Starts Inquiry Into A.I. Chatbots and Child Safety",
             "link": "https://www.nytimes.com/2025/09/11/technology/google-meta-chatgpt-ai-chatbots.html",
-            "published": "Thu, 11 Sep 2025 18:34:29 +0000"
+            "published": "Thu, 11 Sep 2025 20:02:42 +0000"
         },
         {
             "title": "Videos of Charlie Kirk\u2019s Shooting Spread Rapidly on Social Media",
@@ -48,9 +48,9 @@
             "published": "Thu, 11 Sep 2025 02:57:31 +0000"
         },
         {
-            "title": "Their Schools Banned Phones. Out Came the iPods and Cassette Players.",
-            "link": "https://www.nytimes.com/2025/09/11/style/phone-ban-ipod-mp3-school.html",
-            "published": "Thu, 11 Sep 2025 15:56:04 +0000"
+            "title": "With Few Facts About Kirk Shooting, Wild Speculation Abounds",
+            "link": "https://www.nytimes.com/2025/09/11/technology/charlie-kirk-falsehoods-speculation-conspiracy.html",
+            "published": "Thu, 11 Sep 2025 20:17:15 +0000"
         }
     ],
     "source_2": [
