@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Apple delays iPhone Air pre-orders in China, likely over eSIM regulatory issues, replacing the original schedule with \"release information to be updated later\" (Coco Feng/South China Morning Post)",
+            "link": "http://www.techmeme.com/250912/p9#a250912p9",
+            "published": "Fri, 12 Sep 2025 07:15:01 -0400"
+        },
+        {
+            "title": "At the Semicon trade show in Taipei, Taiwan promotes diplomatic relations and pitches its tech manufacturing to \"create trusted non-red supply chains\" (Ben Blanchard/Reuters)",
+            "link": "http://www.techmeme.com/250912/p8#a250912p8",
+            "published": "Fri, 12 Sep 2025 06:45:02 -0400"
+        },
+        {
             "title": "The EU ends an antitrust probe against Microsoft with no fine and accepts its concessions, including offering Office without Teams in Europe for seven years (Barbara Moens/Financial Times)",
             "link": "http://www.techmeme.com/250912/p7#a250912p7",
             "published": "Fri, 12 Sep 2025 06:00:44 -0400"
@@ -14,16 +24,6 @@
             "title": "Switzerland proposes regulations forcing service providers to collect user IDs and disable encryption, threatening its status as a haven for privacy tech firms (Suzanne Smalley/The Record)",
             "link": "http://www.techmeme.com/250912/p5#a250912p5",
             "published": "Fri, 12 Sep 2025 02:35:00 -0400"
-        },
-        {
-            "title": "California SB 243, which would mandate safety protocols for AI companion chatbots, has passed the State Assembly and Senate and now heads to Gov. Newsom's desk (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/250912/p4#a250912p4",
-            "published": "Fri, 12 Sep 2025 02:25:01 -0400"
-        },
-        {
-            "title": "Despite hype and optimistic projections, the humanoid robot industry faces hurdles, from battery life and design to limited demand for large-scale deployments (Evan Ackerman/IEEE Spectrum)",
-            "link": "http://www.techmeme.com/250912/p3#a250912p3",
-            "published": "Fri, 12 Sep 2025 01:55:00 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 11 Sep 2025 02:57:31 +0000"
         },
         {
-            "title": "Mentions of \u2018Civil War\u2019 Surge Online After Charlie Kirk Shooting",
-            "link": "https://www.nytimes.com/2025/09/12/technology/charlie-kirk-shooting-civil-war.html",
-            "published": "Fri, 12 Sep 2025 09:03:00 +0000"
+            "title": "Are We Past Peak iPhone? + Eliezer Yudkowsky on A.I. Doom",
+            "link": "https://www.nytimes.com/2025/09/12/podcasts/iphone-eliezer-yudkowsky.html",
+            "published": "Fri, 12 Sep 2025 11:00:03 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AI 'friend' chatbots probed over child protection",
+            "link": "https://www.bbc.com/news/articles/c74933vzx2yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Sep 2025 10:36:53 GMT"
+        },
         {
             "title": "Will the latest iPhone kill off the Sim card?",
             "link": "https://www.bbc.com/news/articles/c4gz30grggqo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Jaguar Land Rover admits hackers may have taken data",
             "link": "https://www.bbc.com/news/articles/cp8wk7rdz8yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 10 Sep 2025 13:43:57 GMT"
-        },
-        {
-            "title": "Meta covered up potential child harms, whistleblowers claim",
-            "link": "https://www.bbc.com/news/articles/c5y8x3md05no?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 10 Sep 2025 02:05:05 GMT"
         }
     ]
 }
