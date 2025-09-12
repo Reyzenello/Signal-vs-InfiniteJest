@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Crypto trading volume at Bitstamp, bought by Robinhood in 2024, grew 21% MoM in August to $14.4B, surpassing Robinhood's crypto volume, which fell 18% to $13.7B (Brayden Lindrea/Cointelegraph)",
+            "link": "http://www.techmeme.com/250912/p11#a250912p11",
+            "published": "Fri, 12 Sep 2025 08:45:00 -0400"
+        },
+        {
+            "title": "SK Hynix announces that it has completed development of HBM4, the next generation of high-bandwidth memory crucial for AI work; stock jumps 7% to a record high (Yoolim Lee/Bloomberg)",
+            "link": "http://www.techmeme.com/250912/p10#a250912p10",
+            "published": "Fri, 12 Sep 2025 08:15:02 -0400"
+        },
+        {
             "title": "Apple delays iPhone Air pre-orders in China, likely over eSIM regulatory issues, replacing the original schedule with \"release information to be updated later\" (Coco Feng/South China Morning Post)",
             "link": "http://www.techmeme.com/250912/p9#a250912p9",
             "published": "Fri, 12 Sep 2025 07:15:01 -0400"
@@ -14,43 +24,33 @@
             "title": "The EU ends an antitrust probe against Microsoft with no fine and accepts its concessions, including offering Office without Teams in Europe for seven years (Barbara Moens/Financial Times)",
             "link": "http://www.techmeme.com/250912/p7#a250912p7",
             "published": "Fri, 12 Sep 2025 06:00:44 -0400"
-        },
-        {
-            "title": "Over 100K Nepali citizens gathered on Discord to help nominate an interim leader after protests sparked by a social media ban led to the government's collapse (Pranav Baskar/New York Times)",
-            "link": "http://www.techmeme.com/250912/p6#a250912p6",
-            "published": "Fri, 12 Sep 2025 02:55:01 -0400"
-        },
-        {
-            "title": "Switzerland proposes regulations forcing service providers to collect user IDs and disable encryption, threatening its status as a haven for privacy tech firms (Suzanne Smalley/The Record)",
-            "link": "http://www.techmeme.com/250912/p5#a250912p5",
-            "published": "Fri, 12 Sep 2025 02:35:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "A.I.\u2019s Prophet of Doom Wants to Shut It All Down",
+            "link": "https://www.nytimes.com/2025/09/12/technology/ai-eliezer-yudkowsky-book.html",
+            "published": "Fri, 12 Sep 2025 09:00:56 +0000"
+        },
+        {
+            "title": "Mentions of \u2018Civil War\u2019 Surge Online After Charlie Kirk Shooting",
+            "link": "https://www.nytimes.com/2025/09/12/technology/charlie-kirk-shooting-civil-war.html",
+            "published": "Fri, 12 Sep 2025 09:03:00 +0000"
+        },
+        {
+            "title": "Are We Past Peak iPhone? + Eliezer Yudkowsky on A.I. Doom",
+            "link": "https://www.nytimes.com/2025/09/12/podcasts/iphone-eliezer-yudkowsky.html",
+            "published": "Fri, 12 Sep 2025 11:00:03 +0000"
+        },
         {
             "title": "F.T.C. Starts Inquiry Into A.I. Chatbots and Child Safety",
             "link": "https://www.nytimes.com/2025/09/11/technology/google-meta-chatgpt-ai-chatbots.html",
             "published": "Thu, 11 Sep 2025 20:02:42 +0000"
         },
         {
-            "title": "Videos of Charlie Kirk\u2019s Shooting Spread Rapidly on Social Media",
-            "link": "https://www.nytimes.com/2025/09/10/technology/charlie-kirk-shooting-videos-social-media.html",
-            "published": "Thu, 11 Sep 2025 16:21:48 +0000"
-        },
-        {
-            "title": "OpenAI Signs $300 Billion Data Center Pact With Tech Giant Oracle",
-            "link": "https://www.nytimes.com/2025/09/10/technology/openai-oracle-data-centers-deal.html",
-            "published": "Wed, 10 Sep 2025 20:31:27 +0000"
-        },
-        {
-            "title": "Senators Demand Answers From Mark Zuckerberg on WhatsApp Security",
-            "link": "https://www.nytimes.com/2025/09/10/technology/whatsapp-senators-letter-meta.html",
-            "published": "Thu, 11 Sep 2025 02:57:31 +0000"
-        },
-        {
-            "title": "Are We Past Peak iPhone? + Eliezer Yudkowsky on A.I. Doom",
-            "link": "https://www.nytimes.com/2025/09/12/podcasts/iphone-eliezer-yudkowsky.html",
-            "published": "Fri, 12 Sep 2025 11:00:03 +0000"
+            "title": "OpenAI Takes Big Steps Toward Its Long-Planned Reorganization",
+            "link": "https://www.nytimes.com/2025/09/11/technology/openai-microsoft-deal.html",
+            "published": "Thu, 11 Sep 2025 23:06:53 +0000"
         }
     ],
     "source_2": [
