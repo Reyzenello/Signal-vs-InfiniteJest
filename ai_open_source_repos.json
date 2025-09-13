@@ -6,12 +6,6 @@
         "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source."
     },
     {
-        "name": "YC-Killer",
-        "full_name": "sahibzada-allahyar/YC-Killer",
-        "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
-        "description": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you are excited about democratizing AI access & AI agents, please star this repository. Once you \u2b50\ufe0f star the GitHub repo, we'll review your application."
-    },
-    {
         "name": "wppconnect",
         "full_name": "wppconnect-team/wppconnect",
         "html_url": "https://github.com/wppconnect-team/wppconnect",
@@ -58,5 +52,11 @@
         "full_name": "ponlponl123/-Prototype-AIVTuber",
         "html_url": "https://github.com/ponlponl123/-Prototype-AIVTuber",
         "description": "a open-source Artificial Intelligence Virtual Youtuber (AI VTuber), (this project is deprecated)"
+    },
+    {
+        "name": "shoggoth",
+        "full_name": "shog-ai/shoggoth",
+        "html_url": "https://github.com/shog-ai/shoggoth",
+        "description": "Shoggoth is a peer-to-peer network for publishing and distributing open-source Artificial Intelligence"
     }
 ]
