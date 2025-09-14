@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "i.AI, a UK government unit offering a median salary of \u00a367K to develop tools to improve civil service efficiency, is struggling to attract top talent (Ramsay Hodgson/Financial Times)",
+            "link": "http://www.techmeme.com/250914/p8#a250914p8",
+            "published": "Sun, 14 Sep 2025 08:15:45 -0400"
+        },
+        {
             "title": "Q&A with Bret Taylor, CEO of Sierra and chairman of OpenAI, on Sierra's AI customer support agents, AGI, Sam Altman's comments on the AI bubble, and more (Alex Heath/The Verge)",
             "link": "http://www.techmeme.com/250914/p7#a250914p7",
             "published": "Sun, 14 Sep 2025 06:10:00 -0400"
@@ -19,11 +24,6 @@
             "title": "Nearly all funding for AI safety research comes from Silicon Valley companies racing to develop AI, as the voices of AI \"doomers\" fade in prominence (Peter Guest/Bloomberg)",
             "link": "http://www.techmeme.com/250914/p4#a250914p4",
             "published": "Sun, 14 Sep 2025 01:55:01 -0400"
-        },
-        {
-            "title": "Google releases VaultGemma, a 1B-parameter model it says is the largest open LLM trained from scratch with differential privacy, on Hugging Face and Kaggle (Google Research)",
-            "link": "http://www.techmeme.com/250914/p3#a250914p3",
-            "published": "Sun, 14 Sep 2025 01:50:02 -0400"
         }
     ],
     "source_1": [
