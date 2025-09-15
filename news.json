@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "macOS 26 Tahoe review: Liquid Glass has small regressions in usability and accessibility but the upgrade has enough iterative changes like automated Shortcuts (Andrew Cunningham/Ars Technica)",
+            "link": "http://www.techmeme.com/250915/p29#a250915p29",
+            "published": "Mon, 15 Sep 2025 14:15:01 -0400"
+        },
+        {
+            "title": "iOS 26 review: Liquid Glass is aesthetically pleasing, many quality-of-life upgrades, call screening is a true game changer, but the Games app feels unfinished (Zachary McAuliffe/CNET)",
+            "link": "http://www.techmeme.com/250915/p28#a250915p28",
+            "published": "Mon, 15 Sep 2025 13:50:01 -0400"
+        },
+        {
+            "title": "Apple launches iOS 26, iPadOS 26, macOS 26 Tahoe, watchOS 26, visionOS 26, and tvOS 26, featuring Liquid Glass design, new Apple Intelligence features, and more (Jos\u00e9 Adorno/BGR)",
+            "link": "http://www.techmeme.com/250915/p27#a250915p27",
+            "published": "Mon, 15 Sep 2025 13:35:05 -0400"
+        },
+        {
             "title": "OpenAI debuts GPT\u20115-Codex, a version of GPT\u20115 optimized for agentic coding in Codex and says it spends its \"thinking\" time more dynamically than previous models (Maxwell Zeff/TechCrunch)",
             "link": "http://www.techmeme.com/250915/p26#a250915p26",
             "published": "Mon, 15 Sep 2025 13:15:00 -0400"
@@ -9,38 +24,23 @@
             "title": "A look at emerging faith tech apps like Hallow that use AI chatbots for digital chaplaincy, amid concerns over data privacy and their quality of faith guidance (Lauren Jackson/New York Times)",
             "link": "http://www.techmeme.com/250915/p25#a250915p25",
             "published": "Mon, 15 Sep 2025 12:55:01 -0400"
-        },
-        {
-            "title": "A detailed look at iOS and iPadOS 26 with Liquid Glass, which brings a cohesive UI story across Apple's platforms (Federico Viticci/MacStories)",
-            "link": "http://www.techmeme.com/250915/p24#a250915p24",
-            "published": "Mon, 15 Sep 2025 12:50:00 -0400"
-        },
-        {
-            "title": "How UAE's $2B investment in Trump family's WLF is linked to the deal allowing the UAE's G42 to access AI chips, in which David Sacks played a key role (New York Times)",
-            "link": "http://www.techmeme.com/250915/p23#a250915p23",
-            "published": "Mon, 15 Sep 2025 12:10:01 -0400"
-        },
-        {
-            "title": "Snap announces Snap OS 2.0 for its Spectacles glasses, updating first-party apps and adding new features like Travel Mode and support for WebXR (David Heaney/UploadVR)",
-            "link": "http://www.techmeme.com/250915/p22#a250915p22",
-            "published": "Mon, 15 Sep 2025 11:30:00 -0400"
         }
     ],
     "source_1": [
         {
             "title": "In Giant Deals, U.A.E. Got Chips, and Trump Team Got Crypto Riches",
             "link": "https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html",
-            "published": "Mon, 15 Sep 2025 16:39:57 +0000"
+            "published": "Mon, 15 Sep 2025 17:23:43 +0000"
         },
         {
             "title": "U.S.-China Deal to Avert TikTok Ban May be Close, Trump Official Says",
             "link": "https://www.nytimes.com/2025/09/15/technology/tiktok-ban-us-china-deal.html",
-            "published": "Mon, 15 Sep 2025 14:16:39 +0000"
+            "published": "Mon, 15 Sep 2025 18:19:31 +0000"
         },
         {
             "title": "Nvidia Broke Antitrust Law, China Says, as Tensions With U.S. Mount",
-            "link": "https://www.nytimes.com/2025/09/15/business/nvidia-china-antitrust.html",
-            "published": "Mon, 15 Sep 2025 13:08:17 +0000"
+            "link": "https://www.nytimes.com/2025/09/15/technology/nvidia-china-antitrust.html",
+            "published": "Mon, 15 Sep 2025 17:51:04 +0000"
         },
         {
             "title": "Elon Musk Buys $1 Billion in Tesla Stock as Board Defends His Pay",
