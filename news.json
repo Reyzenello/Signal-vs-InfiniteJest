@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "How UAE's $2B investment in Trump family's WLF is linked to the deal allowing the UAE's G42 to access AI chips, in which David Sacks played a key role (New York Times)",
+            "link": "http://www.techmeme.com/250915/p23#a250915p23",
+            "published": "Mon, 15 Sep 2025 12:10:01 -0400"
+        },
+        {
+            "title": "Snap announces Snap OS 2.0 for its Spectacles glasses, updating first-party apps and adding new features like Travel Mode and support for WebXR (David Heaney/UploadVR)",
+            "link": "http://www.techmeme.com/250915/p22#a250915p22",
+            "published": "Mon, 15 Sep 2025 11:30:00 -0400"
+        },
+        {
             "title": "Tel Aviv-based Remedio, which uses AI to detect risky misconfigurations on corporate networks, raised $65M led by Bessemer, a source says at a $300M valuation (Thomas Brewster/Forbes)",
             "link": "http://www.techmeme.com/250915/p21#a250915p21",
             "published": "Mon, 15 Sep 2025 11:00:33 -0400"
@@ -14,23 +24,18 @@
             "title": "Sources: OpenAI is recruiting AI researchers to work on humanoid robots and is training AI algorithms that are better able to make sense of the physical world (Will Knight/Wired)",
             "link": "http://www.techmeme.com/250915/p19#a250915p19",
             "published": "Mon, 15 Sep 2025 10:45:00 -0400"
-        },
-        {
-            "title": "LA-based MarqVision, which uses AI to monitor marketplaces for counterfeits, raised a $48M Series B led by Peak XV Partners, bringing its total funding to ~$90M (Kate Park/TechCrunch)",
-            "link": "http://www.techmeme.com/250915/p18#a250915p18",
-            "published": "Mon, 15 Sep 2025 10:35:01 -0400"
-        },
-        {
-            "title": "Alphabet becomes the fourth company to reach a $3T market cap, joining Nvidia, Microsoft, and Apple, after its stock jumped 4%+ on Monday (Jennifer Elias/CNBC)",
-            "link": "http://www.techmeme.com/250915/p17#a250915p17",
-            "published": "Mon, 15 Sep 2025 10:25:00 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "In Giant Deals, U.A.E. Got Chips, and Trump Team Got Crypto Riches",
+            "link": "https://www.nytimes.com/2025/09/15/us/politics/trump-uae-chips-witkoff-world-liberty.html",
+            "published": "Mon, 15 Sep 2025 16:18:17 +0000"
+        },
+        {
             "title": "U.S.-China Deal to Avert TikTok Ban May be Close, Trump Official Says",
-            "link": "https://www.nytimes.com/2025/09/15/us/politics/tiktok-ban-us-china-deal.html",
-            "published": "Mon, 15 Sep 2025 14:16:38 +0000"
+            "link": "https://www.nytimes.com/2025/09/15/technology/tiktok-ban-us-china-deal.html",
+            "published": "Mon, 15 Sep 2025 14:16:39 +0000"
         },
         {
             "title": "Nvidia Broke Antitrust Law, China Says, as Tensions With U.S. Mount",
@@ -40,29 +45,29 @@
         {
             "title": "Elon Musk Buys $1 Billion in Tesla Stock as Board Defends His Pay",
             "link": "https://www.nytimes.com/2025/09/15/business/elon-musk-buys-tesla-shares.html",
-            "published": "Mon, 15 Sep 2025 13:41:52 +0000"
+            "published": "Mon, 15 Sep 2025 15:48:34 +0000"
         },
         {
             "title": "Lina Khan Revamped Antitrust. Now She\u2019s Pushing the Democratic Party.",
             "link": "https://www.nytimes.com/2025/09/14/technology/lina-khan-democratic-party.html",
             "published": "Sun, 14 Sep 2025 09:00:34 +0000"
-        },
-        {
-            "title": "Used E.V. Sales Take Off as Prices Plummet",
-            "link": "https://www.nytimes.com/2025/09/13/business/used-electric-vehciles.html",
-            "published": "Sat, 13 Sep 2025 09:00:59 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "US says 'framework' for TikTok ownership deal agreed with China",
-            "link": "https://www.bbc.com/news/articles/c5yj5xj78p5o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 15 Sep 2025 13:37:44 GMT"
-        },
-        {
             "title": "Gucci, Balenciaga and Alexander McQueen private data ransomed by hackers",
             "link": "https://www.bbc.com/news/articles/crl5j8ld615o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 15 Sep 2025 14:07:37 GMT"
+        },
+        {
+            "title": "Musk buys $1bn worth of Tesla shares",
+            "link": "https://www.bbc.com/news/articles/cp982z3xrz7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 15 Sep 2025 14:53:37 GMT"
+        },
+        {
+            "title": "US says 'framework' for TikTok ownership deal agreed with China",
+            "link": "https://www.bbc.com/news/articles/c5yj5xj78p5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 15 Sep 2025 16:05:29 GMT"
         },
         {
             "title": "AI 'friend' chatbots probed over child protection",
@@ -73,11 +78,6 @@
             "title": "Will the latest iPhone kill off the Sim card?",
             "link": "https://www.bbc.com/news/articles/c4gz30grggqo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 12 Sep 2025 04:27:58 GMT"
-        },
-        {
-            "title": "Children hacking their own schools for 'fun', watchdog warns",
-            "link": "https://www.bbc.com/news/articles/c203pedz58go?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 11 Sep 2025 10:59:34 GMT"
         }
     ]
 }
