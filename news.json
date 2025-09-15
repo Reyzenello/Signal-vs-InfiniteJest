@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A deep dive into the architecture of Nvidia's Rubin CPX chip, which is optimized for long-context AI tasks and the prefill phase of inference (SemiAnalysis)",
+            "link": "http://www.techmeme.com/250914/p17#a250914p17",
+            "published": "Sun, 14 Sep 2025 23:45:00 -0400"
+        },
+        {
             "title": "The AI revolution has more in common with shipping containerization than the boom unleashed by the microprocessor: diffuse global benefits but few new fortunes (Jerry Neumann/Colossus)",
             "link": "http://www.techmeme.com/250914/p16#a250914p16",
             "published": "Sun, 14 Sep 2025 22:00:01 -0400"
@@ -19,11 +24,6 @@
             "title": "An interview with Goldman Sachs partner Kerry Blum on how the company's ~46,000 employees are using GenAI-powered GS AI Assistant and the risks of over-reliance (Joshua Franklin/Financial Times)",
             "link": "http://www.techmeme.com/250914/p13#a250914p13",
             "published": "Sun, 14 Sep 2025 18:15:01 -0400"
-        },
-        {
-            "title": "How Coinbase is navigating the easing regulatory environment, increasing acceptance of crypto in the financial system, and intensifying competition (Nikou Asgari/Financial Times)",
-            "link": "http://www.techmeme.com/250914/p12#a250914p12",
-            "published": "Sun, 14 Sep 2025 16:10:01 -0400"
         }
     ],
     "source_1": [
