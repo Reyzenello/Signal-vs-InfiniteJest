@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An Anthropic report details how Claude usage varies by country and US states, finding 36% use it for coding, 77% of enterprise use is for automation, and more (Anthropic)",
+            "link": "http://www.techmeme.com/250915/p4#a250915p4",
+            "published": "Mon, 15 Sep 2025 06:10:05 -0400"
+        },
+        {
             "title": "OpenAI releases the first detailed public study on how people use ChatGPT: 73% of chats were non-work related, practical guidance was the top use case, and more (Gerrit De Vynck/Washington Post)",
             "link": "http://www.techmeme.com/250915/p3#a250915p3",
             "published": "Mon, 15 Sep 2025 04:45:06 -0400"
@@ -19,11 +24,6 @@
             "title": "A deep dive into the architecture of Nvidia's Rubin CPX chip, which is optimized for long-context AI tasks and the prefill phase of inference (SemiAnalysis)",
             "link": "http://www.techmeme.com/250914/p17#a250914p17",
             "published": "Sun, 14 Sep 2025 23:45:00 -0400"
-        },
-        {
-            "title": "The AI revolution has more in common with shipping containerization than the boom unleashed by the microprocessor: diffuse global benefits but few new fortunes (Jerry Neumann/Colossus)",
-            "link": "http://www.techmeme.com/250914/p16#a250914p16",
-            "published": "Sun, 14 Sep 2025 22:00:01 -0400"
         }
     ],
     "source_1": [
