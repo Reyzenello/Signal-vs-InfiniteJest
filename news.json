@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Humanoid robot startup Figure raised a $1B+ Series C led by Parkway Venture Capital at a post-money valuation of $39B, up from $2.6B in February 2024 (Jackie Davalos/Bloomberg)",
+            "link": "http://www.techmeme.com/250916/p23#a250916p23",
+            "published": "Tue, 16 Sep 2025 10:25:01 -0400"
+        },
+        {
+            "title": "HR software provider Workday agrees to acquire Sana, an AI startup specializing in workplace tools, for $1.1B; the transaction is set to close in Workday's Q4 (Nicholas G. Miller/Wall Street Journal)",
+            "link": "http://www.techmeme.com/250916/p22#a250916p22",
+            "published": "Tue, 16 Sep 2025 10:20:01 -0400"
+        },
+        {
+            "title": "Israel-based Vega, which offers an AI-based security analytics platform, raised $65M in seed and Series A led by Accel at a $400M valuation (Meytal Vaizberg/Globes)",
+            "link": "http://www.techmeme.com/250916/p21#a250916p21",
+            "published": "Tue, 16 Sep 2025 10:10:01 -0400"
+        },
+        {
+            "title": "Google launches the Agent Payments Protocol, or AP2, designed to securely facilitate agent-led payments across platforms, with the support of over 60 companies (Sabrina Ortiz/ZDNET)",
+            "link": "http://www.techmeme.com/250916/p20#a250916p20",
+            "published": "Tue, 16 Sep 2025 09:55:00 -0400"
+        },
+        {
             "title": "OpenAI says it is developing a \"different ChatGPT experience\" for teens and plans to use age-prediction tech to bar kids under 18 from the standard version (Megan Morrone/Axios)",
             "link": "http://www.techmeme.com/250916/p19#a250916p19",
             "published": "Tue, 16 Sep 2025 09:30:02 -0400"
-        },
-        {
-            "title": "Sources: Oracle is among a consortium of companies that would enable TikTok to continue US operations if a framework deal between the US and China is finalized (Jennifer Jacobs/CBS News)",
-            "link": "http://www.techmeme.com/250916/p18#a250916p18",
-            "published": "Tue, 16 Sep 2025 09:25:02 -0400"
-        },
-        {
-            "title": "Tech executives say the Trump administration's stake in Intel and its intervention into other private businesses have had a chilling effect on decision-making (Yasmin Khorram/Politico)",
-            "link": "http://www.techmeme.com/250916/p17#a250916p17",
-            "published": "Tue, 16 Sep 2025 09:20:12 -0400"
-        },
-        {
-            "title": "Filing: cloud cybersecurity software startup Netskope raised its IPO price range to $17-$19 per share, up from $15-$17, aiming to raise $908.2M, up from $812.6M (Bailey Lipschultz/Bloomberg)",
-            "link": "http://www.techmeme.com/250916/p16#a250916p16",
-            "published": "Tue, 16 Sep 2025 09:01:03 -0400"
-        },
-        {
-            "title": "Apple Watch Series 11 review: 5G, better battery, and intuitive Sleep Score, but the most exciting updates are coming to older watches through watchOS 26 (Victoria Song/The Verge)",
-            "link": "http://www.techmeme.com/250916/p15#a250916p15",
-            "published": "Tue, 16 Sep 2025 08:40:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Deal is done to keep TikTok in the USA says Trump",
+            "link": "https://www.bbc.com/news/articles/c7847q9xvwgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 16 Sep 2025 14:12:26 GMT"
+        },
+        {
             "title": "Google owner reveals \u00a35bn AI investment in UK ahead of Trump visit",
             "link": "https://www.bbc.com/news/articles/crmek723dz9o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 16 Sep 2025 09:44:20 GMT"
@@ -73,11 +78,6 @@
             "title": "US says 'framework' for TikTok ownership deal agreed with China",
             "link": "https://www.bbc.com/news/articles/c5yj5xj78p5o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 16 Sep 2025 04:20:10 GMT"
-        },
-        {
-            "title": "AI 'friend' chatbots probed over child protection",
-            "link": "https://www.bbc.com/news/articles/c74933vzx2yo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 12 Sep 2025 10:36:53 GMT"
         }
     ]
 }
