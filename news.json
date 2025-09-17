@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Macroscope, founded by Kayvon Beykpour to let developers find bugs and help product managers track engineering work, raised $40M from GV, Lightspeed, and others (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/250917/p32#a250917p32",
+            "published": "Wed, 17 Sep 2025 12:20:44 -0400"
+        },
+        {
+            "title": "Sources: Reddit is in early talks with Google to deepen integration of its content into Google's AI products, beyond its $60M data-sharing deal signed in 2024 (Bloomberg)",
+            "link": "http://www.techmeme.com/250917/p31#a250917p31",
+            "published": "Wed, 17 Sep 2025 12:15:00 -0400"
+        },
+        {
+            "title": "Irregular, which helps AI labs test their models' for misuse, raised $80M across seed and Series A rounds led by Sequoia and Redpoint at a $450M valuation (Thomas Brewster/Forbes)",
+            "link": "http://www.techmeme.com/250917/p30#a250917p30",
+            "published": "Wed, 17 Sep 2025 11:55:00 -0400"
+        },
+        {
             "title": "How xAI is building Colossus 2, which is on track to be the world's first gigawatt-scale AI datacenter after reaching 200MW in six months (Jeremie Eliahou Ontiveros/SemiAnalysis)",
             "link": "http://www.techmeme.com/250917/p29#a250917p29",
             "published": "Wed, 17 Sep 2025 11:25:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Israel-based Irregular, which works with leading AI labs like OpenAI to mitigate cybersecurity risks, raised $80M led by Sequoia Capital and Redpoint Ventures (Globes)",
             "link": "http://www.techmeme.com/250917/p28#a250917p28",
             "published": "Wed, 17 Sep 2025 10:45:01 -0400"
-        },
-        {
-            "title": "The NYDFS grants Bullish a BitLicense, allowing its US entity to offer spot trading and custody services in the state (CoinDesk)",
-            "link": "http://www.techmeme.com/250917/p27#a250917p27",
-            "published": "Wed, 17 Sep 2025 10:35:30 -0400"
-        },
-        {
-            "title": "Amazon says it's investing $1B+ to raise pay for US fulfillment and transportation staff, increasing the average total compensation to $30+/hour with benefits (Reuters)",
-            "link": "http://www.techmeme.com/250917/p26#a250917p26",
-            "published": "Wed, 17 Sep 2025 10:25:00 -0400"
-        },
-        {
-            "title": "Lyft partners with Waymo to launch robotaxis in Nashville starting in 2026, their first collaboration; Waymo started Nashville tests in March; LYFT jumps 10%+ (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/250917/p25#a250917p25",
-            "published": "Wed, 17 Sep 2025 09:35:13 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Nvidia boss says UK will be 'AI superpower' as tech firms invest billions",
             "link": "https://www.bbc.com/news/articles/c7016ljre03o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 17 Sep 2025 15:10:33 GMT"
+            "published": "Wed, 17 Sep 2025 16:00:11 GMT"
         },
         {
             "title": "Flying cars crash into each other at Chinese air show",
