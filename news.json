@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "In a peer-reviewed Nature article, DeepSeek says it has spent $294,000 on training its R1 model and used 512 Nvidia H800 chips (Eduardo Baptista/Reuters)",
+            "link": "http://www.techmeme.com/250918/p19#a250918p19",
+            "published": "Thu, 18 Sep 2025 09:10:01 -0400"
+        },
+        {
+            "title": "Nothing launches Ear 3, with a Super Mic system activated by a Talk button on the case, available on September 25 for $179 (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/250918/p18#a250918p18",
+            "published": "Thu, 18 Sep 2025 08:55:00 -0400"
+        },
+        {
             "title": "A look at Live Translation on AirPods Pro, one of the strongest examples yet of how AI can be used in a seamless, practical way to improve people's lives (Brian X. Chen/New York Times)",
             "link": "http://www.techmeme.com/250918/p17#a250918p17",
             "published": "Thu, 18 Sep 2025 08:45:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Niamh Sweeney, Facebook's former head of public policy in Ireland, is appointed as Ireland's new Data Protection Commissioner, starting October 13 (Peter Flanagan/The Irish Times)",
             "link": "http://www.techmeme.com/250918/p15#a250918p15",
             "published": "Thu, 18 Sep 2025 07:25:04 -0400"
-        },
-        {
-            "title": "Nvidia and Intel partner to develop multiple generations of x86 products; Nvidia will buy $5B of Intel's stock at $23.28 per share, a ~5% stake; INTC jumps 25%+ (Paul Alcorn/Tom's Hardware)",
-            "link": "http://www.techmeme.com/250918/p14#a250918p14",
-            "published": "Thu, 18 Sep 2025 07:10:03 -0400"
-        },
-        {
-            "title": "Sources: Meta has held talks with Fox Corp. and others about licensing their articles for use in its AI tools, after previously reducing its focus on news (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250918/p13#a250918p13",
-            "published": "Thu, 18 Sep 2025 06:40:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Two teenagers charged over Transport for London cyber attack",
+            "link": "https://www.bbc.com/news/articles/c62z8k14kxxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 18 Sep 2025 13:27:51 GMT"
+        },
+        {
             "title": "Facebook owner unveils new AI-powered smart glasses",
             "link": "https://www.bbc.com/news/articles/c5y599yz0l3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 18 Sep 2025 12:25:49 GMT"
@@ -73,11 +78,6 @@
             "title": "Nvidia boss 'disappointed' by reported China chip ban",
             "link": "https://www.bbc.com/news/articles/cqxz29pe1v0o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 17 Sep 2025 11:23:24 GMT"
-        },
-        {
-            "title": "Deal is done to keep TikTok in the US, says Trump",
-            "link": "https://www.bbc.com/news/articles/c7847q9xvwgo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 16 Sep 2025 19:56:54 GMT"
         }
     ]
 }
