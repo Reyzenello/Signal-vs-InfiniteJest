@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Nvidia and Intel announce a partnership to develop multiple generations of x86 products; Nvidia will buy $5B of Intel stock at $23.28 per share; INTC jumps 20%+ (Paul Alcorn/Tom's Hardware)",
+            "title": "A look at Live Translation on AirPods Pro, one of the strongest examples yet of how AI can be used in a seamless, practical way to improve people's lives (Brian X. Chen/New York Times)",
+            "link": "http://www.techmeme.com/250918/p17#a250918p17",
+            "published": "Thu, 18 Sep 2025 08:45:01 -0400"
+        },
+        {
+            "title": "Shein launches Xcelerator, a service granting fashion brands access to its fast-fashion manufacturing network in China (Bloomberg)",
+            "link": "http://www.techmeme.com/250918/p16#a250918p16",
+            "published": "Thu, 18 Sep 2025 07:55:00 -0400"
+        },
+        {
+            "title": "Niamh Sweeney, Facebook's former head of public policy in Ireland, is appointed as Ireland's new Data Protection Commissioner, starting October 13 (Peter Flanagan/The Irish Times)",
+            "link": "http://www.techmeme.com/250918/p15#a250918p15",
+            "published": "Thu, 18 Sep 2025 07:25:04 -0400"
+        },
+        {
+            "title": "Nvidia and Intel partner to develop multiple generations of x86 products; Nvidia will buy $5B of Intel's stock at $23.28 per share, a ~5% stake; INTC jumps 25%+ (Paul Alcorn/Tom's Hardware)",
             "link": "http://www.techmeme.com/250918/p14#a250918p14",
             "published": "Thu, 18 Sep 2025 07:10:03 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "Sources: Meta has held talks with Fox Corp. and others about licensing their articles for use in its AI tools, after previously reducing its focus on news (Wall Street Journal)",
             "link": "http://www.techmeme.com/250918/p13#a250918p13",
             "published": "Thu, 18 Sep 2025 06:40:02 -0400"
-        },
-        {
-            "title": "Deliveroo CEO Will Shu will step down once its takeover by DoorDash takes effect; the deal is expected to close by October 2 (Yadarisa Shabong/Reuters)",
-            "link": "http://www.techmeme.com/250918/p12#a250918p12",
-            "published": "Thu, 18 Sep 2025 06:20:00 -0400"
-        },
-        {
-            "title": "Filing: Insight Partners says a ransomware attack on its systems between October 2024 and January 2025 affected 12,600+ people, including limited partners (Zack Whittaker/TechCrunch)",
-            "link": "http://www.techmeme.com/250918/p11#a250918p11",
-            "published": "Thu, 18 Sep 2025 05:20:01 -0400"
-        },
-        {
-            "title": "Huawei unveils two new SuperPoD products, the Atlas 950 and Atlas 960, the latter linking up to 15,488 Ascend AI chips, as it seeks to challenge Nvidia (Bloomberg)",
-            "link": "http://www.techmeme.com/250918/p10#a250918p10",
-            "published": "Thu, 18 Sep 2025 05:09:41 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Facebook owner unveils new AI-powered smart glasses",
             "link": "https://www.bbc.com/news/articles/c5y599yz0l3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 18 Sep 2025 04:22:02 GMT"
+            "published": "Thu, 18 Sep 2025 12:25:49 GMT"
         },
         {
             "title": "Nvidia boss says UK will be 'AI superpower' as tech firms invest billions",
