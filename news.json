@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Meta CTO says the technical issues during live demos of its new smart glasses were due to a self-inflicted DDoS and a bug that put Zuckerberg's glasses to sleep (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250919/p13#a250919p13",
+            "published": "Fri, 19 Sep 2025 13:20:01 -0400"
+        },
+        {
+            "title": "Neuralink plans a US clinical trial in October to test a brain implant that translates thoughts into text, hoping to put its device in a healthy person by 2030 (Ike Swetlitz/Bloomberg)",
+            "link": "http://www.techmeme.com/250919/p12#a250919p12",
+            "published": "Fri, 19 Sep 2025 13:10:00 -0400"
+        },
+        {
             "title": "Trump claims he and Xi Jinping approved a deal for TikTok's US operations; Chinese media's readout only says that China respects the wishes of businesses (Ben Berkowitz/Axios)",
             "link": "http://www.techmeme.com/250919/p11#a250919p11",
             "published": "Fri, 19 Sep 2025 12:11:22 -0400"
@@ -14,16 +24,6 @@
             "title": "Report: OpenAI has considered building glasses, a digital voice recorder, and a pin, and has signed a deal with Luxshare to assemble at least one of its devices (Marcus Mendes/9to5Mac)",
             "link": "http://www.techmeme.com/250919/p9#a250919p9",
             "published": "Fri, 19 Sep 2025 10:40:01 -0400"
-        },
-        {
-            "title": "Sources: OpenAI plans to spend ~$100B on backup servers rented from cloud providers through 2030, in addition to the $350B already projected for server rentals (Sri Muppidi/The Information)",
-            "link": "http://www.techmeme.com/250919/p8#a250919p8",
-            "published": "Fri, 19 Sep 2025 10:30:00 -0400"
-        },
-        {
-            "title": "Sources: OpenAI is recruiting from Apple's hardware, design, manufacturing, and supply chain teams, as it targets late 2026 or early 2027 for its first devices (The Information)",
-            "link": "http://www.techmeme.com/250919/p7#a250919p7",
-            "published": "Fri, 19 Sep 2025 09:21:59 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 18 Sep 2025 09:04:35 +0000"
         },
         {
-            "title": "Trump Suggests China May Have Approved a TikTok Deal, Without Details",
+            "title": "Trump and China, in Vague Statements, Suggest TikTok Deal Could Move Ahead",
             "link": "https://www.nytimes.com/2025/09/19/business/trump-tiktok-deal-china.html",
-            "published": "Fri, 19 Sep 2025 16:20:54 +0000"
+            "published": "Fri, 19 Sep 2025 16:34:38 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump says Xi approves of TikTok deal as leaders plan South Korea meeting",
+            "link": "https://www.bbc.com/news/articles/c4g7l7yl832o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 19 Sep 2025 15:45:33 GMT"
+        },
         {
             "title": "Trolls mock me for having fewer viewers, Fortnite streamer Ninja tells BBC",
             "link": "https://www.bbc.com/news/articles/cvg98zd9q75o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Chipmaker Nvidia to invest $5bn in rival Intel",
             "link": "https://www.bbc.com/news/articles/c4gjd1mnjpyo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 18 Sep 2025 16:30:58 GMT"
-        },
-        {
-            "title": "Facebook owner unveils new AI-powered smart glasses",
-            "link": "https://www.bbc.com/news/articles/c5y599yz0l3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 18 Sep 2025 12:25:49 GMT"
         }
     ]
 }
