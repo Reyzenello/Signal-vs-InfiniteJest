@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Trump administration's $100,000 H-1B fee threatens India's $280B IT services sector, which heavily relies on H-1B visas to deploy engineers to US client sites (Bloomberg)",
+            "link": "http://www.techmeme.com/250921/p19#a250921p19",
+            "published": "Sun, 21 Sep 2025 14:30:42 -0400"
+        },
+        {
+            "title": "UK-based startup Mantic ranked #8 in the Metaculus forecasting cup that asks entrants to predict 60 geopolitical events, the first time an AI made the top 10 (Nikita Ostrovsky/Time)",
+            "link": "http://www.techmeme.com/250921/p18#a250921p18",
+            "published": "Sun, 21 Sep 2025 14:05:00 -0400"
+        },
+        {
+            "title": "The FTC's 2023 lawsuit against Amazon goes to trial this week, alleging it used misleading tactics to entice people into Prime and made cancellation difficult (Wall Street Journal)",
+            "link": "http://www.techmeme.com/250921/p17#a250921p17",
+            "published": "Sun, 21 Sep 2025 13:40:01 -0400"
+        },
+        {
             "title": "Markup AI, which scans, scores, and rewrites AI-generated content to ensure brand compliance for content marketers, raised a $27.5M Series A (Chris Metinko/Axios)",
             "link": "http://www.techmeme.com/250921/p16#a250921p16",
             "published": "Sun, 21 Sep 2025 13:15:43 -0400"
@@ -9,43 +24,28 @@
             "title": "Kredete, which helps Africans abroad build credit while sending money home, raised a $22M Series A and launches Africa's first stablecoin-backed credit card (John Adoyi/TechCabal)",
             "link": "http://www.techmeme.com/250921/p15#a250921p15",
             "published": "Sun, 21 Sep 2025 12:55:01 -0400"
-        },
-        {
-            "title": "Interviews with Apple's Tim Millet, Arun Mathias, and Kaiann Drance on the new neural accelerators in A19 Pro GPU cores, C1X modem, N1 wireless chip, and more (Katie Tarasov/CNBC)",
-            "link": "http://www.techmeme.com/250921/p14#a250921p14",
-            "published": "Sun, 21 Sep 2025 12:30:46 -0400"
-        },
-        {
-            "title": "Trump says Fox CEO Lachlan Murdoch \"is involved\" in the ownership group for TikTok US and \"Rupert is probably going to be in the group\" along with Michael Dell (Erin Doherty/CNBC)",
-            "link": "http://www.techmeme.com/250921/p13#a250921p13",
-            "published": "Sun, 21 Sep 2025 12:10:01 -0400"
-        },
-        {
-            "title": "Inside the Jaguar Land Rover cyberattack, which forced a shutdown of most systems and is likely to cost the company hundreds of millions of pounds (The Guardian)",
-            "link": "http://www.techmeme.com/250921/p12#a250921p12",
-            "published": "Sun, 21 Sep 2025 11:05:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "White House Outlines a TikTok Deal With a U.S. Board",
+            "link": "https://www.nytimes.com/2025/09/20/technology/white-house-tiktok-deal.html",
+            "published": "Sat, 20 Sep 2025 18:34:40 +0000"
+        },
+        {
+            "title": "Seeing Through the Reality of Meta\u2019s Smart Glasses",
+            "link": "https://www.nytimes.com/2025/09/20/technology/personaltech/meta-smart-glasses-mark-zuckerberg.html",
+            "published": "Sat, 20 Sep 2025 09:02:39 +0000"
+        },
         {
             "title": "\u2018Peak SF\u2019 on a Friday Night Is a Robot Fight",
             "link": "https://www.nytimes.com/2025/09/19/technology/san-francisco-robot-fight.html",
             "published": "Fri, 19 Sep 2025 09:00:47 +0000"
         },
         {
-            "title": "How Outrage at Kimmel Grew to a Shout From a Whisper",
-            "link": "https://www.nytimes.com/2025/09/19/technology/kimmel-carr-outrage-online.html",
-            "published": "Fri, 19 Sep 2025 12:49:15 +0000"
-        },
-        {
-            "title": "Elon Musk Has Focused on xAI Since Leaving Washington",
-            "link": "https://www.nytimes.com/2025/09/18/technology/elon-musk-artificial-intelligence-xai.html",
-            "published": "Fri, 19 Sep 2025 07:11:08 +0000"
-        },
-        {
-            "title": "Apple\u2019s New AirPods Offer Impressive Language Translation",
-            "link": "https://www.nytimes.com/2025/09/18/technology/personaltech/new-airpods-language-translation-feature.html",
-            "published": "Thu, 18 Sep 2025 09:04:35 +0000"
+            "title": "Charlie Kirk and Online Rage + Inside Trump\u2019s Chip Flip + This Week in A.I.",
+            "link": "https://www.nytimes.com/2025/09/19/podcasts/hardfork-charlie-kirk.html",
+            "published": "Sat, 20 Sep 2025 15:58:08 +0000"
         },
         {
             "title": "The H-1B Visa: Why Is Trump Adding a $100,000 Fee?",
