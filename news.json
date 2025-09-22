@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google adds Gemini to Google TV, starting on TCL's new QM9K series TVs and expanding to Google TV Streamer 4K and other major TV brands later in 2025 (Andrew Liszewski/The Verge)",
+            "link": "http://www.techmeme.com/250922/p20#a250922p20",
+            "published": "Mon, 22 Sep 2025 13:00:13 -0400"
+        },
+        {
+            "title": "Jensen Huang says the 10 GW OpenAI project is equivalent to 4M-5M GPUs; the first phase is expected to come online in H2 2026 using Nvidia's Vera Rubin platform (Kif Leswing/CNBC)",
+            "link": "http://www.techmeme.com/250922/p19#a250922p19",
+            "published": "Mon, 22 Sep 2025 12:45:01 -0400"
+        },
+        {
             "title": "Bitcoin-treasury company Strive, co-founded by Vivek Ramaswamy, will acquire Semler Scientific, a medical device company that has a bitcoin treasury, for $1.34B (Ateev Bhandari/Reuters)",
             "link": "http://www.techmeme.com/250922/p18#a250922p18",
             "published": "Mon, 22 Sep 2025 12:30:00 -0400"
@@ -14,16 +24,6 @@
             "title": "MediaTek unveils its 3nm Dimensity 9500 mobile SoC, featuring an 8-core CPU, 12-core GPU with hardware ray tracing, and its ninth-gen MediaTek NPU 990 (Hadlee Simons/Android Authority)",
             "link": "http://www.techmeme.com/250922/p16#a250922p16",
             "published": "Mon, 22 Sep 2025 12:00:13 -0400"
-        },
-        {
-            "title": "Scale AI launches SEAL Showdown, a public AI benchmarking system that relies on votes from contributors in 100+ countries to gauge everyday usability of models (Agnee Ghosh/Bloomberg)",
-            "link": "http://www.techmeme.com/250922/p15#a250922p15",
-            "published": "Mon, 22 Sep 2025 11:30:01 -0400"
-        },
-        {
-            "title": "The RIAA amends its lawsuit against Suno, now accusing it of unlawfully \"stream ripping\" songs on YouTube and violating the DMCA (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/250922/p14#a250922p14",
-            "published": "Mon, 22 Sep 2025 11:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Sat, 20 Sep 2025 15:58:09 +0000"
         },
         {
-            "title": "Amazon Faces Trial on F.T.C. Charges Related to Prime Service",
-            "link": "https://www.nytimes.com/2025/09/22/technology/amazon-ftc-subscription-practices.html",
-            "published": "Mon, 22 Sep 2025 09:03:06 +0000"
+            "title": "Nvidia to Invest $100 Billion in OpenAI",
+            "link": "https://www.nytimes.com/2025/09/22/technology/nvidia-openai-100-billion-investment.html",
+            "published": "Mon, 22 Sep 2025 17:16:52 +0000"
         }
     ],
     "source_2": [
         {
             "title": "TikTok algorithm to be retrained on US user data under Trump deal",
             "link": "https://www.bbc.com/news/articles/c4gj7mlg9vdo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 22 Sep 2025 16:33:26 GMT"
+            "published": "Mon, 22 Sep 2025 16:39:27 GMT"
         },
         {
             "title": "EU cyber agency says airport software held to ransom by criminals",
