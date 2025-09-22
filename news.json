@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Low prices, available land, and cooler weather are driving the data center boom in the Nordics, which have 1.5 GW of capacity live and 7.5 GW in the pipeline (Maggie Shiltagh/Bloomberg)",
+            "link": "http://www.techmeme.com/250922/p3#a250922p3",
+            "published": "Mon, 22 Sep 2025 06:15:02 -0400"
+        },
+        {
             "title": "UK-based Tide, a neobank used by 1.6M micro and small enterprises, half of them in India, raised $120M led by TPG at a $1.5B valuation (Jagmeet Singh/TechCrunch)",
             "link": "http://www.techmeme.com/250922/p2#a250922p2",
             "published": "Mon, 22 Sep 2025 04:55:01 -0400"
@@ -19,11 +24,6 @@
             "title": "How Seattle, transformed into a tech hub by Amazon and Microsoft's explosive growth, is grappling with the companies' layoffs affecting local economy (Wall Street Journal)",
             "link": "http://www.techmeme.com/250921/p27#a250921p27",
             "published": "Sun, 21 Sep 2025 22:30:54 -0400"
-        },
-        {
-            "title": "In an interview, Brian Armstrong says Coinbase plans to become a financial super app that integrates its crypto offering with traditional banking services (CoinDesk)",
-            "link": "http://www.techmeme.com/250921/p26#a250921p26",
-            "published": "Sun, 21 Sep 2025 21:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,19 @@
     ],
     "source_2": [
         {
+            "title": "EU cyber agency says airport software held to ransom by criminals",
+            "link": "https://www.bbc.com/news/articles/cqjeej85452o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 22 Sep 2025 09:58:16 GMT"
+        },
+        {
             "title": "Apple steps up war of words with European regulators",
             "link": "https://www.bbc.com/news/articles/cly930y90lro?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Sep 2025 05:48:49 GMT"
+        },
+        {
+            "title": "Murdochs likely to be involved in US TikTok deal, Trump says",
+            "link": "https://www.bbc.com/news/articles/crkjjv28ykjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 21 Sep 2025 21:35:04 GMT"
         },
         {
             "title": "Trump and Xi discuss future of TikTok in US",
@@ -68,16 +78,6 @@
             "title": "Trolls mock me for having fewer viewers, Fortnite streamer Ninja tells BBC",
             "link": "https://www.bbc.com/news/articles/cvg98zd9q75o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 19 Sep 2025 00:06:52 GMT"
-        },
-        {
-            "title": "China is calling a TikTok deal a win. What's in it for them?",
-            "link": "https://www.bbc.com/news/articles/c9dxq0jz2l9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 18 Sep 2025 22:07:20 GMT"
-        },
-        {
-            "title": "Two teenagers charged over Transport for London cyber attack",
-            "link": "https://www.bbc.com/news/articles/c62z8k14kxxo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 18 Sep 2025 14:32:17 GMT"
         }
     ]
 }
