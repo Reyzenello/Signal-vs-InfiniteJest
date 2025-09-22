@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Source: the Nvidia-OpenAI deal has two separate transactions: Nvidia invests in OpenAI for non-voting shares, then OpenAI can use the cash to buy Nvidia's chips (Reuters)",
+            "link": "http://www.techmeme.com/250922/p30#a250922p30",
+            "published": "Mon, 22 Sep 2025 18:55:01 -0400"
+        },
+        {
             "title": "Tech leaders embracing Trump for short-term gain may ultimately imperil their companies and is counter to Silicon Valley's idealistic roots (Steven Levy/Wired)",
             "link": "http://www.techmeme.com/250922/p29#a250922p29",
             "published": "Mon, 22 Sep 2025 18:20:01 -0400"
@@ -19,33 +24,28 @@
             "title": "Meta rolls out an AI assistant for Facebook Dating in the US and Canada, to reduce \"swipe fatigue\" by letting users find matches via natural language prompts (Sydney Bradley/Business Insider)",
             "link": "http://www.techmeme.com/250922/p26#a250922p26",
             "published": "Mon, 22 Sep 2025 15:40:02 -0400"
-        },
-        {
-            "title": "Bakkt shares jump 40%+ after naming Mike Alfred, the crypto veteran who co-founded Digital Assets Data, to its board (RT Watson/The Block)",
-            "link": "http://www.techmeme.com/250922/p25#a250922p25",
-            "published": "Mon, 22 Sep 2025 15:25:05 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "White House Outlines a TikTok Deal With a U.S. Board",
-            "link": "https://www.nytimes.com/2025/09/20/technology/white-house-tiktok-deal.html",
-            "published": "Sat, 20 Sep 2025 18:34:40 +0000"
+            "title": "U.S. Asks Judge to Break Up Google\u2019s Advertising Technology Monopoly",
+            "link": "https://www.nytimes.com/2025/09/22/technology/google-ad-tech-monopoly.html",
+            "published": "Mon, 22 Sep 2025 21:00:14 +0000"
         },
         {
-            "title": "Seeing Through the Reality of Meta\u2019s Smart Glasses",
-            "link": "https://www.nytimes.com/2025/09/20/technology/personaltech/meta-smart-glasses-mark-zuckerberg.html",
-            "published": "Mon, 22 Sep 2025 14:23:22 +0000"
+            "title": "Nvidia to Invest $100 Billion in OpenAI",
+            "link": "https://www.nytimes.com/2025/09/22/technology/nvidia-openai-100-billion-investment.html",
+            "published": "Mon, 22 Sep 2025 18:26:04 +0000"
         },
         {
-            "title": "\u2018Peak SF\u2019 on a Friday Night Is a Robot Fight",
-            "link": "https://www.nytimes.com/2025/09/19/technology/san-francisco-robot-fight.html",
-            "published": "Fri, 19 Sep 2025 09:00:47 +0000"
+            "title": "Amazon Faces Trial on F.T.C. Charges Related to Prime Service",
+            "link": "https://www.nytimes.com/2025/09/22/technology/amazon-ftc-subscription-practices.html",
+            "published": "Mon, 22 Sep 2025 17:52:13 +0000"
         },
         {
-            "title": "Charlie Kirk and Online Rage + Inside Trump\u2019s Chip Flip + This Week in A.I.",
-            "link": "https://www.nytimes.com/2025/09/19/podcasts/hardfork-charlie-kirk.html",
-            "published": "Sat, 20 Sep 2025 15:58:09 +0000"
+            "title": "American Investors Will License and Oversee TikTok\u2019s U.S. Version, White House Says",
+            "link": "https://www.nytimes.com/2025/09/22/us/politics/tiktok-deal-algorithm-trump.html",
+            "published": "Mon, 22 Sep 2025 17:59:22 +0000"
         },
         {
             "title": "Tech Executive Dies After Falling 2,000 Feet on Mount Shasta",
