@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google introduces Mixboard, an AI-powered tool that lets users create mood boards, available in public beta in the US (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/250923/p38#a250923p38",
+            "published": "Tue, 23 Sep 2025 19:10:01 -0400"
+        },
+        {
             "title": "Sources: OpenAI and Nvidia are discussing structuring their new AI data center partnership so that OpenAI would lease Nvidia's AI chips instead of buying them (The Information)",
             "link": "http://www.techmeme.com/250923/p37#a250923p37",
             "published": "Tue, 23 Sep 2025 18:25:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Oracle will pay for and oversee the construction of three of the new Stargate data centers, and OpenAI will then purchase computing power from Oracle (Cade Metz/New York Times)",
             "link": "http://www.techmeme.com/250923/p34#a250923p34",
             "published": "Tue, 23 Sep 2025 17:30:01 -0400"
-        },
-        {
-            "title": "OpenAI, Oracle, and SoftBank announce five new data center locations in the US, boosting Stargate's planned capacity to nearly 7 GW (Wired)",
-            "link": "http://www.techmeme.com/250923/p33#a250923p33",
-            "published": "Tue, 23 Sep 2025 17:16:16 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "YouTube content creators contributed \u00a32.2bn to UK economy in 2024",
+            "link": "https://www.bbc.com/news/articles/c0knpm6v36go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 23 Sep 2025 23:01:22 GMT"
+        },
+        {
             "title": "Trump claims a TikTok deal is done. Who might own it, and how would it work?",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 23 Sep 2025 11:20:57 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple steps up war of words with European regulators",
             "link": "https://www.bbc.com/news/articles/cly930y90lro?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Sep 2025 05:48:49 GMT"
-        },
-        {
-            "title": "Murdochs likely to be involved in US TikTok deal, Trump says",
-            "link": "https://www.bbc.com/news/articles/crkjjv28ykjo?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 21 Sep 2025 21:35:04 GMT"
         }
     ]
 }
