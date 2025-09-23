@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Pharmacy benefit management startup Capital Rx raised $400M, including a $252M Series F; it has raised $607M+ to date and was valued at $3.25B pre-Series F (Claire Rychlewski/Axios)",
+            "link": "http://www.techmeme.com/250923/p10#a250923p10",
+            "published": "Tue, 23 Sep 2025 08:45:00 -0400"
+        },
+        {
+            "title": "Filing: CFPB scrapped a 2024 Apple credit card settlement implemented under Biden, ending oversight requirements years early; Apple had already paid a $25M fine (Christian Martinez/Reuters)",
+            "link": "http://www.techmeme.com/250923/p9#a250923p9",
+            "published": "Tue, 23 Sep 2025 08:00:50 -0400"
+        },
+        {
+            "title": "The US Secret Service says it has dismantled 300+ SIM card servers in the NYC area that could have disrupted communications ahead of the UN General Assembly (Myles Miller/Bloomberg)",
+            "link": "http://www.techmeme.com/250923/p8#a250923p8",
+            "published": "Tue, 23 Sep 2025 07:50:01 -0400"
+        },
+        {
             "title": "London-based Fnality, which lets banks transact in a digital cash asset backed with funds at the Bank of England, raised $136M led by BoA, Citigroup, and others (Anna Irrera/Bloomberg)",
             "link": "http://www.techmeme.com/250923/p7#a250923p7",
             "published": "Tue, 23 Sep 2025 07:20:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Auterion, which provides autopilot and swarming software for military drones, raised $130M led by Bessemer at a $600M+ valuation, says it has ~$100M in revenue (Bloomberg)",
             "link": "http://www.techmeme.com/250923/p6#a250923p6",
             "published": "Tue, 23 Sep 2025 06:00:38 -0400"
-        },
-        {
-            "title": "A look at the Nvidia-OpenAI deal, where Nvidia will invest in $10B tranches; sources say OpenAI informed Microsoft about the deal a day before it was signed (MacKenzie Sigalos/CNBC)",
-            "link": "http://www.techmeme.com/250923/p5#a250923p5",
-            "published": "Tue, 23 Sep 2025 05:25:01 -0400"
-        },
-        {
-            "title": "Research: low productivity gains from AI may stem from employees using AI to produce \"workslop\", or low-effort, passable work that creates more work for others (Harvard Business Review)",
-            "link": "http://www.techmeme.com/250923/p4#a250923p4",
-            "published": "Tue, 23 Sep 2025 04:30:01 -0400"
-        },
-        {
-            "title": "OpenAI launches ChatGPT Go in Indonesia for ~$4.50 per month, expanding its budget-friendly ChatGPT subscription plan after debuting it in India in August (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/250923/p3#a250923p3",
-            "published": "Tue, 23 Sep 2025 02:15:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Trump says a TikTok deal is done. Who will own it, and how will it work?",
+            "link": "https://www.bbc.com/news/articles/clyng762q4eo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 23 Sep 2025 11:20:57 GMT"
+        },
+        {
             "title": "TikTok algorithm to be retrained on US user data under Trump deal",
             "link": "https://www.bbc.com/news/articles/c4gj7mlg9vdo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Sep 2025 16:39:27 GMT"
@@ -73,11 +78,6 @@
             "title": "Murdochs likely to be involved in US TikTok deal, Trump says",
             "link": "https://www.bbc.com/news/articles/crkjjv28ykjo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 21 Sep 2025 21:35:04 GMT"
-        },
-        {
-            "title": "Trump and Xi discuss future of TikTok in US",
-            "link": "https://www.bbc.com/news/articles/c4g7l7yl832o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 20 Sep 2025 00:34:04 GMT"
         }
     ]
 }
