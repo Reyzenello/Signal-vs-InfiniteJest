@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "London-based media monitoring and risk management company Signal AI raised $165M led by Battery Ventures, which will hold a majority stake after the investment (Daniel Thomas/Financial Times)",
+            "link": "http://www.techmeme.com/250924/p3#a250924p3",
+            "published": "Wed, 24 Sep 2025 00:45:02 -0400"
+        },
+        {
             "title": "Huxe, an app built by three former NotebookLM developers that offers users personalized daily briefs and topic exploration with AI podcast hosts, raised $4.6M (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/250924/p2#a250924p2",
             "published": "Wed, 24 Sep 2025 00:20:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Greptile, maker of an AI-powered code review tool, raised a $25M Series A led by Benchmark and launches Greptile v3 (Mike Wheatley/SiliconANGLE)",
             "link": "http://www.techmeme.com/250923/p43#a250923p43",
             "published": "Tue, 23 Sep 2025 22:25:00 -0400"
-        },
-        {
-            "title": "How Trump leveraged Biden's TikTok ban law to help allies gain control of the app, amid fears it could be used to boost pro-Trump content and suppress criticism (Washington Post)",
-            "link": "http://www.techmeme.com/250923/p42#a250923p42",
-            "published": "Tue, 23 Sep 2025 21:40:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "AI tool used to recover \u00a3500m lost to fraud, government says",
+            "link": "https://www.bbc.com/news/articles/cpd92gpld0go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 24 Sep 2025 05:02:08 GMT"
+        },
+        {
             "title": "YouTube content creators contributed \u00a32.2bn to UK economy in 2024",
             "link": "https://www.bbc.com/news/articles/c0knpm6v36go?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 23 Sep 2025 23:01:22 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok algorithm to be retrained on US user data under Trump deal",
             "link": "https://www.bbc.com/news/articles/c4gj7mlg9vdo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Sep 2025 16:39:27 GMT"
-        },
-        {
-            "title": "EU cyber agency says airport software held to ransom by criminals",
-            "link": "https://www.bbc.com/news/articles/cqjeej85452o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 22 Sep 2025 09:58:16 GMT"
         }
     ]
 }
