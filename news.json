@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "How Trump leveraged Biden's TikTok ban law to help allies gain control of the app, amid fears it could be used to boost pro-Trump content and suppress criticism (Washington Post)",
+            "link": "http://www.techmeme.com/250923/p42#a250923p42",
+            "published": "Tue, 23 Sep 2025 21:40:01 -0400"
+        },
+        {
+            "title": "Alibaba releases the Qwen3-VL vision models, the Qwen3Guard \"safety moderation\" models, and three closed-weight models, including Qwen3-Max with 1T+ parameters (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/250923/p41#a250923p41",
+            "published": "Tue, 23 Sep 2025 21:00:52 -0400"
+        },
+        {
+            "title": "Privacy startup Duality says it has developed a private LLM inference framework that uses fully homomorphic encryption to let LLMs answer encrypted prompts (Rina Diane Caballar/IEEE Spectrum)",
+            "link": "http://www.techmeme.com/250923/p40#a250923p40",
+            "published": "Tue, 23 Sep 2025 20:10:01 -0400"
+        },
+        {
+            "title": "A joint investigation by Canadian privacy authorities finds TikTok collected sensitive personal data from hundreds of thousands of Canadian children under 13 (Catharine Tunney/CBC News)",
+            "link": "http://www.techmeme.com/250923/p39#a250923p39",
+            "published": "Tue, 23 Sep 2025 19:24:02 -0400"
+        },
+        {
             "title": "Google introduces Mixboard, an AI-powered tool that lets users create mood boards, available in public beta in the US (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/250923/p38#a250923p38",
             "published": "Tue, 23 Sep 2025 19:10:01 -0400"
-        },
-        {
-            "title": "Sources: OpenAI and Nvidia are discussing structuring their new AI data center partnership so that OpenAI would lease Nvidia's AI chips instead of buying them (The Information)",
-            "link": "http://www.techmeme.com/250923/p37#a250923p37",
-            "published": "Tue, 23 Sep 2025 18:25:01 -0400"
-        },
-        {
-            "title": "Snowflake, Salesforce, and others announce the Open Semantic Interchange, a vendor-neutral standard for how business data is defined and shared across platforms (Michael Nu\u00f1ez/Venturebeat)",
-            "link": "http://www.techmeme.com/250923/p36#a250923p36",
-            "published": "Tue, 23 Sep 2025 18:15:00 -0400"
-        },
-        {
-            "title": "GitHub outlines plans to secure npm following multiple supply-chain attacks, including deprecating legacy classic tokens and migrating users to FIDO-based 2FA (Xavier Ren\u00e9-Corail/The GitHub Blog)",
-            "link": "http://www.techmeme.com/250923/p35#a250923p35",
-            "published": "Tue, 23 Sep 2025 17:55:00 -0400"
-        },
-        {
-            "title": "Oracle will pay for and oversee the construction of three of the new Stargate data centers, and OpenAI will then purchase computing power from Oracle (Cade Metz/New York Times)",
-            "link": "http://www.techmeme.com/250923/p34#a250923p34",
-            "published": "Tue, 23 Sep 2025 17:30:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 23 Sep 2025 23:01:22 GMT"
         },
         {
+            "title": "TikTok child data protection inadequate, Canadian privacy officials say",
+            "link": "https://www.bbc.com/news/articles/c4gj5lqq52lo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 24 Sep 2025 01:46:55 GMT"
+        },
+        {
             "title": "Trump claims a TikTok deal is done. Who might own it, and how would it work?",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 23 Sep 2025 11:20:57 GMT"
@@ -73,11 +78,6 @@
             "title": "EU cyber agency says airport software held to ransom by criminals",
             "link": "https://www.bbc.com/news/articles/cqjeej85452o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Sep 2025 09:58:16 GMT"
-        },
-        {
-            "title": "Apple steps up war of words with European regulators",
-            "link": "https://www.bbc.com/news/articles/cly930y90lro?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 22 Sep 2025 05:48:49 GMT"
         }
     ]
 }
