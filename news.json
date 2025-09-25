@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Microsoft terminated Israel's Unit 8200 access to Azure, after an investigation found the tech was used for mass surveillance in Gaza and West Bank (The Guardian)",
+            "link": "http://www.techmeme.com/250925/p29#a250925p29",
+            "published": "Thu, 25 Sep 2025 11:20:01 -0400"
+        },
+        {
+            "title": "xAI sues OpenAI in California for allegedly stealing trade secrets by means of hiring away key employees; in August, xAI sued an ex-staffer who left for OpenAI (Jon Keegan/Sherwood News)",
+            "link": "http://www.techmeme.com/250925/p28#a250925p28",
+            "published": "Thu, 25 Sep 2025 10:30:00 -0400"
+        },
+        {
             "title": "CoreWeave expands its data center capacity agreements with OpenAI by $6.5B, bringing their total potential value to $22.4B, to support training of OpenAI models (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/250925/p27#a250925p27",
             "published": "Thu, 25 Sep 2025 10:00:37 -0400"
@@ -14,19 +24,14 @@
             "title": "xAI signed a deal with the GSA to offer Grok to US federal agencies for $0.42 per agency for 18 months, a discount to OpenAI's $1 per year for ChatGPT (Oma Seddiq/Bloomberg)",
             "link": "http://www.techmeme.com/250925/p25#a250925p25",
             "published": "Thu, 25 Sep 2025 09:35:03 -0400"
-        },
-        {
-            "title": "A profile of AI skeptic Ed Zitron: Sam Altman's firing and return was his \"Joker moment\", tech journalism is flawed, his brash persona is not a mask, and more (Tabby Kinder/Financial Times)",
-            "link": "http://www.techmeme.com/250925/p24#a250925p24",
-            "published": "Thu, 25 Sep 2025 09:15:04 -0400"
-        },
-        {
-            "title": "RedotPay, which offers stablecoin cards and multicurrency wallets, raised $47M from Coinbase Ventures, Galaxy Ventures, and others at a $1B valuation (James Hunt/The Block)",
-            "link": "http://www.techmeme.com/250925/p23#a250925p23",
-            "published": "Thu, 25 Sep 2025 08:45:05 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "There Are More Robots Working in China Than the Rest of the World Combined",
+            "link": "https://www.nytimes.com/2025/09/25/business/china-factory-robots.html",
+            "published": "Thu, 25 Sep 2025 12:00:08 +0000"
+        },
         {
             "title": "The F.C.C.\u2019s Brendan Carr Plans to Keep Going After the Media Following Jimmy Kimmel\u2019s Return",
             "link": "https://www.nytimes.com/2025/09/24/technology/brendan-carr-fcc-kimmel.html",
@@ -40,17 +45,12 @@
         {
             "title": "Elon Musk\u2019s Father, Errol Musk, Accused of Child Sexual Abuse",
             "link": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html",
-            "published": "Tue, 23 Sep 2025 14:27:53 +0000"
-        },
-        {
-            "title": "How to Use Apple\u2019s iOS 26 and Google\u2019s Android 16",
-            "link": "https://www.nytimes.com/2025/09/24/technology/personaltech/apple-ios-26-google-android-16.html",
-            "published": "Wed, 24 Sep 2025 09:02:56 +0000"
+            "published": "Thu, 25 Sep 2025 14:55:59 +0000"
         },
         {
             "title": "Elon Musk\u2019s xAI Signs Deal to Provide Grok Chatbot to US Agencies",
             "link": "https://www.nytimes.com/2025/09/25/technology/grok-xai-government-elon-musk.html",
-            "published": "Thu, 25 Sep 2025 14:00:12 +0000"
+            "published": "Thu, 25 Sep 2025 14:27:52 +0000"
         }
     ],
     "source_2": [
