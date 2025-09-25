@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "CoreWeave expands its data center capacity agreements with OpenAI by $6.5B, bringing their total potential value to $22.4B, to support training of OpenAI models (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/250925/p27#a250925p27",
+            "published": "Thu, 25 Sep 2025 10:00:37 -0400"
+        },
+        {
+            "title": "Databricks says it plans to integrate OpenAI's models, including GPT-5, into its data platform and AI product Agent Bricks, as part of a $100M multiyear deal (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/250925/p26#a250925p26",
+            "published": "Thu, 25 Sep 2025 09:55:01 -0400"
+        },
+        {
+            "title": "xAI signed a deal with the GSA to offer Grok to US federal agencies for $0.42 per agency for 18 months, a discount to OpenAI's $1 per year for ChatGPT (Oma Seddiq/Bloomberg)",
+            "link": "http://www.techmeme.com/250925/p25#a250925p25",
+            "published": "Thu, 25 Sep 2025 09:35:03 -0400"
+        },
+        {
             "title": "A profile of AI skeptic Ed Zitron: Sam Altman's firing and return was his \"Joker moment\", tech journalism is flawed, his brash persona is not a mask, and more (Tabby Kinder/Financial Times)",
             "link": "http://www.techmeme.com/250925/p24#a250925p24",
             "published": "Thu, 25 Sep 2025 09:15:04 -0400"
@@ -9,21 +24,6 @@
             "title": "RedotPay, which offers stablecoin cards and multicurrency wallets, raised $47M from Coinbase Ventures, Galaxy Ventures, and others at a $1B valuation (James Hunt/The Block)",
             "link": "http://www.techmeme.com/250925/p23#a250925p23",
             "published": "Thu, 25 Sep 2025 08:45:05 -0400"
-        },
-        {
-            "title": "Circle president Heath Tarbert says Circle is exploring the possibility of reversible stablecoin transactions to allow refunds in cases of fraud or disputes (Financial Times)",
-            "link": "http://www.techmeme.com/250925/p22#a250925p22",
-            "published": "Thu, 25 Sep 2025 08:35:01 -0400"
-        },
-        {
-            "title": "Meta expands Facebook and Messenger teen accounts, which have extra safety controls, globally; Instagram now lets all US schools report safety concerns (Karissa Bell/Engadget)",
-            "link": "http://www.techmeme.com/250925/p21#a250925p21",
-            "published": "Thu, 25 Sep 2025 08:30:00 -0400"
-        },
-        {
-            "title": "Spotify updates its AI policy, including adopting the upcoming DDEX standard to label and identify AI music and rolling out a new music spam filter (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/250925/p20#a250925p20",
-            "published": "Thu, 25 Sep 2025 08:20:01 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Wed, 24 Sep 2025 09:02:56 +0000"
         },
         {
-            "title": "Intel Said to Seek Investment From Apple",
-            "link": "https://www.nytimes.com/2025/09/24/technology/intel-apple-talks-investment.html",
-            "published": "Thu, 25 Sep 2025 00:53:11 +0000"
+            "title": "Elon Musk\u2019s xAI Signs Deal to Provide Grok Chatbot to US Agencies",
+            "link": "https://www.nytimes.com/2025/09/25/technology/grok-xai-government-elon-musk.html",
+            "published": "Thu, 25 Sep 2025 14:00:12 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Children's names, pictures and addresses stolen in nursery chain hack",
             "link": "https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 25 Sep 2025 13:24:10 GMT"
+            "published": "Thu, 25 Sep 2025 14:24:28 GMT"
         },
         {
             "title": "Instagram teen accounts still show suicide content, study claims",
