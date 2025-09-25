@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Sources: EU prepares to issue preliminary findings that Facebook and Instagram lack an adequate \"notice and action mechanism\" to let users flag illegal posts (Bloomberg)",
+            "link": "http://www.techmeme.com/250925/p33#a250925p33",
+            "published": "Thu, 25 Sep 2025 12:30:19 -0400"
+        },
+        {
+            "title": "Apple says the DMA exposes users to new risks, reduces choice by making iOS resemble Android, and creates unfair competition by not applying to Samsung (Apple)",
+            "link": "http://www.techmeme.com/250925/p32#a250925p32",
+            "published": "Thu, 25 Sep 2025 11:50:00 -0400"
+        },
+        {
+            "title": "Xiaomi unveils 17, 17 Pro, and 17 Pro Max, available September 27 in China; Pro phones feature a Snapdragon 8 Elite Gen 5 chipset and a back screen (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/250925/p31#a250925p31",
+            "published": "Thu, 25 Sep 2025 11:35:01 -0400"
+        },
+        {
+            "title": "Amazon reaches a $2.5B settlement with the FTC over deceptive Prime practices, with a $1B civil penalty and $1.5B in consumer redress, three days into the trial (Rafe Rosner-Uddin/Financial Times)",
+            "link": "http://www.techmeme.com/250925/p30#a250925p30",
+            "published": "Thu, 25 Sep 2025 11:30:14 -0400"
+        },
+        {
             "title": "Sources: Microsoft terminated Israel's Unit 8200 access to Azure, after an investigation found the tech was used for mass surveillance in Gaza and West Bank (The Guardian)",
             "link": "http://www.techmeme.com/250925/p29#a250925p29",
             "published": "Thu, 25 Sep 2025 11:20:01 -0400"
-        },
-        {
-            "title": "xAI sues OpenAI in California for allegedly stealing trade secrets by means of hiring away key employees; in August, xAI sued an ex-staffer who left for OpenAI (Jon Keegan/Sherwood News)",
-            "link": "http://www.techmeme.com/250925/p28#a250925p28",
-            "published": "Thu, 25 Sep 2025 10:30:00 -0400"
-        },
-        {
-            "title": "CoreWeave expands its data center capacity agreements with OpenAI by $6.5B, bringing their total potential value to $22.4B, to support training of OpenAI models (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/250925/p27#a250925p27",
-            "published": "Thu, 25 Sep 2025 10:00:37 -0400"
-        },
-        {
-            "title": "Databricks says it plans to integrate OpenAI's models, including GPT-5, into its data platform and AI product Agent Bricks, as part of a $100M multiyear deal (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/250925/p26#a250925p26",
-            "published": "Thu, 25 Sep 2025 09:55:01 -0400"
-        },
-        {
-            "title": "xAI signed a deal with the GSA to offer Grok to US federal agencies for $0.42 per agency for 18 months, a discount to OpenAI's $1 per year for ChatGPT (Oma Seddiq/Bloomberg)",
-            "link": "http://www.techmeme.com/250925/p25#a250925p25",
-            "published": "Thu, 25 Sep 2025 09:35:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Amazon to Pay $2.5 Billion in Prime Membership Settlement",
+            "link": "https://www.nytimes.com/2025/09/25/technology/amazon-ftc-settlement.html",
+            "published": "Thu, 25 Sep 2025 16:16:25 +0000"
+        },
         {
             "title": "There Are More Robots Working in China Than the Rest of the World Combined",
             "link": "https://www.nytimes.com/2025/09/25/business/china-factory-robots.html",
@@ -36,11 +41,6 @@
             "title": "The F.C.C.\u2019s Brendan Carr Plans to Keep Going After the Media Following Jimmy Kimmel\u2019s Return",
             "link": "https://www.nytimes.com/2025/09/24/technology/brendan-carr-fcc-kimmel.html",
             "published": "Wed, 24 Sep 2025 09:03:17 +0000"
-        },
-        {
-            "title": "OpenAI to Join Tech Giants in Building 5 New Data Centers in U.S.",
-            "link": "https://www.nytimes.com/2025/09/23/technology/openai-data-centers-united-states.html",
-            "published": "Tue, 23 Sep 2025 21:00:07 +0000"
         },
         {
             "title": "Elon Musk\u2019s Father, Errol Musk, Accused of Child Sexual Abuse",
