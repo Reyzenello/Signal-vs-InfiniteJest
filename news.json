@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "CISA issues an emergency directive ordering US federal agencies to secure their Cisco firewall devices against two flaws exploited in zero-day attacks (Sergiu Gatlan/BleepingComputer)",
+            "link": "http://www.techmeme.com/250925/p55#a250925p55",
+            "published": "Thu, 25 Sep 2025 19:05:02 -0400"
+        },
+        {
             "title": "Why AI isn't replacing radiologists: models underperform in hospital settings, AI use faces legal hurdles, and the job is much more than image recognition (The Works in Progress Newsletter)",
             "link": "http://www.techmeme.com/250925/p54#a250925p54",
             "published": "Thu, 25 Sep 2025 18:20:05 -0400"
@@ -19,14 +24,14 @@
             "title": "A US federal judge preliminarily approves Anthropic's $1.5B copyright settlement with authors (Blake Brittain/Reuters)",
             "link": "http://www.techmeme.com/250925/p51#a250925p51",
             "published": "Thu, 25 Sep 2025 17:35:03 -0400"
-        },
-        {
-            "title": "Nintendo of America President Doug Bowser will retire on December 31 after more than a decade with the company; Nintendo exec Devon Pritchard will succeed him (Jennifer Maas/Variety)",
-            "link": "http://www.techmeme.com/250925/p50#a250925p50",
-            "published": "Thu, 25 Sep 2025 17:32:18 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump Clears Way for American-Owned TikTok Valued at $14 Billion",
+            "link": "https://www.nytimes.com/2025/09/25/technology/trump-tiktok-ban-deal.html",
+            "published": "Thu, 25 Sep 2025 22:18:46 +0000"
+        },
         {
             "title": "Amazon to Pay $2.5 Billion in Prime Membership Settlement",
             "link": "https://www.nytimes.com/2025/09/25/technology/amazon-ftc-settlement.html",
@@ -38,22 +43,22 @@
             "published": "Thu, 25 Sep 2025 12:00:08 +0000"
         },
         {
-            "title": "The F.C.C.\u2019s Brendan Carr Plans to Keep Going After the Media Following Jimmy Kimmel\u2019s Return",
-            "link": "https://www.nytimes.com/2025/09/24/technology/brendan-carr-fcc-kimmel.html",
-            "published": "Wed, 24 Sep 2025 09:03:17 +0000"
-        },
-        {
             "title": "Elon Musk\u2019s Father, Errol Musk, Accused of Child Sexual Abuse",
             "link": "https://www.nytimes.com/2025/09/23/world/africa/elon-musk-father-errol-child-abuse.html",
             "published": "Thu, 25 Sep 2025 14:55:59 +0000"
         },
         {
-            "title": "Trump Clears Way for American-Owned TikTok Valued at $14 Billion",
-            "link": "https://www.nytimes.com/2025/09/25/technology/trump-tiktok-ban-deal.html",
-            "published": "Thu, 25 Sep 2025 22:18:46 +0000"
+            "title": "Microsoft Disables Some Services to Israel\u2019s Defense Ministry",
+            "link": "https://www.nytimes.com/2025/09/25/technology/microsoft-israel-defense-ministry.html",
+            "published": "Thu, 25 Sep 2025 20:07:11 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Microsoft cuts off some services used by Israeli military unit",
+            "link": "https://www.bbc.com/news/articles/cvgjx0zve2no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 25 Sep 2025 22:01:15 GMT"
+        },
         {
             "title": "Children's names, pictures and addresses stolen in nursery chain hack",
             "link": "https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Man arrested in connection with cyber-attack on airports",
             "link": "https://www.bbc.com/news/articles/c62ldxyj431o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 24 Sep 2025 11:53:42 GMT"
-        },
-        {
-            "title": "YouTube content creators contributed \u00a32.2bn to UK economy in 2024",
-            "link": "https://www.bbc.com/news/articles/c0knpm6v36go?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 24 Sep 2025 09:03:45 GMT"
         }
     ]
 }
