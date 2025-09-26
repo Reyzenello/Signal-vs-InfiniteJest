@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Meta plans to launch paid, ad-free versions of Instagram and Facebook in the UK, each costing \u00a32.99 per month on the web, and \u00a33.99 on iOS and Android (Bloomberg)",
+            "link": "http://www.techmeme.com/250926/p7#a250926p7",
+            "published": "Fri, 26 Sep 2025 06:38:24 -0400"
+        },
+        {
+            "title": "Checkout.com announces an employee share buyback at a $12B valuation, up 30% from $9.35B two years ago yet below $40B in 2022, and says an IPO isn't a priority (Aisha S Gani/Bloomberg)",
+            "link": "http://www.techmeme.com/250926/p6#a250926p6",
+            "published": "Fri, 26 Sep 2025 06:30:01 -0400"
+        },
+        {
             "title": "How inaccurate AI translations of Wikipedia pages, which AI models use for training, may cause a doom spiral that further marginalizes vulnerable languages (Jacob Judah/MIT Technology Review)",
             "link": "http://www.techmeme.com/250926/p5#a250926p5",
             "published": "Fri, 26 Sep 2025 05:31:06 -0400"
@@ -14,16 +24,6 @@
             "title": "A look at the use of tools like ChatGPT by retail investors to pick stocks, fueling a robo-advisory market boom, as experts warn of solely relying on AI (Joice Alves/Reuters)",
             "link": "http://www.techmeme.com/250926/p3#a250926p3",
             "published": "Fri, 26 Sep 2025 04:15:54 -0400"
-        },
-        {
-            "title": "Sources: the Trump admin plans to require chipmakers to match local output with imports and impose tariffs on companies that fail to maintain a 1:1 ratio (Amrith Ramkumar/Wall Street Journal)",
-            "link": "http://www.techmeme.com/250926/p2#a250926p2",
-            "published": "Fri, 26 Sep 2025 02:10:01 -0400"
-        },
-        {
-            "title": "As the lyricist behind AI artist Xania Monet signs a $3M record deal, experts say current copyright law may only protect the human-made expressive elements (Elissa Welle/The Verge)",
-            "link": "http://www.techmeme.com/250926/p1#a250926p1",
-            "published": "Fri, 26 Sep 2025 00:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Thu, 25 Sep 2025 14:55:59 +0000"
         },
         {
-            "title": "Microsoft Disables Some Services to Israel\u2019s Defense Ministry",
-            "link": "https://www.nytimes.com/2025/09/25/technology/microsoft-israel-defense-ministry.html",
-            "published": "Thu, 25 Sep 2025 20:07:11 +0000"
+            "title": "The Great A.I. Build-Out + H-1B Visa Chaos + TikTok Braces for the Rapture",
+            "link": "https://www.nytimes.com/2025/09/26/podcasts/hardfork-nvidia-h1b-tiktok.html",
+            "published": "Fri, 26 Sep 2025 11:00:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Nursery hackers threaten to publish more children's profiles online",
+            "link": "https://www.bbc.com/news/articles/c07vxv8v89lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 26 Sep 2025 10:31:08 GMT"
+        },
+        {
+            "title": "Facebook and Instagram to get \u00a32.99 UK subscription fee to stop ads",
+            "link": "https://www.bbc.com/news/articles/c5y4xl5x8q7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 26 Sep 2025 10:54:12 GMT"
+        },
         {
             "title": "Microsoft cuts off some services used by Israeli military unit",
             "link": "https://www.bbc.com/news/articles/cvgjx0zve2no?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Children's names, pictures and addresses stolen in nursery chain hack",
             "link": "https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 25 Sep 2025 17:00:38 GMT"
-        },
-        {
-            "title": "China launches campaign to keep killjoys off the internet",
-            "link": "https://www.bbc.com/news/articles/c39r7p47wzgo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 25 Sep 2025 22:01:24 GMT"
-        },
-        {
-            "title": "Instagram teen accounts still show suicide content, study claims",
-            "link": "https://www.bbc.com/news/articles/ce32w7we01eo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 25 Sep 2025 10:03:59 GMT"
         }
     ]
 }
