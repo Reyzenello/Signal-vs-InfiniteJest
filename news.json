@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI executives working on Stargate say that it costs about $50B to build a data center with roughly 1 GW of capacity, with $35B going toward AI chips (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/250927/p16#a250927p16",
+            "published": "Sat, 27 Sep 2025 15:00:38 -0400"
+        },
+        {
             "title": "Fermi, a data center real estate investment trust co-founded by former Energy Secretary Rick Perry, aims to raise $550M in a US IPO at a $13.16B valuation (Arasu Kannagi Basil/Reuters)",
             "link": "http://www.techmeme.com/250927/p15#a250927p15",
             "published": "Sat, 27 Sep 2025 13:45:00 -0400"
@@ -19,11 +24,6 @@
             "title": "Leaked a16z decks: $25B in net returns since its 2009 founding, including $11.2B in 2021, and 56 unicorn investments in the past 10 years, the most of any firm (Eric Newcomer/Newcomer)",
             "link": "http://www.techmeme.com/250927/p12#a250927p12",
             "published": "Sat, 27 Sep 2025 11:55:02 -0400"
-        },
-        {
-            "title": "Cloudflare combines a new Email Sending feature with Routing into a unified Email Service to let developers send emails from Cloudflare Workers, in private beta (Cloudflare)",
-            "link": "http://www.techmeme.com/250927/p11#a250927p11",
-            "published": "Sat, 27 Sep 2025 11:35:29 -0400"
         }
     ],
     "source_1": [
