@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "London-based Paid, which helps AI agent providers monetize and track costs, raised a $21.6M seed led by Lightspeed, a source says at a $100M+ valuation (Julie Bort/TechCrunch)",
+            "link": "http://www.techmeme.com/250929/p3#a250929p3",
+            "published": "Mon, 29 Sep 2025 01:45:12 -0400"
+        },
+        {
             "title": "DeepMind: video models like Veo 3 could become general purpose foundation models for vision, like LLMs for text, using zero-shot \"chain-of-frames\" reasoning (Simon Willison/Simon Willison's Weblog)",
             "link": "http://www.techmeme.com/250929/p2#a250929p2",
             "published": "Mon, 29 Sep 2025 00:55:00 -0400"
@@ -19,11 +24,6 @@
             "title": "Caltech says it built the world's largest neutral-atom quantum computer, with 6,100 qubits, 13 second coherence, 10x longer than previously, and 99.98% accuracy (Jason Nelson/Decrypt)",
             "link": "http://www.techmeme.com/250928/p22#a250928p22",
             "published": "Sun, 28 Sep 2025 21:20:01 -0400"
-        },
-        {
-            "title": "An interview with Jeanine Wright, CEO of Inception Point AI, about her vow to continue mass-publishing episodes of AI-generated podcasts despite backlash (Ashley Carman/Bloomberg)",
-            "link": "http://www.techmeme.com/250928/p21#a250928p21",
-            "published": "Sun, 28 Sep 2025 20:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "'You'll never need to work again': Criminals offer reporter money to hack BBC",
+            "link": "https://www.bbc.com/news/articles/c3w5n903447o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 29 Sep 2025 05:00:28 GMT"
+        },
+        {
             "title": "Nursery hackers threaten to publish more children's profiles online",
             "link": "https://www.bbc.com/news/articles/c07vxv8v89lo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 26 Sep 2025 20:27:32 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft cuts off some services used by Israeli military unit",
             "link": "https://www.bbc.com/news/articles/cvgjx0zve2no?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 25 Sep 2025 22:01:15 GMT"
-        },
-        {
-            "title": "Trump claims a TikTok deal is done. Who would own it, and how would it work?",
-            "link": "https://www.bbc.com/news/articles/clyng762q4eo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 25 Sep 2025 21:52:36 GMT"
         }
     ]
 }
