@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "How Brazil's Pix digital payment system, adopted by 80%+ of citizens, became a target of the Trump administration, which says it unfairly undercuts US companies (Ana Ionova/New York Times)",
+            "link": "http://www.techmeme.com/250929/p46#a250929p46",
+            "published": "Mon, 29 Sep 2025 19:10:03 -0400"
+        },
+        {
             "title": "Internal memo: Microsoft is unifying its key Windows engineering teams under a single organization led by Windows chief Pavan Davuluri, reversing a 2018 split (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/250929/p45#a250929p45",
             "published": "Mon, 29 Sep 2025 18:20:02 -0400"
@@ -11,7 +16,7 @@
             "published": "Mon, 29 Sep 2025 18:15:04 -0400"
         },
         {
-            "title": "Automated financial advisor startup Wealthfront files publicly for an IPO and reports net income of $60.7M on revenue of $175.6M in H1 2025 (Bailey Lipschultz/Bloomberg)",
+            "title": "Automated financial advisory startup Wealthfront files publicly for an IPO and reports net income of $60.7M on revenue of $175.6M in H1 2025 (Bailey Lipschultz/Bloomberg)",
             "link": "http://www.techmeme.com/250929/p43#a250929p43",
             "published": "Mon, 29 Sep 2025 17:55:02 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "A judge sentences Frank founder Charlie Javice to 85 months in prison for defrauding JPMorgan Chase by overstating how many customers the fintech company had (CNBC)",
             "link": "http://www.techmeme.com/250929/p42#a250929p42",
             "published": "Mon, 29 Sep 2025 17:40:00 -0400"
-        },
-        {
-            "title": "Filing: YouTube will pay $24.5M to settle a 2021 Trump lawsuit over suspending his account after Jan. 6, the last Big Tech company to settle his lawsuits (Wall Street Journal)",
-            "link": "http://www.techmeme.com/250929/p41#a250929p41",
-            "published": "Mon, 29 Sep 2025 17:15:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 26 Sep 2025 11:00:04 +0000"
         },
         {
-            "title": "YouTube Settles Trump Lawsuit for $24.5 Million",
+            "title": "YouTube Settles Trump Lawsuit Over Account Suspension for $24.5 Million",
             "link": "https://www.nytimes.com/2025/09/29/technology/youtube-trump-lawsuit-settlement.html",
-            "published": "Mon, 29 Sep 2025 21:55:30 +0000"
+            "published": "Mon, 29 Sep 2025 23:04:30 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "YouTube to pay $24.5m to settle Trump lawsuit over Capitol riot",
+            "link": "https://www.bbc.com/news/articles/c9dx46qgp1jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 29 Sep 2025 23:06:19 GMT"
+        },
         {
             "title": "Gaming giant Electronic Arts bought in unprecedented $55bn deal",
             "link": "https://www.bbc.com/news/articles/cn4w3jzx807o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Demon Slayer star says anime film's success is mind-blowing",
             "link": "https://www.bbc.com/news/articles/cqje8v2dp7do?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 29 Sep 2025 12:28:59 GMT"
-        },
-        {
-            "title": "Nursery hackers threaten to publish more children's profiles online",
-            "link": "https://www.bbc.com/news/articles/c07vxv8v89lo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 26 Sep 2025 20:27:32 GMT"
         }
     ]
 }
