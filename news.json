@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Caltech says it built the world's largest neutral-atom quantum computer, with 6,100 qubits, 13 second coherence, 10x longer than the past, and 99.98% accuracy (Jason Nelson/Decrypt)",
+            "link": "http://www.techmeme.com/250928/p22#a250928p22",
+            "published": "Sun, 28 Sep 2025 21:20:01 -0400"
+        },
+        {
+            "title": "An interview with Jeanine Wright, CEO of Inception Point AI, about her vow to continue mass-publishing episodes of AI-generated podcasts despite backlash (Ashley Carman/Bloomberg)",
+            "link": "http://www.techmeme.com/250928/p21#a250928p21",
+            "published": "Sun, 28 Sep 2025 20:10:01 -0400"
+        },
+        {
             "title": "An investigation reveals how the Russian military spy ship Yantar is being used to map and potentially intercept undersea telecommunication cables across Europe (Financial Times)",
             "link": "http://www.techmeme.com/250928/p20#a250928p20",
             "published": "Sun, 28 Sep 2025 18:40:00 -0400"
@@ -14,16 +24,6 @@
             "title": "A profile of digital microlender Tala, which has an annualized revenue of $340M but remains unprofitable 11 years in, as it plans to double its lending in 2027 (Jeff Kauflin/Forbes)",
             "link": "http://www.techmeme.com/250928/p18#a250928p18",
             "published": "Sun, 28 Sep 2025 15:50:02 -0400"
-        },
-        {
-            "title": "How JD Vance played a key role in the TikTok US deal, amid concerns about the VP acting as a corporate dealmaker in the forced spin-off of a private company (Washington Post)",
-            "link": "http://www.techmeme.com/250928/p17#a250928p17",
-            "published": "Sun, 28 Sep 2025 14:25:00 -0400"
-        },
-        {
-            "title": "Since 2019, Brazil's courts have developed or implemented over 140 AI projects that have helped make the country's overburdened judicial system more efficient (Pedro Nakamura/Rest of World)",
-            "link": "http://www.techmeme.com/250928/p16#a250928p16",
-            "published": "Sun, 28 Sep 2025 13:45:01 -0400"
         }
     ],
     "source_1": [
@@ -65,6 +65,11 @@
             "published": "Fri, 26 Sep 2025 10:54:12 GMT"
         },
         {
+            "title": "Is the US-China TikTok deal done? Here's what you need to know",
+            "link": "https://www.bbc.com/news/videos/cg5ege645reo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 26 Sep 2025 10:02:14 GMT"
+        },
+        {
             "title": "Microsoft cuts off some services used by Israeli military unit",
             "link": "https://www.bbc.com/news/articles/cvgjx0zve2no?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 25 Sep 2025 22:01:15 GMT"
@@ -73,11 +78,6 @@
             "title": "Trump claims a TikTok deal is done. Who would own it, and how would it work?",
             "link": "https://www.bbc.com/news/articles/clyng762q4eo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 25 Sep 2025 21:52:36 GMT"
-        },
-        {
-            "title": "Children's names, pictures and addresses stolen in nursery chain hack",
-            "link": "https://www.bbc.com/news/articles/c62ldyvpwv9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 25 Sep 2025 17:00:38 GMT"
         }
     ]
 }
