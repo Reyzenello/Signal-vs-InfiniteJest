@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "CoreWeave CEO Michael Intrator says the company signed a deal to supply Meta with up to $14.2B worth of computing power, including access to Nvidia GB300 chips (Bloomberg)",
-            "link": "http://www.techmeme.com/250930/p13#a250930p13",
-            "published": "Tue, 30 Sep 2025 08:40:01 -0400"
+            "title": "Anthropic now requires users to accept new privacy terms by October 8, including choosing whether new chats and coding sessions can be used to train AI models (Reece Rogers/Wired)",
+            "link": "http://www.techmeme.com/250930/p18#a250930p18",
+            "published": "Tue, 30 Sep 2025 09:25:00 -0400"
         },
         {
-            "title": "Nothing unveils its Essential branding for AI products, a new app store with user-designed, AI-generated apps based on Android called Playground, and more (Robert Hart/The Verge)",
-            "link": "http://www.techmeme.com/250930/p12#a250930p12",
-            "published": "Tue, 30 Sep 2025 08:20:04 -0400"
+            "title": "Microsoft launches a Security Store with SaaS tools and AI agents from Darktrace and others, and now lets Security Copilot users build their own AI agents (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/250930/p17#a250930p17",
+            "published": "Tue, 30 Sep 2025 09:22:34 -0400"
         },
         {
-            "title": "Eve, an AI assistant for plaintiff lawyers, raised $103M led by Spark, with a16z, Lightspeed, and Menlo participating, at a $1B valuation and has 450+ clients (Kate Clark/Bloomberg)",
-            "link": "http://www.techmeme.com/250930/p11#a250930p11",
-            "published": "Tue, 30 Sep 2025 07:50:01 -0400"
+            "title": "DoorDash unveils delivery robot Dot, standing 4-foot, 6-inches tall and able to carry up to 30lb of cargo at up to 20mph, and a smart scale for restaurants (Natalie Lung/Bloomberg)",
+            "link": "http://www.techmeme.com/250930/p16#a250930p16",
+            "published": "Tue, 30 Sep 2025 09:17:42 -0400"
         },
         {
-            "title": "Spotify says Daniel Ek will step down as CEO and become executive chairman in January 2026, and names CPTO Gustav S\u00f6derstr\u00f6m and CBO Alex Norstr\u00f6m as co-CEOs (Spotify)",
-            "link": "http://www.techmeme.com/250930/p10#a250930p10",
-            "published": "Tue, 30 Sep 2025 07:38:13 -0400"
+            "title": "Adobe launches its Premiere video editing software on iPhone for the first time; general editing is free, but Adobe charges for credits to generate AI content (Chris Welch/Bloomberg)",
+            "link": "http://www.techmeme.com/250930/p15#a250930p15",
+            "published": "Tue, 30 Sep 2025 09:11:33 -0400"
         },
         {
-            "title": "Unit 42: suspected Chinese hackers, known as Phantom Taurus, have breached foreign ministers' email servers as part of a years-long effort targeting diplomats (Emily Forgash/Bloomberg)",
-            "link": "http://www.techmeme.com/250930/p9#a250930p9",
-            "published": "Tue, 30 Sep 2025 07:20:01 -0400"
+            "title": "Chipmaker Cerebras Systems raised a $1.1B Series G from Fidelity, Trump Jr.'s 1789 Capital, and others at an $8.1B post-money valuation ahead of its planned IPO (Rebecca Szkutak/TechCrunch)",
+            "link": "http://www.techmeme.com/250930/p14#a250930p14",
+            "published": "Tue, 30 Sep 2025 09:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Imgur blocks access to UK users after regulator warned of fine",
+            "link": "https://www.bbc.com/news/articles/c4gzxv5gy3qo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 30 Sep 2025 13:19:57 GMT"
+        },
+        {
             "title": "Chinese woman convicted after 'world's biggest' bitcoin seizure",
             "link": "https://www.bbc.com/news/articles/cy0415kk3rzo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 30 Sep 2025 09:24:33 GMT"
@@ -73,11 +78,6 @@
             "title": "'You'll never need to work again': Criminals offer reporter money to hack BBC",
             "link": "https://www.bbc.com/news/articles/c3w5n903447o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 29 Sep 2025 05:00:28 GMT"
-        },
-        {
-            "title": "Flights in Afghanistan grounded after internet shutdown",
-            "link": "https://www.bbc.com/news/articles/cdxqdy5nrlqo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 30 Sep 2025 10:38:23 GMT"
         }
     ]
 }
