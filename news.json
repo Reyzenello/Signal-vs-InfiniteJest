@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft makes Xbox Cloud Gaming generally available, removing its beta tag after over five years, adds 1440p support, and raises bitrate quality to 27Mbps (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/251001/p33#a251001p33",
+            "published": "Wed, 01 Oct 2025 10:08:39 -0400"
+        },
+        {
+            "title": "Microsoft raises the Xbox Game Pass Ultimate subscription price from $19.99 to $29.99 per month, rebrands Xbox Game Pass Core and Standard plans, and more (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/251001/p32#a251001p32",
+            "published": "Wed, 01 Oct 2025 10:07:02 -0400"
+        },
+        {
+            "title": "Q&A with Marc Andreessen and investor Charlie Songhurst on Silicon Valley's past, present, and future, AI, productivity, Stripe, crypto, Musk, media, and more (Cheeky Pint)",
+            "link": "http://www.techmeme.com/251001/p31#a251001p31",
+            "published": "Wed, 01 Oct 2025 09:55:01 -0400"
+        },
+        {
+            "title": "Sources: Qualcomm adopts Arm's latest v9 architecture for its new generation of PC and phone chips, joining rivals like MediaTek and, analysts believe, Apple (Reuters)",
+            "link": "http://www.techmeme.com/251001/p30#a251001p30",
+            "published": "Wed, 01 Oct 2025 09:35:02 -0400"
+        },
+        {
             "title": "Amazon unveils Amazon Grocery, a new private-label brand that offers 1,000+ grocery items largely priced below $5, available online and at Amazon Fresh stores (Robin Ajello/Bloomberg)",
             "link": "http://www.techmeme.com/251001/p29#a251001p29",
             "published": "Wed, 01 Oct 2025 09:30:55 -0400"
-        },
-        {
-            "title": "Amazon unveils updates to Luna, including adding AAA games like Hogwarts Legacy and new GameNight original party games, available to Prime subscribers (Jennifer Maas/Variety)",
-            "link": "http://www.techmeme.com/251001/p28#a251001p28",
-            "published": "Wed, 01 Oct 2025 09:19:17 -0400"
-        },
-        {
-            "title": "Google Home Speaker hands-on: the new $99 speaker is a similar size to the HomePod mini, comes in four colors, and Gemini is a vastly improved assistant (Jennifer Pattison Tuohy/The Verge)",
-            "link": "http://www.techmeme.com/251001/p27#a251001p27",
-            "published": "Wed, 01 Oct 2025 09:15:59 -0400"
-        },
-        {
-            "title": "Google unveils new Home products: $99 Google Home Speaker, set for spring 2026, third-gen $100 Nest Cam Indoor, second-gen $150 Nest Cam Outdoor, and more (Chris Welch/Bloomberg)",
-            "link": "http://www.techmeme.com/251001/p26#a251001p26",
-            "published": "Wed, 01 Oct 2025 09:09:44 -0400"
-        },
-        {
-            "title": "Meta plans to start using users' AI chatbot conversations to help personalize ads and content, starting December 16, but not in the UK, South Korea, and the EU (Meghan Bobrowsky/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251001/p24#a251001p24",
-            "published": "Wed, 01 Oct 2025 09:08:37 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 01 Oct 2025 02:52:31 +0000"
         },
         {
-            "title": "China Displays Its Gizmos and Ambition, but Fewer Answers on Trade",
+            "title": "A Tech Expo Shows What China Can Make, but Not Who\u2019ll Buy It All",
             "link": "https://www.nytimes.com/2025/10/01/world/asia/china-tech-trade.html",
-            "published": "Wed, 01 Oct 2025 13:09:59 +0000"
+            "published": "Wed, 01 Oct 2025 13:46:45 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Government issues new data demand for UK Apple users",
+            "link": "https://www.bbc.com/news/articles/c740r0m4mzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 01 Oct 2025 14:26:29 GMT"
+        },
         {
             "title": "Snapchat to charge users for storing their old photos and videos",
             "link": "https://www.bbc.com/news/articles/cz69238p5p8o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "AO boss tells BBC: We're a British success story \u2013 the UK should be turbocharging us",
             "link": "https://www.bbc.com/news/articles/c8exj892085o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 30 Sep 2025 23:28:26 GMT"
-        },
-        {
-            "title": "Imgur blocks access to UK users after regulator warned of fine",
-            "link": "https://www.bbc.com/news/articles/c4gzxv5gy3qo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 30 Sep 2025 13:19:57 GMT"
         }
     ]
 }
