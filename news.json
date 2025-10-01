@@ -1,17 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Memo: Microsoft CEO Satya Nadella is handing off some of his business responsibilities to Judson Althoff, who will become CEO of Microsoft's commercial business (Matt Day/Bloomberg)",
+            "title": "Microsoft launches a $19.99 per month Microsoft 365 Premium subscription, bundling Copilot Pro and Microsoft 365 Family subscriptions along with cloud storage (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/251001/p35#a251001p35",
+            "published": "Wed, 01 Oct 2025 12:25:01 -0400"
+        },
+        {
+            "title": "Satya Nadella hands marketing and operations oversight to Judson Althoff, naming him CEO of Microsoft's commercial business, to focus more on technical work (Matt Day/Bloomberg)",
             "link": "http://www.techmeme.com/251001/p34#a251001p34",
             "published": "Wed, 01 Oct 2025 11:15:59 -0400"
         },
         {
-            "title": "Microsoft makes Xbox Cloud Gaming generally available, removing its beta tag after over five years, adds 1440p support, and raises bitrate quality to 27Mbps (Tom Warren/The Verge)",
+            "title": "Microsoft makes Xbox Cloud Gaming generally available, removing its beta tag after over five years, adds 1440p support, and raises the bitrate quality to 27Mbps (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/251001/p33#a251001p33",
             "published": "Wed, 01 Oct 2025 10:08:39 -0400"
         },
         {
-            "title": "Microsoft raises the Xbox Game Pass Ultimate subscription price from $19.99 to $29.99 per month, rebrands Xbox Game Pass Core and Standard plans, and more (Tom Warren/The Verge)",
+            "title": "Microsoft raises its Xbox Game Pass Ultimate subscription price from $19.99/month to $29.99/month, rebrands Xbox Game Pass Core and Standard plans, and more (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/251001/p32#a251001p32",
             "published": "Wed, 01 Oct 2025 10:07:02 -0400"
         },
@@ -19,14 +24,19 @@
             "title": "Q&A with Marc Andreessen and investor Charlie Songhurst on Silicon Valley's past, present, and future, AI, productivity, Stripe, crypto, Musk, media, and more (Cheeky Pint)",
             "link": "http://www.techmeme.com/251001/p31#a251001p31",
             "published": "Wed, 01 Oct 2025 09:55:01 -0400"
-        },
-        {
-            "title": "Sources: Qualcomm adopts Arm's latest v9 architecture for its new generation of PC and phone chips, joining rivals like MediaTek and, analysts believe, Apple (Reuters)",
-            "link": "http://www.techmeme.com/251001/p30#a251001p30",
-            "published": "Wed, 01 Oct 2025 09:35:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Spam and Scams Proliferate in Facebook\u2019s Political Ads",
+            "link": "https://www.nytimes.com/2025/10/01/technology/facebooks-political-ads-deepfakes-scams.html",
+            "published": "Wed, 01 Oct 2025 14:43:41 +0000"
+        },
+        {
+            "title": "A Tech Expo Shows What China Can Make, but Not Who\u2019ll Buy It All",
+            "link": "https://www.nytimes.com/2025/10/01/world/asia/china-tech-trade.html",
+            "published": "Wed, 01 Oct 2025 13:46:45 +0000"
+        },
         {
             "title": "Top A.I. Researchers Leave OpenAI, Google and Meta for New Start-Up",
             "link": "https://www.nytimes.com/2025/09/30/technology/ai-meta-google-openai-periodic.html",
@@ -38,19 +48,9 @@
             "published": "Tue, 30 Sep 2025 11:06:50 +0000"
         },
         {
-            "title": "YouTube Settles Trump Lawsuit Over Account Suspension for $24.5 Million",
-            "link": "https://www.nytimes.com/2025/09/29/technology/youtube-trump-lawsuit-settlement.html",
-            "published": "Tue, 30 Sep 2025 18:14:09 +0000"
-        },
-        {
-            "title": "California\u2019s Gavin Newsom Signs Major AI Safety Law",
-            "link": "https://www.nytimes.com/2025/09/29/technology/california-ai-safety-law.html",
-            "published": "Wed, 01 Oct 2025 02:52:31 +0000"
-        },
-        {
-            "title": "Spam and Scams Proliferate in Facebook\u2019s Political Ads",
-            "link": "https://www.nytimes.com/2025/10/01/technology/facebooks-political-ads-deepfakes-scams.html",
-            "published": "Wed, 01 Oct 2025 14:43:41 +0000"
+            "title": "Uber Not Responsible for Sex Assault, Jury Finds, as More Cases Follow",
+            "link": "https://www.nytimes.com/2025/09/30/technology/uber-sexual-assualt-bellwether-lawsuit.html",
+            "published": "Wed, 01 Oct 2025 03:20:00 +0000"
         }
     ],
     "source_2": [
