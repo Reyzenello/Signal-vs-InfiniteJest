@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: China curbs the use of European suppliers Nokia and Ericsson in its telecoms networks, requiring lengthy national security reviews for their contracts (Financial Times)",
+            "link": "http://www.techmeme.com/251001/p46#a251001p46",
+            "published": "Wed, 01 Oct 2025 20:55:02 -0400"
+        },
+        {
+            "title": "Sources: Yahoo nears a deal to sell AOL to Italian app developer Bending Spoons for ~$1.4B; AOL.com's traffic has recently grown 20% YoY among users aged 25-54 (Reuters)",
+            "link": "http://www.techmeme.com/251001/p45#a251001p45",
+            "published": "Wed, 01 Oct 2025 20:15:05 -0400"
+        },
+        {
+            "title": "Seattle-based Phaidra, which develops AI agents to help make data centers more resource efficient, raised over $50M in a Series B led by Collaborative Fund (Alan Neuhauser/Axios)",
+            "link": "http://www.techmeme.com/251001/p44#a251001p44",
+            "published": "Wed, 01 Oct 2025 19:45:00 -0400"
+        },
+        {
             "title": "Brave says it has surpassed 100M monthly active users across desktop and mobile worldwide, with 42M+ DAUs, and Brave Search handles 1.6B+ queries each month (Paul Thurrott/Thurrott)",
             "link": "http://www.techmeme.com/251001/p43#a251001p43",
             "published": "Wed, 01 Oct 2025 18:40:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Apple has paused development of a lighter Vision Pro to focus on smart glasses, a no-display model for a 2027 release, and a model with a display later (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/251001/p42#a251001p42",
             "published": "Wed, 01 Oct 2025 17:40:01 -0400"
-        },
-        {
-            "title": "Sora, which is fun and simple to use, shows that OpenAI remains good at creating viral products, unlike Meta, whose Vibes video feed feels half-baked and obtuse (M.G. Siegler/Spyglass)",
-            "link": "http://www.techmeme.com/251001/p41#a251001p41",
-            "published": "Wed, 01 Oct 2025 17:10:01 -0400"
-        },
-        {
-            "title": "T-Mobile expands its Starlink satellite service to support apps such as WhatsApp, Google Maps, and X, after launching it in July with basic features like SMS (Harshita Mary Varghese/Reuters)",
-            "link": "http://www.techmeme.com/251001/p40#a251001p40",
-            "published": "Wed, 01 Oct 2025 16:45:01 -0400"
-        },
-        {
-            "title": "Stockholm-based driverless truck startup Einride raised about $100M, a source says at a $1B+ valuation, up from a valuation of \u20ac400M in a 2021 funding round (Rafaela Lindeberg/Bloomberg)",
-            "link": "http://www.techmeme.com/251001/p39#a251001p39",
-            "published": "Wed, 01 Oct 2025 15:46:03 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Wed, 01 Oct 2025 23:01:12 GMT"
         },
         {
+            "title": "Musk becomes world's first half-trillionaire",
+            "link": "https://www.bbc.com/news/articles/c89d3547npjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 02 Oct 2025 01:45:44 GMT"
+        },
+        {
             "title": "Government issues new data demand for UK Apple users",
             "link": "https://www.bbc.com/news/articles/c740r0m4mzjo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Oct 2025 14:26:29 GMT"
@@ -73,11 +78,6 @@
             "title": "Pinterest boss says he thinks about Molly Russell every day",
             "link": "https://www.bbc.com/news/articles/c62lj72zyy5o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Oct 2025 06:12:08 GMT"
-        },
-        {
-            "title": "Half of UK adults now regularly use mobile payments",
-            "link": "https://www.bbc.com/news/articles/c2ejvld0ypyo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 01 Oct 2025 08:49:07 GMT"
         }
     ]
 }
