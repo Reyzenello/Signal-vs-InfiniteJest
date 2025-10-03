@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Microsoft is testing ad-supported games streaming internally, allowing employees to play select titles for free without a Game Pass subscription (Tom Warren/The Verge)",
+            "title": "Oneleet, which offers a platform for penetration testing, code scanning, attack surface monitoring, and more, raised a $33M Series A led by Dawn Capital (Ionut Arghire/SecurityWeek)",
+            "link": "http://www.techmeme.com/251003/p16#a251003p16",
+            "published": "Fri, 03 Oct 2025 12:25:01 -0400"
+        },
+        {
+            "title": "Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M (Rebecca Torrence/Business Insider)",
+            "link": "http://www.techmeme.com/251003/p15#a251003p15",
+            "published": "Fri, 03 Oct 2025 11:55:02 -0400"
+        },
+        {
+            "title": "Sources: Microsoft is testing ad-supported games streaming internally, allowing employees to play select titles for free without an Xbox Game Pass subscription (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/251003/p14#a251003p14",
             "published": "Fri, 03 Oct 2025 11:25:06 -0400"
         },
@@ -11,19 +21,9 @@
             "published": "Fri, 03 Oct 2025 11:00:38 -0400"
         },
         {
-            "title": "Lapsus$ publishes a data leak site on the dark web threatening to release about ~1B records stolen from Salesforce-hosted customer databases (TechCrunch)",
+            "title": "Lapsus$ publishes a data leak site on the dark web that threatens to release ~1B records allegedly stolen from dozens of companies' Salesforce-hosted databases (TechCrunch)",
             "link": "http://www.techmeme.com/251003/p12#a251003p12",
             "published": "Fri, 03 Oct 2025 10:40:03 -0400"
-        },
-        {
-            "title": "CISA, the key law that helps the federal government guard against cyber threats to US critical systems, expired when the government shut down (Politico)",
-            "link": "http://www.techmeme.com/251003/p11#a251003p11",
-            "published": "Fri, 03 Oct 2025 10:30:00 -0400"
-        },
-        {
-            "title": "Feedzai, which uses AI to detect and prevent financial crimes, raised ~$75M at a $2B valuation (Duncan Riley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/251003/p10#a251003p10",
-            "published": "Fri, 03 Oct 2025 10:10:03 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Apple pulls US immigration official tracking apps",
             "link": "https://www.bbc.com/news/articles/c708y1egzlko?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 03 Oct 2025 14:12:47 GMT"
+            "published": "Fri, 03 Oct 2025 15:52:00 GMT"
         },
         {
             "title": "TikTok recommends porn to children, says report",
