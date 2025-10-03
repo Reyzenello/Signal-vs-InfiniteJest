@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "TechInsights: Huawei used components from TSMC, Samsung, and SK Hynix in some of its Ascend 910C chips; TSMC says the parts are from a reported incident in 2024 (Mackenzie Hawkins/Bloomberg)",
+            "title": "AI chip startup Groq, last valued at $6.9B, says it plans to break ground on 12+ new data centers in 2026; Groq has set up 12 data centers in 2025 so far (Kimberley Kao/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251003/p5#a251003p5",
+            "published": "Fri, 03 Oct 2025 07:10:02 -0400"
+        },
+        {
+            "title": "TechInsights: Huawei used components from TSMC, Samsung, and SK Hynix in some of its Ascend 910C chips; TSMC says the analyzed dies were made before Oct. 2024 (Mackenzie Hawkins/Bloomberg)",
             "link": "http://www.techmeme.com/251003/p4#a251003p4",
             "published": "Fri, 03 Oct 2025 06:05:05 -0400"
         },
@@ -11,7 +16,7 @@
             "published": "Fri, 03 Oct 2025 05:50:01 -0400"
         },
         {
-            "title": "An interview with CEO Amjad Masad on Replit's slow growth, leaving the professional developer market to focus on non-technical white-collar workers, and more (Connie Loizos/TechCrunch)",
+            "title": "An interview with Replit CEO Amjad Masad on its $3B valuation, rapid growth, pivoting to non-technical white-collar workers, its $350M war chest, and more (Connie Loizos/TechCrunch)",
             "link": "http://www.techmeme.com/251003/p2#a251003p2",
             "published": "Fri, 03 Oct 2025 04:35:01 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "a16z releases a report, with Mercury data, on the top 50 AI companies startups pay for; OpenAI leads, followed by Anthropic, Replit, Freepik, and ElevenLabs (Dominic-Madori Davis/TechCrunch)",
             "link": "http://www.techmeme.com/251003/p1#a251003p1",
             "published": "Fri, 03 Oct 2025 02:00:00 -0400"
-        },
-        {
-            "title": "Strava sues Garmin for allegedly infringing two patents related to its segments and heatmap features and violating a 2015 agreement between the companies (Ray Maker/DC Rainmaker)",
-            "link": "http://www.techmeme.com/251002/p44#a251002p44",
-            "published": "Thu, 02 Oct 2025 23:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Tue, 30 Sep 2025 17:04:21 +0000"
         },
         {
-            "title": "OpenAI\u2019s Sora Makes Disinformation Extremely Easy and Extremely Real",
-            "link": "https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html",
-            "published": "Fri, 03 Oct 2025 09:03:26 +0000"
+            "title": "Sora and the Infinite Slop Feeds + ChatGPT Goes to Therapy + Hot Mess Express",
+            "link": "https://www.nytimes.com/2025/10/03/podcasts/sora-and-the-infinite-slop-feeds-chatgpt-goes-to-therapy-hot-mess-express.html",
+            "published": "Fri, 03 Oct 2025 11:00:06 +0000"
         }
     ],
     "source_2": [
