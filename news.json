@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: BlackRock's GIP is in talks to buy Aligned, which operates 78 data centers across North and South America, in a deal that could value Aligned at ~$40B (Bloomberg)",
+            "link": "http://www.techmeme.com/251003/p8#a251003p8",
+            "published": "Fri, 03 Oct 2025 09:20:00 -0400"
+        },
+        {
             "title": "Doc: Amazon's Q Business AI assistant struggled with accuracy and data processing in its first year, drawing complaints; Amazon says the document is outdated (Eugene Kim/Business Insider)",
             "link": "http://www.techmeme.com/251003/p7#a251003p7",
             "published": "Fri, 03 Oct 2025 08:20:02 -0400"
@@ -19,11 +24,6 @@
             "title": "TechInsights: Huawei used components from TSMC, Samsung, and SK Hynix in some of its Ascend 910C chips; TSMC says the analyzed dies were made before Oct. 2024 (Mackenzie Hawkins/Bloomberg)",
             "link": "http://www.techmeme.com/251003/p4#a251003p4",
             "published": "Fri, 03 Oct 2025 06:05:05 -0400"
-        },
-        {
-            "title": "Indonesia suspends TikTok's local operating license, saying it failed to share complete livestream activity data during protests following a government request (Chandra Asmara/Bloomberg)",
-            "link": "http://www.techmeme.com/251003/p3#a251003p3",
-            "published": "Fri, 03 Oct 2025 05:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple pulls US immigration official tracking apps",
+            "link": "https://www.bbc.com/news/articles/c708y1egzlko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 03 Oct 2025 13:13:39 GMT"
+        },
+        {
             "title": "TikTok recommends porn to children, says report",
             "link": "https://www.bbc.com/news/articles/c708v7qkeg1o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 03 Oct 2025 00:45:54 GMT"
@@ -73,11 +78,6 @@
             "title": "Xbox Game Pass price increase angers players",
             "link": "https://www.bbc.com/news/articles/ckgepkwpkg4o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 02 Oct 2025 11:51:03 GMT"
-        },
-        {
-            "title": "Musk becomes world's first half-trillionaire",
-            "link": "https://www.bbc.com/news/articles/c89d3547npjo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 02 Oct 2025 01:45:44 GMT"
         }
     ]
 }
