@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Feedzai, which uses AI to detect and prevent financial crimes, raised ~$75M at a $2B valuation (Duncan Riley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/251003/p10#a251003p10",
+            "published": "Fri, 03 Oct 2025 10:10:03 -0400"
+        },
+        {
+            "title": "OpenAI's invite-only Sora app, launched on Tuesday, becomes the top free app in the US App Store, surpassing Gemini and ChatGPT (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/251003/p9#a251003p9",
+            "published": "Fri, 03 Oct 2025 09:45:09 -0400"
+        },
+        {
             "title": "Sources: BlackRock's GIP is in talks to buy Aligned, which operates 78 data centers across North and South America, in a deal that could value Aligned at ~$40B (Bloomberg)",
             "link": "http://www.techmeme.com/251003/p8#a251003p8",
             "published": "Fri, 03 Oct 2025 09:20:00 -0400"
@@ -14,50 +24,40 @@
             "title": "Supabase, an open-source rival to Google's Firebase, raised a $100M Series E led by Accel and Peak XV at a $5B valuation, bringing its total funding to $500M+ (Allie Garfinkle/Fortune)",
             "link": "http://www.techmeme.com/251003/p6#a251003p6",
             "published": "Fri, 03 Oct 2025 07:35:04 -0400"
-        },
-        {
-            "title": "AI chip startup Groq, last valued at $6.9B, says it plans to break ground on 12+ new data centers in 2026; Groq has set up 12 data centers in 2025 so far (Kimberley Kao/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251003/p5#a251003p5",
-            "published": "Fri, 03 Oct 2025 07:10:02 -0400"
-        },
-        {
-            "title": "TechInsights: Huawei used components from TSMC, Samsung, and SK Hynix in some of its Ascend 910C chips; TSMC says the analyzed dies were made before Oct. 2024 (Mackenzie Hawkins/Bloomberg)",
-            "link": "http://www.techmeme.com/251003/p4#a251003p4",
-            "published": "Fri, 03 Oct 2025 06:05:05 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "We Finally Have Free Anti-Robocall Tools That Work",
-            "link": "https://www.nytimes.com/2025/10/02/technology/personaltech/iphone-robocalls-screener-android.html",
-            "published": "Thu, 02 Oct 2025 19:31:52 +0000"
+            "title": "OpenAI\u2019s Sora Video App Is Jaw-Dropping (for Better and Worse)",
+            "link": "https://www.nytimes.com/2025/10/02/technology/openai-sora-video-app.html",
+            "published": "Thu, 02 Oct 2025 19:21:52 +0000"
         },
         {
-            "title": "Spam and Scams Proliferate in Facebook\u2019s Political Ads",
-            "link": "https://www.nytimes.com/2025/10/01/technology/facebooks-political-ads-deepfakes-scams.html",
-            "published": "Wed, 01 Oct 2025 14:43:41 +0000"
+            "title": "OpenAI\u2019s Sora Makes Disinformation Extremely Easy and Extremely Real",
+            "link": "https://www.nytimes.com/2025/10/03/technology/sora-openai-video-disinformation.html",
+            "published": "Fri, 03 Oct 2025 09:03:27 +0000"
         },
         {
-            "title": "A Tech Expo Shows What China Can Make, but Not Who\u2019ll Buy It All",
-            "link": "https://www.nytimes.com/2025/10/01/world/asia/china-tech-trade.html",
-            "published": "Wed, 01 Oct 2025 13:46:46 +0000"
-        },
-        {
-            "title": "Top A.I. Researchers Leave OpenAI, Google and Meta for New Start-Up",
-            "link": "https://www.nytimes.com/2025/09/30/technology/ai-meta-google-openai-periodic.html",
-            "published": "Tue, 30 Sep 2025 17:04:21 +0000"
+            "title": "OpenAI Completes Deal That Values It at $500 Billion",
+            "link": "https://www.nytimes.com/2025/10/02/technology/openai-deal-500-billion.html",
+            "published": "Thu, 02 Oct 2025 18:01:06 +0000"
         },
         {
             "title": "Sora and the Infinite Slop Feeds + ChatGPT Goes to Therapy + Hot Mess Express",
             "link": "https://www.nytimes.com/2025/10/03/podcasts/sora-and-the-infinite-slop-feeds-chatgpt-goes-to-therapy-hot-mess-express.html",
             "published": "Fri, 03 Oct 2025 11:00:06 +0000"
+        },
+        {
+            "title": "Apple Takes Down ICE Tracking Apps Amid Trump Pressure Campaign",
+            "link": "https://www.nytimes.com/2025/10/02/us/politics/apple-iceblock-app-store-trump.html",
+            "published": "Fri, 03 Oct 2025 03:47:17 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Apple pulls US immigration official tracking apps",
             "link": "https://www.bbc.com/news/articles/c708y1egzlko?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 03 Oct 2025 13:13:39 GMT"
+            "published": "Fri, 03 Oct 2025 14:12:47 GMT"
         },
         {
             "title": "TikTok recommends porn to children, says report",
