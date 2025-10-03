@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Uber acquihires Belgian data labeling startup Segments.ai to expand its lidar data labeling capabilities; its founders and staff will join Uber AI Solutions (Natalie Lung/Bloomberg)",
+            "link": "http://www.techmeme.com/251002/p43#a251002p43",
+            "published": "Thu, 02 Oct 2025 22:55:01 -0400"
+        },
+        {
+            "title": "IBM releases Granite 4.0, an open source \"enterprise-ready\" LLM family with a hybrid architecture, claiming it uses significantly less RAM than traditional LLMs (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/251002/p42#a251002p42",
+            "published": "Thu, 02 Oct 2025 22:05:01 -0400"
+        },
+        {
             "title": "Sources: delays in the deal to send Nvidia's AI chips to the UAE, announced in May, are frustrating Jensen Huang and administration officials like David Sacks (Wall Street Journal)",
             "link": "http://www.techmeme.com/251002/p41#a251002p41",
             "published": "Thu, 02 Oct 2025 21:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "A Google exec says Alphabet has been working for the past two years to technologically decouple its life sciences unit Verily so that it can be sold or spun off (Bloomberg)",
             "link": "http://www.techmeme.com/251002/p39#a251002p39",
             "published": "Thu, 02 Oct 2025 19:55:07 -0400"
-        },
-        {
-            "title": "OpenAI asks a US judge to dismiss a lawsuit alleging it hired away xAI employees to steal trade secrets, calling the case part of Musk's \"ongoing harassment\" (Blake Brittain/Reuters)",
-            "link": "http://www.techmeme.com/251002/p38#a251002p38",
-            "published": "Thu, 02 Oct 2025 19:30:00 -0400"
-        },
-        {
-            "title": "New York-based DualEntry, which offers AI-powered ERP software, raised a $90M Series A led by Lightspeed and Khosla Ventures, valuing the company at $415M (Krystal Hu/Reuters)",
-            "link": "http://www.techmeme.com/251002/p37#a251002p37",
-            "published": "Thu, 02 Oct 2025 18:45:12 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok recommends porn to children, says report",
+            "link": "https://www.bbc.com/news/articles/c708v7qkeg1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 03 Oct 2025 00:45:54 GMT"
+        },
+        {
             "title": "Hackers say they have deleted children's pictures and data after nursery attack backlash",
             "link": "https://www.bbc.com/news/articles/c8rv83mrlyyo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Oct 2025 23:01:12 GMT"
@@ -73,11 +78,6 @@
             "title": "Government issues new data demand for UK Apple users",
             "link": "https://www.bbc.com/news/articles/c740r0m4mzjo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Oct 2025 14:26:29 GMT"
-        },
-        {
-            "title": "Snapchat to charge users for storing their old photos and videos",
-            "link": "https://www.bbc.com/news/articles/cz69238p5p8o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 01 Oct 2025 10:13:56 GMT"
         }
     ]
 }
