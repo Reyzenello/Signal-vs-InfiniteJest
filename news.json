@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the SEC has been probing AppLovin over allegations that it violated platform partners' agreements to push more targeted ads to consumers; APP drops 14% (Olivia Solon/Bloomberg)",
+            "link": "http://www.techmeme.com/251006/p35#a251006p35",
+            "published": "Mon, 06 Oct 2025 16:25:01 -0400"
+        },
+        {
+            "title": "OpenAI announces API updates, including GPT-5 Pro, Sora 2 in preview, and gpt-realtime-mini, a voice model that is 70% cheaper than gpt-realtime (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/251006/p34#a251006p34",
+            "published": "Mon, 06 Oct 2025 15:40:01 -0400"
+        },
+        {
             "title": "Bee Maps, a decentralized mapping project powered by Hivemapper on the Solana blockchain, raised $32M to expand its network by distributing AI-enabled dashcams (CoinDesk)",
             "link": "http://www.techmeme.com/251006/p33#a251006p33",
             "published": "Mon, 06 Oct 2025 15:15:01 -0400"
@@ -14,23 +24,13 @@
             "title": "OpenAI launches AgentKit, a toolkit for building and deploying AI agents, including Agent Builder, which Sam Altman described as like Canva for building agents (Rebecca Bellan/TechCrunch)",
             "link": "http://www.techmeme.com/251006/p31#a251006p31",
             "published": "Mon, 06 Oct 2025 14:10:00 -0400"
-        },
-        {
-            "title": "OpenAI unveils a new feature in preview to let developers build apps that work directly inside ChatGPT, starting with Spotify, Figma, Expedia, and more (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/251006/p30#a251006p30",
-            "published": "Mon, 06 Oct 2025 14:05:02 -0400"
-        },
-        {
-            "title": "OpenAI unveils a new ChatGPT feature that lets users connect to third-party apps like Spotify and Zillow directly within the chatbot (Bloomberg)",
-            "link": "http://www.techmeme.com/251006/p29#a251006p29",
-            "published": "Mon, 06 Oct 2025 13:45:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How Elon Musk Is Bringing Sexy A.I. Chatbots to the Mainstream",
             "link": "https://www.nytimes.com/2025/10/06/technology/elon-musk-grok-sexy-chatbot.html",
-            "published": "Mon, 06 Oct 2025 17:06:59 +0000"
+            "published": "Mon, 06 Oct 2025 19:20:40 +0000"
         },
         {
             "title": "U.S. v. Google: What Each Side Argued for Fixing Google\u2019s Ad Tech Monopoly",
@@ -45,7 +45,7 @@
         {
             "title": "OpenAI Agrees to Use Computer Chips From AMD",
             "link": "https://www.nytimes.com/2025/10/06/technology/openai-amd-chips.html",
-            "published": "Mon, 06 Oct 2025 18:33:38 +0000"
+            "published": "Mon, 06 Oct 2025 18:33:39 +0000"
         },
         {
             "title": "Hacks at Marks & Spencer, Jaguar Land Rover and Co-op Disrupt UK Daily Life",
