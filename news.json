@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A look at major UK businesses hit by cyberattacks in 2025; a government survey estimates 43% of businesses and 30% of charities were hit in the past 12 months (Theo Leggett/BBC)",
+            "link": "http://www.techmeme.com/251006/p8#a251006p8",
+            "published": "Mon, 06 Oct 2025 04:10:02 -0400"
+        },
+        {
+            "title": "The European Securities and Markets Authority plans to centralize the regulation of stock exchanges, crypto companies, and clearing houses at an EU level (Martin Arnold/Financial Times)",
+            "link": "http://www.techmeme.com/251006/p7#a251006p7",
+            "published": "Mon, 06 Oct 2025 03:55:00 -0400"
+        },
+        {
             "title": "A look at OpenAI's search for the sites of its Stargate data centers in the US; OpenAI has received 800+ applications since January and has 20 finalist sites (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/251006/p6#a251006p6",
             "published": "Mon, 06 Oct 2025 03:00:01 -0400"
@@ -14,16 +24,6 @@
             "title": "A look at cost and viability concerns over small nuclear reactors in the US, as the government, tech companies, and investors bet on SMRs to power the AI boom (Martha Muir/Financial Times)",
             "link": "http://www.techmeme.com/251006/p4#a251006p4",
             "published": "Mon, 06 Oct 2025 01:35:00 -0400"
-        },
-        {
-            "title": "A profile of Riley Walz, whose tech-related pranks in San Francisco blend technical skill with social commentary, including a viral site to track parking police (Heather Knight/New York Times)",
-            "link": "http://www.techmeme.com/251006/p3#a251006p3",
-            "published": "Mon, 06 Oct 2025 01:10:01 -0400"
-        },
-        {
-            "title": "Melbourne-based Heidi Health, which is developing AI agents to assist doctors, raised a $65M Series B led by Point72, taking its total raised to $96.6M (Dominic-Madori Davis/TechCrunch)",
-            "link": "http://www.techmeme.com/251006/p2#a251006p2",
-            "published": "Mon, 06 Oct 2025 00:30:01 -0400"
         }
     ],
     "source_1": [
@@ -60,7 +60,7 @@
             "published": "Mon, 06 Oct 2025 01:33:58 GMT"
         },
         {
-            "title": "The true extent of cyber attacks on UK business - and the weak spots that allow them to happen",
+            "title": "The true cost of cyber attacks on UK business is greater than it seems",
             "link": "https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Oct 2025 00:52:33 GMT"
         },
@@ -70,14 +70,14 @@
             "published": "Sun, 05 Oct 2025 23:00:21 GMT"
         },
         {
+            "title": "Scientists grow mini human brains to power computers",
+            "link": "https://www.bbc.com/news/articles/cy7p1lzvxjro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 04 Oct 2025 01:39:04 GMT"
+        },
+        {
             "title": "Apple pulls US immigration official tracking apps",
             "link": "https://www.bbc.com/news/articles/c708y1egzlko?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 03 Oct 2025 15:52:00 GMT"
-        },
-        {
-            "title": "TikTok recommends porn to children, says report",
-            "link": "https://www.bbc.com/news/articles/c708v7qkeg1o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 03 Oct 2025 00:45:54 GMT"
         }
     ]
 }
