@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A live blog of OpenAI DevDay 2025, where the company is expected to announce a visual agent builder and other developer updates (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/251006/p27#a251006p27",
-            "published": "Mon, 06 Oct 2025 13:00:13 -0400"
+            "title": "OpenAI makes Codex generally available, and announces new features: Slack integration, a new Codex SDK, and new admin tools (OpenAI)",
+            "link": "http://www.techmeme.com/251006/p32#a251006p32",
+            "published": "Mon, 06 Oct 2025 14:15:04 -0400"
         },
         {
-            "title": "Coupa, a Thoma Bravo-owned supply chain tech company, acquires procurement tech startup Scoutbee, with the deal expected to close by the end of October (Colin Campbell/Axios)",
-            "link": "http://www.techmeme.com/251006/p26#a251006p26",
-            "published": "Mon, 06 Oct 2025 12:50:02 -0400"
+            "title": "OpenAI launches AgentKit, a toolkit for building and deploying AI agents, including Agent Builder, which Sam Altman described as like Canva for building agents (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/251006/p31#a251006p31",
+            "published": "Mon, 06 Oct 2025 14:10:00 -0400"
         },
         {
-            "title": "The DOJ and Google wrap up a two-week remedies hearing in the US v. Google ad tech trial; both sides will offer closing arguments in November (New York Times)",
-            "link": "http://www.techmeme.com/251006/p25#a251006p25",
-            "published": "Mon, 06 Oct 2025 12:35:00 -0400"
+            "title": "OpenAI unveils a new feature in preview to let developers build apps that work directly inside ChatGPT, starting with Spotify, Figma, Expedia, and more (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/251006/p30#a251006p30",
+            "published": "Mon, 06 Oct 2025 14:05:02 -0400"
         },
         {
-            "title": "Deloitte announces a deal to roll out Anthropic's Claude to more than 470,000 of its employees globally, marking Anthropic's largest enterprise deployment ever (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/251006/p24#a251006p24",
-            "published": "Mon, 06 Oct 2025 12:25:00 -0400"
+            "title": "OpenAI unveils a new ChatGPT feature that lets users connect to third-party apps like Spotify and Zillow directly within the chatbot (Bloomberg)",
+            "link": "http://www.techmeme.com/251006/p29#a251006p29",
+            "published": "Mon, 06 Oct 2025 13:45:01 -0400"
         },
         {
-            "title": "As part of the OpenAI-AMD deal, OpenAI will receive the first GW worth of AMD's Instinct MI450 chips in H2 2026, when the new chip is scheduled for deployment (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/251006/p23#a251006p23",
-            "published": "Mon, 06 Oct 2025 11:45:02 -0400"
+            "title": "Sam Altman says ChatGPT has reached 800M weekly active users, 4M developers \"have built with OpenAI\", and OpenAI processes over 6B tokens per minute on its API (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/251006/p28#a251006p28",
+            "published": "Mon, 06 Oct 2025 13:40:02 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "OpenAI Agrees to Use Computer Chips From AMD",
             "link": "https://www.nytimes.com/2025/10/06/technology/openai-amd-chips.html",
-            "published": "Mon, 06 Oct 2025 14:23:27 +0000"
+            "published": "Mon, 06 Oct 2025 18:33:38 +0000"
         },
         {
             "title": "Hacks at Marks & Spencer, Jaguar Land Rover and Co-op Disrupt UK Daily Life",
