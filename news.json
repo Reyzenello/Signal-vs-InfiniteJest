@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "SoftBank Group consolidates 13 robotics-related companies from its main group and 7 from Vision Fund 2 into a new holding company called SoftBank Robotics Group (Nikkei Asia)",
+            "link": "http://www.techmeme.com/251005/p23#a251005p23",
+            "published": "Sun, 05 Oct 2025 21:35:01 -0400"
+        },
+        {
+            "title": "A big portion of EA's cash flow will go toward servicing the $20B debt from the $55B sale, which even the most bullish analysts expect will lead to big layoffs (Jason Schreier/Bloomberg)",
+            "link": "http://www.techmeme.com/251005/p22#a251005p22",
+            "published": "Sun, 05 Oct 2025 20:00:14 -0400"
+        },
+        {
             "title": "PitchBook: US VCs have invested ~$14.2B in European AI startups so far in 2025, with founders saying US investors better fit the sector's high upfront costs (Anvee Bhutani/Wall Street Journal)",
             "link": "http://www.techmeme.com/251005/p21#a251005p21",
             "published": "Sun, 05 Oct 2025 19:15:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Polars, the Amsterdam-based startup behind the popular open-source library for data manipulation of the same name, raised a \u20ac18M Series A led by Accel (Anna Heim/TechCrunch)",
             "link": "http://www.techmeme.com/251005/p19#a251005p19",
             "published": "Sun, 05 Oct 2025 17:20:01 -0400"
-        },
-        {
-            "title": "SiPearl unveils Athena1, Europe's first high-performance CPU with up to 80 cores designed for civilian and military use, slated for commercial launch in H2 2027 (Anton Shilov/Tom's Hardware)",
-            "link": "http://www.techmeme.com/251005/p18#a251005p18",
-            "published": "Sun, 05 Oct 2025 16:35:01 -0400"
-        },
-        {
-            "title": "Alvys, an AI-powered logistics software provider, raised a $40M Series B led by RTP Global, bringing its total funding to $77M; Alvys has 1000+ customers (Mary Ann Azevedo/Crunchbase News)",
-            "link": "http://www.techmeme.com/251005/p17#a251005p17",
-            "published": "Sun, 05 Oct 2025 15:45:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "The true extent of cyber attacks on UK business - and the weak spots that allow them to happen",
+            "link": "https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 06 Oct 2025 00:52:33 GMT"
+        },
+        {
+            "title": "How China is challenging Nvidia's AI chip dominance",
+            "link": "https://www.bbc.com/news/articles/cgmz2vm3yv8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 05 Oct 2025 23:00:21 GMT"
+        },
+        {
             "title": "Apple pulls US immigration official tracking apps",
             "link": "https://www.bbc.com/news/articles/c708y1egzlko?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 03 Oct 2025 15:52:00 GMT"
@@ -68,16 +78,6 @@
             "title": "Japan faces Asahi beer shortage after cyber-attack",
             "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 03 Oct 2025 10:26:49 GMT"
-        },
-        {
-            "title": "Hackers say they have deleted children's pictures and data after nursery attack backlash",
-            "link": "https://www.bbc.com/news/articles/c8rv83mrlyyo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 01 Oct 2025 23:01:12 GMT"
-        },
-        {
-            "title": "Xbox Game Pass price increase angers players",
-            "link": "https://www.bbc.com/news/articles/ckgepkwpkg4o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 02 Oct 2025 11:51:03 GMT"
         }
     ]
 }
