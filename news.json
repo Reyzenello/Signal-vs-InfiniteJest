@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A profile of EA CEO Andrew Wilson, who is expected to stay in the role, as Silver Lake's Egon Durban hails him for building EA's \"crown jewel\" sports business (Isabella Simonetti/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251005/p25#a251005p25",
+            "published": "Sun, 05 Oct 2025 22:50:00 -0400"
+        },
+        {
+            "title": "Sources: Veeam, which offers data backup and disaster recovery tools, is in advanced talks to acquire data privacy management software maker Securiti for ~$1.8B (Bloomberg)",
+            "link": "http://www.techmeme.com/251005/p24#a251005p24",
+            "published": "Sun, 05 Oct 2025 22:10:00 -0400"
+        },
+        {
             "title": "SoftBank Group consolidates 13 robotics-related companies from its main group and 7 from Vision Fund 2 into a new holding company called SoftBank Robotics Group (Nikkei Asia)",
             "link": "http://www.techmeme.com/251005/p23#a251005p23",
             "published": "Sun, 05 Oct 2025 21:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "PitchBook: US VCs have invested ~$14.2B in European AI startups so far in 2025, with founders saying US investors better fit the sector's high upfront costs (Anvee Bhutani/Wall Street Journal)",
             "link": "http://www.techmeme.com/251005/p21#a251005p21",
             "published": "Sun, 05 Oct 2025 19:15:01 -0400"
-        },
-        {
-            "title": "Scorability, a college sports recruiting marketplace for athletes and coaches, raised $40M led by Bluestone Equity Partners, bringing its total funding to $51M (Jessica Golden/CNBC)",
-            "link": "http://www.techmeme.com/251005/p20#a251005p20",
-            "published": "Sun, 05 Oct 2025 18:30:01 -0400"
-        },
-        {
-            "title": "Polars, the Amsterdam-based startup behind the popular open-source library for data manipulation of the same name, raised a \u20ac18M Series A led by Accel (Anna Heim/TechCrunch)",
-            "link": "http://www.techmeme.com/251005/p19#a251005p19",
-            "published": "Sun, 05 Oct 2025 17:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple and Samsung users could be due share of \u00a3480m payout",
+            "link": "https://www.bbc.com/news/articles/cn0rn7rwk24o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 06 Oct 2025 01:33:58 GMT"
+        },
+        {
             "title": "The true extent of cyber attacks on UK business - and the weak spots that allow them to happen",
             "link": "https://www.bbc.com/news/articles/c5ye8zj5l4jo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Oct 2025 00:52:33 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok recommends porn to children, says report",
             "link": "https://www.bbc.com/news/articles/c708v7qkeg1o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 03 Oct 2025 00:45:54 GMT"
-        },
-        {
-            "title": "Japan faces Asahi beer shortage after cyber-attack",
-            "link": "https://www.bbc.com/news/articles/c0r0y14ly5ro?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 03 Oct 2025 10:26:49 GMT"
         }
     ]
 }
