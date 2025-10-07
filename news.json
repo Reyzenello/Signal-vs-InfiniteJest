@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google releases the Gemini 2.5 Computer Use model, built on Gemini 2.5 Pro's capabilities to power agents that can interact with UIs, in preview via the API (The Keyword)",
+            "link": "http://www.techmeme.com/251007/p28#a251007p28",
+            "published": "Tue, 07 Oct 2025 16:20:35 -0400"
+        },
+        {
+            "title": "Anthropic releases Petri, an open-source tool using AI agents for safety testing, and says it observed multiple cases of models attempting to blow the whistle (Anthropic)",
+            "link": "http://www.techmeme.com/251007/p27#a251007p27",
+            "published": "Tue, 07 Oct 2025 16:05:34 -0400"
+        },
+        {
             "title": "Sources: Dario Amodei is in India as Anthropic plans a Bengaluru office and explores a partnership with Reliance, seeking to expand in its second-largest market (Jagmeet Singh/TechCrunch)",
             "link": "http://www.techmeme.com/251007/p26#a251007p26",
             "published": "Tue, 07 Oct 2025 14:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Docusign's stock dropped 12% last week after OpenAI revealed an internal DocuGPT demo, highlighting OpenAI's potential sway over the current software market (Wired)",
             "link": "http://www.techmeme.com/251007/p24#a251007p24",
             "published": "Tue, 07 Oct 2025 13:20:32 -0400"
-        },
-        {
-            "title": "Mastodon plans to add Bluesky-like starter packs to suggest accounts to follow for new users, but will allow accounts to opt out of being included in Packs (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/251007/p23#a251007p23",
-            "published": "Tue, 07 Oct 2025 12:55:41 -0400"
-        },
-        {
-            "title": "Meta updates Reels on Facebook to prioritize showing fresher and more-relevant content, and adds AI search suggestions and friend bubbles like on Instagram (Katelyn Chedraoui/CNET)",
-            "link": "http://www.techmeme.com/251007/p22#a251007p22",
-            "published": "Tue, 07 Oct 2025 12:50:25 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Tesla Reveals Cheaper Versions of Model Y and Model 3",
             "link": "https://www.nytimes.com/2025/10/07/business/tesla-cheaper-model-y-3.html",
-            "published": "Tue, 07 Oct 2025 18:57:38 +0000"
+            "published": "Tue, 07 Oct 2025 19:21:10 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Two arrested over nursery cyber-attack",
+            "link": "https://www.bbc.com/news/articles/cpvlgzk0xvpo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 07 Oct 2025 20:17:50 GMT"
+        },
         {
             "title": "MrBeast: AI means it's 'scary times' for YouTube creators",
             "link": "https://www.bbc.com/news/articles/cm2zmm0ry67o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Chinese EV giant BYD sees UK sales soar by 880%",
             "link": "https://www.bbc.com/news/articles/c3w5jl2jgqwo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 07 Oct 2025 05:28:42 GMT"
-        },
-        {
-            "title": "Apple and Samsung users could be due share of \u00a3480m payout",
-            "link": "https://www.bbc.com/news/articles/cn0rn7rwk24o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 06 Oct 2025 09:04:05 GMT"
         }
     ]
 }
