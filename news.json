@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Dell says it now expects annual revenue to grow between 7% and 9%, up from its prior forecast of 3% to 4%, citing demand for AI infrastructure (Annie Palmer/CNBC)",
+            "title": "FurtherAI, which uses AI to automate insurance tasks such as claims processing, raised a $25M Series A led by a16z, bringing its total funding to $30M (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/251007/p16#a251007p16",
+            "published": "Tue, 07 Oct 2025 10:45:01 -0400"
+        },
+        {
+            "title": "JPMorgan Chase reports that $1.2T of debt is now tied to AI-related companies, making it the largest segment in the investment-grade market (Caleb Mutua/Bloomberg)",
+            "link": "http://www.techmeme.com/251007/p15#a251007p15",
+            "published": "Tue, 07 Oct 2025 10:35:21 -0400"
+        },
+        {
+            "title": "Dell says it now expects 7% to 9% annual revenue growth, up from its prior forecast of 3% to 4%, citing demand for compute, storage, and networking to deploy AI (Annie Palmer/CNBC)",
             "link": "http://www.techmeme.com/251007/p14#a251007p14",
             "published": "Tue, 07 Oct 2025 10:25:03 -0400"
         },
@@ -14,23 +24,18 @@
             "title": "Meanwhile, a Bermuda-regulated bitcoin life insurance provider, raised $82M from Apollo, Bain Capital, Haun Ventures, and others, after a $40M Series A in April (Muyao Shen/Bloomberg)",
             "link": "http://www.techmeme.com/251007/p12#a251007p12",
             "published": "Tue, 07 Oct 2025 09:05:12 -0400"
-        },
-        {
-            "title": "OpenAI's recent deals with Oracle, Nvidia, Samsung, AMD, SK Hynix, and others, plus its DevDay announcements, show it is making a play to be the Windows of AI (Ben Thompson/Stratechery)",
-            "link": "http://www.techmeme.com/251007/p11#a251007p11",
-            "published": "Tue, 07 Oct 2025 07:50:06 -0400"
-        },
-        {
-            "title": "Q&A with Patreon CEO Jack Conte on social media algorithms, studying music at Stanford, music streaming economics, creators, TikTok, influencers, AI, and more (Katie Drummond/Wired)",
-            "link": "http://www.techmeme.com/251007/p10#a251007p10",
-            "published": "Tue, 07 Oct 2025 07:25:00 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Recruiters Use A.I. to Scan R\u00e9sum\u00e9s. Applicants Are Trying to Trick It.",
+            "link": "https://www.nytimes.com/2025/10/07/business/ai-chatbot-prompts-resumes.html",
+            "published": "Tue, 07 Oct 2025 09:00:32 +0000"
+        },
+        {
             "title": "Elon Musk Gambles on Sexy A.I. Companions",
             "link": "https://www.nytimes.com/2025/10/06/technology/elon-musk-grok-sexy-chatbot.html",
-            "published": "Mon, 06 Oct 2025 20:57:11 +0000"
+            "published": "Mon, 06 Oct 2025 20:57:12 +0000"
         },
         {
             "title": "U.S. v. Google: What Each Side Argued for Fixing Google\u2019s Ad Tech Monopoly",
@@ -43,14 +48,9 @@
             "published": "Sun, 05 Oct 2025 09:00:21 +0000"
         },
         {
-            "title": "OpenAI Agrees to Use Computer Chips From AMD",
-            "link": "https://www.nytimes.com/2025/10/06/technology/openai-amd-chips.html",
-            "published": "Mon, 06 Oct 2025 18:33:39 +0000"
-        },
-        {
             "title": "Nobel Prize in Physics Is Awarded for Work in Quantum Mechanics",
             "link": "https://www.nytimes.com/2025/10/07/science/nobel-prize-physics.html",
-            "published": "Tue, 07 Oct 2025 13:52:22 +0000"
+            "published": "Tue, 07 Oct 2025 15:15:34 +0000"
         }
     ],
     "source_2": [
