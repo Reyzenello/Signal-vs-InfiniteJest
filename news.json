@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/251009/p11#a251009p11",
+            "published": "Thu, 09 Oct 2025 02:50:02 -0400"
+        },
+        {
+            "title": "A look at the risks of BNPL apps like Klarna on users' financial health, as credit cards adopt BNPL features and regulators struggle to categorize BNPL services (Amy X. Wang/New York Times)",
+            "link": "http://www.techmeme.com/251009/p10#a251009p10",
+            "published": "Thu, 09 Oct 2025 02:40:01 -0400"
+        },
+        {
             "title": "Berlin-based n8n, which lets businesses automate repetitive computing tasks through AI agents, raised $180M led by Accel at a $2.5B valuation (Yazhou Sun/Bloomberg)",
             "link": "http://www.techmeme.com/251009/p9#a251009p9",
             "published": "Thu, 09 Oct 2025 02:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Anthropic's weeklong anti-AI slop pop-up in NYC's West Village, part of its \"Keep Thinking\" Claude push, drew 5,000+ people and 10M+ social media impressions (Trishla Ostwal/Adweek)",
             "link": "http://www.techmeme.com/251009/p7#a251009p7",
             "published": "Thu, 09 Oct 2025 02:15:00 -0400"
-        },
-        {
-            "title": "TSMC reports Q3 revenue up 30% YoY to ~$32.5B, beating estimates, driven by AI chip demand; TSMC's Taipei-listed shares have gained 34% so far this year (Reuters)",
-            "link": "http://www.techmeme.com/251009/p6#a251009p6",
-            "published": "Thu, 09 Oct 2025 02:05:01 -0400"
-        },
-        {
-            "title": "The Ethereum Foundation announces the \"Privacy cluster\", a team of 47 blockchain industry experts developing protocol-level privacy features for the network (Vince Quill/Cointelegraph)",
-            "link": "http://www.techmeme.com/251009/p5#a251009p5",
-            "published": "Thu, 09 Oct 2025 01:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "ID photos of 70,000 users may have been leaked, Discord says",
+            "link": "https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 09 Oct 2025 06:45:00 GMT"
+        },
+        {
             "title": "ChatGPT image snares suspect in deadly Pacific Palisades fire",
             "link": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 09 Oct 2025 02:57:16 GMT"
@@ -73,11 +78,6 @@
             "title": "MrBeast: AI means it's 'scary times' for YouTube creators",
             "link": "https://www.bbc.com/news/articles/cm2zmm0ry67o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 07 Oct 2025 11:15:05 GMT"
-        },
-        {
-            "title": "Snapchat users share fury at upcoming fees for storing old photos and videos",
-            "link": "https://www.bbc.com/news/articles/c4g5ypl6nkzo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 06 Oct 2025 23:40:34 GMT"
         }
     ]
 }
