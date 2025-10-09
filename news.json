@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Austin-based Routefusion, whose API for financial institutions lets them embed accounts, payments, currency conversion, and compliance, raised a $26.7M Series A (Mary Ann Azevedo/Crunchbase News)",
+            "link": "http://www.techmeme.com/251009/p35#a251009p35",
+            "published": "Thu, 09 Oct 2025 10:15:00 -0400"
+        },
+        {
+            "title": "The US NHTSA opens a probe into 2.88M FSD-enabled Tesla vehicles over 50+ reports of traffic-safety violations like running red lights and a series of crashes (David Shepardson/Reuters)",
+            "link": "http://www.techmeme.com/251009/p34#a251009p34",
+            "published": "Thu, 09 Oct 2025 10:10:00 -0400"
+        },
+        {
+            "title": "Intel CTO Sachin Katti says 18A and Panther Lake are \"foundational to our future\" and manufacturing is \"mission critical, not just for Intel but for\" the US (New York Times)",
+            "link": "http://www.techmeme.com/251009/p33#a251009p33",
+            "published": "Thu, 09 Oct 2025 09:45:01 -0400"
+        },
+        {
             "title": "At a three-day Intel event in Arizona, executives repeatedly asserted that 18A is the most advanced chip production tech developed and deployed in the US (Ian King/Bloomberg)",
             "link": "http://www.techmeme.com/251009/p32#a251009p32",
             "published": "Thu, 09 Oct 2025 09:31:23 -0400"
@@ -9,24 +24,19 @@
             "title": "Intel unveils an 18A-based 2nm Clearwater Forest server CPU, launching in H1 2026 with up to 288 E-cores and more, produced in its Fab 52 plant in Arizona (InsideHPC)",
             "link": "http://www.techmeme.com/251009/p31#a251009p31",
             "published": "Thu, 09 Oct 2025 09:28:55 -0400"
-        },
-        {
-            "title": "Intel says 18A-based Panther Lake chips can deliver 50% more performance at similar power to Lunar Lake chips, details RibbonFET efficiency gains, and more (Jeffrey Kampman/Tom's Hardware)",
-            "link": "http://www.techmeme.com/251009/p30#a251009p30",
-            "published": "Thu, 09 Oct 2025 09:20:04 -0400"
-        },
-        {
-            "title": "Inside Intel's new 700-acre factories in the Arizona desert, which cost $32B and are starting large-scale 18A chip production, as it seeks to impress customers (Michael Acton/Financial Times)",
-            "link": "http://www.techmeme.com/251009/p29#a251009p29",
-            "published": "Thu, 09 Oct 2025 09:11:53 -0400"
-        },
-        {
-            "title": "Intel unveils Panther Lake, or Intel Core Ultra Series 3, the first chip built on its 18A process, coming to laptops and handhelds in late 2025 and early 2026 (Sean Hollister/The Verge)",
-            "link": "http://www.techmeme.com/251009/p28#a251009p28",
-            "published": "Thu, 09 Oct 2025 09:07:25 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Intel\u2019s Big Bet: Inside the Chipmaker\u2019s Make-or-Break Factory",
+            "link": "https://www.nytimes.com/2025/10/09/technology/intel-chip-factory-fab52.html",
+            "published": "Thu, 09 Oct 2025 13:00:11 +0000"
+        },
+        {
+            "title": "What the Arrival of A.I. Video Generators Like Sora Means for Us",
+            "link": "https://www.nytimes.com/2025/10/09/technology/personaltech/sora-ai-video-impact.html",
+            "published": "Thu, 09 Oct 2025 14:18:08 +0000"
+        },
         {
             "title": "Recruiters Use A.I. to Scan R\u00e9sum\u00e9s. Applicants Are Trying to Trick It.",
             "link": "https://www.nytimes.com/2025/10/07/business/ai-chatbot-prompts-resumes.html",
@@ -38,26 +48,16 @@
             "published": "Mon, 06 Oct 2025 20:57:12 +0000"
         },
         {
-            "title": "U.S. v. Google: What Each Side Argued for Fixing Google\u2019s Ad Tech Monopoly",
-            "link": "https://www.nytimes.com/2025/10/06/technology/google-ad-tech-arguments.html",
-            "published": "Mon, 06 Oct 2025 16:17:45 +0000"
-        },
-        {
-            "title": "Cows Wear High-Tech Collars Now",
-            "link": "https://www.nytimes.com/2025/10/05/technology/cows-ai-collars.html",
-            "published": "Sun, 05 Oct 2025 09:00:21 +0000"
-        },
-        {
-            "title": "Intel\u2019s Big Bet: Inside the Chipmaker\u2019s Make-or-Break Factory",
-            "link": "https://www.nytimes.com/2025/10/09/technology/intels-big-bet-inside-the-chipmakers-make-or-break-factory.html",
-            "published": "Thu, 09 Oct 2025 13:00:11 +0000"
+            "title": "His Lab Tested Cutting-Edge Spacecraft",
+            "link": "https://www.nytimes.com/2025/10/08/science/nsf-spacecraft-technology.html",
+            "published": "Wed, 08 Oct 2025 23:02:09 +0000"
         }
     ],
     "source_2": [
         {
             "title": "ID photos of 70,000 users may have been leaked, Discord says",
             "link": "https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 09 Oct 2025 06:45:00 GMT"
+            "published": "Thu, 09 Oct 2025 14:27:03 GMT"
         },
         {
             "title": "ChatGPT image snares suspect in deadly Pacific Palisades fire",
