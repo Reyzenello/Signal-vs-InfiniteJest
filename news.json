@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Kernel, which helps AI agents access the internet more efficiently via Chrome, raised $22M in seed and Series A led by Accel (Lucinda Shen/Axios)",
+            "link": "http://www.techmeme.com/251009/p47#a251009p47",
+            "published": "Thu, 09 Oct 2025 14:35:30 -0400"
+        },
+        {
+            "title": "Q&A with Google Cloud CEO Thomas Kurian on Gemini Enterprise, AI's labor implications, hype around AI agents, AI industry's circular investments, and more (Alex Kantrowitz/Big Technology)",
+            "link": "http://www.techmeme.com/251009/p46#a251009p46",
+            "published": "Thu, 09 Oct 2025 14:00:01 -0400"
+        },
+        {
+            "title": "A study finds that as few as 250 malicious documents can produce a \"backdoor\" vulnerability in an LLM, regardless of model size or training data volume (Anthropic)",
+            "link": "http://www.techmeme.com/251009/p45#a251009p45",
+            "published": "Thu, 09 Oct 2025 13:40:01 -0400"
+        },
+        {
             "title": "AWS launches Quick Suite, a chatbot and set of AI agents that can analyze sales data, produce reports, and summarize web content, set to replace Q Business (Matt Day/Bloomberg)",
             "link": "http://www.techmeme.com/251009/p44#a251009p44",
             "published": "Thu, 09 Oct 2025 12:25:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Germany scales back financial aid for its semiconductor industry, cutting \u20ac3B from its previously planned \u20ac15B in chip subsidies, to repair streets and bridges (Christina Kyriasoglou/Bloomberg)",
             "link": "http://www.techmeme.com/251009/p43#a251009p43",
             "published": "Thu, 09 Oct 2025 12:00:13 -0400"
-        },
-        {
-            "title": "Tigris, which is building a network of localized data storage centers that it claims can meet AI workloads' distributed compute needs, raised a $25M Series A (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/251009/p42#a251009p42",
-            "published": "Thu, 09 Oct 2025 11:35:10 -0400"
-        },
-        {
-            "title": "DoorDash partners with Serve Robotics to use its autonomous sidewalk delivery robots, starting in Los Angeles; Serve also partners with Uber; SERV jumps 20%+ (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/251009/p41#a251009p41",
-            "published": "Thu, 09 Oct 2025 11:25:01 -0400"
-        },
-        {
-            "title": "SoundCloud evolves into a more social platform with the introduction of new community-oriented features, including playlists based on friends' likes (Lauren Forristal/TechCrunch)",
-            "link": "http://www.techmeme.com/251009/p40#a251009p40",
-            "published": "Thu, 09 Oct 2025 11:20:06 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Mon, 06 Oct 2025 20:57:12 +0000"
         },
         {
-            "title": "In N.J. Governor\u2019s Race, Energy Costs Have Become a Central Issue",
-            "link": "https://www.nytimes.com/2025/10/09/business/new-jersey-electricity-prices-governor-election.html",
-            "published": "Thu, 09 Oct 2025 15:53:06 +0000"
+            "title": "A Mystery C.E.O. and Billions in Sales: Is China Buying Banned Nvidia Chips?",
+            "link": "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html",
+            "published": "Thu, 09 Oct 2025 18:27:06 +0000"
         }
     ],
     "source_2": [
