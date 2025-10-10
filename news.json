@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "FBI seizes all domains for a BreachForums variant operated by ShinyHunters; the hacker group says their Salesforce extortion campaign is unaffected (Bill Toulas/BleepingComputer)",
+            "link": "http://www.techmeme.com/251010/p7#a251010p7",
+            "published": "Fri, 10 Oct 2025 06:25:02 -0400"
+        },
+        {
+            "title": "Google is the first company to be designated with special status in the UK under new digital laws; the designation does not introduce any immediate requirements (Reuters)",
+            "link": "http://www.techmeme.com/251010/p6#a251010p6",
+            "published": "Fri, 10 Oct 2025 06:10:02 -0400"
+        },
+        {
+            "title": "The UK CMA designates Google with \"strategic market status\" in online search, but excludes Gemini; Google warns such oversight could slow product launches (Financial Times)",
+            "link": "http://www.techmeme.com/251010/p5#a251010p5",
+            "published": "Fri, 10 Oct 2025 05:55:01 -0400"
+        },
+        {
+            "title": "China opens an investigation into Qualcomm's acquisition of Autotalks, a chipmaker specializing in vehicle communications, over potential antitrust violations (Vlad Savov/Bloomberg)",
+            "link": "http://www.techmeme.com/251010/p4#a251010p4",
+            "published": "Fri, 10 Oct 2025 05:40:01 -0400"
+        },
+        {
             "title": "A profile of Singapore-based Megaspeed, which bought $2B of Nvidia chips and is under US probe for possibly helping Chinese companies evade export controls (New York Times)",
             "link": "http://www.techmeme.com/251010/p3#a251010p3",
             "published": "Fri, 10 Oct 2025 04:15:01 -0400"
-        },
-        {
-            "title": "OpenAI says GPT\u20115 instant and GPT\u20115 thinking cut political bias by 30% from earlier models, and show greater robustness to charged prompts (Ashley Gold/Axios)",
-            "link": "http://www.techmeme.com/251010/p2#a251010p2",
-            "published": "Fri, 10 Oct 2025 02:00:34 -0400"
-        },
-        {
-            "title": "Sources: China tightens customs checks on chip imports, starting with Nvidia's H20 and RTX Pro 6000D, after urging local tech companies to avoid Nvidia products (Financial Times)",
-            "link": "http://www.techmeme.com/251010/p1#a251010p1",
-            "published": "Fri, 10 Oct 2025 00:45:00 -0400"
-        },
-        {
-            "title": "Block debuts Square Bitcoin, a BTC wallet allowing US-based SMBs to convert up to 50% of daily sales into BTC now and accept BTC payments starting November 10 (Mat Di Salvo/Decrypt)",
-            "link": "http://www.techmeme.com/251009/p58#a251009p58",
-            "published": "Thu, 09 Oct 2025 23:40:01 -0400"
-        },
-        {
-            "title": "a16z hires ex-VMware CEO Raghu Raghuram as general partner overseeing AI infrastructure and growth investments and as a managing partner, replacing Scott Kupor (Natasha Mascarenhas/The Information)",
-            "link": "http://www.techmeme.com/251009/p57#a251009p57",
-            "published": "Thu, 09 Oct 2025 22:45:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google may be forced to make changes to search engine in UK",
+            "link": "https://www.bbc.com/news/articles/c98d7p8l9pro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Oct 2025 10:11:58 GMT"
+        },
+        {
             "title": "Huge buzz but a big gamble: Battlefield 6 takes aim at Call of Duty",
             "link": "https://www.bbc.com/news/articles/c8xrkxdkkrno?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Oct 2025 01:10:20 GMT"
@@ -73,11 +78,6 @@
             "title": "ID photos of 70,000 users may have been leaked, Discord says",
             "link": "https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 09 Oct 2025 14:27:03 GMT"
-        },
-        {
-            "title": "ChatGPT image snares suspect in deadly Pacific Palisades fire",
-            "link": "https://www.bbc.com/news/articles/c8exz5yg14ko?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 09 Oct 2025 02:57:16 GMT"
         }
     ]
 }
