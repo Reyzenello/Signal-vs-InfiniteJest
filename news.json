@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "China bans TechInsights from working with or receiving data from Chinese entities, citing national security concerns, after a report on Huawei's Ascend AI chips (Dylan Butts/CNBC)",
+            "link": "http://www.techmeme.com/251010/p11#a251010p11",
+            "published": "Fri, 10 Oct 2025 08:20:00 -0400"
+        },
+        {
+            "title": "Sources: SoftBank is nearing a deal for a $5B margin loan secured by Arm shares in order to fund additional investment in OpenAI later this year (Bloomberg)",
+            "link": "http://www.techmeme.com/251010/p10#a251010p10",
+            "published": "Fri, 10 Oct 2025 08:01:44 -0400"
+        },
+        {
+            "title": "Memo: Vishal Shah, Meta's VP of Metaverse, tells his team to use AI to \"go 5X faster\" and expects 80% of them to integrate AI into their day-to-day by Q4 (Jason Koebler/Wired)",
+            "link": "http://www.techmeme.com/251010/p9#a251010p9",
+            "published": "Fri, 10 Oct 2025 07:40:00 -0400"
+        },
+        {
             "title": "A new simulation from the European Central Bank shows that the digital euro could trigger a deposit outflow of up to \u20ac700B during a run on commercial banks (Reuters)",
             "link": "http://www.techmeme.com/251010/p8#a251010p8",
             "published": "Fri, 10 Oct 2025 06:35:01 -0400"
@@ -9,21 +24,6 @@
             "title": "FBI seizes all domains for a BreachForums variant operated by ShinyHunters; the hacker group says their Salesforce extortion campaign is unaffected (Bill Toulas/BleepingComputer)",
             "link": "http://www.techmeme.com/251010/p7#a251010p7",
             "published": "Fri, 10 Oct 2025 06:25:02 -0400"
-        },
-        {
-            "title": "Google is the first company to be designated with special status in the UK under new digital laws; the designation does not introduce any immediate requirements (Reuters)",
-            "link": "http://www.techmeme.com/251010/p6#a251010p6",
-            "published": "Fri, 10 Oct 2025 06:10:02 -0400"
-        },
-        {
-            "title": "The UK CMA designates Google with \"strategic market status\" in online search, but excludes Gemini; Google warns such oversight could slow product launches (Financial Times)",
-            "link": "http://www.techmeme.com/251010/p5#a251010p5",
-            "published": "Fri, 10 Oct 2025 05:55:01 -0400"
-        },
-        {
-            "title": "China opens an investigation into Qualcomm's acquisition of Autotalks, a chipmaker specializing in vehicle communications, over potential antitrust violations (Vlad Savov/Bloomberg)",
-            "link": "http://www.techmeme.com/251010/p4#a251010p4",
-            "published": "Fri, 10 Oct 2025 05:40:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI video app Sora hits 1 million downloads faster than ChatGPT",
+            "link": "https://www.bbc.com/news/articles/crkjgrvg6z4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Oct 2025 12:30:07 GMT"
+        },
+        {
             "title": "Google may be forced to make changes to search engine in UK",
             "link": "https://www.bbc.com/news/articles/c98d7p8l9pro?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Oct 2025 10:47:33 GMT"
@@ -73,11 +78,6 @@
             "title": "Tesla investigated over self-driving cars on wrong side of road",
             "link": "https://www.bbc.com/news/articles/cvg02rdxxz7o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 09 Oct 2025 15:41:56 GMT"
-        },
-        {
-            "title": "ID photos of 70,000 users may have been leaked, Discord says",
-            "link": "https://www.bbc.com/news/articles/c8jmzd972leo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 09 Oct 2025 14:27:03 GMT"
         }
     ]
 }
