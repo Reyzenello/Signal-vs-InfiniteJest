@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Raymond Zage and James Lu, who control most of Grindr, are in talks to take it private after a Temasek unit sold shares pledged for personal loans (Liz Hoffman/Semafor)",
+            "link": "http://www.techmeme.com/251013/p28#a251013p28",
+            "published": "Mon, 13 Oct 2025 12:45:01 -0400"
+        },
+        {
+            "title": "Apple says iPhone Air will go on sale in China on October 22, after initially delaying the launch due to regulatory issues with the device's eSIM-only design (Ryan Christoffel/9to5Mac)",
+            "link": "http://www.techmeme.com/251013/p27#a251013p27",
+            "published": "Mon, 13 Oct 2025 12:40:01 -0400"
+        },
+        {
             "title": "Apple says that its Apple TV+ streaming service has been renamed Apple TV, \"with a vibrant new identity\" (Eric Slivka/MacRumors)",
             "link": "http://www.techmeme.com/251013/p26#a251013p26",
             "published": "Mon, 13 Oct 2025 11:40:00 -0400"
@@ -14,33 +24,23 @@
             "title": "California Governor Gavin Newsom signs SB 243, which mandates safety protocols for AI chatbot companions, the first US state law to regulate such AI chatbots (Rebecca Bellan/TechCrunch)",
             "link": "http://www.techmeme.com/251013/p24#a251013p24",
             "published": "Mon, 13 Oct 2025 11:15:00 -0400"
-        },
-        {
-            "title": "California Governor Gavin Newsom signs AB 56, which requires that social media companies show users under 18 warning labels for \"profound\" mental health risks (Tyler Katzenberger/Politico)",
-            "link": "http://www.techmeme.com/251013/p23#a251013p23",
-            "published": "Mon, 13 Oct 2025 11:10:06 -0400"
-        },
-        {
-            "title": "Anduril plans to deliver ~100 units of its AI-powered EagleEye helmet and eyewear to the US Army by Q2 2026, replacing Microsoft's IVAS; Meta provided some tech (Brandi Vincent/DefenseScoop)",
-            "link": "http://www.techmeme.com/251013/p22#a251013p22",
-            "published": "Mon, 13 Oct 2025 11:00:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Factory Towns Revive as Defense Tech Makers Arrive",
+            "link": "https://www.nytimes.com/2025/10/13/technology/defense-tech-manufacturing-midwest-northeast.html",
+            "published": "Mon, 13 Oct 2025 09:01:06 +0000"
+        },
+        {
+            "title": "OpenAI Inks Deal With Broadcom to Design Its Own Chips for A.I.",
+            "link": "https://www.nytimes.com/2025/10/13/technology/openai-broadcom-chips-deal.html",
+            "published": "Mon, 13 Oct 2025 13:00:07 +0000"
+        },
+        {
             "title": "How \u2018TBPN\u2019 Became Silicon Valley\u2019s Newest Obsession",
             "link": "https://www.nytimes.com/2025/10/11/technology/tbpn-silicon-valley.html",
             "published": "Sat, 11 Oct 2025 09:00:47 +0000"
-        },
-        {
-            "title": "A Mystery C.E.O. and Billions in Sales: Is China Buying Banned Nvidia Chips?",
-            "link": "https://www.nytimes.com/2025/10/09/technology/nvidia-chips-china-megaspeed.html",
-            "published": "Thu, 09 Oct 2025 20:25:47 +0000"
-        },
-        {
-            "title": "Intel\u2019s Big Bet: Inside the Chipmaker\u2019s Make-or-Break Factory",
-            "link": "https://www.nytimes.com/2025/10/09/technology/intel-chip-factory-fab52.html",
-            "published": "Thu, 09 Oct 2025 13:00:11 +0000"
         },
         {
             "title": "ChatGPT\u2019s Platform Play + a Trillion-Dollar GPU Empire + the Queen of Slop",
@@ -48,16 +48,16 @@
             "published": "Fri, 10 Oct 2025 11:00:06 +0000"
         },
         {
-            "title": "OpenAI Inks Deal With Broadcom to Design Its Own Chips for A.I.",
-            "link": "https://www.nytimes.com/2025/10/13/technology/openai-broadcom-chips-deal.html",
-            "published": "Mon, 13 Oct 2025 13:00:07 +0000"
+            "title": "Riding the Wild Wave of Crypto Coverage",
+            "link": "https://www.nytimes.com/2025/10/10/insider/cryptocurrency-reporting.html",
+            "published": "Fri, 10 Oct 2025 07:00:05 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Vodafone admits 'major outage' as more than 130,000 report problems",
             "link": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 13 Oct 2025 16:27:55 GMT"
+            "published": "Mon, 13 Oct 2025 17:00:08 GMT"
         },
         {
             "title": "Windows 10 users urged to prepare for Microsoft pulling support",
