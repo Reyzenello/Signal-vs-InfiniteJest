@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: the Trump administration cut 176 CISA jobs last week as part of laying off 4,000+ US federal workers, and is likely to make further mass CISA layoffs (Cynthia B Brumfield/Metacurity)",
-            "link": "http://www.techmeme.com/251013/p19#a251013p19",
-            "published": "Mon, 13 Oct 2025 09:25:01 -0400"
+            "title": "Governor Gavin Newsom signs AB 1043, which requires device makers and app stores to verify user ages; Google, Meta, and OpenAI supported the bill (Tyler Katzenberger/Politico)",
+            "link": "http://www.techmeme.com/251013/p25#a251013p25",
+            "published": "Mon, 13 Oct 2025 11:20:01 -0400"
         },
         {
-            "title": "OpenAI and Broadcom agree to co-develop and deploy 10GW of custom AI chips to run OpenAI's models over four years; sources: the deal is worth multiple billions (Wall Street Journal)",
-            "link": "http://www.techmeme.com/251013/p18#a251013p18",
-            "published": "Mon, 13 Oct 2025 09:07:15 -0400"
+            "title": "California Governor Gavin Newsom signs SB 243, which mandates safety protocols for AI chatbot companions, the first state law to regulate such AI chatbots (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/251013/p24#a251013p24",
+            "published": "Mon, 13 Oct 2025 11:15:00 -0400"
         },
         {
-            "title": "Amazon plans to hire 250K workers for the 2025 holiday season, the same as in 2023 and 2024, including full-time and part-time, and will pay $19/hour on average (Spencer Soper/Bloomberg)",
-            "link": "http://www.techmeme.com/251013/p17#a251013p17",
-            "published": "Mon, 13 Oct 2025 08:25:00 -0400"
+            "title": "California Governor Gavin Newsom signs AB 56, which requires social media companies to add warning labels on mental health risks for users under 18 in the state (Tyler Katzenberger/Politico)",
+            "link": "http://www.techmeme.com/251013/p23#a251013p23",
+            "published": "Mon, 13 Oct 2025 11:10:06 -0400"
         },
         {
-            "title": "Slack is testing an AI-based version of Slackbot that acts as a personalized assistant, operating via AWS' virtual private cloud, rolling out at the end of 2025 (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/251013/p16#a251013p16",
-            "published": "Mon, 13 Oct 2025 08:15:02 -0400"
+            "title": "Anduril plans to make 100 units of its AI-powered EagleEye helmet and eyewear for the US Army by Q2 2026, replacing Microsoft's IVAS; Meta provided some tech (Brandi Vincent/DefenseScoop)",
+            "link": "http://www.techmeme.com/251013/p22#a251013p22",
+            "published": "Mon, 13 Oct 2025 11:00:01 -0400"
         },
         {
-            "title": "New York- and London-based ClaimSorted, which uses AI to help speed up insurance claims and works with 20+ insurers, raised a $13.3M seed led by Atomico (Robert Olsen/Forbes)",
-            "link": "http://www.techmeme.com/251013/p15#a251013p15",
-            "published": "Mon, 13 Oct 2025 07:50:03 -0400"
+            "title": "Salesforce plans to invest $15B in San Francisco over the next five years, including funding an AI Incubator Hub and workforce programs; CRM is down 25% in 2025 (Connor Hart/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251013/p21#a251013p21",
+            "published": "Mon, 13 Oct 2025 10:45:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Vodafone admits 'major outage' as more than 130,000 report problems",
+            "link": "https://www.bbc.com/news/articles/c5yldldx659o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 13 Oct 2025 15:16:38 GMT"
+        },
+        {
             "title": "Windows 10 users urged to prepare for Microsoft pulling support",
             "link": "https://www.bbc.com/news/articles/cy0vzegkqweo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 11 Oct 2025 23:04:50 GMT"
@@ -73,11 +78,6 @@
             "title": "How hackers forced brewing giant Asahi back to pen and paper",
             "link": "https://www.bbc.com/news/articles/cly64g5y744o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 11 Oct 2025 00:43:35 GMT"
-        },
-        {
-            "title": "OpenAI video app Sora hits 1 million downloads faster than ChatGPT",
-            "link": "https://www.bbc.com/news/articles/crkjgrvg6z4o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Oct 2025 12:30:07 GMT"
         }
     ]
 }
