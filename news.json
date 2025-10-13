@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the Trump administration cut 176 CISA jobs last week as part of laying off 4,000+ US federal workers, and is likely to make further mass CISA layoffs (Cynthia B Brumfield/Metacurity)",
+            "link": "http://www.techmeme.com/251013/p19#a251013p19",
+            "published": "Mon, 13 Oct 2025 09:25:01 -0400"
+        },
+        {
+            "title": "OpenAI agrees to acquire 10GW of chips from Broadcom and co-design custom GPUs with Broadcom to run its AI models; sources: the deal is worth multiple billions (Wall Street Journal)",
+            "link": "http://www.techmeme.com/251013/p18#a251013p18",
+            "published": "Mon, 13 Oct 2025 09:07:15 -0400"
+        },
+        {
             "title": "Amazon plans to hire 250K workers for the 2025 holiday season, the same as in 2023 and 2024, including full-time and part-time, and will pay $19/hour on average (Spencer Soper/Bloomberg)",
             "link": "http://www.techmeme.com/251013/p17#a251013p17",
             "published": "Mon, 13 Oct 2025 08:25:00 -0400"
         },
         {
-            "title": "Slack is testing an AI-based version of Slackbot that acts as a personalized assistant, operating via AWS' virtual private cloud, rolling out by the end of 2025 (Emma Roth/The Verge)",
+            "title": "Slack is testing an AI-based version of Slackbot that acts as a personalized assistant, operating via AWS' virtual private cloud, rolling out at the end of 2025 (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/251013/p16#a251013p16",
             "published": "Mon, 13 Oct 2025 08:15:02 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "New York- and London-based ClaimSorted, which uses AI to help speed up insurance claims and works with 20+ insurers, raised a $13.3M seed led by Atomico (Robert Olsen/Forbes)",
             "link": "http://www.techmeme.com/251013/p15#a251013p15",
             "published": "Mon, 13 Oct 2025 07:50:03 -0400"
-        },
-        {
-            "title": "Sources: London-based self-driving tech startup Wayve is in early stage talks with Microsoft and SoftBank to raise between $1B and $2B, valuing it at ~$8B (Financial Times)",
-            "link": "http://www.techmeme.com/251013/p14#a251013p14",
-            "published": "Mon, 13 Oct 2025 07:35:00 -0400"
-        },
-        {
-            "title": "CoinGecko: crypto's combined market cap rises 6% to hit $4T, recovering from a brutal weekend selloff as President Trump tries to calm US-China trade war fears (Bloomberg)",
-            "link": "http://www.techmeme.com/251013/p13#a251013p13",
-            "published": "Mon, 13 Oct 2025 07:20:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 10 Oct 2025 11:00:06 +0000"
         },
         {
-            "title": "Factory Towns Revive as Defense Tech Makers Arrive",
-            "link": "https://www.nytimes.com/2025/10/13/technology/defense-tech-manufacturing-midwest-northeast.html",
-            "published": "Mon, 13 Oct 2025 09:01:06 +0000"
+            "title": "OpenAI Inks Deal With Broadcom to Design Its Own Chips for A.I.",
+            "link": "https://www.nytimes.com/2025/10/13/technology/openai-broadcom-chips-deal.html",
+            "published": "Mon, 13 Oct 2025 13:00:07 +0000"
         }
     ],
     "source_2": [
