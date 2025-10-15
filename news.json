@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Coinbase invests in Indian crypto exchange CoinDCX to expand into India and the Middle East; CEO Sumit Gupta said the deal values CoinDCX at $2.45B post-money (Danny Park/The Block)",
+            "link": "http://www.techmeme.com/251014/p47#a251014p47",
+            "published": "Tue, 14 Oct 2025 23:40:01 -0400"
+        },
+        {
+            "title": "Reducto, which uses OCR with vision language models to convert complex documents into inputs for LLMs, raised a $75M Series B led by a16z at a $600M valuation (Stephanie Palazzolo/The Information)",
+            "link": "http://www.techmeme.com/251014/p46#a251014p46",
+            "published": "Tue, 14 Oct 2025 23:20:00 -0400"
+        },
+        {
             "title": "Finch, which offers a voice-based AI system to automate administrative tasks done by paralegals, raised a $20M Series A, source says at a $100M valuation (Rashi Shrivastava/Forbes)",
             "link": "http://www.techmeme.com/251014/p45#a251014p45",
             "published": "Tue, 14 Oct 2025 22:15:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Spotify's deal to bring video podcasts to Netflix bars shows from airing in full on YouTube; Netflix won't run ad breaks, but Spotify's integrated ads remain (New York Times)",
             "link": "http://www.techmeme.com/251014/p43#a251014p43",
             "published": "Tue, 14 Oct 2025 21:15:01 -0400"
-        },
-        {
-            "title": "Hands-on with Nvidia's DGX Spark: trades some performance and bandwidth for 128GB of unified memory, Nvidia's software ecosystem is valuable, and more (Tobias Mann/The Register)",
-            "link": "http://www.techmeme.com/251014/p42#a251014p42",
-            "published": "Tue, 14 Oct 2025 20:20:01 -0400"
-        },
-        {
-            "title": "Sources: Apple plans to build its upcoming indoor security camera, home hub, and tabletop robot in Vietnam as part an effort to lessen its dependence on China (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/251014/p41#a251014p41",
-            "published": "Tue, 14 Oct 2025 20:10:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 14 Oct 2025 23:19:53 GMT"
         },
         {
+            "title": "Bitcoin worth $14bn seized in US-UK crackdown on alleged scammers",
+            "link": "https://www.bbc.com/news/articles/c70jw436n0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 15 Oct 2025 03:51:04 GMT"
+        },
+        {
             "title": "Cyber attack contingency plans should be put on paper, firms told",
             "link": "https://www.bbc.com/news/articles/ced61xv967lo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 14 Oct 2025 10:30:10 GMT"
@@ -73,11 +78,6 @@
             "title": "Windows 10 users urged to prepare for Microsoft pulling support",
             "link": "https://www.bbc.com/news/articles/cy0vzegkqweo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 11 Oct 2025 23:04:50 GMT"
-        },
-        {
-            "title": "Dutch government takes control of China-owned chip firm",
-            "link": "https://www.bbc.com/news/articles/ckgk21nng0vo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 14 Oct 2025 03:14:28 GMT"
         }
     ]
 }
