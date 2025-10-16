@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Pinterest adds new tools to let users limit how much AI-generated content they see in their feed in certain categories, including beauty, art, and home decor (Sarah Perez/TechCrunch)",
+            "title": "Anthropic announces Skills for Claude, a tool with folders of instructions, scripts, and resources that Claude can load to improve performance on some tasks (Hayden Field/The Verge)",
+            "link": "http://www.techmeme.com/251016/p40#a251016p40",
+            "published": "Thu, 16 Oct 2025 12:10:10 -0400"
+        },
+        {
+            "title": "a16z Crypto invests $50M in Solana infrastructure provider Jito through a private token sale, likely one of a16z's largest crypto investments in recent years (Daniel Kuhn/The Block)",
+            "link": "http://www.techmeme.com/251016/p39#a251016p39",
+            "published": "Thu, 16 Oct 2025 12:00:14 -0400"
+        },
+        {
+            "title": "Ripple acquires GTreasury, a platform used by Fortune 500 companies for managing cash, foreign exchange, and risk, for $1B, set to close in the coming months (Krisztian Sandor/CoinDesk)",
+            "link": "http://www.techmeme.com/251016/p38#a251016p38",
+            "published": "Thu, 16 Oct 2025 11:45:01 -0400"
+        },
+        {
+            "title": "Pinterest adds new tools that let users limit how much AI-generated content they see in their feed in certain categories, including beauty, art, and home decor (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/251016/p37#a251016p37",
             "published": "Thu, 16 Oct 2025 11:25:01 -0400"
         },
         {
-            "title": "SharpLink Gaming, the second-largest publicly traded ether treasury firm, raised $76.5M in a direct stock offering priced above market (CoinDesk)",
+            "title": "Minneapolis-based SharpLink Gaming, the second largest publicly traded ether treasury firm, raised $76.5M in a direct offering of 4.5M shares at a 12% premium (CoinDesk)",
             "link": "http://www.techmeme.com/251016/p36#a251016p36",
             "published": "Thu, 16 Oct 2025 11:20:20 -0400"
-        },
-        {
-            "title": "DoorDash and Waymo announce a partnership to let DoorDash use Waymo's robotaxis for delivery, starting with deliveries from Phoenix's DashMart store (Andrew J. Hawkins/The Verge)",
-            "link": "http://www.techmeme.com/251016/p35#a251016p35",
-            "published": "Thu, 16 Oct 2025 11:15:09 -0400"
-        },
-        {
-            "title": "Commonwealth Fusion Systems partners with Google DeepMind to use Google's open-source plasma simulator, TORAX, for accelerating fusion energy development (Ina Fried/Axios)",
-            "link": "http://www.techmeme.com/251016/p34#a251016p34",
-            "published": "Thu, 16 Oct 2025 11:00:32 -0400"
-        },
-        {
-            "title": "General Intuition, which trains AI agents in spatial reasoning using game clips from Medal, raised a $133.7M seed led by Khosla Ventures and General Catalyst (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/251016/p33#a251016p33",
-            "published": "Thu, 16 Oct 2025 10:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Spotify working on AI music tools with major record labels",
+            "link": "https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 16 Oct 2025 16:26:39 GMT"
+        },
+        {
             "title": "Is Microsoft's first ever handheld Xbox console worth the wait?",
             "link": "https://www.bbc.com/news/articles/cqjwlnvx9jpo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 15 Oct 2025 23:11:22 GMT"
@@ -73,11 +78,6 @@
             "title": "Windows 10 users urged to prepare for Microsoft pulling support",
             "link": "https://www.bbc.com/news/articles/cy0vzegkqweo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 11 Oct 2025 23:04:50 GMT"
-        },
-        {
-            "title": "Outsourcing firm Capita fined \u00a314m after millions had data stolen",
-            "link": "https://www.bbc.com/news/articles/c9d6yxdq3d2o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 15 Oct 2025 09:55:32 GMT"
         }
     ]
 }
