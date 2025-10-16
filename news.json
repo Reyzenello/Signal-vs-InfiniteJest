@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI says all Sora 2 users can now generate videos up to 15 seconds on the app and web, while Pro users can generate videos up to 25 seconds on the web (@openai)",
+            "link": "http://www.techmeme.com/251015/p63#a251015p63",
+            "published": "Wed, 15 Oct 2025 23:45:49 -0400"
+        },
+        {
+            "title": "Liberate, which builds AI agents to automate insurance operations, raised a $50M Series B led by Battery Ventures at a $300M post-money valuation (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/251015/p62#a251015p62",
+            "published": "Wed, 15 Oct 2025 23:30:43 -0400"
+        },
+        {
+            "title": "Basis Theory, which provides data management and payments infrastructure tools, raised a $33M Series B led by Costanoa, taking its total funding to $50M (David Penn/Finovate)",
+            "link": "http://www.techmeme.com/251015/p61#a251015p61",
+            "published": "Wed, 15 Oct 2025 23:15:40 -0400"
+        },
+        {
             "title": "Sources: F5's breach is blamed on China, whose hackers had infiltrated F5's network for at least 12 months using the Brickstorm malware to steal source code (Bloomberg)",
             "link": "http://www.techmeme.com/251015/p60#a251015p60",
             "published": "Wed, 15 Oct 2025 22:50:01 -0400"
@@ -9,28 +24,13 @@
             "title": "Campfire, an AI-powered ERP and accounting services provider, raised a $65M Series B co-led by Accel and Ribbit Capital, after raising a $35M Series A in June (Mary Ann Azevedo/Crunchbase News)",
             "link": "http://www.techmeme.com/251015/p59#a251015p59",
             "published": "Wed, 15 Oct 2025 22:15:36 -0400"
-        },
-        {
-            "title": "Google releases Cell2Sentence-Scale 27B (C2S-Scale), a 27B-parameter foundation model for single-cell analysis built on its Gemma family of open models (The Keyword)",
-            "link": "http://www.techmeme.com/251015/p58#a251015p58",
-            "published": "Wed, 15 Oct 2025 21:50:00 -0400"
-        },
-        {
-            "title": "Paxos says it \"mistakenly minted\" $300T worth of PayPal's PYUSD stablecoin on Wednesday and \"burned\" the tokens a little over 20 minutes later (Ryan S. Gladwin/Decrypt)",
-            "link": "http://www.techmeme.com/251015/p57#a251015p57",
-            "published": "Wed, 15 Oct 2025 21:20:01 -0400"
-        },
-        {
-            "title": "Documents: Rhoda AI, which raised a $162.6M Series A in April, and Genesis AI, which raised a $105M seed earlier this year, have been developing humanoid robots (Anna Tong/Forbes)",
-            "link": "http://www.techmeme.com/251015/p56#a251015p56",
-            "published": "Wed, 15 Oct 2025 21:01:24 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Meta Removes Facebook Group That Shared Information on ICE Agents",
             "link": "https://www.nytimes.com/2025/10/15/technology/meta-removes-ice-facebook-page.html",
-            "published": "Wed, 15 Oct 2025 17:55:22 +0000"
+            "published": "Wed, 15 Oct 2025 17:55:23 +0000"
         },
         {
             "title": "Instagram Will Limit Content for Teenagers Based on PG-13 Ratings",
