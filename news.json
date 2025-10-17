@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Amazon's Twitch begins testing livestream shopping ads allowing users to buy products \"in real time\", starting with e.l.f. Cosmetics (Peter Adams/Marketing Dive)",
+            "link": "http://www.techmeme.com/251017/p19#a251017p19",
+            "published": "Fri, 17 Oct 2025 08:20:03 -0400"
+        },
+        {
+            "title": "Sources: French regulator ACPR is carrying out anti-money laundering checks on Binance and others, as it seeks to determine eligibility for EU MiCA licenses (Claudia Cohen/Bloomberg)",
+            "link": "http://www.techmeme.com/251017/p18#a251017p18",
+            "published": "Fri, 17 Oct 2025 08:10:01 -0400"
+        },
+        {
+            "title": "Israel-based Second Nature, whose conversational AI helps train sales teams, raised a $22M Series B led by Sienna VC, taking its total raised to $80M (Meir Orbach/CTech)",
+            "link": "http://www.techmeme.com/251017/p17#a251017p17",
+            "published": "Fri, 17 Oct 2025 08:00:54 -0400"
+        },
+        {
             "title": "EssilorLuxottica stock jumps 10%+ after reporting Q3 revenue up 11.7% YoY to \u20ac6.9B, with wearables like Ray-Ban Meta contributing 4 percentage points to growth (CNBC)",
             "link": "http://www.techmeme.com/251017/p16#a251017p16",
             "published": "Fri, 17 Oct 2025 06:55:05 -0400"
@@ -9,21 +24,6 @@
             "title": "Meta plans new Instagram teen safety tools in 2026, letting parents block teens from chatting with AI characters and sending them \"insights\" from teens' chats (Robert Hart/The Verge)",
             "link": "http://www.techmeme.com/251017/p15#a251017p15",
             "published": "Fri, 17 Oct 2025 06:25:02 -0400"
-        },
-        {
-            "title": "Anthropic's Skills for Claude, which are conceptually very simple, may become a bigger deal than MCP, whose high token usage is its most significant limitation (Simon Willison/Simon Willison's Weblog)",
-            "link": "http://www.techmeme.com/251017/p14#a251017p14",
-            "published": "Fri, 17 Oct 2025 05:20:02 -0400"
-        },
-        {
-            "title": "Reddit says it is expanding Reddit Answers, its Google Gemini-powered search experience, to five new languages: French, German, Spanish, Italian, and Portuguese (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/251017/p13#a251017p13",
-            "published": "Fri, 17 Oct 2025 04:25:01 -0400"
-        },
-        {
-            "title": "OpenAI says it paused Sora's ability to generate videos resembling MLK Jr. at the request of his estate, after some users created \"disrespectful depictions\" (Maxwell Zeff/TechCrunch)",
-            "link": "http://www.techmeme.com/251017/p12#a251017p12",
-            "published": "Fri, 17 Oct 2025 04:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI stops 'disrespectful' Martin Luther King Jr deepfakes",
+            "link": "https://www.bbc.com/news/articles/c5y0g79xevxo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 17 Oct 2025 12:17:01 GMT"
+        },
+        {
             "title": "Spotify working on AI music tools with major record labels",
             "link": "https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 16 Oct 2025 16:48:01 GMT"
@@ -73,11 +78,6 @@
             "title": "Scottish data centres powering AI already using enough water to fill 27 million bottles a year",
             "link": "https://www.bbc.com/news/articles/c77zxx43x4vo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 16 Oct 2025 05:11:26 GMT"
-        },
-        {
-            "title": "Cabinet Office rejects Cummings' China breach claim",
-            "link": "https://www.bbc.com/news/articles/ce3xz607dpro?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 16 Oct 2025 04:19:49 GMT"
         }
     ]
 }
