@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Alibaba Cloud details a GPU pooling system that it claims reduced the number of Nvidia H20 required by 82% when serving dozens of LLMs of up to 72B parameters (Vincent Chow/South China Morning Post)",
+            "link": "http://www.techmeme.com/251019/p16#a251019p16",
+            "published": "Sun, 19 Oct 2025 22:35:01 -0400"
+        },
+        {
             "title": "Q&A with Jimmy Wales on Wikipedia's decentralized model, right-wing attacks and political pressure, Elon Musk, protecting volunteer editors, and more (Lulu Garcia-Navarro/New York Times)",
             "link": "http://www.techmeme.com/251019/p15#a251019p15",
             "published": "Sun, 19 Oct 2025 20:50:01 -0400"
@@ -19,11 +24,6 @@
             "title": "A look at the Crylock ransomware scheme, orchestrated by a Russian couple who targeted as many as 400,000 victims and earned over \u20ac64M in BTC over eight years (Financial Times)",
             "link": "http://www.techmeme.com/251019/p12#a251019p12",
             "published": "Sun, 19 Oct 2025 16:45:26 -0400"
-        },
-        {
-            "title": "OpenAI's Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference (Christopher Mims/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251019/p11#a251019p11",
-            "published": "Sun, 19 Oct 2025 14:50:02 -0400"
         }
     ],
     "source_1": [
