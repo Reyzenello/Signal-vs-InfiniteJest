@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "CleanSpark shares jump 12%+ after the bitcoin miner expands into AI infrastructure, hiring Humain's president Jeffrey Thomas as SVP of AI data centers (David Pan/Bloomberg)",
+            "link": "http://www.techmeme.com/251020/p23#a251020p23",
+            "published": "Mon, 20 Oct 2025 11:55:00 -0400"
+        },
+        {
+            "title": "Anthropic announces Claude Life Sciences, a new offering for researchers that integrates Claude AI models with lab tools like Benchling to boost efficiency (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/251020/p22#a251020p22",
+            "published": "Mon, 20 Oct 2025 11:45:01 -0400"
+        },
+        {
             "title": "Evernorth, a digital asset treasury backed by Ripple, says it will list on the Nasdaq through a merger with a blank check company and expects to raise $1B+ (Reuters)",
             "link": "http://www.techmeme.com/251020/p21#a251020p21",
             "published": "Mon, 20 Oct 2025 11:25:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Oura launches a redesigned app with a new feature showing a weekly overview of stress management and says it's working with the US FDA on a blood pressure study (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/251020/p19#a251020p19",
             "published": "Mon, 20 Oct 2025 09:25:01 -0400"
-        },
-        {
-            "title": "Adobe launches AI Foundry, a program that helps enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP (Webb Wright/ZDNET)",
-            "link": "http://www.techmeme.com/251020/p18#a251020p18",
-            "published": "Mon, 20 Oct 2025 09:15:01 -0400"
-        },
-        {
-            "title": "The UK CMA says Getty Images and Shutterstock's $3.7B merger raises competition concerns and gives the companies until October 27 to make a plan to address them (Ian Walker/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251020/p17#a251020p17",
-            "published": "Mon, 20 Oct 2025 09:10:00 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Amazon\u2019s AWS Disruption Creates Outages for Hundreds of Websites for Hours",
             "link": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
-            "published": "Mon, 20 Oct 2025 14:06:41 +0000"
+            "published": "Mon, 20 Oct 2025 15:25:43 +0000"
         },
         {
             "title": "The Culture Wars Came for Wikipedia. Jimmy Wales Is Staying the Course.",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "What caused the AWS outage - and why has it made the internet fall apart?",
+            "link": "https://www.bbc.com/news/articles/cev1en9077ro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 20 Oct 2025 15:33:00 GMT"
+        },
         {
             "title": "Amazon services 'recovering' as Snapchat and banks among sites hit by outage",
             "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "OpenAI stops 'disrespectful' Martin Luther King Jr deepfakes",
             "link": "https://www.bbc.com/news/articles/c5y0g79xevxo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 17 Oct 2025 12:17:01 GMT"
-        },
-        {
-            "title": "Spotify working on AI music tools with major record labels",
-            "link": "https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 16 Oct 2025 16:48:01 GMT"
         }
     ]
 }
