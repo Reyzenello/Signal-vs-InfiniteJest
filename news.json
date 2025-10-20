@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "AWS says \"service recovery across all AWS services continues to improve\" following an outage in AWS' US-EAST-1 region that was first reported at 3:11am ET (CNBC)",
+            "link": "http://www.techmeme.com/251020/p32#a251020p32",
+            "published": "Mon, 20 Oct 2025 18:25:02 -0400"
+        },
+        {
+            "title": "Study: brain-computer interface company Science's PRIMA device, which includes a retinal implant and special glasses, restored vision in some blind patients (Antonio Regalado/MIT Technology Review)",
+            "link": "http://www.techmeme.com/251020/p31#a251020p31",
+            "published": "Mon, 20 Oct 2025 18:15:01 -0400"
+        },
+        {
             "title": "Reid Hoffman calls Anthropic \"one of the good guys\" after David Sacks accused the company of running a \"regulatory capture strategy based on fear-mongering\" (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/251020/p30#a251020p30",
             "published": "Mon, 20 Oct 2025 16:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Doc: Google launched a Trusted Tester program that will select 15 of its \"Superfans\" to test unreleased Pixels, using protective cases to disguise the hardware (Chris Welch/Bloomberg)",
             "link": "http://www.techmeme.com/251020/p28#a251020p28",
             "published": "Mon, 20 Oct 2025 14:55:01 -0400"
-        },
-        {
-            "title": "Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users (Frederic Lardinois/The New Stack)",
-            "link": "http://www.techmeme.com/251020/p27#a251020p27",
-            "published": "Mon, 20 Oct 2025 14:20:13 -0400"
-        },
-        {
-            "title": "DeepSeek releases DeepSeek-OCR, a vision language model designed for efficient vision-text compression, enabling longer contexts with less compute (Jonathan Kemper/The Decoder)",
-            "link": "http://www.techmeme.com/251020/p26#a251020p26",
-            "published": "Mon, 20 Oct 2025 14:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Mon, 20 Oct 2025 12:30:49 +0000"
         },
         {
-            "title": "Vision Restored Using Prosthetic Retinal Implant",
-            "link": "https://www.nytimes.com/2025/10/20/health/retinal-implant-macular-degeneration.html",
-            "published": "Mon, 20 Oct 2025 12:00:06 +0000"
+            "title": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
+            "link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
+            "published": "Mon, 20 Oct 2025 22:25:21 +0000"
         }
     ],
     "source_2": [
@@ -67,17 +67,17 @@
         {
             "title": "Amazon services 'recovering' as Snapchat and banks among sites hit by outage",
             "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Oct 2025 14:13:24 GMT"
+            "published": "Mon, 20 Oct 2025 22:01:01 GMT"
+        },
+        {
+            "title": "Life-changing eye implant helps blind patients read again",
+            "link": "https://www.bbc.com/news/articles/c0qpz39jpj7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 20 Oct 2025 12:00:12 GMT"
         },
         {
             "title": "Bereaved families call for inquiry into government response to suicide websites",
             "link": "https://www.bbc.com/news/articles/c62e9v762pqo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 20 Oct 2025 01:06:54 GMT"
-        },
-        {
-            "title": "Salesforce CEO apologises for saying Trump should send troops to San Francisco",
-            "link": "https://www.bbc.com/news/articles/clykvypl9gxo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 18 Oct 2025 01:12:06 GMT"
         }
     ]
 }
