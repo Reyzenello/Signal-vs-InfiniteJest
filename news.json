@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "CoMind, which is developing a non-invasive brain monitoring device with tech similar to Lidar, raised $60M led by Plural, bringing its total funding to $102.5M (Financial Times)",
+            "title": "A profile of Katherine Boyle, an a16z partner and a friend to JD Vance, as Silicon Valley increasingly adopts her views, including embracing defense tech (Julia Black/New York Times)",
+            "link": "http://www.techmeme.com/251020/p7#a251020p7",
+            "published": "Mon, 20 Oct 2025 04:30:50 -0400"
+        },
+        {
+            "title": "AWS is currently experiencing a major US-EAST-1 outage that has taken down many services, including Amazon, Alexa, Snapchat, Fortnite, Perplexity, and Signal (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/251020/p6#a251020p6",
+            "published": "Mon, 20 Oct 2025 04:13:42 -0400"
+        },
+        {
+            "title": "Blackstone President Jonathan Gray says AI risk is \"top of our list\" when evaluating deals; sources: the firm backed down from buying companies vulnerable to AI (Financial Times)",
+            "link": "http://www.techmeme.com/251020/p5#a251020p5",
+            "published": "Mon, 20 Oct 2025 04:10:00 -0400"
+        },
+        {
+            "title": "A profile of Pure Storage co-founder John Colgrove, as AI-driven demand for data storage pushes the company's stock to record highs, reaching a $30B market cap (Alicia Park/Forbes)",
+            "link": "http://www.techmeme.com/251020/p4#a251020p4",
+            "published": "Mon, 20 Oct 2025 03:50:01 -0400"
+        },
+        {
+            "title": "London-based CoMind, which develops a non-invasive brain monitoring device with Lidar-like tech, raised $60M led by Plural, taking its total funding to $102.5M (Financial Times)",
             "link": "http://www.techmeme.com/251020/p3#a251020p3",
             "published": "Mon, 20 Oct 2025 01:40:01 -0400"
-        },
-        {
-            "title": "Counterpoint: iPhone 17 series outsold iPhone 16 by ~14% in the first 10 days of sales in the US and China; base iPhone 17 sales doubled over iPhone 16 in China (Vlad Savov/Bloomberg)",
-            "link": "http://www.techmeme.com/251020/p2#a251020p2",
-            "published": "Mon, 20 Oct 2025 00:55:01 -0400"
-        },
-        {
-            "title": "A look at Opera's Neon, a $20-per-month agentic AI browser that can take over browsing tasks, but its three built-in AI chatbots can be confusing and unreliable (The Verge)",
-            "link": "http://www.techmeme.com/251020/p1#a251020p1",
-            "published": "Mon, 20 Oct 2025 00:45:38 -0400"
-        },
-        {
-            "title": "Alibaba Cloud details a GPU pooling system that it claims reduced the number of Nvidia H20 required by 82% when serving dozens of LLMs of up to 72B parameters (Vincent Chow/South China Morning Post)",
-            "link": "http://www.techmeme.com/251019/p16#a251019p16",
-            "published": "Sun, 19 Oct 2025 22:35:01 -0400"
-        },
-        {
-            "title": "An interview with Jimmy Wales on Wikipedia's decentralized model, right-wing attacks and political pressure, Elon Musk, protecting volunteer editors, and more (Lulu Garcia-Navarro/New York Times)",
-            "link": "http://www.techmeme.com/251019/p15#a251019p15",
-            "published": "Sun, 19 Oct 2025 20:50:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Fri, 17 Oct 2025 11:00:06 +0000"
         },
         {
-            "title": "The Culture Wars Came for Wikipedia. Jimmy Wales Is Staying the Course.",
-            "link": "https://www.nytimes.com/2025/10/18/magazine/jimmy-wales-interview.html",
-            "published": "Sat, 18 Oct 2025 16:47:08 +0000"
+            "title": "Websites Including Amazon, Coinbase and Roblox Report Outages and Disruptions",
+            "link": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
+            "published": "Mon, 20 Oct 2025 08:29:44 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Bereaved families call for inquiry into government response to suicide websites",
+            "link": "https://www.bbc.com/news/articles/c62e9v762pqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 20 Oct 2025 01:06:54 GMT"
+        },
+        {
+            "title": "Salesforce CEO apologises for saying Trump should send troops to San Francisco",
+            "link": "https://www.bbc.com/news/articles/clykvypl9gxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 18 Oct 2025 01:12:06 GMT"
+        },
         {
             "title": "OpenAI stops 'disrespectful' Martin Luther King Jr deepfakes",
             "link": "https://www.bbc.com/news/articles/c5y0g79xevxo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "China's biggest shopping event starts five weeks early to revive spending",
             "link": "https://www.bbc.com/news/articles/cx24d4xjzj3o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 17 Oct 2025 03:20:26 GMT"
-        },
-        {
-            "title": "Is Microsoft's first ever handheld Xbox console worth the wait?",
-            "link": "https://www.bbc.com/news/articles/cqjwlnvx9jpo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 15 Oct 2025 23:11:22 GMT"
-        },
-        {
-            "title": "Scottish data centres powering AI already using enough water to fill 27 million bottles a year",
-            "link": "https://www.bbc.com/news/articles/c77zxx43x4vo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 16 Oct 2025 05:11:26 GMT"
         }
     ]
 }
