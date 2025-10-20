@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users (Frederic Lardinois/The New Stack)",
+            "link": "http://www.techmeme.com/251020/p27#a251020p27",
+            "published": "Mon, 20 Oct 2025 14:20:13 -0400"
+        },
+        {
+            "title": "DeepSeek releases DeepSeek-OCR, a vision language model designed for efficient vision-text compression, enabling longer contexts with less compute (Jonathan Kemper/The Decoder)",
+            "link": "http://www.techmeme.com/251020/p26#a251020p26",
+            "published": "Mon, 20 Oct 2025 14:15:01 -0400"
+        },
+        {
+            "title": "An interview with Deel CEO Alex Bouaziz, who expects a 2025 profit of $170M to $200M, about the company's $300M round that pushed its valuation above Rippling's (Matt Durot/Forbes)",
+            "link": "http://www.techmeme.com/251020/p25#a251020p25",
+            "published": "Mon, 20 Oct 2025 14:05:01 -0400"
+        },
+        {
             "title": "LangChain, whose open-source framework connects AI apps to real-time data, raised a $125M Series B led by IVP at a $1.25B valuation (Sharon Goldman/Fortune)",
             "link": "http://www.techmeme.com/251020/p24#a251020p24",
             "published": "Mon, 20 Oct 2025 12:40:00 -0400"
@@ -9,28 +24,13 @@
             "title": "CleanSpark shares jump 12%+ after the bitcoin miner expands into AI infrastructure, hiring Humain's president Jeffrey Thomas as SVP of AI data centers (David Pan/Bloomberg)",
             "link": "http://www.techmeme.com/251020/p23#a251020p23",
             "published": "Mon, 20 Oct 2025 11:55:00 -0400"
-        },
-        {
-            "title": "Anthropic announces Claude Life Sciences, a new offering for researchers that integrates Claude AI models with lab tools like Benchling to boost efficiency (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/251020/p22#a251020p22",
-            "published": "Mon, 20 Oct 2025 11:45:01 -0400"
-        },
-        {
-            "title": "Evernorth, a digital asset treasury backed by Ripple, says it will list on the Nasdaq through a merger with a blank check company and expects to raise $1B+ (Reuters)",
-            "link": "http://www.techmeme.com/251020/p21#a251020p21",
-            "published": "Mon, 20 Oct 2025 11:25:00 -0400"
-        },
-        {
-            "title": "Q&A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple's and Google's \"wrong decision\" to remove ICEBlock, and more (Katie Drummond/Wired)",
-            "link": "http://www.techmeme.com/251020/p20#a251020p20",
-            "published": "Mon, 20 Oct 2025 09:40:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "AI Data Centers Create Fury From Mexico to Ireland",
             "link": "https://www.nytimes.com/2025/10/20/technology/ai-data-center-backlash-mexico-ireland.html",
-            "published": "Mon, 20 Oct 2025 09:00:29 +0000"
+            "published": "Mon, 20 Oct 2025 17:30:42 +0000"
         },
         {
             "title": "How Chile Embodies A.I.\u2019s No-Win Politics",
@@ -40,7 +40,7 @@
         {
             "title": "Amazon\u2019s AWS Disruption Creates Outages for Hundreds of Websites for Hours",
             "link": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
-            "published": "Mon, 20 Oct 2025 17:13:33 +0000"
+            "published": "Mon, 20 Oct 2025 18:20:51 +0000"
         },
         {
             "title": "The Culture Wars Came for Wikipedia. Jimmy Wales Is Staying the Course.",
