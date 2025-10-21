@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
+            "title": "Dario Amodei addresses \"inaccurate claims\" about Anthropic's policy stances after David Sacks said the \"real issue\" is \"Anthropic's agenda to backdoor Woke AI\" (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/251021/p25#a251021p25",
+            "published": "Tue, 21 Oct 2025 11:25:01 -0400"
+        },
+        {
+            "title": "Galaxy Digital reports Q3 net income of $505M and total assets up 27% QoQ to $11.5B, including $1.9B in cash and stablecoins and $3.2B in equity (Blockworks)",
+            "link": "http://www.techmeme.com/251021/p24#a251021p24",
+            "published": "Tue, 21 Oct 2025 11:15:01 -0400"
+        },
+        {
+            "title": "Tether, the world's largest issuer of stablecoins, says it has hit 500M users; the supply of USDT nears ~$182B while Circle's USDC has ~$75B in circulation (RT Watson/The Block)",
+            "link": "http://www.techmeme.com/251021/p23#a251021p23",
+            "published": "Tue, 21 Oct 2025 10:50:01 -0400"
+        },
+        {
+            "title": "ChipAgents, which is developing an agentic AI platform to automate chip design and verification, raised a $21M Series A led by Bessemer (Kyt Dotson/SiliconANGLE)",
+            "link": "http://www.techmeme.com/251021/p22#a251021p22",
+            "published": "Tue, 21 Oct 2025 10:40:01 -0400"
+        },
+        {
             "title": "HBO Max raises prices across all plans: Basic With Ads increases by $1/month to $10.99, Standard by $1.50/month to $18.49, and Premium by $2/month to $22.99 (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/251021/p21#a251021p21",
             "published": "Tue, 21 Oct 2025 09:30:01 -0400"
-        },
-        {
-            "title": "Threat intel company Dataminr plans to acquire cybersecurity threat intel provider ThreatConnect for $290M; Dataminr raised $85M in convertible funding in March (Greg Otto/CyberScoop)",
-            "link": "http://www.techmeme.com/251021/p20#a251021p20",
-            "published": "Tue, 21 Oct 2025 09:25:01 -0400"
-        },
-        {
-            "title": "Oakley Meta Vanguard review: the smart glasses combine headphones, sunglasses, and a camera, plus Garmin integration, but the camera specs aren't too impressive (Adrienne So/Wired)",
-            "link": "http://www.techmeme.com/251021/p19#a251021p19",
-            "published": "Tue, 21 Oct 2025 09:20:04 -0400"
-        },
-        {
-            "title": "iPad Pro (M5, 2025) review: amazing performance, hardware remains unbeaten, and iPadOS is getting more Mac-like, but still too pricey for a secondary computer (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/251021/p18#a251021p18",
-            "published": "Tue, 21 Oct 2025 09:11:11 -0400"
-        },
-        {
-            "title": "Documents: OpenAI has more than 100 ex-investment bankers paid $150 per hour to train its AI to build financial models as part of its secretive Project Mercury (Omar El Chmouri/Bloomberg)",
-            "link": "http://www.techmeme.com/251021/p17#a251021p17",
-            "published": "Tue, 21 Oct 2025 08:50:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Amazon Plans to Replace More Than Half a Million Jobs With Robots",
+            "link": "https://www.nytimes.com/2025/10/21/technology/inside-amazons-plans-to-replace-workers-with-robots.html",
+            "published": "Tue, 21 Oct 2025 15:24:27 +0000"
+        },
+        {
+            "title": "The Robots Fueling Amazon\u2019s Automation",
+            "link": "https://www.nytimes.com/2025/10/21/technology/amazon-robotics-automation.html",
+            "published": "Tue, 21 Oct 2025 09:00:29 +0000"
+        },
         {
             "title": "AI Data Centers Create Fury From Mexico to Ireland",
             "link": "https://www.nytimes.com/2025/10/20/technology/ai-data-center-backlash-mexico-ireland.html",
             "published": "Mon, 20 Oct 2025 19:00:09 +0000"
         },
         {
-            "title": "How Chile Embodies A.I.\u2019s No-Win Politics",
-            "link": "https://www.nytimes.com/2025/10/20/technology/chile-ai-politics.html",
-            "published": "Mon, 20 Oct 2025 09:00:13 +0000"
+            "title": "With SpaceX Behind Schedule, NASA Will Seek More Moon Lander Ideas",
+            "link": "https://www.nytimes.com/2025/10/20/science/nasa-moon-lander-spacex.html",
+            "published": "Tue, 21 Oct 2025 00:58:45 +0000"
         },
         {
-            "title": "Amazon\u2019s AWS Disruption Creates Outages for Hundreds of Websites for Hours",
-            "link": "https://www.nytimes.com/2025/10/20/business/aws-down-internet-outage.html",
-            "published": "Tue, 21 Oct 2025 01:33:14 +0000"
-        },
-        {
-            "title": "The Culture Wars Came for Wikipedia. Jimmy Wales Is Staying the Course.",
-            "link": "https://www.nytimes.com/2025/10/18/magazine/jimmy-wales-interview.html",
-            "published": "Mon, 20 Oct 2025 12:30:49 +0000"
-        },
-        {
-            "title": "The Robots Fueling Amazon\u2019s Automation",
-            "link": "https://www.nytimes.com/2025/10/21/technology/amazon-robotics-automation.html",
-            "published": "Tue, 21 Oct 2025 09:00:29 +0000"
+            "title": "Vision Restored Using Prosthetic Retinal Implant",
+            "link": "https://www.nytimes.com/2025/10/20/health/retinal-implant-macular-degeneration.html",
+            "published": "Mon, 20 Oct 2025 12:00:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AWS outage: Are we relying too much on US big tech?",
+            "link": "https://www.bbc.com/news/articles/c0jdgp6n45po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 21 Oct 2025 15:20:37 GMT"
+        },
         {
             "title": "Amazon outage 'resolved' as Snapchat and banks among sites impacted",
             "link": "https://www.bbc.com/news/articles/c20pgp3nx07o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Life-changing eye implant helps blind patients read again",
             "link": "https://www.bbc.com/news/articles/c0qpz39jpj7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 20 Oct 2025 12:00:12 GMT"
-        },
-        {
-            "title": "Bereaved families call for inquiry into government response to suicide websites",
-            "link": "https://www.bbc.com/news/articles/c62e9v762pqo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Oct 2025 01:06:54 GMT"
         }
     ]
 }
