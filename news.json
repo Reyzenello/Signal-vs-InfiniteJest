@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "In an experiment, ChatGPT-4o, Claude Sonnet 4.5, and DeepSeek-V3.2-Exp expressed secular, Western liberal values regardless of the language of the questions (Kelsey Piper/The Argument)",
+            "link": "http://www.techmeme.com/251021/p51#a251021p51",
+            "published": "Tue, 21 Oct 2025 21:15:00 -0400"
+        },
+        {
+            "title": "Polymarket and Kalshi surpassed $2B in notional trading volume in the week ending Oct. 19, exceeding the previous peak during the 2024 US presidential election (Emily Nicolle/Bloomberg)",
+            "link": "http://www.techmeme.com/251021/p50#a251021p50",
+            "published": "Tue, 21 Oct 2025 19:25:01 -0400"
+        },
+        {
             "title": "Findem, an AI-powered talent acquisition startup, raised $51M in equity and debt, including a $36M Series C led by SLW, taking its total funding to $105M (Mary Ann Azevedo/Crunchbase News)",
             "link": "http://www.techmeme.com/251021/p49#a251021p49",
             "published": "Tue, 21 Oct 2025 18:20:58 -0400"
@@ -14,16 +24,6 @@
             "title": "Filing: Satya Nadella's total pay for fiscal 2025 rose nearly 22% YoY from $79.1M to $96.5M, including $84.2M in stock awards; MSFT is up ~23% so far in 2025 (Todd Bishop/GeekWire)",
             "link": "http://www.techmeme.com/251021/p47#a251021p47",
             "published": "Tue, 21 Oct 2025 17:40:02 -0400"
-        },
-        {
-            "title": "Meta forms a JV with Blue Owl to fund the $27B, 2GW Hyperion data center in Louisiana, its largest ever private capital deal; Meta will retain a ~20% equity (Reuters)",
-            "link": "http://www.techmeme.com/251021/p46#a251021p46",
-            "published": "Tue, 21 Oct 2025 17:05:48 -0400"
-        },
-        {
-            "title": "Filings: Meta spent the most on US lobbying in Q3, spending $5.8M, followed by Amazon, Google, Apple; Anthropic, Nvidia, and a16z hit $1M+ for the first time (Ashley Gold/Axios)",
-            "link": "http://www.techmeme.com/251021/p45#a251021p45",
-            "published": "Tue, 21 Oct 2025 17:00:51 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "ChatGPT-maker OpenAI releases browser in attempt to rival Google",
+            "link": "https://www.bbc.com/news/articles/c07mz10m1k9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 22 Oct 2025 00:13:02 GMT"
+        },
+        {
             "title": "AWS outage: Are we relying too much on US big tech?",
             "link": "https://www.bbc.com/news/articles/c0jdgp6n45po?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Oct 2025 19:14:08 GMT"
@@ -73,11 +78,6 @@
             "title": "Spike in Disney+ cancellations after Kimmel suspension",
             "link": "https://www.bbc.com/news/articles/c1wle4dx4qwo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 20 Oct 2025 21:11:50 GMT"
-        },
-        {
-            "title": "Life-changing eye implant helps blind patients read again",
-            "link": "https://www.bbc.com/news/articles/c0qpz39jpj7o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Oct 2025 12:00:12 GMT"
         }
     ]
 }
