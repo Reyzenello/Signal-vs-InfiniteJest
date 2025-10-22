@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Meta removes an AI video designed to look like RT\u00c9 news bulletin that falsely showed Irish presidential candidate Catherine Connolly withdrawing from the race (\u00d3rla Ryan/The Irish Times)",
+            "link": "http://www.techmeme.com/251022/p31#a251022p31",
+            "published": "Wed, 22 Oct 2025 12:00:53 -0400"
+        },
+        {
+            "title": "Google says its Willow quantum chip using a new Quantum Echoes algorithm ran computations 13,000x faster than supercomputers, aiding drug and materials research (Cade Metz/New York Times)",
+            "link": "http://www.techmeme.com/251022/p30#a251022p30",
+            "published": "Wed, 22 Oct 2025 11:45:01 -0400"
+        },
+        {
             "title": "GM plans to roll out Google Gemini in its vehicles starting in 2026 and plans an advanced driver-assistance system with eyes-off driving capabilities in 2028 (Michael Wayland/CNBC)",
             "link": "http://www.techmeme.com/251022/p29#a251022p29",
             "published": "Wed, 22 Oct 2025 11:15:02 -0400"
@@ -14,19 +24,14 @@
             "title": "Starbridge, which helps businesses monitor public sector opportunities by consolidating fragmented data, raised a $42M Series A led by David Sacks' Craft (Dominic-Madori Davis/TechCrunch)",
             "link": "http://www.techmeme.com/251022/p27#a251022p27",
             "published": "Wed, 22 Oct 2025 10:20:00 -0400"
-        },
-        {
-            "title": "The UK CMA says it will label Apple and Google as having \"strategic market status\", imposing stricter rules on how they run their platforms to boost competition (Financial Times)",
-            "link": "http://www.techmeme.com/251022/p26#a251022p26",
-            "published": "Wed, 22 Oct 2025 09:55:01 -0400"
-        },
-        {
-            "title": "Sumble, which offers an AI sales intelligence service, emerges from stealth and raised a $30M Series A led by Canaan Partners and $8.5M seed led by Coatue (Ram Iyer/TechCrunch)",
-            "link": "http://www.techmeme.com/251022/p25#a251022p25",
-            "published": "Wed, 22 Oct 2025 09:40:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Reddit Accuses \u2018Data Scraper\u2019 Companies of Theft",
+            "link": "https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html",
+            "published": "Wed, 22 Oct 2025 16:30:47 +0000"
+        },
         {
             "title": "Meta Plans to Cut 600 Jobs at A.I. Superintelligence Labs",
             "link": "https://www.nytimes.com/2025/10/22/technology/meta-plans-to-cut-600-jobs-at-ai-superintelligence-labs.html",
@@ -38,11 +43,6 @@
             "published": "Tue, 21 Oct 2025 16:54:49 +0000"
         },
         {
-            "title": "OpenAI Unveils Atlas Web Browser Built to Work Closely With ChatGPT",
-            "link": "https://www.nytimes.com/2025/10/21/technology/openai-web-browser-atlas.html",
-            "published": "Tue, 21 Oct 2025 19:21:05 +0000"
-        },
-        {
             "title": "How to Scan, Edit and Sign PDF Files on Your Phone or Tablet",
             "link": "https://www.nytimes.com/2025/10/22/technology/personaltech/use-phone-to-scan-pdf.html",
             "published": "Wed, 22 Oct 2025 09:02:12 +0000"
@@ -50,7 +50,7 @@
         {
             "title": "G.M. Previews Talking Cars, Cheaper Batteries and Other New Tech",
             "link": "https://www.nytimes.com/2025/10/22/business/general-motors-ai-self-driving.html",
-            "published": "Wed, 22 Oct 2025 15:03:33 +0000"
+            "published": "Wed, 22 Oct 2025 15:03:34 +0000"
         }
     ],
     "source_2": [
