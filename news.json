@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Chainguard, which helps companies secure software supply chains, raised $280M, six months after a $356M Series D, bringing its total funding to $892M (Kurt Schlosser/GeekWire)",
+            "link": "http://www.techmeme.com/251023/p36#a251023p36",
+            "published": "Thu, 23 Oct 2025 13:25:02 -0400"
+        },
+        {
+            "title": "VideoShops, an affiliate retail platform that lets creators start personalized storefronts with no minimum follower count, raised a $42M seed (Kayla Cobb/The Wrap)",
+            "link": "http://www.techmeme.com/251023/p35#a251023p35",
+            "published": "Thu, 23 Oct 2025 12:40:01 -0400"
+        },
+        {
             "title": "Microsoft unveils Mico, a character that responds with real-time expressions when talked to, now on by default in Copilot's voice mode in the US, UK, and Canada (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/251023/p34#a251023p34",
             "published": "Thu, 23 Oct 2025 12:20:00 -0400"
@@ -14,23 +24,13 @@
             "title": "Data center startup Crusoe raised $1.4B led by Mubadala and Valor, more than tripling its valuation to $10B+ in one year and taking its total funding to $3.9B (Tabby Kinder/Financial Times)",
             "link": "http://www.techmeme.com/251023/p32#a251023p32",
             "published": "Thu, 23 Oct 2025 12:05:01 -0400"
-        },
-        {
-            "title": "The UK's Competition Appeal Tribunal rules against Apple in a lawsuit accusing it of abusing its dominant position by charging a 30% App Store commission (Sam Tobin/Reuters)",
-            "link": "http://www.techmeme.com/251023/p31#a251023p31",
-            "published": "Thu, 23 Oct 2025 11:55:01 -0400"
-        },
-        {
-            "title": "Super Micro's shares drop 5%+ after the server maker reports it expects $5B in Q1 revenue, down from its $6B to $7B guidance, due to \"design win upgrades\" (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/251023/p30#a251023p30",
-            "published": "Thu, 23 Oct 2025 11:50:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Trump Pardons Founder of the Crypto Exchange Binance",
             "link": "https://www.nytimes.com/2025/10/23/technology/trump-pardons-cz-binance.html",
-            "published": "Thu, 23 Oct 2025 16:16:03 +0000"
+            "published": "Thu, 23 Oct 2025 17:14:14 +0000"
         },
         {
             "title": "Google\u2019s Quantum Computer Makes a Big Technical Leap",
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "No digital ID checks until you change jobs, says No 10",
+            "link": "https://www.bbc.com/news/articles/cy0kynek55wo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Oct 2025 17:00:49 GMT"
+        },
+        {
             "title": "President Trump pardons Binance founder Changpeng Zhao",
             "link": "https://www.bbc.com/news/articles/cly1qrl9l1qo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Oct 2025 16:20:45 GMT"
+            "published": "Thu, 23 Oct 2025 17:09:08 GMT"
         },
         {
             "title": "Amazon apologises to customers impacted by huge AWS outage",
@@ -73,11 +78,6 @@
             "title": "Tesla profits slide despite record revenue",
             "link": "https://www.bbc.com/news/articles/cql9yqxllqdo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Oct 2025 02:14:21 GMT"
-        },
-        {
-            "title": "Apple may be forced to allow rival app stores in UK",
-            "link": "https://www.bbc.com/news/articles/c04gz1wx706o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Oct 2025 14:07:16 GMT"
         }
     ]
 }
