@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "PUBG maker Krafton unveils an \"AI First\" strategy, investing ~$70M to build a GPU cluster to automate AI workflows and strengthen AI R&D and in-game AI services (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/251023/p39#a251023p39",
+            "published": "Thu, 23 Oct 2025 14:35:06 -0400"
+        },
+        {
+            "title": "Meta cuts roles in its Risk unit citing a shift from manual reviews to a \"consistent and automated process\" that is delivering \"reliable compliance outcomes\" (Jyoti Mann/Business Insider)",
+            "link": "http://www.techmeme.com/251023/p38#a251023p38",
+            "published": "Thu, 23 Oct 2025 13:35:01 -0400"
+        },
+        {
+            "title": "OpenAI acquires Software Applications Incorporated, which is building an AI-powered user interface for macOS and raised $6.5M from Sam Altman and others (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/251023/p37#a251023p37",
+            "published": "Thu, 23 Oct 2025 13:30:04 -0400"
+        },
+        {
             "title": "Chainguard, which helps companies secure software supply chains, raised $280M, six months after a $356M Series D, bringing its total funding to $892M (Kurt Schlosser/GeekWire)",
             "link": "http://www.techmeme.com/251023/p36#a251023p36",
             "published": "Thu, 23 Oct 2025 13:25:02 -0400"
@@ -9,28 +24,13 @@
             "title": "VideoShops, an affiliate retail platform that lets creators start personalized storefronts with no minimum follower count, raised a $42M seed (Kayla Cobb/The Wrap)",
             "link": "http://www.techmeme.com/251023/p35#a251023p35",
             "published": "Thu, 23 Oct 2025 12:40:01 -0400"
-        },
-        {
-            "title": "Microsoft unveils Mico, a character that responds with real-time expressions when talked to, now on by default in Copilot's voice mode in the US, UK, and Canada (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/251023/p34#a251023p34",
-            "published": "Thu, 23 Oct 2025 12:20:00 -0400"
-        },
-        {
-            "title": "Microsoft updates Copilot to add Copilot Groups, enabling up to 32 people to collaborate in a session, and a \"real talk\" mode to add more personality to Copilot (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/251023/p33#a251023p33",
-            "published": "Thu, 23 Oct 2025 12:15:02 -0400"
-        },
-        {
-            "title": "Data center startup Crusoe raised $1.4B led by Mubadala and Valor, more than tripling its valuation to $10B+ in one year and taking its total funding to $3.9B (Tabby Kinder/Financial Times)",
-            "link": "http://www.techmeme.com/251023/p32#a251023p32",
-            "published": "Thu, 23 Oct 2025 12:05:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Trump Pardons Founder of the Crypto Exchange Binance",
             "link": "https://www.nytimes.com/2025/10/23/technology/trump-pardons-cz-binance.html",
-            "published": "Thu, 23 Oct 2025 17:14:14 +0000"
+            "published": "Thu, 23 Oct 2025 18:06:42 +0000"
         },
         {
             "title": "Google\u2019s Quantum Computer Makes a Big Technical Leap",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "UK court loss could cost Apple \u00a31.5bn",
+            "link": "https://www.bbc.com/news/articles/cgkzg3mkgx6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Oct 2025 18:08:48 GMT"
+        },
+        {
             "title": "No digital ID checks until you change jobs, says No 10",
             "link": "https://www.bbc.com/news/articles/cy0kynek55wo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Oct 2025 17:00:49 GMT"
@@ -73,11 +78,6 @@
             "title": "Amazon unveils prototype AI smart glasses for its delivery drivers",
             "link": "https://www.bbc.com/news/articles/c0rpzrrgqvlo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Oct 2025 03:18:34 GMT"
-        },
-        {
-            "title": "Tesla profits slide despite record revenue",
-            "link": "https://www.bbc.com/news/articles/cql9yqxllqdo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Oct 2025 02:14:21 GMT"
         }
     ]
 }
