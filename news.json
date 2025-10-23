@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI CISO Dane Stuckey outlines prompt injection mitigations in ChatGPT Atlas, including a \"logged out mode\" that blocks agent access to user credentials (Dane Stuckey/@cryps1s)",
+            "link": "http://www.techmeme.com/251023/p1#a251023p1",
+            "published": "Thu, 23 Oct 2025 00:25:06 -0400"
+        },
+        {
             "title": "Elon Musk says Tesla's AI5 chip will be made by Samsung in Texas and TSMC in Arizona, with the \"oversupply\" of chips not used by Tesla going to his data centers (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/251022/p48#a251022p48",
             "published": "Wed, 22 Oct 2025 22:35:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources: Polymarket is in early talks with investors to raise funds at a $12B-$15B valuation, up from ~$8B pre-investment in a deal announced earlier this month (Kate Clark/Bloomberg)",
             "link": "http://www.techmeme.com/251022/p45#a251022p45",
             "published": "Wed, 22 Oct 2025 20:35:01 -0400"
-        },
-        {
-            "title": "The UK FCA sues Justin Sun-linked crypto exchange HTX in London's High Court for alleged illegal promotion of \"cryptoasset services\" to UK consumers (Lucca De Paoli/Bloomberg)",
-            "link": "http://www.techmeme.com/251022/p44#a251022p44",
-            "published": "Wed, 22 Oct 2025 19:45:01 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Amazon unveils prototype AI smart glasses for its delivery drivers",
             "link": "https://www.bbc.com/news/articles/c0rpzrrgqvlo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Oct 2025 02:00:09 GMT"
+            "published": "Thu, 23 Oct 2025 03:18:34 GMT"
         },
         {
             "title": "Tesla profits slide despite record revenue",
