@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "ChatGPT Atlas hands-on: generally able to interpret instructions and navigate simple menus, but \"technical constraints on session length\" are a limiting factor (Kyle Orland/Ars Technica)",
+            "link": "http://www.techmeme.com/251023/p22#a251023p22",
+            "published": "Thu, 23 Oct 2025 08:25:05 -0400"
+        },
+        {
+            "title": "Sources: Microsoft asks its Xbox unit to hit 30% \"accountability margins\", or profit margins, and Xbox canceled products, cut jobs, and raised prices to meet it (Bloomberg)",
+            "link": "http://www.techmeme.com/251023/p21#a251023p21",
+            "published": "Thu, 23 Oct 2025 07:45:01 -0400"
+        },
+        {
+            "title": "UnifyApps, which lets companies build AI chatbots by connecting SaaS apps and data, raised a $50M Series B led by WestBridge, after a $20M Series A in 2024 (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/251023/p20#a251023p20",
+            "published": "Thu, 23 Oct 2025 07:30:14 -0400"
+        },
+        {
             "title": "Email: Indian crypto exchange WazirX plans to resume operations on October 24, following a court-approved restructuring, after hackers stole $230M in July 2024 (Shaurya Malwa/CoinDesk)",
             "link": "http://www.techmeme.com/251023/p19#a251023p19",
             "published": "Thu, 23 Oct 2025 07:15:13 -0400"
@@ -9,21 +24,6 @@
             "title": "Chinese state media: China's new five-year development plan aims to achieve tech self-reliance and expand the domestic market, after a four-day CCP conclave (Bloomberg)",
             "link": "http://www.techmeme.com/251023/p18#a251023p18",
             "published": "Thu, 23 Oct 2025 07:05:02 -0400"
-        },
-        {
-            "title": "Alibaba launches a free consumer-focused AI chatbot in its Quark app, powered by Qwen 3, and plans to open pre-sales for its $660 Quark AI Glasses on October 24 (Reuters)",
-            "link": "http://www.techmeme.com/251023/p17#a251023p17",
-            "published": "Thu, 23 Oct 2025 06:55:04 -0400"
-        },
-        {
-            "title": "AI creative studio Wonder Studios, backed by OpenAI and Google DeepMind execs, raised a $12M seed led by Atomico and aims to release its first content in 2026 (Najat Kantouar/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251023/p16#a251023p16",
-            "published": "Thu, 23 Oct 2025 06:40:15 -0400"
-        },
-        {
-            "title": "Chinese robovan startup Neolix raised $600M led by UAE-based Stone Venture without disclosing its valuation, ahead of a potential Hong Kong IPO as soon as 2026 (Wataru Suzuki/Nikkei Asia)",
-            "link": "http://www.techmeme.com/251023/p15#a251023p15",
-            "published": "Thu, 23 Oct 2025 06:25:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Amazon apologises to customers impacted by huge AWS outage",
+            "link": "https://www.bbc.com/news/articles/cvgvnp77dy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Oct 2025 12:08:51 GMT"
+        },
+        {
             "title": "Amazon unveils prototype AI smart glasses for its delivery drivers",
             "link": "https://www.bbc.com/news/articles/c0rpzrrgqvlo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Oct 2025 03:18:34 GMT"
@@ -73,11 +78,6 @@
             "title": "JLR hack is costliest cyber attack in UK history, say analysts",
             "link": "https://www.bbc.com/news/articles/cy9pdld4y81o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 22 Oct 2025 06:25:01 GMT"
-        },
-        {
-            "title": "ChatGPT-maker OpenAI releases browser in attempt to rival Google",
-            "link": "https://www.bbc.com/news/articles/c07mz10m1k9o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Oct 2025 00:13:02 GMT"
         }
     ]
 }
