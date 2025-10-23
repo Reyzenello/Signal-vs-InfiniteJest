@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "President Trump pardons convicted Binance founder Changpeng Zhao, following months of efforts by Zhao to boost the Trump family's World Liberty Financial (Wall Street Journal)",
-            "link": "http://www.techmeme.com/251023/p27#a251023p27",
-            "published": "Thu, 23 Oct 2025 11:21:35 -0400"
+            "title": "Microsoft unveils Mico, a character that responds with real-time expressions when talked to, now on by default in Copilot's voice mode in the US, UK, and Canada (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/251023/p34#a251023p34",
+            "published": "Thu, 23 Oct 2025 12:20:00 -0400"
         },
         {
-            "title": "Source: Suno hit ~$150M in ARR from subscriptions to its app, up nearly 4x YoY; it has $10 and $30 per month subscription tiers, implying 5M+ subscribers (Stephanie Palazzolo/The Information)",
-            "link": "http://www.techmeme.com/251023/p26#a251023p26",
-            "published": "Thu, 23 Oct 2025 11:15:05 -0400"
+            "title": "Microsoft updates Copilot to add Copilot Groups, enabling up to 32 people to collaborate in a session, and a \"real talk\" mode to add more personality to Copilot (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/251023/p33#a251023p33",
+            "published": "Thu, 23 Oct 2025 12:15:02 -0400"
         },
         {
-            "title": "Cyprus's financial regulator grants a crypto license to Revolut, allowing the startup to offer crypto services across the EU under new regulations (Elizabeth Howcroft/Reuters)",
-            "link": "http://www.techmeme.com/251023/p25#a251023p25",
-            "published": "Thu, 23 Oct 2025 10:35:03 -0400"
+            "title": "Data center startup Crusoe raised $1.4B led by Mubadala and Valor, more than tripling its valuation to $10B+ in one year and taking its total funding to $3.9B (Tabby Kinder/Financial Times)",
+            "link": "http://www.techmeme.com/251023/p32#a251023p32",
+            "published": "Thu, 23 Oct 2025 12:05:01 -0400"
         },
         {
-            "title": "Internal memo: TikTok plans leadership changes, moving two teams under ByteDance veteran Fiona Zhi and undoing earlier efforts to empower Western executives (Juro Osawa/The Information)",
-            "link": "http://www.techmeme.com/251023/p24#a251023p24",
-            "published": "Thu, 23 Oct 2025 09:25:01 -0400"
+            "title": "The UK's Competition Appeal Tribunal rules against Apple in a lawsuit accusing it of abusing its dominant position by charging a 30% App Store commission (Sam Tobin/Reuters)",
+            "link": "http://www.techmeme.com/251023/p31#a251023p31",
+            "published": "Thu, 23 Oct 2025 11:55:01 -0400"
         },
         {
-            "title": "Amazon relaunches its game streaming service Luna, available at no additional cost for Prime subscribers, and adds new beginner-friendly multiplayer games (Ian Carlos Campbell/Engadget)",
-            "link": "http://www.techmeme.com/251023/p23#a251023p23",
-            "published": "Thu, 23 Oct 2025 09:15:00 -0400"
+            "title": "Super Micro's shares drop 5%+ after the server maker reports it expects $5B in Q1 revenue, down from its $6B to $7B guidance, due to \"design win upgrades\" (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/251023/p30#a251023p30",
+            "published": "Thu, 23 Oct 2025 11:50:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump Pardons Founder of the Crypto Exchange Binance",
+            "link": "https://www.nytimes.com/2025/10/23/technology/trump-pardons-cz-binance.html",
+            "published": "Thu, 23 Oct 2025 16:16:03 +0000"
+        },
         {
             "title": "Google\u2019s Quantum Computer Makes a Big Technical Leap",
             "link": "https://www.nytimes.com/2025/10/22/technology/googles-quantum-computer-leap.html",
@@ -43,17 +48,17 @@
             "published": "Wed, 22 Oct 2025 17:59:16 +0000"
         },
         {
-            "title": "How to Scan, Edit and Sign PDF Files on Your Phone or Tablet",
-            "link": "https://www.nytimes.com/2025/10/22/technology/personaltech/use-phone-to-scan-pdf.html",
-            "published": "Wed, 22 Oct 2025 09:02:12 +0000"
-        },
-        {
             "title": "Tesla\u2019s Profit Falls 37% After It Cut Car Prices",
             "link": "https://www.nytimes.com/2025/10/22/business/tesla-earnings-elon-musk.html",
             "published": "Wed, 22 Oct 2025 23:17:42 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "President Trump pardons Binance founder Changpeng Zhao",
+            "link": "https://www.bbc.com/news/articles/cly1qrl9l1qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Oct 2025 16:20:45 GMT"
+        },
         {
             "title": "Amazon apologises to customers impacted by huge AWS outage",
             "link": "https://www.bbc.com/news/articles/cvgvnp77dy9o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Apple may be forced to allow rival app stores in UK",
             "link": "https://www.bbc.com/news/articles/c04gz1wx706o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 22 Oct 2025 14:07:16 GMT"
-        },
-        {
-            "title": "JLR hack is costliest cyber attack in UK history, say analysts",
-            "link": "https://www.bbc.com/news/articles/cy9pdld4y81o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Oct 2025 06:25:01 GMT"
         }
     ]
 }
