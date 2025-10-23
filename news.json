@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
+            "title": "Sources: quantum computing companies including IonQ, Rigetti, and D-Wave are in talks to give the US Commerce Dept. equity in exchange for $10M+ each in funding (Amrith Ramkumar/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251022/p47#a251022p47",
+            "published": "Wed, 22 Oct 2025 21:25:02 -0400"
+        },
+        {
+            "title": "Sources: a16z is aiming to raise $6B for its growth fund, $3B for AI deals, and $1B for American Dynamism; the $10B total would be its largest fundraise to date (Financial Times)",
+            "link": "http://www.techmeme.com/251022/p46#a251022p46",
+            "published": "Wed, 22 Oct 2025 21:10:01 -0400"
+        },
+        {
+            "title": "Sources: Polymarket is in early talks with investors to raise funds at a $12B-$15B valuation, up from ~$8B pre-investment in a deal announced earlier this month (Kate Clark/Bloomberg)",
+            "link": "http://www.techmeme.com/251022/p45#a251022p45",
+            "published": "Wed, 22 Oct 2025 20:35:01 -0400"
+        },
+        {
+            "title": "The UK FCA sues Justin Sun-linked crypto exchange HTX in London's High Court for alleged illegal promotion of \"cryptoasset services\" to UK consumers (Lucca De Paoli/Bloomberg)",
+            "link": "http://www.techmeme.com/251022/p44#a251022p44",
+            "published": "Wed, 22 Oct 2025 19:45:01 -0400"
+        },
+        {
             "title": "Amazon is testing AR glasses for delivery drivers, using AI and computer vision to help them scan packages, follow walking directions, and get proof of delivery (Todd Bishop/GeekWire)",
             "link": "http://www.techmeme.com/251022/p43#a251022p43",
             "published": "Wed, 22 Oct 2025 18:35:01 -0400"
-        },
-        {
-            "title": "Q&A with GM CEO Mary Barra and CPO Sterling Anderson on GM's plans for AI and autonomous driving, ditching Apple CarPlay and Android Auto on all its cars, more (Nilay Patel/The Verge)",
-            "link": "http://www.techmeme.com/251022/p42#a251022p42",
-            "published": "Wed, 22 Oct 2025 17:45:02 -0400"
-        },
-        {
-            "title": "SAP reports Q3 revenue up 7% YoY to \u20ac9.08B, cloud revenue up 22% to \u20ac5.29B, below \u20ac5.33B est., and current cloud backlog up 23% to \u20ac18.84B (Christina Kyriasoglou/Bloomberg)",
-            "link": "http://www.techmeme.com/251022/p41#a251022p41",
-            "published": "Wed, 22 Oct 2025 16:50:01 -0400"
-        },
-        {
-            "title": "IBM reports Q3 revenue up 9% YoY to $16.3B, above $16.1B est., and Hybrid Cloud (Red Hat) revenue up 14%, below 16% est.; IBM drops 5%+ after hours (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/251022/p40#a251022p40",
-            "published": "Wed, 22 Oct 2025 16:35:01 -0400"
-        },
-        {
-            "title": "A teen's parents allege OpenAI loosened ChatGPT's suicide-talk rules to boost engagement before their son died by suicide using a method discussed with ChatGPT (Wall Street Journal)",
-            "link": "http://www.techmeme.com/251022/p39#a251022p39",
-            "published": "Wed, 22 Oct 2025 16:20:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Google\u2019s Quantum Computer Makes a Big Technical Leap",
             "link": "https://www.nytimes.com/2025/10/22/technology/googles-quantum-computer-leap.html",
-            "published": "Wed, 22 Oct 2025 16:14:52 +0000"
+            "published": "Wed, 22 Oct 2025 16:14:53 +0000"
         },
         {
             "title": "Reddit Accuses \u2018Data Scraper\u2019 Companies of Theft",
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Amazon unveils prototype AI smart glasses for its delivery drivers",
+            "link": "https://www.bbc.com/news/articles/c0rpzrrgqvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Oct 2025 02:00:09 GMT"
+        },
+        {
+            "title": "Tesla profits slide despite record revenue",
+            "link": "https://www.bbc.com/news/articles/cql9yqxllqdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Oct 2025 00:56:03 GMT"
+        },
+        {
             "title": "Apple may be forced to allow rival app stores in UK",
             "link": "https://www.bbc.com/news/articles/c04gz1wx706o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 22 Oct 2025 14:07:16 GMT"
@@ -68,16 +78,6 @@
             "title": "ChatGPT-maker OpenAI releases browser in attempt to rival Google",
             "link": "https://www.bbc.com/news/articles/c07mz10m1k9o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 22 Oct 2025 00:13:02 GMT"
-        },
-        {
-            "title": "AWS outage: Are we relying too much on US big tech?",
-            "link": "https://www.bbc.com/news/articles/c0jdgp6n45po?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Oct 2025 19:14:08 GMT"
-        },
-        {
-            "title": "Three wrongly accused over child abuse images after BT gets 'wires crossed'",
-            "link": "https://www.bbc.com/news/articles/ckgknm8xrgpo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Oct 2025 15:25:18 GMT"
         }
     ]
 }
