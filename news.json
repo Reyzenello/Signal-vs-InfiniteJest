@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI launches a \"company knowledge\" ChatGPT update to let Business, Enterprise, and Education users search for data in connected apps like Slack and GitHub (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/251024/p9#a251024p9",
+            "published": "Fri, 24 Oct 2025 09:55:00 -0400"
+        },
+        {
             "title": "Sources: banks are preparing to launch a $38B debt sale to fund Oracle data centers, including $23.25B for a Texas data center and $14.75B for a Wisconsin site (Jeannine Amodeo/Bloomberg)",
             "link": "http://www.techmeme.com/251024/p8#a251024p8",
             "published": "Fri, 24 Oct 2025 08:35:01 -0400"
@@ -19,11 +24,6 @@
             "title": "IBM says it was able to run a key quantum computing algorithm in real-time on commonly available field programmable gate array chips made by AMD (Stephen Nellis/Reuters)",
             "link": "http://www.techmeme.com/251024/p5#a251024p5",
             "published": "Fri, 24 Oct 2025 07:15:25 -0400"
-        },
-        {
-            "title": "Sources: JPMorgan plans to allow institutional clients globally to use their holdings of bitcoin and ether as collateral for loans by end of year (Emily Nicolle/Bloomberg)",
-            "link": "http://www.techmeme.com/251024/p4#a251024p4",
-            "published": "Fri, 24 Oct 2025 06:55:04 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
-            "title": "Armed police handcuff teen after AI mistakes crisp packet for gun",
+            "title": "Armed police handcuff teen after AI mistakes crisp packet for gun in US",
             "link": "https://www.bbc.com/news/articles/cgjdlx92lylo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 24 Oct 2025 13:05:48 GMT"
+            "published": "Fri, 24 Oct 2025 14:24:00 GMT"
+        },
+        {
+            "title": "Tech bosses could stop mobile phone theft, say MPs",
+            "link": "https://www.bbc.com/news/articles/cx2y037pg41o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 24 Oct 2025 13:14:09 GMT"
         },
         {
             "title": "Millions of UK Apple users could get pay-out after court ruling",
@@ -73,11 +78,6 @@
             "title": "No digital ID checks until you change jobs, says No 10",
             "link": "https://www.bbc.com/news/articles/cy0kynek55wo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Oct 2025 17:00:49 GMT"
-        },
-        {
-            "title": "Trump pardons Binance founder Changpeng Zhao",
-            "link": "https://www.bbc.com/news/articles/cly1qrl9l1qo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Oct 2025 21:05:29 GMT"
         }
     ]
 }
