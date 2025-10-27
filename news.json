@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "How building robotic hands that match human dexterity remains a major technical obstacle to deploying humanoid robots in factories and for caregiving jobs (Wall Street Journal)",
+            "link": "http://www.techmeme.com/251026/p16#a251026p16",
+            "published": "Sun, 26 Oct 2025 21:35:01 -0400"
+        },
+        {
+            "title": "Employees are increasingly using AI to create ultra-realistic fake expense receipts; AppZen and others attribute the rise to advances in image generation models (Cristina Criddle/Financial Times)",
+            "link": "http://www.techmeme.com/251026/p15#a251026p15",
+            "published": "Sun, 26 Oct 2025 19:55:02 -0400"
+        },
+        {
             "title": "Artemis: $10B+ was moved through stablecoins in August, up from $6B in February and more than double YoY, following President Trump's signing of the Genius Act (Judy Lagrou/Bloomberg)",
             "link": "http://www.techmeme.com/251026/p14#a251026p14",
             "published": "Sun, 26 Oct 2025 17:55:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Q&A with Zocdoc CEO Oliver Kharraz on the patient scheduling platform's telehealth expansion, its policy of not providing medical advice through AI, and more (Nilay Patel/The Verge)",
             "link": "http://www.techmeme.com/251026/p12#a251026p12",
             "published": "Sun, 26 Oct 2025 14:35:01 -0400"
-        },
-        {
-            "title": "Inside OpenAI's deals with Nvidia, Oracle, and AMD, where sources say Sam Altman largely relied on his executive team, with little input from outside advisors (Financial Times)",
-            "link": "http://www.techmeme.com/251026/p11#a251026p11",
-            "published": "Sun, 26 Oct 2025 13:20:00 -0400"
-        },
-        {
-            "title": "Swift releases Swift SDK preview for Android, allowing developers to build Android apps in Swift and making it easier to share code across iOS and Android (Hartley Charlton/MacRumors)",
-            "link": "http://www.techmeme.com/251026/p10#a251026p10",
-            "published": "Sun, 26 Oct 2025 11:30:01 -0400"
         }
     ],
     "source_1": [
@@ -70,14 +70,14 @@
             "published": "Thu, 23 Oct 2025 18:08:48 GMT"
         },
         {
+            "title": "The striking Swedish workers taking on carmaker Tesla",
+            "link": "https://www.bbc.com/news/articles/c5y9082q0jjo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 26 Oct 2025 23:48:14 GMT"
+        },
+        {
             "title": "JLR cyber-attack caused UK car production to hit 70-year low for September",
             "link": "https://www.bbc.com/news/articles/cvgmp1prnv0o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Oct 2025 23:01:48 GMT"
-        },
-        {
-            "title": "No digital ID checks until you change jobs, says No 10",
-            "link": "https://www.bbc.com/news/articles/cy0kynek55wo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Oct 2025 17:00:49 GMT"
         }
     ]
 }
