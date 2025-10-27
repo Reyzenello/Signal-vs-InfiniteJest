@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Japanese fintech JPYC launches a yen-pegged stablecoin, the country's first, and its issuance platform JPYC EX, targeting $65.4B in circulation in three years (Timmy Shen/The Block)",
+            "link": "http://www.techmeme.com/251027/p7#a251027p7",
+            "published": "Mon, 27 Oct 2025 05:05:01 -0400"
+        },
+        {
+            "title": "Real estate agents are using AI tools like AutoReel to replace videographers and stagers, cutting costs but generating distorted or misleading property images (Kat Tenbarge/Wired)",
+            "link": "http://www.techmeme.com/251027/p6#a251027p6",
+            "published": "Mon, 27 Oct 2025 04:50:01 -0400"
+        },
+        {
             "title": "Q&A with Bill Ready, who became Pinterest's CEO in 2022, about changes during his tenure, winning over Gen Z, Pinterest's business model, AI content, and more (Jordyn Holman/New York Times)",
             "link": "http://www.techmeme.com/251027/p5#a251027p5",
             "published": "Mon, 27 Oct 2025 04:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Papers, patents, and tenders show China's military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips (Reuters)",
             "link": "http://www.techmeme.com/251027/p3#a251027p3",
             "published": "Mon, 27 Oct 2025 01:40:01 -0400"
-        },
-        {
-            "title": "Vietnam and 64 countries sign a UN cybercrime treaty to share data and extradite suspects, despite tech companies' and activists' privacy and security concerns (Lien Hoang/Nikkei Asia)",
-            "link": "http://www.techmeme.com/251027/p2#a251027p2",
-            "published": "Mon, 27 Oct 2025 00:40:00 -0400"
-        },
-        {
-            "title": "A look at Cal State's plans to become an \"AI-empowered\" university via partnerships with Amazon and a $16.9M deal to provide ChatGPT Edu to students and staff (New York Times)",
-            "link": "http://www.techmeme.com/251027/p1#a251027p1",
-            "published": "Mon, 27 Oct 2025 00:10:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 24 Oct 2025 11:00:06 +0000"
         },
         {
-            "title": "Y2K Kids Were the Last to Really Rage With No One Watching",
-            "link": "https://www.nytimes.com/2025/10/25/arts/music/korn-nu-metal-rock-y2k.html",
-            "published": "Sat, 25 Oct 2025 09:00:24 +0000"
+            "title": "Saudi Arabia, Rich With Oil, Wants to Be Known as the A.I. Exporter",
+            "link": "https://www.nytimes.com/2025/10/27/technology/saudi-arabia-ai-exporter.html",
+            "published": "Mon, 27 Oct 2025 09:00:49 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "ChatGPT's new browser has potential, if you're willing to pay",
+            "link": "https://www.bbc.com/news/articles/c20pdy1exxvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 25 Oct 2025 23:24:03 GMT"
+        },
         {
             "title": "Armed police handcuff teen after AI mistakes crisp packet for gun in US",
             "link": "https://www.bbc.com/news/articles/cgjdlx92lylo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "The striking Swedish workers taking on carmaker Tesla",
             "link": "https://www.bbc.com/news/articles/c5y9082q0jjo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 26 Oct 2025 23:48:14 GMT"
-        },
-        {
-            "title": "JLR cyber-attack caused UK car production to hit 70-year low for September",
-            "link": "https://www.bbc.com/news/articles/cvgmp1prnv0o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Oct 2025 23:01:48 GMT"
         }
     ]
 }
