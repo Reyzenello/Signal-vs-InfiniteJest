@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Nvidia and HPE plan to build two new Vera Rubin-based supercomputers for Los Alamos National Laboratory, for national security and scientific research (Anton Shilov/Tom's Hardware)",
-            "link": "http://www.techmeme.com/251028/p40#a251028p40",
-            "published": "Tue, 28 Oct 2025 13:10:05 -0400"
+            "title": "Jensen Huang says its Blackwell GPUs are now in full production in Arizona, after being solely manufactured in Taiwan previously (Kif Leswing/CNBC)",
+            "link": "http://www.techmeme.com/251028/p47#a251028p47",
+            "published": "Tue, 28 Oct 2025 14:35:00 -0400"
         },
         {
-            "title": "Skyworks buys rival Qorvo for ~$9.76B in a cash-and-stock deal, forming a $22B combined company that supplies radio-frequency chips to Apple and others (Reuters)",
-            "link": "http://www.techmeme.com/251028/p39#a251028p39",
-            "published": "Tue, 28 Oct 2025 13:05:02 -0400"
+            "title": "Sam Altman says OpenAI has committed to spend about $1.4T on infrastructure so far, equating to roughly 30GW of data center capacity (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/251028/p46#a251028p46",
+            "published": "Tue, 28 Oct 2025 14:25:01 -0400"
         },
         {
-            "title": "Western Union plans to launch a dollar-backed stablecoin, USDPT, that is built on the Solana blockchain and issued by Anchorage Digital Bank, in H1 2026 (Vicky Ge Huang/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251028/p38#a251028p38",
-            "published": "Tue, 28 Oct 2025 13:01:02 -0400"
+            "title": "Uber plans a fleet of 100,000 autonomous vehicles powered by Nvidia's new Drive AGX Hyperion 10, starting in 2027 (Natalie Lung/Bloomberg)",
+            "link": "http://www.techmeme.com/251028/p45#a251028p45",
+            "published": "Tue, 28 Oct 2025 14:20:01 -0400"
         },
         {
-            "title": "GitHub plans to launch Agent HQ, a hub to let developers access third-party AI coding agents, including Claude and OpenAI's Codex, in the coming months (David Gewirtz/ZDNET)",
-            "link": "http://www.techmeme.com/251028/p37#a251028p37",
-            "published": "Tue, 28 Oct 2025 12:25:01 -0400"
+            "title": "Oppo launches \u20ac999 Find X9 and \u20ac1,299 Find X9 Pro in the UK and EU, with 7,025mAh and 7,500mAh silicon-carbon batteries and a MediaTek Dimensity 9500 chip (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/251028/p44#a251028p44",
+            "published": "Tue, 28 Oct 2025 14:15:14 -0400"
         },
         {
-            "title": "Blackstone partners with Humain to invest about $3B in building and operating data centers and AI infrastructure across Saudi Arabia, set to open in 2026 (Bloomberg)",
-            "link": "http://www.techmeme.com/251028/p36#a251028p36",
-            "published": "Tue, 28 Oct 2025 12:10:02 -0400"
+            "title": "Nvidia unveils BlueField-4 data processing unit, combining a 64-core Grace CPU and ConnectX-9 SuperNIC for 800 Gbps of network throughput, launching in 2026 (Dylan Martin/CRN)",
+            "link": "http://www.techmeme.com/251028/p43#a251028p43",
+            "published": "Tue, 28 Oct 2025 13:50:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "OpenAI Restructures as For-Profit Company",
             "link": "https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html",
-            "published": "Tue, 28 Oct 2025 14:50:14 +0000"
+            "published": "Tue, 28 Oct 2025 18:21:43 +0000"
         },
         {
             "title": "Can a Start-Up Make Computer Chips Cheaper Than the Industry\u2019s Giants?",
@@ -48,12 +48,17 @@
             "published": "Tue, 28 Oct 2025 14:20:12 +0000"
         },
         {
-            "title": "Amazon to Cut 14,000 White-Collar Jobs",
-            "link": "https://www.nytimes.com/2025/10/27/technology/amazon-layoffs.html",
-            "published": "Tue, 28 Oct 2025 11:10:36 +0000"
+            "title": "Trump Administration Backs Plan for New Nuclear Plants",
+            "link": "https://www.nytimes.com/2025/10/28/business/energy-environment/trump-nuclear-westinghouse-deal.html",
+            "published": "Tue, 28 Oct 2025 18:16:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI completes shift to becoming for-profit",
+            "link": "https://www.bbc.com/news/articles/cvgv38py7ewo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Oct 2025 17:38:39 GMT"
+        },
         {
             "title": "Turing AI Institute boss denies accusations of 'toxic internal culture'",
             "link": "https://www.bbc.com/news/articles/c9q1xdnydwjo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "ChatGPT's new browser has potential, if you're willing to pay",
             "link": "https://www.bbc.com/news/articles/c20pdy1exxvo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 25 Oct 2025 23:24:03 GMT"
-        },
-        {
-            "title": "Tech bosses could stop mobile phone theft, say MPs",
-            "link": "https://www.bbc.com/news/articles/cx2y037pg41o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 24 Oct 2025 13:14:09 GMT"
         }
     ]
 }
