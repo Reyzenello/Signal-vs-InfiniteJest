@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "A former L3 Harris executive pleads guilty in a US district court to selling eight zero-day exploits to a Russian broker in exchange for millions of dollars (Greg Otto/CyberScoop)",
-            "link": "http://www.techmeme.com/251029/p42#a251029p42",
-            "published": "Wed, 29 Oct 2025 15:10:02 -0400"
+            "title": "Alphabet reports YouTube's Q3 ad revenue rose 15% YoY to $10.26B, vs. $10.01B est., and Google's advertising revenue reached $74.18B, up from $65.85B a year ago (Todd Spangler/Variety)",
+            "link": "http://www.techmeme.com/251029/p47#a251029p47",
+            "published": "Wed, 29 Oct 2025 16:20:01 -0400"
         },
         {
-            "title": "Sources: Synthesia, which helps companies generate videos with AI avatars, raised $200M led by GV at a $4B valuation, up from a $2.1B valuation in January (Rashi Shrivastava/Forbes)",
-            "link": "http://www.techmeme.com/251029/p41#a251029p41",
-            "published": "Wed, 29 Oct 2025 15:00:44 -0400"
+            "title": "Microsoft reports Q1 revenue up 18% YoY to $77.7B, vs. $75.3B est., net income up 12% to $27.7B, and Azure and other cloud services revenue up 40% (Microsoft)",
+            "link": "http://www.techmeme.com/251029/p46#a251029p46",
+            "published": "Wed, 29 Oct 2025 16:10:03 -0400"
         },
         {
-            "title": "Sources: legal AI startup Harvey raised $150M led by a16z at an $8B valuation, up from a $5B valuation in June, bringing its total raised to over $1B (Iain Martin/Forbes)",
-            "link": "http://www.techmeme.com/251029/p40#a251029p40",
-            "published": "Wed, 29 Oct 2025 14:30:01 -0400"
+            "title": "Meta reports Q3 revenue up 26% YoY to $51.2B vs. $49.4B est., net income down 83% to $2.7B due to a $15.9B one-time income tax charge; META down 6%+ after hours (Meta)",
+            "link": "http://www.techmeme.com/251029/p45#a251029p45",
+            "published": "Wed, 29 Oct 2025 16:07:13 -0400"
         },
         {
-            "title": "Microsoft 365 and Azure suffer outages; users report problems accessing sites and services, and the company says it is investigating (Jonathan Vanian/CNBC)",
-            "link": "http://www.techmeme.com/251029/p39#a251029p39",
-            "published": "Wed, 29 Oct 2025 13:10:01 -0400"
+            "title": "Alphabet reports Q3 revenue up 16% YoY to $102.35B, vs. $99.89B est., Cloud revenue up 34% to $15.16B, net income up 33% to $34.98B; GOOG jumps 5%+ after hours (Alphabet)",
+            "link": "http://www.techmeme.com/251029/p44#a251029p44",
+            "published": "Wed, 29 Oct 2025 16:05:02 -0400"
         },
         {
-            "title": "Cursor launches Cursor 2.0, with its first coding model, Composer, that it says is 4x faster than similar models, and a multi-agent interface (Cursor)",
-            "link": "http://www.techmeme.com/251029/p38#a251029p38",
-            "published": "Wed, 29 Oct 2025 13:00:14 -0400"
+            "title": "Google starts rolling out the Gemini for Home voice assistant in early access in the US, on Nest devices set to English (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/251029/p43#a251029p43",
+            "published": "Wed, 29 Oct 2025 15:30:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Nvidia Is First Company to Top $5 Trillion in Market Value Amid AI Boom",
+            "link": "https://www.nytimes.com/2025/10/29/technology/nvidia-value-market-ai.html",
+            "published": "Wed, 29 Oct 2025 20:14:37 +0000"
+        },
         {
             "title": "Character.AI to Ban Children Under 18 From Using Its Chatbots",
             "link": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
@@ -43,11 +48,6 @@
             "published": "Tue, 28 Oct 2025 13:19:13 +0000"
         },
         {
-            "title": "Saudi Arabia\u2019s New Power Play Is Exporting A.I. to the World",
-            "link": "https://www.nytimes.com/2025/10/27/technology/saudi-arabia-ai-exporter.html",
-            "published": "Tue, 28 Oct 2025 14:20:12 +0000"
-        },
-        {
             "title": "G.M. Will Cut 1,750 Jobs in Electric Vehicle Business",
             "link": "https://www.nytimes.com/2025/10/29/business/general-motors-electric-vehicles-layoff.html",
             "published": "Wed, 29 Oct 2025 19:16:31 +0000"
@@ -57,7 +57,7 @@
         {
             "title": "Heathrow, NatWest and Minecraft sites down in Microsoft global outage",
             "link": "https://www.bbc.com/news/articles/c3rj45n4x5eo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 29 Oct 2025 19:01:35 GMT"
+            "published": "Wed, 29 Oct 2025 19:47:11 GMT"
         },
         {
             "title": "Character.ai to ban teens from talking to its AI chatbots",
