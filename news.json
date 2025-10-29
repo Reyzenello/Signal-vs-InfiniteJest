@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Amazon opens Project Rainier, an $11B AI data center on 1,200 acres in Indiana that trains and runs Anthropic's AI models using 500K+ Amazon Trainium 2 chips (MacKenzie Sigalos/CNBC)",
+            "link": "http://www.techmeme.com/251029/p35#a251029p35",
+            "published": "Wed, 29 Oct 2025 10:56:21 -0400"
+        },
+        {
+            "title": "Jamf says PE firm Francisco Partners agreed to take the device management software maker private in an all-cash deal valued at ~$2.2B, set to close in Q1 2026 (Connor Hart/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251029/p34#a251029p34",
+            "published": "Wed, 29 Oct 2025 10:30:56 -0400"
+        },
+        {
             "title": "Amazon's $100 Echo Dot Max and $220 Echo Studio review: the devices run Alexa+, which works well, and have good audio quality, but the Studio is underwhelming (Chris Welch/Bloomberg)",
             "link": "http://www.techmeme.com/251029/p33#a251029p33",
             "published": "Wed, 29 Oct 2025 10:15:53 -0400"
@@ -14,19 +24,14 @@
             "title": "Nvidia opens at a $5T market cap, becoming the first company to hit the milestone, climbing 5% in early trading; NVDA is up 50% in 2025 and 1,275% since 2022 (Financial Times)",
             "link": "http://www.techmeme.com/251029/p31#a251029p31",
             "published": "Wed, 29 Oct 2025 09:40:07 -0400"
-        },
-        {
-            "title": "Investigation: the US government allowed and even helped US companies sell tech used for China's surveillance across five GOP and Democratic administrations (Associated Press)",
-            "link": "http://www.techmeme.com/251029/p30#a251029p30",
-            "published": "Wed, 29 Oct 2025 09:30:52 -0400"
-        },
-        {
-            "title": "Grammarly rebrands as Superhuman after its acquisitions of Superhuman Mail in June and Coda in December 2024; the standalone writing tool Grammarly still exists (Stevie Bonifield/The Verge)",
-            "link": "http://www.techmeme.com/251029/p29#a251029p29",
-            "published": "Wed, 29 Oct 2025 09:15:50 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Character.AI to Ban Children Under 18 From Using Its Chatbots",
+            "link": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
+            "published": "Wed, 29 Oct 2025 13:16:54 +0000"
+        },
         {
             "title": "OpenAI Restructures as For-Profit Company",
             "link": "https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html",
@@ -38,19 +43,14 @@
             "published": "Tue, 28 Oct 2025 13:19:13 +0000"
         },
         {
-            "title": "Elon Musk Challenges Wikipedia With His Own A.I. Encyclopedia",
-            "link": "https://www.nytimes.com/2025/10/27/technology/grokipedia-launch-elon-musk.html",
-            "published": "Tue, 28 Oct 2025 01:12:21 +0000"
-        },
-        {
             "title": "Saudi Arabia\u2019s New Power Play Is Exporting A.I. to the World",
             "link": "https://www.nytimes.com/2025/10/27/technology/saudi-arabia-ai-exporter.html",
             "published": "Tue, 28 Oct 2025 14:20:12 +0000"
         },
         {
-            "title": "Character.AI to Ban Children Under 18 From Using Its Chatbots",
-            "link": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
-            "published": "Wed, 29 Oct 2025 13:16:54 +0000"
+            "title": "48 Hours Without A.I.",
+            "link": "https://www.nytimes.com/video/technology/100000010483638/48-hours-without-ai.html",
+            "published": "Wed, 29 Oct 2025 15:00:45 +0000"
         }
     ],
     "source_2": [
