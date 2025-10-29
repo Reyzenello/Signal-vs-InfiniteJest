@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: legal AI startup Harvey raised $150M led by a16z at an $8B valuation, up from a $5B valuation in June, bringing its total raised to over $1B (Iain Martin/Forbes)",
+            "link": "http://www.techmeme.com/251029/p40#a251029p40",
+            "published": "Wed, 29 Oct 2025 14:30:01 -0400"
+        },
+        {
             "title": "Microsoft 365 and Azure suffer outages; users report problems accessing sites and services, and the company says it is investigating (Jonathan Vanian/CNBC)",
             "link": "http://www.techmeme.com/251029/p39#a251029p39",
             "published": "Wed, 29 Oct 2025 13:10:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Apollo Global reaches a deal to sell AOL to Bending Spoons, sources say in a deal valued at ~$1.5B; AOL has about 30M MAUs across its email and web properties (Sara Fischer/Axios)",
             "link": "http://www.techmeme.com/251029/p36#a251029p36",
             "published": "Wed, 29 Oct 2025 11:55:01 -0400"
-        },
-        {
-            "title": "Amazon opens Project Rainier, an $11B AI data center on 1,200 acres in Indiana that trains and runs Anthropic's AI models using 500K+ Amazon Trainium 2 chips (MacKenzie Sigalos/CNBC)",
-            "link": "http://www.techmeme.com/251029/p35#a251029p35",
-            "published": "Wed, 29 Oct 2025 10:56:21 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "Heathrow, NatWest and Minecraft sites down in Microsoft outage",
+            "title": "Heathrow, NatWest and Minecraft sites down in Microsoft global outage",
             "link": "https://www.bbc.com/news/articles/c3rj45n4x5eo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 29 Oct 2025 17:22:43 GMT"
+            "published": "Wed, 29 Oct 2025 17:48:36 GMT"
         },
         {
             "title": "Character.ai to ban teens from talking to its AI chatbots",
