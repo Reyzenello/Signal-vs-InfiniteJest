@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Investigation: the US government allowed and even helped US companies sell tech used for China's surveillance across five GOP and Democratic administrations (Associated Press)",
+            "link": "http://www.techmeme.com/251029/p30#a251029p30",
+            "published": "Wed, 29 Oct 2025 09:30:52 -0400"
+        },
+        {
+            "title": "Grammarly rebrands as Superhuman after its acquisitions of Superhuman Mail in June and Coda in December 2024; the standalone writing tool Grammarly still exists (Stevie Bonifield/The Verge)",
+            "link": "http://www.techmeme.com/251029/p29#a251029p29",
+            "published": "Wed, 29 Oct 2025 09:15:50 -0400"
+        },
+        {
+            "title": "Character.ai plans to limit under-18s to two hours of conversations per day, gradually reducing the time limit before banning them completely from November 25 (Cristina Criddle/Financial Times)",
+            "link": "http://www.techmeme.com/251029/p28#a251029p28",
+            "published": "Wed, 29 Oct 2025 09:10:02 -0400"
+        },
+        {
             "title": "Grokipedia hands-on: many articles clone Wikipedia, but deviate significantly on topics conflicting with Elon Musk's worldview; at times, it is overtly racist (The Verge)",
             "link": "http://www.techmeme.com/251029/p27#a251029p27",
             "published": "Wed, 29 Oct 2025 08:55:02 -0400"
@@ -9,21 +24,6 @@
             "title": "The US FCC votes 3-0 to tighten restrictions on telecom equipment from Chinese companies on its Covered List, including Huawei and ZTE, to close loopholes (David Shepardson/Reuters)",
             "link": "http://www.techmeme.com/251029/p26#a251029p26",
             "published": "Wed, 29 Oct 2025 08:45:49 -0400"
-        },
-        {
-            "title": "Uber plans to launch its first robotaxi in the San Francisco Bay Area in late 2026, built on Lucid's Gravity SUV, after testing 100 cars in the coming months (Dee-Ann Durbin/Associated Press)",
-            "link": "http://www.techmeme.com/251029/p25#a251029p25",
-            "published": "Wed, 29 Oct 2025 08:30:51 -0400"
-        },
-        {
-            "title": "OpenAI releases gpt-oss-safeguard, its open-weight reasoning models for safety classification tasks, available in 120B and 20B parameters, under Apache 2.0 (OpenAI)",
-            "link": "http://www.techmeme.com/251029/p24#a251029p24",
-            "published": "Wed, 29 Oct 2025 08:20:02 -0400"
-        },
-        {
-            "title": "PitchBook: Nvidia invested in 59 AI startups in 2025 so far, including 10 in the past two months, surpassing 55 investments in 2024 and 12 investments in 2022 (Emily Forgash/Bloomberg)",
-            "link": "http://www.techmeme.com/251029/p23#a251029p23",
-            "published": "Wed, 29 Oct 2025 07:45:48 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 28 Oct 2025 14:20:12 +0000"
         },
         {
-            "title": "Trump Administration Backs Plan for New Nuclear Plants",
-            "link": "https://www.nytimes.com/2025/10/28/business/energy-environment/trump-nuclear-westinghouse-deal.html",
-            "published": "Tue, 28 Oct 2025 18:16:09 +0000"
+            "title": "Character.AI to Ban Children Under 18 From Using Its Chatbots",
+            "link": "https://www.nytimes.com/2025/10/29/technology/characterai-underage-users.html",
+            "published": "Wed, 29 Oct 2025 13:16:54 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Character.ai to ban teens from talking to its AI chatbots",
+            "link": "https://www.bbc.com/news/articles/cq837y3v9y1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Oct 2025 13:36:21 GMT"
+        },
         {
             "title": "Amazon confirms 14,000 job losses in corporate division",
             "link": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "ChatGPT shares data on how many users exhibit psychosis or suicidal thoughts",
             "link": "https://www.bbc.com/news/articles/c5yd90g0q43o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 27 Oct 2025 23:53:41 GMT"
-        },
-        {
-            "title": "Armed police handcuff teen after AI mistakes crisp packet for gun in US",
-            "link": "https://www.bbc.com/news/articles/cgjdlx92lylo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 24 Oct 2025 14:24:00 GMT"
         }
     ]
 }
