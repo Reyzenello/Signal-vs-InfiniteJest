@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google partners with Reliance to offer free AI Pro access to Jio 5G users in India for 18 months; Perplexity has a similar deal with Bharti Airtel (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/251030/p26#a251030p26",
+            "published": "Thu, 30 Oct 2025 10:25:02 -0400"
+        },
+        {
+            "title": "Q&A with Palantir CTO Shyam Sankar on surveillance, AI, the future of war, data, privacy, the US military, ImmigrationOS, the DHS, ICE, the UK's IDs, and more (New York Times)",
+            "link": "http://www.techmeme.com/251030/p25#a251030p25",
+            "published": "Thu, 30 Oct 2025 09:50:01 -0400"
+        },
+        {
             "title": "UMG and Stability AI announce a partnership to develop music creation tools powered by \"responsibly\" trained AI (Marc Schneider/Billboard)",
             "link": "http://www.techmeme.com/251030/p24#a251030p24",
             "published": "Thu, 30 Oct 2025 09:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "OpenAI's Sora app adds new features, including \"character cameos\" to create AI deepfakes of pets, illustrations, and more, clip stitching, and leaderboards (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/251030/p22#a251030p22",
             "published": "Thu, 30 Oct 2025 08:30:02 -0400"
-        },
-        {
-            "title": "Alphabet passed $100B in quarterly revenue for the first time, in Q3; Sundar Pichai says \"AI Overviews drive meaningful query growth\" and AI Mode has 75M DAUs (Kendra Barnett/Adweek)",
-            "link": "http://www.techmeme.com/251030/p21#a251030p21",
-            "published": "Thu, 30 Oct 2025 08:10:00 -0400"
-        },
-        {
-            "title": "Roblox reports Q3 revenue up 48% YoY to $1.36B, DAUs up 70% YoY to 151.5M, above 132.3M est., and bookings up 70% YoY to $1.9B, above $1.7B est. (Cecilia D'Anastasio/Bloomberg)",
-            "link": "http://www.techmeme.com/251030/p20#a251030p20",
-            "published": "Thu, 30 Oct 2025 08:00:47 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Watchdog slams O2 over unexpected price rise",
+            "link": "https://www.bbc.com/news/articles/cd047vl9ylpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Oct 2025 13:56:28 GMT"
+        },
+        {
             "title": "First UK phones to get satellite connectivity in signal blackspots announced",
             "link": "https://www.bbc.com/news/articles/c993m88jer9o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 30 Oct 2025 07:31:02 GMT"
@@ -73,11 +78,6 @@
             "title": "Amazon confirms 14,000 job losses in corporate division",
             "link": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 28 Oct 2025 12:37:16 GMT"
-        },
-        {
-            "title": "OpenAI completes shift to becoming for-profit",
-            "link": "https://www.bbc.com/news/articles/cvgv38py7ewo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 28 Oct 2025 19:36:59 GMT"
         }
     ]
 }
