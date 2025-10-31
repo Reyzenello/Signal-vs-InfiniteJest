@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Tether reports that it has generated profits of over $10B during the first three quarters of 2025 and it has issued an additional $17B in USDT during Q3 (RT Watson/The Block)",
+            "link": "http://www.techmeme.com/251031/p16#a251031p16",
+            "published": "Fri, 31 Oct 2025 12:20:01 -0400"
+        },
+        {
+            "title": "Human Interest, a 401(k) platform for SMBs that aims to cut down on administrative work, raised $100M+ at a $3B post-money valuation, up from $1.3B in 2024 (Dan Primack/Axios)",
+            "link": "http://www.techmeme.com/251031/p15#a251031p15",
+            "published": "Fri, 31 Oct 2025 12:05:01 -0400"
+        },
+        {
+            "title": "In their latest earnings reports, Meta, Alphabet, Microsoft, and Amazon have announced plans to increase their AI spending in 2026 to a combined $400B (Meghan Bobrowsky/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251031/p14#a251031p14",
+            "published": "Fri, 31 Oct 2025 11:45:01 -0400"
+        },
+        {
             "title": "Pony.ai becomes the first company to receive a citywide robotaxi permit for Shenzhen, allowing self-driving taxis to operate beyond pilot zones (Evelyn Cheng/CNBC)",
             "link": "http://www.techmeme.com/251031/p13#a251031p13",
             "published": "Fri, 31 Oct 2025 10:55:03 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: ex-xAI researcher Eric Zelikman is raising $1B at a $5B valuation for Humans&, which aims to train AI that is better at collaborating with humans (Anna Tong/Forbes)",
             "link": "http://www.techmeme.com/251031/p12#a251031p12",
             "published": "Fri, 31 Oct 2025 10:10:01 -0400"
-        },
-        {
-            "title": "Perplexity launches a free AI-powered patent research tool in beta to let users search for patents using natural language queries (Emma Roth/The Verge)",
-            "link": "http://www.techmeme.com/251031/p11#a251031p11",
-            "published": "Fri, 31 Oct 2025 09:40:00 -0400"
-        },
-        {
-            "title": "Getty and Perplexity sign a multi-year licensing agreement to let the AI startup display Getty's images across its search and discovery tools; GETY jumps 15%+ (Kritika Lamba/Reuters)",
-            "link": "http://www.techmeme.com/251031/p10#a251031p10",
-            "published": "Fri, 31 Oct 2025 09:15:49 -0400"
-        },
-        {
-            "title": "Denmark says it will withdraw the EU \"Chat Control\" proposal, which would force tech companies to scan messages for CSAM, and instead support voluntary scanning (Claudie Moreau/Euractiv)",
-            "link": "http://www.techmeme.com/251031/p9#a251031p9",
-            "published": "Fri, 31 Oct 2025 08:15:46 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Pornhub says UK visitors down 77% since age checks came in",
+            "link": "https://www.bbc.com/news/articles/cgkz3m3re1zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Oct 2025 00:43:42 GMT"
+        },
+        {
+            "title": "Security concerns over system at heart of digital ID",
+            "link": "https://www.bbc.com/news/articles/c5y930x81wpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Oct 2025 15:32:30 GMT"
+        },
+        {
             "title": "Watchdog slams O2 over unexpected price rise",
             "link": "https://www.bbc.com/news/articles/cd047vl9ylpo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 30 Oct 2025 15:22:09 GMT"
@@ -68,16 +78,6 @@
             "title": "Websites disabled in Microsoft global outage come back online",
             "link": "https://www.bbc.com/news/articles/c3rj45n4x5eo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 29 Oct 2025 22:44:07 GMT"
-        },
-        {
-            "title": "Character.ai to ban teens from talking to its AI chatbots",
-            "link": "https://www.bbc.com/news/articles/cq837y3v9y1o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 29 Oct 2025 13:36:21 GMT"
-        },
-        {
-            "title": "Amazon confirms 14,000 job losses in corporate division",
-            "link": "https://www.bbc.com/news/articles/c1m3zm9jnl1o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 28 Oct 2025 12:37:16 GMT"
         }
     ]
 }
