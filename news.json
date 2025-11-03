@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "A profile of Mark Gubrud, who coined the term AGI in a 1997 research paper, which argued that breakthrough technologies will redefine international conflicts (Steven Levy/Wired)",
+            "link": "http://www.techmeme.com/251103/p4#a251103p4",
+            "published": "Mon, 03 Nov 2025 01:40:01 -0500"
+        },
+        {
+            "title": "Cologne-based Octonomy, which helps companies deploy AI in complex workflows, raised a $20M seed led by Macquarie Capital, bringing its total raised to $25M (Amelia Isaacs/Pathfounders)",
+            "link": "http://www.techmeme.com/251103/p3#a251103p3",
+            "published": "Mon, 03 Nov 2025 01:15:00 -0500"
+        },
+        {
+            "title": "Sources: Pony AI plans to raise $863M in its November 6 Hong Kong IPO by selling 48.3M shares at ~$17.88 each, below its October 31 Nasdaq close at $18.68 (Bloomberg)",
+            "link": "http://www.techmeme.com/251103/p2#a251103p2",
+            "published": "Mon, 03 Nov 2025 00:40:02 -0500"
+        },
+        {
+            "title": "During an interview, Satya Nadella says Microsoft faces a power shortage, not a compute one, which could leave \"chips sitting in inventory that I can't plug in\" (Jowi Morales/Tom's Hardware)",
+            "link": "http://www.techmeme.com/251103/p1#a251103p1",
+            "published": "Mon, 03 Nov 2025 00:30:01 -0500"
+        },
+        {
             "title": "Baidu says its Apollo Go robotaxi hit 250,000 weekly orders globally as of October 31, matching Waymo's 250,000 weekly paid US rides reported in April 2025 (Evelyn Cheng/CNBC)",
             "link": "http://www.techmeme.com/251102/p16#a251102p16",
             "published": "Sun, 02 Nov 2025 23:45:01 -0500"
-        },
-        {
-            "title": "At APEC, Xi Jinping proposed a World Artificial Intelligence Cooperation Organization for global AI regulation; state media says it could be based in Shanghai (Reuters)",
-            "link": "http://www.techmeme.com/251102/p15#a251102p15",
-            "published": "Sun, 02 Nov 2025 23:10:01 -0500"
-        },
-        {
-            "title": "In a reply to Elon Musk's post of \"you stole a non-profit\", Sam Altman says OpenAI's structure is needed to create \"what should be the largest non-profit ever\" (Lauren Edmonds/Business Insider)",
-            "link": "http://www.techmeme.com/251102/p14#a251102p14",
-            "published": "Sun, 02 Nov 2025 21:55:01 -0500"
-        },
-        {
-            "title": "Trump says Nvidia's Blackwell chips would not be available to \"other people\"; Trump suggested in August he might allow sales of a scaled-down version to China (Alexandra Alper/Reuters)",
-            "link": "http://www.techmeme.com/251102/p13#a251102p13",
-            "published": "Sun, 02 Nov 2025 21:05:01 -0500"
-        },
-        {
-            "title": "A look at Palantir's four-month \"Meritocracy Fellowship\" for high school graduates, which offers a path to a job at Palantir without a university degree (Angel Au-Yeung/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251102/p12#a251102p12",
-            "published": "Sun, 02 Nov 2025 19:30:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "'No idea who he is', says Trump after pardoning crypto tycoon",
+            "link": "https://www.bbc.com/news/articles/cn7ek63e5xyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Nov 2025 06:16:03 GMT"
+        },
+        {
             "title": "Will AI mean the end of call centres?",
             "link": "https://www.bbc.com/news/articles/cz913ylq3k3o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 02 Nov 2025 23:20:59 GMT"
@@ -73,11 +78,6 @@
             "title": "Pornhub says UK visitors down 77% since age checks came in",
             "link": "https://www.bbc.com/news/articles/cgkz3m3re1zo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 31 Oct 2025 00:43:42 GMT"
-        },
-        {
-            "title": "Security concerns over system at heart of digital ID",
-            "link": "https://www.bbc.com/news/articles/c5y930x81wpo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 31 Oct 2025 15:32:30 GMT"
         }
     ]
 }
