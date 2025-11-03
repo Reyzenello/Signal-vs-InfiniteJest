@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Toronto-based quantum computing company Xanadu says it will go public in the US and Canada via a SPAC, in a deal that values the combined business at ~$3.6B (Josh Scott/BetaKit)",
+            "link": "http://www.techmeme.com/251103/p25#a251103p25",
+            "published": "Mon, 03 Nov 2025 11:15:01 -0500"
+        },
+        {
             "title": "Cisco launches Unified Edge, an all-in-one system designed to help retail stores, health care facilities, and factories use AI with a single equipment rack (Dina Bass/Bloomberg)",
             "link": "http://www.techmeme.com/251103/p24#a251103p24",
             "published": "Mon, 03 Nov 2025 09:30:01 -0500"
@@ -19,41 +24,41 @@
             "title": "MongoDB CEO Dev Ittycheria is stepping down after 11 years, replaced by Cloudflare President of Product & Engineering Chirantan Desai, effective November 10 (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/251103/p21#a251103p21",
             "published": "Mon, 03 Nov 2025 08:35:01 -0500"
-        },
-        {
-            "title": "Court docs: in a deposition, Ilya Sutskever discussed conflicts at OpenAI that he sent to board members before Sam Altman's firing, his OpenAI exit, and more (Rocket Drew/The Information)",
-            "link": "http://www.techmeme.com/251103/p20#a251103p20",
-            "published": "Mon, 03 Nov 2025 07:45:02 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "A.I. Spending Is Accelerating Among Tech\u2019s Biggest Companies",
-            "link": "https://www.nytimes.com/2025/10/31/technology/ai-spending-accelerating.html",
-            "published": "Fri, 31 Oct 2025 14:25:19 +0000"
-        },
-        {
-            "title": "A.I. Is Making Death Threats Way More Realistic",
-            "link": "https://www.nytimes.com/2025/10/31/business/media/artificial-intelligence-death-threats.html",
-            "published": "Fri, 31 Oct 2025 22:12:56 +0000"
-        },
-        {
-            "title": "Apple\u2019s iPhones Fuel Record Sales and Profit",
-            "link": "https://www.nytimes.com/2025/10/30/business/apple-earnings.html",
-            "published": "Thu, 30 Oct 2025 23:46:55 +0000"
-        },
-        {
-            "title": "You Don\u2019t Need to Swipe Right. A.I. Is Transforming Dating Apps.",
+            "title": "How A.I. Is Transforming Dating Apps",
             "link": "https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html",
             "published": "Mon, 03 Nov 2025 15:20:51 +0000"
         },
         {
             "title": "Facebook Dating Has Become a Surprise Hit for the Social Network",
             "link": "https://www.nytimes.com/2025/11/03/technology/facebook-dating-surprise-hit.html",
-            "published": "Mon, 03 Nov 2025 15:27:35 +0000"
+            "published": "Mon, 03 Nov 2025 15:32:41 +0000"
+        },
+        {
+            "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon",
+            "link": "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html",
+            "published": "Mon, 03 Nov 2025 15:03:45 +0000"
+        },
+        {
+            "title": "Control of Tesla Is at Stake in Vote on Elon Musk\u2019s Pay Plan",
+            "link": "https://www.nytimes.com/2025/11/03/business/elon-musk-tesla-pay-vote.html",
+            "published": "Mon, 03 Nov 2025 15:44:32 +0000"
+        },
+        {
+            "title": "Everyone Hates \u2018Friend,\u2019 the A.I. Necklace. But the A.I. Isn\u2019t the Problem.",
+            "link": "https://www.nytimes.com/2025/11/03/magazine/friend-wearable-ai-companion.html",
+            "published": "Mon, 03 Nov 2025 10:01:26 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "ChatGPT owner OpenAI signs $38bn cloud computing deal with Amazon",
+            "link": "https://www.bbc.com/news/articles/cgqlzje32pjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Nov 2025 16:11:36 GMT"
+        },
         {
             "title": "'No idea who he is,' says Trump after pardoning crypto tycoon",
             "link": "https://www.bbc.com/news/articles/cn7ek63e5xyo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Will AI mean the end of call centres?",
             "link": "https://www.bbc.com/news/articles/cz913ylq3k3o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 02 Nov 2025 23:20:59 GMT"
-        },
-        {
-            "title": "Vue cinema boss: I don't see streaming as the competition",
-            "link": "https://www.bbc.com/news/articles/c986d9jjv87o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 03 Nov 2025 11:00:00 GMT"
         }
     ]
 }
