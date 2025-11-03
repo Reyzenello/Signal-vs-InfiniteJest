@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Hippocratic AI, which offers healthcare AI agents, raised a $126M Series C led by Avenir at a $3.5B valuation, up from $1.64B in January (Heather Landi/Fierce Healthcare)",
+            "link": "http://www.techmeme.com/251103/p33#a251103p33",
+            "published": "Mon, 03 Nov 2025 13:30:01 -0500"
+        },
+        {
+            "title": "Lambda announces a multibillion-dollar agreement with Microsoft for AI infrastructure powered by Nvidia chips; the specific deal value was not disclosed (Jaures Yip/CNBC)",
+            "link": "http://www.techmeme.com/251103/p32#a251103p32",
+            "published": "Mon, 03 Nov 2025 13:15:01 -0500"
+        },
+        {
+            "title": "Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 (Stevie Bonifield/The Verge)",
+            "link": "http://www.techmeme.com/251103/p31#a251103p31",
+            "published": "Mon, 03 Nov 2025 13:00:00 -0500"
+        },
+        {
+            "title": "Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/251103/p30#a251103p30",
+            "published": "Mon, 03 Nov 2025 12:40:45 -0500"
+        },
+        {
             "title": "Crypto.com strikes a deal with Hollywood.com to let users make predictions related to movies, actors, shows, and awards (Rob Golum/Bloomberg)",
             "link": "http://www.techmeme.com/251103/p29#a251103p29",
             "published": "Mon, 03 Nov 2025 12:20:01 -0500"
-        },
-        {
-            "title": "TikTok announces its first ever TikTok Awards show in the US; the live event will take place on December 18 and will be streamed on the TikTok app and on Tubi (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/251103/p28#a251103p28",
-            "published": "Mon, 03 Nov 2025 12:05:00 -0500"
-        },
-        {
-            "title": "arXiv says it will stop accepting computer science papers that haven't been vetted by an academic journal or a conference, after a surge in AI-generated papers (Matthew Gault/404 Media)",
-            "link": "http://www.techmeme.com/251103/p27#a251103p27",
-            "published": "Mon, 03 Nov 2025 11:55:27 -0500"
-        },
-        {
-            "title": "NY-based Teleskope, which offers smaller LLMs fine-tuned for specific security problems, raised a $25M Series A led by M13, taking its total funding to $32.2M (Leo Schwartz/Fortune)",
-            "link": "http://www.techmeme.com/251103/p26#a251103p26",
-            "published": "Mon, 03 Nov 2025 11:40:25 -0500"
-        },
-        {
-            "title": "Toronto-based quantum computing company Xanadu says it will go public in the US and Canada via a SPAC, in a deal that values the combined business at ~$3.6B (Josh Scott/BetaKit)",
-            "link": "http://www.techmeme.com/251103/p25#a251103p25",
-            "published": "Mon, 03 Nov 2025 11:15:01 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Facebook Dating Has Become a Surprise Hit for the Social Network",
             "link": "https://www.nytimes.com/2025/11/03/technology/facebook-dating-surprise-hit.html",
-            "published": "Mon, 03 Nov 2025 15:32:41 +0000"
+            "published": "Mon, 03 Nov 2025 17:51:04 +0000"
         },
         {
             "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon",
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "Government disappointed by unexpected O2 price rise",
+            "link": "https://www.bbc.com/news/articles/c5y02797xygo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Nov 2025 18:05:59 GMT"
+        },
+        {
             "title": "ChatGPT owner OpenAI signs $38bn cloud computing deal with Amazon",
             "link": "https://www.bbc.com/news/articles/cgqlzje32pjo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 03 Nov 2025 16:11:36 GMT"
+            "published": "Mon, 03 Nov 2025 17:45:20 GMT"
         },
         {
             "title": "'No idea who he is,' says Trump after pardoning crypto tycoon",
@@ -73,11 +78,6 @@
             "title": "Football Manager has finally added women's teams after 20 years. I put the game to the test",
             "link": "https://www.bbc.com/news/articles/clyz8de5p57o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 02 Nov 2025 01:52:56 GMT"
-        },
-        {
-            "title": "Will AI mean the end of call centres?",
-            "link": "https://www.bbc.com/news/articles/cz913ylq3k3o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 02 Nov 2025 23:20:59 GMT"
         }
     ]
 }
