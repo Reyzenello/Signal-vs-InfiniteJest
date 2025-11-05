@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Shares of Asian AI-linked companies fall, tracking declines in US peers, as investors worry about stretched valuations; SoftBank falls 9%+, Advantest 7%+ (Lee Ying Shan/CNBC)",
+            "link": "http://www.techmeme.com/251104/p40#a251104p40",
+            "published": "Tue, 04 Nov 2025 20:05:02 -0500"
+        },
+        {
+            "title": "Sources detail Musk's time at xAI after he left DOGE: he oversaw the design of the racy chatbot Ani, employees turned over biometric data to train avatars, more (Wall Street Journal)",
+            "link": "http://www.techmeme.com/251104/p39#a251104p39",
+            "published": "Tue, 04 Nov 2025 19:50:01 -0500"
+        },
+        {
+            "title": "The US sanctions eight people and two companies it accused of laundering money obtained from cybercrime and IT worker schemes for the North Korean government (Tim Starks/CyberScoop)",
+            "link": "http://www.techmeme.com/251104/p38#a251104p38",
+            "published": "Tue, 04 Nov 2025 18:30:01 -0500"
+        },
+        {
             "title": "Australia broadens its social media ban for under-16s to include Reddit and Kick, which join Facebook, Instagram, Threads, Snapchat, TikTok, X, and YouTube (Clare Armstrong/ABC)",
             "link": "http://www.techmeme.com/251104/p37#a251104p37",
             "published": "Tue, 04 Nov 2025 17:35:02 -0500"
@@ -9,24 +24,19 @@
             "title": "Sources: Netflix has sent out dozens of requests to agents at WME, UTA, and CAA for video podcast creators, and plans to launch video podcasts in early 2026 (Caitlin Huston/The Hollywood Reporter)",
             "link": "http://www.techmeme.com/251104/p36#a251104p36",
             "published": "Tue, 04 Nov 2025 17:25:03 -0500"
-        },
-        {
-            "title": "Super Micro reports Q1 revenue down 15% YoY to $5B, vs. $6.09B est., and forecasts Q2 profit below estimates; SMCI drops 9%+ after hours (Dina Bass/Bloomberg)",
-            "link": "http://www.techmeme.com/251104/p35#a251104p35",
-            "published": "Tue, 04 Nov 2025 17:10:01 -0500"
-        },
-        {
-            "title": "Match reports Q3 revenue up 2% YoY to $914M, vs. $915M est., net income up 18% to $161M, paying users down 5% to 14.5M, and forecasts Q4 revenue below estimates (Kritika Lamba/Reuters)",
-            "link": "http://www.techmeme.com/251104/p34#a251104p34",
-            "published": "Tue, 04 Nov 2025 16:55:00 -0500"
-        },
-        {
-            "title": "AMD reports Q3 revenue up 36% YoY to $9.24B, vs. $8.7B est., Data Center revenue up 22% to $4.3B, and forecasts Q4 revenue below the highest projections (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/251104/p33#a251104p33",
-            "published": "Tue, 04 Nov 2025 16:45:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Right-Wing Chatbots Turbocharge America\u2019s Political and Cultural Wars",
+            "link": "https://www.nytimes.com/2025/11/04/business/right-wing-chatbots-gab-arya-chatgpt-gemini.html",
+            "published": "Tue, 04 Nov 2025 17:24:20 +0000"
+        },
+        {
+            "title": "IBM to Cut Thousands of Workers Amid A.I. Boom",
+            "link": "https://www.nytimes.com/2025/11/04/technology/ibm-layoffs-ai.html",
+            "published": "Tue, 04 Nov 2025 23:57:31 +0000"
+        },
         {
             "title": "How A.I. Is Transforming Dating Apps",
             "link": "https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html",
@@ -38,22 +48,27 @@
             "published": "Mon, 03 Nov 2025 17:51:05 +0000"
         },
         {
-            "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon",
-            "link": "https://www.nytimes.com/2025/11/03/technology/openai-amazon-cloud-computing.html",
-            "published": "Mon, 03 Nov 2025 19:07:24 +0000"
-        },
-        {
-            "title": "Control of Tesla Is at Stake in Vote on Elon Musk\u2019s Pay Plan",
-            "link": "https://www.nytimes.com/2025/11/03/business/elon-musk-tesla-pay-vote.html",
-            "published": "Mon, 03 Nov 2025 15:44:33 +0000"
-        },
-        {
-            "title": "IBM to Cut Thousands of Workers Amid A.I. Boom",
-            "link": "https://www.nytimes.com/2025/11/04/technology/ibm-layoffs-ai.html",
-            "published": "Tue, 04 Nov 2025 22:55:43 +0000"
+            "title": "The Editor Got a Letter From \u2018Dr. B.S.\u2019 So Did a Lot of Other Editors.",
+            "link": "https://www.nytimes.com/2025/11/04/science/letters-to-the-editor-ai-chatbots.html",
+            "published": "Tue, 04 Nov 2025 17:18:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Tesla says Musk should be paid $1tn - will shareholders agree?",
+            "link": "https://www.bbc.com/news/articles/cn4j0yg1drgo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Nov 2025 00:46:50 GMT"
+        },
+        {
+            "title": "AI 'godmother' Fei-Fei Li says she is 'proud to be different'",
+            "link": "https://www.bbc.com/news/articles/c5yp2vj92e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Nov 2025 00:18:15 GMT"
+        },
+        {
+            "title": "Reddit added to Australia's social media ban on under-16s",
+            "link": "https://www.bbc.com/news/articles/cn0gkg7x59go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Nov 2025 00:44:42 GMT"
+        },
         {
             "title": "Online porn showing choking to be made illegal, government says",
             "link": "https://www.bbc.com/news/articles/clyk3qzq7k7o?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "Shein bans all sex dolls after outrage over childlike products",
             "link": "https://www.bbc.com/news/articles/cddrg70pj1mo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 04 Nov 2025 03:16:18 GMT"
-        },
-        {
-            "title": "Government disappointed by unexpected O2 price rise",
-            "link": "https://www.bbc.com/news/articles/c5y02797xygo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 03 Nov 2025 18:05:59 GMT"
-        },
-        {
-            "title": "ChatGPT owner OpenAI signs $38bn cloud computing deal with Amazon",
-            "link": "https://www.bbc.com/news/articles/cgqlzje32pjo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 03 Nov 2025 17:45:20 GMT"
-        },
-        {
-            "title": "'No idea who he is,' says Trump after pardoning crypto tycoon",
-            "link": "https://www.bbc.com/news/articles/cn7ek63e5xyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 03 Nov 2025 06:16:03 GMT"
         }
     ]
 }
