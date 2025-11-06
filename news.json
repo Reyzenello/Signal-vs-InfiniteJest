@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sam Altman says OpenAI doesn't want government guarantees for data centers and expects to fund investments with revenues hitting \"hundreds of billions by 2030\" (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/251106/p42#a251106p42",
+            "published": "Thu, 06 Nov 2025 16:15:35 -0500"
+        },
+        {
+            "title": "Amazon is testing an AI tool called Kindle Translate that automatically translates books into other languages, for authors that self-publish on the platform (Lawrence Bonk/Engadget)",
+            "link": "http://www.techmeme.com/251106/p41#a251106p41",
+            "published": "Thu, 06 Nov 2025 15:40:04 -0500"
+        },
+        {
             "title": "The FBI has subpoenaed the domain registrar of archive.today, demanding information about the owner of the archiving site as part of a criminal investigation (Jason Koebler/404 Media)",
             "link": "http://www.techmeme.com/251106/p40#a251106p40",
             "published": "Thu, 06 Nov 2025 14:40:00 -0500"
@@ -14,23 +24,23 @@
             "title": "OpenAI releases a blueprint the company hopes lawmakers will use in crafting safety standards for teens using AI, with five suggestions for AI companies (Ashley Gold/Axios)",
             "link": "http://www.techmeme.com/251106/p38#a251106p38",
             "published": "Thu, 06 Nov 2025 13:35:01 -0500"
-        },
-        {
-            "title": "David Sacks says there will be \"no federal bailout for AI\", as the US has at least five major AI companies and \"if one fails, others will take its place\" (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/251106/p37#a251106p37",
-            "published": "Thu, 06 Nov 2025 13:15:26 -0500"
-        },
-        {
-            "title": "a16z announces an eight-week new media fellowship for people with a record of creating \"impactful content\" via newsletters, podcasts, communities, and more (a16z)",
-            "link": "http://www.techmeme.com/251106/p36#a251106p36",
-            "published": "Thu, 06 Nov 2025 13:01:06 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "OpenAI Races to Quell Concerns Over Its Finances",
+            "link": "https://www.nytimes.com/2025/11/06/technology/openai-finances-debt-data-centers.html",
+            "published": "Thu, 06 Nov 2025 21:16:17 +0000"
+        },
+        {
             "title": "How A.I. and Social Media Contribute to \u2018Brain Rot\u2019",
             "link": "https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html",
             "published": "Thu, 06 Nov 2025 15:15:31 +0000"
+        },
+        {
+            "title": "Are A.I. Therapy Chatbots Safe to Use?",
+            "link": "https://www.nytimes.com/2025/11/06/technology/ai-therapy-chatbots-ash.html",
+            "published": "Thu, 06 Nov 2025 18:20:02 +0000"
         },
         {
             "title": "Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy",
@@ -38,19 +48,9 @@
             "published": "Thu, 06 Nov 2025 19:07:08 +0000"
         },
         {
-            "title": "Right-Wing Chatbots Turbocharge America\u2019s Political and Cultural Wars",
-            "link": "https://www.nytimes.com/2025/11/04/business/right-wing-chatbots-gab-arya-chatgpt-gemini.html",
-            "published": "Tue, 04 Nov 2025 17:24:20 +0000"
-        },
-        {
-            "title": "IBM to Cut Thousands of Workers Amid A.I. Boom",
-            "link": "https://www.nytimes.com/2025/11/04/technology/ibm-layoffs-ai.html",
-            "published": "Tue, 04 Nov 2025 23:57:31 +0000"
-        },
-        {
             "title": "Government Shutdown Blame Game Plays Out Online and on TV",
             "link": "https://www.nytimes.com/2025/11/06/technology/online-television-shutdown-blame.html",
-            "published": "Thu, 06 Nov 2025 18:50:14 +0000"
+            "published": "Thu, 06 Nov 2025 20:29:18 +0000"
         }
     ],
     "source_2": [
