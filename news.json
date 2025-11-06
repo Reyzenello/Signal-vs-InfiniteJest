@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources and docs: after Marc Andreessen donated $5M+ to Trump's 2024 campaign, most CFPB probes have stalled, including three into Andreessen-backed companies (Jake Pearson/ProPublica)",
+            "link": "http://www.techmeme.com/251105/p59#a251105p59",
+            "published": "Wed, 05 Nov 2025 20:40:00 -0500"
+        },
+        {
+            "title": "Sens. Mark Warner and Josh Hawley introduce a bipartisan bill that would require companies and US agencies to submit quarterly reports on AI-related job impacts (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/251105/p58#a251105p58",
+            "published": "Wed, 05 Nov 2025 19:40:01 -0500"
+        },
+        {
+            "title": "OpenAI CFO Sarah Friar says an \"IPO is not on the cards right now\", and that OpenAI hopes the US government might backstop the financing of data center deals (Berber Jin/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251105/p57#a251105p57",
+            "published": "Wed, 05 Nov 2025 19:15:01 -0500"
+        },
+        {
+            "title": "Google says Gemini Deep Research can now directly draw on information stored in users' Gmail, Drive, and Chat to create reports (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/251105/p56#a251105p56",
+            "published": "Wed, 05 Nov 2025 19:00:43 -0500"
+        },
+        {
             "title": "AppLovin reports Q3 revenue up 68% YoY to $1.41B, vs. $1.34B est., and forecasts Q4 revenue and adjusted EBITDA above estimates; APP jumps 6%+ after hours (Luke Kawa/Sherwood News)",
             "link": "http://www.techmeme.com/251105/p55#a251105p55",
             "published": "Wed, 05 Nov 2025 18:10:00 -0500"
-        },
-        {
-            "title": "Figma reports Q3 revenue up 38% YoY to $274.2M, vs. $265.2M est., adjusted operating margin of 12%, vs. 6.5% est., and forecasts Q4 revenue above estimates (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/251105/p54#a251105p54",
-            "published": "Wed, 05 Nov 2025 17:50:01 -0500"
-        },
-        {
-            "title": "Robinhood reports Q3 revenue up 100% YoY to $1.27B, vs. $1.19B est., transaction-based revenue up 129% to $730M, vs. $739M est., and net income up 271% to $556M (MacKenzie Sigalos/CNBC)",
-            "link": "http://www.techmeme.com/251105/p53#a251105p53",
-            "published": "Wed, 05 Nov 2025 17:30:03 -0500"
-        },
-        {
-            "title": "Quantinuum unveils Helios, a quantum computer with 98 physical qubits, from which it can deliver 48 logical error-corrected qubits, an impressive 2:1 ratio (Isabelle Bousquette/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251105/p52#a251105p52",
-            "published": "Wed, 05 Nov 2025 17:25:01 -0500"
-        },
-        {
-            "title": "Bumble reports Q3 revenue down 10% YoY to $246.2M, total paying users down 16% to 3.6M, and forecasts Q4 revenue below estimates; BMBL falls 15%+ after hours (Reuters)",
-            "link": "http://www.techmeme.com/251105/p51#a251105p51",
-            "published": "Wed, 05 Nov 2025 17:15:03 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "King handed Nvidia boss a letter warning of AI dangers",
+            "link": "https://www.bbc.com/news/articles/cze60grxx4wo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Nov 2025 23:40:47 GMT"
+        },
+        {
             "title": "MP wants Elon Musk's chatbot shut down over claim he enabled grooming gangs",
             "link": "https://www.bbc.com/news/articles/c9d6vwg80qyo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 05 Nov 2025 17:14:53 GMT"
@@ -73,11 +78,6 @@
             "title": "AI 'godmother' Fei-Fei Li says she is 'proud to be different'",
             "link": "https://www.bbc.com/news/articles/c5yp2vj92e9o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 05 Nov 2025 00:18:15 GMT"
-        },
-        {
-            "title": "Reddit added to Australia's social media ban on under-16s",
-            "link": "https://www.bbc.com/news/articles/cn0gkg7x59go?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 05 Nov 2025 00:44:42 GMT"
         }
     ]
 }
