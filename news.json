@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "British Airways owner IAG signs a deal with SpaceX's Starlink for Wi-Fi across all five carriers in the airline group, making it available in 500+ aircraft (Kate Duffy/Bloomberg)",
+            "link": "http://www.techmeme.com/251106/p25#a251106p25",
+            "published": "Thu, 06 Nov 2025 09:30:10 -0500"
+        },
+        {
+            "title": "Microsoft AI CEO Mustafa Suleyman says Microsoft plans to focus on superintelligence that prioritizes human control; he will lead a new superintelligence team (Reed Albergotti/Semafor)",
+            "link": "http://www.techmeme.com/251106/p24#a251106p24",
+            "published": "Thu, 06 Nov 2025 09:20:01 -0500"
+        },
+        {
+            "title": "Microsoft AI CEO Mustafa Suleyman lays out the company's plans to develop AI self-sufficiency from OpenAI, like releasing its own voice, image, and text models (Sebastian Herrera/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251106/p23#a251106p23",
+            "published": "Thu, 06 Nov 2025 09:10:00 -0500"
+        },
+        {
+            "title": "Investigation: X amplifies right-wing and extreme political content in the UK, as Elon Musk endorses fringe politicians and encourages nationalist sentiment (Sky News)",
+            "link": "http://www.techmeme.com/251106/p22#a251106p22",
+            "published": "Thu, 06 Nov 2025 08:40:01 -0500"
+        },
+        {
             "title": "Google says Ironwood, its seventh-gen TPU, will launch in the coming weeks and is more than 4x faster than its sixth-gen TPU; it comes in a 9,216-chip config (CNBC)",
             "link": "http://www.techmeme.com/251106/p21#a251106p21",
             "published": "Thu, 06 Nov 2025 08:30:12 -0500"
-        },
-        {
-            "title": "Inception, which is building diffusion-based AI models for code and text, raised a $50M seed led by Menlo and releases an update to its Mercury coding model (Russell Brandom/TechCrunch)",
-            "link": "http://www.techmeme.com/251106/p20#a251106p20",
-            "published": "Thu, 06 Nov 2025 08:10:00 -0500"
-        },
-        {
-            "title": "Internal documents: Meta projected in December 2024 that 10.1% of its annual ad revenue, or $16B, came from fraudulent ads, including $7B from \"higher risk\" ads (Jeff Horwitz/Reuters)",
-            "link": "http://www.techmeme.com/251106/p19#a251106p19",
-            "published": "Thu, 06 Nov 2025 08:00:49 -0500"
-        },
-        {
-            "title": "SpaceX agrees to acquire EchoStar's unpaired AWS-3 licenses for $2.6B in stock, after EchoStar sold WS-4 and H-block licenses to SpaceX for $17B in September (Jake Rudnitsky/Bloomberg)",
-            "link": "http://www.techmeme.com/251106/p18#a251106p18",
-            "published": "Thu, 06 Nov 2025 07:20:01 -0500"
-        },
-        {
-            "title": "Sources: Shein told investors in August that it expects $2B in net income in 2025 despite US tariffs and forecasts mid-teen percentage growth in full-year sales (Bloomberg)",
-            "link": "http://www.techmeme.com/251106/p17#a251106p17",
-            "published": "Thu, 06 Nov 2025 07:05:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 03 Nov 2025 17:51:05 +0000"
         },
         {
-            "title": "Where You See a Fancy Fish, Engineers See Alan Turing\u2019s Math",
-            "link": "https://www.nytimes.com/2025/11/06/science/alan-turing-patterns-boxfish.html",
-            "published": "Thu, 06 Nov 2025 10:02:17 +0000"
+            "title": "Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy",
+            "link": "https://www.nytimes.com/2025/11/06/technology/zuckerberg-chan-initiative-biohub.html",
+            "published": "Thu, 06 Nov 2025 14:15:05 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Grand Theft Auto studio accused of 'union busting' after sacking workers",
+            "link": "https://www.bbc.com/news/articles/c9v10rr1meeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Nov 2025 13:42:06 GMT"
+        },
         {
             "title": "'Vibe coding' named word of the year by Collins Dictionary",
             "link": "https://www.bbc.com/news/articles/cpd2y053nleo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "MP wants Elon Musk's chatbot shut down over claim he enabled grooming gangs",
             "link": "https://www.bbc.com/news/articles/c9d6vwg80qyo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 05 Nov 2025 17:14:53 GMT"
-        },
-        {
-            "title": "France moves to suspend Shein website as it opens first store in Paris",
-            "link": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 05 Nov 2025 16:55:23 GMT"
         }
     ]
 }
