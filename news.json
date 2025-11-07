@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "An Oxford Internet Institute study of 445 AI benchmarks finds many tests lack clear aims and comparable statistical methods, potentially exaggerating AI claims (Jared Perlo/NBC News)",
+            "link": "http://www.techmeme.com/251106/p54#a251106p54",
+            "published": "Thu, 06 Nov 2025 22:40:01 -0500"
+        },
+        {
+            "title": "Chinese startup Moonshot releases Kimi K2 Thinking, an open-source model it claims beats GPT-5 in agentic capabilities; source: the model cost $4.6M to train (Evelyn Cheng/CNBC)",
+            "link": "http://www.techmeme.com/251106/p53#a251106p53",
+            "published": "Thu, 06 Nov 2025 21:50:00 -0500"
+        },
+        {
+            "title": "Sources: the White House has told others in the government it won't allow Nvidia to sell its scaled-down AI chip B30A to China, despite Trump's hints he might (Qianer Liu/The Information)",
+            "link": "http://www.techmeme.com/251106/p52#a251106p52",
+            "published": "Thu, 06 Nov 2025 21:15:45 -0500"
+        },
+        {
             "title": "Tow Center identifies eight X bot accounts that use X's AI Note Writer API to write between 5% to 10% of the Community Notes visible to the public each day (C.J. Robinson/Columbia Journalism Review)",
             "link": "http://www.techmeme.com/251106/p51#a251106p51",
             "published": "Thu, 06 Nov 2025 20:45:44 -0500"
@@ -9,21 +24,6 @@
             "title": "Block reports Q3 revenue up 2.3% YoY to $6.1B, below $6.3B est., adjusted EPS below est., and a $461.6M net income, up from $283.8M; XYZ drops 11%+ after hours (Dean Seal/Dow Jones Newswires)",
             "link": "http://www.techmeme.com/251106/p50#a251106p50",
             "published": "Thu, 06 Nov 2025 19:15:41 -0500"
-        },
-        {
-            "title": "Affirm reports Q1 revenue up 34% YoY to $933M, vs. $883M est., GMV up 42% to $10.8B, vs. $10.38B est., and profit above estimates; AFRM jumps 11%+ after hours (Reinhardt Krause/Investor's Business ...)",
-            "link": "http://www.techmeme.com/251106/p49#a251106p49",
-            "published": "Thu, 06 Nov 2025 18:45:39 -0500"
-        },
-        {
-            "title": "The US Congressional Budget Office says it has identified a security incident; sources say the CBO has been hacked by a suspected foreign actor (Washington Post)",
-            "link": "http://www.techmeme.com/251106/p48#a251106p48",
-            "published": "Thu, 06 Nov 2025 18:05:00 -0500"
-        },
-        {
-            "title": "Meta launches Vibes, its short-form video feed of AI-generated videos, in Europe through the Meta AI app, following its US debut six weeks earlier (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/251106/p47#a251106p47",
-            "published": "Thu, 06 Nov 2025 17:45:38 -0500"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Mark Zuckerberg and Priscilla Chan Restructure Their Philanthropy",
             "link": "https://www.nytimes.com/2025/11/06/technology/zuckerberg-chan-initiative-biohub.html",
-            "published": "Thu, 06 Nov 2025 19:07:08 +0000"
+            "published": "Thu, 06 Nov 2025 19:07:09 +0000"
         },
         {
             "title": "Elon Musk Wins $1 Trillion Tesla Pay Package",
@@ -57,7 +57,12 @@
         {
             "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
             "link": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 07 Nov 2025 00:50:25 GMT"
+            "published": "Fri, 07 Nov 2025 03:46:19 GMT"
+        },
+        {
+            "title": "Texas sues Roblox for 'putting paedophiles and profits' over safety",
+            "link": "https://www.bbc.com/news/articles/cy0kd4kk0kqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Nov 2025 03:26:31 GMT"
         },
         {
             "title": "Grand Theft Auto studio accused of 'union busting' after sacking workers",
@@ -73,11 +78,6 @@
             "title": "Will quantum be bigger than AI?",
             "link": "https://www.bbc.com/news/articles/c04gvx7egw5o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 06 Nov 2025 00:10:59 GMT"
-        },
-        {
-            "title": "King handed Nvidia boss a letter warning of AI dangers",
-            "link": "https://www.bbc.com/news/articles/cze60grxx4wo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 05 Nov 2025 23:40:47 GMT"
         }
     ]
 }
