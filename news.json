@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Tow Center identifies eight X bot accounts that use X's AI Note Writer API to write between 5% to 10% of the Community Notes visible to the public each day (C.J. Robinson/Columbia Journalism Review)",
+            "link": "http://www.techmeme.com/251106/p51#a251106p51",
+            "published": "Thu, 06 Nov 2025 20:45:44 -0500"
+        },
+        {
+            "title": "Block reports Q3 revenue up 2.3% YoY to $6.1B, below $6.3B est., adjusted EPS below est., and a $461.6M net income, up from $283.8M; XYZ drops 11%+ after hours (Dean Seal/Dow Jones Newswires)",
+            "link": "http://www.techmeme.com/251106/p50#a251106p50",
+            "published": "Thu, 06 Nov 2025 19:15:41 -0500"
+        },
+        {
+            "title": "Affirm reports Q1 revenue up 34% YoY to $933M, vs. $883M est., GMV up 42% to $10.8B, vs. $10.38B est., and profit above estimates; AFRM jumps 11%+ after hours (Reinhardt Krause/Investor's Business ...)",
+            "link": "http://www.techmeme.com/251106/p49#a251106p49",
+            "published": "Thu, 06 Nov 2025 18:45:39 -0500"
+        },
+        {
             "title": "The US Congressional Budget Office says it has identified a security incident; sources say the CBO has been hacked by a suspected foreign actor (Washington Post)",
             "link": "http://www.techmeme.com/251106/p48#a251106p48",
             "published": "Thu, 06 Nov 2025 18:05:00 -0500"
@@ -9,21 +24,6 @@
             "title": "Meta launches Vibes, its short-form video feed of AI-generated videos, in Europe through the Meta AI app, following its US debut six weeks earlier (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/251106/p47#a251106p47",
             "published": "Thu, 06 Nov 2025 17:45:38 -0500"
-        },
-        {
-            "title": "Tesla shareholders approve a $1T pay package for Elon Musk that requires him to hit a series of milestones and expand Tesla's market cap to $8.5T over 10 years (Becky Peterson/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251106/p46#a251106p46",
-            "published": "Thu, 06 Nov 2025 17:15:50 -0500"
-        },
-        {
-            "title": "Airbnb reports Q3 revenue up 10% YoY to $4.1B, vs. $4.08B est., Nights and Seats booked up 9% to 133.6M, vs. 131.75M est., forecasts Q4 revenue above estimates (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/251106/p45#a251106p45",
-            "published": "Thu, 06 Nov 2025 17:05:02 -0500"
-        },
-        {
-            "title": "DoorDash's stock fell 17%+ on Thursday, marking its worst trading day ever, amid concerns over its 2026 spending plans for new products like autonomous delivery (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/251106/p44#a251106p44",
-            "published": "Thu, 06 Nov 2025 16:35:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 06 Nov 2025 19:07:08 +0000"
         },
         {
-            "title": "Tesla Investors Back Musk\u2019s Trillion Dollar Payday",
+            "title": "Elon Musk Wins $1 Trillion Tesla Pay Package",
             "link": "https://www.nytimes.com/2025/11/06/business/elon-musk-tesla-pay-vote.html",
-            "published": "Thu, 06 Nov 2025 22:56:11 +0000"
+            "published": "Fri, 07 Nov 2025 00:56:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
+            "link": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Nov 2025 00:50:25 GMT"
+        },
         {
             "title": "Grand Theft Auto studio accused of 'union busting' after sacking workers",
             "link": "https://www.bbc.com/news/articles/c9v10rr1meeo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "King handed Nvidia boss a letter warning of AI dangers",
             "link": "https://www.bbc.com/news/articles/cze60grxx4wo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 05 Nov 2025 23:40:47 GMT"
-        },
-        {
-            "title": "MP wants Elon Musk's chatbot shut down over claim he enabled grooming gangs",
-            "link": "https://www.bbc.com/news/articles/c9d6vwg80qyo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 05 Nov 2025 17:14:53 GMT"
         }
     ]
 }
