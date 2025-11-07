@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Vodafone and AST SpaceMobile plan to establish a Europe-led satellite constellation, operated out of Germany, to provide satellite-to-smartphone connectivity (Reuters)",
+            "link": "http://www.techmeme.com/251107/p9#a251107p9",
+            "published": "Fri, 07 Nov 2025 07:45:01 -0500"
+        },
+        {
+            "title": "China is allowing Nexperia to export chips again, according to officials from several auto companies; shares in Wingtech, Nexperia's Chinese parent, surged 10%+ (Bloomberg)",
+            "link": "http://www.techmeme.com/251107/p8#a251107p8",
+            "published": "Fri, 07 Nov 2025 06:30:58 -0500"
+        },
+        {
             "title": "Texas Attorney General Ken Paxton sues Roblox, accusing the company of \"flagrantly ignoring\" safety laws and calling it a \"breeding ground for predators\" (Osmond Chia/BBC)",
             "link": "http://www.techmeme.com/251107/p7#a251107p7",
             "published": "Fri, 07 Nov 2025 04:45:54 -0500"
@@ -14,16 +24,6 @@
             "title": "Researchers tested Google DeepMind's AlphaEvolve AI agent on 67 mathematical problems and found that it discovered improved solutions to about 20 of them (Adam Zsolt Wagner/@azwagner_)",
             "link": "http://www.techmeme.com/251107/p5#a251107p5",
             "published": "Fri, 07 Nov 2025 04:15:58 -0500"
-        },
-        {
-            "title": "Seven lawsuits in California, including four wrongful death suits, claim ChatGPT encouraged dangerous discussions, leading to suicides and harmful delusions (Kashmir Hill/New York Times)",
-            "link": "http://www.techmeme.com/251107/p4#a251107p4",
-            "published": "Fri, 07 Nov 2025 02:05:00 -0500"
-        },
-        {
-            "title": "Speaking to shareholders, Elon Musk says Tesla will likely need to build \"a gigantic chip fab\" for AI chips and \"maybe, we'll do something with Intel\" (Sayantani Ghosh/Reuters)",
-            "link": "http://www.techmeme.com/251107/p3#a251107p3",
-            "published": "Fri, 07 Nov 2025 01:20:00 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Thu, 06 Nov 2025 19:07:09 +0000"
         },
         {
-            "title": "Lawsuits Blame ChatGPT for Suicides and Harmful Delusions",
-            "link": "https://www.nytimes.com/2025/11/06/technology/chatgpt-lawsuit-suicides-delusions.html",
-            "published": "Fri, 07 Nov 2025 04:43:46 +0000"
+            "title": "We Met NEO, the Viral Humanoid Robot + HatGPT",
+            "link": "https://www.nytimes.com/2025/11/07/podcasts/hardfork-neo-humanoid-robot.html",
+            "published": "Fri, 07 Nov 2025 12:00:06 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
             "link": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 07 Nov 2025 10:03:09 GMT"
+        },
+        {
+            "title": "Why human-shaped robots loom large in Musk's Tesla plans",
+            "link": "https://www.bbc.com/news/articles/cdrz2rdlykdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 07 Nov 2025 12:15:04 GMT"
         },
         {
             "title": "Grand Theft Auto 6 delayed again until November 2026",
@@ -73,11 +78,6 @@
             "title": "Grand Theft Auto studio accused of 'union busting' after sacking workers",
             "link": "https://www.bbc.com/news/articles/c9v10rr1meeo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 06 Nov 2025 16:31:14 GMT"
-        },
-        {
-            "title": "'Vibe coding' named word of the year by Collins Dictionary",
-            "link": "https://www.bbc.com/news/articles/cpd2y053nleo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 06 Nov 2025 02:22:22 GMT"
         }
     ]
 }
