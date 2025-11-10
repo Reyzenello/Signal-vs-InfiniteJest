@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Canada-based CoLab, which makes collaboration software for manufacturers, raised a $72M Series C led by Intrepid Growth Partners (Lucinda Shen/Axios)",
+            "link": "http://www.techmeme.com/251110/p21#a251110p21",
+            "published": "Mon, 10 Nov 2025 11:25:01 -0500"
+        },
+        {
             "title": "Majestic Labs, which makes patent-pending server architecture that promises 1,000x more memory capacity, raised $100M, including a $71M Series A led by Bow Wave (Jennifer Elias/CNBC)",
             "link": "http://www.techmeme.com/251110/p20#a251110p20",
             "published": "Mon, 10 Nov 2025 09:20:01 -0500"
@@ -11,7 +16,7 @@
             "published": "Mon, 10 Nov 2025 09:00:00 -0500"
         },
         {
-            "title": "Grab plans to invest $60M in remote driving service Vay, potentially rising to $410M within the next year if Vay hits certain milestones, set to close in Q4 (Olivia Poh/Bloomberg)",
+            "title": "Grab plans to invest $60M in remote driving service Vay and potentially increase it to $410M within a year if Vay hits certain milestones, set to close in Q4 (Olivia Poh/Bloomberg)",
             "link": "http://www.techmeme.com/251110/p18#a251110p18",
             "published": "Mon, 10 Nov 2025 08:30:01 -0500"
         },
@@ -19,14 +24,14 @@
             "title": "Scribe, which helps enterprises identify where AI and automation workflow investments will yield returns, raised a $75M Series C at a $1.3B post-money valuation (Jagmeet Singh/TechCrunch)",
             "link": "http://www.techmeme.com/251110/p17#a251110p17",
             "published": "Mon, 10 Nov 2025 08:20:01 -0500"
-        },
-        {
-            "title": "Gamma, which uses AI to help create presentations, social media posts, websites, and more, raised $68M at a $2.1B valuation and reports 600K+ paying subscribers (Niko Gallogly/New York Times)",
-            "link": "http://www.techmeme.com/251110/p16#a251110p16",
-            "published": "Mon, 10 Nov 2025 08:10:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Why Debt Funding Is Ratcheting Up the Risks of the A.I. Boom",
+            "link": "https://www.nytimes.com/2025/11/10/technology/ai-data-centers-debt-risks.html",
+            "published": "Mon, 10 Nov 2025 10:00:20 +0000"
+        },
         {
             "title": "Is A.I. a Journalist or Just a Newsroom Tool?",
             "link": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
@@ -38,19 +43,14 @@
             "published": "Fri, 07 Nov 2025 18:51:35 +0000"
         },
         {
-            "title": "OpenAI Races to Quell Concerns Over Its Finances",
-            "link": "https://www.nytimes.com/2025/11/06/technology/openai-finances-debt-data-centers.html",
-            "published": "Thu, 06 Nov 2025 21:52:33 +0000"
+            "title": "We Met NEO, the Viral Humanoid Robot + HatGPT",
+            "link": "https://www.nytimes.com/2025/11/07/podcasts/hardfork-neo-humanoid-robot.html",
+            "published": "Fri, 07 Nov 2025 12:00:07 +0000"
         },
         {
-            "title": "How A.I. and Social Media Contribute to \u2018Brain Rot\u2019",
-            "link": "https://www.nytimes.com/2025/11/06/technology/personaltech/ai-social-media-brain-rot.html",
-            "published": "Thu, 06 Nov 2025 15:15:31 +0000"
-        },
-        {
-            "title": "Why Debt Funding Is Ratcheting Up the Risks of the A.I. Boom",
-            "link": "https://www.nytimes.com/2025/11/10/technology/ai-data-centers-debt-risks.html",
-            "published": "Mon, 10 Nov 2025 10:00:20 +0000"
+            "title": "Blue Origin Scrubs Launch of NASA\u2019s ESCAPADE Mission to Mars",
+            "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
+            "published": "Mon, 10 Nov 2025 00:32:27 +0000"
         }
     ],
     "source_2": [
