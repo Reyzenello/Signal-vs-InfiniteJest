@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google rolls out Nano Banana image editing upgrades in Photos, including a \"help me edit\" feature that lets users make edits using text or voice prompts (Elyse Betters Picaro/ZDNET)",
+            "link": "http://www.techmeme.com/251111/p28#a251111p28",
+            "published": "Tue, 11 Nov 2025 12:15:01 -0500"
+        },
+        {
+            "title": "Amazon says ads on Prime Video reach 315M viewers across its series and films, live sports and events, and free, ad-supported live channels (Dade Hayes/Deadline)",
+            "link": "http://www.techmeme.com/251111/p27#a251111p27",
+            "published": "Tue, 11 Nov 2025 11:50:55 -0500"
+        },
+        {
             "title": "A UK judge jails a Chinese woman to 11 years and 8 months in prison for laundering bitcoin linked to a \u00a35B investment scheme in which UK seized 61K bitcoin (Upmanyu Trivedi/Bloomberg)",
             "link": "http://www.techmeme.com/251111/p26#a251111p26",
             "published": "Tue, 11 Nov 2025 10:50:52 -0500"
@@ -14,16 +24,6 @@
             "title": "Search and browser startup Brave's CBO says it passed $100M in annualized revenue in Q1, and had 100M MAUs as of September, up from 77M at the end of 2024 (Stephanie Palazzolo/The Information)",
             "link": "http://www.techmeme.com/251111/p24#a251111p24",
             "published": "Tue, 11 Nov 2025 10:25:01 -0500"
-        },
-        {
-            "title": "Lighter raises $68 million at a $1.5 billion valuation as VC bets flood back into perp DEX infrastructure: report (Naga Avan-Nomayo/The Block)",
-            "link": "http://www.techmeme.com/251111/p23#a251111p23",
-            "published": "Tue, 11 Nov 2025 10:10:02 -0500"
-        },
-        {
-            "title": "Amsterdam-based Wonderful, which helps companies manage client-facing AI agents across voice, chat, and email in any language, raised $100M at a $700M valuation (Steven Scheer/Reuters)",
-            "link": "http://www.techmeme.com/251111/p22#a251111p22",
-            "published": "Tue, 11 Nov 2025 09:55:03 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 07 Nov 2025 12:00:07 +0000"
         },
         {
-            "title": "Blue Origin Scrubs Launch of NASA\u2019s ESCAPADE Mission to Mars",
-            "link": "https://www.nytimes.com/2025/11/09/science/blue-origin-new-glenn-launch.html",
-            "published": "Mon, 10 Nov 2025 00:32:27 +0000"
+            "title": "SoftBank Sells $5.8 Billion Stake in Nvidia to Pay for OpenAI Deals",
+            "link": "https://www.nytimes.com/2025/11/11/business/dealbook/softbank-nvidia-divest.html",
+            "published": "Tue, 11 Nov 2025 16:40:31 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Man dances for 144 hours to break video game marathon record",
+            "link": "https://www.bbc.com/news/articles/cy8vwjp4jxyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Nov 2025 17:19:37 GMT"
+        },
         {
             "title": "Cryptoqueen who fled China for London mansion jailed over \u00a35bn Bitcoin stash",
             "link": "https://www.bbc.com/news/articles/cvg4w1g9ezko?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Dundee and US surgeons achieve world-first stroke surgery using robot",
             "link": "https://www.bbc.com/news/articles/cjw983pvz6lo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 10 Nov 2025 06:14:55 GMT"
-        },
-        {
-            "title": "China exempts chips used by carmakers from export curbs",
-            "link": "https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 10 Nov 2025 07:02:17 GMT"
         }
     ]
 }
