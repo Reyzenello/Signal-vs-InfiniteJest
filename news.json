@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft unveils an AI \"super factory\", a new class of hubs built for AI training, in Atlanta as part of its Fairwater network of data centers (Sebastian Herrera/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251112/p37#a251112p37",
+            "published": "Wed, 12 Nov 2025 15:25:13 -0500"
+        },
+        {
+            "title": "OpenAI rolls out GPT-5.1 Instant, \"warmer\" and \"more conversational\", and GPT-5.1 Thinking, \"easier to understand and faster\", starting with paid ChatGPT users (OpenAI)",
+            "link": "http://www.techmeme.com/251112/p36#a251112p36",
+            "published": "Wed, 12 Nov 2025 14:50:00 -0500"
+        },
+        {
             "title": "OpenAI asks a federal judge to reverse an order that required it to turn over 20M anonymized ChatGPT chat logs in NYT's copyright suit, citing privacy concerns (Blake Brittain/Reuters)",
             "link": "http://www.techmeme.com/251112/p35#a251112p35",
             "published": "Wed, 12 Nov 2025 14:00:41 -0500"
@@ -11,22 +21,22 @@
             "published": "Wed, 12 Nov 2025 13:30:02 -0500"
         },
         {
-            "title": "Valve plans to launch Steam Frame, a VR headset with a Snapdragon 8 Gen 3 chip for streaming games from a PC or playing Windows games locally, in 2026 (Jay Peters/The Verge)",
+            "title": "Valve unveils Steam Frame, a VR headset that can stream games from a PC or run Windows and Android games locally, expected to launch in 2026 for under $999 (Jay Peters/The Verge)",
             "link": "http://www.techmeme.com/251112/p33#a251112p33",
             "published": "Wed, 12 Nov 2025 13:25:00 -0500"
-        },
-        {
-            "title": "Valve unveils a new Steam Machine, a cube-shaped gaming PC with SteamOS, a semi-custom AMD Zen 4 CPU and AMD RDNA 3 GPU, and 16GB of RAM, expected in early 2026 (Andrew E. Freedman/Tom's Hardware)",
-            "link": "http://www.techmeme.com/251112/p32#a251112p32",
-            "published": "Wed, 12 Nov 2025 13:20:02 -0500"
-        },
-        {
-            "title": "An Apple-funded study about DMA finds developers didn't pass on App Store fee savings to EU users, keeping prices the same or increasing them on 91% of products (William Gallagher/AppleInsider)",
-            "link": "http://www.techmeme.com/251112/p31#a251112p31",
-            "published": "Wed, 12 Nov 2025 13:00:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Who Pays When A.I. Is Wrong?",
+            "link": "https://www.nytimes.com/2025/11/12/business/media/ai-defamation-libel-slander.html",
+            "published": "Wed, 12 Nov 2025 10:01:56 +0000"
+        },
+        {
+            "title": "SoftBank Sells $5.8 Billion Stake in Nvidia to Pay for OpenAI Deals",
+            "link": "https://www.nytimes.com/2025/11/11/business/dealbook/softbank-nvidia-divest.html",
+            "published": "Tue, 11 Nov 2025 16:40:31 +0000"
+        },
         {
             "title": "Why Debt Funding Is Ratcheting Up the Risks of the A.I. Boom",
             "link": "https://www.nytimes.com/2025/11/10/technology/ai-data-centers-debt-risks.html",
@@ -36,16 +46,6 @@
             "title": "Is A.I. a Journalist or Just a Newsroom Tool?",
             "link": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
             "published": "Sat, 08 Nov 2025 05:46:03 +0000"
-        },
-        {
-            "title": "Vigilante Lawyers Expose the Rising Tide of A.I. Slop in Court Filings",
-            "link": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html",
-            "published": "Fri, 07 Nov 2025 18:51:35 +0000"
-        },
-        {
-            "title": "We Met NEO, the Viral Humanoid Robot + HatGPT",
-            "link": "https://www.nytimes.com/2025/11/07/podcasts/hardfork-neo-humanoid-robot.html",
-            "published": "Fri, 07 Nov 2025 12:00:07 +0000"
         },
         {
             "title": "Solvay of Belgium Creates Rare Earths Deals With U.S.",
