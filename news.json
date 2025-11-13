@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A look at Cybathlon, an event by ETH Zurich where researchers team up with people with disabilities in a competition to test brain-computer interfaces (Oliver Whang/New York Times)",
+            "link": "http://www.techmeme.com/251113/p6#a251113p6",
+            "published": "Thu, 13 Nov 2025 04:40:02 -0500"
+        },
+        {
             "title": "Sources: Alibaba is renaming its AI app Tongyi to \"Qwen\", aiming to make it more like ChatGPT, and adding agentic-AI shopping features for platforms like Taobao (Luz Ding/Bloomberg)",
             "link": "http://www.techmeme.com/251113/p5#a251113p5",
             "published": "Thu, 13 Nov 2025 02:15:01 -0500"
@@ -16,14 +21,9 @@
             "published": "Thu, 13 Nov 2025 01:05:01 -0500"
         },
         {
-            "title": "Polymarket starts live testing its US exchange, quietly opening to some users, and says it's fully functional with select users betting on real contracts (Denitsa Tsekova/Bloomberg)",
+            "title": "Polymarket starts live testing its US exchange, first with select users, and says the exchange is fully functional with some users betting on real contracts (Denitsa Tsekova/Bloomberg)",
             "link": "http://www.techmeme.com/251113/p2#a251113p2",
             "published": "Thu, 13 Nov 2025 00:55:01 -0500"
-        },
-        {
-            "title": "A deep dive into Microsoft's AI strategy, including OpenAI, data center investments, neocloud renting, GitHub Copilot, MAI models, and the Maia chip (SemiAnalysis)",
-            "link": "http://www.techmeme.com/251113/p1#a251113p1",
-            "published": "Thu, 13 Nov 2025 00:05:05 -0500"
         }
     ],
     "source_1": [
@@ -48,14 +48,19 @@
             "published": "Sat, 08 Nov 2025 05:46:03 +0000"
         },
         {
-            "title": "Northern Lights Are Beautiful, but for Satellites They\u2019re Risky",
-            "link": "https://www.nytimes.com/2025/11/12/science/northern-lights-solar-satellites.html",
-            "published": "Thu, 13 Nov 2025 01:53:35 +0000"
+            "title": "The Luxury Electric Vehicle Is in Trouble",
+            "link": "https://www.nytimes.com/2025/11/13/business/luxury-electric-vehicles.html",
+            "published": "Thu, 13 Nov 2025 10:01:55 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "\u00a3220 \u2018for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
+            "title": "PC gaming giant Valve unveils new  console to rival Xbox and PlayStation",
+            "link": "https://www.bbc.com/news/articles/cd679n9lnx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Nov 2025 10:08:06 GMT"
+        },
+        {
+            "title": "\u00a3220 'for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
             "link": "https://www.bbc.com/news/articles/cn97ndgpnq7o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 12 Nov 2025 17:47:37 GMT"
         },
@@ -73,11 +78,6 @@
             "title": "UK seeking to curb AI child sex abuse imagery with tougher testing",
             "link": "https://www.bbc.com/news/articles/cn8xq677l9xo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 12 Nov 2025 00:10:41 GMT"
-        },
-        {
-            "title": "Two popular gay dating platforms removed from Apple app store in China",
-            "link": "https://www.bbc.com/news/articles/c98n2kye01eo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 12 Nov 2025 02:55:23 GMT"
         }
     ]
 }
