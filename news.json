@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Stockholm-based vibe coding startup Lovable is in talks to raise funding at a valuation of ~$6B, up from $1.8B in July when it raised a $200M Series A (Iain Martin/Forbes)",
+            "link": "http://www.techmeme.com/251114/p17#a251114p17",
+            "published": "Fri, 14 Nov 2025 11:10:01 -0500"
+        },
+        {
+            "title": "CloudX, which uses Anthropic's Claude to automate testing mobile ad pricing and optimizing inventory for publishers, raised a $30M Series A led by Addition (Trishla Ostwal/Adweek)",
+            "link": "http://www.techmeme.com/251114/p16#a251114p16",
+            "published": "Fri, 14 Nov 2025 10:50:01 -0500"
+        },
+        {
             "title": "Waymo partners with Moove and Baidu's ApolloGo partners with Lyft to roll out robotaxis in 2026 in London, the first place Chinese and US robotaxis will compete (Jiahui Huang/Wall Street Journal)",
             "link": "http://www.techmeme.com/251114/p15#a251114p15",
             "published": "Fri, 14 Nov 2025 10:00:00 -0500"
@@ -14,16 +24,6 @@
             "title": "A Berlin court rules that Google must pay \u20ac465M and \u20ac107M to German price comparison sites Idealo and Producto, in damages for market abuse; Google will appeal (Reuters)",
             "link": "http://www.techmeme.com/251114/p13#a251114p13",
             "published": "Fri, 14 Nov 2025 08:45:02 -0500"
-        },
-        {
-            "title": "Baidu's stock closed down 7.21% in Hong Kong on November 14 after Ernie 5.0 underwhelmed investors, denting hopes for the company to regain ground lost to peers (Bloomberg)",
-            "link": "http://www.techmeme.com/251114/p12#a251114p12",
-            "published": "Fri, 14 Nov 2025 08:00:13 -0500"
-        },
-        {
-            "title": "Alibaba halves Qwen3-Max prices, from $0.861 to $0.459 per 1M input tokens and $3.441 to $1.836 per 1M output tokens for API users, amid China's AI price wars (Vincent Chow/South China Morning Post)",
-            "link": "http://www.techmeme.com/251114/p11#a251114p11",
-            "published": "Fri, 14 Nov 2025 07:55:01 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Sat, 08 Nov 2025 05:46:03 +0000"
         },
         {
-            "title": "Apple\u2019s iPhone Pocket by Issey Miyake Is Confusing by Design",
-            "link": "https://www.nytimes.com/2025/11/14/style/iphone-pocket-apple-issey-miyake.html",
-            "published": "Fri, 14 Nov 2025 13:30:06 +0000"
+            "title": "What\u2019s a Digital Passport and How Does It Work?",
+            "link": "https://www.nytimes.com/2025/11/14/travel/digital-identification-travel.html",
+            "published": "Fri, 14 Nov 2025 16:30:16 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "AI firm claims Chinese spies used its tech to automate cyber attacks",
             "link": "https://www.bbc.com/news/articles/cx2lzmygr84o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 14 Nov 2025 12:16:51 GMT"
+        },
+        {
+            "title": "Call of Duty is back, and it's got a battle on its hands",
+            "link": "https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 14 Nov 2025 15:47:29 GMT"
         },
         {
             "title": "PC gaming giant Valve unveils new console to rival Xbox and PlayStation",
@@ -73,11 +78,6 @@
             "title": "Danish man given suspended sentence for sharing nude film scenes on Reddit",
             "link": "https://www.bbc.com/news/articles/c201yq43k66o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 12 Nov 2025 15:13:47 GMT"
-        },
-        {
-            "title": "New consoles used to come out every five years \u2013 so where's the PlayStation 6?",
-            "link": "https://www.bbc.com/news/articles/cy7e352emrro?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 12 Nov 2025 10:02:25 GMT"
         }
     ]
 }
