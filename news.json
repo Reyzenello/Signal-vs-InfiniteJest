@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "BNPL use in the US has grown to 91.5M users, with 25% financing groceries, as default rates accelerate and most loans aren't reported, creating \"phantom debt\" (Connie Loizos/TechCrunch)",
+            "link": "http://www.techmeme.com/251116/p8#a251116p8",
+            "published": "Sun, 16 Nov 2025 19:50:01 -0500"
+        },
+        {
             "title": "Forecasters at the US National Hurricane Center are increasingly leaning on Google's new DeepMind prediction model, though questions about its methods remain (Eric Holthaus/The Guardian)",
             "link": "http://www.techmeme.com/251116/p7#a251116p7",
             "published": "Sun, 16 Nov 2025 18:00:01 -0500"
         },
         {
-            "title": "Tokyo-based Sakana AI becomes Japan's most valuable unicorn at a ~$2.6B valuation, following a ~$130M raise from Mitsubishi UFJ Financial and US VC firms (Nikkei Asia)",
+            "title": "Tokyo-based Sakana AI raised a ~$135M Series B from MUFG, Khosla Ventures, and others at a ~$2.6B valuation, becoming Japan's most valuable unicorn (Nikkei Asia)",
             "link": "http://www.techmeme.com/251116/p6#a251116p6",
             "published": "Sun, 16 Nov 2025 16:05:00 -0500"
         },
@@ -19,11 +24,6 @@
             "title": "Samsung, SK Group, and others announce billions in domestic investment after US-South Korea trade deal; Samsung plans to invest $310B and SK Group pledged $88B (Kim Tong-Hyung/Associated Press)",
             "link": "http://www.techmeme.com/251116/p4#a251116p4",
             "published": "Sun, 16 Nov 2025 12:00:43 -0500"
-        },
-        {
-            "title": "Sources: Apple to launch 3 high-end iPhones next fall, with lower-end iPhones and likely new Air in Q2 2027; Mac Pro gets deprioritized; Jeff Williams retires (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/251116/p3#a251116p3",
-            "published": "Sun, 16 Nov 2025 11:00:13 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,21 @@
     ],
     "source_2": [
         {
+            "title": "How my on-air 'brain fog' moment sparked a big debate",
+            "link": "https://www.bbc.com/news/articles/c4gpkenx9dzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Nov 2025 00:06:44 GMT"
+        },
+        {
+            "title": "Formula 1 tech used to rev-up train wi-fi speeds in new pilot",
+            "link": "https://www.bbc.com/news/articles/cqjwkdez71ro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Nov 2025 00:00:21 GMT"
+        },
+        {
+            "title": "Keyless car theft devices used by criminals sell for \u00a320k online",
+            "link": "https://www.bbc.com/news/articles/c74jgvp1x49o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 17 Nov 2025 00:00:10 GMT"
+        },
+        {
             "title": "Sky Sports axes 'sexist' TikTok channel Halo after three days",
             "link": "https://www.bbc.com/news/articles/cdrz8g7evyxo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 16 Nov 2025 18:26:49 GMT"
@@ -63,21 +78,6 @@
             "title": "YouTuber Jack Doherty arrested in Miami on drug possession charges",
             "link": "https://www.bbc.com/news/articles/c620yzjpxlvo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 16 Nov 2025 10:48:32 GMT"
-        },
-        {
-            "title": "Data centre in the shed reduces energy bills to \u00a340",
-            "link": "https://www.bbc.com/news/articles/c0rpy7envr5o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 16 Nov 2025 06:29:28 GMT"
-        },
-        {
-            "title": "Can technology fix fashion's sizing crisis?",
-            "link": "https://www.bbc.com/news/articles/cjekg1pd9j4o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 15 Nov 2025 04:03:27 GMT"
-        },
-        {
-            "title": "AI firm claims Chinese spies used its tech to automate cyber attacks",
-            "link": "https://www.bbc.com/news/articles/cx2lzmygr84o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 14 Nov 2025 12:16:51 GMT"
         }
     ]
 }
