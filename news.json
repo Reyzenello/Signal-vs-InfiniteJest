@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "Agentio, which uses AI to help brands automate and scale campaigns with YouTube creators, raised a $40M Series B led by Forerunner at a $340M valuation (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/251118/p25#a251118p25",
-            "published": "Tue, 18 Nov 2025 10:15:01 -0500"
+            "title": "Google says Gemini 3 Pro scores 1,501 on LMArena, above 2.5 Pro, and demonstrates PhD-level reasoning with top scores on Humanity's Last Exam and GPQA Diamond (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/251118/p31#a251118p31",
+            "published": "Tue, 18 Nov 2025 11:30:01 -0500"
         },
         {
-            "title": "Anthropic commits to buy $30B in Azure capacity in a new deal with Microsoft and Nvidia, which commit to invest up to $5B and $10B, respectively, in Anthropic (Microsoft)",
-            "link": "http://www.techmeme.com/251118/p24#a251118p24",
-            "published": "Tue, 18 Nov 2025 10:08:34 -0500"
+            "title": "Google plans to release Gemini 3 Deep Think to Google AI Ultra subscribers in the coming weeks, once it passes further rounds of safety testing (Russell Brandom/TechCrunch)",
+            "link": "http://www.techmeme.com/251118/p30#a251118p30",
+            "published": "Tue, 18 Nov 2025 11:25:52 -0500"
         },
         {
-            "title": "Rebecca Heineman, legendary game designer, Interplay co-founder, programmer, and the first formally recognized US Space Invaders champion, died at 62 in October (Ted Litchfield/PC Gamer)",
-            "link": "http://www.techmeme.com/251118/p23#a251118p23",
-            "published": "Tue, 18 Nov 2025 10:00:39 -0500"
+            "title": "Google launches Antigravity, an \"agent-first\" coding tool that leverages Gemini 3 Pro and third-party models, available in free public preview (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/251118/p29#a251118p29",
+            "published": "Tue, 18 Nov 2025 11:20:00 -0500"
         },
         {
-            "title": "Cloudflare CTO Dane Knecht says \"we failed our customers and the broader Internet\" when a Cloudflare issue \"impacted large amounts of traffic that rely on us\" (Dane Knecht/@dok2001)",
-            "link": "http://www.techmeme.com/251118/p22#a251118p22",
-            "published": "Tue, 18 Nov 2025 09:57:11 -0500"
+            "title": "Google says Gemini 3 Pro is integrated into the Gemini app, which now has 650M MAUs, and powers Google Search's AI Mode conversational search feature (New York Times)",
+            "link": "http://www.techmeme.com/251118/p28#a251118p28",
+            "published": "Tue, 18 Nov 2025 11:16:57 -0500"
         },
         {
-            "title": "Researchers demonstrated a major WhatsApp flaw that exposed 3.5B users' phone numbers, with 57% also showing a profile photo; Meta fixed the enumeration problem (Andy Greenberg/Wired)",
-            "link": "http://www.techmeme.com/251118/p21#a251118p21",
-            "published": "Tue, 18 Nov 2025 09:50:01 -0500"
+            "title": "Google unveils Gemini 3, its \"most intelligent\" and \"factually accurate\" model yet, with improvements across coding and reasoning, and offering less \"flattery\" (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/251118/p27#a251118p27",
+            "published": "Tue, 18 Nov 2025 11:07:06 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Europe Begins Rethinking Its Crackdown on Big Tech",
-            "link": "https://www.nytimes.com/2025/11/17/technology/europe-big-tech.html",
-            "published": "Mon, 17 Nov 2025 15:49:31 +0000"
+            "title": "Google Unveils Gemini 3, With Improved Coding and Search Abilities",
+            "link": "https://www.nytimes.com/2025/11/18/technology/google-gemini-3.html",
+            "published": "Tue, 18 Nov 2025 16:29:36 +0000"
+        },
+        {
+            "title": "Google\u2019s Gemini 3 Is Here: A Special Early Look",
+            "link": "https://www.nytimes.com/2025/11/18/podcasts/hardfork-gemini-3.html",
+            "published": "Tue, 18 Nov 2025 16:03:59 +0000"
+        },
+        {
+            "title": "Self-Driving Taxis Are Catching On. Are You Ready?",
+            "link": "https://www.nytimes.com/2025/11/18/technology/personaltech/zoox-driverless-taxis-san-francisco.html",
+            "published": "Tue, 18 Nov 2025 14:00:15 +0000"
         },
         {
             "title": "Jeff Bezos Creates A.I. Start-Up Where He Will Be Co-Chief Executive",
@@ -38,26 +48,16 @@
             "published": "Mon, 17 Nov 2025 19:03:53 +0000"
         },
         {
-            "title": "The Crypto Industry\u2019s $28 Billion in \u2018Dirty Money\u2019",
-            "link": "https://www.nytimes.com/2025/11/17/technology/crypto-exchanges-dirty-money.html",
-            "published": "Mon, 17 Nov 2025 17:05:33 +0000"
-        },
-        {
-            "title": "How Fraudsters Use Cryptocurrency A.T.M.s to Target Victims",
-            "link": "https://www.nytimes.com/2025/11/17/technology/fraudsters-cryptocurrency-atms.html",
-            "published": "Mon, 17 Nov 2025 05:01:20 +0000"
-        },
-        {
-            "title": "Self-Driving Taxis Are Catching On. Are You Ready?",
-            "link": "https://www.nytimes.com/2025/11/18/technology/personaltech/zoox-driverless-taxis-san-francisco.html",
-            "published": "Tue, 18 Nov 2025 14:00:15 +0000"
+            "title": "A.I. Video Is Threatening Our Ability to Trust Documentaries",
+            "link": "https://www.nytimes.com/2025/11/18/movies/documentary-filmmaking-ai-trust.html",
+            "published": "Tue, 18 Nov 2025 14:34:14 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Cloudflare outage takes down X and ChatGPT",
+            "title": "Cloudflare apologises for outage which took down X and ChatGPT",
             "link": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Nov 2025 14:51:55 GMT"
+            "published": "Tue, 18 Nov 2025 15:48:55 GMT"
         },
         {
             "title": "Man who cryogenically froze ex-wife sparks debate by dating new partner",
