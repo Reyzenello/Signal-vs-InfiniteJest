@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Apple's N1 chipset in the iPhone 17 lineup delivers up to 40% higher median Wi-Fi download and upload speeds globally vs. the Broadcom-based iPhone 16 lineup (Luke Kehoe/Ookla)",
-            "link": "http://www.techmeme.com/251118/p44#a251118p44",
-            "published": "Tue, 18 Nov 2025 14:05:02 -0500"
+            "title": "Apple details how it is 3D printing Watch Series 11 and Ultra 3 cases using titanium powder, helping Apple save 400 metric tons of raw titanium in 2025 (Apple)",
+            "link": "http://www.techmeme.com/251118/p50#a251118p50",
+            "published": "Tue, 18 Nov 2025 17:25:00 -0500"
         },
         {
-            "title": "Quora's Poe launches group chats, letting users around the world engage in group chats with up to 200 people and collaborate across 200+ AI models (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/251118/p43#a251118p43",
-            "published": "Tue, 18 Nov 2025 13:45:00 -0500"
+            "title": "Kraken raised $200M at a $20B valuation, after raising $600M at a $15B valuation in Sept.; prior to the two rounds, Kraken raised only $27M in venture capital (Ben Weiss/Fortune)",
+            "link": "http://www.techmeme.com/251118/p49#a251118p49",
+            "published": "Tue, 18 Nov 2025 16:35:03 -0500"
         },
         {
-            "title": "Apono, which helps enterprises manage cloud permissions by eliminating standing privileges, raised a $34M Series B, bringing its total funding to $54M+ (Duncan Riley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/251118/p42#a251118p42",
-            "published": "Tue, 18 Nov 2025 13:40:01 -0500"
+            "title": "Gemini 3 Pro is priced at $2-$4 per 1M input tokens and $12-$18 per 1M output tokens, cheaper than Claude Sonnet 4.5 but more expensive than GPT-5.1 (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/251118/p48#a251118p48",
+            "published": "Tue, 18 Nov 2025 15:55:01 -0500"
         },
         {
-            "title": "A US judge rules Meta's acquisitions of Instagram and WhatsApp don't violate antitrust law, as the FTC failed to prove the deals let Meta monopolize the market (Bloomberg Law)",
-            "link": "http://www.techmeme.com/251118/p41#a251118p41",
-            "published": "Tue, 18 Nov 2025 13:05:02 -0500"
+            "title": "Q&A with Demis Hassabis on Gemini 3, spending most of his research time on world models, fitting the entire Google Search index into Gemini, AI bubble, and more (Alex Heath/Sources)",
+            "link": "http://www.techmeme.com/251118/p47#a251118p47",
+            "published": "Tue, 18 Nov 2025 15:25:02 -0500"
         },
         {
-            "title": "Internal docs show Meta's Vibes AI video feed has about 2M DAUs as of November 9, up 1% from the previous week; ~52% of returning users prompted the AI (Pranav Dixit/Business Insider)",
-            "link": "http://www.techmeme.com/251118/p40#a251118p40",
-            "published": "Tue, 18 Nov 2025 13:00:39 -0500"
+            "title": "Maxima, whose AI platform automates accounting tasks like reconciliation and journal entry, raised $41M in seed and Series A rounds at a $143M valuation (Aditya Soni/Reuters)",
+            "link": "http://www.techmeme.com/251118/p46#a251118p46",
+            "published": "Tue, 18 Nov 2025 14:40:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 17 Nov 2025 19:03:53 +0000"
         },
         {
-            "title": "Meta Did Not Violate Antitrust Law, Judge Rules",
+            "title": "Meta Did Not Violate the Law When It Bought Instagram and WhatsApp, a Judge Rules",
             "link": "https://www.nytimes.com/2025/11/18/technology/meta-antitrust-monopoly-ruling.html",
-            "published": "Tue, 18 Nov 2025 18:36:13 +0000"
+            "published": "Tue, 18 Nov 2025 20:39:23 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions",
+            "link": "https://www.bbc.com/news/articles/crklgrpdke8o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Nov 2025 20:58:19 GMT"
+        },
         {
             "title": "Roblox blocks children from chatting to adult strangers",
             "link": "https://www.bbc.com/news/articles/c2lp5pn9e1qo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Google boss says trillion-dollar AI investment boom has 'elements of irrationality'",
             "link": "https://www.bbc.com/news/articles/cwy7vrd8k4eo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Nov 2025 12:16:04 GMT"
-        },
-        {
-            "title": "Don't blindly trust what AI tells you, says Google's Sundar Pichai",
-            "link": "https://www.bbc.com/news/articles/c8drzv37z4jo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Nov 2025 17:59:14 GMT"
         }
     ]
 }
