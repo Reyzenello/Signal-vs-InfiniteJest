@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Coinbase is preparing to launch a prediction market powered by Kalshi to allow its clients to bet on events such as elections and sports (Yueqi Yang/The Information)",
+            "link": "http://www.techmeme.com/251119/p44#a251119p44",
+            "published": "Wed, 19 Nov 2025 15:10:00 -0500"
+        },
+        {
+            "title": "Sources: US officials are privately saying they might not levy semiconductor tariffs soon, as the Trump administration takes a more cautious approach with China (Reuters)",
+            "link": "http://www.techmeme.com/251119/p43#a251119p43",
+            "published": "Wed, 19 Nov 2025 15:01:51 -0500"
+        },
+        {
+            "title": "OpenAI unveils GPT-5.1-Codex-Max, saying it is \"significantly better\" at \"long-horizon reasoning\" and is the first model it has trained for Windows environments (David Gewirtz/ZDNET)",
+            "link": "http://www.techmeme.com/251119/p42#a251119p42",
+            "published": "Wed, 19 Nov 2025 14:30:56 -0500"
+        },
+        {
             "title": "OpenAI announces ChatGPT for Teachers, designed for K-12 educators and school districts, and says it will be free to K-12 educators in the US through June 2027 (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/251119/p41#a251119p41",
             "published": "Wed, 19 Nov 2025 13:40:00 -0500"
@@ -9,21 +24,6 @@
             "title": "AI video startup Luma AI raised a $900M Series C led by Humain, sources say at a ~$4B valuation, and partners with Humain on a 2GW AI cluster in Saudi Arabia (Vaibhavi Khanwalkar/The Economic Times)",
             "link": "http://www.techmeme.com/251119/p40#a251119p40",
             "published": "Wed, 19 Nov 2025 13:20:02 -0500"
-        },
-        {
-            "title": "Doppel, which makes an AI social engineering detection service, raised a $70M Series C led by Bessemer at a $600M+ valuation, up from $205M in May (Allie Garfinkle/Fortune)",
-            "link": "http://www.techmeme.com/251119/p39#a251119p39",
-            "published": "Wed, 19 Nov 2025 13:01:32 -0500"
-        },
-        {
-            "title": "Sources: Warner Music settles its suit with AI startup Udio, which is planning a service that lets users create songs from licensed tracks of artists who opt-in (Anna Nicolaou/Financial Times)",
-            "link": "http://www.techmeme.com/251119/p38#a251119p38",
-            "published": "Wed, 19 Nov 2025 12:45:50 -0500"
-        },
-        {
-            "title": "Perplexity plans to roll out a free agentic shopping product for US users next week in partnership with PayPal (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/251119/p37#a251119p37",
-            "published": "Wed, 19 Nov 2025 12:30:49 -0500"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Larry Summers Resigns From OpenAI\u2019s Board",
             "link": "https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html",
-            "published": "Wed, 19 Nov 2025 14:55:01 +0000"
+            "published": "Wed, 19 Nov 2025 19:57:34 +0000"
         },
         {
             "title": "Netherlands Hands Back Control of Chinese-Owned Chipmaker Nexperia",
