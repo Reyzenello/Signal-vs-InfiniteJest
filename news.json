@@ -1,33 +1,64 @@
 {
     "techmeme": [
         {
+            "title": "AI video startup Luma AI raised a $900M Series C led by Humain, sources say at a ~$4B valuation, and partners with Humain on a 2GW AI cluster in Saudi Arabia (Vaibhavi Khanwalkar/The Economic Times)",
+            "link": "http://www.techmeme.com/251119/p40#a251119p40",
+            "published": "Wed, 19 Nov 2025 13:20:02 -0500"
+        },
+        {
+            "title": "Doppel, which makes an AI social engineering detection service, raised a $70M Series C led by Bessemer at a $600M+ valuation, up from $205M in May (Allie Garfinkle/Fortune)",
+            "link": "http://www.techmeme.com/251119/p39#a251119p39",
+            "published": "Wed, 19 Nov 2025 13:01:32 -0500"
+        },
+        {
+            "title": "Sources: Warner Music settles its suit with AI startup Udio, which is planning a service that lets users create songs from licensed tracks of artists who opt-in (Anna Nicolaou/Financial Times)",
+            "link": "http://www.techmeme.com/251119/p38#a251119p38",
+            "published": "Wed, 19 Nov 2025 12:45:50 -0500"
+        },
+        {
+            "title": "Perplexity plans to roll out a free agentic shopping product for US users next week in partnership with PayPal (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/251119/p37#a251119p37",
+            "published": "Wed, 19 Nov 2025 12:30:49 -0500"
+        },
+        {
             "title": "Elon Musk says xAI plans to develop a 500 megawatt data center in Saudi Arabia with state-backed AI startup Humain; the data center will rely on Nvidia chips (Mark Bergen/Bloomberg)",
             "link": "http://www.techmeme.com/251119/p36#a251119p36",
             "published": "Wed, 19 Nov 2025 12:05:04 -0500"
-        },
-        {
-            "title": "Meta release SAM 3, a model for detection, segmentation, and tracking of objects in images and video, and SAM 3D, which can reconstruct objects and humans in 3D (Mike Wheatley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/251119/p35#a251119p35",
-            "published": "Wed, 19 Nov 2025 12:01:40 -0500"
-        },
-        {
-            "title": "Alphabet's stock rose as much as 6.9% on Wednesday, its biggest gain since early September, amid a wave of glowing reviews for Gemini 3 (Ryan Vlastelica/Bloomberg)",
-            "link": "http://www.techmeme.com/251119/p34#a251119p34",
-            "published": "Wed, 19 Nov 2025 11:55:02 -0500"
-        },
-        {
-            "title": "A new bipartisan Senate bill amends Section 230 to make commercial social media platforms responsible if their recommendation systems cause foreseeable harms (Lauren Feiner/The Verge)",
-            "link": "http://www.techmeme.com/251119/p33#a251119p33",
-            "published": "Wed, 19 Nov 2025 11:45:48 -0500"
-        },
-        {
-            "title": "Gemini 3 hands-on: a fundamental improvement on daily use, extremely fast, Antigravity IDE is a powerful launch product, and its personality is terse and direct (matt shumer)",
-            "link": "http://www.techmeme.com/251119/p32#a251119p32",
-            "published": "Wed, 19 Nov 2025 10:55:00 -0500"
         }
     ],
-    "source_1": [],
+    "source_1": [
+        {
+            "title": "How Trump and Nvidia\u2019s C.E.O. Became Partners on the International Stage",
+            "link": "https://www.nytimes.com/2025/11/19/technology/trump-nvidia-jensen-huang.html",
+            "published": "Wed, 19 Nov 2025 14:17:10 +0000"
+        },
+        {
+            "title": "In the A.I. Race, Chinese Talent Still Drives American Research",
+            "link": "https://www.nytimes.com/2025/11/19/technology/ai-research-chinese-talent.html",
+            "published": "Wed, 19 Nov 2025 05:00:05 +0000"
+        },
+        {
+            "title": "Saudi Arabia Backs Elon Musk\u2019s xAI With Data Center Deal",
+            "link": "https://www.nytimes.com/2025/11/19/technology/saudi-arabia-elon-musk-xai.html",
+            "published": "Wed, 19 Nov 2025 16:22:08 +0000"
+        },
+        {
+            "title": "Larry Summers Resigns From OpenAI\u2019s Board",
+            "link": "https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html",
+            "published": "Wed, 19 Nov 2025 14:55:01 +0000"
+        },
+        {
+            "title": "Netherlands Hands Back Control of Chinese-Owned Chipmaker Nexperia",
+            "link": "https://www.nytimes.com/2025/11/19/business/nexperia-netherlands-china-chips.html",
+            "published": "Wed, 19 Nov 2025 14:10:28 +0000"
+        }
+    ],
     "source_2": [
+        {
+            "title": "Instagram owner Meta tells Australian teens accounts will close",
+            "link": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Nov 2025 17:31:45 GMT"
+        },
         {
             "title": "Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions",
             "link": "https://www.bbc.com/news/articles/crklgrpdke8o?at_medium=RSS&at_campaign=rss",
@@ -47,11 +78,6 @@
             "title": "Cloudflare apologises for outage which took down X and ChatGPT",
             "link": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Nov 2025 15:48:55 GMT"
-        },
-        {
-            "title": "Tech giant seeking $1.7bn from Mike Lynch's estate after yacht death",
-            "link": "https://www.bbc.com/news/articles/cz7p4gynxlzo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Nov 2025 22:40:41 GMT"
         }
     ]
 }
