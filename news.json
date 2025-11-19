@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: ID verification startup Incode is in preliminary talks to raise between $150M and $300M at a valuation of up to $3B, up from a $1.25B valuation in 2021 (Bloomberg)",
+            "link": "http://www.techmeme.com/251119/p52#a251119p52",
+            "published": "Wed, 19 Nov 2025 17:20:07 -0500"
+        },
+        {
+            "title": "Nvidia reports Q3 revenue up 62% YoY to $57.01B, vs. $54.92B est., Data Center revenue up 66% to $51.2B, and net income up 65% to $31.9B (Kif Leswing/CNBC)",
+            "link": "http://www.techmeme.com/251119/p51#a251119p51",
+            "published": "Wed, 19 Nov 2025 16:26:42 -0500"
+        },
+        {
             "title": "The US, the UK, and Australia sanction Russian bulletproof hosting provider Media Land, which provided services to cybercrime marketplaces and ransomware groups (Sergiu Gatlan/BleepingComputer)",
             "link": "http://www.techmeme.com/251119/p50#a251119p50",
             "published": "Wed, 19 Nov 2025 16:20:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Amazon launches a Video Recaps feature on Prime Video that uses AI to summarize a show's key plot points with snippets and music, available in beta for US users (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/251119/p48#a251119p48",
             "published": "Wed, 19 Nov 2025 16:01:58 -0500"
-        },
-        {
-            "title": "Meta confirms Yann LeCun is leaving the company; sources say Meta plans to partner with LeCun on his new startup, which will be focused on JEPA world models (Bloomberg)",
-            "link": "http://www.techmeme.com/251119/p47#a251119p47",
-            "published": "Wed, 19 Nov 2025 15:55:01 -0500"
-        },
-        {
-            "title": "Nokia unveils a new strategy, including plans to split its high-growth AI operations into a separate unit from its telecoms business; Nokia's shares fall 7% (Kieran Smith/Financial Times)",
-            "link": "http://www.techmeme.com/251119/p46#a251119p46",
-            "published": "Wed, 19 Nov 2025 15:50:00 -0500"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Saudi Arabia Backs Elon Musk\u2019s xAI With Data Center Deal",
             "link": "https://www.nytimes.com/2025/11/19/technology/saudi-arabia-elon-musk-xai.html",
-            "published": "Wed, 19 Nov 2025 20:33:27 +0000"
+            "published": "Wed, 19 Nov 2025 22:02:37 +0000"
         },
         {
             "title": "Larry Summers Resigns From OpenAI\u2019s Board",
@@ -48,12 +48,17 @@
             "published": "Wed, 19 Nov 2025 19:57:34 +0000"
         },
         {
-            "title": "Netherlands Hands Back Control of Chinese-Owned Chipmaker Nexperia",
-            "link": "https://www.nytimes.com/2025/11/19/business/nexperia-netherlands-china-chips.html",
-            "published": "Wed, 19 Nov 2025 14:10:28 +0000"
+            "title": "Nvidia Earnings Show Profit Jumped 65% to $31.9 Billion",
+            "link": "https://www.nytimes.com/2025/11/19/technology/nvidia-earnings.html",
+            "published": "Wed, 19 Nov 2025 21:41:37 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Nvidia shares soar after revenue tops estimates",
+            "link": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Nov 2025 22:27:26 GMT"
+        },
         {
             "title": "Instagram owner Meta tells Australian teens accounts will close",
             "link": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Roblox blocks children from chatting to adult strangers",
             "link": "https://www.bbc.com/news/articles/c2lp5pn9e1qo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 19 Nov 2025 01:16:47 GMT"
-        },
-        {
-            "title": "Cloudflare apologises for outage which took down X and ChatGPT",
-            "link": "https://www.bbc.com/news/articles/c629pny4gl7o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Nov 2025 15:48:55 GMT"
         }
     ]
 }
