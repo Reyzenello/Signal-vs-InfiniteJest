@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google opens an AI infrastructure hardware engineering hub in Taipei, its biggest outside of the US, to develop and test tech to be deployed in its data centers (Reuters)",
+            "link": "http://www.techmeme.com/251119/p63#a251119p63",
+            "published": "Wed, 19 Nov 2025 23:30:08 -0500"
+        },
+        {
+            "title": "A US judge sentences William Lonergan Hill, a co-founder of crypto mixer Samourai Wallet, to four years in prison for laundering $200M+ in illegal transactions (Miles J. Herszenhorn/Bloomberg)",
+            "link": "http://www.techmeme.com/251119/p62#a251119p62",
+            "published": "Wed, 19 Nov 2025 22:55:00 -0500"
+        },
+        {
             "title": "Function Health, a health tracking tech company, raised a $298M Series B led by Redpoint Ventures at a $2.5B valuation, bringing its total funding to $350M (Kate Park/TechCrunch)",
             "link": "http://www.techmeme.com/251119/p61#a251119p61",
             "published": "Wed, 19 Nov 2025 22:00:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Sources: UMG, WMG, and Sony Music have licensed their works to Klay, which is building a streaming service that will let users remake songs using AI tools (Lucas Shaw/Bloomberg)",
             "link": "http://www.techmeme.com/251119/p59#a251119p59",
             "published": "Wed, 19 Nov 2025 21:00:00 -0500"
-        },
-        {
-            "title": "Lenovo reports Q2 revenue up 15% YoY to $20.45B, vs. $20B est., net profit down 5% to $340M, vs. $382M est., but adjusted net profit up 25% to $512M (P.R. Venkat/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251119/p58#a251119p58",
-            "published": "Wed, 19 Nov 2025 20:30:01 -0500"
-        },
-        {
-            "title": "Palo Alto Networks reports Q1 revenue up 16% YoY to $2.47B, vs. $2.46B est., forecasts Q2 revenue in line with est., and agrees to buy Chronosphere for $3.35B (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/251119/p57#a251119p57",
-            "published": "Wed, 19 Nov 2025 19:30:00 -0500"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Larry Summers Resigns From OpenAI\u2019s Board",
             "link": "https://www.nytimes.com/2025/11/19/technology/larry-summers-resigns-from-openais-board.html",
-            "published": "Wed, 19 Nov 2025 19:57:34 +0000"
+            "published": "Wed, 19 Nov 2025 19:57:35 +0000"
         },
         {
             "title": "Yann LeCun, a Pioneering A.I. Scientist, Leaves Meta",
@@ -70,14 +70,14 @@
             "published": "Wed, 19 Nov 2025 17:31:45 GMT"
         },
         {
+            "title": "Major League Baseball signs deals with Netflix, ESPN and NBCUniversal",
+            "link": "https://www.bbc.com/news/articles/c4gjg38zyd8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Nov 2025 02:23:41 GMT"
+        },
+        {
             "title": "Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions",
             "link": "https://www.bbc.com/news/articles/crklgrpdke8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Nov 2025 20:58:19 GMT"
-        },
-        {
-            "title": "Baby Shark: How a 90-second clip created a $400m business",
-            "link": "https://www.bbc.com/news/articles/cn8xzgw623go?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Nov 2025 23:00:46 GMT"
         }
     ]
 }
