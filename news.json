@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Source: Twenty, which uses AI to help hackers for the US military penetrate adversary computer networks, raised a $38M Series A led by Caffeinated Capital (Margi Murphy/Bloomberg)",
+            "link": "http://www.techmeme.com/251120/p44#a251120p44",
+            "published": "Thu, 20 Nov 2025 13:05:09 -0500"
+        },
+        {
+            "title": "Allen Institute for AI, or Ai2, unveils Olmo 3 models that it says outperform open models like Stanford's Marin and commercial open-weight models like Llama 3.1 (Todd Bishop/GeekWire)",
+            "link": "http://www.techmeme.com/251120/p43#a251120p43",
+            "published": "Thu, 20 Nov 2025 12:35:05 -0500"
+        },
+        {
+            "title": "The FCC votes along party lines to repeal a Biden-era cybersecurity rule aimed at preventing intrusions like Salt Typhoon, calling it an ineffective measure (Kelcee Griffis/Bloomberg)",
+            "link": "http://www.techmeme.com/251120/p42#a251120p42",
+            "published": "Thu, 20 Nov 2025 12:30:02 -0500"
+        },
+        {
+            "title": "Numeric, which automates accounting workflows, raised a $51M Series B led by IVP, bringing its total funding to $89M, and says OpenAI and Brex are clients (Ryan Lawler/Axios)",
+            "link": "http://www.techmeme.com/251120/p41#a251120p41",
+            "published": "Thu, 20 Nov 2025 12:25:05 -0500"
+        },
+        {
             "title": "Google updates Quick Share to work with Apple's AirDrop to make file transfers between iPhones and Android devices easier, starting with the Pixel 10 family (The Keyword)",
             "link": "http://www.techmeme.com/251120/p40#a251120p40",
             "published": "Thu, 20 Nov 2025 12:20:02 -0500"
-        },
-        {
-            "title": "Sources: AI robotics startup Physical Intelligence raised $600M led by CapitalG at a $5.6B valuation, with participation from Jeff Bezos, Lux, Thrive, and more (Shirin Ghaffary/Bloomberg)",
-            "link": "http://www.techmeme.com/251120/p39#a251120p39",
-            "published": "Thu, 20 Nov 2025 12:15:18 -0500"
-        },
-        {
-            "title": "Nvidia and Google launch the GeForce Now Fast Pass to let Chromebook owners stream over 2,000 games directly from an existing PC game library without ads (Dominic Preston/The Verge)",
-            "link": "http://www.techmeme.com/251120/p38#a251120p38",
-            "published": "Thu, 20 Nov 2025 12:10:05 -0500"
-        },
-        {
-            "title": "AI workplace agents startup Genspark raised a $275M Series B at a $1.25B valuation and says it hit $50M in annualized revenue after pivoting from AI search (Anna Tong/Forbes)",
-            "link": "http://www.techmeme.com/251120/p37#a251120p37",
-            "published": "Thu, 20 Nov 2025 12:05:12 -0500"
-        },
-        {
-            "title": "Nano Banana Pro is great at following instructions, generates interim \"thought images\", and makes full infographics with well-rendered text from a short prompt (Simon Willison/Simon Willison's Weblog)",
-            "link": "http://www.techmeme.com/251120/p36#a251120p36",
-            "published": "Thu, 20 Nov 2025 11:45:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 19 Nov 2025 19:57:35 +0000"
         },
         {
-            "title": "To Meld A.I. With Supercomputers, National Labs Are Picking Up the Pace",
-            "link": "https://www.nytimes.com/2025/11/20/technology/national-laboratories-ai-supercomputers.html",
-            "published": "Thu, 20 Nov 2025 16:01:51 +0000"
+            "title": "Trump Elevates Once-Fringe Meme Makers to the Mainstream",
+            "link": "https://www.nytimes.com/2025/11/20/technology/trump-ai-memes.html",
+            "published": "Thu, 20 Nov 2025 17:50:19 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Vinted blocks 'sickening' sexually explicit ads",
+            "link": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Nov 2025 18:10:50 GMT"
+        },
         {
             "title": "Deepfake 'nudify' site fined \u00a355,000 over lack of age checks",
             "link": "https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Ford boss: 'Now is not the time to tax electric vehicles'",
             "link": "https://www.bbc.com/news/articles/c5yp1ky55g1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 20 Nov 2025 00:03:09 GMT"
-        },
-        {
-            "title": "Lack of online age verification sparks concern",
-            "link": "https://www.bbc.com/news/articles/ce9d900zd58o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 20 Nov 2025 12:44:59 GMT"
         }
     ]
 }
