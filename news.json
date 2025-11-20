@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "IAB: ad spend in the creator ecosystem in 2025 is expected to rise 26% YoY to $37B, vastly outperforming ad spend in media overall, set to grow 5.7% YoY (Kayla Cobb/The Wrap)",
+            "link": "http://www.techmeme.com/251120/p28#a251120p28",
+            "published": "Thu, 20 Nov 2025 09:25:01 -0500"
+        },
+        {
+            "title": "Sources: SoftBank plans to invest up to $3B to remodel an EV plant in Lordstown, Ohio, that will produce equipment for OpenAI's forthcoming US data centers (Sri Muppidi/The Information)",
+            "link": "http://www.techmeme.com/251120/p27#a251120p27",
+            "published": "Thu, 20 Nov 2025 09:15:19 -0500"
+        },
+        {
             "title": "The CSA says Matter will support video cameras for the first time with Matter 1.5; Amazon and Google have not committed to making their cameras interoperable (Chris Welch/Bloomberg)",
             "link": "http://www.techmeme.com/251120/p26#a251120p26",
             "published": "Thu, 20 Nov 2025 08:25:02 -0500"
@@ -14,16 +24,6 @@
             "title": "Pornhub parent company Aylo sent letters to Apple, Google, and Microsoft urging the adoption of device-based age verification across their app stores and OSes (Jason Parham/Wired)",
             "link": "http://www.techmeme.com/251120/p24#a251120p24",
             "published": "Thu, 20 Nov 2025 08:10:00 -0500"
-        },
-        {
-            "title": "Cornell researchers: xAI's Grokipedia cites neo-Nazi website Stormfront 42 times, Infowars 34 times, and white nationalist website VDare 107 times (David Ingram/NBC News)",
-            "link": "http://www.techmeme.com/251120/p23#a251120p23",
-            "published": "Thu, 20 Nov 2025 07:55:02 -0500"
-        },
-        {
-            "title": "Investigation: as US Commerce Secretary Howard Lutnick promotes AI, including pressuring US allies, his companies and sons are cashing in on the AI projects (New York Times)",
-            "link": "http://www.techmeme.com/251120/p22#a251120p22",
-            "published": "Thu, 20 Nov 2025 07:45:03 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Deepfake 'nudify' site fined \u00a355,000 over lack of age checks",
+            "link": "https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Nov 2025 13:19:23 GMT"
+        },
+        {
             "title": "Why an AI 'godfather' is quitting Meta after 12 years",
             "link": "https://www.bbc.com/news/articles/cdx4x47w8p1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 20 Nov 2025 11:35:57 GMT"
@@ -70,14 +75,9 @@
             "published": "Thu, 20 Nov 2025 00:03:09 GMT"
         },
         {
-            "title": "Instagram to start closing Australian teen accounts ahead of social media ban",
-            "link": "https://www.bbc.com/news/articles/cz919xyx7weo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 19 Nov 2025 17:31:45 GMT"
-        },
-        {
-            "title": "Major League Baseball signs deals with Netflix, ESPN and NBCUniversal",
-            "link": "https://www.bbc.com/news/articles/c4gjg38zyd8o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 20 Nov 2025 02:23:41 GMT"
+            "title": "Lack of online age verification sparks concern",
+            "link": "https://www.bbc.com/news/articles/ce9d900zd58o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Nov 2025 12:44:59 GMT"
         }
     ]
 }
