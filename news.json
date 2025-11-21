@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Meta enters electricity trading to help accelerate the construction of new US power plants critical for its AI infrastructure buildout (Bloomberg)",
+            "link": "http://www.techmeme.com/251121/p15#a251121p15",
+            "published": "Fri, 21 Nov 2025 10:25:00 -0500"
+        },
+        {
+            "title": "At a recent all-hands meeting, Google's head of AI infrastructure Amin Vahdat said Google must double AI compute capacity every six months to meet demand (Jennifer Elias/CNBC)",
+            "link": "http://www.techmeme.com/251121/p14#a251121p14",
+            "published": "Fri, 21 Nov 2025 09:35:01 -0500"
+        },
+        {
             "title": "Q&A with Roblox co-founder and CEO David Baszucki on using face scans to verify age, having a chat function on Roblox, AI content moderation at scale, and more (New York Times)",
             "link": "http://www.techmeme.com/251121/p13#a251121p13",
             "published": "Fri, 21 Nov 2025 08:55:01 -0500"
@@ -14,16 +24,6 @@
             "title": "IBM and Cisco plan to link quantum computers over long distances and aim to provide a proof-of-concept by 2030, potentially paving the way for quantum internet (Stephen Nellis/Reuters)",
             "link": "http://www.techmeme.com/251121/p11#a251121p11",
             "published": "Fri, 21 Nov 2025 07:35:02 -0500"
-        },
-        {
-            "title": "Ubisoft delayed reporting its Q2 results after auditors found it improperly booked sales from a partnership as revenue, forcing it to restate its accounts (Daniel Zuidijk/Bloomberg)",
-            "link": "http://www.techmeme.com/251121/p10#a251121p10",
-            "published": "Fri, 21 Nov 2025 06:30:01 -0500"
-        },
-        {
-            "title": "After a delay, Ubisoft reports Q2 net bookings up 39% YoY to \u20ac490.8M, above \u20ac450M est., and expects Q3 bookings of \u20ac305M; Ubisoft resumed trading on November 21 (Leo Marchandon/Reuters)",
-            "link": "http://www.techmeme.com/251121/p9#a251121p9",
-            "published": "Fri, 21 Nov 2025 06:00:00 -0500"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Thu, 20 Nov 2025 18:40:55 +0000"
         },
         {
+            "title": "We Asked Roblox\u2019s C.E.O. About Child Safety. It Got Tense.",
+            "link": "https://www.nytimes.com/2025/11/21/podcasts/hardfork-roblox-child-safety.html",
+            "published": "Fri, 21 Nov 2025 15:01:48 +0000"
+        },
+        {
             "title": "Family Affair: Commerce Secretary\u2019s Sons Cash In on A.I. Frenzy",
             "link": "https://www.nytimes.com/2025/11/20/us/politics/howard-lutnick-family-ai.html",
             "published": "Thu, 20 Nov 2025 10:00:45 +0000"
-        },
-        {
-            "title": "We Asked Roblox\u2019s C.E.O. About Child Safety. It Got Tense.",
-            "link": "https://www.nytimes.com/2025/11/21/podcasts/hardfork-roblox-child-safety.html",
-            "published": "Fri, 21 Nov 2025 12:00:05 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Vinted blocks 'sickening' sexually explicit ads",
             "link": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 20 Nov 2025 18:10:50 GMT"
+        },
+        {
+            "title": "Teens plead not guilty over TfL cyber-attack",
+            "link": "https://www.bbc.com/news/articles/cvgjxlgyx87o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Nov 2025 14:09:56 GMT"
         },
         {
             "title": "Graduate jobs under threat from AI, PwC boss says",
@@ -73,11 +78,6 @@
             "title": "Deepfake 'nudify' site fined \u00a355,000 over lack of age checks",
             "link": "https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 20 Nov 2025 13:19:23 GMT"
-        },
-        {
-            "title": "Why an AI 'godfather' is quitting Meta after 12 years",
-            "link": "https://www.bbc.com/news/articles/cdx4x47w8p1o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 20 Nov 2025 11:35:57 GMT"
         }
     ]
 }
