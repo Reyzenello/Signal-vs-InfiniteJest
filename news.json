@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google starts rolling out ads in AI mode; the ads look similar to the citations in AI answers but with a \"sponsored\" label (Mayank Parmar/BleepingComputer)",
+            "link": "http://www.techmeme.com/251121/p18#a251121p18",
+            "published": "Fri, 21 Nov 2025 11:25:00 -0500"
+        },
+        {
+            "title": "Sources: Meta plans to test an AI-powered personalized daily briefing, designed to compete with ChatGPT's Pulse, with some Facebook users in NYC and SF (Naomi Nix/Washington Post)",
+            "link": "http://www.techmeme.com/251121/p17#a251121p17",
+            "published": "Fri, 21 Nov 2025 11:20:39 -0500"
+        },
+        {
+            "title": "Sorcero, which makes AI agents for pharmaceutical companies to market new medications, raised a $42.5M Series B, bringing its total funding to $59M (Katherine Davis/Axios)",
+            "link": "http://www.techmeme.com/251121/p16#a251121p16",
+            "published": "Fri, 21 Nov 2025 10:55:07 -0500"
+        },
+        {
             "title": "Meta enters electricity trading to help accelerate the construction of new US power plants critical for its AI infrastructure buildout (Bloomberg)",
             "link": "http://www.techmeme.com/251121/p15#a251121p15",
             "published": "Fri, 21 Nov 2025 10:25:00 -0500"
@@ -9,21 +24,6 @@
             "title": "At a recent all-hands meeting, Google's head of AI infrastructure Amin Vahdat said Google must double AI compute capacity every six months to meet demand (Jennifer Elias/CNBC)",
             "link": "http://www.techmeme.com/251121/p14#a251121p14",
             "published": "Fri, 21 Nov 2025 09:35:01 -0500"
-        },
-        {
-            "title": "Q&A with Roblox co-founder and CEO David Baszucki on using face scans to verify age, having a chat function on Roblox, AI content moderation at scale, and more (New York Times)",
-            "link": "http://www.techmeme.com/251121/p13#a251121p13",
-            "published": "Fri, 21 Nov 2025 08:55:01 -0500"
-        },
-        {
-            "title": "Archetype, which builds AI to interpret sensor data from the physical world, raised a $35M Series A and launches tools to build and deploy physical agents (Grace Priscilla Teo/Tech in Asia)",
-            "link": "http://www.techmeme.com/251121/p12#a251121p12",
-            "published": "Fri, 21 Nov 2025 08:00:49 -0500"
-        },
-        {
-            "title": "IBM and Cisco plan to link quantum computers over long distances and aim to provide a proof-of-concept by 2030, potentially paving the way for quantum internet (Stephen Nellis/Reuters)",
-            "link": "http://www.techmeme.com/251121/p11#a251121p11",
-            "published": "Fri, 21 Nov 2025 07:35:02 -0500"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "We Asked Roblox\u2019s C.E.O. About Child Safety. It Got Tense.",
             "link": "https://www.nytimes.com/2025/11/21/podcasts/hardfork-roblox-child-safety.html",
-            "published": "Fri, 21 Nov 2025 15:01:48 +0000"
+            "published": "Fri, 21 Nov 2025 16:10:09 +0000"
         },
         {
             "title": "Family Affair: Commerce Secretary\u2019s Sons Cash In on A.I. Frenzy",
