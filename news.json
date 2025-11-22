@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Waymo says California authorized it to operate across the entire Bay Area and Sacramento, and between LA and San Diego, where it plans to expand to in mid-2026 (Aidin Vaziri/San Francisco Chronicle)",
+            "link": "http://www.techmeme.com/251121/p31#a251121p31",
+            "published": "Fri, 21 Nov 2025 20:10:01 -0500"
+        },
+        {
+            "title": "Figure AI's former head of product safety sues the humanoid robot startup, alleging he was unlawfully terminated after warning executives about product safety (Lora Kolodny/CNBC)",
+            "link": "http://www.techmeme.com/251121/p30#a251121p30",
+            "published": "Fri, 21 Nov 2025 19:35:01 -0500"
+        },
+        {
+            "title": "Analyzing Gemini 3's model card and safety framework report: the model is excellent but the safety report withholds or makes it difficult to understand key info (Zvi Mowshowitz/Don't Worry About the Vase)",
+            "link": "http://www.techmeme.com/251121/p29#a251121p29",
+            "published": "Fri, 21 Nov 2025 18:55:01 -0500"
+        },
+        {
             "title": "Anthropic finds that LLMs trained to \"reward hack\" by cheating on coding tasks show even more misaligned behavior, including sabotaging AI-safety research (Anthropic)",
             "link": "http://www.techmeme.com/251121/p28#a251121p28",
             "published": "Fri, 21 Nov 2025 17:40:05 -0500"
@@ -9,21 +24,6 @@
             "title": "A look at AMD's pivot to AI chips in 2022 under CEO Lisa Su, increasing AMD's market value from $90B to $335B+ in three years, as the chipmaker takes on Nvidia (Wall Street Journal)",
             "link": "http://www.techmeme.com/251121/p27#a251121p27",
             "published": "Fri, 21 Nov 2025 17:00:45 -0500"
-        },
-        {
-            "title": "A US judge is expected to rule next year on breaking up Google's ad tech monopoly, after the DOJ and Google delivered closing arguments in a remedies hearing (David McCabe/New York Times)",
-            "link": "http://www.techmeme.com/251121/p26#a251121p26",
-            "published": "Fri, 21 Nov 2025 16:05:01 -0500"
-        },
-        {
-            "title": "Filing: Airbnb says CTO Ari Balogh, who joined seven years ago from Google, plans to step down in December (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/251121/p25#a251121p25",
-            "published": "Fri, 21 Nov 2025 14:40:03 -0500"
-        },
-        {
-            "title": "Sources: Trump's team recently discussed letting Nvidia sell H200 chips to China, a major departure from the administration's earlier public stances (Bloomberg)",
-            "link": "http://www.techmeme.com/251121/p24#a251121p24",
-            "published": "Fri, 21 Nov 2025 14:25:01 -0500"
         }
     ],
     "source_1": [
@@ -45,12 +45,12 @@
         {
             "title": "We Asked Roblox\u2019s C.E.O. About Child Safety. It Got Tense.",
             "link": "https://www.nytimes.com/2025/11/21/podcasts/hardfork-roblox-child-safety.html",
-            "published": "Fri, 21 Nov 2025 16:10:09 +0000"
+            "published": "Sat, 22 Nov 2025 00:37:44 +0000"
         },
         {
             "title": "Cryptology Group Held an Election, but Can\u2019t Decrypt the Results",
             "link": "https://www.nytimes.com/2025/11/21/world/cryptography-group-lost-election-results.html",
-            "published": "Fri, 21 Nov 2025 22:13:03 +0000"
+            "published": "Sat, 22 Nov 2025 01:52:09 +0000"
         }
     ],
     "source_2": [
