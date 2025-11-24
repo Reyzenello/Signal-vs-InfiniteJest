@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic says Opus 4.5 outscored all humans on a take-home exam it gives to prospective performance engineering candidates, within a prescribed two-hour limit (Michael Nu\u00f1ez/VentureBeat)",
+            "link": "http://www.techmeme.com/251124/p35#a251124p35",
+            "published": "Mon, 24 Nov 2025 16:20:00 -0500"
+        },
+        {
+            "title": "Anthropic prices Claude Opus 4.5 at $5/1M input and $25/1M output tokens, much cheaper than Opus 4.1 at $15/$75 but still pricier than GPT-5.1 and Gemini 3 Pro (Simon Willison/Simon Willison's Weblog)",
+            "link": "http://www.techmeme.com/251124/p34#a251124p34",
+            "published": "Mon, 24 Nov 2025 15:45:00 -0500"
+        },
+        {
+            "title": "Anthropic says Claude Opus 4.5 is \"harder to trick with prompt injection than any other frontier model in the industry\" but isn't \"immune\" to such attacks (Hayden Field/The Verge)",
+            "link": "http://www.techmeme.com/251124/p33#a251124p33",
+            "published": "Mon, 24 Nov 2025 15:35:00 -0500"
+        },
+        {
             "title": "Anthropic unveils two Claude Code upgrades: a new plan mode that creates more precise plans, and support for Claude Code in the Claude desktop app (Frederic Lardinois/The New Stack)",
             "link": "http://www.techmeme.com/251124/p32#a251124p32",
             "published": "Mon, 24 Nov 2025 15:15:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Sources: Apple cut dozens of sales roles to streamline sales to businesses, schools, and governments; Apple says the changes affect \"a small number of roles\" (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/251124/p31#a251124p31",
             "published": "Mon, 24 Nov 2025 15:10:01 -0500"
-        },
-        {
-            "title": "Anthropic says Claude can now keep a chat going indefinitely, automatically summarizing earlier context when it hits its context window (Russell Brandom/TechCrunch)",
-            "link": "http://www.techmeme.com/251124/p30#a251124p30",
-            "published": "Mon, 24 Nov 2025 14:30:01 -0500"
-        },
-        {
-            "title": "How the US' annualized 1.6% GDP growth in H1 was heavily dependent on AI-related investments, which might have accounted for as much as 50% of the growth (Konrad Putzier/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251124/p29#a251124p29",
-            "published": "Mon, 24 Nov 2025 14:25:01 -0500"
-        },
-        {
-            "title": "Anthropic launches Claude Opus 4.5, which the company says is \"the best model in the world for coding, agents, and computer use\" (Anthropic)",
-            "link": "http://www.techmeme.com/251124/p28#a251124p28",
-            "published": "Mon, 24 Nov 2025 14:01:44 -0500"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "An Auto Holy Grail: Motors That Don\u2019t Rely on Chinese Rare Earths",
             "link": "https://www.nytimes.com/2025/11/24/business/automakers-rare-earth-minerals-magnets.html",
-            "published": "Mon, 24 Nov 2025 19:25:11 +0000"
+            "published": "Mon, 24 Nov 2025 20:39:03 +0000"
         }
     ],
     "source_2": [
