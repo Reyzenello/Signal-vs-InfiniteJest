@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Poland's antitrust office UOKiK is probing whether Apple's ATT limits third-party data collection in mobile ads while giving Apple's own ads service an edge (Anna Wlodarczak-Semczuk/Reuters)",
+            "link": "http://www.techmeme.com/251125/p5#a251125p5",
+            "published": "Tue, 25 Nov 2025 03:20:00 -0500"
+        },
+        {
+            "title": "A look at NY's RAISE Act, requiring AI companies to publish safety protocols and disclose serious incidents, as its co-sponsor is targeted by a pro-AI super PAC (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/251125/p4#a251125p4",
+            "published": "Tue, 25 Nov 2025 02:50:01 -0500"
+        },
+        {
             "title": "A job listing shows Google is developing a new Android-based \"Aluminium OS\" that is \"built with AI at the core\", potentially as a ChromeOS replacement for PCs (Mishaal Rahman/Android Authority)",
             "link": "http://www.techmeme.com/251125/p3#a251125p3",
             "published": "Tue, 25 Nov 2025 02:00:37 -0500"
@@ -14,16 +24,6 @@
             "title": "Internal memo: Amazon asks engineers to use its in-house AI coding assistant Kiro over third-party tools like Cursor, aiming to gather feedback for improvement (Greg Bensinger/Reuters)",
             "link": "http://www.techmeme.com/251125/p1#a251125p1",
             "published": "Tue, 25 Nov 2025 00:40:01 -0500"
-        },
-        {
-            "title": "Google is starting to bridge OpenAI's product moat, like with Gemini's \"dynamic view\" option, which converts a text answer into an interactive, visual output (M.G. Siegler/Spyglass)",
-            "link": "http://www.techmeme.com/251124/p50#a251124p50",
-            "published": "Mon, 24 Nov 2025 22:45:01 -0500"
-        },
-        {
-            "title": "Character.ai is cutting off access to ongoing chats for users under 18 over mental-health concerns, after adding a two-hour daily limit on October 29 (Georgia Wells/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251124/p49#a251124p49",
-            "published": "Mon, 24 Nov 2025 21:55:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
+            "link": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Nov 2025 04:58:08 GMT"
+        },
+        {
             "title": "Vinted blocks 'sickening' sexually explicit ads",
             "link": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 20 Nov 2025 18:10:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Streaming platform Twitch added to Australia's teen social media ban",
             "link": "https://www.bbc.com/news/articles/cx2n2955g10o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 21 Nov 2025 02:33:49 GMT"
-        },
-        {
-            "title": "Deepfake 'nudify' site fined \u00a355,000 over lack of age checks",
-            "link": "https://www.bbc.com/news/articles/c0qpq5q9712o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 20 Nov 2025 13:19:23 GMT"
         }
     ]
 }
