@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "China is aggressively deploying AI and robotics to maintain its status as the world's manufacturing hub, and major companies are pioneering AI \"dark factories\" (Brian Spegele/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251125/p12#a251125p12",
+            "published": "Tue, 25 Nov 2025 07:05:00 -0500"
+        },
+        {
+            "title": "A look at how tech executives use \"delay, deny, and deflect\" when pressed on user safety and what it means for journalism, as shame loses power over public life (Casey Newton/Platformer)",
+            "link": "http://www.techmeme.com/251125/p11#a251125p11",
+            "published": "Tue, 25 Nov 2025 06:50:01 -0500"
+        },
+        {
+            "title": "X's location tool shows revenue sharing incentivizes US political content from international sock puppet and bot accounts, making polarization a side hustle (Jason Koebler/404 Media)",
+            "link": "http://www.techmeme.com/251125/p10#a251125p10",
+            "published": "Tue, 25 Nov 2025 06:35:01 -0500"
+        },
+        {
             "title": "South Korea, the EU, the UK, Saudi Arabia, the UAE, and others aim to build \"sovereign AI\"; Gartner expects $1.5T in AI spending in 2025, up 50% from 2024 (Jiyoung Sohn/Wall Street Journal)",
             "link": "http://www.techmeme.com/251125/p9#a251125p9",
             "published": "Tue, 25 Nov 2025 06:25:01 -0500"
@@ -9,21 +24,6 @@
             "title": "X exposing political accounts' location shows why trust and safety teams mattered: to combat coordinated inauthentic behavior, not \"censorship\" of viewpoints (Mike Masnick/Techdirt)",
             "link": "http://www.techmeme.com/251125/p8#a251125p8",
             "published": "Tue, 25 Nov 2025 06:10:02 -0500"
-        },
-        {
-            "title": "Alibaba reports Q2 revenue up 5% YoY to ~$35B, vs. ~$34.5B est., Chinese e-commerce revenue up 16% YoY, and net income down to ~$3B, as it boosts cloud spending (Luz Ding/Bloomberg)",
-            "link": "http://www.techmeme.com/251125/p7#a251125p7",
-            "published": "Tue, 25 Nov 2025 06:00:01 -0500"
-        },
-        {
-            "title": "TSMC sues former VP Lo Wen-jen in Taiwan, who left to join Intel, alleging a high likelihood that he leaked secrets to Intel after a two-decade career at TSMC (Debby Wu/Bloomberg)",
-            "link": "http://www.techmeme.com/251125/p6#a251125p6",
-            "published": "Tue, 25 Nov 2025 05:46:10 -0500"
-        },
-        {
-            "title": "Polish antitrust office UOKiK is probing whether Apple's ATT limits third-party data collection in mobile ads while giving Apple's own ads service an advantage (Anna Wlodarczak-Semczuk/Reuters)",
-            "link": "http://www.techmeme.com/251125/p5#a251125p5",
-            "published": "Tue, 25 Nov 2025 03:20:00 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Sat, 22 Nov 2025 00:37:44 +0000"
         },
         {
-            "title": "What Is Agentic A.I., and Would You Trust It to Book a Flight?",
-            "link": "https://www.nytimes.com/2025/11/25/travel/what-is-agentic-ai-book-flights.html",
-            "published": "Tue, 25 Nov 2025 10:02:34 +0000"
+            "title": "The Interview: How Wikipedia Is Responding to the Culture Wars",
+            "link": "https://www.nytimes.com/2025/11/25/podcasts/hardfork-the-interview-jimmy-wales.html",
+            "published": "Tue, 25 Nov 2025 12:00:10 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Ofcom vows to name and shame platforms over online sexism",
+            "link": "https://www.bbc.com/news/articles/cly52dd9lnmo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Nov 2025 11:51:18 GMT"
+        },
+        {
+            "title": "Cryptology firm cancels elections after losing encryption key",
+            "link": "https://www.bbc.com/news/articles/c62vl05rz0ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 25 Nov 2025 12:26:43 GMT"
+        },
         {
             "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
             "link": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Teens plead not guilty over TfL cyber-attack",
             "link": "https://www.bbc.com/news/articles/cvgjxlgyx87o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 21 Nov 2025 14:09:56 GMT"
-        },
-        {
-            "title": "Graduate jobs under threat from AI, PwC boss says",
-            "link": "https://www.bbc.com/news/articles/cm272510e6jo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 21 Nov 2025 02:34:57 GMT"
-        },
-        {
-            "title": "Streaming platform Twitch added to Australia's teen social media ban",
-            "link": "https://www.bbc.com/news/articles/cx2n2955g10o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 21 Nov 2025 02:33:49 GMT"
         }
     ]
 }
