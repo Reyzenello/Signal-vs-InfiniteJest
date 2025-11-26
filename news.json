@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: ByteDance bought more Nvidia chips than any other Chinese company in 2025, but Chinese regulators now block it from using the chips in new data centers (Qianer Liu/The Information)",
+            "link": "http://www.techmeme.com/251126/p18#a251126p18",
+            "published": "Wed, 26 Nov 2025 07:30:01 -0500"
+        },
+        {
+            "title": "Michael Saylor-led Strategy is down 50%+ in the past three months after crypto loses $1T+ in value, as the \"digital asset treasury\" craze at companies unravels (Financial Times)",
+            "link": "http://www.techmeme.com/251126/p17#a251126p17",
+            "published": "Wed, 26 Nov 2025 07:05:02 -0500"
+        },
+        {
+            "title": "In recent months, DDR4 and DDR5 RAM and SSD prices surged dramatically due to an ongoing AI chip shortage and panic buying; some RAM kits now cost 3x as much (Andrew Cunningham/Ars Technica)",
+            "link": "http://www.techmeme.com/251126/p16#a251126p16",
+            "published": "Wed, 26 Nov 2025 06:45:01 -0500"
+        },
+        {
             "title": "A profile of Chen Tao, founder of Chinese AI circuit board company Victory Giant, which is up 530%+ in 2025 so far, giving Chen and his wife a $9.1B net worth (Bloomberg)",
             "link": "http://www.techmeme.com/251126/p15#a251126p15",
             "published": "Wed, 26 Nov 2025 06:25:03 -0500"
@@ -9,43 +24,28 @@
             "title": "PitchBook: US AI and robotics VC deals are up over 4x since 2023 to $160B+ so far in 2025, while comparable China deals are just $10B+, up from $9.24B in 2023 (CNBC)",
             "link": "http://www.techmeme.com/251126/p14#a251126p14",
             "published": "Wed, 26 Nov 2025 06:05:02 -0500"
-        },
-        {
-            "title": "Didi reports Q3 revenue up 8.6% YoY to ~$8.28B and a ~$211M net income, up from ~$127M in Q3 2024; international revenue up 35% YoY to ~$558M with a ~$240M loss (Reuters)",
-            "link": "http://www.techmeme.com/251126/p13#a251126p13",
-            "published": "Wed, 26 Nov 2025 05:45:02 -0500"
-        },
-        {
-            "title": "Naver agrees to acquire Dunamu, which runs South Korea's biggest crypto exchange Upbit, in a $10.3B all-stock deal; Upbit has 80%+ market share in South Korea (Bloomberg)",
-            "link": "http://www.techmeme.com/251126/p12#a251126p12",
-            "published": "Wed, 26 Nov 2025 05:06:29 -0500"
-        },
-        {
-            "title": "Malaysia's Johor state, which has approved 51 data centre projects as of November, stops approvals for new low-tier data centers citing high water consumption (The Star)",
-            "link": "http://www.techmeme.com/251126/p11#a251126p11",
-            "published": "Wed, 26 Nov 2025 04:55:53 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "A.I. Can Do More of Your Shopping This Holiday Season",
+            "link": "https://www.nytimes.com/2025/11/25/technology/chatgpt-holiday-shopping.html",
+            "published": "Tue, 25 Nov 2025 10:01:58 +0000"
+        },
+        {
+            "title": "What OpenAI Did When ChatGPT Users Lost Touch With Reality",
+            "link": "https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html",
+            "published": "Tue, 25 Nov 2025 00:04:12 +0000"
+        },
+        {
+            "title": "RealPage Agrees to Settle Federal Rent-Collusion Case",
+            "link": "https://www.nytimes.com/2025/11/24/technology/realpage-doj-settlement.html",
+            "published": "Tue, 25 Nov 2025 00:39:54 +0000"
+        },
+        {
             "title": "The Fate of Google\u2019s Ad Tech Monopoly Is Now in a Judge\u2019s Hands",
             "link": "https://www.nytimes.com/2025/11/21/technology/google-ad-tech-closing.html",
             "published": "Fri, 21 Nov 2025 20:43:22 +0000"
-        },
-        {
-            "title": "The A.I. Boom Has Found Another Gear. Why Can\u2019t People Shake Their Worries?",
-            "link": "https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html",
-            "published": "Fri, 21 Nov 2025 01:34:51 +0000"
-        },
-        {
-            "title": "To Meld A.I. With Supercomputers, National Labs Are Picking Up the Pace",
-            "link": "https://www.nytimes.com/2025/11/20/technology/national-laboratories-ai-supercomputers.html",
-            "published": "Thu, 20 Nov 2025 16:01:52 +0000"
-        },
-        {
-            "title": "We Asked Roblox\u2019s C.E.O. About Child Safety. It Got Tense.",
-            "link": "https://www.nytimes.com/2025/11/21/podcasts/hardfork-roblox-child-safety.html",
-            "published": "Sat, 22 Nov 2025 00:37:44 +0000"
         },
         {
             "title": "Fears About A.I. Prompt Talks of Super PACs to Rein In the Industry",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Nvidia plays down Google chip threat concerns",
+            "link": "https://www.bbc.com/news/articles/c7vme6rrqz5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Nov 2025 12:36:24 GMT"
+        },
         {
             "title": "Ofcom vows to name and shame platforms over online sexism",
             "link": "https://www.bbc.com/news/articles/cly52dd9lnmo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Vinted blocks 'sickening' sexually explicit ads",
             "link": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 20 Nov 2025 18:10:50 GMT"
-        },
-        {
-            "title": "Teens plead not guilty over TfL cyber-attack",
-            "link": "https://www.bbc.com/news/articles/cvgjxlgyx87o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 21 Nov 2025 14:09:56 GMT"
         }
     ]
 }
