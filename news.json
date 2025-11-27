@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Alibaba starts selling Quark S1, its first smart glasses powered by its Qwen AI models, for ~$537 in China, and plans to release international versions in 2026 (Bloomberg)",
+            "link": "http://www.techmeme.com/251127/p9#a251127p9",
+            "published": "Thu, 27 Nov 2025 05:15:00 -0500"
+        },
+        {
+            "title": "Six years after EU law enforcement raids shut down German cyberlocker Share-Online, a German court sentences its operator to a two-year suspended prison term (Ernesto Van der Sar/TorrentFreak)",
+            "link": "http://www.techmeme.com/251127/p8#a251127p8",
+            "published": "Thu, 27 Nov 2025 04:40:13 -0500"
+        },
+        {
             "title": "An MIT study finds that AI can replace 11.7% of the US labor market, or ~$1.2T in wages, based on the \"Iceberg Index\", which measures job automation potential (MacKenzie Sigalos/CNBC)",
             "link": "http://www.techmeme.com/251127/p7#a251127p7",
             "published": "Thu, 27 Nov 2025 02:30:00 -0500"
@@ -11,19 +21,9 @@
             "published": "Thu, 27 Nov 2025 01:35:01 -0500"
         },
         {
-            "title": "South Korean crypto exchange Upbit suspended deposits and withdrawals after saying $37M worth of Solana tokens were moved to an unauthorized external wallet (Sidhartha Shukla/Bloomberg)",
+            "title": "South Korean crypto exchange Upbit suspended deposits and withdrawals after saying ~$30M worth of Solana tokens were moved to an unauthorized external wallet (Sidhartha Shukla/Bloomberg)",
             "link": "http://www.techmeme.com/251127/p5#a251127p5",
             "published": "Thu, 27 Nov 2025 01:25:00 -0500"
-        },
-        {
-            "title": "Tidalwave, whose AI agents automate mortgage docs checks and give real-time multilingual feedback to borrowers, raised a $22M Series A led by Permanent Capital (Fortune)",
-            "link": "http://www.techmeme.com/251127/p4#a251127p4",
-            "published": "Thu, 27 Nov 2025 01:15:01 -0500"
-        },
-        {
-            "title": "London-based AI video startup Synthesia says its ARR reached $100M by April 2025, after reporting 2024 revenue up 82% YoY to $58M and a pre-tax loss of $59M (Nicholas Fearn/Financial Times)",
-            "link": "http://www.techmeme.com/251127/p3#a251127p3",
-            "published": "Thu, 27 Nov 2025 01:05:03 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 21 Nov 2025 20:43:22 +0000"
         },
         {
-            "title": "David Lerner, a Mr. Fix-it of Apple Computers, Dies at 72",
-            "link": "https://www.nytimes.com/2025/11/26/technology/personaltech/david-lerner-dead.html",
-            "published": "Wed, 26 Nov 2025 21:22:35 +0000"
+            "title": "The Writer Who Dared Criticize Silicon Valley",
+            "link": "https://www.nytimes.com/2025/11/27/technology/writer-silicon-valley-criticism.html",
+            "published": "Thu, 27 Nov 2025 10:00:10 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OBR calls in cyber expert over botched release of Budget analysis",
+            "link": "https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Nov 2025 10:07:45 GMT"
+        },
         {
             "title": "Nvidia plays down Google chip threat concerns",
             "link": "https://www.bbc.com/news/articles/c7vme6rrqz5o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Scammers hacked her phone and stole thousands - so how did they get her details?",
             "link": "https://www.bbc.com/news/articles/czrk7gxk2l6o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 25 Nov 2025 04:58:08 GMT"
-        },
-        {
-            "title": "Vinted blocks 'sickening' sexually explicit ads",
-            "link": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 20 Nov 2025 18:10:50 GMT"
         }
     ]
 }
