@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An analysis of Google TPU v6e vs AMD MI300X vs Nvidia H100/B200: Nvidia achieves a ~5x tokens-per-dollar advantage over TPU v6e and 2x advantage over MI300X (@artificialanlys)",
+            "link": "http://www.techmeme.com/251128/p21#a251128p21",
+            "published": "Fri, 28 Nov 2025 21:25:01 -0500"
+        },
+        {
             "title": "A profile of Paulina Borsook, as her 2000 book Cyberselfish, warning about Silicon Valley's love for \"techno-libertarianism\", finds a resurgence in interest (David Streitfeld/New York Times)",
             "link": "http://www.techmeme.com/251128/p20#a251128p20",
             "published": "Fri, 28 Nov 2025 19:20:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Prime Intellect debuts INTELLECT-3, an RL-trained 106B parameter open source MOE model it claims outperforms larger models across math, code, science, reasoning (Prime Intellect)",
             "link": "http://www.techmeme.com/251128/p17#a251128p17",
             "published": "Fri, 28 Nov 2025 14:25:01 -0500"
-        },
-        {
-            "title": "Google withdraws its 2024 EU antitrust complaint against Microsoft over Azure licensing, after the EU launched a probe into Azure and AWS under the DMA (Edith Hancock/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251128/p16#a251128p16",
-            "published": "Fri, 28 Nov 2025 12:50:06 -0500"
         }
     ],
     "source_1": [
