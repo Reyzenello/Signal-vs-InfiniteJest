@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An in-depth look at TPUv7 Ironwood, the latest generation of Google's TPU, and how it positions Google as a serious challenger to Nvidia's AI chip dominance (Dylan Patel/SemiAnalysis)",
+            "link": "http://www.techmeme.com/251130/p8#a251130p8",
+            "published": "Sun, 30 Nov 2025 13:30:01 -0500"
+        },
+        {
             "title": "South Korean authorities are investigating a data leak at e-commerce giant Coupang that exposed ~33.7M accounts; the country has a population of 51.7M (Sohee Kim/Bloomberg)",
             "link": "http://www.techmeme.com/251130/p7#a251130p7",
             "published": "Sun, 30 Nov 2025 11:30:00 -0500"
@@ -19,11 +24,6 @@
             "title": "OpenAI faces rising pressure from rivals three years after ChatGPT's debut; Similarweb says Gemini users chat longer per visit than ChatGPT and Claude users (Financial Times)",
             "link": "http://www.techmeme.com/251130/p4#a251130p4",
             "published": "Sun, 30 Nov 2025 02:05:00 -0500"
-        },
-        {
-            "title": "Alibaba Technical Report: Qwen3-VL beats GPT-5 and Gemini 2.5 Pro on visual tasks and has 100% accuracy on \"needle-in-a-haystack\" tests for 30-minute videos (Jonathan Kemper/The Decoder)",
-            "link": "http://www.techmeme.com/251130/p3#a251130p3",
-            "published": "Sun, 30 Nov 2025 01:40:00 -0500"
         }
     ],
     "source_1": [
