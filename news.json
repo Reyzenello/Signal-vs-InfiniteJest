@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Runway launches Gen 4.5, a new text-to-video AI model that produces HD videos from written prompts and excels at physics; Gen 4.5 tops Video Arena's leaderboard (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/251201/p13#a251201p13",
+            "published": "Mon, 01 Dec 2025 09:10:07 -0500"
+        },
+        {
+            "title": "OpenAI takes a stake in Thrive Capital's Thrive Holdings and plans to embed AI agents in its companies, which already includes an accounting and IT business (Michael J. de la Merced/New York Times)",
+            "link": "http://www.techmeme.com/251201/p12#a251201p12",
+            "published": "Mon, 01 Dec 2025 08:55:06 -0500"
+        },
+        {
             "title": "Nvidia acquires $2B of Synopsys' common stock and unveils a strategic partnership to accelerate computing and AI engineering products, including deploying CUDA (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/251201/p11#a251201p11",
             "published": "Mon, 01 Dec 2025 08:25:06 -0500"
@@ -14,16 +24,6 @@
             "title": "Sources: McKinsey and other top consultancies freeze graduate pay offers in 2026 for the third year, as AI reshapes the industry and threatens its pyramid model (Financial Times)",
             "link": "http://www.techmeme.com/251201/p9#a251201p9",
             "published": "Mon, 01 Dec 2025 06:30:04 -0500"
-        },
-        {
-            "title": "ByteDance launches an AI voice assistant powered by its Doubao LLM, available first on ZTE's Nubia M153 smartphone prototype; Doubao has an estimated 159M MAUs (Reuters)",
-            "link": "http://www.techmeme.com/251201/p8#a251201p8",
-            "published": "Mon, 01 Dec 2025 06:05:01 -0500"
-        },
-        {
-            "title": "German startup Black Forest Labs, which develops the open-source Flux image models, raised a $300M Series B at a $3.25B valuation, up from $1B in September 2024 (Financial Times)",
-            "link": "http://www.techmeme.com/251201/p7#a251201p7",
-            "published": "Mon, 01 Dec 2025 05:45:01 -0500"
         }
     ],
     "source_1": [
@@ -55,7 +55,7 @@
     ],
     "source_2": [
         {
-            "title": "Jorja Smith's label hits out at 'AI clone' song",
+            "title": "Jorja Smith's record label hits out at 'AI clone' song",
             "link": "https://www.bbc.com/news/articles/cwyvjye18e9o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Dec 2025 13:12:08 GMT"
         },
