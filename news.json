@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Netflix quietly removes support for casting from its mobile app to most modern TVs and streaming devices, including Chromecast, regardless of subscription plan (Adamya Sharma/Android Authority)",
+            "title": "Nvidia acquires $2B of Synopsys' common stock and unveils a strategic partnership to accelerate computing and AI engineering products, including deploying CUDA (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/251201/p11#a251201p11",
+            "published": "Mon, 01 Dec 2025 08:25:06 -0500"
+        },
+        {
+            "title": "Netflix quietly removes support for casting from its mobile app to most modern TVs and streaming devices, including Chromecasts, regardless of subscription tier (Adamya Sharma/Android Authority)",
             "link": "http://www.techmeme.com/251201/p10#a251201p10",
             "published": "Mon, 01 Dec 2025 06:55:02 -0500"
         },
@@ -19,11 +24,6 @@
             "title": "German startup Black Forest Labs, which develops the open-source Flux image models, raised a $300M Series B at a $3.25B valuation, up from $1B in September 2024 (Financial Times)",
             "link": "http://www.techmeme.com/251201/p7#a251201p7",
             "published": "Mon, 01 Dec 2025 05:45:01 -0500"
-        },
-        {
-            "title": "Indian government order: India's telecom ministry privately asks phonemakers to preload state cybersecurity app Sanchar Saathi on all new devices within 90 days (Reuters)",
-            "link": "http://www.techmeme.com/251201/p6#a251201p6",
-            "published": "Mon, 01 Dec 2025 05:00:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Jorja Smith's label hits out at 'AI clone' song",
+            "link": "https://www.bbc.com/news/articles/cwyvjye18e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 01 Dec 2025 13:12:08 GMT"
+        },
+        {
             "title": "Virgin Media fined \u00a324m for leaving vulnerable customers 'at risk of harm'",
             "link": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Dec 2025 12:57:53 GMT"
@@ -73,11 +78,6 @@
             "title": "Nvidia plays down Google chip threat concerns",
             "link": "https://www.bbc.com/news/articles/c7vme6rrqz5o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 26 Nov 2025 12:36:24 GMT"
-        },
-        {
-            "title": "Ofcom vows to name and shame platforms over online sexism",
-            "link": "https://www.bbc.com/news/articles/cly52dd9lnmo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 25 Nov 2025 11:51:18 GMT"
         }
     ]
 }
