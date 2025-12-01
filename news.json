@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Omnicom's DM9 returned three Cannes awards after a NC state senator and CNN Brazil found the company had used AI to manipulate their content and used it for ads (Emmanuel Felton/Washington Post)",
+            "link": "http://www.techmeme.com/251201/p4#a251201p4",
+            "published": "Mon, 01 Dec 2025 04:30:01 -0500"
+        },
+        {
+            "title": "The AI boom has led to high demand and more pay for the construction workers that build data centers; a trade group says there is a shortage of ~439K workers (Te-Ping Chen/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251201/p3#a251201p3",
+            "published": "Mon, 01 Dec 2025 04:00:42 -0500"
+        },
+        {
             "title": "China's central bank reaffirmed its stance on crypto, calling virtual currency activity illegal and saying stablecoins fail KYC and anti-money-laundering rules (Reuters)",
             "link": "http://www.techmeme.com/251201/p2#a251201p2",
             "published": "Mon, 01 Dec 2025 01:35:00 -0500"
@@ -14,16 +24,6 @@
             "title": "How Animaj, a startup in Disney's Accelerator Program, uses AI to drastically speed up the animation process, while also claiming to let artists stay in control (Corinne Reichert/CNET)",
             "link": "http://www.techmeme.com/251130/p14#a251130p14",
             "published": "Sun, 30 Nov 2025 23:25:52 -0500"
-        },
-        {
-            "title": "US startups are increasingly adopting Chinese open source AI models, as some capabilities of Chinese models start to catch up with those of frontier US labs (NBC News)",
-            "link": "http://www.techmeme.com/251130/p13#a251130p13",
-            "published": "Sun, 30 Nov 2025 22:05:01 -0500"
-        },
-        {
-            "title": "Q&A with ex-Intel CEO Pat Gelsinger on the \"decay\" at Intel, the Chip Act's terrible execution, the irony of Lip-Bu Tan broadly following his strategy, and more (Michael Acton/Financial Times)",
-            "link": "http://www.techmeme.com/251130/p12#a251130p12",
-            "published": "Sun, 30 Nov 2025 20:35:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Virgin Media fined \u00a324m for leaving vulnerable customers 'at risk of harm'",
+            "link": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 01 Dec 2025 08:59:04 GMT"
+        },
+        {
             "title": "Barcelona distances itself from sponsor's cryptocurrency after backlash",
             "link": "https://www.bbc.com/news/articles/c20gkkl1546o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 28 Nov 2025 14:02:44 GMT"
@@ -73,11 +78,6 @@
             "title": "Ofcom vows to name and shame platforms over online sexism",
             "link": "https://www.bbc.com/news/articles/cly52dd9lnmo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 25 Nov 2025 11:51:18 GMT"
-        },
-        {
-            "title": "Cryptology firm cancels elections after losing encryption key",
-            "link": "https://www.bbc.com/news/articles/c62vl05rz0ko?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 25 Nov 2025 12:26:43 GMT"
         }
     ]
 }
