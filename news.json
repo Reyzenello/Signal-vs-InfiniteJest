@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "DeepSeek releases DeepSeek-V3.2 and DeepSeek-V3.2-Speciale, calling them \"reasoning-first models built for agents\", after releasing V3.2-Exp in September (Saritha Rai/Bloomberg)",
+            "link": "http://www.techmeme.com/251201/p15#a251201p15",
+            "published": "Mon, 01 Dec 2025 10:21:23 -0500"
+        },
+        {
+            "title": "An analysis of Crunchbase and PitchBook data: in 2025 so far, 80+ tech startups reached $1B valuations, many of them focused on AI with exceptions like Kalshi (Dominic-Madori Davis/TechCrunch)",
+            "link": "http://www.techmeme.com/251201/p14#a251201p14",
+            "published": "Mon, 01 Dec 2025 09:50:02 -0500"
+        },
+        {
             "title": "Runway launches Gen 4.5, a new text-to-video AI model that produces HD videos from written prompts and excels at physics; Gen 4.5 tops Video Arena's leaderboard (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/251201/p13#a251201p13",
             "published": "Mon, 01 Dec 2025 09:10:07 -0500"
@@ -14,16 +24,6 @@
             "title": "Nvidia acquires $2B of Synopsys' common stock and unveils a strategic partnership to accelerate computing and AI engineering products, including deploying CUDA (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/251201/p11#a251201p11",
             "published": "Mon, 01 Dec 2025 08:25:06 -0500"
-        },
-        {
-            "title": "Netflix quietly removes support for casting from its mobile app to most modern TVs and streaming devices, including Chromecasts, regardless of subscription tier (Adamya Sharma/Android Authority)",
-            "link": "http://www.techmeme.com/251201/p10#a251201p10",
-            "published": "Mon, 01 Dec 2025 06:55:02 -0500"
-        },
-        {
-            "title": "Sources: McKinsey and other top consultancies freeze graduate pay offers in 2026 for the third year, as AI reshapes the industry and threatens its pyramid model (Financial Times)",
-            "link": "http://www.techmeme.com/251201/p9#a251201p9",
-            "published": "Mon, 01 Dec 2025 06:30:04 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Wed, 26 Nov 2025 14:00:12 +0000"
         },
         {
-            "title": "David Lerner, a Mr. Fix-it of Apple Computers, Dies at 72",
-            "link": "https://www.nytimes.com/2025/11/26/technology/personaltech/david-lerner-dead.html",
-            "published": "Wed, 26 Nov 2025 21:22:35 +0000"
+            "title": "College Students Choosing A.I. Majors Over Computer Science",
+            "link": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
+            "published": "Mon, 01 Dec 2025 15:25:58 +0000"
         }
     ],
     "source_2": [
