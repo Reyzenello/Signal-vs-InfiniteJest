@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Axiado, which is making a chip designed to save space and power in AI servers, raised $100M led by Maverick Silicon (Stephen Nellis/Reuters)",
-            "link": "http://www.techmeme.com/251202/p27#a251202p27",
-            "published": "Tue, 02 Dec 2025 10:30:01 -0500"
+            "title": "Amazon debuts three frontier agents: Kiro autonomous agent, AWS Security Agent, and AWS DevOps Agent, each focused on a different aspect of software development (Mike Wheatley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/251202/p37#a251202p37",
+            "published": "Tue, 02 Dec 2025 11:37:25 -0500"
         },
         {
-            "title": "Mistral launches Mistral 3, a family of 10 models under the Apache 2.0 license, including the flagship Mistral Large 3 and nine smaller Ministral 3 models (Michael Nu\u00f1ez/VentureBeat)",
-            "link": "http://www.techmeme.com/251202/p26#a251202p26",
-            "published": "Tue, 02 Dec 2025 10:20:01 -0500"
+            "title": "AWS announces new features for its AI agent platform Bedrock AgentCore, including new tools for managing AI agent boundaries and memory capabilities (Rebecca Szkutak/TechCrunch)",
+            "link": "http://www.techmeme.com/251202/p36#a251202p36",
+            "published": "Tue, 02 Dec 2025 11:35:04 -0500"
         },
         {
-            "title": "Adobe: US shoppers spent $14.25B online during Cyber Monday, up 7.1% YoY, compared with a 9.1% rise on Black Friday; five-day spending rose 7.7% YoY to $44.2B (Spencer Soper/Bloomberg)",
-            "link": "http://www.techmeme.com/251202/p25#a251202p25",
-            "published": "Tue, 02 Dec 2025 09:45:08 -0500"
+            "title": "AWS launches Nova Forge, a $100,000/year service allowing clients to customize Amazon's AI models at various stages of training and refine open-weight models (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/251202/p35#a251202p35",
+            "published": "Tue, 02 Dec 2025 11:31:43 -0500"
         },
         {
-            "title": "A Claude user gets Claude 4.5 Opus to generate a 14,000-token document that Claude calls its \"Soul overview\"; an Anthropic staffer confirms its authenticity (Simon Willison/Simon Willison's Weblog)",
-            "link": "http://www.techmeme.com/251202/p24#a251202p24",
-            "published": "Tue, 02 Dec 2025 09:30:02 -0500"
+            "title": "Sources: OpenAI is developing a new LLM, codenamed Garlic, that outperforms Gemini 3 and Claude Opus 4.5 in coding and reasoning tasks, per internal evaluations (Stephanie Palazzolo/The Information)",
+            "link": "http://www.techmeme.com/251202/p34#a251202p34",
+            "published": "Tue, 02 Dec 2025 11:30:02 -0500"
         },
         {
-            "title": "Vista Equity-backed infrastructure software company LogicMonitor acquires Catchpoint, which monitors user experiences across the internet, for $250M+ in cash (Liana Baker/Bloomberg)",
-            "link": "http://www.techmeme.com/251202/p23#a251202p23",
-            "published": "Tue, 02 Dec 2025 09:20:01 -0500"
+            "title": "AWS launches DevOps Agent, an AI-enabled tool designed to help clients quickly identify root causes of outages and implement fixes, available in preview (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/251202/p33#a251202p33",
+            "published": "Tue, 02 Dec 2025 11:20:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Silicon Valley Builds Amazon and Gmail Copycats to Train A.I. Agents",
+            "link": "https://www.nytimes.com/2025/12/02/technology/amazon-and-gmail-copycats-to-train-ai-agents.html",
+            "published": "Tue, 02 Dec 2025 10:00:37 +0000"
+        },
+        {
+            "title": "Apple\u2019s A.I. Chief, John Giannandrea, Is Retiring",
+            "link": "https://www.nytimes.com/2025/12/01/business/apple-ai-john-giannandrea-siri.html",
+            "published": "Tue, 02 Dec 2025 02:15:06 +0000"
+        },
         {
             "title": "College Students Choosing A.I. Majors Over Computer Science",
             "link": "https://www.nytimes.com/2025/12/01/technology/college-computer-science-ai-boom.html",
@@ -36,16 +46,6 @@
             "title": "Silicon Valley\u2019s Man in the White House Is Benefiting Himself and His Friends",
             "link": "https://www.nytimes.com/2025/11/30/technology/david-sacks-white-house-profits.html",
             "published": "Mon, 01 Dec 2025 04:01:50 +0000"
-        },
-        {
-            "title": "The Writer Who Dared Criticize Silicon Valley",
-            "link": "https://www.nytimes.com/2025/11/27/technology/writer-silicon-valley-criticism.html",
-            "published": "Thu, 27 Nov 2025 13:10:22 +0000"
-        },
-        {
-            "title": "Hard Fork\u2019s 50 Most Iconic Technologies of 2025",
-            "link": "https://www.nytimes.com/2025/11/28/podcasts/hardfork-iconic-technologies-2025.html",
-            "published": "Fri, 28 Nov 2025 12:00:03 +0000"
         },
         {
             "title": "Beta Will Sell Motors to Another Electric Aircraft Company",
