@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Bending Spoons acquires Eventbrite for ~$500M in an all-cash deal, following its $1.38B purchase of Vimeo and a pending acquisition of AOL (Cate Lawrence/Tech.eu)",
+            "link": "http://www.techmeme.com/251202/p48#a251202p48",
+            "published": "Tue, 02 Dec 2025 13:55:02 -0500"
+        },
+        {
             "title": "Apptopia: ChatGPT referrals to retailer mobile apps increased 28% YoY during the Black Friday weekend in 2025; Amazon's share of ChatGPT referrals grew to 54% (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/251202/p47#a251202p47",
             "published": "Tue, 02 Dec 2025 13:25:02 -0500"
@@ -19,11 +24,6 @@
             "title": "Israeli startup Zafran, an AI-native threat exposure management service, raised a $60M Series C led by Menlo Ventures, bringing its total funding to $130M (Globes)",
             "link": "http://www.techmeme.com/251202/p44#a251202p44",
             "published": "Tue, 02 Dec 2025 12:40:01 -0500"
-        },
-        {
-            "title": "US and Israeli cloud data management startup Eon raised $300M led by Gil at a $4B valuation, up from $1.4B in November 2024, taking its total funding to $500M (Krystal Hu/Reuters)",
-            "link": "http://www.techmeme.com/251202/p43#a251202p43",
-            "published": "Tue, 02 Dec 2025 12:30:01 -0500"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Beta Will Sell Motors to Another Electric Aircraft Company",
             "link": "https://www.nytimes.com/2025/12/02/business/beta-eve-embraer-electric-planes.html",
-            "published": "Tue, 02 Dec 2025 14:43:59 +0000"
+            "published": "Tue, 02 Dec 2025 14:44:00 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "YouTuber Marques Brownlee shutting down phone wallpaper app",
+            "link": "https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Dec 2025 17:37:59 GMT"
+        },
         {
             "title": "Fashion house Valentino criticised over 'disturbing' AI handbag ads",
             "link": "https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Virgin Media fined \u00a324m for leaving vulnerable customers 'at risk of harm'",
             "link": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Dec 2025 12:57:53 GMT"
-        },
-        {
-            "title": "Barcelona distances itself from sponsor's cryptocurrency after backlash",
-            "link": "https://www.bbc.com/news/articles/c20gkkl1546o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 28 Nov 2025 14:02:44 GMT"
         }
     ]
 }
