@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Half of US states now require users to upload IDs or biometric data to access pornographic content, as Missouri became the 25th state to enact such a law (Samantha Cole/404 Media)",
+            "link": "http://www.techmeme.com/251203/p9#a251203p9",
+            "published": "Wed, 03 Dec 2025 02:40:02 -0500"
+        },
+        {
+            "title": "Copper demand is being boosted by AI data centers, which require 27-33 tonnes per MW, over 2x that of conventional data centers, according to miner Grupo M\u00e9xico (Camilla Hodgson/Financial Times)",
+            "link": "http://www.techmeme.com/251203/p8#a251203p8",
+            "published": "Wed, 03 Dec 2025 02:35:01 -0500"
+        },
+        {
+            "title": "London-based Sokin, which develops tech for B2B cross-border payments, raised a $50M Series B led by Prysm Capital at a $300M valuation (John Reynolds/Tech.eu)",
+            "link": "http://www.techmeme.com/251203/p7#a251203p7",
+            "published": "Wed, 03 Dec 2025 02:30:15 -0500"
+        },
+        {
             "title": "Binance names co-founder Yi He as co-CEO alongside Richard Teng, making her one of the few women leading a crypto company; she also has children with ex-CEO CZ (Jeff John Roberts/Fortune)",
             "link": "http://www.techmeme.com/251203/p6#a251203p6",
             "published": "Wed, 03 Dec 2025 02:25:02 -0500"
@@ -9,21 +24,6 @@
             "title": "An analysis of Waymo's data covering ~100M driverless miles across four US cities: Waymo cars have far lower crash rates per million miles than human drivers (Jonathan Slotkin/New York Times)",
             "link": "http://www.techmeme.com/251203/p5#a251203p5",
             "published": "Wed, 03 Dec 2025 01:40:00 -0500"
-        },
-        {
-            "title": "Waymo's self-driving cars appear to be bending traffic laws and growing impatient with pedestrians as the company seeks to make them \"confidently assertive\" (Katherine Bindley/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251203/p4#a251203p4",
-            "published": "Wed, 03 Dec 2025 01:30:11 -0500"
-        },
-        {
-            "title": "Stripe agrees to acquire Metronome, which offers APIs to help SaaS companies charge customers based on usage and has raised $128M in total funding (Scott Woody/Metronome)",
-            "link": "http://www.techmeme.com/251203/p3#a251203p3",
-            "published": "Wed, 03 Dec 2025 01:05:00 -0500"
-        },
-        {
-            "title": "MongoDB stock jumped 22% on December 2 after Q3 revenue rose 19% YoY to $628M, above $592M est., and raises full-year guidance on Atlas growth and AI demand (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/251203/p2#a251203p2",
-            "published": "Wed, 03 Dec 2025 00:55:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Bank of England warns of AI bubble risk",
+            "link": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Dec 2025 12:11:17 GMT"
+        },
+        {
+            "title": "Dell family to seed Trump accounts for kids with $250",
+            "link": "https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Dec 2025 20:00:08 GMT"
+        },
+        {
             "title": "YouTuber Marques Brownlee shutting down phone wallpaper app",
             "link": "https://www.bbc.com/news/articles/cze81xe3r4yo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Dec 2025 17:37:59 GMT"
@@ -65,19 +75,9 @@
             "published": "Tue, 02 Dec 2025 08:26:01 GMT"
         },
         {
-            "title": "'First of its kind' scanner to study blast trauma",
-            "link": "https://www.bbc.com/news/articles/c23e0k41kxeo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 02 Dec 2025 10:01:33 GMT"
-        },
-        {
-            "title": "Jorja Smith's record label hits out at 'AI clone' song",
-            "link": "https://www.bbc.com/news/articles/cwyvjye18e9o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Dec 2025 13:12:08 GMT"
-        },
-        {
-            "title": "Virgin Media fined \u00a324m for leaving vulnerable customers 'at risk of harm'",
-            "link": "https://www.bbc.com/news/articles/ce8qv9319zlo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Dec 2025 12:57:53 GMT"
+            "title": "India tells smartphone makers to put state-run cyber safety app on new devices",
+            "link": "https://www.bbc.com/news/articles/cedxyvx74p4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Dec 2025 10:01:18 GMT"
         }
     ]
 }
