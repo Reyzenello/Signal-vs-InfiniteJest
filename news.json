@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Thoughts on AI progress and why AI labs' actions hint at a worldview in which AI models will continue to fare poorly at generalization and on-the-job learning (Dwarkesh Patel/Dwarkesh Podcast)",
+            "link": "http://www.techmeme.com/251204/p6#a251204p6",
+            "published": "Thu, 04 Dec 2025 02:35:00 -0500"
+        },
+        {
             "title": "In an interview, Dario Amodei suggests some AI companies are taking on too much risk by \"YOLO-ing\" and committing to spend hundreds of billions on data centers (Shirin Ghaffary/Bloomberg)",
             "link": "http://www.techmeme.com/251204/p5#a251204p5",
             "published": "Thu, 04 Dec 2025 02:05:00 -0500"
@@ -19,11 +24,6 @@
             "title": "Paris-based CRM unicorn Brevo, formerly known as Sendinblue, raised \u20ac500M and says it surpassed \u20ac200M in ARR in 2025 (Anna Heim/TechCrunch)",
             "link": "http://www.techmeme.com/251204/p2#a251204p2",
             "published": "Thu, 04 Dec 2025 00:30:01 -0500"
-        },
-        {
-            "title": "Sources: the European Commission plans a new antitrust probe into Meta over its rollout of AI features in WhatsApp; the probe will not fall under the DMA (Barbara Moens/Financial Times)",
-            "link": "http://www.techmeme.com/251204/p1#a251204p1",
-            "published": "Thu, 04 Dec 2025 00:20:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Porn company fined \u00a31m over inadequate age checks",
+            "link": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 04 Dec 2025 07:58:33 GMT"
+        },
+        {
             "title": "New homes delayed by 'energy-hungry' data centres",
             "link": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 03 Dec 2025 15:37:59 GMT"
@@ -73,11 +78,6 @@
             "title": "Bank of England warns of AI bubble risk",
             "link": "https://www.bbc.com/news/articles/cx2e0y3913jo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Dec 2025 12:11:17 GMT"
-        },
-        {
-            "title": "Dell family to seed Trump accounts for kids with $250",
-            "link": "https://www.bbc.com/news/articles/cyvgq184vgqo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 02 Dec 2025 20:00:08 GMT"
         }
     ]
 }
