@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
+            "title": "Hugging Face details how it used its new tool, Skills, to fine tune LLMs using Claude, including for writing scripts, submitting jobs to cloud GPUs, and more (Hugging Face)",
+            "link": "http://www.techmeme.com/251205/p20#a251205p20",
+            "published": "Fri, 05 Dec 2025 10:05:48 -0500"
+        },
+        {
             "title": "The Ninth Circuit affirms a temporary order blocking OpenAI from using \"io\" as a trademark in some instances while an infringement suit against it proceeds (Kyle Jahner/Bloomberg Law)",
             "link": "http://www.techmeme.com/251205/p19#a251205p19",
             "published": "Fri, 05 Dec 2025 09:30:01 -0500"
         },
         {
-            "title": "The NYT sues Perplexity, claiming the AI startup violated its copyrights and failed to stop using its content despite repeated demands over the past 18 months (New York Times)",
+            "title": "The New York Times sues Perplexity, claiming the AI startup violated its copyrights and kept using its content despite repeated demands over the past 18 months (New York Times)",
             "link": "http://www.techmeme.com/251205/p18#a251205p18",
             "published": "Fri, 05 Dec 2025 09:10:03 -0500"
         },
@@ -16,14 +21,9 @@
             "published": "Fri, 05 Dec 2025 09:05:49 -0500"
         },
         {
-            "title": "Meta strikes multiyear commercial AI data deals with news publishers, including CNN and Fox News, to provide real-time answers for its Meta AI chatbot (Sara Fischer/Axios)",
+            "title": "Meta strikes multiyear commercial AI data deals with news publishers, including CNN, Fox News, and Le Monde, to provide real-time answers in its Meta AI chatbot (Sara Fischer/Axios)",
             "link": "http://www.techmeme.com/251205/p16#a251205p16",
             "published": "Fri, 05 Dec 2025 08:55:01 -0500"
-        },
-        {
-            "title": "Netflix says it \"expects to maintain Warner Bros.' current operations..., including theatrical releases for films\" (Tony Maglio/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/251205/p15#a251205p15",
-            "published": "Fri, 05 Dec 2025 08:50:52 -0500"
         }
     ],
     "source_1": [
@@ -50,14 +50,14 @@
         {
             "title": "New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work",
             "link": "https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html",
-            "published": "Fri, 05 Dec 2025 13:14:58 +0000"
+            "published": "Fri, 05 Dec 2025 15:11:34 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Elon Musk's X fined \u20ac120m over 'deceptive' blue ticks",
+            "title": "US hits out at EU for fining Elon Musk's X",
             "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 05 Dec 2025 13:16:01 GMT"
+            "published": "Fri, 05 Dec 2025 15:21:05 GMT"
         },
         {
             "title": "Porn site fined \u00a31m over age checks has never responded to Ofcom",
