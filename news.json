@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "ChatGPT head says screenshots of ChatGPT ads are \"either not real or not ads\"; OpenAI's research chief says \"anything that feels like an ad\" is now turned off (Matthias Bastian/The Decoder)",
+            "link": "http://www.techmeme.com/251206/p9#a251206p9",
+            "published": "Sat, 06 Dec 2025 15:35:01 -0500"
+        },
+        {
             "title": "A technical deep dive into Amazon's Trainium3 accelerator, including its server SKUs' specifications, silicon design, power budget, and bill of materials (SemiAnalysis)",
             "link": "http://www.techmeme.com/251206/p8#a251206p8",
             "published": "Sat, 06 Dec 2025 15:05:01 -0500"
@@ -19,11 +24,6 @@
             "title": "A look at Phreeli, a privacy-focused phone carrier that lets users sign up with only a ZIP code and uses an encryption system based on \"zero-knowledge proofs\" (Andy Greenberg/Wired)",
             "link": "http://www.techmeme.com/251206/p5#a251206p5",
             "published": "Sat, 06 Dec 2025 06:35:01 -0500"
-        },
-        {
-            "title": "A look at various quirks in AI-generated prose, mainly influenced by \"overfitting\" in AI models, as humans increasingly mimic AI language in writing and speech (Sam Kriss/New York Times)",
-            "link": "http://www.techmeme.com/251206/p4#a251206p4",
-            "published": "Sat, 06 Dec 2025 02:35:00 -0500"
         }
     ],
     "source_1": [
