@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A technical deep dive into Amazon's Trainium3 accelerator, including its server SKUs' specifications, silicon design, power budget, and bill of materials (SemiAnalysis)",
+            "link": "http://www.techmeme.com/251206/p8#a251206p8",
+            "published": "Sat, 06 Dec 2025 15:05:01 -0500"
+        },
+        {
             "title": "Sources: Apple's chip chief Johny Srouji told Tim Cook that he is seriously considering leaving soon; some execs floated elevating him to the CTO role (Mark Gurman/Bloomberg)",
             "link": "http://www.techmeme.com/251206/p7#a251206p7",
             "published": "Sat, 06 Dec 2025 12:35:00 -0500"
@@ -19,11 +24,6 @@
             "title": "A look at various quirks in AI-generated prose, mainly influenced by \"overfitting\" in AI models, as humans increasingly mimic AI language in writing and speech (Sam Kriss/New York Times)",
             "link": "http://www.techmeme.com/251206/p4#a251206p4",
             "published": "Sat, 06 Dec 2025 02:35:00 -0500"
-        },
-        {
-            "title": "Short seller Grizzly shorts London-listed Trustpilot, alleging the review site pressures businesses to pay for subscriptions; Trustpilot refutes the claims (Bloomberg)",
-            "link": "http://www.techmeme.com/251206/p3#a251206p3",
-            "published": "Sat, 06 Dec 2025 01:55:01 -0500"
         }
     ],
     "source_1": [
