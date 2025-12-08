@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "ICEBlock's developer sues the Trump administration in federal court for First Amendment violations after Apple removed its app following White House pressure (Bobby Allyn/NPR)",
+            "title": "Leaked letter: Tiger Global launches Private Investment Partners 17, a new fund targeting a raise between $2B and $3B, signaling a pivot away from megafunds (CNBC)",
+            "link": "http://www.techmeme.com/251208/p23#a251208p23",
+            "published": "Mon, 08 Dec 2025 11:30:00 -0500"
+        },
+        {
+            "title": "Internal memo: Johny Srouji, who oversees Apple's chip division, tells staff that \"I don't plan on leaving anytime soon\" (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/251208/p22#a251208p22",
+            "published": "Mon, 08 Dec 2025 11:25:02 -0500"
+        },
+        {
+            "title": "Sources: Skild AI, which develops a foundational model for robots, is in talks to raise $1B+ from SoftBank and Nvidia at a $14B valuation, up from $4.7B in July (Reuters)",
+            "link": "http://www.techmeme.com/251208/p21#a251208p21",
+            "published": "Mon, 08 Dec 2025 10:55:01 -0500"
+        },
+        {
+            "title": "ICEBlock's developer sues the Trump administration in federal court for violating the First Amendment, after Apple removed its app under White House pressure (Bobby Allyn/NPR)",
             "link": "http://www.techmeme.com/251208/p20#a251208p20",
             "published": "Mon, 08 Dec 2025 10:25:02 -0500"
         },
@@ -9,38 +24,23 @@
             "title": "Unconventional AI raised a $475M seed led by a16z and Lightspeed at a $4.5B valuation to build a more energy-efficient AI computer, part of an up to $1B round (Rachel Metz/Bloomberg)",
             "link": "http://www.techmeme.com/251208/p19#a251208p19",
             "published": "Mon, 08 Dec 2025 10:07:33 -0500"
-        },
-        {
-            "title": "Michael Saylor's Strategy acquired 10,624 bitcoin for $962.7M between December 1 and 7, its largest purchase since July; its stock is down ~40% in 2025 (James Hunt/The Block)",
-            "link": "http://www.techmeme.com/251208/p18#a251208p18",
-            "published": "Mon, 08 Dec 2025 09:30:01 -0500"
-        },
-        {
-            "title": "Paramount launches a hostile bid to acquire WBD, offering WBD shareholders $30/share in a $108.4B all-cash deal; sources say WBD rejected the same bid last week (CNBC)",
-            "link": "http://www.techmeme.com/251208/p17#a251208p17",
-            "published": "Mon, 08 Dec 2025 09:07:36 -0500"
-        },
-        {
-            "title": "India's Tata Electronics signs up Intel as the first prospective client for its upcoming chip facilities; Tata is investing ~$14B to build in Gujarat and Assam (Nandan Mandayam/Reuters)",
-            "link": "http://www.techmeme.com/251208/p16#a251208p16",
-            "published": "Mon, 08 Dec 2025 08:55:01 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "App That Tracks ICE Raids Sues U.S., Saying Officials Pressured Apple to Remove It",
+            "link": "https://www.nytimes.com/2025/12/08/business/apple-iceblock-lawsuit.html",
+            "published": "Mon, 08 Dec 2025 15:11:42 +0000"
+        },
+        {
+            "title": "How Stablecoins Can Help Criminals Launder Money and Evade Sanctions",
+            "link": "https://www.nytimes.com/2025/12/07/technology/how-a-cryptocurrency-helps-criminals-launder-money-and-evade-sanctions.html",
+            "published": "Sun, 07 Dec 2025 18:07:29 +0000"
+        },
+        {
             "title": "Netflix to Buy Warner Bros in $83 Billion Deal",
             "link": "https://www.nytimes.com/2025/12/05/business/warner-brothers-discovery-netflix.html",
             "published": "Fri, 05 Dec 2025 21:56:47 +0000"
-        },
-        {
-            "title": "EU Hits Elon Musk\u2019s X With $140 Million Fine",
-            "link": "https://www.nytimes.com/2025/12/05/technology/eu-elon-musk-x-140-million-fine.html",
-            "published": "Fri, 05 Dec 2025 18:57:54 +0000"
-        },
-        {
-            "title": "New York Times Sues A.I. Start-Up Perplexity Over Use of Copyrighted Work",
-            "link": "https://www.nytimes.com/2025/12/05/technology/new-york-times-perplexity-ai-lawsuit.html",
-            "published": "Fri, 05 Dec 2025 16:10:35 +0000"
         },
         {
             "title": "OpenAI Calls a \u2018Code Red\u2019 + Which Model Should I Use? + The Hard Fork Review of Slop",
@@ -48,9 +48,9 @@
             "published": "Fri, 05 Dec 2025 12:00:07 +0000"
         },
         {
-            "title": "App That Tracks ICE Raids Sues U.S., Saying Officials Pressured Apple to Remove It",
-            "link": "https://www.nytimes.com/2025/12/08/business/apple-iceblock-lawsuit.html",
-            "published": "Mon, 08 Dec 2025 15:11:41 +0000"
+            "title": "New Facial-Recognition Tech Could Let You Keep Your Passport in Your Pocket at the Airport",
+            "link": "https://www.nytimes.com/2025/12/08/travel/facial-recoginition-flights-airports-orlando.html",
+            "published": "Mon, 08 Dec 2025 10:03:05 +0000"
         }
     ],
     "source_2": [
