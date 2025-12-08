@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "An OpenAI survey of 9,000 workers at 100 companies: it saves workers ~40 to 60 minutes per day on average for professional tasks; OpenAI has 1M business clients (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/251208/p14#a251208p14",
+            "published": "Mon, 08 Dec 2025 07:30:00 -0500"
+        },
+        {
+            "title": "Netflix changed movie distribution and its executives now think that licensing shows leaves money on the table; YouTube may help Netflix's WBD antitrust case (Ben Thompson/Stratechery)",
+            "link": "http://www.techmeme.com/251208/p13#a251208p13",
+            "published": "Mon, 08 Dec 2025 07:15:00 -0500"
+        },
+        {
+            "title": "The EU says Meta agreed to make changes to its \"pay or consent\" model in the EU, including ad-lite Instagram and Facebook versions, but \"the case is not closed\" (Barbara Moens/Financial Times)",
+            "link": "http://www.techmeme.com/251208/p12#a251208p12",
+            "published": "Mon, 08 Dec 2025 07:02:07 -0500"
+        },
+        {
             "title": "Big Tech's AI data center plans, which are set to need an estimated 44GW of additional capacity by 2028, face a power crunch that could deflate the AI \"bubble\" (Financial Times)",
             "link": "http://www.techmeme.com/251208/p11#a251208p11",
             "published": "Mon, 08 Dec 2025 06:15:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Users of ByteDance's agentic AI phone Nubia M153 report that its Doubao assistant is blocked or limited by Tencent's WeChat, Alibaba's Taobao, and other apps (Cissy Zhou/Nikkei Asia)",
             "link": "http://www.techmeme.com/251208/p10#a251208p10",
             "published": "Mon, 08 Dec 2025 05:55:09 -0500"
-        },
-        {
-            "title": "Singapore-based banking and payments startup Airwallex raised $330M at an $8B valuation, after raising $300M at a $6.2B valuation in May, and plans a US HQ (Laith Al-Khalaf/Financial Times)",
-            "link": "http://www.techmeme.com/251208/p9#a251208p9",
-            "published": "Mon, 08 Dec 2025 05:40:07 -0500"
-        },
-        {
-            "title": "Binance receives three licenses from Abu Dhabi's financial regulator, allowing comprehensive operations across its exchange, clearing, and brokerage arms (Alex Dooler/Bloomberg)",
-            "link": "http://www.techmeme.com/251208/p8#a251208p8",
-            "published": "Mon, 08 Dec 2025 05:05:00 -0500"
-        },
-        {
-            "title": "Police in Edmonton, Canada partner with Axon to test body cameras with AI facial recognition, and say the results will be verified by human officers (Associated Press)",
-            "link": "http://www.techmeme.com/251208/p7#a251208p7",
-            "published": "Mon, 08 Dec 2025 04:45:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Elon Musk's X bans European Commission from making ads after \u20ac120m fine",
+            "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 08 Dec 2025 12:19:21 GMT"
+        },
+        {
             "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
             "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 08 Dec 2025 10:44:44 GMT"
@@ -73,11 +78,6 @@
             "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X",
             "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 05 Dec 2025 17:58:27 GMT"
-        },
-        {
-            "title": "Porn site fined \u00a31m over age checks has never responded to Ofcom",
-            "link": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Dec 2025 11:10:10 GMT"
         }
     ]
 }
