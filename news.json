@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Impressions from a test ride in London in a car using Wayve's self-driving tech; Wayve has raised $1.3B since launch and is testing cars with Level 2+ autonomy (John Thornhill/Financial Times)",
+            "link": "http://www.techmeme.com/251207/p14#a251207p14",
+            "published": "Sun, 07 Dec 2025 21:10:01 -0500"
+        },
+        {
+            "title": "President Trump says Netflix's planned acquisition of WBD will have \"to go through a process\" and he will be personally involved in the decision-making process (Bloomberg)",
+            "link": "http://www.techmeme.com/251207/p13#a251207p13",
+            "published": "Sun, 07 Dec 2025 19:00:13 -0500"
+        },
+        {
             "title": "An interview with Headspace CEO Tom Pickett on its AI chatbot Ebb, which he insists isn't for serious mental health issues, Ebb's upgrade to voice, and more (Emma Jacobs/Financial Times)",
             "link": "http://www.techmeme.com/251207/p12#a251207p12",
             "published": "Sun, 07 Dec 2025 17:40:00 -0500"
@@ -14,16 +24,6 @@
             "title": "Sources: Ted Sarandos met with President Trump in November, and both agreed WBD should go to the highest bidder; Sarandos argued that Netflix wasn't a monopoly (Lucas Shaw/Bloomberg)",
             "link": "http://www.techmeme.com/251207/p10#a251207p10",
             "published": "Sun, 07 Dec 2025 13:05:00 -0500"
-        },
-        {
-            "title": "Essential AI, whose CEO co-wrote Google's Attention Is All You Need paper, unveils Rnj-1, an 8B-parameter open model with SWE-bench performance close to GPT-4o (Ashish Vaswani/Essential AI)",
-            "link": "http://www.techmeme.com/251207/p9#a251207p9",
-            "published": "Sun, 07 Dec 2025 11:05:00 -0500"
-        },
-        {
-            "title": "Nikita Bier accuses the European Commission of trying to deceptively amplify the reach of its post about the \u20ac120M fine on X; X terminates the EC's ad account (Bjarke Smith-Meyer/Politico)",
-            "link": "http://www.techmeme.com/251207/p8#a251207p8",
-            "published": "Sun, 07 Dec 2025 10:05:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
+            "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 08 Dec 2025 02:16:15 GMT"
+        },
+        {
+            "title": "Japan is facing a dementia crisis \u2013 can technology help?",
+            "link": "https://www.bbc.com/news/articles/c4g9e34yzvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 08 Dec 2025 00:49:01 GMT"
+        },
+        {
             "title": "Twitch star QTCinderella says she wishes she never started streaming",
             "link": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 05 Dec 2025 22:32:29 GMT"
@@ -68,16 +78,6 @@
             "title": "Porn site fined \u00a31m over age checks has never responded to Ofcom",
             "link": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 04 Dec 2025 11:10:10 GMT"
-        },
-        {
-            "title": "New homes delayed by 'energy-hungry' data centres",
-            "link": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 03 Dec 2025 15:37:59 GMT"
-        },
-        {
-            "title": "Production halted at Chinese factory making 'childlike' sex dolls",
-            "link": "https://www.bbc.com/news/articles/ckgzqxjzjyqo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 03 Dec 2025 13:46:49 GMT"
         }
     ]
 }
