@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
+            "title": "Letterboxd plans to launch its Video Store film rental platform on December 10, offering curated indie titles in 23 countries, including the US, UK, and France (Todd Spangler/Variety)",
+            "link": "http://www.techmeme.com/251208/p36#a251208p36",
+            "published": "Mon, 08 Dec 2025 15:30:01 -0500"
+        },
+        {
+            "title": "Anthropic launches a Slack integration for Claude Code, expanding on the existing Claude app for Slack, launching in beta as a research preview (Kyt Dotson/SiliconANGLE)",
+            "link": "http://www.techmeme.com/251208/p35#a251208p35",
+            "published": "Mon, 08 Dec 2025 14:45:00 -0500"
+        },
+        {
+            "title": "Google details steps it is taking to secure Chrome's upcoming agentic browsing features, including a \"User Alignment Critic\" model that vets AI agent's actions (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/251208/p34#a251208p34",
+            "published": "Mon, 08 Dec 2025 14:35:41 -0500"
+        },
+        {
+            "title": "Uber launches Uber Intelligence, an insights platform that lets advertisers tap into Uber's data about customer trips and deliveries (Lara O'Reilly/Business Insider)",
+            "link": "http://www.techmeme.com/251208/p33#a251208p33",
+            "published": "Mon, 08 Dec 2025 14:25:05 -0500"
+        },
+        {
             "title": "OpenAI and Instacart launch a grocery shopping experience inside of ChatGPT, letting customers brainstorm meal ideas and check out via OpenAI Instant Checkout (Amanda Silberling/TechCrunch)",
             "link": "http://www.techmeme.com/251208/p32#a251208p32",
             "published": "Mon, 08 Dec 2025 14:15:06 -0500"
-        },
-        {
-            "title": "Apple and Google say they've developed new features that streamline the process of moving data between each platform as part of a joint collaboration (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/251208/p31#a251208p31",
-            "published": "Mon, 08 Dec 2025 14:05:54 -0500"
-        },
-        {
-            "title": "Samsung's Galaxy XR gets beta support for Google's realistic avatar system for video calls, a Travel Mode, and a built-in PC remote desktop feature (David Heaney/UploadVR)",
-            "link": "http://www.techmeme.com/251208/p30#a251208p30",
-            "published": "Mon, 08 Dec 2025 13:55:01 -0500"
-        },
-        {
-            "title": "An Airwallex executive warned in 2023 that China staff were pushing to access client data; Keith Rabois accuses Airwallex of enabling Chinese access to US data (Lucas Baird/Australian Financial Review)",
-            "link": "http://www.techmeme.com/251208/p29#a251208p29",
-            "published": "Mon, 08 Dec 2025 13:50:38 -0500"
-        },
-        {
-            "title": "Hands-on with Xreal's Project Aura prototype glasses: they feel like VR shrunken to a far smaller form, the 70\u00b0 FoV is small but enough for immersion, and more (Scott Stein/CNET)",
-            "link": "http://www.techmeme.com/251208/p28#a251208p28",
-            "published": "Mon, 08 Dec 2025 13:45:00 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
+            "link": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html",
+            "published": "Mon, 08 Dec 2025 17:34:53 +0000"
+        },
+        {
             "title": "App That Tracks ICE Raids Sues U.S., Saying Officials Pressured Apple to Remove It",
             "link": "https://www.nytimes.com/2025/12/08/business/apple-iceblock-lawsuit.html",
-            "published": "Mon, 08 Dec 2025 15:11:42 +0000"
+            "published": "Mon, 08 Dec 2025 19:40:04 +0000"
         },
         {
             "title": "How Stablecoins Can Help Criminals Launder Money and Evade Sanctions",
@@ -43,14 +48,9 @@
             "published": "Fri, 05 Dec 2025 21:56:47 +0000"
         },
         {
-            "title": "OpenAI Calls a \u2018Code Red\u2019 + Which Model Should I Use? + The Hard Fork Review of Slop",
-            "link": "https://www.nytimes.com/2025/12/05/podcasts/hardfork-openai-code-red.html",
-            "published": "Fri, 05 Dec 2025 12:00:07 +0000"
-        },
-        {
-            "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
-            "link": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html",
-            "published": "Mon, 08 Dec 2025 17:34:53 +0000"
+            "title": "New Facial-Recognition Tech Could Let You Keep Your Passport in Your Pocket at the Airport",
+            "link": "https://www.nytimes.com/2025/12/08/travel/facial-recoginition-flights-airports-orlando.html",
+            "published": "Mon, 08 Dec 2025 10:03:05 +0000"
         }
     ],
     "source_2": [
