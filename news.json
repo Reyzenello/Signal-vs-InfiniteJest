@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Big Tech's AI data center plans, which are set to need an estimated 44GW of additional capacity by 2028, face a power crunch that could deflate the AI \"bubble\" (Financial Times)",
+            "link": "http://www.techmeme.com/251208/p11#a251208p11",
+            "published": "Mon, 08 Dec 2025 06:15:01 -0500"
+        },
+        {
+            "title": "Users of ByteDance's agentic AI phone Nubia M153 report that its Doubao assistant is blocked or limited by Tencent's WeChat, Alibaba's Taobao, and other apps (Cissy Zhou/Nikkei Asia)",
+            "link": "http://www.techmeme.com/251208/p10#a251208p10",
+            "published": "Mon, 08 Dec 2025 05:55:09 -0500"
+        },
+        {
+            "title": "Singapore-based banking and payments startup Airwallex raised $330M at an $8B valuation, after raising $300M at a $6.2B valuation in May, and plans a US HQ (Laith Al-Khalaf/Financial Times)",
+            "link": "http://www.techmeme.com/251208/p9#a251208p9",
+            "published": "Mon, 08 Dec 2025 05:40:07 -0500"
+        },
+        {
             "title": "Binance receives three licenses from Abu Dhabi's financial regulator, allowing comprehensive operations across its exchange, clearing, and brokerage arms (Alex Dooler/Bloomberg)",
             "link": "http://www.techmeme.com/251208/p8#a251208p8",
             "published": "Mon, 08 Dec 2025 05:05:00 -0500"
@@ -9,21 +24,6 @@
             "title": "Police in Edmonton, Canada partner with Axon to test body cameras with AI facial recognition, and say the results will be verified by human officers (Associated Press)",
             "link": "http://www.techmeme.com/251208/p7#a251208p7",
             "published": "Mon, 08 Dec 2025 04:45:00 -0500"
-        },
-        {
-            "title": "Google says Gemini 3 Pro sets new vision AI benchmark records, including in complex visual reasoning, beating Claude Opus 4.5 and GPT-5.1 in some categories (Rohan Doshi/The Keyword)",
-            "link": "http://www.techmeme.com/251208/p6#a251208p6",
-            "published": "Mon, 08 Dec 2025 04:30:01 -0500"
-        },
-        {
-            "title": "An interview with 10 Kenyan AI annotators shows Chinese companies hire data labelers via opaque middleman networks and WhatsApp groups to avoid accountability (Rest of World)",
-            "link": "http://www.techmeme.com/251208/p5#a251208p5",
-            "published": "Mon, 08 Dec 2025 04:15:02 -0500"
-        },
-        {
-            "title": "Coinbase reopens app registrations in India after an over-two-year pause, letting users make crypto-to-crypto trades, and plans to open up crypto buying in 2026 (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/251208/p4#a251208p4",
-            "published": "Mon, 08 Dec 2025 04:00:45 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
             "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 08 Dec 2025 07:31:03 GMT"
+            "published": "Mon, 08 Dec 2025 10:44:44 GMT"
         },
         {
             "title": "Japan is facing a dementia crisis \u2013 can technology help?",
