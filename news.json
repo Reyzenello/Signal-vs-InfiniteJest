@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "After rallying early in 2025, Netflix shares have fallen 28% since the end of June amid concerns about its growth outlook and its costly pursuit of WBD (Bloomberg)",
-            "link": "http://www.techmeme.com/251208/p41#a251208p41",
-            "published": "Mon, 08 Dec 2025 18:05:49 -0500"
+            "title": "Sources: after the Netflix-WBD deal was announced, Larry Ellison called President Trump about how the transaction would hurt competition (Wall Street Journal)",
+            "link": "http://www.techmeme.com/251208/p48#a251208p48",
+            "published": "Mon, 08 Dec 2025 20:55:01 -0500"
         },
         {
-            "title": "The US CFTC launches a pilot program allowing BTC, ETH, and USDC to be used as collateral in US derivatives markets (CoinDesk)",
-            "link": "http://www.techmeme.com/251208/p40#a251208p40",
-            "published": "Mon, 08 Dec 2025 17:55:03 -0500"
+            "title": "The US FDA qualifies the first AI drug development tool, AIM-NASH, to help doctors assess a severe form of fatty liver disease in drug trials (Sahil Pandey/Reuters)",
+            "link": "http://www.techmeme.com/251208/p47#a251208p47",
+            "published": "Mon, 08 Dec 2025 20:10:00 -0500"
         },
         {
-            "title": "The CTO of Amazon's Zoox says the company plans to start charging for rides in Las Vegas in early 2026 and is focused on transporting people, not deliveries (Amanda Gerut/Fortune)",
-            "link": "http://www.techmeme.com/251208/p39#a251208p39",
-            "published": "Mon, 08 Dec 2025 17:25:00 -0500"
+            "title": "David Sacks says AI preemption won't apply to state laws on child safety, communities won't be forced to host data centers they don't want, and more (David Sacks/@davidsacks)",
+            "link": "http://www.techmeme.com/251208/p46#a251208p46",
+            "published": "Mon, 08 Dec 2025 19:55:01 -0500"
         },
         {
-            "title": "Trump says the US will allow Nvidia to ship H200 chips to \"approved customers\" in China and elsewhere, and 25% of the chip sales will be paid to the US (Kevin Breuninger/CNBC)",
-            "link": "http://www.techmeme.com/251208/p38#a251208p38",
-            "published": "Mon, 08 Dec 2025 16:55:05 -0500"
+            "title": "President Trump says the \"same approach\" used to let Nvidia ship H200 chips to China will also apply to \"AMD, Intel, and other GREAT American Companies\" (Reuters)",
+            "link": "http://www.techmeme.com/251208/p45#a251208p45",
+            "published": "Mon, 08 Dec 2025 19:40:01 -0500"
         },
         {
-            "title": "TikTok announces Shared Collection, to organize and share saved videos, and plans to launch Shared Feed, a daily curated selection of 15 videos, globally (Lawrence Bonk/Engadget)",
-            "link": "http://www.techmeme.com/251208/p37#a251208p37",
-            "published": "Mon, 08 Dec 2025 16:20:59 -0500"
+            "title": "Filing: HashKey, Hong Kong's largest licensed crypto exchange, is aiming to raise up to ~$215M in its IPO in the city (Kumar Tanishk/Reuters)",
+            "link": "http://www.techmeme.com/251208/p44#a251208p44",
+            "published": "Mon, 08 Dec 2025 19:06:04 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "A.I. Videos Have Flooded Social Media. No One Was Ready.",
+            "link": "https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html",
+            "published": "Mon, 08 Dec 2025 19:03:40 +0000"
+        },
         {
             "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China",
             "link": "https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html",
@@ -35,17 +40,12 @@
         {
             "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
             "link": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html",
-            "published": "Mon, 08 Dec 2025 21:23:47 +0000"
+            "published": "Tue, 09 Dec 2025 00:54:41 +0000"
         },
         {
             "title": "App That Tracks ICE Raids Sues U.S., Saying Officials Pressured Apple to Remove It",
             "link": "https://www.nytimes.com/2025/12/08/business/apple-iceblock-lawsuit.html",
             "published": "Mon, 08 Dec 2025 22:32:37 +0000"
-        },
-        {
-            "title": "How Stablecoins Can Help Criminals Launder Money and Evade Sanctions",
-            "link": "https://www.nytimes.com/2025/12/07/technology/how-a-cryptocurrency-helps-criminals-launder-money-and-evade-sanctions.html",
-            "published": "Sun, 07 Dec 2025 18:07:29 +0000"
         },
         {
             "title": "New Facial-Recognition Tech Could Let You Keep Your Passport in Your Pocket at the Airport",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
+            "link": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 09 Dec 2025 02:13:58 GMT"
+        },
         {
             "title": "Elon Musk's X bans European Commission from making ads after \u20ac120m fine",
             "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Twitch star QTCinderella says she wishes she never started streaming",
             "link": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 05 Dec 2025 22:32:29 GMT"
-        },
-        {
-            "title": "US hits out at EU's 'suffocating regulations' after it fines Elon Musk's X",
-            "link": "https://www.bbc.com/news/articles/c4g9kejzvw0o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 05 Dec 2025 17:58:27 GMT"
         }
     ]
 }
