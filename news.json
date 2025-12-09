@@ -1,41 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Some Biden-era officials say access to Nvidia chips could help China's AI companies buy time while China's chip makers improve their chips' performance (Meaghan Tobin/New York Times)",
-            "link": "http://www.techmeme.com/251209/p26#a251209p26",
-            "published": "Tue, 09 Dec 2025 11:15:01 -0500"
+            "title": "Spanish police arrest a suspected 19-year-old hacker in Barcelona over allegedly stealing and attempting to sell 64M records from breaches at nine companies (Bill Toulas/BleepingComputer)",
+            "link": "http://www.techmeme.com/251209/p31#a251209p31",
+            "published": "Tue, 09 Dec 2025 12:25:01 -0500"
         },
         {
-            "title": "Stripe and Paradigm launch a public trial for their blockchain project Tempo, targeting real-world stablecoin payments, with Kalshi and UBS as new partners (Bloomberg)",
-            "link": "http://www.techmeme.com/251209/p25#a251209p25",
-            "published": "Tue, 09 Dec 2025 11:00:50 -0500"
+            "title": "Anthropic, OpenAI, Block, Google, AWS, Microsoft, and others launch the Agentic AI Foundation to build open-source agent standards under the Linux Foundation (Will Knight/Wired)",
+            "link": "http://www.techmeme.com/251209/p30#a251209p30",
+            "published": "Tue, 09 Dec 2025 12:20:00 -0500"
         },
         {
-            "title": "Mistral launches Devstral 2, a coding model with 123B parameters requiring at least four H100 GPUs, and a 24B parameter Devstral Small for local deployment (Anna Heim/TechCrunch)",
-            "link": "http://www.techmeme.com/251209/p24#a251209p24",
-            "published": "Tue, 09 Dec 2025 10:55:03 -0500"
+            "title": "Circle launches USDCx, a privacy-focused version of its USDC stablecoin on the Aleo blockchain, to give users \"banking-level privacy\" with a \"compliance record\" (Ben Weiss/Fortune)",
+            "link": "http://www.techmeme.com/251209/p29#a251209p29",
+            "published": "Tue, 09 Dec 2025 12:10:02 -0500"
         },
         {
-            "title": "Wikimedia Foundation names Bernadette Meehan, who was the US Ambassador to Chile from 2022 to 2025, as its new CEO (Deborah Mary Sophia/Reuters)",
-            "link": "http://www.techmeme.com/251209/p23#a251209p23",
-            "published": "Tue, 09 Dec 2025 10:45:02 -0500"
+            "title": "An EssilorLuxottica independent board director says Meta now holds an \"at least 3%\" stake in the Ray-Ban maker, and possibly up to 5%, confirming media reports (Mathieu Rosemain/Reuters)",
+            "link": "http://www.techmeme.com/251209/p28#a251209p28",
+            "published": "Tue, 09 Dec 2025 12:00:51 -0500"
         },
         {
-            "title": "Saviynt, an identity and access management service focused on \"human and nonhuman\" identity controls, raised a $700M Series B led by KKR at a $3B valuation (Angus Loten/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251209/p22#a251209p22",
-            "published": "Tue, 09 Dec 2025 10:40:13 -0500"
+            "title": "The US DOD says it has chosen Google's new GenAI.mil platform to help the US military quickly analyze video and imagery, as part of a $200M contract from July (Jen Judson/Bloomberg)",
+            "link": "http://www.techmeme.com/251209/p27#a251209p27",
+            "published": "Tue, 09 Dec 2025 11:55:08 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "China\u2019s Access to Powerful Nvidia Chips Comes at \u2018Critical Moment\u2019",
-            "link": "https://www.nytimes.com/2025/12/09/business/china-gains-trump-nvidia-chips.html",
-            "published": "Tue, 09 Dec 2025 15:13:45 +0000"
+            "title": "Why the A.I. Boom Is Unlike the Dot-Com Boom",
+            "link": "https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html",
+            "published": "Tue, 09 Dec 2025 16:31:38 +0000"
         },
         {
-            "title": "A.I. Videos Have Flooded Social Media. No One Was Ready.",
-            "link": "https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html",
-            "published": "Mon, 08 Dec 2025 19:03:40 +0000"
+            "title": "Trump Eases Limits on Nvidia Exports to China at \u2018Critical Moment\u2019",
+            "link": "https://www.nytimes.com/2025/12/09/business/china-gains-trump-nvidia-chips.html",
+            "published": "Tue, 09 Dec 2025 17:08:21 +0000"
         },
         {
             "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China",
@@ -43,14 +43,14 @@
             "published": "Mon, 08 Dec 2025 22:30:02 +0000"
         },
         {
-            "title": "Who Is Andrew Ferguson, the FTC Chairman Who Tilted the Agency to Trump?",
-            "link": "https://www.nytimes.com/2025/12/08/technology/ftc-andrew-ferguson-regulator.html",
-            "published": "Tue, 09 Dec 2025 00:54:41 +0000"
+            "title": "A.I. Videos Have Flooded Social Media. No One Was Ready.",
+            "link": "https://www.nytimes.com/2025/12/08/technology/ai-slop-sora-social-media.html",
+            "published": "Mon, 08 Dec 2025 19:03:40 +0000"
         },
         {
-            "title": "Why the A.I. Boom Is Unlike the Dot-Com Boom",
-            "link": "https://www.nytimes.com/2025/12/09/technology/ai-boom-unlike-dot-com-boom.html",
-            "published": "Tue, 09 Dec 2025 16:31:38 +0000"
+            "title": "How Art Is Driving Waymo\u2019s Feel-Good Branding",
+            "link": "https://www.nytimes.com/2025/12/09/arts/design/waymo-cars-artists.html",
+            "published": "Tue, 09 Dec 2025 10:02:39 +0000"
         }
     ],
     "source_2": [
