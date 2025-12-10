@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Survey of 1,458 US teens: 64% use AI chatbots, and 28% use them daily; 59% say they use ChatGPT, 23% Gemini, 20% Meta AI, 14% Copilot, and 9% Character.ai (Pew Research Center)",
+            "link": "http://www.techmeme.com/251210/p12#a251210p12",
+            "published": "Wed, 10 Dec 2025 02:40:03 -0500"
+        },
+        {
             "title": "Nexperia's former CEO Frans Scheper says Wingtech, which bought the Dutch chipmaker in 2019, quickly plotted to send Nexperia's research and IP to China (New York Times)",
             "link": "http://www.techmeme.com/251210/p11#a251210p11",
             "published": "Wed, 10 Dec 2025 02:30:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Amazon will invest $35B+ in India's cloud and AI sector by 2030, adding to the ~$40B it has invested in the country, and says the plan will create 1M more jobs (Dylan Butts/CNBC)",
             "link": "http://www.techmeme.com/251210/p8#a251210p8",
             "published": "Wed, 10 Dec 2025 02:10:01 -0500"
-        },
-        {
-            "title": "Chinese state-backed chipmaker Hygon, which makes server CPUs, calls off merger with its top shareholder and server maker Sugon; the merger was announced in May (Wataru Suzuki/Nikkei Asia)",
-            "link": "http://www.techmeme.com/251210/p7#a251210p7",
-            "published": "Wed, 10 Dec 2025 02:00:41 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,16 @@
             "published": "Wed, 10 Dec 2025 00:04:38 GMT"
         },
         {
+            "title": "Kids locked out of social media apps after Australia's world-first ban",
+            "link": "https://www.bbc.com/news/articles/cgl6gkd7pz6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 10 Dec 2025 05:05:52 GMT"
+        },
+        {
+            "title": "Amazon, Microsoft pledge mega AI investments in India",
+            "link": "https://www.bbc.com/news/articles/c3w79pgn8peo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 10 Dec 2025 07:50:12 GMT"
+        },
+        {
             "title": "Google unveils plans to try again with smart glasses in 2026",
             "link": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 09 Dec 2025 16:34:53 GMT"
@@ -68,16 +78,6 @@
             "title": "EU investigates Google over AI-generated summaries in search results",
             "link": "https://www.bbc.com/news/articles/crl95eg33k1o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 09 Dec 2025 13:24:15 GMT"
-        },
-        {
-            "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
-            "link": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 09 Dec 2025 02:13:58 GMT"
-        },
-        {
-            "title": "Elon Musk's X bans European Commission from making ads after \u20ac120m fine",
-            "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 08 Dec 2025 12:19:21 GMT"
         }
     ]
 }
