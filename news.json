@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Google adds new pinch and wrist gestures to the Pixel Watch 4 and says Watch 3 and Watch 4 will now use an on-device Gemma-based AI model for Smart Replies (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/251209/p48#a251209p48",
-            "published": "Tue, 09 Dec 2025 18:10:00 -0500"
+            "title": "Sources: China added AI chips from Chinese groups to its government-approved list of suppliers for the first time, before Trump's move to allow Nvidia exports (Zijing Wu/Financial Times)",
+            "link": "http://www.techmeme.com/251209/p54#a251209p54",
+            "published": "Tue, 09 Dec 2025 20:25:01 -0500"
         },
         {
-            "title": "Report: SpaceX is expected to make around $15B in revenue in 2025, increasing to between $22B and $24B in 2026, with the majority coming from Starlink (Juby Babu/Reuters)",
-            "link": "http://www.techmeme.com/251209/p47#a251209p47",
-            "published": "Tue, 09 Dec 2025 17:50:00 -0500"
+            "title": "Sources: at a November meeting in the Oval Office, Jensen Huang told President Trump that a flurry of state AI laws could cause the US to lose the AI race (Wall Street Journal)",
+            "link": "http://www.techmeme.com/251209/p53#a251209p53",
+            "published": "Tue, 09 Dec 2025 20:15:01 -0500"
         },
         {
-            "title": "The US Navy and Palantir announce ShipOS, saying the software will speed up shipbuilding and improve supply chain visibility; the deal is valued at $448M (Colin Demarest/Axios)",
-            "link": "http://www.techmeme.com/251209/p46#a251209p46",
-            "published": "Tue, 09 Dec 2025 17:40:01 -0500"
+            "title": "Study: ~200 Instacart shoppers across four cities saw different prices for the same item from the same store at the same time; Instacart says it's running tests (Ben Casselman/New York Times)",
+            "link": "http://www.techmeme.com/251209/p52#a251209p52",
+            "published": "Tue, 09 Dec 2025 19:45:00 -0500"
         },
         {
-            "title": "Justin McLeod, founder and CEO of Hinge, steps down to launch Overtone, an \"AI-driven\" dating service backed by Match; Hinge promotes CMO Jackie Jantos to CEO (Yasmin Gagne/Fast Company)",
-            "link": "http://www.techmeme.com/251209/p45#a251209p45",
-            "published": "Tue, 09 Dec 2025 17:20:05 -0500"
+            "title": "PubMatic partners with Kontext to let advertisers choose the chatbots they'd like to appear in and use Kontext's tech to generate ads that fit the chatbot chats (Kendra Barnett/Adweek)",
+            "link": "http://www.techmeme.com/251209/p51#a251209p51",
+            "published": "Tue, 09 Dec 2025 19:25:01 -0500"
         },
         {
-            "title": "Sources: Nvidia's H200 chips for China, mainly manufactured in Taiwan, will travel to the US for an unusual national security review before they are exported (Wall Street Journal)",
-            "link": "http://www.techmeme.com/251209/p44#a251209p44",
-            "published": "Tue, 09 Dec 2025 17:00:41 -0500"
+            "title": "Chinese AI startup Z.ai releases the GLM-4.6V open-weight vision models, with support for native function calling, available with 106B and 9B parameters (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/251209/p50#a251209p50",
+            "published": "Tue, 09 Dec 2025 19:15:01 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Trump Eases Limits on Nvidia Exports to China at \u2018Critical Moment\u2019",
             "link": "https://www.nytimes.com/2025/12/09/business/china-gains-trump-nvidia-chips.html",
-            "published": "Tue, 09 Dec 2025 17:08:21 +0000"
+            "published": "Wed, 10 Dec 2025 01:51:04 +0000"
         },
         {
             "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China",
@@ -48,12 +48,17 @@
             "published": "Mon, 08 Dec 2025 19:03:40 +0000"
         },
         {
-            "title": "Some Teens Are on Social Media \u2018Almost Constantly,\u2019 Survey Says",
-            "link": "https://www.nytimes.com/2025/12/09/well/family/tik-tok-you-tube-teen-use-pew-study.html",
-            "published": "Tue, 09 Dec 2025 20:06:31 +0000"
+            "title": "Trump\u2019s Nvidia Chip Deal Reverses Decades of Technology Restrictions",
+            "link": "https://www.nytimes.com/2025/12/09/us/politics/trump-nvidia-ai-chips-china.html",
+            "published": "Wed, 10 Dec 2025 01:21:14 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "UK spending half an hour longer online than in pandemic, says Ofcom",
+            "link": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 10 Dec 2025 00:04:38 GMT"
+        },
         {
             "title": "Google unveils plans to try again with smart glasses in 2026",
             "link": "https://www.bbc.com/news/articles/cwyx83n00k6o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Elon Musk's X bans European Commission from making ads after \u20ac120m fine",
             "link": "https://www.bbc.com/news/articles/c0589g0dqq7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 08 Dec 2025 12:19:21 GMT"
-        },
-        {
-            "title": "Trump says $72bn Netflix-Warner Bros deal 'could be a problem'",
-            "link": "https://www.bbc.com/news/articles/cn815egjqjpo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 08 Dec 2025 10:44:44 GMT"
         }
     ]
 }
