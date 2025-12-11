@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and unveils a workflow automation agent (Alex Konrad/Upstarts Media)",
+            "link": "http://www.techmeme.com/251211/p28#a251211p28",
+            "published": "Thu, 11 Dec 2025 11:25:00 -0500"
+        },
+        {
+            "title": "Cursor launches Visual Editor, a vibe-coding product for designers that integrates professional design controls with natural language editing via Cursor's agent (Maxwell Zeff/Wired)",
+            "link": "http://www.techmeme.com/251211/p27#a251211p27",
+            "published": "Thu, 11 Dec 2025 11:15:02 -0500"
+        },
+        {
+            "title": "Berlin-based LI.FI, which provides businesses with price comparisons of crypto exchange rates and bridging fees, raised $29M, taking its total funding to ~$52M (Carlos Garcia/Fortune)",
+            "link": "http://www.techmeme.com/251211/p26#a251211p26",
+            "published": "Thu, 11 Dec 2025 10:50:01 -0500"
+        },
+        {
             "title": "AT&T launches Connected Life, a smart home security system with hardware from Google and Abode, designed to keep working during power or internet outages (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/251211/p25#a251211p25",
             "published": "Thu, 11 Dec 2025 10:30:00 -0500"
@@ -9,21 +24,6 @@
             "title": "Disney sends Google a cease-and-desist, accusing Google of copyright infringement on a \"massive scale\" and using AI to \"exploit and distribute\" the content (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/251211/p24#a251211p24",
             "published": "Thu, 11 Dec 2025 09:58:42 -0500"
-        },
-        {
-            "title": "Stanford researchers develop AI hacking bot Artemis and say it surpassed nine out of 10 penetration testers by rapidly finding bugs in the university's network (Robert McMillan/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251211/p23#a251211p23",
-            "published": "Thu, 11 Dec 2025 09:20:02 -0500"
-        },
-        {
-            "title": "Disney and OpenAI sign a three-year deal to bring 200+ Disney characters to Sora; Disney makes a $1B investment in OpenAI and will become a major OpenAI client (OpenAI)",
-            "link": "http://www.techmeme.com/251211/p22#a251211p22",
-            "published": "Thu, 11 Dec 2025 09:05:03 -0500"
-        },
-        {
-            "title": "Study: 15 TikTok accounts posting AI videos of sexualized underage girls have nearly 300K followers; TikTok says that 14 of the accounts don't violate its rules (Clare Duffy/CNN)",
-            "link": "http://www.techmeme.com/251211/p21#a251211p21",
-            "published": "Thu, 11 Dec 2025 08:50:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
+            "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 11 Dec 2025 16:00:08 GMT"
+        },
+        {
             "title": "'Architects of AI' named Time Magazine's Person of the Year",
             "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 11 Dec 2025 13:52:11 GMT"
@@ -62,7 +67,7 @@
         {
             "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
             "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 11 Dec 2025 07:08:49 GMT"
+            "published": "Thu, 11 Dec 2025 16:24:20 GMT"
         },
         {
             "title": "Porn company starts new age checks after \u00a31m Ofcom fine",
@@ -73,11 +78,6 @@
             "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
             "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 10 Dec 2025 12:14:14 GMT"
-        },
-        {
-            "title": "People spending even more time online now than during the pandemic",
-            "link": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 10 Dec 2025 00:04:38 GMT"
         }
     ]
 }
