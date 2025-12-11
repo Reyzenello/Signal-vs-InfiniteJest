@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and unveils a workflow automation agent (Alex Konrad/Upstarts Media)",
+            "title": "Rivian says it is building its own 5nm AI chip called the Rivian Autonomy Processor and a foundational \"Large Driving Model\", to enable fully autonomous driving (Andrew J. Hawkins/The Verge)",
+            "link": "http://www.techmeme.com/251211/p32#a251211p32",
+            "published": "Thu, 11 Dec 2025 12:30:02 -0500"
+        },
+        {
+            "title": "Runway launches GWM-1, its first world model, which uses frame-by-frame prediction to simulate physics, and updates Gen 4.5 to add native audio and more (TechCrunch)",
+            "link": "http://www.techmeme.com/251211/p31#a251211p31",
+            "published": "Thu, 11 Dec 2025 12:20:04 -0500"
+        },
+        {
+            "title": "The OpenAI deal gives Disney a fair amount of oversight and control over how its IP is used, including a joint steering committee to monitor user creations (Axios)",
+            "link": "http://www.techmeme.com/251211/p30#a251211p30",
+            "published": "Thu, 11 Dec 2025 12:00:51 -0500"
+        },
+        {
+            "title": "Palantir expands its Percepta lawsuit, accusing Percepta's co-founders of poaching its workers and customers, and another employee of stealing confidential docs (Victoria Albert/Wall Street Journal)",
+            "link": "http://www.techmeme.com/251211/p29#a251211p29",
+            "published": "Thu, 11 Dec 2025 11:45:01 -0500"
+        },
+        {
+            "title": "Worktrace AI, founded by ex-OpenAI product lead Angela Jiang and researcher Deepak Vasisht, launches with a $9.3M seed, and releases a workflow automation agent (Alex Konrad/Upstarts Media)",
             "link": "http://www.techmeme.com/251211/p28#a251211p28",
             "published": "Thu, 11 Dec 2025 11:25:00 -0500"
-        },
-        {
-            "title": "Cursor launches Visual Editor, a vibe-coding product for designers that integrates professional design controls with natural language editing via Cursor's agent (Maxwell Zeff/Wired)",
-            "link": "http://www.techmeme.com/251211/p27#a251211p27",
-            "published": "Thu, 11 Dec 2025 11:15:02 -0500"
-        },
-        {
-            "title": "Berlin-based LI.FI, which provides businesses with price comparisons of crypto exchange rates and bridging fees, raised $29M, taking its total funding to ~$52M (Carlos Garcia/Fortune)",
-            "link": "http://www.techmeme.com/251211/p26#a251211p26",
-            "published": "Thu, 11 Dec 2025 10:50:01 -0500"
-        },
-        {
-            "title": "AT&T launches Connected Life, a smart home security system with hardware from Google and Abode, designed to keep working during power or internet outages (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/251211/p25#a251211p25",
-            "published": "Thu, 11 Dec 2025 10:30:00 -0500"
-        },
-        {
-            "title": "Disney sends Google a cease-and-desist, accusing Google of copyright infringement on a \"massive scale\" and using AI to \"exploit and distribute\" the content (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/251211/p24#a251211p24",
-            "published": "Thu, 11 Dec 2025 09:58:42 -0500"
         }
     ],
     "source_1": [
