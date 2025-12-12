@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Sam Altman's World updates its app to make it a \"super app\" with encrypted chat integration and a Venmo-like tool for sending and requesting crypto (Lucas Ropek/TechCrunch)",
+            "title": "Sources: Oracle has pushed back completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/251212/p17#a251212p17",
+            "published": "Fri, 12 Dec 2025 11:17:29 -0500"
+        },
+        {
+            "title": "Kalshi integrates its event trading platform into the popular crypto wallet Phantom; Dune: in November, Kalshi's trading volume hit $5.8B vs. Polymarket's $3.7B (Nina Bambysheva/Forbes)",
+            "link": "http://www.techmeme.com/251212/p16#a251212p16",
+            "published": "Fri, 12 Dec 2025 11:10:00 -0500"
+        },
+        {
+            "title": "YouTube launches an option for US-based creators to receive payouts in PayPal's stablecoin, PYUSD (Ben Weiss/Fortune)",
+            "link": "http://www.techmeme.com/251212/p15#a251212p15",
+            "published": "Fri, 12 Dec 2025 11:00:57 -0500"
+        },
+        {
+            "title": "Sam Altman's Tools for Humanity updates World to make it a \"super app\" with encrypted chat integration and a Venmo-like tool for sending and requesting crypto (Lucas Ropek/TechCrunch)",
             "link": "http://www.techmeme.com/251212/p14#a251212p14",
             "published": "Fri, 12 Dec 2025 10:25:02 -0500"
         },
@@ -9,24 +24,14 @@
             "title": "Trump's AI executive order directs federal agencies to look into withholding federal funding from states passing \"the most onerous and excessive laws\" around AI (Gerrit De Vynck/Washington Post)",
             "link": "http://www.techmeme.com/251212/p13#a251212p13",
             "published": "Fri, 12 Dec 2025 09:50:21 -0500"
-        },
-        {
-            "title": "[Thread] Substack quietly added a feature that forced subscribers to download the app to read full newsletters but say they've rolled it back after complaints (Gergely Orosz/@gergelyorosz)",
-            "link": "http://www.techmeme.com/251212/p12#a251212p12",
-            "published": "Fri, 12 Dec 2025 09:40:01 -0500"
-        },
-        {
-            "title": "Serval, which offers an AI assistant for IT, HR, legal, and finance, raised a $75M Series B led by Sequoia at a $1B valuation, taking its total funding to $127M (Reuters)",
-            "link": "http://www.techmeme.com/251212/p11#a251212p11",
-            "published": "Fri, 12 Dec 2025 09:15:00 -0500"
-        },
-        {
-            "title": "Switzerland launches a preliminary investigation into whether Apple's terms for granting third-party access to NFC tech on iPhones violate its antitrust laws (Tim Hardwick/MacRumors)",
-            "link": "http://www.techmeme.com/251212/p10#a251212p10",
-            "published": "Fri, 12 Dec 2025 08:55:26 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk Tests Europe\u2019s Willingness to Enforce Its Online Laws",
+            "link": "https://www.nytimes.com/2025/12/12/technology/elon-musk-europe.html",
+            "published": "Fri, 12 Dec 2025 14:00:08 +0000"
+        },
         {
             "title": "Can OpenAI Respond After Google Closes the A.I. Technology Gap?",
             "link": "https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html",
@@ -38,19 +43,14 @@
             "published": "Thu, 11 Dec 2025 19:40:05 +0000"
         },
         {
-            "title": "Meta\u2019s New A.I. Superstars Are Chafing Against the Rest of the Company",
-            "link": "https://www.nytimes.com/2025/12/10/technology/meta-ai-tbd-lab-friction.html",
-            "published": "Wed, 10 Dec 2025 15:16:23 +0000"
+            "title": "Australia Kicks Kids Off Social Media + Is the A.I. Water Issue Fake? + Hard Fork Wrapped",
+            "link": "https://www.nytimes.com/2025/12/12/podcasts/hardfork-australia-water.html",
+            "published": "Fri, 12 Dec 2025 12:00:08 +0000"
         },
         {
-            "title": "Does the Job of C.E.O. or Private Investor Come First? Intel\u2019s Chief Is Juggling That Question.",
-            "link": "https://www.nytimes.com/2025/12/10/technology/lip-bu-tan-intel-ceo-investor.html",
-            "published": "Wed, 10 Dec 2025 10:03:15 +0000"
-        },
-        {
-            "title": "Elon Musk Tests Europe\u2019s Willingness to Enforce Its Online Laws",
-            "link": "https://www.nytimes.com/2025/12/12/technology/elon-musk-europe.html",
-            "published": "Fri, 12 Dec 2025 14:00:08 +0000"
+            "title": "Harold Hamm, Oklahoma Oil Tycoon, Allies With Trump to Reshape U.S. Energy",
+            "link": "https://www.nytimes.com/2025/12/12/business/energy-environment/trump-harold-hamm-oil-gas.html",
+            "published": "Fri, 12 Dec 2025 15:00:03 +0000"
         }
     ],
     "source_2": [
