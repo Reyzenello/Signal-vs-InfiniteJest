@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "New White House guidance says AI models procured by federal agencies must have \"unbiased AI principles\" and ensure \"truth-seeking\" and \"ideological neutrality\" (Maria Curi/Axios)",
+            "title": "xAI partners with El Salvador to deploy Grok across 5,000+ public schools, reaching 1M+ students in an \"AI-powered education program\" over the next two years (Dara Kerr/The Guardian)",
+            "link": "http://www.techmeme.com/251211/p52#a251211p52",
+            "published": "Thu, 11 Dec 2025 20:50:01 -0500"
+        },
+        {
+            "title": "On OpenAI's 10th anniversary, Sam Altman reflects on \"a decade of breakthroughs, learnings, and the path toward AGI that benefits all of humanity\" (OpenAI)",
+            "link": "http://www.techmeme.com/251211/p51#a251211p51",
+            "published": "Thu, 11 Dec 2025 19:55:02 -0500"
+        },
+        {
+            "title": "Broadcom CEO Hock Tan reveals that Anthropic placed a $10B order for Google's Ironwood TPU racks in Q3 and says it placed an additional $11B order in Q4 (CNBC)",
+            "link": "http://www.techmeme.com/251211/p50#a251211p50",
+            "published": "Thu, 11 Dec 2025 19:35:14 -0500"
+        },
+        {
+            "title": "President Trump signs an executive order aimed at preempting a growing number of state AI laws, saying \"we want to have one central source of approval\" (Reuters)",
+            "link": "http://www.techmeme.com/251211/p49#a251211p49",
+            "published": "Thu, 11 Dec 2025 18:55:01 -0500"
+        },
+        {
+            "title": "New US OMB guidance states that LLMs procured by federal agencies must comply with two \"unbiased AI principles\": \"truth-seeking\" and \"ideological neutrality\" (Maria Curi/Axios)",
             "link": "http://www.techmeme.com/251211/p48#a251211p48",
             "published": "Thu, 11 Dec 2025 18:05:01 -0500"
-        },
-        {
-            "title": "A US judge sentences Terraform Labs co-founder Do Kwon to 15 years in prison; Kwon pleaded guilty to conspiracy and wire fraud charges in August (Cheyenne Ligon/CoinDesk)",
-            "link": "http://www.techmeme.com/251211/p47#a251211p47",
-            "published": "Thu, 11 Dec 2025 17:15:01 -0500"
-        },
-        {
-            "title": "Broadcom reports Q4 revenue up 28% YoY to $18.02B, vs. $17.49B est., and forecasts Q1 revenue above estimates, with AI chip sales doubling to $8.2B (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/251211/p46#a251211p46",
-            "published": "Thu, 11 Dec 2025 16:25:02 -0500"
-        },
-        {
-            "title": "Sources: the NY governor proposes a rewrite of the RAISE Act, the AI bill that recently passed NY legislature, with text copied verbatim from California's SB 53 (Shakeel Hashim/Transformer)",
-            "link": "http://www.techmeme.com/251211/p45#a251211p45",
-            "published": "Thu, 11 Dec 2025 16:20:00 -0500"
-        },
-        {
-            "title": "A US appeals court upholds a contempt ruling in Epic v. Apple but says Apple can charge commissions on external links, with the rate to be set by a lower court (Bloomberg)",
-            "link": "http://www.techmeme.com/251211/p44#a251211p44",
-            "published": "Thu, 11 Dec 2025 15:45:00 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Can OpenAI Respond After Google Closes the A.I. Technology Gap?",
             "link": "https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html",
-            "published": "Thu, 11 Dec 2025 19:58:47 +0000"
+            "published": "Fri, 12 Dec 2025 00:52:41 +0000"
         },
         {
             "title": "Disney Agrees to Bring Its Characters to OpenAI\u2019s Sora Videos",
@@ -48,16 +48,26 @@
             "published": "Wed, 10 Dec 2025 10:03:15 +0000"
         },
         {
-            "title": "Do Kwon, Crypto Entrepreneur Who Caused 2022 Crash, Sentenced to 15 Years",
-            "link": "https://www.nytimes.com/2025/12/11/technology/crypto-do-kwon-sentenced-prison.html",
-            "published": "Thu, 11 Dec 2025 22:54:51 +0000"
+            "title": "Trump Moves to Stop States From Regulating AI With a New Executive Order",
+            "link": "https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html",
+            "published": "Fri, 12 Dec 2025 02:08:47 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
+            "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Dec 2025 00:21:41 GMT"
+        },
+        {
             "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
             "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 11 Dec 2025 18:44:14 GMT"
+        },
+        {
+            "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
+            "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Dec 2025 00:02:02 GMT"
         },
         {
             "title": "'Architects of AI' named Time Magazine's Person of the Year",
@@ -68,16 +78,6 @@
             "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
             "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 11 Dec 2025 16:24:20 GMT"
-        },
-        {
-            "title": "Porn company starts new age checks after \u00a31m Ofcom fine",
-            "link": "https://www.bbc.com/news/articles/c0mpx9yn831o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 10 Dec 2025 14:05:23 GMT"
-        },
-        {
-            "title": "McDonald's Netherlands pulls AI Christmas ad after backlash",
-            "link": "https://www.bbc.com/news/articles/czdgrnvp082o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 10 Dec 2025 12:14:14 GMT"
         }
     ]
 }
