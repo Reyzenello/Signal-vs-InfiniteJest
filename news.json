@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Oracle has pushed back completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages (Brody Ford/Bloomberg)",
+            "title": "Companies are updating insider trading policies to cover prediction markets; Kalshi and others are pushing for federal oversight, including of insider trading (Rocket Drew/The Information)",
+            "link": "http://www.techmeme.com/251212/p18#a251212p18",
+            "published": "Fri, 12 Dec 2025 12:05:42 -0500"
+        },
+        {
+            "title": "Sources: Oracle pushed back the completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/251212/p17#a251212p17",
             "published": "Fri, 12 Dec 2025 11:17:29 -0500"
         },
@@ -19,11 +24,6 @@
             "title": "Sam Altman's Tools for Humanity updates World to make it a \"super app\" with encrypted chat integration and a Venmo-like tool for sending and requesting crypto (Lucas Ropek/TechCrunch)",
             "link": "http://www.techmeme.com/251212/p14#a251212p14",
             "published": "Fri, 12 Dec 2025 10:25:02 -0500"
-        },
-        {
-            "title": "Trump's AI executive order directs federal agencies to look into withholding federal funding from states passing \"the most onerous and excessive laws\" around AI (Gerrit De Vynck/Washington Post)",
-            "link": "http://www.techmeme.com/251212/p13#a251212p13",
-            "published": "Fri, 12 Dec 2025 09:50:21 -0500"
         }
     ],
     "source_1": [
@@ -33,14 +33,14 @@
             "published": "Fri, 12 Dec 2025 14:00:08 +0000"
         },
         {
+            "title": "Trump Moves to Stop States From Regulating AI With a New Executive Order",
+            "link": "https://www.nytimes.com/2025/12/11/technology/ai-trump-executive-order.html",
+            "published": "Fri, 12 Dec 2025 04:56:05 +0000"
+        },
+        {
             "title": "Can OpenAI Respond After Google Closes the A.I. Technology Gap?",
             "link": "https://www.nytimes.com/2025/12/11/technology/openai-google-ai-technology-gap.html",
             "published": "Fri, 12 Dec 2025 00:52:41 +0000"
-        },
-        {
-            "title": "Disney Agrees to Bring Its Characters to OpenAI\u2019s Sora Videos",
-            "link": "https://www.nytimes.com/2025/12/11/business/media/disney-openai-sora-deal.html",
-            "published": "Thu, 11 Dec 2025 19:40:05 +0000"
         },
         {
             "title": "Australia Kicks Kids Off Social Media + Is the A.I. Water Issue Fake? + Hard Fork Wrapped",
