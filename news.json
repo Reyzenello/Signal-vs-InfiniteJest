@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Policymakers behind key state AI bills scoff at Trump's EO; some GOP governors are pushing ahead with their own AI bills; Steve Bannon says Sacks misled Trump (Axios)",
+            "link": "http://www.techmeme.com/251212/p21#a251212p21",
+            "published": "Fri, 12 Dec 2025 13:30:00 -0500"
+        },
+        {
+            "title": "Sources: X reported $752M in Q3 revenue, up 17% YoY, a net loss of $577.4M, and EBITDA of ~$454M, up 16%; revenue for the first nine months of 2025 was $2B+ (Carmen Arroyo/Bloomberg)",
+            "link": "http://www.techmeme.com/251212/p20#a251212p20",
+            "published": "Fri, 12 Dec 2025 12:40:03 -0500"
+        },
+        {
+            "title": "Source: livestream shopping app Whatnot nears ~$1B in revenue for 2025; Whatnot says it has passed $6B in gross sales this year, more than doubling 2024's sales (Ann Gehan/The Information)",
+            "link": "http://www.techmeme.com/251212/p19#a251212p19",
+            "published": "Fri, 12 Dec 2025 12:30:01 -0500"
+        },
+        {
             "title": "Companies are updating insider trading policies to cover prediction markets; Kalshi and others are pushing for federal oversight, including of insider trading (Rocket Drew/The Information)",
             "link": "http://www.techmeme.com/251212/p18#a251212p18",
             "published": "Fri, 12 Dec 2025 12:05:42 -0500"
@@ -9,21 +24,6 @@
             "title": "Sources: Oracle pushed back the completion dates for some data centers it is building for OpenAI from 2027 to 2028, largely due to labor and material shortages (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/251212/p17#a251212p17",
             "published": "Fri, 12 Dec 2025 11:17:29 -0500"
-        },
-        {
-            "title": "Kalshi integrates its event trading platform into the popular crypto wallet Phantom; Dune: in November, Kalshi's trading volume hit $5.8B vs. Polymarket's $3.7B (Nina Bambysheva/Forbes)",
-            "link": "http://www.techmeme.com/251212/p16#a251212p16",
-            "published": "Fri, 12 Dec 2025 11:10:00 -0500"
-        },
-        {
-            "title": "YouTube launches an option for US-based creators to receive payouts in PayPal's stablecoin, PYUSD (Ben Weiss/Fortune)",
-            "link": "http://www.techmeme.com/251212/p15#a251212p15",
-            "published": "Fri, 12 Dec 2025 11:00:57 -0500"
-        },
-        {
-            "title": "Sam Altman's Tools for Humanity updates World to make it a \"super app\" with encrypted chat integration and a Venmo-like tool for sending and requesting crypto (Lucas Ropek/TechCrunch)",
-            "link": "http://www.techmeme.com/251212/p14#a251212p14",
-            "published": "Fri, 12 Dec 2025 10:25:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Amazon pulls AI recap from Fallout TV show after it made several mistakes",
+            "link": "https://www.bbc.com/news/articles/c3r77j5nze5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Dec 2025 18:04:47 GMT"
+        },
+        {
             "title": "Creative industries 'incredibly worried' about OpenAI-Disney deal",
             "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 12 Dec 2025 11:46:00 GMT"
@@ -73,11 +78,6 @@
             "title": "Google asks UK experts to find uses for its powerful quantum tech",
             "link": "https://www.bbc.com/news/articles/c2epm0w0zggo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 12 Dec 2025 00:34:11 GMT"
-        },
-        {
-            "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
-            "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 12 Dec 2025 00:21:41 GMT"
         }
     ]
 }
