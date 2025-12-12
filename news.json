@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Taiwan opens its largest AI supercomputing data center using Nvidia's Blackwell chips, a major effort in its push for sovereign AI and chip industry innovation (Nikkei Asia)",
+            "link": "http://www.techmeme.com/251212/p4#a251212p4",
+            "published": "Fri, 12 Dec 2025 04:55:01 -0500"
+        },
+        {
             "title": "Sources: Intel tested chipmaking tools this year from CA-based ACM Research, which has deep China ties; ACM's two overseas units were targeted by US sanctions (Reuters)",
             "link": "http://www.techmeme.com/251212/p3#a251212p3",
             "published": "Fri, 12 Dec 2025 02:30:00 -0500"
@@ -19,11 +24,6 @@
             "title": "Tim Sweeney: the Ninth Circuit's decision on Epic v. Apple contempt ruling appeal \"completely shuts down\" App Store rules allowing Apple to collect \"junk fees\" (Jay Peters/The Verge)",
             "link": "http://www.techmeme.com/251211/p56#a251211p56",
             "published": "Thu, 11 Dec 2025 23:15:00 -0500"
-        },
-        {
-            "title": "Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban \"infringes the implied freedom of political communication\" (Reuters)",
-            "link": "http://www.techmeme.com/251211/p55#a251211p55",
-            "published": "Thu, 11 Dec 2025 22:55:21 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 10 Dec 2025 10:03:15 +0000"
         },
         {
-            "title": "China Is Getting Much of What It Wants From the U.S., Including Chips",
-            "link": "https://www.nytimes.com/2025/12/12/world/asia/nvidia-china-trump-security-japan.html",
-            "published": "Fri, 12 Dec 2025 05:01:06 +0000"
+            "title": "Harold Hamm, Oklahoma Oil Tycoon, Allies With Trump to Reshape U.S. Energy",
+            "link": "https://www.nytimes.com/2025/12/12/business/energy-environment/trump-harold-hamm-oil-gas.html",
+            "published": "Fri, 12 Dec 2025 10:00:19 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Clair Obscur sweeps The Game Awards with nine wins",
+            "link": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Dec 2025 06:59:59 GMT"
+        },
         {
             "title": "Trump signs order to block states from enforcing own AI rules",
             "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
             "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 11 Dec 2025 18:44:14 GMT"
-        },
-        {
-            "title": "Reddit launches High Court challenge to Australia's social media ban for kids",
-            "link": "https://www.bbc.com/news/articles/clykk2yrl9ko?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 12 Dec 2025 00:02:02 GMT"
         }
     ]
 }
