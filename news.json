@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: China is considering a $28B to $70B incentives package, which will operate separately from the $50B Big Fund III, to support its chipmaking industry (John Liu/Bloomberg)",
+            "link": "http://www.techmeme.com/251212/p7#a251212p7",
+            "published": "Fri, 12 Dec 2025 07:55:00 -0500"
+        },
+        {
+            "title": "EU finance ministers agreed to set a \u20ac3 customs duty on low-value parcels from July 2026, aiming to crack down on cheap Chinese imports from brands like Shein (Reuters)",
+            "link": "http://www.techmeme.com/251212/p6#a251212p6",
+            "published": "Fri, 12 Dec 2025 07:50:00 -0500"
+        },
+        {
+            "title": "Papua New Guinea says Google will build three subsea cables for the country, a $120M effort funded by Australia, amid China's rising influence in the region (Kirsty Needham/Reuters)",
+            "link": "http://www.techmeme.com/251212/p5#a251212p5",
+            "published": "Fri, 12 Dec 2025 06:50:02 -0500"
+        },
+        {
             "title": "Taiwan opens its largest AI supercomputing data center using Nvidia's Blackwell chips, a major effort in its push for sovereign AI and chip industry innovation (Nikkei Asia)",
             "link": "http://www.techmeme.com/251212/p4#a251212p4",
             "published": "Fri, 12 Dec 2025 04:55:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Sources: Intel tested chipmaking tools this year from CA-based ACM Research, which has deep China ties; ACM's two overseas units were targeted by US sanctions (Reuters)",
             "link": "http://www.techmeme.com/251212/p3#a251212p3",
             "published": "Fri, 12 Dec 2025 02:30:00 -0500"
-        },
-        {
-            "title": "GPT-5.2 models match GPT-5 and 5.1 with a 400K context window and 128K max output tokens, but have a newer knowledge cutoff of Aug. 31, 2025 vs. Sept. 30, 2024 (Simon Willison/Simon Willison's Newsletter)",
-            "link": "http://www.techmeme.com/251212/p2#a251212p2",
-            "published": "Fri, 12 Dec 2025 02:00:34 -0500"
-        },
-        {
-            "title": "An interview with Nikita Bier, who wants to lure journalists back to X with a rebuilt recommendation algorithm with no keyword suppression or manual downranking (Alex Heath/Sources)",
-            "link": "http://www.techmeme.com/251212/p1#a251212p1",
-            "published": "Fri, 12 Dec 2025 00:55:01 -0500"
-        },
-        {
-            "title": "Tim Sweeney: the Ninth Circuit's decision on Epic v. Apple contempt ruling appeal \"completely shuts down\" App Store rules allowing Apple to collect \"junk fees\" (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/251211/p56#a251211p56",
-            "published": "Thu, 11 Dec 2025 23:15:00 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 10 Dec 2025 10:03:15 +0000"
         },
         {
-            "title": "Harold Hamm, Oklahoma Oil Tycoon, Allies With Trump to Reshape U.S. Energy",
-            "link": "https://www.nytimes.com/2025/12/12/business/energy-environment/trump-harold-hamm-oil-gas.html",
-            "published": "Fri, 12 Dec 2025 10:00:19 +0000"
+            "title": "Australia Kicks Kids Off Social Media + Is the A.I. Water Issue Fake? + Hard Fork Wrapped",
+            "link": "https://www.nytimes.com/2025/12/12/podcasts/hardfork-australia-water.html",
+            "published": "Fri, 12 Dec 2025 12:00:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Creative industries 'incredibly worried' about OpenAI-Disney deal",
+            "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Dec 2025 11:46:00 GMT"
+        },
         {
             "title": "Clair Obscur sweeps The Game Awards with nine wins",
             "link": "https://www.bbc.com/news/articles/c1kpwmezkpdo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
             "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 12 Dec 2025 00:21:41 GMT"
-        },
-        {
-            "title": "OpenAI makes $1bn deal to bring Disney characters to ChatGPT and Sora",
-            "link": "https://www.bbc.com/news/articles/c5ydp1gdqwqo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 11 Dec 2025 18:44:14 GMT"
         }
     ]
 }
