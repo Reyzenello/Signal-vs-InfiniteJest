@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Serval, which offers an AI-powered IT support assistant, raised a $75M Series B led by Sequoia at a $1B valuation, bringing its total raised to $127M (Reuters)",
+            "title": "Sam Altman's World updates its app to make it a \"super app\" with encrypted chat integration and a Venmo-like tool for sending and requesting crypto (Lucas Ropek/TechCrunch)",
+            "link": "http://www.techmeme.com/251212/p14#a251212p14",
+            "published": "Fri, 12 Dec 2025 10:25:02 -0500"
+        },
+        {
+            "title": "Trump's AI executive order directs federal agencies to look into withholding federal funding from states passing \"the most onerous and excessive laws\" around AI (Gerrit De Vynck/Washington Post)",
+            "link": "http://www.techmeme.com/251212/p13#a251212p13",
+            "published": "Fri, 12 Dec 2025 09:50:21 -0500"
+        },
+        {
+            "title": "[Thread] Substack quietly added a feature that forced subscribers to download the app to read full newsletters but say they've rolled it back after complaints (Gergely Orosz/@gergelyorosz)",
+            "link": "http://www.techmeme.com/251212/p12#a251212p12",
+            "published": "Fri, 12 Dec 2025 09:40:01 -0500"
+        },
+        {
+            "title": "Serval, which offers an AI assistant for IT, HR, legal, and finance, raised a $75M Series B led by Sequoia at a $1B valuation, taking its total funding to $127M (Reuters)",
             "link": "http://www.techmeme.com/251212/p11#a251212p11",
             "published": "Fri, 12 Dec 2025 09:15:00 -0500"
         },
@@ -9,21 +24,6 @@
             "title": "Switzerland launches a preliminary investigation into whether Apple's terms for granting third-party access to NFC tech on iPhones violate its antitrust laws (Tim Hardwick/MacRumors)",
             "link": "http://www.techmeme.com/251212/p10#a251212p10",
             "published": "Fri, 12 Dec 2025 08:55:26 -0500"
-        },
-        {
-            "title": "Sources: Nvidia tells its Chinese clients that it is considering adding production capacity for its H200 chips in response to robust demand (Reuters)",
-            "link": "http://www.techmeme.com/251212/p9#a251212p9",
-            "published": "Fri, 12 Dec 2025 08:45:07 -0500"
-        },
-        {
-            "title": "TechInsights: Huawei's Kirin 9030 processor, used in its Mate 80 Pro Max phone, is China's most advanced chip to date and produced with SMIC's updated 7nm tech (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/251212/p8#a251212p8",
-            "published": "Fri, 12 Dec 2025 08:35:16 -0500"
-        },
-        {
-            "title": "Sources: China is considering a $28B to $70B incentives package, which will operate separately from the $50B Big Fund III, to support its chipmaking industry (John Liu/Bloomberg)",
-            "link": "http://www.techmeme.com/251212/p7#a251212p7",
-            "published": "Fri, 12 Dec 2025 07:55:00 -0500"
         }
     ],
     "source_1": [
@@ -67,7 +67,7 @@
         {
             "title": "Trump signs order to block states from enforcing own AI rules",
             "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 12 Dec 2025 08:27:59 GMT"
+            "published": "Fri, 12 Dec 2025 15:02:57 GMT"
         },
         {
             "title": "Google asks UK experts to find uses for its powerful quantum tech",
