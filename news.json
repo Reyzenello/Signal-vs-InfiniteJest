@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Reddit files a lawsuit against Australia over its social media ban for under-16s, saying the ban \"infringes the implied freedom of political communication\" (Reuters)",
+            "link": "http://www.techmeme.com/251211/p55#a251211p55",
+            "published": "Thu, 11 Dec 2025 22:55:21 -0500"
+        },
+        {
+            "title": "In his EO, Trump orders US AG Pam Bondi to create an \"AI Litigation Task Force\" that meets regularly with David Sacks to challenge \"inconsistent\" state AI laws (Igor Bonifacic/Engadget)",
+            "link": "http://www.techmeme.com/251211/p54#a251211p54",
+            "published": "Thu, 11 Dec 2025 22:35:01 -0500"
+        },
+        {
+            "title": "A look at French indie game studio Sandfall Interactive, whose critically-acclaimed Clair Obscur: Expedition 33 sold 5M+ copies with a budget of less than $10M (Zachary Small/New York Times)",
+            "link": "http://www.techmeme.com/251211/p53#a251211p53",
+            "published": "Thu, 11 Dec 2025 21:55:01 -0500"
+        },
+        {
             "title": "xAI partners with El Salvador to deploy Grok across 5,000+ public schools, reaching 1M+ students in an \"AI-powered education program\" over the next two years (Dara Kerr/The Guardian)",
             "link": "http://www.techmeme.com/251211/p52#a251211p52",
             "published": "Thu, 11 Dec 2025 20:50:01 -0500"
@@ -9,21 +24,6 @@
             "title": "On OpenAI's 10th anniversary, Sam Altman reflects on \"a decade of breakthroughs, learnings, and the path toward AGI that benefits all of humanity\" (OpenAI)",
             "link": "http://www.techmeme.com/251211/p51#a251211p51",
             "published": "Thu, 11 Dec 2025 19:55:02 -0500"
-        },
-        {
-            "title": "Broadcom CEO Hock Tan reveals that Anthropic placed a $10B order for Google's Ironwood TPU racks in Q3 and says it placed an additional $11B order in Q4 (CNBC)",
-            "link": "http://www.techmeme.com/251211/p50#a251211p50",
-            "published": "Thu, 11 Dec 2025 19:35:14 -0500"
-        },
-        {
-            "title": "President Trump signs an executive order aimed at preempting a growing number of state AI laws, saying \"we want to have one central source of approval\" (Reuters)",
-            "link": "http://www.techmeme.com/251211/p49#a251211p49",
-            "published": "Thu, 11 Dec 2025 18:55:01 -0500"
-        },
-        {
-            "title": "New US OMB guidance states that LLMs procured by federal agencies must comply with two \"unbiased AI principles\": \"truth-seeking\" and \"ideological neutrality\" (Maria Curi/Axios)",
-            "link": "http://www.techmeme.com/251211/p48#a251211p48",
-            "published": "Thu, 11 Dec 2025 18:05:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Trump signs order to block states from enforcing own AI rules",
+            "link": "https://www.bbc.com/news/articles/crmddnge9yro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Dec 2025 03:12:03 GMT"
+        },
+        {
             "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
             "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 12 Dec 2025 00:21:41 GMT"
@@ -73,11 +78,6 @@
             "title": "'Architects of AI' named Time Magazine's Person of the Year",
             "link": "https://www.bbc.com/news/articles/cly01mdm577o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 11 Dec 2025 13:52:11 GMT"
-        },
-        {
-            "title": "Oracle shares slide as earnings fail to ease AI bubble fears",
-            "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 11 Dec 2025 16:24:20 GMT"
         }
     ]
 }
