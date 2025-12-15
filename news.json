@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia announces it has acquired SchedMD, the developer of Slurm, an open-source workload management system for HPC and AI (Arsheeya Bajwa/Reuters)",
+            "link": "http://www.techmeme.com/251215/p25#a251215p25",
+            "published": "Mon, 15 Dec 2025 11:53:50 -0500"
+        },
+        {
             "title": "The Trump administration launches US Tech Force to recruit ~1,000 staffers from Apple, Meta, xAI, and others for two-year stints to modernize the government (Natalie Alms/Nextgov/FCW)",
             "link": "http://www.techmeme.com/251215/p24#a251215p24",
             "published": "Mon, 15 Dec 2025 11:40:00 -0500"
@@ -11,7 +16,7 @@
             "published": "Mon, 15 Dec 2025 11:30:03 -0500"
         },
         {
-            "title": "Thrive Capital announces it has hired Palantir CIO Jim Siders to serve as CEO of Shield Technology Partners, a newly created business focused on IT services (Ashley Capoot/CNBC)",
+            "title": "Thrive Holdings announces it has hired Palantir CIO Jim Siders to serve as CEO of Shield Technology Partners, a newly created business focused on IT services (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/251215/p22#a251215p22",
             "published": "Mon, 15 Dec 2025 11:15:00 -0500"
         },
@@ -19,14 +24,14 @@
             "title": "LG smart TV owners say a webOS update pinned Microsoft Copilot to the home screen, with no apparent way to remove the app; LG unveiled an AI TV strategy at CES (Luke James/Tom's Hardware)",
             "link": "http://www.techmeme.com/251215/p21#a251215p21",
             "published": "Mon, 15 Dec 2025 10:30:04 -0500"
-        },
-        {
-            "title": "Internal docs: Meta earned $18B+ in annual ad sales from China in 2024, making up 10%+ of its global revenue, with $3B+ linked to fraudulent ads, like for scams (Reuters)",
-            "link": "http://www.techmeme.com/251215/p20#a251215p20",
-            "published": "Mon, 15 Dec 2025 09:35:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "How Tech\u2019s Biggest Companies Are Offloading the Risks of the A.I. Boom",
+            "link": "https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html",
+            "published": "Mon, 15 Dec 2025 15:49:37 +0000"
+        },
         {
             "title": "In A.I. Boom, Venture Capital Firms Are Raising Loads More Money",
             "link": "https://www.nytimes.com/2025/12/15/technology/ai-venture-capital-big-funds.html",
@@ -46,11 +51,6 @@
             "title": "Elon Musk Tests Europe\u2019s Willingness to Enforce Its Online Laws",
             "link": "https://www.nytimes.com/2025/12/12/technology/elon-musk-europe.html",
             "published": "Fri, 12 Dec 2025 19:39:15 +0000"
-        },
-        {
-            "title": "How Tech\u2019s Biggest Companies Are Offloading the Risks of the A.I. Boom",
-            "link": "https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html",
-            "published": "Mon, 15 Dec 2025 15:49:37 +0000"
         }
     ],
     "source_2": [
@@ -75,9 +75,9 @@
             "published": "Mon, 15 Dec 2025 07:47:31 GMT"
         },
         {
-            "title": "US TikTok investors in limbo as deal set to be delayed again",
+            "title": "What's next for TikTok in the US as deal prospects remain uncertain?",
             "link": "https://www.bbc.com/news/articles/cp34442z25ko?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 13 Dec 2025 00:32:28 GMT"
+            "published": "Mon, 15 Dec 2025 17:06:41 GMT"
         }
     ]
 }
