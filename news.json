@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "Xiaomi releases MiMo-V2-Flash, an open-weight MoE model with 309B total and 15B active parameters, saying it excels in reasoning, coding, and agentic scenarios (Xiaomi Mimo)",
+            "link": "http://www.techmeme.com/251216/p36#a251216p36",
+            "published": "Tue, 16 Dec 2025 18:25:01 -0500"
+        },
+        {
+            "title": "Sources: Waymo is in discussions to raise more than $15B led by Alphabet at a valuation near $100B, and has achieved an annual revenue run rate above $350M (Bloomberg)",
+            "link": "http://www.techmeme.com/251216/p35#a251216p35",
+            "published": "Tue, 16 Dec 2025 17:47:48 -0500"
+        },
+        {
             "title": "Perplexity updates its iPad app to improve multitasking and focus on research tools, part of a push to add business customers, after launching Comet on Android (Natalie Lung/Bloomberg)",
             "link": "http://www.techmeme.com/251216/p34#a251216p34",
             "published": "Tue, 16 Dec 2025 16:50:02 -0500"
         },
         {
-            "title": "X updates its ToS, effective January 15, 2026, to explicitly claim rights to the \"Twitter\" trademark after a startup filed an application to trademark the term (Sarah Perez/TechCrunch)",
+            "title": "X updates its ToS to claim rights to the \"Twitter\" trademark and countersues Operation Bluebird after the startup filed an application to trademark the term (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/251216/p33#a251216p33",
             "published": "Tue, 16 Dec 2025 16:30:02 -0500"
         },
@@ -14,16 +24,6 @@
             "title": "Hong Kong-based RedotPay, a fintech focused on stablecoin-based payments, raised a $107M Series B led by Goodwater Capital, bringing its total raised to ~$200M (Yogita Khatri/The Block)",
             "link": "http://www.techmeme.com/251216/p32#a251216p32",
             "published": "Tue, 16 Dec 2025 15:20:01 -0500"
-        },
-        {
-            "title": "Amazon partners with payments startup Slope to offer loans of up to $5M to merchants selling on its platform, using Amazon sales data for candidate selection (Spencer Soper/Bloomberg)",
-            "link": "http://www.techmeme.com/251216/p31#a251216p31",
-            "published": "Tue, 16 Dec 2025 14:40:00 -0500"
-        },
-        {
-            "title": "Netflix announces a partnership with iHeartMedia to exclusively publish 15+ video podcasts from early 2026, including The Breakfast Club and My Favorite Murder (Jessica Testa/New York Times)",
-            "link": "http://www.techmeme.com/251216/p30#a251216p30",
-            "published": "Tue, 16 Dec 2025 14:10:02 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Downing Street insists negotiations over US-UK tech deal still live",
             "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 16 Dec 2025 16:26:18 GMT"
+            "published": "Tue, 16 Dec 2025 22:39:14 GMT"
         },
         {
             "title": "UK launches taskforce to 'break down barriers' for women in technology",
