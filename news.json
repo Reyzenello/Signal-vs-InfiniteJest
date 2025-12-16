@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Visa says it will allow US banks to settle transactions using Circle's USDC stablecoin over Solana, the US' first full deployment of a stablecoin settlement (Emily Mason/Bloomberg)",
+            "link": "http://www.techmeme.com/251216/p11#a251216p11",
+            "published": "Tue, 16 Dec 2025 07:45:01 -0500"
+        },
+        {
+            "title": "Elizabeth Warren and two Democratic senators write to Google, Microsoft, Amazon, Meta, and more to investigate AI data centers' role in rising electricity costs (New York Times)",
+            "link": "http://www.techmeme.com/251216/p10#a251216p10",
+            "published": "Tue, 16 Dec 2025 07:10:00 -0500"
+        },
+        {
+            "title": "Sources and a memo: Amazon plans to cut 370 jobs, or ~8.5% of its 4,370 employees, at its European HQ in Luxembourg, the country's biggest layoffs in 20 years (Benoit Berthelot/Bloomberg)",
+            "link": "http://www.techmeme.com/251216/p9#a251216p9",
+            "published": "Tue, 16 Dec 2025 06:55:04 -0500"
+        },
+        {
+            "title": "VW plans to end vehicle production at its Dresden plant, which opened in 2001, and convert it into a research hub focused on AI, robotics, and chip design (Gregory Schmidt/New York Times)",
+            "link": "http://www.techmeme.com/251216/p8#a251216p8",
+            "published": "Tue, 16 Dec 2025 06:35:00 -0500"
+        },
+        {
             "title": "As Europe rearms, Anduril is trying to break through in the UK by co-funding major programs, cutting manufacturing deals, and billing itself as \"Anglo-American\" (Mark Bergen/Bloomberg)",
             "link": "http://www.techmeme.com/251216/p7#a251216p7",
             "published": "Tue, 16 Dec 2025 06:20:05 -0500"
-        },
-        {
-            "title": "Analysis: of the 8,808 global data centers in October 2025, ~7,000 are in areas outside the optimal 18C to 27C temperature range; 600 are in areas above 27C (Rest of World)",
-            "link": "http://www.techmeme.com/251216/p6#a251216p6",
-            "published": "Tue, 16 Dec 2025 06:05:03 -0500"
-        },
-        {
-            "title": "China approves two cars from state-owned automakers with Level 3 autonomous capabilities, the first such approvals; the cars can drive in Chongqing and Beijing (Reuters)",
-            "link": "http://www.techmeme.com/251216/p5#a251216p5",
-            "published": "Tue, 16 Dec 2025 05:50:02 -0500"
-        },
-        {
-            "title": "Global smartphone shipments in 2026 are set to shrink 2.1% due to rising memory costs, led by Chinese OEMs; DRAM price surges are set to raise costs by 10%-15% (Counterpoint Research)",
-            "link": "http://www.techmeme.com/251216/p4#a251216p4",
-            "published": "Tue, 16 Dec 2025 05:35:00 -0500"
-        },
-        {
-            "title": "How the rise of AI has divided Hollywood: some oppose all AI use while others like director Timur Bekmambetov say they are exploring ways to utilize AI tools (Lucas Shaw/Bloomberg)",
-            "link": "http://www.techmeme.com/251216/p3#a251216p3",
-            "published": "Tue, 16 Dec 2025 02:05:00 -0500"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs",
             "link": "https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html",
-            "published": "Tue, 16 Dec 2025 10:02:28 +0000"
+            "published": "Tue, 16 Dec 2025 10:02:29 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Negotiations over US-UK tech deal stall",
+            "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 16 Dec 2025 12:52:49 GMT"
+        },
         {
             "title": "UK launches taskforce to 'break down barriers' for women in technology",
             "link": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Grand Theft Auto game creator sacked us for trying to unionise",
             "link": "https://www.bbc.com/news/articles/cp89990rgdno?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 15 Dec 2025 10:21:43 GMT"
-        },
-        {
-            "title": "Roomba vacuum cleaner firm files for bankruptcy",
-            "link": "https://www.bbc.com/news/articles/c1lr75lp239o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 15 Dec 2025 07:47:31 GMT"
         }
     ]
 }
