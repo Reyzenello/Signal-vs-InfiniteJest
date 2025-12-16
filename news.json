@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Meta launches prompt-based sound separation model SAM Audio in its Segment Anything Playground, letting users isolate individual sounds from complex recordings (Mike Wheatley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/251216/p19#a251216p19",
+            "published": "Tue, 16 Dec 2025 11:40:01 -0500"
+        },
+        {
+            "title": "Instagram unveils its first TV app, initially available on Amazon's Fire TV as a test with plans to expand to other TV platforms (Kurt Wagner/Bloomberg)",
+            "link": "http://www.techmeme.com/251216/p18#a251216p18",
+            "published": "Tue, 16 Dec 2025 11:35:00 -0500"
+        },
+        {
+            "title": "Orbital solar data centers' cost-per-watt of compute is $51.10/W, far above $15.85/W for terrestrial sites; SpaceX is uniquely positioned to try orbital (Andrew McCalip)",
+            "link": "http://www.techmeme.com/251216/p17#a251216p17",
+            "published": "Tue, 16 Dec 2025 11:15:03 -0500"
+        },
+        {
             "title": "Sequence, which builds AI agents to automate B2B companies' revenue operations, raised a $20M Series A led by 645 Ventures, bringing its total funding to ~$40M (Ryan Lawler/Axios)",
             "link": "http://www.techmeme.com/251216/p16#a251216p16",
             "published": "Tue, 16 Dec 2025 10:20:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Q&A with Rivian founder and CEO RJ Scaringe on founding Rivian in 2009, production challenges, the VW partnership, autonomy, AI, EVs, chips, CarPlay, and more (Ben Thompson/Stratechery)",
             "link": "http://www.techmeme.com/251216/p15#a251216p15",
             "published": "Tue, 16 Dec 2025 09:25:00 -0500"
-        },
-        {
-            "title": "Adobe updates Firefly's app to add a prompt-based video editor using Runway's Aleph model, and adds image and video models from Black Forest Labs and others (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/251216/p14#a251216p14",
-            "published": "Tue, 16 Dec 2025 09:10:01 -0500"
-        },
-        {
-            "title": "Mozilla appoints Anthony Enzor-DeMeo as its CEO amid a challenging period for Mozilla's for-profit arm with layoffs, restructuring, and its Google dependence (David Pierce/The Verge)",
-            "link": "http://www.techmeme.com/251216/p13#a251216p13",
-            "published": "Tue, 16 Dec 2025 08:45:00 -0500"
-        },
-        {
-            "title": "Databricks is raising a $4B Series L at a $134B valuation, up from $100B in September and $62B in December 2024, and had a $4.8B annual revenue rate in October (Belle Lin/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251216/p12#a251216p12",
-            "published": "Tue, 16 Dec 2025 08:25:00 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "Negotiations over US-UK tech deal stall",
+            "title": "Downing Street insists negotiations over US-UK tech deal still live",
             "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 16 Dec 2025 13:42:57 GMT"
+            "published": "Tue, 16 Dec 2025 16:26:18 GMT"
         },
         {
             "title": "UK launches taskforce to 'break down barriers' for women in technology",
