@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Hong Kong-based RedotPay, a fintech focused on stablecoin-based payments, raised a $107M Series B led by Goodwater Capital, bringing its total raised to ~$200M (Yogita Khatri/The Block)",
+            "link": "http://www.techmeme.com/251216/p32#a251216p32",
+            "published": "Tue, 16 Dec 2025 15:20:01 -0500"
+        },
+        {
+            "title": "Amazon partners with payments startup Slope to offer loans of up to $5M to merchants selling on its platform, using Amazon sales data for candidate selection (Spencer Soper/Bloomberg)",
+            "link": "http://www.techmeme.com/251216/p31#a251216p31",
+            "published": "Tue, 16 Dec 2025 14:40:00 -0500"
+        },
+        {
             "title": "Netflix announces a partnership with iHeartMedia to exclusively publish at least 15 video podcasts beginning in early 2026, including The Breakfast Club (Jessica Testa/New York Times)",
             "link": "http://www.techmeme.com/251216/p30#a251216p30",
             "published": "Tue, 16 Dec 2025 14:10:02 -0500"
@@ -14,19 +24,14 @@
             "title": "The US threatens economic penalties against European companies like Spotify if the EU does not roll back regulations and lawsuits targeting US tech giants (New York Times)",
             "link": "http://www.techmeme.com/251216/p28#a251216p28",
             "published": "Tue, 16 Dec 2025 13:35:02 -0500"
-        },
-        {
-            "title": "Leona Health, maker of an AI-copilot that integrates with doctors' WhatsApp accounts in LATAM to manage patient communications, raised a $14M seed led by a16z (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/251216/p27#a251216p27",
-            "published": "Tue, 16 Dec 2025 13:25:02 -0500"
-        },
-        {
-            "title": "OpenAI updates ChatGPT Images to generate images up to 4x faster and edit more precisely, and adds a new section in ChatGPT's app and website for images (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/251216/p26#a251216p26",
-            "published": "Tue, 16 Dec 2025 13:20:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "U.S. Threatens Penalties Against European Tech Firms Amid Regulatory Fight",
+            "link": "https://www.nytimes.com/2025/12/16/business/economy/us-eu-tech-penalties.html",
+            "published": "Tue, 16 Dec 2025 19:58:31 +0000"
+        },
         {
             "title": "How Tech\u2019s Biggest Companies Are Offloading the Risks of the A.I. Boom",
             "link": "https://www.nytimes.com/2025/12/15/technology/ai-risks-debt.html",
@@ -41,11 +46,6 @@
             "title": "Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control",
             "link": "https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html",
             "published": "Mon, 15 Dec 2025 18:40:48 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s SpaceX Valued at $800 Billion, as It Prepares to Go Public",
-            "link": "https://www.nytimes.com/2025/12/12/technology/elon-musk-spacex-ipo.html",
-            "published": "Sun, 14 Dec 2025 00:24:30 +0000"
         },
         {
             "title": "Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs",
