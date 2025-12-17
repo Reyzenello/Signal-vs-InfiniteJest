@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Gemini 3 Flash costs $0.50 per 1M input tokens and $3 per 1M output tokens, vs. Gemini 2.5 Flash's $0.30 per 1M input tokens and $2.50 per 1M output tokens (Tulsee Doshi/The Keyword)",
+            "link": "http://www.techmeme.com/251217/p36#a251217p36",
+            "published": "Wed, 17 Dec 2025 11:50:01 -0500"
+        },
+        {
             "title": "Google makes Gemini 3 Flash the default model in the Gemini app and Search's AI mode; it scored 33.7% without tool use on Humanity's Last Exam vs. 3 Pro's 37.5% (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/251217/p35#a251217p35",
             "published": "Wed, 17 Dec 2025 11:15:02 -0500"
@@ -19,14 +24,14 @@
             "title": "Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom AI-powered mini apps, called Gems, which can be reused later (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/251217/p32#a251217p32",
             "published": "Wed, 17 Dec 2025 10:30:00 -0500"
-        },
-        {
-            "title": "Sources: Google is working on a new initiative to make its AI chips run PyTorch better and is working closely with Meta, as the two discuss Meta using TPUs (Reuters)",
-            "link": "http://www.techmeme.com/251217/p31#a251217p31",
-            "published": "Wed, 17 Dec 2025 10:20:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "What Trump\u2019s Embrace of Crypto Has Unleashed",
+            "link": "https://www.nytimes.com/2025/12/17/technology/trump-crypto-unleashed.html",
+            "published": "Wed, 17 Dec 2025 10:00:17 +0000"
+        },
         {
             "title": "U.S. Threatens Penalties Against European Tech Firms Amid Regulatory Fight",
             "link": "https://www.nytimes.com/2025/12/16/business/economy/us-eu-tech-penalties.html",
@@ -43,14 +48,9 @@
             "published": "Tue, 16 Dec 2025 19:26:09 +0000"
         },
         {
-            "title": "Roomba Maker iRobot Files for Bankruptcy, With Chinese Supplier Taking Control",
-            "link": "https://www.nytimes.com/2025/12/15/business/roomba-irobot-bankruptcy.html",
-            "published": "Mon, 15 Dec 2025 18:40:48 +0000"
-        },
-        {
-            "title": "What Trump\u2019s Embrace of Crypto Has Unleashed",
-            "link": "https://www.nytimes.com/2025/12/17/technology/trump-crypto-unleashed.html",
-            "published": "Wed, 17 Dec 2025 10:00:17 +0000"
+            "title": "Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs",
+            "link": "https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html",
+            "published": "Tue, 16 Dec 2025 18:57:29 +0000"
         }
     ],
     "source_2": [
