@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The Academy signs a multi-year deal that will give YouTube the exclusive global rights to the Oscars, beginning in 2029 and running through 2033 (Scott Feinberg/The Hollywood Reporter)",
+            "link": "http://www.techmeme.com/251217/p38#a251217p38",
+            "published": "Wed, 17 Dec 2025 12:54:20 -0500"
+        },
+        {
+            "title": "Meta says it has frozen its third-party Horizon OS headset program, announced in 2024 with Asus and Lenovo as the first partners to build headsets (Ben Lang/Road to VR)",
+            "link": "http://www.techmeme.com/251217/p37#a251217p37",
+            "published": "Wed, 17 Dec 2025 12:40:01 -0500"
+        },
+        {
             "title": "Gemini 3 Flash costs $0.50 per 1M input tokens and $3 per 1M output tokens, vs. Gemini 2.5 Flash's $0.30 per 1M input tokens and $2.50 per 1M output tokens (Tulsee Doshi/The Keyword)",
             "link": "http://www.techmeme.com/251217/p36#a251217p36",
             "published": "Wed, 17 Dec 2025 11:50:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Google unveils Gemini 3 Flash, which it says has Pro-grade reasoning with lower latency, outperforming 2.5 Pro \"while being 3x faster at a fraction of the cost\" (Abner Li/9to5Google)",
             "link": "http://www.techmeme.com/251217/p34#a251217p34",
             "published": "Wed, 17 Dec 2025 11:10:00 -0500"
-        },
-        {
-            "title": "Google sues the Chinese-speaking cybercriminal group known as Darcula, behind an alleged US text message phishing ring, in the US, seeking a restraining order (Kevin Collier/NBC News)",
-            "link": "http://www.techmeme.com/251217/p33#a251217p33",
-            "published": "Wed, 17 Dec 2025 10:50:02 -0500"
-        },
-        {
-            "title": "Google brings its vibe coding tool Opal to Gemini on the web, letting users create their own custom AI-powered mini apps, called Gems, which can be reused later (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/251217/p32#a251217p32",
-            "published": "Wed, 17 Dec 2025 10:30:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Fifa video game to return after four years in Netflix exclusive",
+            "link": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 17 Dec 2025 18:20:44 GMT"
+        },
+        {
             "title": "Downing Street insists negotiations over US-UK tech deal still live",
             "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 16 Dec 2025 22:39:14 GMT"
@@ -73,11 +78,6 @@
             "title": "Amazon apologises after showing 15-rated film to child who rented PG movie",
             "link": "https://www.bbc.com/news/articles/cy4xwv7vdmdo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 15 Dec 2025 13:52:12 GMT"
-        },
-        {
-            "title": "Ofcom investigates BT and Three for failing to connect 999 calls",
-            "link": "https://www.bbc.com/news/articles/c5y2kgdq6r3o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 15 Dec 2025 11:41:43 GMT"
         }
     ]
 }
