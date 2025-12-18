@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Twenty-four companies, including Microsoft, Google, Nvidia, OpenAI, and AWS, join the US Genesis Mission to boost the use of AI for scientific discovery (Courtney Subramanian/Bloomberg)",
+            "link": "http://www.techmeme.com/251218/p37#a251218p37",
+            "published": "Thu, 18 Dec 2025 13:35:03 -0500"
+        },
+        {
+            "title": "Netflix hires ESPN anchor Elle Duncan as its first on-air host for live sports and cultural events; she has appeared on SportsCenter, College GameDay, and more (Todd Spangler/Variety)",
+            "link": "http://www.techmeme.com/251218/p36#a251218p36",
+            "published": "Thu, 18 Dec 2025 12:55:01 -0500"
+        },
+        {
+            "title": "Nirvana, which uses real-time driving telematics to build insurance policies for truckers, raised a $100M Series D at a $1.5B valuation, up from $830M in March (Mary Ann Azevedo/Crunchbase News)",
+            "link": "http://www.techmeme.com/251218/p35#a251218p35",
+            "published": "Thu, 18 Dec 2025 12:40:03 -0500"
+        },
+        {
             "title": "Anthropic launches Agent Skills, which let AI assistants perform specialized tasks using modular instructions, and says Microsoft, Cursor, and others use them (Michael Nu\u00f1ez/VentureBeat)",
             "link": "http://www.techmeme.com/251218/p34#a251218p34",
             "published": "Thu, 18 Dec 2025 12:25:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Sources describe tensions between OpenAI's research and ChatGPT product groups, leading to the \"code red\"; OpenAI is set to beat its 2025 revenue goal of $13B (The Information)",
             "link": "http://www.techmeme.com/251218/p33#a251218p33",
             "published": "Thu, 18 Dec 2025 12:10:02 -0500"
-        },
-        {
-            "title": "Edison, which last month released AI tool Kosmos to speed up and automate complex scientific hypothesis generation, raised $70M at a $250M valuation (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/251218/p32#a251218p32",
-            "published": "Thu, 18 Dec 2025 11:55:06 -0500"
-        },
-        {
-            "title": "Rivian launches Universal Hands-Free driving for second-generation R1 EVs, expanding coverage from 135,000 highway miles to 3.5M+ miles across the US and Canada (Sean O'Kane/TechCrunch)",
-            "link": "http://www.techmeme.com/251218/p31#a251218p31",
-            "published": "Thu, 18 Dec 2025 11:25:00 -0500"
-        },
-        {
-            "title": "Endra, whose AI tools automate mechanical, electrical, and plumbing design for commercial buildings, raised a $20M seed led by Notion (Jeremy Kahn/Fortune)",
-            "link": "http://www.techmeme.com/251218/p30#a251218p30",
-            "published": "Thu, 18 Dec 2025 10:50:01 -0500"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Massachusetts Battery Start-Up to List on Stock Exchange",
             "link": "https://www.nytimes.com/2025/12/18/business/energy-environment/factorial-electric-vehicle-battery-spac.html",
-            "published": "Thu, 18 Dec 2025 16:47:18 +0000"
+            "published": "Thu, 18 Dec 2025 16:47:19 +0000"
         },
         {
             "title": "Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "UK to ban deepfake AI 'nudification' apps",
+            "link": "https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 18 Dec 2025 17:43:14 GMT"
+        },
         {
             "title": "One in three using AI for emotional support and conversation, UK says",
             "link": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Fifa video game to return after four years in Netflix exclusive",
             "link": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 17 Dec 2025 18:20:44 GMT"
-        },
-        {
-            "title": "Downing Street insists negotiations over US-UK tech deal still live",
-            "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 16 Dec 2025 22:39:14 GMT"
         }
     ]
 }
