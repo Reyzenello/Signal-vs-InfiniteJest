@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Circana: Xbox Series console sales fell 70% YoY to an all-time low in November, compared to the PS5's 40% YoY drop and Switch 1 and 2's combined 10% YoY fall (Rebekah Valentine/IGN)",
-            "link": "http://www.techmeme.com/251218/p18#a251218p18",
-            "published": "Thu, 18 Dec 2025 06:25:00 -0500"
+            "title": "Documents: OpenAI has sold 700K+ ChatGPT licenses to ~35 US public universities for students and faculty, who used it 14M+ times in September, beating Copilot (Bloomberg)",
+            "link": "http://www.techmeme.com/251218/p24#a251218p24",
+            "published": "Thu, 18 Dec 2025 07:40:01 -0500"
         },
         {
-            "title": "Honda plans to halt production in Japan and China from December 29 to January 6, showing the ongoing fallout of the global chip shortage and Nexperia takeover (Bloomberg)",
-            "link": "http://www.techmeme.com/251218/p17#a251218p17",
-            "published": "Thu, 18 Dec 2025 06:01:01 -0500"
+            "title": "Study: AI's 2025 power demand could hit 23GW, above 2024 Bitcoin mining levels, and AI carbon emissions could hit 32.6M to 79.7M tons, compared to NYC's 50M (Justine Calma/The Verge)",
+            "link": "http://www.techmeme.com/251218/p23#a251218p23",
+            "published": "Thu, 18 Dec 2025 07:25:01 -0500"
         },
         {
-            "title": "Sources: Yann LeCun is in early talks to raise \u20ac500M for his startup at a ~\u20ac3B valuation, and plans to name Alexandre LeBrun as CEO, ahead of a January launch (Financial Times)",
-            "link": "http://www.techmeme.com/251218/p16#a251218p16",
-            "published": "Thu, 18 Dec 2025 05:40:00 -0500"
+            "title": "TMTG agrees to merge with Google-backed fusion energy company TAE in a $6B deal and begin building the \"world's first utility-scale fusion power plant\" in 2026 (Financial Times)",
+            "link": "http://www.techmeme.com/251218/p22#a251218p22",
+            "published": "Thu, 18 Dec 2025 07:10:01 -0500"
         },
         {
-            "title": "FCC Chairman Brendan Carr tells a Senate committee the FCC \"is not an independent agency\"; the agency removed \"independent agency\" from its site as he testified (Axios)",
-            "link": "http://www.techmeme.com/251218/p15#a251218p15",
-            "published": "Thu, 18 Dec 2025 04:40:01 -0500"
+            "title": "UK AI Security Institute report: AI models are rapidly improving at potentially dangerous biological and chemical tasks, and show fast jumps in self-replication (Shakeel Hashim/Transformer)",
+            "link": "http://www.techmeme.com/251218/p21#a251218p21",
+            "published": "Thu, 18 Dec 2025 07:05:13 -0500"
         },
         {
-            "title": "An in-depth look at a recent research paper that offered a roadmap to the viability of 3D HBM-on-GPU integration for improved AI performance and utilization (More Than Moore)",
-            "link": "http://www.techmeme.com/251218/p14#a251218p14",
-            "published": "Thu, 18 Dec 2025 04:25:01 -0500"
+            "title": "Apple says it will roll out more App Store ads in 2026 \"to increase opportunity in search results\"; Apple's website says 800M+ users visit the App Store weekly (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/251218/p20#a251218p20",
+            "published": "Thu, 18 Dec 2025 06:50:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "One in three using AI for emotional support and conversation, UK says",
+            "link": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 18 Dec 2025 12:37:46 GMT"
+        },
+        {
+            "title": "Facebook tests \u00a39.99 monthly subscription for sharing more than two links",
+            "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 18 Dec 2025 12:13:14 GMT"
+        },
+        {
             "title": "Parents told to lead by example and turn off phones this Christmas",
             "link": "https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 18 Dec 2025 02:28:22 GMT"
@@ -68,16 +78,6 @@
             "title": "Downing Street insists negotiations over US-UK tech deal still live",
             "link": "https://www.bbc.com/news/articles/c79x54dprngo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 16 Dec 2025 22:39:14 GMT"
-        },
-        {
-            "title": "Former chancellor George Osborne joins OpenAI",
-            "link": "https://www.bbc.com/news/articles/cd6xz1jv4ezo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 16 Dec 2025 19:37:20 GMT"
-        },
-        {
-            "title": "UK launches taskforce to 'break down barriers' for women in technology",
-            "link": "https://www.bbc.com/news/articles/cg7vez25ly5o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 16 Dec 2025 00:04:18 GMT"
         }
     ]
 }
