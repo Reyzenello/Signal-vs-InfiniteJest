@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Memo: TikTok CEO Shou Zi Chew says ByteDance's US entities will retain direct control over core US revenue drivers, including ecommerce, ads, and marketing (Financial Times)",
+            "link": "http://www.techmeme.com/251219/p11#a251219p11",
+            "published": "Fri, 19 Dec 2025 09:30:03 -0500"
+        },
+        {
+            "title": "Sources: Google has formed a new executive council to allocate computing capacity given a critical shortage; members include Thomas Kurian and Demis Hassabis (Erin Woo/The Information)",
+            "link": "http://www.techmeme.com/251219/p10#a251219p10",
+            "published": "Fri, 19 Dec 2025 09:21:18 -0500"
+        },
+        {
+            "title": "Sources: China is retrofitting older models of ASML's DUV machines to produce advanced smartphone and AI chips, exposing cracks in US-led export controls (Eleanor Olcott/Financial Times)",
+            "link": "http://www.techmeme.com/251219/p9#a251219p9",
+            "published": "Fri, 19 Dec 2025 08:50:02 -0500"
+        },
+        {
             "title": "DraftKings launches DraftKings Predictions, a new app that lets customers in 38 states trade contracts on sports and financial events through prediction markets (Ira Boudway/Bloomberg)",
             "link": "http://www.techmeme.com/251219/p8#a251219p8",
             "published": "Fri, 19 Dec 2025 08:30:00 -0500"
@@ -9,21 +24,6 @@
             "title": "Denmark says Russia was behind \"destructive and disruptive\" cyberattacks on a water utility in 2024 and DDoS attacks in the lead-up to local November elections (Miranda Bryant/The Guardian)",
             "link": "http://www.techmeme.com/251219/p7#a251219p7",
             "published": "Fri, 19 Dec 2025 07:55:00 -0500"
-        },
-        {
-            "title": "Sources: The Chan Zuckerberg Initiative cuts ties with FWD.us, an immigration advocacy group founded by Mark Zuckerberg, eliminating FWD.us' main funding source (Bloomberg)",
-            "link": "http://www.techmeme.com/251219/p6#a251219p6",
-            "published": "Fri, 19 Dec 2025 07:05:14 -0500"
-        },
-        {
-            "title": "Coinbase sues Connecticut, Illinois and Michigan over state attempts to regulate prediction markets, arguing that they fall under the jurisdiction of the CFTC (Olga Kharif/Bloomberg)",
-            "link": "http://www.techmeme.com/251219/p5#a251219p5",
-            "published": "Fri, 19 Dec 2025 05:50:05 -0500"
-        },
-        {
-            "title": "Sources: UK officials believe China was behind the October cyber attack on the UK's Foreign Office, which aimed to access tens of thousands of sensitive files (Financial Times)",
-            "link": "http://www.techmeme.com/251219/p4#a251219p4",
-            "published": "Fri, 19 Dec 2025 05:45:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Will the TikTok deal mean the app changes in the US?",
+            "link": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 19 Dec 2025 13:45:50 GMT"
+        },
+        {
             "title": "TikTok owner signs deal to avoid US ban",
             "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 19 Dec 2025 07:27:18 GMT"
@@ -73,11 +78,6 @@
             "title": "One in three using AI for emotional support and conversation, UK says",
             "link": "https://www.bbc.com/news/articles/cd6xl3ql3v0o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 18 Dec 2025 12:37:46 GMT"
-        },
-        {
-            "title": "Facebook tests \u00a39.99 monthly subscription for sharing more than two links",
-            "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 18 Dec 2025 12:13:14 GMT"
         }
     ]
 }
