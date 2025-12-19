@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "US approving Nvidia H200 exports to China is based on the idea that Huawei is a viable competitor, but data shows the gap between Nvidia and Huawei is widening (Chris McGuire/Council on Foreign ...)",
+            "link": "http://www.techmeme.com/251218/p53#a251218p53",
+            "published": "Thu, 18 Dec 2025 20:50:01 -0500"
+        },
+        {
+            "title": "Sources: Riot Games is working on a major overhaul of League of Legends, internally called League Next, for 2027; Riot confirms a big update is in the works (Cecilia D'Anastasio/Bloomberg)",
+            "link": "http://www.techmeme.com/251218/p52#a251218p52",
+            "published": "Thu, 18 Dec 2025 19:43:20 -0500"
+        },
+        {
+            "title": "Pennsylvania's Supreme Court rules that police can get Google search data without a warrant; an expert warns it may encourage warrantless searches nationwide (Suzanne Smalley/The Record)",
+            "link": "http://www.techmeme.com/251218/p51#a251218p51",
+            "published": "Thu, 18 Dec 2025 18:30:00 -0500"
+        },
+        {
             "title": "Mistral launches Mistral OCR 3, featuring improvements in processing forms, scanned documents, complex tables, and handwriting, priced at $2 per 1,000 pages (Mistral AI)",
             "link": "http://www.techmeme.com/251218/p50#a251218p50",
             "published": "Thu, 18 Dec 2025 18:15:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Memo: the TikTok US deal is set to close on Jan. 22; terms include retraining the recommendation algorithm on US user data and Oracle overseeing data protection (Alex Weprin/The Hollywood Reporter)",
             "link": "http://www.techmeme.com/251218/p49#a251218p49",
             "published": "Thu, 18 Dec 2025 17:55:02 -0500"
-        },
-        {
-            "title": "Internal memo: TikTok has signed a deal to sell its US unit; Oracle, Silver Lake, MGX will collectively own 45% of the US entity, and ByteDance will retain ~20% (Sara Fischer/Axios)",
-            "link": "http://www.techmeme.com/251218/p48#a251218p48",
-            "published": "Thu, 18 Dec 2025 17:30:00 -0500"
-        },
-        {
-            "title": "Sources: OpenAI's new fundraising round could value it at as much as $830B; it aims to raise up to $100B and complete the round by the end of Q1 at the earliest (Wall Street Journal)",
-            "link": "http://www.techmeme.com/251218/p47#a251218p47",
-            "published": "Thu, 18 Dec 2025 17:25:00 -0500"
-        },
-        {
-            "title": "Sources: Meta is developing a new image and video-focused AI model codenamed Mango, expected to be released in H1 2026 along with its new LLM dubbed Avocado (Meghan Bobrowsky/Wall Street Journal)",
-            "link": "http://www.techmeme.com/251218/p46#a251218p46",
-            "published": "Thu, 18 Dec 2025 17:05:04 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,19 @@
     ],
     "source_2": [
         {
+            "title": "TikTok owner signs agreements to avoid US  ban",
+            "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 19 Dec 2025 02:16:55 GMT"
+        },
+        {
             "title": "UK to ban deepfake AI 'nudification' apps",
             "link": "https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 18 Dec 2025 17:43:14 GMT"
+        },
+        {
+            "title": "\u00a3100 contactless card limit to be lifted",
+            "link": "https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 19 Dec 2025 00:04:39 GMT"
         },
         {
             "title": "One in three using AI for emotional support and conversation, UK says",
@@ -68,16 +78,6 @@
             "title": "Facebook tests \u00a39.99 monthly subscription for sharing more than two links",
             "link": "https://www.bbc.com/news/articles/cp9kv3lezgro?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 18 Dec 2025 12:13:14 GMT"
-        },
-        {
-            "title": "Parents told to lead by example and turn off phones this Christmas",
-            "link": "https://www.bbc.com/news/articles/c1dz9nnp52eo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 18 Dec 2025 02:28:22 GMT"
-        },
-        {
-            "title": "Fifa video game to return after four years in Netflix exclusive",
-            "link": "https://www.bbc.com/news/articles/c93w7dp42z2o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 17 Dec 2025 18:20:44 GMT"
         }
     ]
 }
