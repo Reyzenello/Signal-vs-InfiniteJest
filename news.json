@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "How AI can work across scales, from individuals to organizations to economies, like steel and the steam engine before it, as AI arrives as \"infinite minds\" (Ivan Zhao/@ivanhzhao)",
+            "link": "http://www.techmeme.com/251223/p5#a251223p5",
+            "published": "Tue, 23 Dec 2025 05:00:01 -0500"
+        },
+        {
             "title": "US companies sold $1.7T of investment-grade bonds in 2025, nearing the $1.8T 2020 record, driven by AI infrastructure borrowing; Goldman says AI makes up ~30% (Kate Duguid/Financial Times)",
             "link": "http://www.techmeme.com/251223/p4#a251223p4",
             "published": "Tue, 23 Dec 2025 02:15:02 -0500"
@@ -19,11 +24,6 @@
             "title": "Sources reveal inconsistencies in Megaspeed's chip inventory, as the US probes the Singapore AI startup over alleged Chinese ownership and Nvidia chip smuggling (Bloomberg)",
             "link": "http://www.techmeme.com/251223/p1#a251223p1",
             "published": "Tue, 23 Dec 2025 00:00:13 -0500"
-        },
-        {
-            "title": "The Pentagon partners with xAI to embed the company's frontier AI systems, based on the Grok family of models, directly into GenAI.mil as soon as early 2026 (Bonny Chu/Fox News)",
-            "link": "http://www.techmeme.com/251222/p29#a251222p29",
-            "published": "Mon, 22 Dec 2025 21:55:19 -0500"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "TikTok removes AI weight loss ads from fake Boots account",
+            "link": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 23 Dec 2025 09:23:51 GMT"
+        },
+        {
             "title": "Call of Duty co-creator Vince Zampella dies in California car crash",
             "link": "https://www.bbc.com/news/articles/cx25rled0ylo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 23 Dec 2025 00:48:58 GMT"
+            "published": "Tue, 23 Dec 2025 10:04:47 GMT"
         },
         {
             "title": "Amazon blocks 1,800 job applications from suspected North Korean agents",
@@ -73,11 +78,6 @@
             "title": "Will the US TikTok deal make it safer but less relevant?",
             "link": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 19 Dec 2025 13:45:50 GMT"
-        },
-        {
-            "title": "TikTok owner signs deal to avoid US ban",
-            "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 19 Dec 2025 07:27:18 GMT"
         }
     ]
 }
