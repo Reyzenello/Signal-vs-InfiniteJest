@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The Pentagon partners with xAI to embed the company's frontier AI systems, based on the Grok family of models, directly into GenAI.mil as soon as early 2026 (Bonny Chu/Fox News)",
+            "link": "http://www.techmeme.com/251222/p29#a251222p29",
+            "published": "Mon, 22 Dec 2025 21:55:19 -0500"
+        },
+        {
             "title": "The US FCC bans imports, marketing, and sales of new foreign-made drones and components, including from China's DJI and Autel, citing national security concerns (Heather Somerville/Wall Street Journal)",
             "link": "http://www.techmeme.com/251222/p28#a251222p28",
             "published": "Mon, 22 Dec 2025 21:20:00 -0500"
@@ -19,11 +24,6 @@
             "title": "OpenAI details efforts to secure its ChatGPT Atlas browser against prompt injection attacks, including building an \"LLM-based automated attacker\" (Rebecca Bellan/TechCrunch)",
             "link": "http://www.techmeme.com/251222/p25#a251222p25",
             "published": "Mon, 22 Dec 2025 18:45:01 -0500"
-        },
-        {
-            "title": "Coinbase agrees to acquire prediction markets startup The Clearing Company for an undisclosed sum; the startup was founded in 2025 and raised a $15M seed (Yogita Khatri/The Block)",
-            "link": "http://www.techmeme.com/251222/p24#a251222p24",
-            "published": "Mon, 22 Dec 2025 17:50:01 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 23 Dec 2025 00:48:58 GMT"
         },
         {
+            "title": "Amazon blocks 1,800 job applications from suspected North Korean agents",
+            "link": "https://www.bbc.com/news/articles/c3e0kw80wwzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 23 Dec 2025 02:49:45 GMT"
+        },
+        {
             "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
             "link": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Dec 2025 14:08:48 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok owner signs deal to avoid US ban",
             "link": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 19 Dec 2025 07:27:18 GMT"
-        },
-        {
-            "title": "UK to ban deepfake AI 'nudification' apps",
-            "link": "https://www.bbc.com/news/articles/cq8dp2y0z7wo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 18 Dec 2025 17:43:14 GMT"
         }
     ]
 }
