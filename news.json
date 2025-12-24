@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Starlink says it has reached 9M \"active customers\" across 155 countries, territories, and other markets, up from 8M on November 5 (Polly Thompson/Business Insider)",
+            "link": "http://www.techmeme.com/251223/p26#a251223p26",
+            "published": "Tue, 23 Dec 2025 20:30:02 -0500"
+        },
+        {
+            "title": "The Trump administration plans to replace the lottery system for H-1B visas with a \"weighted\" system prioritizing higher-paid individuals, starting February 27 (Aime Williams/Financial Times)",
+            "link": "http://www.techmeme.com/251223/p25#a251223p25",
+            "published": "Tue, 23 Dec 2025 19:45:04 -0500"
+        },
+        {
+            "title": "Sources: Snowflake is in talks to buy app monitoring startup Observe for around $1B; Observe has raised more than $470M (The Information)",
+            "link": "http://www.techmeme.com/251223/p24#a251223p24",
+            "published": "Tue, 23 Dec 2025 19:25:01 -0500"
+        },
+        {
             "title": "Fleet management software provider Motive files for a US IPO, reporting a $138.5M net loss on $327.3M in revenue for the nine months ended September 30 (Prakhar Srivastava/Reuters)",
             "link": "http://www.techmeme.com/251223/p23#a251223p23",
             "published": "Tue, 23 Dec 2025 18:05:00 -0500"
@@ -9,21 +24,6 @@
             "title": "The US is imposing visa restrictions on five Europeans, including Thierry Breton, accusing them of pressuring US tech companies to censor certain US viewpoints (Fatima Hussein/Associated Press)",
             "link": "http://www.techmeme.com/251223/p22#a251223p22",
             "published": "Tue, 23 Dec 2025 17:20:01 -0500"
-        },
-        {
-            "title": "Marissa Mayer's new startup Dazzle, which is building next-gen AI personal assistants, raised an $8M seed at a $35M valuation and plans to exit stealth in 2026 (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/251223/p21#a251223p21",
-            "published": "Tue, 23 Dec 2025 14:45:01 -0500"
-        },
-        {
-            "title": "A federal judge grants a temporary injunction blocking a Texas law requiring mobile app stores to verify users' ages from taking effect on January 1 (Lauren Feiner/The Verge)",
-            "link": "http://www.techmeme.com/251223/p20#a251223p20",
-            "published": "Tue, 23 Dec 2025 13:35:02 -0500"
-        },
-        {
-            "title": "Xbox had a terrible 2025: Microsoft canceled games and raised console and Game Pass prices, Costco stopped selling Xbox, and Valve's Steam Machine upstaged it (Devindra Hardawar/Engadget)",
-            "link": "http://www.techmeme.com/251223/p19#a251223p19",
-            "published": "Tue, 23 Dec 2025 13:00:41 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 22 Dec 2025 16:47:49 +0000"
         },
         {
-            "title": "How Much Water Does the A.I. Industry Use?",
-            "link": "https://www.nytimes.com/video/technology/100000010606632/how-much-water-does-the-ai-industry-use.html",
-            "published": "Tue, 23 Dec 2025 18:43:10 +0000"
+            "title": "Texas Age-Verification Law for App Stores Is Blocked, a Win for Apple and Google",
+            "link": "https://www.nytimes.com/2025/12/23/technology/texas-app-age-law-blocked.html",
+            "published": "Wed, 24 Dec 2025 01:44:01 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US denies visas to ex-EU commissioner and others over social media rules",
+            "link": "https://www.bbc.com/news/articles/cp39kngz008o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 24 Dec 2025 00:45:28 GMT"
+        },
         {
             "title": "TikTok removes AI weight loss ads from fake Boots account",
             "link": "https://www.bbc.com/news/articles/c997lkdjdy5o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Uber and Lyft announce plans to trial Chinese robotaxis in UK in 2026",
             "link": "https://www.bbc.com/news/articles/cy8jmx1dl9ro?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Dec 2025 14:08:48 GMT"
-        },
-        {
-            "title": "Will the US TikTok deal make it safer but less relevant?",
-            "link": "https://www.bbc.com/news/articles/clydp2ygrveo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 19 Dec 2025 13:45:50 GMT"
         }
     ]
 }
