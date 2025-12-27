@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "As inference splits into prefill and decode, Nvidia's Groq deal could enable a \"Rubin SRAM\" variant optimized for ultra-low latency agentic reasoning workloads (Gavin Baker/@gavinsbaker)",
+            "link": "http://www.techmeme.com/251227/p4#a251227p4",
+            "published": "Sat, 27 Dec 2025 02:35:01 -0500"
+        },
+        {
             "title": "ServiceNow has spent $12B+ on acquisitions and investments in 2025 amid concerns about revenue growth, projected to fall below 20% in 2026 without acquisitions (Brody Ford/Bloomberg)",
             "link": "http://www.techmeme.com/251227/p3#a251227p3",
             "published": "Sat, 27 Dec 2025 02:15:00 -0500"
@@ -19,11 +24,6 @@
             "title": "NY Gov. Kathy Hochul signs a law requiring social platforms with features like addictive feeds to show warning labels about mental health impacts on young users (Andre Revilla/Engadget)",
             "link": "http://www.techmeme.com/251226/p16#a251226p16",
             "published": "Fri, 26 Dec 2025 22:05:01 -0500"
-        },
-        {
-            "title": "The Groq deal secures key talent for Nvidia, including CEO Jonathan Ross, creator of the TPU, and keeps them from companies that may try to make their own chips (M.G. Siegler/Spyglass)",
-            "link": "http://www.techmeme.com/251226/p15#a251226p15",
-            "published": "Fri, 26 Dec 2025 21:00:28 -0500"
         }
     ],
     "source_1": [
