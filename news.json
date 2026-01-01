@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Hundreds of megawatts of new data center capacity are being planned in Vernon, a city near LA, which is a key US-Asia cable-linking hub and is becoming crowded (Nilesh Christopher/Los Angeles Times)",
+            "link": "http://www.techmeme.com/260101/p7#a260101p7",
+            "published": "Thu, 01 Jan 2026 04:37:01 -0500"
+        },
+        {
             "title": "Sources: SpaceX, OpenAI, and Anthropic could IPO in 2026; those three deals alone would exceed the total proceeds from roughly 200 US IPOs in 2025 (George Hammond/Financial Times)",
             "link": "http://www.techmeme.com/260101/p6#a260101p6",
             "published": "Thu, 01 Jan 2026 02:30:00 -0500"
@@ -19,11 +24,6 @@
             "title": "Report: China-based Moonshot AI, maker of Kimi models, raised a $500M Series C at a $4.3B valuation led by IDG Capital, with Alibaba and Tencent participating (Iris Deng/South China Morning Post)",
             "link": "http://www.techmeme.com/260101/p3#a260101p3",
             "published": "Thu, 01 Jan 2026 01:20:00 -0500"
-        },
-        {
-            "title": "Some 2025 takeaways in LLMs: reasoning as a signature feature, coding agents were useful, subscriptions hit $200/month, and Chinese open-weight models impressed (Simon Willison/Simon Willison's Weblog)",
-            "link": "http://www.techmeme.com/260101/p2#a260101p2",
-            "published": "Thu, 01 Jan 2026 01:15:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 29 Dec 2025 23:20:24 +0000"
         },
         {
-            "title": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia",
-            "link": "https://www.nytimes.com/2025/12/31/magazine/ukraine-ai-drones-war-russia.html",
-            "published": "Wed, 31 Dec 2025 17:00:12 +0000"
+            "title": "Even the Sky May Not Be the Limit for A.I. Data Centers",
+            "link": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
+            "published": "Thu, 01 Jan 2026 10:00:32 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Crypto users forced to share account details with tax officials",
+            "link": "https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Jan 2026 09:52:20 GMT"
+        },
         {
             "title": "Meta buys Chinese-founded AI start-up Manus",
             "link": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "James Bond game 007 First Light delayed to May 2026",
             "link": "https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 29 Dec 2025 10:22:44 GMT"
-        },
-        {
-            "title": "Many new UK drone users must take theory test before flying outside",
-            "link": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 29 Dec 2025 00:02:30 GMT"
         }
     ]
 }
