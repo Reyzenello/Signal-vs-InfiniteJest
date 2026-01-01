@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Brookfield is launching a cloud company called Radiant and a new $10B AI fund, and plans to acquire up to $100B in land, data centers, and power assets for AI (Miles Kruppa/The Information)",
+            "link": "http://www.techmeme.com/260101/p15#a260101p15",
+            "published": "Thu, 01 Jan 2026 17:10:01 -0500"
+        },
+        {
             "title": "How AI automation can fulfill Thomas Piketty's predictions on rising economic inequality, and why highly progressive taxes on capital can help slow the spiral (Philosopher Count)",
             "link": "http://www.techmeme.com/260101/p14#a260101p14",
             "published": "Thu, 01 Jan 2026 15:00:14 -0500"
@@ -19,40 +24,9 @@
             "title": "DeepSeek researchers detail a new mHC architecture they used to train 3B, 9B, and 27B models, finding it scaled without adding significant computational burden (Vincent Chow/South China Morning Post)",
             "link": "http://www.techmeme.com/260101/p11#a260101p11",
             "published": "Thu, 01 Jan 2026 11:15:01 -0500"
-        },
-        {
-            "title": "Sources: OpenAI ramped up efforts to improve its audio AI models, in preparation for its AI-powered personal device, which is expected to be largely audio-based (Stephanie Palazzolo/The Information)",
-            "link": "http://www.techmeme.com/260101/p10#a260101p10",
-            "published": "Thu, 01 Jan 2026 10:10:02 -0500"
         }
     ],
-    "source_1": [
-        {
-            "title": "The New Billionaires of the A.I. Boom",
-            "link": "https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html",
-            "published": "Mon, 29 Dec 2025 22:53:31 +0000"
-        },
-        {
-            "title": "From A.I. to Chips, Big Tech Is Getting What It Wants From Trump",
-            "link": "https://www.nytimes.com/2025/12/28/technology/tech-trump.html",
-            "published": "Sun, 28 Dec 2025 10:01:54 +0000"
-        },
-        {
-            "title": "A Wealth Tax Floated in California Has Billionaires Thinking of Leaving",
-            "link": "https://www.nytimes.com/2025/12/26/technology/california-wealth-tax-page-thiel.html",
-            "published": "Fri, 26 Dec 2025 22:23:55 +0000"
-        },
-        {
-            "title": "Louis V. Gerstner, Who Revived a Faltering IBM in the \u201990s, Dies at 83",
-            "link": "https://www.nytimes.com/2025/12/29/business/louis-v-gerstner-dead.html",
-            "published": "Mon, 29 Dec 2025 23:20:24 +0000"
-        },
-        {
-            "title": "Even the Sky May Not Be the Limit for A.I. Data Centers",
-            "link": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
-            "published": "Thu, 01 Jan 2026 10:00:32 +0000"
-        }
-    ],
+    "source_1": [],
     "source_2": [
         {
             "title": "Crypto users forced to share account details with tax officials",
