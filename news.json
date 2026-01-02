@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An interview with analyst Benedict Evans on the role of productization in AI adoption, AI bubble, OpenAI, comparing Nvidia to Sun Microsystems, and more (The Circuit on YouTube)",
+            "link": "http://www.techmeme.com/260102/p7#a260102p7",
+            "published": "Fri, 02 Jan 2026 11:30:01 -0500"
+        },
+        {
             "title": "xAI's Grok says \"lapses in safeguards\" led it to create sexualized images of minors in response to user prompts on X; the images have been taken down (Bloomberg)",
             "link": "http://www.techmeme.com/260102/p6#a260102p6",
             "published": "Fri, 02 Jan 2026 10:25:00 -0500"
@@ -19,41 +24,41 @@
             "title": "UK crypto buyers are required to share their account details with tax officials starting January 1 or face penalties, as the UK seeks to collect unpaid taxes (Rachel Clun/BBC)",
             "link": "http://www.techmeme.com/260102/p3#a260102p3",
             "published": "Fri, 02 Jan 2026 05:50:41 -0500"
-        },
-        {
-            "title": "How Meta's Reels became a hit, with a $50B+ annual run rate; Sensor Tower: users spend 27 minutes/day on Instagram Reels, 21 on YouTube Shorts, and 44 on TikTok (Meghan Bobrowsky/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260102/p2#a260102p2",
-            "published": "Fri, 02 Jan 2026 04:15:05 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "As Schools Embrace A.I. Tools, Skeptics Raise Concerns",
+            "link": "https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html",
+            "published": "Fri, 02 Jan 2026 14:29:46 +0000"
+        },
+        {
+            "title": "Even the Sky May Not Be the Limit for A.I. Data Centers",
+            "link": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
+            "published": "Thu, 01 Jan 2026 10:00:32 +0000"
+        },
         {
             "title": "The New Billionaires of the A.I. Boom",
             "link": "https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html",
             "published": "Mon, 29 Dec 2025 22:53:31 +0000"
         },
         {
-            "title": "From A.I. to Chips, Big Tech Is Getting What It Wants From Trump",
-            "link": "https://www.nytimes.com/2025/12/28/technology/tech-trump.html",
-            "published": "Sun, 28 Dec 2025 10:01:54 +0000"
-        },
-        {
-            "title": "A Wealth Tax Floated in California Has Billionaires Thinking of Leaving",
-            "link": "https://www.nytimes.com/2025/12/26/technology/california-wealth-tax-page-thiel.html",
-            "published": "Fri, 26 Dec 2025 22:23:55 +0000"
-        },
-        {
-            "title": "Louis V. Gerstner, Who Revived a Faltering IBM in the \u201990s, Dies at 83",
-            "link": "https://www.nytimes.com/2025/12/29/business/louis-v-gerstner-dead.html",
-            "published": "Mon, 29 Dec 2025 23:20:24 +0000"
+            "title": "Our 2026 Tech Resolutions + We Answer Your Questions",
+            "link": "https://www.nytimes.com/2026/01/02/podcasts/hardfork-tech-resolutions-listener-questions.html",
+            "published": "Fri, 02 Jan 2026 12:00:03 +0000"
         },
         {
             "title": "Tesla Car Sales Dropped 9% in 2025, Falling Behind China\u2019s BYD",
             "link": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html",
-            "published": "Fri, 02 Jan 2026 14:58:10 +0000"
+            "published": "Fri, 02 Jan 2026 16:17:46 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Elon Musk's Grok AI alters images of women to digitally remove their clothes",
+            "link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Jan 2026 16:00:55 GMT"
+        },
         {
             "title": "Why everything from your phone to your PC may get pricier in 2026",
             "link": "https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Crypto users forced to share account details with tax officials",
             "link": "https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 01 Jan 2026 09:52:20 GMT"
-        },
-        {
-            "title": "Meta buys Chinese-founded AI start-up Manus",
-            "link": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 30 Dec 2025 17:30:36 GMT"
         }
     ]
 }
