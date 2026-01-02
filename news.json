@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Brookfield is launching a cloud company called Radiant and a new $10B AI fund, and plans to acquire up to $100B in land, data centers, and power assets for AI (Miles Kruppa/The Information)",
+            "title": "Baidu's AI chip unit Kunlunxin confidentially files for a Hong Kong IPO, paving the way for a spin-off; a recent fundraising reportedly valued it at ~$3B (Sneha Kumar/Reuters)",
+            "link": "http://www.techmeme.com/260101/p17#a260101p17",
+            "published": "Thu, 01 Jan 2026 20:30:02 -0500"
+        },
+        {
+            "title": "SpaceX plans to lower its Starlink satellites from orbiting at ~550km to ~480km in 2026 to improve space safety and reduce the likelihood of debris collisions (Rishabh Jaiswal/Reuters)",
+            "link": "http://www.techmeme.com/260101/p16#a260101p16",
+            "published": "Thu, 01 Jan 2026 18:50:01 -0500"
+        },
+        {
+            "title": "Brookfield is starting cloud company Radiant and a new $10B AI fund, after saying it plans to acquire up to $100B in land, data centers, and power assets for AI (Miles Kruppa/The Information)",
             "link": "http://www.techmeme.com/260101/p15#a260101p15",
             "published": "Thu, 01 Jan 2026 17:10:01 -0500"
         },
@@ -11,19 +21,9 @@
             "published": "Thu, 01 Jan 2026 15:00:14 -0500"
         },
         {
-            "title": "A look at US tech laws rolling out in 2026, including California's SB 53 AI transparency law and Virginia's new social media limits for minors, effective today (Adi Robertson/The Verge)",
+            "title": "A look at US tech laws coming in 2026, like California's SB 53 AI transparency law and Virginia's new social media limits for minors, effective from January 1 (Adi Robertson/The Verge)",
             "link": "http://www.techmeme.com/260101/p13#a260101p13",
             "published": "Thu, 01 Jan 2026 13:55:01 -0500"
-        },
-        {
-            "title": "Ukraine has become a live-fire test range for AI drones like the Bumblebee, provided by a secretive Eric Schmidt-led venture, raising alarms in Kremlin circles (C.J. Chivers/New York Times)",
-            "link": "http://www.techmeme.com/260101/p12#a260101p12",
-            "published": "Thu, 01 Jan 2026 12:35:01 -0500"
-        },
-        {
-            "title": "DeepSeek researchers detail a new mHC architecture they used to train 3B, 9B, and 27B models, finding it scaled without adding significant computational burden (Vincent Chow/South China Morning Post)",
-            "link": "http://www.techmeme.com/260101/p11#a260101p11",
-            "published": "Thu, 01 Jan 2026 11:15:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,21 @@
     ],
     "source_2": [
         {
+            "title": "Why everything from your phone to your PC may get pricier in 2026",
+            "link": "https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Jan 2026 01:04:07 GMT"
+        },
+        {
+            "title": "China's BYD set to overtake Tesla as world's top EV seller",
+            "link": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Jan 2026 02:15:34 GMT"
+        },
+        {
+            "title": "How the defence sector is battling a skills crisis",
+            "link": "https://www.bbc.com/news/articles/clyd1lpp1lyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Jan 2026 00:53:13 GMT"
+        },
+        {
             "title": "Crypto users forced to share account details with tax officials",
             "link": "https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 01 Jan 2026 09:52:20 GMT"
@@ -63,21 +78,6 @@
             "title": "Meta buys Chinese-founded AI start-up Manus",
             "link": "https://www.bbc.com/news/articles/ce3k11q9qe1o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 30 Dec 2025 17:30:36 GMT"
-        },
-        {
-            "title": "A wave paralysed me but AI could help me walk again",
-            "link": "https://www.bbc.com/news/articles/cqjgx1xkjg7o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 31 Dec 2025 05:59:35 GMT"
-        },
-        {
-            "title": "China to crack down on AI firms to protect kids",
-            "link": "https://www.bbc.com/news/articles/c8dydlmenvro?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 30 Dec 2025 02:32:33 GMT"
-        },
-        {
-            "title": "James Bond game 007 First Light delayed to May 2026",
-            "link": "https://www.bbc.com/news/articles/c1lrlm9ydgno?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 29 Dec 2025 10:22:44 GMT"
         }
     ]
 }
