@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Qualcomm unveils Snapdragon X2 Plus chips for PCs, available in 10-core and 6-core variants, manufactured on TSMC's N3P node using Qualcomm's Oryon architecture (Jake Roach/Tom's Hardware)",
+            "link": "http://www.techmeme.com/260105/p21#a260105p21",
+            "published": "Mon, 05 Jan 2026 12:15:00 -0500"
+        },
+        {
             "title": "Amazon launches Alexa+ in early access for all users via a new web interface at Alexa.com and now lets users upload documents, emails, and images (Terrence O'Brien/The Verge)",
             "link": "http://www.techmeme.com/260105/p20#a260105p20",
             "published": "Mon, 05 Jan 2026 10:20:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Qualcomm unveils the Dragonwing IQ10 Series, a full-stack robotics architecture integrating hardware, software, and AI for industrial and consumer humanoids (Katie Collins/CNET)",
             "link": "http://www.techmeme.com/260105/p17#a260105p17",
             "published": "Mon, 05 Jan 2026 09:25:00 -0500"
-        },
-        {
-            "title": "Lyte, founded by ex-Apple Face ID engineers, emerges from stealth and raised ~$107M to develop tech to help robots see better and move more safely in the world (Samantha Kelly/Bloomberg)",
-            "link": "http://www.techmeme.com/260105/p16#a260105p16",
-            "published": "Mon, 05 Jan 2026 09:15:00 -0500"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Fri, 02 Jan 2026 12:00:03 +0000"
         },
         {
-            "title": "China\u2019s BYD Surpasses Tesla as World Leader in Electric Car Sales",
-            "link": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html",
-            "published": "Fri, 02 Jan 2026 19:47:35 +0000"
+            "title": "New Car Sales Are Rising Thanks to Purchases by the Well-Off",
+            "link": "https://www.nytimes.com/2026/01/05/business/new-car-sales.html",
+            "published": "Mon, 05 Jan 2026 16:48:03 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "UK regulator asks X about reports its AI makes 'sexualised images of children'",
+            "title": "Ofcom asks X about reports its Grok AI makes sexualised images of children",
             "link": "https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 05 Jan 2026 15:34:56 GMT"
+            "published": "Mon, 05 Jan 2026 17:13:02 GMT"
         },
         {
             "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
