@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia launches the Vera Rubin platform, saying it will offer dramatic reductions in inference and training costs compared to Blackwell, across six new chips (Stevie Bonifield/The Verge)",
+            "link": "http://www.techmeme.com/260105/p28#a260105p28",
+            "published": "Mon, 05 Jan 2026 18:15:00 -0500"
+        },
+        {
             "title": "Boston Dynamics unveils a new iteration of its Atlas humanoid robot designed to work in Hyundai's plants starting in 2028, including at a factory in Georgia (Hyonhee Shin/Bloomberg)",
             "link": "http://www.techmeme.com/260105/p27#a260105p27",
             "published": "Mon, 05 Jan 2026 17:25:01 -0500"
@@ -19,14 +24,14 @@
             "title": "A viral Reddit post by a purported developer alleging that a \"major food delivery app\" exploits drivers appears AI-generated; Uber and DoorDash deny the claims (Elissa Welle/The Verge)",
             "link": "http://www.techmeme.com/260105/p24#a260105p24",
             "published": "Mon, 05 Jan 2026 14:25:00 -0500"
-        },
-        {
-            "title": "Sources: Nvidia has struggled to monetize its Omniverse software and the company shuttered the Omniverse Cloud service in August 2025 due to lack of demand (The Information)",
-            "link": "http://www.techmeme.com/260105/p23#a260105p23",
-            "published": "Mon, 05 Jan 2026 14:00:28 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes",
+            "link": "https://www.nytimes.com/2026/01/05/technology/nvidia-chips-mercedes.html",
+            "published": "Mon, 05 Jan 2026 23:12:50 +0000"
+        },
         {
             "title": "As Schools Embrace A.I. Tools, Skeptics Raise Concerns",
             "link": "https://www.nytimes.com/2026/01/02/technology/school-ai-chatgpt-estonia-iceland.html",
@@ -36,11 +41,6 @@
             "title": "Even the Sky May Not Be the Limit for A.I. Data Centers",
             "link": "https://www.nytimes.com/2026/01/01/technology/space-data-centers-ai.html",
             "published": "Thu, 01 Jan 2026 10:00:32 +0000"
-        },
-        {
-            "title": "The New Billionaires of the A.I. Boom",
-            "link": "https://www.nytimes.com/2025/12/29/technology/new-billionaires-ai-boom.html",
-            "published": "Mon, 29 Dec 2025 22:53:31 +0000"
         },
         {
             "title": "Our 2026 Tech Resolutions + We Answer Your Questions",
