@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "AMD unveils Ryzen AI 400 Series AI PC chips with 12 CPU cores, claiming 1.3x faster multitasking and 1.7x faster content creation than rivals (Rebecca Szkutak/TechCrunch)",
+            "link": "http://www.techmeme.com/260105/p39#a260105p39",
+            "published": "Mon, 05 Jan 2026 23:00:13 -0500"
+        },
+        {
+            "title": "Jensen Huang says Nvidia's Vera Rubin chips are in \"full production\"; Nvidia says Rubin can train some LLMs with roughly one-fourth the chips Blackwell needs (Lauren Goode/Wired)",
+            "link": "http://www.techmeme.com/260105/p38#a260105p38",
+            "published": "Mon, 05 Jan 2026 22:45:00 -0500"
+        },
+        {
+            "title": "Xreal partners with Asus to unveil ROG Xreal R1 gaming glasses with 1080p micro-OLED displays and a 240Hz refresh rate, launching in H1 2026 (Cameron Faulkner/The Verge)",
+            "link": "http://www.techmeme.com/260105/p37#a260105p37",
+            "published": "Mon, 05 Jan 2026 21:40:00 -0500"
+        },
+        {
             "title": "Nvidia says it's seeing \"strong\" demand from China for its H200 chips but is awaiting approvals from both Washington and Beijing before sales could begin (Nikkei Asia)",
             "link": "http://www.techmeme.com/260105/p36#a260105p36",
             "published": "Mon, 05 Jan 2026 21:20:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Apple's macOS Tahoe adds icons to every menu item, resulting in menus that are hard to use and go against the long-standing Macintosh Human Interface Guidelines (Niki Tonsky/tonsky.me)",
             "link": "http://www.techmeme.com/260105/p35#a260105p35",
             "published": "Mon, 05 Jan 2026 21:05:01 -0500"
-        },
-        {
-            "title": "A look at Nvidia's Level 2 driving system, set to roll out to more carmakers in 2026, after a ~40-minute drive around San Francisco in a Mercedes-Benz CLA sedan (Andrew J. Hawkins/The Verge)",
-            "link": "http://www.techmeme.com/260105/p34#a260105p34",
-            "published": "Mon, 05 Jan 2026 20:40:00 -0500"
-        },
-        {
-            "title": "X faces fresh probes in Europe, India, and Malaysia after Grok generated explicit images of women and children; the UK says it has requested related info from X (Lora Kolodny/CNBC)",
-            "link": "http://www.techmeme.com/260105/p33#a260105p33",
-            "published": "Mon, 05 Jan 2026 20:30:02 -0500"
-        },
-        {
-            "title": "Nvidia announces the Alpamayo family of AI models, tools, and datasets for AVs, and details a collaboration with Mercedes-Benz on its first full-stack AV effort (Larry Dignan/Constellation Research)",
-            "link": "http://www.techmeme.com/260105/p32#a260105p32",
-            "published": "Mon, 05 Jan 2026 19:45:01 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Mon, 05 Jan 2026 17:43:50 GMT"
         },
         {
+            "title": "Hyundai to use human-like robots in factories",
+            "link": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Jan 2026 03:26:38 GMT"
+        },
+        {
             "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
             "link": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 05 Jan 2026 00:01:31 GMT"
@@ -73,11 +78,6 @@
             "title": "Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes",
             "link": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 02 Jan 2026 17:12:25 GMT"
-        },
-        {
-            "title": "Why everything from your phone to your PC may get pricier in 2026",
-            "link": "https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 02 Jan 2026 01:04:07 GMT"
         }
     ]
 }
