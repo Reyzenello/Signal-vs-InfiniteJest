@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "LMArena, which runs a leaderboard ranking AI models based on their performance, raised $150M at a $1.7B post-money valuation, taking its total funding to $250M+ (The Information)",
+            "link": "http://www.techmeme.com/260106/p18#a260106p18",
+            "published": "Tue, 06 Jan 2026 10:30:00 -0500"
+        },
+        {
+            "title": "Razer plans to invest $600M in AI over \"the next couple of years\", as the gaming peripherals maker unveils new AI products like headphones with built-in cameras (Dana Wollman/Bloomberg)",
+            "link": "http://www.techmeme.com/260106/p17#a260106p17",
+            "published": "Tue, 06 Jan 2026 09:35:03 -0500"
+        },
+        {
             "title": "Ring revamps its home sensors, including door, window, and break glass sensors built on the Amazon Sidewalk protocol, and expands the protocol internationally (Daniel Cooper/Engadget)",
             "link": "http://www.techmeme.com/260106/p16#a260106p16",
             "published": "Tue, 06 Jan 2026 09:25:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Accenture agrees to acquire UK AI startup Faculty, which works with the UK government, for an undisclosed sum; Faculty CEO Marc Warner will become Accenture CTO (Mark Bergen/Bloomberg)",
             "link": "http://www.techmeme.com/260106/p14#a260106p14",
             "published": "Tue, 06 Jan 2026 08:30:00 -0500"
-        },
-        {
-            "title": "Meta and Garmin show an early demo of using Meta's wrist-based neural band inside of a car to control an infotainment system, as part of Garmin's Unified Cabin (Karissa Bell/Engadget)",
-            "link": "http://www.techmeme.com/260106/p13#a260106p13",
-            "published": "Tue, 06 Jan 2026 07:15:05 -0500"
-        },
-        {
-            "title": "Meta says it is pausing the release of its Ray-Ban Display glasses to the UK, France, Italy, and Canada due to \"unprecedented demand and limited inventory\" (Steve Dent/Engadget)",
-            "link": "http://www.techmeme.com/260106/p12#a260106p12",
-            "published": "Tue, 06 Jan 2026 07:11:07 -0500"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
             "link": "https://www.nytimes.com/2026/01/06/business/energy-environment/kairos-small-modular-nuclear-power.html",
-            "published": "Tue, 06 Jan 2026 10:00:22 +0000"
+            "published": "Tue, 06 Jan 2026 15:02:49 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
+            "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Jan 2026 14:47:41 GMT"
+        },
         {
             "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
             "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
             "link": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 05 Jan 2026 00:01:31 GMT"
-        },
-        {
-            "title": "AI teachers and cybernetics - what could the world look like in 2050?",
-            "link": "https://www.bbc.com/news/articles/c865n800d5jo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 02 Jan 2026 22:15:48 GMT"
         }
     ]
 }
