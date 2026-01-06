@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "HP unveils the Eliteboard G1a, a compact desktop PC in the form of a keyboard, powered by an AMD Ryzen AI 300-series chip, set for March launch; pricing is TBC (Antonio G. Di Benedetto/The Verge)",
+            "link": "http://www.techmeme.com/260106/p10#a260106p10",
+            "published": "Tue, 06 Jan 2026 06:15:01 -0500"
+        },
+        {
+            "title": "Intel unveils the Arc B390 integrated GPU, offering improved gaming performance, and says it will power gaming handhelds built by MSI, Acer, Microsoft, and more (Madeline Ricchiuto/IGN)",
+            "link": "http://www.techmeme.com/260106/p9#a260106p9",
+            "published": "Tue, 06 Jan 2026 06:00:41 -0500"
+        },
+        {
+            "title": "Singapore-based data center operator DayOne raised a $2B Series C led by Coatue to build hyperscale campuses in Lahti and Kouvola, Finland, and elsewhere (Reuters)",
+            "link": "http://www.techmeme.com/260106/p8#a260106p8",
+            "published": "Tue, 06 Jan 2026 05:40:01 -0500"
+        },
+        {
             "title": "Even if AI could take over every job, humans will invent new work for themselves, because we value human effort and connection, not just output (Ben Thompson/Stratechery)",
             "link": "http://www.techmeme.com/260106/p7#a260106p7",
             "published": "Tue, 06 Jan 2026 03:50:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Nvidia announces native apps for its GeForce NOW cloud gaming service for select Linux distributions and Amazon Fire TV sticks, available in early 2026 (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/260106/p6#a260106p6",
             "published": "Tue, 06 Jan 2026 02:05:00 -0500"
-        },
-        {
-            "title": "AMD teases its next-generation CDNA 6-based MI500 AI chips built on a 2nm node, claiming 1,000x performance gains over predecessors, launching in 2027 (Reuters)",
-            "link": "http://www.techmeme.com/260106/p5#a260106p5",
-            "published": "Tue, 06 Jan 2026 01:50:01 -0500"
-        },
-        {
-            "title": "AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC's N4X node, available in Q1 2026 (Jake Roach/Tom's Hardware)",
-            "link": "http://www.techmeme.com/260106/p4#a260106p4",
-            "published": "Tue, 06 Jan 2026 01:20:00 -0500"
-        },
-        {
-            "title": "Nvidia unveils DLSS 4.5 with a new 6x Multi Frame Generation for the RTX 50 series, and a second-generation Super Resolution transformer model for all RTX GPUs (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/260106/p3#a260106p3",
-            "published": "Tue, 06 Jan 2026 01:10:00 -0500"
         }
     ],
     "source_1": [
@@ -50,12 +50,12 @@
         {
             "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
             "link": "https://www.nytimes.com/2026/01/06/business/energy-environment/kairos-small-modular-nuclear-power.html",
-            "published": "Tue, 06 Jan 2026 10:00:21 +0000"
+            "published": "Tue, 06 Jan 2026 10:00:22 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Nvidia unveils self-driving car tech as part of AI for hardware push",
+            "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
             "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 06 Jan 2026 10:30:23 GMT"
         },
