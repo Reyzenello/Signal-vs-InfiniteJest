@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "UMG announces a partnership with Nvidia \"to pioneer responsible AI for music discovery, creation, and engagement\", centered on Nvidia's Music Flamingo model (Dan Rys/Billboard)",
+            "link": "http://www.techmeme.com/260106/p22#a260106p22",
+            "published": "Tue, 06 Jan 2026 11:30:10 -0500"
+        },
+        {
+            "title": "Marvell says it will acquire networking equipment provider XConn Technologies in a deal worth about $540M; the deal is expected to close in early 2026 (Arsheeya Bajwa/Reuters)",
+            "link": "http://www.techmeme.com/260106/p21#a260106p21",
+            "published": "Tue, 06 Jan 2026 11:15:00 -0500"
+        },
+        {
+            "title": "Vancouver-based quantum computing startup Photonic raised CA$180M led by Planet First Partners, bringing its total funding to CA$375M (Madison McLauchlan/BetaKit)",
+            "link": "http://www.techmeme.com/260106/p20#a260106p20",
+            "published": "Tue, 06 Jan 2026 10:55:01 -0500"
+        },
+        {
+            "title": "Meta unveils teleprompter and EMG handwriting features for Meta Ray-Ban Display and expands Pedestrian Navigation for the glasses to four new US cities (Stevie Bonifield/The Verge)",
+            "link": "http://www.techmeme.com/260106/p19#a260106p19",
+            "published": "Tue, 06 Jan 2026 10:40:00 -0500"
+        },
+        {
             "title": "LMArena, which runs a leaderboard ranking AI models based on their performance, raised $150M at a $1.7B post-money valuation, taking its total funding to $250M+ (The Information)",
             "link": "http://www.techmeme.com/260106/p18#a260106p18",
             "published": "Tue, 06 Jan 2026 10:30:00 -0500"
-        },
-        {
-            "title": "Razer plans to invest $600M in AI over \"the next couple of years\", as the gaming peripherals maker unveils new AI products like headphones with built-in cameras (Dana Wollman/Bloomberg)",
-            "link": "http://www.techmeme.com/260106/p17#a260106p17",
-            "published": "Tue, 06 Jan 2026 09:35:03 -0500"
-        },
-        {
-            "title": "Ring revamps its home sensors, including door, window, and break glass sensors built on the Amazon Sidewalk protocol, and expands the protocol internationally (Daniel Cooper/Engadget)",
-            "link": "http://www.techmeme.com/260106/p16#a260106p16",
-            "published": "Tue, 06 Jan 2026 09:25:01 -0500"
-        },
-        {
-            "title": "American Airlines partners with AT&T to add free, high-speed satellite-based Wi-Fi across its entire fleet, with a target spring 2026 completion date (Andrew J. Hawkins/The Verge)",
-            "link": "http://www.techmeme.com/260106/p15#a260106p15",
-            "published": "Tue, 06 Jan 2026 09:15:01 -0500"
-        },
-        {
-            "title": "Accenture agrees to acquire UK AI startup Faculty, which works with the UK government, for an undisclosed sum; Faculty CEO Marc Warner will become Accenture CTO (Mark Bergen/Bloomberg)",
-            "link": "http://www.techmeme.com/260106/p14#a260106p14",
-            "published": "Tue, 06 Jan 2026 08:30:00 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,12 @@
         {
             "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
             "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 06 Jan 2026 14:47:41 GMT"
+            "published": "Tue, 06 Jan 2026 15:54:14 GMT"
+        },
+        {
+            "title": "Lego unveils tech-filled Smart Bricks - to play experts' dismay",
+            "link": "https://www.bbc.com/news/articles/crmlnmnwzk2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Jan 2026 16:20:15 GMT"
         },
         {
             "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
@@ -73,11 +78,6 @@
             "title": "Car giant Hyundai to use human-like robots in factories",
             "link": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 06 Jan 2026 03:26:38 GMT"
-        },
-        {
-            "title": "Watch: BBC reporter tests AI anti-shoplifting tech",
-            "link": "https://www.bbc.com/news/videos/c98p1jg3p58o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 05 Jan 2026 00:01:31 GMT"
         }
     ]
 }
