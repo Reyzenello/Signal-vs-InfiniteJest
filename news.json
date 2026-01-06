@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "AMD unveils two Ryzen AI Max+ chips, the 392 with 12 cores and the 388 with 8 cores, both offering 40 graphics compute units and 60 teraflops of performance (Sean Hollister/The Verge)",
+            "title": "AMD unveils Ryzen AI 400 Series chips for AI PCs, with up to 12 Zen 5 CPU cores and 16 RDNA 3.5 GPU cores, built with TSMC's N4X node, available in Q1 2026 (Jake Roach/Tom's Hardware)",
+            "link": "http://www.techmeme.com/260106/p4#a260106p4",
+            "published": "Tue, 06 Jan 2026 01:20:00 -0500"
+        },
+        {
+            "title": "Nvidia unveils DLSS 4.5 with a new 6x Multi Frame Generation for the RTX 50 series, and a second-generation Super Resolution transformer model for all RTX GPUs (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/260106/p3#a260106p3",
+            "published": "Tue, 06 Jan 2026 01:10:00 -0500"
+        },
+        {
+            "title": "Analysts expect Samsung's Q4 operating profit to jump 160% YoY to ~$11.7B, driven by a severe global shortage of memory chips amid booming AI demand (Hyunjoo Jin/Reuters)",
+            "link": "http://www.techmeme.com/260106/p2#a260106p2",
+            "published": "Tue, 06 Jan 2026 00:50:05 -0500"
+        },
+        {
+            "title": "Telegram bonds worth $500M are frozen in Russia under western sanctions; filings: its H1 2025 revenue rose 65% YoY to $870M, driven by $300M from Toncoin deals (Financial Times)",
+            "link": "http://www.techmeme.com/260106/p1#a260106p1",
+            "published": "Tue, 06 Jan 2026 00:40:01 -0500"
+        },
+        {
+            "title": "AMD unveils the 12-core Ryzen AI Max+ 392, and the 8-core AI Max+ 388 processors, both with 40 graphics compute units and offering 60 TFLOPS of GPU performance (Sean Hollister/The Verge)",
             "link": "http://www.techmeme.com/260105/p40#a260105p40",
             "published": "Mon, 05 Jan 2026 23:15:01 -0500"
-        },
-        {
-            "title": "AMD unveils Ryzen AI 400 Series AI PC chips with 12 CPU cores, claiming 1.3x faster multitasking and 1.7x faster content creation than rivals (Rebecca Szkutak/TechCrunch)",
-            "link": "http://www.techmeme.com/260105/p39#a260105p39",
-            "published": "Mon, 05 Jan 2026 23:00:13 -0500"
-        },
-        {
-            "title": "Jensen Huang says Nvidia's Vera Rubin chips are in \"full production\"; Nvidia says Rubin can train some LLMs with roughly one-fourth the chips Blackwell needs (Lauren Goode/Wired)",
-            "link": "http://www.techmeme.com/260105/p38#a260105p38",
-            "published": "Mon, 05 Jan 2026 22:45:00 -0500"
-        },
-        {
-            "title": "Xreal partners with Asus to unveil ROG Xreal R1 gaming glasses with 1080p micro-OLED displays and a 240Hz refresh rate, launching in H1 2026 (Cameron Faulkner/The Verge)",
-            "link": "http://www.techmeme.com/260105/p37#a260105p37",
-            "published": "Mon, 05 Jan 2026 21:40:00 -0500"
-        },
-        {
-            "title": "Nvidia says it's seeing \"strong\" demand from China for its H200 chips but is awaiting approvals from both Washington and Beijing before sales could begin (Nikkei Asia)",
-            "link": "http://www.techmeme.com/260105/p36#a260105p36",
-            "published": "Mon, 05 Jan 2026 21:20:01 -0500"
         }
     ],
     "source_1": [
