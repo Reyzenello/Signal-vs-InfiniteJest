@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Larry Page bought two Miami estates in December and January for a combined $173.4M; Sergey Brin is also said to be in discussions to buy a Miami home (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260107/p38#a260107p38",
+            "published": "Wed, 07 Jan 2026 18:10:02 -0500"
+        },
+        {
             "title": "WhatsApp rolls out new group chat features: member tags that show user roles, text stickers generated from any word, and custom event reminders (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/260107/p37#a260107p37",
             "published": "Wed, 07 Jan 2026 17:15:01 -0500"
@@ -16,21 +21,16 @@
             "published": "Wed, 07 Jan 2026 16:15:02 -0500"
         },
         {
-            "title": "Sources: JPMorgan Chase has reached a deal to take over the Apple credit card program from Goldman Sachs; JPMorgan plans to launch a new Apple savings account (Wall Street Journal)",
+            "title": "Apple announces JPMorgan Chase as the new issuer of the Apple Card, taking over from Goldman Sachs, with an expected transition in about 24 months (Wall Street Journal)",
             "link": "http://www.techmeme.com/260107/p34#a260107p34",
             "published": "Wed, 07 Jan 2026 15:47:48 -0500"
-        },
-        {
-            "title": "OpenAI unveils ChatGPT Health, which lets users import medical records and other data from health apps into ChatGPT, available to a small group via a waitlist (Ina Fried/Axios)",
-            "link": "http://www.techmeme.com/260107/p33#a260107p33",
-            "published": "Wed, 07 Jan 2026 14:45:03 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Anthropic Said to Be in Talks to Raise Funding at a $350 Billion Valuation",
             "link": "https://www.nytimes.com/2026/01/07/technology/anthropic-funding-valuation.html",
-            "published": "Wed, 07 Jan 2026 21:02:04 +0000"
+            "published": "Wed, 07 Jan 2026 21:02:05 +0000"
         },
         {
             "title": "California Tech Executives Plot Against Rep. Ro Khanna Over Support of Wealth Tax",
@@ -48,12 +48,17 @@
             "published": "Tue, 06 Jan 2026 01:32:23 +0000"
         },
         {
-            "title": "Optimism About Nuclear Energy Is Rising Again. Will It Last?",
-            "link": "https://www.nytimes.com/2026/01/06/business/energy-environment/kairos-small-modular-nuclear-power.html",
-            "published": "Tue, 06 Jan 2026 22:17:14 +0000"
+            "title": "Google and Character.AI to Settle Lawsuit Over Teenager\u2019s Death",
+            "link": "https://www.nytimes.com/2026/01/07/technology/google-characterai-teenager-lawsuit.html",
+            "published": "Wed, 07 Jan 2026 23:22:13 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "IWF finds sexual imagery of children which 'appears to have been' made by Grok",
+            "link": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Jan 2026 23:01:52 GMT"
+        },
         {
             "title": "Government demands Musk's X deals with 'appalling' Grok AI deepfakes",
             "link": "https://www.bbc.com/news/articles/crrn054nxe7o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Ofcom asks X about reports its Grok AI makes sexualised images of children",
             "link": "https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 05 Jan 2026 17:43:50 GMT"
-        },
-        {
-            "title": "Car giant Hyundai to use human-like robots in factories",
-            "link": "https://www.bbc.com/news/articles/cvgjm5x54ldo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 06 Jan 2026 03:26:38 GMT"
         }
     ]
 }
