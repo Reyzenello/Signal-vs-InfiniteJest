@@ -1,17 +1,5 @@
 [
     {
-        "name": "sql-translator",
-        "full_name": "whoiskatrin/sql-translator",
-        "html_url": "https://github.com/whoiskatrin/sql-translator",
-        "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source."
-    },
-    {
-        "name": "wppconnect",
-        "full_name": "wppconnect-team/wppconnect",
-        "html_url": "https://github.com/wppconnect-team/wppconnect",
-        "description": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination"
-    },
-    {
         "name": "YC-Killer",
         "full_name": "sahibzada-allahyar/YC-Killer",
         "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
@@ -22,12 +10,6 @@
         "full_name": "a-real-ai/pywinassistant",
         "html_url": "https://github.com/a-real-ai/pywinassistant",
         "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions."
-    },
-    {
-        "name": "AI-Resources-Central",
-        "full_name": "CoderSJX/AI-Resources-Central",
-        "html_url": "https://github.com/CoderSJX/AI-Resources-Central",
-        "description": " Bringing together outstanding artificial intelligence (AI) open source projects from around the world. "
     },
     {
         "name": "taranis-ai",
@@ -46,12 +28,6 @@
         "full_name": "hades217/awesome-ai",
         "html_url": "https://github.com/hades217/awesome-ai",
         "description": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)"
-    },
-    {
-        "name": "clai",
-        "full_name": "IBM/clai",
-        "html_url": "https://github.com/IBM/clai",
-        "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
     },
     {
         "name": "-Prototype-AIVTuber",
