@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Larry Page bought two Miami estates in December and January for a combined $173.4M; Sergey Brin is also said to be in discussions to buy a Miami home (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260107/p38#a260107p38",
-            "published": "Wed, 07 Jan 2026 18:10:02 -0500"
+            "title": "Cyera researchers detail Ni8mare, a critical RCE flaw that lets hackers access local instances of the n8n workflow automation platform, impacting ~100K servers (Bill Toulas/BleepingComputer)",
+            "link": "http://www.techmeme.com/260107/p43#a260107p43",
+            "published": "Wed, 07 Jan 2026 20:55:01 -0500"
         },
         {
-            "title": "WhatsApp rolls out new group chat features: member tags that show user roles, text stickers generated from any word, and custom event reminders (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/260107/p37#a260107p37",
-            "published": "Wed, 07 Jan 2026 17:15:01 -0500"
+            "title": "Ford plans to launch an AI voice assistant on its apps this year before expanding to its vehicles in 2027, and aims to debut Level 3 autonomous driving in 2028 (Andrew J. Hawkins/The Verge)",
+            "link": "http://www.techmeme.com/260107/p42#a260107p42",
+            "published": "Wed, 07 Jan 2026 19:50:00 -0500"
         },
         {
-            "title": "Alphabet surpassed Apple in market cap for the first time since 2019 after its shares closed up 2.5% on Wednesday, valuing it at $3.89T vs. Apple's $3.85T (Barron's Online)",
-            "link": "http://www.techmeme.com/260107/p36#a260107p36",
-            "published": "Wed, 07 Jan 2026 16:50:00 -0500"
+            "title": "Arm creates a \"Physical AI\" unit to focus on robotics and automotive sectors, as part of a reorganization that includes \"Cloud and AI\" and \"Edge\" business units (Reuters)",
+            "link": "http://www.techmeme.com/260107/p41#a260107p41",
+            "published": "Wed, 07 Jan 2026 19:30:01 -0500"
         },
         {
-            "title": "Lux Capital raised $1.5B for its ninth fund, the largest in its history, to back companies focusing on fields like breakthrough science and national security (Lizette Chapman/Bloomberg)",
-            "link": "http://www.techmeme.com/260107/p35#a260107p35",
-            "published": "Wed, 07 Jan 2026 16:15:02 -0500"
+            "title": "Samsung expects Q4 operating profit up 208% YoY to ~$13.8B, vs. ~$12.3B est., and revenue up 23% to ~$64.2B, as demand for AI servers lifted memory chip prices (Yoolim Lee/Bloomberg)",
+            "link": "http://www.techmeme.com/260107/p40#a260107p40",
+            "published": "Wed, 07 Jan 2026 19:10:00 -0500"
         },
         {
-            "title": "Apple announces JPMorgan Chase as the new issuer of the Apple Card, taking over from Goldman Sachs, with an expected transition in about 24 months (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260107/p34#a260107p34",
-            "published": "Wed, 07 Jan 2026 15:47:48 -0500"
+            "title": "Trump family's World Liberty Financial says its entity World Liberty Trust has applied for a US banking license, which would let it issue the USD1 stablecoin (Vicky Ge Huang/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260107/p39#a260107p39",
+            "published": "Wed, 07 Jan 2026 18:50:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Inside the sub-zero lair of the world's most powerful computer",
+            "link": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Jan 2026 00:04:43 GMT"
+        },
+        {
             "title": "IWF finds sexual imagery of children which 'appears to have been' made by Grok",
             "link": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 07 Jan 2026 23:01:52 GMT"
@@ -73,11 +78,6 @@
             "title": "Nvidia unveils self-driving car tech as it seeks to power more products with AI",
             "link": "https://www.bbc.com/news/articles/c0jv1vd571wo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 06 Jan 2026 10:30:23 GMT"
-        },
-        {
-            "title": "Ofcom asks X about reports its Grok AI makes sexualised images of children",
-            "link": "https://www.bbc.com/news/articles/c5y5w0k99r1o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 05 Jan 2026 17:43:50 GMT"
         }
     ]
 }
