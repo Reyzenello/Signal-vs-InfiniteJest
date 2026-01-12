@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Ofcom opens an investigation under the OSA into Grok over the sexualized deepfakes of women and kids being generated on X and threatens it with a ban or a fine (Financial Times)",
+            "link": "http://www.techmeme.com/260112/p12#a260112p12",
+            "published": "Mon, 12 Jan 2026 06:35:00 -0500"
+        },
+        {
             "title": "Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung's 19% market share (Counterpoint Research)",
             "link": "http://www.techmeme.com/260112/p11#a260112p11",
             "published": "Mon, 12 Jan 2026 06:25:00 -0500"
@@ -19,11 +24,6 @@
             "title": "Meta says it shut down nearly 550K accounts in Australia to comply with its under-16 social media ban, including 330K Instagram and 173K Facebook accounts (Nasteho Said/Bloomberg)",
             "link": "http://www.techmeme.com/260112/p8#a260112p8",
             "published": "Mon, 12 Jan 2026 05:40:00 -0500"
-        },
-        {
-            "title": "CES 2026 report: AI, autonomy, and robotic products are still finding their way, country-level booths are growing, Nvidia underpinned much of the show, and more (Steven Sinofsky/Hardcore Software)",
-            "link": "http://www.techmeme.com/260112/p7#a260112p7",
-            "published": "Mon, 12 Jan 2026 05:05:01 -0500"
         }
     ],
     "source_1": [
@@ -57,7 +57,12 @@
         {
             "title": "Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes",
             "link": "https://www.bbc.com/news/articles/cwy875j28k0o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 12 Jan 2026 11:20:05 GMT"
+            "published": "Mon, 12 Jan 2026 12:39:10 GMT"
+        },
+        {
+            "title": "Eggie, Neo, Isaac and Memo are domestic robots. But would you let them load your dishwasher?",
+            "link": "https://www.bbc.com/news/articles/clyg63e3mq4o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Jan 2026 00:07:23 GMT"
         },
         {
             "title": "Malaysia and Indonesia block Musk's Grok over explicit deepfakes",
@@ -73,11 +78,6 @@
             "title": "X could face UK ban over deepfakes, minister says",
             "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 09 Jan 2026 21:41:19 GMT"
-        },
-        {
-            "title": "OpenAI launches ChatGPT Health to review your medical records",
-            "link": "https://www.bbc.com/news/articles/cpqy29d0yjgo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 08 Jan 2026 17:14:32 GMT"
         }
     ]
 }
