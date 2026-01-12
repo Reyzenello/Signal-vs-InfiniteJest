@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Global smartphone shipments rose 2% YoY in 2025, with Apple capturing the top position at a 20% share and 10% YoY growth, ahead of Samsung's 19% market share (Counterpoint Research)",
+            "link": "http://www.techmeme.com/260112/p11#a260112p11",
+            "published": "Mon, 12 Jan 2026 06:25:00 -0500"
+        },
+        {
+            "title": "Paris-based autonomous drone maker Harmattan AI raised a $200M Series B led by Dassault at a $1.4B valuation, and aims to produce 10K drones per month in 2026 (Mark Bergen/Bloomberg)",
+            "link": "http://www.techmeme.com/260112/p10#a260112p10",
+            "published": "Mon, 12 Jan 2026 06:05:00 -0500"
+        },
+        {
+            "title": "Sources and filings: Peter Thiel donated $3M to a group to beat California's wealth tax, the first of several expected major donations by tech leaders in 2026 (New York Times)",
+            "link": "http://www.techmeme.com/260112/p9#a260112p9",
+            "published": "Mon, 12 Jan 2026 05:55:01 -0500"
+        },
+        {
+            "title": "Meta says it shut down nearly 550K accounts in Australia to comply with its under-16 social media ban, including 330K Instagram and 173K Facebook accounts (Nasteho Said/Bloomberg)",
+            "link": "http://www.techmeme.com/260112/p8#a260112p8",
+            "published": "Mon, 12 Jan 2026 05:40:00 -0500"
+        },
+        {
             "title": "CES 2026 report: AI, autonomy, and robotic products are still finding their way, country-level booths are growing, Nvidia underpinned much of the show, and more (Steven Sinofsky/Hardcore Software)",
             "link": "http://www.techmeme.com/260112/p7#a260112p7",
             "published": "Mon, 12 Jan 2026 05:05:01 -0500"
-        },
-        {
-            "title": "A look at claims from Google and others about quantum computing breakthroughs over the past few months that helped boost quantum computing stocks in 2025 (Richard Waters/Financial Times)",
-            "link": "http://www.techmeme.com/260112/p6#a260112p6",
-            "published": "Mon, 12 Jan 2026 04:45:02 -0500"
-        },
-        {
-            "title": "Investigation: Google removed AI Overviews for two liver health queries after expert inaccuracy warnings, but slight keyword tweaks still trigger AI responses (Andrew Gregory/The Guardian)",
-            "link": "http://www.techmeme.com/260112/p5#a260112p5",
-            "published": "Mon, 12 Jan 2026 04:10:01 -0500"
-        },
-        {
-            "title": "CES 2026: how some companies are trying to make their AI products cute and relatable, from Lenovo's chatty motorized laptop to Sharp's ChatGPT-powered Poketomo (Chris Velazco/Washington Post)",
-            "link": "http://www.techmeme.com/260112/p4#a260112p4",
-            "published": "Mon, 12 Jan 2026 03:50:01 -0500"
-        },
-        {
-            "title": "President Trump says \"we may speak to Elon\" about using Starlink to restore the internet in Iran, after the country imposed an internet blackout amid protests (Rachael Levy/Reuters)",
-            "link": "http://www.techmeme.com/260112/p3#a260112p3",
-            "published": "Mon, 12 Jan 2026 01:40:04 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Ofcom investigates Elon Musk's X over Grok AI sexual deepfakes",
+            "link": "https://www.bbc.com/news/articles/cwy875j28k0o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 12 Jan 2026 11:20:05 GMT"
+        },
+        {
             "title": "Malaysia and Indonesia block Musk's Grok over explicit deepfakes",
             "link": "https://www.bbc.com/news/articles/cg7y10xm4x2o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 12 Jan 2026 05:21:33 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI launches ChatGPT Health to review your medical records",
             "link": "https://www.bbc.com/news/articles/cpqy29d0yjgo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 08 Jan 2026 17:14:32 GMT"
-        },
-        {
-            "title": "Government accused of dragging its heels on deepfake law over Grok AI",
-            "link": "https://www.bbc.com/news/articles/cp9jxvx0zjmo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 08 Jan 2026 16:33:44 GMT"
         }
     ]
 }
