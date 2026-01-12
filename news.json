@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI acquires Torch, a one-year-old AI healthcare app that aggregates and analyzes medical records; source: OpenAI is paying $100M in equity (Laura Mandaro/The Information)",
+            "link": "http://www.techmeme.com/260112/p33#a260112p33",
+            "published": "Mon, 12 Jan 2026 16:05:00 -0500"
+        },
+        {
+            "title": "Elon Musk says Apple and Google's Gemini deal \"seems like an unreasonable concentration of power for Google given that [they] also have Android and Chrome\" (Joe Rossignol/MacRumors)",
+            "link": "http://www.techmeme.com/260112/p32#a260112p32",
+            "published": "Mon, 12 Jan 2026 16:00:45 -0500"
+        },
+        {
+            "title": "Sources: Meta plans to lay off ~10% of its 15,000-person Reality Labs division, disproportionately affecting those working on VR headsets and Horizon Worlds (New York Times)",
+            "link": "http://www.techmeme.com/260112/p31#a260112p31",
+            "published": "Mon, 12 Jan 2026 15:42:14 -0500"
+        },
+        {
             "title": "Anthropic launches Cowork for Claude, built on Claude Code to automate complex tasks with minimal prompting, as a research preview for Claude Max subscribers (Webb Wright/ZDNET)",
             "link": "http://www.techmeme.com/260112/p30#a260112p30",
             "published": "Mon, 12 Jan 2026 15:00:48 -0500"
@@ -9,24 +24,19 @@
             "title": "Italy's antitrust authority says it reduced the record fine imposed on Amazon in 2021, from \u20ac1.13B to \u20ac752M, after a recalculation (Elvira Pollina/Reuters)",
             "link": "http://www.techmeme.com/260112/p29#a260112p29",
             "published": "Mon, 12 Jan 2026 13:25:02 -0500"
-        },
-        {
-            "title": "Mark Zuckerberg says Meta is establishing a new \"top-level\" initiative called Meta Compute to build \"tens of gigawatts\" of AI infrastructure during this decade (Sara Fischer/Axios)",
-            "link": "http://www.techmeme.com/260112/p28#a260112p28",
-            "published": "Mon, 12 Jan 2026 13:20:04 -0500"
-        },
-        {
-            "title": "The UK plans to bring into force a law this week that will make it illegal to create non-consensual intimate images, as Ofcom investigates X (BBC)",
-            "link": "http://www.techmeme.com/260112/p27#a260112p27",
-            "published": "Mon, 12 Jan 2026 12:45:00 -0500"
-        },
-        {
-            "title": "Sources: the US nears a trade deal with Taiwan that would reduce tariffs on the island's exports and include a commitment from TSMC to build 5+ fabs in Arizona (New York Times)",
-            "link": "http://www.techmeme.com/260112/p26#a260112p26",
-            "published": "Mon, 12 Jan 2026 12:35:03 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Plans to Cut 10% to 15% of Employees in Reality Labs Business",
+            "link": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
+            "published": "Mon, 12 Jan 2026 20:30:03 +0000"
+        },
+        {
+            "title": "Apple Teams Up With Google for A.I. in Its Products",
+            "link": "https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html",
+            "published": "Mon, 12 Jan 2026 21:23:30 +0000"
+        },
         {
             "title": "Trump Administration Nears Trade Deal With Taiwan",
             "link": "https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html",
@@ -38,19 +48,9 @@
             "published": "Mon, 12 Jan 2026 16:29:45 +0000"
         },
         {
-            "title": "Thiel Gives $3 Million to Group Seeking to Block California Wealth Tax",
-            "link": "https://www.nytimes.com/2026/01/11/us/politics/peter-thiel-california-wealth-tax.html",
-            "published": "Sun, 11 Jan 2026 20:47:16 +0000"
-        },
-        {
-            "title": "Google Co-Founders Sergey Brin and Larry Page Reduce Ties to California",
-            "link": "https://www.nytimes.com/2026/01/09/technology/google-founders-california-wealth-tax.html",
-            "published": "Fri, 09 Jan 2026 16:26:13 +0000"
-        },
-        {
-            "title": "Meta Plans to Cut 10% to 15% of Employees in Reality Labs Business",
-            "link": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
-            "published": "Mon, 12 Jan 2026 20:30:03 +0000"
+            "title": "Follow Ian McKellen Into the Mixed Reality Future in \u2018An Ark\u2019",
+            "link": "https://www.nytimes.com/2026/01/12/theater/ark-ian-mckellen-shed.html",
+            "published": "Mon, 12 Jan 2026 10:02:11 +0000"
         }
     ],
     "source_2": [
