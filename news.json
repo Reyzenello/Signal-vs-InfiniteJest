@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Liftoff, which helps companies place ads in mobile apps, files for a US IPO, reporting a $25.6M net loss on $491.6M in revenue in the nine months up to Sept. 30 (Natalia Kniazhevich/Bloomberg)",
-            "link": "http://www.techmeme.com/260113/p50#a260113p50",
-            "published": "Tue, 13 Jan 2026 18:20:01 -0500"
+            "title": "Sources: Apple and Qualcomm are scrambling to secure glass cloth fiber, used in chip substrates and PCBs, as the AI boom boosts demand for the component (Nikkei Asia)",
+            "link": "http://www.techmeme.com/260113/p55#a260113p55",
+            "published": "Tue, 13 Jan 2026 20:45:00 -0500"
         },
         {
-            "title": "Google announces MedGemma 1.5 with improved medical imaging support, and MedASR for medical dictation, both available on Hugging Face and Vertex AI (Google Research)",
-            "link": "http://www.techmeme.com/260113/p49#a260113p49",
-            "published": "Tue, 13 Jan 2026 18:05:01 -0500"
+            "title": "Holistic Resilience, a US group that helps Iranians secure internet access, says SpaceX has waived Starlink subscription fees amid a days-long internet blackout (Loni Prinsloo/Bloomberg)",
+            "link": "http://www.techmeme.com/260113/p54#a260113p54",
+            "published": "Tue, 13 Jan 2026 20:15:00 -0500"
         },
         {
-            "title": "President Trump renominates Sean Plankey to be the next director of CISA, which has been running without a full-time chief since Trump's return to office (John Sakellariadis/Politico)",
-            "link": "http://www.techmeme.com/260113/p48#a260113p48",
-            "published": "Tue, 13 Jan 2026 17:40:03 -0500"
+            "title": "Defense Unicorns, which provides open-source air-gapped software to the US DOD, raised a $136M Series B led by Bain Capital, bringing its valuation to $1B+ (Aishwarya Jain/Reuters)",
+            "link": "http://www.techmeme.com/260113/p53#a260113p53",
+            "published": "Tue, 13 Jan 2026 19:20:00 -0500"
         },
         {
-            "title": "As part of its Reality Labs cuts, Meta is closing three VR gaming studios and will stop developing new content and features for its VR fitness app Supernatural (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/260113/p47#a260113p47",
-            "published": "Tue, 13 Jan 2026 17:25:00 -0500"
+            "title": "A source details how Apple's Gemini deal works: new Siri features will launch in spring and at WWDC, Apple can finetune Gemini, no Google branding, and more (The Information)",
+            "link": "http://www.techmeme.com/260113/p52#a260113p52",
+            "published": "Tue, 13 Jan 2026 18:45:01 -0500"
         },
         {
-            "title": "Sources: AI chipmaker Cerebras is in talks to raise ~$1B, valuing the startup at $22B before the new investment, up from an $8.1B valuation in September 2025 (The Information)",
-            "link": "http://www.techmeme.com/260113/p46#a260113p46",
-            "published": "Tue, 13 Jan 2026 17:20:05 -0500"
+            "title": "Under new licensing requirements, the US Commerce Department says exports of Nvidia's H200 chips and AMD's MI325X chips will be reviewed on a case-by-case basis (Bloomberg)",
+            "link": "http://www.techmeme.com/260113/p51#a260113p51",
+            "published": "Tue, 13 Jan 2026 18:35:03 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Starlink Users in Iran Get Free Internet Access, Nonprofit Says",
+            "link": "https://www.nytimes.com/2026/01/13/technology/iran-starlink-elon-musk.html",
+            "published": "Wed, 14 Jan 2026 00:35:16 +0000"
+        },
         {
             "title": "Meta Plans to Cut 10% to 15% of Employees in Reality Labs Business",
             "link": "https://www.nytimes.com/2026/01/12/technology/meta-layoffs-reality-labs.html",
@@ -36,11 +41,6 @@
             "title": "Apple Teams Up With Google for A.I. in Its Products",
             "link": "https://www.nytimes.com/2026/01/12/technology/apple-google-ai-partnership.html",
             "published": "Mon, 12 Jan 2026 21:23:30 +0000"
-        },
-        {
-            "title": "Trump Administration Nears Trade Deal With Taiwan",
-            "link": "https://www.nytimes.com/2026/01/12/business/economy/trump-taiwan-deal.html",
-            "published": "Tue, 13 Jan 2026 03:42:47 +0000"
         },
         {
             "title": "Can We Build a Better Social Network?",
