@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Letter: a top House Republican warns severe DRAM and HBM3E supply shortages may constrain H200 export licenses; Nvidia says it \"can serve all approved\" orders (Maggie Eastland/Bloomberg)",
+            "title": "Symbolic.ai, founded by ex-eBay CEO Devin Wenig and Ars Technica cofounder Jon Stokes, partners with News Corp to offer AI tools to WSJ, Barron's, and others (Ben Sherry/Inc)",
+            "link": "http://www.techmeme.com/260115/p42#a260115p42",
+            "published": "Thu, 15 Jan 2026 13:35:00 -0500"
+        },
+        {
+            "title": "Equal1, which was spun out from University College Dublin, raised $60M to deploy its new quantum server for data centers, bringing its total funding to $85M (Ciara O'Brien/The Irish Times)",
+            "link": "http://www.techmeme.com/260115/p41#a260115p41",
+            "published": "Thu, 15 Jan 2026 12:55:01 -0500"
+        },
+        {
+            "title": "Letter: a top House Republican warns severe DRAM and HBM3E supply shortages will constrain H200 export licenses; Nvidia says it \"can serve all approved\" orders (Maggie Eastland/Bloomberg)",
             "link": "http://www.techmeme.com/260115/p40#a260115p40",
             "published": "Thu, 15 Jan 2026 12:20:01 -0500"
         },
         {
-            "title": "Google releases TranslateGemma, a suite of Gemma 3-based open translation models available in 4B, 12B, and 27B parameter sizes with support for 55 languages (The Keyword)",
+            "title": "Google releases TranslateGemma, a suite of Gemma 3-based open translation models available in 4B-, 12B-, and 27B-parameter sizes, with support for 55 languages (The Keyword)",
             "link": "http://www.techmeme.com/260115/p39#a260115p39",
             "published": "Thu, 15 Jan 2026 12:10:02 -0500"
         },
         {
-            "title": "X revises its developer API policies to \"no longer allow apps that reward users for posting on X (aka \"infofi\")\", amid a backlash about growing AI slop on X (Andr\u00e9 Beganski/Decrypt)",
+            "title": "X revises its developer API policies to \"no longer allow apps that reward users for posting on X (aka \"infofi\")\", amid a backlash about increasing AI slop on X (Andr\u00e9 Beganski/Decrypt)",
             "link": "http://www.techmeme.com/260115/p38#a260115p38",
             "published": "Thu, 15 Jan 2026 12:05:00 -0500"
-        },
-        {
-            "title": "Sources: Apple now needs to fight for TSMC production capacity amid the AI boom; Nvidia was likely TSMC's top customer in at least one or two quarters in 2025 (Tim Culpan/Culpium)",
-            "link": "http://www.techmeme.com/260115/p37#a260115p37",
-            "published": "Thu, 15 Jan 2026 11:55:00 -0500"
-        },
-        {
-            "title": "OpenAI says it issued a request for proposals to US-based hardware manufacturers as it seeks to push into consumer devices, robotics, and cloud data centers (Bloomberg)",
-            "link": "http://www.techmeme.com/260115/p36#a260115p36",
-            "published": "Thu, 15 Jan 2026 11:40:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "A.I. Has Arrived in Gmail. Here\u2019s What to Know.",
+            "link": "https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html",
+            "published": "Thu, 15 Jan 2026 10:02:56 +0000"
+        },
         {
             "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
             "link": "https://www.nytimes.com/2026/01/15/technology/coinbase-crypto-bill-clarity-act.html",
@@ -41,11 +46,6 @@
             "title": "Can A.I. Generate New Ideas?",
             "link": "https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html",
             "published": "Thu, 15 Jan 2026 13:31:03 +0000"
-        },
-        {
-            "title": "Trump Imposes Limited Tariffs on Foreign Semiconductors",
-            "link": "https://www.nytimes.com/2026/01/14/business/economy/trump-chips-tariffs.html",
-            "published": "Thu, 15 Jan 2026 02:06:58 +0000"
         },
         {
             "title": "Elon Musk\u2019s X Restricts Ability to Create Explicit Images With Grok",
