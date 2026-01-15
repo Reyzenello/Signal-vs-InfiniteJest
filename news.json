@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "The Department of Commerce says the US and Taiwan have reached a trade agreement as part of which Taiwan will invest $250B in chip production capacity in the US (Kif Leswing/CNBC)",
+            "title": "Mytra, which is building autonomous robots for warehouses that can move loads up to 3,000 pounds, raised a $120M Series C led by Avenir Growth (Allie Garfinkle/Fortune)",
+            "link": "http://www.techmeme.com/260115/p45#a260115p45",
+            "published": "Thu, 15 Jan 2026 15:25:07 -0500"
+        },
+        {
+            "title": "Andrea Vallone, who left OpenAI in November as the head of its safety research team, joins Anthropic's alignment team (Hayden Field/The Verge)",
+            "link": "http://www.techmeme.com/260115/p44#a260115p44",
+            "published": "Thu, 15 Jan 2026 14:55:01 -0500"
+        },
+        {
+            "title": "The US says Taiwanese companies will invest $250B+ in chip production in the US as part of a trade deal, with Taiwanese government guaranteeing $250B in credit (Kif Leswing/CNBC)",
             "link": "http://www.techmeme.com/260115/p43#a260115p43",
             "published": "Thu, 15 Jan 2026 14:30:01 -0500"
         },
@@ -14,16 +24,6 @@
             "title": "Equal1, which was spun out from University College Dublin, raised $60M to deploy its new quantum server for data centers, bringing its total funding to $85M (Ciara O'Brien/The Irish Times)",
             "link": "http://www.techmeme.com/260115/p41#a260115p41",
             "published": "Thu, 15 Jan 2026 12:55:01 -0500"
-        },
-        {
-            "title": "Letter: a top House Republican warns severe DRAM and HBM3E supply shortages will constrain H200 export licenses; Nvidia says it \"can serve all approved\" orders (Maggie Eastland/Bloomberg)",
-            "link": "http://www.techmeme.com/260115/p40#a260115p40",
-            "published": "Thu, 15 Jan 2026 12:20:01 -0500"
-        },
-        {
-            "title": "Google releases TranslateGemma, a suite of Gemma 3-based open translation models available in 4B-, 12B-, and 27B-parameter sizes, with support for 55 languages (The Keyword)",
-            "link": "http://www.techmeme.com/260115/p39#a260115p39",
-            "published": "Thu, 15 Jan 2026 12:10:02 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Thu, 15 Jan 2026 13:31:03 +0000"
         },
         {
-            "title": "Elon Musk\u2019s X Restricts Ability to Create Explicit Images With Grok",
-            "link": "https://www.nytimes.com/2026/01/15/business/grok-ai-images-x.html",
-            "published": "Thu, 15 Jan 2026 14:42:04 +0000"
+            "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
+            "link": "https://www.nytimes.com/2026/01/15/business/energy-environment/data-center-energy-electricity-costs.html",
+            "published": "Thu, 15 Jan 2026 20:32:47 +0000"
         }
     ],
     "source_2": [
