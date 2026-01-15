@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Source: at least two more Thinking Machines staffers are expected to join OpenAI soon; some researchers say they are exhausted by the industry's constant drama (Wired)",
+            "link": "http://www.techmeme.com/260115/p48#a260115p48",
+            "published": "Thu, 15 Jan 2026 16:26:28 -0500"
+        },
+        {
+            "title": "Replit launches Mobile Apps on Replit, which enables vibe-coding of iOS apps with integrated Stripe monetization (CNBC)",
+            "link": "http://www.techmeme.com/260115/p47#a260115p47",
+            "published": "Thu, 15 Jan 2026 16:10:12 -0500"
+        },
+        {
+            "title": "Sources: Replit is in advanced discussions to raise about $400M in a new round of funding that would roughly triple its valuation to $9B (Bloomberg)",
+            "link": "http://www.techmeme.com/260115/p46#a260115p46",
+            "published": "Thu, 15 Jan 2026 15:40:00 -0500"
+        },
+        {
             "title": "Mytra, which is building autonomous robots for warehouses that can move loads up to 3,000 pounds, raised a $120M Series C led by Avenir Growth (Allie Garfinkle/Fortune)",
             "link": "http://www.techmeme.com/260115/p45#a260115p45",
             "published": "Thu, 15 Jan 2026 15:25:07 -0500"
@@ -9,21 +24,6 @@
             "title": "Andrea Vallone, who left OpenAI in November as the head of its safety research team, joins Anthropic's alignment team (Hayden Field/The Verge)",
             "link": "http://www.techmeme.com/260115/p44#a260115p44",
             "published": "Thu, 15 Jan 2026 14:55:01 -0500"
-        },
-        {
-            "title": "The US says Taiwanese companies will invest $250B+ in chip production in the US as part of a trade deal, with Taiwanese government guaranteeing $250B in credit (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/260115/p43#a260115p43",
-            "published": "Thu, 15 Jan 2026 14:30:01 -0500"
-        },
-        {
-            "title": "Symbolic.ai, founded by ex-eBay CEO Devin Wenig and Ars Technica cofounder Jon Stokes, partners with News Corp to offer AI tools to WSJ, Barron's, and others (Ben Sherry/Inc)",
-            "link": "http://www.techmeme.com/260115/p42#a260115p42",
-            "published": "Thu, 15 Jan 2026 13:35:00 -0500"
-        },
-        {
-            "title": "Equal1, which was spun out from University College Dublin, raised $60M to deploy its new quantum server for data centers, bringing its total funding to $85M (Ciara O'Brien/The Irish Times)",
-            "link": "http://www.techmeme.com/260115/p41#a260115p41",
-            "published": "Thu, 15 Jan 2026 12:55:01 -0500"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "A.I. Has Arrived in Gmail. Here\u2019s What to Know.",
             "link": "https://www.nytimes.com/2026/01/15/technology/personaltech/gmail-gemini-ai-email-inbox.html",
             "published": "Thu, 15 Jan 2026 10:02:56 +0000"
+        },
+        {
+            "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
+            "link": "https://www.nytimes.com/2026/01/15/business/energy-environment/data-center-energy-electricity-costs.html",
+            "published": "Thu, 15 Jan 2026 21:17:02 +0000"
         },
         {
             "title": "Coinbase, the Biggest U.S. Crypto Company, Asserts Its Power in Washington",
@@ -43,14 +48,9 @@
             "published": "Wed, 14 Jan 2026 19:55:54 +0000"
         },
         {
-            "title": "Can A.I. Generate New Ideas?",
-            "link": "https://www.nytimes.com/2026/01/14/technology/ai-ideas-chat-gpt-openai.html",
-            "published": "Thu, 15 Jan 2026 13:31:03 +0000"
-        },
-        {
-            "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
-            "link": "https://www.nytimes.com/2026/01/15/business/energy-environment/data-center-energy-electricity-costs.html",
-            "published": "Thu, 15 Jan 2026 20:32:47 +0000"
+            "title": "Elon Musk\u2019s X Restricts Ability to Create Explicit Images With Grok",
+            "link": "https://www.nytimes.com/2026/01/15/business/grok-ai-images-x.html",
+            "published": "Thu, 15 Jan 2026 14:42:04 +0000"
         }
     ],
     "source_2": [
