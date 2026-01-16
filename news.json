@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI expands its $8/month ChatGPT Go subscription tier to the US and the rest of the world, after previously launching it in India and some other countries (Elissa Welle/The Verge)",
+            "link": "http://www.techmeme.com/260116/p18#a260116p18",
+            "published": "Fri, 16 Jan 2026 13:24:00 -0500"
+        },
+        {
+            "title": "OpenAI will match ads to conversation topics using some personalization data, but claims it will not sell user data or expose user conversations to advertisers (Maxwell Zeff/Wired)",
+            "link": "http://www.techmeme.com/260116/p17#a260116p17",
+            "published": "Fri, 16 Jan 2026 13:20:01 -0500"
+        },
+        {
+            "title": "OpenAI plans to test ads below ChatGPT replies for users of free and Go tiers in the US; source: OpenAI expects to make \"low billions\" from ads in 2026 (Financial Times)",
+            "link": "http://www.techmeme.com/260116/p16#a260116p16",
+            "published": "Fri, 16 Jan 2026 13:13:47 -0500"
+        },
+        {
+            "title": "Vietnam's military-run telecom company Viettel begins construction of the country's first chip plant, with trial production expected to start by late 2027 (Phuong Nguyen/Reuters)",
+            "link": "http://www.techmeme.com/260116/p15#a260116p15",
+            "published": "Fri, 16 Jan 2026 12:35:00 -0500"
+        },
+        {
             "title": "Istanbul-based TaleMonster Games, the studio behind the puzzle game Match Valley, raised a $30M Series A led by Arcadia Gaming Partners and a16z (Tamara Djurickovic/Tech.eu)",
             "link": "http://www.techmeme.com/260116/p14#a260116p14",
             "published": "Fri, 16 Jan 2026 11:40:05 -0500"
-        },
-        {
-            "title": "Analysis: Colossus 2, one of the world's largest AI datacenters, will use as much water/year as 2.5 average In-N-Outs, assuming only drinkable water and burgers (SemiAnalysis)",
-            "link": "http://www.techmeme.com/260116/p13#a260116p13",
-            "published": "Fri, 16 Jan 2026 11:00:51 -0500"
-        },
-        {
-            "title": "Unsealed docs from Elon Musk's OpenAI lawsuit, set for a jury trial on April 27: Sutskever's concerns about treating open-source AI as a \"side show\", and more (Alex Heath/The Verge)",
-            "link": "http://www.techmeme.com/260116/p11#a260116p11",
-            "published": "Fri, 16 Jan 2026 10:30:01 -0500"
-        },
-        {
-            "title": "DoorDash Chief Revenue Officer Lee Brown is departing the delivery app company after less than six months; long-term VP Shanna Prev\u00e9 will succeed Brown as CRO (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/260116/p10#a260116p10",
-            "published": "Fri, 16 Jan 2026 09:50:04 -0500"
-        },
-        {
-            "title": "ClickHouse, a Snowflake challenger that offers an OLAP database management system, raised $400M led by Dragoneer at a $15B valuation, up from $6.35B in May 2025 (Dina Bass/Bloomberg)",
-            "link": "http://www.techmeme.com/260116/p9#a260116p9",
-            "published": "Fri, 16 Jan 2026 09:15:07 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Battles Over Truth Rage Online Amid Iran\u2019s Internet Blackout",
             "link": "https://www.nytimes.com/2026/01/16/business/iran-internet-blackout-protests-disinformation.html",
-            "published": "Fri, 16 Jan 2026 05:00:21 +0000"
+            "published": "Fri, 16 Jan 2026 18:23:27 +0000"
         },
         {
             "title": "A.I. Has Arrived in Gmail. Here\u2019s What to Know.",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "ChatGPT to carry adverts for some users",
+            "link": "https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Jan 2026 18:00:24 GMT"
+        },
+        {
             "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
             "link": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 16 Jan 2026 13:56:05 GMT"
@@ -73,11 +78,6 @@
             "title": "X to stop Grok AI from undressing images of real people after backlash",
             "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 15 Jan 2026 15:54:17 GMT"
-        },
-        {
-            "title": "No 10 welcomes reports X is addressing Grok deepfakes",
-            "link": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 14 Jan 2026 14:44:53 GMT"
         }
     ]
 }
