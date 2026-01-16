@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Source: Italian police searched the offices of the country's data protection agency, one of EU's most proactive regulators, as part of a corruption probe (Reuters)",
+            "link": "http://www.techmeme.com/260116/p8#a260116p8",
+            "published": "Fri, 16 Jan 2026 07:40:00 -0500"
+        },
+        {
+            "title": "Q&A with Netflix co-CEO Ted Sarandos about the WBD bid, Trump's involvement in the deal, maintaining a 45-day theatrical window for WBD releases, and more (Nicole Sperling/New York Times)",
+            "link": "http://www.techmeme.com/260116/p7#a260116p7",
+            "published": "Fri, 16 Jan 2026 07:10:12 -0500"
+        },
+        {
+            "title": "Cloudflare acquires AI data marketplace Human Native for an undisclosed sum, aiming to create a new system where AI developers pay creators for training content (Davis Giangiulio/CNBC)",
+            "link": "http://www.techmeme.com/260116/p6#a260116p6",
+            "published": "Fri, 16 Jan 2026 06:30:00 -0500"
+        },
+        {
             "title": "Italy's competition regulator opens two investigations into Microsoft's Activision Blizzard over sales practices it claims were \"misleading and aggressive\" (Reuters)",
             "link": "http://www.techmeme.com/260116/p5#a260116p5",
             "published": "Fri, 16 Jan 2026 06:10:02 -0500"
@@ -9,28 +24,13 @@
             "title": "TikTok plans to roll out a new age detection system, which analyzes profile information to predict whether a user is under 13, across Europe in the coming weeks (Supantha Mukherjee/Reuters)",
             "link": "http://www.techmeme.com/260116/p4#a260116p4",
             "published": "Fri, 16 Jan 2026 06:00:46 -0500"
-        },
-        {
-            "title": "A profile of Wikipedia as it faces challenges, including attacks from Elon Musk and the far right, reduced traffic due to AI, and legal challenges in India (Darren Loucaides/Financial Times)",
-            "link": "http://www.techmeme.com/260116/p3#a260116p3",
-            "published": "Fri, 16 Jan 2026 01:40:00 -0500"
-        },
-        {
-            "title": "Sources: Chinese AI companies seek to rent compute in Southeast Asia and the Middle East for Nvidia Rubin access, as Zhipu and Alibaba warn of a widening US gap (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260116/p2#a260116p2",
-            "published": "Fri, 16 Jan 2026 00:55:00 -0500"
-        },
-        {
-            "title": "Australia's eSafety Commissioner reports social media platforms \"removed access\" to ~4.7M accounts under its ban for under-16s, which took effect in December (New York Times)",
-            "link": "http://www.techmeme.com/260116/p1#a260116p1",
-            "published": "Fri, 16 Jan 2026 00:05:12 -0500"
         }
     ],
     "source_1": [
         {
             "title": "How Activists in Iran Are Using Starlink to Stay Online",
             "link": "https://www.nytimes.com/2026/01/15/technology/iran-online-starlink.html",
-            "published": "Fri, 16 Jan 2026 01:08:49 +0000"
+            "published": "Fri, 16 Jan 2026 12:24:45 +0000"
         },
         {
             "title": "A.I. Has Arrived in Gmail. Here\u2019s What to Know.",
@@ -48,12 +48,17 @@
             "published": "Fri, 16 Jan 2026 01:15:51 +0000"
         },
         {
-            "title": "Elon Musk\u2019s X Restricts Ability to Create Explicit Images With Grok",
-            "link": "https://www.nytimes.com/2026/01/15/business/grok-ai-images-x.html",
-            "published": "Thu, 15 Jan 2026 14:42:04 +0000"
+            "title": "Jonathan Haidt Strikes Again + What You Vibecoded + An Update on the Forkiverse",
+            "link": "https://www.nytimes.com/2026/01/16/podcasts/jonathan-haidt-strikes-again-what-you-vibecoded-an-update-on-the-forkiverse.html",
+            "published": "Fri, 16 Jan 2026 12:00:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Use film-style age ratings to limit teens' social media, say Lib Dems",
+            "link": "https://www.bbc.com/news/articles/c8e5149egl2o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Jan 2026 10:30:37 GMT"
+        },
         {
             "title": "X to stop Grok AI from undressing images of real people after backlash",
             "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Monzo bank says issue affecting its mobile app resolved",
             "link": "https://www.bbc.com/news/articles/cdexzl9jg9no?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 13 Jan 2026 17:35:04 GMT"
-        },
-        {
-            "title": "Apple turns to Google to power AI upgrade for Siri",
-            "link": "https://www.bbc.com/news/articles/czdqvp2zqezo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 13 Jan 2026 13:09:19 GMT"
         }
     ]
 }
