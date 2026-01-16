@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "ClickHouse, a Snowflake challenger that offers an OLAP database management system, raised $400M led by Dragoneer at a $15B valuation, up from $6.35B in May 2025 (Dina Bass/Bloomberg)",
+            "link": "http://www.techmeme.com/260116/p9#a260116p9",
+            "published": "Fri, 16 Jan 2026 09:15:07 -0500"
+        },
+        {
             "title": "Source: Italian police searched the offices of the country's data protection agency, one of EU's most proactive regulators, as part of a corruption probe (Reuters)",
             "link": "http://www.techmeme.com/260116/p8#a260116p8",
             "published": "Fri, 16 Jan 2026 07:40:00 -0500"
@@ -19,11 +24,6 @@
             "title": "Italy's competition regulator opens two investigations into Microsoft's Activision Blizzard over sales practices it claims were \"misleading and aggressive\" (Reuters)",
             "link": "http://www.techmeme.com/260116/p5#a260116p5",
             "published": "Fri, 16 Jan 2026 06:10:02 -0500"
-        },
-        {
-            "title": "TikTok plans to roll out a new age detection system, which analyzes profile information to predict whether a user is under 13, across Europe in the coming weeks (Supantha Mukherjee/Reuters)",
-            "link": "http://www.techmeme.com/260116/p4#a260116p4",
-            "published": "Fri, 16 Jan 2026 06:00:46 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
+            "link": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Jan 2026 13:56:05 GMT"
+        },
+        {
             "title": "Use film-style age ratings to limit teens' social media, say Lib Dems",
             "link": "https://www.bbc.com/news/articles/c8e5149egl2o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 16 Jan 2026 10:30:37 GMT"
@@ -73,11 +78,6 @@
             "title": "No 10 welcomes reports X is addressing Grok deepfakes",
             "link": "https://www.bbc.com/news/articles/ceqz7pyd303o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 14 Jan 2026 14:44:53 GMT"
-        },
-        {
-            "title": "Honey, I shrunk the data centres: Is small the new big?",
-            "link": "https://www.bbc.com/news/articles/cd0ynenr1eno?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 14 Jan 2026 00:07:50 GMT"
         }
     ]
 }
