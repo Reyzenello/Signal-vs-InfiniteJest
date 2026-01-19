@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The UK launches a consultation on whether to ban under-16s from using social media, alongside restrictions on addictive app features like infinite scrolling (Kiran Stacey/The Guardian)",
+            "link": "http://www.techmeme.com/260119/p24#a260119p24",
+            "published": "Mon, 19 Jan 2026 17:50:01 -0500"
+        },
+        {
             "title": "Q&A with Razer CEO Min-Liang Tan on the use of AI in game development, the gaming community's pushback against AI, partnering with Grok, and more (Nilay Patel/The Verge)",
             "link": "http://www.techmeme.com/260119/p23#a260119p23",
             "published": "Mon, 19 Jan 2026 17:20:02 -0500"
@@ -19,11 +24,6 @@
             "title": "Sources: Seoul-based AI chip designer FuriosaAI seeks to raise a $300M-$500M Series D to fund mass production of its 2nd-gen RNGD chip and is eyeing a 2027 IPO (Yoolim Lee/Bloomberg)",
             "link": "http://www.techmeme.com/260119/p20#a260119p20",
             "published": "Mon, 19 Jan 2026 12:30:08 -0500"
-        },
-        {
-            "title": "The UK Gambling Commission says Meta is letting illegal gambling sites advertise on Facebook and Instagram, calling its ad library a \"window into criminality\" (Olivia Solon/Bloomberg)",
-            "link": "http://www.techmeme.com/260119/p19#a260119p19",
-            "published": "Mon, 19 Jan 2026 11:35:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "UK to consult on social media ban for under 16s",
+            "link": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Jan 2026 22:30:00 GMT"
+        },
+        {
             "title": "How crypto criminals stole $700 million from people - often using age-old tricks",
             "link": "https://www.bbc.com/news/articles/c93w30gl5jno?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 19 Jan 2026 00:48:24 GMT"
@@ -73,11 +78,6 @@
             "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
             "link": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 16 Jan 2026 13:56:05 GMT"
-        },
-        {
-            "title": "Use film-style age ratings to limit teens' social media, say Lib Dems",
-            "link": "https://www.bbc.com/news/articles/c8e5149egl2o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 16 Jan 2026 10:30:37 GMT"
         }
     ]
 }
