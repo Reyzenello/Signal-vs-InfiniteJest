@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Ukraine says it plans to share nearly four years of combat data, including millions of hours of drone footage, with allies to help train AI models (Max Hunder/Reuters)",
+            "link": "http://www.techmeme.com/260120/p22#a260120p22",
+            "published": "Tue, 20 Jan 2026 10:30:01 -0500"
+        },
+        {
+            "title": "Filings: Michael Saylor's Strategy has bought more than $3B in Bitcoin since January 5, marking its biggest two-week purchase since December 2024 (Melos Ambaye/Bloomberg)",
+            "link": "http://www.techmeme.com/260120/p21#a260120p21",
+            "published": "Tue, 20 Jan 2026 10:20:01 -0500"
+        },
+        {
             "title": "Legal AI startup Ivo, which aims to reduce hallucinations by breaking legal reviews into 400+ tasks, raised a $55M Series B, a source says at a $355M valuation (Aditya Soni/Reuters)",
             "link": "http://www.techmeme.com/260120/p20#a260120p20",
             "published": "Tue, 20 Jan 2026 08:30:01 -0500"
@@ -14,19 +24,14 @@
             "title": "Portugal orders Polymarket to stop operations and blocks it in the country after heavy activity tied to its recent presidential election, with \u20ac110M+ in volume (Naga Avan-Nomayo/The Block)",
             "link": "http://www.techmeme.com/260120/p18#a260120p18",
             "published": "Tue, 20 Jan 2026 08:10:02 -0500"
-        },
-        {
-            "title": "Anthropic CEO Dario Amodei says selling AI chips to China is a blunder with \"incredible national security implications\", calling it a \"big mistake\" and \"crazy\" (Christina Kyriasoglou/Bloomberg)",
-            "link": "http://www.techmeme.com/260120/p17#a260120p17",
-            "published": "Tue, 20 Jan 2026 07:55:01 -0500"
-        },
-        {
-            "title": "Humans&, founded by ex-Anthropic, xAI, and Google staff to build collaborative AI, raised a $480M seed from Nvidia, Jeff Bezos, and others at a $4.48B valuation (Cade Metz/New York Times)",
-            "link": "http://www.techmeme.com/260120/p16#a260120p16",
-            "published": "Tue, 20 Jan 2026 07:45:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them",
+            "link": "https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html",
+            "published": "Tue, 20 Jan 2026 12:00:05 +0000"
+        },
         {
             "title": "The Rise of Prediction Markets",
             "link": "https://www.nytimes.com/2026/01/19/technology/polymarket-kalshi-prediction-markets.html",
@@ -43,14 +48,9 @@
             "published": "Fri, 16 Jan 2026 20:09:14 +0000"
         },
         {
-            "title": "How Activists in Iran Are Using Starlink to Stay Online",
-            "link": "https://www.nytimes.com/2026/01/15/technology/iran-online-starlink.html",
-            "published": "Fri, 16 Jan 2026 12:24:45 +0000"
-        },
-        {
-            "title": "An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them",
-            "link": "https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html",
-            "published": "Tue, 20 Jan 2026 12:00:05 +0000"
+            "title": "AI Attack Ad in Texas Senate Race Shows John Cornyn Dancing With Jasmine Crockett",
+            "link": "https://www.nytimes.com/2026/01/16/us/politics/ai-ad-texas-senate-paxton-cornyn.html",
+            "published": "Sat, 17 Jan 2026 00:29:37 +0000"
         }
     ],
     "source_2": [
