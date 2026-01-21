@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Greg Peters says Netflix plans to bring new content types like video podcasts to its vertical video feed, and plans to roll out a new mobile UI later in 2026 (Caitlin Huston/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/260120/p43#a260120p43",
-            "published": "Tue, 20 Jan 2026 18:15:05 -0500"
+            "title": "Analysis: the Trump family has generated about $1.4B from crypto projects since Trump's inauguration a year ago, making up about one-fifth of their fortune (Bloomberg)",
+            "link": "http://www.techmeme.com/260120/p49#a260120p49",
+            "published": "Tue, 20 Jan 2026 21:25:24 -0500"
         },
         {
-            "title": "Demis Hassabis says there aren't \"any plans\" to put ads in Gemini and, in response to OpenAI testing ads, says \"maybe they feel they need to make more revenue\" (Alex Heath/Sources)",
-            "link": "http://www.techmeme.com/260120/p42#a260120p42",
-            "published": "Tue, 20 Jan 2026 17:45:01 -0500"
+            "title": "G42 CEO Peng Xiao says AI chip shipments from Nvidia, AMD, and Cerebras are set to arrive in the UAE within the next few months, as the UAE builds a 200MW hub (Bloomberg)",
+            "link": "http://www.techmeme.com/260120/p48#a260120p48",
+            "published": "Tue, 20 Jan 2026 20:00:14 -0500"
         },
         {
-            "title": "A Massachusetts judge grants a preliminary injunction blocking Kalshi from letting state residents bet on sports through its online platform (Nate Raymond/Reuters)",
-            "link": "http://www.techmeme.com/260120/p41#a260120p41",
-            "published": "Tue, 20 Jan 2026 17:25:17 -0500"
+            "title": "Sources: Applied Compute, which lets companies customize models with their own data, is in talks to raise funding at a $1.3B valuation, up from $500M in October (The Information)",
+            "link": "http://www.techmeme.com/260120/p47#a260120p47",
+            "published": "Tue, 20 Jan 2026 19:35:01 -0500"
         },
         {
-            "title": "Snap reaches an agreement to settle a social media addiction lawsuit in California, a week before the start of a trial in the first of several such lawsuits (Cecilia Kang/New York Times)",
-            "link": "http://www.techmeme.com/260120/p40#a260120p40",
-            "published": "Tue, 20 Jan 2026 17:10:19 -0500"
+            "title": "The EC introduces draft revisions to the EU's Cybersecurity Act to phase out equipment from high-risk suppliers in critical sectors, a move criticized by Huawei (Foo Yun Chee/Reuters)",
+            "link": "http://www.techmeme.com/260120/p46#a260120p46",
+            "published": "Tue, 20 Jan 2026 19:15:04 -0500"
         },
         {
-            "title": "Elon Musk and Sam Altman clashed on X after Musk shared a post about a man who committed a murder-suicide following delusional conversations with ChatGPT (Theo Wayt/The Information)",
-            "link": "http://www.techmeme.com/260120/p39#a260120p39",
-            "published": "Tue, 20 Jan 2026 16:40:20 -0500"
+            "title": "X says it has open sourced its \"core recommendation system\" on GitHub and that the system \"ranks everything using a Grok-based transformer model\" (Lucas Ropek/TechCrunch)",
+            "link": "http://www.techmeme.com/260120/p45#a260120p45",
+            "published": "Tue, 20 Jan 2026 18:50:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Snap settles social media addiction lawsuit ahead of trial",
+            "link": "https://www.bbc.com/news/articles/c62ndl2ydzxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Jan 2026 00:17:01 GMT"
+        },
+        {
             "title": "UK consulting on bringing in social media ban for under 16s",
             "link": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 20 Jan 2026 13:28:09 GMT"
@@ -73,11 +78,6 @@
             "title": "ChatGPT to carry adverts for some users",
             "link": "https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 16 Jan 2026 18:00:24 GMT"
-        },
-        {
-            "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
-            "link": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 16 Jan 2026 13:56:05 GMT"
         }
     ]
 }
