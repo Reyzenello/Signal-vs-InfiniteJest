@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Cate Blanchett, Cyndi Lauper, and 800+ creatives launch \"Stealing Isn't Innovation\" to protest unauthorized AI training, backed by RIAA, SAG-AFTRA, and others (Mia Sato/The Verge)",
-            "link": "http://www.techmeme.com/260122/p14#a260122p14",
-            "published": "Thu, 22 Jan 2026 06:20:00 -0500"
+            "title": "Austin-based Neurophos, which develops a photon-based \"Optical Processing Unit\" to replace GPUs in AI training, raised $110M led by Bill Gates' Gates Frontier (Edward Ludlow/Bloomberg)",
+            "link": "http://www.techmeme.com/260122/p21#a260122p21",
+            "published": "Thu, 22 Jan 2026 08:05:02 -0500"
         },
         {
-            "title": "An analysis of 5,290 AI research papers at NeurIPS: 141, or ~3%, had US-China AI lab collaboration, up from 134 in 2024; Llama featured in 106 Chinese papers (Will Knight/Wired)",
-            "link": "http://www.techmeme.com/260122/p13#a260122p13",
-            "published": "Thu, 22 Jan 2026 06:10:01 -0500"
+            "title": "Sources: the US and China approve a deal to sell TikTok's US business to a group of mostly US investors led by Oracle and Silverlake, set to close this week (Semafor)",
+            "link": "http://www.techmeme.com/260122/p20#a260122p20",
+            "published": "Thu, 22 Jan 2026 07:56:30 -0500"
         },
         {
-            "title": "Israeli startup Claroty, which makes security tech for hospitals, manufacturing, and industrial systems, raised a $150M Series F, sources say at a $3B valuation (Meir Orbach/CTech)",
-            "link": "http://www.techmeme.com/260122/p12#a260122p12",
-            "published": "Thu, 22 Jan 2026 05:50:02 -0500"
+            "title": "Snap updates its Family Center tool to let parents view daily screen time averages and a breakdown of time spent by specific app segment like Snap Map (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/260122/p19#a260122p19",
+            "published": "Thu, 22 Jan 2026 07:30:00 -0500"
         },
         {
-            "title": "South Korea enacts the AI Basic Act, which it says includes the world's first comprehensive set of laws regulating AI, as startups warn of compliance burdens (Kyu-Seok Shim/Reuters)",
-            "link": "http://www.techmeme.com/260122/p11#a260122p11",
-            "published": "Thu, 22 Jan 2026 05:25:03 -0500"
+            "title": "Source: Google DeepMind signs a licensing deal with Hume AI, which builds emotionally intelligent voice interfaces, to hire CEO Alan Cowen and ~7 top engineers (Will Knight/Wired)",
+            "link": "http://www.techmeme.com/260122/p18#a260122p18",
+            "published": "Thu, 22 Jan 2026 07:15:02 -0500"
         },
         {
-            "title": "Filing: PhonePe reports H1 FY 2026 revenue up 22% YoY to ~$427.5M, a ~$157M loss, and 657.6M users; the payments company plans to sell 50.7M shares in its IPO (Rajesh Mascarenhas/Bloomberg)",
-            "link": "http://www.techmeme.com/260122/p10#a260122p10",
-            "published": "Thu, 22 Jan 2026 05:10:06 -0500"
+            "title": "Vinted CEO Thomas Plantenga says the Lithuania-based secondhand retailer plans to spend tens of millions of dollars to expand in the US in the coming months (Aimee Look/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260122/p17#a260122p17",
+            "published": "Thu, 22 Jan 2026 07:00:41 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Ubisoft cancels six games including Prince of Persia and closes studios",
+            "link": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Jan 2026 12:20:32 GMT"
+        },
+        {
             "title": "Bezos' Blue Origin announces satellite rival to Musk's Starlink",
             "link": "https://www.bbc.com/news/articles/cn0yydwe89jo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 22 Jan 2026 03:15:27 GMT"
@@ -73,11 +78,6 @@
             "title": "How crypto criminals stole $700 million from people - often using age-old tricks",
             "link": "https://www.bbc.com/news/articles/c93w30gl5jno?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 19 Jan 2026 00:48:24 GMT"
-        },
-        {
-            "title": "Google appeals landmark antitrust verdict over search monopoly",
-            "link": "https://www.bbc.com/news/articles/clyn0ek5rdpo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 17 Jan 2026 02:44:48 GMT"
         }
     ]
 }
