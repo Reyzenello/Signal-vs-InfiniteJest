@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Mistral's CEO says claims that Chinese AI startups lag behind the US are a \"fairy tale,\" and China's open-source tech is \"probably stressing\" US CEOs (Bloomberg)",
-            "link": "http://www.techmeme.com/260122/p33#a260122p33",
-            "published": "Thu, 22 Jan 2026 11:40:02 -0500"
+            "title": "Substack launches its Substack TV app for Apple TV and Google TV in beta for free and paid subscribers, with access matched to their current subscription levels (On Substack)",
+            "link": "http://www.techmeme.com/260122/p38#a260122p38",
+            "published": "Thu, 22 Jan 2026 12:35:00 -0500"
         },
         {
-            "title": "Spotify expands its AI-powered Prompted Playlists beta to Premium subscribers in the US and Canada, following initial testing in New Zealand (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/260122/p32#a260122p32",
-            "published": "Thu, 22 Jan 2026 11:20:01 -0500"
+            "title": "The US BOP releases Caroline Ellison, the former FTX executive and ex-girlfriend of Sam Bankman-Fried, after about 14 months; she had a two-year sentence (Business Insider)",
+            "link": "http://www.techmeme.com/260122/p37#a260122p37",
+            "published": "Thu, 22 Jan 2026 12:30:03 -0500"
         },
         {
-            "title": "Google rolls out Personal Intelligence in AI Mode to access users' Gmail and Google Photos data for more tailored responses, for US Pro and Ultra subscribers (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/260122/p31#a260122p31",
-            "published": "Thu, 22 Jan 2026 11:15:01 -0500"
+            "title": "Inside the turmoil at Thinking Machines; sources say Meta discussed buying TML, and CTO Barret Zoph had been in talks since October 2025 about an OpenAI return (New York Times)",
+            "link": "http://www.techmeme.com/260122/p36#a260122p36",
+            "published": "Thu, 22 Jan 2026 12:25:00 -0500"
         },
         {
-            "title": "Cambio, creator of AI-powered commercial real estate software for institutional investors, raised an $18M Series A led by Maverick Ventures at a $100M valuation (Mary Ann Azevedo/Crunchbase News)",
-            "link": "http://www.techmeme.com/260122/p30#a260122p30",
-            "published": "Thu, 22 Jan 2026 10:55:01 -0500"
+            "title": "Railway, a cloud platform for software deployment, raised a $100M Series B led by TQ Ventures, bringing its total funding to $130M+, says it has ARR of $10M+ (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/260122/p35#a260122p35",
+            "published": "Thu, 22 Jan 2026 11:55:00 -0500"
         },
         {
-            "title": "Superstate raised an $82.5M Series B to expand from tokenized Treasury offerings into SEC-registered equities on Ethereum and Solana (James Hunt/The Block)",
-            "link": "http://www.techmeme.com/260122/p29#a260122p29",
-            "published": "Thu, 22 Jan 2026 10:35:01 -0500"
+            "title": "Inferact, founded by the creators of vLLM to create a commercial AI product for cross-hardware efficiency, raised a $150M seed led by a16z at an $800M valuation (Agnee Ghosh/Bloomberg)",
+            "link": "http://www.techmeme.com/260122/p34#a260122p34",
+            "published": "Thu, 22 Jan 2026 11:50:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "The Drama at Thinking Machines, a New A.I. Start-Up, Is Riveting Silicon Valley",
+            "link": "https://www.nytimes.com/2026/01/22/technology/thinking-machines-ai-startup-openai.html",
+            "published": "Thu, 22 Jan 2026 16:59:29 +0000"
+        },
         {
             "title": "Elon Musk\u2019s Grok A.I. Chatbot Made Millions of Sexualized Images, New Estimates Show",
             "link": "https://www.nytimes.com/2026/01/22/technology/grok-x-ai-elon-musk-deepfakes.html",
@@ -36,11 +41,6 @@
             "title": "An A.I. Start-Up Says It Wants to Empower Workers, Not Replace Them",
             "link": "https://www.nytimes.com/2026/01/20/technology/humans-ai-anthropic-xai.html",
             "published": "Tue, 20 Jan 2026 12:00:05 +0000"
-        },
-        {
-            "title": "Snap Settles Lawsuit on Social Media Addiction, Avoiding a Landmark Trial",
-            "link": "https://www.nytimes.com/2026/01/20/technology/snap-social-media-addiction-lawsuit.html",
-            "published": "Tue, 20 Jan 2026 22:01:44 +0000"
         },
         {
             "title": "How to Deal With That Drawer Full of Old Gadgets",
