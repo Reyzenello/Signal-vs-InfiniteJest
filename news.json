@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "BitGo raises $212.8M in its US IPO at $18 per share, above the marketed range of $15 to $17 per share, giving it a market value of about $2.1B (Bloomberg)",
+            "link": "http://www.techmeme.com/260121/p51#a260121p51",
+            "published": "Wed, 21 Jan 2026 22:50:00 -0500"
+        },
+        {
+            "title": "xAI engineer Sulaiman Ghori says he has \"left\" the company days after appearing on a podcast last week where he claimed that xAI had been skirting regulations (AJ Dellinger/Gizmodo)",
+            "link": "http://www.techmeme.com/260121/p50#a260121p50",
+            "published": "Wed, 21 Jan 2026 21:55:01 -0500"
+        },
+        {
             "title": "Marketing tech startup Applecart raised $100M in a minority funding round led by Blackstone's growth equity business, a source says at a ~$700M valuation (Myles Miller/Bloomberg)",
             "link": "http://www.techmeme.com/260121/p49#a260121p49",
             "published": "Wed, 21 Jan 2026 20:30:01 -0500"
@@ -11,19 +21,9 @@
             "published": "Wed, 21 Jan 2026 19:10:01 -0500"
         },
         {
-            "title": "Layoffs hit Vimeo for the second time since September 2025, when it laid off 10% of its workforce; Bending Spoons acquired Vimeo for around $1.38B in November (Business Insider)",
+            "title": "Vimeo is laying off staff for the second time since September 2025, when it cut 10% of its workforce; Bending Spoons acquired Vimeo for about $1.38B in November (Business Insider)",
             "link": "http://www.techmeme.com/260121/p47#a260121p47",
             "published": "Wed, 21 Jan 2026 18:20:00 -0500"
-        },
-        {
-            "title": "Sources: Sam Altman has been meeting with top investors in the Middle East, looking to raise at least $50B for OpenAI at a valuation of about $750B to $830B (Bloomberg)",
-            "link": "http://www.techmeme.com/260121/p46#a260121p46",
-            "published": "Wed, 21 Jan 2026 17:55:02 -0500"
-        },
-        {
-            "title": "Memo: Barret Zoph, the Thinking Machines Lab cofounder who rejoined OpenAI last week, will lead OpenAI's enterprise push, as part of a broader reorganization (The Information)",
-            "link": "http://www.techmeme.com/260121/p45#a260121p45",
-            "published": "Wed, 21 Jan 2026 17:25:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Bezos' Blue Origin announces satellite rival to Musk's Starlink",
+            "link": "https://www.bbc.com/news/articles/cn0yydwe89jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Jan 2026 03:15:27 GMT"
+        },
+        {
             "title": "Snap settles social media addiction lawsuit ahead of trial",
             "link": "https://www.bbc.com/news/articles/c62ndl2ydzxo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 21 Jan 2026 00:17:01 GMT"
@@ -73,11 +78,6 @@
             "title": "Google appeals landmark antitrust verdict over search monopoly",
             "link": "https://www.bbc.com/news/articles/clyn0ek5rdpo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 17 Jan 2026 02:44:48 GMT"
-        },
-        {
-            "title": "ChatGPT to carry adverts for some users",
-            "link": "https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 16 Jan 2026 18:00:24 GMT"
         }
     ]
 }
