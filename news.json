@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Wikimedia data puts iOS 26 adoption at ~50% in January vs. iOS 18's 72% in 2025 as Apple slows auto-updates; Statcounter showed 15% after missing Safari changes (John Gruber/Daring Fireball)",
+            "link": "http://www.techmeme.com/260126/p35#a260126p35",
+            "published": "Mon, 26 Jan 2026 14:55:01 -0500"
+        },
+        {
             "title": "Shares of Zoom jump 10%+ after analysts at Baird estimated that Zoom's 2023 investment in Anthropic could be worth $2B to $4B, depending on dilution (Nate Wolf/Barron's Online)",
             "link": "http://www.techmeme.com/260126/p34#a260126p34",
             "published": "Mon, 26 Jan 2026 13:55:01 -0500"
@@ -19,11 +24,6 @@
             "title": "UpScrolled, a platform for sharing photos, videos, and text that claims political impartiality, says user growth has surged since TikTok's US takeover (Emma Roth/The Verge)",
             "link": "http://www.techmeme.com/260126/p31#a260126p31",
             "published": "Mon, 26 Jan 2026 13:15:01 -0500"
-        },
-        {
-            "title": "Qwen releases Qwen3-Max-Thinking, its flagship reasoning model that it says demonstrates performance comparable to models such as GPT-5.2 Thinking and Opus 4.5 (Qwen)",
-            "link": "http://www.techmeme.com/260126/p30#a260126p30",
-            "published": "Mon, 26 Jan 2026 12:50:01 -0500"
         }
     ],
     "source_1": [
@@ -55,14 +55,14 @@
     ],
     "source_2": [
         {
-            "title": "TikTok apologises after thousands in US report issues",
-            "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 26 Jan 2026 18:43:43 GMT"
-        },
-        {
             "title": "Google to pay $68m to settle lawsuit claiming it recorded private conversations",
             "link": "https://www.bbc.com/news/articles/c4g38jv8zzwo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 26 Jan 2026 18:37:42 GMT"
+        },
+        {
+            "title": "TikTok apologises after thousands in US report issues",
+            "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Jan 2026 18:43:43 GMT"
         },
         {
             "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
