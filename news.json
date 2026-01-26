@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Zocks, which offers an AI assistant for financial advisers, raised a $45M Series B co-led by Lightspeed and QED Investors, taking its total funding to $65M (Mary Ann Azevedo/Crunchbase News)",
+            "link": "http://www.techmeme.com/260126/p33#a260126p33",
+            "published": "Mon, 26 Jan 2026 13:45:00 -0500"
+        },
+        {
+            "title": "Anthropic rolls out a new extension to MCP to let users interact with apps directly inside the Claude chatbot, with support for Asana, Figma, Slack, and others (Robert Hart/The Verge)",
+            "link": "http://www.techmeme.com/260126/p32#a260126p32",
+            "published": "Mon, 26 Jan 2026 13:20:01 -0500"
+        },
+        {
+            "title": "UpScrolled, a platform for sharing photos, videos, and text that claims political impartiality, says user growth has surged since TikTok's US takeover (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/260126/p31#a260126p31",
+            "published": "Mon, 26 Jan 2026 13:15:01 -0500"
+        },
+        {
+            "title": "Qwen releases Qwen3-Max-Thinking, its flagship reasoning model that it says demonstrates performance comparable to models such as GPT-5.2 Thinking and Opus 4.5 (Qwen)",
+            "link": "http://www.techmeme.com/260126/p30#a260126p30",
+            "published": "Mon, 26 Jan 2026 12:50:01 -0500"
+        },
+        {
             "title": "In a 38-page essay, Dario Amodei warns of civilization-level damage from superintelligent AI, questioning whether humanity has the maturity to handle such power (Axios)",
             "link": "http://www.techmeme.com/260126/p29#a260126p29",
             "published": "Mon, 26 Jan 2026 12:35:01 -0500"
-        },
-        {
-            "title": "Upwind Security, which filters out false security alerts in cloud apps to let security teams address actual risks, raised a $250M Series B at a ~$1.5B valuation (Angus Loten/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260126/p28#a260126p28",
-            "published": "Mon, 26 Jan 2026 12:00:14 -0500"
-        },
-        {
-            "title": "TikTok US says it is working to restore services after a power outage at a data center and any algorithm changes users noticed were likely due to the outage (Dan Whateley/Business Insider)",
-            "link": "http://www.techmeme.com/260126/p27#a260126p27",
-            "published": "Mon, 26 Jan 2026 11:40:01 -0500"
-        },
-        {
-            "title": "Microsoft unveils the Maia 200, its 2nd-generation AI accelerator built on TSMC's 3nm process, deploying today in its Azure US Central data center region (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/260126/p26#a260126p26",
-            "published": "Mon, 26 Jan 2026 11:10:01 -0500"
-        },
-        {
-            "title": "Sources: the US DOT plans to use Gemini to draft federal regulations, cutting the process to just 30 days; the DOT used it to draft a still-unpublished FAA rule (Jesse Coburn/ProPublica)",
-            "link": "http://www.techmeme.com/260126/p25#a260126p25",
-            "published": "Mon, 26 Jan 2026 10:45:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Google to pay $68m to settle lawsuit claiming it recorded private conversations",
+            "link": "https://www.bbc.com/news/articles/c4g38jv8zzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Jan 2026 18:37:42 GMT"
+        },
+        {
             "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
             "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 26 Jan 2026 13:34:31 GMT"
@@ -73,11 +78,6 @@
             "title": "Ubisoft cancels six games including Prince of Persia and closes studios",
             "link": "https://www.bbc.com/news/articles/c6200g826d2o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 22 Jan 2026 12:20:32 GMT"
-        },
-        {
-            "title": "AI ready: The advantages of being a young entrepreneur",
-            "link": "https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 23 Jan 2026 00:02:43 GMT"
         }
     ]
 }
