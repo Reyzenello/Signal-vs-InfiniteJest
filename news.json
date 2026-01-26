@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "London-based enterprise AI video startup Synthesia raised a $200M Series E led by GV at a $4B valuation, up from $2.1B after raising $180M in January 2025 (Nat Rubio-Licht/The Deep View)",
+            "link": "http://www.techmeme.com/260126/p3#a260126p3",
+            "published": "Mon, 26 Jan 2026 04:15:02 -0500"
+        },
+        {
+            "title": "Manufacturers say that AI is fundamentally changing how some new products are created, finding unexpected solutions and reducing R&D time from weeks to days (John Keilman/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260126/p2#a260126p2",
+            "published": "Mon, 26 Jan 2026 03:50:00 -0500"
+        },
+        {
             "title": "Entropy, a decentralized crypto custodian that raised a $25M seed led by a16z in June 2022, is shutting down after \"several pivots, and two rounds of layoffs\" (Zack Abrams/The Block)",
             "link": "http://www.techmeme.com/260126/p1#a260126p1",
             "published": "Mon, 26 Jan 2026 01:30:03 -0500"
@@ -14,16 +24,6 @@
             "title": "Gallup: 12% of employed US adults reported using AI daily in their job in Q4 2025, compared to 10% in Q3 and 8% in Q2; 49% say they never use AI in their role (Andy Kemp/Gallup)",
             "link": "http://www.techmeme.com/260125/p10#a260125p10",
             "published": "Sun, 25 Jan 2026 20:35:00 -0500"
-        },
-        {
-            "title": "Many AI founders now find it necessary to raise at valuations requiring absolute domination of the field; Brex, once valued at $12B, shows the downsides of this (Jason Lemkin/SaaStr)",
-            "link": "http://www.techmeme.com/260125/p9#a260125p9",
-            "published": "Sun, 25 Jan 2026 17:45:01 -0500"
-        },
-        {
-            "title": "A profile of Mercor, which pays about $2M daily to ~30K experts training AI models at $95/hour on average, with roles like radiologists earning up to $375/hour (Bethan Staton/Financial Times)",
-            "link": "http://www.techmeme.com/260125/p8#a260125p8",
-            "published": "Sun, 25 Jan 2026 16:05:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok US venture to collect precise user location data",
+            "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Jan 2026 03:06:29 GMT"
+        },
+        {
             "title": "What does a new US TikTok deal mean for users?",
             "link": "https://www.bbc.com/news/articles/cq5yynydvgzo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 23 Jan 2026 18:15:10 GMT"
@@ -73,11 +78,6 @@
             "title": "AI ready: The advantages of being a young entrepreneur",
             "link": "https://www.bbc.com/news/articles/c058d4nvz1go?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 23 Jan 2026 00:02:43 GMT"
-        },
-        {
-            "title": "Bezos' Blue Origin announces satellite rival to Musk's Starlink",
-            "link": "https://www.bbc.com/news/articles/cn0yydwe89jo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Jan 2026 03:15:27 GMT"
         }
     ]
 }
