@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "TikTok US says it is working to restore services after a power outage at a data center and any algorithm changes users noticed were likely due to the outage (Dan Whateley/Business Insider)",
+            "link": "http://www.techmeme.com/260126/p27#a260126p27",
+            "published": "Mon, 26 Jan 2026 11:40:01 -0500"
+        },
+        {
+            "title": "Microsoft unveils the Maia 200, its 2nd-generation AI accelerator built on TSMC's 3nm process, deploying today in its Azure US Central data center region (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/260126/p26#a260126p26",
+            "published": "Mon, 26 Jan 2026 11:10:01 -0500"
+        },
+        {
+            "title": "Sources: the US DOT plans to use Gemini to draft federal regulations, cutting the process to just 30 days; the DOT used it to draft a still-unpublished FAA rule (Jesse Coburn/ProPublica)",
+            "link": "http://www.techmeme.com/260126/p25#a260126p25",
+            "published": "Mon, 26 Jan 2026 10:45:00 -0500"
+        },
+        {
             "title": "The EU Commission says WhatsApp's Channels fall under the DSA's Very Large Online Platform rules, joining Instagram and Facebook, requiring it to address risks (Anupriya Datta/Euractiv)",
             "link": "http://www.techmeme.com/260126/p24#a260126p24",
             "published": "Mon, 26 Jan 2026 10:01:31 -0500"
@@ -9,21 +24,6 @@
             "title": "Source: OpenAI targets ~$60 per 1,000 views for ChatGPT ads, on par with live NFL broadcasts and above Meta's sub-$20 CPM, while offering little conversion data (The Information)",
             "link": "http://www.techmeme.com/260126/p23#a260126p23",
             "published": "Mon, 26 Jan 2026 09:30:01 -0500"
-        },
-        {
-            "title": "Nvidia announces its Earth-2 Medium Range weather model, built on its Atlas architecture, claiming it outperforms Google DeepMind's GenCast in 70+ variables (Tim De Chant/TechCrunch)",
-            "link": "http://www.techmeme.com/260126/p22#a260126p22",
-            "published": "Mon, 26 Jan 2026 09:20:02 -0500"
-        },
-        {
-            "title": "Apple unveils a second-gen AirTag with an updated speaker and the same second-gen Ultra Wideband chip as in the iPhone 17, costing $29 for one and $99 for four (Ryan Christoffel/9to5Mac)",
-            "link": "http://www.techmeme.com/260126/p21#a260126p21",
-            "published": "Mon, 26 Jan 2026 09:15:00 -0500"
-        },
-        {
-            "title": "Intel Panther Lake laptop CPU review: the 18A-based Core Ultra X9 388H outperforms Apple's M5 and AMD's top-tier Strix Halo in some tests like 4K video exports (Antonio G. Di Benedetto/The Verge)",
-            "link": "http://www.techmeme.com/260126/p20#a260126p20",
-            "published": "Mon, 26 Jan 2026 09:10:05 -0500"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "New Videos of the Beckham Feud Are Fake. Nobody Seems to Care.",
             "link": "https://www.nytimes.com/2026/01/26/business/media/brooklyn-beckham-victoria-feud-ai-videos-dancing.html",
-            "published": "Mon, 26 Jan 2026 15:32:52 +0000"
+            "published": "Mon, 26 Jan 2026 15:32:53 +0000"
         },
         {
             "title": "Why the Power May Not Go Out Until After the Storm Has Passed",
