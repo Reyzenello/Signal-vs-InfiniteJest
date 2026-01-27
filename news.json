@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
+            "title": "US court filings detail Anthropic's Project Panama, an effort to \"destructively scan\" up to 2M books with a hydraulic \"cutting machine\" led by an ex-Google exec (Washington Post)",
+            "link": "http://www.techmeme.com/260127/p7#a260127p7",
+            "published": "Tue, 27 Jan 2026 06:10:01 -0500"
+        },
+        {
+            "title": "The EU gives Google a six-month deadline to lift technical barriers to rival AI search assistants on Android and give key data to other search engine providers (Samuel Stolton/Bloomberg)",
+            "link": "http://www.techmeme.com/260127/p6#a260127p6",
+            "published": "Tue, 27 Jan 2026 05:50:33 -0500"
+        },
+        {
             "title": "Moonshot says Kimi K2.5 builds on K2 with \"pretraining over ~15T mixed visual and text tokens\" and \"can self-direct an agent swarm with up to 100 sub-agents\" (Kimi)",
             "link": "http://www.techmeme.com/260127/p5#a260127p5",
             "published": "Tue, 27 Jan 2026 05:40:01 -0500"
         },
         {
-            "title": "Chinese startup Moonshot updates its Kimi model, saying K2.5 can process text, images, and videos simultaneously and beats its open-source peers in some tests (Bloomberg)",
+            "title": "Chinese startup Moonshot releases Kimi K2.5, saying the model can process text, images, and videos simultaneously and beats its open-source peers in some tests (Bloomberg)",
             "link": "http://www.techmeme.com/260127/p4#a260127p4",
             "published": "Tue, 27 Jan 2026 05:15:01 -0500"
         },
@@ -14,16 +24,6 @@
             "title": "An interview with OpenAI for Science head Kevin Weil on the team's mission, why LLMs can't come up with game-changing discoveries yet, and more (Will Douglas Heaven/MIT Technology Review)",
             "link": "http://www.techmeme.com/260127/p3#a260127p3",
             "published": "Tue, 27 Jan 2026 02:25:01 -0500"
-        },
-        {
-            "title": "TikTok US says it doesn't \"have rules against sharing the name Epstein in direct messages\" and is \"investigating why some users are experiencing issues\" (Bobby Allyn/NPR)",
-            "link": "http://www.techmeme.com/260127/p2#a260127p2",
-            "published": "Tue, 27 Jan 2026 01:45:01 -0500"
-        },
-        {
-            "title": "Micron plans to invest $24B over the next decade to build a 700,000-square-foot memory chip facility in Singapore, with wafer output set to start in H2 2028 (Reuters)",
-            "link": "http://www.techmeme.com/260127/p1#a260127p1",
-            "published": "Tue, 27 Jan 2026 00:40:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Legal action over 'unfair' Steam game store prices given go ahead",
+            "link": "https://www.bbc.com/news/articles/cx2g1md0l23o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Jan 2026 10:43:40 GMT"
+        },
+        {
             "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
             "link": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 27 Jan 2026 05:37:52 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok apologises after thousands in US report issues",
             "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 26 Jan 2026 18:43:43 GMT"
-        },
-        {
-            "title": "EU investigates Elon Musk's X over Grok AI sexual deepfakes",
-            "link": "https://www.bbc.com/news/articles/clye99wg0y8o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 26 Jan 2026 13:34:31 GMT"
         }
     ]
 }
