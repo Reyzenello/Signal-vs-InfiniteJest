@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "The US Army signs a $5.6B, 10-year contract with Salesforce to speed up outdated practices; as part of the deal, military recruiters will get access to Slack (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260126/p45#a260126p45",
+            "published": "Mon, 26 Jan 2026 20:05:12 -0500"
+        },
+        {
+            "title": "YC updated its website to remove Canada from its list of approved jurisdictions for incorporation, leaving the US, Cayman Islands, and Singapore as options (Murad Hemmadi/The Logic)",
+            "link": "http://www.techmeme.com/260126/p44#a260126p44",
+            "published": "Mon, 26 Jan 2026 20:00:15 -0500"
+        },
+        {
+            "title": "Khosla Ventures' Vinod Khosla and Ethan Choi disavow Keith Rabois' comments on an ICE shooting; Rabois said the man killed by agents was committing a \"felony\" (Julie Bort/TechCrunch)",
+            "link": "http://www.techmeme.com/260126/p43#a260126p43",
+            "published": "Mon, 26 Jan 2026 19:20:10 -0500"
+        },
+        {
+            "title": "A test of ChatGPT Health and Claude for Healthcare with data from Apple Health finds the chatbots provided questionable and inconsistent responses (Geoffrey A. Fowler/Washington Post)",
+            "link": "http://www.techmeme.com/260126/p42#a260126p42",
+            "published": "Mon, 26 Jan 2026 19:05:11 -0500"
+        },
+        {
             "title": "Meta says it will test new paid subscriptions that give people access to exclusive features on its apps and plans to scale Manus as part of those offerings (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/260126/p41#a260126p41",
             "published": "Mon, 26 Jan 2026 18:30:01 -0500"
-        },
-        {
-            "title": "StepFun, a Chinese AI startup that develops LLMs and has partnered with automaker Geely and smartphone brands like Oppo and Honor, raised a ~$717M Series B+ (Eudora Wang/DealStreetAsia)",
-            "link": "http://www.techmeme.com/260126/p40#a260126p40",
-            "published": "Mon, 26 Jan 2026 17:55:00 -0500"
-        },
-        {
-            "title": "Tim Cook attending a private White House screening of the documentary Melania hours after ICE killed a man suggests horrible judgment, or worse, cowardice (M.G. Siegler/Spyglass)",
-            "link": "http://www.techmeme.com/260126/p39#a260126p39",
-            "published": "Mon, 26 Jan 2026 17:40:01 -0500"
-        },
-        {
-            "title": "Billionaire Tom Steyer, who is running for California governor, says he'll vote for the one-time 5% tax on billionaire wealth if it reaches the November ballot (Eliyahu Kamisher/Bloomberg)",
-            "link": "http://www.techmeme.com/260126/p38#a260126p38",
-            "published": "Mon, 26 Jan 2026 17:15:02 -0500"
-        },
-        {
-            "title": "A group of YouTubers with a combined 6.2M subscribers adds Snap to a class action lawsuit, alleging the company trained its AI systems on their video content (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/260126/p37#a260126p37",
-            "published": "Mon, 26 Jan 2026 17:10:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Tech giants face landmark trial over social media addiction claims",
+            "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Jan 2026 00:01:49 GMT"
+        },
+        {
             "title": "Google to pay $68m to settle lawsuit claiming it recorded private conversations",
             "link": "https://www.bbc.com/news/articles/c4g38jv8zzwo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 26 Jan 2026 18:37:42 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok US venture to collect precise user location data",
             "link": "https://www.bbc.com/news/articles/cvgnj7v2rr5o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 24 Jan 2026 03:06:29 GMT"
-        },
-        {
-            "title": "Is China quietly winning the AI race?",
-            "link": "https://www.bbc.com/news/articles/c86v52gv726o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 23 Jan 2026 22:31:33 GMT"
         }
     ]
 }
