@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Memo: Tim Cook told employees that he is \"heartbroken by the events in Minneapolis\" and calls for a \"deescalation\" (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/260127/p58#a260127p58",
+            "published": "Tue, 27 Jan 2026 22:10:13 -0500"
+        },
+        {
+            "title": "Amazon appears to mistakenly alert some AWS employees about planned layoffs in an email invite to a Wednesday \"Project Dawn\" meeting about company efficiency (Business Insider)",
+            "link": "http://www.techmeme.com/260127/p57#a260127p57",
+            "published": "Tue, 27 Jan 2026 21:45:00 -0500"
+        },
+        {
             "title": "Internal documents from 2025: Microsoft expects its annual water consumption to reach 28B liters by 2030, up from 7.9B liters in 2020 and 10.4B liters in 2024 (New York Times)",
             "link": "http://www.techmeme.com/260127/p56#a260127p56",
             "published": "Tue, 27 Jan 2026 20:15:00 -0500"
@@ -14,16 +24,6 @@
             "title": "Sources: SoftBank is in talks to invest up to $30B more in OpenAI; SoftBank is already one of OpenAI's largest shareholders after investing $22.5B in December (Kate Clark/Wall Street Journal)",
             "link": "http://www.techmeme.com/260127/p54#a260127p54",
             "published": "Tue, 27 Jan 2026 19:33:14 -0500"
-        },
-        {
-            "title": "AdImpact: Meta spent $6.4M in November and December 2025 to run TV ads in eight US state capitals and DC, aiming to change negative opinions about data centers (Eli Tan/New York Times)",
-            "link": "http://www.techmeme.com/260127/p53#a260127p53",
-            "published": "Tue, 27 Jan 2026 18:20:02 -0500"
-        },
-        {
-            "title": "Seagate reports Q2 revenue up 22% YoY to $2.83B, vs. $2.73B est., forecasts Q3 results above estimates on strong data storage demand; STX jumps 8%+ after hours (Zaheer Kachwala/Reuters)",
-            "link": "http://www.techmeme.com/260127/p52#a260127p52",
-            "published": "Tue, 27 Jan 2026 17:50:06 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Amazon accidentally sends email confirming layoffs",
+            "link": "https://www.bbc.com/news/articles/cx2ywzxlxnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Jan 2026 03:19:23 GMT"
+        },
+        {
             "title": "Pornhub to restrict access for UK users from next week",
             "link": "https://www.bbc.com/news/articles/czr428rxg57o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 27 Jan 2026 18:38:43 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok settles just before social media addiction trial to begin",
             "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 27 Jan 2026 17:31:54 GMT"
-        },
-        {
-            "title": "Legal action over 'unfair' Steam game store prices given go ahead",
-            "link": "https://www.bbc.com/news/articles/cx2g1md0l23o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 27 Jan 2026 10:43:40 GMT"
         }
     ]
 }
