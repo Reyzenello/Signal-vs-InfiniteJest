@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Internal documents from 2025: Microsoft expects its annual water consumption to reach 28B liters by 2030, up from 7.9B liters in 2020 and 10.4B liters in 2024 (New York Times)",
+            "link": "http://www.techmeme.com/260127/p56#a260127p56",
+            "published": "Tue, 27 Jan 2026 20:15:00 -0500"
+        },
+        {
+            "title": "Paolo Ardoino says Tether now holds ~140 tons of gold, worth ~$23B, has been buying one to two tons a week, and plans to keep doing so for the next few months (Jack Ryan/Bloomberg)",
+            "link": "http://www.techmeme.com/260127/p55#a260127p55",
+            "published": "Tue, 27 Jan 2026 20:00:51 -0500"
+        },
+        {
+            "title": "Sources: SoftBank is in talks to invest up to $30B more in OpenAI; SoftBank is already one of OpenAI's largest shareholders after investing $22.5B in December (Kate Clark/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260127/p54#a260127p54",
+            "published": "Tue, 27 Jan 2026 19:33:14 -0500"
+        },
+        {
             "title": "AdImpact: Meta spent $6.4M in November and December 2025 to run TV ads in eight US state capitals and DC, aiming to change negative opinions about data centers (Eli Tan/New York Times)",
             "link": "http://www.techmeme.com/260127/p53#a260127p53",
             "published": "Tue, 27 Jan 2026 18:20:02 -0500"
@@ -9,21 +24,6 @@
             "title": "Seagate reports Q2 revenue up 22% YoY to $2.83B, vs. $2.73B est., forecasts Q3 results above estimates on strong data storage demand; STX jumps 8%+ after hours (Zaheer Kachwala/Reuters)",
             "link": "http://www.techmeme.com/260127/p52#a260127p52",
             "published": "Tue, 27 Jan 2026 17:50:06 -0500"
-        },
-        {
-            "title": "TikTok says the new US entity has not updated its algorithm since the joint venture was announced, after users accused it of suppressing posts related to ICE (David McCabe/New York Times)",
-            "link": "http://www.techmeme.com/260127/p51#a260127p51",
-            "published": "Tue, 27 Jan 2026 17:20:01 -0500"
-        },
-        {
-            "title": "Texas Instruments reports Q4 revenue up 10% YoY to $4.42B, vs. $4.44B est., and forecasts Q1 revenue above estimates; TXN jumps 9%+ after hours (Arsheeya Bajwa/Reuters)",
-            "link": "http://www.techmeme.com/260127/p50#a260127p50",
-            "published": "Tue, 27 Jan 2026 17:00:00 -0500"
-        },
-        {
-            "title": "Sources: the interim director of CISA, Madhu Gottumukkala, triggered automated security warnings last summer by uploading sensitive documents to ChatGPT (John Sakellariadis/Politico)",
-            "link": "http://www.techmeme.com/260127/p49#a260127p49",
-            "published": "Tue, 27 Jan 2026 16:25:01 -0500"
         }
     ],
     "source_1": [
@@ -65,19 +65,19 @@
             "published": "Tue, 27 Jan 2026 20:25:11 GMT"
         },
         {
-            "title": "Legal action over 'unfair' Steam game store prices given go ahead",
-            "link": "https://www.bbc.com/news/articles/cx2g1md0l23o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 27 Jan 2026 10:43:40 GMT"
-        },
-        {
-            "title": "Instagram, Facebook and WhatsApp to trial premium subscriptions",
-            "link": "https://www.bbc.com/news/articles/ce8rpdmm284o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 27 Jan 2026 05:37:52 GMT"
+            "title": "AI boom will produce victors and carnage, tech boss warns",
+            "link": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Jan 2026 00:01:19 GMT"
         },
         {
             "title": "TikTok settles just before social media addiction trial to begin",
             "link": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 27 Jan 2026 17:31:54 GMT"
+        },
+        {
+            "title": "Legal action over 'unfair' Steam game store prices given go ahead",
+            "link": "https://www.bbc.com/news/articles/cx2g1md0l23o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Jan 2026 10:43:40 GMT"
         }
     ]
 }
