@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the White House will meet with banks and crypto firms on Monday to discuss a path forward for crypto legislation stalled by a clash between the sectors (Hannah Lang/Reuters)",
+            "link": "http://www.techmeme.com/260128/p60#a260128p60",
+            "published": "Wed, 28 Jan 2026 18:10:04 -0500"
+        },
+        {
+            "title": "ServiceNow reports Q4 revenue up 20.5% YoY to $3.57B, vs. $3.53B est., and subscription revenue up 21% YoY to $3.47B; NOW drops ~3% after hours (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/260128/p59#a260128p59",
+            "published": "Wed, 28 Jan 2026 17:45:00 -0500"
+        },
+        {
             "title": "Tesla says it agreed to invest $2B in xAI for preferred shares as part of xAI's Series E, despite a shareholder vote in November that failed to win approval (Kara Carlson/Bloomberg)",
             "link": "http://www.techmeme.com/260128/p58#a260128p58",
             "published": "Wed, 28 Jan 2026 17:35:10 -0500"
@@ -14,46 +24,41 @@
             "title": "PaleBlueDot, which operates a GPU capacity marketplace and designs GPU clusters for enterprises, raised a $150M Series B led by B Capital at a $1B+ valuation (Krystal Hu/Reuters)",
             "link": "http://www.techmeme.com/260128/p56#a260128p56",
             "published": "Wed, 28 Jan 2026 16:50:02 -0500"
-        },
-        {
-            "title": "Microsoft says capital expenditures for Q2 hit $37.5B, exceeding analyst estimates for $36.2B; MSFT drops 4%+ after hours (Matt Day/Bloomberg)",
-            "link": "http://www.techmeme.com/260128/p55#a260128p55",
-            "published": "Wed, 28 Jan 2026 16:41:17 -0500"
-        },
-        {
-            "title": "Microsoft Q2 gaming revenue fell 9% YoY, including a 32% drop in Xbox hardware revenue and a 5% decline in Xbox content and services, which includes Game Pass (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/260128/p54#a260128p54",
-            "published": "Wed, 28 Jan 2026 16:36:44 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Tesla Profit Slumps, but Investors May Not Care",
+            "link": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+            "published": "Wed, 28 Jan 2026 23:26:21 +0000"
+        },
+        {
+            "title": "Meta Forecasts Spending of at Least $115 Billion This Year",
+            "link": "https://www.nytimes.com/2026/01/28/technology/meta-earnings-ai-spending.html",
+            "published": "Wed, 28 Jan 2026 23:24:22 +0000"
+        },
+        {
+            "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60%",
+            "link": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
+            "published": "Wed, 28 Jan 2026 23:13:52 +0000"
+        },
         {
             "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
             "link": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
             "published": "Wed, 28 Jan 2026 19:00:40 +0000"
         },
         {
-            "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar.",
-            "link": "https://www.nytimes.com/2026/01/27/technology/microsoft-water-ai-data-centers.html",
-            "published": "Tue, 27 Jan 2026 23:30:19 +0000"
-        },
-        {
-            "title": "Meta Campaigns to Change Opinions on Data Centers",
-            "link": "https://www.nytimes.com/2026/01/27/technology/meta-data-center-ads.html",
-            "published": "Tue, 27 Jan 2026 21:23:06 +0000"
-        },
-        {
-            "title": "Social Media Giants Face Landmark Legal Tests on Child Safety",
-            "link": "https://www.nytimes.com/2026/01/27/technology/social-media-addiction-trial.html",
-            "published": "Tue, 27 Jan 2026 16:58:47 +0000"
-        },
-        {
-            "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60 Percent",
-            "link": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
-            "published": "Wed, 28 Jan 2026 22:08:17 +0000"
+            "title": "With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint",
+            "link": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
+            "published": "Wed, 28 Jan 2026 16:00:26 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Driverless taxis set to launch in UK as soon as September",
+            "link": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Jan 2026 23:22:48 GMT"
+        },
         {
             "title": "Iran's internet is returning - but not for everyone",
             "link": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Pornhub to restrict access for UK users from next week",
             "link": "https://www.bbc.com/news/articles/czr428rxg57o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 27 Jan 2026 18:38:43 GMT"
-        },
-        {
-            "title": "TikTok US pushes back on claims it is censoring content",
-            "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 27 Jan 2026 20:25:11 GMT"
         }
     ]
 }
