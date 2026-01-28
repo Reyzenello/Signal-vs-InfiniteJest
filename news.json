@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google updates Gemini in Chrome with a new side panel, an auto browse feature that can navigate pages and take actions for AI Pro and AI Ultra users, and more (Kyle Kucharski/ZDNET)",
+            "link": "http://www.techmeme.com/260128/p43#a260128p43",
+            "published": "Wed, 28 Jan 2026 13:40:01 -0500"
+        },
+        {
+            "title": "Following UK CMA's proposals, Google says it is exploring controls to let websites opt out of AI Overviews and AI Mode (Barry Schwartz/Search Engine Roundtable)",
+            "link": "http://www.techmeme.com/260128/p42#a260128p42",
+            "published": "Wed, 28 Jan 2026 12:45:02 -0500"
+        },
+        {
             "title": "The UK CMA proposes measures to let publishers opt out of content scraping for Google's AI Overviews and AI training without losing visibility in search results (Robert Booth/The Guardian)",
             "link": "http://www.techmeme.com/260128/p41#a260128p41",
             "published": "Wed, 28 Jan 2026 12:40:03 -0500"
@@ -14,16 +24,6 @@
             "title": "Google DeepMind researchers unveil AlphaGenome, an AI model trained on molecular data to predict 11 different genomic processes, such as gene splicing (Carl Zimmer/New York Times)",
             "link": "http://www.techmeme.com/260128/p39#a260128p39",
             "published": "Wed, 28 Jan 2026 11:45:01 -0500"
-        },
-        {
-            "title": "Slice, which uses AI agents to encode tax policies and legal rules across 60+ countries, raised a $25M Series A led by Insight, taking its total funding to $32M (Mary Ann Azevedo/This Week in Fintech)",
-            "link": "http://www.techmeme.com/260128/p38#a260128p38",
-            "published": "Wed, 28 Jan 2026 10:25:03 -0500"
-        },
-        {
-            "title": "Adaptive6, which treats cloud cost inefficiencies as security vulnerabilities to help companies cut bills, raised a $28M Series A, for $44M in total funding (Mike Wheatley/SiliconANGLE)",
-            "link": "http://www.techmeme.com/260128/p37#a260128p37",
-            "published": "Wed, 28 Jan 2026 10:00:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Iran's internet is returning - but not for everyone",
+            "link": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Jan 2026 17:54:08 GMT"
+        },
+        {
             "title": "Government offers UK adults free AI training for work",
             "link": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 28 Jan 2026 11:50:21 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok US pushes back on claims it is censoring content",
             "link": "https://www.bbc.com/news/articles/ckgjedpn8p8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 27 Jan 2026 20:25:11 GMT"
-        },
-        {
-            "title": "AI boom will produce victors and carnage, tech boss warns",
-            "link": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 28 Jan 2026 00:01:19 GMT"
         }
     ]
 }
