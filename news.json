@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Apple reports first quarter results (Apple)",
+            "link": "http://www.techmeme.com/260129/p46#a260129p46",
+            "published": "Thu, 29 Jan 2026 16:32:26 -0500"
+        },
+        {
+            "title": "Microsoft shares fell ~10% on Thursday following an earnings report that disappointed some investors, the stock's sharpest daily decline since March 2020 (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/260129/p45#a260129p45",
+            "published": "Thu, 29 Jan 2026 16:25:00 -0500"
+        },
+        {
+            "title": "Sources: Microsoft is focusing on fixing the core issues of Windows 11 over the coming months after persistent bugs, ads, and bloatware eroded user trust (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/260129/p44#a260129p44",
+            "published": "Thu, 29 Jan 2026 15:47:43 -0500"
+        },
+        {
             "title": "Sources: Amazon is in talks to invest up to $50B in OpenAI, which is seeking up to $100B in new capital, a round that could value it at as much as $830B (Wall Street Journal)",
             "link": "http://www.techmeme.com/260129/p43#a260129p43",
             "published": "Thu, 29 Jan 2026 15:40:01 -0500"
@@ -9,24 +24,14 @@
             "title": "Grubhub plans to remove delivery and service fees on restaurant orders over $50 starting Feb. 2; Grubhub's US market share fell to ~4% in 2025 from 10% in 2023 (Natalie Lung/Bloomberg)",
             "link": "http://www.techmeme.com/260129/p42#a260129p42",
             "published": "Thu, 29 Jan 2026 15:20:02 -0500"
-        },
-        {
-            "title": "The Q.ai acquisition could be Apple's second-largest ever and marks founder Aviad Maizels' second exit to Apple, which bought his startup PrimeSense in 2013 (Omer Kabir/CTech)",
-            "link": "http://www.techmeme.com/260129/p41#a260129p41",
-            "published": "Thu, 29 Jan 2026 15:15:03 -0500"
-        },
-        {
-            "title": "A San Francisco jury finds former Google engineer Linwei Ding guilty of stealing trade secrets related to AI chip technology to build a startup in China (Isaiah Poritz/Bloomberg Law)",
-            "link": "http://www.techmeme.com/260129/p40#a260129p40",
-            "published": "Thu, 29 Jan 2026 14:20:01 -0500"
-        },
-        {
-            "title": "Source: SpaceX and xAI are in talks to merge ahead of a planned IPO this year; under the proposed deal, shares of xAI would be exchanged for shares in SpaceX (Reuters)",
-            "link": "http://www.techmeme.com/260129/p39#a260129p39",
-            "published": "Thu, 29 Jan 2026 13:50:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI in Talks to Raise as Much as $100 Billion",
+            "link": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
+            "published": "Thu, 29 Jan 2026 20:53:15 +0000"
+        },
         {
             "title": "How the A.I. Boom Could Push Up the Price of Your Next PC",
             "link": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
@@ -46,11 +51,6 @@
             "title": "Microsoft Continues to Spend Big on A.I. While Profit Jumps 60%",
             "link": "https://www.nytimes.com/2026/01/28/technology/microsoft-earnings-ai-expenditures.html",
             "published": "Thu, 29 Jan 2026 18:53:48 +0000"
-        },
-        {
-            "title": "OpenAI in Talks to Raise as Much as $100 Billion",
-            "link": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
-            "published": "Thu, 29 Jan 2026 20:38:37 +0000"
         }
     ],
     "source_2": [
