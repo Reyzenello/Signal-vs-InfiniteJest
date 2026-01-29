@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Deezer makes its AI music detection tool available for businesses to buy and says daily deliveries of AI tracks averaged 60K in January, ~39% of total uploads (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/260129/p32#a260129p32",
+            "published": "Thu, 29 Jan 2026 11:50:05 -0500"
+        },
+        {
+            "title": "Talos, which develops digital asset trading infrastructure, raised a $45M extension from Robinhood and others to its $105M Series B, at a $1.5B valuation (Will Canny/CoinDesk)",
+            "link": "http://www.techmeme.com/260129/p31#a260129p31",
+            "published": "Thu, 29 Jan 2026 11:00:13 -0500"
+        },
+        {
             "title": "Russia says a crypto regulatory framework will come into force July 1, 2027; it will ban privacy coins like monero and cap retail investor purchases at ~$4K (Olivier Acuna/CoinDesk)",
             "link": "http://www.techmeme.com/260129/p30#a260129p30",
             "published": "Thu, 29 Jan 2026 10:35:01 -0500"
@@ -14,23 +24,18 @@
             "title": "Nvidia launches a native GeForce NOW app for Linux, starting with Debian-based Ubuntu, after releasing a Steam Deck app in 2025; in a hands-on, it works well (Ben Wilson/Windows Central)",
             "link": "http://www.techmeme.com/260129/p28#a260129p28",
             "published": "Thu, 29 Jan 2026 09:45:06 -0500"
-        },
-        {
-            "title": "Waymo says a robotaxi struck a child at 6MPH near an elementary school in Santa Monica on January 23, resulting in minor injuries; the NHTSA opens a probe (Sean O'Kane/TechCrunch)",
-            "link": "http://www.techmeme.com/260129/p27#a260129p27",
-            "published": "Thu, 29 Jan 2026 09:10:01 -0500"
-        },
-        {
-            "title": "Waymo says it hopes to launch its London robotaxi service as soon as September, after an April pilot; the UK government plans to change regulations in H2 2026 (Zoe Kleinman/BBC)",
-            "link": "http://www.techmeme.com/260129/p26#a260129p26",
-            "published": "Thu, 29 Jan 2026 09:00:36 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Tesla Profit Slumps, but Investors May Not Care",
-            "link": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
-            "published": "Thu, 29 Jan 2026 00:41:23 +0000"
+            "title": "How the A.I. Boom Could Push Up the Price of Your Next PC",
+            "link": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
+            "published": "Thu, 29 Jan 2026 16:13:37 +0000"
+        },
+        {
+            "title": "Amazon and Google Eat Into Nvidia\u2019s A.I. Chip Supremacy",
+            "link": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
+            "published": "Thu, 29 Jan 2026 16:12:58 +0000"
         },
         {
             "title": "Meta Forecasts Spending of at Least $115 Billion This Year",
@@ -43,14 +48,9 @@
             "published": "Thu, 29 Jan 2026 00:51:21 +0000"
         },
         {
-            "title": "Amazon to Cut 16,000 Jobs in Latest Round of Layoffs",
-            "link": "https://www.nytimes.com/2026/01/28/technology/amazon-corporate-layoffs.html",
-            "published": "Wed, 28 Jan 2026 19:00:41 +0000"
-        },
-        {
-            "title": "With AlphaGenome, Researchers Are Using A.I. to Decode the Human Blueprint",
-            "link": "https://www.nytimes.com/2026/01/28/science/alphagenome-ai-deepmind-genetics.html",
-            "published": "Wed, 28 Jan 2026 16:00:26 +0000"
+            "title": "Tesla Profit Slumps, but Investors May Not Care",
+            "link": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+            "published": "Thu, 29 Jan 2026 00:41:23 +0000"
         }
     ],
     "source_2": [
