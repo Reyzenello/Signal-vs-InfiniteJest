@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: special agents with the US Commerce Department investigated claims by ex-Meta contractors that Meta staff had \"unfettered\" access to WhatsApp messages (Jake Bleiberg/Bloomberg)",
+            "link": "http://www.techmeme.com/260129/p52#a260129p52",
+            "published": "Thu, 29 Jan 2026 18:30:03 -0500"
+        },
+        {
+            "title": "Sources: OpenAI is laying the groundwork for an IPO in Q4 2026, and its executives have privately expressed concerns about Anthropic beating OpenAI to an IPO (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260129/p51#a260129p51",
+            "published": "Thu, 29 Jan 2026 18:10:01 -0500"
+        },
+        {
+            "title": "Sources: SpaceX is considering a potential merger with Tesla, an idea some investors are pushing, while separately exploring a tie-up between SpaceX and xAI (Bloomberg)",
+            "link": "http://www.techmeme.com/260129/p50#a260129p50",
+            "published": "Thu, 29 Jan 2026 17:55:01 -0500"
+        },
+        {
             "title": "Sandisk reports Q2 revenue up 61% YoY to $3.03B, vs. $2.69B est., and net income up 672% to $803M, as AI drives demand upward; SNDK jumps 11%+ after hours (Elias Schisgall/Wall Street Journal)",
             "link": "http://www.techmeme.com/260129/p49#a260129p49",
             "published": "Thu, 29 Jan 2026 17:15:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Apple reports Q1 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 14% YoY to $30B, in line with estimates (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/260129/p48#a260129p48",
             "published": "Thu, 29 Jan 2026 16:50:03 -0500"
-        },
-        {
-            "title": "Apple reports Q1 revenue up 16% YoY to $143.76B, vs. $138.48B est., net income up 16% to $42.1B, and China net sales up 38% to $25.53B (Kif Leswing/CNBC)",
-            "link": "http://www.techmeme.com/260129/p47#a260129p47",
-            "published": "Thu, 29 Jan 2026 16:43:39 -0500"
-        },
-        {
-            "title": "Apple Q1: iPhone up 23% YoY to $85.27B, vs. $78.65B est., Mac down 7% to $8.39B, iPad up 6% to $8.6B, and Wearables, Home, and Accessories down 2% to $11.49B (Apple)",
-            "link": "http://www.techmeme.com/260129/p46#a260129p46",
-            "published": "Thu, 29 Jan 2026 16:32:26 -0500"
-        },
-        {
-            "title": "Microsoft shares fell ~10% on Thursday following an earnings report that disappointed some investors, the stock's sharpest daily decline since March 2020 (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/260129/p45#a260129p45",
-            "published": "Thu, 29 Jan 2026 16:25:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple reports best-ever iPhone sales as Mac dips",
+            "link": "https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Jan 2026 23:16:48 GMT"
+        },
+        {
             "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
             "link": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 29 Jan 2026 11:40:44 GMT"
@@ -73,11 +78,6 @@
             "title": "Facebook-owner Meta to nearly double AI spending",
             "link": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 29 Jan 2026 00:16:17 GMT"
-        },
-        {
-            "title": "Iran's internet is returning - but not for everyone",
-            "link": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 28 Jan 2026 17:54:08 GMT"
         }
     ]
 }
