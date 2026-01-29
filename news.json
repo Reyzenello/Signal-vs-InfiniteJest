@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Alibaba's Cainiao logistics unit merges with Chinese robovan company Zelos, creating a business sources say valued at ~$2B with a fleet set to hit 20K+ vehicles (Jiahui Huang/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260129/p16#a260129p16",
-            "published": "Thu, 29 Jan 2026 06:20:01 -0500"
+            "title": "Sources: ByteDance and Alibaba both plan to release flagship AI models around China's mid-February Lunar New Year holiday, including ByteDance's Doubao 2.0 (The Information)",
+            "link": "http://www.techmeme.com/260129/p22#a260129p22",
+            "published": "Thu, 29 Jan 2026 08:10:00 -0500"
         },
         {
-            "title": "The US SEC clarifies its tokenized stock rules, saying they are subject to securities and derivatives rules and issuer approval is required for true ownership (Sam Reynolds/CoinDesk)",
-            "link": "http://www.techmeme.com/260129/p15#a260129p15",
-            "published": "Thu, 29 Jan 2026 06:10:27 -0500"
+            "title": "Nothing CEO Carl Pei says the company's flagship Phone 4 won't launch in 2026: \"We're not just going to churn out a new flagship every year for the sake of it\" (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/260129/p21#a260129p21",
+            "published": "Thu, 29 Jan 2026 08:05:01 -0500"
         },
         {
-            "title": "Tesla plans to scrap its premium S and X models and convert its California factory into an Optimus manufacturing hub, as Elon Musk refocuses on robotics and AI (Financial Times)",
-            "link": "http://www.techmeme.com/260129/p14#a260129p14",
-            "published": "Thu, 29 Jan 2026 06:00:33 -0500"
+            "title": "Munich-based RobCo, which makes robotic arms and factory automation software, raised $100M led by Lingotto and Lightspeed, a source says at a $500M+ valuation (Mark Bergen/Bloomberg)",
+            "link": "http://www.techmeme.com/260129/p20#a260129p20",
+            "published": "Thu, 29 Jan 2026 07:55:00 -0500"
         },
         {
-            "title": "STMicro reports Q4 net revenue up 0.2% YoY to $3.33B, operating income down 66% YoY to $125M, and forecasts Q1 2026 net revenue of $3.04B, above $2.92B est. (Christina Kyriasoglou/Bloomberg)",
-            "link": "http://www.techmeme.com/260129/p13#a260129p13",
-            "published": "Thu, 29 Jan 2026 05:50:00 -0500"
+            "title": "Amazon reported hundreds of thousands of pieces of potential CSAM in AI training data to NCMEC in 2025; child safety officials say Amazon didn't give the source (Bloomberg)",
+            "link": "http://www.techmeme.com/260129/p19#a260129p19",
+            "published": "Thu, 29 Jan 2026 07:25:07 -0500"
         },
         {
-            "title": "Amazon's $35M marketing campaign for Melania is ~10x the budget for similar documentaries like CNN's RBG; some suggest Amazon is currying favor with Trump (New York Times)",
-            "link": "http://www.techmeme.com/260129/p12#a260129p12",
-            "published": "Thu, 29 Jan 2026 05:40:06 -0500"
+            "title": "Samsung and SK Hynix executives say they expect global memory supply shortages will persist until 2027 due to AI demand, after the companies reported earnings (Kim Jaewon/Nikkei Asia)",
+            "link": "http://www.techmeme.com/260129/p18#a260129p18",
+            "published": "Thu, 29 Jan 2026 07:01:35 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
+            "link": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Jan 2026 11:40:44 GMT"
+        },
+        {
             "title": "Driverless taxis set to launch in UK as soon as September",
             "link": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 28 Jan 2026 23:22:48 GMT"
@@ -73,11 +78,6 @@
             "title": "Iran's internet is returning - but not for everyone",
             "link": "https://www.bbc.com/news/articles/cz7y2ddgl23o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 28 Jan 2026 17:54:08 GMT"
-        },
-        {
-            "title": "Government offers UK adults free AI training for work",
-            "link": "https://www.bbc.com/news/articles/cp37prvp072o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 28 Jan 2026 11:50:21 GMT"
         }
     ]
 }
