@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Poetiq, which leverages existing LLMs to create \"expert agents\" for specific tasks, and spent just $40K to achieve high ARC-AGI-2 scores, raised a $45.8M seed (Ian Krietzberg/Puck)",
+            "link": "http://www.techmeme.com/260130/p15#a260130p15",
+            "published": "Fri, 30 Jan 2026 12:00:50 -0500"
+        },
+        {
             "title": "Binance says it will convert $1B in stablecoin reserves held in its SAFU into bitcoin over the next 30 days, as BTC falls to its lowest level since November (Danny Park/The Block)",
             "link": "http://www.techmeme.com/260130/p14#a260130p14",
             "published": "Fri, 30 Jan 2026 11:15:01 -0500"
@@ -19,14 +24,14 @@
             "title": "Sources: Granola, which makes an AI-based note-taking app, aims to raise $100M+ led by Index Ventures at a $1B+ valuation, up from a $250M valuation in May 2025 (Iain Martin/Forbes)",
             "link": "http://www.techmeme.com/260130/p11#a260130p11",
             "published": "Fri, 30 Jan 2026 10:00:35 -0500"
-        },
-        {
-            "title": "Costco will use Instacart's white-label e-commerce service to offer grocery delivery in Spain and France, extending their partnership beyond North America (Bloomberg)",
-            "link": "http://www.techmeme.com/260130/p10#a260130p10",
-            "published": "Fri, 30 Jan 2026 09:45:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "The Tech Arsenal That ICE Has Deployed in Minneapolis",
+            "link": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
+            "published": "Fri, 30 Jan 2026 10:03:30 +0000"
+        },
         {
             "title": "OpenAI in Talks to Raise as Much as $100 Billion",
             "link": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
@@ -41,11 +46,6 @@
             "title": "Amazon and Google Eat Into Nvidia\u2019s A.I. Chip Supremacy",
             "link": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
             "published": "Thu, 29 Jan 2026 16:12:58 +0000"
-        },
-        {
-            "title": "Apple Reports Record iPhone Sales Amid Holiday Bump",
-            "link": "https://www.nytimes.com/2026/01/29/technology/apple-iphone-sales-quarterly-report.html",
-            "published": "Fri, 30 Jan 2026 02:32:02 +0000"
         },
         {
             "title": "Tesla\u2019s Model S, Soon to Be History, Changed the Auto Industry",
