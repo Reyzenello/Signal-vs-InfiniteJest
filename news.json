@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: China has given DeepSeek approval to buy Nvidia's H200 AI chips but imposes regulatory conditions, which are still being finalized (Fanny Potkin/Reuters)",
+            "link": "http://www.techmeme.com/260130/p3#a260130p3",
+            "published": "Fri, 30 Jan 2026 04:40:00 -0500"
+        },
+        {
             "title": "The US government finalized forfeiture of $400M+ tied to Helix crypto mixer last week; Helix operator Larry Dean Harmon was sentenced to three years in 2024 (Vince Dioquino/Decrypt)",
             "link": "http://www.techmeme.com/260130/p2#a260130p2",
             "published": "Fri, 30 Jan 2026 02:00:00 -0500"
@@ -19,11 +24,6 @@
             "title": "Q&A with Google DeepMind's Demis Hassabis on AGI, next breakthroughs like continual learning, his vision for AI glasses, whether AI progress is slowing, more (Alex Kantrowitz/Big Technology)",
             "link": "http://www.techmeme.com/260129/p60#a260129p60",
             "published": "Thu, 29 Jan 2026 22:40:02 -0500"
-        },
-        {
-            "title": "Filing: Chinese chip designer Montage plans to raise up to ~$902M in a Hong Kong IPO; Montage's Shanghai-listed shares rose 100%+ in 2025 to a ~$27B valuation (Dave Sebastian/Bloomberg)",
-            "link": "http://www.techmeme.com/260129/p59#a260129p59",
-            "published": "Thu, 29 Jan 2026 22:15:01 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Fri, 30 Jan 2026 06:46:13 GMT"
         },
         {
+            "title": "He calls me sweetheart and winks at me - but he's not my boyfriend, he's AI",
+            "link": "https://www.bbc.com/news/articles/c62njv82n0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Jan 2026 06:10:47 GMT"
+        },
+        {
             "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
             "link": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 29 Jan 2026 11:40:44 GMT"
@@ -73,11 +78,6 @@
             "title": "Tesla cuts car models in shift to robots and AI",
             "link": "https://www.bbc.com/news/articles/c620177qdg5o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 29 Jan 2026 02:35:07 GMT"
-        },
-        {
-            "title": "Facebook-owner Meta to nearly double AI spending",
-            "link": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 00:16:17 GMT"
         }
     ]
 }
