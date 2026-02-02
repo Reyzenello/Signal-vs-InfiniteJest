@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Alabama-based Linq, which pivoted to programmatic messaging APIs in February 2025, raised a $20M Series A to build AI assistants that work within messaging apps (Ram Iyer/TechCrunch)",
+            "link": "http://www.techmeme.com/260202/p21#a260202p21",
+            "published": "Mon, 02 Feb 2026 09:40:00 -0500"
+        },
+        {
+            "title": "After X updated Grok to ban sexual deepfakes of women, tests show Grok still undresses men on the Grok app, website, and X, rarely resisting user requests (Robert Hart/The Verge)",
+            "link": "http://www.techmeme.com/260202/p20#a260202p20",
+            "published": "Mon, 02 Feb 2026 09:20:01 -0500"
+        },
+        {
             "title": "Inside Elon Musk's bet to hook X users that turned Grok into a porn generator; sources say xAI's AI safety team was just two or three people for most of 2025 (Washington Post)",
             "link": "http://www.techmeme.com/260202/p19#a260202p19",
             "published": "Mon, 02 Feb 2026 07:15:01 -0500"
@@ -14,16 +24,6 @@
             "title": "xAI rolls out Grok Imagine 1.0, which it says can generate 720p 10-second videos with better audio, and says Imagine generated 1.245B videos in the past 30 days (@xai)",
             "link": "http://www.techmeme.com/260202/p17#a260202p17",
             "published": "Mon, 02 Feb 2026 06:55:06 -0500"
-        },
-        {
-            "title": "Sources: SpaceX is in advanced talks to combine with xAI and they have informed some of their investors, as Elon Musk moves quickly to consolidate his empire (Bloomberg)",
-            "link": "http://www.techmeme.com/260202/p16#a260202p16",
-            "published": "Mon, 02 Feb 2026 06:42:49 -0500"
-        },
-        {
-            "title": "How food delivery is reshaping US mealtimes, as some users spend thousands; NRA data shows nearly 75% of 2024 restaurant orders were not eaten in a restaurant (Priya Krishna/New York Times)",
-            "link": "http://www.techmeme.com/260202/p15#a260202p15",
-            "published": "Mon, 02 Feb 2026 06:30:02 -0500"
         }
     ],
     "source_1": [
@@ -49,11 +49,16 @@
         },
         {
             "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
-            "link": "https://www.nytimes.com/2026/02/02/technology/a-social-network-for-ai-bots-only-no-humans-allowed.html",
-            "published": "Mon, 02 Feb 2026 10:02:59 +0000"
+            "link": "https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html",
+            "published": "Mon, 02 Feb 2026 10:03:00 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "What is the 'social media network for AI' Moltbook?",
+            "link": "https://www.bbc.com/news/articles/c62n410w5yno?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Feb 2026 13:59:14 GMT"
+        },
         {
             "title": "AI 'slop' is transforming social media - and a backlash is brewing",
             "link": "https://www.bbc.com/news/articles/c9wx2dz2v44o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Apple reports best-ever iPhone sales as Mac dips",
             "link": "https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 30 Jan 2026 06:46:13 GMT"
-        },
-        {
-            "title": "He calls me sweetheart and winks at me - but he's not my boyfriend, he's AI",
-            "link": "https://www.bbc.com/news/articles/c62njv82n0wo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 30 Jan 2026 11:39:15 GMT"
         }
     ]
 }
