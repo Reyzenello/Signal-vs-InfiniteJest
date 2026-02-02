@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Barcelona-based Biorce, which is developing an AI service to speed up clinical trials, raised a $52.5M Series A, bringing its total funding to $60M+ (Tamara Djurickovic/Tech.eu)",
-            "link": "http://www.techmeme.com/260202/p29#a260202p29",
-            "published": "Mon, 02 Feb 2026 12:45:01 -0500"
+            "title": "Adobe plans to discontinue its 2D animation software Animate on March 1; enterprise customers can receive support until March 2029, and others until March 2027 (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/260202/p42#a260202p42",
+            "published": "Mon, 02 Feb 2026 18:30:01 -0500"
         },
         {
-            "title": "OpenText is selling its analytics business Vertica to Rocket Software for $150M to reduce its outstanding debt, its second business unit sale within five months (Alex Riehl/BetaKit)",
-            "link": "http://www.techmeme.com/260202/p28#a260202p28",
-            "published": "Mon, 02 Feb 2026 12:20:19 -0500"
+            "title": "Oracle says the Nvidia-OpenAI deal has \"zero impact\" on its financial relationship with OpenAI and it is \"highly confident in OpenAI's ability to raise funds\" (@oracle)",
+            "link": "http://www.techmeme.com/260202/p41#a260202p41",
+            "published": "Mon, 02 Feb 2026 18:00:39 -0500"
         },
         {
-            "title": "Shield, which acquires IT businesses and uses AI to make them efficient, raised $100M from Thrive Holdings and says it crossed $100M in annual revenue in 2025 (Natasha Mascarenhas/Bloomberg)",
-            "link": "http://www.techmeme.com/260202/p27#a260202p27",
-            "published": "Mon, 02 Feb 2026 11:50:12 -0500"
+            "title": "Source: SpaceX acquired xAI for $250B; the announcement about the acquisition focuses on SpaceX's plans to launch data centers into space (The Information)",
+            "link": "http://www.techmeme.com/260202/p40#a260202p40",
+            "published": "Mon, 02 Feb 2026 17:35:01 -0500"
         },
         {
-            "title": "Fieldguide, which uses AI agents to automate accounting and auditing tasks, raised a $75M Series C led by Goldman Sachs Alternatives at a $700M valuation (Leo Schwartz/Fortune)",
-            "link": "http://www.techmeme.com/260202/p26#a260202p26",
-            "published": "Mon, 02 Feb 2026 11:35:28 -0500"
+            "title": "Waymo raised $16B led by Sequoia, DST Global, and Dragoneer at a $126B valuation and plans a rapid expansion across the US and into the UK this year (Edward Ludlow/Bloomberg)",
+            "link": "http://www.techmeme.com/260202/p39#a260202p39",
+            "published": "Mon, 02 Feb 2026 17:20:06 -0500"
         },
         {
-            "title": "Day AI, which is developing an AI-powered CRM service that can automate data entry, meeting prep, note-taking, and more, raised a $20M Series A led by Sequoia (Alex Konrad/Upstarts Media)",
-            "link": "http://www.techmeme.com/260202/p25#a260202p25",
-            "published": "Mon, 02 Feb 2026 11:15:01 -0500"
+            "title": "Palantir reports Q4 revenue up 70% YoY to $1.41B, vs. $1.33B est., and forecasts FY 2026 and Q1 revenue above estimates; PLTR jumps 6%+ after hours (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/260202/p38#a260202p38",
+            "published": "Mon, 02 Feb 2026 16:35:34 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk Merges SpaceX With His A.I. Start-Up xAI",
+            "link": "https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html",
+            "published": "Mon, 02 Feb 2026 23:08:29 +0000"
+        },
+        {
+            "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
+            "link": "https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html",
+            "published": "Mon, 02 Feb 2026 19:47:54 +0000"
+        },
         {
             "title": "The Tech Arsenal That ICE Has Deployed in Minneapolis",
             "link": "https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html",
             "published": "Sat, 31 Jan 2026 18:15:46 +0000"
         },
         {
-            "title": "OpenAI in Talks to Raise as Much as $100 Billion",
-            "link": "https://www.nytimes.com/2026/01/29/technology/openai-in-talks-to-raise-as-much-as-100-billion.html",
-            "published": "Thu, 29 Jan 2026 20:53:15 +0000"
+            "title": "Tech Grapples With ICE + Casey Tries Clawdbot, a Risky New A.I. Assistant + HatGPT",
+            "link": "https://www.nytimes.com/2026/01/30/podcasts/hardfork-ice-clawdbot.html",
+            "published": "Fri, 30 Jan 2026 12:00:03 +0000"
         },
         {
-            "title": "How the A.I. Boom Could Push Up the Price of Your Next PC",
-            "link": "https://www.nytimes.com/2026/01/29/technology/ai-memory-chips-pc-smartphone.html",
-            "published": "Thu, 29 Jan 2026 16:13:37 +0000"
-        },
-        {
-            "title": "Amazon and Google Eat Into Nvidia\u2019s A.I. Chip Supremacy",
-            "link": "https://www.nytimes.com/2026/01/29/technology/amazon-google-nvidia-chips-competition.html",
-            "published": "Thu, 29 Jan 2026 16:12:58 +0000"
-        },
-        {
-            "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
-            "link": "https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html",
-            "published": "Mon, 02 Feb 2026 10:03:00 +0000"
+            "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
+            "link": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
+            "published": "Mon, 02 Feb 2026 20:15:42 +0000"
         }
     ],
     "source_2": [
