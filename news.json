@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Taiwan hits a 21.06% weight in the MSCI Emerging Markets Index, surpassing China's 20.93%, the first time since July 2007, boosted by AI-linked local companies (Abhishek Vishnoi/Bloomberg)",
+            "link": "http://www.techmeme.com/260202/p8#a260202p8",
+            "published": "Mon, 02 Feb 2026 04:45:01 -0500"
+        },
+        {
+            "title": "SEC complaint: a whistleblower alleges Google broke its ethics rules in 2024 to help an Israeli military contractor use AI to analyze drone surveillance video (Gerrit De Vynck/Washington Post)",
+            "link": "http://www.techmeme.com/260202/p7#a260202p7",
+            "published": "Mon, 02 Feb 2026 04:30:00 -0500"
+        },
+        {
+            "title": "Sources: a KKR-led consortium is nearing a deal to buy Singapore-based ST Telemedia Global Data Centers for $10B+, as Asia sees a data center investment frenzy (P.R. Venkat/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260202/p6#a260202p6",
+            "published": "Mon, 02 Feb 2026 04:10:00 -0500"
+        },
+        {
+            "title": "OpenSourceMalware: 230 malicious OpenClaw extensions, disguised as crypto trading automation tools to steal user info, were uploaded to ClawHub since January 27 (Luke James/Tom's Hardware)",
+            "link": "http://www.techmeme.com/260202/p5#a260202p5",
+            "published": "Mon, 02 Feb 2026 04:00:14 -0500"
+        },
+        {
             "title": "A look at DestinE, an EU-funded project to create Earth's digital twin using AI that has produced climate models with far higher resolution than current models (Clive Cookson/Financial Times)",
             "link": "http://www.techmeme.com/260202/p4#a260202p4",
             "published": "Mon, 02 Feb 2026 03:50:00 -0500"
-        },
-        {
-            "title": "AI conferences have rushed to restrict the use of LLMs for writing and reviewing research papers in recent months after being flooded with AI-generated slop (Melissa Heikkil\u00e4/Financial Times)",
-            "link": "http://www.techmeme.com/260202/p3#a260202p3",
-            "published": "Mon, 02 Feb 2026 02:20:02 -0500"
-        },
-        {
-            "title": "Q&A with D\u2011Wave CEO Alan Baratz on the Quantum Circuits acquisition, error-correcting quantum systems, its Davidson and Anduril defense collaboration, and more (Luke Kawa/Sherwood News)",
-            "link": "http://www.techmeme.com/260202/p2#a260202p2",
-            "published": "Mon, 02 Feb 2026 02:05:03 -0500"
-        },
-        {
-            "title": "French IT company Capgemini plans to sell its US subsidiary Capgemini Government Solutions, whose contract with the US ICE drew scrutiny from French lawmakers (Sybille de La Hamaide/Reuters)",
-            "link": "http://www.techmeme.com/260202/p1#a260202p1",
-            "published": "Mon, 02 Feb 2026 00:00:13 -0500"
-        },
-        {
-            "title": "Anthropic researchers detail \"disempowerment patterns\" in AI assistant interactions where AI potentially distorts a user's reality, beliefs, or actions (Kyle Orland/Ars Technica)",
-            "link": "http://www.techmeme.com/260201/p22#a260201p22",
-            "published": "Sun, 01 Feb 2026 23:20:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "AI 'slop' is transforming social media - and a backlash is brewing",
+            "link": "https://www.bbc.com/news/articles/c9wx2dz2v44o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Feb 2026 06:54:06 GMT"
+        },
+        {
+            "title": "Pornhub is now restricting access for UK users - will other sites follow suit?",
+            "link": "https://www.bbc.com/news/articles/cvg5er4ewg6o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Feb 2026 09:49:12 GMT"
+        },
+        {
             "title": "Musk's SpaceX applies to launch a million satellites into orbit",
             "link": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 31 Jan 2026 16:19:17 GMT"
@@ -68,16 +78,6 @@
             "title": "He calls me sweetheart and winks at me - but he's not my boyfriend, he's AI",
             "link": "https://www.bbc.com/news/articles/c62njv82n0wo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 30 Jan 2026 11:39:15 GMT"
-        },
-        {
-            "title": "UK bans Coinbase ads implying crypto can ease cost of living concerns",
-            "link": "https://www.bbc.com/news/articles/cx2yv31482vo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Jan 2026 11:40:44 GMT"
-        },
-        {
-            "title": "Driverless taxis set to launch in UK as soon as September",
-            "link": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 28 Jan 2026 23:22:48 GMT"
         }
     ]
 }
