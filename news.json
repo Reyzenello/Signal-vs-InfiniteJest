@@ -1,63 +1,68 @@
 {
     "techmeme": [
         {
-            "title": "Software and data stocks plunge over fears that new developments in AI will supplant software; ADBE closed down 7.31%, CRM 6.85%, and Thomson Reuters 15.83% (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260203/p44#a260203p44",
-            "published": "Tue, 03 Feb 2026 18:30:01 -0500"
+            "title": "Adobe reversed its plans to discontinue Animate after creators expressed frustration, stating it won't get new features but will remain available \"indefinitely\" (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/260203/p53#a260203p53",
+            "published": "Tue, 03 Feb 2026 21:15:01 -0500"
         },
         {
-            "title": "OpenAI names Dylan Scandinaro, who worked on AGI safety at Anthropic, as the company's head of preparedness (Alicia Tang/Bloomberg)",
-            "link": "http://www.techmeme.com/260203/p43#a260203p43",
-            "published": "Tue, 03 Feb 2026 18:25:01 -0500"
+            "title": "Filing: OpenAI accuses xAI of systematically destroying evidence in its antitrust case by directing employees to use auto-deleting \"ephemeral messaging tools\" (Madlin Mekelburg/Bloomberg)",
+            "link": "http://www.techmeme.com/260203/p52#a260203p52",
+            "published": "Tue, 03 Feb 2026 21:00:00 -0500"
         },
         {
-            "title": "US v. Google: the DOJ and a group of states will appeal the September 2025 ruling in the Search antitrust case in which Google dodged a forced sale of Chrome (Bloomberg)",
-            "link": "http://www.techmeme.com/260203/p42#a260203p42",
-            "published": "Tue, 03 Feb 2026 18:05:01 -0500"
+            "title": "Alaffia Health, which provides AI tools for health plan claims operations, raised a $55M Series B led by Transformation Capital (Duncan Riley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/260203/p51#a260203p51",
+            "published": "Tue, 03 Feb 2026 20:20:02 -0500"
         },
         {
-            "title": "Super Micro reports Q2 net sales up 123% to $12.7B, vs. $10.43B est., and expects Q3 net sales above estimates; SMCI jumps 5%+ after hours (Luke Kawa/Sherwood News)",
-            "link": "http://www.techmeme.com/260203/p41#a260203p41",
-            "published": "Tue, 03 Feb 2026 17:40:01 -0500"
+            "title": "KKR and Singtel agree to acquire the remaining 82% stake in data center operator STT GDC for ~$5.1B, giving the company an enterprise value of ~$10.86B (Lee Ying Shan/CNBC)",
+            "link": "http://www.techmeme.com/260203/p50#a260203p50",
+            "published": "Tue, 03 Feb 2026 20:15:01 -0500"
         },
         {
-            "title": "EA reports Q3 net bookings up 38% YoY to $3.05B, vs. $2.86B est., driven by strong sales of Battlefield 6, and net income of $88M, down from $293M a year ago (Zaheer Kachwala/Reuters)",
-            "link": "http://www.techmeme.com/260203/p40#a260203p40",
-            "published": "Tue, 03 Feb 2026 17:25:02 -0500"
+            "title": "Source: Anthropic plans an employee tender offer at a valuation of at least $350B, the same valuation discussed in the company's ongoing $20B fundraising (Bloomberg)",
+            "link": "http://www.techmeme.com/260203/p49#a260203p49",
+            "published": "Tue, 03 Feb 2026 19:50:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "\u2018Don Colossus,\u2019 a Golden Statue of President Trump, Waits for Its Home",
+            "link": "https://www.nytimes.com/2026/02/03/technology/trump-statue-don-colossus.html",
+            "published": "Tue, 03 Feb 2026 20:53:42 +0000"
+        },
+        {
+            "title": "Netflix Leader Pushes Warner Deal Before Skeptical Lawmakers",
+            "link": "https://www.nytimes.com/2026/02/03/business/media/netflix-sarandos-warner-senate-hearing.html",
+            "published": "Tue, 03 Feb 2026 23:47:39 +0000"
+        },
+        {
+            "title": "Spain Aims to Ban Social Media for Children Under 16",
+            "link": "https://www.nytimes.com/2026/02/03/world/europe/spain-social-media-ban-under-16.html",
+            "published": "Tue, 03 Feb 2026 21:15:35 +0000"
+        },
         {
             "title": "Elon Musk Merges SpaceX With His A.I. Start-Up xAI",
             "link": "https://www.nytimes.com/2026/02/02/technology/spacex-xai-deal.html",
             "published": "Tue, 03 Feb 2026 02:22:02 +0000"
         },
         {
-            "title": "Waymo Raises $16 Billion to Fuel Global Ambitions",
-            "link": "https://www.nytimes.com/2026/02/02/business/waymo-funding-growth.html",
-            "published": "Tue, 03 Feb 2026 00:21:34 +0000"
-        },
-        {
-            "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
-            "link": "https://www.nytimes.com/2026/02/02/technology/moltbook-ai-social-media.html",
-            "published": "Mon, 02 Feb 2026 19:47:55 +0000"
-        },
-        {
-            "title": "Move Fast, but Obey the Rules: China\u2019s Vision for Dominating A.I.",
-            "link": "https://www.nytimes.com/2026/02/02/business/china-ai-regulations.html",
-            "published": "Mon, 02 Feb 2026 07:30:51 +0000"
-        },
-        {
-            "title": "Netflix Leader Pushes Warner Deal Before Skeptical Lawmakers",
-            "link": "https://www.nytimes.com/2026/02/03/business/media/netflix-sarandos-warner-senate-hearing.html",
-            "published": "Tue, 03 Feb 2026 23:30:45 +0000"
+            "title": "Siemens Energy Bets $1 Billion That A.I. Power Demand Will Last",
+            "link": "https://www.nytimes.com/2026/02/03/business/energy-environment/siemens-energy-ai-power-demand.html",
+            "published": "Tue, 03 Feb 2026 11:00:16 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Netflix and Warner Bros struggle to defend merger",
+            "link": "https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Feb 2026 23:42:06 GMT"
+        },
+        {
             "title": "X offices raided in France as UK opens fresh investigation into Grok",
             "link": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 03 Feb 2026 13:46:18 GMT"
+            "published": "Wed, 04 Feb 2026 01:05:26 GMT"
         },
         {
             "title": "Musk's SpaceX and xAI merge to make world's most valuable private company",
@@ -73,11 +78,6 @@
             "title": "What is the 'social media network for AI' Moltbook?",
             "link": "https://www.bbc.com/news/articles/c62n410w5yno?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 02 Feb 2026 13:59:14 GMT"
-        },
-        {
-            "title": "AI 'slop' is transforming social media - and a backlash is brewing",
-            "link": "https://www.bbc.com/news/articles/c9wx2dz2v44o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 02 Feb 2026 06:54:06 GMT"
         }
     ]
 }
