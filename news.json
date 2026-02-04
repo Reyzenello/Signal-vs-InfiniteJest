@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An interview with Kai-Fu Lee on his startup 01.ai, which builds agentic AI tools for companies, why he thinks China will beat the US in consumer AI, and more (Eleanor Olcott/Financial Times)",
+            "link": "http://www.techmeme.com/260204/p4#a260204p4",
+            "published": "Wed, 04 Feb 2026 01:55:00 -0500"
+        },
+        {
             "title": "Sources: banks are marketing at least $56B in investment-grade data center construction loans tied to Oracle's leases, as they seek out new buyers for the loans (Michelle Chan/Financial Times)",
             "link": "http://www.techmeme.com/260204/p3#a260204p3",
             "published": "Wed, 04 Feb 2026 00:50:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Sources: Tokyo-based chipmaker Renesas agrees to sell its clocks and timing device business to Nasdaq-listed chip design company SiTime for ~$3B (Nikkei Asia)",
             "link": "http://www.techmeme.com/260203/p56#a260203p56",
             "published": "Tue, 03 Feb 2026 23:40:01 -0500"
-        },
-        {
-            "title": "Sources: US Commerce Dept. has finished review of Nvidia's license to sell China H200s, but the State Dept. seeks tighter restrictions, delaying final approval (Financial Times)",
-            "link": "http://www.techmeme.com/260203/p55#a260203p55",
-            "published": "Tue, 03 Feb 2026 23:10:03 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 03 Feb 2026 23:42:06 GMT"
         },
         {
+            "title": "Pinterest sacks workers for creating tool to track layoffs",
+            "link": "https://www.bbc.com/news/articles/cn0k670n0ydo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Feb 2026 06:03:12 GMT"
+        },
+        {
             "title": "X offices raided in France as UK opens fresh investigation into Grok",
             "link": "https://www.bbc.com/news/articles/ce3ex92557jo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Feb 2026 01:05:26 GMT"
@@ -73,11 +78,6 @@
             "title": "China bans hidden car door handles over safety concerns",
             "link": "https://www.bbc.com/news/articles/cp37g5nxe3lo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 03 Feb 2026 02:06:29 GMT"
-        },
-        {
-            "title": "What is the 'social media network for AI' Moltbook?",
-            "link": "https://www.bbc.com/news/articles/c62n410w5yno?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 02 Feb 2026 13:59:14 GMT"
         }
     ]
 }
