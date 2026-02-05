@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Reddit reports Q4 revenue up 70% YoY to $726M, vs. $665M est., DAUq up 19% to 121.4M, above est., forecasts Q1 revenue above est., announces a $1B share buyback (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/260205/p47#a260205p47",
+            "published": "Thu, 05 Feb 2026 16:35:01 -0500"
+        },
+        {
+            "title": "Amazon reports Q4 AWS revenue up 24% YoY to $35.6B, vs. $34.9B est., AWS operating income up 17% YoY to $12.5B, and boosts capex in 2026 to $200B (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/260205/p46#a260205p46",
+            "published": "Thu, 05 Feb 2026 16:21:42 -0500"
+        },
+        {
+            "title": "Amazon reports Q4 revenue up 14% YoY to $213.4B, net income up 6% to $21.19B, and EPS of $1.95, vs. $1.97 est.; AMZN drops 10%+ after hours (Amazon)",
+            "link": "http://www.techmeme.com/260205/p45#a260205p45",
+            "published": "Thu, 05 Feb 2026 16:03:41 -0500"
+        },
+        {
             "title": "Anthropic details how it used 16 parallel Claude Opus 4.6 agents to build a Rust-based 100,000-line C compiler, incurring ~$20K in API costs over 2,000 sessions (Anthropic)",
             "link": "http://www.techmeme.com/260205/p44#a260205p44",
             "published": "Thu, 05 Feb 2026 15:35:03 -0500"
@@ -9,21 +24,6 @@
             "title": "How Anthropic's ruthless efficiency comes in part from its mission-obsessed culture, which eliminates the friction that tends to slow things down at Big Tech (Parmy Olson/Bloomberg)",
             "link": "http://www.techmeme.com/260205/p43#a260205p43",
             "published": "Thu, 05 Feb 2026 15:20:01 -0500"
-        },
-        {
-            "title": "Why this is the worst crypto winter ever: AI crowds out crypto for mindshare and power grid access, crypto is mainstream, gold beats BTC as a safe haven, more (Bloomberg)",
-            "link": "http://www.techmeme.com/260205/p42#a260205p42",
-            "published": "Thu, 05 Feb 2026 14:55:01 -0500"
-        },
-        {
-            "title": "Tim Cook told Apple staff at an all-hands that he's \"deeply distraught\" with the US' current approach to immigration and he will press the issue with lawmakers (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/260205/p41#a260205p41",
-            "published": "Thu, 05 Feb 2026 14:40:03 -0500"
-        },
-        {
-            "title": "Y Combinator adds Canada back to its accepted countries list, and says it had removed the country because its top Canadian companies reincorporated in the US (Alex Riehl/BetaKit)",
-            "link": "http://www.techmeme.com/260205/p40#a260205p40",
-            "published": "Thu, 05 Feb 2026 13:55:04 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Wed, 04 Feb 2026 12:00:06 +0000"
         },
         {
-            "title": "At Ukraine\u2019s Request, Starlink Denies Internet Access to Russian Troops",
-            "link": "https://www.nytimes.com/2026/02/05/world/europe/starlink-blocks-russian-troops-access.html",
-            "published": "Thu, 05 Feb 2026 20:46:01 +0000"
+            "title": "Bitcoin Price Drops as Crypto Industry Faces Another Slump",
+            "link": "https://www.nytimes.com/2026/02/05/technology/bitcoin-price-drop-crypto-market.html",
+            "published": "Thu, 05 Feb 2026 21:37:28 +0000"
         }
     ],
     "source_2": [
