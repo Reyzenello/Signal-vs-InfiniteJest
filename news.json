@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "The EU says that TikTok's \"addictive design\" is illegal under the DSA, citing the app's infinite scroll and recommendation algorithm, in preliminary findings (Adam Satariano/New York Times)",
+            "link": "http://www.techmeme.com/260206/p6#a260206p6",
+            "published": "Fri, 06 Feb 2026 06:45:00 -0500"
+        },
+        {
             "title": "Goldman Sachs says it has been working with Anthropic on AI agents to automate a growing number of roles at the bank, including client vetting and onboarding (Hugh Son/CNBC)",
             "link": "http://www.techmeme.com/260206/p5#a260206p5",
             "published": "Fri, 06 Feb 2026 06:35:05 -0500"
@@ -19,11 +24,6 @@
             "title": "Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months (Reuters)",
             "link": "http://www.techmeme.com/260206/p2#a260206p2",
             "published": "Fri, 06 Feb 2026 02:25:01 -0500"
-        },
-        {
-            "title": "Meituan agrees to buy Dingdong, a Chinese fresh grocery e-commerce company, for $717M in cash; Dingdong had 7M+ monthly transacting users as of September 2025 (Cao Li/South China Morning Post)",
-            "link": "http://www.techmeme.com/260206/p1#a260206p1",
-            "published": "Fri, 06 Feb 2026 01:10:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 04 Feb 2026 12:00:06 +0000"
         },
         {
-            "title": "Amazon\u2019s $200 Billion Spending Plan Raises Stakes in A.I. Race",
-            "link": "https://www.nytimes.com/2026/02/05/technology/amazon-200-billion-ai.html",
-            "published": "Thu, 05 Feb 2026 23:51:01 +0000"
+            "title": "Elon Musk\u2019s Mega-Merger + We Test Google\u2019s Project Genie + What\u2019s Next for Moltbook Creator",
+            "link": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html",
+            "published": "Fri, 06 Feb 2026 12:00:03 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "TikTok told to change 'addictive design' by EU or face massive fines",
+            "link": "https://www.bbc.com/news/articles/cr7j7n315lmo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Feb 2026 13:13:38 GMT"
+        },
         {
             "title": "Bitcoin falls to lowest level since Trump took office",
             "link": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "US launches plan to tackle China's critical minerals dominance",
             "link": "https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 05 Feb 2026 03:33:48 GMT"
-        },
-        {
-            "title": "Netflix and Warner Bros struggle to defend merger",
-            "link": "https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 03 Feb 2026 23:42:06 GMT"
         }
     ]
 }
