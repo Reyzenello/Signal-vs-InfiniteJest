@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "SIA: chip sales hit $791.7B in 2025, up 25.6% YoY, with Nvidia, AMD, and Intel accounting for $301.9B, up 40%; SIA expects sales to reach $1T in 2026 (Stephen Nellis/Reuters)",
+            "link": "http://www.techmeme.com/260206/p8#a260206p8",
+            "published": "Fri, 06 Feb 2026 09:35:00 -0500"
+        },
+        {
+            "title": "How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions (Matthew Carey/Bloomberg Law)",
+            "link": "http://www.techmeme.com/260206/p7#a260206p7",
+            "published": "Fri, 06 Feb 2026 08:40:02 -0500"
+        },
+        {
             "title": "The EU says that TikTok's \"addictive design\" is illegal under the DSA, citing the app's infinite scroll and recommendation algorithm, in preliminary findings (Adam Satariano/New York Times)",
             "link": "http://www.techmeme.com/260206/p6#a260206p6",
             "published": "Fri, 06 Feb 2026 06:45:00 -0500"
@@ -14,50 +24,40 @@
             "title": "AT&T launches amiGO Jr., a mid-tier Samsung-made smartphone for kids with parental controls on contacts, app access, screen time, and more, for $2.99 per month (Annie Bang/Bloomberg)",
             "link": "http://www.techmeme.com/260206/p4#a260206p4",
             "published": "Fri, 06 Feb 2026 06:10:07 -0500"
-        },
-        {
-            "title": "Women in rural India report experiencing trauma from data annotation work, which requires them to review violent content and porn for global tech companies (Anuj Behal/The Guardian)",
-            "link": "http://www.techmeme.com/260206/p3#a260206p3",
-            "published": "Fri, 06 Feb 2026 05:50:02 -0500"
-        },
-        {
-            "title": "Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months (Reuters)",
-            "link": "http://www.techmeme.com/260206/p2#a260206p2",
-            "published": "Fri, 06 Feb 2026 02:25:01 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Files Reveal Epstein\u2019s Money Mingled with Silicon Valley\u2019s Tech Start-Ups",
-            "link": "https://www.nytimes.com/2026/02/05/business/epstein-investments-palantir-coinbase-thiel.html",
-            "published": "Thu, 05 Feb 2026 17:07:34 +0000"
+            "title": "Europe Accuses TikTok of \u2018Addictive Design\u2019 and Pushes for Change",
+            "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
+            "published": "Fri, 06 Feb 2026 12:06:58 +0000"
         },
         {
-            "title": "Google Plans to Double Spending Amid A.I. Race",
-            "link": "https://www.nytimes.com/2026/02/04/business/google-earnings-ai.html",
-            "published": "Fri, 06 Feb 2026 04:33:17 +0000"
+            "title": "The Dark Side of A.I. Weighs on the Stock Market",
+            "link": "https://www.nytimes.com/2026/02/06/business/the-dark-side-of-ai-weighs-on-the-stock-market.html",
+            "published": "Fri, 06 Feb 2026 10:04:16 +0000"
         },
         {
-            "title": "France\u2019s Raid on X Escalates Trans-Atlantic Showdown Over Social Media",
-            "link": "https://www.nytimes.com/2026/02/04/world/europe/social-media-free-speech.html",
-            "published": "Wed, 04 Feb 2026 23:08:40 +0000"
-        },
-        {
-            "title": "Moltbook Mania Explained",
-            "link": "https://www.nytimes.com/2026/02/04/podcasts/moltbook-mania-explained.html",
-            "published": "Wed, 04 Feb 2026 12:00:06 +0000"
+            "title": "An Indian Film Embraces a Taj Majal Conspiracy Theory",
+            "link": "https://www.nytimes.com/2026/02/06/business/the-taj-story-conspiracy-taj-mahal-hindu.html",
+            "published": "Fri, 06 Feb 2026 05:01:11 +0000"
         },
         {
             "title": "Elon Musk\u2019s Mega-Merger + We Test Google\u2019s Project Genie + What\u2019s Next for Moltbook Creator",
             "link": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html",
             "published": "Fri, 06 Feb 2026 12:00:03 +0000"
+        },
+        {
+            "title": "Stellantis\u2019s Shift Away From Electric Cars Will Cost It $26 Billion",
+            "link": "https://www.nytimes.com/2026/02/06/business/stellantis-writedown-electric-vehicles.html",
+            "published": "Fri, 06 Feb 2026 14:01:47 +0000"
         }
     ],
     "source_2": [
         {
             "title": "TikTok told to change 'addictive design' by EU or face massive fines",
             "link": "https://www.bbc.com/news/articles/cr7j7n315lmo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Feb 2026 13:13:38 GMT"
+            "published": "Fri, 06 Feb 2026 13:55:46 GMT"
         },
         {
             "title": "Bitcoin falls to lowest level since Trump took office",
