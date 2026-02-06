@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Women in rural India report experiencing trauma from data annotation work, which requires them to review violent content and porn for global tech companies (Anuj Behal/The Guardian)",
+            "link": "http://www.techmeme.com/260206/p3#a260206p3",
+            "published": "Fri, 06 Feb 2026 05:50:02 -0500"
+        },
+        {
             "title": "Sources: Intel and AMD have notified Chinese customers of supply shortages for server CPUs, with Intel warning of delivery lead times of up to six months (Reuters)",
             "link": "http://www.techmeme.com/260206/p2#a260206p2",
             "published": "Fri, 06 Feb 2026 02:25:01 -0500"
@@ -19,11 +24,6 @@
             "title": "How the SpaceX-xAI $1.25T merger deal was fast-tracked after SpaceX had a technical breakthrough in orbital data centers last fall (Wall Street Journal)",
             "link": "http://www.techmeme.com/260205/p60#a260205p60",
             "published": "Thu, 05 Feb 2026 23:25:00 -0500"
-        },
-        {
-            "title": "Sapiom, which is developing a financial layer for enterprises to let AI agents automatically buy the services they need, raised a $15M seed led by Accel (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/260205/p59#a260205p59",
-            "published": "Thu, 05 Feb 2026 22:40:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Bitcoin falls to lowest level since Trump took office",
+            "link": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Feb 2026 22:03:48 GMT"
+        },
+        {
             "title": "ChatGPT boss ridiculed for online 'tantrum' over rival's Super Bowl ad",
             "link": "https://www.bbc.com/news/articles/ce3edyx74jko?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 05 Feb 2026 12:36:32 GMT"
@@ -73,11 +78,6 @@
             "title": "Netflix and Warner Bros struggle to defend merger",
             "link": "https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 03 Feb 2026 23:42:06 GMT"
-        },
-        {
-            "title": "Pinterest sacks engineers for tracking staff job cuts",
-            "link": "https://www.bbc.com/news/articles/cn0k670n0ydo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 04 Feb 2026 06:03:12 GMT"
         }
     ]
 }
