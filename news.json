@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Waymo says it is using DeepMind's Genie 3 to create realistic digital worlds for its autonomous driving technology to train on edge-case scenarios (Natalie Lung/Bloomberg)",
+            "link": "http://www.techmeme.com/260206/p12#a260206p12",
+            "published": "Fri, 06 Feb 2026 11:45:06 -0500"
+        },
+        {
+            "title": "Amazon, Google, and Microsoft reported a collective $1.1T backlog of cloud computing revenue in their latest quarterly earnings, including Microsoft's $625B (Jon Keegan/Sherwood News)",
+            "link": "http://www.techmeme.com/260206/p11#a260206p11",
+            "published": "Fri, 06 Feb 2026 11:25:03 -0500"
+        },
+        {
             "title": "Analysis: Claude Code currently authors 4% of all public GitHub commits and is on track to cross 20% of all daily commits by the end of 2026 (Doug O'Laughlin/SemiAnalysis)",
             "link": "http://www.techmeme.com/260206/p10#a260206p10",
             "published": "Fri, 06 Feb 2026 10:45:01 -0500"
@@ -14,38 +24,28 @@
             "title": "SIA: chip sales hit $791.7B in 2025, up 25.6% YoY, with Nvidia, AMD, and Intel accounting for $301.9B, up 40%; SIA expects sales to reach $1T in 2026 (Stephen Nellis/Reuters)",
             "link": "http://www.techmeme.com/260206/p8#a260206p8",
             "published": "Fri, 06 Feb 2026 09:35:00 -0500"
-        },
-        {
-            "title": "How an appeal changed the way the USPTO assesses AI patents under the US Patent Act, signaling a shift towards more favorable treatment of AI and ML inventions (Matthew Carey/Bloomberg Law)",
-            "link": "http://www.techmeme.com/260206/p7#a260206p7",
-            "published": "Fri, 06 Feb 2026 08:40:02 -0500"
-        },
-        {
-            "title": "The EU says that TikTok's \"addictive design\" is illegal under the DSA, citing the app's infinite scroll and recommendation algorithm, in preliminary findings (Adam Satariano/New York Times)",
-            "link": "http://www.techmeme.com/260206/p6#a260206p6",
-            "published": "Fri, 06 Feb 2026 06:45:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Google Workers Demand End to Cloud Services for Immigration Agencies",
+            "link": "https://www.nytimes.com/2026/02/06/business/google-employees-protest.html",
+            "published": "Fri, 06 Feb 2026 16:22:50 +0000"
+        },
         {
             "title": "Europe Accuses TikTok of \u2018Addictive Design\u2019 and Pushes for Change",
             "link": "https://www.nytimes.com/2026/02/06/business/tiktok-addictive-design-europe.html",
             "published": "Fri, 06 Feb 2026 12:06:58 +0000"
         },
         {
-            "title": "The Dark Side of A.I. Weighs on the Stock Market",
-            "link": "https://www.nytimes.com/2026/02/06/business/the-dark-side-of-ai-weighs-on-the-stock-market.html",
-            "published": "Fri, 06 Feb 2026 10:04:16 +0000"
+            "title": "Fear of AI Replacing Software Makers Hits Stocks. Here\u2019s What to Know.",
+            "link": "https://www.nytimes.com/2026/02/06/business/ai-stock-market-anthropic-openai.html",
+            "published": "Fri, 06 Feb 2026 16:07:47 +0000"
         },
         {
             "title": "An Indian Film Embraces a Taj Majal Conspiracy Theory",
             "link": "https://www.nytimes.com/2026/02/06/business/the-taj-story-conspiracy-taj-mahal-hindu.html",
             "published": "Fri, 06 Feb 2026 05:01:11 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s Mega-Merger + We Test Google\u2019s Project Genie + What\u2019s Next for Moltbook Creator",
-            "link": "https://www.nytimes.com/2026/02/06/podcasts/hardfork-musk-merger-genie.html",
-            "published": "Fri, 06 Feb 2026 12:00:03 +0000"
         },
         {
             "title": "Stellantis\u2019s Shift Away From Electric Cars Will Cost It $26 Billion",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Baldur's Gate to be turned into TV series - without the game's developers",
+            "link": "https://www.bbc.com/news/articles/c24g457y534o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Feb 2026 16:26:08 GMT"
+        },
         {
             "title": "TikTok told to change 'addictive design' by EU or face massive fines",
             "link": "https://www.bbc.com/news/articles/cr7j7n315lmo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "UK's \u00a38bn research fund faces 'hard decisions' as it pauses new grants",
             "link": "https://www.bbc.com/news/articles/c8e50x1r237o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 05 Feb 2026 12:00:58 GMT"
-        },
-        {
-            "title": "US launches plan to tackle China's critical minerals dominance",
-            "link": "https://www.bbc.com/news/articles/c5y41r5rzrno?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 05 Feb 2026 03:33:48 GMT"
         }
     ]
 }
