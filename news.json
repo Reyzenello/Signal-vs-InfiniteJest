@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the Trump administration plans to spare US hyperscalers from upcoming tariffs on chips; exemptions would be based on TSMC's US investment commitments (Aime Williams/Financial Times)",
+            "link": "http://www.techmeme.com/260209/p42#a260209p42",
+            "published": "Mon, 09 Feb 2026 18:45:00 -0500"
+        },
+        {
+            "title": "The US NLRB abandons its 2024 case accusing SpaceX of illegally firing eight engineers and signals it will steer clear of future cases against the company (Josh Eidelson/Bloomberg)",
+            "link": "http://www.techmeme.com/260209/p41#a260209p41",
+            "published": "Mon, 09 Feb 2026 18:40:02 -0500"
+        },
+        {
+            "title": "Onsemi reports Q4 revenue down 11% YoY to $1.53B, vs. $1.54B est., as its two biggest business units continue to post sales declines; ON drops 4%+ after hours (Katherine Hamilton/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260209/p40#a260209p40",
+            "published": "Mon, 09 Feb 2026 17:55:01 -0500"
+        },
+        {
             "title": "Sources: crypto exchange Backpack, built by ex-FTX and Alameda leaders, is in talks to raise $50M at a $1B pre-money valuation, reports $100M+ in annual revenue (Ryan Lawler/Axios)",
             "link": "http://www.techmeme.com/260209/p39#a260209p39",
             "published": "Mon, 09 Feb 2026 17:45:00 -0500"
@@ -9,24 +24,14 @@
             "title": "Oxide Computer, which lets companies build their own cloud, raised $200M led by USIT, taking its total funding to nearly $390M since its 2019 founding (Chris Metinko/Axios)",
             "link": "http://www.techmeme.com/260209/p38#a260209p38",
             "published": "Mon, 09 Feb 2026 17:10:00 -0500"
-        },
-        {
-            "title": "Sources: Stripe is in talks to launch a tender offer that could value the company at $140B+, up from $107B last fall, when it bought back shares from investors (Lucinda Shen/Axios)",
-            "link": "http://www.techmeme.com/260209/p37#a260209p37",
-            "published": "Mon, 09 Feb 2026 16:45:01 -0500"
-        },
-        {
-            "title": "An eight-month study at a US tech company finds AI tools didn't reduce work but intensified it, as employees worked faster and took on a broader range of tasks (Harvard Business Review)",
-            "link": "http://www.techmeme.com/260209/p36#a260209p36",
-            "published": "Mon, 09 Feb 2026 15:55:01 -0500"
-        },
-        {
-            "title": "OpenAI says ads in ChatGPT are not eligible to appear near \"sensitive or regulated topics like health, mental health or politics\" (Madison Mills/Axios)",
-            "link": "http://www.techmeme.com/260209/p35#a260209p35",
-            "published": "Mon, 09 Feb 2026 14:20:00 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta and YouTube Created \u2018Digital Casinos,\u2019 Lawyers Argue in Landmark Trial",
+            "link": "https://www.nytimes.com/2026/02/09/technology/social-media-addiction-trial.html",
+            "published": "Mon, 09 Feb 2026 22:06:16 +0000"
+        },
         {
             "title": "Google Workers Demand End to Cloud Services for Immigration Agencies",
             "link": "https://www.nytimes.com/2026/02/06/business/google-employees-protest.html",
@@ -43,14 +48,9 @@
             "published": "Fri, 06 Feb 2026 20:11:04 +0000"
         },
         {
-            "title": "An Indian Film Embraces a Taj Majal Conspiracy Theory",
-            "link": "https://www.nytimes.com/2026/02/06/business/the-taj-story-conspiracy-taj-mahal-hindu.html",
-            "published": "Fri, 06 Feb 2026 05:01:11 +0000"
-        },
-        {
-            "title": "Meta and YouTube Created \u2018Digital Casinos,\u2019 Lawyers Argue in Landmark Trial",
-            "link": "https://www.nytimes.com/2026/02/09/technology/social-media-addiction-trial.html",
-            "published": "Mon, 09 Feb 2026 22:06:16 +0000"
+            "title": "A.I. Is Making Doctors Answer a Question: What Are They Really Good For?",
+            "link": "https://www.nytimes.com/2026/02/09/health/ai-chatbots-doctors-medicine.html",
+            "published": "Mon, 09 Feb 2026 17:17:56 +0000"
         }
     ],
     "source_2": [
