@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Alibaba's DAMO Academy releases RynnBrain, an open-source foundation model to help robots perform real-world tasks like navigating rooms, trained on Qwen3-VL (Saritha Rai/Bloomberg)",
-            "link": "http://www.techmeme.com/260210/p9#a260210p9",
-            "published": "Tue, 10 Feb 2026 05:55:01 -0500"
+            "title": "YouTube rolls out an AI-powered playlist generator that lets Premium and Music Premium users on iOS and Android use text prompts to create playlists (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/260210/p25#a260210p25",
+            "published": "Tue, 10 Feb 2026 08:45:00 -0500"
         },
         {
-            "title": "SMIC reports Q4 revenue up 13% YoY to $2.49B, above est., net profit up 61% YoY to $172.85M, above $139.5M est., and 2025 revenue of $9.33B, above 2024's $8.03B (Sherry Qin/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260210/p8#a260210p8",
-            "published": "Tue, 10 Feb 2026 05:45:03 -0500"
+            "title": "Polymarket partners with Singapore-based Kaito AI to launch \"attention markets\", letting users bet on \"mindshare\" and \"sentiment\" metrics from social media (Alicia Park/Forbes)",
+            "link": "http://www.techmeme.com/260210/p24#a260210p24",
+            "published": "Tue, 10 Feb 2026 08:35:01 -0500"
         },
         {
-            "title": "Source: Chinese AI startup Zhipu anonymously released its new AI model on OpenRouter under the name Pony Alpha; Zhipu plans to launch GLM-5 later this week (Juro Osawa/The Information)",
-            "link": "http://www.techmeme.com/260210/p7#a260210p7",
-            "published": "Tue, 10 Feb 2026 05:35:00 -0500"
+            "title": "Sources: Mark Zuckerberg plans to buy a Miami mansion, likely to cost up to $200M, joining other tech billionaires as California proposes a 5% billionaire tax (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260210/p23#a260210p23",
+            "published": "Tue, 10 Feb 2026 08:25:01 -0500"
         },
         {
-            "title": "Chinese robotaxi operator Pony AI and Toyota begin commercial production of an autonomous Toyota bZ4X; Pony AI aims to have 3,000+ robotaxis by the end of 2026 (Chester Dawson/Bloomberg)",
-            "link": "http://www.techmeme.com/260210/p6#a260210p6",
-            "published": "Tue, 10 Feb 2026 05:15:03 -0500"
+            "title": "Health care navigation startup Solace, which matches patients with 2K+ advocates, raised $130M led by IVP at a $1B valuation, taking its total funding to $211M (Rebecca Torrence/Bloomberg)",
+            "link": "http://www.techmeme.com/260210/p22#a260210p22",
+            "published": "Tue, 10 Feb 2026 08:15:01 -0500"
         },
         {
-            "title": "Chinese AI companies like Alibaba and Tencent are releasing new models and spending millions on \"red envelope\" freebies to woo users ahead of the Lunar New Year (Cissy Zhou/Nikkei Asia)",
-            "link": "http://www.techmeme.com/260210/p5#a260210p5",
-            "published": "Tue, 10 Feb 2026 03:45:01 -0500"
+            "title": "Bretton AI, formerly Greenlite, which uses GenAI to investigate suspicious transactions and verify internal risk policy compliance, raised a $75M Series B (Leo Schwartz/Fortune)",
+            "link": "http://www.techmeme.com/260210/p21#a260210p21",
+            "published": "Tue, 10 Feb 2026 08:00:49 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Apple and Google agree to change app stores after 'effective duopoly' claim",
+            "link": "https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Feb 2026 12:44:43 GMT"
+        },
+        {
             "title": "Instagram and YouTube owners built 'addiction machines', trial hears",
             "link": "https://www.bbc.com/news/articles/c3wlpqpe2z4o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Feb 2026 07:25:42 GMT"
@@ -73,11 +78,6 @@
             "title": "EU tells Meta to let rivals run AI chatbots on WhatsApp",
             "link": "https://www.bbc.com/news/articles/cqxdj77welpo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 09 Feb 2026 12:14:35 GMT"
-        },
-        {
-            "title": "Baldur's Gate to be turned into TV series - without the game's developers",
-            "link": "https://www.bbc.com/news/articles/c24g457y534o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Feb 2026 16:26:08 GMT"
         }
     ]
 }
