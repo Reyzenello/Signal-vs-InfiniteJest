@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic says Claude users on the free plan can now create files, connect to external services, use skills, and more (Will Shanklin/Engadget)",
+            "link": "http://www.techmeme.com/260211/p42#a260211p42",
+            "published": "Wed, 11 Feb 2026 15:35:01 -0500"
+        },
+        {
+            "title": "Sources: Apple's Siri upgrade has run into snags recently, possibly pushing some personalized Siri and other features from iOS 26.4 to iOS 26.5, due in May (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/260211/p41#a260211p41",
+            "published": "Wed, 11 Feb 2026 15:10:01 -0500"
+        },
+        {
+            "title": "OpenAI announced Monday that the US military will get access to ChatGPT via GenAI.mil; sources say the move came after months of deliberation among employees (Reed Albergotti/Semafor)",
+            "link": "http://www.techmeme.com/260211/p40#a260211p40",
+            "published": "Wed, 11 Feb 2026 14:40:01 -0500"
+        },
+        {
             "title": "Google releases Android 17 Beta 1, which requires developers to optimize apps for foldables and large screens, includes performance improvements, and more (Sanuj Bhatia/Android Central)",
             "link": "http://www.techmeme.com/260211/p39#a260211p39",
             "published": "Wed, 11 Feb 2026 14:05:04 -0500"
@@ -9,24 +24,14 @@
             "title": "Meta plans to spend more than $10B to build a 1GW data center campus in Lebanon, Indiana, expected to be operational at the end of 2027 or in early 2028 (Riley Griffin/Bloomberg)",
             "link": "http://www.techmeme.com/260211/p38#a260211p38",
             "published": "Wed, 11 Feb 2026 13:40:01 -0500"
-        },
-        {
-            "title": "Meta launches an AI feature that lets Threads users temporarily personalize their feed by specifying topics in a public post that begins with \"Dear Algo\" (Jonathan Vanian/CNBC)",
-            "link": "http://www.techmeme.com/260211/p37#a260211p37",
-            "published": "Wed, 11 Feb 2026 13:25:01 -0500"
-        },
-        {
-            "title": "Amazon Pharmacy plans to bring same-day prescription delivery to almost 4,500 US cities and towns by the end of 2026, adding nearly new 2,000 communities (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/260211/p36#a260211p36",
-            "published": "Wed, 11 Feb 2026 12:55:01 -0500"
-        },
-        {
-            "title": "Inertia, co-founded by ex-Twilio CEO Jeff Lawson to build one of the world's most powerful lasers for a grid-scale fusion power plant, raised a $450M Series A (Tim De Chant/TechCrunch)",
-            "link": "http://www.techmeme.com/260211/p35#a260211p35",
-            "published": "Wed, 11 Feb 2026 12:40:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Instagram Chief Says Social Media Is Not \u2018Clinically Addictive\u2019 in Landmark Trial",
+            "link": "https://www.nytimes.com/2026/02/11/technology/adam-mosseri-instagram-addiction-trial.html",
+            "published": "Wed, 11 Feb 2026 20:48:12 +0000"
+        },
         {
             "title": "OpenAI\u2019s Biggest Challenge Is Turning Its A.I. Into a Cash Machine",
             "link": "https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html",
@@ -36,11 +41,6 @@
             "title": "Elon Musk Wants to Build an A.I. Satellite Factory on the Moon",
             "link": "https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html",
             "published": "Wed, 11 Feb 2026 02:04:43 +0000"
-        },
-        {
-            "title": "NLRB Dismisses Case Brought by Fired SpaceX Employees",
-            "link": "https://www.nytimes.com/2026/02/10/business/spacex-nlrb-labor-elon-musk.html",
-            "published": "Tue, 10 Feb 2026 20:57:05 +0000"
         },
         {
             "title": "A.I. Personalizes the Internet but Takes Away Control",
