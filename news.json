@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Source: OpenAI disbanded its mission alignment team and transferred its staffers; Joshua Achiam, who led the team, will take on a new title of \"chief futurist\" (Casey Newton/Platformer)",
+            "link": "http://www.techmeme.com/260211/p33#a260211p33",
+            "published": "Wed, 11 Feb 2026 11:55:02 -0500"
+        },
+        {
+            "title": "Payment infrastructure provider Rezolve Ai agrees to acquire UK-based cashback rewards company Reward for $230M (PYMNTS.com)",
+            "link": "http://www.techmeme.com/260211/p32#a260211p32",
+            "published": "Wed, 11 Feb 2026 11:40:00 -0500"
+        },
+        {
+            "title": "Google told advertisers that it is integrating direct shopping into Search's AI Mode and Gemini; users can now buy items from Etsy and Wayfair within Gemini (Carmen Arroyo/Bloomberg)",
+            "link": "http://www.techmeme.com/260211/p31#a260211p31",
+            "published": "Wed, 11 Feb 2026 11:20:01 -0500"
+        },
+        {
+            "title": "Source: to catch leakers, OpenAI security staff use a custom ChatGPT with access to Slack, email, and docs by cross-referencing news articles with access logs (Stephanie Palazzolo/The Information)",
+            "link": "http://www.techmeme.com/260211/p30#a260211p30",
+            "published": "Wed, 11 Feb 2026 10:15:02 -0500"
+        },
+        {
             "title": "TikTok launches an opt-in Local Feed in the app's US version, including content related to travel, news, events, shopping, and dining near the user's location (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/260211/p29#a260211p29",
             "published": "Wed, 11 Feb 2026 09:55:00 -0500"
-        },
-        {
-            "title": "An OpenAI researcher who helped shape how models were built and priced says she quit after two years due to \"deep reservations\" about ads and OpenAI's strategy (Zo\u00eb Hitzig/New York Times)",
-            "link": "http://www.techmeme.com/260211/p28#a260211p28",
-            "published": "Wed, 11 Feb 2026 09:45:01 -0500"
-        },
-        {
-            "title": "A Dutch court orders an investigation into alleged mismanagement at Chinese-owned chip company Nexperia and upholds the suspension of CEO Zhang Xuezheng (Kim Mackrael/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260211/p27#a260211p27",
-            "published": "Wed, 11 Feb 2026 09:35:03 -0500"
-        },
-        {
-            "title": "Meridian, which uses AI to make financial modeling and spreadsheets more \"predictable and auditable\", exits stealth and raised a $17M seed at a $100M valuation (Russell Brandom/TechCrunch)",
-            "link": "http://www.techmeme.com/260211/p26#a260211p26",
-            "published": "Wed, 11 Feb 2026 09:20:02 -0500"
-        },
-        {
-            "title": "Austin-based humanoid robot startup Apptronik raised $520M led by Google and others at a $5.5B valuation, up 3x from when it raised $350M in February 2025 (Samantha Kelly/Bloomberg)",
-            "link": "http://www.techmeme.com/260211/p25#a260211p25",
-            "published": "Wed, 11 Feb 2026 09:15:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI\u2019s Biggest Challenge Is Turning Its A.I. Into a Cash Machine",
+            "link": "https://www.nytimes.com/2026/02/11/technology/openai-revenue-challenge.html",
+            "published": "Wed, 11 Feb 2026 16:01:22 +0000"
+        },
         {
             "title": "Elon Musk Wants to Build an A.I. Satellite Factory on the Moon",
             "link": "https://www.nytimes.com/2026/02/10/technology/elon-musk-lunar-factory.html",
@@ -40,17 +45,12 @@
         {
             "title": "A.I. Personalizes the Internet but Takes Away Control",
             "link": "https://www.nytimes.com/2026/02/10/technology/personaltech/ai-google-meta-opt-out.html",
-            "published": "Tue, 10 Feb 2026 19:28:27 +0000"
-        },
-        {
-            "title": "YouTube Argues It Isn\u2019t Social Media in Landmark Tech Addiction Trial",
-            "link": "https://www.nytimes.com/2026/02/10/technology/youtube-social-media-addiction-trial.html",
-            "published": "Tue, 10 Feb 2026 21:28:40 +0000"
+            "published": "Tue, 10 Feb 2026 19:28:28 +0000"
         },
         {
             "title": "Ford Says Electric Vehicle Losses Will Continue for 3 More Years",
             "link": "https://www.nytimes.com/2026/02/10/business/ford-earnings-electric-vehicles.html",
-            "published": "Wed, 11 Feb 2026 02:34:58 +0000"
+            "published": "Wed, 11 Feb 2026 02:34:59 +0000"
         }
     ],
     "source_2": [
