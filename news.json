@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Dutch payments company Adyen reports H2 2025 net revenue up 17% YoY to \u20ac1.27B and forecasts 2026 net revenue growth at 20%-22%, vs 22.8% est.; ADYEN falls 15%+ (Kai Nicol-Schwarz/CNBC)",
+            "link": "http://www.techmeme.com/260212/p16#a260212p16",
+            "published": "Thu, 12 Feb 2026 05:50:06 -0500"
+        },
+        {
+            "title": "Samsung says it sent the first commercial HBM4 shipments to customers, as it seeks to supply Nvidia and compete with memory rivals like SK Hynix and Micron (Yoolim Lee/Bloomberg)",
+            "link": "http://www.techmeme.com/260212/p15#a260212p15",
+            "published": "Thu, 12 Feb 2026 05:40:32 -0500"
+        },
+        {
+            "title": "Meta's auditor Ernst & Young raised a red flag over the financial engineering Meta used to keep its $27B Hyperion data center project off its balance sheet (Jonathan Weil/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260212/p14#a260212p14",
+            "published": "Thu, 12 Feb 2026 05:05:01 -0500"
+        },
+        {
             "title": "Private equity and private credit groups' big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI (Financial Times)",
             "link": "http://www.techmeme.com/260212/p13#a260212p13",
             "published": "Thu, 12 Feb 2026 02:45:01 -0500"
@@ -9,21 +24,6 @@
             "title": "SoftBank reports Q3 net profit of $1.6B, below est., and Vision Fund posted a $2.4B gain, after a $4.2B gain in its OpenAI investment helped offset losses (Arjun Kharpal/CNBC)",
             "link": "http://www.techmeme.com/260212/p12#a260212p12",
             "published": "Thu, 12 Feb 2026 02:40:01 -0500"
-        },
-        {
-            "title": "Sources: some OpenAI executives were surprised by a WSJ report that OpenAI was targeting a Q4 2026 IPO; OpenAI hopes to triple its ~$13B 2025 revenue in 2026 (New York Times)",
-            "link": "http://www.techmeme.com/260212/p11#a260212p11",
-            "published": "Thu, 12 Feb 2026 02:25:03 -0500"
-        },
-        {
-            "title": "Some of the biggest VC firms are backing both OpenAI and Anthropic, breaking a taboo by investing in competing startups, as the AI race reshapes venture capital (Bloomberg)",
-            "link": "http://www.techmeme.com/260212/p10#a260212p10",
-            "published": "Thu, 12 Feb 2026 02:20:01 -0500"
-        },
-        {
-            "title": "Google unveils WAXAL, a new open speech dataset for 21 African languages to ease speech technology development; African institutions own the dataset (Damilare Dosunmu/Rest of World)",
-            "link": "http://www.techmeme.com/260212/p9#a260212p9",
-            "published": "Thu, 12 Feb 2026 02:10:02 -0500"
         }
     ],
     "source_1": [
@@ -48,14 +48,19 @@
             "published": "Tue, 10 Feb 2026 19:28:28 +0000"
         },
         {
-            "title": "Ford Says Electric Vehicle Losses Will Continue for 3 More Years",
-            "link": "https://www.nytimes.com/2026/02/10/business/ford-earnings-electric-vehicles.html",
-            "published": "Wed, 11 Feb 2026 02:34:59 +0000"
+            "title": "Ford Will Make a Play for a Different Battery Market",
+            "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
+            "published": "Thu, 12 Feb 2026 10:03:23 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Instagram boss: 16 hours of daily use is 'problematic,' not addiction",
+            "title": "Highguard game developer lays off staff just two weeks after release",
+            "link": "https://www.bbc.com/news/articles/cy8ln4l0wq4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Feb 2026 10:19:21 GMT"
+        },
+        {
+            "title": "Instagram boss says 16 hours of daily use is 'problematic' not addiction",
             "link": "https://www.bbc.com/news/articles/cn71mgmzljlo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 12 Feb 2026 01:19:57 GMT"
         },
@@ -73,11 +78,6 @@
             "title": "Instagram and YouTube owners built 'addiction machines', trial hears",
             "link": "https://www.bbc.com/news/articles/c3wlpqpe2z4o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Feb 2026 07:25:42 GMT"
-        },
-        {
-            "title": "Discord to start requiring face scan or ID to access adult content",
-            "link": "https://www.bbc.com/news/articles/c1d67vdlk1ko?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 09 Feb 2026 17:42:21 GMT"
         }
     ]
 }
