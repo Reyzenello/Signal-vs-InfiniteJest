@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Waymo co-CEO Tekedra Mawakana expects the company to hit 1M+ paid weekly robotaxi rides in the US by the end of 2026, up from ~400K per week in six cities now (Edward Ludlow/Bloomberg)",
-            "link": "http://www.techmeme.com/260212/p20#a260212p20",
-            "published": "Thu, 12 Feb 2026 06:50:02 -0500"
+            "title": "Simile, which uses AI to help companies predict human behavior, including guessing items customers might buy, raised $100M led by Index and emerges from stealth (Edward Ludlow/Bloomberg)",
+            "link": "http://www.techmeme.com/260212/p26#a260212p26",
+            "published": "Thu, 12 Feb 2026 08:35:10 -0500"
         },
         {
-            "title": "Internal messages: Amazon pushes in-house AI coding assistant Kiro for production code, prompting criticism and causing ~1,500 staff to push for Claude Code (Eugene Kim/Business Insider)",
-            "link": "http://www.techmeme.com/260212/p19#a260212p19",
-            "published": "Thu, 12 Feb 2026 06:35:01 -0500"
+            "title": "Crypto transaction volume linked to suspected human trafficking, largely based in Southeast Asia, hit hundreds of millions of dollars in 2025, up 85% YoY (Chainalysis)",
+            "link": "http://www.techmeme.com/260212/p25#a260212p25",
+            "published": "Thu, 12 Feb 2026 08:20:03 -0500"
         },
         {
-            "title": "xAI all-hands: Nikita Bier says X hit $1B in ARR from selling $3 to $40 per month subscriptions, but offered no details on ad revenue or other xAI financials (Theo Wayt/The Information)",
-            "link": "http://www.techmeme.com/260212/p18#a260212p18",
-            "published": "Thu, 12 Feb 2026 06:20:03 -0500"
+            "title": "A profile of Applied Intuition, which makes self-driving simulation software and reported $800M in 2025 revenue and 80% gross margins, as it expands beyond cars (Iain Martin/Forbes)",
+            "link": "http://www.techmeme.com/260212/p24#a260212p24",
+            "published": "Thu, 12 Feb 2026 07:45:02 -0500"
         },
         {
-            "title": "AI tools like Opus 4.6 actually do make engineers 10x more productive and are addictive, but the \"AI Vampire\" effect is causing widespread developer burnout (Steve Yegge)",
-            "link": "http://www.techmeme.com/260212/p17#a260212p17",
-            "published": "Thu, 12 Feb 2026 06:05:09 -0500"
+            "title": "Anthropic donates $20M to Public First, a super PAC pushing for AI guardrails and transparency in opposition to OpenAI-backed PACs, ahead of the US midterms (Theodore Schleifer/New York Times)",
+            "link": "http://www.techmeme.com/260212/p23#a260212p23",
+            "published": "Thu, 12 Feb 2026 07:30:01 -0500"
         },
         {
-            "title": "Dutch payments company Adyen reports H2 2025 net revenue up 17% YoY to \u20ac1.27B and forecasts 2026 net revenue growth at 20%-22%, vs 22.8% est.; ADYEN falls 15%+ (Kai Nicol-Schwarz/CNBC)",
-            "link": "http://www.techmeme.com/260212/p16#a260212p16",
-            "published": "Thu, 12 Feb 2026 05:50:06 -0500"
+            "title": "Google's TIG says Gemini has been inundated by \"commercially motivated\" actors who are trying to clone it, including one campaign that prompted it 100K+ times (Kevin Collier/NBC News)",
+            "link": "http://www.techmeme.com/260212/p22#a260212p22",
+            "published": "Thu, 12 Feb 2026 07:15:03 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 10 Feb 2026 19:28:28 +0000"
         },
         {
-            "title": "Ford Will Make a Play for a Different Battery Market",
-            "link": "https://www.nytimes.com/2026/02/12/business/energy-environment/ford-battery-storage-factory-kentucky.html",
-            "published": "Thu, 12 Feb 2026 10:03:23 +0000"
+            "title": "Anthropic Invests $20 Million in Super PAC to Counter OpenAI",
+            "link": "https://www.nytimes.com/2026/02/12/technology/anthropic-super-pac-openai.html",
+            "published": "Thu, 12 Feb 2026 12:07:05 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AI researcher says 'world is in peril' and quits to study poetry",
+            "link": "https://www.bbc.com/news/articles/c62dlvdq3e3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Feb 2026 12:21:10 GMT"
+        },
         {
             "title": "Highguard game developer lays off staff just two weeks after release",
             "link": "https://www.bbc.com/news/articles/cy8ln4l0wq4o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Apple and Google agree to change app stores after 'effective duopoly' claim",
             "link": "https://www.bbc.com/news/articles/c626rng1v63o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Feb 2026 12:44:43 GMT"
-        },
-        {
-            "title": "Instagram and YouTube owners built 'addiction machines', trial hears",
-            "link": "https://www.bbc.com/news/articles/c3wlpqpe2z4o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Feb 2026 07:25:42 GMT"
         }
     ]
 }
