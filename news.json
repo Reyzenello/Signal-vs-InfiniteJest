@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Private equity and private credit groups' big bets on SaaS companies, the biggest area of PE activity in the past decade, risk being derailed by the rise of AI (Financial Times)",
+            "link": "http://www.techmeme.com/260212/p13#a260212p13",
+            "published": "Thu, 12 Feb 2026 02:45:01 -0500"
+        },
+        {
+            "title": "SoftBank Group reports Q3 net profit of $1.6B after its Vision Fund posted a $2.4B gain, as a jump in the value of its OpenAI investment helped offset losses (Arjun Kharpal/CNBC)",
+            "link": "http://www.techmeme.com/260212/p12#a260212p12",
+            "published": "Thu, 12 Feb 2026 02:40:01 -0500"
+        },
+        {
+            "title": "Sources: some OpenAI execs were surprised by WSJ's report that the company was targeting a Q4 2026 IPO; OpenAI hopes to triple its ~$13B 2025 revenue in 2026 (New York Times)",
+            "link": "http://www.techmeme.com/260212/p11#a260212p11",
+            "published": "Thu, 12 Feb 2026 02:25:03 -0500"
+        },
+        {
+            "title": "Some of the biggest VC firms are backing both OpenAI and Anthropic, breaking a taboo by investing in competing startups, as the AI race reshapes venture capital (Bloomberg)",
+            "link": "http://www.techmeme.com/260212/p10#a260212p10",
+            "published": "Thu, 12 Feb 2026 02:20:01 -0500"
+        },
+        {
             "title": "Google unveils WAXAL, a new open speech dataset for 21 African languages to ease speech technology development; African institutions own the dataset (Damilare Dosunmu/Rest of World)",
             "link": "http://www.techmeme.com/260212/p9#a260212p9",
             "published": "Thu, 12 Feb 2026 02:10:02 -0500"
-        },
-        {
-            "title": "Multiple responses from DeepSeek's namesake chatbot confirm that the startup has expanded the context window of its flagship AI model from 128K tokens to 1M+ (Ben Jiang/South China Morning Post)",
-            "link": "http://www.techmeme.com/260212/p8#a260212p8",
-            "published": "Thu, 12 Feb 2026 01:50:01 -0500"
-        },
-        {
-            "title": "Grab agrees to acquire US fintech company Stash Financial in a deal initially valued at $425M and forecasts FY 2026 revenue of $4.04B-$4.1B, below $4.13B est. (Zaheer Kachwala/Reuters)",
-            "link": "http://www.techmeme.com/260212/p7#a260212p7",
-            "published": "Thu, 12 Feb 2026 01:45:00 -0500"
-        },
-        {
-            "title": "Hong Kong-listed Zhipu AI surged 30% after releasing its GLM-5, an open-source LLM with enhanced coding capabilities and long-running agent tasks (CNBC)",
-            "link": "http://www.techmeme.com/260212/p6#a260212p6",
-            "published": "Thu, 12 Feb 2026 01:25:01 -0500"
-        },
-        {
-            "title": "Zhipu AI says it will raise prices by at least 30% for new GLM coding plan subscribers to accommodate surging demand for its AI coding tools (Reuters)",
-            "link": "http://www.techmeme.com/260212/p5#a260212p5",
-            "published": "Thu, 12 Feb 2026 01:20:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Instagram boss: 16 hours of daily use is 'problematic,' not addiction",
+            "link": "https://www.bbc.com/news/articles/cn71mgmzljlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Feb 2026 01:19:57 GMT"
+        },
+        {
             "title": "Children bombarded with weight loss drug ads online, says commissioner",
             "link": "https://www.bbc.com/news/articles/c89kl834nv9o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 11 Feb 2026 09:49:13 GMT"
@@ -73,11 +78,6 @@
             "title": "Discord to start requiring face scan or ID to access adult content",
             "link": "https://www.bbc.com/news/articles/c1d67vdlk1ko?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 09 Feb 2026 17:42:21 GMT"
-        },
-        {
-            "title": "AI chatbots pose 'dangerous' risk when giving medical advice, study suggests",
-            "link": "https://www.bbc.com/news/articles/c3093gjy2ero?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 09 Feb 2026 16:33:29 GMT"
         }
     ]
 }
