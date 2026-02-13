@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A US court sentences Ramil Ventura Palafox, CEO of Praetorian Group, to 20 years in prison for operating a $200M bitcoin Ponzi scheme that defrauded 90K+ people (Danny Park/The Block)",
+            "link": "http://www.techmeme.com/260213/p5#a260213p5",
+            "published": "Fri, 13 Feb 2026 06:45:04 -0500"
+        },
+        {
             "title": "Baidu plans to let users access OpenClaw via its search app and integrate OpenClaw's capabilities into its e-commerce business and other services (Evelyn Cheng/CNBC)",
             "link": "http://www.techmeme.com/260213/p4#a260213p4",
             "published": "Fri, 13 Feb 2026 06:30:04 -0500"
@@ -19,11 +24,6 @@
             "title": "A look at Higgsfield, an AI video startup that grew to $300M ARR within 11 months, as it faces a creator backlash over aggressive and shocking marketing tactics (Rashi Shrivastava/Forbes)",
             "link": "http://www.techmeme.com/260213/p1#a260213p1",
             "published": "Fri, 13 Feb 2026 01:00:01 -0500"
-        },
-        {
-            "title": "The MPA urges ByteDance to curb its AI video model Seedance 2.0, saying the model engages in unauthorized use of US copyrighted material \"on a massive scale\" (Gene Maddaus/Variety)",
-            "link": "http://www.techmeme.com/260212/p68#a260212p68",
-            "published": "Thu, 12 Feb 2026 22:50:00 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 10 Feb 2026 19:28:28 +0000"
         },
         {
-            "title": "Meta Plans to Add Facial Recognition Technology to Its Smart Glasses",
-            "link": "https://www.nytimes.com/2026/02/13/technology/meta-facial-recognition-smart-glasses.html",
-            "published": "Fri, 13 Feb 2026 10:03:01 +0000"
+            "title": "\u2018Something Big Is Happening\u2019 + A.I. Rocks the Romance Novel Industry + One Good Thing",
+            "link": "https://www.nytimes.com/2026/02/13/podcasts/something-big-is-happening-ai-rocks-the-romance-novel-industry-one-good-thing.html",
+            "published": "Fri, 13 Feb 2026 12:00:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "John Wick game starring Keanu Reeves unveiled at PlayStation showcase",
+            "link": "https://www.bbc.com/news/articles/cp8533g3201o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Feb 2026 12:48:09 GMT"
+        },
         {
             "title": "AI coding platform's flaws allow BBC reporter to be hacked",
             "link": "https://www.bbc.com/news/articles/cy4wnw04e8wo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Prince Harry thanks bereaved families taking on social media firms",
             "link": "https://www.bbc.com/news/articles/ce8w968y7p1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 12 Feb 2026 12:09:00 GMT"
-        },
-        {
-            "title": "Highguard game developer lays off staff just two weeks after release",
-            "link": "https://www.bbc.com/news/articles/cy8ln4l0wq4o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 12 Feb 2026 10:19:21 GMT"
         }
     ]
 }
