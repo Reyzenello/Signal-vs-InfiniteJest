@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Micron introduces the first mass-produced PCIe 6.0 SSDs, with read speeds up to 28GB/s, double that of PCIe 5.0 SSDs, optimized for AI/data center deployments (Aaron Klotz/Tom's Hardware)",
+            "link": "http://www.techmeme.com/260216/p32#a260216p32",
+            "published": "Mon, 16 Feb 2026 21:15:01 -0500"
+        },
+        {
+            "title": "Letter and sources: Starboard plans to nominate a majority slate to Tripadvisor's board; Starboard holds a 9% stake, and TRIP has dropped ~46% in the past year (Ben Glickman/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260216/p31#a260216p31",
+            "published": "Mon, 16 Feb 2026 21:00:58 -0500"
+        },
+        {
+            "title": "Nifty IT Index, which tracks Indian IT stocks, has slumped about 15% so far in February on worries about AI and is on track for its worst month since March 2020 (Bloomberg)",
+            "link": "http://www.techmeme.com/260216/p30#a260216p30",
+            "published": "Mon, 16 Feb 2026 20:15:01 -0500"
+        },
+        {
+            "title": "Ireland's DPC says it has opened a \"large-scale\" inquiry into X over the creation and publication of \"potentially harmful\" sexualized images by Grok (Hannah Murphy/Financial Times)",
+            "link": "http://www.techmeme.com/260216/p29#a260216p29",
+            "published": "Mon, 16 Feb 2026 19:10:01 -0500"
+        },
+        {
             "title": "Manus launches Manus Agents, allowing users to access Manus directly inside messaging apps, starting with Telegram and coming soon to other platforms (Manus)",
             "link": "http://www.techmeme.com/260216/p28#a260216p28",
             "published": "Mon, 16 Feb 2026 18:10:01 -0500"
-        },
-        {
-            "title": "Apple debuts iOS 26.4 beta 1 for developers, adding limited support for encrypted RCS messages, enhancements to Apple Music, a Smart List for Reminders, more (Chance Miller/9to5Mac)",
-            "link": "http://www.techmeme.com/260216/p27#a260216p27",
-            "published": "Mon, 16 Feb 2026 17:30:26 -0500"
-        },
-        {
-            "title": "Q&A with Google Chief AI Scientist Jeff Dean about the evolution of Google Search, TPUs, coding agents, balancing model efficiency and performance, and more (Latent.Space)",
-            "link": "http://www.techmeme.com/260216/p26#a260216p26",
-            "published": "Mon, 16 Feb 2026 14:15:01 -0500"
-        },
-        {
-            "title": "Sources: SpaceX and xAI are competing in a $100M DoD contest to make voice-controlled, autonomous drone swarms; OpenAI is helping Applied Intuition's submission (Katrina Manson/Bloomberg)",
-            "link": "http://www.techmeme.com/260216/p25#a260216p25",
-            "published": "Mon, 16 Feb 2026 13:45:01 -0500"
-        },
-        {
-            "title": "Apple says it will bring \"advanced video capabilities\" to Apple Podcasts this spring, including allowing users to switch between watching and listening to shows (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/260216/p24#a260216p24",
-            "published": "Mon, 16 Feb 2026 13:35:01 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Mon, 16 Feb 2026 22:02:33 GMT"
         },
         {
+            "title": "The tech bros might show more humility in Delhi \u2013 but will they make AI any safer?",
+            "link": "https://www.bbc.com/news/articles/cr5l6gnen72o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Feb 2026 00:12:58 GMT"
+        },
+        {
             "title": "We will do battle with AI chatbots as we did with Grok, says Starmer",
             "link": "https://www.bbc.com/news/articles/cvg38x13x5yo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 16 Feb 2026 06:52:17 GMT"
@@ -73,11 +78,6 @@
             "title": "New Silent Hill game inspired by tiny fishing village in Fife",
             "link": "https://www.bbc.com/news/articles/c043n0kl71wo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 16 Feb 2026 12:41:31 GMT"
-        },
-        {
-            "title": "Stroke survivors trial new at-home tech: 'It's given me my freedom back'",
-            "link": "https://www.bbc.com/news/articles/cn87gj9k301o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 14 Feb 2026 01:35:47 GMT"
         }
     ]
 }
