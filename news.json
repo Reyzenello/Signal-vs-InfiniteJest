@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Audible launches an \"immersion reading\" feature that lets readers switch between ebook and audiobook versions of a title in their Audible and Kindle libraries (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/260218/p40#a260218p40",
+            "published": "Wed, 18 Feb 2026 12:05:01 -0500"
+        },
+        {
+            "title": "Fei-Fei Li's World Labs raised $1B from a16z, Nvidia, AMD, and others to advance its world models focused on robotics and scientific discovery (Alicia Tang/Bloomberg)",
+            "link": "http://www.techmeme.com/260218/p39#a260218p39",
+            "published": "Wed, 18 Feb 2026 11:50:01 -0500"
+        },
+        {
+            "title": "Snap says its direct revenue business has hit a $1B annualized revenue run rate, driven primarily by Snapchat+ surpassing 25M subscribers since its 2022 launch (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/260218/p38#a260218p38",
+            "published": "Wed, 18 Feb 2026 11:30:00 -0500"
+        },
+        {
+            "title": "Google rolls out Lyria 3, a generative music model that can make 30-second tracks with Nano Banana-made cover art, in beta in the Gemini app in eight languages (The Keyword)",
+            "link": "http://www.techmeme.com/260218/p37#a260218p37",
+            "published": "Wed, 18 Feb 2026 11:12:16 -0500"
+        },
+        {
             "title": "Cogent Security, which aims to use AI agents to decide which software bugs to remediate, raised a $42M Series A led by Bain, taking its total raised to $53M (Lily Mae Lazarus/Fortune)",
             "link": "http://www.techmeme.com/260218/p36#a260218p36",
             "published": "Wed, 18 Feb 2026 11:00:56 -0500"
-        },
-        {
-            "title": "Matthew Ball's State of Video Gaming 2026 report: global video game content sales grew 5.3% YoY to $195.6B in 2025; job losses fell 40% YoY to 9,200 people (Sophie McEvoy/GamesIndustry.biz)",
-            "link": "http://www.techmeme.com/260218/p35#a260218p35",
-            "published": "Wed, 18 Feb 2026 10:50:01 -0500"
-        },
-        {
-            "title": "Google expands Quick Share support with AirDrop to the Pixel 9, 9 Pro, 9 Pro XL, and 9 Pro Fold, after launching it for Pixel 10 in November 2025 (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/260218/p34#a260218p34",
-            "published": "Wed, 18 Feb 2026 10:40:01 -0500"
-        },
-        {
-            "title": "Kana, which builds AI marketing agents to perform data analysis, audience targeting, campaign management, and more, emerges from stealth and raised $15M (Ram Iyer/TechCrunch)",
-            "link": "http://www.techmeme.com/260218/p33#a260218p33",
-            "published": "Wed, 18 Feb 2026 10:30:01 -0500"
-        },
-        {
-            "title": "OpenAI partners with six Indian education institutions, including IIT Delhi, IIM Ahmedabad, and AIIMS New Delhi, to provide ChatGPT Edu access to 100K+ students (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/260218/p32#a260218p32",
-            "published": "Wed, 18 Feb 2026 10:20:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Begins $65 Million Election Push to Advance A.I. Agenda",
+            "link": "https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html",
+            "published": "Wed, 18 Feb 2026 16:01:07 +0000"
+        },
         {
             "title": "Elon Musk\u2019s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
             "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
@@ -38,22 +43,22 @@
             "published": "Wed, 18 Feb 2026 12:00:06 +0000"
         },
         {
-            "title": "Chatbots Are the New Influencers Brands Must Woo",
-            "link": "https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html",
-            "published": "Tue, 17 Feb 2026 10:02:10 +0000"
-        },
-        {
             "title": "How to Watch Free Live Television on Your Phone or Tablet",
             "link": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
             "published": "Wed, 18 Feb 2026 14:00:12 +0000"
         },
         {
-            "title": "With Niche Tech World References, Vibe Hopes Its Billboards Reach Start-Up Insiders",
-            "link": "https://www.nytimes.com/2026/02/17/technology/vibe-tv-billboards-silicon-valley.html",
-            "published": "Tue, 17 Feb 2026 10:01:00 +0000"
+            "title": "Chatbots Are the New Influencers Brands Must Woo",
+            "link": "https://www.nytimes.com/2026/02/17/technology/chatbots-influencers-brands-marketing.html",
+            "published": "Tue, 17 Feb 2026 10:02:10 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Zuckerberg arrives to testify in social media addiction trial",
+            "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Feb 2026 17:11:52 GMT"
+        },
         {
             "title": "Call of Duty advert banned for trivialising sexual violence",
             "link": "https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Reddit's human content wins amid the AI flood",
             "link": "https://www.bbc.com/news/articles/c5y4zl0w062o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 17 Feb 2026 00:03:10 GMT"
-        },
-        {
-            "title": "How dark web agent spotted bedroom wall clue to rescue girl from years of harm",
-            "link": "https://www.bbc.com/news/articles/cx2gn239exlo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 16 Feb 2026 22:02:33 GMT"
         }
     ]
 }
