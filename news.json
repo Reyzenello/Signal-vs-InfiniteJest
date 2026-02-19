@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Samsung shares surged 5.4% to a record high after a report said the company plans to price HBM4 chips at ~$700 per unit, 30% higher than the previous generation (Kurt Schussler/Bloomberg)",
+            "link": "http://www.techmeme.com/260218/p67#a260218p67",
+            "published": "Wed, 18 Feb 2026 23:10:21 -0500"
+        },
+        {
+            "title": "Austin-based Circuit, which is building an AI platform for manufacturing and service enterprises, raised $30M from a group of angel investors (Karoline Leonard/Austin American ...)",
+            "link": "http://www.techmeme.com/260218/p66#a260218p66",
+            "published": "Wed, 18 Feb 2026 23:00:14 -0500"
+        },
+        {
+            "title": "An experiment finds X's feed algorithm favored conservative content, and switching to the \"For you\" feed shifted users' views toward more conservative positions (Ece Yildirim/Gizmodo)",
+            "link": "http://www.techmeme.com/260218/p65#a260218p65",
+            "published": "Wed, 18 Feb 2026 22:35:02 -0500"
+        },
+        {
             "title": "Sources: OpenAI is close to finalizing the first phase of its $100B round; its overall valuation, including the eventual funding, could exceed $850B (Bloomberg)",
             "link": "http://www.techmeme.com/260218/p64#a260218p64",
             "published": "Wed, 18 Feb 2026 21:50:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Sources: Dylan Patel's SemiAnalysis is in early talks to raise hundreds of millions for a VC fund; Patel raised a $50M SPV toward Fluidstack's $700M fundraising (The Information)",
             "link": "http://www.techmeme.com/260218/p63#a260218p63",
             "published": "Wed, 18 Feb 2026 21:35:02 -0500"
-        },
-        {
-            "title": "Bluesky integrates Germ DM, an E2E encrypted messaging app built on AT Protocol, making it the first private messenger natively available in the Bluesky app (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/260218/p62#a260218p62",
-            "published": "Wed, 18 Feb 2026 21:00:01 -0500"
-        },
-        {
-            "title": "A US judge rules ex-Palantir employees likely violated confidentiality and non-solicitation agreements in founding Percepta, but declines to stop their work (Bob Van Voris/Bloomberg)",
-            "link": "http://www.techmeme.com/260218/p61#a260218p61",
-            "published": "Wed, 18 Feb 2026 20:30:02 -0500"
-        },
-        {
-            "title": "The UK proposes new rules requiring tech firms to remove nonconsensual abusive content within 48 hours or risk blocking and fines of up to 10% of global revenue (The Guardian)",
-            "link": "http://www.techmeme.com/260218/p60#a260218p60",
-            "published": "Wed, 18 Feb 2026 19:30:02 -0500"
         }
     ],
     "source_1": [
@@ -62,7 +62,7 @@
         {
             "title": "Zuckerberg defends Meta in landmark social media addiction trial",
             "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 18 Feb 2026 22:58:58 GMT"
+            "published": "Thu, 19 Feb 2026 03:29:12 GMT"
         },
         {
             "title": "Etsy sells second-hand fashion app Depop to eBay for $1.2bn",
