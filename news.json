@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "How Lego's Creative Play Lab built the Smart Brick, its custom chip, sensors, and proprietary communication system to seamlessly integrate with existing sets (Jeremy White/Wired)",
+            "link": "http://www.techmeme.com/260219/p10#a260219p10",
+            "published": "Thu, 19 Feb 2026 02:35:00 -0500"
+        },
+        {
+            "title": "Apple Podcasts' fresh leap into video podcasts accelerates the podcast industry's shift from an audio-centric medium to a decidedly video-focused one (Ashley Carman/Bloomberg)",
+            "link": "http://www.techmeme.com/260219/p9#a260219p9",
+            "published": "Thu, 19 Feb 2026 02:25:27 -0500"
+        },
+        {
+            "title": "A study of 12K+ EU companies finds AI adoption increases labor productivity by 4% on average in the EU, with no evidence of reduced employment in the short run (CEPR)",
+            "link": "http://www.techmeme.com/260219/p8#a260219p8",
+            "published": "Thu, 19 Feb 2026 02:20:02 -0500"
+        },
+        {
             "title": "Nonprofit What To Fix says Facebook's content monetization program grew from under 3M to over 12M participants in just over a year; 8M+ accounts are in English (Hazel Gandhi/Rest of World)",
             "link": "http://www.techmeme.com/260219/p7#a260219p7",
             "published": "Thu, 19 Feb 2026 02:00:00 -0500"
@@ -9,21 +24,6 @@
             "title": "Apple's 40-day correlation to the Nasdaq 100 fell to 0.21 last week, the lowest since 2006, making it an appealing alternative to the AI-fueled volatility (Ryan Vlastelica/Bloomberg)",
             "link": "http://www.techmeme.com/260219/p6#a260219p6",
             "published": "Thu, 19 Feb 2026 01:50:00 -0500"
-        },
-        {
-            "title": "OPM Director Scott Kupor says tech billionaires such as Elon Musk will give talks to the US Tech Force, which aims to recruit roughly 1,000 software engineers (Joe Miller/Financial Times)",
-            "link": "http://www.techmeme.com/260219/p5#a260219p5",
-            "published": "Thu, 19 Feb 2026 01:45:01 -0500"
-        },
-        {
-            "title": "Indian digital payments company Pine Labs plans to embed OpenAI APIs into its infrastructure to enable AI-assisted settlement, reconciliation, and invoicing (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/260219/p4#a260219p4",
-            "published": "Thu, 19 Feb 2026 01:35:02 -0500"
-        },
-        {
-            "title": "Sources: Accenture told execs promotions would require \"regular adoption\" of AI and is tracking individual weekly logins to its AI tools for some senior staff (Financial Times)",
-            "link": "http://www.techmeme.com/260219/p3#a260219p3",
-            "published": "Thu, 19 Feb 2026 01:10:27 -0500"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Thu, 19 Feb 2026 00:55:16 GMT"
         },
         {
+            "title": "Bill Gates pulls out of India's AI summit amid Epstein files controversy",
+            "link": "https://www.bbc.com/news/articles/c309qv9zglno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Feb 2026 08:13:25 GMT"
+        },
+        {
             "title": "Zuckerberg defends Meta in landmark social media addiction trial",
             "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 19 Feb 2026 03:29:12 GMT"
@@ -73,11 +78,6 @@
             "title": "Call of Duty advert banned for trivialising sexual violence",
             "link": "https://www.bbc.com/news/articles/czd831elpz5o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 18 Feb 2026 11:58:27 GMT"
-        },
-        {
-            "title": "'I do not trust them' - top streamers left concerned by Discord age checks",
-            "link": "https://www.bbc.com/news/articles/cn4g8ynpwl8o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 18 Feb 2026 01:47:12 GMT"
         }
     ]
 }
