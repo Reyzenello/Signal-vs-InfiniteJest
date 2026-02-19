@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
+            "title": "Ownwell, which uses AI to let homeowners appeal property taxes, raised a $30M Series B, bringing its total funding to $54M; it also raised $20M in debt (Mary Ann Azevedo/Crunchbase News)",
+            "link": "http://www.techmeme.com/260219/p29#a260219p29",
+            "published": "Thu, 19 Feb 2026 10:55:17 -0500"
+        },
+        {
+            "title": "ZaiNar, a developer of a GPS alternative that uses Wi-Fi and 5G to provide location data, raised $10M at a $1B valuation, bringing its total funding to $100M (Katie Roof/The Information)",
+            "link": "http://www.techmeme.com/260219/p28#a260219p28",
+            "published": "Thu, 19 Feb 2026 10:45:01 -0500"
+        },
+        {
+            "title": "West Virginia's AG sues Apple for allegedly violating consumer protection laws by failing to implement tools like PhotoDNA to detect CSAM stored on iCloud (Kalley Huang/New York Times)",
+            "link": "http://www.techmeme.com/260219/p27#a260219p27",
+            "published": "Thu, 19 Feb 2026 10:35:10 -0500"
+        },
+        {
+            "title": "FreeForm, which is building an AI native 3D printing system that uses 18 lasers to fuse metal powders into precision components, raised a $67M Series B (Tim Fernholz/TechCrunch)",
+            "link": "http://www.techmeme.com/260219/p26#a260219p26",
+            "published": "Thu, 19 Feb 2026 10:20:08 -0500"
+        },
+        {
             "title": "Amsterdam-based Stacks, which builds AI software to automate accounting workflows, raised a $23M Series A led by Lightspeed, after a \u20ac10M seed in 2025 (Ryan Lawler/Axios)",
             "link": "http://www.techmeme.com/260219/p25#a260219p25",
             "published": "Thu, 19 Feb 2026 08:55:07 -0500"
-        },
-        {
-            "title": "ByteDance is currently hiring for nearly 100 US-based roles within its Seed AI team across San Jose, LA, and Seattle to develop LLMs, drug discovery, and more (Alexandra S. Levine/Bloomberg)",
-            "link": "http://www.techmeme.com/260219/p24#a260219p24",
-            "published": "Thu, 19 Feb 2026 08:25:08 -0500"
-        },
-        {
-            "title": "Mobile gaming company Scopely buys a majority stake in Istanbul-based studio Loom, maker of puzzle game Pixel Flow!; a source says the deal values Loom at $1B+ (Georg Szalai/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/260219/p23#a260219p23",
-            "published": "Thu, 19 Feb 2026 08:15:00 -0500"
-        },
-        {
-            "title": "Klarna reports Q4 revenue up 38% YoY to $1.08B and a $26M net loss, down from a $40M profit in Q4 2024; KLAR is down 50%+ since its September 2025 NYSE IPO (Laith Al-Khalaf/Financial Times)",
-            "link": "http://www.techmeme.com/260219/p22#a260219p22",
-            "published": "Thu, 19 Feb 2026 08:05:02 -0500"
-        },
-        {
-            "title": "Amazon overtakes Walmart as the world's largest company by revenue, reporting $717B in 2025 sales compared to Walmart's $713.2B for the 12 months to January 31 (Spencer Soper/Bloomberg)",
-            "link": "http://www.techmeme.com/260219/p21#a260219p21",
-            "published": "Thu, 19 Feb 2026 07:30:00 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Meta Begins $65 Million Election Push to Advance A.I. Agenda",
-            "link": "https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html",
-            "published": "Wed, 18 Feb 2026 19:02:28 +0000"
+            "title": "West Virginia Claims That Apple Allows Child Sexual Abuse Material",
+            "link": "https://www.nytimes.com/2026/02/19/technology/apple-west-virginia-lawsuit-child-sexual-abuse.html",
+            "published": "Thu, 19 Feb 2026 15:09:17 +0000"
         },
         {
-            "title": "Elon Musk\u2019s xAI Gets $3 Billion Investment From Saudi-Backed A.I. Firm",
-            "link": "https://www.nytimes.com/2026/02/18/business/xai-humain-saudi-musk-spacex.html",
-            "published": "Wed, 18 Feb 2026 14:35:12 +0000"
-        },
-        {
-            "title": "Uber Taking Steps to Expand Number of EV Chargers Near Its Drivers",
-            "link": "https://www.nytimes.com/2026/02/18/business/energy-environment/uber-electric-vehicle-charging-stations.html",
-            "published": "Wed, 18 Feb 2026 12:00:06 +0000"
-        },
-        {
-            "title": "How to Watch Free Live Television on Your Phone or Tablet",
-            "link": "https://www.nytimes.com/2026/02/18/technology/personaltech/free-live-tv-mobile-apps.html",
-            "published": "Wed, 18 Feb 2026 14:00:12 +0000"
+            "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety",
+            "link": "https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html",
+            "published": "Thu, 19 Feb 2026 00:35:17 +0000"
         },
         {
             "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
             "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
             "published": "Wed, 18 Feb 2026 23:08:28 +0000"
+        },
+        {
+            "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
+            "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
+            "published": "Wed, 18 Feb 2026 18:20:50 +0000"
+        },
+        {
+            "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial",
+            "link": "https://www.nytimes.com/2026/02/18/technology/mark-zuckerberg-tech-addiction-trial.html",
+            "published": "Thu, 19 Feb 2026 02:14:22 +0000"
         }
     ],
     "source_2": [
