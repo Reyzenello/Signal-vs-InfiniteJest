@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google rejected 1.75M policy-violating Android apps and blocked 80K+ developer accounts from Google Play in 2025, down from 2.36M apps and 158K accounts in 2024 (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/260220/p2#a260220p2",
+            "published": "Fri, 20 Feb 2026 02:30:02 -0500"
+        },
+        {
             "title": "Sources: Amazon's AI tools caused at least two AWS outages, including a 13-hour disruption in December after its Kiro AI deleted and recreated an environment (Rafe Rosner-Uddin/Financial Times)",
             "link": "http://www.techmeme.com/260220/p1#a260220p1",
             "published": "Fri, 20 Feb 2026 00:45:01 -0500"
@@ -19,11 +24,6 @@
             "title": "Uber's market cap fell to ~$150B, down ~25% in six months, as investors weigh robotaxi disruption, perceiving it as a two-horse race between Waymo and Tesla (Dan Gallagher/Wall Street Journal)",
             "link": "http://www.techmeme.com/260219/p49#a260219p49",
             "published": "Thu, 19 Feb 2026 22:10:01 -0500"
-        },
-        {
-            "title": "A US grand jury indicted three people, including two former Google engineers, for allegedly stealing trade secrets relating to Pixel's Tensor processor (Robert Burnson/Bloomberg)",
-            "link": "http://www.techmeme.com/260219/p48#a260219p48",
-            "published": "Thu, 19 Feb 2026 21:20:02 -0500"
         }
     ],
     "source_1": [
@@ -55,14 +55,19 @@
     ],
     "source_2": [
         {
-            "title": "Starmer 'appeasing' big tech firms, says online safety campaigner",
-            "link": "https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 20 Feb 2026 06:03:06 GMT"
-        },
-        {
             "title": "Microsoft error sees confidential emails exposed to AI tool Copilot",
             "link": "https://www.bbc.com/news/articles/c8jxevd8mdyo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 19 Feb 2026 18:16:43 GMT"
+        },
+        {
+            "title": "Asos co-founder dies after Thailand balcony fall",
+            "link": "https://www.bbc.com/news/articles/ce8w0n061ryo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Feb 2026 07:52:13 GMT"
+        },
+        {
+            "title": "Starmer 'appeasing' big tech firms, says online safety campaigner",
+            "link": "https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Feb 2026 06:03:06 GMT"
         },
         {
             "title": "Nasa boss says Boeing Starliner failure one of worst in its history",
@@ -73,11 +78,6 @@
             "title": "SpaceX rocket fireball linked to plume of polluting lithium",
             "link": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 19 Feb 2026 16:00:42 GMT"
-        },
-        {
-            "title": "The Chinese AI app sending Hollywood into a panic",
-            "link": "https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 19 Feb 2026 23:08:29 GMT"
         }
     ]
 }
