@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Source: OpenAI is projecting that its revenue will exceed $280B in 2030; last month, OpenAI said its annualized revenue grew to $20B+ in 2025 (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/260220/p21#a260220p21",
+            "published": "Fri, 20 Feb 2026 18:30:03 -0500"
+        },
+        {
+            "title": "Sources: OpenAI is telling investors it's targeting ~$600B in total compute spend by 2030, months after Sam Altman touted $1.4T in infrastructure commitments (CNBC)",
+            "link": "http://www.techmeme.com/260220/p20#a260220p20",
+            "published": "Fri, 20 Feb 2026 17:55:54 -0500"
+        },
+        {
             "title": "Sources: OpenAI staff raised concerns about a Canadian mass shooting suspect months ago; OpenAI says her activity didn't meet the bar for reporting to police (Georgia Wells/Wall Street Journal)",
             "link": "http://www.techmeme.com/260220/p19#a260220p19",
             "published": "Fri, 20 Feb 2026 16:50:01 -0500"
@@ -14,19 +24,14 @@
             "title": "Phil Spencer will retire after 38 years at Microsoft; Asha Sharma, the president of product in Microsoft's Core AI business, will become the CEO of gaming (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/260220/p17#a260220p17",
             "published": "Fri, 20 Feb 2026 15:38:45 -0500"
-        },
-        {
-            "title": "Anthropic launches Claude Code Security, which \"scans codebases for security vulnerabilities and suggests targeted software patches\"; cybersecurity stocks fall (Ryan Vlastelica/Bloomberg)",
-            "link": "http://www.techmeme.com/260220/p16#a260220p16",
-            "published": "Fri, 20 Feb 2026 15:00:14 -0500"
-        },
-        {
-            "title": "Code Metal, which uses AI to let engineers translate legacy code into modern languages, raised a $125M Series B led by Salesforce Ventures at a $1.25B valuation (Lauren Goode/Wired)",
-            "link": "http://www.techmeme.com/260220/p15#a260220p15",
-            "published": "Fri, 20 Feb 2026 14:45:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "A.I. Isn\u2019t Coming for Every White-Collar Job. At Least Not Yet.",
+            "link": "https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html",
+            "published": "Fri, 20 Feb 2026 10:01:01 +0000"
+        },
         {
             "title": "West Virginia Sues Apple, Claiming It Allows Sharing of Child Sexual Abuse Material",
             "link": "https://www.nytimes.com/2026/02/19/technology/apple-west-virginia-lawsuit-child-sexual-abuse.html",
@@ -38,19 +43,14 @@
             "published": "Thu, 19 Feb 2026 00:35:17 +0000"
         },
         {
-            "title": "Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei",
-            "link": "https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html",
-            "published": "Wed, 18 Feb 2026 23:08:28 +0000"
-        },
-        {
-            "title": "What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.",
-            "link": "https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html",
-            "published": "Wed, 18 Feb 2026 18:20:50 +0000"
-        },
-        {
             "title": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
             "link": "https://www.nytimes.com/2026/02/20/podcasts/the-pentagon-vs-anthropic-an-ai-agent-slandered-me-hot-mess-express.html",
             "published": "Fri, 20 Feb 2026 12:00:06 +0000"
+        },
+        {
+            "title": "His Team Devised Ways to Keep World Cup Crowds Safe",
+            "link": "https://www.nytimes.com/2026/02/20/science/lost-science-silevitch-security.html",
+            "published": "Fri, 20 Feb 2026 10:02:33 +0000"
         }
     ],
     "source_2": [
