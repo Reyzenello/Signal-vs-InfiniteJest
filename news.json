@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "An interview with Notion CEO Ivan Zhao on Custom Notion AI agents launching in the coming week, over 50% of Notion databases now being built by agents, and more (Sources)",
+            "link": "http://www.techmeme.com/260221/p4#a260221p4",
+            "published": "Sat, 21 Feb 2026 07:30:02 -0500"
+        },
+        {
             "title": "How Claude Code, released publicly a year ago, cemented Anthropic as a leader in the lucrative, emerging market for AI coding tools (Shirin Ghaffary/Bloomberg)",
             "link": "http://www.techmeme.com/260221/p3#a260221p3",
             "published": "Sat, 21 Feb 2026 02:30:04 -0500"
@@ -19,11 +24,6 @@
             "title": "President Trump signs an EO to continue the suspension of the de minimis exemption, despite the SCOTUS' ruling that overturned most of Trump's 2025 tariffs (Zeyi Yang/Wired)",
             "link": "http://www.techmeme.com/260220/p27#a260220p27",
             "published": "Fri, 20 Feb 2026 22:35:00 -0500"
-        },
-        {
-            "title": "NanoClaw and other \"claws\", smaller OpenClaw-like systems that can run on personal hardware, form a new layer running on top of agents that run on LLMs (Andrej Karpathy/@karpathy)",
-            "link": "http://www.techmeme.com/260220/p26#a260220p26",
-            "published": "Fri, 20 Feb 2026 21:40:51 -0500"
         }
     ],
     "source_1": [
