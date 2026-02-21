@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "How Claude Code, released publicly a year ago, cemented Anthropic as a leader in the lucrative, emerging market for AI coding tools (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/260221/p3#a260221p3",
+            "published": "Sat, 21 Feb 2026 02:30:04 -0500"
+        },
+        {
             "title": "Pinterest users, especially artists, says the platform has gotten worse in the past year due to AI moderation, AI-generated art, and AI features (Matthew Gault/404 Media)",
             "link": "http://www.techmeme.com/260221/p2#a260221p2",
             "published": "Sat, 21 Feb 2026 01:40:58 -0500"
@@ -19,11 +24,6 @@
             "title": "NanoClaw and other \"claws\", smaller OpenClaw-like systems that can run on personal hardware, form a new layer running on top of agents that run on LLMs (Andrej Karpathy/@karpathy)",
             "link": "http://www.techmeme.com/260220/p26#a260220p26",
             "published": "Fri, 20 Feb 2026 21:40:51 -0500"
-        },
-        {
-            "title": "Bengaluru-based Sarvam, which is building AI models for local languages, launches its Indus chat app in beta, powered by its Sarvam 105B model (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/260220/p25#a260220p25",
-            "published": "Fri, 20 Feb 2026 21:05:03 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
+            "link": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Feb 2026 07:30:32 GMT"
+        },
+        {
             "title": "Urgent research needed to tackle AI threats, says Google AI boss",
             "link": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 20 Feb 2026 10:32:40 GMT"
@@ -73,11 +78,6 @@
             "title": "Starmer 'appeasing' big tech firms, says online safety campaigner",
             "link": "https://www.bbc.com/news/articles/cdr2gm4y4ygo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 20 Feb 2026 06:03:06 GMT"
-        },
-        {
-            "title": "Nasa boss says Boeing Starliner failure one of worst in its history",
-            "link": "https://www.bbc.com/news/articles/cm2x3nlxg9jo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 20 Feb 2026 01:44:48 GMT"
         }
     ]
 }
