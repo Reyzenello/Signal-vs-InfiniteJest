@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Sources: PayPal is attracting takeover interest from potential buyers after its stock fell ~46% over the last 12 months, giving PayPal a market value of ~$38.4B (Bloomberg)",
-            "link": "http://www.techmeme.com/260223/p18#a260223p18",
-            "published": "Mon, 23 Feb 2026 11:33:33 -0500"
+            "title": "Ubicquia, which provides software to utilities, cities, and companies to manage energy infrastructure like transformers, raised a $106M Series D (Katie Fehrenbacher/Axios)",
+            "link": "http://www.techmeme.com/260223/p23#a260223p23",
+            "published": "Mon, 23 Feb 2026 13:55:11 -0500"
         },
         {
-            "title": "Anthropic details the AI Fluency Index, tracking 11 behaviors that represent human-AI collaboration and measure how people collaborate with AI (Anthropic)",
-            "link": "http://www.techmeme.com/260223/p17#a260223p17",
-            "published": "Mon, 23 Feb 2026 11:30:01 -0500"
+            "title": "Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260223/p22#a260223p22",
+            "published": "Mon, 23 Feb 2026 13:25:13 -0500"
         },
         {
-            "title": "Finnish quantum computing company IQM plans to go public via a SPAC merger with New Jersey-based Real Asset Acquisition in a deal set to value it at $1.8B (Yazhou Sun/Bloomberg)",
-            "link": "http://www.techmeme.com/260223/p16#a260223p16",
-            "published": "Mon, 23 Feb 2026 10:55:05 -0500"
+            "title": "Internal memo: Lightricks, creator of photo editing app Facetune, is splitting its consumer app unit from its GenAI unit LTX to better capture the growth in AI (Echo Wang/Reuters)",
+            "link": "http://www.techmeme.com/260223/p21#a260223p21",
+            "published": "Mon, 23 Feb 2026 12:50:01 -0500"
         },
         {
-            "title": "OpenAI launches Frontier Alliances, entering into multiyear deals with Accenture, BCG, Capgemini, and McKinsey to help deploy its enterprise platform Frontier (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/260223/p15#a260223p15",
-            "published": "Mon, 23 Feb 2026 10:35:01 -0500"
+            "title": "Software stocks extend their weeks-long selloff, with AppLovin, Datadog, Workday down 7%+; several of the biggest decliners were discussed in a post by Citrini (Jack Pitcher/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260223/p20#a260223p20",
+            "published": "Mon, 23 Feb 2026 12:30:01 -0500"
         },
         {
-            "title": "Sources: Microsoft was forced to announce Xbox leadership changes early on Friday because the news had begun to leak to IGN, causing a day of internal chaos (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/260223/p14#a260223p14",
-            "published": "Mon, 23 Feb 2026 10:20:02 -0500"
+            "title": "Sources: Trump's \"Board of Peace\" is exploring a USD-pegged stablecoin for Gaza; a source says it will not be a \"Gaza Coin\" or a new Palestinian currency (Financial Times)",
+            "link": "http://www.techmeme.com/260223/p19#a260223p19",
+            "published": "Mon, 23 Feb 2026 12:15:05 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
+            "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
+            "published": "Mon, 23 Feb 2026 17:58:27 +0000"
+        },
         {
             "title": "\u2018A.I. Literacy\u2019 Is the New Drivers\u2019 Ed at This Newark School",
             "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
@@ -38,22 +43,22 @@
             "published": "Mon, 23 Feb 2026 10:02:24 +0000"
         },
         {
-            "title": "Backed by Anthropic, a Super PAC Begins an Ad Blitz in Support of A.I. Regulation",
+            "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation",
             "link": "https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html",
-            "published": "Mon, 23 Feb 2026 14:56:31 +0000"
+            "published": "Mon, 23 Feb 2026 18:29:50 +0000"
         },
         {
-            "title": "People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.",
-            "link": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
-            "published": "Mon, 23 Feb 2026 15:00:14 +0000"
-        },
-        {
-            "title": "Binance Pledged to Crack Down on Crime. Its Employees Found Potential Violations.",
-            "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
-            "published": "Mon, 23 Feb 2026 16:11:08 +0000"
+            "title": "Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.",
+            "link": "https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html",
+            "published": "Mon, 23 Feb 2026 10:02:15 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
+            "link": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Feb 2026 17:21:27 GMT"
+        },
         {
             "title": "Porn company fined \u00a31.35m by Ofcom over age check failings",
             "link": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Tumbler Ridge suspect's ChatGPT account banned before shooting",
             "link": "https://www.bbc.com/news/articles/cn4gq352w89o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 21 Feb 2026 07:30:32 GMT"
-        },
-        {
-            "title": "Urgent research needed to tackle AI threats, says Google AI boss",
-            "link": "https://www.bbc.com/news/articles/c0q3g0ln274o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 20 Feb 2026 10:32:40 GMT"
         }
     ]
 }
