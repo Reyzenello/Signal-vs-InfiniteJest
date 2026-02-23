@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "IBM shares fall 12%+ after Anthropic outlined in a blog post how Claude Code can automate the exploration and analysis phases of COBOL modernization (Pia Singh/CNBC)",
+            "link": "http://www.techmeme.com/260223/p26#a260223p26",
+            "published": "Mon, 23 Feb 2026 15:35:01 -0500"
+        },
+        {
+            "title": "Amazon plans to invest $12B in new data centers in Louisiana and says it worked with the local utility \"to ensure we pay 100% of the costs\" tied to the campus (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/260223/p25#a260223p25",
+            "published": "Mon, 23 Feb 2026 15:15:00 -0500"
+        },
+        {
+            "title": "Some AI startups are boosting their valuations by raising capital in back-to-back or multitiered deals, raising questions about how much they are really worth (Angel Au-Yeung/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260223/p24#a260223p24",
+            "published": "Mon, 23 Feb 2026 14:25:15 -0500"
+        },
+        {
             "title": "Ubicquia, which provides software to utilities, cities, and companies to manage energy infrastructure like transformers, raised a $106M Series D (Katie Fehrenbacher/Axios)",
             "link": "http://www.techmeme.com/260223/p23#a260223p23",
             "published": "Mon, 23 Feb 2026 13:55:11 -0500"
@@ -9,28 +24,13 @@
             "title": "Anthropic says DeepSeek, MiniMax, and Moonshot violated its ToS by prompting Claude a combined 16M+ times and using distillation to train their own products (Wall Street Journal)",
             "link": "http://www.techmeme.com/260223/p22#a260223p22",
             "published": "Mon, 23 Feb 2026 13:25:13 -0500"
-        },
-        {
-            "title": "Internal memo: Lightricks, creator of photo editing app Facetune, is splitting its consumer app unit from its GenAI unit LTX to better capture the growth in AI (Echo Wang/Reuters)",
-            "link": "http://www.techmeme.com/260223/p21#a260223p21",
-            "published": "Mon, 23 Feb 2026 12:50:01 -0500"
-        },
-        {
-            "title": "Software stocks extend their weeks-long selloff, with AppLovin, Datadog, Workday down 7%+; several of the biggest decliners were discussed in a post by Citrini (Jack Pitcher/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260223/p20#a260223p20",
-            "published": "Mon, 23 Feb 2026 12:30:01 -0500"
-        },
-        {
-            "title": "Sources: Trump's \"Board of Peace\" is exploring a USD-pegged stablecoin for Gaza; a source says it will not be a \"Gaza Coin\" or a new Palestinian currency (Financial Times)",
-            "link": "http://www.techmeme.com/260223/p19#a260223p19",
-            "published": "Mon, 23 Feb 2026 12:15:05 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
             "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
-            "published": "Mon, 23 Feb 2026 17:58:27 +0000"
+            "published": "Mon, 23 Feb 2026 20:15:13 +0000"
         },
         {
             "title": "\u2018A.I. Literacy\u2019 Is the New Drivers\u2019 Ed at This Newark School",
@@ -48,9 +48,9 @@
             "published": "Mon, 23 Feb 2026 18:29:50 +0000"
         },
         {
-            "title": "Need an Outfit? Pickle Clothing Rental App Helps Users Stay on Trend.",
-            "link": "https://www.nytimes.com/2026/02/23/style/pickle-app-clothing-rental.html",
-            "published": "Mon, 23 Feb 2026 10:02:15 +0000"
+            "title": "Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits",
+            "link": "https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html",
+            "published": "Mon, 23 Feb 2026 20:35:58 +0000"
         }
     ],
     "source_2": [
