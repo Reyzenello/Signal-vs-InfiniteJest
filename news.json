@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic launches Claude Cowork agent tools for investment banking, HR, design, and more, including a specialized financial plugin developed alongside FactSet (Rachel Metz/Bloomberg)",
+            "link": "http://www.techmeme.com/260224/p24#a260224p24",
+            "published": "Tue, 24 Feb 2026 09:40:01 -0500"
+        },
+        {
+            "title": "Google says AI music generation platform ProducerAI is joining Labs and will be powered by a Lyria 3 preview version; ProducerAI was developed alongside artists (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/260224/p23#a260224p23",
+            "published": "Tue, 24 Feb 2026 09:20:02 -0500"
+        },
+        {
+            "title": "Stefano Ermon's Inception releases Mercury 2, a diffusion AI model designed to field questions from users significantly faster and more cheaply than its rivals (Dina Bass/Bloomberg)",
+            "link": "http://www.techmeme.com/260224/p22#a260224p22",
+            "published": "Tue, 24 Feb 2026 08:40:00 -0500"
+        },
+        {
             "title": "Shein founder Xu Yangtian made a rare public appearance in Guangdong, pledging to invest ~$1.45B into the province's supply chains in the next three years (William Langley/Financial Times)",
             "link": "http://www.techmeme.com/260224/p21#a260224p21",
             "published": "Tue, 24 Feb 2026 08:30:01 -0500"
@@ -9,48 +24,33 @@
             "title": "ADT agrees to acquire Origin Wireless for $170M to integrate advanced AI motion classification into its popular home security suite starting in 2027 (Samantha Kelly/Bloomberg)",
             "link": "http://www.techmeme.com/260224/p20#a260224p20",
             "published": "Tue, 24 Feb 2026 08:25:02 -0500"
-        },
-        {
-            "title": "MatX, an AI chip startup founded by two alumni of Google's chip business, raised $500M+ led by Jane Street and Situational Awareness to compete with Nvidia (Dina Bass/Bloomberg)",
-            "link": "http://www.techmeme.com/260224/p19#a260224p19",
-            "published": "Tue, 24 Feb 2026 08:15:01 -0500"
-        },
-        {
-            "title": "Stripe hits a $159B valuation after an employee share sale to investors like Thrive, Coatue, and a16z, a 70% jump from its $92B valuation in February 2025 (Akila Quinio/Financial Times)",
-            "link": "http://www.techmeme.com/260224/p18#a260224p18",
-            "published": "Tue, 24 Feb 2026 08:12:17 -0500"
-        },
-        {
-            "title": "Basis, which builds AI agents to help accounting firms with tasks like tax returns, raised $100M led by Accel at a $1.15B valuation, for $138M in total funding (Rebecca Torrence/Bloomberg)",
-            "link": "http://www.techmeme.com/260224/p17#a260224p17",
-            "published": "Tue, 24 Feb 2026 08:00:51 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
+            "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
+            "published": "Tue, 24 Feb 2026 13:31:15 +0000"
+        },
+        {
+            "title": "Meta Announces Major Chips-for-Stock Deal With AMD",
+            "link": "https://www.nytimes.com/2026/02/24/business/meta-amd-chips-ai.html",
+            "published": "Tue, 24 Feb 2026 14:42:34 +0000"
+        },
+        {
+            "title": "Intel Strikes Deal With a Chip Start-Up Its C.E.O. Invested In",
+            "link": "https://www.nytimes.com/2026/02/24/technology/intel-sambanova-ceo-lip-bu-tan.html",
+            "published": "Tue, 24 Feb 2026 11:00:19 +0000"
+        },
         {
             "title": "Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities",
             "link": "https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html",
             "published": "Mon, 23 Feb 2026 20:15:13 +0000"
         },
         {
-            "title": "\u2018A.I. Literacy\u2019 Is the New Drivers\u2019 Ed at This Newark School",
-            "link": "https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html",
-            "published": "Mon, 23 Feb 2026 14:16:29 +0000"
-        },
-        {
             "title": "Anthropic Accuses 3 Chinese Companies of Harvesting Its Data",
             "link": "https://www.nytimes.com/2026/02/23/technology/anthropic-chinese-startups-distillation.html",
             "published": "Mon, 23 Feb 2026 22:31:54 +0000"
-        },
-        {
-            "title": "Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation",
-            "link": "https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html",
-            "published": "Mon, 23 Feb 2026 18:29:50 +0000"
-        },
-        {
-            "title": "Intel Strikes Deal With a Chip Start-Up Its C.E.O. Invested In",
-            "link": "https://www.nytimes.com/2026/02/24/technology/intel-sambanova-ceo-lip-bu-tan.html",
-            "published": "Tue, 24 Feb 2026 11:00:19 +0000"
         }
     ],
     "source_2": [
