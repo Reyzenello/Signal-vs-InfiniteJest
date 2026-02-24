@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "David Luan, the head of Amazon's AGI lab, is leaving the company less than two years after he joined through an acqui-hire deal of his startup Adept (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/260224/p50#a260224p50",
+            "published": "Tue, 24 Feb 2026 17:30:02 -0500"
+        },
+        {
+            "title": "A US judge sentences ex-L3Harris exec Peter Williams to over 7 years in prison, after he pleaded guilty in 2025 to theft of trade secrets and selling exploits (Greg Otto/CyberScoop)",
+            "link": "http://www.techmeme.com/260224/p49#a260224p49",
+            "published": "Tue, 24 Feb 2026 17:20:03 -0500"
+        },
+        {
             "title": "The US Treasury sanctions Russian zero-day broker Operation Zero, its founder Sergey Zelenyuk, and others for acquiring and reselling stolen US defense exploits (Lorenzo Franceschi-Bicchierai/TechCrunch)",
             "link": "http://www.techmeme.com/260224/p48#a260224p48",
             "published": "Tue, 24 Feb 2026 16:40:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Apple will block users in Australia, Brazil, and Singapore from downloading apps rated 18+ without age assurance and rolls out new age assurance tools for devs (Marcus Mendes/9to5Mac)",
             "link": "http://www.techmeme.com/260224/p46#a260224p46",
             "published": "Tue, 24 Feb 2026 16:10:00 -0500"
-        },
-        {
-            "title": "Sources: Stripe, which is privately held, has expressed preliminary interest in a potential acquisition of PayPal or its assets; PYPL jumps 7%+ (Bloomberg)",
-            "link": "http://www.techmeme.com/260224/p45#a260224p45",
-            "published": "Tue, 24 Feb 2026 15:50:01 -0500"
-        },
-        {
-            "title": "Sources: CoreWeave is seeking an ~$8.5B loan from banks, backed by a contract Meta signed last year to pay CoreWeave up to $14.2B for its services (Bloomberg)",
-            "link": "http://www.techmeme.com/260224/p44#a260224p44",
-            "published": "Tue, 24 Feb 2026 15:45:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,21 @@
     ],
     "source_2": [
         {
+            "title": "Discord delays age verification plans after user outcry",
+            "link": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Feb 2026 22:43:26 GMT"
+        },
+        {
+            "title": "US threatens Anthropic with deadline in dispute on AI safeguards",
+            "link": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Feb 2026 22:04:47 GMT"
+        },
+        {
+            "title": "Google apologises for Baftas alert to 'see more' on racial slur",
+            "link": "https://www.bbc.com/news/articles/c3v730qwwzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Feb 2026 20:24:26 GMT"
+        },
+        {
             "title": "Reddit fined \u00a314m for 'concerning' child age check failings",
             "link": "https://www.bbc.com/news/articles/cwyx0xggepjo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 24 Feb 2026 13:33:47 GMT"
@@ -63,21 +78,6 @@
             "title": "'The end of Xbox': fans split as AI exec takes over Microsoft's top gaming role",
             "link": "https://www.bbc.com/news/articles/cq6q8l81d9qo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 23 Feb 2026 17:21:27 GMT"
-        },
-        {
-            "title": "Porn company fined \u00a31.35m by Ofcom over age check failings",
-            "link": "https://www.bbc.com/news/articles/c0mglnzprdyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 23 Feb 2026 11:27:13 GMT"
-        },
-        {
-            "title": "Is \u00a370 becoming harder to justify? The rise of cheaper blockbuster games",
-            "link": "https://www.bbc.com/news/articles/ckg1nwwv1xyo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 21 Feb 2026 01:30:31 GMT"
-        },
-        {
-            "title": "Why fake AI videos of UK urban decline are taking over social media",
-            "link": "https://www.bbc.com/news/articles/c4g8r23yv71o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 21 Feb 2026 06:04:41 GMT"
         }
     ]
 }
