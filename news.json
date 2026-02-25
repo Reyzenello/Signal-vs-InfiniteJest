@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Diplomatic cable: US officials order diplomats to lobby against attempts to regulate how US tech companies handle foreigners' data, citing risks to AI services (Reuters)",
+            "link": "http://www.techmeme.com/260225/p15#a260225p15",
+            "published": "Wed, 25 Feb 2026 06:45:02 -0500"
+        },
+        {
+            "title": "A top US export control official says Nvidia has yet to sell any H200 chips to China, two months after President Trump's decision to allow AI chip shipments (Maggie Eastland/Bloomberg)",
+            "link": "http://www.techmeme.com/260225/p14#a260225p14",
+            "published": "Wed, 25 Feb 2026 06:01:25 -0500"
+        },
+        {
+            "title": "Sources: General Atlantic is selling a stake in ByteDance in a deal that values it at $550B, up 66% since September 2025, the first divestment since its US sale (Reuters)",
+            "link": "http://www.techmeme.com/260225/p13#a260225p13",
+            "published": "Wed, 25 Feb 2026 05:40:05 -0500"
+        },
+        {
             "title": "Sources: SAP investors and partners raise doubts about the company's AI products; VW tested SAP's flagship AI assitant Joule and did not find it mature enough (Christina Kyriasoglou/Bloomberg)",
             "link": "http://www.techmeme.com/260225/p12#a260225p12",
             "published": "Wed, 25 Feb 2026 04:55:02 -0500"
@@ -9,21 +24,6 @@
             "title": "DoorDash says it plans to exit Qatar, Singapore, Japan and Uzbekistan, winding down both Deliveroo and Wolt, and make limited operational changes elsewhere (Kimberley Kao/Wall Street Journal)",
             "link": "http://www.techmeme.com/260225/p11#a260225p11",
             "published": "Wed, 25 Feb 2026 04:25:04 -0500"
-        },
-        {
-            "title": "Malaysia blocks access to Grindr's and Blued's websites and says it may engage with Google and Apple to curb the LGBTQ dating apps in the Muslim-majority nation (Anuradha Raghu/Bloomberg)",
-            "link": "http://www.techmeme.com/260225/p10#a260225p10",
-            "published": "Wed, 25 Feb 2026 04:15:03 -0500"
-        },
-        {
-            "title": "Sources: Japan's FTC raids Microsoft's Japan offices as part of a probe into whether Azure customers were improperly hindered from using other cloud services (Nikkei Asia)",
-            "link": "http://www.techmeme.com/260225/p9#a260225p9",
-            "published": "Wed, 25 Feb 2026 04:05:00 -0500"
-        },
-        {
-            "title": "Workday CEO Aneel Bhusri says Anthropic, Google, and OpenAI use Workday tools and \"no amount of vibe coding\" could replace them; WDAY is down about 40% YTD (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/260225/p8#a260225p8",
-            "published": "Wed, 25 Feb 2026 03:55:01 -0500"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Podcasts? TV Talk Shows? Netflix Just Hopes They\u2019re Hits.",
             "link": "https://www.nytimes.com/2026/02/25/arts/television/podcasts-netflix-pete-davidson.html",
-            "published": "Wed, 25 Feb 2026 10:00:22 +0000"
+            "published": "Wed, 25 Feb 2026 10:00:23 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Gucci criticised for 'AI slop' images ahead of major fashion show",
+            "link": "https://www.bbc.com/news/articles/cjwz6yzn5jqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Feb 2026 10:55:39 GMT"
+        },
         {
             "title": "Discord delays age verification plans after user outcry",
             "link": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Google apologises for Baftas alert to 'see more' on racial slur",
             "link": "https://www.bbc.com/news/articles/c3v730qwwzwo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 24 Feb 2026 20:24:26 GMT"
-        },
-        {
-            "title": "Reddit fined \u00a314m for 'concerning' child age check failings",
-            "link": "https://www.bbc.com/news/articles/cwyx0xggepjo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 24 Feb 2026 13:33:47 GMT"
         }
     ]
 }
