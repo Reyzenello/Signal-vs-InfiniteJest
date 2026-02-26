@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "Alphabet's Intrinsic, which builds AI models and software for industrial robots, joins Google; it will remain a distinct entity and work with Google DeepMind (Rebecca Szkutak/TechCrunch)",
-            "link": "http://www.techmeme.com/260225/p50#a260225p50",
-            "published": "Wed, 25 Feb 2026 18:30:02 -0500"
+            "title": "The FTC says it won't enforce COPPA against companies using age verification tools as long as they use the collected data only to verify a user's age (Suzanne Smalley/The Record)",
+            "link": "http://www.techmeme.com/260225/p57#a260225p57",
+            "published": "Wed, 25 Feb 2026 21:35:01 -0500"
         },
         {
-            "title": "Snowflake reports Q4 product revenue up 30% YoY to $1.23B, vs. $1.18B est., and forecasts Q1 and FY 2027 product revenue above estimates (Jaspreet Singh/Reuters)",
-            "link": "http://www.techmeme.com/260225/p49#a260225p49",
-            "published": "Wed, 25 Feb 2026 18:15:01 -0500"
+            "title": "OpenAI hires Meta AI researcher Ruoming Pang, who joined Meta from Apple about seven months ago for a pay package reportedly worth $200M+ over several years (The Information)",
+            "link": "http://www.techmeme.com/260225/p56#a260225p56",
+            "published": "Wed, 25 Feb 2026 21:20:01 -0500"
         },
         {
-            "title": "Zoom reports Q4 revenue up 5.3% YoY to $1.25B, vs. $1.23B est., online revenue up 2.6% to $489.7M, and forecasts Q1 adjusted profit per share below estimates (Anhata Rooprai/Reuters)",
-            "link": "http://www.techmeme.com/260225/p48#a260225p48",
-            "published": "Wed, 25 Feb 2026 18:05:15 -0500"
+            "title": "Cisco warns of critical SD-WAN bug that was actively exploited in zero-day attacks since 2023, as CISA and international partners issue emergency directives (Lawrence Abrams/BleepingComputer)",
+            "link": "http://www.techmeme.com/260225/p55#a260225p55",
+            "published": "Wed, 25 Feb 2026 20:50:01 -0500"
         },
         {
-            "title": "Sources: DOD asked Boeing and Lockheed Martin to assess their reliance on Claude, a first step toward blacklisting Anthropic; Lockheed confirms it was contacted (Axios)",
-            "link": "http://www.techmeme.com/260225/p47#a260225p47",
-            "published": "Wed, 25 Feb 2026 17:55:01 -0500"
+            "title": "The UK's Virgin Media O2 launches Europe's first satellite-to-mobile service, powered by Starlink and initially available for \u00a33/month on select Samsung devices (Paul Sandle/Reuters)",
+            "link": "http://www.techmeme.com/260225/p54#a260225p54",
+            "published": "Wed, 25 Feb 2026 20:15:01 -0500"
         },
         {
-            "title": "AMD will buy $150M in Nutanix stock and provide up to $100M to fund joint initiatives to develop an infrastructure platform for powering AI applications (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/260225/p46#a260225p46",
-            "published": "Wed, 25 Feb 2026 17:35:01 -0500"
+            "title": "Filing: C3.ai plans to cut ~26% of its workforce; the company had ~1,200 employees as of April 2025; C3.ai shares drop 20%+ after hours on weaker FY guidance (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/260225/p53#a260225p53",
+            "published": "Wed, 25 Feb 2026 19:40:02 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "How Jeffrey Epstein Ingratiated Himself With Top Microsoft Executives",
-            "link": "https://www.nytimes.com/2026/02/24/technology/jeffrey-epstein-microsoft-executives.html",
-            "published": "Tue, 24 Feb 2026 19:58:44 +0000"
+            "title": "Nvidia\u2019s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
+            "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
+            "published": "Wed, 25 Feb 2026 23:28:10 +0000"
+        },
+        {
+            "title": "Can A.I. Detection Tools Really Spot Fake Images and Videos?",
+            "link": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html",
+            "published": "Wed, 25 Feb 2026 10:00:09 +0000"
+        },
+        {
+            "title": "Pentagon Gives Anthropic an Ultimatum Over the Company\u2019s A.I. Model",
+            "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
+            "published": "Wed, 25 Feb 2026 03:08:08 +0000"
         },
         {
             "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
@@ -38,22 +48,17 @@
             "published": "Tue, 24 Feb 2026 17:02:19 +0000"
         },
         {
-            "title": "Racing to Catch Up With Nvidia, AMD Signs Chips-for-Stock Deal With Meta",
-            "link": "https://www.nytimes.com/2026/02/24/business/meta-amd-chips-ai.html",
-            "published": "Tue, 24 Feb 2026 19:13:30 +0000"
-        },
-        {
-            "title": "Intel Strikes Deal With a Chip Start-Up Its C.E.O. Invested In",
-            "link": "https://www.nytimes.com/2026/02/24/technology/intel-sambanova-ceo-lip-bu-tan.html",
-            "published": "Tue, 24 Feb 2026 11:00:19 +0000"
-        },
-        {
-            "title": "Nvidia\u2019s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
-            "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
-            "published": "Wed, 25 Feb 2026 23:28:10 +0000"
+            "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
+            "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
+            "published": "Thu, 26 Feb 2026 01:11:18 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Chip giant Nvidia defies AI concerns with record $215bn revenue",
+            "link": "https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Feb 2026 23:22:41 GMT"
+        },
         {
             "title": "Not even potholes will hold up self-driving cars, UK firm predicts",
             "link": "https://www.bbc.com/news/articles/cx2drw12z51o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "US threatens Anthropic with deadline in dispute on AI safeguards",
             "link": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 24 Feb 2026 22:58:46 GMT"
-        },
-        {
-            "title": "Shein's elusive boss hails Chinese roots in rare public appearance",
-            "link": "https://www.bbc.com/news/articles/c39wdgy3gmvo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 25 Feb 2026 03:18:11 GMT"
         }
     ]
 }
