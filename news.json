@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Mistral and Accenture sign a multi-year deal to let Accenture deploy Mistral's models for its clients; Mistral has deals with IBM, Cisco, SAP, ASML, and others (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260226/p19#a260226p19",
-            "published": "Thu, 26 Feb 2026 06:40:03 -0500"
+            "title": "Software stocks in the State Street ETF lost $1.6T in combined market cap in 2026 due to AI fears; Microsoft, AppLovin, Intuit, and Salesforce each lost $50B+ (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260226/p27#a260226p27",
+            "published": "Thu, 26 Feb 2026 08:15:42 -0500"
         },
         {
-            "title": "Citadel rebuts Citrini's viral article, arguing that AI deployment is constrained by the marginal cost of compute vs. human labor, and needs far more compute (Citadel Securities)",
-            "link": "http://www.techmeme.com/260226/p18#a260226p18",
-            "published": "Thu, 26 Feb 2026 06:30:30 -0500"
+            "title": "Bermuda-based crypto trading platform STS Digital, which caters to institutional investors, raised $30M led by CMT Digital, with Kraken and others participating (Ben Weiss/Fortune)",
+            "link": "http://www.techmeme.com/260226/p26#a260226p26",
+            "published": "Thu, 26 Feb 2026 08:05:02 -0500"
         },
         {
-            "title": "As China grapples with a shrinking population and low birthrate, some women are finding romance with AI chatbots, leading Beijing to increase AI regulations (New York Times)",
-            "link": "http://www.techmeme.com/260226/p17#a260226p17",
-            "published": "Thu, 26 Feb 2026 06:20:02 -0500"
+            "title": "Montreal-based Stay22, which helps publishers and creators earn money from online sales, raised $122M from Summit Partners and reports $1B+ in 2025 transactions (Mathieu Dion/Bloomberg)",
+            "link": "http://www.techmeme.com/260226/p25#a260226p25",
+            "published": "Thu, 26 Feb 2026 07:45:39 -0500"
         },
         {
-            "title": "Salesforce CEO Marc Benioff dismisses concerns of a \"SaaS-pocalypse\", saying companies like Anthropic use \"a lot of SaaS because it just got better with agents\" (Financial Times)",
-            "link": "http://www.techmeme.com/260226/p16#a260226p16",
-            "published": "Thu, 26 Feb 2026 06:10:00 -0500"
+            "title": "AI coding agents made a huge leap forward since December, completing complex projects with minimal oversight, meaning \"programming is becoming unrecognizable\" (Andrej Karpathy/@karpathy)",
+            "link": "http://www.techmeme.com/260226/p24#a260226p24",
+            "published": "Thu, 26 Feb 2026 07:35:01 -0500"
         },
         {
-            "title": "As studios like Arc Raiders maker Embark embrace AI for non-essential game elements, gamers worry that AI squeezes the art out of games, amid industry job cuts (Vlad Savov/Bloomberg)",
-            "link": "http://www.techmeme.com/260226/p15#a260226p15",
-            "published": "Thu, 26 Feb 2026 06:00:55 -0500"
+            "title": "UK online supermarket Ocado plans to cut ~1,000 jobs and restructure its automated warehouse tech business; Kroger and Sobeys exited their Ocado deals early (Philip Stafford/Financial Times)",
+            "link": "http://www.techmeme.com/260226/p23#a260226p23",
+            "published": "Thu, 26 Feb 2026 07:25:00 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Instagram to alert parents if teens search for self-harm and suicide content",
+            "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Feb 2026 13:34:33 GMT"
+        },
+        {
             "title": "Chip giant Nvidia defies AI concerns with record $215bn revenue",
             "link": "https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 25 Feb 2026 23:22:41 GMT"
@@ -73,11 +78,6 @@
             "title": "Discord delays age verification plans after user outcry",
             "link": "https://www.bbc.com/news/articles/cvgv0yg4n9lo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 24 Feb 2026 22:43:26 GMT"
-        },
-        {
-            "title": "US threatens Anthropic with deadline in dispute on AI safeguards",
-            "link": "https://www.bbc.com/news/articles/cjrq1vwe73po?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 24 Feb 2026 22:58:46 GMT"
         }
     ]
 }
