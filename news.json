@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia stock is down 4%+, as investor concerns around the AI infrastructure boom dampen enthusiasm about the chipmaker's better-than-expected earnings (Kai Nicol-Schwarz/CNBC)",
+            "link": "http://www.techmeme.com/260226/p34#a260226p34",
+            "published": "Thu, 26 Feb 2026 10:35:00 -0500"
+        },
+        {
+            "title": "Rowspace, which builds AI tools for PE firms and hedge funds to organize unstructured data for decision-making, launches with $50M in seed and Series A funding (Leo Schwartz/Fortune)",
+            "link": "http://www.techmeme.com/260226/p33#a260226p33",
+            "published": "Thu, 26 Feb 2026 10:25:01 -0500"
+        },
+        {
             "title": "OpenAI says it will make London its largest research hub outside of the US, without giving specific details; OpenAI's European headquarters are in Dublin (Sam Tabahriti/Reuters)",
             "link": "http://www.techmeme.com/260226/p32#a260226p32",
             "published": "Thu, 26 Feb 2026 09:45:37 -0500"
@@ -14,43 +24,33 @@
             "title": "Total on-chain ransomware payments fell 8% YoY to $820M in 2025, despite a record 50% rise in claimed victims; the median payment grew 368% YoY to nearly $60K (Chainalysis)",
             "link": "http://www.techmeme.com/260226/p30#a260226p30",
             "published": "Thu, 26 Feb 2026 09:20:00 -0500"
-        },
-        {
-            "title": "Revel, founded by ex-SpaceX Starship software lead Scott Morton to replace legacy systems that test complex hardware like rockets, raised $150M led by Index (Michael J. de la Merced/New York Times)",
-            "link": "http://www.techmeme.com/260226/p29#a260226p29",
-            "published": "Thu, 26 Feb 2026 08:50:01 -0500"
-        },
-        {
-            "title": "eBay says it plans to cut ~800 jobs, or ~6% of its full-time employees, after laying off ~500 people in early 2023 and ~1,000 staff in early 2024 (Jo Constantz/Bloomberg)",
-            "link": "http://www.techmeme.com/260226/p28#a260226p28",
-            "published": "Thu, 26 Feb 2026 08:40:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "A.I. Complicates Old Internet Privacy Risks",
+            "link": "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html",
+            "published": "Thu, 26 Feb 2026 10:06:05 +0000"
+        },
+        {
+            "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn?",
+            "link": "https://www.nytimes.com/2026/02/26/technology/chatbots-duty-warn-police.html",
+            "published": "Thu, 26 Feb 2026 10:33:19 +0000"
+        },
+        {
+            "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
+            "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
+            "published": "Thu, 26 Feb 2026 01:11:18 +0000"
+        },
         {
             "title": "Nvidia\u2019s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales",
             "link": "https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html",
             "published": "Wed, 25 Feb 2026 23:28:10 +0000"
         },
         {
-            "title": "Can A.I. Detection Tools Really Spot Fake Images and Videos?",
-            "link": "https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html",
-            "published": "Wed, 25 Feb 2026 10:00:09 +0000"
-        },
-        {
-            "title": "Pentagon Gives Anthropic an Ultimatum Over the Company\u2019s A.I. Model",
-            "link": "https://www.nytimes.com/2026/02/24/us/politics/pentagon-anthropic.html",
-            "published": "Wed, 25 Feb 2026 03:08:08 +0000"
-        },
-        {
-            "title": "The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored",
-            "link": "https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html",
-            "published": "Tue, 24 Feb 2026 17:02:19 +0000"
-        },
-        {
-            "title": "A.I. Complicates Old Internet Privacy Risks",
-            "link": "https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html",
-            "published": "Thu, 26 Feb 2026 10:06:05 +0000"
+            "title": "They Helped Women Fight Online Abuse. They Were Barred From the U.S.",
+            "link": "https://www.nytimes.com/2026/02/26/technology/hateaid-online-abuse-free-speech-europe.html",
+            "published": "Thu, 26 Feb 2026 15:52:31 +0000"
         }
     ],
     "source_2": [
