@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Q&A with Skild AI CEO Deepak Pathak on building a general-purpose brain for robots, standing out among big tech's robotics efforts, the path to AGI, and more (Alex Heath/Sources)",
+            "link": "http://www.techmeme.com/260226/p4#a260226p4",
+            "published": "Thu, 26 Feb 2026 01:05:02 -0500"
+        },
+        {
+            "title": "Tech companies are increasingly turning to GPU-backed debt, a model pioneered by CoreWeave, using SPVs to shift debt off their balance sheets (Michelle Chan/Financial Times)",
+            "link": "http://www.techmeme.com/260226/p3#a260226p3",
+            "published": "Thu, 26 Feb 2026 00:45:01 -0500"
+        },
+        {
+            "title": "Sources: Amazon plans to invest up to $50B in OpenAI, $35B of which could hinge on an IPO or AGI milestone; OpenAI is discussing custom models for Amazon (The Information)",
+            "link": "http://www.techmeme.com/260226/p2#a260226p2",
+            "published": "Thu, 26 Feb 2026 00:15:05 -0500"
+        },
+        {
+            "title": "Mumbai-based digital payments processor BillDesk agrees to acquire the Indian business of Worldline for an equity value of ~$70M, set to close in H2 2026 (The Economic Times)",
+            "link": "http://www.techmeme.com/260226/p1#a260226p1",
+            "published": "Thu, 26 Feb 2026 00:05:00 -0500"
+        },
+        {
             "title": "A Cloudflare engineer rebuilt Next.js from scratch in one week using AI, reimplementing 94% of its API and spending $1,100 on Claude tokens (Tim Anderson/The Register)",
             "link": "http://www.techmeme.com/260225/p61#a260225p61",
             "published": "Wed, 25 Feb 2026 23:30:00 -0500"
-        },
-        {
-            "title": "Open-source tool Scrapling gains traction with OpenClaw users who want their bots to scrape sites without permission and has 200K+ downloads since its release (Reece Rogers/Wired)",
-            "link": "http://www.techmeme.com/260225/p60#a260225p60",
-            "published": "Wed, 25 Feb 2026 23:15:01 -0500"
-        },
-        {
-            "title": "Nvidia says the US government granted it a license to ship a small number of H200 chips to Chinese customers, but it's unclear if Beijing will allow any imports (Bloomberg)",
-            "link": "http://www.techmeme.com/260225/p59#a260225p59",
-            "published": "Wed, 25 Feb 2026 22:40:01 -0500"
-        },
-        {
-            "title": "Anthropic unveils scheduled tasks in Cowork, enabling Claude to complete recurring tasks at specific times automatically (Claude/@claudeai)",
-            "link": "http://www.techmeme.com/260225/p58#a260225p58",
-            "published": "Wed, 25 Feb 2026 21:55:01 -0500"
-        },
-        {
-            "title": "The FTC says it won't enforce COPPA against companies using age verification tools as long as they use the collected data only to verify a user's age (Suzanne Smalley/The Record)",
-            "link": "http://www.techmeme.com/260225/p57#a260225p57",
-            "published": "Wed, 25 Feb 2026 21:35:01 -0500"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Tue, 24 Feb 2026 17:02:19 +0000"
         },
         {
-            "title": "Lawmakers Ask Tech Companies What User Data They Provided to D.H.S.",
-            "link": "https://www.nytimes.com/2026/02/25/technology/lawmakers-tech-companies-dhs.html",
-            "published": "Thu, 26 Feb 2026 01:11:18 +0000"
+            "title": "A.I. Dating Apps Complicate China\u2019s Efforts to Boost Birthrate",
+            "link": "https://www.nytimes.com/2026/02/26/technology/china-ai-dating-apps.html",
+            "published": "Thu, 26 Feb 2026 05:00:07 +0000"
         }
     ],
     "source_2": [
