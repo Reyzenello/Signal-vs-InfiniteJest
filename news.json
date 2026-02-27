@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "French e-commerce marketplace ManoMano notifies its customers of a data breach affecting 38M; the company said the incident involved a third party subcontractor (Bill Toulas/BleepingComputer)",
+            "link": "http://www.techmeme.com/260227/p8#a260227p8",
+            "published": "Fri, 27 Feb 2026 06:25:02 -0500"
+        },
+        {
+            "title": "Equinix and Canada Pension Plan Investment Board agree to acquire atNorth Holding, a pan-Nordic data center operator, valuing atNorth at $4B including debt (Bloomberg)",
+            "link": "http://www.techmeme.com/260227/p7#a260227p7",
+            "published": "Fri, 27 Feb 2026 06:20:01 -0500"
+        },
+        {
+            "title": "South Korea approves Google's request to export detailed geographic data overseas, reversing a longstanding policy that made Google Maps largely nonfunctional (John Yoon/New York Times)",
+            "link": "http://www.techmeme.com/260227/p6#a260227p6",
+            "published": "Fri, 27 Feb 2026 05:55:05 -0500"
+        },
+        {
             "title": "Plaid allowed employees to sell some of their shares at an $8B valuation, up 31% from the $6.1B valuation in April 2025 and 40% below its $13.4B peak in 2021 (Marina Temkin/TechCrunch)",
             "link": "http://www.techmeme.com/260227/p5#a260227p5",
             "published": "Fri, 27 Feb 2026 05:25:01 -0500"
@@ -9,21 +24,6 @@
             "title": "Security researchers detail AirSnitch, a series of attacks that bypass Wi-Fi client isolation, enabling machine-in-the-middle attacks in modern Wi-Fi networks (Dan Goodin/Ars Technica)",
             "link": "http://www.techmeme.com/260227/p4#a260227p4",
             "published": "Fri, 27 Feb 2026 02:25:01 -0500"
-        },
-        {
-            "title": "California DMV records show Tesla has logged zero autonomous test miles on the state's roads since 2019, despite Musk's claims of an imminent CA robotaxi launch (Chris Kirkham/Reuters)",
-            "link": "http://www.techmeme.com/260227/p3#a260227p3",
-            "published": "Fri, 27 Feb 2026 01:30:00 -0500"
-        },
-        {
-            "title": "Sources: Jeff Bezos' Project Prometheus is raising tens of billions to buy companies hit by AI; it was valued at ~$30B in November 2025 when it raised $6.2B (Financial Times)",
-            "link": "http://www.techmeme.com/260227/p2#a260227p2",
-            "published": "Fri, 27 Feb 2026 01:05:04 -0500"
-        },
-        {
-            "title": "Sources: DOD was in talks with leading AI companies about building AI tools to automate reconnaissance of China's power grids, utilities, and sensitive networks (Financial Times)",
-            "link": "http://www.techmeme.com/260227/p1#a260227p1",
-            "published": "Fri, 27 Feb 2026 00:45:02 -0500"
         }
     ],
     "source_1": [
@@ -62,7 +62,7 @@
         {
             "title": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
             "link": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 03:54:27 GMT"
+            "published": "Fri, 27 Feb 2026 10:57:28 GMT"
         },
         {
             "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
