@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "In a newly released deposition in Elon Musk's case against OpenAI, Musk attacked OpenAI's safety record, saying nobody \"committed suicide because of Grok\" (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/260227/p29#a260227p29",
+            "published": "Fri, 27 Feb 2026 15:05:01 -0500"
+        },
+        {
+            "title": "As part of the Amazon-OpenAI deal, the companies plan a \"stateful runtime environment\" for AWS, letting agents carry context forward to handle ongoing projects (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/260227/p28#a260227p28",
+            "published": "Fri, 27 Feb 2026 14:50:02 -0500"
+        },
+        {
             "title": "Amazon is paying ~16x Microsoft's price per OpenAI percentage point, while getting none of Microsoft's exclusives, showing the cost of being late in AI (Om Malik/On my Om)",
             "link": "http://www.techmeme.com/260227/p27#a260227p27",
             "published": "Fri, 27 Feb 2026 14:30:01 -0500"
@@ -14,16 +24,6 @@
             "title": "Source: OpenAI expects to raise an additional $10B from financial investors by the end of March 2026, bringing its post-investment valuation to $850B (Stephanie Palazzolo/The Information)",
             "link": "http://www.techmeme.com/260227/p25#a260227p25",
             "published": "Fri, 27 Feb 2026 14:20:02 -0500"
-        },
-        {
-            "title": "Two coalitions of workers, including employees of Amazon, Google, Microsoft, and OpenAI, ask their companies to join Anthropic in refusing DOD's demands (Bloomberg)",
-            "link": "http://www.techmeme.com/260227/p24#a260227p24",
-            "published": "Fri, 27 Feb 2026 14:10:02 -0500"
-        },
-        {
-            "title": "Court docs from a New Mexico trial reveal internal divisions at Meta as Instagram teen safety initiatives conflicted with growth and engagement goals (The Atlantic)",
-            "link": "http://www.techmeme.com/260227/p23#a260227p23",
-            "published": "Fri, 27 Feb 2026 13:55:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Sam Altman backs rival Anthropic in fight with Pentagon",
+            "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Feb 2026 19:51:59 GMT"
+        },
+        {
             "title": "'I was on Instagram all day' - woman tells landmark trial",
             "link": "https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 27 Feb 2026 09:57:43 GMT"
@@ -73,11 +78,6 @@
             "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
             "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 27 Feb 2026 00:06:40 GMT"
-        },
-        {
-            "title": "Instagram to alert parents if teens search for self-harm and suicide content",
-            "link": "https://www.bbc.com/news/articles/c3v7z5eyewko?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 26 Feb 2026 16:39:57 GMT"
         }
     ]
 }
