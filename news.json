@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Source: India issued a blocking order on February 24 to restrict access to developer database service Supabase; the government did not publicly cite a reason (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/260227/p44#a260227p44",
+            "published": "Fri, 27 Feb 2026 23:15:01 -0500"
+        },
+        {
+            "title": "Sources: Nvidia plans to unveil a new AI inference chip at its GTC conference in March; the system will have a Groq-designed chip and OpenAI is a customer (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260227/p43#a260227p43",
+            "published": "Fri, 27 Feb 2026 22:25:02 -0500"
+        },
+        {
+            "title": "Sam Altman says OpenAI reached an agreement with the DOD to deploy its models in DOD's classified network and asks DOD to extend those terms to all AI companies (Sam Altman/@sama)",
+            "link": "http://www.techmeme.com/260227/p42#a260227p42",
+            "published": "Fri, 27 Feb 2026 22:20:01 -0500"
+        },
+        {
+            "title": "A look at a local group's lawsuit against Micron over its $100B New York manufacturing complex, alleging a rushed permitting process and environmental review (Fast Company)",
+            "link": "http://www.techmeme.com/260227/p41#a260227p41",
+            "published": "Fri, 27 Feb 2026 21:55:04 -0500"
+        },
+        {
             "title": "Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products (Financial Times)",
             "link": "http://www.techmeme.com/260227/p40#a260227p40",
             "published": "Fri, 27 Feb 2026 21:05:03 -0500"
-        },
-        {
-            "title": "Anthropic says it'll challenge \"any supply chain risk designation in court\" and that the designation would only affect contractors' use of Claude on DOD work (Anthropic)",
-            "link": "http://www.techmeme.com/260227/p39#a260227p39",
-            "published": "Fri, 27 Feb 2026 20:55:01 -0500"
-        },
-        {
-            "title": "Source: Sam Altman told employees the DOD is willing to let OpenAI build its own \"safety stack\" and won't force OpenAI to comply if its model refuses a task (Sharon Goldman/Fortune)",
-            "link": "http://www.techmeme.com/260227/p38#a260227p38",
-            "published": "Fri, 27 Feb 2026 19:45:01 -0500"
-        },
-        {
-            "title": "Source: the DOD appears to have accepted OpenAI's safety red lines, which were similar to Anthropic's, to deploy OpenAI's tech in classified settings (Maria Curi/Axios)",
-            "link": "http://www.techmeme.com/260227/p37#a260227p37",
-            "published": "Fri, 27 Feb 2026 19:03:37 -0500"
-        },
-        {
-            "title": "Sources: crypto investment firm Paradigm is looking to raise up to $1.5B for a new fund to expand into AI, robotics, and other forms of frontier tech (Yuliya Chernova/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260227/p36#a260227p36",
-            "published": "Fri, 27 Feb 2026 19:00:54 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Silicon Valley Rallies Behind Anthropic in A.I. Clash With Trump",
             "link": "https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html",
-            "published": "Fri, 27 Feb 2026 23:16:10 +0000"
+            "published": "Sat, 28 Feb 2026 04:15:35 +0000"
         },
         {
             "title": "Pentagon-Anthropic Standoff Is a Decisive Moment for How A.I. Will Be Used in War",
@@ -48,16 +48,16 @@
             "published": "Fri, 27 Feb 2026 10:00:35 +0000"
         },
         {
-            "title": "Instagram to Alert Parents to Teens\u2019 Self-Harm Searches",
-            "link": "https://www.nytimes.com/2026/02/27/technology/meta-self-harm-notifications-parents.html",
-            "published": "Fri, 27 Feb 2026 23:57:23 +0000"
+            "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
+            "link": "https://www.nytimes.com/2026/02/27/technology/openai-reaches-ai-agreement-with-defense-dept-after-anthropic-clash.html",
+            "published": "Sat, 28 Feb 2026 03:49:20 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Trump orders government to stop using Anthropic in battle over AI use",
             "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 22:52:03 GMT"
+            "published": "Sat, 28 Feb 2026 03:50:05 GMT"
         },
         {
             "title": "Resident Evil is back - can it redefine the survival horror genre once more?",
