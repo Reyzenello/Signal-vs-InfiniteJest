@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Dell stock closes up 22%, its biggest single-day gain since March 1, 2024, after the company gave an outlook for sales of its AI servers that exceeded estimates (Dina Bass/Bloomberg)",
-            "link": "http://www.techmeme.com/260227/p34#a260227p34",
-            "published": "Fri, 27 Feb 2026 18:00:36 -0500"
+            "title": "Sources: DeepSeek plans to release its multimodal model V4 next week and worked with Huawei and Chinese AI chipmaker Cambricon to optimize V4 for their products (Financial Times)",
+            "link": "http://www.techmeme.com/260227/p40#a260227p40",
+            "published": "Fri, 27 Feb 2026 21:05:03 -0500"
         },
         {
-            "title": "Defense Secretary Pete Hegseth directs the DOD to designate Anthropic as a supply chain risk, barring military contractors from doing business with the company (@secwar)",
-            "link": "http://www.techmeme.com/260227/p33#a260227p33",
-            "published": "Fri, 27 Feb 2026 17:30:00 -0500"
+            "title": "Anthropic says it'll challenge \"any supply chain risk designation in court\" and that the designation would only affect contractors' use of Claude on DOD work (Anthropic)",
+            "link": "http://www.techmeme.com/260227/p39#a260227p39",
+            "published": "Fri, 27 Feb 2026 20:55:01 -0500"
         },
         {
-            "title": "Paramount agrees to acquire WBD, paying $31 per share in cash, giving WBD an enterprise value of $110B; Paramount paid a $2.8B breakup fee to Netflix (Alex Weprin/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/260227/p32#a260227p32",
-            "published": "Fri, 27 Feb 2026 16:55:01 -0500"
+            "title": "Source: Sam Altman told employees the DOD is willing to let OpenAI build its own \"safety stack\" and won't force OpenAI to comply if its model refuses a task (Sharon Goldman/Fortune)",
+            "link": "http://www.techmeme.com/260227/p38#a260227p38",
+            "published": "Fri, 27 Feb 2026 19:45:01 -0500"
         },
         {
-            "title": "President Trump calls Anthropic a \"radical left, woke company\" and says he is directing every federal agency in the US to stop using its products (Axios)",
-            "link": "http://www.techmeme.com/260227/p31#a260227p31",
-            "published": "Fri, 27 Feb 2026 16:00:53 -0500"
+            "title": "Source: the DOD appears to have accepted OpenAI's safety red lines, which were similar to Anthropic's, to deploy OpenAI's tech in classified settings (Maria Curi/Axios)",
+            "link": "http://www.techmeme.com/260227/p37#a260227p37",
+            "published": "Fri, 27 Feb 2026 19:03:37 -0500"
         },
         {
-            "title": "Sources: SpaceX weighs filing confidentially for an IPO as soon as March, targeting a June listing that could raise up to $50B at a $1.75T valuation (Bloomberg)",
-            "link": "http://www.techmeme.com/260227/p30#a260227p30",
-            "published": "Fri, 27 Feb 2026 15:40:15 -0500"
+            "title": "Sources: crypto investment firm Paradigm is looking to raise up to $1.5B for a new fund to expand into AI, robotics, and other forms of frontier tech (Yuliya Chernova/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260227/p36#a260227p36",
+            "published": "Fri, 27 Feb 2026 19:00:54 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "In a Memoir Draft, Changpeng Zhao of Binance Details the Talks Leading to His Prison Time",
+            "link": "https://www.nytimes.com/2026/02/27/technology/cz-changpeng-zhao-binance-memoir-prison.html",
+            "published": "Sat, 28 Feb 2026 02:26:38 +0000"
+        },
         {
             "title": "Silicon Valley Rallies Behind Anthropic in A.I. Clash With Trump",
             "link": "https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html",
@@ -43,14 +48,9 @@
             "published": "Fri, 27 Feb 2026 10:00:35 +0000"
         },
         {
-            "title": "A World Where All Is Free? That\u2019s Elon Musk\u2019s Theory of \u2018Sustainable Abundance.\u2019",
-            "link": "https://www.nytimes.com/2026/02/27/business/a-world-where-all-is-free-thats-elon-musks-theory-of-sustainable-abundance.html",
-            "published": "Fri, 27 Feb 2026 10:02:42 +0000"
-        },
-        {
-            "title": "Is A.I. Eating the Labor Market? + The Latest on the Pentagon, OpenClaw and Alpha School",
-            "link": "https://www.nytimes.com/2026/02/27/podcasts/is-ai-eating-the-labor-market-the-latest-on-the-pentagon-openclaw-and-alpha-school.html",
-            "published": "Fri, 27 Feb 2026 12:00:09 +0000"
+            "title": "Instagram to Alert Parents to Teens\u2019 Self-Harm Searches",
+            "link": "https://www.nytimes.com/2026/02/27/technology/meta-self-harm-notifications-parents.html",
+            "published": "Fri, 27 Feb 2026 23:57:23 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Trump orders government to stop using Anthropic in battle over AI use",
             "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 27 Feb 2026 22:52:03 GMT"
+        },
+        {
+            "title": "Resident Evil is back - can it redefine the survival horror genre once more?",
+            "link": "https://www.bbc.com/news/articles/cewzngve9reo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Feb 2026 00:01:19 GMT"
         },
         {
             "title": "'I was on Instagram all day' - woman tells landmark trial",
@@ -73,11 +78,6 @@
             "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
             "link": "https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 26 Feb 2026 22:09:46 GMT"
-        },
-        {
-            "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
-            "link": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Feb 2026 00:06:40 GMT"
         }
     ]
 }
