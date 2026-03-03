@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A UK trial by the National Grid, Nvidia, and others finds AI data centers can operate without using peak power continuously, adjusting consumption when asked (Eamon Farhat/Bloomberg)",
-            "link": "http://www.techmeme.com/260303/p11#a260303p11",
-            "published": "Tue, 03 Mar 2026 07:55:01 -0500"
+            "title": "Global venture investment hit a record $189B in February, up 780% YoY, amid the AI boom; 83% of the month's total went to OpenAI, Waymo, and Anthropic (Gen\u00e9 Teare/Crunchbase News)",
+            "link": "http://www.techmeme.com/260303/p17#a260303p17",
+            "published": "Tue, 03 Mar 2026 09:50:02 -0500"
         },
         {
-            "title": "Elliott injects $1B into Pinterest to fund stock buybacks, buying convertible senior notes with an initial conversion price of $22.72 per share, a 30% premium (Nicholas G. Miller/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260303/p10#a260303p10",
-            "published": "Tue, 03 Mar 2026 07:40:01 -0500"
+            "title": "Apple says the M5 MacBook Pro starts at $1,699 for the 14\" model, up $100, and the M5 Pro and Max models start at $2,199 and $2,699, respectively, both up $200 (Engadget)",
+            "link": "http://www.techmeme.com/260303/p16#a260303p16",
+            "published": "Tue, 03 Mar 2026 09:25:03 -0500"
         },
         {
-            "title": "US Defense Secretary Pete Hegseth's and Trump's actions against Anthropic have serious legal issues, and its designation exceeds what the statute authorizes (Lawfare)",
-            "link": "http://www.techmeme.com/260303/p9#a260303p9",
-            "published": "Tue, 03 Mar 2026 07:30:04 -0500"
+            "title": "Apple unveils the M5 MacBook Air in 13\" and 15\" sizes, boosting its starting price by $100 to $1,099 and doubling base storage to 512GB, shipping from March 11 (Zac Hall/9to5Mac)",
+            "link": "http://www.techmeme.com/260303/p15#a260303p15",
+            "published": "Tue, 03 Mar 2026 09:17:59 -0500"
         },
         {
-            "title": "Grow Therapy, which connects patients with therapists covered by their insurance, raised a $150M Series D at a $3B valuation and hits $1B+ in annual revenue (Rebecca Torrence/Bloomberg)",
-            "link": "http://www.techmeme.com/260303/p8#a260303p8",
-            "published": "Tue, 03 Mar 2026 07:15:11 -0500"
+            "title": "Apple updates the $1,599+ Studio Display and unveils a $3,299+ 27\" 5K Studio Display XDR, with a 120Hz refresh rate, a mini-LED backlight, and up to 2,000 nits (Apple)",
+            "link": "http://www.techmeme.com/260303/p14#a260303p14",
+            "published": "Tue, 03 Mar 2026 09:16:03 -0500"
         },
         {
-            "title": "Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran's crypto ecosystem was worth $7.8B (Chainalysis)",
-            "link": "http://www.techmeme.com/260303/p7#a260303p7",
-            "published": "Tue, 03 Mar 2026 06:35:03 -0500"
+            "title": "Apple unveils the M5 Pro and M5 Max, offering a new Apple-designed Fusion Architecture, a next-generation up-to-40-core GPU with Neural Accelerators, and more (Apple)",
+            "link": "http://www.techmeme.com/260303/p13#a260303p13",
+            "published": "Tue, 03 Mar 2026 09:11:51 -0500"
         }
     ],
     "source_1": [
@@ -50,12 +50,12 @@
         {
             "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
             "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
-            "published": "Tue, 03 Mar 2026 10:06:58 +0000"
+            "published": "Tue, 03 Mar 2026 14:15:38 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "OpenAI changes deal with US military after backlash",
+            "title": "OpenAI to change deal with US military after backlash",
             "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 03 Mar 2026 11:51:31 GMT"
         },
@@ -63,6 +63,11 @@
             "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
             "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 03 Mar 2026 03:59:26 GMT"
+        },
+        {
+            "title": "The spin-off game starring a 'weirdo' Pok\u00e9mon that's got reviewers raving",
+            "link": "https://www.bbc.com/news/articles/cy5791kekwgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Mar 2026 12:54:01 GMT"
         },
         {
             "title": "Deepfake attack: 'Many people could have been cheated'",
@@ -73,11 +78,6 @@
             "title": "UK launches consultation asking for views on under-16s social media ban",
             "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 01 Mar 2026 22:35:18 GMT"
-        },
-        {
-            "title": "Trump orders government to stop using Anthropic in battle over AI use",
-            "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 28 Feb 2026 03:50:05 GMT"
         }
     ]
 }
