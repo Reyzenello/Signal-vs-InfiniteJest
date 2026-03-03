@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "A UK trial by the National Grid, Nvidia, and others finds AI data centers can operate without using peak power continuously, adjusting consumption when asked (Eamon Farhat/Bloomberg)",
+            "link": "http://www.techmeme.com/260303/p11#a260303p11",
+            "published": "Tue, 03 Mar 2026 07:55:01 -0500"
+        },
+        {
+            "title": "Elliott injects $1B into Pinterest to fund stock buybacks, buying convertible senior notes with an initial conversion price of $22.72 per share, a 30% premium (Nicholas G. Miller/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260303/p10#a260303p10",
+            "published": "Tue, 03 Mar 2026 07:40:01 -0500"
+        },
+        {
+            "title": "US Defense Secretary Pete Hegseth's and Trump's actions against Anthropic have serious legal issues, and its designation exceeds what the statute authorizes (Lawfare)",
+            "link": "http://www.techmeme.com/260303/p9#a260303p9",
+            "published": "Tue, 03 Mar 2026 07:30:04 -0500"
+        },
+        {
+            "title": "Grow Therapy, which connects patients with therapists covered by their insurance, raised a $150M Series D at a $3B valuation and hits $1B+ in annual revenue (Rebecca Torrence/Bloomberg)",
+            "link": "http://www.techmeme.com/260303/p8#a260303p8",
+            "published": "Tue, 03 Mar 2026 07:15:11 -0500"
+        },
+        {
             "title": "Iranian cryptoasset outflows reached ~$10.3M between February 28 and March 2 amid US and Israeli strikes; in 2025, Iran's crypto ecosystem was worth $7.8B (Chainalysis)",
             "link": "http://www.techmeme.com/260303/p7#a260303p7",
             "published": "Tue, 03 Mar 2026 06:35:03 -0500"
-        },
-        {
-            "title": "Sources: in the EU, US criticism over censorship has been met with disbelief and anger, and some Big Tech lobbyists acknowledge US accusations are overstated (Financial Times)",
-            "link": "http://www.techmeme.com/260303/p6#a260303p6",
-            "published": "Tue, 03 Mar 2026 06:15:02 -0500"
-        },
-        {
-            "title": "Google unveils Home updates to fix a long list of annoyances and idiosyncrasies, and debuts Live Search to let Gemini analyze and describe live camera feeds (Thomas Ricker/The Verge)",
-            "link": "http://www.techmeme.com/260303/p5#a260303p5",
-            "published": "Tue, 03 Mar 2026 06:01:28 -0500"
-        },
-        {
-            "title": "Sources: Samsung Foundry has frequently delayed the timeline for its plant in Taylor, Texas, with its mass production plans moving from early 2026 to early 2027 (Lee Jae-Lim/Korea Joongang Daily)",
-            "link": "http://www.techmeme.com/260303/p4#a260303p4",
-            "published": "Tue, 03 Mar 2026 05:40:01 -0500"
-        },
-        {
-            "title": "Investigation: Sama data annotators in Nairobi say they often view private footage from Meta's Ray-Ban glasses, like bathroom visits; some footage is blurred (SvD)",
-            "link": "http://www.techmeme.com/260303/p3#a260303p3",
-            "published": "Tue, 03 Mar 2026 05:25:03 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI changes deal with US military after backlash",
+            "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Mar 2026 11:51:31 GMT"
+        },
+        {
             "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
             "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 03 Mar 2026 03:59:26 GMT"
@@ -73,11 +78,6 @@
             "title": "Trump orders government to stop using Anthropic in battle over AI use",
             "link": "https://www.bbc.com/news/articles/cn48jj3y8ezo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 28 Feb 2026 03:50:05 GMT"
-        },
-        {
-            "title": "Resident Evil Requiem's director on redefining the survival horror genre",
-            "link": "https://www.bbc.com/news/articles/cewzngve9reo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 28 Feb 2026 00:01:19 GMT"
         }
     ]
 }
