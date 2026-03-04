@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Leaked Friday memo: Dario Amodei called OpenAI's DOD deal \"safety theater\", said DOD dislikes Anthropic in part for not giving \"dictator-style praise to Trump\" (The Information)",
+            "link": "http://www.techmeme.com/260304/p40#a260304p40",
+            "published": "Wed, 04 Mar 2026 17:30:57 -0500"
+        },
+        {
+            "title": "Source: a16z Crypto is targeting around $2B for its fifth fund and plans to close the raise by the end of the first half of 2026 (Fortune)",
+            "link": "http://www.techmeme.com/260304/p39#a260304p39",
+            "published": "Wed, 04 Mar 2026 17:16:00 -0500"
+        },
+        {
             "title": "Broadcom reports Q1 revenue up 29% YoY to $19.31B, vs. $19.18B est., AI revenue up 106% to $8.4B, and announces a $10B share buyback program (CNBC)",
             "link": "http://www.techmeme.com/260304/p38#a260304p38",
             "published": "Wed, 04 Mar 2026 16:35:02 -0500"
@@ -14,19 +24,19 @@
             "title": "Google Pixel 10a review: long battery life and a good camera with no bump, but weak gaming performance and barely an upgrade from the Pixel 9a (Ryan Whitwam/Ars Technica)",
             "link": "http://www.techmeme.com/260304/p36#a260304p36",
             "published": "Wed, 04 Mar 2026 14:35:12 -0500"
-        },
-        {
-            "title": "Tencent-owned Finnish game company Supercell says it is cooperating with a CFIUS security probe of Tencent's data practices (Cecilia D'Anastasio/Bloomberg)",
-            "link": "http://www.techmeme.com/260304/p35#a260304p35",
-            "published": "Wed, 04 Mar 2026 14:25:01 -0500"
-        },
-        {
-            "title": "Jensen Huang says Nvidia's recent $30B investment in OpenAI \"might be the last time\" it invests in the company, because OpenAI is \"going to go public\" (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/260304/p34#a260304p34",
-            "published": "Wed, 04 Mar 2026 14:15:53 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
+            "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
+            "published": "Wed, 04 Mar 2026 22:24:09 +0000"
+        },
+        {
+            "title": "Trump Announces A.I. Industry Pledge to Pay for Power",
+            "link": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
+            "published": "Wed, 04 Mar 2026 22:25:58 +0000"
+        },
         {
             "title": "Lawmakers Question Intel\u2019s Use of Tools From Blacklisted Chinese Firm",
             "link": "https://www.nytimes.com/2026/03/04/technology/intel-senators-china-tools.html",
@@ -38,22 +48,17 @@
             "published": "Mon, 02 Mar 2026 23:40:11 +0000"
         },
         {
-            "title": "OpenAI Amends A.I. Deal With the Pentagon",
-            "link": "https://www.nytimes.com/2026/03/02/technology/openai-pentagon-deal-amended-surveillance.html",
-            "published": "Tue, 03 Mar 2026 03:57:04 +0000"
-        },
-        {
-            "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
-            "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
-            "published": "Mon, 02 Mar 2026 21:16:52 +0000"
-        },
-        {
             "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
             "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
             "published": "Tue, 03 Mar 2026 23:38:36 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Musk tells jury 'people read too much' into his posts",
+            "link": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Mar 2026 22:03:57 GMT"
+        },
         {
             "title": "Father claims Google's AI product fuelled son's delusional spiral",
             "link": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss",
@@ -65,7 +70,7 @@
             "published": "Wed, 04 Mar 2026 16:23:17 GMT"
         },
         {
-            "title": "Remote work, offices shut: Tech giants scramble to respond as Middle East tensions escalate",
+            "title": "Remote work, offices shut: Tech giants scramble to respond as Iran war escalates",
             "link": "https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Mar 2026 14:57:00 GMT"
         },
@@ -73,11 +78,6 @@
             "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
             "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Mar 2026 00:34:49 GMT"
-        },
-        {
-            "title": "Video game Highguard axed weeks after release",
-            "link": "https://www.bbc.com/news/articles/cp855yq1g03o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 04 Mar 2026 13:16:43 GMT"
         }
     ]
 }
