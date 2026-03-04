@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Anthropic recently surpassed $19B in run-rate revenue, up from $9B at the end of 2025 and roughly $14B a few weeks ago (Shirin Ghaffary/Bloomberg)",
-            "link": "http://www.techmeme.com/260303/p46#a260303p46",
-            "published": "Tue, 03 Mar 2026 18:35:01 -0500"
+            "title": "OpenAI's red lines within its DOD agreement are built upon legal language that the NSA has redefined over decades to permit the things they appear to prohibit (Mike Masnick/Techdirt)",
+            "link": "http://www.techmeme.com/260303/p54#a260303p54",
+            "published": "Tue, 03 Mar 2026 21:25:04 -0500"
         },
         {
-            "title": "President Trump says the GENIUS Act is being \"threatened and undermined\" by banks, following their opposition to stablecoin yield payouts (Nikhilesh De/CoinDesk)",
-            "link": "http://www.techmeme.com/260303/p45#a260303p45",
-            "published": "Tue, 03 Mar 2026 18:15:05 -0500"
+            "title": "KeyCare, a virtual care platform built on the Epic EHR, raised $27.4M led by HealthX Ventures, bringing its total funding to over $55M (Jessica Hagen/MobiHealthNews)",
+            "link": "http://www.techmeme.com/260303/p53#a260303p53",
+            "published": "Tue, 03 Mar 2026 20:20:01 -0500"
         },
         {
-            "title": "In an all-hands meeting, Sam Altman said OpenAI does not \"get to make operational decisions\" regarding how its technology is used by the Department of Defense (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/260303/p44#a260303p44",
-            "published": "Tue, 03 Mar 2026 18:10:03 -0500"
+            "title": "Google details Coruna, an exploit kit used to hijack iPhones via malicious websites; iVerify suggests it may have been originally built for the US government (Andy Greenberg/Wired)",
+            "link": "http://www.techmeme.com/260303/p52#a260303p52",
+            "published": "Tue, 03 Mar 2026 20:10:00 -0500"
         },
         {
-            "title": "Source: OpenAI is developing an alternative to GitHub; the project is nascent, and the decision came after OpenAI engineers experienced an increase in outages (The Information)",
-            "link": "http://www.techmeme.com/260303/p43#a260303p43",
-            "published": "Tue, 03 Mar 2026 17:55:01 -0500"
+            "title": "Self-driving software startup Oxa raised a $103M Series D, with $50M coming from the UK government's National Wealth Fund; Nvidia's NVentures also invested (Tom Nugent/Sifted)",
+            "link": "http://www.techmeme.com/260303/p51#a260303p51",
+            "published": "Tue, 03 Mar 2026 19:45:00 -0500"
         },
         {
-            "title": "TikTok USDS says users \"may temporarily experience lags in posting content\" due to an issue at Oracle's Ashburn data center, the second Oracle outage in a month (Stevie Bonifield/The Verge)",
-            "link": "http://www.techmeme.com/260303/p42#a260303p42",
-            "published": "Tue, 03 Mar 2026 17:50:00 -0500"
+            "title": "Sources: the White House is debating whether to allow Tencent to maintain stakes in US and Finnish video game companies; Tencent holds a 28% stake in Epic Games (Financial Times)",
+            "link": "http://www.techmeme.com/260303/p50#a260303p50",
+            "published": "Tue, 03 Mar 2026 19:35:01 -0500"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
             "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
-            "published": "Tue, 03 Mar 2026 15:21:16 +0000"
+            "published": "Tue, 03 Mar 2026 23:38:36 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
+            "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Mar 2026 00:34:49 GMT"
+        },
         {
             "title": "OpenAI changes deal with US military after backlash",
             "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Deepfake attack: 'Many people could have been cheated'",
             "link": "https://www.bbc.com/news/articles/c0j59vydxj9o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 02 Mar 2026 06:47:00 GMT"
-        },
-        {
-            "title": "UK launches consultation asking for views on under-16s social media ban",
-            "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 01 Mar 2026 22:35:18 GMT"
         }
     ]
 }
