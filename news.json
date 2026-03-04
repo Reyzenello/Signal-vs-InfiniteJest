@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "A US lawsuit says Gemini sent a man to find an android body it could inhabit, before he died by suicide; Google says it sent him to crisis hotlines \"many times\" (Julie Jargon/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260304/p27#a260304p27",
+            "published": "Wed, 04 Mar 2026 10:30:39 -0500"
+        },
+        {
+            "title": "Source: OpenAI is preparing to launch GPT-5.4, which will feature an \"extreme\" reasoning mode and a context window of 1M tokens, up from 400K in GPT-5.2 (Stephanie Palazzolo/The Information)",
+            "link": "http://www.techmeme.com/260304/p26#a260304p26",
+            "published": "Wed, 04 Mar 2026 10:15:40 -0500"
+        },
+        {
+            "title": "Apple's MacBook Neo has two USB-C ports with different specs: one is USB-C 3 with up to 10 Gb/s transfer speeds, and the other is USB-C 2, limited to 480 Mb/s (Hartley Charlton/MacRumors)",
+            "link": "http://www.techmeme.com/260304/p25#a260304p25",
+            "published": "Wed, 04 Mar 2026 10:10:02 -0500"
+        },
+        {
             "title": "MacBook Neo hands-on: a new product category for Apple, and it doesn't look budget with a vibrant display and aluminum body, but the keyboard is a bit flimsy (Devindra Hardawar/Engadget)",
             "link": "http://www.techmeme.com/260304/p24#a260304p24",
             "published": "Wed, 04 Mar 2026 09:40:02 -0500"
         },
         {
-            "title": "Apple's MacBook Neo uses an A18 Pro that launched in the iPhone 16 lineup, alongside 8GB of RAM and a headphone jack; Apple discontinued the 12\" MacBook in 2019 (Stevie Bonifield/The Verge)",
+            "title": "Apple's MacBook Neo uses the A18 Pro that launched in its iPhone 16 range, alongside 8GB of RAM and a headphone jack; Apple discontinued its 12\" MacBook in 2019 (Stevie Bonifield/The Verge)",
             "link": "http://www.techmeme.com/260304/p23#a260304p23",
             "published": "Wed, 04 Mar 2026 09:30:39 -0500"
-        },
-        {
-            "title": "Apple says the MacBook Neo is $599+ with no Touch ID and 256GB of storage and $699+ with Touch ID and 512GB, in citrus, silver, indigo, and blush colors (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/260304/p22#a260304p22",
-            "published": "Wed, 04 Mar 2026 09:24:46 -0500"
-        },
-        {
-            "title": "Apple unveils the $599+ MacBook Neo, with a 13-inch Liquid Retina display, an A18 Pro chip, side-firing speakers, a 1080p webcam, two USB-C ports, and Touch ID (Tom's Hardware)",
-            "link": "http://www.techmeme.com/260304/p21#a260304p21",
-            "published": "Wed, 04 Mar 2026 09:12:55 -0500"
-        },
-        {
-            "title": "Apple changes its CPU terminology alongside the M5 Pro and M5 Max, renaming \"performance cores\" to \"super cores\" and \"efficiency cores\" to \"performance cores\" (Jason Snell/Six Colors)",
-            "link": "http://www.techmeme.com/260304/p20#a260304p20",
-            "published": "Wed, 04 Mar 2026 09:10:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Remote work, offices shut: Tech giants scramble to respond as Middle East tensions escalate",
+            "link": "https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Mar 2026 14:57:00 GMT"
+        },
+        {
             "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
             "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Mar 2026 00:34:49 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI changes deal with US military after backlash",
             "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 03 Mar 2026 19:37:28 GMT"
-        },
-        {
-            "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
-            "link": "https://www.bbc.com/news/articles/cgk28nj0lrjo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 03 Mar 2026 03:59:26 GMT"
         }
     ]
 }
