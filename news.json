@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Arda, co-founded by ex-OpenAI chief research officer Bob McGrew to automate manufacturing using AI, is raising $70M at a $700M valuation (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260304/p30#a260304p30",
+            "published": "Wed, 04 Mar 2026 11:55:01 -0500"
+        },
+        {
+            "title": "Sources: Neura Robotics, which is building cognitive, humanoid robots for logistics, is raising ~\u20ac1B in a funding round backed by Tether at a ~\u20ac4B valuation (Bloomberg)",
+            "link": "http://www.techmeme.com/260304/p29#a260304p29",
+            "published": "Wed, 04 Mar 2026 11:25:00 -0500"
+        },
+        {
+            "title": "The Media Trust report: online ads surpassed email as the primary malware channel in 2025, accounting for 60%+ of all observed malware and phishing campaigns (Lara O'Reilly/Business Insider)",
+            "link": "http://www.techmeme.com/260304/p28#a260304p28",
+            "published": "Wed, 04 Mar 2026 11:01:41 -0500"
+        },
+        {
             "title": "A US lawsuit says Gemini sent a man to find an android body it could inhabit, before he died by suicide; Google says it sent him to crisis hotlines \"many times\" (Julie Jargon/Wall Street Journal)",
             "link": "http://www.techmeme.com/260304/p27#a260304p27",
             "published": "Wed, 04 Mar 2026 10:30:39 -0500"
         },
         {
-            "title": "Source: OpenAI is preparing to launch GPT-5.4, which will feature an \"extreme\" reasoning mode and a context window of 1M tokens, up from 400K in GPT-5.2 (Stephanie Palazzolo/The Information)",
+            "title": "Source: OpenAI is preparing to launch GPT-5.4, with an \"extreme\" reasoning mode and a 1M-token context window, matching past models but up from GPT-5.2's 400K (Stephanie Palazzolo/The Information)",
             "link": "http://www.techmeme.com/260304/p26#a260304p26",
             "published": "Wed, 04 Mar 2026 10:15:40 -0500"
-        },
-        {
-            "title": "Apple's MacBook Neo has two USB-C ports with different specs: one is USB-C 3 with up to 10 Gb/s transfer speeds, and the other is USB-C 2, limited to 480 Mb/s (Hartley Charlton/MacRumors)",
-            "link": "http://www.techmeme.com/260304/p25#a260304p25",
-            "published": "Wed, 04 Mar 2026 10:10:02 -0500"
-        },
-        {
-            "title": "MacBook Neo hands-on: a new product category for Apple, and it doesn't look budget with a vibrant display and aluminum body, but the keyboard is a bit flimsy (Devindra Hardawar/Engadget)",
-            "link": "http://www.techmeme.com/260304/p24#a260304p24",
-            "published": "Wed, 04 Mar 2026 09:40:02 -0500"
-        },
-        {
-            "title": "Apple's MacBook Neo uses the A18 Pro that launched in its iPhone 16 range, alongside 8GB of RAM and a headphone jack; Apple discontinued its 12\" MacBook in 2019 (Stevie Bonifield/The Verge)",
-            "link": "http://www.techmeme.com/260304/p23#a260304p23",
-            "published": "Wed, 04 Mar 2026 09:30:39 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
+            "link": "https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Mar 2026 16:23:17 GMT"
+        },
+        {
             "title": "Remote work, offices shut: Tech giants scramble to respond as Middle East tensions escalate",
             "link": "https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Mar 2026 14:57:00 GMT"
@@ -73,11 +78,6 @@
             "title": "Can an AI recruiter really spot a good carer?",
             "link": "https://www.bbc.com/news/articles/cdxg4e1dw12o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Mar 2026 10:29:34 GMT"
-        },
-        {
-            "title": "OpenAI changes deal with US military after backlash",
-            "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 03 Mar 2026 19:37:28 GMT"
         }
     ]
 }
