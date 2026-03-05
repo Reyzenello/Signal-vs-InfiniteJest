@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Match eliminates the role of COO, putting Hesam Hosseini out of a job after 18 years with the dating app giant, as part of changes under CEO Spencer Rascoff (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/260305/p33#a260305p33",
-            "published": "Thu, 05 Mar 2026 10:50:00 -0500"
+            "title": "OpenAI says GPT-5.4 produces presentations with stronger, more varied aesthetics and makes more effective use of its image generation tools (Igor Bonifacic/Engadget)",
+            "link": "http://www.techmeme.com/260305/p44#a260305p44",
+            "published": "Thu, 05 Mar 2026 13:11:21 -0500"
         },
         {
-            "title": "Stockholm-based Validio, whose agentic platform autonomously detects and resolves data quality issues, raised a $30M Series A, bringing its total raised to $47M (Chris Metinko/Axios)",
-            "link": "http://www.techmeme.com/260305/p32#a260305p32",
-            "published": "Thu, 05 Mar 2026 10:45:03 -0500"
+            "title": "OpenAI launches GPT-5.4 that it says is its \"most capable and efficient frontier model for professional work\" and first with native computer use capabilities (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/260305/p43#a260305p43",
+            "published": "Thu, 05 Mar 2026 13:08:08 -0500"
         },
         {
-            "title": "Revolut, which has about 70M clients in 40 markets, applies for a US bank charter and appoints former Visa executive Cetin Duransoy as its new US CEO (Reuters)",
-            "link": "http://www.techmeme.com/260305/p31#a260305p31",
-            "published": "Thu, 05 Mar 2026 10:35:02 -0500"
+            "title": "Sources: Oracle plans thousands of job cuts as soon as this month as part of its moves to handle a cash crunch from a massive AI data center expansion effort (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/260305/p42#a260305p42",
+            "published": "Thu, 05 Mar 2026 13:05:00 -0500"
         },
         {
-            "title": "Cylake, co-founded by Palo Alto Networks' Nir Zuk to develop an AI-powered cybersecurity platform that doesn't rely on the public cloud, raised a $45M seed (Meir Orbach/CTech)",
-            "link": "http://www.techmeme.com/260305/p30#a260305p30",
-            "published": "Thu, 05 Mar 2026 10:20:03 -0500"
+            "title": "Iran's state media says Iran targeted Amazon's Bahrain data center on Sunday because of the company's support of \"US military and intelligence activities\" (Annie Palmer/CNBC)",
+            "link": "http://www.techmeme.com/260305/p41#a260305p41",
+            "published": "Thu, 05 Mar 2026 12:55:01 -0500"
         },
         {
-            "title": "AWS launches Amazon Connect Health, an agentic AI tool that automates clinical documentation, billing and procedure coding, and patient identity verification (Matt Day/Bloomberg)",
-            "link": "http://www.techmeme.com/260305/p29#a260305p29",
-            "published": "Thu, 05 Mar 2026 09:45:00 -0500"
+            "title": "Sources: US officials propose expanding AI chip export controls globally, requiring Commerce Department approval for Nvidia and AMD shipments to any country (Mackenzie Hawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/260305/p40#a260305p40",
+            "published": "Thu, 05 Mar 2026 12:42:57 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
+            "link": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+            "published": "Thu, 05 Mar 2026 16:30:12 +0000"
+        },
         {
             "title": "A Word to the Wise: Don\u2019t Trust A.I. to File Your Taxes",
             "link": "https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html",
@@ -43,14 +48,9 @@
             "published": "Wed, 04 Mar 2026 23:35:07 +0000"
         },
         {
-            "title": "Trump Announces A.I. Industry Pledge to Pay for Power",
-            "link": "https://www.nytimes.com/2026/03/04/technology/ai-energy-pledge-white-house-trump.html",
-            "published": "Wed, 04 Mar 2026 22:25:58 +0000"
-        },
-        {
-            "title": "You\u2019ve Never Seen Ants Like This Before",
-            "link": "https://www.nytimes.com/2026/03/05/science/ants-3d-scans.html",
-            "published": "Thu, 05 Mar 2026 10:03:52 +0000"
+            "title": "The Smart Home Never Quite Worked. Now It\u2019s Getting an A.I. Reboot.",
+            "link": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
+            "published": "Thu, 05 Mar 2026 16:30:06 +0000"
         }
     ],
     "source_2": [
