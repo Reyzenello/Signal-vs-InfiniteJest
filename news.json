@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic says Claude's free active users grew 60%+ and daily signups grew 4x since the start of the year, with Monday being its strongest day ever (Shirin Ghaffary/Bloomberg)",
+            "link": "http://www.techmeme.com/260305/p54#a260305p54",
+            "published": "Thu, 05 Mar 2026 16:25:01 -0500"
+        },
+        {
             "title": "Anthropic launches an early-warning system for potential AI-driven destruction of white-collar jobs, says it shows \"limited evidence\" of AI-led job loss so far (Courtenay Brown/Axios)",
             "link": "http://www.techmeme.com/260305/p53#a260305p53",
             "published": "Thu, 05 Mar 2026 15:45:08 -0500"
         },
         {
-            "title": "Microsoft's new gaming CEO Asha Sharma teases the next Xbox, codenamed Project Helix, saying it \"will lead in performance and play your Xbox and PC games\" (Jay Peters/The Verge)",
+            "title": "Microsoft's new gaming CEO, Asha Sharma, teases the next-gen Xbox, codenamed Project Helix, saying it \"will lead in performance and play your Xbox and PC games\" (Jay Peters/The Verge)",
             "link": "http://www.techmeme.com/260305/p52#a260305p52",
             "published": "Thu, 05 Mar 2026 15:30:00 -0500"
         },
         {
-            "title": "X overhauls its Creator Subscriptions with new features including exclusive threads, a refreshed subscriptions paywall, and a shareable subscriptions card (Sarah Perez/TechCrunch)",
+            "title": "X revamps its Creator Subscriptions with exclusive threads, a refreshed subscriptions paywall, a new dashboard, a shareable subscriptions card, and more (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/260305/p51#a260305p51",
             "published": "Thu, 05 Mar 2026 15:10:01 -0500"
         },
         {
-            "title": "Meta recently hired the engineering team from Atma Sciences, the company behind the vibe coding app Gizmo, to join its Superintelligence Labs (Sydney Bradley/Business Insider)",
+            "title": "Meta says it hired the engineering team from Atma Sciences, the startup that makes the vibe coding app Gizmo, earlier in 2026 to join its Superintelligence Labs (Sydney Bradley/Business Insider)",
             "link": "http://www.techmeme.com/260305/p50#a260305p50",
             "published": "Thu, 05 Mar 2026 14:30:02 -0500"
-        },
-        {
-            "title": "GPT-5.4 is priced at $2.50/1M input and $15/1M output tokens while GPT-5.4 Pro is $30/1M input and $180/1M output tokens, more than GPT-5.2 and GPT-5.2 Pro (Carl Franzen/VentureBeat)",
-            "link": "http://www.techmeme.com/260305/p49#a260305p49",
-            "published": "Thu, 05 Mar 2026 13:40:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Anthropic labelled a supply chain risk by Pentagon",
+            "link": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Mar 2026 20:58:51 GMT"
+        },
+        {
             "title": "Musk tells jury 'people read too much' into his posts",
             "link": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 05 Mar 2026 02:55:34 GMT"
@@ -73,11 +78,6 @@
             "title": "Remote work, offices shut: Tech giants scramble to respond as Iran war escalates",
             "link": "https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Mar 2026 14:57:00 GMT"
-        },
-        {
-            "title": "TikTok won't protect DMs with controversial privacy tech, saying it would put users at risk",
-            "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 04 Mar 2026 00:34:49 GMT"
         }
     ]
 }
