@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Mozilla says Claude Opus 4.6 found 100+ bugs in Firefox in two weeks in January, 14 of them high-severity, more than the bugs typically reported in two months (Robert McMillan/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260306/p9#a260306p9",
+            "published": "Fri, 06 Mar 2026 09:20:02 -0500"
+        },
+        {
             "title": "Sources: SoftBank is seeking a bridge loan of up to $40B, its largest-ever borrowing denominated solely in dollars, to help finance its investment in OpenAI (Bloomberg)",
             "link": "http://www.techmeme.com/260306/p8#a260306p8",
             "published": "Fri, 06 Mar 2026 08:15:00 -0500"
@@ -11,19 +16,14 @@
             "published": "Fri, 06 Mar 2026 06:05:00 -0500"
         },
         {
-            "title": "US federal regulators say banks don't need extra capital against losses when dealing with blockchain-based securities, calling their rules \"technology neutral\" (Reuters)",
+            "title": "US regulators say banks don't need to hold extra capital against losses when dealing with blockchain-based securities, calling their rules \"technology neutral\" (Reuters)",
             "link": "http://www.techmeme.com/260306/p6#a260306p6",
             "published": "Fri, 06 Mar 2026 05:50:02 -0500"
         },
         {
-            "title": "Microsoft plans to keep Anthropic's tools embedded in client products, after its lawyers determine the DOD's designation doesn't apply to non-defense projects (Jordan Novet/CNBC)",
+            "title": "Microsoft says it will keep Anthropic's AI tools embedded in its client products, after its lawyers concluded the DOD's designation is only for defense projects (Jordan Novet/CNBC)",
             "link": "http://www.techmeme.com/260306/p5#a260306p5",
             "published": "Fri, 06 Mar 2026 05:10:02 -0500"
-        },
-        {
-            "title": "A look at SpaceX's IPO, reportedly aiming to raise up to $50B at a $1.75T valuation, more than seven times higher than its ~$200B valuation in October 2024 (Financial Times)",
-            "link": "http://www.techmeme.com/260306/p4#a260306p4",
-            "published": "Fri, 06 Mar 2026 04:25:01 -0500"
         }
     ],
     "source_1": [
@@ -65,6 +65,11 @@
             "published": "Fri, 06 Mar 2026 02:46:30 GMT"
         },
         {
+            "title": "Xbox confirms new console is coming - but can it revive the brand?",
+            "link": "https://www.bbc.com/news/articles/c875we893ggo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Mar 2026 11:56:02 GMT"
+        },
+        {
             "title": "Musk tells jury 'people read too much' into his posts",
             "link": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 05 Mar 2026 02:55:34 GMT"
@@ -73,11 +78,6 @@
             "title": "Father claims Google's AI product fuelled son's delusional spiral",
             "link": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Mar 2026 18:55:45 GMT"
-        },
-        {
-            "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
-            "link": "https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 04 Mar 2026 16:23:17 GMT"
         }
     ]
 }
