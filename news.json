@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Together AI is in talks to raise ~$1B at a $7.5B pre-money valuation, up from $3.3B in 2025; its annualized revenue has hit ~$1B, up 3x+ from mid-2025 (The Information)",
-            "link": "http://www.techmeme.com/260305/p55#a260305p55",
-            "published": "Thu, 05 Mar 2026 17:30:01 -0500"
+            "title": "The US Senate passed COPPA 2.0 again, which would create new protections for young users; the bill now heads to the House, where it has struggled to pass (Anna Washenko/Engadget)",
+            "link": "http://www.techmeme.com/260305/p61#a260305p61",
+            "published": "Thu, 05 Mar 2026 21:45:01 -0500"
         },
         {
-            "title": "Anthropic says Claude's free active users grew 60%+ and daily signups grew 4x since the start of the year, with Monday being its strongest day ever (Shirin Ghaffary/Bloomberg)",
-            "link": "http://www.techmeme.com/260305/p54#a260305p54",
-            "published": "Thu, 05 Mar 2026 16:25:01 -0500"
+            "title": "A look at Cloverleaf, which strikes deals with utility companies and secures land for AI companies and their data center needs; the company has raised $300M (New York Times)",
+            "link": "http://www.techmeme.com/260305/p60#a260305p60",
+            "published": "Thu, 05 Mar 2026 20:50:00 -0500"
         },
         {
-            "title": "Anthropic launches an early-warning system for potential AI-driven destruction of white-collar jobs, says it shows \"limited evidence\" of AI-led job loss so far (Courtenay Brown/Axios)",
-            "link": "http://www.techmeme.com/260305/p53#a260305p53",
-            "published": "Thu, 05 Mar 2026 15:45:08 -0500"
+            "title": "Dario Amodei says Anthropic plans to fight the DOD's risk designation in court, claims the DOD's letter has a \"narrow scope\", and apologizes for the leaked memo (Anthropic)",
+            "link": "http://www.techmeme.com/260305/p59#a260305p59",
+            "published": "Thu, 05 Mar 2026 20:00:49 -0500"
         },
         {
-            "title": "Microsoft's new gaming CEO, Asha Sharma, teases the next-gen Xbox, codenamed Project Helix, saying it \"will lead in performance and play your Xbox and PC games\" (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/260305/p52#a260305p52",
-            "published": "Thu, 05 Mar 2026 15:30:00 -0500"
+            "title": "Google has quietly released an unsupported Workspace CLI, making it easier for agentic AI tools to access Gmail, Calendar, Drive, Docs, and other apps (Ben Patterson/PCWorld)",
+            "link": "http://www.techmeme.com/260305/p58#a260305p58",
+            "published": "Thu, 05 Mar 2026 19:45:03 -0500"
         },
         {
-            "title": "X revamps its Creator Subscriptions with exclusive threads, a refreshed subscriptions paywall, a new dashboard, a shareable subscriptions card, and more (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/260305/p51#a260305p51",
-            "published": "Thu, 05 Mar 2026 15:10:01 -0500"
+            "title": "Cluely's CEO, Roy Lee, says he lied about its $7M annual recurring revenue last year, calling it \"the only blatantly dishonest thing I've said publicly online\" (Julie Bort/TechCrunch)",
+            "link": "http://www.techmeme.com/260305/p57#a260305p57",
+            "published": "Thu, 05 Mar 2026 19:00:13 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 04 Mar 2026 23:35:07 +0000"
         },
         {
-            "title": "The Pentagon Officially Notifies Anthropic That It Is a \u2018Supply Chain Risk\u2019",
+            "title": "Pentagon Officially Notifies Anthropic It Is a \u2018Supply Chain Risk\u2019",
             "link": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
-            "published": "Thu, 05 Mar 2026 23:03:40 +0000"
+            "published": "Fri, 06 Mar 2026 01:23:35 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
+            "link": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Mar 2026 00:05:12 GMT"
+        },
         {
             "title": "Anthropic labelled a supply chain risk by Pentagon",
             "link": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Regulator contacts Meta over workers watching intimate AI glasses videos",
             "link": "https://www.bbc.com/news/articles/c0q33nvj0qpo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 04 Mar 2026 16:23:17 GMT"
-        },
-        {
-            "title": "Remote work, offices shut: Tech giants scramble to respond as Iran war escalates",
-            "link": "https://www.bbc.com/news/articles/c99jjr7d40yo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 04 Mar 2026 14:57:00 GMT"
         }
     ]
 }
