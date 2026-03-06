@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Hayden AI, which raised $180M for its traffic management system, sues its ex-CEO Chris Carson Jr. for allegedly using its data to start a competitor and more (William Hicks/San Francisco Business ...)",
+            "link": "http://www.techmeme.com/260306/p10#a260306p10",
+            "published": "Fri, 06 Mar 2026 10:05:01 -0500"
+        },
+        {
             "title": "Mozilla says Claude Opus 4.6 found 100+ bugs in Firefox in two weeks in January, 14 of them high-severity, more than the bugs typically reported in two months (Robert McMillan/Wall Street Journal)",
             "link": "http://www.techmeme.com/260306/p9#a260306p9",
             "published": "Fri, 06 Mar 2026 09:20:02 -0500"
@@ -19,38 +24,33 @@
             "title": "US regulators say banks don't need to hold extra capital against losses when dealing with blockchain-based securities, calling their rules \"technology neutral\" (Reuters)",
             "link": "http://www.techmeme.com/260306/p6#a260306p6",
             "published": "Fri, 06 Mar 2026 05:50:02 -0500"
-        },
-        {
-            "title": "Microsoft says it will keep Anthropic's AI tools embedded in its client products, after its lawyers concluded the DOD's designation is only for defense projects (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/260306/p5#a260306p5",
-            "published": "Fri, 06 Mar 2026 05:10:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI\u2019s Fog of War + Betting on Iran + Hard Fork Review of Slop",
+            "link": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
+            "published": "Fri, 06 Mar 2026 12:00:08 +0000"
+        },
+        {
+            "title": "Pentagon Officially Notifies Anthropic It Is a \u2018Supply Chain Risk\u2019",
+            "link": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
+            "published": "Fri, 06 Mar 2026 01:23:35 +0000"
+        },
+        {
+            "title": "S.E.C. Settles Its Case Against Justin Sun, an Investor in the Trumps\u2019 Crypto Coins",
+            "link": "https://www.nytimes.com/2026/03/05/us/politics/sec-justin-sun.html",
+            "published": "Fri, 06 Mar 2026 00:26:28 +0000"
+        },
         {
             "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
             "link": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
             "published": "Thu, 05 Mar 2026 16:30:12 +0000"
         },
         {
-            "title": "A Word to the Wise: Don\u2019t Trust A.I. to File Your Taxes",
-            "link": "https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html",
-            "published": "Thu, 05 Mar 2026 10:01:46 +0000"
-        },
-        {
-            "title": "Elon Musk Defends Social Media Posts in Twitter Shareholder Lawsuit",
-            "link": "https://www.nytimes.com/2026/03/04/technology/elon-musk-testifies-twitter-lawsuit.html",
-            "published": "Thu, 05 Mar 2026 02:40:25 +0000"
-        },
-        {
-            "title": "Iranian TV and Social Media Project Defiant and Distorted View of the War",
-            "link": "https://www.nytimes.com/2026/03/04/business/media/iran-state-tv-social-media-war-ai.html",
-            "published": "Wed, 04 Mar 2026 23:35:07 +0000"
-        },
-        {
-            "title": "OpenAI\u2019s Fog of War + Betting on Iran + Hard Fork Review of Slop",
-            "link": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
-            "published": "Fri, 06 Mar 2026 12:00:08 +0000"
+            "title": "The Smart Home Never Quite Worked. Now It\u2019s Getting an A.I. Reboot.",
+            "link": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
+            "published": "Thu, 05 Mar 2026 16:30:06 +0000"
         }
     ],
     "source_2": [
