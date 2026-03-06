@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Microsoft plans to keep Anthropic's tools embedded in client products, after its lawyers determine the DOD's designation doesn't apply to non-defense projects (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/260306/p5#a260306p5",
+            "published": "Fri, 06 Mar 2026 05:10:02 -0500"
+        },
+        {
             "title": "A look at SpaceX's IPO, reportedly aiming to raise up to $50B at a $1.75T valuation, more than seven times higher than its ~$200B valuation in October 2024 (Financial Times)",
             "link": "http://www.techmeme.com/260306/p4#a260306p4",
             "published": "Fri, 06 Mar 2026 04:25:01 -0500"
@@ -19,11 +24,6 @@
             "title": "An interview with Tim Sweeney on the Google/Epic settlement, what Play Store changes mean for developers, why Epic's case against Apple is different, and more (Dean Takahashi/GamesBeat)",
             "link": "http://www.techmeme.com/260306/p1#a260306p1",
             "published": "Fri, 06 Mar 2026 00:00:52 -0500"
-        },
-        {
-            "title": "Cursor launches Automations, a new tool that lets users automatically launch agents triggered through new additions to a codebase, a Slack message, or a timer (Russell Brandom/TechCrunch)",
-            "link": "http://www.techmeme.com/260305/p65#a260305p65",
-            "published": "Thu, 05 Mar 2026 23:40:00 -0500"
         }
     ],
     "source_1": [
