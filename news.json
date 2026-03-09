@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI agrees to acquire Promptfoo, which fixes security issues in AI systems being built and is \"trusted by 25%+ of Fortune 500\", to fold into OpenAI Frontier (OpenAI)",
+            "link": "http://www.techmeme.com/260309/p24#a260309p24",
+            "published": "Mon, 09 Mar 2026 13:25:54 -0400"
+        },
+        {
+            "title": "Source: UK cyber security company Darktrace names Ed Jennings, who previously led work management platform Quickbase, as CEO, its third chief in 18 months (Kieran Smith/Financial Times)",
+            "link": "http://www.techmeme.com/260309/p23#a260309p23",
+            "published": "Mon, 09 Mar 2026 12:41:10 -0400"
+        },
+        {
+            "title": "Qualcomm unveils the Arduino Ventuno Q, a single-board computer for AI and robotics applications, powered by Dragonwing IQ8 processor and 16GB of RAM (Steve Dent/Engadget)",
+            "link": "http://www.techmeme.com/260309/p22#a260309p22",
+            "published": "Mon, 09 Mar 2026 12:15:00 -0400"
+        },
+        {
             "title": "Australia's online age restrictions take effect, requiring platforms to verify users are 18+ before they can access content including porn and R-rated games (Ahmed Yussuf/ABC)",
             "link": "http://www.techmeme.com/260309/p21#a260309p21",
             "published": "Mon, 09 Mar 2026 11:55:54 -0400"
@@ -9,60 +24,45 @@
             "title": "The DOJ reaches a settlement in its antitrust lawsuit against Ticketmaster and Live Nation in a case that alleged an illegal monopoly over live events in the US (Alanna Durkin Richer/Associated Press)",
             "link": "http://www.techmeme.com/260309/p20#a260309p20",
             "published": "Mon, 09 Mar 2026 11:50:03 -0400"
-        },
-        {
-            "title": "Anthropic sues to block the DOD from designating it a supply chain risk, says the designation is unlawful and violates its free speech and due process rights (Jack Queen/Reuters)",
-            "link": "http://www.techmeme.com/260309/p19#a260309p19",
-            "published": "Mon, 09 Mar 2026 11:12:05 -0400"
-        },
-        {
-            "title": "Nexperia's Chinese subsidiary says it has begun producing its own chips using 12-inch wafers, a further step toward independence from its Dutch parent (Reuters)",
-            "link": "http://www.techmeme.com/260309/p18#a260309p18",
-            "published": "Mon, 09 Mar 2026 11:10:51 -0400"
-        },
-        {
-            "title": "Nvidia and ABB partner to bring ABB's robot training software to Nvidia's Omniverse simulation platform and build autonomous robots, which Foxconn is trialing (Financial Times)",
-            "link": "http://www.techmeme.com/260309/p17#a260309p17",
-            "published": "Mon, 09 Mar 2026 09:40:47 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Anthropic Sues Department of Defense Over \u2018Supply Chain Risk\u2019 Label",
+            "link": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
+            "published": "Mon, 09 Mar 2026 16:43:28 +0000"
+        },
+        {
+            "title": "The Former Coal Miner in the Middle of the A.I. Data Center Boom",
+            "link": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
+            "published": "Mon, 09 Mar 2026 14:41:41 +0000"
+        },
+        {
+            "title": "\u2018Designed to Wreak Havoc\u2019: The Cheap Drones Shaping the War With Iran",
+            "link": "https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html",
+            "published": "Sat, 07 Mar 2026 18:35:56 +0000"
+        },
         {
             "title": "OpenAI\u2019s Fog of War + Betting on Iran + Hard Fork Review of Slop",
             "link": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
             "published": "Fri, 06 Mar 2026 12:00:08 +0000"
         },
         {
-            "title": "Pentagon Officially Notifies Anthropic It Is a \u2018Supply Chain Risk\u2019",
-            "link": "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
-            "published": "Fri, 06 Mar 2026 01:23:35 +0000"
-        },
-        {
-            "title": "S.E.C. Settles Its Case Against Justin Sun, an Investor in the Trumps\u2019 Crypto Coins",
-            "link": "https://www.nytimes.com/2026/03/05/us/politics/sec-justin-sun.html",
-            "published": "Fri, 06 Mar 2026 00:26:29 +0000"
-        },
-        {
-            "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
-            "link": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
-            "published": "Thu, 05 Mar 2026 16:30:12 +0000"
-        },
-        {
-            "title": "Anthropic Sues Pentagon Over \u2018Supply Chain Risk\u2019 Label",
-            "link": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
-            "published": "Mon, 09 Mar 2026 15:30:19 +0000"
+            "title": "For OpenAI and Anthropic, the Competition Is Deeply Personal",
+            "link": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
+            "published": "Sat, 07 Mar 2026 16:58:10 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Anthropic sues US government for calling it a risk",
+            "link": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Mar 2026 16:18:03 GMT"
+        },
+        {
             "title": "Mayor Sadiq Khan invites embattled AI firm Anthropic to expand in London",
             "link": "https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 06 Mar 2026 21:49:18 GMT"
-        },
-        {
-            "title": "Anthropic vows to sue Pentagon over supply chain risk label",
-            "link": "https://www.bbc.com/news/articles/cn5g3z3xe65o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Mar 2026 02:46:30 GMT"
         },
         {
             "title": "Can snacks help you sleep?",
