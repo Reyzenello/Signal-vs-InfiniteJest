@@ -1,41 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "Google rolls out Gemini-powered AI capabilities across Docs, Sheets, Slides, and Drive, including a \"Help me create\" tool in Docs to generate first drafts (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/260310/p22#a260310p22",
-            "published": "Tue, 10 Mar 2026 09:20:02 -0400"
+            "title": "Emil Michael says Google will deploy Gemini AI agents to Pentagon's 3M-strong workforce, initially on unclassified networks for tasks such as creating budgets (Katrina Manson/Bloomberg)",
+            "link": "http://www.techmeme.com/260310/p29#a260310p29",
+            "published": "Tue, 10 Mar 2026 10:25:00 -0400"
         },
         {
-            "title": "Swedish legal AI startup Legora raised a $550M Series D led by Accel, tripling its valuation to $5.55B since its October 2025 raise, as it expands in the US (Yazhou Sun/Bloomberg)",
-            "link": "http://www.techmeme.com/260310/p21#a260310p21",
-            "published": "Tue, 10 Mar 2026 09:15:00 -0400"
+            "title": "Rhoda AI, which is developing an AI model for industrial robots trained on public internet videos, raised $450M led by Premji Invest at a $1.7B valuation (Dina Bass/Bloomberg)",
+            "link": "http://www.techmeme.com/260310/p28#a260310p28",
+            "published": "Tue, 10 Mar 2026 10:15:01 -0400"
         },
         {
-            "title": "MacBook Neo review: premium chassis, vivid display, mechanical touchpad is clickable anywhere, and affordable, but no backlit keyboard and no USB-C port labels (Andrew E. Freedman/Tom's Hardware)",
-            "link": "http://www.techmeme.com/260310/p20#a260310p20",
-            "published": "Tue, 10 Mar 2026 09:10:01 -0400"
+            "title": "YouTube expands its likeness detection tool to select government officials, political candidates, and journalists to \"manage unauthorized AI-impersonation\" (Kerry Flynn/Axios)",
+            "link": "http://www.techmeme.com/260310/p27#a260310p27",
+            "published": "Tue, 10 Mar 2026 10:10:02 -0400"
         },
         {
-            "title": "Mira Murati's Thinking Machines Lab signs a chip supply deal with Nvidia worth tens of billions of dollars, planning to deploy 1GW+ of next-gen Vera Rubin chips (Financial Times)",
-            "link": "http://www.techmeme.com/260310/p19#a260310p19",
-            "published": "Tue, 10 Mar 2026 09:05:01 -0400"
+            "title": "Sources: Meta acquires AI agent social network Moltbook for an undisclosed sum; its creators, Matt Schlicht and Ben Parr, will join Meta Superintelligence Labs (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/260310/p26#a260310p26",
+            "published": "Tue, 10 Mar 2026 09:56:17 -0400"
         },
         {
-            "title": "Paris-based Qevlar AI, an agentic AI developer for security operations centers, raised $30M led by Partech and Forgepoint Capital International (Chris Metinko/Axios)",
-            "link": "http://www.techmeme.com/260310/p18#a260310p18",
-            "published": "Tue, 10 Mar 2026 08:55:01 -0400"
+            "title": "Meta's Oversight Board calls for an AI content moderation overhaul, saying current methods are not \"comprehensive enough\" to handle misinformation in a conflict (Jess Weatherbed/The Verge)",
+            "link": "http://www.techmeme.com/260310/p25#a260310p25",
+            "published": "Tue, 10 Mar 2026 09:55:02 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "YouTube Adds Tool to Help Public Figures Report Fake Videos",
+            "link": "https://www.nytimes.com/2026/03/10/business/youtube-deepfakes-detection-tool.html",
+            "published": "Tue, 10 Mar 2026 14:00:06 +0000"
+        },
+        {
+            "title": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion",
+            "link": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
+            "published": "Tue, 10 Mar 2026 14:36:12 +0000"
+        },
+        {
             "title": "Anthropic Sues Department of Defense Over \u2018Supply Chain Risk\u2019 Label",
             "link": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
             "published": "Mon, 09 Mar 2026 22:12:34 +0000"
-        },
-        {
-            "title": "The Former Coal Miner in the Middle of the A.I. Data Center Boom",
-            "link": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
-            "published": "Mon, 09 Mar 2026 14:41:41 +0000"
         },
         {
             "title": "\u2018Designed to Wreak Havoc\u2019: The Cheap Drones Shaping the War With Iran",
@@ -43,14 +48,9 @@
             "published": "Sat, 07 Mar 2026 18:35:56 +0000"
         },
         {
-            "title": "OpenAI\u2019s Fog of War + Betting on Iran + Hard Fork Review of Slop",
-            "link": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
-            "published": "Fri, 06 Mar 2026 12:00:08 +0000"
-        },
-        {
-            "title": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion",
-            "link": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
-            "published": "Tue, 10 Mar 2026 05:00:11 +0000"
+            "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
+            "link": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
+            "published": "Tue, 10 Mar 2026 04:01:04 +0000"
         }
     ],
     "source_2": [
