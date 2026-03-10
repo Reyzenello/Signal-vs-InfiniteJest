@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Nexthop AI, which offers specialized switches to reduce power consumption and latency for hyperscalers, raised $500M led by Lightspeed at a $4.2B valuation (Rebecca Torrence/Bloomberg)",
+            "link": "http://www.techmeme.com/260310/p12#a260310p12",
+            "published": "Tue, 10 Mar 2026 07:30:01 -0400"
+        },
+        {
+            "title": "How AI training company Mercor, valued at $10B in 2025, uses AI interviewer Melvin and invasive monitoring software Insightful to manage its 30K+ workforce (Josh Dzieza/The Verge)",
+            "link": "http://www.techmeme.com/260310/p11#a260310p11",
+            "published": "Tue, 10 Mar 2026 07:15:02 -0400"
+        },
+        {
+            "title": "AT&T says it plans to spend $250B+ over the next five years to build out its US infrastructure, including high-speed fiber; AT&T spent $21B on capex in 2025 (Bloomberg)",
+            "link": "http://www.techmeme.com/260310/p10#a260310p10",
+            "published": "Tue, 10 Mar 2026 07:05:02 -0400"
+        },
+        {
+            "title": "AI cybersecurity startup Armadin, started by Mandiant founder Kevin Mandia to build AI agents, raised ~$190M led by Accel; Google bought Mandiant for $5.4B (Samantha Subin/CNBC)",
+            "link": "http://www.techmeme.com/260310/p9#a260310p9",
+            "published": "Tue, 10 Mar 2026 06:55:00 -0400"
+        },
+        {
             "title": "An interview with Hinge CEO Jackie Jantos, promoted from CMO in December 2025, as the dating app hits 1.8M+ paying users, gaining ground while others struggle (Kieran Smith/Financial Times)",
             "link": "http://www.techmeme.com/260310/p8#a260310p8",
             "published": "Tue, 10 Mar 2026 06:40:01 -0400"
-        },
-        {
-            "title": "US commercial satellite provider Planet Labs delays Middle East imagery to two weeks from four days over concerns it could be used to target NATO members (Aaron Clark/Bloomberg)",
-            "link": "http://www.techmeme.com/260310/p7#a260310p7",
-            "published": "Tue, 10 Mar 2026 06:25:03 -0400"
-        },
-        {
-            "title": "A look at the top 100 GenAI consumer apps: ChatGPT leads but the race for the \"default AI\" is on, global usage is splintering by product, and AI agents arrive (Olivia Moore/Andreessen Horowitz)",
-            "link": "http://www.techmeme.com/260310/p6#a260310p6",
-            "published": "Tue, 10 Mar 2026 06:05:00 -0400"
-        },
-        {
-            "title": "Pentagon official Emil Michael says Anthropic's lawsuit is an \"expected reaction\" and \"I don't think there's a scenario where this gets resolved in that way\" (Katrina Manson/Bloomberg)",
-            "link": "http://www.techmeme.com/260310/p5#a260310p5",
-            "published": "Tue, 10 Mar 2026 05:50:01 -0400"
-        },
-        {
-            "title": "Uzbek fintech and e-commerce company Uzum raised $131.5M led by Oman's sovereign funds, with $81.5M equity, at a $2.3B valuation, up from $1.5B in August 2025 (Jagmeet Singh/TechCrunch)",
-            "link": "http://www.techmeme.com/260310/p4#a260310p4",
-            "published": "Tue, 10 Mar 2026 05:40:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Family of child injured in Canada school shooting sues OpenAI",
+            "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Mar 2026 11:27:55 GMT"
+        },
+        {
             "title": "GPS jamming: The invisible battle in the Middle East",
             "link": "https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Mar 2026 00:01:38 GMT"
@@ -73,11 +78,6 @@
             "title": "Can snacks help you sleep?",
             "link": "https://www.bbc.com/news/articles/cd6znvjvw3wo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 06 Mar 2026 00:05:51 GMT"
-        },
-        {
-            "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
-            "link": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Mar 2026 00:05:12 GMT"
         }
     ]
 }
