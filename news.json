@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Nexthop AI, which offers specialized switches to reduce power consumption and latency for hyperscalers, raised $500M led by Lightspeed at a $4.2B valuation (Rebecca Torrence/Bloomberg)",
-            "link": "http://www.techmeme.com/260310/p12#a260310p12",
-            "published": "Tue, 10 Mar 2026 07:30:01 -0400"
+            "title": "Google rolls out Gemini-powered AI capabilities across Docs, Sheets, Slides, and Drive, including a \"Help me create\" tool in Docs to generate first drafts (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/260310/p22#a260310p22",
+            "published": "Tue, 10 Mar 2026 09:20:02 -0400"
         },
         {
-            "title": "How AI training company Mercor, valued at $10B in 2025, uses AI interviewer Melvin and invasive monitoring software Insightful to manage its 30K+ workforce (Josh Dzieza/The Verge)",
-            "link": "http://www.techmeme.com/260310/p11#a260310p11",
-            "published": "Tue, 10 Mar 2026 07:15:02 -0400"
+            "title": "Swedish legal AI startup Legora raised a $550M Series D led by Accel, tripling its valuation to $5.55B since its October 2025 raise, as it expands in the US (Yazhou Sun/Bloomberg)",
+            "link": "http://www.techmeme.com/260310/p21#a260310p21",
+            "published": "Tue, 10 Mar 2026 09:15:00 -0400"
         },
         {
-            "title": "AT&T says it plans to spend $250B+ over the next five years to build out its US infrastructure, including high-speed fiber; AT&T spent $21B on capex in 2025 (Bloomberg)",
-            "link": "http://www.techmeme.com/260310/p10#a260310p10",
-            "published": "Tue, 10 Mar 2026 07:05:02 -0400"
+            "title": "MacBook Neo review: premium chassis, vivid display, mechanical touchpad is clickable anywhere, and affordable, but no backlit keyboard and no USB-C port labels (Andrew E. Freedman/Tom's Hardware)",
+            "link": "http://www.techmeme.com/260310/p20#a260310p20",
+            "published": "Tue, 10 Mar 2026 09:10:01 -0400"
         },
         {
-            "title": "AI cybersecurity startup Armadin, started by Mandiant founder Kevin Mandia to build AI agents, raised ~$190M led by Accel; Google bought Mandiant for $5.4B (Samantha Subin/CNBC)",
-            "link": "http://www.techmeme.com/260310/p9#a260310p9",
-            "published": "Tue, 10 Mar 2026 06:55:00 -0400"
+            "title": "Mira Murati's Thinking Machines Lab signs a chip supply deal with Nvidia worth tens of billions of dollars, planning to deploy 1GW+ of next-gen Vera Rubin chips (Financial Times)",
+            "link": "http://www.techmeme.com/260310/p19#a260310p19",
+            "published": "Tue, 10 Mar 2026 09:05:01 -0400"
         },
         {
-            "title": "An interview with Hinge CEO Jackie Jantos, promoted from CMO in December 2025, as the dating app hits 1.8M+ paying users, gaining ground while others struggle (Kieran Smith/Financial Times)",
-            "link": "http://www.techmeme.com/260310/p8#a260310p8",
-            "published": "Tue, 10 Mar 2026 06:40:01 -0400"
+            "title": "Paris-based Qevlar AI, an agentic AI developer for security operations centers, raised $30M led by Partech and Forgepoint Capital International (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/260310/p18#a260310p18",
+            "published": "Tue, 10 Mar 2026 08:55:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion",
             "link": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
-            "published": "Tue, 10 Mar 2026 05:00:10 +0000"
+            "published": "Tue, 10 Mar 2026 05:00:11 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Signal issues scam warning to users after hackers target officials",
+            "link": "https://www.bbc.com/news/articles/cp85rpm0lq8o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Mar 2026 13:04:20 GMT"
+        },
         {
             "title": "Family of child injured in Canada school shooting sues OpenAI",
             "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "London mayor courts embattled AI firm Anthropic",
             "link": "https://www.bbc.com/news/articles/czx7915nn8qo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 06 Mar 2026 21:49:18 GMT"
-        },
-        {
-            "title": "Can snacks help you sleep?",
-            "link": "https://www.bbc.com/news/articles/cd6znvjvw3wo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Mar 2026 00:05:51 GMT"
         }
     ]
 }
