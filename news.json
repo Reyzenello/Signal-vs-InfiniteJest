@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Internal doc: the State Department moved its internal chatbot from Claude Sonnet 4.5 to GPT-4.1, following Trump's directive to cancel Anthropic contracts (Nextgov/FCW)",
+            "link": "http://www.techmeme.com/260310/p48#a260310p48",
+            "published": "Tue, 10 Mar 2026 17:35:01 -0400"
+        },
+        {
+            "title": "Filing: Microsoft files an amicus brief in support of Anthropic and advocates for a temporary restraining order to block the DOD's supply chain risk designation (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/260310/p47#a260310p47",
+            "published": "Tue, 10 Mar 2026 17:20:02 -0400"
+        },
+        {
+            "title": "Amazon expands its healthcare AI assistant Health AI to its website and app; it was previously only available on the app for One Medical (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/260310/p46#a260310p46",
+            "published": "Tue, 10 Mar 2026 17:00:50 -0400"
+        },
+        {
             "title": "Sources: General Catalyst is in talks with investors to raise about $10B; it raised $8B in capital in 2024 and had more than $40B in AUM as of last summer (Natasha Mascarenhas/Bloomberg)",
             "link": "http://www.techmeme.com/260310/p45#a260310p45",
             "published": "Tue, 10 Mar 2026 16:40:03 -0400"
@@ -9,21 +24,6 @@
             "title": "Nitra, which offers a platform powered by AI agents to manage medical practices, raised a $50M Series B, bringing its total funding to $205M (Catherina Gioino/Fortune)",
             "link": "http://www.techmeme.com/260310/p44#a260310p44",
             "published": "Tue, 10 Mar 2026 16:25:01 -0400"
-        },
-        {
-            "title": "Oracle reports Q3 revenue up 22% YoY to $17.19B, vs. $16.91B est., and cloud revenue up 44% to $8.9B, vs. $8.85B est.; ORCL jumps 6%+ after hours (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/260310/p43#a260310p43",
-            "published": "Tue, 10 Mar 2026 16:20:02 -0400"
-        },
-        {
-            "title": "MoffettNathanson: YouTube became the world's largest media company in 2025 with an estimated $62B in revenue, passing $60.9B earned by Disney's media business (Alex Weprin/The Hollywood Reporter)",
-            "link": "http://www.techmeme.com/260310/p42#a260310p42",
-            "published": "Tue, 10 Mar 2026 15:50:01 -0400"
-        },
-        {
-            "title": "Sources: US Social Security's inspector general is investigating claims an ex-DOGE engineer took sensitive data on a thumb drive to his new private employer (Washington Post)",
-            "link": "http://www.techmeme.com/260310/p41#a260310p41",
-            "published": "Tue, 10 Mar 2026 15:20:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Meta urged to boost oversight of fake AI videos",
+            "link": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Mar 2026 21:20:28 GMT"
+        },
+        {
             "title": "Fortnite-maker raising in-game currency prices 'to help pay the bills'",
             "link": "https://www.bbc.com/news/articles/c70kypnl4w8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Mar 2026 18:03:29 GMT"
@@ -73,11 +78,6 @@
             "title": "GPS jamming: The invisible battle in the Middle East",
             "link": "https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Mar 2026 00:01:38 GMT"
-        },
-        {
-            "title": "Anthropic sues US government for calling it a risk",
-            "link": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 09 Mar 2026 21:33:05 GMT"
         }
     ]
 }
