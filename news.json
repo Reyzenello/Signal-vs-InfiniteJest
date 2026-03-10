@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Nvidia is pitching NemoClaw, an upcoming open-source AI agent platform for enterprises, and plans to offer security and privacy tools for it (Wired)",
-            "link": "http://www.techmeme.com/260309/p37#a260309p37",
-            "published": "Mon, 09 Mar 2026 19:30:01 -0400"
+            "title": "Source: Spark Capital, the first VC firm to back Anthropic in 2023, is raising about $3B in new funds, 50% more than the size of funds it raised two years ago (The Information)",
+            "link": "http://www.techmeme.com/260309/p42#a260309p42",
+            "published": "Mon, 09 Mar 2026 22:25:01 -0400"
         },
         {
-            "title": "Canada will allow TikTok to continue operating in the country under new security commitments, reversing a 2024 order to wind down TikTok's Canadian subsidiary (Thomas Seal/Bloomberg)",
-            "link": "http://www.techmeme.com/260309/p36#a260309p36",
-            "published": "Mon, 09 Mar 2026 19:15:02 -0400"
+            "title": "Dify, which offers an open-source platform to build and run AI applications and agentic workflows, raised a $30M pre-Series A led by HSG at a $180M valuation (FinSMEs)",
+            "link": "http://www.techmeme.com/260309/p41#a260309p41",
+            "published": "Mon, 09 Mar 2026 21:25:02 -0400"
         },
         {
-            "title": "HPE reports Q1 revenue up 18% YoY to $9.3B, vs. $9.37B est., Cloud and AI revenue down 2.7% YoY to $6.3B but reports an AI server backlog of $5B (Dina Bass/Bloomberg)",
-            "link": "http://www.techmeme.com/260309/p35#a260309p35",
-            "published": "Mon, 09 Mar 2026 18:10:00 -0400"
+            "title": "xAI aims to build a natural gas power plant in Southaven, MS, to run its data centers; a key meeting with regulators is set on an election day ~200 miles away (Lora Kolodny/CNBC)",
+            "link": "http://www.techmeme.com/260309/p40#a260309p40",
+            "published": "Mon, 09 Mar 2026 20:20:03 -0400"
         },
         {
-            "title": "Filing: Anthropic says it had $5B+ in all-time revenue since 2023 and could lose billions after clients paused deal talks due to supply-chain risk designation (Paresh Dave/Wired)",
-            "link": "http://www.techmeme.com/260309/p34#a260309p34",
-            "published": "Mon, 09 Mar 2026 17:40:00 -0400"
+            "title": "Sources: the White House is preparing an executive order formally instructing federal agencies to stop using Anthropic's AI tools (Maria Curi/Axios)",
+            "link": "http://www.techmeme.com/260309/p39#a260309p39",
+            "published": "Mon, 09 Mar 2026 19:55:00 -0400"
         },
         {
-            "title": "More than 30 staffers from OpenAI and Google, including DeepMind chief scientist Jeff Dean, file an amicus brief in support of Anthropic in its fight with DOD (Maxwell Zeff/Wired)",
-            "link": "http://www.techmeme.com/260309/p33#a260309p33",
-            "published": "Mon, 09 Mar 2026 17:00:48 -0400"
+            "title": "Sources: PE firm EQT is exploring a sale of Linux distribution vendor SUSE in a deal that could value it at up to $6B; SUSE was valued at ~$2.96B in 2023 (Reuters)",
+            "link": "http://www.techmeme.com/260309/p38#a260309p38",
+            "published": "Mon, 09 Mar 2026 19:40:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "GPS jamming: The invisible battle in the Middle East",
+            "link": "https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Mar 2026 00:01:38 GMT"
+        },
+        {
             "title": "Anthropic sues US government for calling it a risk",
             "link": "https://www.bbc.com/news/articles/cq571w5vllxo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 09 Mar 2026 21:33:05 GMT"
@@ -73,11 +78,6 @@
             "title": "TfL hack in 2024 affected around 10 million people, BBC can reveal",
             "link": "https://www.bbc.com/news/articles/cz0ggkr2g77o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 06 Mar 2026 00:05:12 GMT"
-        },
-        {
-            "title": "Musk tells jury 'people read too much' into his posts",
-            "link": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 05 Mar 2026 02:55:34 GMT"
         }
     ]
 }
