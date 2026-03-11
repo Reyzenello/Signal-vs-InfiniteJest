@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A profile of Sachin Katti, who joined OpenAI from Intel in November as head of industrial compute and is helping guide the company's infrastructure efforts (Bloomberg)",
+            "link": "http://www.techmeme.com/260311/p7#a260311p7",
+            "published": "Wed, 11 Mar 2026 02:30:21 -0400"
+        },
+        {
+            "title": "Indian AI lab Lossfunk's prompting method lets LLMs generate Tulu language text without prior training; the method may expand to other low-resource languages (The Economic Times)",
+            "link": "http://www.techmeme.com/260311/p6#a260311p6",
+            "published": "Wed, 11 Mar 2026 02:00:52 -0400"
+        },
+        {
             "title": "The AI-assisted overhaul of a Python character encoding detection library raises questions about software relicensing and derivative versions of the original (Thomas Claburn/The Register)",
             "link": "http://www.techmeme.com/260311/p5#a260311p5",
             "published": "Wed, 11 Mar 2026 01:25:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Chinese state enterprises and agencies move to curb in-office OpenClaw use over potential security risks as users across China experiment with OpenClaw (Bloomberg)",
             "link": "http://www.techmeme.com/260311/p3#a260311p3",
             "published": "Wed, 11 Mar 2026 01:10:01 -0400"
-        },
-        {
-            "title": "Google rolls out Gemini in Chrome to India, Canada, and New Zealand, and adds support for over 50 additional languages, including Hindi, French, and Spanish (Charmaine D'Silva/The Keyword)",
-            "link": "http://www.techmeme.com/260311/p2#a260311p2",
-            "published": "Wed, 11 Mar 2026 00:55:01 -0400"
-        },
-        {
-            "title": "Sources: OpenAI plans to launch Sora AI in ChatGPT soon to help boost weekly active users, now at 920M, short of the 1B goal the company targeted last year (The Information)",
-            "link": "http://www.techmeme.com/260311/p1#a260311p1",
-            "published": "Wed, 11 Mar 2026 00:45:13 -0400"
         }
     ],
     "source_1": [
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "Facebook owner Meta buys 'social media network for AI' Moltbook",
-            "link": "https://www.bbc.com/news/articles/cvg1x788dreo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 11 Mar 2026 05:46:49 GMT"
-        },
-        {
             "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
             "link": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 11 Mar 2026 00:00:50 GMT"
@@ -78,6 +73,11 @@
             "title": "Signal issues scam warning to users after hackers target officials",
             "link": "https://www.bbc.com/news/articles/cp85rpm0lq8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Mar 2026 17:35:25 GMT"
+        },
+        {
+            "title": "Family of child injured in Canada school shooting sues OpenAI",
+            "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Mar 2026 11:27:55 GMT"
         }
     ]
 }
