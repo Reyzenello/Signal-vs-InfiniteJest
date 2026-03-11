@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "A look at the rise and fall of Chen Zhi, an alleged online scam kingpin whom the US and UK accused of laundering billions; he was extradited to China in January (Bloomberg)",
+            "link": "http://www.techmeme.com/260310/p58#a260310p58",
+            "published": "Tue, 10 Mar 2026 22:40:00 -0400"
+        },
+        {
+            "title": "Intel unveiled its Heracles chip at ISSCC in February, saying it accelerates fully homomorphic encryption tasks up to 5,000x faster than top Intel server CPUs (Samuel K. Moore/IEEE Spectrum)",
+            "link": "http://www.techmeme.com/260310/p57#a260310p57",
+            "published": "Tue, 10 Mar 2026 22:00:46 -0400"
+        },
+        {
+            "title": "How age-verification laws to enhance online child safety are raising surveillance concerns for adults; ~50% of US states have enacted or are advancing such laws (Barbara Booth/CNBC)",
+            "link": "http://www.techmeme.com/260310/p56#a260310p56",
+            "published": "Tue, 10 Mar 2026 21:00:58 -0400"
+        },
+        {
+            "title": "Analysis: surging memory and CPU costs could drive the retail price of a mainstream $900 notebook up by nearly 40% in 2026 to maintain current margin structures (TrendForce)",
+            "link": "http://www.techmeme.com/260310/p55#a260310p55",
+            "published": "Tue, 10 Mar 2026 20:00:52 -0400"
+        },
+        {
             "title": "Sources: Sequoia's Ravi Gupta and ex-Meta CRO John Hegeman seek to raise $1B+ for a holding company to acquire at least one firm and infuse it with new tech (Bloomberg)",
             "link": "http://www.techmeme.com/260310/p54#a260310p54",
             "published": "Tue, 10 Mar 2026 19:20:04 -0400"
-        },
-        {
-            "title": "Mississippi regulators authorize xAI to build a power plant with 41 natural gas-burning turbines in Southaven to power its data centers (Lora Kolodny/CNBC)",
-            "link": "http://www.techmeme.com/260310/p53#a260310p53",
-            "published": "Tue, 10 Mar 2026 19:00:38 -0400"
-        },
-        {
-            "title": "Polymarket says it is partnering with Palantir and TWG AI to identify, prevent, and report suspicious activity in Polymarket's sports contracts (Katherine Doherty/Bloomberg)",
-            "link": "http://www.techmeme.com/260310/p52#a260310p52",
-            "published": "Tue, 10 Mar 2026 18:35:02 -0400"
-        },
-        {
-            "title": "Sandbar, which is developing the Stream ring, a $249+ AI-powered wearable that transcribes audio notes, raised a $23M Series A, bringing total funding to $36M (Alex Konrad/Upstarts Media)",
-            "link": "http://www.techmeme.com/260310/p51#a260310p51",
-            "published": "Tue, 10 Mar 2026 18:10:02 -0400"
-        },
-        {
-            "title": "Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots (Will Douglas Heaven/MIT Technology Review)",
-            "link": "http://www.techmeme.com/260310/p50#a260310p50",
-            "published": "Tue, 10 Mar 2026 18:00:39 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
+            "link": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Mar 2026 00:00:50 GMT"
+        },
+        {
             "title": "Meta urged to boost oversight of fake AI videos",
             "link": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Mar 2026 21:20:28 GMT"
@@ -73,11 +78,6 @@
             "title": "Family of child injured in Canada school shooting sues OpenAI",
             "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Mar 2026 11:27:55 GMT"
-        },
-        {
-            "title": "GPS jamming: The invisible battle in the Middle East",
-            "link": "https://www.bbc.com/news/articles/c3ewwlx9e1xo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Mar 2026 00:01:38 GMT"
         }
     ]
 }
