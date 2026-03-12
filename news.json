@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Crypto accounting startup Cryptio raised a $45M Series B led by BlackFin Capital Partners and Sentinel Global and reports having 450+ clients, including Circle (Ben Weiss/Fortune)",
-            "link": "http://www.techmeme.com/260312/p25#a260312p25",
-            "published": "Thu, 12 Mar 2026 09:20:01 -0400"
+            "title": "BMBL jumps 30%+ after Bumble reported Q4 revenue above estimates and unveiled an AI-driven app overhaul to lure back users; BMBL is down 90% since its 2021 IPO (Kritika Lamba/Reuters)",
+            "link": "http://www.techmeme.com/260312/p31#a260312p31",
+            "published": "Thu, 12 Mar 2026 10:45:01 -0400"
         },
         {
-            "title": "Microsoft launches Copilot Health, which integrates medical records, biometric data from wearables, and lab results to give personalized advice, in the US (Sebastian Herrera/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260312/p24#a260312p24",
-            "published": "Thu, 12 Mar 2026 09:10:00 -0400"
+            "title": "Qdrant, which develops an open-source vector search engine for production AI systems, raised a $50M Series B led by AVP (Tamara Djurickovic/Tech.eu)",
+            "link": "http://www.techmeme.com/260312/p30#a260312p30",
+            "published": "Thu, 12 Mar 2026 10:40:01 -0400"
         },
         {
-            "title": "Google launches Ask Maps, a Gemini-powered conversational feature for iOS and Android in the US and India that lets users ask \"complex, real-world questions\" (Andrew J. Hawkins/The Verge)",
-            "link": "http://www.techmeme.com/260312/p23#a260312p23",
-            "published": "Thu, 12 Mar 2026 08:40:01 -0400"
+            "title": "Tel Aviv-based Bold, which uses AI agents to secure enterprise devices like laptops from cyberattacks, emerges from stealth with $40M in funding (Robert Scammell/Business Insider)",
+            "link": "http://www.techmeme.com/260312/p29#a260312p29",
+            "published": "Thu, 12 Mar 2026 10:30:01 -0400"
         },
         {
-            "title": "Microsoft and Meta each committed nearly $50B in additional data center leases in their most recent quarters, pushing major cloud companies' total to $700B+ (Brody Ford/Bloomberg)",
-            "link": "http://www.techmeme.com/260312/p22#a260312p22",
-            "published": "Thu, 12 Mar 2026 08:30:02 -0400"
+            "title": "Disney+ is rolling out Verts, its new short-form video feed, to US users on its mobile app, featuring clips from movies and TV shows on Disney+ (Aisha Malik/TechCrunch)",
+            "link": "http://www.techmeme.com/260312/p28#a260312p28",
+            "published": "Thu, 12 Mar 2026 10:20:13 -0400"
         },
         {
-            "title": "Israeli startup Onyx Security, which helps secure and manage AI agents' operational risks, raised a $35M Series A led by Conviction, after a $5M seed in 2024 (Meir Orbach/CTech)",
-            "link": "http://www.techmeme.com/260312/p21#a260312p21",
-            "published": "Thu, 12 Mar 2026 07:45:02 -0400"
+            "title": "Oro Labs, which uses AI to streamline corporate procurement, raised a $100M Series C led by Goldman Sachs Growth Equity and Brighton Park Capital (Jeremy Kahn/Fortune)",
+            "link": "http://www.techmeme.com/260312/p27#a260312p27",
+            "published": "Thu, 12 Mar 2026 10:15:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "A.I. Chatbots Want Your Health Records. Tread Carefully.",
+            "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
+            "published": "Thu, 12 Mar 2026 14:21:19 +0000"
+        },
+        {
+            "title": "Silicon Valley\u2019s Image Takes a Dark Turn in Pop Culture",
+            "link": "https://www.nytimes.com/2026/03/12/technology/silicon-valley-pop-culture.html",
+            "published": "Thu, 12 Mar 2026 09:02:48 +0000"
+        },
+        {
+            "title": "A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.",
+            "link": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
+            "published": "Thu, 12 Mar 2026 09:03:58 +0000"
+        },
         {
             "title": "A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety",
             "link": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
             "published": "Wed, 11 Mar 2026 15:31:30 +0000"
         },
         {
-            "title": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots",
-            "link": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
-            "published": "Tue, 10 Mar 2026 19:03:10 +0000"
-        },
-        {
-            "title": "YouTube Adds Tool to Help Public Figures Report Fake Videos",
-            "link": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
-            "published": "Tue, 10 Mar 2026 14:00:06 +0000"
-        },
-        {
-            "title": "Former Meta A.I. Chief\u2019s Start-Up Is Valued at $3.5 Billion",
-            "link": "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
-            "published": "Tue, 10 Mar 2026 14:36:13 +0000"
-        },
-        {
-            "title": "A.I. Chatbots Want Your Health Records. Tread Carefully.",
-            "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
-            "published": "Thu, 12 Mar 2026 13:00:06 +0000"
+            "title": "Coding After Coders: The End of Computer Programming as We Know It",
+            "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+            "published": "Thu, 12 Mar 2026 12:53:34 +0000"
         }
     ],
     "source_2": [
