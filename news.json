@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "BMBL jumps 30%+ after Bumble reported Q4 revenue above estimates and unveiled an AI-driven app overhaul to lure back users; BMBL is down 90% since its 2021 IPO (Kritika Lamba/Reuters)",
-            "link": "http://www.techmeme.com/260312/p31#a260312p31",
-            "published": "Thu, 12 Mar 2026 10:45:01 -0400"
+            "title": "Sources: Greenoaks founder Neil Mehta is pitching an endowment-type fund to Silicon Valley billionaires to influence CA politics, aiming to raise $100M to $500M (Bloomberg)",
+            "link": "http://www.techmeme.com/260312/p37#a260312p37",
+            "published": "Thu, 12 Mar 2026 12:05:05 -0400"
         },
         {
-            "title": "Qdrant, which develops an open-source vector search engine for production AI systems, raised a $50M Series B led by AVP (Tamara Djurickovic/Tech.eu)",
-            "link": "http://www.techmeme.com/260312/p30#a260312p30",
-            "published": "Thu, 12 Mar 2026 10:40:01 -0400"
+            "title": "Amazon announces new personality styles for Alexa+, including an adult-only \"Sassy\" option, which it says won't get into areas like explicit sexual content (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/260312/p36#a260312p36",
+            "published": "Thu, 12 Mar 2026 11:45:02 -0400"
         },
         {
-            "title": "Tel Aviv-based Bold, which uses AI agents to secure enterprise devices like laptops from cyberattacks, emerges from stealth with $40M in funding (Robert Scammell/Business Insider)",
-            "link": "http://www.techmeme.com/260312/p29#a260312p29",
-            "published": "Thu, 12 Mar 2026 10:30:01 -0400"
+            "title": "European video game age ratings body PEGI plans to add four new categories in June to tackle elements of addictive design in games, including loot boxes (Robert Purchese/Eurogamer.net)",
+            "link": "http://www.techmeme.com/260312/p35#a260312p35",
+            "published": "Thu, 12 Mar 2026 11:40:01 -0400"
         },
         {
-            "title": "Disney+ is rolling out Verts, its new short-form video feed, to US users on its mobile app, featuring clips from movies and TV shows on Disney+ (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/260312/p28#a260312p28",
-            "published": "Thu, 12 Mar 2026 10:20:13 -0400"
+            "title": "Microsoft says EVP of Experiences and Devices, Rajesh Jha, plans to retire on July 1 after 35+ years at Microsoft and promotes four of his direct reports to EVP (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/260312/p34#a260312p34",
+            "published": "Thu, 12 Mar 2026 11:30:01 -0400"
         },
         {
-            "title": "Oro Labs, which uses AI to streamline corporate procurement, raised a $100M Series C led by Goldman Sachs Growth Equity and Brighton Park Capital (Jeremy Kahn/Fortune)",
-            "link": "http://www.techmeme.com/260312/p27#a260312p27",
-            "published": "Thu, 12 Mar 2026 10:15:01 -0400"
+            "title": "Ukraine's defense minister says Ukraine is opening up access to its battlefield data for its allies to train AI models (Max Hunder/Reuters)",
+            "link": "http://www.techmeme.com/260312/p33#a260312p33",
+            "published": "Thu, 12 Mar 2026 11:10:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Social Media Addiction Trial Nears End. Society Long Ago Rendered Its Verdict.",
+            "link": "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html",
+            "published": "Thu, 12 Mar 2026 15:16:08 +0000"
+        },
         {
             "title": "A.I. Chatbots Want Your Health Records. Tread Carefully.",
             "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
@@ -43,17 +48,17 @@
             "published": "Thu, 12 Mar 2026 09:03:58 +0000"
         },
         {
-            "title": "A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety",
-            "link": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
-            "published": "Wed, 11 Mar 2026 15:31:30 +0000"
-        },
-        {
             "title": "Coding After Coders: The End of Computer Programming as We Know It",
             "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
             "published": "Thu, 12 Mar 2026 12:53:34 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Grammarly pulls AI author-impersonation tool after backlash",
+            "link": "https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Mar 2026 15:58:24 GMT"
+        },
         {
             "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
             "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Big Tech backs Anthropic in fight against Trump administration",
             "link": "https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 11 Mar 2026 22:46:44 GMT"
-        },
-        {
-            "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
-            "link": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 11 Mar 2026 00:00:50 GMT"
         }
     ]
 }
