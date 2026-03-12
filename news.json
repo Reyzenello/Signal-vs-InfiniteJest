@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: after Google's $32B deal, each of Wiz's four co-founders is set to get $2B in post-tax cash; Index is set to net $4B, Insight $2.7B, and Sequoia $3B (Sofia Chierchio/Forbes)",
+            "link": "http://www.techmeme.com/260312/p20#a260312p20",
+            "published": "Thu, 12 Mar 2026 07:25:04 -0400"
+        },
+        {
+            "title": "Israeli-Dutch startup Wonderful AI, which offers AI agents that can handle customer conversations across voice, chat, and more, raised $150M at a $2B valuation (Yazhou Sun/Bloomberg)",
+            "link": "http://www.techmeme.com/260312/p19#a260312p19",
+            "published": "Thu, 12 Mar 2026 07:10:01 -0400"
+        },
+        {
             "title": "Google Research launches Groundsource, a geo-tagged time series dataset created by using Gemini to extract 2.6M flood events from 5M historical news articles (Tim Fernholz/TechCrunch)",
             "link": "http://www.techmeme.com/260312/p18#a260312p18",
             "published": "Thu, 12 Mar 2026 06:50:03 -0400"
@@ -14,16 +24,6 @@
             "title": "IDS and ADRN study: 11 African governments spent $2B+ on Chinese-built surveillance tech that recognizes faces and monitors movements; Nigeria spent $470M (Kaamil Ahmed/The Guardian)",
             "link": "http://www.techmeme.com/260312/p16#a260312p16",
             "published": "Thu, 12 Mar 2026 06:15:00 -0400"
-        },
-        {
-            "title": "Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation (Cade Metz/New York Times)",
-            "link": "http://www.techmeme.com/260312/p15#a260312p15",
-            "published": "Thu, 12 Mar 2026 05:55:01 -0400"
-        },
-        {
-            "title": "Microsoft is pushing for more Africans to adopt its AI tools as it competes with DeepSeek: training 3M people, partnering with telecom MTN to sell 365, and more (Loni Prinsloo/Bloomberg)",
-            "link": "http://www.techmeme.com/260312/p14#a260312p14",
-            "published": "Thu, 12 Mar 2026 05:40:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
+            "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Mar 2026 11:36:21 GMT"
+        },
+        {
             "title": "What role has cyber warfare played in Iran?",
             "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 12 Mar 2026 10:20:08 GMT"
@@ -73,11 +78,6 @@
             "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
             "link": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 11 Mar 2026 00:00:50 GMT"
-        },
-        {
-            "title": "Meta urged to boost oversight of fake AI videos",
-            "link": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Mar 2026 21:20:28 GMT"
         }
     ]
 }
