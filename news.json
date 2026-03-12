@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google Research launches Groundsource, a geo-tagged time series dataset created by using Gemini to extract 2.6M flood events from 5M historical news articles (Tim Fernholz/TechCrunch)",
+            "link": "http://www.techmeme.com/260312/p18#a260312p18",
+            "published": "Thu, 12 Mar 2026 06:50:03 -0400"
+        },
+        {
+            "title": "Sources: India plans to unveil a ~$10.8B fund aimed at bolstering domestic chipmaking, including subsidizing chip design projects and manufacturing equipment (Sankalp Phartiyal/Bloomberg)",
+            "link": "http://www.techmeme.com/260312/p17#a260312p17",
+            "published": "Thu, 12 Mar 2026 06:35:01 -0400"
+        },
+        {
+            "title": "IDS and ADRN study: 11 African governments spent $2B+ on Chinese-built surveillance tech that recognizes faces and monitors movements; Nigeria spent $470M (Kaamil Ahmed/The Guardian)",
+            "link": "http://www.techmeme.com/260312/p16#a260312p16",
+            "published": "Thu, 12 Mar 2026 06:15:00 -0400"
+        },
+        {
             "title": "Axiom Math, which uses AI and the Lean language to verify code in much the same way that mathematicians prove math problems, raised $200M at a $1.6B valuation (Cade Metz/New York Times)",
             "link": "http://www.techmeme.com/260312/p15#a260312p15",
             "published": "Thu, 12 Mar 2026 05:55:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Microsoft is pushing for more Africans to adopt its AI tools as it competes with DeepSeek: training 3M people, partnering with telecom MTN to sell 365, and more (Loni Prinsloo/Bloomberg)",
             "link": "http://www.techmeme.com/260312/p14#a260312p14",
             "published": "Thu, 12 Mar 2026 05:40:02 -0400"
-        },
-        {
-            "title": "Chinese brain-computer interface startup Gestala raised $21.6M co-led by Guosheng Capital and Dalton Venture at a $100M to $200M valuation, per CEO Phoenix Peng (Kate Park/TechCrunch)",
-            "link": "http://www.techmeme.com/260312/p13#a260312p13",
-            "published": "Thu, 12 Mar 2026 05:00:14 -0400"
-        },
-        {
-            "title": "Sources: Alibaba-backed PixVerse, which develops AI video generation tools, raised a $300M Series C led by CDH; the company says the round values it at $1B+ (Olivia Poh/Bloomberg)",
-            "link": "http://www.techmeme.com/260312/p12#a260312p12",
-            "published": "Thu, 12 Mar 2026 04:35:03 -0400"
-        },
-        {
-            "title": "Bernstein: 42% of China's 20K+ humanoid robot shipments in 2025 were for learning and R&D; data collection and human-robot interaction services each made up 19% (Ryan McMorrow/Financial Times)",
-            "link": "http://www.techmeme.com/260312/p11#a260312p11",
-            "published": "Thu, 12 Mar 2026 04:15:05 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "What role has cyber warfare played in Iran?",
             "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 12 Mar 2026 00:02:46 GMT"
+            "published": "Thu, 12 Mar 2026 10:20:08 GMT"
         },
         {
             "title": "Social media firms asked to toughen up age checks for under-13s",
