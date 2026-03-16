@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "RoboForce, which is developing robotics systems to perform physically demanding industrial work, raised $52M led by YZi Labs, bringing its total funding to $67M (Duncan Riley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/260316/p45#a260316p45",
+            "published": "Mon, 16 Mar 2026 19:15:04 -0400"
+        },
+        {
             "title": "Nvidia announces the Nemotron Coalition, which includes Thinking Machines Lab, Cursor, and Mistral and will develop an open model trained on Nvidia DGX Cloud (Sebastian Moss/DatacenterDynamics)",
             "link": "http://www.techmeme.com/260316/p44#a260316p44",
             "published": "Mon, 16 Mar 2026 18:35:15 -0400"
@@ -19,11 +24,6 @@
             "title": "Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user's local files, tools, and applications (Manus)",
             "link": "http://www.techmeme.com/260316/p41#a260316p41",
             "published": "Mon, 16 Mar 2026 17:50:01 -0400"
-        },
-        {
-            "title": "Roche says it has deployed 3,500+ Nvidia Blackwell GPUs, which it calls \"the greatest announced GPU footprint available to a pharmaceutical company\" (Sebastian Moss/DatacenterDynamics)",
-            "link": "http://www.techmeme.com/260316/p40#a260316p40",
-            "published": "Mon, 16 Mar 2026 17:30:01 -0400"
         }
     ],
     "source_1": [
