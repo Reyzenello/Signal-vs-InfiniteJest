@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "A group of Tennessee teenagers sue xAI, alleging its AI tools were used to create nude images of them by editing photos in which they were clothed (Faiz Siddiqui/Washington Post)",
+            "title": "Nvidia unveils DLSS 5, which uses a real-time neural rendering model to add photorealistic lighting to game frames, arriving this fall to RTX 50-series GPUs (Richard Leadbetter/Digital Foundry)",
+            "link": "http://www.techmeme.com/260316/p31#a260316p31",
+            "published": "Mon, 16 Mar 2026 15:00:37 -0400"
+        },
+        {
+            "title": "A livestream of Jensen Huang's Nvidia GTC 2026 keynote at the SAP Center in San Jose, California (NVIDIA on YouTube)",
+            "link": "http://www.techmeme.com/260316/p30#a260316p30",
+            "published": "Mon, 16 Mar 2026 13:57:48 -0400"
+        },
+        {
+            "title": "Digital asset wealth management platform Abra plans to go public on Nasdaq via a SPAC merger with New Providence at a $750M pre-money valuation (Stacy Jones/Decrypt)",
+            "link": "http://www.techmeme.com/260316/p29#a260316p29",
+            "published": "Mon, 16 Mar 2026 13:35:01 -0400"
+        },
+        {
+            "title": "A group of Tennessee teenagers sues xAI, alleging its AI tools were used to create nude images of them by editing photos in which they were clothed (Faiz Siddiqui/Washington Post)",
             "link": "http://www.techmeme.com/260316/p28#a260316p28",
             "published": "Mon, 16 Mar 2026 13:05:01 -0400"
         },
         {
-            "title": "How Trump's opposition to state-level AI regulation has driven a wedge in GOP, killing Florida's proposed AI Bill of Rights, which was backed by Gov. DeSantis (New York Times)",
+            "title": "How Trump's opposition to state-level AI regulation has driven a wedge in the GOP, killing Florida's proposed AI Bill of Rights, which Governor DeSantis backed (New York Times)",
             "link": "http://www.techmeme.com/260316/p27#a260316p27",
             "published": "Mon, 16 Mar 2026 12:55:00 -0400"
-        },
-        {
-            "title": "Apple acquires MotionVFX, a Polish company that develops plugins, visual effects, and motion graphics tools for Final Cut Pro (Hartley Charlton/MacRumors)",
-            "link": "http://www.techmeme.com/260316/p26#a260316p26",
-            "published": "Mon, 16 Mar 2026 12:25:04 -0400"
-        },
-        {
-            "title": "Halcyon, which uses AI to aggregate documents from public utility commissions, energy regulators, and more, raised a $21M Series A led by Energize Capital (Katie Fehrenbacher/Axios)",
-            "link": "http://www.techmeme.com/260316/p25#a260316p25",
-            "published": "Mon, 16 Mar 2026 12:10:01 -0400"
-        },
-        {
-            "title": "Encyclopedia Britannica and its Merriam-Webster subsidiary sue OpenAI for allegedly misusing their reference materials to train its AI models (Blake Brittain/Reuters)",
-            "link": "http://www.techmeme.com/260316/p24#a260316p24",
-            "published": "Mon, 16 Mar 2026 11:25:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
+            "link": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
+            "published": "Mon, 16 Mar 2026 16:30:13 +0000"
+        },
         {
             "title": "TikTok Investors Set to Pay $10 Billion Fee to Trump Administration",
             "link": "https://www.nytimes.com/2026/03/13/business/trump-tiktok-10-billion-fee.html",
@@ -38,19 +43,14 @@
             "published": "Fri, 13 Mar 2026 17:24:29 +0000"
         },
         {
-            "title": "A.I. Goes to War + Is \u2018A.I. Brain Fry\u2019 Real? + How Grammarly Stole Casey\u2019s Identity",
-            "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
-            "published": "Fri, 13 Mar 2026 11:00:03 +0000"
-        },
-        {
-            "title": "How Trump Drove a Wedge Between Florida Republicans Over A.I.",
-            "link": "https://www.nytimes.com/2026/03/16/technology/ai-florida-republicans.html",
-            "published": "Mon, 16 Mar 2026 16:30:13 +0000"
-        },
-        {
             "title": "Adobe Settles With U.S. Over Hard-to-Cancel Subscriptions",
             "link": "https://www.nytimes.com/2026/03/13/technology/adobe-settlement-doj.html",
             "published": "Fri, 13 Mar 2026 19:16:49 +0000"
+        },
+        {
+            "title": "A.I. Goes to War + Is \u2018A.I. Brain Fry\u2019 Real? + How Grammarly Stole Casey\u2019s Identity",
+            "link": "https://www.nytimes.com/2026/03/13/podcasts/ai-goes-to-war-is-ai-brain-fry-real-how-grammarly-stole-caseys-identity.html",
+            "published": "Fri, 13 Mar 2026 11:00:03 +0000"
         }
     ],
     "source_2": [
