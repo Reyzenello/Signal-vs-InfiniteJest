@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Nvidia announces NemoClaw, which combines the OpenClaw agent platform with components of Nvidia's Agent Toolkit to add privacy and security controls (Frederic Lardinois/The New Stack)",
-            "link": "http://www.techmeme.com/260316/p36#a260316p36",
-            "published": "Mon, 16 Mar 2026 16:40:01 -0400"
+            "title": "Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user's local files, tools, and applications (Manus)",
+            "link": "http://www.techmeme.com/260316/p41#a260316p41",
+            "published": "Mon, 16 Mar 2026 17:50:01 -0400"
         },
         {
-            "title": "Nvidia unveils a server rack with 256 Vera CPUs, with each CPU featuring 88 custom Olympus cores and LPDDR5X memory for up to 1.2 TB/s of bandwidth (Tobias Mann/The Register)",
-            "link": "http://www.techmeme.com/260316/p35#a260316p35",
-            "published": "Mon, 16 Mar 2026 16:30:03 -0400"
+            "title": "Roche says it has deployed 3,500+ Nvidia Blackwell GPUs, which it calls \"the greatest announced GPU footprint available to a pharmaceutical company\" (Sebastian Moss/DatacenterDynamics)",
+            "link": "http://www.techmeme.com/260316/p40#a260316p40",
+            "published": "Mon, 16 Mar 2026 17:30:01 -0400"
         },
         {
-            "title": "Z.ai launches GLM-5-Turbo, a closed-source, faster, and cheaper variant of GLM-5 optimized for agent-driven workflows and OpenClaw-style tasks (Carl Franzen/VentureBeat)",
-            "link": "http://www.techmeme.com/260316/p34#a260316p34",
-            "published": "Mon, 16 Mar 2026 16:10:01 -0400"
+            "title": "Nvidia says BYD, Geely, Isuzu, and Nissan will use its Drive Hyperion AV platform, and that Uber will launch Hyperion-powered robotaxis across 28 cities by 2028 (Andrew J. Hawkins/The Verge)",
+            "link": "http://www.techmeme.com/260316/p39#a260316p39",
+            "published": "Mon, 16 Mar 2026 17:10:04 -0400"
         },
         {
-            "title": "Nvidia announces the Nvidia Groq 3 LPX, an inference server rack featuring 256 Groq 3 LPUs and 128GB of on-chip SRAM, available in H2 2026 (Dylan Martin/CRN)",
-            "link": "http://www.techmeme.com/260316/p33#a260316p33",
-            "published": "Mon, 16 Mar 2026 16:00:51 -0400"
+            "title": "Nvidia unveils Space-1 Vera Rubin for orbital data centers, saying its GPU delivers up to 25x more AI compute for space-based inferencing compared to the H100 (Sebastian Moss/DatacenterDynamics)",
+            "link": "http://www.techmeme.com/260316/p38#a260316p38",
+            "published": "Mon, 16 Mar 2026 17:00:51 -0400"
         },
         {
-            "title": "Jensen Huang says Nvidia expects to generate $1T+ from its Blackwell and Rubin chips through the end of 2027, after previously forecasting $500B by 2026's end (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/260316/p32#a260316p32",
-            "published": "Mon, 16 Mar 2026 15:30:01 -0400"
+            "title": "US startup Reflection AI is working with South Korea's Shinsegae Group to build a 250MW data center in South Korea, sources say in a several-billion-dollar deal (Amrith Ramkumar/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260316/p37#a260316p37",
+            "published": "Mon, 16 Mar 2026 16:55:05 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference",
             "link": "https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html",
-            "published": "Mon, 16 Mar 2026 19:34:03 +0000"
+            "published": "Mon, 16 Mar 2026 21:08:37 +0000"
         },
         {
             "title": "Adobe Settles With U.S. Over Hard-to-Cancel Subscriptions",
@@ -65,6 +65,11 @@
             "published": "Mon, 16 Mar 2026 00:32:50 GMT"
         },
         {
+            "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
+            "link": "https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Mar 2026 21:06:51 GMT"
+        },
+        {
             "title": "She spent 16 hours on Instagram in a day. It's up to a jury to decide if Meta is to blame",
             "link": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 14 Mar 2026 00:02:15 GMT"
@@ -73,11 +78,6 @@
             "title": "Games with loot boxes to get minimum 16 age rating across Europe",
             "link": "https://www.bbc.com/news/articles/cge84xqjg5lo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 13 Mar 2026 12:57:02 GMT"
-        },
-        {
-            "title": "AI toys for children misread emotions and respond inappropriately, researchers warn",
-            "link": "https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 13 Mar 2026 09:10:53 GMT"
         }
     ]
 }
