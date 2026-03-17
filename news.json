@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "IBM closes its $11B deal for data streaming company Confluent, unveiled last December; CEO Arvind Krishna expects IBM to maintain its head count over five years (Belle Lin/Wall Street Journal)",
+            "title": "Crypto trading firm GSR says it is acquiring Autonomous and Architech for $57M, expanding into token advisory and capital markets services (Krisztian Sandor/CoinDesk)",
+            "link": "http://www.techmeme.com/260317/p27#a260317p27",
+            "published": "Tue, 17 Mar 2026 10:40:01 -0400"
+        },
+        {
+            "title": "Sources: OpenAI signed a deal with AWS to sell its AI services to US government agencies for both classified and unclassified work, amid the Anthropic-DOD spat (The Information)",
+            "link": "http://www.techmeme.com/260317/p26#a260317p26",
+            "published": "Tue, 17 Mar 2026 09:55:02 -0400"
+        },
+        {
+            "title": "Baidu is integrating OpenClaw with its Xiaodu devices to work as voice-controlled remotes, joining Tencent and Alibaba in racing to capitalize on agentic AI (Bloomberg)",
+            "link": "http://www.techmeme.com/260317/p25#a260317p25",
+            "published": "Tue, 17 Mar 2026 09:50:01 -0400"
+        },
+        {
+            "title": "IBM closes its $11B deal for data streaming company Confluent; IBM CEO Arvind Krishna says he expects IBM will maintain or grow its head count over five years (Belle Lin/Wall Street Journal)",
             "link": "http://www.techmeme.com/260317/p24#a260317p24",
             "published": "Tue, 17 Mar 2026 09:40:00 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "Qualcomm says it plans to buy back another $20B worth of shares and is raising its quarterly cash dividend, after unveiling a $15B buyback in November 2024 (Lynn Doan/Bloomberg)",
             "link": "http://www.techmeme.com/260317/p23#a260317p23",
             "published": "Tue, 17 Mar 2026 09:33:43 -0400"
-        },
-        {
-            "title": "Q&A with Kalshi co-founders Tarek Mansour and Luana Lopes Lara on suing the US government, solving market making, agentic and insider trading, ethics, and more (John Collison/Cheeky Pint)",
-            "link": "http://www.techmeme.com/260317/p22#a260317p22",
-            "published": "Tue, 17 Mar 2026 09:05:00 -0400"
-        },
-        {
-            "title": "PayPal expands access to its PYUSD stablecoin from the US and the UK to 70 countries in total, including Colombia, Panama, Peru, Singapore, Uganda, and Malawi (Ben Weiss/Fortune)",
-            "link": "http://www.techmeme.com/260317/p21#a260317p21",
-            "published": "Tue, 17 Mar 2026 08:45:28 -0400"
-        },
-        {
-            "title": "Mastercard agrees to acquire London-based stablecoin payments infra startup BVNK for up to $1.8B, including $300M in contingent payments, set to close in 2026 (Reuters)",
-            "link": "http://www.techmeme.com/260317/p20#a260317p20",
-            "published": "Tue, 17 Mar 2026 08:35:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
+            "link": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Mar 2026 14:12:13 GMT"
+        },
+        {
             "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
             "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 17 Mar 2026 00:08:32 GMT"
@@ -73,11 +78,6 @@
             "title": "Is this product 'human-made'? The race to establish an AI-free logo",
             "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 16 Mar 2026 00:32:50 GMT"
-        },
-        {
-            "title": "She spent 16 hours on Instagram in a day. It's up to a jury to decide if Meta is to blame",
-            "link": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 14 Mar 2026 00:02:15 GMT"
         }
     ]
 }
