@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "A reporter details harassment and death threats from gamblers trying to win a Polymarket bet if he doesn't change his report on a missile impact in Israel (Emanuel Fabian/The Times of Israel)",
+            "link": "http://www.techmeme.com/260316/p49#a260316p49",
+            "published": "Mon, 16 Mar 2026 22:35:00 -0400"
+        },
+        {
+            "title": "Fuse, which offers AI-powered loan origination software to credit unions and other financial institutions, raised a $25M Series A (Marina Temkin/TechCrunch)",
+            "link": "http://www.techmeme.com/260316/p48#a260316p48",
+            "published": "Mon, 16 Mar 2026 20:25:01 -0400"
+        },
+        {
+            "title": "How Disney Imagineering built an Olaf robot, set to arrive at Disneyland Paris this month, and taught it to move via reinforcement learning and simulation (Jacob Krol/TechRadar)",
+            "link": "http://www.techmeme.com/260316/p47#a260316p47",
+            "published": "Mon, 16 Mar 2026 20:05:00 -0400"
+        },
+        {
+            "title": "In an all-hands meeting, Fidji Simo described plans to shift OpenAI's strategy around coding and business users, urging staff to avoid \"side quests\" (Berber Jin/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260316/p46#a260316p46",
+            "published": "Mon, 16 Mar 2026 19:55:00 -0400"
+        },
+        {
             "title": "RoboForce, which is developing robotics systems to perform physically demanding industrial work, raised $52M led by YZi Labs, bringing its total funding to $67M (Duncan Riley/SiliconANGLE)",
             "link": "http://www.techmeme.com/260316/p45#a260316p45",
             "published": "Mon, 16 Mar 2026 19:15:04 -0400"
-        },
-        {
-            "title": "Nvidia announces the Nemotron Coalition, which includes Thinking Machines Lab, Cursor, and Mistral and will develop an open model trained on Nvidia DGX Cloud (Sebastian Moss/DatacenterDynamics)",
-            "link": "http://www.techmeme.com/260316/p44#a260316p44",
-            "published": "Mon, 16 Mar 2026 18:35:15 -0400"
-        },
-        {
-            "title": "Nscale acquires American Intelligence & Power, which owns a 2,250-acre data center campus in West Virginia, where it plans to build up to 8GW of compute by 2031 (Robbie Whelan/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260316/p43#a260316p43",
-            "published": "Mon, 16 Mar 2026 18:25:03 -0400"
-        },
-        {
-            "title": "Austin-based Ironlight, which is building a regulated marketplace for tokenized securities, raised a $21M Series A; its platform received FINRA approval in 2025 (Ryan Lawler/Axios)",
-            "link": "http://www.techmeme.com/260316/p42#a260316p42",
-            "published": "Mon, 16 Mar 2026 18:05:01 -0400"
-        },
-        {
-            "title": "Manus introduces My Computer, a desktop application that enables its AI agent to interact directly with the user's local files, tools, and applications (Manus)",
-            "link": "http://www.techmeme.com/260316/p41#a260316p41",
-            "published": "Mon, 16 Mar 2026 17:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
+            "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Mar 2026 00:08:32 GMT"
+        },
+        {
             "title": "Firms urged to check if other users edited their data on Companies House",
             "link": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 16 Mar 2026 12:19:09 GMT"
@@ -73,11 +78,6 @@
             "title": "She spent 16 hours on Instagram in a day. It's up to a jury to decide if Meta is to blame",
             "link": "https://www.bbc.com/news/articles/c0mg3zd7xwpo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 14 Mar 2026 00:02:15 GMT"
-        },
-        {
-            "title": "Games with loot boxes to get minimum 16 age rating across Europe",
-            "link": "https://www.bbc.com/news/articles/cge84xqjg5lo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 13 Mar 2026 12:57:02 GMT"
         }
     ]
 }
