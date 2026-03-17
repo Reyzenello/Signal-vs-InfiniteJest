@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The UK plans to spend \u00a31B+ on quantum computing research over four years, including funding companies in pharmaceuticals, financial services, and energy (Mia Dawkins/Bloomberg)",
+            "link": "http://www.techmeme.com/260317/p8#a260317p8",
+            "published": "Tue, 17 Mar 2026 06:01:10 -0400"
+        },
+        {
+            "title": "EU countries introduce sanctions on hacking groups, including Iran's Emennet Pasargad, which hacked magazine Charlie Hebdo in 2023, and two Chinese companies (Sam Clark/Politico)",
+            "link": "http://www.techmeme.com/260317/p7#a260317p7",
+            "published": "Tue, 17 Mar 2026 05:50:02 -0400"
+        },
+        {
+            "title": "Berlin-based Upvest, which builds trading APIs for neobanks and retail lenders, raised $90M in equity, sources say at a $735M valuation, up from ~$413M in 2024 (Arno Sch\u00fctze/Bloomberg)",
+            "link": "http://www.techmeme.com/260317/p6#a260317p6",
+            "published": "Tue, 17 Mar 2026 05:40:01 -0400"
+        },
+        {
             "title": "Samsung says it is winding down sales of its $2,899 Galaxy Z TriFold in South Korea and the US once it clears inventory, after just three months on the market (Bloomberg)",
             "link": "http://www.techmeme.com/260317/p5#a260317p5",
             "published": "Tue, 17 Mar 2026 04:50:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Q&A with CEO Jim Lanzone on Yahoo being \"very profitable\", its new AI search engine, focusing on sports content, including original video and podcasts, and more (Nilay Patel/The Verge)",
             "link": "http://www.techmeme.com/260317/p4#a260317p4",
             "published": "Tue, 17 Mar 2026 03:55:01 -0400"
-        },
-        {
-            "title": "Open models will largely lose if they keep chasing closed frontier AI models; instead, open models should serve as complementary tools to closed agents (Nathan Lambert/Interconnects AI)",
-            "link": "http://www.techmeme.com/260317/p3#a260317p3",
-            "published": "Tue, 17 Mar 2026 02:25:01 -0400"
-        },
-        {
-            "title": "Nvidia says game developers have full \"artistic control over DLSS 5's effects\", following backlash alleging that the AI rendering tech altered source material (Tyler Wilde/PC Gamer)",
-            "link": "http://www.techmeme.com/260317/p2#a260317p2",
-            "published": "Tue, 17 Mar 2026 01:01:00 -0400"
-        },
-        {
-            "title": "Alibaba launches Wukong, an enterprise AI platform that coordinates multiple AI agents to handle complex tasks like document editing, currently in beta (Reuters)",
-            "link": "http://www.techmeme.com/260317/p1#a260317p1",
-            "published": "Tue, 17 Mar 2026 00:40:01 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Fri, 13 Mar 2026 17:24:29 +0000"
         },
         {
+            "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
+            "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
+            "published": "Tue, 17 Mar 2026 09:01:35 +0000"
+        },
+        {
             "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference",
             "link": "https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html",
             "published": "Mon, 16 Mar 2026 22:18:24 +0000"
-        },
-        {
-            "title": "Adobe Settles With U.S. Over Hard-to-Cancel Subscriptions",
-            "link": "https://www.nytimes.com/2026/03/13/technology/adobe-settlement-doj.html",
-            "published": "Fri, 13 Mar 2026 19:16:49 +0000"
         }
     ],
     "source_2": [
