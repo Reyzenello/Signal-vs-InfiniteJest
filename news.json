@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "AI drone software company Swarmer closed up 520% in its Nasdaq debut, valuing it at $380M+; its tech has been deployed in 100K+ combat missions in Ukraine (Arvelisse Bonilla Ramos/Bloomberg)",
-            "link": "http://www.techmeme.com/260317/p55#a260317p55",
-            "published": "Tue, 17 Mar 2026 22:46:03 -0400"
+            "title": "The Linux Foundation announces $12.5M in total grants from Google and others to help FOSS maintainers cope with the influx of AI-generated security findings (Simon Sharwood/The Register)",
+            "link": "http://www.techmeme.com/260318/p4#a260318p4",
+            "published": "Wed, 18 Mar 2026 00:55:00 -0400"
         },
         {
-            "title": "Source: Beijing has approved multiple Chinese companies to purchase H200 chips from Nvidia; a Chinese spokesperson said they are \"not aware of specifics\" (Karen Freifeld/Reuters)",
-            "link": "http://www.techmeme.com/260317/p54#a260317p54",
-            "published": "Tue, 17 Mar 2026 22:01:38 -0400"
+            "title": "Samsung says it is considering a shift toward multi-year contracts for memory chips that may help stabilize supply and ease concerns about a shortage (Yoolim Lee/Bloomberg)",
+            "link": "http://www.techmeme.com/260318/p3#a260318p3",
+            "published": "Wed, 18 Mar 2026 00:40:02 -0400"
         },
         {
-            "title": "Filing: the DOD said it designated Anthropic a supply chain risk over concerns the AI company could disable its tech if the Pentagon crossed its \"red lines\" (Paresh Dave/Wired)",
-            "link": "http://www.techmeme.com/260317/p53#a260317p53",
-            "published": "Tue, 17 Mar 2026 21:31:00 -0400"
+            "title": "Sources: Amazon, long the USPS' biggest customer, plans to cut packages it ships via the service by at least two-thirds this fall, when its contract expires (Esther Fung/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260318/p2#a260318p2",
+            "published": "Wed, 18 Mar 2026 00:30:01 -0400"
         },
         {
-            "title": "Chartbeat: over two years, search traffic fell by 60% for small publishers with 1K-10K daily page views, 47% for medium-sized publishers, and 22% for large ones (Sara Fischer/Axios)",
-            "link": "http://www.techmeme.com/260317/p52#a260317p52",
-            "published": "Tue, 17 Mar 2026 21:10:02 -0400"
+            "title": "A US judge rules Apple can remove apps \"with or without cause\", a loss for Musi, a streaming app removed from the App Store that used YouTube to source music (Jon Brodkin/Ars Technica)",
+            "link": "http://www.techmeme.com/260318/p1#a260318p1",
+            "published": "Wed, 18 Mar 2026 00:01:56 -0400"
         },
         {
-            "title": "Source: the Pentagon is discussing plans to set up secure environments for AI companies to train military-specific versions of their models on classified data (James O'Donnell/MIT Technology Review)",
-            "link": "http://www.techmeme.com/260317/p51#a260317p51",
-            "published": "Tue, 17 Mar 2026 20:15:59 -0400"
+            "title": "Companies start to track employees' AI token use, tallying the costs to measure their return on AI investments and to prevent unauthorized uses of tokens (Katherine Bindley/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260317/p56#a260317p56",
+            "published": "Tue, 17 Mar 2026 23:25:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "U.S. Says Anthropic Is an \u2018Unacceptable\u2019 National Security Risk",
+            "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
+            "published": "Wed, 18 Mar 2026 03:51:54 +0000"
+        },
         {
             "title": "China Ramps Up Scrutiny of Meta\u2019s Acquisition of Manus",
             "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
@@ -38,19 +43,14 @@
             "published": "Tue, 17 Mar 2026 17:52:47 +0000"
         },
         {
-            "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
-            "link": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
-            "published": "Tue, 17 Mar 2026 22:46:44 +0000"
-        },
-        {
             "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
             "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
             "published": "Tue, 17 Mar 2026 17:22:58 +0000"
         },
         {
-            "title": "U.S. Says Anthropic Is an \u2018Unacceptable\u2019 National Security Risk",
-            "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
-            "published": "Wed, 18 Mar 2026 00:54:04 +0000"
+            "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
+            "link": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
+            "published": "Tue, 17 Mar 2026 22:46:44 +0000"
         }
     ],
     "source_2": [
