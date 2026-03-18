@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Charles Bennett and Gilles Brassard, who pioneered quantum information theory, win the ACM AM Turing Award; the pair developed the BB84 cryptography protocol (Steven Levy/Wired)",
+            "link": "http://www.techmeme.com/260318/p13#a260318p13",
+            "published": "Wed, 18 Mar 2026 06:05:02 -0400"
+        },
+        {
+            "title": "Tencent reports Q4 revenue up 13% YoY to ~$28.3B, vs. ~$28.2B est., its fifth quarter of double-digit growth, driven by gaming and ads, as it bets on agentic AI (Bloomberg)",
+            "link": "http://www.techmeme.com/260318/p12#a260318p12",
+            "published": "Wed, 18 Mar 2026 05:55:04 -0400"
+        },
+        {
+            "title": "Samsung and AMD sign a preliminary deal for Samsung to supply its next-gen HBM4 for AMD's MI455X accelerators, used in data centers, and DDR5 for AMD's Helios (Yoolim Lee/Bloomberg)",
+            "link": "http://www.techmeme.com/260318/p11#a260318p11",
+            "published": "Wed, 18 Mar 2026 05:45:01 -0400"
+        },
+        {
             "title": "A mystery 1T-parameter AI model called Hunter Alpha, which appeared on OpenRouter on March 11, sparks speculation that DeepSeek is quietly testing its V4 model (Eduardo Baptista/Reuters)",
             "link": "http://www.techmeme.com/260318/p10#a260318p10",
             "published": "Wed, 18 Mar 2026 04:20:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Alibaba raises prices for its T-Head AI computing chips, including the Zhenwu 810E, by 5% to 34%, and its Cloud Parallel File Storage by 30%, after demand soars (Luz Ding/Bloomberg)",
             "link": "http://www.techmeme.com/260318/p9#a260318p9",
             "published": "Wed, 18 Mar 2026 04:05:04 -0400"
-        },
-        {
-            "title": "Founders are increasingly leasing multimillion-dollar mansions in San Francisco's wealthy neighborhoods as corporate HQs and hacker houses, amid the AI boom (The San Francisco Standard)",
-            "link": "http://www.techmeme.com/260318/p8#a260318p8",
-            "published": "Wed, 18 Mar 2026 02:40:01 -0400"
-        },
-        {
-            "title": "Banks start offloading $18B debt tied to the $55B buyout of EA; sources say EA told potential investors AI could let gaming companies cut engineering workforces (Financial Times)",
-            "link": "http://www.techmeme.com/260318/p7#a260318p7",
-            "published": "Wed, 18 Mar 2026 02:35:01 -0400"
-        },
-        {
-            "title": "The UK FCA says Meta has repeatedly failed to stop illegal ads for high-risk financial products running on its platforms, despite committing to block them (Reuters)",
-            "link": "http://www.techmeme.com/260318/p6#a260318p6",
-            "published": "Wed, 18 Mar 2026 02:30:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Tue, 17 Mar 2026 17:22:58 +0000"
         },
         {
-            "title": "Arizona Files Criminal Charges Against Kalshi, the Prediction Site",
-            "link": "https://www.nytimes.com/2026/03/17/technology/arizona-criminal-charges-kalshi.html",
-            "published": "Tue, 17 Mar 2026 22:46:44 +0000"
+            "title": "Turing Award Goes to Inventors of Quantum Cryptography",
+            "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+            "published": "Wed, 18 Mar 2026 09:01:54 +0000"
         }
     ],
     "source_2": [
