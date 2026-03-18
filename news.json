@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Xbow, which uses AI to probe apps for security vulnerabilities, raised $120M led by DFJ Growth and Northzone at a $1B+ valuation, and reports 100+ clients (Dina Bass/Bloomberg)",
-            "link": "http://www.techmeme.com/260318/p20#a260318p20",
-            "published": "Wed, 18 Mar 2026 07:40:02 -0400"
+            "title": "Israeli startup Tenzai says its AI hacking agent beat 99% of 125K participants at six competitions, using tailored OpenAI and Anthropic models and costing $5K (Thomas Brewster/Forbes)",
+            "link": "http://www.techmeme.com/260318/p25#a260318p25",
+            "published": "Wed, 18 Mar 2026 09:40:01 -0400"
         },
         {
-            "title": "The US goods trade deficit hit a record $1.2T in 2025, driven by a 60% rise in imports of computers and chips to $450B+ since President Trump's inauguration (Ana Swanson/New York Times)",
-            "link": "http://www.techmeme.com/260318/p19#a260318p19",
-            "published": "Wed, 18 Mar 2026 07:15:01 -0400"
+            "title": "Jensen Huang dismisses social media criticism of DLSS 5 at GTC 2026, asserting that claims that the tech homogenizes game aesthetics are \"completely wrong\" (Andrew E. Freedman/Tom's Hardware)",
+            "link": "http://www.techmeme.com/260318/p24#a260318p24",
+            "published": "Wed, 18 Mar 2026 09:30:01 -0400"
         },
         {
-            "title": "China's Chengdu says Tim Cook attended Apple's 50th anniversary event in the city; state media called for Apple to fix its \"monopolistic\" App Store practices (Bloomberg)",
-            "link": "http://www.techmeme.com/260318/p18#a260318p18",
-            "published": "Wed, 18 Mar 2026 07:00:01 -0400"
+            "title": "Sources: Apple stops vibe coding apps from pushing updates, citing rules on running code; Replit thinks Apple may approve opening AI-generated apps in a browser (The Information)",
+            "link": "http://www.techmeme.com/260318/p23#a260318p23",
+            "published": "Wed, 18 Mar 2026 09:20:05 -0400"
         },
         {
-            "title": "Q&A with GV's Tom Hulme on the AI investment cycle, London and Europe's opportunities, Q.ai and Nothing investments, AI privacy issues, sovereign AI, and more (Tim Bradshaw/Financial Times)",
-            "link": "http://www.techmeme.com/260318/p17#a260318p17",
-            "published": "Wed, 18 Mar 2026 06:45:02 -0400"
+            "title": "Sources: Fluidstack withdraws from a \u20ac10B, 1GW AI data center project in Bosquel, France, and a Mistral-tied project south of Paris, as it pivots toward the US (Benoit Berthelot/Bloomberg)",
+            "link": "http://www.techmeme.com/260318/p22#a260318p22",
+            "published": "Wed, 18 Mar 2026 09:01:24 -0400"
         },
         {
-            "title": "Investigation: Jeffrey Epstein spent hundreds of thousands on a campaign to manipulate Google search results and sanitize his Wikipedia, after his 2009 release (New York Times)",
-            "link": "http://www.techmeme.com/260318/p16#a260318p16",
-            "published": "Wed, 18 Mar 2026 06:35:02 -0400"
+            "title": "The EU unveils EU Inc., a single bloc-wide proposal that lets companies incorporate in 48 hours, to help European startups compete with US and Chinese rivals (Samuel Stolton/Bloomberg)",
+            "link": "http://www.techmeme.com/260318/p21#a260318p21",
+            "published": "Wed, 18 Mar 2026 08:30:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 17 Mar 2026 17:22:58 +0000"
         },
         {
-            "title": "Turing Award Goes to Inventors of Quantum Cryptography",
-            "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
-            "published": "Wed, 18 Mar 2026 09:01:54 +0000"
+            "title": "How to Follow the Game, Even When You Can\u2019t See It Live",
+            "link": "https://www.nytimes.com/2026/03/18/technology/personaltech/how-to-follow-the-game-even-when-you-cant-see-it-live.html",
+            "published": "Wed, 18 Mar 2026 13:00:13 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Government backtracks on AI and copyright after outcry from major artists",
+            "link": "https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Mar 2026 13:24:39 GMT"
+        },
         {
             "title": "Ad for AI editing app which said it could 'remove anything' banned",
             "link": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
             "link": "https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 16 Mar 2026 21:06:51 GMT"
-        },
-        {
-            "title": "Firms urged to check if other users edited their data on Companies House",
-            "link": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 16 Mar 2026 12:19:09 GMT"
         }
     ]
 }
