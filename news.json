@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "RunSybil, whose AI agent runs continuous autonomous penetration testing on live apps to find and document vulnerabilities, raised $40M led by Khosla Ventures (Sharon Goldman/Fortune)",
-            "link": "http://www.techmeme.com/260318/p29#a260318p29",
-            "published": "Wed, 18 Mar 2026 10:35:02 -0400"
+            "title": "Ramp data: Anthropic is capturing ~73% of all spending among companies buying AI tools for the first time, up from a 50/50 split with OpenAI in January (Madison Mills/Axios)",
+            "link": "http://www.techmeme.com/260318/p37#a260318p37",
+            "published": "Wed, 18 Mar 2026 12:55:06 -0400"
         },
         {
-            "title": "Google, iVerify, and Lookout researchers discover DarkSword, a hacking tool used by Russia-sponsored and other hackers to target iOS 18 via Ukrainian websites (Andy Greenberg/Wired)",
-            "link": "http://www.techmeme.com/260318/p28#a260318p28",
-            "published": "Wed, 18 Mar 2026 10:10:01 -0400"
+            "title": "Sources: several tech companies, including OpenAI, are encouraging the DOD behind the scenes to back away from designating Anthropic a \"supply chain risk\" (Mike Isaac/New York Times)",
+            "link": "http://www.techmeme.com/260318/p36#a260318p36",
+            "published": "Wed, 18 Mar 2026 12:45:01 -0400"
         },
         {
-            "title": "Stripe and Paradigm-backed blockchain startup Tempo launch the Machine Payments Protocol, which uses Tempo's new blockchain to handle AI agents' transactions (Ben Weiss/Fortune)",
-            "link": "http://www.techmeme.com/260318/p27#a260318p27",
-            "published": "Wed, 18 Mar 2026 10:00:02 -0400"
+            "title": "Israeli startup Raven, which offers runtime monitoring and intervention in attacks as they unfold inside applications, raised a $20M seed (CTech)",
+            "link": "http://www.techmeme.com/260318/p35#a260318p35",
+            "published": "Wed, 18 Mar 2026 12:15:09 -0400"
         },
         {
-            "title": "Investigation: the US FedRAMP authorized Microsoft service GCC High to handle sensitive government data in 2024, despite years of concerns about its security (ProPublica)",
-            "link": "http://www.techmeme.com/260318/p26#a260318p26",
-            "published": "Wed, 18 Mar 2026 09:50:01 -0400"
+            "title": "Paraform, which connects tech companies with specialized recruiters, raised a $40M Series B led by Scale VP (Natalie Breymeyer/Axios)",
+            "link": "http://www.techmeme.com/260318/p34#a260318p34",
+            "published": "Wed, 18 Mar 2026 12:05:03 -0400"
         },
         {
-            "title": "Israeli startup Tenzai says its AI hacking agent beat 99% of 125K participants at six competitions, using tailored OpenAI and Anthropic models and costing $5K (Thomas Brewster/Forbes)",
-            "link": "http://www.techmeme.com/260318/p25#a260318p25",
-            "published": "Wed, 18 Mar 2026 09:40:01 -0400"
+            "title": "The UK government withdraws a proposal to let AI companies train on copyrighted works, unless creators opt out, after a backlash from artists like Dua Lipa (Graham Fraser/BBC)",
+            "link": "http://www.techmeme.com/260318/p33#a260318p33",
+            "published": "Wed, 18 Mar 2026 11:50:02 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "U.S. Says Anthropic Is an \u2018Unacceptable\u2019 National Security Risk",
             "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
-            "published": "Wed, 18 Mar 2026 03:51:54 +0000"
+            "published": "Wed, 18 Mar 2026 03:51:55 +0000"
         },
         {
             "title": "Turing Award Goes to Inventors of Quantum Cryptography",
@@ -48,9 +48,9 @@
             "published": "Tue, 17 Mar 2026 20:45:18 +0000"
         },
         {
-            "title": "How to Follow the Game, Even When You Can\u2019t See It Live",
-            "link": "https://www.nytimes.com/2026/03/18/technology/personaltech/how-to-follow-the-game-even-when-you-cant-see-it-live.html",
-            "published": "Wed, 18 Mar 2026 13:00:13 +0000"
+            "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+            "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+            "published": "Wed, 18 Mar 2026 15:56:46 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Government backtracks on AI and copyright after outcry from major artists",
             "link": "https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 18 Mar 2026 13:24:39 GMT"
+        },
+        {
+            "title": "Quantum pioneers win Turing Award for encryption breakthrough",
+            "link": "https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Mar 2026 15:23:16 GMT"
         },
         {
             "title": "Ad for AI editing app which said it could 'remove anything' banned",
@@ -73,11 +78,6 @@
             "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
             "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 17 Mar 2026 00:08:32 GMT"
-        },
-        {
-            "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
-            "link": "https://www.bbc.com/news/articles/cgk2lzmm22eo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 16 Mar 2026 21:06:51 GMT"
         }
     ]
 }
