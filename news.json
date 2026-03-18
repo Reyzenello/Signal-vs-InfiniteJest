@@ -1,51 +1,51 @@
 {
     "techmeme": [
         {
+            "title": "RunSybil, whose AI agent runs continuous autonomous penetration testing on live apps to find and document vulnerabilities, raised $40M led by Khosla Ventures (Sharon Goldman/Fortune)",
+            "link": "http://www.techmeme.com/260318/p29#a260318p29",
+            "published": "Wed, 18 Mar 2026 10:35:02 -0400"
+        },
+        {
+            "title": "Google, iVerify, and Lookout researchers discover DarkSword, a hacking tool used by Russia-sponsored and other hackers to target iOS 18 via Ukrainian websites (Andy Greenberg/Wired)",
+            "link": "http://www.techmeme.com/260318/p28#a260318p28",
+            "published": "Wed, 18 Mar 2026 10:10:01 -0400"
+        },
+        {
+            "title": "Stripe and Paradigm-backed blockchain startup Tempo launch the Machine Payments Protocol, which uses Tempo's new blockchain to handle AI agents' transactions (Ben Weiss/Fortune)",
+            "link": "http://www.techmeme.com/260318/p27#a260318p27",
+            "published": "Wed, 18 Mar 2026 10:00:02 -0400"
+        },
+        {
+            "title": "Investigation: the US FedRAMP authorized Microsoft service GCC High to handle sensitive government data in 2024, despite years of concerns about its security (ProPublica)",
+            "link": "http://www.techmeme.com/260318/p26#a260318p26",
+            "published": "Wed, 18 Mar 2026 09:50:01 -0400"
+        },
+        {
             "title": "Israeli startup Tenzai says its AI hacking agent beat 99% of 125K participants at six competitions, using tailored OpenAI and Anthropic models and costing $5K (Thomas Brewster/Forbes)",
             "link": "http://www.techmeme.com/260318/p25#a260318p25",
             "published": "Wed, 18 Mar 2026 09:40:01 -0400"
-        },
-        {
-            "title": "Jensen Huang dismisses social media criticism of DLSS 5 at GTC 2026, asserting that claims that the tech homogenizes game aesthetics are \"completely wrong\" (Andrew E. Freedman/Tom's Hardware)",
-            "link": "http://www.techmeme.com/260318/p24#a260318p24",
-            "published": "Wed, 18 Mar 2026 09:30:01 -0400"
-        },
-        {
-            "title": "Sources: Apple stops vibe coding apps from pushing updates, citing rules on running code; Replit thinks Apple may approve opening AI-generated apps in a browser (The Information)",
-            "link": "http://www.techmeme.com/260318/p23#a260318p23",
-            "published": "Wed, 18 Mar 2026 09:20:05 -0400"
-        },
-        {
-            "title": "Sources: Fluidstack withdraws from a \u20ac10B, 1GW AI data center project in Bosquel, France, and a Mistral-tied project south of Paris, as it pivots toward the US (Benoit Berthelot/Bloomberg)",
-            "link": "http://www.techmeme.com/260318/p22#a260318p22",
-            "published": "Wed, 18 Mar 2026 09:01:24 -0400"
-        },
-        {
-            "title": "The EU unveils EU Inc., a single bloc-wide proposal that lets companies incorporate in 48 hours, to help European startups compete with US and Chinese rivals (Samuel Stolton/Bloomberg)",
-            "link": "http://www.techmeme.com/260318/p21#a260318p21",
-            "published": "Wed, 18 Mar 2026 08:30:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Silicon Valley Bet on War. The Bets Are Paying Off.",
+            "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
+            "published": "Wed, 18 Mar 2026 09:01:26 +0000"
+        },
         {
             "title": "U.S. Says Anthropic Is an \u2018Unacceptable\u2019 National Security Risk",
             "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
             "published": "Wed, 18 Mar 2026 03:51:54 +0000"
         },
         {
+            "title": "Turing Award Goes to Inventors of Quantum Cryptography",
+            "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
+            "published": "Wed, 18 Mar 2026 12:19:09 +0000"
+        },
+        {
             "title": "China Ramps Up Scrutiny of Meta\u2019s Acquisition of Manus",
             "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
             "published": "Tue, 17 Mar 2026 20:45:18 +0000"
-        },
-        {
-            "title": "Netanyahu Posts \u2018Proof of Life\u2019 Video as A.I. Sows Doubts About What\u2019s Real",
-            "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
-            "published": "Tue, 17 Mar 2026 17:52:47 +0000"
-        },
-        {
-            "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
-            "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
-            "published": "Tue, 17 Mar 2026 17:22:58 +0000"
         },
         {
             "title": "How to Follow the Game, Even When You Can\u2019t See It Live",
