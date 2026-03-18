@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Nvidia is preparing to sell a version of Groq chips to the Chinese market that is expected to be available in May and will not be downgraded (Reuters)",
-            "link": "http://www.techmeme.com/260317/p49#a260317p49",
-            "published": "Tue, 17 Mar 2026 19:31:00 -0400"
+            "title": "AI drone software company Swarmer closed up 520% in its Nasdaq debut, valuing it at $380M+; its tech has been deployed in 100K+ combat missions in Ukraine (Arvelisse Bonilla Ramos/Bloomberg)",
+            "link": "http://www.techmeme.com/260317/p55#a260317p55",
+            "published": "Tue, 17 Mar 2026 22:46:03 -0400"
         },
         {
-            "title": "Sources: a JPMorgan-led bank group halted a $5.3B debt deal for Qualtrics, whose existing $1.5B loan trades at 86 cents on the dollar, on weak investor interest (Bloomberg)",
-            "link": "http://www.techmeme.com/260317/p48#a260317p48",
-            "published": "Tue, 17 Mar 2026 19:15:59 -0400"
+            "title": "Source: Beijing has approved multiple Chinese companies to purchase H200 chips from Nvidia; a Chinese spokesperson said they are \"not aware of specifics\" (Karen Freifeld/Reuters)",
+            "link": "http://www.techmeme.com/260317/p54#a260317p54",
+            "published": "Tue, 17 Mar 2026 22:01:38 -0400"
         },
         {
-            "title": "Turquoise Health, which offers a healthcare pricing and payments platform, raised a $40M Series C led by Oak HC/FT, bringing its total funding to $95.3M (Brock E.W. Turner/Axios)",
-            "link": "http://www.techmeme.com/260317/p47#a260317p47",
-            "published": "Tue, 17 Mar 2026 19:10:00 -0400"
+            "title": "Filing: the DOD said it designated Anthropic a supply chain risk over concerns the AI company could disable its tech if the Pentagon crossed its \"red lines\" (Paresh Dave/Wired)",
+            "link": "http://www.techmeme.com/260317/p53#a260317p53",
+            "published": "Tue, 17 Mar 2026 21:31:00 -0400"
         },
         {
-            "title": "Brian Lynch, Apple's senior director in charge of home devices since 2022, leaves for Oura, a setback for a unit already contending with product delays (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/260317/p46#a260317p46",
-            "published": "Tue, 17 Mar 2026 18:40:02 -0400"
+            "title": "Chartbeat: over two years, search traffic fell by 60% for small publishers with 1K-10K daily page views, 47% for medium-sized publishers, and 22% for large ones (Sara Fischer/Axios)",
+            "link": "http://www.techmeme.com/260317/p52#a260317p52",
+            "published": "Tue, 17 Mar 2026 21:10:02 -0400"
         },
         {
-            "title": "An Argentine court ruled Polymarket lacked approval to operate and directed ISPs and app stores to restrict it; Polymarket is now unavailable in 30+ countries (Francisco Rodrigues/CoinDesk)",
-            "link": "http://www.techmeme.com/260317/p45#a260317p45",
-            "published": "Tue, 17 Mar 2026 18:37:19 -0400"
+            "title": "Source: the Pentagon is discussing plans to set up secure environments for AI companies to train military-specific versions of their models on classified data (James O'Donnell/MIT Technology Review)",
+            "link": "http://www.techmeme.com/260317/p51#a260317p51",
+            "published": "Tue, 17 Mar 2026 20:15:59 -0400"
         }
     ],
     "source_1": [
@@ -45,15 +45,20 @@
         {
             "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
             "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
-            "published": "Tue, 17 Mar 2026 17:22:57 +0000"
+            "published": "Tue, 17 Mar 2026 17:22:58 +0000"
         },
         {
-            "title": "Nvidia Debuts New A.I. Product at GTC Developer Conference",
-            "link": "https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html",
-            "published": "Mon, 16 Mar 2026 22:18:24 +0000"
+            "title": "U.S. Says Anthropic Is an \u2018Unacceptable\u2019 National Security Risk",
+            "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
+            "published": "Wed, 18 Mar 2026 00:54:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Ad for AI editing app which said it could 'remove anything' banned",
+            "link": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Mar 2026 00:00:09 GMT"
+        },
         {
             "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
             "link": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Firms urged to check if other users edited their data on Companies House",
             "link": "https://www.bbc.com/news/articles/c5y41p0dy1wo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 16 Mar 2026 12:19:09 GMT"
-        },
-        {
-            "title": "Is this product 'human-made'? The race to establish an AI-free logo",
-            "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 16 Mar 2026 00:32:50 GMT"
         }
     ]
 }
