@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Waymo says its fleet hit 170M+ miles as of December 2025, and its Waymo Driver system was involved in 92% fewer serious-injury crashes than human drivers (Andrew J. Hawkins/The Verge)",
+            "link": "http://www.techmeme.com/260319/p35#a260319p35",
+            "published": "Thu, 19 Mar 2026 12:00:47 -0400"
+        },
+        {
+            "title": "Cursor launches Composer 2, an AI agent trained solely on coding-related data to perform autonomous, lengthy coding tasks, to compete with Anthropic and OpenAI (Rachel Metz/Bloomberg)",
+            "link": "http://www.techmeme.com/260319/p34#a260319p34",
+            "published": "Thu, 19 Mar 2026 11:55:02 -0400"
+        },
+        {
+            "title": "Alphabet's X spins out Anori, which seeks to streamline building approvals through a unified platform for developers and city regulators, with $26M in funding (Connie Loizos/TechCrunch)",
+            "link": "http://www.techmeme.com/260319/p33#a260319p33",
+            "published": "Thu, 19 Mar 2026 11:40:00 -0400"
+        },
+        {
+            "title": "DoorDash launches Tasks, a new app that pays delivery couriers in some markets to submit video clips and complete other tasks for training AI models (Natalie Lung/Bloomberg)",
+            "link": "http://www.techmeme.com/260319/p32#a260319p32",
+            "published": "Thu, 19 Mar 2026 11:10:01 -0400"
+        },
+        {
             "title": "Letters: industry groups pushed back after India proposed in January that Apple, Google, and others consider pre-installing biometric ID app Aadhaar on phones (Reuters)",
             "link": "http://www.techmeme.com/260319/p31#a260319p31",
             "published": "Thu, 19 Mar 2026 10:55:03 -0400"
-        },
-        {
-            "title": "Claros, which aims to cut data center energy losses by using voltage regulators that provide power directly to servers' main processors, raised a $30M seed (Ben Geman/Axios)",
-            "link": "http://www.techmeme.com/260319/p30#a260319p30",
-            "published": "Thu, 19 Mar 2026 10:20:01 -0400"
-        },
-        {
-            "title": "MLB makes Polymarket its official prediction markets platform, giving it exclusive data access; Polymarket will restrict contracts that pose \"integrity risk\" (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260319/p29#a260319p29",
-            "published": "Thu, 19 Mar 2026 09:45:00 -0400"
-        },
-        {
-            "title": "Adobe launches Firefly Custom Models in public beta, letting users train AI image generators on their own assets; the custom models are private by default (Jess Weatherbed/The Verge)",
-            "link": "http://www.techmeme.com/260319/p28#a260319p28",
-            "published": "Thu, 19 Mar 2026 09:30:01 -0400"
-        },
-        {
-            "title": "OpenAI agrees to acquire Astral, which makes Python tools for developers, to integrate its team into Codex, and says Codex has 2M+ users, up 3x since January (Agnee Ghosh/Bloomberg)",
-            "link": "http://www.techmeme.com/260319/p27#a260319p27",
-            "published": "Thu, 19 Mar 2026 09:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 18 Mar 2026 15:30:09 +0000"
         },
         {
-            "title": "AI Replica of Val Kilmer to Appear in \u2018As Deep as the Grave\u2019",
-            "link": "https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html",
-            "published": "Thu, 19 Mar 2026 13:11:20 +0000"
+            "title": "The Long Farewell to Mark Zuckerberg\u2019s Metaverse",
+            "link": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
+            "published": "Thu, 19 Mar 2026 15:29:45 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+            "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Mar 2026 15:33:22 GMT"
+        },
         {
             "title": "US messageboard 4Chan mocks \u00a3520,000 fine for UK online safety breaches",
             "link": "https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Government backtracks on AI and copyright after outcry from major artists",
             "link": "https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 18 Mar 2026 13:24:39 GMT"
-        },
-        {
-            "title": "Quantum pioneers win Turing Award for encryption breakthrough",
-            "link": "https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 18 Mar 2026 15:23:16 GMT"
         }
     ]
 }
