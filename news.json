@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Letters: industry groups pushed back after India proposed in January that Apple, Google, and others consider pre-installing biometric ID app Aadhaar on phones (Reuters)",
+            "link": "http://www.techmeme.com/260319/p31#a260319p31",
+            "published": "Thu, 19 Mar 2026 10:55:03 -0400"
+        },
+        {
+            "title": "Claros, which aims to cut data center energy losses by using voltage regulators that provide power directly to servers' main processors, raised a $30M seed (Ben Geman/Axios)",
+            "link": "http://www.techmeme.com/260319/p30#a260319p30",
+            "published": "Thu, 19 Mar 2026 10:20:01 -0400"
+        },
+        {
+            "title": "MLB makes Polymarket its official prediction markets platform, giving it exclusive data access; Polymarket will restrict contracts that pose \"integrity risk\" (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260319/p29#a260319p29",
+            "published": "Thu, 19 Mar 2026 09:45:00 -0400"
+        },
+        {
             "title": "Adobe launches Firefly Custom Models in public beta, letting users train AI image generators on their own assets; the custom models are private by default (Jess Weatherbed/The Verge)",
             "link": "http://www.techmeme.com/260319/p28#a260319p28",
             "published": "Thu, 19 Mar 2026 09:30:01 -0400"
@@ -9,48 +24,33 @@
             "title": "OpenAI agrees to acquire Astral, which makes Python tools for developers, to integrate its team into Codex, and says Codex has 2M+ users, up 3x since January (Agnee Ghosh/Bloomberg)",
             "link": "http://www.techmeme.com/260319/p27#a260319p27",
             "published": "Thu, 19 Mar 2026 09:15:01 -0400"
-        },
-        {
-            "title": "The UK CMA launches an investigation into Adobe, saying early membership cancellation fees for certain products might be in breach of consumer protection laws (Mauro Orru/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260319/p26#a260319p26",
-            "published": "Thu, 19 Mar 2026 09:10:01 -0400"
-        },
-        {
-            "title": "Google co-founder Sergey Brin raises his total contribution to $45M for the Building a Better California Super PAC, which opposes a proposed 5% billionaire tax (Dara Kerr/The Guardian)",
-            "link": "http://www.techmeme.com/260319/p25#a260319p25",
-            "published": "Thu, 19 Mar 2026 08:50:00 -0400"
-        },
-        {
-            "title": "Deeptune, which builds high-fidelity reinforcement learning environments that simulate professional workflows for AI agents, raised a $43M Series A led by a16z (Lily Mae Lazarus/Fortune)",
-            "link": "http://www.techmeme.com/260319/p24#a260319p24",
-            "published": "Thu, 19 Mar 2026 08:30:04 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Silicon Valley Bet on War. The Bets Are Paying Off.",
-            "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
-            "published": "Thu, 19 Mar 2026 03:58:29 +0000"
-        },
-        {
-            "title": "U.S. Says Anthropic Is an \u2018Unacceptable\u2019 National Security Risk",
-            "link": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
-            "published": "Wed, 18 Mar 2026 03:51:55 +0000"
-        },
-        {
-            "title": "Turing Award Goes to Inventors of Quantum Cryptography",
-            "link": "https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html",
-            "published": "Wed, 18 Mar 2026 12:19:10 +0000"
-        },
-        {
-            "title": "China Ramps Up Scrutiny of Meta\u2019s Acquisition of Manus",
-            "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
-            "published": "Tue, 17 Mar 2026 20:45:18 +0000"
-        },
-        {
             "title": "A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks",
             "link": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
             "published": "Thu, 19 Mar 2026 09:00:35 +0000"
+        },
+        {
+            "title": "Sorry, Mom. You\u2019re Chatting With an A.I. Agent, Not Your Son.",
+            "link": "https://www.nytimes.com/2026/03/19/business/ai-agents-anxiety-openclaw.html",
+            "published": "Thu, 19 Mar 2026 09:01:42 +0000"
+        },
+        {
+            "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
+            "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
+            "published": "Wed, 18 Mar 2026 19:17:18 +0000"
+        },
+        {
+            "title": "Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor",
+            "link": "https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html",
+            "published": "Wed, 18 Mar 2026 15:30:09 +0000"
+        },
+        {
+            "title": "AI Replica of Val Kilmer to Appear in \u2018As Deep as the Grave\u2019",
+            "link": "https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html",
+            "published": "Thu, 19 Mar 2026 13:11:20 +0000"
         }
     ],
     "source_2": [
