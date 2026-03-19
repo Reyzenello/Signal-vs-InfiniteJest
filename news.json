@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Walmart is embedding its own chatbot Sparky in ChatGPT after conversion rates via OpenAI's Instant Checkout were 3x lower than those requiring clicking out (Paresh Dave/Wired)",
-            "link": "http://www.techmeme.com/260318/p55#a260318p55",
-            "published": "Wed, 18 Mar 2026 22:35:01 -0400"
+            "title": "Industry executives say chip testing firms are racing to meet AI chip demand; Advantest, Teradyne, and Chroma shares have more than tripled over the past year (Cheng Ting-Fang/Nikkei Asia)",
+            "link": "http://www.techmeme.com/260319/p6#a260319p6",
+            "published": "Thu, 19 Mar 2026 01:30:01 -0400"
         },
         {
-            "title": "Anthropic releases a survey of 80,508 Claude users' views, hopes, and fears about AI, calling it \"the largest and most multilingual qualitative study\" (Anthropic)",
-            "link": "http://www.techmeme.com/260318/p54#a260318p54",
-            "published": "Wed, 18 Mar 2026 21:50:01 -0400"
+            "title": "PwC's US boss Paul Griggs says partners who resist AI have no place at the firm, and it plans to convert some services into AI-powered automated tools (Stephen Foley/Financial Times)",
+            "link": "http://www.techmeme.com/260319/p5#a260319p5",
+            "published": "Thu, 19 Mar 2026 01:15:02 -0400"
         },
         {
-            "title": "LinkedIn signs The Trade Desk as its first DSP partner for connected TV ads, allowing ad buyers to layer in LinkedIn data to reach target audiences (Lara O'Reilly/Business Insider)",
-            "link": "http://www.techmeme.com/260318/p53#a260318p53",
-            "published": "Wed, 18 Mar 2026 21:10:01 -0400"
+            "title": "Baidu joins Alibaba in raising prices for its AI computing power-related services by ~5% to 30% and its parallel file storage system by 30% from April 18 (South China Morning Post)",
+            "link": "http://www.techmeme.com/260319/p4#a260319p4",
+            "published": "Thu, 19 Mar 2026 00:55:02 -0400"
         },
         {
-            "title": "Google DeepMind appoints Jasjeet Sekhon, Bridgewater's chief scientist and head of AI, as chief strategy officer; Sekhon helped build Bridgewater's AIA Labs (Anirban Sen/Reuters)",
-            "link": "http://www.techmeme.com/260318/p52#a260318p52",
-            "published": "Wed, 18 Mar 2026 20:35:01 -0400"
+            "title": "Sen. Marsha Blackburn releases a Senate draft of the TRUMP AMERICA AI Act, a federal framework to replace state AI laws, incorporating KOSA and the NO FAKES Act (Oma Seddiq/Bloomberg Law)",
+            "link": "http://www.techmeme.com/260319/p3#a260319p3",
+            "published": "Thu, 19 Mar 2026 00:45:01 -0400"
         },
         {
-            "title": "Cloudflare says it has appealed the \u20ac14.2M fine issued by Italy for refusing to block pirate sites on its 1.1.1.1 DNS service, calling the amount \"staggering\" (Jon Brodkin/Ars Technica)",
-            "link": "http://www.techmeme.com/260318/p51#a260318p51",
-            "published": "Wed, 18 Mar 2026 20:25:01 -0400"
+            "title": "Figma's stock closed down ~8% on March 18 after Google updated its Stitch AI coding tool for UI design; FIG is down ~80% since the company's IPO in August 2025 (John Wang/@j0hnwang)",
+            "link": "http://www.techmeme.com/260319/p2#a260319p2",
+            "published": "Thu, 19 Mar 2026 00:30:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Silicon Valley Bet on War. The Bets Are Paying Off.",
             "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-war-defense-tech.html",
-            "published": "Wed, 18 Mar 2026 09:01:26 +0000"
+            "published": "Thu, 19 Mar 2026 03:58:29 +0000"
         },
         {
             "title": "U.S. Says Anthropic Is an \u2018Unacceptable\u2019 National Security Risk",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Child seen in sex abuse videos identified after researcher spots school badge",
+            "link": "https://www.bbc.com/news/articles/cvgj22e7qwyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Mar 2026 03:21:12 GMT"
+        },
+        {
             "title": "Government backtracks on AI and copyright after outcry from major artists",
             "link": "https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 18 Mar 2026 13:24:39 GMT"
@@ -73,11 +78,6 @@
             "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
             "link": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 17 Mar 2026 14:12:13 GMT"
-        },
-        {
-            "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
-            "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 17 Mar 2026 00:08:32 GMT"
         }
     ]
 }
