@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Paris-based Parallel, which develops AI agents for hospitals and is initially focused on medical coding workflows, raised a $20M Series A led by Index Ventures (Tamara Djurickovic/Tech.eu)",
+            "link": "http://www.techmeme.com/260319/p11#a260319p11",
+            "published": "Thu, 19 Mar 2026 04:55:50 -0400"
+        },
+        {
             "title": "Edra, which says it helps companies automate workflows by turning their operational data into a living knowledge base, raised a $30M Series A led by Sequoia (Connie Loizos/TechCrunch)",
             "link": "http://www.techmeme.com/260319/p10#a260319p10",
             "published": "Thu, 19 Mar 2026 02:50:26 -0400"
@@ -16,14 +21,9 @@
             "published": "Thu, 19 Mar 2026 02:30:01 -0400"
         },
         {
-            "title": "Source: Fal, a GenAI model hosting service, is in talks to raise $300M to $350M at an $8B valuation; annualized revenue has hit $400M, up from $200M in October (Katie Roof/The Information)",
+            "title": "Source: Fal, a GenAI model hosting service, is in talks to raise $300M-$350M at an $8B valuation; annualized revenue hits $400M, up from $200M in October 2025 (Katie Roof/The Information)",
             "link": "http://www.techmeme.com/260319/p7#a260319p7",
             "published": "Thu, 19 Mar 2026 01:35:17 -0400"
-        },
-        {
-            "title": "Industry executives say chip testing firms are racing to meet AI chip demand; Advantest, Teradyne, and Chroma shares have more than tripled over the past year (Cheng Ting-Fang/Nikkei Asia)",
-            "link": "http://www.techmeme.com/260319/p6#a260319p6",
-            "published": "Thu, 19 Mar 2026 01:30:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Thu, 19 Mar 2026 03:21:12 GMT"
         },
         {
+            "title": "Amazon's Alexa has had an AI upgrade. Now she's got more to say",
+            "link": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Mar 2026 05:55:42 GMT"
+        },
+        {
             "title": "Government backtracks on AI and copyright after outcry from major artists",
             "link": "https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 18 Mar 2026 13:24:39 GMT"
@@ -73,11 +78,6 @@
             "title": "Ad for AI editing app which said it could 'remove anything' banned",
             "link": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 18 Mar 2026 00:00:09 GMT"
-        },
-        {
-            "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
-            "link": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 17 Mar 2026 14:12:13 GMT"
         }
     ]
 }
