@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Cursor says Composer 2 is \"frontier-level at coding\" and is priced at $0.50/1M input tokens and $2.50/1M output tokens, with a faster variant costing 3x more (Cursor)",
+            "link": "http://www.techmeme.com/260319/p38#a260319p38",
+            "published": "Thu, 19 Mar 2026 13:00:14 -0400"
+        },
+        {
+            "title": "Sources: TP-Link told US federal agencies probing its China ties that CEO Jeffrey Chao applied for US permanent residency under the $1M Trump Gold Card program (Kate O'Keeffe/Bloomberg)",
+            "link": "http://www.techmeme.com/260319/p37#a260319p37",
+            "published": "Thu, 19 Mar 2026 12:35:02 -0400"
+        },
+        {
+            "title": "Meta plans to reduce its reliance on third-party vendors for content moderation, in favor of AI tools that it says are better at spotting scams and other tasks (Kurt Wagner/Bloomberg)",
+            "link": "http://www.techmeme.com/260319/p36#a260319p36",
+            "published": "Thu, 19 Mar 2026 12:20:08 -0400"
+        },
+        {
             "title": "Waymo says its fleet hit 170M+ miles as of December 2025, and its Waymo Driver system was involved in 92% fewer serious-injury crashes than human drivers (Andrew J. Hawkins/The Verge)",
             "link": "http://www.techmeme.com/260319/p35#a260319p35",
             "published": "Thu, 19 Mar 2026 12:00:47 -0400"
@@ -9,24 +24,14 @@
             "title": "Cursor launches Composer 2, an AI agent trained solely on coding-related data to perform autonomous, lengthy coding tasks, to compete with Anthropic and OpenAI (Rachel Metz/Bloomberg)",
             "link": "http://www.techmeme.com/260319/p34#a260319p34",
             "published": "Thu, 19 Mar 2026 11:55:02 -0400"
-        },
-        {
-            "title": "Alphabet's X spins out Anori, which seeks to streamline building approvals through a unified platform for developers and city regulators, with $26M in funding (Connie Loizos/TechCrunch)",
-            "link": "http://www.techmeme.com/260319/p33#a260319p33",
-            "published": "Thu, 19 Mar 2026 11:40:00 -0400"
-        },
-        {
-            "title": "DoorDash launches Tasks, a new app that pays delivery couriers in some markets to submit video clips and complete other tasks for training AI models (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/260319/p32#a260319p32",
-            "published": "Thu, 19 Mar 2026 11:10:01 -0400"
-        },
-        {
-            "title": "Letters: industry groups pushed back after India proposed in January that Apple, Google, and others consider pre-installing biometric ID app Aadhaar on phones (Reuters)",
-            "link": "http://www.techmeme.com/260319/p31#a260319p31",
-            "published": "Thu, 19 Mar 2026 10:55:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "The Long Farewell to Mark Zuckerberg\u2019s Metaverse",
+            "link": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
+            "published": "Thu, 19 Mar 2026 15:29:45 +0000"
+        },
         {
             "title": "A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks",
             "link": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
@@ -43,14 +48,9 @@
             "published": "Wed, 18 Mar 2026 19:17:18 +0000"
         },
         {
-            "title": "Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor",
-            "link": "https://www.nytimes.com/2026/03/18/technology/google-ai-pentagon.html",
-            "published": "Wed, 18 Mar 2026 15:30:09 +0000"
-        },
-        {
-            "title": "The Long Farewell to Mark Zuckerberg\u2019s Metaverse",
-            "link": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
-            "published": "Thu, 19 Mar 2026 15:29:45 +0000"
+            "title": "AI Replica of Val Kilmer to Appear in \u2018As Deep as the Grave\u2019",
+            "link": "https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html",
+            "published": "Thu, 19 Mar 2026 13:11:20 +0000"
         }
     ],
     "source_2": [
