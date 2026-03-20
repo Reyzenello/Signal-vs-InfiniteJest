@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Mistral CEO proposes a revenue-based levy for AI model providers in the EU, to be invested in \"new content creation and supporting Europe's cultural sectors\" (Arthur Mensch/Financial Times)",
+            "title": "A new anonymous Substack alleges AI compliance startup Delve \"faked\" compliance for startups by generating pre-populated audit reports and fabricating evidence (DeepDelver)",
+            "link": "http://www.techmeme.com/260320/p12#a260320p12",
+            "published": "Fri, 20 Mar 2026 11:35:04 -0400"
+        },
+        {
+            "title": "Google is running a \"small\" experiment replacing news headlines in search results with AI-generated ones, after adding the feature in Google Discover in January (Sean Hollister/The Verge)",
+            "link": "http://www.techmeme.com/260320/p11#a260320p11",
+            "published": "Fri, 20 Mar 2026 11:00:52 -0400"
+        },
+        {
+            "title": "Mistral's CEO proposes a revenue-based levy for AI model providers in the EU, to be invested \"in new content creation and supporting Europe's cultural sectors\" (Arthur Mensch/Financial Times)",
             "link": "http://www.techmeme.com/260320/p10#a260320p10",
             "published": "Fri, 20 Mar 2026 10:20:01 -0400"
         },
@@ -14,19 +24,14 @@
             "title": "Filing: Unitree, China's leading robot company, is aiming to raise ~$610M in its Shanghai IPO; it brought in ~$247M in revenue in 2025 and ~$41.6M in net profit (Jessica Sui/Bloomberg)",
             "link": "http://www.techmeme.com/260320/p8#a260320p8",
             "published": "Fri, 20 Mar 2026 08:50:01 -0400"
-        },
-        {
-            "title": "Sources: Amazon's ZeroOne unit is developing \"Transformer\", a phone that syncs with Alexa; it would be Amazon's second smartphone, after the Fire Phone in 2014 (Greg Bensinger/Reuters)",
-            "link": "http://www.techmeme.com/260320/p7#a260320p7",
-            "published": "Fri, 20 Mar 2026 06:35:00 -0400"
-        },
-        {
-            "title": "Shareholder letter: crypto exchange Gemini has cut ~30% of its staff since the start of 2026 and employed ~445 people as of March 1; Gemini lost $500M+ in 2025 (Olga Kharif/Bloomberg)",
-            "link": "http://www.techmeme.com/260320/p6#a260320p6",
-            "published": "Fri, 20 Mar 2026 05:55:07 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods",
+            "link": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
+            "published": "Fri, 20 Mar 2026 15:29:52 +0000"
+        },
         {
             "title": "The Long Farewell to Mark Zuckerberg\u2019s Metaverse",
             "link": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
@@ -43,11 +48,6 @@
             "published": "Thu, 19 Mar 2026 09:01:42 +0000"
         },
         {
-            "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
-            "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
-            "published": "Wed, 18 Mar 2026 19:17:18 +0000"
-        },
-        {
             "title": "\u2018A.I.-Washing\u2019 Layoffs? + Why L.L.M.s Can\u2019t Write Well + Tokenmaxxing",
             "link": "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html",
             "published": "Fri, 20 Mar 2026 11:00:03 +0000"
@@ -58,6 +58,11 @@
             "title": "IT failure leaves Hargreaves Lansdown clients unable to make transactions",
             "link": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 20 Mar 2026 11:57:18 GMT"
+        },
+        {
+            "title": "Publisher cancels horror novel's release over AI claims",
+            "link": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Mar 2026 15:30:58 GMT"
         },
         {
             "title": "False online posts fuel self-diagnosis, says study",
@@ -73,11 +78,6 @@
             "title": "US messageboard 4Chan mocks \u00a3520,000 fine for UK online safety breaches",
             "link": "https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 19 Mar 2026 12:13:04 GMT"
-        },
-        {
-            "title": "Child seen in sex abuse videos identified after researcher spots school badge",
-            "link": "https://www.bbc.com/news/articles/cvgj22e7qwyo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 19 Mar 2026 03:21:12 GMT"
         }
     ]
 }
