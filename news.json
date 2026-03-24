@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Anduril, Palantir, and Scale AI are part of the group developing software to run President Trump's planned $185B Golden Dome antimissile shield (Drew FitzGerald/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260324/p50#a260324p50",
+            "published": "Tue, 24 Mar 2026 18:40:05 -0400"
+        },
+        {
+            "title": "OpenAI CFO Sarah Friar says OpenAI is raising an additional $10B from a16z, D.E. Shaw, MGX, TPG, and others, bringing its record fundraise to \"north of $120B\" (Morgan Chittum/CNBC)",
+            "link": "http://www.techmeme.com/260324/p49#a260324p49",
+            "published": "Tue, 24 Mar 2026 18:35:02 -0400"
+        },
+        {
+            "title": "Arm CEO Rene Haas projects $25B in revenue in 2031, up from $4B in 2025, including $15B from sales of Arm's first in-house chip; ARM jumps 6%+ after hours (Katie Tarasov/CNBC)",
+            "link": "http://www.techmeme.com/260324/p48#a260324p48",
+            "published": "Tue, 24 Mar 2026 18:20:01 -0400"
+        },
+        {
             "title": "At a hearing, a US federal judge says the Pentagon's treatment of Anthropic is \"troubling\" and that \"it looks like an attempt to cripple Anthropic\" (Maria Curi/Axios)",
             "link": "http://www.techmeme.com/260324/p47#a260324p47",
             "published": "Tue, 24 Mar 2026 17:35:03 -0400"
@@ -9,21 +24,6 @@
             "title": "Disney ends its partnership with OpenAI, signed in December 2025, in which it pledged to invest $1B and agreed to license some characters to Sora (Todd Spangler/Variety)",
             "link": "http://www.techmeme.com/260324/p46#a260324p46",
             "published": "Tue, 24 Mar 2026 17:15:01 -0400"
-        },
-        {
-            "title": "A New Mexico jury finds that Meta violated state laws by failing to safeguard its platforms from child predators and orders it to pay $375M in damages (Jonathan Vanian/CNBC)",
-            "link": "http://www.techmeme.com/260324/p45#a260324p45",
-            "published": "Tue, 24 Mar 2026 17:12:00 -0400"
-        },
-        {
-            "title": "Arm says its AGI CPU offers up to 136 Neoverse V3 cores, 6GB/s memory bandwidth per core, and more than 2x performance per rack compared with x86 systems (VideoCardz.com)",
-            "link": "http://www.techmeme.com/260324/p44#a260324p44",
-            "published": "Tue, 24 Mar 2026 17:10:01 -0400"
-        },
-        {
-            "title": "Sam Altman told staff he has ceded oversight of OpenAI's safety and security teams to focus on fundraising, supply chains, and building data centers at scale (The Information)",
-            "link": "http://www.techmeme.com/260324/p43#a260324p43",
-            "published": "Tue, 24 Mar 2026 16:25:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Sat, 21 Mar 2026 02:26:36 +0000"
         },
         {
-            "title": "Judge Hears State Challenge to Trump\u2019s Tech Deal Settlement",
-            "link": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
-            "published": "Mon, 23 Mar 2026 20:39:49 +0000"
+            "title": "Meta Ordered to Pay $375 Million Over Child Safety Violations",
+            "link": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
+            "published": "Tue, 24 Mar 2026 22:27:38 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Social media bans and digital curfews to be trialled on UK teenagers",
+            "link": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Mar 2026 22:37:31 GMT"
+        },
+        {
+            "title": "Meta told to pay $375m for misleading users over child safety",
+            "link": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Mar 2026 22:27:21 GMT"
+        },
         {
             "title": "Fortnite-maker Epic Games lays off 1,000 more staff",
             "link": "https://www.bbc.com/news/articles/c5yxv5kzlv5o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
             "link": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 22 Mar 2026 00:45:45 GMT"
-        },
-        {
-            "title": "Luke Littler applies to trademark his face to combat AI fakes",
-            "link": "https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 20 Mar 2026 16:16:30 GMT"
-        },
-        {
-            "title": "Hargreaves Lansdown says IT issues which affected thousands are over",
-            "link": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 20 Mar 2026 17:44:22 GMT"
         }
     ]
 }
