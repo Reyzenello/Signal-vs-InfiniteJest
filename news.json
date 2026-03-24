@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI releases a set of prompts designed to be used with its open-weight safety model gpt-oss-safeguard that lets developers make their apps safer for teens (Amanda Silberling/TechCrunch)",
-            "link": "http://www.techmeme.com/260324/p38#a260324p38",
-            "published": "Tue, 24 Mar 2026 15:15:05 -0400"
+            "title": "Sam Altman told staff he has ceded oversight of OpenAI's safety and security teams to focus on fundraising, supply chains, and building data centers at scale (The Information)",
+            "link": "http://www.techmeme.com/260324/p43#a260324p43",
+            "published": "Tue, 24 Mar 2026 16:25:02 -0400"
         },
         {
-            "title": "Sources: OpenAI nears a deal to raise ~$10B from Abu Dhabi's MGX, Coatue, and Thrive, bringing its latest funding round to ~$120B at a $730B valuation (Bloomberg)",
-            "link": "http://www.techmeme.com/260324/p37#a260324p37",
-            "published": "Tue, 24 Mar 2026 15:05:04 -0400"
+            "title": "OpenAI plans to discontinue products that use its Sora models, including its consumer app, a Sora version for developers, and a video feature inside ChatGPT (Berber Jin/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260324/p42#a260324p42",
+            "published": "Tue, 24 Mar 2026 16:00:51 -0400"
         },
         {
-            "title": "Sources: Apple's plans for a Siri reboot include a standalone Siri app, an overhauled interface in the Dynamic Island, and Ask Siri and Write with Siri features (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/260324/p36#a260324p36",
-            "published": "Tue, 24 Mar 2026 15:02:02 -0400"
+            "title": "Two versions of LiteLLM, an interface for accessing LLMs, have been removed from PyPI after a supply chain attack injected them with credential-stealing code (Thomas Claburn/The Register)",
+            "link": "http://www.techmeme.com/260324/p41#a260324p41",
+            "published": "Tue, 24 Mar 2026 15:55:01 -0400"
         },
         {
-            "title": "Anthropic announces an \"auto mode\" that enables Claude Code to make permission-level decisions while preventing destructive actions like mass file deletion (David Gewirtz/ZDNET)",
-            "link": "http://www.techmeme.com/260324/p35#a260324p35",
-            "published": "Tue, 24 Mar 2026 14:20:01 -0400"
+            "title": "Amazon acquired New York-based Fauna Robotics, which is developing a human-like, 42-inch tall robot that can interact with people, walk, grip items, and dance (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/260324/p40#a260324p40",
+            "published": "Tue, 24 Mar 2026 15:30:00 -0400"
         },
         {
-            "title": "OpenAI revamps ChatGPT's shopping experience by letting users upload images or describe items and include criteria like their budget (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/260324/p34#a260324p34",
-            "published": "Tue, 24 Mar 2026 13:55:02 -0400"
+            "title": "Baltimore sues xAI, accusing it of violating consumer protection laws and engaging in deceptive trade practices by marketing Grok as generally safe (Lora Kolodny/CNBC)",
+            "link": "http://www.techmeme.com/260324/p39#a260324p39",
+            "published": "Tue, 24 Mar 2026 15:20:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
+            "link": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
+            "published": "Tue, 24 Mar 2026 17:00:06 +0000"
+        },
+        {
+            "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
+            "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
+            "published": "Tue, 24 Mar 2026 19:12:17 +0000"
+        },
         {
             "title": "More! More! More! Tech Workers Max Out Their A.I. Use.",
             "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
@@ -38,19 +48,9 @@
             "published": "Sat, 21 Mar 2026 02:26:36 +0000"
         },
         {
-            "title": "White House Unveils A.I. Policy Aimed at Blocking State Laws",
-            "link": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
-            "published": "Fri, 20 Mar 2026 16:52:19 +0000"
-        },
-        {
-            "title": "\u2018A.I.-Washing\u2019 Layoffs? + Why L.L.M.s Can\u2019t Write Well + Tokenmaxxing",
-            "link": "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html",
-            "published": "Fri, 20 Mar 2026 11:00:03 +0000"
-        },
-        {
-            "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
-            "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
-            "published": "Tue, 24 Mar 2026 19:12:17 +0000"
+            "title": "Judge Hears State Challenge to Trump\u2019s Tech Deal Settlement",
+            "link": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
+            "published": "Mon, 23 Mar 2026 20:39:49 +0000"
         }
     ],
     "source_2": [
