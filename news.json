@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "How Nvidia became the AI industry's most powerful financier, investing billions in startups and supporting customers who couldn't otherwise afford its chips (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260323/p46#a260323p46",
+            "published": "Mon, 23 Mar 2026 22:10:01 -0400"
+        },
+        {
+            "title": "The Internet Watch Foundation says it identified 8,029 AI-generated images and videos of realistic child sexual abuse in 2025, up 14% from the previous year (Madhumita Murgia/Financial Times)",
+            "link": "http://www.techmeme.com/260323/p45#a260323p45",
+            "published": "Mon, 23 Mar 2026 21:25:06 -0400"
+        },
+        {
+            "title": "The US State Department launches the Bureau of Emerging Threats to tackle current and future threats, including cyberattacks and AI weaponization by adversaries (Shannon K. Kingston/ABC News)",
+            "link": "http://www.techmeme.com/260323/p44#a260323p44",
+            "published": "Mon, 23 Mar 2026 21:05:01 -0400"
+        },
+        {
+            "title": "Bengaluru-based Swish, which offers a 10-minute food delivery service, raised a $38M Series B at a $139M post-money valuation, bringing its total raised to $54M (Jagmeet Singh/TechCrunch)",
+            "link": "http://www.techmeme.com/260323/p43#a260323p43",
+            "published": "Mon, 23 Mar 2026 20:00:48 -0400"
+        },
+        {
             "title": "Jury deliberations begin in New Mexico's lawsuit against Meta over children's safety risks, after both sides delivered closing arguments (Morgan Lee/Associated Press)",
             "link": "http://www.techmeme.com/260323/p42#a260323p42",
             "published": "Mon, 23 Mar 2026 19:15:01 -0400"
-        },
-        {
-            "title": "Microsoft hires a group of AI researchers from the Allen Institute for AI, including former CEO Ali Farhadi, who stepped down on March 12 (Todd Bishop/GeekWire)",
-            "link": "http://www.techmeme.com/260323/p41#a260323p41",
-            "published": "Mon, 23 Mar 2026 19:00:33 -0400"
-        },
-        {
-            "title": "The FCC is banning imports of new foreign-made consumer routers over security concerns; China is estimated to control 60%+ of the US market for home routers (David Shepardson/Reuters)",
-            "link": "http://www.techmeme.com/260323/p40#a260323p40",
-            "published": "Mon, 23 Mar 2026 18:35:01 -0400"
-        },
-        {
-            "title": "A new version of iPhone exploit kit DarkSword has been posted on GitHub; iVerify co-founder Matthias Frielingsdorf says the exploits \"will work out of the box\" (TechCrunch)",
-            "link": "http://www.techmeme.com/260323/p39#a260323p39",
-            "published": "Mon, 23 Mar 2026 18:25:00 -0400"
-        },
-        {
-            "title": "Anthropic rolls out a computer use feature for Claude Cowork and the Claude Code desktop app, in research preview on macOS for Pro and Max subscribers (Blake Stimac/CNET)",
-            "link": "http://www.techmeme.com/260323/p38#a260323p38",
-            "published": "Mon, 23 Mar 2026 18:15:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "US bans new foreign-made consumer internet routers",
+            "link": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Mar 2026 01:26:53 GMT"
+        },
+        {
             "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
             "link": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 22 Mar 2026 00:45:45 GMT"
@@ -73,11 +78,6 @@
             "title": "Publisher cancels horror novel's release over AI claims",
             "link": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 20 Mar 2026 15:30:58 GMT"
-        },
-        {
-            "title": "False online posts fuel self-diagnosis, says study",
-            "link": "https://www.bbc.com/news/articles/cvg347487dlo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 20 Mar 2026 06:18:17 GMT"
         }
     ]
 }
