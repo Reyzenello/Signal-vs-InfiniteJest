@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Reddit says it will label automated accounts that provide a service to users and will require accounts suspected of being bots to verify they are human (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/260325/p36#a260325p36",
+            "published": "Wed, 25 Mar 2026 14:50:05 -0400"
+        },
+        {
+            "title": "The jury in LA's social media trial finds Meta and YouTube harmed a young user via addictive design features and orders them to pay her $3M; Meta will pay 70% (New York Times)",
+            "link": "http://www.techmeme.com/260325/p35#a260325p35",
+            "published": "Wed, 25 Mar 2026 13:50:01 -0400"
+        },
+        {
+            "title": "Social media addiction trial: a Los Angeles jury finds Meta and YouTube were negligent and failed to warn users about the dangers of using their platforms (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/260325/p34#a260325p34",
+            "published": "Wed, 25 Mar 2026 13:35:02 -0400"
+        },
+        {
             "title": "Google launches Lyria 3 Pro music generation model, with better creative control and allowing users to create three-minute tracks, up from Lyria 3's 30 seconds (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/260325/p33#a260325p33",
             "published": "Wed, 25 Mar 2026 13:00:14 -0400"
@@ -9,24 +24,14 @@
             "title": "Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez plan to introduce legislation to pause new data center construction until AI safeguards are in place (Maria Curi/Axios)",
             "link": "http://www.techmeme.com/260325/p32#a260325p32",
             "published": "Wed, 25 Mar 2026 12:40:02 -0400"
-        },
-        {
-            "title": "Sources: cloud provider Vultr is seeking to raise $1B+ to expand its AI computing capacity, after raising $333M at a $3.5B valuation in 2024 (The Information)",
-            "link": "http://www.techmeme.com/260325/p31#a260325p31",
-            "published": "Wed, 25 Mar 2026 12:35:03 -0400"
-        },
-        {
-            "title": "Epic Microsystems, which designs power delivery architecture for better thermal and efficiency management of AI data centers, raised a $21M Series A (Chris Metinko/Axios)",
-            "link": "http://www.techmeme.com/260325/p30#a260325p30",
-            "published": "Wed, 25 Mar 2026 12:20:01 -0400"
-        },
-        {
-            "title": "Source: as part of its Google deal, Apple has full access to the Gemini model in its own data centers and can use distillation to produce smaller models (The Information)",
-            "link": "http://www.techmeme.com/260325/p29#a260325p29",
-            "published": "Wed, 25 Mar 2026 12:10:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
+            "link": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+            "published": "Wed, 25 Mar 2026 18:32:00 +0000"
+        },
         {
             "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
             "link": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
@@ -46,18 +51,18 @@
             "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
             "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
             "published": "Wed, 25 Mar 2026 11:22:07 +0000"
-        },
-        {
-            "title": "Judge Hears State Challenge to Trump\u2019s Tech Deal Settlement",
-            "link": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
-            "published": "Mon, 23 Mar 2026 20:39:49 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Meta and Google found liable in landmark social media addiction trial",
+            "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Mar 2026 18:50:55 GMT"
+        },
+        {
             "title": "Apple brings in age checks for UK iPhone users",
             "link": "https://www.bbc.com/news/articles/c20qwz9xzr9o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 25 Mar 2026 15:13:47 GMT"
+            "published": "Wed, 25 Mar 2026 17:41:20 GMT"
         },
         {
             "title": "Social media bans and digital curfews to be trialled on UK teenagers",
@@ -73,11 +78,6 @@
             "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal",
             "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 25 Mar 2026 04:48:56 GMT"
-        },
-        {
-            "title": "BTS comeback concert on Netflix draws 18.4m global viewers",
-            "link": "https://www.bbc.com/news/articles/cy513rvg91ro?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 25 Mar 2026 02:55:12 GMT"
         }
     ]
 }
