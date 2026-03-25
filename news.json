@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Chinese AI company Kuaishou reports Q4 revenue up 12% YoY to ~$5.7B, meeting est., adjusted net income up 16% YoY, and Kling text-to-video revenue of ~$49M (Rachel Yeo/Bloomberg)",
-            "link": "http://www.techmeme.com/260325/p11#a260325p11",
-            "published": "Wed, 25 Mar 2026 06:50:02 -0400"
+            "title": "Legal AI company Harvey raised $200M led by GIC and Sequoia at an $11B valuation, up from $8B in December 2025, and reports 100K+ users at 1,300+ organizations (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/260325/p20#a260325p20",
+            "published": "Wed, 25 Mar 2026 09:35:02 -0400"
         },
         {
-            "title": "X says it is updating its revenue-sharing incentives to give more weight to engagement from a user's home region, hoping to \"disincentivize\" gaming US attention (Mariella Moon/Engadget)",
-            "link": "http://www.techmeme.com/260325/p10#a260325p10",
-            "published": "Wed, 25 Mar 2026 06:40:54 -0400"
+            "title": "Sources: AI science startup Periodic Labs, founded by ex-OpenAI VP Liam Fedus and DeepMind's Ekin Cubuk, aims to raise hundreds of millions at a ~$7B valuation (Bloomberg)",
+            "link": "http://www.techmeme.com/260325/p19#a260325p19",
+            "published": "Wed, 25 Mar 2026 09:26:07 -0400"
         },
         {
-            "title": "How internet censorship tech maker Sandvine, a vendor to repressive regimes like Egypt, nearly collapsed before US restrictions forced new ownership and a pivot (Ryan Gallagher/Bloomberg)",
-            "link": "http://www.techmeme.com/260325/p9#a260325p9",
-            "published": "Wed, 25 Mar 2026 06:20:01 -0400"
+            "title": "US official: Trump plans to name Mark Zuckerberg, Larry Ellison, and Jensen Huang to the Council of Advisors on Science and Tech, co-chaired by David Sacks (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260325/p18#a260325p18",
+            "published": "Wed, 25 Mar 2026 09:15:02 -0400"
         },
         {
-            "title": "US digital rights group Holistic Resilience launched Mahsa Alert to provide Iranians with offline mapping and strike notifications, hitting 100K DAUs in days (Wired)",
-            "link": "http://www.techmeme.com/260325/p8#a260325p8",
-            "published": "Wed, 25 Mar 2026 06:05:01 -0400"
+            "title": "Apple rolls out mandatory UK age verification with iOS 26.4, requiring users to provide a credit card or ID, a first in Europe, after UK government pressure (Tim Bradshaw/Financial Times)",
+            "link": "http://www.techmeme.com/260325/p17#a260325p17",
+            "published": "Wed, 25 Mar 2026 08:35:01 -0400"
         },
         {
-            "title": "OpenAI hires Kiran Mani, the CEO of Indian streaming platform JioStar, for a newly created role leading its Asia-Pacific operations, reporting to CSO Jason Kwon (Newley Purnell/Bloomberg)",
-            "link": "http://www.techmeme.com/260325/p7#a260325p7",
-            "published": "Wed, 25 Mar 2026 05:40:37 -0400"
+            "title": "Temu owner PDD reports Q4 revenue up 12% YoY to ~$18B and net profit down 11% YoY to ~$3.56B, below ~$4B est., as it seeks to retain merchants on its platform (Tracy Qu/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260325/p16#a260325p16",
+            "published": "Wed, 25 Mar 2026 08:20:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
+            "link": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
+            "published": "Tue, 24 Mar 2026 23:07:42 +0000"
+        },
+        {
+            "title": "Meta Ordered to Pay $375 Million Over Child Safety Violations",
+            "link": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
+            "published": "Tue, 24 Mar 2026 22:27:38 +0000"
+        },
         {
             "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
             "link": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
@@ -35,22 +45,12 @@
         {
             "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
             "link": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
-            "published": "Tue, 24 Mar 2026 19:12:17 +0000"
+            "published": "Wed, 25 Mar 2026 11:22:07 +0000"
         },
         {
-            "title": "More! More! More! Tech Workers Max Out Their A.I. Use.",
-            "link": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
-            "published": "Fri, 20 Mar 2026 18:06:03 +0000"
-        },
-        {
-            "title": "Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods",
-            "link": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
-            "published": "Sat, 21 Mar 2026 02:26:36 +0000"
-        },
-        {
-            "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
-            "link": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
-            "published": "Tue, 24 Mar 2026 23:07:42 +0000"
+            "title": "Judge Hears State Challenge to Trump\u2019s Tech Deal Settlement",
+            "link": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
+            "published": "Mon, 23 Mar 2026 20:39:49 +0000"
         }
     ],
     "source_2": [
@@ -65,7 +65,7 @@
             "published": "Tue, 24 Mar 2026 23:16:55 GMT"
         },
         {
-            "title": "OpenAI ends Disney partnership as it closes Sora video-making app",
+            "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal",
             "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 25 Mar 2026 04:48:56 GMT"
         },
