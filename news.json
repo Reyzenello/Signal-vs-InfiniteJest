@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "GitHub says it will use Copilot interaction data, including inputs, outputs, and code snippets, to train its AI models starting April 24, unless users opt out (Corbin Davenport/How-To Geek)",
+            "link": "http://www.techmeme.com/260325/p43#a260325p43",
+            "published": "Wed, 25 Mar 2026 19:35:03 -0400"
+        },
+        {
+            "title": "Google sets a 2029 deadline for its post-quantum cryptography migration, aiming to \"secure the quantum era\" as \"frontiers may be closer than they appear\" (Dan Goodin/Ars Technica)",
+            "link": "http://www.techmeme.com/260325/p42#a260325p42",
+            "published": "Wed, 25 Mar 2026 19:05:02 -0400"
+        },
+        {
             "title": "Musk's lawyers ask a Delaware judge to step back from cases involving him, after her account \"liked\" a LinkedIn post celebrating his defeat in a California case (Sujeet Indap/Financial Times)",
             "link": "http://www.techmeme.com/260325/p41#a260325p41",
             "published": "Wed, 25 Mar 2026 17:50:05 -0400"
@@ -14,16 +24,6 @@
             "title": "Source: Meta on Wednesday laid off around 700 employees in the Reality Labs unit, as well as some in recruiting, sales, and Facebook (Eli Tan/New York Times)",
             "link": "http://www.techmeme.com/260325/p39#a260325p39",
             "published": "Wed, 25 Mar 2026 16:05:02 -0400"
-        },
-        {
-            "title": "Nintendo says new first-party games exclusive to Switch 2 will have different prices for physical and digital versions in the US, beginning in May (Andy Robinson/Video Games Chronicle)",
-            "link": "http://www.techmeme.com/260325/p38#a260325p38",
-            "published": "Wed, 25 Mar 2026 15:45:01 -0400"
-        },
-        {
-            "title": "ARC Prize Foundation unveils ARC-AGI-3, an AI benchmark with simple video-game-like scenarios designed to measure on-the-fly reasoning rather than memory recall (Mark Sullivan/Fast Company)",
-            "link": "http://www.techmeme.com/260325/p37#a260325p37",
-            "published": "Wed, 25 Mar 2026 15:25:02 -0400"
         }
     ],
     "source_1": [
@@ -57,7 +57,7 @@
         {
             "title": "Meta and YouTube found liable in landmark social media addiction trial",
             "link": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 25 Mar 2026 21:06:23 GMT"
+            "published": "Wed, 25 Mar 2026 22:59:23 GMT"
         },
         {
             "title": "Apple brings in age checks for UK iPhone users",
