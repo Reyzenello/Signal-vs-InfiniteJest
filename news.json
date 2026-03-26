@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "GitHub says it will use Copilot interaction data, including inputs, outputs, and code snippets, to train its AI models starting April 24, unless users opt out (Corbin Davenport/How-To Geek)",
-            "link": "http://www.techmeme.com/260325/p43#a260325p43",
-            "published": "Wed, 25 Mar 2026 19:35:03 -0400"
+            "title": "Sources: Reflection AI, which is developing open foundation models, seeks to raise $2.5B at a pre-money valuation of $25B; JPMorgan is in talks to participate (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260325/p48#a260325p48",
+            "published": "Wed, 25 Mar 2026 23:15:14 -0400"
         },
         {
-            "title": "Google sets a 2029 deadline for its post-quantum cryptography migration, aiming to \"secure the quantum era\" as \"frontiers may be closer than they appear\" (Dan Goodin/Ars Technica)",
-            "link": "http://www.techmeme.com/260325/p42#a260325p42",
-            "published": "Wed, 25 Mar 2026 19:05:02 -0400"
+            "title": "Filing: Apple settled its lawsuit against former Vision Pro designer Di Liu, who agreed to return confidential documents to Apple and pay monetary damages (Chance Miller/9to5Mac)",
+            "link": "http://www.techmeme.com/260325/p47#a260325p47",
+            "published": "Wed, 25 Mar 2026 22:30:02 -0400"
         },
         {
-            "title": "Musk's lawyers ask a Delaware judge to step back from cases involving him, after her account \"liked\" a LinkedIn post celebrating his defeat in a California case (Sujeet Indap/Financial Times)",
-            "link": "http://www.techmeme.com/260325/p41#a260325p41",
-            "published": "Wed, 25 Mar 2026 17:50:05 -0400"
+            "title": "OpenRouter data: lower-cost Chinese AI models by groups such as DeepSeek and MiniMax have surpassed US rivals in token consumption since last month (Zijing Wu/Financial Times)",
+            "link": "http://www.techmeme.com/260325/p46#a260325p46",
+            "published": "Wed, 25 Mar 2026 22:05:01 -0400"
         },
         {
-            "title": "Singapore-based Startale, developer of the Strium blockchain for tokenized securities and JPYSC and USDSC stablecoins, raised a $63M Series A from SBI and Sony (Francisco Rodrigues/CoinDesk)",
-            "link": "http://www.techmeme.com/260325/p40#a260325p40",
-            "published": "Wed, 25 Mar 2026 17:25:03 -0400"
+            "title": "San Francisco has become a laboratory for police surveillance after early resistance; SFPD recorded 700 drone flights last month, up from 93 in February 2025 (Cyrus Farivar/The San Francisco Standard)",
+            "link": "http://www.techmeme.com/260325/p45#a260325p45",
+            "published": "Wed, 25 Mar 2026 21:50:04 -0400"
         },
         {
-            "title": "Source: Meta on Wednesday laid off around 700 employees in the Reality Labs unit, as well as some in recruiting, sales, and Facebook (Eli Tan/New York Times)",
-            "link": "http://www.techmeme.com/260325/p39#a260325p39",
-            "published": "Wed, 25 Mar 2026 16:05:02 -0400"
+            "title": "Isara, which aims to build software that can coordinate the work of thousands of AI agents, raised $94M and says OpenAI backed the startup at a $650M valuation (Berber Jin/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260325/p44#a260325p44",
+            "published": "Wed, 25 Mar 2026 20:55:01 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Leon Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
             "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
-            "published": "Wed, 25 Mar 2026 22:28:20 +0000"
+            "published": "Thu, 26 Mar 2026 00:52:23 +0000"
         }
     ],
     "source_2": [
@@ -65,6 +65,11 @@
             "published": "Wed, 25 Mar 2026 17:41:20 GMT"
         },
         {
+            "title": "Rocket stocks soar on report Musk's SpaceX to file for share sale",
+            "link": "https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Mar 2026 02:01:39 GMT"
+        },
+        {
             "title": "Social media bans and digital curfews to be trialled on UK teenagers",
             "link": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 24 Mar 2026 22:37:31 GMT"
@@ -73,11 +78,6 @@
             "title": "Meta told to pay $375m for misleading users over child safety",
             "link": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 24 Mar 2026 23:16:55 GMT"
-        },
-        {
-            "title": "OpenAI closes Sora video-making app and cancels $1bn Disney deal",
-            "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 25 Mar 2026 04:48:56 GMT"
         }
     ]
 }
