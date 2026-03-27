@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Aetherflux, founded by Robinhood co-founder Baiju Bhatt to develop orbital data centers, aims to raise $250M to $300M in a Series B at a $2B valuation (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260327/p10#a260327p10",
+            "published": "Fri, 27 Mar 2026 10:45:02 -0400"
+        },
+        {
+            "title": "Anthropic says it's testing an AI model that's a \"step change\" in performance after a draft blog in an unsecured data store revealed the Claude Mythos model (Beatrice Nolan/Fortune)",
+            "link": "http://www.techmeme.com/260327/p9#a260327p9",
+            "published": "Fri, 27 Mar 2026 10:05:44 -0400"
+        },
+        {
             "title": "OpenAI launches Codex plugins to standardize repeatable AI workflows, with 20+ initial integrations such as Figma, Notion, Gmail, and Slack (David Gewirtz/ZDNET)",
             "link": "http://www.techmeme.com/260327/p8#a260327p8",
             "published": "Fri, 27 Mar 2026 09:35:44 -0400"
@@ -14,43 +24,33 @@
             "title": "Unity plans to shut down its ironSource advertising network on April 30 and has begun the process of divesting Supersonic, its casual game publishing arm (Sophie Shulman/CTech)",
             "link": "http://www.techmeme.com/260327/p6#a260327p6",
             "published": "Fri, 27 Mar 2026 08:15:16 -0400"
-        },
-        {
-            "title": "SoftBank says it has secured a $40B bridge loan maturing in 2027 from JPMorgan Chase, Goldman Sachs, and other banks, to fund further investment in OpenAI (Akash Sriram/Reuters)",
-            "link": "http://www.techmeme.com/260327/p5#a260327p5",
-            "published": "Fri, 27 Mar 2026 06:50:26 -0400"
-        },
-        {
-            "title": "Sources: Alibaba and ByteDance plan to order Huawei's new 950PR AI chip after tests show better CUDA compatibility; Huawei targets ~750K 950PR shipments in 2026 (Reuters)",
-            "link": "http://www.techmeme.com/260327/p4#a260327p4",
-            "published": "Fri, 27 Mar 2026 05:40:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Juries Take the Lead in the Push for Child Online Safety",
-            "link": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
-            "published": "Thu, 26 Mar 2026 15:00:41 +0000"
+            "title": "Judge Stays Pentagon\u2019s Labeling of Anthropic as \u2018Supply Chain Risk\u2019",
+            "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
+            "published": "Fri, 27 Mar 2026 14:45:52 +0000"
         },
         {
-            "title": "Snapchat Investigated in Europe Over Child Safety Policies",
-            "link": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
-            "published": "Thu, 26 Mar 2026 18:04:39 +0000"
+            "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
+            "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
+            "published": "Fri, 27 Mar 2026 04:00:21 +0000"
         },
         {
-            "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives",
-            "link": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
-            "published": "Wed, 25 Mar 2026 19:22:34 +0000"
-        },
-        {
-            "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
-            "link": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
-            "published": "Thu, 26 Mar 2026 16:21:28 +0000"
+            "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
+            "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
+            "published": "Thu, 26 Mar 2026 18:37:34 +0000"
         },
         {
             "title": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
             "link": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
             "published": "Fri, 27 Mar 2026 11:00:09 +0000"
+        },
+        {
+            "title": "Why the Verdict Against Meta and YouTube Could Change Social Media",
+            "link": "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html",
+            "published": "Fri, 27 Mar 2026 12:25:36 +0000"
         }
     ],
     "source_2": [
