@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI launches Codex plugins to standardize repeatable AI workflows, with 20+ initial integrations such as Figma, Notion, Gmail, and Slack (David Gewirtz/ZDNET)",
+            "link": "http://www.techmeme.com/260327/p8#a260327p8",
+            "published": "Fri, 27 Mar 2026 09:35:44 -0400"
+        },
+        {
+            "title": "Sony says it plans to raise the price of its PlayStation 5 consoles globally beginning on April 2; the PS5 will cost $650, PS5 Digital $600, and PS5 Pro $900 (Emma Roth/The Verge)",
+            "link": "http://www.techmeme.com/260327/p7#a260327p7",
+            "published": "Fri, 27 Mar 2026 08:45:05 -0400"
+        },
+        {
+            "title": "Unity plans to shut down its ironSource advertising network on April 30 and has begun the process of divesting Supersonic, its casual game publishing arm (Sophie Shulman/CTech)",
+            "link": "http://www.techmeme.com/260327/p6#a260327p6",
+            "published": "Fri, 27 Mar 2026 08:15:16 -0400"
+        },
+        {
             "title": "SoftBank says it has secured a $40B bridge loan maturing in 2027 from JPMorgan Chase, Goldman Sachs, and other banks, to fund further investment in OpenAI (Akash Sriram/Reuters)",
             "link": "http://www.techmeme.com/260327/p5#a260327p5",
             "published": "Fri, 27 Mar 2026 06:50:26 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Alibaba and ByteDance plan to order Huawei's new 950PR AI chip after tests show better CUDA compatibility; Huawei targets ~750K 950PR shipments in 2026 (Reuters)",
             "link": "http://www.techmeme.com/260327/p4#a260327p4",
             "published": "Fri, 27 Mar 2026 05:40:01 -0400"
-        },
-        {
-            "title": "Sources: Moonshot AI may scrap its Cayman structure for a China or Hong Kong entity to prepare for a Hong Kong IPO and plans to raise funding at ~$18B valuation (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260327/p3#a260327p3",
-            "published": "Fri, 27 Mar 2026 02:10:01 -0400"
-        },
-        {
-            "title": "Meta's Oversight Board says Community Notes aren't a proper substitute for fact checking, and warns expanding them beyond the US could pose human rights risks (Andrew Deck/Nieman Lab)",
-            "link": "http://www.techmeme.com/260327/p2#a260327p2",
-            "published": "Fri, 27 Mar 2026 01:10:02 -0400"
-        },
-        {
-            "title": "Tazapay, which builds cross-border payment infrastructure for fintech and web3 firms, says it closed a Series B extension, bringing its total Series B to $36M (Zoltan Vardai/Cointelegraph)",
-            "link": "http://www.techmeme.com/260327/p1#a260327p1",
-            "published": "Fri, 27 Mar 2026 00:00:47 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
             "link": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
-            "published": "Fri, 27 Mar 2026 11:00:08 +0000"
+            "published": "Fri, 27 Mar 2026 11:00:09 +0000"
         }
     ],
     "source_2": [
@@ -62,7 +62,7 @@
         {
             "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
             "link": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Mar 2026 11:07:35 GMT"
+            "published": "Fri, 27 Mar 2026 12:00:39 GMT"
         },
         {
             "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
