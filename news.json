@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "After Copilot injected an ad into a pull request on GitHub, referencing Raycast, GitHub says it \"disabled product tips entirely thanks to the feedback\" (Sean Endicott/Windows Central)",
+            "link": "http://www.techmeme.com/260330/p26#a260330p26",
+            "published": "Mon, 30 Mar 2026 11:10:01 -0400"
+        },
+        {
+            "title": "Examining the Smartphone Theory of Everything, which blames phones for anxiety, populism, and polarization, despite harms being concentrated in the Anglosphere (Derek Thompson)",
+            "link": "http://www.techmeme.com/260330/p25#a260330p25",
+            "published": "Mon, 30 Mar 2026 10:55:02 -0400"
+        },
+        {
+            "title": "ScaleOps, which makes automated cloud spend tools, raised a $130M Series C led by Insight Partners at an $800M+ valuation, bringing its total funding to $210M+ (Meir Orbach/CTech)",
+            "link": "http://www.techmeme.com/260330/p24#a260330p24",
+            "published": "Mon, 30 Mar 2026 10:10:01 -0400"
+        },
+        {
             "title": "Uber agrees to acquire Berlin-based chauffeur booking app Blacklane for an undisclosed sum to bolster its Uber Elite service, set to close by the end of 2026 (Natalie Lung/Bloomberg)",
             "link": "http://www.techmeme.com/260330/p23#a260330p23",
             "published": "Mon, 30 Mar 2026 09:50:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Microsoft rolls out Copilot Cowork to its Frontier program for early-stage testing, including a new Researcher Critique tool using Anthropic and OpenAI models (Jared Spataro/Microsoft 365 Blog)",
             "link": "http://www.techmeme.com/260330/p22#a260330p22",
             "published": "Mon, 30 Mar 2026 09:40:01 -0400"
-        },
-        {
-            "title": "Fabless AI chip startup Rebellions raised $400M in a pre-IPO round at a $2.34B valuation, bringing its total funding to $850M, with $650M in the past six months (Lucas Ropek/TechCrunch)",
-            "link": "http://www.techmeme.com/260330/p21#a260330p21",
-            "published": "Mon, 30 Mar 2026 09:10:02 -0400"
-        },
-        {
-            "title": "New York-based Qodo, which offers AI agents for code review, testing, and governance, raised a $70M Series B led by Qumra, taking its total funding to $120M (Kate Park/TechCrunch)",
-            "link": "http://www.techmeme.com/260330/p20#a260330p20",
-            "published": "Mon, 30 Mar 2026 08:50:01 -0400"
-        },
-        {
-            "title": "OpenAI's ChatGPT app store now has 300+ app integrations six months after its launch, but faces sluggish adoption due to limited functionality for many apps (Natalie Lung/Bloomberg)",
-            "link": "http://www.techmeme.com/260330/p19#a260330p19",
-            "published": "Mon, 30 Mar 2026 08:05:01 -0400"
         }
     ],
     "source_1": [
@@ -33,24 +33,24 @@
             "published": "Sun, 29 Mar 2026 16:04:03 +0000"
         },
         {
-            "title": "Judge Stays Pentagon\u2019s Labeling of Anthropic as \u2018Supply Chain Risk\u2019",
-            "link": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
-            "published": "Fri, 27 Mar 2026 14:45:53 +0000"
-        },
-        {
-            "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
-            "link": "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
-            "published": "Fri, 27 Mar 2026 04:00:21 +0000"
-        },
-        {
-            "title": "The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran",
-            "link": "https://www.nytimes.com/2026/03/26/technology/binance-iran-us-sanctions.html",
-            "published": "Thu, 26 Mar 2026 18:37:34 +0000"
+            "title": "New Political Group to Push Trump\u2019s A.I. Agenda in Midterms",
+            "link": "https://www.nytimes.com/2026/03/29/business/trump-artificial-intelligence-pac-midterms.html",
+            "published": "Sun, 29 Mar 2026 19:02:16 +0000"
         },
         {
             "title": "What Is YouTube\u2019s Dominance Doing to Us? We Asked Its C.E.O.",
             "link": "https://www.nytimes.com/2026/03/28/magazine/neal-mohan-interview.html",
             "published": "Sat, 28 Mar 2026 18:51:42 +0000"
+        },
+        {
+            "title": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
+            "link": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
+            "published": "Fri, 27 Mar 2026 11:00:09 +0000"
+        },
+        {
+            "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi",
+            "link": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
+            "published": "Fri, 27 Mar 2026 19:11:58 +0000"
         }
     ],
     "source_2": [
