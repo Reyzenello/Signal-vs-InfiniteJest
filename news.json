@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI introduces a Codex plugin for Claude Code, letting users invoke Codex from inside Claude Code to review code or delegate tasks (Vaibhav (VB) Srivastav/@reach_vb)",
+            "link": "http://www.techmeme.com/260330/p42#a260330p42",
+            "published": "Mon, 30 Mar 2026 17:50:01 -0400"
+        },
+        {
+            "title": "Leaked January presentation: Coatue estimated that Anthropic would lose $14B in EBITDA on $18B in revenue in 2026 and reach a $1.995T valuation in 2030 (Eric Newcomer/Newcomer)",
+            "link": "http://www.techmeme.com/260330/p41#a260330p41",
+            "published": "Mon, 30 Mar 2026 17:20:01 -0400"
+        },
+        {
+            "title": "Alibaba releases its Qwen3.5-Omni omnimodal LLM with support for 10+ hours of audio input, saying the Plus variant surpasses Gemini 3.1 Pro on audio benchmarks (Qwen)",
+            "link": "http://www.techmeme.com/260330/p40#a260330p40",
+            "published": "Mon, 30 Mar 2026 17:15:01 -0400"
+        },
+        {
             "title": "Levels.fyi: median base-salary offers for US software engineers at VC-backed startups have risen 25% to $200K since 2022; total compensation has risen just 18% (Katherine Bindley/Wall Street Journal)",
             "link": "http://www.techmeme.com/260330/p39#a260330p39",
             "published": "Mon, 30 Mar 2026 16:35:01 -0400"
@@ -9,24 +24,14 @@
             "title": "Gurman: Apple pulls Apple Intelligence in China, after accidentally launching it in the country; there is no imminent launch as Apple has no regulatory approval (Ryan Christoffel/9to5Mac)",
             "link": "http://www.techmeme.com/260330/p38#a260330p38",
             "published": "Mon, 30 Mar 2026 15:15:00 -0400"
-        },
-        {
-            "title": "Sources: US prosecutors are exploring whether some prediction market bets, including on the capture of Nicol\u00e1s Maduro, violated insider trading and other laws (Kara Scannell/CNN)",
-            "link": "http://www.techmeme.com/260330/p37#a260330p37",
-            "published": "Mon, 30 Mar 2026 14:40:12 -0400"
-        },
-        {
-            "title": "Meta is testing an Instagram Plus subscription in a few countries, offering features including anonymous Story viewing and extended 48-hour Story durations (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/260330/p36#a260330p36",
-            "published": "Mon, 30 Mar 2026 14:30:00 -0400"
-        },
-        {
-            "title": "Quinnipiac poll: 55% of Americans say AI will do more harm than good in their day-to-day lives, and 65% oppose building data centers in their community (Emily Birnbaum/Bloomberg)",
-            "link": "http://www.techmeme.com/260330/p35#a260330p35",
-            "published": "Mon, 30 Mar 2026 14:25:08 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
+            "link": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
+            "published": "Mon, 30 Mar 2026 21:43:37 +0000"
+        },
         {
             "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
             "link": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
@@ -43,14 +48,9 @@
             "published": "Sun, 29 Mar 2026 16:04:03 +0000"
         },
         {
-            "title": "What Is YouTube\u2019s Dominance Doing to Us? We Asked Its C.E.O.",
-            "link": "https://www.nytimes.com/2026/03/28/magazine/neal-mohan-interview.html",
-            "published": "Sat, 28 Mar 2026 18:51:42 +0000"
-        },
-        {
-            "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi",
-            "link": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
-            "published": "Fri, 27 Mar 2026 19:11:58 +0000"
+            "title": "What to Know About California\u2019s Executive Order on A.I.",
+            "link": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
+            "published": "Mon, 30 Mar 2026 21:45:00 +0000"
         }
     ],
     "source_2": [
