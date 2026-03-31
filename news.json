@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "Official data shows India's smartphone exports hit $11B in H1 FY2026, up 55% YoY; analysts warn the Iran war could trigger a 22% to 25% drop in the coming weeks (Quratulain Rehbar/Nikkei Asia)",
+            "title": "Raspberry Pi reports 2025 revenue up 25% YoY to $323.2M, driven primarily by demand in the US and China, and says it sold more chips than computers, a first (Bloomberg)",
+            "link": "http://www.techmeme.com/260331/p5#a260331p5",
+            "published": "Tue, 31 Mar 2026 05:00:50 -0400"
+        },
+        {
+            "title": "A supply chain attack compromises HTTP client Axios, which has 100M weekly npm downloads, introducing a malicious dependency and deploying a multi-stage payload (Socket)",
+            "link": "http://www.techmeme.com/260331/p4#a260331p4",
+            "published": "Tue, 31 Mar 2026 04:35:01 -0400"
+        },
+        {
+            "title": "Indian government data: India's smartphone exports rose 55% YoY to $11B in H1 FY 2026; analysts warn the Iran war may trigger a 22%-25% drop in the coming weeks (Quratulain Rehbar/Nikkei Asia)",
             "link": "http://www.techmeme.com/260331/p3#a260331p3",
             "published": "Tue, 31 Mar 2026 01:35:00 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "A look at Babel Audio, which pairs anonymous strangers to record their conversations, starting at $17/hour, and bundles those recordings into AI training data (Issie Lapowsky/Bloomberg)",
             "link": "http://www.techmeme.com/260331/p1#a260331p1",
             "published": "Tue, 31 Mar 2026 00:00:13 -0400"
-        },
-        {
-            "title": "AI coding agents will drastically alter both the practice and the economics of exploit development, automating the discovery of zero-day vulnerabilities (Thomas H. Ptacek/sockpuppet.org)",
-            "link": "http://www.techmeme.com/260330/p47#a260330p47",
-            "published": "Mon, 30 Mar 2026 21:50:02 -0400"
-        },
-        {
-            "title": "California Gov. Gavin Newsom signs a first-of-its-kind executive order requiring safety and privacy guardrails from AI companies that contract with the state (Cecilia Kang/New York Times)",
-            "link": "http://www.techmeme.com/260330/p46#a260330p46",
-            "published": "Mon, 30 Mar 2026 21:10:28 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Sun, 29 Mar 2026 16:04:03 +0000"
         },
         {
-            "title": "What to Know About California\u2019s Executive Order on A.I.",
-            "link": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
-            "published": "Tue, 31 Mar 2026 00:39:15 +0000"
+            "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
+            "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
+            "published": "Tue, 31 Mar 2026 09:12:40 +0000"
         }
     ],
     "source_2": [
