@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Microsoft is in talks with Chevron and investment fund Engine No. 1 over a $7B Texas power plant that would initially generate 2.5 GW of electricity (Bloomberg)",
+            "link": "http://www.techmeme.com/260331/p61#a260331p61",
+            "published": "Tue, 31 Mar 2026 18:35:01 -0400"
+        },
+        {
+            "title": "Sources: threat actors stole Cisco source code by breaching its internal development environment using credentials from a recent Trivy supply chain attack (Lawrence Abrams/BleepingComputer)",
+            "link": "http://www.techmeme.com/260331/p60#a260331p60",
+            "published": "Tue, 31 Mar 2026 18:30:12 -0400"
+        },
+        {
+            "title": "An excerpt from the book The Infinity Machine details how DeepMind's early governance battles with Google changed Demis Hassabis from an idealist into a realist (Sebastian Mallaby/Colossus)",
+            "link": "http://www.techmeme.com/260331/p59#a260331p59",
+            "published": "Tue, 31 Mar 2026 18:10:00 -0400"
+        },
+        {
+            "title": "Samsung launches Hearapy, a free Android app to mitigate motion sickness by playing a 100Hz sine wave tone; a 60-second session can provide two hours of relief (Andrew Liszewski/The Verge)",
+            "link": "http://www.techmeme.com/260331/p58#a260331p58",
+            "published": "Tue, 31 Mar 2026 17:55:03 -0400"
+        },
+        {
             "title": "Austin-based Saronic, which builds military autonomous ships, raised a $1.75B Series D led by Kleiner Perkins at a $9.25B valuation, up from $4B in Feb. 2025 (Samantha Subin/CNBC)",
             "link": "http://www.techmeme.com/260331/p57#a260331p57",
             "published": "Tue, 31 Mar 2026 17:40:02 -0400"
-        },
-        {
-            "title": "Sequoia says Doug Leone is returning in a newly created role of chairman, after he announced his retirement in 2022 from his role as \"senior steward\" (Iain Martin/Forbes)",
-            "link": "http://www.techmeme.com/260331/p56#a260331p56",
-            "published": "Tue, 31 Mar 2026 17:30:02 -0400"
-        },
-        {
-            "title": "Anthropic confirms it leaked parts of Claude Code's source code, saying the leak was \"a release packaging issue caused by human error, not a security breach\" (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/260331/p55#a260331p55",
-            "published": "Tue, 31 Mar 2026 17:15:01 -0400"
-        },
-        {
-            "title": "Snap shares climbed 14% on Tuesday after activist investor Irenic suggested changes to boost the stock's value 7x, such as cutting staff by 21% and ending Specs (Lola Murti/CNBC)",
-            "link": "http://www.techmeme.com/260331/p54#a260331p54",
-            "published": "Tue, 31 Mar 2026 16:55:01 -0400"
-        },
-        {
-            "title": "Yupp, which raised a $33M seed led by a16z crypto in 2024 for a crowdsourced AI model picker, shuts down, saying it didn't reach strong product-market fit (Julie Bort/TechCrunch)",
-            "link": "http://www.techmeme.com/260331/p53#a260331p53",
-            "published": "Tue, 31 Mar 2026 16:50:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Tech giant Oracle makes 'significant' job cuts",
+            "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 31 Mar 2026 21:50:41 GMT"
+        },
+        {
             "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
             "link": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 31 Mar 2026 02:00:24 GMT"
@@ -73,11 +78,6 @@
             "title": "Why Chinese tech companies are racing to set up in Hong Kong",
             "link": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 29 Mar 2026 23:07:12 GMT"
-        },
-        {
-            "title": "PS5 price hiked by \u00a390 due to global 'pressures'",
-            "link": "https://www.bbc.com/news/articles/czx9852nkexo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 27 Mar 2026 16:07:08 GMT"
         }
     ]
 }
