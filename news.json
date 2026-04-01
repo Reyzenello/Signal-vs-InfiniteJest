@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Austin-based Coder, which helps developers build and run code from local devices to the cloud, raised a $90M Series C led by KKR, after raising $35M in 2024 (Julia Hornstein/The Information)",
-            "link": "http://www.techmeme.com/260401/p15#a260401p15",
-            "published": "Wed, 01 Apr 2026 06:45:01 -0400"
+            "title": "US kid safety groups say they didn't know OpenAI had entirely funded the Parents & Kids Safe AI Coalition to promote CA legislation until after it was announced (Emily Shugerman/The San Francisco ...)",
+            "link": "http://www.techmeme.com/260401/p21#a260401p21",
+            "published": "Wed, 01 Apr 2026 09:55:03 -0400"
         },
         {
-            "title": "How a small German state's bid to replace Microsoft with open-source alternatives like Linux and Kamailio faces issues, as the EU pushes \"digital sovereignty\" (Laura Pitel/Financial Times)",
-            "link": "http://www.techmeme.com/260401/p14#a260401p14",
-            "published": "Wed, 01 Apr 2026 06:25:01 -0400"
+            "title": "Sources: Amazon's \"sponsored prompts\" for its Rufus AI assistant are yielding significantly lower traffic than traditional ads, but are more cost-effective (Catherine Perloff/The Information)",
+            "link": "http://www.techmeme.com/260401/p20#a260401p20",
+            "published": "Wed, 01 Apr 2026 09:30:01 -0400"
         },
         {
-            "title": "Sources: amid the Iran war, Asian bankers say rising power prices and energy security are becoming a bigger consideration in data center financing decisions (Bloomberg)",
-            "link": "http://www.techmeme.com/260401/p13#a260401p13",
-            "published": "Wed, 01 Apr 2026 06:10:01 -0400"
+            "title": "Intel agrees to pay $14.2B to repurchase Apollo's 49% stake in the Fab 34 joint venture in Leixlip, Ireland, and plans to issue $6.5B in new debt to fund it (Ian King/Bloomberg)",
+            "link": "http://www.techmeme.com/260401/p19#a260401p19",
+            "published": "Wed, 01 Apr 2026 09:20:01 -0400"
         },
         {
-            "title": "As Apple turns 50, a look at how a management course in postwar Japan paved the way for Steve Jobs' obsession with quality and its dominance in the iPhone era (Patrick McGee/Financial Times)",
-            "link": "http://www.techmeme.com/260401/p12#a260401p12",
-            "published": "Wed, 01 Apr 2026 05:55:01 -0400"
+            "title": "India says foreign investment gains made before 2017 are exempt from its General Anti-Avoidance Rules, after a court required Tiger to pay $1.6B on a 2018 sale (Reuters)",
+            "link": "http://www.techmeme.com/260401/p18#a260401p18",
+            "published": "Wed, 01 Apr 2026 08:25:01 -0400"
         },
         {
-            "title": "Microsoft says it is on track to invest $5.5B in cloud and AI infrastructure in Singapore through 2029, after announcing plans to invest $1B+ in Thailand (Kimberley Kao/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260401/p11#a260401p11",
-            "published": "Wed, 01 Apr 2026 05:40:03 -0400"
+            "title": "Anthropic is racing to contain the fallout after accidentally leaking Claude Code's source code, issuing a copyright takedown request to remove 8,000+ copies (Sam Schechner/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260401/p17#a260401p17",
+            "published": "Wed, 01 Apr 2026 08:05:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Claude Code users hitting usage limits 'way faster than expected'",
+            "link": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 01 Apr 2026 11:59:19 GMT"
+        },
+        {
+            "title": "Mass robotaxi malfunction halts traffic in Chinese city",
+            "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 01 Apr 2026 11:34:31 GMT"
+        },
+        {
             "title": "Thousands lose their jobs in deep cuts at tech giant Oracle",
             "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Apr 2026 07:09:46 GMT"
@@ -68,16 +78,6 @@
             "title": "Kris Jenner's image spreads in Chinese social media good luck trend",
             "link": "https://www.bbc.com/news/articles/c0rx57zgz52o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 30 Mar 2026 12:59:23 GMT"
-        },
-        {
-            "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-            "link": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 29 Mar 2026 23:07:04 GMT"
-        },
-        {
-            "title": "Why Chinese tech companies are racing to set up in Hong Kong",
-            "link": "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 29 Mar 2026 23:07:12 GMT"
         }
     ]
 }
