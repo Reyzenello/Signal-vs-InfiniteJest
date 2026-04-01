@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Amazon is in talks to acquire Globalstar to bolster its low Earth orbit satellite business; Apple's 20% stake in Globalstar is a complicating factor (Financial Times)",
+            "link": "http://www.techmeme.com/260401/p36#a260401p36",
+            "published": "Wed, 01 Apr 2026 19:05:03 -0400"
+        },
+        {
             "title": "Solana-based DeFi platform Drift warns users about an \"active attack\" on its protocol; Arkham data said over $250M had moved from Drift to an interim wallet (Helene Braun/CoinDesk)",
             "link": "http://www.techmeme.com/260401/p35#a260401p35",
             "published": "Wed, 01 Apr 2026 17:45:00 -0400"
@@ -19,11 +24,6 @@
             "title": "Franklin Templeton agrees to acquire CoinFund spinoff 250 Digital to form Franklin Crypto, which will offer strategies designed for institutional investors (Vicky Ge Huang/Wall Street Journal)",
             "link": "http://www.techmeme.com/260401/p32#a260401p32",
             "published": "Wed, 01 Apr 2026 14:50:01 -0400"
-        },
-        {
-            "title": "Super Micro co-founder Yih-Shyan Liaw pleads not guilty to US federal charges of helping smuggle billions of dollars' worth of Nvidia-powered servers to China (Bob Van Voris/Bloomberg)",
-            "link": "http://www.techmeme.com/260401/p31#a260401p31",
-            "published": "Wed, 01 Apr 2026 14:10:01 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Goodbye \u2018Geeky Hunk\u2019? Gmail Users Can Now Change Their Usernames.",
             "link": "https://www.nytimes.com/2026/04/01/technology/gmail-change-email-address-google.html",
-            "published": "Wed, 01 Apr 2026 22:14:49 +0000"
+            "published": "Wed, 01 Apr 2026 22:14:50 +0000"
         },
         {
             "title": "Apple\u2019s Fitness Chief, Who Was Accused of Harassment, Is Retiring",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Elon Musk's SpaceX moves to become a publicly traded company",
+            "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 01 Apr 2026 22:35:23 GMT"
+        },
         {
             "title": "Peppa Pig and Transformers owner Hasbro hit by cyber-attack",
             "link": "https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Thousands lose their jobs in deep cuts at tech giant Oracle",
             "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Apr 2026 07:09:46 GMT"
-        },
-        {
-            "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
-            "link": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 31 Mar 2026 02:00:24 GMT"
         }
     ]
 }
