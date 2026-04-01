@@ -1,46 +1,41 @@
 {
     "techmeme": [
         {
+            "title": "SEC filing: Hasbro confirms a cyberattack and says it may take \"several weeks\" before the incident is resolved, after it detected an intrusion on March 28 (Zack Whittaker/TechCrunch)",
+            "link": "http://www.techmeme.com/260401/p24#a260401p24",
+            "published": "Wed, 01 Apr 2026 10:55:05 -0400"
+        },
+        {
+            "title": "Secondary share marketplaces say OpenAI shares have fallen out of favor, in some cases becoming difficult to unload, as investors pivot quickly to Anthropic (Hema Parmar/Bloomberg)",
+            "link": "http://www.techmeme.com/260401/p23#a260401p23",
+            "published": "Wed, 01 Apr 2026 10:45:14 -0400"
+        },
+        {
+            "title": "Anthropic's Claude Code leak reveals its \"Kairos\" updates, including letting Claude work in the background and using a \"dream mode\" to consolidate its memories (The Information)",
+            "link": "http://www.techmeme.com/260401/p22#a260401p22",
+            "published": "Wed, 01 Apr 2026 10:20:02 -0400"
+        },
+        {
             "title": "US kid safety groups say they didn't know OpenAI had entirely funded the Parents & Kids Safe AI Coalition to promote CA legislation until after it was announced (Emily Shugerman/The San Francisco ...)",
             "link": "http://www.techmeme.com/260401/p21#a260401p21",
             "published": "Wed, 01 Apr 2026 09:55:03 -0400"
         },
         {
-            "title": "Sources: Amazon's \"sponsored prompts\" for its Rufus AI assistant are yielding significantly lower traffic than traditional ads, but are more cost-effective (Catherine Perloff/The Information)",
+            "title": "Sources: Amazon's \"sponsored prompts\" for its Rufus AI shopping assistant are driving significantly lower traffic than its traditional ads, but they cost less (Catherine Perloff/The Information)",
             "link": "http://www.techmeme.com/260401/p20#a260401p20",
             "published": "Wed, 01 Apr 2026 09:30:01 -0400"
-        },
-        {
-            "title": "Intel agrees to pay $14.2B to repurchase Apollo's 49% stake in the Fab 34 joint venture in Leixlip, Ireland, and plans to issue $6.5B in new debt to fund it (Ian King/Bloomberg)",
-            "link": "http://www.techmeme.com/260401/p19#a260401p19",
-            "published": "Wed, 01 Apr 2026 09:20:01 -0400"
-        },
-        {
-            "title": "India says foreign investment gains made before 2017 are exempt from its General Anti-Avoidance Rules, after a court required Tiger to pay $1.6B on a 2018 sale (Reuters)",
-            "link": "http://www.techmeme.com/260401/p18#a260401p18",
-            "published": "Wed, 01 Apr 2026 08:25:01 -0400"
-        },
-        {
-            "title": "Anthropic is racing to contain the fallout after accidentally leaking Claude Code's source code, issuing a copyright takedown request to remove 8,000+ copies (Sam Schechner/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260401/p17#a260401p17",
-            "published": "Wed, 01 Apr 2026 08:05:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "One of Apple\u2019s First Employees Looks Back at 50 Years",
+            "link": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
+            "published": "Wed, 01 Apr 2026 15:07:11 +0000"
+        },
+        {
             "title": "How Instagram\u2019s \u2018PG-13\u2019 Branding for Teens Unraveled",
             "link": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
             "published": "Tue, 31 Mar 2026 13:00:11 +0000"
-        },
-        {
-            "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
-            "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
-            "published": "Tue, 31 Mar 2026 10:36:33 +0000"
-        },
-        {
-            "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
-            "link": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
-            "published": "Mon, 30 Mar 2026 22:03:23 +0000"
         },
         {
             "title": "OpenAI Adds Another $12 Billion to Latest Funding Round",
@@ -48,9 +43,14 @@
             "published": "Tue, 31 Mar 2026 21:38:20 +0000"
         },
         {
-            "title": "One of Apple\u2019s First Employees Looks Back at 50 Years",
-            "link": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
-            "published": "Wed, 01 Apr 2026 09:02:40 +0000"
+            "title": "Can Science Predict When a Study Won\u2019t Hold Up?",
+            "link": "https://www.nytimes.com/2026/04/01/science/ai-experiments-replication.html",
+            "published": "Wed, 01 Apr 2026 15:10:21 +0000"
+        },
+        {
+            "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
+            "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
+            "published": "Tue, 31 Mar 2026 10:36:33 +0000"
         }
     ],
     "source_2": [
