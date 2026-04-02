@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Challenger: US tech sector job cuts rose to 18,720 in March, up 24% YoY, taking the Q1 total to 52,000+; AI accounted for 25% of layoffs across all industries (Julia Fanzeres/Bloomberg)",
+            "title": "An interview with Mustafa Suleyman on Microsoft's AI reorg, how revising its OpenAI contract \"unlocked [Microsoft's] ability to pursue superintelligence\", more (Hayden Field/The Verge)",
+            "link": "http://www.techmeme.com/260402/p15#a260402p15",
+            "published": "Thu, 02 Apr 2026 10:30:01 -0400"
+        },
+        {
+            "title": "Challenger: US tech sector job cuts rose 24%+ YoY to 18,720 in March, taking Q1's tech total to 52,000+; AI accounted for 25% of layoffs across all industries (Julia Fanzeres/Bloomberg)",
             "link": "http://www.techmeme.com/260402/p14#a260402p14",
             "published": "Thu, 02 Apr 2026 08:45:01 -0400"
         },
@@ -11,7 +16,7 @@
             "published": "Thu, 02 Apr 2026 08:15:01 -0400"
         },
         {
-            "title": "How AI helped Medvi, a telehealth provider of GLP-1 weight-loss drugs with just two full-time employees, hit $401M in 2025 sales, as it tracks for $1.8B in 2026 (Erin Griffith/New York Times)",
+            "title": "How AI helped Medvi, a telehealth provider of GLP-1 weight-loss drugs with just two employees, hit $401M in 2025 sales; it's tracking for $1.8B in 2026 sales (Erin Griffith/New York Times)",
             "link": "http://www.techmeme.com/260402/p12#a260402p12",
             "published": "Thu, 02 Apr 2026 07:05:36 -0400"
         },
@@ -19,41 +24,41 @@
             "title": "OpenClaw launches an official China mirror, with ByteDance providing the servers to host the Chinese-language service, as OpenClaw explodes in the country (Juro Osawa/The Information)",
             "link": "http://www.techmeme.com/260402/p11#a260402p11",
             "published": "Thu, 02 Apr 2026 06:50:23 -0400"
-        },
-        {
-            "title": "Sources: Chinese optics company and Nvidia supplier Innolight confidentially filed for a Hong Kong IPO that could raise $3B+; Innolight is listed in Shenzhen (Bloomberg)",
-            "link": "http://www.techmeme.com/260402/p10#a260402p10",
-            "published": "Thu, 02 Apr 2026 06:25:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+            "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+            "published": "Thu, 02 Apr 2026 09:02:30 +0000"
+        },
+        {
+            "title": "A.I. Could Change the World. But First It Is Changing Silicon Valley.",
+            "link": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html",
+            "published": "Thu, 02 Apr 2026 09:01:51 +0000"
+        },
+        {
+            "title": "The Revival of the Fashion-Tech Love Affair",
+            "link": "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
+            "published": "Thu, 02 Apr 2026 09:03:45 +0000"
+        },
         {
             "title": "Elon Musk\u2019s SpaceX Files to Go Public, Setting Stage for Huge I.P.O.",
             "link": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
             "published": "Wed, 01 Apr 2026 19:41:16 +0000"
         },
         {
-            "title": "A.I. Companies Shatter Fund-Raising Records, as Boom Accelerates",
-            "link": "https://www.nytimes.com/2026/04/01/technology/ai-companies-fund-raising-records.html",
-            "published": "Wed, 01 Apr 2026 18:13:37 +0000"
-        },
-        {
-            "title": "One of Apple\u2019s First Employees Looks Back at 50 Years",
-            "link": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
-            "published": "Wed, 01 Apr 2026 17:26:29 +0000"
-        },
-        {
             "title": "Europe Pushes for a Gentler Internet for Children",
             "link": "https://www.nytimes.com/2026/04/02/world/europe/european-union-social-media-internet-regulation-children.html",
             "published": "Thu, 02 Apr 2026 09:06:33 +0000"
-        },
-        {
-            "title": "Worried About A.I. Taking Your Job? That\u2019s Not Very \u2018Agentic\u2019 of You.",
-            "link": "https://www.nytimes.com/2026/04/02/magazine/agentic-ai-agency-tech.html",
-            "published": "Thu, 02 Apr 2026 09:03:59 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Fewer UK adults posting on social media, Ofcom finds",
+            "link": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 02 Apr 2026 14:38:24 GMT"
+        },
         {
             "title": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
             "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Mass robotaxi malfunction halts traffic in Chinese city",
             "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Apr 2026 11:34:31 GMT"
-        },
-        {
-            "title": "Thousands lose their jobs in deep cuts at tech giant Oracle",
-            "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 01 Apr 2026 07:09:46 GMT"
         }
     ]
 }
