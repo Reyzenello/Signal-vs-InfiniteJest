@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A US bill seeks to ban exports of DUV lithography tech to China, whose imports of chipmaking equipment reportedly grew from $10.7B in 2016 to ~$51.1B in 2025 (Jared Perlo/NBC News)",
+            "link": "http://www.techmeme.com/260403/p6#a260403p6",
+            "published": "Fri, 03 Apr 2026 10:15:01 -0400"
+        },
+        {
             "title": "Some startups and researchers who can't access the most advanced chips are adopting a \"frugal AI\" approach, building smaller models on open-weight systems (Rina Chandran/Rest of World)",
             "link": "http://www.techmeme.com/260403/p5#a260403p5",
             "published": "Fri, 03 Apr 2026 08:50:00 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources: Chinese companies move to cement their role in humanoid robot supply chains as Tesla and others turn to China for components the US sees as strategic (Raffaele Huang/Wall Street Journal)",
             "link": "http://www.techmeme.com/260403/p2#a260403p2",
             "published": "Fri, 03 Apr 2026 00:55:02 -0400"
-        },
-        {
-            "title": "Arcee AI releases Trinity-Large-Thinking, a 399B-parameter text-only reasoning model under an Apache 2.0 license, allowing full customization and commercial use (Carl Franzen/VentureBeat)",
-            "link": "http://www.techmeme.com/260403/p1#a260403p1",
-            "published": "Fri, 03 Apr 2026 00:00:44 -0400"
         }
     ],
     "source_1": [
