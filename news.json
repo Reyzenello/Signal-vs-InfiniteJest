@@ -1,12 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "The US NLRB rules that Amazon must negotiate with the Amazon Labor Union, which represents ~5K workers at its Staten Island warehouse; Amazon plans to appeal (Greg Bensinger/Reuters)",
+            "title": "Some startups and researchers who can't access the most advanced chips are adopting a \"frugal AI\" approach, building smaller models on open-weight systems (Rina Chandran/Rest of World)",
+            "link": "http://www.techmeme.com/260403/p5#a260403p5",
+            "published": "Fri, 03 Apr 2026 08:50:00 -0400"
+        },
+        {
+            "title": "The US NLRB rules that Amazon must negotiate with the Amazon Labor Union, which represents ~5,000 workers at its Staten Island warehouse; Amazon plans to appeal (Greg Bensinger/Reuters)",
             "link": "http://www.techmeme.com/260403/p4#a260403p4",
             "published": "Fri, 03 Apr 2026 05:45:14 -0400"
         },
         {
-            "title": "Matt Mullenweg says EmDash, while open source, is designed \"to sell more Cloudflare services\" and lacks the cross-platform democratization of WordPress (Matt Mullenweg)",
+            "title": "Automattic CEO Matt Mullenweg says EmDash, while open source, is designed \"to sell more Cloudflare services\" and lacks WordPress' cross-platform democratization (Matt Mullenweg)",
             "link": "http://www.techmeme.com/260403/p3#a260403p3",
             "published": "Fri, 03 Apr 2026 01:21:04 -0400"
         },
@@ -16,14 +21,9 @@
             "published": "Fri, 03 Apr 2026 00:55:02 -0400"
         },
         {
-            "title": "Arcee AI releases Trinity-Large-Thinking, a 399B-parameter MoE AI model under an Apache 2.0 license, allowing full customization and commercial use (Carl Franzen/VentureBeat)",
+            "title": "Arcee AI releases Trinity-Large-Thinking, a 399B-parameter text-only reasoning model under an Apache 2.0 license, allowing full customization and commercial use (Carl Franzen/VentureBeat)",
             "link": "http://www.techmeme.com/260403/p1#a260403p1",
             "published": "Fri, 03 Apr 2026 00:00:44 -0400"
-        },
-        {
-            "title": "Anthropic researchers find that an AI model's representations of emotion can influence its behavior \"in ways that matter,\" such as driving it to act unethically (Nat Rubio-Licht/The Deep View)",
-            "link": "http://www.techmeme.com/260402/p41#a260402p41",
-            "published": "Thu, 02 Apr 2026 23:36:01 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "The Revival of the Fashion-Tech Love Affair",
             "link": "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
-            "published": "Thu, 02 Apr 2026 09:03:45 +0000"
+            "published": "Fri, 03 Apr 2026 12:10:13 +0000"
         },
         {
             "title": "Elon Musk\u2019s SpaceX Files to Go Public, Setting Stage for Huge I.P.O.",
