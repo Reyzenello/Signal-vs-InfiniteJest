@@ -1,41 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic says Claude subscriptions will no longer cover usage on third-party tools like OpenClaw starting April 4 at 12pm PT, to better manage capacity (Boris Cherny/@bcherny)",
+            "title": "The Artemis II moon mission is one of the first times NASA has let astronauts fly with smartphones, giving them modified iPhones for taking photos and videos (Kalley Huang/New York Times)",
+            "link": "http://www.techmeme.com/260403/p24#a260403p24",
+            "published": "Fri, 03 Apr 2026 21:15:01 -0400"
+        },
+        {
+            "title": "Health data startup Bevel's CEO pushes back against Whoop's lawsuit that alleges Bevel copied the look of the Whoop app, saying Whoop's actions are \"lawfare\" (Leila Sheridan/Inc.com)",
+            "link": "http://www.techmeme.com/260403/p23#a260403p23",
+            "published": "Fri, 03 Apr 2026 20:55:00 -0400"
+        },
+        {
+            "title": "Sources: Mark Zuckerberg is back to writing code after a two-decade hiatus, submitting three diffs to Meta's monorepo, and is a heavy user of Claude Code CLI (Gergely Orosz/The Pragmatic Engineer)",
+            "link": "http://www.techmeme.com/260403/p22#a260403p22",
+            "published": "Fri, 03 Apr 2026 20:25:01 -0400"
+        },
+        {
+            "title": "Anthropic says Claude subscriptions will no longer cover usage on third-party tools like OpenClaw starting April 4 at 12pm PT, to better manage capacity (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/260403/p21#a260403p21",
+            "published": "Fri, 03 Apr 2026 20:02:33 -0400"
+        },
+        {
+            "title": "Starting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party tools like OpenClaw. You can still use these tools with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key. (Boris Cherny/@bcherny)",
             "link": "http://www.techmeme.com/260403/p20#a260403p20",
             "published": "Fri, 03 Apr 2026 19:35:07 -0400"
-        },
-        {
-            "title": "Filing: Anthropic has formed AnthroPAC, a new PAC that will be funded exclusively and voluntarily by its employees and is expected to be bipartisan (Miranda Nazzaro/The Hill)",
-            "link": "http://www.techmeme.com/260403/p19#a260403p19",
-            "published": "Fri, 03 Apr 2026 18:50:01 -0400"
-        },
-        {
-            "title": "Sources: Meta's \"Project Walleye\" Ohio data center seeks $3B in loans in a first-of-its-kind deal where lenders will fund both the building and the power assets (Financial Times)",
-            "link": "http://www.techmeme.com/260403/p18#a260403p18",
-            "published": "Fri, 03 Apr 2026 18:25:00 -0400"
-        },
-        {
-            "title": "Sources: Meta has paused its work with Mercor while it investigates a security breach at the data vendor; OpenAI says it is investigating the security incident (Wired)",
-            "link": "http://www.techmeme.com/260403/p17#a260403p17",
-            "published": "Fri, 03 Apr 2026 17:45:02 -0400"
-        },
-        {
-            "title": "Utah launches a one-year pilot program allowing Legion Health's AI chatbot to renew prescriptions for 15 low-risk psychiatric maintenance medications (Robert Hart/The Verge)",
-            "link": "http://www.techmeme.com/260403/p16#a260403p16",
-            "published": "Fri, 03 Apr 2026 17:00:54 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Big Banks Seeking a Piece of SpaceX\u2019s I.P.O. Must Subscribe to Elon Musk\u2019s Grok",
             "link": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
-            "published": "Fri, 03 Apr 2026 18:23:05 +0000"
+            "published": "Fri, 03 Apr 2026 18:23:06 +0000"
         },
         {
             "title": "OpenAI Buys Streaming Show \u2018TBPN,\u2019 Aiming to Change Narrative on A.I.",
             "link": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
-            "published": "Fri, 03 Apr 2026 17:53:28 +0000"
+            "published": "Fri, 03 Apr 2026 17:53:29 +0000"
         },
         {
             "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs",
+            "link": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 04 Apr 2026 00:03:41 GMT"
+        },
+        {
             "title": "Fewer UK adults posting on social media, Ofcom finds",
             "link": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 02 Apr 2026 14:38:24 GMT"
@@ -73,11 +78,6 @@
             "title": "Claude Code users hitting usage limits 'way faster than expected'",
             "link": "https://www.bbc.com/news/articles/ce8l2q5yq51o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Apr 2026 11:59:19 GMT"
-        },
-        {
-            "title": "Mass robotaxi malfunction halts traffic in Chinese city",
-            "link": "https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 01 Apr 2026 11:34:31 GMT"
         }
     ]
 }
