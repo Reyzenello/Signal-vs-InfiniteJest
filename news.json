@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The US IRS is yet to issue guidelines on whether prediction market gains should be taxed as derivatives, gambling winnings, or income, worrying accountants (Kate Knibbs/Wired)",
-            "link": "http://www.techmeme.com/260407/p18#a260407p18",
-            "published": "Tue, 07 Apr 2026 06:55:01 -0400"
+            "title": "Q&A with Sundar Pichai on the history of Google and AI, speed and Search, Google's AI comeback, bottlenecks, capital allocation, how Google works, and more (John Collison/Cheeky Pint)",
+            "link": "http://www.techmeme.com/260407/p26#a260407p26",
+            "published": "Tue, 07 Apr 2026 09:50:01 -0400"
         },
         {
-            "title": "Analysis: Gemini 3-based AI Overviews are accurate ~90% of the time, meaning across 5T searches per year, tens of millions of answers are erroneous every hour (New York Times)",
-            "link": "http://www.techmeme.com/260407/p17#a260407p17",
-            "published": "Tue, 07 Apr 2026 06:40:08 -0400"
+            "title": "GoDaddy integrates Cloudflare's AI Crawl Control into its hosting platform, enabling site owners to block, permit, or possibly monetize automated crawler access (Alistair Barr/Business Insider)",
+            "link": "http://www.techmeme.com/260407/p25#a260407p25",
+            "published": "Tue, 07 Apr 2026 09:40:04 -0400"
         },
         {
-            "title": "The US Treasury says Robinhood and BNY will work with the federal government to handle tax-sheltered \"Trump Accounts\" for children when they launch this summer (Stacy Cowley/New York Times)",
-            "link": "http://www.techmeme.com/260407/p16#a260407p16",
-            "published": "Tue, 07 Apr 2026 06:25:04 -0400"
+            "title": "Natter, an AI platform for large-scale video conversation insights, raised a $23M Series A led by Renegade Partners and says it grew revenue 5x in 2025 (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/260407/p24#a260407p24",
+            "published": "Tue, 07 Apr 2026 09:30:00 -0400"
         },
         {
-            "title": "MLB rolls out \"robot umps\", or an Automated Ball-Strike System, using Sony-made advanced cameras to help officiate games, but it often validates human umpires (Austin Carr/Bloomberg)",
-            "link": "http://www.techmeme.com/260407/p15#a260407p15",
-            "published": "Tue, 07 Apr 2026 06:05:01 -0400"
+            "title": "Adobe launches Acrobat Spaces, a free AI study tool to help students generate flashcards, quizzes, and Express presentations without logging in (Ivan Mehta/TechCrunch)",
+            "link": "http://www.techmeme.com/260407/p23#a260407p23",
+            "published": "Tue, 07 Apr 2026 09:15:01 -0400"
         },
         {
-            "title": "South Korea is deploying thousands of ChatGPT-enabled social care robots to help elderly people; over-65s now account for ~20% of the country's 51M people (Financial Times)",
-            "link": "http://www.techmeme.com/260407/p14#a260407p14",
-            "published": "Tue, 07 Apr 2026 05:50:01 -0400"
+            "title": "Silicon Valley investors say annual recurring revenue, a popular metric with AI startups, is unreliable because it lacks SEC definitions and can be inflated (Annie Bang/Bloomberg)",
+            "link": "http://www.techmeme.com/260407/p22#a260407p22",
+            "published": "Tue, 07 Apr 2026 08:55:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
+            "link": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 07 Apr 2026 11:55:47 GMT"
+        },
+        {
             "title": "Businesses scramble to get noticed by AI search",
             "link": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Apr 2026 23:20:52 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
             "link": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 04 Apr 2026 23:56:55 GMT"
-        },
-        {
-            "title": "Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs",
-            "link": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 04 Apr 2026 00:03:41 GMT"
         }
     ]
 }
