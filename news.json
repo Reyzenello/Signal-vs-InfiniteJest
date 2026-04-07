@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "The UK says Russia-linked hacking group APT28 is hijacking popular internet routers from MikroTik, TP-Link, and others to steal credentials and redirect traffic (Ryan Gallagher/Bloomberg)",
-            "link": "http://www.techmeme.com/260407/p34#a260407p34",
-            "published": "Tue, 07 Apr 2026 12:25:01 -0400"
+            "title": "Interviews with Anthropic executives on why Claude Mythos Preview is a cybersecurity \"reckoning\", not releasing it publicly over misuse concerns, and more (Kevin Roose/New York Times)",
+            "link": "http://www.techmeme.com/260407/p41#a260407p41",
+            "published": "Tue, 07 Apr 2026 15:10:01 -0400"
         },
         {
-            "title": "Los Angeles-based Hermeus, which aims to build unmanned hypersonic fighter aircraft, raised $200M led by Khosla Ventures and $150M in debt at a $1B valuation (Sean O'Kane/TechCrunch)",
-            "link": "http://www.techmeme.com/260407/p33#a260407p33",
-            "published": "Tue, 07 Apr 2026 12:00:51 -0400"
+            "title": "Waterloo-based Mappedin, which uses AI and LiDAR to create and maintain 3D digital maps of indoor spaces, raised $24.5M, bringing its total funding to $35M (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/260407/p40#a260407p40",
+            "published": "Tue, 07 Apr 2026 15:00:01 -0400"
         },
         {
-            "title": "Asus Zenbook A16 review: the $1,599 laptop uses the fast and power hungry Snapdragon X2 Elite Extreme with 18 cores, but a plain design and includes bloatware (Andrew E. Freedman/Tom's Hardware)",
-            "link": "http://www.techmeme.com/260407/p32#a260407p32",
-            "published": "Tue, 07 Apr 2026 11:45:01 -0400"
+            "title": "Anthropic's Project Glasswing includes AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, Microsoft, Nvidia, Palo Alto Networks, and others (David Gewirtz/ZDNET)",
+            "link": "http://www.techmeme.com/260407/p39#a260407p39",
+            "published": "Tue, 07 Apr 2026 14:35:01 -0400"
         },
         {
-            "title": "True Footage, which uses AI trained on years of appraisal data to generate property valuations, raised a $40M Series C led by Cox Enterprises' Socium Ventures (Natalie Breymeyer/Axios)",
-            "link": "http://www.techmeme.com/260407/p31#a260407p31",
-            "published": "Tue, 07 Apr 2026 11:20:00 -0400"
+            "title": "Anthropic says Mythos Preview is a general-purpose model and found thousands of high-severity vulnerabilities, including some in every major OS and web browser (Anthropic)",
+            "link": "http://www.techmeme.com/260407/p38#a260407p38",
+            "published": "Tue, 07 Apr 2026 14:26:25 -0400"
         },
         {
-            "title": "Spotify expands Prompted Playlists, its AI feature for creating playlists, to include podcasts, for Premium users in the US, Canada, the UK, and other countries (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/260407/p30#a260407p30",
-            "published": "Tue, 07 Apr 2026 11:05:02 -0400"
+            "title": "Anthropic commits up to $100M in usage credits for Project Glasswing, along with $4M in direct donations to open-source security organizations (Greg Otto/CyberScoop)",
+            "link": "http://www.techmeme.com/260407/p37#a260407p37",
+            "published": "Tue, 07 Apr 2026 14:20:08 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity \u2018Reckoning\u2019",
+            "link": "https://www.nytimes.com/2026/04/07/technology/anthropic-claims-its-new-ai-model-mythos-is-a-cybersecurity-reckoning.html",
+            "published": "Tue, 07 Apr 2026 18:00:09 +0000"
+        },
+        {
             "title": "How Accurate Are Google\u2019s A.I. Overviews?",
             "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html",
-            "published": "Tue, 07 Apr 2026 09:00:17 +0000"
+            "published": "Tue, 07 Apr 2026 18:48:13 +0000"
         },
         {
             "title": "The Big Bang: A.I. Has Created a Code Overload",
@@ -38,19 +43,14 @@
             "published": "Mon, 06 Apr 2026 16:27:32 +0000"
         },
         {
-            "title": "A.I. Is on Its Way to Upending Cybersecurity",
-            "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
-            "published": "Mon, 06 Apr 2026 18:28:29 +0000"
-        },
-        {
             "title": "What Teens Are Doing With Those Role-Playing Chatbots",
             "link": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
             "published": "Mon, 06 Apr 2026 21:38:55 +0000"
         },
         {
-            "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
-            "link": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
-            "published": "Mon, 06 Apr 2026 14:54:30 +0000"
+            "title": "A.I. Is on Its Way to Upending Cybersecurity",
+            "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
+            "published": "Tue, 07 Apr 2026 18:29:48 +0000"
         }
     ],
     "source_2": [
