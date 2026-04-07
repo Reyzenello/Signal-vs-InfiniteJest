@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Meta has an internal leaderboard dubbed \"Claudeonomics\" where employees compete on AI-token usage and earn rewards like \"Token Legend\" status (Jyoti Mann/The Information)",
+            "link": "http://www.techmeme.com/260407/p12#a260407p12",
+            "published": "Tue, 07 Apr 2026 04:35:00 -0400"
+        },
+        {
+            "title": "Israel-based Q-Factor, which is developing a quantum computer based on neutral atom technology, emerges from stealth with a $24M seed led by NFX and TPY Capital (Sophie Shulman/CTech)",
+            "link": "http://www.techmeme.com/260407/p11#a260407p11",
+            "published": "Tue, 07 Apr 2026 04:20:00 -0400"
+        },
+        {
+            "title": "A cryptography engineer calls for urgent rollout of post-quantum cryptography schemes, saying the risk of inaction is now unacceptable, after Google's warning (Filippo Valsorda)",
+            "link": "http://www.techmeme.com/260407/p10#a260407p10",
+            "published": "Tue, 07 Apr 2026 04:05:00 -0400"
+        },
+        {
+            "title": "OpenAI announces a Safety Fellowship program for external researchers, engineers, and practitioners to study the safety and alignment of advanced AI systems (OpenAI)",
+            "link": "http://www.techmeme.com/260407/p9#a260407p9",
+            "published": "Tue, 07 Apr 2026 03:55:00 -0400"
+        },
+        {
             "title": "A look at the gold rush for firms claiming to help brands get cited by AI search tools, via tactics like hiding instructions behind \"Summarize with AI\" buttons (Mia Sato/The Verge)",
             "link": "http://www.techmeme.com/260407/p8#a260407p8",
             "published": "Tue, 07 Apr 2026 02:40:02 -0400"
-        },
-        {
-            "title": "A Taiwan intelligence report to lawmakers says China is targeting Taiwan to obtain its chip manufacturing tech and talent to break through global \"containment\" (Reuters)",
-            "link": "http://www.techmeme.com/260407/p7#a260407p7",
-            "published": "Tue, 07 Apr 2026 02:25:01 -0400"
-        },
-        {
-            "title": "Sources: AI music startup Suno's licensing talks with UMG and Sony have stalled; labels argue that AI tools like Suno rely on human-made music and should pay (Anna Nicolaou/Financial Times)",
-            "link": "http://www.techmeme.com/260407/p6#a260407p6",
-            "published": "Tue, 07 Apr 2026 02:10:00 -0400"
-        },
-        {
-            "title": "Oracle reinstates the CFO role, appointing Hilary Maxson after Safra Catz became principal financial officer in 2014, amid investor scrutiny over AI spending (Jaspreet Singh/Reuters)",
-            "link": "http://www.techmeme.com/260407/p5#a260407p5",
-            "published": "Tue, 07 Apr 2026 01:55:03 -0400"
-        },
-        {
-            "title": "A look at Tencent-backed Even Realities, which makes $600 G2 smartglasses with no camera; Omdia says AI smartglasses shipments grew 322% YoY to 8.7M in 2025 (William Langley/Financial Times)",
-            "link": "http://www.techmeme.com/260407/p4#a260407p4",
-            "published": "Tue, 07 Apr 2026 01:50:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 03 Apr 2026 11:00:03 +0000"
         },
         {
-            "title": "A.I. Is on Its Way to Upending Cybersecurity",
-            "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
-            "published": "Mon, 06 Apr 2026 18:28:29 +0000"
+            "title": "How Accurate Are Google\u2019s A.I. Overviews?",
+            "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html",
+            "published": "Tue, 07 Apr 2026 09:00:17 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Businesses scramble to get noticed by AI search",
             "link": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Apr 2026 23:20:52 GMT"
+        },
+        {
+            "title": "China is winning one AI race, the US another - but either might pull ahead",
+            "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 07 Apr 2026 05:13:12 GMT"
         },
         {
             "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
@@ -73,11 +78,6 @@
             "title": "Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs",
             "link": "https://www.bbc.com/news/articles/cj60r2kdnw1o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 04 Apr 2026 00:03:41 GMT"
-        },
-        {
-            "title": "Fewer UK adults posting on social media, Ofcom finds",
-            "link": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 02 Apr 2026 14:38:24 GMT"
         }
     ]
 }
