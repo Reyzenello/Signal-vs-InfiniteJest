@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The UK says Russia-linked hacking group APT28 is hijacking popular internet routers from MikroTik, TP-Link, and others to steal credentials and redirect traffic (Ryan Gallagher/Bloomberg)",
+            "link": "http://www.techmeme.com/260407/p34#a260407p34",
+            "published": "Tue, 07 Apr 2026 12:25:01 -0400"
+        },
+        {
+            "title": "Los Angeles-based Hermeus, which aims to build unmanned hypersonic fighter aircraft, raised $200M led by Khosla Ventures and $150M in debt at a $1B valuation (Sean O'Kane/TechCrunch)",
+            "link": "http://www.techmeme.com/260407/p33#a260407p33",
+            "published": "Tue, 07 Apr 2026 12:00:51 -0400"
+        },
+        {
+            "title": "Asus Zenbook A16 review: the $1,599 laptop uses the fast and power hungry Snapdragon X2 Elite Extreme with 18 cores, but a plain design and includes bloatware (Andrew E. Freedman/Tom's Hardware)",
+            "link": "http://www.techmeme.com/260407/p32#a260407p32",
+            "published": "Tue, 07 Apr 2026 11:45:01 -0400"
+        },
+        {
             "title": "True Footage, which uses AI trained on years of appraisal data to generate property valuations, raised a $40M Series C led by Cox Enterprises' Socium Ventures (Natalie Breymeyer/Axios)",
             "link": "http://www.techmeme.com/260407/p31#a260407p31",
             "published": "Tue, 07 Apr 2026 11:20:00 -0400"
@@ -9,51 +24,41 @@
             "title": "Spotify expands Prompted Playlists, its AI feature for creating playlists, to include podcasts, for Premium users in the US, Canada, the UK, and other countries (Ivan Mehta/TechCrunch)",
             "link": "http://www.techmeme.com/260407/p30#a260407p30",
             "published": "Tue, 07 Apr 2026 11:05:02 -0400"
-        },
-        {
-            "title": "The Trump administration proposes cutting CISA's budget for 2027 by $707M+ to help the agency refocus on its \"core mission\", not \"weaponization and waste\" (Zack Whittaker/TechCrunch)",
-            "link": "http://www.techmeme.com/260407/p29#a260407p29",
-            "published": "Tue, 07 Apr 2026 10:25:01 -0400"
-        },
-        {
-            "title": "Intel says it will join Elon Musk's Terafab AI chip complex project along with SpaceX, xAI, and Tesla to help produce processors for robotics and data centers (Deborah Sophia/Reuters)",
-            "link": "http://www.techmeme.com/260407/p28#a260407p28",
-            "published": "Tue, 07 Apr 2026 10:15:01 -0400"
-        },
-        {
-            "title": "Aria Networks, which builds what it calls the world's first AI-native network to work with any AI chip, raised a $125M Series A from Sutter Hill and others (Juby Babu/Reuters)",
-            "link": "http://www.techmeme.com/260407/p27#a260407p27",
-            "published": "Tue, 07 Apr 2026 10:00:35 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Big Banks Seeking a Piece of SpaceX\u2019s I.P.O. Must Subscribe to Elon Musk\u2019s Grok",
-            "link": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
-            "published": "Fri, 03 Apr 2026 18:23:06 +0000"
-        },
-        {
-            "title": "OpenAI Buys Streaming Show \u2018TBPN,\u2019 Aiming to Change Narrative on A.I.",
-            "link": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
-            "published": "Fri, 03 Apr 2026 17:53:29 +0000"
-        },
-        {
-            "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
-            "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
-            "published": "Thu, 02 Apr 2026 09:02:30 +0000"
-        },
-        {
-            "title": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT",
-            "link": "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html",
-            "published": "Tue, 07 Apr 2026 15:13:25 +0000"
-        },
-        {
             "title": "How Accurate Are Google\u2019s A.I. Overviews?",
             "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html",
             "published": "Tue, 07 Apr 2026 09:00:17 +0000"
+        },
+        {
+            "title": "The Big Bang: A.I. Has Created a Code Overload",
+            "link": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
+            "published": "Mon, 06 Apr 2026 16:27:32 +0000"
+        },
+        {
+            "title": "A.I. Is on Its Way to Upending Cybersecurity",
+            "link": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
+            "published": "Mon, 06 Apr 2026 18:28:29 +0000"
+        },
+        {
+            "title": "What Teens Are Doing With Those Role-Playing Chatbots",
+            "link": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
+            "published": "Mon, 06 Apr 2026 21:38:55 +0000"
+        },
+        {
+            "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
+            "link": "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
+            "published": "Mon, 06 Apr 2026 14:54:30 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
+            "link": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 07 Apr 2026 15:39:33 GMT"
+        },
         {
             "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
             "link": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
             "link": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 05 Apr 2026 22:07:40 GMT"
-        },
-        {
-            "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
-            "link": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 04 Apr 2026 23:56:55 GMT"
         }
     ]
 }
