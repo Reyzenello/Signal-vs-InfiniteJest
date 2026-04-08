@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Alibaba and China Telecom launch a data center in southern China that is powered by 10,000 of Alibaba's Zhenwu chips designed for AI training and inferencing (Arjun Kharpal/CNBC)",
+            "link": "http://www.techmeme.com/260408/p23#a260408p23",
+            "published": "Wed, 08 Apr 2026 11:10:01 -0400"
+        },
+        {
+            "title": "Lookonchain: three anonymous Polymarket wallets made well-timed Iran ceasefire wagers, netting $480K+ in profits; a $60M April 7 contract remains under dispute (Emily Nicolle/Bloomberg)",
+            "link": "http://www.techmeme.com/260408/p22#a260408p22",
+            "published": "Wed, 08 Apr 2026 10:40:01 -0400"
+        },
+        {
+            "title": "An Iranian union official says Iran will demand that shipping companies pay tolls in crypto of $1/barrel of oil for tankers passing through the Strait of Hormuz (Financial Times)",
+            "link": "http://www.techmeme.com/260408/p21#a260408p21",
+            "published": "Wed, 08 Apr 2026 10:20:03 -0400"
+        },
+        {
+            "title": "AWS debuts Amazon S3 Files, a new capability built on Amazon's Elastic File System that lets applications and AI agents access S3 buckets as local file systems (Todd Bishop/GeekWire)",
+            "link": "http://www.techmeme.com/260408/p20#a260408p20",
+            "published": "Wed, 08 Apr 2026 10:00:01 -0400"
+        },
+        {
             "title": "Memo: Alibaba Cloud CTO Jingren Zhou will step down as CTO to focus on leading AI models in the new role of chief AI architect; executive Feifei Li becomes CTO (Juro Osawa/The Information)",
             "link": "http://www.techmeme.com/260408/p19#a260408p19",
             "published": "Wed, 08 Apr 2026 09:30:01 -0400"
-        },
-        {
-            "title": "Asus ROG Xbox Ally review: comfortable design, Xbox Full Screen beats Windows 11, and affordable, but sleep/wake issues, weak display, and average performance (Andrew E. Freedman/Tom's Hardware)",
-            "link": "http://www.techmeme.com/260408/p18#a260408p18",
-            "published": "Wed, 08 Apr 2026 09:15:04 -0400"
-        },
-        {
-            "title": "X is rolling out worldwide automatic post translation powered by xAI's Grok models, and updates its iOS image editor to add tools like drawing and blurring (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/260408/p17#a260408p17",
-            "published": "Wed, 08 Apr 2026 09:05:06 -0400"
-        },
-        {
-            "title": "UK-based currency hedging platform MillTech raised $60M from Apax Digital Funds at a $325M valuation, and plans to expand in North America and build AI tools (Carter Johnson/Bloomberg)",
-            "link": "http://www.techmeme.com/260408/p16#a260408p16",
-            "published": "Wed, 08 Apr 2026 08:10:00 -0400"
-        },
-        {
-            "title": "A profile of South Korea's Galaxy, which is trying to disrupt K-pop's traditional idol system by blending AI characters and life-size robots, as it plans an IPO (Sohee Kim/Bloomberg)",
-            "link": "http://www.techmeme.com/260408/p15#a260408p15",
-            "published": "Wed, 08 Apr 2026 06:50:01 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Wed, 08 Apr 2026 10:33:54 GMT"
         },
         {
+            "title": "Greece to ban social media for under-15s from next year",
+            "link": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 08 Apr 2026 11:39:43 GMT"
+        },
+        {
             "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
             "link": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 07 Apr 2026 15:39:33 GMT"
@@ -73,11 +78,6 @@
             "title": "Businesses scramble to get noticed by AI search",
             "link": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Apr 2026 23:20:52 GMT"
-        },
-        {
-            "title": "China is winning one AI race, the US another - but either might pull ahead",
-            "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 07 Apr 2026 05:13:12 GMT"
         }
     ]
 }
