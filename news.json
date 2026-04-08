@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "An investigation suggests Blockstream CEO Adam Back, a British cryptographer who invented Hashcash, is Bitcoin's pseudonymous inventor Satoshi Nakamoto (New York Times)",
-            "link": "http://www.techmeme.com/260408/p10#a260408p10",
-            "published": "Wed, 08 Apr 2026 03:25:00 -0400"
+            "title": "A profile of South Korea's Galaxy, which is trying to disrupt K-pop's traditional idol system by blending AI characters and life-size robots, as it plans an IPO (Sohee Kim/Bloomberg)",
+            "link": "http://www.techmeme.com/260408/p15#a260408p15",
+            "published": "Wed, 08 Apr 2026 06:50:01 -0400"
         },
         {
-            "title": "RationalFX: tech layoffs totaled 78,557 in Q1 2026, with the US accounting for 76.7%; nearly half were attributed to AI implementation and workflow automation (Nikkei Asia)",
-            "link": "http://www.techmeme.com/260408/p9#a260408p9",
-            "published": "Wed, 08 Apr 2026 02:35:02 -0400"
+            "title": "Anthropic's Mythos Preview is not a publicity stunt, and sources say tech companies privately spoke to Trump officials about the implications for US security (Thomas L. Friedman/New York Times)",
+            "link": "http://www.techmeme.com/260408/p14#a260408p14",
+            "published": "Wed, 08 Apr 2026 06:35:02 -0400"
         },
         {
-            "title": "Z.ai raises prices for its most advanced AI model, GLM-5.1, by at least 8% compared to GLM-5 Turbo, joining Alibaba and Tencent as demand for agentic AI surges (Luz Ding/Bloomberg)",
-            "link": "http://www.techmeme.com/260408/p8#a260408p8",
-            "published": "Wed, 08 Apr 2026 02:15:01 -0400"
+            "title": "GoPro says it will cut 23% of its workforce, or 145 employees, starting in Q2 and costing $11.5M to $15M, as the company struggles to return to profitability (Katherine Hamilton/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260408/p13#a260408p13",
+            "published": "Wed, 08 Apr 2026 06:20:02 -0400"
         },
         {
-            "title": "Sam Altman says OpenAI is resetting Codex usage limits \"to celebrate 3M weekly codex users\" and will reset them for every 1M new users until it reaches 10M (Sam Altman/@sama)",
-            "link": "http://www.techmeme.com/260408/p7#a260408p7",
-            "published": "Wed, 08 Apr 2026 02:10:02 -0400"
+            "title": "AI Forensics: in 16 Italian and Spanish Telegram groups, 24K+ men are sharing nonconsensual images of women and girls, buying spyware, and engaging in doxing (Matt Burgess/Wired)",
+            "link": "http://www.techmeme.com/260408/p12#a260408p12",
+            "published": "Wed, 08 Apr 2026 06:05:01 -0400"
         },
         {
-            "title": "FBI: US victims lost ~$21B to cybercrime in 2025, up 26% YoY, driven by investment scams, business email compromise, tech support fraud, and data breaches (Bill Toulas/BleepingComputer)",
-            "link": "http://www.techmeme.com/260408/p6#a260408p6",
-            "published": "Wed, 08 Apr 2026 01:40:02 -0400"
+            "title": "TikTok says ad leader Khartoon Weiss is leaving to pursue a new opportunity after nearly six years at the company, the latest high-profile executive to exit (Alexandra S. Levine/Bloomberg)",
+            "link": "http://www.techmeme.com/260408/p11#a260408p11",
+            "published": "Wed, 08 Apr 2026 05:50:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
+            "link": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 08 Apr 2026 10:33:54 GMT"
+        },
+        {
             "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
             "link": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 07 Apr 2026 15:39:33 GMT"
@@ -73,11 +78,6 @@
             "title": "China is winning one AI race, the US another - but either might pull ahead",
             "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 07 Apr 2026 05:13:12 GMT"
-        },
-        {
-            "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-            "link": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 05 Apr 2026 22:07:40 GMT"
         }
     ]
 }
