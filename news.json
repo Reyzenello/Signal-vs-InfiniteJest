@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the White House is pushing back on GOP-led AI bills in Nebraska and Tennessee, putting new pressure on GOP state lawmakers who support AI guardrails (Axios)",
+            "link": "http://www.techmeme.com/260409/p31#a260409p31",
+            "published": "Thu, 09 Apr 2026 13:35:02 -0400"
+        },
+        {
+            "title": "Anthropic makes Claude Cowork, previously available as a \"research preview\", generally available to all paid plans, and adds six features for enterprise use (Zac Hall/9to5Mac)",
+            "link": "http://www.techmeme.com/260409/p30#a260409p30",
+            "published": "Thu, 09 Apr 2026 13:00:51 -0400"
+        },
+        {
+            "title": "Florida's AG launches a probe into OpenAI and ChatGPT, saying its data could fall \"into the hands of America's enemies\" and citing a mass shooter's ChatGPT use (Juby Babu/Reuters)",
+            "link": "http://www.techmeme.com/260409/p29#a260409p29",
+            "published": "Thu, 09 Apr 2026 12:45:01 -0400"
+        },
+        {
             "title": "X brings back Voice Notes to X Chat, supporting one-on-one and group conversations via a new voice input icon, as it tests a standalone X Chat spinoff on iOS (Sarah Perez/TechCrunch)",
             "link": "http://www.techmeme.com/260409/p28#a260409p28",
             "published": "Thu, 09 Apr 2026 12:10:37 -0400"
@@ -9,21 +24,6 @@
             "title": "Visa unveils Intelligent Commerce Connect, a platform that facilitates payments for AI agents across multiple card networks, including those of Visa competitors (Kelly Tyko/Axios)",
             "link": "http://www.techmeme.com/260409/p27#a260409p27",
             "published": "Thu, 09 Apr 2026 11:45:02 -0400"
-        },
-        {
-            "title": "Chapter, which uses AI to help seniors enroll in Medicare, raised a $100M Series E, doubling its valuation to $3B and bringing its total funding to $285M (Stephanie Palazzolo/The Information)",
-            "link": "http://www.techmeme.com/260409/p26#a260409p26",
-            "published": "Thu, 09 Apr 2026 10:25:28 -0400"
-        },
-        {
-            "title": "RISC-V chip designer SiFive raised a $400M Series G led by Atreides at a $3.65B valuation; CEO Patrick Little says it is the final funding round before an IPO (Stephen Nellis/Reuters)",
-            "link": "http://www.techmeme.com/260409/p25#a260409p25",
-            "published": "Thu, 09 Apr 2026 09:45:01 -0400"
-        },
-        {
-            "title": "Elorian, which builds visual AI models with better reasoning capabilities for industries like robotics, emerges from stealth with $55M at a $300M valuation (Bloomberg)",
-            "link": "http://www.techmeme.com/260409/p24#a260409p24",
-            "published": "Thu, 09 Apr 2026 09:40:31 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Tue, 07 Apr 2026 18:00:09 +0000"
         },
         {
+            "title": "Volkswagen to End E.V. Production at Tennessee Plant",
+            "link": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
+            "published": "Thu, 09 Apr 2026 17:58:51 +0000"
+        },
+        {
             "title": "Half of Gen Z Uses AI, but Their Feelings Are Souring, Study Shows",
             "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
             "published": "Thu, 09 Apr 2026 16:01:35 +0000"
-        },
-        {
-            "title": "How Accurate Are Google\u2019s A.I. Overviews?",
-            "link": "https://www.nytimes.com/2026/04/07/technology/google-ai-overviews-accuracy.html",
-            "published": "Tue, 07 Apr 2026 18:48:13 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Amazon to end support for older Kindles, prompting user outcry",
             "link": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 09 Apr 2026 13:12:45 GMT"
+        },
+        {
+            "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
+            "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 09 Apr 2026 17:04:50 GMT"
         },
         {
             "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
@@ -73,11 +78,6 @@
             "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
             "link": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 07 Apr 2026 15:39:33 GMT"
-        },
-        {
-            "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
-            "link": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 07 Apr 2026 11:55:47 GMT"
         }
     ]
 }
