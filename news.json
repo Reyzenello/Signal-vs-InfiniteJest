@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Meta commits to spending additional $21B on AI cloud infrastructure from CoreWeave, running from 2027 to 2032, on top of its prior $14.2B deal that ends in 2031 (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/260409/p14#a260409p14",
-            "published": "Thu, 09 Apr 2026 07:10:22 -0400"
+            "title": "RISC-V chip designer SiFive raised a $400M Series G led by Atreides at a $3.65B valuation; CEO Patrick Little says it is the final funding round before an IPO (Stephen Nellis/Reuters)",
+            "link": "http://www.techmeme.com/260409/p25#a260409p25",
+            "published": "Thu, 09 Apr 2026 09:45:01 -0400"
         },
         {
-            "title": "A survey of 1,500 people aged 14 to 29: hopefulness regarding AI has dropped from 27% to 18% over the past year, and 50% report using GenAI daily or weekly (Callie Holtermann/New York Times)",
-            "link": "http://www.techmeme.com/260409/p13#a260409p13",
-            "published": "Thu, 09 Apr 2026 06:30:00 -0400"
+            "title": "Elorian, which builds visual AI models with better reasoning capabilities for industries like robotics, emerges from stealth with $55M at a $300M valuation (Bloomberg)",
+            "link": "http://www.techmeme.com/260409/p24#a260409p24",
+            "published": "Thu, 09 Apr 2026 09:40:31 -0400"
         },
         {
-            "title": "Source: OpenAI is finalizing a model with advanced cybersecurity capabilities that it plans to release only to a small set of companies, similar to Anthropic (Sam Sabin/Axios)",
-            "link": "http://www.techmeme.com/260409/p12#a260409p12",
-            "published": "Thu, 09 Apr 2026 06:15:04 -0400"
+            "title": "Google and Intel expand their partnership to deploy Intel's Xeon 6 chips and co-develop custom Infrastructure Processing Units to improve computing efficiency (Zaheer Kachwala/Reuters)",
+            "link": "http://www.techmeme.com/260409/p23#a260409p23",
+            "published": "Thu, 09 Apr 2026 09:35:01 -0400"
         },
         {
-            "title": "OpenAI pauses Stargate in the UK, citing the high energy costs and regulatory environment; OpenAI announced it in September 2025 alongside Nvidia and Nscale (Mark Bergen/Bloomberg)",
-            "link": "http://www.techmeme.com/260409/p11#a260409p11",
-            "published": "Thu, 09 Apr 2026 06:05:01 -0400"
+            "title": "Annual letter: Andy Jassy says AWS's AI revenue has reached a $15B annual run rate as of Q1, and Amazon plans to spend ~$200B in capital expenditures in 2026 (Todd Bishop/GeekWire)",
+            "link": "http://www.techmeme.com/260409/p22#a260409p22",
+            "published": "Thu, 09 Apr 2026 09:25:26 -0400"
         },
         {
-            "title": "Vinted reports 2025 revenue up 38% YoY to \u20ac1.1B, Gross Merchandise Value up 47% YoY to \u20ac10.8B, and net profit down 19% YoY to \u20ac62M, as it expands in Europe (Andrea Figueras/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260409/p10#a260409p10",
-            "published": "Thu, 09 Apr 2026 05:55:19 -0400"
+            "title": "Documents: OpenAI expects ads to generate ~$2.4B in 2026 revenue and to quadruple in 2027 to nearly $11B; in 2030, OpenAI expects ads to generate ~$102B (Sri Muppidi/The Information)",
+            "link": "http://www.techmeme.com/260409/p21#a260409p21",
+            "published": "Thu, 09 Apr 2026 09:20:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Amazon to end support for older Kindles, prompting user outcry",
+            "link": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 09 Apr 2026 13:12:45 GMT"
+        },
+        {
             "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
             "link": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 08 Apr 2026 10:33:54 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
             "link": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 07 Apr 2026 11:55:47 GMT"
-        },
-        {
-            "title": "Businesses scramble to get noticed by AI search",
-            "link": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 06 Apr 2026 23:20:52 GMT"
         }
     ]
 }
