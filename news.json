@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Anthropic is weighing the possibility of designing its own chips, but it has yet to commit to a design or put together a dedicated team for the project (Reuters)",
-            "link": "http://www.techmeme.com/260409/p41#a260409p41",
-            "published": "Thu, 09 Apr 2026 19:25:52 -0400"
+            "title": "AfterQuery, which sells coding and finance training data to AI labs, says it raised a $30M Series A at a $300M valuation, and has hit a $100M+ annual run rate (Anna Tong/Forbes)",
+            "link": "http://www.techmeme.com/260409/p47#a260409p47",
+            "published": "Thu, 09 Apr 2026 23:11:05 -0400"
         },
         {
-            "title": "How Black Forest Labs, a 70-person startup based in Germany, became a top competitor in AI image generation; sources: it recently declined to partner with xAI (Maxwell Zeff/Wired)",
-            "link": "http://www.techmeme.com/260409/p40#a260409p40",
-            "published": "Thu, 09 Apr 2026 19:00:32 -0400"
+            "title": "Luminai, an AI-native platform for automating administrative healthcare workflows, raised a $38M Series B led by Peak XV, bringing its total funding to $60M (Seth Joseph/Forbes)",
+            "link": "http://www.techmeme.com/260409/p46#a260409p46",
+            "published": "Thu, 09 Apr 2026 22:45:01 -0400"
         },
         {
-            "title": "xAI has filed a lawsuit challenging Colorado's landmark AI anti-discrimination law, set to take effect in the summer, saying it violates free speech protections (Financial Times)",
-            "link": "http://www.techmeme.com/260409/p39#a260409p39",
-            "published": "Thu, 09 Apr 2026 17:41:00 -0400"
+            "title": "Apple is closing its Towson, Maryland store, the first US location where retail employees unionized; the union says it is \"outraged\" and exploring legal options (Joe Rossignol/MacRumors)",
+            "link": "http://www.techmeme.com/260409/p45#a260409p45",
+            "published": "Thu, 09 Apr 2026 22:05:01 -0400"
         },
         {
-            "title": "A gap in understanding AI is growing, as casual users cite flaws in old free models while power users point to new models' staggering gains in technical domains (Andrej Karpathy/@karpathy)",
-            "link": "http://www.techmeme.com/260409/p38#a260409p38",
-            "published": "Thu, 09 Apr 2026 17:05:01 -0400"
+            "title": "Sources: US Treasury Secretary Scott Bessent and Fed Chair Jerome Powell warned bank CEOs about Anthropic's Mythos model's risks at an urgent meeting Tuesday (Bloomberg)",
+            "link": "http://www.techmeme.com/260409/p44#a260409p44",
+            "published": "Thu, 09 Apr 2026 21:15:01 -0400"
         },
         {
-            "title": "An OpenAI note to investors after Anthropic announced Mythos says OpenAI's early push to increase computing resources gives it a key advantage over Anthropic (Shirin Ghaffary/Bloomberg)",
-            "link": "http://www.techmeme.com/260409/p37#a260409p37",
-            "published": "Thu, 09 Apr 2026 16:40:49 -0400"
+            "title": "Alibaba led a ~$293M funding round for ShengShu, just two months after the creator of the Vidu AI video generator raised ~$88M (Bloomberg)",
+            "link": "http://www.techmeme.com/260409/p43#a260409p43",
+            "published": "Thu, 09 Apr 2026 21:11:06 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "White House staff told not to place bets on prediction markets",
+            "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Apr 2026 02:32:27 GMT"
+        },
+        {
             "title": "Amazon to end support for older Kindles, prompting user outcry",
             "link": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 09 Apr 2026 13:12:45 GMT"
@@ -73,11 +78,6 @@
             "title": "Greece to ban social media for under-15s from next year",
             "link": "https://www.bbc.com/news/articles/ckgx1x742x5o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 08 Apr 2026 11:39:43 GMT"
-        },
-        {
-            "title": "Ex-Meta worker investigated for downloading 30,000 private Facebook photos",
-            "link": "https://www.bbc.com/news/articles/cvg049xz1ygo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 07 Apr 2026 15:39:33 GMT"
         }
     ]
 }
