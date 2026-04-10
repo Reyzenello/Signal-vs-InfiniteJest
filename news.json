@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Apple led global Q1 smartphone shipments for the first time with a 21% market share in Q1 2026; overall smartphone shipments fell due to memory chip shortages (Counterpoint Research)",
-            "link": "http://www.techmeme.com/260410/p7#a260410p7",
-            "published": "Fri, 10 Apr 2026 06:45:01 -0400"
+            "title": "Snap announces a partnership between Specs, its AR glasses-focused subsidiary, and Qualcomm, whose Snapdragon XR platform will power Specs' upcoming AI glasses (TechCrunch)",
+            "link": "http://www.techmeme.com/260410/p12#a260410p12",
+            "published": "Fri, 10 Apr 2026 09:15:03 -0400"
         },
         {
-            "title": "The CIA says it recently used AI to create its first-ever autonomous intelligence report, and plans to build \"AI co-workers\" into all of its analytic platforms (John Sakellariadis/Politico)",
-            "link": "http://www.techmeme.com/260410/p6#a260410p6",
-            "published": "Fri, 10 Apr 2026 06:20:00 -0400"
+            "title": "CoreWeave says it has signed a multiyear deal with Anthropic, including a variety of Nvidia chips at data centers in the US; it now has 43 active data centers (Brody Ford/Bloomberg)",
+            "link": "http://www.techmeme.com/260410/p11#a260410p11",
+            "published": "Fri, 10 Apr 2026 08:15:03 -0400"
         },
         {
-            "title": "HSBC and Standard Chartered obtain the first stablecoin licenses in Hong Kong, beating 34 other applicants; they are expected to issue stablecoins in H2 2026 (Kiuyan Wong/Bloomberg)",
-            "link": "http://www.techmeme.com/260410/p5#a260410p5",
-            "published": "Fri, 10 Apr 2026 06:10:09 -0400"
+            "title": "YouTube raises YouTube Premium's prices in the US: Lite is $1 more at $8.99/month, Individual is $2 more at $15.99/month, and Family is $4 more at $26.99/month (Dominic Preston/The Verge)",
+            "link": "http://www.techmeme.com/260410/p10#a260410p10",
+            "published": "Fri, 10 Apr 2026 07:55:01 -0400"
         },
         {
-            "title": "Documents: Shenzhen-based computing company Sharetronic bought hundreds of Super Micro systems containing banned Nvidia H100 and H200 chips in 2025, worth ~$92M (Bloomberg)",
-            "link": "http://www.techmeme.com/260410/p4#a260410p4",
-            "published": "Fri, 10 Apr 2026 05:55:05 -0400"
+            "title": "Google News is showing Polymarket bets alongside news articles in the \"For you\" section; in tests, Polymarket bets also appeared on the Google News homepage (Frank Landymore/Futurism)",
+            "link": "http://www.techmeme.com/260410/p9#a260410p9",
+            "published": "Fri, 10 Apr 2026 07:45:01 -0400"
         },
         {
-            "title": "TSMC reports Q1 revenue up 35% YoY to ~$35.6B, above ~$35.2B est., signaling global chip demand remained intact during early weeks of the war in the Middle East (Debby Wu/Bloomberg)",
-            "link": "http://www.techmeme.com/260410/p3#a260410p3",
-            "published": "Fri, 10 Apr 2026 05:00:57 -0400"
+            "title": "Google rolls out end-to-end encryption for Gmail on Android and iOS devices for enterprise users, letting them read and compose emails without additional tools (Sergiu Gatlan/BleepingComputer)",
+            "link": "http://www.techmeme.com/260410/p8#a260410p8",
+            "published": "Fri, 10 Apr 2026 07:35:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Dancer with ALS uses brainwaves to perform again through avatar",
+            "link": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Apr 2026 13:13:09 GMT"
+        },
+        {
             "title": "White House staff told not to place bets on prediction markets",
             "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Apr 2026 02:32:27 GMT"
@@ -62,7 +67,7 @@
         {
             "title": "Mayor warns of London 'disinformation blizzard'",
             "link": "https://www.bbc.com/news/articles/cp3l4kwer5ko?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 09 Apr 2026 19:04:18 GMT"
+            "published": "Fri, 10 Apr 2026 13:35:18 GMT"
         },
         {
             "title": "Amazon to end support for older Kindles, prompting user outcry",
@@ -73,11 +78,6 @@
             "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
             "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 09 Apr 2026 20:36:41 GMT"
-        },
-        {
-            "title": "Brit says he is not elusive Bitcoin creator named by New York Times",
-            "link": "https://www.bbc.com/news/articles/cgrl4l1y9yxo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 08 Apr 2026 10:33:54 GMT"
         }
     ]
 }
