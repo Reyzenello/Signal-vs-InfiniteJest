@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Amazon quietly expands Amazon Autos to offer cars from Kia, Mazda, Subaru, Chevrolet, and Jeep, after launching with Hyundai; the service is in 130+ US cities (Sean McLain/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260413/p13#a260413p13",
+            "published": "Mon, 13 Apr 2026 06:45:01 -0400"
+        },
+        {
+            "title": "Rockstar confirms \"a limited amount of non-material company information was accessed in connection with a third-party data breach\"; ShinyHunters demand a ransom (Zack Zwiezen/Kotaku)",
+            "link": "http://www.techmeme.com/260413/p12#a260413p12",
+            "published": "Mon, 13 Apr 2026 06:25:01 -0400"
+        },
+        {
+            "title": "A verified @elonmusk TikTok account posted its first video, promoting SpaceX and Tesla and hitting 2M+ views; a verified Instagram account is yet to post (Ryan Mac/New York Times)",
+            "link": "http://www.techmeme.com/260413/p11#a260413p11",
+            "published": "Mon, 13 Apr 2026 06:05:50 -0400"
+        },
+        {
+            "title": "OpenAI plans to open its first permanent London office with a 500+ staff capacity; in February, OpenAI said it would make London its largest non-US research hub (Kai Nicol-Schwarz/CNBC)",
+            "link": "http://www.techmeme.com/260413/p10#a260413p10",
+            "published": "Mon, 13 Apr 2026 05:40:01 -0400"
+        },
+        {
             "title": "The Trump family's World Liberty Financial faces an investor revolt; Justin Sun accuses WLFI of building a \"backdoor\" that could be used to blacklist investors (Olga Kharif/Bloomberg)",
             "link": "http://www.techmeme.com/260413/p9#a260413p9",
             "published": "Mon, 13 Apr 2026 04:50:53 -0400"
-        },
-        {
-            "title": "For the first time, 50% of employed US adults say they use AI at work a few times per year or more; leaders are more likely to see AI's impact as positive (Andy Kemp/Gallup)",
-            "link": "http://www.techmeme.com/260413/p8#a260413p8",
-            "published": "Mon, 13 Apr 2026 04:30:01 -0400"
-        },
-        {
-            "title": "A profile of the Biological Computing Company, which uses living neurons to build AI chips and algorithms, and emerged from stealth in February with a $25M seed (Nat Rubio-Licht/The Deep View)",
-            "link": "http://www.techmeme.com/260413/p7#a260413p7",
-            "published": "Mon, 13 Apr 2026 04:05:50 -0400"
-        },
-        {
-            "title": "Law firms say lawyers are spending more time responding to swaths of AI-generated client documents, potentially leading firms to raise fixed-fee contract prices (Elizabeth Bratton/Financial Times)",
-            "link": "http://www.techmeme.com/260413/p6#a260413p6",
-            "published": "Mon, 13 Apr 2026 03:50:48 -0400"
-        },
-        {
-            "title": "Sources: SoftBank, Sony, Honda, and six other Japanese companies launch a new AI company to develop a 1T-parameter foundation model for \"physical AI\" by 2030 (Natsuki Yamamoto/Nikkei Asia)",
-            "link": "http://www.techmeme.com/260413/p5#a260413p5",
-            "published": "Mon, 13 Apr 2026 02:05:45 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
             "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
-            "published": "Sun, 12 Apr 2026 23:43:47 +0000"
+            "published": "Mon, 13 Apr 2026 11:09:57 +0000"
         },
         {
             "title": "Volkswagen to End E.V. Production at Tennessee Plant",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "GTA-maker Rockstar Games hacked again but downplays impact",
+            "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 13 Apr 2026 10:20:54 GMT"
+        },
         {
             "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
             "link": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "White House staff told not to place bets on prediction markets",
             "link": "https://www.bbc.com/news/articles/cgld65x396go?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Apr 2026 02:32:27 GMT"
-        },
-        {
-            "title": "Mayor warns of London 'disinformation blizzard'",
-            "link": "https://www.bbc.com/news/articles/cp3l4kwer5ko?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Apr 2026 15:29:31 GMT"
         }
     ]
 }
