@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Stanford HAI 2026 AI Index Report: AI capability is accelerating, not plateauing, the US-China gap closed, the US leads in data centers and investment, and more (Stanford HAI)",
+            "title": "Cybersecurity analysis: Claude Mythos Preview had a 73% success rate on expert-level capture-the-flag challenges, which no model could finish before April 2025 (AI Security Institute)",
+            "link": "http://www.techmeme.com/260413/p20#a260413p20",
+            "published": "Mon, 13 Apr 2026 10:50:08 -0400"
+        },
+        {
+            "title": "2026 AI Index Report: AI capability is accelerating, not plateauing, the US-China model gap has closed, the US leads in data centers and AI investment, and more (Stanford HAI)",
             "link": "http://www.techmeme.com/260413/p19#a260413p19",
             "published": "Mon, 13 Apr 2026 09:50:15 -0400"
         },
@@ -16,17 +21,17 @@
             "published": "Mon, 13 Apr 2026 09:20:59 -0400"
         },
         {
-            "title": "Internal memo: OpenAI Chief Revenue Officer Denise Dresser says the Microsoft deal \"limited our ability\" to reach clients on Bedrock and touts its Amazon deal (Ashley Capoot/CNBC)",
+            "title": "Memo: OpenAI Chief Revenue Officer Denise Dresser says OpenAI's Microsoft deal \"limited our ability\" to reach clients using Bedrock and touts its Amazon deal (Ashley Capoot/CNBC)",
             "link": "http://www.techmeme.com/260413/p16#a260413p16",
             "published": "Mon, 13 Apr 2026 08:50:59 -0400"
-        },
-        {
-            "title": "Roblox unveils Kids accounts for ages 5-8 and Select accounts for ages 9-15, with age verification, coming in June; games for both must pass a three-step review (Jay Peters/The Verge)",
-            "link": "http://www.techmeme.com/260413/p15#a260413p15",
-            "published": "Mon, 13 Apr 2026 08:36:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
+            "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
+            "published": "Mon, 13 Apr 2026 11:09:57 +0000"
+        },
         {
             "title": "The Escalating Global A.I. Arms Race",
             "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
@@ -43,11 +48,6 @@
             "published": "Fri, 10 Apr 2026 16:41:15 +0000"
         },
         {
-            "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
-            "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
-            "published": "Mon, 13 Apr 2026 11:09:57 +0000"
-        },
-        {
             "title": "Volkswagen to End E.V. Production at Tennessee Plant",
             "link": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
             "published": "Fri, 10 Apr 2026 19:00:23 +0000"
@@ -62,7 +62,7 @@
         {
             "title": "GTA-maker Rockstar Games hacked again but downplays impact",
             "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 13 Apr 2026 11:55:47 GMT"
+            "published": "Mon, 13 Apr 2026 15:10:38 GMT"
         },
         {
             "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
