@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "The Trump family's World Liberty Financial faces an investor revolt; Justin Sun accuses WLFI of building a \"backdoor\" that could be used to blacklist investors (Olga Kharif/Bloomberg)",
+            "link": "http://www.techmeme.com/260413/p9#a260413p9",
+            "published": "Mon, 13 Apr 2026 04:50:53 -0400"
+        },
+        {
+            "title": "For the first time, 50% of employed US adults say they use AI at work a few times per year or more; leaders are more likely to see AI's impact as positive (Andy Kemp/Gallup)",
+            "link": "http://www.techmeme.com/260413/p8#a260413p8",
+            "published": "Mon, 13 Apr 2026 04:30:01 -0400"
+        },
+        {
+            "title": "A profile of the Biological Computing Company, which uses living neurons to build AI chips and algorithms, and emerged from stealth in February with a $25M seed (Nat Rubio-Licht/The Deep View)",
+            "link": "http://www.techmeme.com/260413/p7#a260413p7",
+            "published": "Mon, 13 Apr 2026 04:05:50 -0400"
+        },
+        {
+            "title": "Law firms say lawyers are spending more time responding to swaths of AI-generated client documents, potentially leading firms to raise fixed-fee contract prices (Elizabeth Bratton/Financial Times)",
+            "link": "http://www.techmeme.com/260413/p6#a260413p6",
+            "published": "Mon, 13 Apr 2026 03:50:48 -0400"
+        },
+        {
             "title": "Sources: SoftBank, Sony, Honda, and six other Japanese companies launch a new AI company to develop a 1T-parameter foundation model for \"physical AI\" by 2030 (Natsuki Yamamoto/Nikkei Asia)",
             "link": "http://www.techmeme.com/260413/p5#a260413p5",
             "published": "Mon, 13 Apr 2026 02:05:45 -0400"
-        },
-        {
-            "title": "Sources: Meta is building photorealistic, AI-powered 3D characters; Zuckerberg helped train and test an AI version of himself that offers feedback to employees (Financial Times)",
-            "link": "http://www.techmeme.com/260413/p4#a260413p4",
-            "published": "Mon, 13 Apr 2026 01:40:01 -0400"
-        },
-        {
-            "title": "Analysis: US state lawmakers introduced 12 data center moratorium bills in 2026, 11 stalled or voted out, with a Maine bill set for a final vote on April 15 (Ellen Thomas/Business Insider)",
-            "link": "http://www.techmeme.com/260413/p3#a260413p3",
-            "published": "Mon, 13 Apr 2026 01:20:37 -0400"
-        },
-        {
-            "title": "Ornn Compute Price Index: Nvidia Blackwell GPU hourly rent hit $4.08, up 48% from $2.75 two months ago, driven by agentic AI demand (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260413/p2#a260413p2",
-            "published": "Mon, 13 Apr 2026 00:35:41 -0400"
-        },
-        {
-            "title": "Shenzhen-listed server PCB maker Victory Giant plans an April 21 Hong Kong listing, aiming to raise as much as $2.2B; the company was valued at $37B on April 10 (Bloomberg)",
-            "link": "http://www.techmeme.com/260413/p1#a260413p1",
-            "published": "Mon, 13 Apr 2026 00:00:44 -0400"
         }
     ],
     "source_1": [
@@ -55,14 +55,19 @@
     ],
     "source_2": [
         {
-            "title": "Dancer with MND performs on stage again through digital avatar",
-            "link": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Apr 2026 13:13:09 GMT"
-        },
-        {
             "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
             "link": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Apr 2026 15:44:12 GMT"
+        },
+        {
+            "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
+            "link": "https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Apr 2026 21:01:18 GMT"
+        },
+        {
+            "title": "Dancer with MND performs on stage again through digital avatar",
+            "link": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Apr 2026 13:13:09 GMT"
         },
         {
             "title": "White House staff told not to place bets on prediction markets",
@@ -73,11 +78,6 @@
             "title": "Mayor warns of London 'disinformation blizzard'",
             "link": "https://www.bbc.com/news/articles/cp3l4kwer5ko?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Apr 2026 15:29:31 GMT"
-        },
-        {
-            "title": "Amazon to end support for older Kindles, prompting user outcry",
-            "link": "https://www.bbc.com/news/articles/c98k91yy4z4o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 09 Apr 2026 13:12:45 GMT"
         }
     ]
 }
