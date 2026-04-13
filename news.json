@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the US FTC is in settlement talks with ad companies to end an antitrust probe into their alleged coordinated boycotts against sites like Elon Musk's X (Suzanne Vranica/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260412/p13#a260412p13",
+            "published": "Sun, 12 Apr 2026 23:25:00 -0400"
+        },
+        {
+            "title": "Sources: the US' AI chip export push risks being undermined by licensing bottlenecks, staff attrition, and unclear policy at the Bureau of Industry and Security (Maggie Eastland/Bloomberg)",
+            "link": "http://www.techmeme.com/260412/p12#a260412p12",
+            "published": "Sun, 12 Apr 2026 22:55:01 -0400"
+        },
+        {
+            "title": "Anthropic debuts Claude for Word in beta, which adds AI editing tools and clickable citations, targeting document-heavy workflows, for Team and Enterprise users (Tristan Anthony/Business Insider)",
+            "link": "http://www.techmeme.com/260412/p11#a260412p11",
+            "published": "Sun, 12 Apr 2026 21:35:34 -0400"
+        },
+        {
             "title": "Police report: Sam Altman's home appears to have been targeted in a second attack after a gun appeared to have been fired at his home from a car early Sunday (Jonah Owen Lamb/The San Francisco ...)",
             "link": "http://www.techmeme.com/260412/p10#a260412p10",
             "published": "Sun, 12 Apr 2026 18:50:29 -0400"
@@ -9,21 +24,6 @@
             "title": "A look at the escalating global AI arms race, as the US, China, Russia, and others rush to build AI-backed autonomous weapons and defense systems (New York Times)",
             "link": "http://www.techmeme.com/260412/p9#a260412p9",
             "published": "Sun, 12 Apr 2026 18:05:42 -0400"
-        },
-        {
-            "title": "A deep dive into the debate about Claude Mythos Preview, the model's capabilities, attempts to refute Anthropic's claims, and what it means for the future of AI (Zvi Mowshowitz/Don't Worry About the Vase)",
-            "link": "http://www.techmeme.com/260412/p8#a260412p8",
-            "published": "Sun, 12 Apr 2026 16:30:04 -0400"
-        },
-        {
-            "title": "As weather betting grows on prediction markets, climate experts are debating whether it improves forecasts by aggregating knowledge or is simply a zero-sum game (Bloomberg)",
-            "link": "http://www.techmeme.com/260412/p7#a260412p7",
-            "published": "Sun, 12 Apr 2026 14:10:01 -0400"
-        },
-        {
-            "title": "Sources: UK regulators plan to warn banks, insurers, and exchanges about security risks exposed by Claude Mythos Preview at a meeting within the next two weeks (Martin Arnold/Financial Times)",
-            "link": "http://www.techmeme.com/260412/p6#a260412p6",
-            "published": "Sun, 12 Apr 2026 12:15:01 -0400"
         }
     ],
     "source_1": [
@@ -43,14 +43,14 @@
             "published": "Fri, 10 Apr 2026 16:41:15 +0000"
         },
         {
+            "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
+            "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
+            "published": "Sun, 12 Apr 2026 23:43:47 +0000"
+        },
+        {
             "title": "Volkswagen to End E.V. Production at Tennessee Plant",
             "link": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
             "published": "Fri, 10 Apr 2026 19:00:23 +0000"
-        },
-        {
-            "title": "Half of Gen Z Uses AI, but Their Feelings Are Souring, Study Shows",
-            "link": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
-            "published": "Thu, 09 Apr 2026 16:01:35 +0000"
         }
     ],
     "source_2": [
