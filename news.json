@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI acquires personal finance startup Hiro Finance for an undisclosed sum; Hiro stops new signups, will shut down on April 20 and delete all data on May 13 (Julie Bort/TechCrunch)",
+            "title": "Google designates \"back button hijacking\" as malicious, saying sites interfering with a browser's back button function may be demoted in Search starting in June (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/260414/p3#a260414p3",
+            "published": "Tue, 14 Apr 2026 04:01:00 -0400"
+        },
+        {
+            "title": "A profile of Jeffrey Yan and his startup Hyperliquid, a $10B crypto exchange that never took VC money and generated $900M+ in profit in 2025 with 11 employees (Dom Cooke/Colossus)",
+            "link": "http://www.techmeme.com/260414/p2#a260414p2",
+            "published": "Tue, 14 Apr 2026 02:20:03 -0400"
+        },
+        {
+            "title": "OpenAI acquires personal finance startup Hiro Finance for an undisclosed sum; Hiro stops new signups, will shut down on April 20, and delete all data on May 13 (Julie Bort/TechCrunch)",
             "link": "http://www.techmeme.com/260414/p1#a260414p1",
             "published": "Tue, 14 Apr 2026 00:40:01 -0400"
         },
         {
-            "title": "Regulators in Europe were largely left out of the loop as Anthropic limited the release of its latest model Mythos to select companies and organizations (Politico)",
+            "title": "Sources: Anthropic largely left European regulators out of the loop as it limited Mythos's release to select companies and organizations; the UK AISI tested it (Politico)",
             "link": "http://www.techmeme.com/260413/p35#a260413p35",
             "published": "Mon, 13 Apr 2026 22:55:01 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Voters in Festus, Missouri, ousted all four incumbent council members running for reelection last week, days after the council's approval of a $6B data center (Jeff Tomich/Politico)",
             "link": "http://www.techmeme.com/260413/p34#a260413p34",
             "published": "Mon, 13 Apr 2026 20:15:05 -0400"
-        },
-        {
-            "title": "Oracle expands its partnership with fuel cell maker Bloom to procure up to 2.8 GW of capacity, after receiving a warrant to purchase $400M of Bloom stock (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/260413/p33#a260413p33",
-            "published": "Mon, 13 Apr 2026 19:55:01 -0400"
-        },
-        {
-            "title": "Daniel Moreno-Gama, a 20-year-old Texas man accused of throwing a Molotov cocktail at Sam Altman's home, is charged with attempted murder and attempted arson (Hadas Gold/CNN)",
-            "link": "http://www.techmeme.com/260413/p32#a260413p32",
-            "published": "Mon, 13 Apr 2026 19:35:00 -0400"
         }
     ],
     "source_1": [
@@ -60,6 +60,11 @@
             "published": "Tue, 14 Apr 2026 01:05:54 GMT"
         },
         {
+            "title": "Quantum computing: A tech race Europe could win?",
+            "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 13 Apr 2026 23:35:56 GMT"
+        },
+        {
             "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
             "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 13 Apr 2026 12:19:13 GMT"
@@ -73,11 +78,6 @@
             "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
             "link": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Apr 2026 15:44:12 GMT"
-        },
-        {
-            "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
-            "link": "https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Apr 2026 21:01:18 GMT"
         }
     ]
 }
