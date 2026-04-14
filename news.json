@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Regulators in Europe were largely left out of the loop as Anthropic limited the release of its latest model Mythos to select companies and organizations (Politico)",
+            "link": "http://www.techmeme.com/260413/p35#a260413p35",
+            "published": "Mon, 13 Apr 2026 22:55:01 -0400"
+        },
+        {
+            "title": "Voters in Festus, Missouri, ousted all four incumbent council members running for reelection last week, days after the council's approval of a $6B data center (Jeff Tomich/Politico)",
+            "link": "http://www.techmeme.com/260413/p34#a260413p34",
+            "published": "Mon, 13 Apr 2026 20:15:05 -0400"
+        },
+        {
+            "title": "Oracle expands its partnership with fuel cell maker Bloom to procure up to 2.8 GW of capacity, after receiving a warrant to purchase $400M of Bloom stock (Jordan Novet/CNBC)",
+            "link": "http://www.techmeme.com/260413/p33#a260413p33",
+            "published": "Mon, 13 Apr 2026 19:55:01 -0400"
+        },
+        {
             "title": "Daniel Moreno-Gama, a 20-year-old Texas man accused of throwing a Molotov cocktail at Sam Altman's home, is charged with attempted murder and attempted arson (Hadas Gold/CNN)",
             "link": "http://www.techmeme.com/260413/p32#a260413p32",
             "published": "Mon, 13 Apr 2026 19:35:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: data labeling startup Handshake's gross annualized revenue hit ~$1B, vs. $550M in January; Mercor hit a $1B+ gross annualized revenue pace this year (The Information)",
             "link": "http://www.techmeme.com/260413/p31#a260413p31",
             "published": "Mon, 13 Apr 2026 19:15:14 -0400"
-        },
-        {
-            "title": "AI penetration testing company CodeWall says its agent was able to hack into one of Bain's internal AI tools, following a similar hack at McKinsey (Ellesheva Kissin/Financial Times)",
-            "link": "http://www.techmeme.com/260413/p30#a260413p30",
-            "published": "Mon, 13 Apr 2026 19:00:35 -0400"
-        },
-        {
-            "title": "Roblox says developers will need Roblox Plus, a new $4.99-per-month subscription offering benefits like discounts, to publish games for Kids and Select accounts (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/260413/p29#a260413p29",
-            "published": "Mon, 13 Apr 2026 17:45:00 -0400"
-        },
-        {
-            "title": "Microsoft raises prices for Surface PCs, with Laptop 7 and Pro 11 now starting at $500 more than at their 2024 launch, citing higher memory and component costs (Zac Bowden/Windows Central)",
-            "link": "http://www.techmeme.com/260413/p28#a260413p28",
-            "published": "Mon, 13 Apr 2026 17:20:01 -0400"
         }
     ],
     "source_1": [
@@ -43,17 +43,22 @@
             "published": "Fri, 10 Apr 2026 23:52:32 +0000"
         },
         {
+            "title": "Man Held in Attack on OpenAI Chief\u2019s Home Had List of A.I. Leaders, Officials Say",
+            "link": "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
+            "published": "Tue, 14 Apr 2026 01:57:23 +0000"
+        },
+        {
             "title": "Have You Used A.I. Chatbots for Nutrition Advice?",
             "link": "https://www.nytimes.com/2026/04/10/well/eat/ai-chatbots-nutrition.html",
             "published": "Fri, 10 Apr 2026 16:41:15 +0000"
-        },
-        {
-            "title": "Volkswagen to End E.V. Production at Tennessee Plant",
-            "link": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
-            "published": "Fri, 10 Apr 2026 19:00:23 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman",
+            "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 14 Apr 2026 01:05:54 GMT"
+        },
         {
             "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
             "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "OpenAI boss Sam Altman's home targeted with Molotov cocktail",
             "link": "https://www.bbc.com/news/articles/czx91rdxpyeo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Apr 2026 21:01:18 GMT"
-        },
-        {
-            "title": "Dancer with MND performs on stage again through digital avatar",
-            "link": "https://www.bbc.com/news/articles/cgqkz5lzvnwo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Apr 2026 13:13:09 GMT"
         }
     ]
 }
