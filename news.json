@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Pillar, which helps businesses driven by commodities, like metals, manage financial risk, raised a $20M seed led by a16z, bringing its total funding to $23M (Dominic-Madori Davis/TechCrunch)",
-            "link": "http://www.techmeme.com/260414/p26#a260414p26",
-            "published": "Tue, 14 Apr 2026 12:15:43 -0400"
+            "title": "Microsoft agrees to rent 30,000 Nvidia Vera Rubin chips from Nscale at a site in Norway that was initially intended for OpenAI and marketed as part of Stargate (Bloomberg)",
+            "link": "http://www.techmeme.com/260414/p31#a260414p31",
+            "published": "Tue, 14 Apr 2026 14:05:02 -0400"
         },
         {
-            "title": "Sygaldry, which wants to design AI data center servers that integrate quantum hardware and classical chips, raised a $34M seed and a $105M Series A (Allie Garfinkle/Fortune)",
-            "link": "http://www.techmeme.com/260414/p25#a260414p25",
-            "published": "Tue, 14 Apr 2026 12:10:02 -0400"
+            "title": "Anthropic launches a repeatable routines feature for Claude Code as a research preview, allowing developers to schedule and automate software development tasks (Zac Hall/9to5Mac)",
+            "link": "http://www.techmeme.com/260414/p30#a260414p30",
+            "published": "Tue, 14 Apr 2026 13:50:02 -0400"
         },
         {
-            "title": "A malicious Ledger Live app clone available via Apple's App Store appears to have drained about $9.5M from over 50 victims between April 7 and April 13 (Oliver Knight/CoinDesk)",
-            "link": "http://www.techmeme.com/260414/p24#a260414p24",
-            "published": "Tue, 14 Apr 2026 11:55:01 -0400"
+            "title": "Google launches Skills, repeatable AI prompts users can run in Chrome with a keyboard shortcut; users can set up their own Skills or choose from 50+ presets (Reece Rogers/Wired)",
+            "link": "http://www.techmeme.com/260414/p29#a260414p29",
+            "published": "Tue, 14 Apr 2026 13:15:47 -0400"
         },
         {
-            "title": "Source: US Treasury CIO Sam Corcos aims to gain access to Mythos as soon as this week, and directed the Treasury's cybersecurity team to prepare for AI threats (Bloomberg)",
-            "link": "http://www.techmeme.com/260414/p23#a260414p23",
-            "published": "Tue, 14 Apr 2026 11:45:45 -0400"
+            "title": "Glydways, a robocar startup backed by Sam Altman, Khosla, and others, says it is in talks to raise $250M at a $1B+ valuation, following a ~$170M Series C (Min-Jeong Lee/Bloomberg)",
+            "link": "http://www.techmeme.com/260414/p28#a260414p28",
+            "published": "Tue, 14 Apr 2026 12:55:03 -0400"
         },
         {
-            "title": "YouTube livestreams will show fewer ads to users who support creators with Super Chat, Super Sticker, or gift purchases, and disable ads during peak engagement (Andrew Romero/9to5Google)",
-            "link": "http://www.techmeme.com/260414/p22#a260414p22",
-            "published": "Tue, 14 Apr 2026 11:40:01 -0400"
+            "title": "Microsoft debuts MAI-Image-2-Efficient, a faster version of its flagship text-to-image model, which it says offers production-ready quality at ~50% the cost (Michael Nu\u00f1ez/VentureBeat)",
+            "link": "http://www.techmeme.com/260414/p27#a260414p27",
+            "published": "Tue, 14 Apr 2026 12:40:05 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Amazon Buys Globalstar for $10.8 Billion, Movingto Expand Its Satellite Internet Service",
+            "link": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
+            "published": "Tue, 14 Apr 2026 17:53:43 +0000"
+        },
+        {
+            "title": "Man Held in Attack on OpenAI Chief\u2019s Home Had List of A.I. Leaders, Officials Say",
+            "link": "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
+            "published": "Tue, 14 Apr 2026 01:57:23 +0000"
+        },
         {
             "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
             "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
@@ -38,19 +48,9 @@
             "published": "Sun, 12 Apr 2026 18:24:26 +0000"
         },
         {
-            "title": "Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI\u2019s CEO",
-            "link": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
-            "published": "Fri, 10 Apr 2026 23:52:32 +0000"
-        },
-        {
             "title": "I Feel So Sorry for My A.I. Sunglasses",
             "link": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
-            "published": "Tue, 14 Apr 2026 09:02:11 +0000"
-        },
-        {
-            "title": "Man Held in Attack on OpenAI Chief\u2019s Home Had List of A.I. Leaders, Officials Say",
-            "link": "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
-            "published": "Tue, 14 Apr 2026 01:57:23 +0000"
+            "published": "Tue, 14 Apr 2026 17:02:45 +0000"
         }
     ],
     "source_2": [
