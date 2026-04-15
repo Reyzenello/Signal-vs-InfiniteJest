@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "In a letter to senators in January, Apple said it notified X that Grok could be removed from the App Store over Grok's ability to generate sexualized deepfakes (David Ingram/NBC News)",
-            "link": "http://www.techmeme.com/260414/p47#a260414p47",
-            "published": "Tue, 14 Apr 2026 19:50:00 -0400"
+            "title": "Sources: at least two US federal agencies and three congressional committees have reached out to Anthropic to test Claude Mythos, quietly bypassing Trump's ban (Politico)",
+            "link": "http://www.techmeme.com/260414/p54#a260414p54",
+            "published": "Tue, 14 Apr 2026 22:30:01 -0400"
         },
         {
-            "title": "Uber CTO Praveen Neppalli Naga says the company's surging use of AI coding tools has maxed out its full-year AI budget just a few months into 2026 (Laura Bratton/The Information)",
-            "link": "http://www.techmeme.com/260414/p46#a260414p46",
-            "published": "Tue, 14 Apr 2026 19:46:11 -0400"
+            "title": "How some mathematicians are exploring ways to incorporate LLM models into their research without losing direct experience with mathematical understanding (Konstantin Kakaes/Quanta Magazine)",
+            "link": "http://www.techmeme.com/260414/p53#a260414p53",
+            "published": "Tue, 14 Apr 2026 22:15:01 -0400"
         },
         {
-            "title": "Sources: Microsoft ended production of its Surface Hub 3 collaborative touch displays and scrapped plans for a Hub 4; Hub 3 debuted in 2023 in 50\" and 85\" sizes (Zac Bowden/Windows Central)",
-            "link": "http://www.techmeme.com/260414/p45#a260414p45",
-            "published": "Tue, 14 Apr 2026 19:20:03 -0400"
+            "title": "Maine's legislature passed a bill blocking new data centers that exceed 20 MW capacity until November 2027, making it the first state to enact such a measure (Alyssa Lukpat/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260414/p52#a260414p52",
+            "published": "Tue, 14 Apr 2026 21:35:03 -0400"
         },
         {
-            "title": "Anthropic recently changed Claude Enterprise pricing; customers now pay $20/month per user plus consumption-based charges, instead of a fixed subscription (The Information)",
-            "link": "http://www.techmeme.com/260414/p44#a260414p44",
-            "published": "Tue, 14 Apr 2026 19:01:40 -0400"
+            "title": "Omdia: Facebook, Instagram, YouTube, and TikTok now capture over 90% of social media ad revenue, with Meta accounting for 70% of the total (Georg Szalai/The Hollywood Reporter)",
+            "link": "http://www.techmeme.com/260414/p51#a260414p51",
+            "published": "Tue, 14 Apr 2026 21:10:03 -0400"
         },
         {
-            "title": "Anthropic details using AI agents to accelerate alignment research on \"weak-to-strong supervision\", where a weak model supervises the training of a stronger one (Anthropic)",
-            "link": "http://www.techmeme.com/260414/p43#a260414p43",
-            "published": "Tue, 14 Apr 2026 18:46:01 -0400"
+            "title": "Mintlify, which uses AI to help companies generate software documentation, raised a $45M Series B led by a16z and Salesforce Ventures at a $500M valuation (Rashi Shrivastava/Forbes)",
+            "link": "http://www.techmeme.com/260414/p50#a260414p50",
+            "published": "Tue, 14 Apr 2026 20:25:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Sun, 12 Apr 2026 18:24:26 +0000"
         },
         {
-            "title": "I Feel So Sorry for My A.I. Sunglasses",
-            "link": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
-            "published": "Tue, 14 Apr 2026 17:02:45 +0000"
+            "title": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
+            "link": "https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html",
+            "published": "Wed, 15 Apr 2026 00:25:41 +0000"
         }
     ],
     "source_2": [
@@ -65,6 +65,11 @@
             "published": "Mon, 13 Apr 2026 23:35:56 GMT"
         },
         {
+            "title": "Rolls-Royce launches new two-seater electric car",
+            "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 14 Apr 2026 12:06:48 GMT"
+        },
+        {
             "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
             "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 13 Apr 2026 12:19:13 GMT"
@@ -73,11 +78,6 @@
             "title": "GTA-maker Rockstar Games hacked again but downplays impact",
             "link": "https://www.bbc.com/news/articles/cx2dg5g1le7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 13 Apr 2026 15:10:38 GMT"
-        },
-        {
-            "title": "Meta pulls Facebook ads recruiting for social media addiction lawsuits",
-            "link": "https://www.bbc.com/news/articles/czjw0zgz9zyo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Apr 2026 15:44:12 GMT"
         }
     ]
 }
