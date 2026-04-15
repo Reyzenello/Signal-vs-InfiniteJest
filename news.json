@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The EU unveils an open-source age verification app that requires legal ID to shield minors from harmful content, aiming to standardize verification in the bloc (Gian Volpicelli/Bloomberg)",
-            "link": "http://www.techmeme.com/260415/p18#a260415p18",
-            "published": "Wed, 15 Apr 2026 07:55:01 -0400"
+            "title": "Artemis, which aims to replace rule-based cybersecurity systems with an AI-driven centralized \"brain\", emerges from stealth with a $70M Series A led by Felicis (Sharon Goldman/Fortune)",
+            "link": "http://www.techmeme.com/260415/p27#a260415p27",
+            "published": "Wed, 15 Apr 2026 09:55:01 -0400"
         },
         {
-            "title": "Analysis: nearly 90 schools and 600 students globally have been impacted by AI-generated deepfake nudes; North America had nearly 30 reported cases since 2023 (Matt Burgess/Wired)",
-            "link": "http://www.techmeme.com/260415/p17#a260415p17",
-            "published": "Wed, 15 Apr 2026 07:10:02 -0400"
+            "title": "London-based Gizmo, which uses AI to turn young students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users (Natalie Breymeyer/Axios)",
+            "link": "http://www.techmeme.com/260415/p26#a260415p26",
+            "published": "Wed, 15 Apr 2026 09:50:01 -0400"
         },
         {
-            "title": "Tel Aviv-based eToro agrees to acquire crypto wallet provider Zengo, a source says for ~$70M, mostly in cash; Zengo lets traders swap between tokens and fiat (Emily Nicolle/Bloomberg)",
-            "link": "http://www.techmeme.com/260415/p16#a260415p16",
-            "published": "Wed, 15 Apr 2026 06:55:01 -0400"
+            "title": "AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February (Kirsten Korosec/TechCrunch)",
+            "link": "http://www.techmeme.com/260415/p25#a260415p25",
+            "published": "Wed, 15 Apr 2026 09:45:01 -0400"
         },
         {
-            "title": "Spotify launches a feature to buy physical books in the US and UK, powered by Bookshop.org, and expands its Page Match tool to support 30 additional languages (Lauren Forristal/TechCrunch)",
-            "link": "http://www.techmeme.com/260415/p15#a260415p15",
-            "published": "Wed, 15 Apr 2026 06:45:07 -0400"
+            "title": "Trainer maker Allbirds, which sold last week for $39M after its valuation fell from $4B in 2021, says it aims to become an AI compute provider; BIRD jumps 150%+ (Bryce Elder/Financial Times)",
+            "link": "http://www.techmeme.com/260415/p24#a260415p24",
+            "published": "Wed, 15 Apr 2026 09:40:00 -0400"
         },
         {
-            "title": "Memo: Snap CEO Evan Spiegel says the company plans to lay off ~1,000 full-time employees, or 16% of its global workforce, to cut costs and achieve profitability (Alexandra S. Levine/Bloomberg)",
-            "link": "http://www.techmeme.com/260415/p14#a260415p14",
-            "published": "Wed, 15 Apr 2026 06:25:13 -0400"
+            "title": "The European Commission issues a supplementary statement of objections threatening Meta with an interim ban on WhatsApp policies that allegedly block rivals (Samuel Stolton/Bloomberg)",
+            "link": "http://www.techmeme.com/260415/p23#a260415p23",
+            "published": "Wed, 15 Apr 2026 09:30:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Booking.com customers warned of 'reservation hijacking' after hack",
+            "link": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 15 Apr 2026 12:05:58 GMT"
+        },
+        {
             "title": "Google to punish sites that trap people in with back button tricks",
             "link": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 15 Apr 2026 10:02:19 GMT"
@@ -73,11 +78,6 @@
             "title": "Quantum computing: A tech race Europe could win?",
             "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 13 Apr 2026 23:35:56 GMT"
-        },
-        {
-            "title": "Rolls-Royce launches new two-seater electric car",
-            "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 14 Apr 2026 12:06:48 GMT"
         }
     ]
 }
