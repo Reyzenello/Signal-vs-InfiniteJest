@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "A survey of US teens: ~90% say entertainment is a reason they use TikTok, Instagram, or Snapchat, 57% Snapchat message daily, and 37% say TikTok impacts sleep (Pew Research Center)",
-            "link": "http://www.techmeme.com/260415/p28#a260415p28",
-            "published": "Wed, 15 Apr 2026 10:15:01 -0400"
+            "title": "Google launches a Gemini Mac app, featuring a keyboard shortcut, screen sharing for better context, image generation with Nano Banana, and more (Abner Li/9to5Google)",
+            "link": "http://www.techmeme.com/260415/p34#a260415p34",
+            "published": "Wed, 15 Apr 2026 12:40:00 -0400"
         },
         {
-            "title": "Artemis, which aims to replace rule-based cybersecurity systems with an AI-driven centralized \"brain\", emerges from stealth with a $70M Series A led by Felicis (Sharon Goldman/Fortune)",
-            "link": "http://www.techmeme.com/260415/p27#a260415p27",
-            "published": "Wed, 15 Apr 2026 09:55:01 -0400"
+            "title": "The US Energy Information Administration plans to implement a mandatory nationwide survey of data centers focused on their energy use (Molly Taft/Wired)",
+            "link": "http://www.techmeme.com/260415/p33#a260415p33",
+            "published": "Wed, 15 Apr 2026 12:25:01 -0400"
         },
         {
-            "title": "London-based Gizmo, which uses AI to turn young students' notes into gamified study materials, raised a $22M Series A led by Shine Capital and reports 13M users (Natalie Breymeyer/Axios)",
-            "link": "http://www.techmeme.com/260415/p26#a260415p26",
-            "published": "Wed, 15 Apr 2026 09:50:01 -0400"
+            "title": "Cal.com, which provides scheduling software, is moving its core open-source codebase to a closed repository, citing the dangers of AI hacking its open code (Steven Vaughan-Nichols/ZDNET)",
+            "link": "http://www.techmeme.com/260415/p32#a260415p32",
+            "published": "Wed, 15 Apr 2026 12:00:51 -0400"
         },
         {
-            "title": "AMD, Arm, and Qualcomm invest $60M in London-based self-driving tech startup Wayve as part of an extension to its $1.2B Series D, announced in February (Kirsten Korosec/TechCrunch)",
-            "link": "http://www.techmeme.com/260415/p25#a260415p25",
-            "published": "Wed, 15 Apr 2026 09:45:01 -0400"
+            "title": "AI cloud infrastructure company Parasail raised a $32M Series A led by Touring Capital and Kindred Ventures, bringing its total funding to $42M (Tim Fernholz/TechCrunch)",
+            "link": "http://www.techmeme.com/260415/p31#a260415p31",
+            "published": "Wed, 15 Apr 2026 11:35:05 -0400"
         },
         {
-            "title": "Shoe company Allbirds, which sold last week for $39M after its valuation fell from $4B+ in 2021, says it aims to become an AI compute provider; BIRD jumps 350%+ (Bryce Elder/Financial Times)",
-            "link": "http://www.techmeme.com/260415/p24#a260415p24",
-            "published": "Wed, 15 Apr 2026 09:40:00 -0400"
+            "title": "Filings: Marc Andreessen and Ben Horowitz donated $25M to pro-AI super PAC Leading the Future, bringing the group's total cash on hand to over $51M (Bloomberg)",
+            "link": "http://www.techmeme.com/260415/p30#a260415p30",
+            "published": "Wed, 15 Apr 2026 11:25:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "What Is \u2018Jagged Intelligence\u2019 and How Can It Reframe the AI Debate?",
+            "link": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+            "published": "Wed, 15 Apr 2026 15:19:41 +0000"
+        },
+        {
+            "title": "That Meeting You Hate May Keep A.I. From Stealing Your Job",
+            "link": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
+            "published": "Wed, 15 Apr 2026 15:20:07 +0000"
+        },
         {
             "title": "Amazon Buys Globalstar for $10.8 Billion, Movingto Expand Its Satellite Internet Service",
             "link": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
@@ -36,16 +46,6 @@
             "title": "Man Held in Attack on OpenAI Chief\u2019s Home Had List of A.I. Leaders, Officials Say",
             "link": "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
             "published": "Tue, 14 Apr 2026 01:57:23 +0000"
-        },
-        {
-            "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
-            "link": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
-            "published": "Mon, 13 Apr 2026 17:54:38 +0000"
-        },
-        {
-            "title": "The Escalating Global A.I. Arms Race",
-            "link": "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
-            "published": "Sun, 12 Apr 2026 18:24:26 +0000"
         },
         {
             "title": "Spice Up Your Cooking Skills With Help From Your Phone",
@@ -65,6 +65,11 @@
             "published": "Wed, 15 Apr 2026 10:02:19 GMT"
         },
         {
+            "title": "Snapchat owner cuts 1,000 jobs as says AI will reduce repetitive work",
+            "link": "https://www.bbc.com/news/articles/cdxdd0z2w11o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 15 Apr 2026 15:15:13 GMT"
+        },
+        {
             "title": "Palantir defends its record as MPs demand more scrutiny of data use",
             "link": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 14 Apr 2026 18:57:51 GMT"
@@ -73,11 +78,6 @@
             "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
             "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 14 Apr 2026 01:05:54 GMT"
-        },
-        {
-            "title": "Quantum computing: A tech race Europe could win?",
-            "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 13 Apr 2026 23:35:56 GMT"
         }
     ]
 }
