@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Objection, which aims to use AI and experts to evaluate claims in news stories, debuts with funding from Peter Thiel, Balaji Srinivasan; evaluations cost $2,000 (Rebecca Bellan/TechCrunch)",
+            "link": "http://www.techmeme.com/260415/p41#a260415p41",
+            "published": "Wed, 15 Apr 2026 17:30:03 -0400"
+        },
+        {
+            "title": "NY-based Auctor, which uses AI to curate resource plans and process flows to help companies adopt new software, raised $20M in a combined seed and Series A (Chris Metinko/Axios)",
+            "link": "http://www.techmeme.com/260415/p40#a260415p40",
+            "published": "Wed, 15 Apr 2026 17:01:01 -0400"
+        },
+        {
             "title": "A jury finds that Live Nation and Ticketmaster illegally maintained monopoly power in the ticketing market, in a case brought by state AGs after the DOJ settled (NBC News)",
             "link": "http://www.techmeme.com/260415/p39#a260415p39",
             "published": "Wed, 15 Apr 2026 16:05:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Q&A with Jensen Huang on Nvidia's supply chain moat, competition from ASICs like Google's TPU, investing in AI labs and neoclouds, selling to China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
             "link": "http://www.techmeme.com/260415/p37#a260415p37",
             "published": "Wed, 15 Apr 2026 15:10:01 -0400"
-        },
-        {
-            "title": "WPP, Dentsu, and Publicis settle with the FTC over claims they colluded on misinformation policies that denied ad revenue to conservative publishers (David McCabe/New York Times)",
-            "link": "http://www.techmeme.com/260415/p36#a260415p36",
-            "published": "Wed, 15 Apr 2026 14:30:00 -0400"
-        },
-        {
-            "title": "Adobe unveils Firefly AI Assistant, which can orchestrate and execute multistep tasks across Creative Cloud apps, available in public beta in the coming weeks (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/260415/p35#a260415p35",
-            "published": "Wed, 15 Apr 2026 13:30:03 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "That Meeting You Hate May Keep A.I. From Stealing Your Job",
             "link": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
-            "published": "Wed, 15 Apr 2026 20:48:52 +0000"
+            "published": "Wed, 15 Apr 2026 21:01:24 +0000"
         },
         {
             "title": "Amazon Buys Globalstar for $10.8 Billion, Movingto Expand Its Satellite Internet Service",
@@ -50,10 +50,15 @@
         {
             "title": "Ford Says Doug Field, Who Led Company's E.V. Push, is Leaving",
             "link": "https://www.nytimes.com/2026/04/15/business/ford-electric-vehicles-doug-field.html",
-            "published": "Wed, 15 Apr 2026 20:45:45 +0000"
+            "published": "Wed, 15 Apr 2026 21:22:20 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Social media leaders called to Downing Street over children's safety",
+            "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 15 Apr 2026 21:30:40 GMT"
+        },
         {
             "title": "Booking.com customers warned of 'reservation hijacking' after hack",
             "link": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Palantir defends its record as MPs demand more scrutiny of data use",
             "link": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 14 Apr 2026 18:57:51 GMT"
-        },
-        {
-            "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
-            "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 14 Apr 2026 01:05:54 GMT"
         }
     ]
 }
