@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "A US judge issues a $322.2M judgment against pirate library Anna's Archive for scraping Spotify, a largely symbolic victory as the site is anonymously operated (Rachel Scharf/Billboard)",
+            "link": "http://www.techmeme.com/260415/p13#a260415p13",
+            "published": "Wed, 15 Apr 2026 06:15:03 -0400"
+        },
+        {
+            "title": "Sources: SoftBank invites more banks to join its $40B loan backing its OpenAI investment, requiring them to commit ~$5B each; SoftBank has already invested $30B (Bloomberg)",
+            "link": "http://www.techmeme.com/260415/p12#a260415p12",
+            "published": "Wed, 15 Apr 2026 06:01:17 -0400"
+        },
+        {
+            "title": "ByteDance launches its Seedance 2.0 video model to enterprise clients in 100+ countries, excluding the US amid legal disputes, after a February launch in China (Juro Osawa/The Information)",
+            "link": "http://www.techmeme.com/260415/p11#a260415p11",
+            "published": "Wed, 15 Apr 2026 05:40:00 -0400"
+        },
+        {
             "title": "PitchBook: US growth and late-stage venture funds raised $23.6B YTD, up from $7.4B in 2025 and above the totals for any of the past 12 years, amid the AI boom (Yuliya Chernova/Wall Street Journal)",
             "link": "http://www.techmeme.com/260415/p10#a260415p10",
             "published": "Wed, 15 Apr 2026 04:00:13 -0400"
@@ -9,21 +24,6 @@
             "title": "Q&A with ElevenLabs co-founder Mati Staniszewski on how audio models work, the company's business model, the conversational Turing Test, voice agents, and more (John Collison/Cheeky Pint)",
             "link": "http://www.techmeme.com/260415/p9#a260415p9",
             "published": "Wed, 15 Apr 2026 02:50:08 -0400"
-        },
-        {
-            "title": "Asia's startup funding rose 93% YoY to $27.4B in Q1, the highest quarterly total in 3+ years, with Chinese startups raising $16.5B and Indian startups $3.8B (Joanna Glasner/Crunchbase News)",
-            "link": "http://www.techmeme.com/260415/p8#a260415p8",
-            "published": "Wed, 15 Apr 2026 02:35:00 -0400"
-        },
-        {
-            "title": "Apple endorses the ~$11.6B Amazon-Globalstar deal, citing a \"proven track record\" with Amazon infrastructure; Apple holds a ~20% stake in Globalstar (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/260415/p7#a260415p7",
-            "published": "Wed, 15 Apr 2026 02:30:01 -0400"
-        },
-        {
-            "title": "ASML reports Q1 net sales of \u20ac8.8B, above \u20ac8.5B est., a \u20ac2.8B net profit, above \u20ac2.5B est., and raises 2026 net sales forecast to \u20ac36B to \u20ac40B from \u20ac34B to \u20ac39B (Arjun Kharpal/CNBC)",
-            "link": "http://www.techmeme.com/260415/p6#a260415p6",
-            "published": "Wed, 15 Apr 2026 02:25:00 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Sun, 12 Apr 2026 18:24:26 +0000"
         },
         {
-            "title": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
-            "link": "https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html",
-            "published": "Wed, 15 Apr 2026 00:25:41 +0000"
+            "title": "Spice Up Your Cooking Skills With Help From Your Phone",
+            "link": "https://www.nytimes.com/2026/04/15/technology/personaltech/recipes-cooking-ai.html",
+            "published": "Wed, 15 Apr 2026 09:04:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Google to punish sites that trap people in with back button tricks",
+            "link": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 15 Apr 2026 10:02:19 GMT"
+        },
         {
             "title": "Palantir defends its record as MPs demand more scrutiny of data use",
             "link": "https://www.bbc.com/news/articles/c393w38lv3mo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Rolls-Royce launches new two-seater electric car",
             "link": "https://www.bbc.com/news/articles/c1eqqlnzq7yo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 14 Apr 2026 12:06:48 GMT"
-        },
-        {
-            "title": "Roblox defends expanded age\u2011checks after parents raise concerns over errors",
-            "link": "https://www.bbc.com/news/articles/cj94y9r0p10o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 13 Apr 2026 12:19:13 GMT"
         }
     ]
 }
