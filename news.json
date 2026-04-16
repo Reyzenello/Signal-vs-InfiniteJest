@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "IAB and PwC: digital ad revenue hit $294.6B in 2025, up 13.9% YoY; social media advertising hit $117.7B, up 32.6%, and digital video hit $78B, up 25.4% (George Winslow/TV Tech)",
+            "link": "http://www.techmeme.com/260416/p54#a260416p54",
+            "published": "Thu, 16 Apr 2026 19:40:01 -0400"
+        },
+        {
+            "title": "The US and the Philippines agree to launch a high-tech industrial hub on the island of Luzon to counter China's supply chains; the US will run it as an SEZ (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260416/p53#a260416p53",
+            "published": "Thu, 16 Apr 2026 19:20:01 -0400"
+        },
+        {
             "title": "NYC-based Nas.com, an AI platform founded by content creator Nas Daily that helps solo entrepreneurs build online stores, raised a $27M Series A led by Khosla (Robert Scammell/Business Insider)",
             "link": "http://www.techmeme.com/260416/p52#a260416p52",
             "published": "Thu, 16 Apr 2026 18:45:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Google updates AI Mode in Chrome, letting users open links side by side with AI Mode on desktop; users can search across multiple tabs on desktop and mobile (Aisha Malik/TechCrunch)",
             "link": "http://www.techmeme.com/260416/p50#a260416p50",
             "published": "Thu, 16 Apr 2026 16:25:01 -0400"
-        },
-        {
-            "title": "Netflix reports Q1 revenue up 16% YoY to $12.3B, vs. $12.2B est., net income of $5.28B, and forecasts Q2 EPS below estimates; NFLX drops 8%+ after hours (Lucas Shaw/Bloomberg)",
-            "link": "http://www.techmeme.com/260416/p49#a260416p49",
-            "published": "Thu, 16 Apr 2026 16:15:01 -0400"
-        },
-        {
-            "title": "Netflix chairman and co-founder Reed Hastings will step down from the company's board after his term expires in June to focus on philanthropy and other pursuits (Isabella Simonetti/Wall Street Journal)",
-            "link": "http://www.techmeme.com/260416/p48#a260416p48",
-            "published": "Thu, 16 Apr 2026 16:10:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Could a digital twin make you into a 'superworker'?",
+            "link": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 16 Apr 2026 23:04:15 GMT"
+        },
+        {
             "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
             "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 16 Apr 2026 09:20:36 GMT"
@@ -73,11 +78,6 @@
             "title": "Man charged with attempted murder over attack on home of OpenAI's Sam Altman",
             "link": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 14 Apr 2026 01:05:54 GMT"
-        },
-        {
-            "title": "Quantum computing: A tech race Europe could win?",
-            "link": "https://www.bbc.com/news/articles/c20q4nv89yzo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 13 Apr 2026 23:35:56 GMT"
         }
     ]
 }
