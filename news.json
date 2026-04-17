@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "World expands its Tinder partnership and partners with Zoom and others to verify human users, as it continues its pivot from crypto to identity verification (Maxwell Zeff/Wired)",
+            "link": "http://www.techmeme.com/260417/p26#a260417p26",
+            "published": "Fri, 17 Apr 2026 13:50:02 -0400"
+        },
+        {
             "title": "Ad buyers say ad rates for ChatGPT are falling from $60 CPM to as low as $25 and the minimum spend to advertise is down to $50K from $250K at launch (Krystal Scanlon/Digiday)",
             "link": "http://www.techmeme.com/260417/p25#a260417p25",
             "published": "Fri, 17 Apr 2026 12:55:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources: xAI plans to let Cursor train Composer 2.5 AI coding model using tens of thousands of xAI's GPUs, a new strategy for xAI in a competitive AI landscape (Grace Kay/Business Insider)",
             "link": "http://www.techmeme.com/260417/p22#a260417p22",
             "published": "Fri, 17 Apr 2026 11:15:04 -0400"
-        },
-        {
-            "title": "Anthropic launches Claude Design, a new experimental product that lets users create visuals like prototypes, slides, one-pagers, and more using Claude (Aisha Malik/TechCrunch)",
-            "link": "http://www.techmeme.com/260417/p21#a260417p21",
-            "published": "Fri, 17 Apr 2026 11:10:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
+            "link": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 17 Apr 2026 17:15:09 GMT"
+        },
+        {
             "title": "What is Claude Mythos and what risks does it pose?",
             "link": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 17 Apr 2026 13:41:01 GMT"
@@ -73,11 +78,6 @@
             "title": "Booking.com customers warned of 'reservation hijacking' after hack",
             "link": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 15 Apr 2026 12:05:58 GMT"
-        },
-        {
-            "title": "Google to punish sites that trap people in with back button tricks",
-            "link": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 15 Apr 2026 10:02:19 GMT"
         }
     ]
 }
