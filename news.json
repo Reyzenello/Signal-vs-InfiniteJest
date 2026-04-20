@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "RaveDAO's RAVE has lost $6.6B+ in market cap and its price has sunk ~98% since Saturday, after ZachXBT called on exchanges to probe if it was being manipulated (Andr\u00e9 Beganski/Decrypt)",
-            "link": "http://www.techmeme.com/260420/p21#a260420p21",
-            "published": "Mon, 20 Apr 2026 16:00:55 -0400"
+            "title": "Apple says Johny Srouji, who most recently served as senior VP of Hardware Technologies, will assume an expanded role leading Hardware Engineering (Apple)",
+            "link": "http://www.techmeme.com/260420/p26#a260420p26",
+            "published": "Mon, 20 Apr 2026 16:50:01 -0400"
         },
         {
-            "title": "A profile of far-right influencer Nick Fuentes, who has been kicked off most mainstream social media but made ~$900K from \"fanatical\" donors since early 2025 (Washington Post)",
-            "link": "http://www.techmeme.com/260420/p20#a260420p20",
-            "published": "Mon, 20 Apr 2026 15:00:41 -0400"
+            "title": "Amazon agrees to invest up to $25B in Anthropic, on top of the $8B that it has already invested; Anthropic commits to spend $100B+ on AWS over the next 10 years (Ashley Capoot/CNBC)",
+            "link": "http://www.techmeme.com/260420/p25#a260420p25",
+            "published": "Mon, 20 Apr 2026 16:40:07 -0400"
         },
         {
-            "title": "Filing in California's antitrust lawsuit: CA accuses Amazon of price-fixing by pressuring brands to ask competing retailers to increase prices on some products (David McCabe/New York Times)",
-            "link": "http://www.techmeme.com/260420/p19#a260420p19",
-            "published": "Mon, 20 Apr 2026 14:00:37 -0400"
+            "title": "John Ternus, senior VP of Hardware Engineering, will become Apple's next CEO on September 1; Tim Cook will become executive chairman of Apple's board (Apple)",
+            "link": "http://www.techmeme.com/260420/p24#a260420p24",
+            "published": "Mon, 20 Apr 2026 16:37:59 -0400"
         },
         {
-            "title": "A new media company called MTS launches for \"monitoring the situation\" across tech, business, politics, and culture, with backing from a16z and others (a16z)",
-            "link": "http://www.techmeme.com/260420/p18#a260420p18",
-            "published": "Mon, 20 Apr 2026 13:05:02 -0400"
+            "title": "Microsoft pauses new GitHub Copilot signups for Pro, Pro+, and Student tiers, tightens usage limits, removes Opus models from Pro, and limits Opus 4.7 to Pro+ (The GitHub Blog)",
+            "link": "http://www.techmeme.com/260420/p23#a260420p23",
+            "published": "Mon, 20 Apr 2026 16:30:12 -0400"
         },
         {
-            "title": "WhatsApp says it is testing a new subscription called WhatsApp Plus, which includes features like expanded pinned chats, custom lists, and new chat themes (Ivan Mehta/TechCrunch)",
-            "link": "http://www.techmeme.com/260420/p17#a260420p17",
-            "published": "Mon, 20 Apr 2026 12:25:03 -0400"
+            "title": "Docs: Microsoft plans to eventually move GitHub Copilot from request- to token-based billing, as the week-over-week cost to run it has nearly doubled since Jan. (Edward Zitron/Ed Zitron's Where's ...)",
+            "link": "http://www.techmeme.com/260420/p22#a260420p22",
+            "published": "Mon, 20 Apr 2026 16:15:07 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Tim Cook Will Step Down as Apple C.E.O.",
+            "link": "https://www.nytimes.com/2026/04/20/technology/tim-cook-will-step-down-as-apple-ceo.html",
+            "published": "Mon, 20 Apr 2026 20:49:23 +0000"
+        },
+        {
+            "title": "California Accuses Amazon of Price Fixing in Legal Filing",
+            "link": "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html",
+            "published": "Mon, 20 Apr 2026 18:55:39 +0000"
+        },
         {
             "title": "White House and Anthropic Hold \u2018Productive\u2019 Meeting, Aiming for a Compromise",
             "link": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
@@ -38,22 +48,17 @@
             "published": "Fri, 17 Apr 2026 16:00:43 +0000"
         },
         {
-            "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
-            "link": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
-            "published": "Sun, 19 Apr 2026 18:00:42 +0000"
-        },
-        {
-            "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
-            "link": "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
-            "published": "Sat, 18 Apr 2026 13:16:22 +0000"
-        },
-        {
             "title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
             "link": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
             "published": "Mon, 20 Apr 2026 18:54:58 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple names new chief executive to replace Tim Cook",
+            "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 20 Apr 2026 20:57:25 GMT"
+        },
         {
             "title": "Blue Origin rocket grounded after satellite 'mishap'",
             "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
             "link": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 17 Apr 2026 19:05:43 GMT"
-        },
-        {
-            "title": "What is Claude Mythos and what risks does it pose?",
-            "link": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 17 Apr 2026 13:41:01 GMT"
         }
     ]
 }
