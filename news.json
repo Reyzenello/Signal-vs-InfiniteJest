@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The US Air Force cancels RTX's ground-control network for the US' next generation of GPS satellites after years of delays and cost overruns (Anthony Capaccio/Bloomberg)",
+            "link": "http://www.techmeme.com/260420/p31#a260420p31",
+            "published": "Mon, 20 Apr 2026 19:35:05 -0400"
+        },
+        {
+            "title": "Q&A with Canva CEO Melanie Perkins on the company's growth in enterprise, competing with AI labs, token pricing, investing in its own models, and more (Nilay Patel/The Verge)",
+            "link": "http://www.techmeme.com/260420/p30#a260420p30",
+            "published": "Mon, 20 Apr 2026 19:10:00 -0400"
+        },
+        {
             "title": "A US jury finds Uber liable for a sexual assault by a driver in 2019, handing Uber a second consecutive defeat in its first trials of 3,000+ pending lawsuits (Emily Steel/New York Times)",
             "link": "http://www.techmeme.com/260420/p29#a260420p29",
             "published": "Mon, 20 Apr 2026 18:15:10 -0400"
@@ -14,16 +24,6 @@
             "title": "OpenAI rolls out Chronicle, which builds memories from screen captures to make Codex more aware of context, as a research preview for Pro subscribers on macOS (Zac Hall/9to5Mac)",
             "link": "http://www.techmeme.com/260420/p28#a260420p28",
             "published": "Mon, 20 Apr 2026 17:20:02 -0400"
-        },
-        {
-            "title": "Apple says Johny Srouji, who most recently served as senior VP of Hardware Technologies, will assume an expanded role leading Hardware Engineering (Apple)",
-            "link": "http://www.techmeme.com/260420/p26#a260420p26",
-            "published": "Mon, 20 Apr 2026 16:50:01 -0400"
-        },
-        {
-            "title": "Amazon agrees to invest up to $25B in Anthropic, on top of the $8B that it has already invested; Anthropic commits to spend $100B+ on AWS over the next 10 years (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/260420/p25#a260420p25",
-            "published": "Mon, 20 Apr 2026 16:40:07 -0400"
         }
     ],
     "source_1": [
@@ -38,22 +38,27 @@
             "published": "Mon, 20 Apr 2026 21:49:39 +0000"
         },
         {
+            "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
+            "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
+            "published": "Mon, 20 Apr 2026 22:52:29 +0000"
+        },
+        {
             "title": "California Accuses Amazon of Price Fixing in Legal Filing",
             "link": "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html",
             "published": "Mon, 20 Apr 2026 21:29:04 +0000"
         },
         {
-            "title": "White House and Anthropic Hold \u2018Productive\u2019 Meeting, Aiming for a Compromise",
-            "link": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
-            "published": "Fri, 17 Apr 2026 23:45:46 +0000"
-        },
-        {
-            "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
-            "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
-            "published": "Mon, 20 Apr 2026 22:52:29 +0000"
+            "title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
+            "link": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
+            "published": "Mon, 20 Apr 2026 18:54:58 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "The 'dumb machine' promising a clean energy breakthrough",
+            "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 20 Apr 2026 23:09:41 GMT"
+        },
         {
             "title": "Apple names new chief executive to replace Tim Cook",
             "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
             "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 18 Apr 2026 00:37:06 GMT"
-        },
-        {
-            "title": "Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI",
-            "link": "https://www.bbc.com/news/articles/cp9vppem4evo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 17 Apr 2026 19:05:43 GMT"
         }
     ]
 }
