@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "SpaceX says it's working with Cursor to build \"the world's most useful models\" and it has the right to acquire Cursor for $60B or pay $10B for the partnership (New York Times)",
+            "link": "http://www.techmeme.com/260421/p48#a260421p48",
+            "published": "Tue, 21 Apr 2026 18:22:36 -0400"
+        },
+        {
+            "title": "Trump Media & Technology Group names Kevin McGurn as interim CEO effective immediately; McGurn previously worked as an executive at Hulu, Vevo, and T-Mobile (Todd Spangler/Variety)",
+            "link": "http://www.techmeme.com/260421/p47#a260421p47",
+            "published": "Tue, 21 Apr 2026 18:10:02 -0400"
+        },
+        {
+            "title": "Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic's Mythos model since the day the company announced it (Rachel Metz/Bloomberg)",
+            "link": "http://www.techmeme.com/260421/p46#a260421p46",
+            "published": "Tue, 21 Apr 2026 18:00:38 -0400"
+        },
+        {
             "title": "Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers (The Keyword)",
             "link": "http://www.techmeme.com/260421/p45#a260421p45",
             "published": "Tue, 21 Apr 2026 17:40:00 -0400"
@@ -9,24 +24,14 @@
             "title": "Reliable Robotics, which is developing autonomous aircraft systems for cargo flights, raised $160M led by Nimble Partners, pushing its valuation to ~$1B (Cailley LaPara/Bloomberg)",
             "link": "http://www.techmeme.com/260421/p44#a260421p44",
             "published": "Tue, 21 Apr 2026 17:20:01 -0400"
-        },
-        {
-            "title": "Adobe announces a $25B stock repurchase program through April 30, 2030; Adobe shares have fallen around 30% so far this year (Zaheer Kachwala/Reuters)",
-            "link": "http://www.techmeme.com/260421/p43#a260421p43",
-            "published": "Tue, 21 Apr 2026 17:00:53 -0400"
-        },
-        {
-            "title": "The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-            "link": "http://www.techmeme.com/260421/p42#a260421p42",
-            "published": "Tue, 21 Apr 2026 16:40:03 -0400"
-        },
-        {
-            "title": "Roblox reaches settlements totaling $35.8M with the AGs of West Virginia, Alabama, and Nevada over child-safety protections (Cecilia D'Anastasio/Bloomberg)",
-            "link": "http://www.techmeme.com/260421/p41#a260421p41",
-            "published": "Tue, 21 Apr 2026 16:20:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "SpaceX Strikes Deal With Cursor for $60 Billion",
+            "link": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
+            "published": "Tue, 21 Apr 2026 22:45:50 +0000"
+        },
         {
             "title": "A Wish List for John Ternus, the Man Replacing Tim Cook as Apple\u2019s CEO",
             "link": "https://www.nytimes.com/2026/04/21/technology/apple-cook-ternus-wish-list.html",
@@ -43,11 +48,6 @@
             "published": "Tue, 21 Apr 2026 14:19:03 +0000"
         },
         {
-            "title": "What Happens When A.I. Runs a Store in San Francisco?",
-            "link": "https://www.nytimes.com/2026/04/21/us/san-francisco-store-managed-ai-agent.html",
-            "published": "Tue, 21 Apr 2026 14:26:06 +0000"
-        },
-        {
             "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
             "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
             "published": "Tue, 21 Apr 2026 01:11:05 +0000"
@@ -55,14 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "Meta to track workers' clicks and keystrokes to train AI",
+            "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 21 Apr 2026 22:47:56 GMT"
+        },
+        {
             "title": "AI hacking tools like Mythos can be 'net positive' says top cyber official",
             "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 21:43:48 GMT"
-        },
-        {
-            "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
-            "link": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Apr 2026 19:15:34 GMT"
         },
         {
             "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
