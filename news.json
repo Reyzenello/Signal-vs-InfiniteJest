@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "The Los Angeles Unified School District's board votes to require screen time limits, making it the first major American school system to do so (Tyler Kingkade/NBC News)",
+            "link": "http://www.techmeme.com/260421/p52#a260421p52",
+            "published": "Tue, 21 Apr 2026 19:40:01 -0400"
+        },
+        {
+            "title": "Anthropic appears to have removed access to Claude Code from its $20/month Pro plan; Anthropic says it is \"running a small test on ~2% of new prosumer signups\" (Ed Zitron/Ed Zitron's Where's Your Ed At)",
+            "link": "http://www.techmeme.com/260421/p51#a260421p51",
+            "published": "Tue, 21 Apr 2026 19:35:02 -0400"
+        },
+        {
+            "title": "Filing: Anthropic spent $1.6M and OpenAI $1M on lobbying in Q1, vs. $360K and $560K in Q1 2025, respectively; Meta topped Big Tech lobbying spending with $7.1M (Ashley Gold/Axios)",
+            "link": "http://www.techmeme.com/260421/p50#a260421p50",
+            "published": "Tue, 21 Apr 2026 19:30:01 -0400"
+        },
+        {
+            "title": "AcuityMD, which provides AI tools that automate sales call recaps, CRM data entry, and more for medtech companies, raised an $80M Series C at a $955M valuation (Brock E.W. Turner/Axios)",
+            "link": "http://www.techmeme.com/260421/p49#a260421p49",
+            "published": "Tue, 21 Apr 2026 19:00:37 -0400"
+        },
+        {
             "title": "SpaceX says it's working with Cursor to build \"the world's most useful models\" and it has the right to acquire Cursor for $60B or pay $10B for the partnership (New York Times)",
             "link": "http://www.techmeme.com/260421/p48#a260421p48",
             "published": "Tue, 21 Apr 2026 18:22:36 -0400"
-        },
-        {
-            "title": "Trump Media & Technology Group names Kevin McGurn as interim CEO effective immediately; McGurn previously worked as an executive at Hulu, Vevo, and T-Mobile (Todd Spangler/Variety)",
-            "link": "http://www.techmeme.com/260421/p47#a260421p47",
-            "published": "Tue, 21 Apr 2026 18:10:02 -0400"
-        },
-        {
-            "title": "Source: a handful of unauthorized users in a private Discord channel have been accessing Anthropic's Mythos model since the day the company announced it (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/260421/p46#a260421p46",
-            "published": "Tue, 21 Apr 2026 18:00:38 -0400"
-        },
-        {
-            "title": "Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers (The Keyword)",
-            "link": "http://www.techmeme.com/260421/p45#a260421p45",
-            "published": "Tue, 21 Apr 2026 17:40:00 -0400"
-        },
-        {
-            "title": "Reliable Robotics, which is developing autonomous aircraft systems for cargo flights, raised $160M led by Nimble Partners, pushing its valuation to ~$1B (Cailley LaPara/Bloomberg)",
-            "link": "http://www.techmeme.com/260421/p44#a260421p44",
-            "published": "Tue, 21 Apr 2026 17:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
+            "link": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 21 Apr 2026 23:00:24 GMT"
+        },
+        {
             "title": "Meta to track workers' clicks and keystrokes to train AI",
             "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 22:47:56 GMT"
@@ -73,11 +78,6 @@
             "title": "How will Apple change under 'product guy' John Ternus?",
             "link": "https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 13:35:21 GMT"
-        },
-        {
-            "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
-            "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Apr 2026 05:57:56 GMT"
         }
     ]
 }
