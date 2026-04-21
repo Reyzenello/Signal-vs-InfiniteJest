@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Revolut is aiming for a valuation of $150B to $200B in an IPO; founder Nik Storonsky said this week that Revolut would IPO in 2028 at the earliest (Financial Times)",
+            "link": "http://www.techmeme.com/260421/p9#a260421p9",
+            "published": "Tue, 21 Apr 2026 07:31:07 -0400"
+        },
+        {
+            "title": "UK's Ofcom launches an investigation into Telegram over concerns of CSAM being shared on the platform and it being used by predators to groom children (Muvija M/Reuters)",
+            "link": "http://www.techmeme.com/260421/p8#a260421p8",
+            "published": "Tue, 21 Apr 2026 07:10:07 -0400"
+        },
+        {
+            "title": "The UK proposes an amendment to the Children's Wellbeing and Schools Bill to ban smartphones in all schools in England; a ban was previously just advisory (Sally Weale/The Guardian)",
+            "link": "http://www.techmeme.com/260421/p7#a260421p7",
+            "published": "Tue, 21 Apr 2026 06:40:08 -0400"
+        },
+        {
             "title": "Tim Cook's 15-year legacy by the numbers: Apple's market cap grew from $350B in 2011 to $4T+ now, net income rose ~700% to $112B for FY 2025, and more (Vlad Savov/Bloomberg)",
             "link": "http://www.techmeme.com/260421/p6#a260421p6",
             "published": "Tue, 21 Apr 2026 06:10:02 -0400"
@@ -9,21 +24,6 @@
             "title": "A profile of John Ternus, a mechanical engineer by background, who joined Apple in 2001 and whose biggest success was helping Mac's transition to Apple Silicon (Rolfe Winkler/Wall Street Journal)",
             "link": "http://www.techmeme.com/260421/p5#a260421p5",
             "published": "Tue, 21 Apr 2026 05:35:01 -0400"
-        },
-        {
-            "title": "Longtime colleagues say John Ternus will bring back Jobs-era decisiveness, shifting from Cook's era when decisions were made collectively by top executives (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/260421/p4#a260421p4",
-            "published": "Tue, 21 Apr 2026 05:05:02 -0400"
-        },
-        {
-            "title": "A look at EU efforts to cut reliance on US tech; study: Amazon, Microsoft, and Google hold ~70% of EU cloud and US vendors get 80% of enterprise software spend (Politico)",
-            "link": "http://www.techmeme.com/260421/p3#a260421p3",
-            "published": "Tue, 21 Apr 2026 02:30:26 -0400"
-        },
-        {
-            "title": "Tim Cook reshaped Apple in his own image and exits as CEO on his own terms, seemingly picking the right successor in John Ternus, much like Jobs did with Cook (John Gruber/Daring Fireball)",
-            "link": "http://www.techmeme.com/260421/p2#a260421p2",
-            "published": "Tue, 21 Apr 2026 00:55:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
+            "link": "https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 21 Apr 2026 12:00:29 GMT"
+        },
+        {
+            "title": "How will Apple change under 'product guy' John Ternus?",
+            "link": "https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 21 Apr 2026 11:33:12 GMT"
+        },
+        {
             "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
             "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 05:57:56 GMT"
@@ -68,16 +78,6 @@
             "title": "Blue Origin rocket grounded after satellite 'mishap'",
             "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 20 Apr 2026 19:56:11 GMT"
-        },
-        {
-            "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
-            "link": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Apr 2026 15:44:44 GMT"
-        },
-        {
-            "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
-            "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 18 Apr 2026 00:37:06 GMT"
         }
     ]
 }
