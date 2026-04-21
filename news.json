@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Core Scientific plans to raise $3.3B via a junk bond sale to finance its shift from crypto mining to building AI data centers and leasing them to CoreWeave (Francisco Rodrigues/CoinDesk)",
-            "link": "http://www.techmeme.com/260421/p39#a260421p39",
-            "published": "Tue, 21 Apr 2026 15:50:03 -0400"
+            "title": "Google now offers two research agents: Deep Research, replacing its December preview release, and Deep Research Max, both available via Gemini API paid tiers (The Keyword)",
+            "link": "http://www.techmeme.com/260421/p45#a260421p45",
+            "published": "Tue, 21 Apr 2026 17:40:00 -0400"
         },
         {
-            "title": "Sources: following Manus probe, Chinese authorities ordered at least one other prominent AI startup, MiroMind, not to send talent and research out of China (Washington Post)",
-            "link": "http://www.techmeme.com/260421/p38#a260421p38",
-            "published": "Tue, 21 Apr 2026 15:40:05 -0400"
+            "title": "Reliable Robotics, which is developing autonomous aircraft systems for cargo flights, raised $160M led by Nimble Partners, pushing its valuation to ~$1B (Cailley LaPara/Bloomberg)",
+            "link": "http://www.techmeme.com/260421/p44#a260421p44",
+            "published": "Tue, 21 Apr 2026 17:20:01 -0400"
         },
         {
-            "title": "Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic's Mythos Preview (Lily Hay Newman/Wired)",
-            "link": "http://www.techmeme.com/260421/p37#a260421p37",
-            "published": "Tue, 21 Apr 2026 15:35:01 -0400"
+            "title": "Adobe announces a $25B stock repurchase program through April 30, 2030; Adobe shares have fallen around 30% so far this year (Zaheer Kachwala/Reuters)",
+            "link": "http://www.techmeme.com/260421/p43#a260421p43",
+            "published": "Tue, 21 Apr 2026 17:00:53 -0400"
         },
         {
-            "title": "NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst (Marina Temkin/TechCrunch)",
-            "link": "http://www.techmeme.com/260421/p36#a260421p36",
-            "published": "Tue, 21 Apr 2026 15:30:01 -0400"
+            "title": "The US DOJ says a former ransomware negotiator pleaded guilty to helping cybercriminals extort companies in cyberattacks in five different incidents (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+            "link": "http://www.techmeme.com/260421/p42#a260421p42",
+            "published": "Tue, 21 Apr 2026 16:40:03 -0400"
         },
         {
-            "title": "ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 (Reece Rogers/Wired)",
-            "link": "http://www.techmeme.com/260421/p35#a260421p35",
-            "published": "Tue, 21 Apr 2026 15:25:00 -0400"
+            "title": "Roblox reaches settlements totaling $35.8M with the AGs of West Virginia, Alabama, and Nevada over child-safety protections (Cecilia D'Anastasio/Bloomberg)",
+            "link": "http://www.techmeme.com/260421/p41#a260421p41",
+            "published": "Tue, 21 Apr 2026 16:20:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Tim Cook Was Very, Very Good at Making Money",
             "link": "https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html",
-            "published": "Tue, 21 Apr 2026 15:43:24 +0000"
+            "published": "Tue, 21 Apr 2026 15:43:25 +0000"
         },
         {
             "title": "Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "AI hacking tools like Mythos can be 'net positive' says top cyber official",
+            "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 21 Apr 2026 21:43:48 GMT"
+        },
+        {
             "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
             "link": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 19:15:34 GMT"
@@ -73,11 +78,6 @@
             "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
             "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 05:57:56 GMT"
-        },
-        {
-            "title": "The 'dumb machine' promising a clean energy breakthrough",
-            "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Apr 2026 23:09:41 GMT"
         }
     ]
 }
