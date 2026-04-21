@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "How opposition to data centers, over concerns like power demands, pollution, and water needs, has become a voting issue for many people in the 2026 US midterms (NPR)",
-            "link": "http://www.techmeme.com/260421/p30#a260421p30",
-            "published": "Tue, 21 Apr 2026 14:00:37 -0400"
+            "title": "Core Scientific plans to raise $3.3B via a junk bond sale to finance its shift from crypto mining to building AI data centers and leasing them to CoreWeave (Francisco Rodrigues/CoinDesk)",
+            "link": "http://www.techmeme.com/260421/p39#a260421p39",
+            "published": "Tue, 21 Apr 2026 15:50:03 -0400"
         },
         {
-            "title": "All-hands: Tim Cook said he's stepping down now to ensure the \"best-ever transition,\" citing strong financials, an \"incredible\" pipeline, and Ternus' readiness (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/260421/p29#a260421p29",
-            "published": "Tue, 21 Apr 2026 13:55:01 -0400"
+            "title": "Sources: following Manus probe, Chinese authorities ordered at least one other prominent AI startup, MiroMind, not to send talent and research out of China (Washington Post)",
+            "link": "http://www.techmeme.com/260421/p38#a260421p38",
+            "published": "Tue, 21 Apr 2026 15:40:05 -0400"
         },
         {
-            "title": "New York Attorney General Letitia James sues Coinbase and Gemini, claiming their prediction markets violate state laws against illegal gambling (Jonathan Stempel/Reuters)",
-            "link": "http://www.techmeme.com/260421/p28#a260421p28",
-            "published": "Tue, 21 Apr 2026 13:45:01 -0400"
+            "title": "Mozilla says its Firefox 150 release includes fixes for 271 vulnerabilities identified using early access to Anthropic's Mythos Preview (Lily Hay Newman/Wired)",
+            "link": "http://www.techmeme.com/260421/p37#a260421p37",
+            "published": "Tue, 21 Apr 2026 15:35:01 -0400"
         },
         {
-            "title": "Clarifai says it has deleted 3M OkCupid user photos and facial-recognition models trained on them after the US FTC settled with OkCupid over privacy violations (Jody Godoy/Reuters)",
-            "link": "http://www.techmeme.com/260421/p27#a260421p27",
-            "published": "Tue, 21 Apr 2026 13:25:01 -0400"
+            "title": "NeoCognition, which wants to build AI agents that self-learn like humans, emerges from stealth with a $40M seed co-led by Cambium Capital and Walden Catalyst (Marina Temkin/TechCrunch)",
+            "link": "http://www.techmeme.com/260421/p36#a260421p36",
+            "published": "Tue, 21 Apr 2026 15:30:01 -0400"
         },
         {
-            "title": "Sources: CISA doesn't have access to Mythos Preview, even as some other government agencies use it; Anthropic says it briefed CISA before Mythos' unveiling (Sam Sabin/Axios)",
-            "link": "http://www.techmeme.com/260421/p26#a260421p26",
-            "published": "Tue, 21 Apr 2026 13:20:02 -0400"
+            "title": "ChatGPT Images 2.0 is available globally to ChatGPT and Codex users, with a more powerful version for paying subscribers; its knowledge cutoff is December 2025 (Reece Rogers/Wired)",
+            "link": "http://www.techmeme.com/260421/p35#a260421p35",
+            "published": "Tue, 21 Apr 2026 15:25:00 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.",
             "link": "https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html",
-            "published": "Tue, 21 Apr 2026 14:19:02 +0000"
+            "published": "Tue, 21 Apr 2026 14:19:03 +0000"
         },
         {
             "title": "What Happens When A.I. Runs a Store in San Francisco?",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
+            "link": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 21 Apr 2026 19:15:34 GMT"
+        },
         {
             "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
             "link": "https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "The 'dumb machine' promising a clean energy breakthrough",
             "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 20 Apr 2026 23:09:41 GMT"
-        },
-        {
-            "title": "Blue Origin rocket grounded after satellite 'mishap'",
-            "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Apr 2026 19:56:11 GMT"
         }
     ]
 }
