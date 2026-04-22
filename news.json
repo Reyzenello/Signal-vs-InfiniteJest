@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources detail how Elon Musk has de-emphasized SpaceX's original aim of reaching Mars as it prepares to go public, focusing instead on AI and other moonshots (Ryan Mac/New York Times)",
+            "link": "http://www.techmeme.com/260422/p14#a260422p14",
+            "published": "Wed, 22 Apr 2026 06:35:21 -0400"
+        },
+        {
+            "title": "A South Korean court sentences a former Samsung researcher to seven years in prison for leaking semiconductor tech to China's CXMT, helping it develop HBM (Reuters)",
+            "link": "http://www.techmeme.com/260422/p13#a260422p13",
+            "published": "Wed, 22 Apr 2026 06:30:01 -0400"
+        },
+        {
+            "title": "Sources: OpenAI has been briefing US federal agencies, state governments, and Five Eyes allies on the capabilities of its GPT-5.4-Cyber model over the past week (Sam Sabin/Axios)",
+            "link": "http://www.techmeme.com/260422/p12#a260422p12",
+            "published": "Wed, 22 Apr 2026 06:05:23 -0400"
+        },
+        {
+            "title": "Filing: Tron founder Justin Sun sues the Trump family's World Liberty Financial, alleging it unfairly locked up his WLFI holdings and threatened and defamed him (CoinDesk)",
+            "link": "http://www.techmeme.com/260422/p11#a260422p11",
+            "published": "Wed, 22 Apr 2026 05:45:01 -0400"
+        },
+        {
             "title": "Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump's sudden upending of US semiconductor policy over the past year (Michael Acton/Financial Times)",
             "link": "http://www.techmeme.com/260422/p10#a260422p10",
             "published": "Wed, 22 Apr 2026 02:50:29 -0400"
-        },
-        {
-            "title": "Tencent launches an international beta for QClaw, its OpenClaw-based AI agent, and says the Chinese version, launched in March, reached over 1M users in 10 days (T. K. Lin/KrASIA)",
-            "link": "http://www.techmeme.com/260422/p9#a260422p9",
-            "published": "Wed, 22 Apr 2026 02:45:02 -0400"
-        },
-        {
-            "title": "TikTok's plan to build a ~$38B data center campus in Brazil, its first in Latin America, is facing local pushback over sustainability in a semi-arid area (Financial Times)",
-            "link": "http://www.techmeme.com/260422/p8#a260422p8",
-            "published": "Wed, 22 Apr 2026 02:40:01 -0400"
-        },
-        {
-            "title": "Australia's eSafety Commissioner issues transparency notices to Roblox, Microsoft's Minecraft, and other online gaming platforms to detail child safety measures (Renju Jose/Reuters)",
-            "link": "http://www.techmeme.com/260422/p7#a260422p7",
-            "published": "Wed, 22 Apr 2026 02:35:25 -0400"
-        },
-        {
-            "title": "Documents and sources: insurers including QBE and Beazley are moving to cap cyber policy payouts for losses and regulatory fines tied to AI use and \"LLMjacking\" (Lee Harris/Financial Times)",
-            "link": "http://www.techmeme.com/260422/p6#a260422p6",
-            "published": "Wed, 22 Apr 2026 02:30:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 21 Apr 2026 14:19:03 +0000"
         },
         {
-            "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
-            "link": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
-            "published": "Tue, 21 Apr 2026 01:11:05 +0000"
+            "title": "Musk\u2019s SpaceX Goals Shift Ahead of Its I.P.O.",
+            "link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
+            "published": "Wed, 22 Apr 2026 09:01:02 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
+            "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 22 Apr 2026 10:13:35 GMT"
+        },
         {
             "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
             "link": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
@@ -63,11 +68,6 @@
             "title": "Meta to track workers' clicks and keystrokes to train AI",
             "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 22:47:56 GMT"
-        },
-        {
-            "title": "AI hacking tools like Mythos can be 'net positive' says top cyber official",
-            "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Apr 2026 21:43:48 GMT"
         },
         {
             "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
