@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Micron is pushing the US Congress to pass the \"MATCH Act\", which would put new export restrictions on equipment its Chinese rivals use to make chips (Karen Freifeld/Reuters)",
-            "link": "http://www.techmeme.com/260422/p24#a260422p24",
-            "published": "Wed, 22 Apr 2026 09:35:45 -0400"
+            "title": "The UK FCA says it has carried out its first joint operation to disrupt illegal peer-to-peer crypto trading, targeting eight premises across London (Naga Avan-Nomayo/The Block)",
+            "link": "http://www.techmeme.com/260422/p32#a260422p32",
+            "published": "Wed, 22 Apr 2026 12:10:01 -0400"
         },
         {
-            "title": "Google says Meet's Gemini-powered Take Notes for Me feature can now be used for in-person meetings and adds support for Teams and Zoom (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/260422/p23#a260422p23",
-            "published": "Wed, 22 Apr 2026 09:15:02 -0400"
+            "title": "The UK's GCHQ believes ~100 countries have procured cyber intrusion software, such as Pegasus, suggesting the barrier to get access to the tech is dropping (Mason Boycott-Owen/Politico)",
+            "link": "http://www.techmeme.com/260422/p31#a260422p31",
+            "published": "Wed, 22 Apr 2026 11:51:05 -0400"
         },
         {
-            "title": "Source: Mira Murati's TML signed a deal with Google Cloud, valued in single-digit billions, to access Google's latest AI systems built on Nvidia's GB300 chips (Rebecca Bellan/TechCrunch)",
-            "link": "http://www.techmeme.com/260422/p22#a260422p22",
-            "published": "Wed, 22 Apr 2026 09:05:56 -0400"
+            "title": "Sony AI says its autonomous ping pong robot is the first robot to attain expert-level performance in a physical sport after beating some top-level human players (Will Dunham/Reuters)",
+            "link": "http://www.techmeme.com/260422/p30#a260422p30",
+            "published": "Wed, 22 Apr 2026 11:45:01 -0400"
         },
         {
-            "title": "Google unveils Workspace Intelligence, which understands \"complex semantic relationships\" between data in Workspace apps to provide personalized context (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/260422/p21#a260422p21",
-            "published": "Wed, 22 Apr 2026 08:50:43 -0400"
+            "title": "Substack adds translation tools, and says ~100K publishers earn on the platform, including ~30K outside the US; European creators earn $90M+/year collectively (On Substack)",
+            "link": "http://www.techmeme.com/260422/p29#a260422p29",
+            "published": "Wed, 22 Apr 2026 11:30:04 -0400"
         },
         {
-            "title": "Google announces the Gemini Enterprise Agent Platform, a revamped developer tool built on Vertex AI that manages the full lifecycle of AI agent fleets (Radhika Rajkumar/ZDNET)",
-            "link": "http://www.techmeme.com/260422/p20#a260422p20",
-            "published": "Wed, 22 Apr 2026 08:45:01 -0400"
+            "title": "Sooth Labs, founded by ex-Meta employees to build AI models that let businesses forecast geopolitical events, is raising ~$50M at a ~$335M valuation (Rebecca Torrence/Bloomberg)",
+            "link": "http://www.techmeme.com/260422/p28#a260422p28",
+            "published": "Wed, 22 Apr 2026 11:25:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Anthropic\u2019s New Mythos A.I. Model Sets Off Global Alarms",
+            "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
+            "published": "Wed, 22 Apr 2026 14:33:36 +0000"
+        },
+        {
+            "title": "Leaked Code for Anthropic\u2019s Claude Code Tests Copyright Challenges in A.I. Era",
+            "link": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html",
+            "published": "Wed, 22 Apr 2026 14:37:38 +0000"
+        },
+        {
+            "title": "Musk\u2019s SpaceX Goals Shift Ahead of Its I.P.O.",
+            "link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
+            "published": "Wed, 22 Apr 2026 14:56:26 +0000"
+        },
         {
             "title": "SpaceX Strikes Deal With Cursor for $60 Billion",
             "link": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
             "published": "Wed, 22 Apr 2026 00:22:29 +0000"
         },
         {
-            "title": "A Wish List for John Ternus, the Man Replacing Tim Cook as Apple\u2019s CEO",
-            "link": "https://www.nytimes.com/2026/04/21/technology/apple-cook-ternus-wish-list.html",
-            "published": "Tue, 21 Apr 2026 09:03:32 +0000"
-        },
-        {
-            "title": "Tim Cook Was Very, Very Good at Making Money",
-            "link": "https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html",
-            "published": "Tue, 21 Apr 2026 15:43:25 +0000"
-        },
-        {
-            "title": "Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.",
-            "link": "https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html",
-            "published": "Tue, 21 Apr 2026 14:19:03 +0000"
-        },
-        {
-            "title": "Musk\u2019s SpaceX Goals Shift Ahead of Its I.P.O.",
-            "link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
-            "published": "Wed, 22 Apr 2026 09:01:02 +0000"
+            "title": "Crypto Entrepreneur Justin Sun Sues Trump Family\u2019s World Liberty Financial, Accusing It of Fraud",
+            "link": "https://www.nytimes.com/2026/04/22/technology/justin-sun-crypto-world-liberty-trump.html",
+            "published": "Wed, 22 Apr 2026 15:49:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump family's crypto firm sued over alleged 'extortion'",
+            "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 22 Apr 2026 16:14:20 GMT"
+        },
         {
             "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
             "link": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Meta to track workers' clicks and keystrokes to train AI",
             "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 22:47:56 GMT"
-        },
-        {
-            "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
-            "link": "https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Apr 2026 13:59:23 GMT"
         }
     ]
 }
