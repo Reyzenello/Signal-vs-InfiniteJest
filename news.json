@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Tencent and Alibaba are in talks to invest in DeepSeek at a $20B+ valuation, partly benchmarked against Moonshot's pending round at an $18B valuation (The Information)",
+            "link": "http://www.techmeme.com/260422/p17#a260422p17",
+            "published": "Wed, 22 Apr 2026 07:40:01 -0400"
+        },
+        {
+            "title": "Anker announces Thus, a compute-in-memory chip it says will bring on-device AI to its products and accessories, starting with its upcoming Soundcore earbuds (John Higgins/The Verge)",
+            "link": "http://www.techmeme.com/260422/p16#a260422p16",
+            "published": "Wed, 22 Apr 2026 07:20:28 -0400"
+        },
+        {
+            "title": "Netherlands-based ASM, whose deposition tools are used to make advanced chips, projects Q2 revenue of ~\u20ac980M, above \u20ac886.8M est., driven by AI demand (Sarah Jacob/Bloomberg)",
+            "link": "http://www.techmeme.com/260422/p15#a260422p15",
+            "published": "Wed, 22 Apr 2026 07:15:02 -0400"
+        },
+        {
             "title": "Sources detail how Elon Musk has de-emphasized SpaceX's original aim of reaching Mars as it prepares to go public, focusing instead on AI and other moonshots (Ryan Mac/New York Times)",
             "link": "http://www.techmeme.com/260422/p14#a260422p14",
             "published": "Wed, 22 Apr 2026 06:35:21 -0400"
@@ -9,21 +24,6 @@
             "title": "A South Korean court sentences a former Samsung researcher to seven years in prison for leaking semiconductor tech to China's CXMT, helping it develop HBM (Reuters)",
             "link": "http://www.techmeme.com/260422/p13#a260422p13",
             "published": "Wed, 22 Apr 2026 06:30:01 -0400"
-        },
-        {
-            "title": "Sources: OpenAI has been briefing US federal agencies, state governments, and Five Eyes allies on the capabilities of its GPT-5.4-Cyber model over the past week (Sam Sabin/Axios)",
-            "link": "http://www.techmeme.com/260422/p12#a260422p12",
-            "published": "Wed, 22 Apr 2026 06:05:23 -0400"
-        },
-        {
-            "title": "Filing: Tron founder Justin Sun sues the Trump family's World Liberty Financial, alleging it unfairly locked up his WLFI holdings and threatened and defamed him (CoinDesk)",
-            "link": "http://www.techmeme.com/260422/p11#a260422p11",
-            "published": "Wed, 22 Apr 2026 05:45:01 -0400"
-        },
-        {
-            "title": "Efforts to revive chip manufacturing in Pennsylvania have been left in limbo by President Trump's sudden upending of US semiconductor policy over the past year (Michael Acton/Financial Times)",
-            "link": "http://www.techmeme.com/260422/p10#a260422p10",
-            "published": "Wed, 22 Apr 2026 02:50:29 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
+            "link": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 22 Apr 2026 12:03:10 GMT"
+        },
+        {
             "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
             "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 22 Apr 2026 10:13:35 GMT"
@@ -73,11 +78,6 @@
             "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
             "link": "https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 13:59:23 GMT"
-        },
-        {
-            "title": "How will Apple change under 'product guy' John Ternus?",
-            "link": "https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Apr 2026 13:35:21 GMT"
         }
     ]
 }
