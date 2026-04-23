@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI unveils GPT 5.5, intended to be better at completing work without much direction, saying the model \"kind of figures it out, deals with ambiguity\" (Rachel Metz/Bloomberg)",
-            "link": "http://www.techmeme.com/260423/p48#a260423p48",
-            "published": "Thu, 23 Apr 2026 14:08:11 -0400"
+            "title": "Music publishers including UMG, Warner Music, and Sony drop a copyright suit against Verizon following a SCOTUS decision limiting ISP liability in Cox's suit (Kyle Jahner/Bloomberg Law)",
+            "link": "http://www.techmeme.com/260423/p56#a260423p56",
+            "published": "Thu, 23 Apr 2026 15:35:00 -0400"
         },
         {
-            "title": "At a town hall, Asha Sharma said Microsoft is returning to using Xbox for its gaming division, instead of Microsoft Gaming, as \"Xbox needs to be our identity\" (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/260423/p47#a260423p47",
-            "published": "Thu, 23 Apr 2026 13:55:04 -0400"
+            "title": "Xbox CEO Asha Sharma and Chief Content Officer Matt Booty detail their \"return of Xbox\" strategy, including daily active players as its \"new north star\" (Tom Warren/The Verge)",
+            "link": "http://www.techmeme.com/260423/p55#a260423p55",
+            "published": "Thu, 23 Apr 2026 15:25:04 -0400"
         },
         {
-            "title": "Memo: Meta plans to cut 10% of workers, or ~8,000 jobs, on May 20 and won't fill 6,000 open roles, in an effort to offset its AI spending and boost efficiency (Kurt Wagner/Bloomberg)",
-            "link": "http://www.techmeme.com/260423/p46#a260423p46",
-            "published": "Thu, 23 Apr 2026 13:47:16 -0400"
+            "title": "Instagram launched Instants, an app for sharing disappearing photos, in Italy this week, after rolling out an Instants feature in its main app in some regions (Sydney Bradley/Business Insider)",
+            "link": "http://www.techmeme.com/260423/p54#a260423p54",
+            "published": "Thu, 23 Apr 2026 15:15:04 -0400"
         },
         {
-            "title": "Microsoft announces its first voluntary retirement program, for staff whose years of employment and age add up to 70+; source: 7% of US employees are eligible (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/260423/p45#a260423p45",
-            "published": "Thu, 23 Apr 2026 13:35:01 -0400"
+            "title": "OpenAI says \"GPT-5.5 matches GPT-5.4 per-token latency in real-world serving, while performing at a much higher level of intelligence\" (OpenAI)",
+            "link": "http://www.techmeme.com/260423/p53#a260423p53",
+            "published": "Thu, 23 Apr 2026 15:00:01 -0400"
         },
         {
-            "title": "A look at Microsoft's recent wave of executive departures, as it struggles to retain talent and changes its annual rewards and performance programs in response (Tom Warren/The Verge)",
-            "link": "http://www.techmeme.com/260423/p44#a260423p44",
-            "published": "Thu, 23 Apr 2026 13:00:48 -0400"
+            "title": "Anthropic says it has fixed three causes of recent Claude Code quality issues: reduced default reasoning, a caching bug, and a system prompt to reduce verbosity (Anthropic)",
+            "link": "http://www.techmeme.com/260423/p52#a260423p52",
+            "published": "Thu, 23 Apr 2026 14:50:02 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push",
+            "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
+            "published": "Thu, 23 Apr 2026 19:52:44 +0000"
+        },
+        {
             "title": "Elon Musk and Sam Altman\u2019s Epic Fight Heads to Court",
             "link": "https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html",
-            "published": "Thu, 23 Apr 2026 18:02:25 +0000"
+            "published": "Thu, 23 Apr 2026 18:40:56 +0000"
+        },
+        {
+            "title": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model",
+            "link": "https://www.nytimes.com/2026/04/23/technology/openai-new-model.html",
+            "published": "Thu, 23 Apr 2026 19:15:08 +0000"
         },
         {
             "title": "Anthropic\u2019s New Mythos A.I. Model Sets Off Global Alarms",
@@ -38,22 +48,17 @@
             "published": "Wed, 22 Apr 2026 19:48:53 +0000"
         },
         {
-            "title": "Leaked Code for Anthropic\u2019s Claude Code Tests Copyright Challenges in A.I. Era",
-            "link": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html",
-            "published": "Wed, 22 Apr 2026 14:37:38 +0000"
-        },
-        {
-            "title": "Musk\u2019s SpaceX Goals Shift Ahead of Its I.P.O.",
-            "link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
-            "published": "Wed, 22 Apr 2026 14:56:26 +0000"
-        },
-        {
-            "title": "Meta to Cut 10 Percent of Work Force",
-            "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
-            "published": "Thu, 23 Apr 2026 18:01:08 +0000"
+            "title": "New Phishing Scam: Fake Invitations",
+            "link": "https://www.nytimes.com/2026/04/23/style/invitation-phishing-scam.html",
+            "published": "Thu, 23 Apr 2026 15:48:55 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Meta says it will cut 8,000 jobs as AI spending grows",
+            "link": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Apr 2026 19:12:22 GMT"
+        },
         {
             "title": "UK Biobank health data listed for sale in China, government confirms",
             "link": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
             "link": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 23:00:24 GMT"
-        },
-        {
-            "title": "Meta to track workers' clicks and keystrokes to train AI",
-            "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Apr 2026 22:47:56 GMT"
         }
     ]
 }
