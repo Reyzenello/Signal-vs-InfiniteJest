@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI releases ChatGPT for Clinicians, a tool for medical tasks like documentation and research, free for verified physicians, pharmacists, and more in the US (OpenAI)",
-            "link": "http://www.techmeme.com/260422/p54#a260422p54",
-            "published": "Wed, 22 Apr 2026 23:15:02 -0400"
+            "title": "Report: China's 360 Digital Security Group has uncovered ~1,000 previously unknown vulnerabilities, including in Microsoft's Office, using an AI-powered agent (Ryan Gallagher/Bloomberg)",
+            "link": "http://www.techmeme.com/260423/p8#a260423p8",
+            "published": "Thu, 23 Apr 2026 02:00:45 -0400"
         },
         {
-            "title": "Sources: SoftBank seeks a $10B two-year margin loan secured by its OpenAI shares, with an option for a year extension, as SoftBank aims to become an AI linchpin (Bloomberg)",
-            "link": "http://www.techmeme.com/260422/p53#a260422p53",
-            "published": "Wed, 22 Apr 2026 22:50:00 -0400"
+            "title": "US Commerce Secretary Howard Lutnick says Nvidia has yet to sell H200 chips to Chinese companies and that the Chinese government has not approved such purchases (Alexandra Alper/Reuters)",
+            "link": "http://www.techmeme.com/260423/p7#a260423p7",
+            "published": "Thu, 23 Apr 2026 01:35:01 -0400"
         },
         {
-            "title": "Sources: Microsoft considered buying Cursor in recent weeks but didn't make an offer; Microsoft has been working to boost GitHub Copilot's popularity (CNBC)",
-            "link": "http://www.techmeme.com/260422/p52#a260422p52",
-            "published": "Wed, 22 Apr 2026 22:05:04 -0400"
+            "title": "Sources: Microsoft told carbon-removal project developers it is shelving contracts under negotiation; Microsoft has been a major backer of carbon capture tech (Alastair Marsh/Bloomberg)",
+            "link": "http://www.techmeme.com/260423/p6#a260423p6",
+            "published": "Thu, 23 Apr 2026 01:20:01 -0400"
         },
         {
-            "title": "Microsoft plans to invest AU$25B by 2029 to expand Azure AI supercomputing and cloud infrastructure in Australia, its largest commitment to the country (Ainslie Chandler/Bloomberg)",
-            "link": "http://www.techmeme.com/260422/p51#a260422p51",
-            "published": "Wed, 22 Apr 2026 22:00:42 -0400"
+            "title": "GitHub says it has begun collecting pseudonymous client-side telemetry from command-line interface (CLI) users and enabled it by default (Brandon Vigliarolo/The Register)",
+            "link": "http://www.techmeme.com/260423/p5#a260423p5",
+            "published": "Thu, 23 Apr 2026 01:00:58 -0400"
         },
         {
-            "title": "An undergraduate used AI assistants to rewrite leaked source code for Claude Code in a different language, highlighting the uncertainty over copyright and AI (Meaghan Tobin/New York Times)",
-            "link": "http://www.techmeme.com/260422/p50#a260422p50",
-            "published": "Wed, 22 Apr 2026 21:40:01 -0400"
+            "title": "Elon Musk says Tesla plans to use Intel's 14A process technology to make chips at its Terafab project, which would make Tesla the first major customer for 14A (Reuters)",
+            "link": "http://www.techmeme.com/260423/p4#a260423p4",
+            "published": "Thu, 23 Apr 2026 00:55:02 -0400"
         }
     ],
     "source_1": [
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "AI is flattening the jobs market for young people, says Sunak",
-            "link": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Apr 2026 23:01:09 GMT"
-        },
-        {
             "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
             "link": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 22 Apr 2026 12:03:10 GMT"
@@ -78,6 +73,11 @@
             "title": "Meta to track workers' clicks and keystrokes to train AI",
             "link": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Apr 2026 22:47:56 GMT"
+        },
+        {
+            "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
+            "link": "https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 21 Apr 2026 13:59:23 GMT"
         }
     ]
 }
