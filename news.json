@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Texas Instruments stock rose 19% on Thursday, its best day since 2000, after upbeat Q2 guidance driven by high demand for analog chips used in AI data centers (Katie Tarasov/CNBC)",
+            "link": "http://www.techmeme.com/260423/p59#a260423p59",
+            "published": "Thu, 23 Apr 2026 16:30:02 -0400"
+        },
+        {
+            "title": "Shenzhen-based Pudu Robotics, which makes commercial service robots, raised ~$150M, bringing its total funding to $300M+, and says its valuation exceeds $1.5B (The Robot Report)",
+            "link": "http://www.techmeme.com/260423/p58#a260423p58",
+            "published": "Thu, 23 Apr 2026 16:25:03 -0400"
+        },
+        {
+            "title": "Intel reports Q1 revenue up 7% YoY to $13.58B, vs. $12.42B est., and forecasts Q2 revenue and adjusted EPS above estimates; INTC jumps 15%+ after hours (Katie Tarasov/CNBC)",
+            "link": "http://www.techmeme.com/260423/p57#a260423p57",
+            "published": "Thu, 23 Apr 2026 16:15:04 -0400"
+        },
+        {
             "title": "Music publishers including UMG, Warner Music, and Sony drop a copyright suit against Verizon following a SCOTUS decision limiting ISP liability in Cox's suit (Kyle Jahner/Bloomberg Law)",
             "link": "http://www.techmeme.com/260423/p56#a260423p56",
             "published": "Thu, 23 Apr 2026 15:35:00 -0400"
@@ -9,28 +24,13 @@
             "title": "Xbox CEO Asha Sharma and Chief Content Officer Matt Booty detail their \"return of Xbox\" strategy, including daily active players as its \"new north star\" (Tom Warren/The Verge)",
             "link": "http://www.techmeme.com/260423/p55#a260423p55",
             "published": "Thu, 23 Apr 2026 15:25:04 -0400"
-        },
-        {
-            "title": "Instagram launched Instants, an app for sharing disappearing photos, in Italy this week, after rolling out an Instants feature in its main app in some regions (Sydney Bradley/Business Insider)",
-            "link": "http://www.techmeme.com/260423/p54#a260423p54",
-            "published": "Thu, 23 Apr 2026 15:15:04 -0400"
-        },
-        {
-            "title": "OpenAI says \"GPT-5.5 matches GPT-5.4 per-token latency in real-world serving, while performing at a much higher level of intelligence\" (OpenAI)",
-            "link": "http://www.techmeme.com/260423/p53#a260423p53",
-            "published": "Thu, 23 Apr 2026 15:00:01 -0400"
-        },
-        {
-            "title": "Anthropic says it has fixed three causes of recent Claude Code quality issues: reduced default reasoning, a caching bug, and a system prompt to reduce verbosity (Anthropic)",
-            "link": "http://www.techmeme.com/260423/p52#a260423p52",
-            "published": "Thu, 23 Apr 2026 14:50:02 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push",
             "link": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
-            "published": "Thu, 23 Apr 2026 19:52:44 +0000"
+            "published": "Thu, 23 Apr 2026 20:20:56 +0000"
         },
         {
             "title": "Elon Musk and Sam Altman\u2019s Epic Fight Heads to Court",
