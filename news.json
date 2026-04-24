@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: AI startups are struggling to access Nvidia GPUs as Microsoft and other cloud providers divert supply to internal teams and large customers like OpenAI (The Information)",
+            "link": "http://www.techmeme.com/260424/p28#a260424p28",
+            "published": "Fri, 24 Apr 2026 15:05:05 -0400"
+        },
+        {
+            "title": "Sources: JPMorgan and other banks struggled to spread the risk of billions in loans they made to build data centers leased to Oracle in Texas and Wisconsin (Wall Street Journal)",
+            "link": "http://www.techmeme.com/260424/p27#a260424p27",
+            "published": "Fri, 24 Apr 2026 13:40:02 -0400"
+        },
+        {
+            "title": "The DOJ joins xAI in its legal challenge to a new Colorado law that seeks to prevent discrimination by AI tools in employment and other areas (Madlin Mekelburg/Bloomberg)",
+            "link": "http://www.techmeme.com/260424/p26#a260424p26",
+            "published": "Fri, 24 Apr 2026 13:20:01 -0400"
+        },
+        {
             "title": "Anthropic says Google is committing to invest $10B now in cash at a $350B valuation and will invest another $30B if Anthropic hits performance targets (Bloomberg)",
             "link": "http://www.techmeme.com/260424/p25#a260424p25",
             "published": "Fri, 24 Apr 2026 12:18:58 -0400"
@@ -9,21 +24,6 @@
             "title": "France's forecasting office refers suspected weather sensor tampering at Paris airport to police, after detecting unusual readings alongside Polymarket betting (Joe Wertz/Bloomberg)",
             "link": "http://www.techmeme.com/260424/p24#a260424p24",
             "published": "Fri, 24 Apr 2026 11:35:02 -0400"
-        },
-        {
-            "title": "India's central bank cancels Paytm Payments Bank's banking license, after imposing business curbs over non-compliance with rules in January 2024 (Gopika Gopakumar/Reuters)",
-            "link": "http://www.techmeme.com/260424/p23#a260424p23",
-            "published": "Fri, 24 Apr 2026 11:10:01 -0400"
-        },
-        {
-            "title": "Helsinki-based Verda, formerly Datacrunch, which aims to become Europe's first AI cloud hyperscaler, raised \u20ac100M in debt and equity (Mimi Billing/Sifted)",
-            "link": "http://www.techmeme.com/260424/p22#a260424p22",
-            "published": "Fri, 24 Apr 2026 09:50:04 -0400"
-        },
-        {
-            "title": "Meta and Amazon reach a multibillion-dollar, multiyear deal for Meta to rent hundreds of thousands of Amazon's Graviton chips for its AI inference needs (Matt Day/Bloomberg)",
-            "link": "http://www.techmeme.com/260424/p21#a260424p21",
-            "published": "Fri, 24 Apr 2026 09:05:01 -0400"
         }
     ],
     "source_1": [
@@ -38,19 +38,19 @@
             "published": "Fri, 24 Apr 2026 09:02:25 +0000"
         },
         {
-            "title": "DeepSeek\u2019s Sequel Set to Extend China\u2019s Reach in Open-Source A.I.",
-            "link": "https://www.nytimes.com/2026/04/24/business/china-ai-deepseek-open-source.html",
-            "published": "Fri, 24 Apr 2026 15:47:45 +0000"
-        },
-        {
-            "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
-            "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
-            "published": "Fri, 24 Apr 2026 15:42:48 +0000"
+            "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
+            "link": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
+            "published": "Fri, 24 Apr 2026 18:13:32 +0000"
         },
         {
             "title": "5 Tall Tasks for Apple\u2019s New C.E.O.",
             "link": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
             "published": "Fri, 24 Apr 2026 14:55:18 +0000"
+        },
+        {
+            "title": "What Are Prediction Markets, and Why Are They Causing Controversy?",
+            "link": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
+            "published": "Fri, 24 Apr 2026 17:58:24 +0000"
         }
     ],
     "source_2": [
