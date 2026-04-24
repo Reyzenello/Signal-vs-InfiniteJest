@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Thrive is taking a stake in the San Francisco Giants via a new venture that will invest in franchises and cultural institutions that can't be replicated by AI (Kate Clark/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260424/p41#a260424p41",
+            "published": "Fri, 24 Apr 2026 18:25:02 -0400"
+        },
+        {
+            "title": "Brazil's Finance Minister Dario Durigan says the country has blocked prediction market platforms and tightened derivatives rules to curb \"bet-like\" products (Reuters)",
+            "link": "http://www.techmeme.com/260424/p40#a260424p40",
+            "published": "Fri, 24 Apr 2026 18:20:06 -0400"
+        },
+        {
+            "title": "Sources: the WH pushed out the head of the Center for AI Standards and Innovation, Collin Burns, a former Anthropic researcher, after just four days on the job (Ian Duncan/Washington Post)",
+            "link": "http://www.techmeme.com/260424/p39#a260424p39",
+            "published": "Fri, 24 Apr 2026 18:15:01 -0400"
+        },
+        {
             "title": "Series, founded by two seniors at Yale to build an AI-powered social network on iMessage, raised a $5.1M pre-seed from Reddit CEO Steve Huffman and others (Dominic-Madori Davis/TechCrunch)",
             "link": "http://www.techmeme.com/260424/p38#a260424p38",
             "published": "Fri, 24 Apr 2026 17:20:09 -0400"
@@ -9,21 +24,6 @@
             "title": "The Wire by Acutus, an AI-generated site with articles attacking AI industry critics, appears to be funded by the OpenAI-backed super PAC Leading The Future (@themidasproj)",
             "link": "http://www.techmeme.com/260424/p37#a260424p37",
             "published": "Fri, 24 Apr 2026 17:15:01 -0400"
-        },
-        {
-            "title": "Nvidia stock jumps 4.3% to close at a record for the first time since Oct., pushing Nvidia's market cap past $5T, as a rally in Intel pushed chipmakers higher (Jordan Novet/CNBC)",
-            "link": "http://www.techmeme.com/260424/p36#a260424p36",
-            "published": "Fri, 24 Apr 2026 17:10:01 -0400"
-        },
-        {
-            "title": "Sam Altman apologizes to a Canadian town for not alerting police to the activity of a mass shooting suspect when her ChatGPT account was suspended (Wall Street Journal)",
-            "link": "http://www.techmeme.com/260424/p35#a260424p35",
-            "published": "Fri, 24 Apr 2026 17:05:04 -0400"
-        },
-        {
-            "title": "Intel stock closes up 23.6%, its best performance since October 1987, as Intel shows signs of renewed growth amid the AI boom; the stock is up 124% YTD (CNBC)",
-            "link": "http://www.techmeme.com/260424/p34#a260424p34",
-            "published": "Fri, 24 Apr 2026 16:50:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI boss 'deeply sorry' for not telling police of Tumbler Ridge suspect's account",
+            "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 24 Apr 2026 22:45:28 GMT"
+        },
+        {
             "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
             "link": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 24 Apr 2026 14:40:23 GMT"
@@ -73,11 +78,6 @@
             "title": "White House memo claims mass AI theft by Chinese firms",
             "link": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 24 Apr 2026 00:58:58 GMT"
-        },
-        {
-            "title": "From scientist to silk farmer: India's silk industry renewal",
-            "link": "https://www.bbc.com/news/articles/c0e7le127v5o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Apr 2026 23:50:01 GMT"
         }
     ]
 }
