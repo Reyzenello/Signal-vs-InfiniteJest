@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Archaeologists and researchers at Pompeii used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius (Giada Zampano/Associated Press)",
+            "link": "http://www.techmeme.com/260427/p41#a260427p41",
+            "published": "Mon, 27 Apr 2026 19:00:00 -0400"
+        },
+        {
+            "title": "Apple will let developers offer monthly subscriptions with a 12-month commitment starting in May, except in the US and Singapore (Eric Slivka/MacRumors)",
+            "link": "http://www.techmeme.com/260427/p40#a260427p40",
+            "published": "Mon, 27 Apr 2026 18:30:01 -0400"
+        },
+        {
+            "title": "Xiaomi open sources MiMo-V2.5 and MiMo-V2.5-Pro under the MIT License, saying both models are among the most efficient available for agentic \"claw\" tasks (Carl Franzen/VentureBeat)",
+            "link": "http://www.techmeme.com/260427/p39#a260427p39",
+            "published": "Mon, 27 Apr 2026 18:15:02 -0400"
+        },
+        {
             "title": "Renders based on photos of Samsung's upcoming smart glasses, expected to launch later this year, show a design nearly identical to Ray-Ban Meta glasses (Alexander Maxham/Android Headlines)",
             "link": "http://www.techmeme.com/260427/p38#a260427p38",
             "published": "Mon, 27 Apr 2026 18:00:37 -0400"
@@ -9,21 +24,6 @@
             "title": "Study: only ~3% of Polymarket accounts drove most price discovery in 2023-2025, suggesting market accuracy comes from an informed minority, not crowd wisdom (Sam Reynolds/CoinDesk)",
             "link": "http://www.techmeme.com/260427/p37#a260427p37",
             "published": "Mon, 27 Apr 2026 17:10:01 -0400"
-        },
-        {
-            "title": "Elon Musk boosts an X post by Ronan Farrow promoting his New Yorker article on Sam Altman's alleged deceptions, as Musk's lawsuit against OpenAI heads to trial (Wired)",
-            "link": "http://www.techmeme.com/260427/p36#a260427p36",
-            "published": "Mon, 27 Apr 2026 16:40:02 -0400"
-        },
-        {
-            "title": "Jury selection begins in Musk v. Altman trial at a federal courthouse in California, with Sam Altman and Greg Brockman in attendance (Ashley Capoot/CNBC)",
-            "link": "http://www.techmeme.com/260427/p35#a260427p35",
-            "published": "Mon, 27 Apr 2026 16:05:02 -0400"
-        },
-        {
-            "title": "Have I Been Pwned: ShinyHunters' breach of ADT exposed the personal data of 5.5M people; ADT previously disclosed data breaches in August 2024 and October 2024 (Sergiu Gatlan/BleepingComputer)",
-            "link": "http://www.techmeme.com/260427/p34#a260427p34",
-            "published": "Mon, 27 Apr 2026 14:00:36 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Why Spotify has no button to filter out AI music",
+            "link": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 27 Apr 2026 23:03:10 GMT"
+        },
+        {
             "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
             "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 27 Apr 2026 12:21:42 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
             "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 24 Apr 2026 22:45:28 GMT"
-        },
-        {
-            "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
-            "link": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 24 Apr 2026 14:40:23 GMT"
         }
     ]
 }
