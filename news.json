@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Lithuania-based Vinted says it completed an ~\u20ac880M secondary share sale led by EQT, Teachers' Venture Growth, Schroders at an \u20ac8B valuation, up from \u20ac5B in 2024 (Ivan Levingston/Financial Times)",
+            "title": "Microsoft and OpenAI remove a clause that would have given Microsoft IP rights until OpenAI achieved \"AGI\"; Microsoft retains use of OpenAI's models until 2032 (Aaron Holmes/The Information)",
+            "link": "http://www.techmeme.com/260427/p26#a260427p26",
+            "published": "Mon, 27 Apr 2026 09:55:01 -0400"
+        },
+        {
+            "title": "Quantum Art, a quantum computing startup focused on enhancing computational throughput using its unique \"multicore\" architecture, extends its Series A to $140M (Mike Wheatley/SiliconANGLE)",
+            "link": "http://www.techmeme.com/260427/p25#a260427p25",
+            "published": "Mon, 27 Apr 2026 09:23:57 -0400"
+        },
+        {
+            "title": "Microsoft and OpenAI amend their deal to let OpenAI serve all its products across any cloud provider; Microsoft will no longer pay a revenue share to OpenAI (OpenAI)",
+            "link": "http://www.techmeme.com/260427/p24#a260427p24",
+            "published": "Mon, 27 Apr 2026 09:10:02 -0400"
+        },
+        {
+            "title": "Spotify partners with Peloton to offer Premium subscribers access to curated playlists and 1,400+ ad-free fitness classes, its first foray into fitness content (Bloomberg)",
+            "link": "http://www.techmeme.com/260427/p23#a260427p23",
+            "published": "Mon, 27 Apr 2026 08:05:02 -0400"
+        },
+        {
+            "title": "Vilnius-based Vinted says it closed an ~\u20ac880M secondary share sale led by EQT, Teachers' Venture Growth, and Schroders at an \u20ac8B valuation, up from \u20ac5B in 2024 (Ivan Levingston/Financial Times)",
             "link": "http://www.techmeme.com/260427/p22#a260427p22",
             "published": "Mon, 27 Apr 2026 07:30:42 -0400"
-        },
-        {
-            "title": "San Francisco public records: in 2024, Salesforce and Airbnb were among the top tech spenders in the city's 10B program, which lets them hire police officers (Paresh Dave/Wired)",
-            "link": "http://www.techmeme.com/260427/p21#a260427p21",
-            "published": "Mon, 27 Apr 2026 07:20:03 -0400"
-        },
-        {
-            "title": "Amazon reaches a multiyear licensing deal with Oprah Winfrey to produce twice-a-week video podcasts starting in July, repurpose The Oprah Winfrey Show, and more (Nicole Sperling/New York Times)",
-            "link": "http://www.techmeme.com/260427/p20#a260427p20",
-            "published": "Mon, 27 Apr 2026 06:45:38 -0400"
-        },
-        {
-            "title": "Meta says it signed a deal with Overview Energy for 1GW of space solar energy; the startup seeks to collect sunlight in satellites, with a demonstration in 2028 (Riley Griffin/Bloomberg)",
-            "link": "http://www.techmeme.com/260427/p19#a260427p19",
-            "published": "Mon, 27 Apr 2026 06:25:02 -0400"
-        },
-        {
-            "title": "Analysis: as of late 2025, 79 of 500 tracked software companies including HubSpot, Adobe, and Salesforce adopted usage-based AI fees, more than doubling on 2024 (The Information)",
-            "link": "http://www.techmeme.com/260427/p18#a260427p18",
-            "published": "Mon, 27 Apr 2026 06:05:01 -0400"
         }
     ],
     "source_1": [
@@ -43,17 +43,22 @@
             "published": "Sat, 25 Apr 2026 16:33:22 +0000"
         },
         {
-            "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
-            "link": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
-            "published": "Sun, 26 Apr 2026 20:54:26 +0000"
+            "title": "Altman, Musk and the A.I. Spectacle Come to Oakland",
+            "link": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
+            "published": "Mon, 27 Apr 2026 14:11:49 +0000"
         },
         {
-            "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents\u2019 Dinner",
-            "link": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
-            "published": "Sun, 26 Apr 2026 17:03:20 +0000"
+            "title": "Microsoft and OpenAI Loosen Their Partnership",
+            "link": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
+            "published": "Mon, 27 Apr 2026 13:53:28 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+            "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 27 Apr 2026 12:21:42 GMT"
+        },
         {
             "title": "I brought my husband back for his funeral as a hologram",
             "link": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
             "link": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 24 Apr 2026 14:40:23 GMT"
-        },
-        {
-            "title": "Biobank data incident caused by 'a few bad apples', boss says",
-            "link": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 24 Apr 2026 10:00:42 GMT"
         }
     ]
 }
