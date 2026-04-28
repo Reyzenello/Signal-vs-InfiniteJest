@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "China's National Supercomputing Center in Shenzhen unveils the Lingshen project, aiming for 2+ exaFLOPS performance using a domestic-made CPU-only architecture (Luke James/Tom's Hardware)",
-            "link": "http://www.techmeme.com/260428/p37#a260428p37",
-            "published": "Tue, 28 Apr 2026 16:05:02 -0400"
+            "title": "AWS launches a desktop app for its Amazon Quick AI assistant, letting users connect their tools and local files to build custom apps, live dashboards, and more (Jigar Thakkar/About Amazon)",
+            "link": "http://www.techmeme.com/260428/p43#a260428p43",
+            "published": "Tue, 28 Apr 2026 18:05:01 -0400"
         },
         {
-            "title": "Sources: Apple plans an AI overhaul for photo editing in iOS 27, including using on-device AI models to extend, enhance, and reframe photos (Mark Gurman/Bloomberg)",
-            "link": "http://www.techmeme.com/260428/p36#a260428p36",
-            "published": "Tue, 28 Apr 2026 14:30:01 -0400"
+            "title": "Musk v. Altman: Musk testifies he's suing OpenAI because \"it is not okay to steal a charity\" and its pivot sets a concerning precedent for philanthropic efforts (Bloomberg)",
+            "link": "http://www.techmeme.com/260428/p42#a260428p42",
+            "published": "Tue, 28 Apr 2026 17:20:01 -0400"
         },
         {
-            "title": "South Africa withdraws its first draft national AI policy after revelations that it contained fictitious sources that appeared to have been AI-generated (Nellie Peyton/Reuters)",
-            "link": "http://www.techmeme.com/260428/p35#a260428p35",
-            "published": "Tue, 28 Apr 2026 13:55:20 -0400"
+            "title": "NXP reports Q1 revenue up 12% YoY to $3.18B, vs. $3.15B est., and forecasts Q2 revenue above estimates; NXPI jumps 13%+ after hours (Christina Kyriasoglou/Bloomberg)",
+            "link": "http://www.techmeme.com/260428/p41#a260428p41",
+            "published": "Tue, 28 Apr 2026 17:10:00 -0400"
         },
         {
-            "title": "Q&A with Sam Altman and AWS CEO Matt Garman about OpenAI's new partnership with AWS, Bedrock Managed Agents, Trainium chips, and more (Ben Thompson/Stratechery)",
-            "link": "http://www.techmeme.com/260428/p34#a260428p34",
-            "published": "Tue, 28 Apr 2026 13:30:01 -0400"
+            "title": "Sources: the US Commerce Department last week ordered multiple chip equipment companies to halt some shipments to China's second-largest chipmaker, Hua Hong (Karen Freifeld/Reuters)",
+            "link": "http://www.techmeme.com/260428/p40#a260428p40",
+            "published": "Tue, 28 Apr 2026 16:55:03 -0400"
         },
         {
-            "title": "Sources: Google dropped out of a $100M Pentagon challenge to create tech for voice-controlled, autonomous drone swarms, following an internal ethics review (Katrina Manson/Bloomberg)",
-            "link": "http://www.techmeme.com/260428/p33#a260428p33",
-            "published": "Tue, 28 Apr 2026 13:25:15 -0400"
+            "title": "Robinhood reports Q1 revenue up 15% YoY to $1.07B, vs. $1.14B est., and crypto revenue down 47% to $134M, vs. $147.6M est.; HOOD drops 6%+ after hours (Luke Kawa/Sherwood News)",
+            "link": "http://www.techmeme.com/260428/p39#a260428p39",
+            "published": "Tue, 28 Apr 2026 16:50:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 28 Apr 2026 01:50:52 +0000"
         },
         {
-            "title": "Why does Elon Musk talk so much about saving humanity?",
-            "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/why-does-elon-musk-talk-so-much-about-saving-humanity",
-            "published": "Tue, 28 Apr 2026 19:55:10 +0000"
+            "title": "OpenAI Trial Starts With Two Very Different Tales of a Company\u2019s Early Years",
+            "link": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
+            "published": "Tue, 28 Apr 2026 21:57:34 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+            "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Apr 2026 19:43:02 GMT"
+        },
         {
             "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
             "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Why Spotify has no button to filter out AI music",
             "link": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 27 Apr 2026 23:03:10 GMT"
-        },
-        {
-            "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
-            "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 27 Apr 2026 12:21:42 GMT"
         }
     ]
 }
