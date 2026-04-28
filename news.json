@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "AWS launches Amazon Connect Decisions and Amazon Connect Talent, which are AI agentic tools aimed at logistics workers and recruiters (Matt Day/Bloomberg)",
-            "link": "http://www.techmeme.com/260428/p31#a260428p31",
-            "published": "Tue, 28 Apr 2026 12:50:01 -0400"
+            "title": "Sources: Apple plans an AI overhaul for photo editing in iOS 27, including using on-device AI models to extend, enhance, and reframe photos (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/260428/p36#a260428p36",
+            "published": "Tue, 28 Apr 2026 14:30:01 -0400"
         },
         {
-            "title": "Lovable launches its AI coding app on iOS and Android, letting users code via voice or text AI prompts, and allowing them to switch between a PC and mobile (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/260428/p30#a260428p30",
-            "published": "Tue, 28 Apr 2026 12:25:03 -0400"
+            "title": "South Africa withdraws its first draft national AI policy after revelations that it contained fictitious sources that appeared to have been AI-generated (Nellie Peyton/Reuters)",
+            "link": "http://www.techmeme.com/260428/p35#a260428p35",
+            "published": "Tue, 28 Apr 2026 13:55:20 -0400"
         },
         {
-            "title": "Musk v. Altman: the judge asks Elon Musk and Sam Altman to \"control your propensity to use social media to make things worse\", as opening statements begin (Madlin Mekelburg/Bloomberg)",
-            "link": "http://www.techmeme.com/260428/p29#a260428p29",
-            "published": "Tue, 28 Apr 2026 12:20:01 -0400"
+            "title": "Q&A with Sam Altman and AWS CEO Matt Garman about OpenAI's new partnership with AWS, Bedrock Managed Agents, Trainium chips, and more (Ben Thompson/Stratechery)",
+            "link": "http://www.techmeme.com/260428/p34#a260428p34",
+            "published": "Tue, 28 Apr 2026 13:30:01 -0400"
         },
         {
-            "title": "The FIDO Alliance launches two working groups to establish industry standards for securing AI agent transactions; Google contributes the Agent Payments Protocol (Lily Hay Newman/Wired)",
-            "link": "http://www.techmeme.com/260428/p28#a260428p28",
-            "published": "Tue, 28 Apr 2026 12:15:18 -0400"
+            "title": "Sources: Google dropped out of a $100M Pentagon challenge to create tech for voice-controlled, autonomous drone swarms, following an internal ethics review (Katrina Manson/Bloomberg)",
+            "link": "http://www.techmeme.com/260428/p33#a260428p33",
+            "published": "Tue, 28 Apr 2026 13:25:15 -0400"
         },
         {
-            "title": "Foxconn Industrial Internet, which sells AI servers, reports Q1 revenue up 57% YoY to ~$37B, below $44.5B est., and a record ~$1.5B net income, below $1.8B est. (Rachel Yeo/Bloomberg)",
-            "link": "http://www.techmeme.com/260428/p27#a260428p27",
-            "published": "Tue, 28 Apr 2026 11:55:01 -0400"
+            "title": "Amazon and OpenAI announce an expanded deal that will make OpenAI's models available from AWS, a day after OpenAI revised its Microsoft partnership (Ina Fried/Axios)",
+            "link": "http://www.techmeme.com/260428/p32#a260428p32",
+            "published": "Tue, 28 Apr 2026 13:20:01 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "What Elon Musk\u2019s Clash With Sam Altman of OpenAI Is Really About",
             "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
             "published": "Tue, 28 Apr 2026 09:02:04 +0000"
+        },
+        {
+            "title": "Google Signs A.I. Deal With the Pentagon",
+            "link": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
+            "published": "Tue, 28 Apr 2026 18:39:55 +0000"
         },
         {
             "title": "From Indiana to Idaho, a Backlash Against A.I. Gathers Momentum",
@@ -43,14 +48,9 @@
             "published": "Tue, 28 Apr 2026 01:50:52 +0000"
         },
         {
-            "title": "Elon Musk and Sam Altman Bring OpenAI Trial Spectacle to Oakland",
-            "link": "https://www.nytimes.com/2026/04/27/technology/altman-musk-openai-ai-oakland.html",
-            "published": "Mon, 27 Apr 2026 16:34:17 +0000"
-        },
-        {
-            "title": "Google Signs A.I. Deal With the Pentagon",
-            "link": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
-            "published": "Tue, 28 Apr 2026 16:29:07 +0000"
+            "title": "Who are the lawyers representing Elon Musk, OpenAI and Microsoft?",
+            "link": "https://www.nytimes.com/live/2026/04/28/technology/openai-sam-altman-elon-musk-trial/who-are-the-lawyers-representing-elon-musk-openai-and-microsoft",
+            "published": "Tue, 28 Apr 2026 17:03:56 +0000"
         }
     ],
     "source_2": [
