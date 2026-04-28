@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Q&A with Evan Spiegel on why distribution is the most important moat in consumer tech, investing in Specs, 2026 as a \"crucible\" moment for Snap, and more (Lenny Rachitsky/Lenny's Newsletter)",
-            "link": "http://www.techmeme.com/260428/p8#a260428p8",
-            "published": "Tue, 28 Apr 2026 02:35:01 -0400"
+            "title": "GitHub addresses two recent incidents and says it aims to improve reliability amid AI growth, focusing on \"availability first, then capacity, then new features\" (Vlad Fedorov/The GitHub Blog)",
+            "link": "http://www.techmeme.com/260428/p18#a260428p18",
+            "published": "Tue, 28 Apr 2026 07:55:00 -0400"
         },
         {
-            "title": "Many US rural communities oppose AI data center buildout; Pew says 67% of planned data centers are in rural areas, while 87% of existing ones are in urban areas (Financial Times)",
-            "link": "http://www.techmeme.com/260428/p7#a260428p7",
-            "published": "Tue, 28 Apr 2026 02:20:03 -0400"
+            "title": "Chinese billionaire Chen Tianqiao says his startup MiroMind is adding strict \"firewalls\" between its Chinese and US businesses, as China blocked Manus' sale (Bloomberg)",
+            "link": "http://www.techmeme.com/260428/p17#a260428p17",
+            "published": "Tue, 28 Apr 2026 07:50:01 -0400"
         },
         {
-            "title": "An analysis of Internet Archive data: by mid-2025, ~35% of new websites published since ChatGPT's launch in November 2022 were AI-generated or AI-assisted (Matthew Gault/404 Media)",
-            "link": "http://www.techmeme.com/260428/p6#a260428p6",
-            "published": "Tue, 28 Apr 2026 02:10:01 -0400"
+            "title": "AI researchers launch talkie, a 13B vintage language model trained on historical text with a 1930 cutoff, to see if it can replicate scientific breakthroughs (talkie)",
+            "link": "http://www.techmeme.com/260428/p16#a260428p16",
+            "published": "Tue, 28 Apr 2026 07:40:01 -0400"
         },
         {
-            "title": "Kpler, an online analytics platform tracking global maritime traffic and energy flows, says it has gained millions of new users since the war in Iran began (Alice Hancock/Financial Times)",
-            "link": "http://www.techmeme.com/260428/p5#a260428p5",
-            "published": "Tue, 28 Apr 2026 02:00:34 -0400"
+            "title": "Google launches Ask YouTube, a conversational AI search \"experiment\" that generates pages with videos and text summaries, for Premium users in the US aged 18+ (Jay Peters/The Verge)",
+            "link": "http://www.techmeme.com/260428/p15#a260428p15",
+            "published": "Tue, 28 Apr 2026 07:25:01 -0400"
         },
         {
-            "title": "Source: Google signed a deal allowing the US DOD to use Google's AI for \"any lawful government purpose\"; Google says the agreement amends an existing contract (Erin Woo/The Information)",
-            "link": "http://www.techmeme.com/260428/p4#a260428p4",
-            "published": "Tue, 28 Apr 2026 01:30:01 -0400"
+            "title": "Bloomberg CTO Shawn Edwards says the company is overhauling Terminal with a new chatbot-style interface called ASKB, currently open to ~125K users in beta (Joel Khalili/Wired)",
+            "link": "http://www.techmeme.com/260428/p14#a260428p14",
+            "published": "Tue, 28 Apr 2026 07:10:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Social media restrictions for under-16s even if no ban, minister says",
+            "link": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Apr 2026 10:46:55 GMT"
+        },
+        {
+            "title": "Musk v Altman: Why the tech billionaires and former friends are now facing off in court",
+            "link": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Apr 2026 10:10:54 GMT"
+        },
+        {
             "title": "Valve's \u00a385 Steam Controller divides gamers ahead of May launch",
             "link": "https://www.bbc.com/news/articles/cp8486w7de8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 28 Apr 2026 09:16:12 GMT"
@@ -68,16 +78,6 @@
             "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
             "link": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 27 Apr 2026 12:21:42 GMT"
-        },
-        {
-            "title": "I brought my husband back for his funeral as a hologram",
-            "link": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 25 Apr 2026 23:03:52 GMT"
-        },
-        {
-            "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-            "link": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 25 Apr 2026 01:18:33 GMT"
         }
     ]
 }
