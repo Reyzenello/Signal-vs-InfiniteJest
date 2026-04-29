@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "Crypto payments company MoonPay acquires Israeli crypto security startup Sodot, sources say in a ~$100M all-stock deal, to launch a unit focused on institutions (Emily Nicolle/Bloomberg)",
-            "link": "http://www.techmeme.com/260429/p27#a260429p27",
-            "published": "Wed, 29 Apr 2026 09:25:55 -0400"
+            "title": "OpenLight, which designs custom application-specific photonic chips, raised $50M in a Series A extension, after raising $34M in August 2025 (Charlotte Trueman/DatacenterDynamics)",
+            "link": "http://www.techmeme.com/260429/p35#a260429p35",
+            "published": "Wed, 29 Apr 2026 12:45:01 -0400"
         },
         {
-            "title": "Brookfield-backed Compass drops plans to develop 800+ acres in Virginia's 2,100-acre Digital Gateway data center corridor, sources say due to local opposition (Dawn Lim/Bloomberg)",
-            "link": "http://www.techmeme.com/260429/p26#a260429p26",
-            "published": "Wed, 29 Apr 2026 09:10:55 -0400"
+            "title": "Sources: Apple plans a new Siri camera mode in iOS 27 by moving Visual Intelligence, currently tied to the Camera Control button, into the camera app (Mark Gurman/Bloomberg)",
+            "link": "http://www.techmeme.com/260429/p34#a260429p34",
+            "published": "Wed, 29 Apr 2026 12:41:08 -0400"
         },
         {
-            "title": "Divine, a Vine reboot financed by Jack Dorsey-backed nonprofit \"and Other Stuff\" and built by an early Twitter employee, debuts with ~500K restored Vine videos (Sarah Perez/TechCrunch)",
-            "link": "http://www.techmeme.com/260429/p25#a260429p25",
-            "published": "Wed, 29 Apr 2026 09:01:19 -0400"
+            "title": "Motorola unveils its 2026 foldables lineup, including its first book-style model, which costs $1,900; prices for clamshell models have gone up by up to $200 (Chris Welch/Bloomberg)",
+            "link": "http://www.techmeme.com/260429/p33#a260429p33",
+            "published": "Wed, 29 Apr 2026 12:26:21 -0400"
         },
         {
-            "title": "Google celebrates 20 years of Translate with a new AI pronunciation practice tool for Android users in the US and India; Translate gets 1B+ queries per month (Macy Meyer/CNET)",
-            "link": "http://www.techmeme.com/260429/p24#a260429p24",
-            "published": "Wed, 29 Apr 2026 08:50:02 -0400"
+            "title": "Scout AI, which is building an AI model to operate and command military assets like autonomous ATVs, raised a $100M Series A co-led by Align and Draper (Tim Fernholz/TechCrunch)",
+            "link": "http://www.techmeme.com/260429/p32#a260429p32",
+            "published": "Wed, 29 Apr 2026 12:01:08 -0400"
         },
         {
-            "title": "Rogo, which uses AI to help lighten junior bankers' workloads, raised a $160M Series D led by Kleiner Perkins at a $2B valuation, up from $750M in January (Todd Gillespie/Bloomberg)",
-            "link": "http://www.techmeme.com/260429/p23#a260429p23",
-            "published": "Wed, 29 Apr 2026 07:35:02 -0400"
+            "title": "Seven families of victims in the Tumbler Ridge shooting in Canada sue OpenAI, accusing it of failing to warn authorities about the suspect's ChatGPT activity (Clare Duffy/CNN)",
+            "link": "http://www.techmeme.com/260429/p31#a260429p31",
+            "published": "Wed, 29 Apr 2026 11:26:07 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+            "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+            "published": "Wed, 29 Apr 2026 16:04:58 +0000"
+        },
+        {
+            "title": "A.I. Helps Online Ad Businesses Boom",
+            "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+            "published": "Wed, 29 Apr 2026 09:04:14 +0000"
+        },
+        {
+            "title": "Meta Charged With Failing to Keep Children Off Instagram and Facebook in Europe",
+            "link": "https://www.nytimes.com/2026/04/29/business/meta-instagram-facebook-children.html",
+            "published": "Wed, 29 Apr 2026 16:40:40 +0000"
+        },
         {
             "title": "What Elon Musk\u2019s Clash With Sam Altman of OpenAI Is Really About",
             "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
             "published": "Tue, 28 Apr 2026 09:02:04 +0000"
         },
         {
-            "title": "Google Signs A.I. Deal With the Pentagon",
-            "link": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
-            "published": "Tue, 28 Apr 2026 20:16:02 +0000"
-        },
-        {
-            "title": "From Indiana to Idaho, a Backlash Against A.I. Gathers Momentum",
-            "link": "https://www.nytimes.com/2026/04/27/technology/ai-artificial-intelligence-backlash.html",
-            "published": "Mon, 27 Apr 2026 16:11:56 +0000"
-        },
-        {
-            "title": "Microsoft and OpenAI Loosen Their Partnership",
-            "link": "https://www.nytimes.com/2026/04/27/technology/microsoft-openai-partnership.html",
-            "published": "Tue, 28 Apr 2026 01:50:52 +0000"
-        },
-        {
-            "title": "Here\u2019s the latest.",
-            "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
-            "published": "Wed, 29 Apr 2026 14:06:58 +0000"
+            "title": "Et tu, Brute? What Elon Musk\u2019s clash with Sam Altman is really about.",
+            "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
+            "published": "Wed, 29 Apr 2026 14:35:23 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Why friendly AI chatbots might be less trustworthy",
+            "link": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Apr 2026 15:00:06 GMT"
+        },
         {
             "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
             "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Valve's \u00a385 Steam Controller divides gamers ahead of May launch",
             "link": "https://www.bbc.com/news/articles/cp8486w7de8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 28 Apr 2026 09:16:12 GMT"
-        },
-        {
-            "title": "Why Spotify has no button to filter out AI music",
-            "link": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 27 Apr 2026 23:03:10 GMT"
         }
     ]
 }
