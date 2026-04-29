@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Alphabet reports Q1 revenue up 22% YoY to $109.9B, vs. $107.2B est., Google Cloud revenue up 63% to $20B, vs. $18.05B est., net income up 81% to $62.58B (Jennifer Elias/CNBC)",
-            "link": "http://www.techmeme.com/260429/p43#a260429p43",
-            "published": "Wed, 29 Apr 2026 16:13:18 -0400"
+            "title": "Sources: Anthropic has begun weighing a new funding round at a $900B+ valuation, after previously resisting investor proposals at an $800B+ valuation (Bloomberg)",
+            "link": "http://www.techmeme.com/260429/p59#a260429p59",
+            "published": "Wed, 29 Apr 2026 18:05:01 -0400"
         },
         {
-            "title": "Meta reports Q1 revenue up 33% YoY to $56.31B, net income up 61% to $26.77B, and family DAP up 4% to 3.56B on average for March; META drops 6%+ after hours (Meta)",
-            "link": "http://www.techmeme.com/260429/p42#a260429p42",
-            "published": "Wed, 29 Apr 2026 16:07:42 -0400"
+            "title": "Meta says Q1 family daily active people fell 20M QoQ to 3.56B, vs. 3.62B est., due to internet disruptions in Iran and WhatsApp access restrictions in Russia (Jonathan Vanian/CNBC)",
+            "link": "http://www.techmeme.com/260429/p58#a260429p58",
+            "published": "Wed, 29 Apr 2026 17:50:02 -0400"
         },
         {
-            "title": "Letters: House Homeland Security Committee and House China Select Committee are probing Airbnb and Cursor maker Anysphere over their use of Chinese AI models (Rachyl Jones/Semafor)",
-            "link": "http://www.techmeme.com/260429/p41#a260429p41",
-            "published": "Wed, 29 Apr 2026 15:55:05 -0400"
+            "title": "Alphabet reports Q1 revenue up 22% YoY to $109.9B, vs. $107.2B est., Google Cloud revenue up 63% to $20B, vs. $18.05B est., net income up 81% to $62.58B (Alphabet)",
+            "link": "http://www.techmeme.com/260429/p57#a260429p57",
+            "published": "Wed, 29 Apr 2026 17:25:01 -0400"
         },
         {
-            "title": "Google says the Gemini app can now generate files; supported formats include PDF, Microsoft Word and Excel, Google Docs and Sheets, plain text, and Markdown (Abner Li/9to5Google)",
-            "link": "http://www.techmeme.com/260429/p40#a260429p40",
-            "published": "Wed, 29 Apr 2026 15:35:02 -0400"
+            "title": "Google says paid subscriptions reached 350M in Q1, up 25M QoQ, driven by YouTube and Google One, while Gemini Enterprise paid MAUs grew 40% QoQ (Sarah Perez/TechCrunch)",
+            "link": "http://www.techmeme.com/260429/p56#a260429p56",
+            "published": "Wed, 29 Apr 2026 17:20:06 -0400"
         },
         {
-            "title": "Meta quietly rolled out USDC stablecoin payouts on Solana and Polygon for select creators in Colombia and the Philippines (Fortune)",
-            "link": "http://www.techmeme.com/260429/p39#a260429p39",
-            "published": "Wed, 29 Apr 2026 15:30:01 -0400"
+            "title": "eBay reports Q1 revenue up 19% YoY to $3.09B, vs. $3.04B est., net income up 2% to $512M, GMV up 18% to $22.2B, and forecasts Q2 revenue above estimates (Kelly Cloonan/Wall Street Journal)",
+            "link": "http://www.techmeme.com/260429/p55#a260429p55",
+            "published": "Wed, 29 Apr 2026 17:10:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Musk Says He \u2018Was a Fool\u2019 to Provide OpenAI\u2019s Early Funding",
+            "link": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+            "published": "Wed, 29 Apr 2026 21:44:14 +0000"
+        },
+        {
+            "title": "A.I. Spending Sets a Record, With No End in Sight",
+            "link": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
+            "published": "Wed, 29 Apr 2026 21:33:33 +0000"
+        },
+        {
+            "title": "Meta Deal Reversal Deepens Split Between China and Silicon Valley",
+            "link": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
+            "published": "Wed, 29 Apr 2026 21:08:05 +0000"
+        },
         {
             "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
             "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
             "published": "Wed, 29 Apr 2026 16:04:58 +0000"
         },
         {
-            "title": "A.I. Helps Online Ad Businesses Boom",
-            "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
-            "published": "Wed, 29 Apr 2026 09:04:14 +0000"
-        },
-        {
-            "title": "Meta Charged With Failing to Keep Children Off Instagram and Facebook in Europe",
-            "link": "https://www.nytimes.com/2026/04/29/business/meta-instagram-facebook-children.html",
-            "published": "Wed, 29 Apr 2026 18:03:37 +0000"
-        },
-        {
-            "title": "What Elon Musk\u2019s Clash With Sam Altman of OpenAI Is Really About",
-            "link": "https://www.nytimes.com/2026/04/28/technology/elon-musk-sam-altman-trial.html",
-            "published": "Tue, 28 Apr 2026 09:02:04 +0000"
-        },
-        {
-            "title": "Even without OpenAI, Elon Musk has made A.I. a big part of his business empire.",
-            "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/even-without-openai-elon-musk-has-made-ai-a-big-part-of-his-business-empire",
-            "published": "Wed, 29 Apr 2026 19:20:42 +0000"
+            "title": "Ford Reports Higher Profit Thanks Partly to Tariff Refund",
+            "link": "https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html",
+            "published": "Wed, 29 Apr 2026 21:01:00 +0000"
         }
     ],
     "source_2": [
