@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "North Korea-linked hackers stole ~$577M across the Drift Protocol and KelpDAO hacks in April, accounting for 76% of total crypto hack losses so far in 2026 (TRM Insights)",
-            "link": "https://www.techmeme.com/260430/p47#a260430p47",
-            "published": "Thu, 30 Apr 2026 15:45:01 -0400"
+            "title": "Sources: Meta HR chief Janelle Gale told employees she can't rule out further layoffs; Zuckerberg said AI automation is not the driving factor behind them (Business Insider)",
+            "link": "https://www.techmeme.com/260430/p57#a260430p57",
+            "published": "Thu, 30 Apr 2026 17:50:03 -0400"
         },
         {
-            "title": "Filing: Meta says it might be forced to withdraw its apps from New Mexico if a judge orders it to adopt the state's proposed safety features (Thomas Barrabi/New York Post)",
-            "link": "https://www.techmeme.com/260430/p46#a260430p46",
-            "published": "Thu, 30 Apr 2026 15:15:03 -0400"
+            "title": "Twilio reports Q1 revenue up 20% YoY to $1.41B, vs. $1.34B est., and forecasts Q2 revenue above estimates; TWLO jumps 17%+ after hours (Reinhardt Krause/Investor's Business ...)",
+            "link": "https://www.techmeme.com/260430/p56#a260430p56",
+            "published": "Thu, 30 Apr 2026 17:20:01 -0400"
         },
         {
-            "title": "Google is rolling out Gemini to cars that have Google built in, replacing Google Assistant, starting with English in the US (Jess Weatherbed/The Verge)",
-            "link": "https://www.techmeme.com/260430/p45#a260430p45",
-            "published": "Thu, 30 Apr 2026 15:10:14 -0400"
+            "title": "Atlassian reports Q3 revenue up 32% YoY to $1.79B, vs. $1.69B est., and raises its annual revenue forecast; TEAM jumps 17%+ after hours (Anhata Rooprai/Reuters)",
+            "link": "https://www.techmeme.com/260430/p55#a260430p55",
+            "published": "Thu, 30 Apr 2026 17:00:48 -0400"
         },
         {
-            "title": "Musk v. Altman: the judge told Musk's lawyer she did not want talk of AI's existential threat seeping into the trial, focusing instead on OpenAI's founding (New York Times)",
-            "link": "https://www.techmeme.com/260430/p44#a260430p44",
-            "published": "Thu, 30 Apr 2026 14:45:02 -0400"
+            "title": "Tim Cook says iPhone sales, which slightly missed Q2 estimates, were held back by chip supply constraints, as \"demand was off the charts\" (Reuters)",
+            "link": "https://www.techmeme.com/260430/p54#a260430p54",
+            "published": "Thu, 30 Apr 2026 16:55:02 -0400"
         },
         {
-            "title": "Musk v. Altman: when asked whether xAI has distilled OpenAI models, Elon Musk says the claim is \"partly\" true (Wired)",
-            "link": "https://www.techmeme.com/260430/p43#a260430p43",
-            "published": "Thu, 30 Apr 2026 14:30:01 -0400"
+            "title": "Apple reports Q2 revenue from Services, which includes the App Store, Apple TV, Apple Music, and more, grew 16.3% YoY to $30.98B, beating estimates of $30.4B (Todd Spangler/Variety)",
+            "link": "https://www.techmeme.com/260430/p53#a260430p53",
+            "published": "Thu, 30 Apr 2026 16:50:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Elon Musk\u2019s A.I. Claims of Danger Face Limits in OpenAI Trial",
+            "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+            "published": "Thu, 30 Apr 2026 22:01:44 +0000"
+        },
+        {
+            "title": "Apple Reports 17% Sales Jump, Powered by iPhones",
+            "link": "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
+            "published": "Thu, 30 Apr 2026 21:39:38 +0000"
+        },
         {
             "title": "Struggling With Phone Addiction? Try These Remedies.",
             "link": "https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html",
@@ -38,22 +48,17 @@
             "published": "Thu, 30 Apr 2026 09:01:13 +0000"
         },
         {
-            "title": "Musk Says He \u2018Was a Fool\u2019 to Provide OpenAI\u2019s Early Funding",
-            "link": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
-            "published": "Thu, 30 Apr 2026 14:53:07 +0000"
-        },
-        {
-            "title": "A.I. Spending Sets a Record, With No End in Sight",
-            "link": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
-            "published": "Wed, 29 Apr 2026 22:53:55 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s A.I. Claims of Danger Face Limits in OpenAI Trial",
-            "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
-            "published": "Thu, 30 Apr 2026 18:08:01 +0000"
+            "title": "Elon Musk suffered a rare loss in his last jury trial.",
+            "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/elon-musk-suffered-a-rare-loss-in-his-last-jury-trial",
+            "published": "Thu, 30 Apr 2026 15:14:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+            "link": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Apr 2026 21:17:07 GMT"
+        },
         {
             "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
             "link": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
             "link": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 29 Apr 2026 23:18:08 GMT"
-        },
-        {
-            "title": "Why friendly AI chatbots might be less trustworthy",
-            "link": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 29 Apr 2026 15:00:06 GMT"
         }
     ]
 }
