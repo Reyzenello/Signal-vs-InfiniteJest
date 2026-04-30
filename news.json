@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: KKR has secured $10B+ to launch Helix Digital Infrastructure, a company led by ex-AWS CEO Adam Selipsky that will develop and operate AI infrastructure (Bloomberg)",
+            "link": "https://www.techmeme.com/260430/p41#a260430p41",
+            "published": "Thu, 30 Apr 2026 14:00:33 -0400"
+        },
+        {
+            "title": "Standard Intelligence, which is developing computer use AI models, raised $75M led by Sequoia and Spark at a $500M post-money valuation (Rocket Drew/The Information)",
+            "link": "https://www.techmeme.com/260430/p40#a260430p40",
+            "published": "Thu, 30 Apr 2026 13:40:01 -0400"
+        },
+        {
+            "title": "Anthropic's Claude Security, formerly Claude Code Security, is in public beta for Enterprise users; the Opus 4.7-powered tool can scan code for vulnerabilities (Marcus Schuler/Implicator.ai)",
+            "link": "https://www.techmeme.com/260430/p39#a260430p39",
+            "published": "Thu, 30 Apr 2026 13:25:00 -0400"
+        },
+        {
+            "title": "Musk v. Altman: when asked whether xAI has ever distilled tech from OpenAI, Elon Musk says the claim is \"partly\" true (New York Times)",
+            "link": "https://www.techmeme.com/260430/p38#a260430p38",
+            "published": "Thu, 30 Apr 2026 13:05:01 -0400"
+        },
+        {
             "title": "The US Senate Judiciary Committee unanimously endorses a bipartisan child safety bill requiring AI companies like OpenAI and Meta to implement age verification (Emily Birnbaum/Bloomberg)",
             "link": "https://www.techmeme.com/260430/p37#a260430p37",
             "published": "Thu, 30 Apr 2026 12:30:01 -0400"
-        },
-        {
-            "title": "Cybersecurity analysis: GPT-5.5 reaches a similar level of performance as Mythos Preview and is the second model to solve a multi-step cyberattack simulation (AI Security Institute)",
-            "link": "https://www.techmeme.com/260430/p36#a260430p36",
-            "published": "Thu, 30 Apr 2026 12:15:07 -0400"
-        },
-        {
-            "title": "Serverless inference platform Featherless.ai raised a $20M Series A co-led by AMD Ventures and Airbus Ventures; the startup supports over 30,000 open models (Cate Lawrence/Tech.eu)",
-            "link": "https://www.techmeme.com/260430/p35#a260430p35",
-            "published": "Thu, 30 Apr 2026 11:55:02 -0400"
-        },
-        {
-            "title": "X says it has begun a \"phased rollout\" of its rebuilt ad platform, which it says will have more modern \"retrieval and ranking systems\" powered by AI (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260430/p34#a260430p34",
-            "published": "Thu, 30 Apr 2026 11:35:01 -0400"
-        },
-        {
-            "title": "Bitcoin miner MARA Holdings agrees to acquire Ohio gas plant operator Long Ridge Energy & Power for $1.5B including debt, to power its AI data center expansion (Francisco Rodrigues/CoinDesk)",
-            "link": "https://www.techmeme.com/260430/p33#a260430p33",
-            "published": "Thu, 30 Apr 2026 11:10:02 -0400"
         }
     ],
     "source_1": [
@@ -45,15 +45,20 @@
         {
             "title": "A.I. Spending Sets a Record, With No End in Sight",
             "link": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
-            "published": "Wed, 29 Apr 2026 22:53:54 +0000"
+            "published": "Wed, 29 Apr 2026 22:53:55 +0000"
         },
         {
-            "title": "Elon Musk suffered a rare loss in his last jury trial.",
-            "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/elon-musk-suffered-a-rare-loss-in-his-last-jury-trial",
-            "published": "Thu, 30 Apr 2026 15:14:16 +0000"
+            "title": "Is A.I. a Threat to Humanity? Not in This Trial.",
+            "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+            "published": "Thu, 30 Apr 2026 18:08:01 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
+            "link": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Apr 2026 17:24:25 GMT"
+        },
         {
             "title": "OpenAI tells ChatGPT models to stop talking about goblins",
             "link": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Why friendly AI chatbots might be less trustworthy",
             "link": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 29 Apr 2026 15:00:06 GMT"
-        },
-        {
-            "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
-            "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 29 Apr 2026 10:12:46 GMT"
         }
     ]
 }
