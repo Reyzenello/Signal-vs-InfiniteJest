@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Coatue formed Next Frontier in 2025 to buy land for data centers; Next Frontier has a JV with neocloud Fluidstack that's raised $5.7B via junk bonds (Wall Street Journal)",
+            "title": "Fun, which builds fiat and crypto payment rails for platforms like Polymarket and Aave, raised a $72M Series A in January, co-led by Multicoin and SignalFire (Ben Weiss/Fortune)",
+            "link": "https://www.techmeme.com/260501/p12#a260501p12",
+            "published": "Fri, 01 May 2026 13:00:49 -0400"
+        },
+        {
+            "title": "Sources: Coatue formed Next Frontier in 2025 to buy land for data centers; Next Frontier has a JV with neocloud Fluidstack that has raised $5.7B via junk bonds (Wall Street Journal)",
             "link": "https://www.techmeme.com/260501/p11#a260501p11",
             "published": "Fri, 01 May 2026 10:45:01 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "Amazon debuts \"Join the chat\", an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time (Lauren Forristal/TechCrunch)",
             "link": "https://www.techmeme.com/260501/p8#a260501p8",
             "published": "Fri, 01 May 2026 08:50:01 -0400"
-        },
-        {
-            "title": "Tim Cook says that the Mac Studio and the Mac mini, which many are buying for AI and agentic tools, \"may take several months to reach supply demand balance\" (Juli Clover/MacRumors)",
-            "link": "https://www.techmeme.com/260501/p7#a260501p7",
-            "published": "Fri, 01 May 2026 08:50:01 -0400"
         }
     ],
     "source_1": [
@@ -35,12 +35,12 @@
         {
             "title": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
             "link": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
-            "published": "Fri, 01 May 2026 13:26:59 +0000"
+            "published": "Fri, 01 May 2026 15:59:39 +0000"
         },
         {
             "title": "Elon Musk\u2019s A.I. Claims of Danger Face Limits in OpenAI Trial",
             "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
-            "published": "Thu, 30 Apr 2026 23:24:17 +0000"
+            "published": "Thu, 30 Apr 2026 23:24:18 +0000"
         },
         {
             "title": "Struggling With Phone Addiction? Try These Remedies.",
@@ -48,12 +48,17 @@
             "published": "Thu, 30 Apr 2026 09:01:48 +0000"
         },
         {
-            "title": "OpenAI\u2019s Big Reset + A.I. in the Doctor\u2019s Office + Talkie, a pre-1930s LLM",
-            "link": "https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html",
-            "published": "Fri, 01 May 2026 11:00:03 +0000"
+            "title": "How Running Shoes Have Evolved, From Ancient Greece to a Record-Breaking Marathon Time",
+            "link": "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
+            "published": "Fri, 01 May 2026 16:35:12 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
+            "link": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 01 May 2026 16:23:13 GMT"
+        },
         {
             "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
             "link": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
             "link": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 30 Apr 2026 17:24:25 GMT"
-        },
-        {
-            "title": "OpenAI tells ChatGPT models to stop talking about goblins",
-            "link": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 30 Apr 2026 13:28:04 GMT"
         }
     ]
 }
