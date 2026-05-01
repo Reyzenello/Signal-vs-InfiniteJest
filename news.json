@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Amazon launches \"Join the chat\", an AI-powered feature that allows users to ask questions about products and receive conversational audio responses in real time (Lauren Forristal/TechCrunch)",
+            "link": "https://www.techmeme.com/260501/p8#a260501p8",
+            "published": "Fri, 01 May 2026 08:50:01 -0400"
+        },
+        {
+            "title": "Tim Cook says that the Mac Studio and the Mac mini, which many are buying for AI and agentic tools, \"may take several months to reach supply demand balance\" (Juli Clover/MacRumors)",
+            "link": "https://www.techmeme.com/260501/p7#a260501p7",
+            "published": "Fri, 01 May 2026 08:50:01 -0400"
+        },
+        {
+            "title": "The US DOD strikes agreements with Nvidia, Microsoft, Reflection AI, and AWS to use their AI tools on classified military networks \"for lawful operational use\" (Katrina Manson/Bloomberg)",
+            "link": "https://www.techmeme.com/260501/p6#a260501p6",
+            "published": "Fri, 01 May 2026 07:50:02 -0400"
+        },
+        {
             "title": "Cloud computing provider Nebius agrees to buy Eigen AI, which optimizes the performance of chips running AI inference tasks, for $615M in stock and cash (Dina Bass/Bloomberg)",
             "link": "https://www.techmeme.com/260501/p5#a260501p5",
             "published": "Fri, 01 May 2026 06:55:02 -0400"
         },
         {
-            "title": "Apple CFO Kevan Parekh says \"the iPhone 17 family is now the most popular lineup in our history\" and \"we believe we gained market share during the quarter\" (Michael Acton/Financial Times)",
+            "title": "Apple CFO Kevan Parekh says that \"the iPhone 17 family is now the most popular lineup in our history\" and \"we believe we gained market share during the quarter\" (Michael Acton/Financial Times)",
             "link": "https://www.techmeme.com/260501/p4#a260501p4",
             "published": "Fri, 01 May 2026 06:45:01 -0400"
-        },
-        {
-            "title": "China's EV makers are competing on in-car AI features; ByteDance says its Doubao AI is used in 7M+ cars across 145 models, including from Mercedes, Audi, and VW (Evelyn Cheng/CNBC)",
-            "link": "https://www.techmeme.com/260501/p3#a260501p3",
-            "published": "Fri, 01 May 2026 05:00:47 -0400"
-        },
-        {
-            "title": "Researchers detail CopyFail, a now-patched Linux vulnerability that lets unprivileged users gain admin access, as many distributions have yet to add fixes (Dan Goodin/Ars Technica)",
-            "link": "https://www.techmeme.com/260501/p2#a260501p2",
-            "published": "Fri, 01 May 2026 01:30:01 -0400"
-        },
-        {
-            "title": "Sources: Huawei expects AI chip revenue to hit ~$12B in 2026, up 60% from $7.5B in 2025, as orders for its Ascend 950PR chip surge and Nvidia stalls in China (Zijing Wu/Financial Times)",
-            "link": "https://www.techmeme.com/260501/p1#a260501p1",
-            "published": "Fri, 01 May 2026 00:10:05 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+            "link": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 01 May 2026 11:29:35 GMT"
+        },
+        {
             "title": "Apple says iPhone 17 'most popular ever' as sales soar",
             "link": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 09:33:43 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI tells ChatGPT models to stop talking about goblins",
             "link": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 30 Apr 2026 13:28:04 GMT"
-        },
-        {
-            "title": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
-            "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 30 Apr 2026 08:59:35 GMT"
         }
     ]
 }
