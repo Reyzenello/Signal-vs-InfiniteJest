@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "xAI launches Grok 4.3, featuring \"always-on reasoning\", 1M token context window, and low API pricing, and releases a voice cloning suite called Custom Voices (Carl Franzen/VentureBeat)",
+            "link": "https://www.techmeme.com/260501/p27#a260501p27",
+            "published": "Fri, 01 May 2026 18:55:00 -0400"
+        },
+        {
+            "title": "Servers operated by Ubuntu and its parent company Canonical have been down for more than a day, following a \"sustained, cross-border attack\" (Dan Goodin/Ars Technica)",
+            "link": "https://www.techmeme.com/260501/p26#a260501p26",
+            "published": "Fri, 01 May 2026 18:10:01 -0400"
+        },
+        {
+            "title": "Apple has stopped offering a 256GB storage option for the Mac mini globally; Mac mini now starts at 512GB for $799 in the US (Joe Rossignol/MacRumors)",
+            "link": "https://www.techmeme.com/260501/p25#a260501p25",
+            "published": "Fri, 01 May 2026 18:05:01 -0400"
+        },
+        {
             "title": "The Academy of Motion Picture Arts and Sciences issues new rules saying acting and writing must be performed by humans and not AI to be eligible for Oscars (Lisa Richwine/Reuters)",
             "link": "https://www.techmeme.com/260501/p24#a260501p24",
             "published": "Fri, 01 May 2026 17:50:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Cerebras is seeking to raise as much as $4B in its IPO and is targeting a valuation of about $40B (Bloomberg)",
             "link": "https://www.techmeme.com/260501/p23#a260501p23",
             "published": "Fri, 01 May 2026 17:10:00 -0400"
-        },
-        {
-            "title": "How influencers boosting US-based AI and opposing Chinese AI are paid with money tied to Leading the Future, funded by execs from OpenAI, Palantir, a16z, others (Taylor Lorenz/Wired)",
-            "link": "https://www.techmeme.com/260501/p22#a260501p22",
-            "published": "Fri, 01 May 2026 17:05:03 -0400"
-        },
-        {
-            "title": "\"Podslop\" is flooding listening platforms like Spotify; Podcast Index: of ~11K new podcast feeds in a recent 9-day span, ~39% were likely for AI content shows (Ashley Carman/Bloomberg)",
-            "link": "https://www.techmeme.com/260501/p21#a260501p21",
-            "published": "Fri, 01 May 2026 17:00:51 -0400"
-        },
-        {
-            "title": "Pushing back on AI job loss fears, AWS CEO Matt Garman says Amazon plans to hire 11,000 software engineering interns in 2026, a figure in line with recent years (Ben Shimkus/Business Insider)",
-            "link": "https://www.techmeme.com/260501/p20#a260501p20",
-            "published": "Fri, 01 May 2026 16:15:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Oscars says AI actors, writing cannot win awards",
+            "link": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 01 May 2026 22:30:59 GMT"
+        },
+        {
             "title": "Bright idea? UK firm pioneers data centres using lampposts",
             "link": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 21:23:33 GMT"
@@ -73,11 +78,6 @@
             "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
             "link": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 11:29:35 GMT"
-        },
-        {
-            "title": "Apple says iPhone 17 'most popular ever' as sales soar",
-            "link": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 01 May 2026 09:33:43 GMT"
         }
     ]
 }
