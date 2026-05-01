@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The Academy of Motion Picture Arts and Sciences issues new rules saying acting and writing must be performed by humans and not AI to be eligible for Oscars (Lisa Richwine/Reuters)",
+            "link": "https://www.techmeme.com/260501/p24#a260501p24",
+            "published": "Fri, 01 May 2026 17:50:01 -0400"
+        },
+        {
+            "title": "Sources: Cerebras is seeking to raise as much as $4B in its IPO and is targeting a valuation of about $40B (Bloomberg)",
+            "link": "https://www.techmeme.com/260501/p23#a260501p23",
+            "published": "Fri, 01 May 2026 17:10:00 -0400"
+        },
+        {
+            "title": "How influencers boosting US-based AI and opposing Chinese AI are paid with money tied to Leading the Future, funded by execs from OpenAI, Palantir, a16z, others (Taylor Lorenz/Wired)",
+            "link": "https://www.techmeme.com/260501/p22#a260501p22",
+            "published": "Fri, 01 May 2026 17:05:03 -0400"
+        },
+        {
             "title": "\"Podslop\" is flooding listening platforms like Spotify; Podcast Index: of ~11K new podcast feeds in a recent 9-day span, ~39% were likely for AI content shows (Ashley Carman/Bloomberg)",
             "link": "https://www.techmeme.com/260501/p21#a260501p21",
             "published": "Fri, 01 May 2026 17:00:51 -0400"
@@ -9,21 +24,6 @@
             "title": "Pushing back on AI job loss fears, AWS CEO Matt Garman says Amazon plans to hire 11,000 software engineering interns in 2026, a figure in line with recent years (Ben Shimkus/Business Insider)",
             "link": "https://www.techmeme.com/260501/p20#a260501p20",
             "published": "Fri, 01 May 2026 16:15:02 -0400"
-        },
-        {
-            "title": "Some retail traders are training AI agents to buy and sell assets on their behalf, as exchanges like Polymarket and Bybit roll out agent-friendly interfaces (Emily Nicolle/Bloomberg)",
-            "link": "https://www.techmeme.com/260501/p19#a260501p19",
-            "published": "Fri, 01 May 2026 15:35:04 -0400"
-        },
-        {
-            "title": "The US, UK, Australia, Canada, and New Zealand publish guidance on orgs' use of agentic AI systems, saying many give AI more access than can be safely monitored (Greg Otto/CyberScoop)",
-            "link": "https://www.techmeme.com/260501/p18#a260501p18",
-            "published": "Fri, 01 May 2026 15:30:01 -0400"
-        },
-        {
-            "title": "The gender gap in AI use may be a matter of visibility more than usage, as data suggests women face more judgment for using AI and are less likely to admit it (Issie Lapowsky/Bloomberg)",
-            "link": "https://www.techmeme.com/260501/p17#a260501p17",
-            "published": "Fri, 01 May 2026 15:10:07 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Bright idea? UK firm pioneers data centres using lampposts",
+            "link": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 01 May 2026 21:23:33 GMT"
+        },
+        {
+            "title": "Pentagon says US military to be an 'AI-first' fighting force",
+            "link": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 01 May 2026 21:09:52 GMT"
+        },
+        {
             "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
             "link": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 16:23:13 GMT"
@@ -68,16 +78,6 @@
             "title": "Apple says iPhone 17 'most popular ever' as sales soar",
             "link": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 09:33:43 GMT"
-        },
-        {
-            "title": "Will AI lead to more accurate opinion polls?",
-            "link": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 30 Apr 2026 23:11:37 GMT"
-        },
-        {
-            "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
-            "link": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 30 Apr 2026 17:24:25 GMT"
         }
     ]
 }
