@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Amazon launches \"Join the chat\", an AI-powered feature that allows users to ask questions about products and receive conversational audio responses in real time (Lauren Forristal/TechCrunch)",
+            "title": "Sources: Coatue formed Next Frontier in 2025 to buy land for data centers; Next Frontier has a JV with neocloud Fluidstack that's raised $5.7B via junk bonds (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260501/p11#a260501p11",
+            "published": "Fri, 01 May 2026 10:45:01 -0400"
+        },
+        {
+            "title": "The US Navy awards Domino Data Lab a contract worth up to $100M for AI software that teaches underwater drones to identify new mines in the Strait of Hormuz (Mike Stone/Reuters)",
+            "link": "https://www.techmeme.com/260501/p10#a260501p10",
+            "published": "Fri, 01 May 2026 10:10:02 -0400"
+        },
+        {
+            "title": "Sources: Peter Thiel's Founders Fund raised $6B for a fund to invest in later-stage companies, marking its largest haul ever; $4.5B comes from limited partners (Natasha Mascarenhas/Bloomberg)",
+            "link": "https://www.techmeme.com/260501/p9#a260501p9",
+            "published": "Fri, 01 May 2026 10:00:38 -0400"
+        },
+        {
+            "title": "Amazon debuts \"Join the chat\", an AI-powered feature that lets users ask questions about products and get conversational audio responses generated in real time (Lauren Forristal/TechCrunch)",
             "link": "https://www.techmeme.com/260501/p8#a260501p8",
             "published": "Fri, 01 May 2026 08:50:01 -0400"
         },
@@ -9,43 +24,28 @@
             "title": "Tim Cook says that the Mac Studio and the Mac mini, which many are buying for AI and agentic tools, \"may take several months to reach supply demand balance\" (Juli Clover/MacRumors)",
             "link": "https://www.techmeme.com/260501/p7#a260501p7",
             "published": "Fri, 01 May 2026 08:50:01 -0400"
-        },
-        {
-            "title": "The US DOD strikes agreements with Nvidia, Microsoft, Reflection AI, and AWS to use their AI tools on classified military networks \"for lawful operational use\" (Katrina Manson/Bloomberg)",
-            "link": "https://www.techmeme.com/260501/p6#a260501p6",
-            "published": "Fri, 01 May 2026 07:50:02 -0400"
-        },
-        {
-            "title": "Cloud computing provider Nebius agrees to buy Eigen AI, which optimizes the performance of chips running AI inference tasks, for $615M in stock and cash (Dina Bass/Bloomberg)",
-            "link": "https://www.techmeme.com/260501/p5#a260501p5",
-            "published": "Fri, 01 May 2026 06:55:02 -0400"
-        },
-        {
-            "title": "Apple CFO Kevan Parekh says that \"the iPhone 17 family is now the most popular lineup in our history\" and \"we believe we gained market share during the quarter\" (Michael Acton/Financial Times)",
-            "link": "https://www.techmeme.com/260501/p4#a260501p4",
-            "published": "Fri, 01 May 2026 06:45:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Why So Many People Already Own Shares of Elon Musk\u2019s SpaceX",
+            "link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+            "published": "Fri, 01 May 2026 09:01:11 +0000"
+        },
+        {
+            "title": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
+            "link": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
+            "published": "Fri, 01 May 2026 13:26:59 +0000"
+        },
         {
             "title": "Elon Musk\u2019s A.I. Claims of Danger Face Limits in OpenAI Trial",
             "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
             "published": "Thu, 30 Apr 2026 23:24:17 +0000"
         },
         {
-            "title": "Apple Reports 17% Sales Jump, Powered by iPhones",
-            "link": "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
-            "published": "Thu, 30 Apr 2026 23:22:26 +0000"
-        },
-        {
             "title": "Struggling With Phone Addiction? Try These Remedies.",
             "link": "https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html",
             "published": "Thu, 30 Apr 2026 09:01:48 +0000"
-        },
-        {
-            "title": "How Good Is Google\u2019s Gemini AI at Making Travel Plans?",
-            "link": "https://www.nytimes.com/2026/04/30/travel/ai-travel-plan-gemini-vacation.html",
-            "published": "Thu, 30 Apr 2026 09:01:13 +0000"
         },
         {
             "title": "OpenAI\u2019s Big Reset + A.I. in the Doctor\u2019s Office + Talkie, a pre-1930s LLM",
