@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Why there is a 60%+ chance of AI systems autonomously building their own successors by the end of 2028, and a look at the consequences of fully automated AI R&D (Jack Clark/Import AI)",
+            "title": "Musk v. Altman: Stuart Russell, Musk's only AI expert witness, warned of AI risks but his concerns about AI's existential threats were excluded by the judge (Tim Fernholz/TechCrunch)",
+            "link": "https://www.techmeme.com/260504/p35#a260504p35",
+            "published": "Mon, 04 May 2026 16:10:01 -0400"
+        },
+        {
+            "title": "Sources: the Trump administration is discussing an EO to create an AI working group to examine AI oversight procedures, including vetting models before release (New York Times)",
+            "link": "https://www.techmeme.com/260504/p34#a260504p34",
+            "published": "Mon, 04 May 2026 15:55:01 -0400"
+        },
+        {
+            "title": "Former Trump and Biden AI advisers Dean Ball and Ben Buchanan urge bipartisan action on AI security risks, including tighter export controls and safety audits (New York Times)",
+            "link": "https://www.techmeme.com/260504/p33#a260504p33",
+            "published": "Mon, 04 May 2026 15:05:01 -0400"
+        },
+        {
+            "title": "Anthropic co-founder explains why there's a 60%+ chance of AI systems autonomously building their successors by 2029 and the consequences of automated AI R&D (Jack Clark/Import AI)",
             "link": "https://www.techmeme.com/260504/p32#a260504p32",
             "published": "Mon, 04 May 2026 14:10:01 -0400"
         },
@@ -9,24 +24,19 @@
             "title": "Sources: Apple prepares a \"Create a Pass\" feature for iOS 27, which lets users take a QR code and generate a custom pass around it for concerts and other venues (Mark Gurman/Bloomberg)",
             "link": "https://www.techmeme.com/260504/p31#a260504p31",
             "published": "Mon, 04 May 2026 13:50:01 -0400"
-        },
-        {
-            "title": "Intel taps Alex Katouzian, an ex-Qualcomm EVP, to lead Client Computing & Physical AI group, and names Pushkar Ranade as CTO, after serving on an interim basis (Dylan Martin/CRN)",
-            "link": "https://www.techmeme.com/260504/p30#a260504p30",
-            "published": "Mon, 04 May 2026 13:40:02 -0400"
-        },
-        {
-            "title": "Ex-iRobot CEO Colin Angle launches Familiar Machines & Magic and unveils Familiar, a dog-like, \"emotionally intelligent\" robot that reacts to owner's feelings (Christopher Mims/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260504/p29#a260504p29",
-            "published": "Mon, 04 May 2026 13:30:59 -0400"
-        },
-        {
-            "title": "Nearly 20 US state-run health insurance exchanges include ad trackers that send user data like race and citizenship info to companies like Meta, TikTok, Google (Bloomberg)",
-            "link": "https://www.techmeme.com/260504/p28#a260504p28",
-            "published": "Mon, 04 May 2026 13:01:43 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "White House Considers Vetting A.I. Models Before They Are Released",
+            "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+            "published": "Mon, 04 May 2026 19:29:25 +0000"
+        },
+        {
+            "title": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
+            "link": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
+            "published": "Mon, 04 May 2026 17:49:41 +0000"
+        },
         {
             "title": "Why So Many People Already Own Shares of Elon Musk\u2019s SpaceX",
             "link": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
@@ -36,16 +46,6 @@
             "title": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
             "link": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
             "published": "Fri, 01 May 2026 15:59:40 +0000"
-        },
-        {
-            "title": "Elon Musk\u2019s A.I. Claims of Danger Face Limits in OpenAI Trial",
-            "link": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
-            "published": "Thu, 30 Apr 2026 23:24:18 +0000"
-        },
-        {
-            "title": "Struggling With Phone Addiction? Try These Remedies.",
-            "link": "https://www.nytimes.com/2026/04/30/technology/personaltech/phone-addiction-remedies.html",
-            "published": "Thu, 30 Apr 2026 09:01:48 +0000"
         },
         {
             "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
