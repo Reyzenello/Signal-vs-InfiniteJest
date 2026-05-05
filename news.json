@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Apple plans to let users choose from multiple third-party AI models to perform tasks like generating and editing text and images in iOS 27 (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260505/p36#a260505p36",
-            "published": "Tue, 05 May 2026 13:48:55 -0400"
+            "title": "Sources: Meta is building agentic tools, including an OpenClaw-like assistant powered by its new Muse Spark AI model to help users create AI bots (Hannah Murphy/Financial Times)",
+            "link": "https://www.techmeme.com/260505/p42#a260505p42",
+            "published": "Tue, 05 May 2026 15:45:01 -0400"
         },
         {
-            "title": "OpenAI says GPT-5.5 Instant produces 52.5% fewer hallucinated claims \"on high-stakes prompts covering areas like medicine, law, and finance\" (Megan Morrone/Axios)",
-            "link": "https://www.techmeme.com/260505/p35#a260505p35",
-            "published": "Tue, 05 May 2026 13:20:00 -0400"
+            "title": "Musk v. Altman: on his second day of testimony, Greg Brockman said that OpenAI expects to spend $50B on computing in 2026, up from $30M in 2017 (Rachel Metz/Bloomberg)",
+            "link": "https://www.techmeme.com/260505/p41#a260505p41",
+            "published": "Tue, 05 May 2026 15:30:04 -0400"
         },
         {
-            "title": "OpenAI launches GPT-5.5 Instant, which it says is smarter, with more accurate and personalized responses, replacing GPT-5.3 Instant as ChatGPT's default model (OpenAI)",
-            "link": "https://www.techmeme.com/260505/p34#a260505p34",
-            "published": "Tue, 05 May 2026 13:10:02 -0400"
+            "title": "Musk v. Altman: Greg Brockman testified about tense negotiations with Musk in 2017, saying \"he knows rockets, he knows electric cars\" but \"does not know AI\" (Bloomberg)",
+            "link": "https://www.techmeme.com/260505/p40#a260505p40",
+            "published": "Tue, 05 May 2026 15:25:01 -0400"
         },
         {
-            "title": "Pennsylvania sues Character.AI, alleging that one of its characters posed as a psychiatrist, as the state seeks to prevent chatbots from impersonating doctors (Jonathan Stempel/Reuters)",
-            "link": "https://www.techmeme.com/260505/p33#a260505p33",
-            "published": "Tue, 05 May 2026 12:50:02 -0400"
+            "title": "Subquadratic launches with a $29M seed and debuts SubQ, an LLM that uses a subquadratic sparse attention architecture to achieve a 12M-token context window (Kyt Dotson/SiliconANGLE)",
+            "link": "https://www.techmeme.com/260505/p39#a260505p39",
+            "published": "Tue, 05 May 2026 15:15:00 -0400"
         },
         {
-            "title": "Memo: Xbox CEO Asha Sharma overhauls the group's leadership, including bringing over executives from Microsoft's CoreAI engineering unit where she worked before (Jordan Novet/CNBC)",
-            "link": "https://www.techmeme.com/260505/p32#a260505p32",
-            "published": "Tue, 05 May 2026 12:25:00 -0400"
+            "title": "Blitzy, which says its platform autonomously completes months of software development, raised $200M led by Northzone at a $1.4B valuation (Mary Ann Azevedo/Crunchbase News)",
+            "link": "https://www.techmeme.com/260505/p38#a260505p38",
+            "published": "Tue, 05 May 2026 14:50:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Coinbase Lays Off 14% of Employees as A.I. Changes Work",
             "link": "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html",
-            "published": "Tue, 05 May 2026 17:26:51 +0000"
+            "published": "Tue, 05 May 2026 18:19:50 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "'I thought he was going to hit me' OpenAI co-founder says of Musk",
+            "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 05 May 2026 19:40:22 GMT"
+        },
         {
             "title": "US to safety test new AI models from Google, Microsoft, xAI",
             "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Bright idea? UK firm pioneers data centres using lampposts",
             "link": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 21:23:33 GMT"
-        },
-        {
-            "title": "Pentagon says US military to be an 'AI-first' fighting force",
-            "link": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 01 May 2026 21:09:52 GMT"
         }
     ]
 }
