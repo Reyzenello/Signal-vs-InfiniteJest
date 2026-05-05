@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Duolingo reports Q1 revenue up 27% YoY to $292M, vs. $288.5M est., bookings up 14% to $308.5M, and expects slower growth in Q2; DUOL drops 12%+ after hours (Akash Sriram/Reuters)",
-            "link": "https://www.techmeme.com/260504/p40#a260504p40",
-            "published": "Mon, 04 May 2026 17:16:08 -0400"
+            "title": "How AI is transforming the pharma industry, with most gains so far from back-office streamlining and faster manufacturing rather than breakthrough drug research (Peter Loftus/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260504/p45#a260504p45",
+            "published": "Mon, 04 May 2026 19:45:01 -0400"
         },
         {
-            "title": "Musk v. Altman: Greg Brockman testifies that his OpenAI stake is now worth ~$30B; a Musk attorney asks why he hasn't donated $29B to OpenAI's nonprofit arm (Bloomberg)",
-            "link": "https://www.techmeme.com/260504/p39#a260504p39",
-            "published": "Mon, 04 May 2026 17:10:01 -0400"
+            "title": "Lattice Semiconductor agrees to acquire AMI for $1.65B in cash and stock; Georgia-based AMI provides firmware and infrastructure manageability for cloud and AI (Mike Rogoway/Oregonian)",
+            "link": "https://www.techmeme.com/260504/p44#a260504p44",
+            "published": "Mon, 04 May 2026 19:10:01 -0400"
         },
         {
-            "title": "Palantir reports Q1 revenue up 85% YoY to $1.63B, vs. $1.54B est., US government revenue up 84% to $687M, and US commercial revenue up 133% to $595M (Jaspreet Singh/Reuters)",
-            "link": "https://www.techmeme.com/260504/p38#a260504p38",
-            "published": "Mon, 04 May 2026 16:46:02 -0400"
+            "title": "Grab reports Q1 revenue up 24% YoY to $955M, above est., and a $154M adjusted EBITDA, vs. $146.3M est., helped by resilient demand for ride hailing and delivery (Olivia Poh/Bloomberg)",
+            "link": "https://www.techmeme.com/260504/p43#a260504p43",
+            "published": "Mon, 04 May 2026 19:05:01 -0400"
         },
         {
-            "title": "Elon Musk agrees to pay $1.5M to settle SEC allegations that he cheated Twitter shareholders in 2022 by failing to disclose the 5%+ stake he had in the company (Nicola M White/Bloomberg)",
-            "link": "https://www.techmeme.com/260504/p37#a260504p37",
-            "published": "Mon, 04 May 2026 16:40:00 -0400"
+            "title": "New Mexico child safety trial: New Mexico asks a judge to declare Meta a public nuisance and to order it to pay $3.7B and overhaul its apps to protect children (Diana Novak Jones/Reuters)",
+            "link": "https://www.techmeme.com/260504/p42#a260504p42",
+            "published": "Mon, 04 May 2026 19:00:43 -0400"
         },
         {
-            "title": "Pinterest reports Q1 revenue up 18% YoY to $1B, vs. $966M est., MAUs up 11% YoY to 631M, and forecasts Q2 revenue above estimates; PINS jumps 17%+ after hours (Jonathan Vanian/CNBC)",
-            "link": "https://www.techmeme.com/260504/p36#a260504p36",
-            "published": "Mon, 04 May 2026 16:31:08 -0400"
+            "title": "Crypto stocks jump after lawmakers struck a compromise on the CLARITY Act to preserve stablecoin rewards under certain conditions; Circle's stock closed up ~20% (Tanaya Macheel/CNBC)",
+            "link": "https://www.techmeme.com/260504/p41#a260504p41",
+            "published": "Mon, 04 May 2026 18:15:04 -0400"
         }
     ],
     "source_1": [
         {
             "title": "White House Considers Vetting A.I. Models Before They Are Released",
             "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
-            "published": "Mon, 04 May 2026 19:29:25 +0000"
+            "published": "Mon, 04 May 2026 22:37:29 +0000"
         },
         {
             "title": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
@@ -48,12 +48,17 @@
             "published": "Fri, 01 May 2026 15:59:40 +0000"
         },
         {
-            "title": "Elon Musk\u2019s Lawyers Ask OpenAI\u2019s Brockman Why He Is Worth $30 Billion",
-            "link": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
-            "published": "Mon, 04 May 2026 21:56:27 +0000"
+            "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
+            "link": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
+            "published": "Mon, 04 May 2026 22:49:13 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Robots move in as waste firms struggle to find staff",
+            "link": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 04 May 2026 23:43:28 GMT"
+        },
         {
             "title": "Oscars says AI actors and writing cannot win awards",
             "link": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
             "link": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 16:23:13 GMT"
-        },
-        {
-            "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-            "link": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 01 May 2026 11:29:35 GMT"
         }
     ]
 }
