@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple plans to let users choose from multiple third-party AI models to perform tasks like generating and editing text and images in iOS 27 (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260505/p36#a260505p36",
+            "published": "Tue, 05 May 2026 13:48:55 -0400"
+        },
+        {
+            "title": "OpenAI says GPT-5.5 Instant produces 52.5% fewer hallucinated claims \"on high-stakes prompts covering areas like medicine, law, and finance\" (Megan Morrone/Axios)",
+            "link": "https://www.techmeme.com/260505/p35#a260505p35",
+            "published": "Tue, 05 May 2026 13:20:00 -0400"
+        },
+        {
+            "title": "OpenAI launches GPT-5.5 Instant, which it says is smarter, with more accurate and personalized responses, replacing GPT-5.3 Instant as ChatGPT's default model (OpenAI)",
+            "link": "https://www.techmeme.com/260505/p34#a260505p34",
+            "published": "Tue, 05 May 2026 13:10:02 -0400"
+        },
+        {
+            "title": "Pennsylvania sues Character.AI, alleging that one of its characters posed as a psychiatrist, as the state seeks to prevent chatbots from impersonating doctors (Jonathan Stempel/Reuters)",
+            "link": "https://www.techmeme.com/260505/p33#a260505p33",
+            "published": "Tue, 05 May 2026 12:50:02 -0400"
+        },
+        {
             "title": "Memo: Xbox CEO Asha Sharma overhauls the group's leadership, including bringing over executives from Microsoft's CoreAI engineering unit where she worked before (Jordan Novet/CNBC)",
             "link": "https://www.techmeme.com/260505/p32#a260505p32",
             "published": "Tue, 05 May 2026 12:25:00 -0400"
-        },
-        {
-            "title": "Sao Paulo-based Enter, which uses AI to handle litigation for companies like Airbnb, raised $100M led by Founders Fund at a $1.2B valuation (Natasha Mascarenhas/Bloomberg)",
-            "link": "https://www.techmeme.com/260505/p31#a260505p31",
-            "published": "Tue, 05 May 2026 12:15:01 -0400"
-        },
-        {
-            "title": "Aylo says it will restore Pornhub access in the UK, but only for users who have verified their age via iOS 26.4's device-level age verification system (Liv McMahon/BBC)",
-            "link": "https://www.techmeme.com/260505/p30#a260505p30",
-            "published": "Tue, 05 May 2026 11:55:00 -0400"
-        },
-        {
-            "title": "Intel's stock jumps 12%+ and hits a new all-time high on a report that Apple has had early-stage talks with Intel to produce chips for Apple's devices in the US (Lola Murti/CNBC)",
-            "link": "https://www.techmeme.com/260505/p29#a260505p29",
-            "published": "Tue, 05 May 2026 11:20:01 -0400"
-        },
-        {
-            "title": "Anthropic unveils 10 new AI agents for the financial sector, including for drafting pitch decks, reviewing financial statements, and escalating compliance cases (Shirin Ghaffary/Bloomberg)",
-            "link": "https://www.techmeme.com/260505/p28#a260505p28",
-            "published": "Tue, 05 May 2026 11:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 05 May 2026 02:03:14 +0000"
         },
         {
-            "title": "Ford Says an Affordable Electric Pickup Truck is Still Coming Next Year",
-            "link": "https://www.nytimes.com/2026/05/05/business/ford-motor-electric-pickup-truck.html",
-            "published": "Tue, 05 May 2026 13:00:06 +0000"
+            "title": "Coinbase Lays Off 14% of Employees as A.I. Changes Work",
+            "link": "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html",
+            "published": "Tue, 05 May 2026 17:26:51 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US to safety test new AI models from Google, Microsoft, xAI",
+            "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 05 May 2026 17:21:32 GMT"
+        },
         {
             "title": "Pornhub to become accessible again for some UK users",
             "link": "https://www.bbc.com/news/articles/cwy27q05gj2o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Pentagon says US military to be an 'AI-first' fighting force",
             "link": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 21:09:52 GMT"
-        },
-        {
-            "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
-            "link": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 01 May 2026 16:23:13 GMT"
         }
     ]
 }
