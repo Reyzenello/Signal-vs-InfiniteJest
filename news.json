@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple held exploratory talks with Intel and its executives visited a Samsung plant in Texas to explore producing core chips for its devices in the US (Bloomberg)",
+            "link": "https://www.techmeme.com/260504/p49#a260504p49",
+            "published": "Mon, 04 May 2026 23:35:01 -0400"
+        },
+        {
+            "title": "Inference cloud startup DeepInfra raised a $107M Series B co-led by 500 Global and Georges Harik; it currently supports more than 190 open models (Mike Wheatley/SiliconANGLE)",
+            "link": "https://www.techmeme.com/260504/p48#a260504p48",
+            "published": "Mon, 04 May 2026 22:40:00 -0400"
+        },
+        {
+            "title": "Sources: Sam Altman discussed spinning out OpenAI's robotics and consumer hardware divisions in late 2025 to give them more room to grow; the plan was rejected (Berber Jin/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260504/p47#a260504p47",
+            "published": "Mon, 04 May 2026 21:30:00 -0400"
+        },
+        {
+            "title": "As Colorado tech leaders say that burdensome regulations are driving companies away, lawmakers introduce a slimmer version of an AI anti-discrimination bill (Owen Tucker-Smith/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260504/p46#a260504p46",
+            "published": "Mon, 04 May 2026 20:55:01 -0400"
+        },
+        {
             "title": "How AI is transforming the pharma industry, with most gains so far from back-office streamlining and faster manufacturing rather than breakthrough drug research (Peter Loftus/Wall Street Journal)",
             "link": "https://www.techmeme.com/260504/p45#a260504p45",
             "published": "Mon, 04 May 2026 19:45:01 -0400"
-        },
-        {
-            "title": "Lattice Semiconductor agrees to acquire AMI for $1.65B in cash and stock; Georgia-based AMI provides firmware and infrastructure manageability for cloud and AI (Mike Rogoway/Oregonian)",
-            "link": "https://www.techmeme.com/260504/p44#a260504p44",
-            "published": "Mon, 04 May 2026 19:10:01 -0400"
-        },
-        {
-            "title": "Grab reports Q1 revenue up 24% YoY to $955M, above est., and a $154M adjusted EBITDA, vs. $146.3M est., helped by resilient demand for ride hailing and delivery (Olivia Poh/Bloomberg)",
-            "link": "https://www.techmeme.com/260504/p43#a260504p43",
-            "published": "Mon, 04 May 2026 19:05:01 -0400"
-        },
-        {
-            "title": "New Mexico child safety trial: New Mexico asks a judge to declare Meta a public nuisance and to order it to pay $3.7B and overhaul its apps to protect children (Diana Novak Jones/Reuters)",
-            "link": "https://www.techmeme.com/260504/p42#a260504p42",
-            "published": "Mon, 04 May 2026 19:00:43 -0400"
-        },
-        {
-            "title": "Crypto stocks jump after lawmakers struck a compromise on the CLARITY Act to preserve stablecoin rewards under certain conditions; Circle's stock closed up ~20% (Tanaya Macheel/CNBC)",
-            "link": "https://www.techmeme.com/260504/p41#a260504p41",
-            "published": "Mon, 04 May 2026 18:15:04 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
             "link": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
-            "published": "Mon, 04 May 2026 17:49:41 +0000"
+            "published": "Tue, 05 May 2026 02:03:14 +0000"
         },
         {
             "title": "Why So Many People Already Own Shares of Elon Musk\u2019s SpaceX",
@@ -50,15 +50,10 @@
         {
             "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
             "link": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
-            "published": "Mon, 04 May 2026 22:49:13 +0000"
+            "published": "Tue, 05 May 2026 01:22:06 +0000"
         }
     ],
     "source_2": [
-        {
-            "title": "Robots move in as waste firms struggle to find staff",
-            "link": "https://www.bbc.com/news/articles/cvg0w84q1wyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 04 May 2026 23:43:28 GMT"
-        },
         {
             "title": "Oscars says AI actors and writing cannot win awards",
             "link": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
@@ -78,6 +73,11 @@
             "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
             "link": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 16:23:13 GMT"
+        },
+        {
+            "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+            "link": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 01 May 2026 11:29:35 GMT"
         }
     ]
 }
