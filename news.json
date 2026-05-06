@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Astrocade, which lets users create video games using natural language prompts, raised $56M, including a Series A and a Series B, and says it has ~5M MAUs (Allie Garfinkle/Fortune)",
-            "link": "https://www.techmeme.com/260505/p56#a260505p56",
-            "published": "Tue, 05 May 2026 19:55:01 -0400"
+            "title": "Nace.AI, which lets companies build specialized AI models tailored to their business' mission and language, raised a $21.5M seed led by Walden Catalyst (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/260505/p63#a260505p63",
+            "published": "Tue, 05 May 2026 23:10:01 -0400"
         },
         {
-            "title": "Sources: Meta is building an OpenClaw-inspired agent internally called Hatch, to be powered by its Muse Spark model, and an agentic shopping tool in Instagram (Jyoti Mann/The Information)",
-            "link": "https://www.techmeme.com/260505/p55#a260505p55",
-            "published": "Tue, 05 May 2026 19:25:01 -0400"
+            "title": "Coupang reports Q1 revenue up 8% YoY to $8.5B and a net loss of $266M following a 2025 Korean customer data breach, its largest loss since Q4 2021 (The Korea Herald)",
+            "link": "https://www.techmeme.com/260505/p62#a260505p62",
+            "published": "Tue, 05 May 2026 22:35:02 -0400"
         },
         {
-            "title": "Sources: Alphabet sold its biggest-ever euro-denominated bonds, raising \u20ac9B, and its first Canadian dollar notes, raising CA$8.5B, months after raising $20B (Bloomberg)",
-            "link": "https://www.techmeme.com/260505/p54#a260505p54",
-            "published": "Tue, 05 May 2026 18:55:03 -0400"
+            "title": "CRM software company Freshworks said it plans to cut 11% of its workforce, or ~500 jobs, as it deals with AI's impact; FRSH has dropped ~26% in 2026 (Anhata Rooprai/Reuters)",
+            "link": "https://www.techmeme.com/260505/p61#a260505p61",
+            "published": "Tue, 05 May 2026 22:05:01 -0400"
         },
         {
-            "title": "Kaspersky says Daemon Tools, a widely used app for mounting disk images, has been backdoored in a monthlong compromise that has pushed malicious updates (Dan Goodin/Ars Technica)",
-            "link": "https://www.techmeme.com/260505/p53#a260505p53",
-            "published": "Tue, 05 May 2026 18:00:38 -0400"
+            "title": "US labor experts and economists warn US unemployment benefits are unlikely to protect against AI job losses, and the GOP-led Congress is doing little to prepare (New York Times)",
+            "link": "https://www.techmeme.com/260505/p60#a260505p60",
+            "published": "Tue, 05 May 2026 21:25:01 -0400"
         },
         {
-            "title": "EA reports Q4 net bookings up 3.6% YoY to $1.86B, vs. $2B est., weighed down by a post-launch drop-off in engagement for Battlefield 6 (Anhata Rooprai/Reuters)",
-            "link": "https://www.techmeme.com/260505/p52#a260505p52",
-            "published": "Tue, 05 May 2026 17:45:01 -0400"
+            "title": "Samsung reaches a $1T valuation, making it only the second Asian company after TSMC to hit the mark, after its stock rose 4x+ over the past year on the AI boom (Sangmi Cha/Bloomberg)",
+            "link": "https://www.techmeme.com/260505/p59#a260505p59",
+            "published": "Tue, 05 May 2026 20:30:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies",
             "link": "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
-            "published": "Tue, 05 May 2026 23:25:30 +0000"
+            "published": "Wed, 06 May 2026 00:52:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
+            "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 06 May 2026 00:15:14 GMT"
+        },
         {
             "title": "US to safety test new AI models from Google, Microsoft, xAI",
             "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Oscars says AI actors and writing cannot win awards",
             "link": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 01 May 2026 22:30:59 GMT"
-        },
-        {
-            "title": "Bright idea? UK firm pioneers data centres using lampposts",
-            "link": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 01 May 2026 21:23:33 GMT"
         }
     ]
 }
