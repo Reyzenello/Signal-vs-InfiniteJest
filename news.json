@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Instacart reports Q1 revenue up 14% YoY to $1.02B, GTV up 13% to $10.29B, and orders up 10%, compared with a 16% growth a year earlier; CART drops 11%+ (Neil J Kanatt/Reuters)",
-            "link": "https://www.techmeme.com/260506/p40#a260506p40",
-            "published": "Wed, 06 May 2026 14:25:01 -0400"
+            "title": "DoorDash reports Q1 revenue up 33% YoY to $4.04B, vs. $4.14B est., and forecasts Q2 marketplace gross order value above estimates; DASH jumps 11%+ after hours (Koyena Das/Reuters)",
+            "link": "https://www.techmeme.com/260506/p45#a260506p45",
+            "published": "Wed, 06 May 2026 16:35:44 -0400"
         },
         {
-            "title": "Anthropic says it signed a deal with SpaceX to use \"all of the compute capacity\" at Colossus 1, giving it access to over 300 MW of new capacity within the month (Axios)",
-            "link": "https://www.techmeme.com/260506/p39#a260506p39",
-            "published": "Wed, 06 May 2026 14:10:02 -0400"
+            "title": "Arm reports Q4 revenue up 20% YoY to $1.5B, says AGI CPU demand will drive $2B in sales in 2027 and 2028, over 2x its prior guidance; ARM jumps 11%+ after hours (Michael Acton/Financial Times)",
+            "link": "https://www.techmeme.com/260506/p44#a260506p44",
+            "published": "Wed, 06 May 2026 16:26:54 -0400"
         },
         {
-            "title": "Google releases Multi-Token Prediction drafters for its Gemma 4 models, which use a form of speculative decoding to guess future tokens for faster inference (Ryan Whitwam/Ars Technica)",
-            "link": "https://www.techmeme.com/260506/p38#a260506p38",
-            "published": "Wed, 06 May 2026 13:00:54 -0400"
+            "title": "Google Chrome silently installs a ~4GB Gemini Nano model on desktop devices; Google says it has been offered since 2024 and users can remove it via settings (Ben Schoon/9to5Google)",
+            "link": "https://www.techmeme.com/260506/p43#a260506p43",
+            "published": "Wed, 06 May 2026 16:05:32 -0400"
         },
         {
-            "title": "Sources: Microsoft is considering delaying or dropping its 2030 goal of matching its hourly power use with renewable energy purchases, amid the data center boom (Bloomberg)",
-            "link": "https://www.techmeme.com/260506/p37#a260506p37",
-            "published": "Wed, 06 May 2026 12:55:05 -0400"
+            "title": "Corgi, which provides insurance for startups and uses AI to generate quotes, manage claims, and more, raised a $160M Series B led by TCV at a $1.3B valuation (Richard Nieva/Forbes)",
+            "link": "https://www.techmeme.com/260506/p42#a260506p42",
+            "published": "Wed, 06 May 2026 15:55:01 -0400"
         },
         {
-            "title": "Following its SpaceX deal, Anthropic doubles Claude Code's five-hour rate limits for paid plans and removes peak hours limit reduction for Pro and Max plans (Anthropic)",
-            "link": "https://www.techmeme.com/260506/p36#a260506p36",
-            "published": "Wed, 06 May 2026 12:40:08 -0400"
+            "title": "Musk v. Altman: Mira Murati testifies that Sam Altman lied to her about the safety standards for a new OpenAI model and that he made her work more difficult (Jay Peters/The Verge)",
+            "link": "https://www.techmeme.com/260506/p41#a260506p41",
+            "published": "Wed, 06 May 2026 15:15:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+            "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 06 May 2026 20:05:02 GMT"
+        },
+        {
             "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
             "link": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 May 2026 11:59:44 GMT"
@@ -73,11 +78,6 @@
             "title": "US to safety test new AI models from Google, Microsoft, xAI",
             "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 05 May 2026 20:16:24 GMT"
-        },
-        {
-            "title": "Pornhub to become accessible again for some UK users",
-            "link": "https://www.bbc.com/news/articles/cwy27q05gj2o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 05 May 2026 14:09:28 GMT"
         }
     ]
 }
