@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The delayed IPO of Visma, an accounting software company valued at \u20ac19B, amid SaaSpocalypse fears, is a major setback for PE parent Hg, a software buyout giant (Financial Times)",
+            "title": "DefiLlama: investors pulled ~$14B from the DeFi sector after North Korea-linked hackers stole $290M from Aave in April, weeks after stealing $280M from Drift (Financial Times)",
+            "link": "https://www.techmeme.com/260506/p12#a260506p12",
+            "published": "Wed, 06 May 2026 04:00:15 -0400"
+        },
+        {
+            "title": "A medical student reverse-engineered AI tools used by medical colleges on suspicion they were filtering his applications, highlighting AI-driven hiring concerns (Todd Feathers/Wired)",
+            "link": "https://www.techmeme.com/260506/p11#a260506p11",
+            "published": "Wed, 06 May 2026 03:01:18 -0400"
+        },
+        {
+            "title": "Sources: DeepSeek is in talks to raise funds, and the Big Fund, China's biggest state-backed chip fund, is seeking to lead the investment at a ~$45B valuation (Financial Times)",
+            "link": "https://www.techmeme.com/260506/p10#a260506p10",
+            "published": "Wed, 06 May 2026 02:45:01 -0400"
+        },
+        {
+            "title": "Study: using weaker AI models to supervise a more capable model could prevent the stronger model from deliberately underperforming on benchmarks and evaluations (Emil Ryd/@emilaryd)",
+            "link": "https://www.techmeme.com/260506/p9#a260506p9",
+            "published": "Wed, 06 May 2026 02:40:01 -0400"
+        },
+        {
+            "title": "Accounting software company Visma's delayed IPO, coming amid \"SaaSpocalypse\" fears, is a major setback for private equity parent Hg, a software buyout giant (Financial Times)",
             "link": "https://www.techmeme.com/260506/p8#a260506p8",
             "published": "Wed, 06 May 2026 02:25:10 -0400"
-        },
-        {
-            "title": "Infineon expects data center revenue to grow from \u20ac1.5B in FY2026 to \u20ac2.5B in FY2027, as it and EU peers STMicro and NXP benefit from AI infrastructure demand (Christina Kyriasoglou/Bloomberg)",
-            "link": "https://www.techmeme.com/260506/p7#a260506p7",
-            "published": "Wed, 06 May 2026 02:20:03 -0400"
-        },
-        {
-            "title": "Security camera companies are embracing AI to give customers detailed descriptions of surveillance footage that are often spot on but can also be wildly wrong (Scott Calvert/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260506/p6#a260506p6",
-            "published": "Wed, 06 May 2026 01:45:00 -0400"
-        },
-        {
-            "title": "Study: US schools with strict cellphone bans in class have not seen higher test scores on average so far, but students reported a greater sense of well-being (Dana Goldstein/New York Times)",
-            "link": "https://www.techmeme.com/260506/p5#a260506p5",
-            "published": "Wed, 06 May 2026 01:25:01 -0400"
-        },
-        {
-            "title": "Sources: Blue Origin outlines a new employee stock plan to quell staff unrest and make its incentives more competitive with SpaceX (Rafe Rosner-Uddin/Financial Times)",
-            "link": "https://www.techmeme.com/260506/p4#a260506p4",
-            "published": "Wed, 06 May 2026 01:20:01 -0400"
         }
     ],
     "source_1": [
@@ -48,14 +48,19 @@
             "published": "Tue, 05 May 2026 02:03:14 +0000"
         },
         {
-            "title": "Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies",
-            "link": "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
-            "published": "Wed, 06 May 2026 00:52:04 +0000"
+            "title": "American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.",
+            "link": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
+            "published": "Wed, 06 May 2026 09:02:02 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
+            "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
+            "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 06 May 2026 07:10:16 GMT"
+        },
+        {
+            "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
             "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 May 2026 00:15:14 GMT"
         },
@@ -63,11 +68,6 @@
             "title": "US to safety test new AI models from Google, Microsoft, xAI",
             "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 05 May 2026 20:16:24 GMT"
-        },
-        {
-            "title": "'I thought he was going to hit me' OpenAI co-founder says of Musk",
-            "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 05 May 2026 19:40:22 GMT"
         },
         {
             "title": "Pornhub to become accessible again for some UK users",
