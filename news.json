@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Spotify launches Save to Spotify, a command-line tool that allows AI agents to upload generated audio summaries and personal podcasts to a user's account (Terrence O'Brien/The Verge)",
+            "title": "Meta challenges Ofcom in UK High Court over the Online Safety Act, which calculates levies based on global, not UK, revenue, in a case scheduled for October (Sam Tobin/Reuters)",
+            "link": "https://www.techmeme.com/260507/p28#a260507p28",
+            "published": "Thu, 07 May 2026 12:20:01 -0400"
+        },
+        {
+            "title": "Nova Intelligence, which is building agentic AI for SAP ahead of a 2030 migration, raised a $31.5M Series A led by Chemistry, taking its total funding to $40M+ (Lily Mae Lazarus/Fortune)",
+            "link": "https://www.techmeme.com/260507/p27#a260507p27",
+            "published": "Thu, 07 May 2026 11:50:00 -0400"
+        },
+        {
+            "title": "Tessera Labs, which uses AI agents to automate enterprise IT migrations and ERP transformations, raised a $60M Series A led by a16z at a $320M valuation (Anna Tong/Forbes)",
+            "link": "https://www.techmeme.com/260507/p26#a260507p26",
+            "published": "Thu, 07 May 2026 11:30:01 -0400"
+        },
+        {
+            "title": "An interview with Google VP for Health and Home Rishi Chandra on shutting down Fit by the end of 2026, Fitbit's rebrand to Google Health, Health Coach, and more (Julian Chokkattu/Wired)",
+            "link": "https://www.techmeme.com/260507/p25#a260507p25",
+            "published": "Thu, 07 May 2026 11:05:01 -0400"
+        },
+        {
+            "title": "Spotify launches Save to Spotify, a command-line tool that allows AI agents to upload AI-generated audio summaries and personal podcasts to a user's account (Terrence O'Brien/The Verge)",
             "link": "https://www.techmeme.com/260507/p24#a260507p24",
             "published": "Thu, 07 May 2026 10:41:01 -0400"
-        },
-        {
-            "title": "Google rebrands Fitbit Premium as Google Health Premium, adding Gemini-powered coaching and other features, and raises its annual price from $79.99 to $99.99 (Adamya Sharma/Android Authority)",
-            "link": "https://www.techmeme.com/260507/p23#a260507p23",
-            "published": "Thu, 07 May 2026 10:20:01 -0400"
-        },
-        {
-            "title": "Google launches the $100 Fitbit Air, a Whoop-like screenless wearable, with Gemini-powered features like Google Health Coach, available May 26 (Cherlynn Low/Engadget)",
-            "link": "https://www.techmeme.com/260507/p22#a260507p22",
-            "published": "Thu, 07 May 2026 10:15:01 -0400"
-        },
-        {
-            "title": "Cologne-based AI translation startup DeepL plans to cut ~25% of its workforce, or ~250 staff, saying adapting to AI \"means fewer layers\" and \"faster decisions\" (Amy Thomson/Bloomberg)",
-            "link": "https://www.techmeme.com/260507/p21#a260507p21",
-            "published": "Thu, 07 May 2026 09:20:03 -0400"
-        },
-        {
-            "title": "Khosla-backed robotics startup Genesis AI unveils GENE-26.5, its first model, which can control robotic hands that it designed in-house to do tasks like cooking (Anna Heim/TechCrunch)",
-            "link": "https://www.techmeme.com/260507/p20#a260507p20",
-            "published": "Thu, 07 May 2026 09:10:55 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "Five Ways A.I. Search Beats an Old-School Google Search",
             "link": "https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html",
             "published": "Thu, 07 May 2026 09:03:06 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
+            "link": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+            "published": "Thu, 07 May 2026 15:52:21 +0000"
         },
         {
             "title": "Elon Musk\u2019s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
@@ -43,17 +48,17 @@
             "published": "Thu, 07 May 2026 01:09:53 +0000"
         },
         {
-            "title": "American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.",
-            "link": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
-            "published": "Wed, 06 May 2026 16:14:32 +0000"
-        },
-        {
             "title": "Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.",
             "link": "https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html",
             "published": "Thu, 07 May 2026 09:24:59 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Meta brings High Court challenge over Ofcom fees",
+            "link": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 07 May 2026 16:30:55 GMT"
+        },
         {
             "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
             "link": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
             "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 May 2026 07:10:16 GMT"
-        },
-        {
-            "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-            "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 06 May 2026 00:15:14 GMT"
         }
     ]
 }
