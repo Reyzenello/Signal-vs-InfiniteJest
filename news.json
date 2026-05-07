@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Researchers: 5K+ web apps built using AI coding tools like Lovable, Base44, and Replit had little to no authentication, and ~40% of them exposed sensitive data (Andy Greenberg/Wired)",
-            "link": "https://www.techmeme.com/260507/p17#a260507p17",
-            "published": "Thu, 07 May 2026 07:55:52 -0400"
+            "title": "Spotify launches Save to Spotify, a command-line tool that allows AI agents to upload generated audio summaries and personal podcasts to a user's account (Terrence O'Brien/The Verge)",
+            "link": "https://www.techmeme.com/260507/p24#a260507p24",
+            "published": "Thu, 07 May 2026 10:41:01 -0400"
         },
         {
-            "title": "MediaTek launches the first phase of its Taiwan data center, aimed at R&D, powered by Nvidia's B200 platform, and built on Nvidia's DGX SuperPOD infrastructure (Cheng Ting-Fang/Nikkei Asia)",
-            "link": "https://www.techmeme.com/260507/p16#a260507p16",
-            "published": "Thu, 07 May 2026 07:40:51 -0400"
+            "title": "Google rebrands Fitbit Premium as Google Health Premium, adding Gemini-powered coaching and other features, and raises its annual price from $79.99 to $99.99 (Adamya Sharma/Android Authority)",
+            "link": "https://www.techmeme.com/260507/p23#a260507p23",
+            "published": "Thu, 07 May 2026 10:20:01 -0400"
         },
         {
-            "title": "Anthropic's SpaceX deal helps it address a severe compute deficit and comes amid Elon Musk's OpenAI lawsuit; Grok never grew to utilize xAI's Colossus 1 (Axios)",
-            "link": "https://www.techmeme.com/260507/p15#a260507p15",
-            "published": "Thu, 07 May 2026 07:25:53 -0400"
+            "title": "Google launches the $100 Fitbit Air, a Whoop-like screenless wearable, with Gemini-powered features like Google Health Coach, available May 26 (Cherlynn Low/Engadget)",
+            "link": "https://www.techmeme.com/260507/p22#a260507p22",
+            "published": "Thu, 07 May 2026 10:15:01 -0400"
         },
         {
-            "title": "How lidar and other tech developed for autonomous vehicles is now used in smart city systems, in-home elder care services, and major shipyards like Rotterdam (John R. Quain/New York Times)",
-            "link": "https://www.techmeme.com/260507/p14#a260507p14",
-            "published": "Thu, 07 May 2026 07:10:48 -0400"
+            "title": "Cologne-based AI translation startup DeepL plans to cut ~25% of its workforce, or ~250 staff, saying adapting to AI \"means fewer layers\" and \"faster decisions\" (Amy Thomson/Bloomberg)",
+            "link": "https://www.techmeme.com/260507/p21#a260507p21",
+            "published": "Thu, 07 May 2026 09:20:03 -0400"
         },
         {
-            "title": "Samsung says it is ceasing sales of TVs and appliances in China amid fierce competition from local brands; Samsung's TV and appliance unit lost ~$138M in 2025 (Kwanwoo Jun/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260507/p13#a260507p13",
-            "published": "Thu, 07 May 2026 07:00:33 -0400"
+            "title": "Khosla-backed robotics startup Genesis AI unveils GENE-26.5, its first model, which can control robotic hands that it designed in-house to do tasks like cooking (Anna Heim/TechCrunch)",
+            "link": "https://www.techmeme.com/260507/p20#a260507p20",
+            "published": "Thu, 07 May 2026 09:10:55 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Elon Musk\u2019s Lawyers Ask OpenAI\u2019s President Why He Is Worth $30 Billion",
-            "link": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
-            "published": "Mon, 04 May 2026 22:24:31 +0000"
-        },
-        {
-            "title": "White House Considers Vetting A.I. Models Before They Are Released",
-            "link": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
-            "published": "Mon, 04 May 2026 22:37:30 +0000"
-        },
-        {
-            "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
-            "link": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
-            "published": "Tue, 05 May 2026 01:22:06 +0000"
-        },
-        {
-            "title": "Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm",
-            "link": "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
-            "published": "Tue, 05 May 2026 02:03:14 +0000"
-        },
-        {
             "title": "Five Ways A.I. Search Beats an Old-School Google Search",
             "link": "https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html",
             "published": "Thu, 07 May 2026 09:03:06 +0000"
+        },
+        {
+            "title": "Elon Musk\u2019s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
+            "link": "https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html",
+            "published": "Wed, 06 May 2026 23:50:25 +0000"
+        },
+        {
+            "title": "Anthropic\u2019s C.E.O. Says It Could Grow by 80 Times This Year",
+            "link": "https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html",
+            "published": "Thu, 07 May 2026 01:09:53 +0000"
+        },
+        {
+            "title": "American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.",
+            "link": "https://www.nytimes.com/2026/05/06/business/ai-bristol-myers-squibb-drugs.html",
+            "published": "Wed, 06 May 2026 16:14:32 +0000"
+        },
+        {
+            "title": "Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.",
+            "link": "https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html",
+            "published": "Thu, 07 May 2026 09:24:59 +0000"
         }
     ],
     "source_2": [
