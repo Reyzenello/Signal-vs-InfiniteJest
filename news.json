@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "The Pentagon's mishandled blacklisting of Alibaba and Baidu in February shows how the Trump administration is often at odds with itself on how to approach China (Kate O'Keeffe/Bloomberg)",
+            "link": "https://www.techmeme.com/260507/p6#a260507p6",
+            "published": "Thu, 07 May 2026 05:25:47 -0400"
+        },
+        {
+            "title": "Amazon plans to merge MX Player into Prime Video in India, combining free and paid streaming catalogs on a single platform over the next few months (Naman Ramachandran/Variety)",
+            "link": "https://www.techmeme.com/260507/p4#a260507p4",
+            "published": "Thu, 07 May 2026 05:10:26 -0400"
+        },
+        {
+            "title": "Source: Samsung offered to allocate ~13% of operating profit to chip division staff; unions threaten an 18-day walkout, seeking a 15% share and a 7% wage hike (Daniel Tudor/Financial Times)",
+            "link": "https://www.techmeme.com/260507/p5#a260507p5",
+            "published": "Thu, 07 May 2026 05:10:26 -0400"
+        },
+        {
             "title": "Analysis: South Korea's equity market overtakes Canada's as the world's seventh largest, driven by Samsung and SK Hynix, whose stocks have more than doubled YTD (Sangmi Cha/Bloomberg)",
             "link": "https://www.techmeme.com/260507/p3#a260507p3",
             "published": "Thu, 07 May 2026 01:00:54 -0400"
         },
         {
-            "title": "Arm expects the AGI CPU, its own AI chip for data centers, to drive $2B in sales in FY2027 and FY2028, doubling its March 2026 sales guidance for the period (Simon Sharwood/The Register)",
+            "title": "Datacenter to become Arm's biggest business 'soon' (Simon Sharwood/The Register)",
             "link": "https://www.techmeme.com/260507/p2#a260507p2",
             "published": "Thu, 07 May 2026 00:50:04 -0400"
-        },
-        {
-            "title": "Moonshot, the Chinese AI startup behind Kimi chatbot, raised ~$2B at a $20B+ valuation led by Meituan's venture arm; Moonshot's ARR topped $200M in April 2026 (Zheping Huang/Bloomberg)",
-            "link": "https://www.techmeme.com/260507/p1#a260507p1",
-            "published": "Thu, 07 May 2026 00:40:01 -0400"
-        },
-        {
-            "title": "Bristol Myers Squibb's Massachusetts facility boosted drug production volume for clinical and commercial use by ~40% with AI, a bright spot in US manufacturing (Farah Stockman/New York Times)",
-            "link": "https://www.techmeme.com/260506/p56#a260506p56",
-            "published": "Wed, 06 May 2026 23:50:01 -0400"
-        },
-        {
-            "title": "Bengaluru-based Pronto, an on-demand home-help service, raised a $20M Series B extension from Lachy Groom at a $200M valuation, up from $100M in March (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/260506/p55#a260506p55",
-            "published": "Wed, 06 May 2026 23:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 05 May 2026 02:03:14 +0000"
         },
         {
-            "title": "Anthropic\u2019s C.E.O. Says It Could Grow by 80 Times This Year",
-            "link": "https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html",
-            "published": "Thu, 07 May 2026 01:09:53 +0000"
+            "title": "Five Ways A.I. Search Beats an Old-School Google Search",
+            "link": "https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html",
+            "published": "Thu, 07 May 2026 09:03:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
+            "link": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 06 May 2026 23:52:48 GMT"
+        },
         {
             "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
             "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
             "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 May 2026 00:15:14 GMT"
-        },
-        {
-            "title": "US to safety test new AI models from Google, Microsoft, xAI",
-            "link": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 05 May 2026 20:16:24 GMT"
         }
     ]
 }
