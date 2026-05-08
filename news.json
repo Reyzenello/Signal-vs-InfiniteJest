@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
+            "title": "Investor letter: TCI, one of the world's biggest hedge funds, cut almost all of its $8B stake in Microsoft, citing AI-related risks to Office and Azure (Costas Mourselas/Financial Times)",
+            "link": "https://www.techmeme.com/260508/p22#a260508p22",
+            "published": "Fri, 08 May 2026 10:40:01 -0400"
+        },
+        {
+            "title": "Whoop plans to offer on-demand video consultations with licensed clinicians for US users, and adds electronic health records and AI-powered health guidance (Brandon Gomez/CNBC)",
+            "link": "https://www.techmeme.com/260508/p21#a260508p21",
+            "published": "Fri, 08 May 2026 10:25:01 -0400"
+        },
+        {
+            "title": "Sony reports a $765M impairment loss due to Marathon developer Bungie's underperformance during its FY ending March 31, 2026; Sony acquired Bungie in early 2022 (Wesley Yin-Poole/IGN)",
+            "link": "https://www.techmeme.com/260508/p20#a260508p20",
+            "published": "Fri, 08 May 2026 09:15:00 -0400"
+        },
+        {
+            "title": "Sources: DeepSeek seeks to raise ~$7.3B in its first-ever funding round at a $50B+ valuation, with CEO Liang Wenfeng making a personal investment of ~$2.9B (The Information)",
+            "link": "https://www.techmeme.com/260508/p19#a260508p19",
+            "published": "Fri, 08 May 2026 08:35:01 -0400"
+        },
+        {
             "title": "European Central Bank President Christine Lagarde expressed skepticism over the need for euro-pegged stablecoins, saying they could hamper the ECB's work (Reuters)",
             "link": "https://www.techmeme.com/260508/p18#a260508p18",
             "published": "Fri, 08 May 2026 08:05:02 -0400"
-        },
-        {
-            "title": "Substack says paid subscriptions to creators in the UK, its second-largest market, hit 500K+; global paid subs hit 5M+, with 50+ creators earning $1M+ annually (Lily Ford/The Hollywood Reporter)",
-            "link": "https://www.techmeme.com/260508/p17#a260508p17",
-            "published": "Fri, 08 May 2026 08:01:11 -0400"
-        },
-        {
-            "title": "Filing: Lime files for an IPO, reporting 2025 revenue of $886.7M, up from $686.6M YoY, and a net loss of $59.3M, up from $33.9M; it was valued at $510M in 2020 (Jordan Fitzgerald/Bloomberg)",
-            "link": "https://www.techmeme.com/260508/p16#a260508p16",
-            "published": "Fri, 08 May 2026 07:45:00 -0400"
-        },
-        {
-            "title": "Nintendo reports Q4 revenue of ~$2.60B, below ~$2.75B est., net profit of ~$416M, above ~$403.68M est., and forecasts a decline in FY 2027 Switch 2 unit sales (Arjun Kharpal/CNBC)",
-            "link": "https://www.techmeme.com/260508/p15#a260508p15",
-            "published": "Fri, 08 May 2026 07:15:14 -0400"
-        },
-        {
-            "title": "Datadog closed up 31%+ after reporting Q1 revenue up 32% YoY to $1B and raising its FY revenue forecast, an outlier in the software industry amid the AI boom (Mike Wheatley/SiliconANGLE)",
-            "link": "https://www.techmeme.com/260508/p14#a260508p14",
-            "published": "Fri, 08 May 2026 06:45:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta\u2019s Embrace of A.I. Is Making Its Employees Miserable",
+            "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+            "published": "Fri, 08 May 2026 14:18:51 +0000"
+        },
         {
             "title": "Five Ways A.I. Search Beats an Old-School Google Search",
             "link": "https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html",
@@ -35,17 +40,12 @@
         {
             "title": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
             "link": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
-            "published": "Thu, 07 May 2026 18:02:00 +0000"
+            "published": "Fri, 08 May 2026 13:05:05 +0000"
         },
         {
             "title": "Elon Musk\u2019s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
             "link": "https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html",
             "published": "Wed, 06 May 2026 23:50:25 +0000"
-        },
-        {
-            "title": "Anthropic\u2019s C.E.O. Says It Could Grow by 80 Times This Year",
-            "link": "https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html",
-            "published": "Thu, 07 May 2026 01:09:53 +0000"
         },
         {
             "title": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
