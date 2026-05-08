@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "French prosecutors escalate an investigation into Elon Musk and X, focused on alleged algorithmic manipulation and sexual deepfakes, to a criminal probe (Lora Kolodny/CNBC)",
-            "link": "https://www.techmeme.com/260507/p48#a260507p48",
-            "published": "Thu, 07 May 2026 19:40:01 -0400"
+            "title": "Sources: White House unease over Mythos has left some administration officials fearful that the change represents a reversal of its hands-off AI policy (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260507/p54#a260507p54",
+            "published": "Thu, 07 May 2026 22:50:01 -0400"
         },
         {
-            "title": "Block reports Q1 revenue up 5% YoY to $6.1B, vs. $5.9B est., and raises its 2026 gross profit forecast above estimates; XYZ jumps 7%+ after hours (Isabelle Lee/Bloomberg)",
-            "link": "https://www.techmeme.com/260507/p47#a260507p47",
-            "published": "Thu, 07 May 2026 19:10:04 -0400"
+            "title": "OpenAI is rolling out GPT-5.5-Cyber, a security-focused variant of the model, in a limited preview capacity to vetted cybersecurity teams (Sam Sabin/Axios)",
+            "link": "https://www.techmeme.com/260507/p53#a260507p53",
+            "published": "Thu, 07 May 2026 21:40:01 -0400"
         },
         {
-            "title": "Lyft reports Q1 revenue up 14% YoY to $1.65B, vs. $1.63B est., gross bookings up 19% to $4.95B, vs. $4.91B est., and rides up 8.5% to 236.9M, vs. 241.2M est. (Kelly Cloonan/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260507/p46#a260507p46",
-            "published": "Thu, 07 May 2026 18:55:00 -0400"
+            "title": "A US judge blocks DOGE's termination of $100M in National Endowment for the Humanities grants, saying ChatGPT prompts used to decide the cuts were ill-defined (Zoe Tillman/Bloomberg)",
+            "link": "https://www.techmeme.com/260507/p52#a260507p52",
+            "published": "Thu, 07 May 2026 21:35:02 -0400"
         },
         {
-            "title": "CoreWeave reports Q1 revenue up 112% YoY to $2.08B, vs. $1.97B est., a $99.4B revenue backlog, forecasts Q2 revenue below estimates; CRWV drops 8%+ after hours (Jordan Novet/CNBC)",
-            "link": "https://www.techmeme.com/260507/p45#a260507p45",
-            "published": "Thu, 07 May 2026 18:25:01 -0400"
+            "title": "Mozilla says Anthropic's Mythos Preview and other AI models helped it identify and ship 423 Firefox security bug fixes in April, compared to 31 a year earlier (Russell Brandom/TechCrunch)",
+            "link": "https://www.techmeme.com/260507/p51#a260507p51",
+            "published": "Thu, 07 May 2026 20:50:05 -0400"
         },
         {
-            "title": "Nvidia and data center operator IREN announce a deal to deploy up to 5 GW of AI infrastructure; Nvidia can invest $2.1B into IREN; IREN jumps 9%+ after hours (Jonathan Vanian/CNBC)",
-            "link": "https://www.techmeme.com/260507/p44#a260507p44",
-            "published": "Thu, 07 May 2026 17:50:00 -0400"
+            "title": "Sources: AI model builder Core Automation, founded in March by Jerry Tworek, aims to raise $300M-$500M at a $4B valuation after raising $100M at a $1B valuation (The Information)",
+            "link": "https://www.techmeme.com/260507/p50#a260507p50",
+            "published": "Thu, 07 May 2026 20:30:02 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
             "link": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
-            "published": "Thu, 07 May 2026 18:01:59 +0000"
+            "published": "Thu, 07 May 2026 18:02:00 +0000"
         },
         {
             "title": "Elon Musk\u2019s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
+            "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 08 May 2026 01:31:55 GMT"
+        },
+        {
             "title": "How sunburn inspired a new way to store energy",
             "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 07 May 2026 23:03:04 GMT"
@@ -73,11 +78,6 @@
             "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
             "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 06 May 2026 20:05:02 GMT"
-        },
-        {
-            "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
-            "link": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 06 May 2026 11:59:44 GMT"
         }
     ]
 }
