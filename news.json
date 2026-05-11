@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "GitLab announces layoffs, saying they are \"not an AI optimization or cost cutting exercise\", and plans to cut the number of countries it operates in (Sarah Frier/Bloomberg)",
+            "link": "https://www.techmeme.com/260511/p36#a260511p36",
+            "published": "Mon, 11 May 2026 18:15:00 -0400"
+        },
+        {
             "title": "Musk v. Altman: Satya Nadella says Elon Musk never contacted him with concerns that Microsoft's investments in OpenAI violated any special terms or commitments (CNBC)",
             "link": "https://www.techmeme.com/260511/p35#a260511p35",
             "published": "Mon, 11 May 2026 16:10:04 -0400"
@@ -19,14 +24,14 @@
             "title": "Sources: the White House's Office of the National Cyber Director and Commerce Department's CAISI are fighting over which agency should lead AI model evaluations (Washington Post)",
             "link": "https://www.techmeme.com/260511/p32#a260511p32",
             "published": "Mon, 11 May 2026 15:05:03 -0400"
-        },
-        {
-            "title": "An Anthropic engineer argues HTML is a better output format for AI agents than Markdown, citing information density, ease of sharing, and two-way interaction (@trq212)",
-            "link": "https://www.techmeme.com/260511/p31#a260511p31",
-            "published": "Mon, 11 May 2026 14:45:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Microsoft\u2019s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk\u2019s Lawyer Claims",
+            "link": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
+            "published": "Mon, 11 May 2026 21:50:48 +0000"
+        },
         {
             "title": "Inside the Elon Musk-OpenAI Trial Courtroom",
             "link": "https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html",
@@ -36,11 +41,6 @@
             "title": "Meta\u2019s Embrace of A.I. Is Making Its Employees Miserable",
             "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
             "published": "Fri, 08 May 2026 14:18:51 +0000"
-        },
-        {
-            "title": "Five Ways A.I. Search Beats an Old-School Google Search",
-            "link": "https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html",
-            "published": "Thu, 07 May 2026 09:03:06 +0000"
         },
         {
             "title": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
