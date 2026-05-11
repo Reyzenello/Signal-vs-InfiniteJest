@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Kuaishou plans to spin off its Kling AI video unit for an IPO in 2027 and is seeking a $20B valuation in pre-IPO funding talks with potential investors (The Information)",
-            "link": "https://www.techmeme.com/260511/p16#a260511p16",
-            "published": "Mon, 11 May 2026 08:06:03 -0400"
+            "title": "Agentic inference is set to be different than today's inference, and will change compute infrastructure because speed won't matter when humans aren't involved (Ben Thompson/Stratechery)",
+            "link": "https://www.techmeme.com/260511/p26#a260511p26",
+            "published": "Mon, 11 May 2026 11:25:07 -0400"
         },
         {
-            "title": "The European Commission says it is in ongoing discussions with OpenAI and Anthropic to access their latest AI models; OpenAI is \"proactively offering\" access (Inti Landauro/Reuters)",
-            "link": "https://www.techmeme.com/260511/p15#a260511p15",
-            "published": "Mon, 11 May 2026 07:10:00 -0400"
+            "title": "Israeli startup Frame Security, which protects organizations from AI-powered social engineering attacks, emerges from stealth with $50M led by Index and others (CTech)",
+            "link": "https://www.techmeme.com/260511/p25#a260511p25",
+            "published": "Mon, 11 May 2026 11:00:35 -0400"
         },
         {
-            "title": "Microsoft's Playground Games accidentally uploads unencrypted pre-load files for Forza Horizon 6 to Steam, leaking the PC version before its release next week (Jez Corden/Windows Central)",
-            "link": "https://www.techmeme.com/260511/p14#a260511p14",
-            "published": "Mon, 11 May 2026 06:50:49 -0400"
+            "title": "Venmo implements a major privacy measure, setting new users' posts to \"friends only\" by default during onboarding; in 2021, a reporter found Joe Biden's Venmo (Jay Peters/The Verge)",
+            "link": "https://www.techmeme.com/260511/p24#a260511p24",
+            "published": "Mon, 11 May 2026 10:45:03 -0400"
         },
         {
-            "title": "Circle raised $222M via the presale of its native Arc token at a $3B valuation; a16z led with a $75M investment, with participation from BlackRock and others (Tanaya Macheel/CNBC)",
-            "link": "https://www.techmeme.com/260511/p13#a260511p13",
-            "published": "Mon, 11 May 2026 06:40:17 -0400"
+            "title": "Cowboy Space, led by Robinhood co-founder Baiju Bhatt to build data centers in orbit, raised a $275M Series B led by Index Ventures at a $2B valuation (Bruce Einhorn/Bloomberg)",
+            "link": "https://www.techmeme.com/260511/p23#a260511p23",
+            "published": "Mon, 11 May 2026 10:00:33 -0400"
         },
         {
-            "title": "Filing: Wise plans to debut on the Nasdaq as WSE, and relist in London for its secondary listing; Wise reports year-to-March net revenue up 19% YoY to $2.5B (Aisha S Gani/Bloomberg)",
-            "link": "https://www.techmeme.com/260511/p12#a260511p12",
-            "published": "Mon, 11 May 2026 06:35:51 -0400"
+            "title": "OpenAI launches the OpenAI Deployment Company with a $4B+ investment to help organizations build and deploy AI systems, and acquires AI consulting firm Tomoro (Reuters)",
+            "link": "https://www.techmeme.com/260511/p22#a260511p22",
+            "published": "Mon, 11 May 2026 09:25:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 06 May 2026 23:50:25 +0000"
         },
         {
-            "title": "Can the U.S. Rein In Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
-            "link": "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
-            "published": "Mon, 11 May 2026 08:53:07 +0000"
+            "title": "Inside the Elon Musk-OpenAI Trial Courtroom",
+            "link": "https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html",
+            "published": "Mon, 11 May 2026 14:59:34 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "TikTok launches \u00a33.99 subscription for no ads in UK",
+            "link": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 11 May 2026 16:05:39 GMT"
+        },
         {
             "title": "How sunburn inspired a new way to store energy",
             "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
             "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 08 May 2026 01:31:55 GMT"
-        },
-        {
-            "title": "Meta brings High Court challenge over Ofcom fees",
-            "link": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 07 May 2026 16:30:55 GMT"
         }
     ]
 }
