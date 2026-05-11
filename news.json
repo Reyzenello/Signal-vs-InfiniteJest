@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Agentic inference is set to be different than today's inference, and will change compute infrastructure because speed won't matter when humans aren't involved (Ben Thompson/Stratechery)",
-            "link": "https://www.techmeme.com/260511/p26#a260511p26",
-            "published": "Mon, 11 May 2026 11:25:07 -0400"
+            "title": "An Anthropic engineer argues HTML is a better output format for AI agents than Markdown, citing information density, ease of sharing, and two-way interaction (@trq212)",
+            "link": "https://www.techmeme.com/260511/p31#a260511p31",
+            "published": "Mon, 11 May 2026 14:45:01 -0400"
         },
         {
-            "title": "Israeli startup Frame Security, which protects organizations from AI-powered social engineering attacks, emerges from stealth with $50M led by Index and others (CTech)",
-            "link": "https://www.techmeme.com/260511/p25#a260511p25",
-            "published": "Mon, 11 May 2026 11:00:35 -0400"
+            "title": "Apple releases iOS 26.5, introducing end-to-end encryption for RCS messaging in beta with supported carriers; the setting is enabled by default (Chance Miller/9to5Mac)",
+            "link": "https://www.techmeme.com/260511/p30#a260511p30",
+            "published": "Mon, 11 May 2026 13:25:01 -0400"
         },
         {
-            "title": "Venmo implements a major privacy measure, setting new users' posts to \"friends only\" by default during onboarding; in 2021, a reporter found Joe Biden's Venmo (Jay Peters/The Verge)",
-            "link": "https://www.techmeme.com/260511/p24#a260511p24",
-            "published": "Mon, 11 May 2026 10:45:03 -0400"
+            "title": "Texas AG Ken Paxton sues Netflix for allegedly spying on consumers by collecting their data without consent, and designing its platform to be addictive (Jonathan Stempel/Reuters)",
+            "link": "https://www.techmeme.com/260511/p29#a260511p29",
+            "published": "Mon, 11 May 2026 12:45:02 -0400"
         },
         {
-            "title": "Cowboy Space, led by Robinhood co-founder Baiju Bhatt to build data centers in orbit, raised a $275M Series B led by Index Ventures at a $2B valuation (Bruce Einhorn/Bloomberg)",
-            "link": "https://www.techmeme.com/260511/p23#a260511p23",
-            "published": "Mon, 11 May 2026 10:00:33 -0400"
+            "title": "Sources: German defense tech startup Helsing is set to raise $1.2B led by Dragoneer and Lightspeed at a valuation of about $18B, up from $14B in June 2025 (Financial Times)",
+            "link": "https://www.techmeme.com/260511/p28#a260511p28",
+            "published": "Mon, 11 May 2026 12:40:01 -0400"
         },
         {
-            "title": "OpenAI launches the OpenAI Deployment Company with a $4B+ investment to help organizations build and deploy AI systems, and acquires AI consulting firm Tomoro (Reuters)",
-            "link": "https://www.techmeme.com/260511/p22#a260511p22",
-            "published": "Mon, 11 May 2026 09:25:02 -0400"
+            "title": "curl founder Daniel Stenberg says Mythos identified five vulnerabilities in curl, but a manual review found three were false positives and one was \"just a bug\" (Daniel Stenberg/daniel.haxx.se)",
+            "link": "https://www.techmeme.com/260511/p27#a260511p27",
+            "published": "Mon, 11 May 2026 12:10:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside the Elon Musk-OpenAI Trial Courtroom",
+            "link": "https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html",
+            "published": "Mon, 11 May 2026 18:22:08 +0000"
+        },
         {
             "title": "Meta\u2019s Embrace of A.I. Is Making Its Employees Miserable",
             "link": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
@@ -38,19 +43,14 @@
             "published": "Thu, 07 May 2026 09:03:06 +0000"
         },
         {
-            "title": "Elon Musk\u2019s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
-            "link": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
-            "published": "Fri, 08 May 2026 13:05:05 +0000"
+            "title": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
+            "link": "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
+            "published": "Mon, 11 May 2026 16:17:26 +0000"
         },
         {
-            "title": "Elon Musk\u2019s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
-            "link": "https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html",
-            "published": "Wed, 06 May 2026 23:50:25 +0000"
-        },
-        {
-            "title": "Inside the Elon Musk-OpenAI Trial Courtroom",
-            "link": "https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html",
-            "published": "Mon, 11 May 2026 14:59:34 +0000"
+            "title": "Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw",
+            "link": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+            "published": "Mon, 11 May 2026 13:00:07 +0000"
         }
     ],
     "source_2": [
