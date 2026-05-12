@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "GitLab announces layoffs, saying they are \"not an AI optimization or cost cutting exercise\", and plans to cut the number of countries it operates in (Sarah Frier/Bloomberg)",
-            "link": "https://www.techmeme.com/260511/p36#a260511p36",
-            "published": "Mon, 11 May 2026 18:15:00 -0400"
+            "title": "Several npm packages for the TanStack web development tools were compromised in the Mini Shai-Hulud supply chain attack; Mistral packages were also affected (Socket)",
+            "link": "https://www.techmeme.com/260511/p42#a260511p42",
+            "published": "Mon, 11 May 2026 19:55:02 -0400"
         },
         {
-            "title": "Musk v. Altman: Satya Nadella says Elon Musk never contacted him with concerns that Microsoft's investments in OpenAI violated any special terms or commitments (CNBC)",
-            "link": "https://www.techmeme.com/260511/p35#a260511p35",
-            "published": "Mon, 11 May 2026 16:10:04 -0400"
+            "title": "GM plans to lay off IT workers in an effort to trim costs and bring in staff with skills in other tech areas; sources: the cuts will affect 500 to 600 employees (David Welch/Bloomberg)",
+            "link": "https://www.techmeme.com/260511/p41#a260511p41",
+            "published": "Mon, 11 May 2026 19:40:05 -0400"
         },
         {
-            "title": "Musk v. Altman: Ilya Sutskever testifies that his OpenAI stake is worth ~$7B and he had concerns about Altman for a year before Altman's brief ouster as CEO (Rachel Metz/Bloomberg)",
-            "link": "https://www.techmeme.com/260511/p34#a260511p34",
-            "published": "Mon, 11 May 2026 15:40:01 -0400"
+            "title": "OpenAI launches Daybreak, a cybersecurity initiative integrating AI models and Codex Security to help organizations patch vulnerabilities (Alexey Shabanov/TestingCatalog AI News)",
+            "link": "https://www.techmeme.com/260511/p40#a260511p40",
+            "published": "Mon, 11 May 2026 19:00:00 -0400"
         },
         {
-            "title": "Google's TIG says it likely thwarted the use of an AI-generated zero-day in a \"mass exploitation event\" and tools like OpenClaw are being used to find exploits (Samantha Subin/CNBC)",
-            "link": "https://www.techmeme.com/260511/p33#a260511p33",
-            "published": "Mon, 11 May 2026 15:15:04 -0400"
+            "title": "Thinking Machines Lab details interaction models, which can think and respond in real time, letting users and AI interact continuously for better collaboration (Thinking Machines Lab)",
+            "link": "https://www.techmeme.com/260511/p39#a260511p39",
+            "published": "Mon, 11 May 2026 18:50:01 -0400"
         },
         {
-            "title": "Sources: the White House's Office of the National Cyber Director and Commerce Department's CAISI are fighting over which agency should lead AI model evaluations (Washington Post)",
-            "link": "https://www.techmeme.com/260511/p32#a260511p32",
-            "published": "Mon, 11 May 2026 15:05:03 -0400"
+            "title": "Source: Robinhood has filed confidentially for its second publicly traded venture fund, Robinhood Venture Fund II, focusing on early-stage startups (Lucinda Shen/Axios)",
+            "link": "https://www.techmeme.com/260511/p38#a260511p38",
+            "published": "Mon, 11 May 2026 18:35:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Microsoft\u2019s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk\u2019s Lawyer Claims",
             "link": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
-            "published": "Mon, 11 May 2026 21:50:48 +0000"
+            "published": "Mon, 11 May 2026 22:15:00 +0000"
         },
         {
             "title": "Inside the Elon Musk-OpenAI Trial Courtroom",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Not so dusty: How tech is changing woodworking",
+            "link": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 11 May 2026 23:23:48 GMT"
+        },
+        {
             "title": "TikTok launches \u00a33.99 subscription for no ads in UK",
             "link": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 11 May 2026 16:05:39 GMT"
@@ -73,11 +78,6 @@
             "title": "TikTok scales back AI-generated video descriptions after absurd errors",
             "link": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 08 May 2026 09:20:40 GMT"
-        },
-        {
-            "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
-            "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 08 May 2026 01:31:55 GMT"
         }
     ]
 }
