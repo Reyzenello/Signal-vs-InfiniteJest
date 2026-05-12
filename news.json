@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A Hollywood writer recounts working as an \"AI trainer\" for companies like Mercor, as AI gig work becomes the \"new waiting tables\" for entertainment workers (Ruth Fowler/Wired)",
-            "link": "https://www.techmeme.com/260512/p4#a260512p4",
-            "published": "Tue, 12 May 2026 03:45:01 -0400"
+            "title": "Sources: Anthropic officials refused a Chinese think tank's request to change its stance and allow Beijing to access Mythos at a meeting in Singapore last month (New York Times)",
+            "link": "https://www.techmeme.com/260512/p11#a260512p11",
+            "published": "Tue, 12 May 2026 06:35:00 -0400"
         },
         {
-            "title": "Instructure reached a deal with hackers who breached its Canvas platform to return stolen data and destroy copies, without disclosing what it gave in exchange (Qasim Nauman/New York Times)",
-            "link": "https://www.techmeme.com/260512/p3#a260512p3",
-            "published": "Tue, 12 May 2026 02:00:34 -0400"
+            "title": "eBay rejects GameStop's $56B takeover offer, saying the unsolicited bid is \"neither credible nor attractive\", in a letter from eBay Chairman Paul Pressler (Bloomberg)",
+            "link": "https://www.techmeme.com/260512/p10#a260512p10",
+            "published": "Tue, 12 May 2026 06:25:04 -0400"
         },
         {
-            "title": "Sources: some Amazon employees are using in-house OpenClaw-like tool MeshClaw for unnecessary tasks to inflate AI token use after Amazon set weekly AI targets (Financial Times)",
-            "link": "https://www.techmeme.com/260512/p2#a260512p2",
-            "published": "Tue, 12 May 2026 00:55:01 -0400"
+            "title": "Amp, which aims to buy excess computing capacity from data center operators to sell to startups, universities, and more, raised $1.3B from a16z and others (Cade Metz/New York Times)",
+            "link": "https://www.techmeme.com/260512/p9#a260512p9",
+            "published": "Tue, 12 May 2026 06:20:01 -0400"
         },
         {
-            "title": "The US House Oversight Committee launches a probe into potential conflicts in Sam Altman's personal investments; letter: several GOP AGs call for an SEC review (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260512/p1#a260512p1",
-            "published": "Tue, 12 May 2026 00:45:03 -0400"
+            "title": "Sources: Jensen Huang was not invited to travel with President Trump on his China trip, a potential setback to Nvidia; Huang expressed his willingness to join (Bloomberg)",
+            "link": "https://www.techmeme.com/260512/p8#a260512p8",
+            "published": "Tue, 12 May 2026 06:10:01 -0400"
         },
         {
-            "title": "AppMagic: Grok downloads fell to ~8.3M in April, from a high of 20M+ in January; Recon Analytics says Grok paid adoption in the US remains nearly flat YoY in Q2 (Georgia Wells/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260511/p46#a260511p46",
-            "published": "Mon, 11 May 2026 23:10:03 -0400"
+            "title": "Sources: the Trump administration is quietly debating whether to ban Chinese-made cellular modules, as the US FCC pushes measures to reduce Beijing's threats (Demetri Sevastopulo/Financial Times)",
+            "link": "https://www.techmeme.com/260512/p7#a260512p7",
+            "published": "Tue, 12 May 2026 05:50:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Mon, 11 May 2026 16:17:26 +0000"
         },
         {
-            "title": "Instructure Strikes Deal for Hackers for Return of Canvas Data",
-            "link": "https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html",
-            "published": "Tue, 12 May 2026 05:23:36 +0000"
+            "title": "EBay Rejects GameStop\u2019s $55 Billion Takeover Bid",
+            "link": "https://www.nytimes.com/2026/05/12/business/ebay-gamestops-takeover.html",
+            "published": "Tue, 12 May 2026 10:32:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Canvas hack: company pays criminals to delete students' stolen data",
+            "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 12 May 2026 10:31:23 GMT"
+        },
+        {
+            "title": "Texas accuses Netflix of spying on users, including children",
+            "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 12 May 2026 10:01:54 GMT"
+        },
         {
             "title": "Not so dusty: How tech is changing woodworking",
             "link": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "How sunburn inspired a new way to store energy",
             "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 09 May 2026 08:28:23 GMT"
-        },
-        {
-            "title": "International cyber attack disrupts swathe of universities and schools",
-            "link": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 09 May 2026 01:17:55 GMT"
-        },
-        {
-            "title": "TikTok scales back AI-generated video descriptions after absurd errors",
-            "link": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 08 May 2026 09:20:40 GMT"
         }
     ]
 }
