@@ -1,61 +1,61 @@
 {
     "techmeme": [
         {
-            "title": "Google says it is hiring a team of \"forward deployed engineers\", a source says in the hundreds, to help customers use its business-focused AI products (Erin Woo/The Information)",
-            "link": "https://www.techmeme.com/260512/p43#a260512p43",
-            "published": "Tue, 12 May 2026 15:00:54 -0400"
+            "title": "Meta schedules its annual Connect event for September 23-24 and says the event will focus on \"the latest in VR, wearables, metaverse, and AI\" (Ben Lang/Road to VR)",
+            "link": "https://www.techmeme.com/260512/p49#a260512p49",
+            "published": "Tue, 12 May 2026 16:45:02 -0400"
         },
         {
-            "title": "Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children (Bloomberg)",
-            "link": "https://www.techmeme.com/260512/p42#a260512p42",
-            "published": "Tue, 12 May 2026 14:10:00 -0400"
+            "title": "Meta offers to give rival AI chatbots free access to WhatsApp for a month while it discusses commitments with EU antitrust regulators to address their concerns (Foo Yun Chee/Reuters)",
+            "link": "https://www.techmeme.com/260512/p48#a260512p48",
+            "published": "Tue, 12 May 2026 16:20:01 -0400"
         },
         {
-            "title": "Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void (Yazhou Sun/Bloomberg)",
-            "link": "https://www.techmeme.com/260512/p41#a260512p41",
-            "published": "Tue, 12 May 2026 14:05:07 -0400"
+            "title": "CME Group and Silicon Data announce a futures market for computing capacity, with contracts based on daily GPU benchmarks for on-demand rental rates (Tobias Burns/CNBC)",
+            "link": "https://www.techmeme.com/260512/p47#a260512p47",
+            "published": "Tue, 12 May 2026 16:10:04 -0400"
         },
         {
-            "title": "Google launches Intrusion Logging, an Android feature developed in partnership with Amnesty International and others, on Android 16 Pixel devices for now (Tim Starks/CyberScoop)",
-            "link": "https://www.techmeme.com/260512/p40#a260512p40",
-            "published": "Tue, 12 May 2026 13:55:04 -0400"
+            "title": "Sources: Apple plans to make the Camera app fully customizable in iOS 27, along with noticeable design changes across Siri, Safari, Weather, and more (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260512/p46#a260512p46",
+            "published": "Tue, 12 May 2026 16:00:14 -0400"
         },
         {
-            "title": "Google unveils a \"full bleed\" Android Auto design that fills unconventionally shaped screens like in the BMW Neue Klasse, plans to add YouTube video streaming (Andrew J. Hawkins/The Verge)",
-            "link": "https://www.techmeme.com/260512/p39#a260512p39",
-            "published": "Tue, 12 May 2026 13:50:08 -0400"
+            "title": "Musk v. Altman: Altman faced an intense cross-examination from Musk's attorney, who asked \"are you completely trustworthy?\"; Altman replied \"I believe so\" (Business Insider)",
+            "link": "https://www.techmeme.com/260512/p45#a260512p45",
+            "published": "Tue, 12 May 2026 15:50:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Musk Lawyer\u2019s Question for Sam Altman on the Stand: Are You Trustworthy?",
+            "link": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
+            "published": "Tue, 12 May 2026 20:30:04 +0000"
+        },
+        {
+            "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
+            "link": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
+            "published": "Tue, 12 May 2026 16:00:44 +0000"
+        },
+        {
+            "title": "Is Anthropic\u2019s Claude Mythos Really a Cybersecurity Risk?",
+            "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
+            "published": "Tue, 12 May 2026 16:01:26 +0000"
+        },
         {
             "title": "China Seeks A.I. Independence, Weakening Trump\u2019s Leverage",
             "link": "https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html",
             "published": "Tue, 12 May 2026 05:36:10 +0000"
         },
         {
-            "title": "China Sought Access to Anthropic\u2019s Newest A.I. The Answer Was No.",
-            "link": "https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html",
-            "published": "Tue, 12 May 2026 15:36:07 +0000"
-        },
-        {
-            "title": "Wrongful Death Lawsuits Against OpenAI Test a New Strategy",
-            "link": "https://www.nytimes.com/2026/05/12/technology/chatgpt-lawsuit-wrongful-death.html",
-            "published": "Tue, 12 May 2026 11:53:54 +0000"
-        },
-        {
-            "title": "Start-Up Raises $1.3 Billion for an A.I. \u2018Grid\u2019",
-            "link": "https://www.nytimes.com/2026/05/12/technology/amp-startup.html",
-            "published": "Tue, 12 May 2026 14:24:56 +0000"
-        },
-        {
-            "title": "This is Sam Altman\u2019s first time testifying in court.",
-            "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/this-is-sam-altmans-first-time-testifying-in-court",
-            "published": "Tue, 12 May 2026 17:08:58 +0000"
+            "title": "Sam Altman has been targeted in a backlash against A.I.",
+            "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/sam-altman-has-been-targeted-in-a-backlash-against-ai",
+            "published": "Tue, 12 May 2026 19:00:44 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Sam Altman: Elon Musk said control of OpenAI should go to his children",
+            "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
             "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 12 May 2026 18:51:56 GMT"
         },
