@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Google is in talks with SpaceX and other companies for a rocket launch deal, as Google expands its own efforts to put orbital data centers in space (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260512/p30#a260512p30",
-            "published": "Tue, 12 May 2026 12:10:01 -0400"
+            "title": "Google says it is hiring a team of \"forward deployed engineers\", a source says in the hundreds, to help customers use its business-focused AI products (Erin Woo/The Information)",
+            "link": "https://www.techmeme.com/260512/p43#a260512p43",
+            "published": "Tue, 12 May 2026 15:00:54 -0400"
         },
         {
-            "title": "Isomorphic Labs, an AI-powered drug discovery spinoff from Google DeepMind, raised $2.1B led by Thrive, after raising $600M in its first round in March 2025 (Pritam Biswas/Reuters)",
-            "link": "https://www.techmeme.com/260512/p29#a260512p29",
-            "published": "Tue, 12 May 2026 11:40:00 -0400"
+            "title": "Musk v. Altman: Altman testified that in 2017 Musk demanded complete control of a proposed OpenAI for-profit arm, musing that he would pass it to his children (Bloomberg)",
+            "link": "https://www.techmeme.com/260512/p42#a260512p42",
+            "published": "Tue, 12 May 2026 14:10:00 -0400"
         },
         {
-            "title": "The US DOD says it is deploying Mythos to find and patch software vulnerabilities across the US government, even as it works on a transition away from Anthropic (Reuters)",
-            "link": "https://www.techmeme.com/260512/p28#a260512p28",
-            "published": "Tue, 12 May 2026 11:25:00 -0400"
+            "title": "Anthropic names eight unauthorized secondary market sellers of its shares, including Hiive and Forge Global, warning that any share transactions there are void (Yazhou Sun/Bloomberg)",
+            "link": "https://www.techmeme.com/260512/p41#a260512p41",
+            "published": "Tue, 12 May 2026 14:05:07 -0400"
         },
         {
-            "title": "Exaforce, which uses AI agents to detect and thwart cyberattacks, raised a $125M Series B at a $725M valuation, bringing its total funding to $200M (Marina Temkin/TechCrunch)",
-            "link": "https://www.techmeme.com/260512/p27#a260512p27",
-            "published": "Tue, 12 May 2026 11:15:01 -0400"
+            "title": "Google launches Intrusion Logging, an Android feature developed in partnership with Amnesty International and others, on Android 16 Pixel devices for now (Tim Starks/CyberScoop)",
+            "link": "https://www.techmeme.com/260512/p40#a260512p40",
+            "published": "Tue, 12 May 2026 13:55:04 -0400"
         },
         {
-            "title": "Sources: Wispr Flow developer Wispr AI is in talks to raise a round that could more than double its valuation to $2B; source: the round is set to total ~$260M (Bloomberg)",
-            "link": "https://www.techmeme.com/260512/p26#a260512p26",
-            "published": "Tue, 12 May 2026 11:10:01 -0400"
+            "title": "Google unveils a \"full bleed\" Android Auto design that fills unconventionally shaped screens like in the BMW Neue Klasse, plans to add YouTube video streaming (Andrew J. Hawkins/The Verge)",
+            "link": "https://www.techmeme.com/260512/p39#a260512p39",
+            "published": "Tue, 12 May 2026 13:50:08 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 12 May 2026 14:24:56 +0000"
         },
         {
-            "title": "Is Anthropic\u2019s Claude Mythos Really a Cybersecurity Risk?",
-            "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
-            "published": "Tue, 12 May 2026 16:01:26 +0000"
+            "title": "This is Sam Altman\u2019s first time testifying in court.",
+            "link": "https://www.nytimes.com/live/2026/05/12/technology/openai-trial-sam-altman-elon-musk/this-is-sam-altmans-first-time-testifying-in-court",
+            "published": "Tue, 12 May 2026 17:08:58 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Sam Altman: Elon Musk said control of OpenAI should go to his children",
+            "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 12 May 2026 18:51:56 GMT"
+        },
         {
             "title": "Canvas hack: Company pays criminals to delete students' stolen data",
             "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "TikTok launches \u00a33.99 subscription for no ads in UK",
             "link": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 11 May 2026 16:05:39 GMT"
-        },
-        {
-            "title": "How sunburn inspired a new way to store energy",
-            "link": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 09 May 2026 08:28:23 GMT"
         }
     ]
 }
