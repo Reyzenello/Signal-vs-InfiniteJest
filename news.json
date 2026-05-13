@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Anthropic is in early talks to raise at least $30B at a $900B+ valuation; the round is expected to close as soon as the end of this month (Bloomberg)",
-            "link": "https://www.techmeme.com/260512/p52#a260512p52",
-            "published": "Tue, 12 May 2026 17:21:38 -0400"
+            "title": "Sources: Anthropic is in talks to raise between $30B and $50B in a funding round that would value it at up to $950B (Mike Isaac/New York Times)",
+            "link": "https://www.techmeme.com/260512/p58#a260512p58",
+            "published": "Tue, 12 May 2026 19:45:01 -0400"
         },
         {
-            "title": "Qualcomm closed down 11.46% on Tuesday as chip stocks pull back from record AI-driven rally; Intel closed down 6.82%, Sandisk dropped 6%, and Micron 3.61% (Samantha Subin/CNBC)",
-            "link": "https://www.techmeme.com/260512/p51#a260512p51",
-            "published": "Tue, 12 May 2026 17:00:51 -0400"
+            "title": "Princeton faculty votes to require proctoring in all in-person exams starting this summer, reversing an 1893 policy amid concerns about AI-fueled cheating (Douglas Belkin/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260512/p57#a260512p57",
+            "published": "Tue, 12 May 2026 19:40:02 -0400"
         },
         {
-            "title": "Samsung and its South Korean labor union fail to reach a pay deal; the union has said workers will strike for 18 days from May 21 if its demands are not met (Reuters)",
-            "link": "https://www.techmeme.com/260512/p50#a260512p50",
-            "published": "Tue, 12 May 2026 16:50:00 -0400"
+            "title": "Google DeepMind details a Gemini-powered mouse pointer that understands what it is pointing at, allowing users to perform tasks without using text-heavy prompts (Google DeepMind)",
+            "link": "https://www.techmeme.com/260512/p56#a260512p56",
+            "published": "Tue, 12 May 2026 19:30:00 -0400"
         },
         {
-            "title": "Meta schedules its annual Connect event for September 23-24 and says the event will focus on \"the latest in VR, wearables, metaverse, and AI\" (Ben Lang/Road to VR)",
-            "link": "https://www.techmeme.com/260512/p49#a260512p49",
-            "published": "Tue, 12 May 2026 16:45:02 -0400"
+            "title": "Vancouver-based quantum computing startup Photonic raised an additional $70M after a $130M raise announced in January, giving it a $2B post-money valuation (Josh Scott/BetaKit)",
+            "link": "https://www.techmeme.com/260512/p55#a260512p55",
+            "published": "Tue, 12 May 2026 19:25:01 -0400"
         },
         {
-            "title": "Meta offers to give rival AI chatbots free access to WhatsApp for a month while it discusses commitments with EU antitrust regulators to address their concerns (Foo Yun Chee/Reuters)",
-            "link": "https://www.techmeme.com/260512/p48#a260512p48",
-            "published": "Tue, 12 May 2026 16:20:01 -0400"
+            "title": "Foxconn says some of its North American factories suffered a cyberattack in recent days; ransomware group Nitrogen claims it stole 8TB of data (Lily Hay Newman/Wired)",
+            "link": "https://www.techmeme.com/260512/p54#a260512p54",
+            "published": "Tue, 12 May 2026 18:35:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Musk Lawyer\u2019s Question for Sam Altman on the Stand: Are You Trustworthy?",
             "link": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
-            "published": "Tue, 12 May 2026 21:25:20 +0000"
+            "published": "Tue, 12 May 2026 23:09:39 +0000"
+        },
+        {
+            "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
+            "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+            "published": "Tue, 12 May 2026 23:40:35 +0000"
         },
         {
             "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
@@ -41,11 +46,6 @@
             "title": "Is Anthropic\u2019s Claude Mythos Really a Cybersecurity Risk?",
             "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
             "published": "Tue, 12 May 2026 16:01:26 +0000"
-        },
-        {
-            "title": "China Seeks A.I. Independence, Weakening Trump\u2019s Leverage",
-            "link": "https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html",
-            "published": "Tue, 12 May 2026 05:36:10 +0000"
         },
         {
             "title": "Sam Altman has been targeted in a backlash against A.I.",
