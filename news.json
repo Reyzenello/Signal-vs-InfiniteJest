@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Metis TechBio, a biotech company using AI to deliver and formulate drugs, surged as much as 185% in its Hong Kong market debut after raising ~$270M in its IPO (Amber Tong/Bloomberg)",
-            "link": "https://www.techmeme.com/260513/p1#a260513p1",
-            "published": "Wed, 13 May 2026 00:45:01 -0400"
+            "title": "Anduril raised $5B led by Thrive Capital and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and may IPO in 2027 (Sheera Frenkel/New York Times)",
+            "link": "https://www.techmeme.com/260513/p11#a260513p11",
+            "published": "Wed, 13 May 2026 03:50:02 -0400"
         },
         {
-            "title": "Paymentology, which provides real-time card and payment processing technology for banks and fintechs, raised $175M co-led by Apis Partners and Aspirity Partners (Tamara Djurickovic/Tech.eu)",
-            "link": "https://www.techmeme.com/260512/p66#a260512p66",
-            "published": "Tue, 12 May 2026 23:30:01 -0400"
+            "title": "Q&A with Amazon SVP of Devices and Alexa Panos Panay on Alexa+, the company's focus on devices for the home, its Leo satellite broadband business, and more (Rafe Rosner-Uddin/Financial Times)",
+            "link": "https://www.techmeme.com/260513/p10#a260513p10",
+            "published": "Wed, 13 May 2026 02:35:01 -0400"
         },
         {
-            "title": "Sources: Sam Altman recently discussed launching an AI compute company that is majority-owned by OpenAI, similar to Stargate's original data center initiative (Alex Heath/Sources)",
-            "link": "https://www.techmeme.com/260512/p65#a260512p65",
-            "published": "Tue, 12 May 2026 22:55:01 -0400"
+            "title": "How the Strait of Hormuz blockade is disrupting global chip supply chains, affecting supplies of helium, bromine, sulfur, and thinners essential to chipmaking (Bloomberg)",
+            "link": "https://www.techmeme.com/260513/p9#a260513p9",
+            "published": "Wed, 13 May 2026 02:25:31 -0400"
         },
         {
-            "title": "Nvidia says that Jensen Huang is joining President Trump on his China trip; source: the president asked Huang to join after seeing media coverage of his absence (CNBC)",
-            "link": "https://www.techmeme.com/260512/p64#a260512p64",
-            "published": "Tue, 12 May 2026 22:25:02 -0400"
+            "title": "China's move to block Meta's Manus acquisition challenges the \"Singapore washing\" model, as major Chinese tech companies build significant Singapore presences (Owen Walker/Financial Times)",
+            "link": "https://www.techmeme.com/260513/p8#a260513p8",
+            "published": "Wed, 13 May 2026 02:15:01 -0400"
         },
         {
-            "title": "Waymo recalls ~3,800 robotaxis in the US to fix software issues that may cause them to drive onto flooded roads, after some were seen stalled on flooded streets (Lora Kolodny/CNBC)",
-            "link": "https://www.techmeme.com/260512/p63#a260512p63",
-            "published": "Tue, 12 May 2026 22:15:01 -0400"
+            "title": "How the \"Facebook House\" in Los Altos, Mark Zuckerberg's former residence, became a hub for Chinese AI talent, who are a key part of Silicon Valley's AI boom (Viola Zhou/Rest of World)",
+            "link": "https://www.techmeme.com/260513/p7#a260513p7",
+            "published": "Wed, 13 May 2026 02:05:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Tue, 12 May 2026 16:01:26 +0000"
         },
         {
-            "title": "Nvidia C.E.O. Jensen Huang Hitches Ride With Trump to China After Last-Minute Invite",
-            "link": "https://www.nytimes.com/2026/05/12/us/politics/trump-china-summit-nvidia-jensen-huang.html",
-            "published": "Wed, 13 May 2026 03:41:22 +0000"
+            "title": "Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion",
+            "link": "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
+            "published": "Wed, 13 May 2026 07:00:21 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "More than 70 million warnings sent to people seeking child abuse material",
+            "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 13 May 2026 06:04:14 GMT"
+        },
+        {
+            "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+            "link": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 13 May 2026 05:01:07 GMT"
+        },
         {
             "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
             "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Texas accuses Netflix of spying on users, including children",
             "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 12 May 2026 10:01:54 GMT"
-        },
-        {
-            "title": "Not so dusty: How tech is changing woodworking",
-            "link": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 11 May 2026 23:23:48 GMT"
-        },
-        {
-            "title": "TikTok launches \u00a33.99 subscription for no ads in UK",
-            "link": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 11 May 2026 16:05:39 GMT"
         }
     ]
 }
