@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Anduril raised $5B led by Thrive Capital and a16z at a $61B valuation, up from $30.5B in June 2025, taking its total funding to $6.82B, and may IPO in 2027 (Sheera Frenkel/New York Times)",
-            "link": "https://www.techmeme.com/260513/p11#a260513p11",
-            "published": "Wed, 13 May 2026 03:50:02 -0400"
+            "title": "Analysis: a16z is the largest known donor in the current US midterm election cycle, spending $115M+ so far on pro-crypto, pro-AI, or Republican Super PACs (New York Times)",
+            "link": "https://www.techmeme.com/260513/p20#a260513p20",
+            "published": "Wed, 13 May 2026 07:15:02 -0400"
         },
         {
-            "title": "Q&A with Amazon SVP of Devices and Alexa Panos Panay on Alexa+, the company's focus on devices for the home, its Leo satellite broadband business, and more (Rafe Rosner-Uddin/Financial Times)",
-            "link": "https://www.techmeme.com/260513/p10#a260513p10",
-            "published": "Wed, 13 May 2026 02:35:01 -0400"
+            "title": "Analysts: China's AI hardware suppliers face capacity constraints and component shortages, including optical and electronic chips, that may limit 2026 growth (Bloomberg)",
+            "link": "https://www.techmeme.com/260513/p19#a260513p19",
+            "published": "Wed, 13 May 2026 07:05:01 -0400"
         },
         {
-            "title": "How the Strait of Hormuz blockade is disrupting global chip supply chains, affecting supplies of helium, bromine, sulfur, and thinners essential to chipmaking (Bloomberg)",
-            "link": "https://www.techmeme.com/260513/p9#a260513p9",
-            "published": "Wed, 13 May 2026 02:25:31 -0400"
+            "title": "Google says Chromebooks will get support through their \"existing date commitment\", and \"many\" models are \"eligible to transition\" to the Googlebook experience (Ben Schoon/9to5Google)",
+            "link": "https://www.techmeme.com/260513/p18#a260513p18",
+            "published": "Wed, 13 May 2026 06:45:03 -0400"
         },
         {
-            "title": "China's move to block Meta's Manus acquisition challenges the \"Singapore washing\" model, as major Chinese tech companies build significant Singapore presences (Owen Walker/Financial Times)",
-            "link": "https://www.techmeme.com/260513/p8#a260513p8",
-            "published": "Wed, 13 May 2026 02:15:01 -0400"
+            "title": "How eBay CEO Jamie Iannone transformed the company, refocusing on power buyers in categories with especially high resale demand like trading cards and sneakers (Kim Bhasin/New York Times)",
+            "link": "https://www.techmeme.com/260513/p17#a260513p17",
+            "published": "Wed, 13 May 2026 06:35:00 -0400"
         },
         {
-            "title": "How the \"Facebook House\" in Los Altos, Mark Zuckerberg's former residence, became a hub for Chinese AI talent, who are a key part of Silicon Valley's AI boom (Viola Zhou/Rest of World)",
-            "link": "https://www.techmeme.com/260513/p7#a260513p7",
-            "published": "Wed, 13 May 2026 02:05:01 -0400"
+            "title": "Alibaba reports Q4 revenue up 3% YoY to ~$35.8B, below ~$36.3B est., and net income up ~100% to ~$3.7B, in part due to investments, as it seeks to monetize AI (Luz Ding/Bloomberg)",
+            "link": "https://www.techmeme.com/260513/p16#a260513p16",
+            "published": "Wed, 13 May 2026 06:26:08 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 12 May 2026 16:01:26 +0000"
         },
         {
-            "title": "Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion",
-            "link": "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
-            "published": "Wed, 13 May 2026 07:00:21 +0000"
+            "title": "Silicon Valley\u2019s A.I. Lobbying Blitz Reaches a Fever Pitch",
+            "link": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
+            "published": "Wed, 13 May 2026 09:14:36 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Thousands of Waymo robotaxis recalled over risk of entering flooded roads",
+            "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 13 May 2026 11:05:47 GMT"
+        },
         {
             "title": "More than 70 million warnings sent to people seeking child abuse material",
             "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Canvas hack: Company pays criminals to delete students' stolen data",
             "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 12 May 2026 10:31:23 GMT"
-        },
-        {
-            "title": "Texas accuses Netflix of spying on users, including children",
-            "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 12 May 2026 10:01:54 GMT"
         }
     ]
 }
