@@ -1,63 +1,73 @@
 {
     "techmeme": [
         {
-            "title": "Analysis: a16z is the largest known donor in the current US midterm election cycle, spending $115M+ so far on pro-crypto, pro-AI, or Republican Super PACs (New York Times)",
-            "link": "https://www.techmeme.com/260513/p20#a260513p20",
-            "published": "Wed, 13 May 2026 07:15:02 -0400"
+            "title": "Tencent says it plans to spend significantly more on AI infrastructure in H2 2026 as more China-designed AI chips become available \"month by month\" (The Information)",
+            "link": "https://www.techmeme.com/260513/p32#a260513p32",
+            "published": "Wed, 13 May 2026 10:30:01 -0400"
         },
         {
-            "title": "Analysts: China's AI hardware suppliers face capacity constraints and component shortages, including optical and electronic chips, that may limit 2026 growth (Bloomberg)",
-            "link": "https://www.techmeme.com/260513/p19#a260513p19",
-            "published": "Wed, 13 May 2026 07:05:01 -0400"
+            "title": "Investor docs: Anthropic's revenue run-rate is on track to hit $50B by the end of June; Ramp says more of its customers now use Anthropic than OpenAI, a first (Kate Clark/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260513/p31#a260513p31",
+            "published": "Wed, 13 May 2026 10:25:08 -0400"
         },
         {
-            "title": "Google says Chromebooks will get support through their \"existing date commitment\", and \"many\" models are \"eligible to transition\" to the Googlebook experience (Ben Schoon/9to5Google)",
-            "link": "https://www.techmeme.com/260513/p18#a260513p18",
-            "published": "Wed, 13 May 2026 06:45:03 -0400"
+            "title": "A profile of California Rep. Ro Khanna, who spent years cheering on the tech industry and now supports a 5% billionaire wealth tax and stricter AI regulations (Bloomberg)",
+            "link": "https://www.techmeme.com/260513/p30#a260513p30",
+            "published": "Wed, 13 May 2026 10:20:01 -0400"
         },
         {
-            "title": "How eBay CEO Jamie Iannone transformed the company, refocusing on power buyers in categories with especially high resale demand like trading cards and sneakers (Kim Bhasin/New York Times)",
-            "link": "https://www.techmeme.com/260513/p17#a260513p17",
-            "published": "Wed, 13 May 2026 06:35:00 -0400"
+            "title": "UK chip startup Fractile raised a $220M Series B led by Factorial Funds, Accel and Founders Fund to make specialized logic and memory chips for inference (Robbie Whelan/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260513/p29#a260513p29",
+            "published": "Wed, 13 May 2026 10:15:09 -0400"
         },
         {
-            "title": "Alibaba reports Q4 revenue up 3% YoY to ~$35.8B, below ~$36.3B est., and net income up ~100% to ~$3.7B, in part due to investments, as it seeks to monetize AI (Luz Ding/Bloomberg)",
-            "link": "https://www.techmeme.com/260513/p16#a260513p16",
-            "published": "Wed, 13 May 2026 06:26:08 -0400"
+            "title": "WhatsApp launches Incognito Chat, an AI chat mode built on Private Processing that Meta says lets users talk to AI without Meta being able to access the chats (Lily Hay Newman/Wired)",
+            "link": "https://www.techmeme.com/260513/p28#a260513p28",
+            "published": "Wed, 13 May 2026 10:10:07 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Musk Lawyer\u2019s Question for Sam Altman on the Stand: Are You Trustworthy?",
-            "link": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
-            "published": "Tue, 12 May 2026 23:09:39 +0000"
-        },
-        {
-            "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
-            "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
-            "published": "Tue, 12 May 2026 23:40:35 +0000"
-        },
-        {
-            "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
-            "link": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
-            "published": "Tue, 12 May 2026 16:00:44 +0000"
-        },
-        {
-            "title": "Is Anthropic\u2019s Claude Mythos Really a Cybersecurity Risk?",
-            "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
-            "published": "Tue, 12 May 2026 16:01:26 +0000"
+            "title": "Andreessen Horowitz Is Playing Politics Like No Other",
+            "link": "https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html",
+            "published": "Wed, 13 May 2026 09:01:05 +0000"
         },
         {
             "title": "Silicon Valley\u2019s A.I. Lobbying Blitz Reaches a Fever Pitch",
             "link": "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
             "published": "Wed, 13 May 2026 09:14:36 +0000"
+        },
+        {
+            "title": "Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion",
+            "link": "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
+            "published": "Wed, 13 May 2026 07:00:22 +0000"
+        },
+        {
+            "title": "Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.",
+            "link": "https://www.nytimes.com/2026/05/13/technology/recursive-superintelligence-funding-ai.html",
+            "published": "Wed, 13 May 2026 09:02:46 +0000"
+        },
+        {
+            "title": "Tired of Hacked Passwords? Help Is on the Way.",
+            "link": "https://www.nytimes.com/2026/05/13/technology/personaltech/passwords-managers-passkeys.html",
+            "published": "Wed, 13 May 2026 09:02:26 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Thousands of Waymo robotaxis recalled over risk of entering flooded roads",
+            "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
             "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 13 May 2026 11:05:47 GMT"
+            "published": "Wed, 13 May 2026 14:40:20 GMT"
+        },
+        {
+            "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+            "link": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 13 May 2026 14:00:58 GMT"
+        },
+        {
+            "title": "Suicide forum fined \u00a3950,000 for not blocking UK users",
+            "link": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 13 May 2026 11:52:58 GMT"
         },
         {
             "title": "More than 70 million warnings sent to people seeking child abuse material",
@@ -68,16 +78,6 @@
             "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
             "link": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 13 May 2026 05:01:07 GMT"
-        },
-        {
-            "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-            "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 12 May 2026 18:51:56 GMT"
-        },
-        {
-            "title": "Canvas hack: Company pays criminals to delete students' stolen data",
-            "link": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 12 May 2026 10:31:23 GMT"
         }
     ]
 }
