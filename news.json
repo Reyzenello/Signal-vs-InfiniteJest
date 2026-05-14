@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic unveils Claude Agent SDK credits for paid plans, which users can allocate for programmatic use of third-party agents like OpenClaw, starting June 15 (Carl Franzen/VentureBeat)",
+            "link": "https://www.techmeme.com/260513/p51#a260513p51",
+            "published": "Wed, 13 May 2026 19:35:03 -0400"
+        },
+        {
+            "title": "Source: Cerebras priced its IPO at $185 per share, above the expected range of $150 to $160, raising at least $5.55B and valuing it at $56.4B fully diluted (Jordan Novet/CNBC)",
+            "link": "https://www.techmeme.com/260513/p50#a260513p50",
+            "published": "Wed, 13 May 2026 18:50:01 -0400"
+        },
+        {
+            "title": "Netflix says its ad tier now has 250M monthly active viewers, up from 94M in 2025, and is expanding to 15 new countries, as it tests an ad personalization tool (Emma Roth/The Verge)",
+            "link": "https://www.techmeme.com/260513/p49#a260513p49",
+            "published": "Wed, 13 May 2026 18:35:01 -0400"
+        },
+        {
             "title": "Sources: Microsoft is in discussions to acquire LLM developer Inception; SpaceX also courted Inception, which is looking for a price of over $1B (Reuters)",
             "link": "https://www.techmeme.com/260513/p48#a260513p48",
             "published": "Wed, 13 May 2026 18:15:02 -0400"
         },
         {
-            "title": "Cisco reports Q3 revenue up 12% YoY to $15.84B, vs. $15.56B est., forecasts Q4 revenue above est., and is cutting almost 4,000 jobs; CSCO jumps 17%+ after hours (Jordan Novet/CNBC)",
+            "title": "Cisco reports Q3 revenue up 12% YoY to $15.84B, vs. $15.56B est., raises its FY 2026 AI orders forecast, and is cutting ~4,000 jobs; CSCO jumps 19%+ after hours (Jordan Novet/CNBC)",
             "link": "https://www.techmeme.com/260513/p47#a260513p47",
             "published": "Wed, 13 May 2026 17:30:04 -0400"
-        },
-        {
-            "title": "Mythos Preview is the first AI model to complete both of AISI's cyber ranges, which measure models' cyberattack capabilities; GPT-5.5 solved only one of them (AI Security Institute)",
-            "link": "https://www.techmeme.com/260513/p46#a260513p46",
-            "published": "Wed, 13 May 2026 17:00:56 -0400"
-        },
-        {
-            "title": "Q&A with Anthropic CFO Krishna Rao on the \"cone of uncertainty\" in AI, allocating compute, returns to frontier intelligence, platform vs. application, and more (Invest Like The Best on YouTube)",
-            "link": "https://www.techmeme.com/260513/p45#a260513p45",
-            "published": "Wed, 13 May 2026 15:05:02 -0400"
-        },
-        {
-            "title": "Musk v. Altman: Microsoft executive Michael Wetter testifies that Microsoft has spent $100B+ on OpenAI, including its investments and to build infrastructure (Bloomberg)",
-            "link": "https://www.techmeme.com/260513/p44#a260513p44",
-            "published": "Wed, 13 May 2026 14:05:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Why big tech is betting on cute mascots",
+            "link": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 13 May 2026 23:08:37 GMT"
+        },
+        {
             "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
             "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 13 May 2026 14:40:20 GMT"
@@ -73,11 +78,6 @@
             "title": "More than 70 million warnings sent to people seeking child abuse material",
             "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 13 May 2026 06:04:14 GMT"
-        },
-        {
-            "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-            "link": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 13 May 2026 05:01:07 GMT"
         }
     ]
 }
