@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Blackstone Digital Infrastructure Trust raised $1.75B in its US IPO, selling 87.5M shares at $20 each, and plans to acquire data centers worth $250M to $1.5B (Subrat Patnaik/Bloomberg)",
+            "link": "https://www.techmeme.com/260514/p10#a260514p10",
+            "published": "Thu, 14 May 2026 06:20:34 -0400"
+        },
+        {
+            "title": "Zhaopin: Chinese graduates returning home from abroad rose 12% YoY in 2025, fueling Beijing's plans to take on Silicon Valley; China is offering big incentives (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260514/p9#a260514p9",
+            "published": "Thu, 14 May 2026 06:01:24 -0400"
+        },
+        {
+            "title": "Foxconn reports Q1 revenue up 29% YoY to ~$67B and net profit up 19% YoY to ~$1.6B, meeting est., as it boosts AI server production, its largest revenue source (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260514/p8#a260514p8",
+            "published": "Thu, 14 May 2026 05:40:04 -0400"
+        },
+        {
             "title": "Filing: Jensen Huang's foundation bought $108.3M worth of AI computing time from CoreWeave and is donating it to universities and other nonprofit institutes (Max A. Cherney/Reuters)",
             "link": "https://www.techmeme.com/260514/p7#a260514p7",
             "published": "Thu, 14 May 2026 02:30:00 -0400"
         },
         {
-            "title": "Canadian legaltech company Clio says its ARR has reached $500M, citing demand for its AI services; it was valued at $5B after a $500M Series G in November 2025 (Marina Temkin/TechCrunch)",
+            "title": "Canadian legaltech company Clio says its ARR has reached $500M, citing demand for its AI tools; Clio had a $5B valuation after a $500M Series G in November 2025 (Marina Temkin/TechCrunch)",
             "link": "https://www.techmeme.com/260514/p6#a260514p6",
             "published": "Thu, 14 May 2026 02:20:01 -0400"
-        },
-        {
-            "title": "Sources: the US cleared ~10 Chinese companies, including Alibaba, Tencent, ByteDance, and JD.com, to buy Nvidia H200 chips, but no deliveries have been made (Reuters)",
-            "link": "https://www.techmeme.com/260514/p5#a260514p5",
-            "published": "Thu, 14 May 2026 02:15:17 -0400"
-        },
-        {
-            "title": "Riyadh-based Stitch, which develops software for banks and financial services companies, raised a $25M Series A led by a16z, its first investment in the Gulf (Aisha S Gani/Bloomberg)",
-            "link": "https://www.techmeme.com/260514/p4#a260514p4",
-            "published": "Thu, 14 May 2026 01:45:01 -0400"
-        },
-        {
-            "title": "Sources: climate watchdog SBTi drops proposed rules that would limit tech companies' claims that gas-fueled data centers are covered by clean energy investments (Kenza Bryan/Financial Times)",
-            "link": "https://www.techmeme.com/260514/p3#a260514p3",
-            "published": "Thu, 14 May 2026 01:05:00 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Wed, 13 May 2026 07:00:22 +0000"
         },
         {
-            "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
-            "link": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
-            "published": "Thu, 14 May 2026 00:42:03 +0000"
+            "title": "Why \u2018Smart\u2019 Products Have Started to Look Like the Dumb Choice",
+            "link": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
+            "published": "Thu, 14 May 2026 09:04:10 +0000"
         }
     ],
     "source_2": [
@@ -58,11 +58,6 @@
             "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
             "link": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 14 May 2026 05:10:45 GMT"
-        },
-        {
-            "title": "Why big tech is betting on cute mascots",
-            "link": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 13 May 2026 23:08:37 GMT"
         },
         {
             "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
@@ -78,6 +73,11 @@
             "title": "Suicide forum fined \u00a3950,000 for not blocking UK users",
             "link": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 13 May 2026 11:52:58 GMT"
+        },
+        {
+            "title": "More than 70 million warnings sent to people seeking child abuse material",
+            "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 13 May 2026 06:04:14 GMT"
         }
     ]
 }
