@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone (Zac Hall/9to5Mac)",
+            "link": "https://www.techmeme.com/260514/p35#a260514p35",
+            "published": "Thu, 14 May 2026 17:15:02 -0400"
+        },
+        {
+            "title": "Figma reports Q1 revenue up 46% YoY to $333.4M, vs. $313.2M est., and forecasts Q2 revenue above estimates, citing AI monetization; FIG jumps 8%+ after hours (Zaheer Kachwala/Reuters)",
+            "link": "https://www.techmeme.com/260514/p34#a260514p34",
+            "published": "Thu, 14 May 2026 17:00:46 -0400"
+        },
+        {
+            "title": "Sources: Joshua Kushner's Thrive Capital told its stakeholders that it has invested ~$100M in Shopify, framed as a bet on how AI could lead to gains in commerce (Natasha Mascarenhas/Bloomberg)",
+            "link": "https://www.techmeme.com/260514/p33#a260514p33",
+            "published": "Thu, 14 May 2026 16:15:02 -0400"
+        },
+        {
+            "title": "Sources: Microsoft plans to remove most of its Claude Code licenses and push its developers toward GitHub Copilot CLI, after previously pushing Claude Code (Tom Warren/The Verge)",
+            "link": "https://www.techmeme.com/260514/p32#a260514p32",
+            "published": "Thu, 14 May 2026 16:00:45 -0400"
+        },
+        {
             "title": "The Senate Banking Committee advances the Clarity Act, which would make CFTC the primary regulator for most digital assets while SEC oversees digital securities (Bloomberg)",
             "link": "https://www.techmeme.com/260514/p31#a260514p31",
             "published": "Thu, 14 May 2026 15:40:01 -0400"
-        },
-        {
-            "title": "Sources: 50+ researchers and engineers have left xAI since the SpaceX acquisition via layoffs, firings, and voluntary departures; many have joined Meta and TML (Theo Wayt/The Information)",
-            "link": "https://www.techmeme.com/260514/p30#a260514p30",
-            "published": "Thu, 14 May 2026 15:20:49 -0400"
-        },
-        {
-            "title": "Sources: Intel has begun testing production of \"low-end/legacy iPhone, iPad, and Mac processors\"; Apple thinks TSMC's resources will continue tilting toward AI (@mingchikuo)",
-            "link": "https://www.techmeme.com/260514/p29#a260514p29",
-            "published": "Thu, 14 May 2026 15:15:01 -0400"
-        },
-        {
-            "title": "Ford stock jumped as much as 25% in two days after the launch of Ford Energy, a new subsidiary providing battery storage capacity to AI data centers (Christian Davies/Financial Times)",
-            "link": "https://www.techmeme.com/260514/p28#a260514p28",
-            "published": "Thu, 14 May 2026 15:06:00 -0400"
-        },
-        {
-            "title": "A look at GameStop's takeover bid for eBay, a bizarre job application by GameStop CEO Ryan Cohen, who does not have the money to buy eBay, to become eBay's CEO (Matt Levine/Bloomberg)",
-            "link": "https://www.techmeme.com/260514/p27#a260514p27",
-            "published": "Thu, 14 May 2026 14:15:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
             "link": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
-            "published": "Thu, 14 May 2026 18:58:32 +0000"
+            "published": "Thu, 14 May 2026 20:23:31 +0000"
         },
         {
             "title": "Why A.I. Safety Controls Are Not Very Effective",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+            "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 14 May 2026 21:09:02 GMT"
+        },
+        {
             "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
             "link": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 14 May 2026 05:10:45 GMT"
@@ -73,11 +78,6 @@
             "title": "Suicide forum fined \u00a3950,000 for not blocking UK users",
             "link": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 13 May 2026 11:52:58 GMT"
-        },
-        {
-            "title": "More than 70 million warnings sent to people seeking child abuse material",
-            "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 13 May 2026 06:04:14 GMT"
         }
     ]
 }
