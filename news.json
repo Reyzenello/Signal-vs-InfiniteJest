@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Razer updates the Blade 18 with an Intel Core Ultra 9 290HX Plus chip, starting at $4000 with an Nvidia RTX 5070 Ti, up $500 from the comparable 2025 model (Antonio G. Di Benedetto/The Verge)",
-            "link": "https://www.techmeme.com/260514/p21#a260514p21",
-            "published": "Thu, 14 May 2026 11:20:56 -0400"
+            "title": "Cerebras opens at $350, valuing the chipmaker at $100B+, after raising $5.5B by selling 30M shares at $185, the largest US tech IPO since Uber's debut in 2019 (Jordan Novet/CNBC)",
+            "link": "https://www.techmeme.com/260514/p26#a260514p26",
+            "published": "Thu, 14 May 2026 13:17:09 -0400"
         },
         {
-            "title": "Wirestock, which says it provides multi-modal data to six of the largest foundation AI labs, raised a $23M Series A, bringing its total funding to $26M (Ivan Mehta/TechCrunch)",
-            "link": "https://www.techmeme.com/260514/p20#a260514p20",
-            "published": "Thu, 14 May 2026 10:15:01 -0400"
+            "title": "Sources: OpenAI is weighing legal action against Apple after expectations that ChatGPT's Siri integration would generate billions in revenue fell short (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260514/p25#a260514p25",
+            "published": "Thu, 14 May 2026 13:02:13 -0400"
         },
         {
-            "title": "AT&T, T-Mobile, and Verizon sign an \"agreement in principle\" to form a joint venture that aims to end wireless dead zones in the US, without giving many details (Jess Weatherbed/The Verge)",
-            "link": "https://www.techmeme.com/260514/p19#a260514p19",
-            "published": "Thu, 14 May 2026 09:25:03 -0400"
+            "title": "OpenAI says two employee devices were impacted via a supply chain attack on TanStack but no user data or production systems were compromised (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+            "link": "https://www.techmeme.com/260514/p24#a260514p24",
+            "published": "Thu, 14 May 2026 12:35:56 -0400"
         },
         {
-            "title": "Motorola Razr Fold review: good performance and screen, great battery life, sharp cameras, and stylus support, but heavier than the Z Fold 7 and lackluster AI (Sam Rutherford/Engadget)",
-            "link": "https://www.techmeme.com/260514/p18#a260514p18",
-            "published": "Thu, 14 May 2026 09:15:02 -0400"
+            "title": "Ian Crosby's Synthetic, which is building an AI bookkeeper, raised a $10M seed led by Khosla; Crosby founded Bench, which raised $100M+ and imploded in 2024 (Marina Temkin/TechCrunch)",
+            "link": "https://www.techmeme.com/260514/p23#a260514p23",
+            "published": "Thu, 14 May 2026 12:30:02 -0400"
         },
         {
-            "title": "Gallup: 71% of Americans oppose local AI data center construction, citing water and electricity issues, with opposition higher among Democrats than Republicans (Tim Craig/Washington Post)",
-            "link": "https://www.techmeme.com/260514/p17#a260514p17",
-            "published": "Thu, 14 May 2026 09:05:36 -0400"
+            "title": "Anthropic and the Gates Foundation pledge $200M to use AI in health and education initiatives; the foundation signed a similar, $50M deal with OpenAI in January (Jeffrey Dastin/Reuters)",
+            "link": "https://www.techmeme.com/260514/p22#a260514p22",
+            "published": "Thu, 14 May 2026 11:40:19 -0400"
         }
     ],
     "source_1": [
@@ -33,19 +33,19 @@
             "published": "Thu, 14 May 2026 09:02:52 +0000"
         },
         {
+            "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut",
+            "link": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
+            "published": "Thu, 14 May 2026 17:16:45 +0000"
+        },
+        {
+            "title": "Why A.I. Safety Controls Are Not Very Effective",
+            "link": "https://www.nytimes.com/2026/05/14/technology/artificial-intelligence-safety-controls.html",
+            "published": "Thu, 14 May 2026 17:28:21 +0000"
+        },
+        {
             "title": "Crypto Industry Pushes a Bill to Tilt Regulation in Its Favor",
             "link": "https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html",
             "published": "Thu, 14 May 2026 09:00:07 +0000"
-        },
-        {
-            "title": "Dozens of Polymarket Bets Show Signs of Insider Trading, The Times Finds",
-            "link": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
-            "published": "Wed, 13 May 2026 18:48:13 +0000"
-        },
-        {
-            "title": "Andreessen Horowitz Is Playing Politics Like No Other",
-            "link": "https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html",
-            "published": "Wed, 13 May 2026 09:01:05 +0000"
         },
         {
             "title": "Elon Musk\u2019s lawyer asked Sam Altman on the stand: Are you trustworthy?",
