@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Cerebras co-founders CEO Andrew Feldman and CTO Sean Lie own stakes worth $3.2B and $1.7B, respectively, representing about 5.5% and 3% of the company (CJ Haddad/CNBC)",
+            "link": "https://www.techmeme.com/260514/p37#a260514p37",
+            "published": "Thu, 14 May 2026 19:06:10 -0400"
+        },
+        {
+            "title": "Cerebras shares closed up 68% at $311.07 in the company's Nasdaq debut after it raised $5.5B in the year's largest IPO, giving it a market value of $67B (Bloomberg)",
+            "link": "https://www.techmeme.com/260514/p36#a260514p36",
+            "published": "Thu, 14 May 2026 18:25:00 -0400"
+        },
+        {
             "title": "OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone (Zac Hall/9to5Mac)",
             "link": "https://www.techmeme.com/260514/p35#a260514p35",
             "published": "Thu, 14 May 2026 17:15:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Joshua Kushner's Thrive Capital told its stakeholders that it has invested ~$100M in Shopify, framed as a bet on how AI could lead to gains in commerce (Natasha Mascarenhas/Bloomberg)",
             "link": "https://www.techmeme.com/260514/p33#a260514p33",
             "published": "Thu, 14 May 2026 16:15:02 -0400"
-        },
-        {
-            "title": "Sources: Microsoft plans to remove most of its Claude Code licenses and push its developers toward GitHub Copilot CLI, after previously pushing Claude Code (Tom Warren/The Verge)",
-            "link": "https://www.techmeme.com/260514/p32#a260514p32",
-            "published": "Thu, 14 May 2026 16:00:45 -0400"
-        },
-        {
-            "title": "The Senate Banking Committee advances the Clarity Act, which would make CFTC the primary regulator for most digital assets while SEC oversees digital securities (Bloomberg)",
-            "link": "https://www.techmeme.com/260514/p31#a260514p31",
-            "published": "Thu, 14 May 2026 15:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Thu, 14 May 2026 09:00:07 +0000"
         },
         {
-            "title": "Microsoft\u2019s C.E.O. testified about the company\u2019s OpenAI investments.",
-            "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/microsofts-ceo-testified-about-the-companys-openai-investments",
-            "published": "Thu, 14 May 2026 19:42:03 +0000"
+            "title": "What the jury must weigh to decide the case.",
+            "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case",
+            "published": "Thu, 14 May 2026 22:19:42 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Inside the secretive and lucrative world of orchid breeding",
+            "link": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 14 May 2026 23:03:16 GMT"
+        },
+        {
+            "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+            "link": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 14 May 2026 23:01:20 GMT"
+        },
         {
             "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
             "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
             "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 13 May 2026 14:40:20 GMT"
-        },
-        {
-            "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
-            "link": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 13 May 2026 14:00:58 GMT"
-        },
-        {
-            "title": "Suicide forum fined \u00a3950,000 for not blocking UK users",
-            "link": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 13 May 2026 11:52:58 GMT"
         }
     ]
 }
