@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Cerebras co-founders CEO Andrew Feldman and CTO Sean Lie own stakes worth $3.2B and $1.7B, respectively, representing about 5.5% and 3% of the company (CJ Haddad/CNBC)",
-            "link": "https://www.techmeme.com/260514/p37#a260514p37",
-            "published": "Thu, 14 May 2026 19:06:10 -0400"
+            "title": "UK-based Iceotope, which develops data center liquid cooling tech, raised a $26M Series B co-led by Two Seas Capital and Barclays Climate Ventures (Mike Wheatley/SiliconANGLE)",
+            "link": "https://www.techmeme.com/260514/p46#a260514p46",
+            "published": "Thu, 14 May 2026 23:00:37 -0400"
         },
         {
-            "title": "Cerebras shares closed up 68% at $311.07 in the company's Nasdaq debut after it raised $5.5B in the year's largest IPO, giving it a market value of $67B (Bloomberg)",
-            "link": "https://www.techmeme.com/260514/p36#a260514p36",
-            "published": "Thu, 14 May 2026 18:25:00 -0400"
+            "title": "Alphabet sold $3.6B of bonds in its debut yen-denominated bond sale, the largest by a non-Japanese company, as AI-driven capital spending accelerates (Atsuko Fukase/Bloomberg)",
+            "link": "https://www.techmeme.com/260514/p45#a260514p45",
+            "published": "Thu, 14 May 2026 22:45:04 -0400"
         },
         {
-            "title": "OpenAI adds remote access to Codex in the ChatGPT mobile app, letting users control Codex sessions running on a connected computer directly from a phone (Zac Hall/9to5Mac)",
-            "link": "https://www.techmeme.com/260514/p35#a260514p35",
-            "published": "Thu, 14 May 2026 17:15:02 -0400"
+            "title": "In a policy paper, Anthropic urges the US and allies to enforce export controls, curb distillation attacks, and export US AI to hold the lead over China by 2028 (Anthropic)",
+            "link": "https://www.techmeme.com/260514/p44#a260514p44",
+            "published": "Thu, 14 May 2026 22:10:02 -0400"
         },
         {
-            "title": "Figma reports Q1 revenue up 46% YoY to $333.4M, vs. $313.2M est., and forecasts Q2 revenue above estimates, citing AI monetization; FIG jumps 8%+ after hours (Zaheer Kachwala/Reuters)",
-            "link": "https://www.techmeme.com/260514/p34#a260514p34",
-            "published": "Thu, 14 May 2026 17:00:46 -0400"
+            "title": "Security research firm Calif says it used Mythos to help build a macOS kernel memory corruption exploit circumventing Apple's Memory Integrity Enforcement tech (Robert McMillan/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260514/p43#a260514p43",
+            "published": "Thu, 14 May 2026 21:30:01 -0400"
         },
         {
-            "title": "Sources: Joshua Kushner's Thrive Capital told its stakeholders that it has invested ~$100M in Shopify, framed as a bet on how AI could lead to gains in commerce (Natasha Mascarenhas/Bloomberg)",
-            "link": "https://www.techmeme.com/260514/p33#a260514p33",
-            "published": "Thu, 14 May 2026 16:15:02 -0400"
+            "title": "Sources: Anthropic has agreed to the terms of a $30B fundraising at a $900B valuation, with Sequoia, Dragoneer, Greenoaks, and Altimeter co-leading the round (George Hammond/Financial Times)",
+            "link": "https://www.techmeme.com/260514/p42#a260514p42",
+            "published": "Thu, 14 May 2026 21:00:54 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case",
+            "link": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html",
+            "published": "Fri, 15 May 2026 01:47:03 +0000"
+        },
         {
             "title": "Ishmael Reed Is Writing a Play About Elon Musk",
             "link": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
@@ -35,7 +40,7 @@
         {
             "title": "Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up",
             "link": "https://www.nytimes.com/2026/05/14/technology/cerebras-ipo-ai.html",
-            "published": "Thu, 14 May 2026 20:23:31 +0000"
+            "published": "Thu, 14 May 2026 20:23:32 +0000"
         },
         {
             "title": "Why A.I. Safety Controls Are Not Very Effective",
@@ -43,14 +48,9 @@
             "published": "Thu, 14 May 2026 17:28:21 +0000"
         },
         {
-            "title": "Crypto Industry Pushes a Bill to Tilt Regulation in Its Favor",
-            "link": "https://www.nytimes.com/2026/05/14/technology/cryptocurrency-clarity-act-senate.html",
-            "published": "Thu, 14 May 2026 09:00:07 +0000"
-        },
-        {
-            "title": "What the jury must weigh to decide the case.",
-            "link": "https://www.nytimes.com/live/2026/05/14/technology/openai-trial-sam-altman-elon-musk/what-the-jury-must-weigh-to-decide-the-case",
-            "published": "Thu, 14 May 2026 22:19:42 +0000"
+            "title": "OpenAI Considers Legal Action Against Apple in Strained Relationship",
+            "link": "https://www.nytimes.com/2026/05/14/technology/openai-apple-legal-action.html",
+            "published": "Fri, 15 May 2026 00:48:15 +0000"
         }
     ],
     "source_2": [
