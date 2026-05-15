@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The UK's HMRC tax authority announces a 10-year, \u00a3175M deal with London-based Quantexa to use its AI tech to identify fraud incidents and fix tax return errors (Zoe Kleinman/BBC)",
-            "link": "https://www.techmeme.com/260515/p9#a260515p9",
-            "published": "Fri, 15 May 2026 07:20:01 -0400"
+            "title": "Gridcare, which uses AI to detect underused capacity in electric grids, raised a $64M Series A, following a $13.5M seed in 2025 (Bianca Giacobone/Latitude Media)",
+            "link": "https://www.techmeme.com/260515/p15#a260515p15",
+            "published": "Fri, 15 May 2026 10:25:00 -0400"
         },
         {
-            "title": "xAI launches Grok Build, an agentic CLI for coding, building apps, and automating workflows, in beta for SuperGrok Heavy subscribers (Carmen Arroyo/Bloomberg)",
-            "link": "https://www.techmeme.com/260515/p8#a260515p8",
-            "published": "Fri, 15 May 2026 07:10:15 -0400"
+            "title": "A look at Matthew McConaughey's novel legal strategy to fight unauthorized AI use of his image, which involves trademarking video and audio clips of him (Todd Spangler/Variety)",
+            "link": "https://www.techmeme.com/260515/p14#a260515p14",
+            "published": "Fri, 15 May 2026 09:05:05 -0400"
         },
         {
-            "title": "Meta rolls out new features for Ray-Ban Display glasses, including neural handwriting support for all users, and opens up the device to third-party developers (Jay Peters/The Verge)",
-            "link": "https://www.techmeme.com/260515/p7#a260515p7",
-            "published": "Fri, 15 May 2026 07:05:02 -0400"
+            "title": "Ofcom says X has committed to implementing stronger protections for UK users, including reviewing illegal hate content within 24 hours, following a probe (Daniel Thomas/Financial Times)",
+            "link": "https://www.techmeme.com/260515/p13#a260515p13",
+            "published": "Fri, 15 May 2026 08:35:01 -0400"
         },
         {
-            "title": "Akamai acquires Israeli cybersecurity startup LayerX Security, which develops a browser-based platform to secure employee use of AI tools, for ~$205M in cash (Meir Orbach/CTech)",
-            "link": "https://www.techmeme.com/260515/p6#a260515p6",
-            "published": "Fri, 15 May 2026 06:35:05 -0400"
+            "title": "Nvidia's future in China remains unclear after the Trump-Xi Summit; Trump says China \"chose not to\" buy Nvidia chips as \"they want to try to develop their own\" (Meaghan Tobin/New York Times)",
+            "link": "https://www.techmeme.com/260515/p12#a260515p12",
+            "published": "Fri, 15 May 2026 08:30:02 -0400"
         },
         {
-            "title": "Sources: HSG, formerly Sequoia China, has set up a $3B continuation fund anchored by its ByteDance stake, offering entry into the company valued at $370B (Bloomberg)",
-            "link": "https://www.techmeme.com/260515/p5#a260515p5",
-            "published": "Fri, 15 May 2026 06:30:01 -0400"
+            "title": "Google confirms a new storage policy test, after some users reported that new Gmail accounts get 5GB, not 15GB, of free storage if they don't add a phone number (Akshay Gangwar/Android Authority)",
+            "link": "https://www.techmeme.com/260515/p11#a260515p11",
+            "published": "Fri, 15 May 2026 07:40:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "X pledges quicker action on hate and terror content in the UK",
+            "link": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 15 May 2026 12:57:30 GMT"
+        },
+        {
             "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
             "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 15 May 2026 05:03:31 GMT"
@@ -73,11 +78,6 @@
             "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
             "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 14 May 2026 21:09:02 GMT"
-        },
-        {
-            "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-            "link": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 14 May 2026 05:10:45 GMT"
         }
     ]
 }
