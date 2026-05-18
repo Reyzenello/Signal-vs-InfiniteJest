@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Cursor releases Composer 2.5, saying it's better at sustained work on long-running tasks and follows complex instructions more reliably; it's built on Kimi K2.5 (Cursor)",
-            "link": "https://www.techmeme.com/260518/p31#a260518p31",
-            "published": "Mon, 18 May 2026 13:25:01 -0400"
+            "title": "X quietly limits users who didn't pay for verification to \"50 original posts and 200 replies per day\", down from 2,400 posts per day (Jackson Chen/Engadget)",
+            "link": "https://www.techmeme.com/260518/p36#a260518p36",
+            "published": "Mon, 18 May 2026 14:55:04 -0400"
         },
         {
-            "title": "NextEra's $67B deal to buy Dominion, the largest utility merger in US history, signals a new era of utility consolidation to accommodate AI-driven power demand (Emily Forgash/Bloomberg)",
-            "link": "https://www.techmeme.com/260518/p30#a260518p30",
-            "published": "Mon, 18 May 2026 12:40:00 -0400"
+            "title": "Uber increases its stake in Delivery Hero to 19.5%, up from 7% in April, and says it \"has no intent to acquire 30% or more\" of Delivery Hero's voting rights (Natalie Lung/Bloomberg)",
+            "link": "https://www.techmeme.com/260518/p35#a260518p35",
+            "published": "Mon, 18 May 2026 14:50:00 -0400"
         },
         {
-            "title": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions\", blaming \"ongoing market conditions\" (Jay Peters/The Verge)",
-            "link": "https://www.techmeme.com/260518/p29#a260518p29",
-            "published": "Mon, 18 May 2026 12:35:02 -0400"
+            "title": "Seagate shares drop 9%+, leading a group-wide sell-off after comments from its CEO raised concerns it won't be able to meet demand fueled by the AI buildout (CJ Haddad/CNBC)",
+            "link": "https://www.techmeme.com/260518/p34#a260518p34",
+            "published": "Mon, 18 May 2026 14:25:01 -0400"
         },
         {
-            "title": "Nasdaq-listed Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy, blaming \"increasingly stringent compliance obligations\" (Omkar Godbole/CoinDesk)",
-            "link": "https://www.techmeme.com/260518/p28#a260518p28",
-            "published": "Mon, 18 May 2026 12:15:07 -0400"
+            "title": "Sigma, which sells a cloud-native analytics platform that sits on top of data warehouses, raised an $80M Series E led by Princeville Capital at a $3B valuation (Cristian Dina/The Next Web)",
+            "link": "https://www.techmeme.com/260518/p33#a260518p33",
+            "published": "Mon, 18 May 2026 14:05:02 -0400"
         },
         {
-            "title": "Internal chats: in March, xAI offered employees $420 in exchange for completed tax filings as training data for Grok, but the bonuses haven't been paid out (Carmen Arroyo/Bloomberg)",
-            "link": "https://www.techmeme.com/260518/p27#a260518p27",
-            "published": "Mon, 18 May 2026 11:50:01 -0400"
+            "title": "Musk v. Altman: the jury unanimously rejects Elon Musk's claims against Sam Altman, finding that the claims were filed outside of the statute of limitations (CNBC)",
+            "link": "https://www.techmeme.com/260518/p32#a260518p32",
+            "published": "Mon, 18 May 2026 13:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Fri, 15 May 2026 11:00:06 +0000"
         },
         {
-            "title": "Here\u2019s the latest.",
-            "link": "https://www.nytimes.com/live/2026/05/18/technology/openai-trial-verdict-altman-musk/heres-the-latest",
-            "published": "Mon, 18 May 2026 17:29:58 +0000"
+            "title": "What to Know About Elon Musk\u2019s Trial Against OpenAI",
+            "link": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
+            "published": "Mon, 18 May 2026 19:35:29 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+            "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 18 May 2026 19:24:05 GMT"
+        },
+        {
+            "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+            "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 18 May 2026 19:18:58 GMT"
+        },
         {
             "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
             "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
             "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 15 May 2026 05:03:31 GMT"
-        },
-        {
-            "title": "Inside the secretive and lucrative world of orchid breeding",
-            "link": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 14 May 2026 23:03:16 GMT"
-        },
-        {
-            "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-            "link": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 14 May 2026 23:01:20 GMT"
         }
     ]
 }
