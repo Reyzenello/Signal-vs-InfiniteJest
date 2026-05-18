@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Anthropic agrees to brief the Financial Stability Board on global financial system vulnerabilities found by Mythos, following a request by FSB's Chair (Financial Times)",
-            "link": "https://www.techmeme.com/260518/p3#a260518p3",
-            "published": "Mon, 18 May 2026 01:10:00 -0400"
+            "title": "Baidu reports Q1 revenue down 1.1% YoY to ~$4.7B, above ~$4.5B est., and net profit down 55% YoY to ~$506.6M, above ~$462.5M est., amid a slow AI payoff (Tracy Qu/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260518/p15#a260518p15",
+            "published": "Mon, 18 May 2026 06:20:01 -0400"
         },
         {
-            "title": "Samsung's shares jumped as much as 6.7% after the company resumed talks with its union and a court partially granted an injunction against illegal union actions (Yoolim Lee/Bloomberg)",
-            "link": "https://www.techmeme.com/260518/p2#a260518p2",
-            "published": "Mon, 18 May 2026 01:00:13 -0400"
+            "title": "A college senior at Stanford describes how AI changed classes: cheating using AI \"has become omnipresent\" with students \"fudging just about everything\" (Theo Baker/New York Times)",
+            "link": "https://www.techmeme.com/260518/p14#a260518p14",
+            "published": "Mon, 18 May 2026 06:10:02 -0400"
         },
         {
-            "title": "Chinese chipmaker CXMT reports Q1 revenue up 719% YoY to ~$7.5B, net profit up 1,688% to $3.6B, and says Omdia ranks it No. 4 in DRAM with a 7.67% global share (Cheng Ting-Fang/Nikkei Asia)",
-            "link": "https://www.techmeme.com/260518/p1#a260518p1",
-            "published": "Mon, 18 May 2026 00:35:01 -0400"
+            "title": "How Amazon, which took a measured tone to AI, went from an AI also-ran to a real contender, thanks to $200B in spending, custom AI chips, and savvy deals (Tim Higgins/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260518/p13#a260518p13",
+            "published": "Mon, 18 May 2026 05:55:04 -0400"
         },
         {
-            "title": "Sources: US authorities in recent months have issued multiple information requests to Kalshi and Polymarket, many tied to wagers on events in Iran and Venezuela (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260517/p19#a260517p19",
-            "published": "Sun, 17 May 2026 23:45:01 -0400"
+            "title": "Polymarket and Kalshi continue to operate in India despite a government advisory on April 25, directed at VPN providers, labeling prediction markets \"illegal\" (Bloomberg)",
+            "link": "https://www.techmeme.com/260518/p12#a260518p12",
+            "published": "Mon, 18 May 2026 05:45:01 -0400"
         },
         {
-            "title": "Quebec-based telecom software startup Gaiia raised a CA$54.8M Series B led by JMI Equity, bringing its total funding to ~CA$90M from backers including YC (Madison McLauchlan/BetaKit)",
-            "link": "https://www.techmeme.com/260517/p18#a260517p18",
-            "published": "Sun, 17 May 2026 23:05:01 -0400"
+            "title": "After EV maker Fisker's collapse, ~4,000 car owners formed a nonprofit to keep their cars working by reverse-engineering software and building open-source tools (Fred Lambert/Electrek)",
+            "link": "https://www.techmeme.com/260518/p11#a260518p11",
+            "published": "Mon, 18 May 2026 04:55:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+            "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 18 May 2026 09:33:53 GMT"
+        },
+        {
             "title": "X pledges quicker action on hate and terror content in the UK",
             "link": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 15 May 2026 12:57:30 GMT"
@@ -73,11 +78,6 @@
             "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
             "link": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 14 May 2026 23:01:20 GMT"
-        },
-        {
-            "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-            "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 14 May 2026 21:09:02 GMT"
         }
     ]
 }
