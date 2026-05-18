@@ -1,63 +1,73 @@
 {
     "techmeme": [
         {
-            "title": "Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds (David Morris/Bloomberg)",
-            "link": "https://www.techmeme.com/260518/p39#a260518p39",
-            "published": "Mon, 18 May 2026 17:00:49 -0400"
+            "title": "A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation (Brian Krebs/Krebs on Security)",
+            "link": "https://www.techmeme.com/260518/p45#a260518p45",
+            "published": "Mon, 18 May 2026 18:50:01 -0400"
         },
         {
-            "title": "Cloudflare tests Mythos against 50+ repositories, highlights its ability to chain bugs into a single exploit, and details a vulnerability discovery harness (Grant Bourzikas/Cloudflare)",
-            "link": "https://www.techmeme.com/260518/p38#a260518p38",
-            "published": "Mon, 18 May 2026 16:40:01 -0400"
+            "title": "In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company's narrative single-player games will now be PlayStation exclusive (Jason Schreier/@jasonschreier.bsky.social)",
+            "link": "https://www.techmeme.com/260518/p44#a260518p44",
+            "published": "Mon, 18 May 2026 18:15:00 -0400"
         },
         {
-            "title": "Anthropic acquires NYC-based Stainless, which generates SDKs from APIs, and plans to wind down its hosted products, after reportedly discussing a $300M+ deal (Kirsten Korosec/TechCrunch)",
-            "link": "https://www.techmeme.com/260518/p37#a260518p37",
-            "published": "Mon, 18 May 2026 16:05:01 -0400"
+            "title": "Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce (Eli Tan/New York Times)",
+            "link": "https://www.techmeme.com/260518/p43#a260518p43",
+            "published": "Mon, 18 May 2026 18:10:01 -0400"
         },
         {
-            "title": "X quietly limits users who didn't pay for verification to \"50 original posts and 200 replies per day\", down from 2,400 posts per day (Jackson Chen/Engadget)",
-            "link": "https://www.techmeme.com/260518/p36#a260518p36",
-            "published": "Mon, 18 May 2026 14:55:04 -0400"
+            "title": "Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal (Bloomberg)",
+            "link": "https://www.techmeme.com/260518/p42#a260518p42",
+            "published": "Mon, 18 May 2026 18:05:01 -0400"
         },
         {
-            "title": "Uber increases its stake in Delivery Hero to 19.5%, up from 7% in April, and says it \"has no intent to acquire 30% or more\" of Delivery Hero's voting rights (Natalie Lung/Bloomberg)",
-            "link": "https://www.techmeme.com/260518/p35#a260518p35",
-            "published": "Mon, 18 May 2026 14:50:00 -0400"
+            "title": "Anthropic last week began letting Mythos users share cybersecurity threats with others who may face similar vulnerabilities, modifying its previous stance (Amrith Ramkumar/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260518/p41#a260518p41",
+            "published": "Mon, 18 May 2026 17:45:02 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices",
-            "link": "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
-            "published": "Sat, 16 May 2026 00:33:56 +0000"
+            "title": "After Elon Musk\u2019s Court Loss Comes the Long Hot A.I. Summer",
+            "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
+            "published": "Mon, 18 May 2026 21:53:29 +0000"
         },
         {
-            "title": "OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case",
-            "link": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html",
-            "published": "Fri, 15 May 2026 01:47:03 +0000"
-        },
-        {
-            "title": "Ishmael Reed Is Writing a Play About Elon Musk",
-            "link": "https://www.nytimes.com/2026/05/14/technology/ishmael-reed-elon-musk-play.html",
-            "published": "Thu, 14 May 2026 09:02:52 +0000"
-        },
-        {
-            "title": "A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express",
-            "link": "https://www.nytimes.com/2026/05/15/podcasts/ai-safety-is-so-back-mythos-mayhem-with-nikesh-arora-hot-mess-express.html",
-            "published": "Fri, 15 May 2026 11:00:06 +0000"
+            "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
+            "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+            "published": "Mon, 18 May 2026 21:31:32 +0000"
         },
         {
             "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
             "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
-            "published": "Mon, 18 May 2026 21:07:31 +0000"
+            "published": "Mon, 18 May 2026 22:45:53 +0000"
+        },
+        {
+            "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
+            "link": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
+            "published": "Mon, 18 May 2026 21:47:54 +0000"
+        },
+        {
+            "title": "What to Know About Elon Musk\u2019s Trial Against OpenAI",
+            "link": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
+            "published": "Mon, 18 May 2026 19:35:29 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Robo-top: The machines that could make your next t-shirt",
+            "link": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 18 May 2026 23:04:14 GMT"
+        },
+        {
+            "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+            "link": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 18 May 2026 23:04:03 GMT"
+        },
+        {
             "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
             "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 18 May 2026 20:59:57 GMT"
+            "published": "Mon, 18 May 2026 22:08:37 GMT"
         },
         {
             "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
@@ -68,16 +78,6 @@
             "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
             "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 18 May 2026 09:33:53 GMT"
-        },
-        {
-            "title": "X pledges quicker action on hate and terror content in the UK",
-            "link": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 15 May 2026 12:57:30 GMT"
-        },
-        {
-            "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
-            "link": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 15 May 2026 05:03:31 GMT"
         }
     ]
 }
