@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Akamai is seeking to raise $2.6B in a convertible bond offering, and plans to use $350M of the offering to buy back its common stock from buyers of the bonds (David Morris/Bloomberg)",
+            "link": "https://www.techmeme.com/260518/p39#a260518p39",
+            "published": "Mon, 18 May 2026 17:00:49 -0400"
+        },
+        {
+            "title": "Cloudflare tests Mythos against 50+ repositories, highlights its ability to chain bugs into a single exploit, and details a vulnerability discovery harness (Grant Bourzikas/Cloudflare)",
+            "link": "https://www.techmeme.com/260518/p38#a260518p38",
+            "published": "Mon, 18 May 2026 16:40:01 -0400"
+        },
+        {
+            "title": "Anthropic acquires NYC-based Stainless, which generates SDKs from APIs, and plans to wind down its hosted products, after reportedly discussing a $300M+ deal (Kirsten Korosec/TechCrunch)",
+            "link": "https://www.techmeme.com/260518/p37#a260518p37",
+            "published": "Mon, 18 May 2026 16:05:01 -0400"
+        },
+        {
             "title": "X quietly limits users who didn't pay for verification to \"50 original posts and 200 replies per day\", down from 2,400 posts per day (Jackson Chen/Engadget)",
             "link": "https://www.techmeme.com/260518/p36#a260518p36",
             "published": "Mon, 18 May 2026 14:55:04 -0400"
@@ -9,21 +24,6 @@
             "title": "Uber increases its stake in Delivery Hero to 19.5%, up from 7% in April, and says it \"has no intent to acquire 30% or more\" of Delivery Hero's voting rights (Natalie Lung/Bloomberg)",
             "link": "https://www.techmeme.com/260518/p35#a260518p35",
             "published": "Mon, 18 May 2026 14:50:00 -0400"
-        },
-        {
-            "title": "Seagate shares drop 9%+, leading a group-wide sell-off after comments from its CEO raised concerns it won't be able to meet demand fueled by the AI buildout (CJ Haddad/CNBC)",
-            "link": "https://www.techmeme.com/260518/p34#a260518p34",
-            "published": "Mon, 18 May 2026 14:25:01 -0400"
-        },
-        {
-            "title": "Sigma, which sells a cloud-native analytics platform that sits on top of data warehouses, raised an $80M Series E led by Princeville Capital at a $3B valuation (Cristian Dina/The Next Web)",
-            "link": "https://www.techmeme.com/260518/p33#a260518p33",
-            "published": "Mon, 18 May 2026 14:05:02 -0400"
-        },
-        {
-            "title": "Musk v. Altman: the jury unanimously rejects Elon Musk's claims against Sam Altman, finding that the claims were filed outside of the statute of limitations (CNBC)",
-            "link": "https://www.techmeme.com/260518/p32#a260518p32",
-            "published": "Mon, 18 May 2026 13:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,21 +48,21 @@
             "published": "Fri, 15 May 2026 11:00:06 +0000"
         },
         {
-            "title": "What to Know About Elon Musk\u2019s Trial Against OpenAI",
-            "link": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
-            "published": "Mon, 18 May 2026 19:35:29 +0000"
+            "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+            "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+            "published": "Mon, 18 May 2026 21:07:31 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-            "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 18 May 2026 19:24:05 GMT"
-        },
-        {
             "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
             "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 18 May 2026 19:18:58 GMT"
+            "published": "Mon, 18 May 2026 20:59:57 GMT"
+        },
+        {
+            "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+            "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 18 May 2026 20:44:57 GMT"
         },
         {
             "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
