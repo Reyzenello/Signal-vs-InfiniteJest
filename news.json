@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Ciridae, which is developing AI to streamline back-office operations for real-economy businesses, raised a $20M seed led by Accel, with a16z participating (Jack Kubinec/Fortune)",
+            "link": "https://www.techmeme.com/260517/p14#a260517p14",
+            "published": "Sun, 17 May 2026 18:45:00 -0400"
+        },
+        {
             "title": "Source: Shein is acquiring DTC clothing retailer Everlane, which focuses on sustainability and \"radical transparency\", in a $100M deal (Lauren Sherman/Puck)",
             "link": "https://www.techmeme.com/260517/p13#a260517p13",
             "published": "Sun, 17 May 2026 17:45:02 -0400"
@@ -19,11 +24,6 @@
             "title": "Analysis: mass adoption of smartphones and social media may be a primary driver of declining birthrates globally, in part by reducing in-person socializing (John Burn-Murdoch/Financial Times)",
             "link": "https://www.techmeme.com/260517/p10#a260517p10",
             "published": "Sun, 17 May 2026 13:50:03 -0400"
-        },
-        {
-            "title": "Publicis agrees to acquire LiveRamp, which allows companies to share and build new data sets and models that can power agentic frameworks, for $2.2B in cash (Alison Weissbrot/Adweek)",
-            "link": "https://www.techmeme.com/260517/p9#a260517p9",
-            "published": "Sun, 17 May 2026 12:50:04 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93",
             "link": "https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html",
-            "published": "Sun, 17 May 2026 21:27:18 +0000"
+            "published": "Sun, 17 May 2026 22:38:13 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Why does Amazon have no Western rivals?",
+            "link": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 17 May 2026 23:54:57 GMT"
+        },
         {
             "title": "X pledges quicker action on hate and terror content in the UK",
             "link": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
             "link": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 14 May 2026 23:01:20 GMT"
-        },
-        {
-            "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-            "link": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 14 May 2026 21:09:02 GMT"
         }
     ]
 }
