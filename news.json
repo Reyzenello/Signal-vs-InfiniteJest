@@ -1,51 +1,51 @@
 {
     "techmeme": [
         {
-            "title": "Andrej Karpathy joins Anthropic to help launch a team focused on using Claude to accelerate pre-training research; he helped found OpenAI and worked at Tesla (Madison Mills/Axios)",
-            "link": "https://www.techmeme.com/260519/p29#a260519p29",
-            "published": "Tue, 19 May 2026 12:15:13 -0400"
+            "title": "Hands-on with Google and Samsung's Android XR smart glasses from Warby Parker and Gentle Monster, and with XReal's Project Aura, all set to arrive this fall (Wired)",
+            "link": "https://www.techmeme.com/260519/p50#a260519p50",
+            "published": "Tue, 19 May 2026 14:55:03 -0400"
         },
         {
-            "title": "Sources: Apple Chief Hardware Officer Johny Srouji is reorganizing hardware development to integrate silicon teams with product creation and speed up their work (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260519/p28#a260519p28",
-            "published": "Tue, 19 May 2026 11:55:03 -0400"
+            "title": "Google unveils Universal Cart, a shopping assistant that works \"across merchants\", built on the Universal Commerce Protocol, rolling out in the US today (Aisha Malik/TechCrunch)",
+            "link": "https://www.techmeme.com/260519/p49#a260519p49",
+            "published": "Tue, 19 May 2026 14:45:01 -0400"
         },
         {
-            "title": "Polymarket partners with Nasdaq to launch markets tied to private company milestones, including IPO timing, valuations, earnings, and secondary market activity (Kyle Baird/The Block)",
-            "link": "https://www.techmeme.com/260519/p27#a260519p27",
-            "published": "Tue, 19 May 2026 11:45:02 -0400"
+            "title": "At a hearing, two of three judges of a federal appeals court appeared skeptical of Anthropic's bid to block the DOD from designating it a supply-chain risk (Jen Judson/Bloomberg)",
+            "link": "https://www.techmeme.com/260519/p48#a260519p48",
+            "published": "Tue, 19 May 2026 14:40:01 -0400"
         },
         {
-            "title": "NYSE owner Intercontinental Exchange partners with financial infrastructure company Ornn to launch USD-denominated futures contracts for computing power (Katherine Doherty/Bloomberg)",
-            "link": "https://www.techmeme.com/260519/p26#a260519p26",
-            "published": "Tue, 19 May 2026 11:40:03 -0400"
+            "title": "Demis Hassabis says companies looking to replace developers with AI may be due to a \"lack of imagination and a lack of understanding\" of the future (Will Knight/Wired)",
+            "link": "https://www.techmeme.com/260519/p47#a260519p47",
+            "published": "Tue, 19 May 2026 14:35:00 -0400"
         },
         {
-            "title": "Relay, which builds banking and money management software for small businesses, raised $50M; it previously raised ~$51.5M, including a $32.2M Series B in 2024 (Ryan Lawler/Axios)",
-            "link": "https://www.techmeme.com/260519/p25#a260519p25",
-            "published": "Tue, 19 May 2026 11:30:02 -0400"
+            "title": "Google's web-based AI Studio now lets users build native Android apps; Google says the apps are for personal use only for now and publishing is on the roadmap (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/260519/p46#a260519p46",
+            "published": "Tue, 19 May 2026 14:30:03 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "How Google Is Starting to Win the A.I. Race",
+            "link": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
+            "published": "Tue, 19 May 2026 18:20:25 +0000"
+        },
+        {
+            "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years",
+            "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
+            "published": "Tue, 19 May 2026 18:34:36 +0000"
+        },
+        {
+            "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
+            "link": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
+            "published": "Tue, 19 May 2026 13:32:35 +0000"
+        },
+        {
             "title": "After Elon Musk\u2019s Court Loss Comes the Long Hot A.I. Summer",
             "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
             "published": "Tue, 19 May 2026 00:12:22 +0000"
-        },
-        {
-            "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
-            "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
-            "published": "Mon, 18 May 2026 21:31:32 +0000"
-        },
-        {
-            "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
-            "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
-            "published": "Mon, 18 May 2026 22:45:53 +0000"
-        },
-        {
-            "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
-            "link": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
-            "published": "Tue, 19 May 2026 00:48:11 +0000"
         },
         {
             "title": "Rising Energy Costs and Data Centers at Heart of NextEra\u2019s Dominion Bid",
