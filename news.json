@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "A CISA contractor maintained a now-offline GitHub repo that exposed credentials to AWS GovCloud accounts and CISA systems; CISA is investigating the situation (Brian Krebs/Krebs on Security)",
-            "link": "https://www.techmeme.com/260518/p45#a260518p45",
-            "published": "Mon, 18 May 2026 18:50:01 -0400"
+            "title": "An overview of macro tech trends: capex explosion, unprecedented surge in chip demand, supply chain bottlenecks, model commoditization, AI automation, and more (Benedict Evans)",
+            "link": "https://www.techmeme.com/260518/p51#a260518p51",
+            "published": "Mon, 18 May 2026 23:40:34 -0400"
         },
         {
-            "title": "In a town hall, PlayStation studio business CEO Hermen Hulst told staff that the company's narrative single-player games will now be PlayStation exclusive (Jason Schreier/@jasonschreier.bsky.social)",
-            "link": "https://www.techmeme.com/260518/p44#a260518p44",
-            "published": "Mon, 18 May 2026 18:15:00 -0400"
+            "title": "Sources: Analog Devices, one of the largest analog chip makers, is in talks to buy Empower, which makes chips used to regulate voltage, for $1.5B in cash (Bloomberg)",
+            "link": "https://www.techmeme.com/260518/p50#a260518p50",
+            "published": "Mon, 18 May 2026 21:40:14 -0400"
         },
         {
-            "title": "Internal memo: Meta is reassigning 7,000 workers to four new units focused on building AI tools, two days before it is set to lay off 10% of its workforce (Eli Tan/New York Times)",
-            "link": "https://www.techmeme.com/260518/p43#a260518p43",
-            "published": "Mon, 18 May 2026 18:10:01 -0400"
+            "title": "Vitalik Buterin says AI-assisted \"formal verification\" could help secure blockchain networks, smart contracts, and cryptographic systems against software flaws (Jason Nelson/Decrypt)",
+            "link": "https://www.techmeme.com/260518/p49#a260518p49",
+            "published": "Mon, 18 May 2026 20:55:13 -0400"
         },
         {
-            "title": "Sources: AI chip designer Tenstorrent has drawn takeover interest from Intel and Qualcomm; Tenstorrent could be valued at more than $5B in a potential deal (Bloomberg)",
-            "link": "https://www.techmeme.com/260518/p42#a260518p42",
-            "published": "Mon, 18 May 2026 18:05:01 -0400"
+            "title": "Blackstone announces a JV with Google to create a US company that will offer customers access to Google's TPUs, and makes an initial equity commitment of $5B (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260518/p48#a260518p48",
+            "published": "Mon, 18 May 2026 20:15:00 -0400"
         },
         {
-            "title": "Anthropic last week began letting Mythos users share cybersecurity threats with others who may face similar vulnerabilities, modifying its previous stance (Amrith Ramkumar/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260518/p41#a260518p41",
-            "published": "Mon, 18 May 2026 17:45:02 -0400"
+            "title": "A deep dive into Meta's Hyperion data center campus in Louisiana, expected to reach 5 GW of compute capacity; source: Meta plans to spend $200B+ on the project (Riley Griffin/Bloomberg)",
+            "link": "https://www.techmeme.com/260518/p47#a260518p47",
+            "published": "Mon, 18 May 2026 19:45:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "After Elon Musk\u2019s Court Loss Comes the Long Hot A.I. Summer",
             "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
-            "published": "Mon, 18 May 2026 21:53:29 +0000"
+            "published": "Tue, 19 May 2026 00:12:22 +0000"
         },
         {
             "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
@@ -45,7 +45,7 @@
         {
             "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
             "link": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
-            "published": "Mon, 18 May 2026 21:47:54 +0000"
+            "published": "Tue, 19 May 2026 00:48:11 +0000"
         },
         {
             "title": "What to Know About Elon Musk\u2019s Trial Against OpenAI",
