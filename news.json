@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Milan-based legal AI company Lexroom raised a \u20ac42.9M Series B led by Left Lane, after raising a \u20ac16M Series A in September 2025, taking total funding to \u20ac62.7M (Rahul Raj/EU-Startups)",
-            "link": "https://www.techmeme.com/260519/p5#a260519p5",
-            "published": "Tue, 19 May 2026 04:05:01 -0400"
+            "title": "Apple unveils Apple Intelligence-powered accessibility features, subtitles generated on device, a Vision Pro feature for controlling power wheelchairs, and more (John Voorhees/MacStories)",
+            "link": "https://www.techmeme.com/260519/p15#a260519p15",
+            "published": "Tue, 19 May 2026 08:15:16 -0400"
         },
         {
-            "title": "Mistral acquires Vienna-based Emmi AI for an undisclosed sum to boost its industrial offerings in Europe; Emmi raised \u20ac15M in Austria's largest round in 2025 (Reuters)",
-            "link": "https://www.techmeme.com/260519/p4#a260519p4",
-            "published": "Tue, 19 May 2026 03:50:01 -0400"
+            "title": "CertiK: physical attacks on crypto holders rose 75% YoY to 72 confirmed cases and $41M in known losses in 2025; Coinbase spent ~$7.6M to protect Brian Armstrong (Bloomberg)",
+            "link": "https://www.techmeme.com/260519/p14#a260519p14",
+            "published": "Tue, 19 May 2026 07:45:01 -0400"
         },
         {
-            "title": "NYC Health + Hospitals says hackers accessed its network from Nov. 2025 to Feb. 2026, exposing personal data, medical records, and fingerprints of 1.8M+ people (Zack Whittaker/TechCrunch)",
-            "link": "https://www.techmeme.com/260519/p3#a260519p3",
-            "published": "Tue, 19 May 2026 02:00:01 -0400"
+            "title": "OpenAI's win against Elon Musk leaves it free to continue its IPO plans, but it still faces many issues, like rising competition and dozens of other lawsuits (New York Times)",
+            "link": "https://www.techmeme.com/260519/p13#a260519p13",
+            "published": "Tue, 19 May 2026 07:30:05 -0400"
         },
         {
-            "title": "Sources: Demis Hassabis was an angel investor in Anthropic; PitchBook and Dealroom say ex-DeepMind researchers founded 12+ companies since 2021, raising $14B+ (Financial Times)",
-            "link": "https://www.techmeme.com/260519/p2#a260519p2",
-            "published": "Tue, 19 May 2026 01:25:29 -0400"
+            "title": "Modular data center maker Armada raised a $230M Series B co-led by Overmatch, 8090 Industries, and BlackRock at a $2B valuation, and plans a new Arizona factory (Krysta Escobar/CNBC)",
+            "link": "https://www.techmeme.com/260519/p12#a260519p12",
+            "published": "Tue, 19 May 2026 07:20:02 -0400"
         },
         {
-            "title": "Sources: Intel asks its leading PC partners, including those in the US, China, and Taiwan, to use more 18A CPUs, citing better supply than chips on older nodes (Nikkei Asia)",
-            "link": "https://www.techmeme.com/260519/p1#a260519p1",
-            "published": "Tue, 19 May 2026 01:05:00 -0400"
+            "title": "Chinese flash memory chipmaker YMTC says it officially initiated a pre-listing tutoring process with local brokers, marking the first formal step toward an IPO (Bloomberg)",
+            "link": "https://www.techmeme.com/260519/p11#a260519p11",
+            "published": "Tue, 19 May 2026 07:15:02 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,21 @@
             "published": "Tue, 19 May 2026 00:48:11 +0000"
         },
         {
-            "title": "What to Know About Elon Musk\u2019s Trial Against OpenAI",
-            "link": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
-            "published": "Mon, 18 May 2026 19:35:29 +0000"
+            "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
+            "link": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
+            "published": "Tue, 19 May 2026 09:03:31 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+            "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
+            "link": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 19 May 2026 11:05:09 GMT"
+        },
+        {
+            "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
             "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 19 May 2026 06:46:46 GMT"
+            "published": "Tue, 19 May 2026 08:45:23 GMT"
         },
         {
             "title": "Robo-top: The machines that could make your next t-shirt",
@@ -73,11 +78,6 @@
             "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
             "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 18 May 2026 22:08:37 GMT"
-        },
-        {
-            "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-            "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 18 May 2026 09:33:53 GMT"
         }
     ]
 }
