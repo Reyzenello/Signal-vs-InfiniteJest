@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Hands-on with Google and Samsung's Android XR smart glasses from Warby Parker and Gentle Monster, and with XReal's Project Aura, all set to arrive this fall (Wired)",
-            "link": "https://www.techmeme.com/260519/p50#a260519p50",
-            "published": "Tue, 19 May 2026 14:55:03 -0400"
+            "title": "Google adds a conversational search feature to YouTube and rolls out the new Gemini Omni model in YouTube Shorts Remix and the Create app (Sanuj Bhatia/Android Central)",
+            "link": "https://www.techmeme.com/260519/p58#a260519p58",
+            "published": "Tue, 19 May 2026 17:20:16 -0400"
         },
         {
-            "title": "Google unveils Universal Cart, a shopping assistant that works \"across merchants\", built on the Universal Commerce Protocol, rolling out in the US today (Aisha Malik/TechCrunch)",
-            "link": "https://www.techmeme.com/260519/p49#a260519p49",
-            "published": "Tue, 19 May 2026 14:45:01 -0400"
+            "title": "OpenAI introduces Guaranteed Capacity, a new offering that lets customers guarantee access to OpenAI's compute through one- to three-year commitments (OpenAI)",
+            "link": "https://www.techmeme.com/260519/p57#a260519p57",
+            "published": "Tue, 19 May 2026 16:55:01 -0400"
         },
         {
-            "title": "At a hearing, two of three judges of a federal appeals court appeared skeptical of Anthropic's bid to block the DOD from designating it a supply-chain risk (Jen Judson/Bloomberg)",
-            "link": "https://www.techmeme.com/260519/p48#a260519p48",
-            "published": "Tue, 19 May 2026 14:40:01 -0400"
+            "title": "Meta begins laying off 8,000 employees, or 10% of staff, in a push to become an AI-first company; another 7,000 workers will be reassigned to AI initiatives (New York Times)",
+            "link": "https://www.techmeme.com/260519/p56#a260519p56",
+            "published": "Tue, 19 May 2026 16:35:02 -0400"
         },
         {
-            "title": "Demis Hassabis says companies looking to replace developers with AI may be due to a \"lack of imagination and a lack of understanding\" of the future (Will Knight/Wired)",
-            "link": "https://www.techmeme.com/260519/p47#a260519p47",
-            "published": "Tue, 19 May 2026 14:35:00 -0400"
+            "title": "Minnesota Gov. Tim Walz has signed the nation's first law banning prediction market sites from operating in the state; the CFTC has sued Minnesota in response (Bobby Allyn/NPR)",
+            "link": "https://www.techmeme.com/260519/p55#a260519p55",
+            "published": "Tue, 19 May 2026 16:10:01 -0400"
         },
         {
-            "title": "Google's web-based AI Studio now lets users build native Android apps; Google says the apps are for personal use only for now and publishing is on the roadmap (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260519/p46#a260519p46",
-            "published": "Tue, 19 May 2026 14:30:03 -0400"
+            "title": "Sources: Google DeepMind has reached a ~$100M deal to hire 20+ researchers from Contextual AI, including CEO Douwe Kiela, and license its technology (Bloomberg)",
+            "link": "https://www.techmeme.com/260519/p54#a260519p54",
+            "published": "Tue, 19 May 2026 16:05:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation",
+            "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+            "published": "Tue, 19 May 2026 20:00:06 +0000"
+        },
+        {
             "title": "How Google Is Starting to Win the A.I. Race",
             "link": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
-            "published": "Tue, 19 May 2026 18:20:25 +0000"
+            "published": "Tue, 19 May 2026 19:41:47 +0000"
         },
         {
             "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years",
@@ -40,12 +45,7 @@
         {
             "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
             "link": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
-            "published": "Tue, 19 May 2026 13:32:35 +0000"
-        },
-        {
-            "title": "After Elon Musk\u2019s Court Loss Comes the Long Hot A.I. Summer",
-            "link": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
-            "published": "Tue, 19 May 2026 00:12:22 +0000"
+            "published": "Tue, 19 May 2026 13:32:36 +0000"
         },
         {
             "title": "Rising Energy Costs and Data Centers at Heart of NextEra\u2019s Dominion Bid",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Google to release first smart glasses since Google Glass flop",
+            "link": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 19 May 2026 21:00:12 GMT"
+        },
         {
             "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
             "link": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
             "link": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 18 May 2026 23:04:03 GMT"
-        },
-        {
-            "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-            "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 18 May 2026 22:08:37 GMT"
         }
     ]
 }
