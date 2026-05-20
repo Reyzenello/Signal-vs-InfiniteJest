@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "SpaceX files publicly for its IPO, choosing Nasdaq to make its debut under the symbol SPCX (Bloomberg)",
-            "link": "https://www.techmeme.com/260520/p45#a260520p45",
-            "published": "Wed, 20 May 2026 16:56:40 -0400"
+            "title": "SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok's AI features (Rebecca Bellan/TechCrunch)",
+            "link": "https://www.techmeme.com/260520/p50#a260520p50",
+            "published": "Wed, 20 May 2026 19:20:02 -0400"
         },
         {
-            "title": "Nvidia reports Q1 revenue up 85% YoY to $81.6B, Data Center revenue up 92% to $75.2B, and announces an $80B additional share repurchase authorization (Nvidia Newsroom)",
-            "link": "https://www.techmeme.com/260520/p44#a260520p44",
-            "published": "Wed, 20 May 2026 16:27:35 -0400"
+            "title": "SpaceX S-1: Anthropic is paying SpaceX $1.25B/mo. until May 2029 under their compute deal; Anthropic says it's expanding the deal to include Colossus 2 capacity (Ina Fried/Axios)",
+            "link": "https://www.techmeme.com/260520/p49#a260520p49",
+            "published": "Wed, 20 May 2026 17:55:03 -0400"
         },
         {
-            "title": "OpenAI says an internal general-purpose reasoning model has disproved the Erd\u0151s unit distance conjecture, a central problem in discrete geometry posed in 1946 (OpenAI)",
-            "link": "https://www.techmeme.com/260520/p43#a260520p43",
-            "published": "Wed, 20 May 2026 16:05:02 -0400"
+            "title": "Filing: SpaceX reports 2025 revenue of $18.7B, up 33% YoY, a $4.9B loss, vs. a $791M profit in 2024, and $20.7B in capital expenditures, up from $11.2B (New York Times)",
+            "link": "https://www.techmeme.com/260520/p48#a260520p48",
+            "published": "Wed, 20 May 2026 17:25:02 -0400"
         },
         {
-            "title": "Granta and the Commonwealth Foundation say they can't determine yet if AI was used to write a prize-winning short story after critics pointed to signs of AI use (The Guardian)",
-            "link": "https://www.techmeme.com/260520/p42#a260520p42",
-            "published": "Wed, 20 May 2026 14:30:06 -0400"
+            "title": "Nvidia reports Q1 net income up 211% YoY to $58.3B, beating analyst estimates of $42.9B, and raises Q2 revenue forecast to $91B (Robbie Whelan/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260520/p47#a260520p47",
+            "published": "Wed, 20 May 2026 17:10:01 -0400"
         },
         {
-            "title": "Google says it is testing new ad formats in search results and AI Mode, including Conversational Discovery ads, Highlighted Answers, and AI-powered Shopping ads (Anu Adegbola/Search Engine Land)",
-            "link": "https://www.techmeme.com/260520/p41#a260520p41",
-            "published": "Wed, 20 May 2026 13:55:01 -0400"
+            "title": "In disclosures to investors, Anthropic says it expects to generate $10.9B in revenue in Q2, vs. $4.8B in Q1, and turn a $559M operating profit, its first ever (Berber Jin/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260520/p46#a260520p46",
+            "published": "Wed, 20 May 2026 17:05:04 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Meta Lays Off 8,000 Employees, As A.I. Casualties Mount",
-            "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
-            "published": "Wed, 20 May 2026 18:03:13 +0000"
-        },
-        {
-            "title": "How Google Is Starting to Win the A.I. Race",
-            "link": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
-            "published": "Tue, 19 May 2026 19:41:47 +0000"
-        },
-        {
-            "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years",
-            "link": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
-            "published": "Tue, 19 May 2026 18:34:36 +0000"
-        },
-        {
-            "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
-            "link": "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
-            "published": "Tue, 19 May 2026 13:32:36 +0000"
+            "title": "Musk\u2019s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
+            "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
+            "published": "Wed, 20 May 2026 22:02:26 +0000"
         },
         {
             "title": "OpenAI Prepares to File for an I.P.O. in Coming Weeks",
             "link": "https://www.nytimes.com/2026/05/20/technology/openai-ipo.html",
             "published": "Wed, 20 May 2026 18:41:52 +0000"
+        },
+        {
+            "title": "Nvidia\u2019s Profit Hits $58.3 Billion as A.I. Boom Gathers More Steam",
+            "link": "https://www.nytimes.com/2026/05/20/business/nvidia-earnings.html",
+            "published": "Wed, 20 May 2026 22:54:31 +0000"
+        },
+        {
+            "title": "Soundtrack to 8,000 Job Cuts: A Meta Worker\u2019s Layoff-Themed A.I. Songs",
+            "link": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
+            "published": "Wed, 20 May 2026 22:57:51 +0000"
+        },
+        {
+            "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
+            "link": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+            "published": "Wed, 20 May 2026 21:56:06 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+            "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 20 May 2026 23:11:58 GMT"
+        },
         {
             "title": "US groups urge investigation into child safety and spending on Roblox",
             "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
             "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 19 May 2026 08:45:23 GMT"
-        },
-        {
-            "title": "Robo-top: The machines that could make your next t-shirt",
-            "link": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 18 May 2026 23:04:14 GMT"
         }
     ]
 }
