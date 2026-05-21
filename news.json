@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "SpaceX S-1: xAI had a $6.4B operating loss on $3.2B in revenue in 2025; Grok and X had 550M MAUs combined as of March 2026, and 117M used Grok's AI features (Rebecca Bellan/TechCrunch)",
-            "link": "https://www.techmeme.com/260520/p50#a260520p50",
-            "published": "Wed, 20 May 2026 19:20:02 -0400"
+            "title": "Commure, which offers AI, revenue cycle management, and workflow automation tools for healthcare providers, raised $70M led by GC at a $7B post-money valuation (Paige Minemyer/Fierce Healthcare)",
+            "link": "https://www.techmeme.com/260521/p2#a260521p2",
+            "published": "Thu, 21 May 2026 00:35:02 -0400"
         },
         {
-            "title": "SpaceX S-1: Anthropic is paying SpaceX $1.25B/mo. until May 2029 under their compute deal; Anthropic says it's expanding the deal to include Colossus 2 capacity (Ina Fried/Axios)",
-            "link": "https://www.techmeme.com/260520/p49#a260520p49",
-            "published": "Wed, 20 May 2026 17:55:03 -0400"
+            "title": "Ofcom says Meta, Snap, and Roblox will adopt stronger anti-grooming measures, while TikTok and YouTube \"failed to commit to any significant changes\" (Ofcom)",
+            "link": "https://www.techmeme.com/260521/p1#a260521p1",
+            "published": "Thu, 21 May 2026 00:01:33 -0400"
         },
         {
-            "title": "Filing: SpaceX reports 2025 revenue of $18.7B, up 33% YoY, a $4.9B loss, vs. a $791M profit in 2024, and $20.7B in capital expenditures, up from $11.2B (New York Times)",
-            "link": "https://www.techmeme.com/260520/p48#a260520p48",
-            "published": "Wed, 20 May 2026 17:25:02 -0400"
+            "title": "AMD says its Mac Mini-sized Ryzen AI Halo PC starts at $3,999 with Ryzen AI Max 300 chips, for pre-order in June, and unveils AI Max 400 chips, available in Q3 (Devindra Hardawar/Engadget)",
+            "link": "https://www.techmeme.com/260520/p57#a260520p57",
+            "published": "Wed, 20 May 2026 23:40:02 -0400"
         },
         {
-            "title": "Nvidia reports Q1 net income up 211% YoY to $58.3B, beating analyst estimates of $42.9B, and raises Q2 revenue forecast to $91B (Robbie Whelan/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260520/p47#a260520p47",
-            "published": "Wed, 20 May 2026 17:10:01 -0400"
+            "title": "Cohere releases Command A+, a sparse MoE open model built for agentic tasks, with 218B total and 25B active parameters, its first under the Apache 2.0 license (Carl Franzen/VentureBeat)",
+            "link": "https://www.techmeme.com/260520/p56#a260520p56",
+            "published": "Wed, 20 May 2026 23:25:01 -0400"
         },
         {
-            "title": "In disclosures to investors, Anthropic says it expects to generate $10.9B in revenue in Q2, vs. $4.8B in Q1, and turn a $559M operating profit, its first ever (Berber Jin/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260520/p46#a260520p46",
-            "published": "Wed, 20 May 2026 17:05:04 -0400"
+            "title": "Jensen Huang said that Nvidia has \"largely conceded\" China's AI chip market to Huawei and should \"expect nothing\" regarding chip sale approvals to China (Lee Ying Shan/CNBC)",
+            "link": "https://www.techmeme.com/260520/p55#a260520p55",
+            "published": "Wed, 20 May 2026 22:10:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Musk\u2019s SpaceX Reveals Its Finances for the First Time as It Readies for IPO",
             "link": "https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html",
-            "published": "Wed, 20 May 2026 22:02:26 +0000"
+            "published": "Thu, 21 May 2026 00:23:43 +0000"
         },
         {
             "title": "OpenAI Prepares to File for an I.P.O. in Coming Weeks",
@@ -45,7 +45,7 @@
         {
             "title": "Soundtrack to 8,000 Job Cuts: A Meta Worker\u2019s Layoff-Themed A.I. Songs",
             "link": "https://www.nytimes.com/2026/05/20/technology/meta-layoffs-ai-song.html",
-            "published": "Wed, 20 May 2026 22:57:51 +0000"
+            "published": "Wed, 20 May 2026 22:57:52 +0000"
         },
         {
             "title": "Meta Lays Off 8,000 Employees, as A.I. Casualties Mount",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+            "link": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 21 May 2026 00:47:21 GMT"
+        },
         {
             "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
             "link": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
             "link": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 19 May 2026 11:05:09 GMT"
-        },
-        {
-            "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
-            "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 19 May 2026 08:45:23 GMT"
         }
     ]
 }
