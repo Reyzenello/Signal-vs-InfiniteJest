@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "ElevenLabs, which aims to build an all-in-one AI voice app, licensed 200K human-voiced audiobooks from major publishers, available in ElevenReader for $11/mo. (Ashley Carman/Bloomberg)",
+            "link": "https://www.techmeme.com/260521/p46#a260521p46",
+            "published": "Thu, 21 May 2026 19:05:02 -0400"
+        },
+        {
+            "title": "Source: Cursor reached $3B in annualized revenue in late April and now has 3,000+ customers paying at least $100K each for its software on an annualized basis (Rachel Metz/Bloomberg)",
+            "link": "https://www.techmeme.com/260521/p45#a260521p45",
+            "published": "Thu, 21 May 2026 17:45:01 -0400"
+        },
+        {
             "title": "Spotify closes up 13% after announcing new features and 2030 guidance, forecasting a compound annual growth rate in the mid-teens and gross margins of 35%-40% (Samantha Subin/CNBC)",
             "link": "https://www.techmeme.com/260521/p44#a260521p44",
             "published": "Thu, 21 May 2026 17:25:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Take-Two reports Q4 bookings flat YoY at $1.58B, forecasts FY 2027 bookings below est., reiterates GTA VI's November 19 launch date; TTWO jumps 6%+ after hours (Zaheer Kachwala/Reuters)",
             "link": "https://www.techmeme.com/260521/p42#a260521p42",
             "published": "Thu, 21 May 2026 17:05:01 -0400"
-        },
-        {
-            "title": "Workday reports Q1 revenue up 13% YoY to $2.54B vs. $2.52B est., and lifts its full-year forecast, saying its AI strategy is working; WDAY jumps 9%+ after hours (Jordan Novet/CNBC)",
-            "link": "https://www.techmeme.com/260521/p41#a260521p41",
-            "published": "Thu, 21 May 2026 16:40:00 -0400"
-        },
-        {
-            "title": "Texas AG Ken Paxton sues Meta, accusing WhatsApp of marketing its services as secure but failing to \"deliver on those promises\" by accessing encrypted messages (Ryan Autullo/Bloomberg Law)",
-            "link": "https://www.techmeme.com/260521/p40#a260521p40",
-            "published": "Thu, 21 May 2026 16:35:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "UK police bosses urge unsafe platforms to be blocked for under-16s",
+            "link": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 21 May 2026 23:07:54 GMT"
+        },
+        {
             "title": "Meta settles social media addiction case with US school district",
             "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 21 May 2026 20:34:59 GMT"
@@ -73,11 +78,6 @@
             "title": "US groups urge investigation into child safety and spending on Roblox",
             "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 20 May 2026 10:27:50 GMT"
-        },
-        {
-            "title": "Google to release first smart glasses since Google Glass flop",
-            "link": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 19 May 2026 21:00:12 GMT"
         }
     ]
 }
