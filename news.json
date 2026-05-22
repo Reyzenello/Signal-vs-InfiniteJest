@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Google's AI Overviews are failing to provide search summaries for specific command-style terms including \"disregard\", \"ignore\", and \"skip\" (Jay Peters/The Verge)",
-            "link": "https://www.techmeme.com/260522/p24#a260522p24",
-            "published": "Fri, 22 May 2026 16:15:01 -0400"
+            "title": "Google files its appeal of the US federal ruling deeming it an illegal search monopolist, arguing it \"prevailed in the marketplace fair and square\" (Lauren Feiner/The Verge)",
+            "link": "https://www.techmeme.com/260522/p30#a260522p30",
+            "published": "Fri, 22 May 2026 19:10:01 -0400"
         },
         {
-            "title": "Sources: the SEC has delayed the release of a plan for an \"innovation exemption\" that would allow crypto firms to trade tokenized versions of US stocks (Scott Patterson/Bloomberg)",
-            "link": "https://www.techmeme.com/260522/p23#a260522p23",
-            "published": "Fri, 22 May 2026 15:30:02 -0400"
+            "title": "China's Wingtech files a lawsuit against Nexperia, saying its control over the Dutch chipmaker remained restricted, and seeks ~$1.2B for economic losses (Reuters)",
+            "link": "https://www.techmeme.com/260522/p29#a260522p29",
+            "published": "Fri, 22 May 2026 19:00:42 -0400"
         },
         {
-            "title": "Reddit stock fell 5%+ on Friday after Meta launched a standalone app for online forums, called Forum; Reddit's stock is now down almost 40% this year (Jonathan Vanian/CNBC)",
-            "link": "https://www.techmeme.com/260522/p22#a260522p22",
-            "published": "Fri, 22 May 2026 15:20:01 -0400"
+            "title": "The US Ambassador to Canada accuses Canada of imposing trade barriers by requiring that US streamers contribute 15% of Canadian revenue to local programming (Paul Vieira/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260522/p28#a260522p28",
+            "published": "Fri, 22 May 2026 18:45:00 -0400"
         },
         {
-            "title": "Google rolls out a Google Wallet redesign, including \"dynamic quick access\" for favorites, a \"View more\" floating action button, and more (Abner Li/9to5Google)",
-            "link": "https://www.techmeme.com/260522/p21#a260522p21",
-            "published": "Fri, 22 May 2026 14:05:01 -0400"
+            "title": "President Emmanuel Macron says France will invest an additional \u20ac1B for quantum computing research and a further \u20ac550M in state funding for semiconductors (France 24)",
+            "link": "https://www.techmeme.com/260522/p27#a260522p27",
+            "published": "Fri, 22 May 2026 18:25:01 -0400"
         },
         {
-            "title": "Activision shareholders reach a $250M settlement over allegations that Microsoft and Activision underpaid them during Microsoft's 2023 acquisition of Activision (Tom Hals/Reuters)",
-            "link": "https://www.techmeme.com/260522/p20#a260522p20",
-            "published": "Fri, 22 May 2026 12:50:01 -0400"
+            "title": "Sources: WH approved a $9B request to acquire advanced AI chips for spy agencies; Anthropic is finalizing a classified contract for NSA to keep using its tools (New York Times)",
+            "link": "https://www.techmeme.com/260522/p26#a260522p26",
+            "published": "Fri, 22 May 2026 17:55:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Waymo Suspends Service in Six Cities After Cars Drove Into Flooded Roads",
             "link": "https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html",
-            "published": "Fri, 22 May 2026 20:09:09 +0000"
+            "published": "Fri, 22 May 2026 21:24:50 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+            "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 22 May 2026 21:30:06 GMT"
+        },
         {
             "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
             "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Love factually: Dating start-ups promise to cut the cheats",
             "link": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 21 May 2026 23:14:18 GMT"
-        },
-        {
-            "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
-            "link": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 21 May 2026 23:07:54 GMT"
         }
     ]
 }
