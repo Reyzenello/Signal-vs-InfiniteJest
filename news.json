@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Activision shareholders reach a $250M settlement over allegations that Microsoft and Activision underpaid them during Microsoft's 2023 acquisition of Activision (Tom Hals/Reuters)",
+            "link": "https://www.techmeme.com/260522/p20#a260522p20",
+            "published": "Fri, 22 May 2026 12:50:01 -0400"
+        },
+        {
+            "title": "How the global memory chip crunch, driven by AI demand, is hurting China's car industry, squeezing automakers already hit by a price war and razor-thin margins (Nikkei Asia)",
+            "link": "https://www.techmeme.com/260522/p19#a260522p19",
+            "published": "Fri, 22 May 2026 11:50:01 -0400"
+        },
+        {
             "title": "Memo: Yusuf Mehdi, a 35-year Microsoft veteran who has been its consumer chief marketing officer since 2023, will leave the company after the next fiscal year (Todd Bishop/GeekWire)",
             "link": "https://www.techmeme.com/260522/p18#a260522p18",
             "published": "Fri, 22 May 2026 10:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Zero2IPO Research: Chinese AI startups raised $16.2B in Q1 2026, up 185% YoY, led by top AI labs including Moonshot, Z.ai, and MiniMax (Karen Tian/South China Morning Post)",
             "link": "https://www.techmeme.com/260522/p16#a260522p16",
             "published": "Fri, 22 May 2026 09:35:01 -0400"
-        },
-        {
-            "title": "Microsoft veteran executive Yusuf Mehdi is leaving after the next fiscal year, an internal memo shows (Ashley Stewart/Business Insider)",
-            "link": "https://www.techmeme.com/260522/p15#a260522p15",
-            "published": "Fri, 22 May 2026 08:45:02 -0400"
-        },
-        {
-            "title": "Sources: DeepSeek execs told potential investors in its ongoing $10B round that it will prioritize groundbreaking AI research over short-term commercialization (Lulu Yilun Chen/Bloomberg)",
-            "link": "https://www.techmeme.com/260522/p14#a260522p14",
-            "published": "Fri, 22 May 2026 08:30:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 21 May 2026 09:02:17 +0000"
         },
         {
-            "title": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
-            "link": "https://www.nytimes.com/2026/05/22/podcasts/our-field-trip-to-google-i-o-a-sit-down-with-sundar-pichai-system-update.html",
-            "published": "Fri, 22 May 2026 11:11:14 +0000"
+            "title": "Google Appeals Landmark Ruling Declaring It a Monopolist in Search",
+            "link": "https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html",
+            "published": "Fri, 22 May 2026 16:34:58 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+            "link": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 22 May 2026 16:10:21 GMT"
+        },
         {
             "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
             "link": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
             "link": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 21 May 2026 23:07:54 GMT"
-        },
-        {
-            "title": "Meta settles social media addiction case with US school district",
-            "link": "https://www.bbc.com/news/articles/cgepze483pqo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 21 May 2026 20:34:59 GMT"
         }
     ]
 }
