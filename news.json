@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "As the US AI boom drains venture capital from Africa, startups on the continent are pivoting to domestic funding sources, like pension funds and local VC firms (Rivaldo Jantjies/Bloomberg)",
-            "link": "https://www.techmeme.com/260528/p13#a260528p13",
-            "published": "Thu, 28 May 2026 04:45:03 -0400"
+            "title": "Illustrations based on sources detail Apple's Siri overhaul, including a new UI, a chatbot-style app, and other major iOS 27 changes, ahead of WWDC on June 8 (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260528/p32#a260528p32",
+            "published": "Thu, 28 May 2026 08:22:20 -0400"
         },
         {
-            "title": "Swedish chip optical component maker Sivers, whose stock is up ~1,700% YTD, giving it a ~$2.5B market cap, has become one of the country's most-shorted stocks (Jonas Ekblom/Bloomberg)",
-            "link": "https://www.techmeme.com/260528/p12#a260528p12",
-            "published": "Thu, 28 May 2026 04:32:49 -0400"
+            "title": "Oura unveils the Oura Ring 5, with a 40% smaller form factor, improved sensing, and repositioned LEDs, on sale from June 4 for $399, up from the Ring 4's $349 (Bloomberg)",
+            "link": "https://www.techmeme.com/260528/p31#a260528p31",
+            "published": "Thu, 28 May 2026 08:10:00 -0400"
         },
         {
-            "title": "Anthropic and OpenAI seem to have finally found product-market fit with coding agents, which are quickly becoming daily drivers for highly paid professionals (Simon Willison/Simon Willison's Weblog)",
-            "link": "https://www.techmeme.com/260528/p11#a260528p11",
-            "published": "Thu, 28 May 2026 02:30:01 -0400"
+            "title": "Letter: US Central Command says it received \"threat reports concerning adversary exploitation of commercial location data\" to target US personnel in war zones (Raphael Satter/Reuters)",
+            "link": "https://www.techmeme.com/260528/p30#a260528p30",
+            "published": "Thu, 28 May 2026 07:50:01 -0400"
         },
         {
-            "title": "Surging AI demand causes shortages and price increases across the entire optical supply chain, from lasers and substrates to optical fibers and connectors (Nikkei Asia)",
-            "link": "https://www.techmeme.com/260528/p10#a260528p10",
-            "published": "Thu, 28 May 2026 02:20:01 -0400"
+            "title": "IBM and Red Hat commit $5B to establish a new model for open-source software, dubbed Project Lightwell, and will deploy 20,000 engineers, supported by AI (Connor Hart/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260528/p29#a260528p29",
+            "published": "Thu, 28 May 2026 07:40:01 -0400"
         },
         {
-            "title": "Sources: ByteDance is developing its own CPUs to support its growing AI infrastructure needs, as chip price hikes and supply shortages constrain expansion plans (Reuters)",
-            "link": "https://www.techmeme.com/260528/p9#a260528p9",
-            "published": "Thu, 28 May 2026 02:15:02 -0400"
+            "title": "AWS is rolling out Resilient Network Graphs, a \"quasi-random\" networking architecture that uses a flat mesh design, and says it accelerates information flows (Lauren Goode/Wired)",
+            "link": "https://www.techmeme.com/260528/p28#a260528p28",
+            "published": "Thu, 28 May 2026 07:30:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 26 May 2026 18:59:37 +0000"
         },
         {
-            "title": "Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.",
-            "link": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
-            "published": "Wed, 27 May 2026 13:53:20 +0000"
+            "title": "Online Scams Have Evolved in the A.I. Era. Here\u2019s What to Do.",
+            "link": "https://www.nytimes.com/2026/05/28/technology/personaltech/online-scams-have-evolved-in-the-ai-era-heres-what-to-do.html",
+            "published": "Thu, 28 May 2026 09:06:13 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
+            "link": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 28 May 2026 10:22:55 GMT"
+        },
         {
             "title": "King's College team wins access to cutting-edge Google quantum chip",
             "link": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "The rise of the fruit that tastes like custard",
             "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 27 May 2026 10:58:45 GMT"
-        },
-        {
-            "title": "Porn company fined \u00a3600,000 by Ofcom over age check failings",
-            "link": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 27 May 2026 10:33:46 GMT"
         }
     ]
 }
