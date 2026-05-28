@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "Elon Musk says Anthropic's Colossus deal is \"a 180 day lease with 90 day notice\"; SpaceX's S-1 said Anthropic \"agreed to pay a monthly fee through May 2029\" (Russell Brandom/TechCrunch)",
-            "link": "https://www.techmeme.com/260528/p47#a260528p47",
-            "published": "Thu, 28 May 2026 12:35:02 -0400"
+            "title": "The CFTC moves to vacate a $5M settlement with Gemini, reversing a Biden-era enforcement action, following a lobbying campaign by the Winklevoss twins (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260528/p52#a260528p52",
+            "published": "Thu, 28 May 2026 15:35:01 -0400"
         },
         {
-            "title": "Meta's Oversight Board says Meta agreed to increase its funding by $13M, ensuring that it will be funded through 2028, reversing a planned decrease in funding (Casey Newton/Platformer)",
-            "link": "https://www.techmeme.com/260528/p46#a260528p46",
-            "published": "Thu, 28 May 2026 11:40:00 -0400"
+            "title": "Anthropic raised a $65B Series H at a $965B post-money valuation, overtaking OpenAI's $852B valuation, and says its revenue run rate crossed $47B this month (New York Times)",
+            "link": "https://www.techmeme.com/260528/p51#a260528p51",
+            "published": "Thu, 28 May 2026 14:12:16 -0400"
         },
         {
-            "title": "IBM plans to invest more than $10B in quantum computing over five years as it aims to build the first large-scale, error-free quantum computer by 2029 (Reuters)",
-            "link": "https://www.techmeme.com/260528/p45#a260528p45",
-            "published": "Thu, 28 May 2026 11:30:01 -0400"
+            "title": "Anthropic says it expects Mythos-class models to be available to all customers \"in the coming weeks\" following the development of stronger safeguards (Madison Mills/Axios)",
+            "link": "https://www.techmeme.com/260528/p50#a260528p50",
+            "published": "Thu, 28 May 2026 14:10:02 -0400"
         },
         {
-            "title": "Waymo unveils Ojai, a vehicle designed in partnership with Zeekr for robotaxi use, initially for select riders in San Francisco, Los Angeles, and Phoenix (Edward Ludlow/Bloomberg)",
-            "link": "https://www.techmeme.com/260528/p44#a260528p44",
-            "published": "Thu, 28 May 2026 11:25:01 -0400"
+            "title": "Corgi, which uses AI to provide insurance for startups, raised a $106M Series B1 at a $2.6B valuation, up from $1.3B on May 6, for a total funding of $378M (Dominic-Madori Davis/TechCrunch)",
+            "link": "https://www.techmeme.com/260528/p49#a260528p49",
+            "published": "Thu, 28 May 2026 13:25:00 -0400"
         },
         {
-            "title": "YouTube launches new Premium podcast features, including an AI-powered recommendation tool, an \"Auto speed\" setting, and a new on-the-go listening mode (Aisha Malik/TechCrunch)",
-            "link": "https://www.techmeme.com/260528/p43#a260528p43",
-            "published": "Thu, 28 May 2026 11:20:01 -0400"
+            "title": "Anthropic launches Opus 4.8, saying it's \"more likely to flag uncertainties about its work and less likely to make unsupported claims\", at the same price as 4.7 (Russell Brandom/TechCrunch)",
+            "link": "https://www.techmeme.com/260528/p48#a260528p48",
+            "published": "Thu, 28 May 2026 13:13:59 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
-            "link": "https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html",
-            "published": "Wed, 27 May 2026 21:14:51 +0000"
+            "title": "I Tried to Sell My House With A.I.",
+            "link": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
+            "published": "Thu, 28 May 2026 09:00:06 +0000"
         },
         {
-            "title": "Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time",
-            "link": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html",
-            "published": "Wed, 27 May 2026 12:58:05 +0000"
-        },
-        {
-            "title": "At the A.I. Epicenter, Technologists Dismiss Pope Leo\u2019s Warnings About the New Technology",
-            "link": "https://www.nytimes.com/2026/05/26/technology/pope-leo-ai-religion.html",
-            "published": "Tue, 26 May 2026 21:54:36 +0000"
-        },
-        {
-            "title": "SpaceX IPO Filing Reveals Favorable Terms for Elon Musk",
-            "link": "https://www.nytimes.com/2026/05/26/technology/spacex-elon-musk-pay-board-governance.html",
-            "published": "Tue, 26 May 2026 18:59:37 +0000"
+            "title": "Anthropic Tops OpenAI to Become the World\u2019s Most Valuable A.I. Start-Up",
+            "link": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html",
+            "published": "Thu, 28 May 2026 19:20:47 +0000"
         },
         {
             "title": "A.I. Is Making Scams Hard to Spot. Here\u2019s How to Protect Yourself.",
             "link": "https://www.nytimes.com/2026/05/28/technology/personaltech/scams-ai.html",
             "published": "Thu, 28 May 2026 15:54:54 +0000"
+        },
+        {
+            "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
+            "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
+            "published": "Thu, 28 May 2026 12:22:29 +0000"
+        },
+        {
+            "title": "Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time",
+            "link": "https://www.nytimes.com/2026/05/27/technology/ai-screens-schools-weingarten.html",
+            "published": "Wed, 27 May 2026 12:58:05 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+            "link": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 28 May 2026 18:28:42 GMT"
+        },
         {
             "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
             "link": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Google worker charged with using internal data to make $1.2m on bets",
             "link": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 28 May 2026 02:14:19 GMT"
-        },
-        {
-            "title": "The rise of the fruit that tastes like custard",
-            "link": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 27 May 2026 10:58:45 GMT"
         }
     ]
 }
