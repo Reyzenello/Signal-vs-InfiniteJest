@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A profile of Expedia CEO Ariane Gorin, who became CEO in 2024 and has overseen back-to-back years of revenue growth, with record gross bookings of $119B in 2025 (Brent Crane/Bloomberg)",
+            "link": "https://www.techmeme.com/260531/p6#a260531p6",
+            "published": "Sun, 31 May 2026 05:00:13 -0400"
+        },
+        {
+            "title": "Bill Gates' carefully crafted public image has been eroded by revelations about his ties to Epstein; Gates was recently snubbed from Microsoft's CEO Summit (Emily Glazer/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260531/p5#a260531p5",
+            "published": "Sun, 31 May 2026 02:00:02 -0400"
+        },
+        {
             "title": "Sources: Microsoft and Nvidia will unveil the first Windows PCs powered by Nvidia SoCs, including devices from Surface and Dell, at Computex and Build 2026 (Ina Fried/Axios)",
             "link": "https://www.techmeme.com/260531/p4#a260531p4",
             "published": "Sun, 31 May 2026 01:35:00 -0400"
@@ -14,16 +24,6 @@
             "title": "China will implement new online food delivery regulations on June 1, requiring platforms to regularly verify businesses' identities, locations, and licenses (Nikkei Asia)",
             "link": "https://www.techmeme.com/260531/p2#a260531p2",
             "published": "Sun, 31 May 2026 00:55:01 -0400"
-        },
-        {
-            "title": "With Microsoft's GitHub Copilot shifting to token-usage billing on June 1, many developers bemoan massive cost increases and the end of flat-rate subscriptions (Lucas Ropek/TechCrunch)",
-            "link": "https://www.techmeme.com/260531/p1#a260531p1",
-            "published": "Sun, 31 May 2026 00:45:01 -0400"
-        },
-        {
-            "title": "As robotaxi companies attempt to scale in the US, they face increasing scrutiny and mounting criticism from drivers, law enforcement, and local governments (Sean McLain/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260530/p16#a260530p16",
-            "published": "Sat, 30 May 2026 21:15:00 -0400"
         }
     ],
     "source_1": [
@@ -48,17 +48,12 @@
             "published": "Thu, 28 May 2026 12:22:29 +0000"
         },
         {
-            "title": "Powerful A.I. Super PACs Duel Over the Midterms: \u2018This Is a War\u2019",
-            "link": "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html",
-            "published": "Sat, 30 May 2026 14:09:34 +0000"
+            "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can\u2019t Fly in It Yet",
+            "link": "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
+            "published": "Sun, 31 May 2026 09:00:05 +0000"
         }
     ],
     "source_2": [
-        {
-            "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-            "link": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 30 May 2026 22:23:32 GMT"
-        },
         {
             "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
             "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
@@ -78,6 +73,11 @@
             "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
             "link": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 28 May 2026 10:22:55 GMT"
+        },
+        {
+            "title": "King's College team wins access to cutting-edge Google quantum chip",
+            "link": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 28 May 2026 08:41:28 GMT"
         }
     ]
 }
