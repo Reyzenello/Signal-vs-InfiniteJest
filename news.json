@@ -1,41 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Researchers find several packages in the @redhat-cloud-services npm namespace shipped malware targeting credentials for GitHub Actions, AWS, GCP, and others (Rohan Prabhu/Step Security Blog)",
+            "title": "Alphabet is raising $80B in equity offerings, including a $10B investment deal with Berkshire Hathaway, to help raise money for its AI spending plans (Bloomberg)",
+            "link": "https://www.techmeme.com/260601/p54#a260601p54",
+            "published": "Mon, 01 Jun 2026 17:10:01 -0400"
+        },
+        {
+            "title": "HPE reports Q2 revenue up 40% YoY to $10.7B, vs. $9.74B est., Server revenue up 33%, forecasts revenue for FY26 and FY27 above est.; HPE jumps 30%+ after hours (Brody Ford/Bloomberg)",
+            "link": "https://www.techmeme.com/260601/p53#a260601p53",
+            "published": "Mon, 01 Jun 2026 16:50:02 -0400"
+        },
+        {
+            "title": "Gigascale Capital, a climate tech VC firm co-founded by former Meta CTO Mike Schroepfer, closed a $250M fund to back early-stage startups supporting the AI boom (Michelle Ma/Bloomberg)",
+            "link": "https://www.techmeme.com/260601/p52#a260601p52",
+            "published": "Mon, 01 Jun 2026 16:10:00 -0400"
+        },
+        {
+            "title": "Researchers find packages in the @redhat-cloud-services npm namespace shipped malware that harvests credentials for GitHub Actions, AWS, GCP, Azure, and others (Rohan Prabhu/Step Security Blog)",
             "link": "https://www.techmeme.com/260601/p51#a260601p51",
             "published": "Mon, 01 Jun 2026 14:30:01 -0400"
         },
         {
-            "title": "Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts amid a wave of high-profile account takeovers; Meta fixed the issue (Jason Koebler/404 Media)",
+            "title": "Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts, amid a wave of high-profile account takeovers; Meta fixed the issue (Jason Koebler/404 Media)",
             "link": "https://www.techmeme.com/260601/p50#a260601p50",
             "published": "Mon, 01 Jun 2026 13:35:02 -0400"
-        },
-        {
-            "title": "Source: Salesforce has a stake in Anthropic worth ~$5B; Salesforce first invested about $50M in an early 2023 round and has continually invested in rounds since (Brody Ford/Bloomberg)",
-            "link": "https://www.techmeme.com/260601/p49#a260601p49",
-            "published": "Mon, 01 Jun 2026 12:40:03 -0400"
-        },
-        {
-            "title": "IBM shares jump 9%+ after a six-month old video of Trump praising CEO Arvind Krishna was recirculated on X; IBM had surged ~40% in a little over two weeks (Matthew Griffin/Bloomberg)",
-            "link": "https://www.techmeme.com/260601/p48#a260601p48",
-            "published": "Mon, 01 Jun 2026 12:30:01 -0400"
-        },
-        {
-            "title": "Stockholm-based Endra, which automates the design of plumbing and electrical wiring in new buildings, raised $50M led by a16z (Lucinda Shen/Axios)",
-            "link": "https://www.techmeme.com/260601/p47#a260601p47",
-            "published": "Mon, 01 Jun 2026 12:20:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
             "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
-            "published": "Mon, 01 Jun 2026 18:41:51 +0000"
+            "published": "Mon, 01 Jun 2026 18:41:52 +0000"
         },
         {
             "title": "How Box Created 13 New Types of Jobs Because of A.I.",
             "link": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html",
-            "published": "Mon, 01 Jun 2026 14:14:19 +0000"
+            "published": "Mon, 01 Jun 2026 20:07:42 +0000"
         },
         {
             "title": "Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts?",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+            "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 01 Jun 2026 18:58:26 GMT"
+        },
+        {
             "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
             "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Jun 2026 17:07:20 GMT"
@@ -73,11 +78,6 @@
             "title": "California Attorney General sues 23andMe successor for 2023 data breach",
             "link": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 28 May 2026 18:28:42 GMT"
-        },
-        {
-            "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
-            "link": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 28 May 2026 10:22:55 GMT"
         }
     ]
 }
