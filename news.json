@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "SEC filing: SpaceX will reserve up to 5% of its Class A shares for select employees and executives' friends and family; 60%+ of shares have an extended lock-up (Charles Capel/Bloomberg)",
-            "link": "https://www.techmeme.com/260601/p33#a260601p33",
-            "published": "Mon, 01 Jun 2026 08:40:00 -0400"
+            "title": "Researchers find several packages in the @redhat-cloud-services npm namespace shipped malware targeting credentials for GitHub Actions, AWS, GCP, and others (Rohan Prabhu/Step Security Blog)",
+            "link": "https://www.techmeme.com/260601/p51#a260601p51",
+            "published": "Mon, 01 Jun 2026 14:30:01 -0400"
         },
         {
-            "title": "SEC filing: Strategy sold 32 bitcoin between May 26 and May 31 for ~$2.5M at an average net price of $77,135 per coin, its first disclosed bitcoin disposal (CoinDesk)",
-            "link": "https://www.techmeme.com/260601/p32#a260601p32",
-            "published": "Mon, 01 Jun 2026 08:15:07 -0400"
+            "title": "Hackers say they used Meta's AI support chatbot to change emails tied to Instagram accounts amid a wave of high-profile account takeovers; Meta fixed the issue (Jason Koebler/404 Media)",
+            "link": "https://www.techmeme.com/260601/p50#a260601p50",
+            "published": "Mon, 01 Jun 2026 13:35:02 -0400"
         },
         {
-            "title": "Google plans to open its first physical Google Store outside of the US, in Tokyo's Omotesando district \"this summer\", marking Google's 11th physical store (Damien Wilde/9to5Google)",
-            "link": "https://www.techmeme.com/260601/p31#a260601p31",
-            "published": "Mon, 01 Jun 2026 08:00:12 -0400"
+            "title": "Source: Salesforce has a stake in Anthropic worth ~$5B; Salesforce first invested about $50M in an early 2023 round and has continually invested in rounds since (Brody Ford/Bloomberg)",
+            "link": "https://www.techmeme.com/260601/p49#a260601p49",
+            "published": "Mon, 01 Jun 2026 12:40:03 -0400"
         },
         {
-            "title": "French private equity firm Ardian partners with data center group Verne to build an up to \u20ac5B AI \"gigafactory\" outside Paris, targeting 500MW in total capacity (Financial Times)",
-            "link": "https://www.techmeme.com/260601/p30#a260601p30",
-            "published": "Mon, 01 Jun 2026 07:45:01 -0400"
+            "title": "IBM shares jump 9%+ after a six-month old video of Trump praising CEO Arvind Krishna was recirculated on X; IBM had surged ~40% in a little over two weeks (Matthew Griffin/Bloomberg)",
+            "link": "https://www.techmeme.com/260601/p48#a260601p48",
+            "published": "Mon, 01 Jun 2026 12:30:01 -0400"
         },
         {
-            "title": "Israeli networking company DriveNets raised a $410M Series D led by Bessemer and Atreides at an $8.5B valuation, taking its total funding to ~$1B (Meir Orbach/CTech)",
-            "link": "https://www.techmeme.com/260601/p29#a260601p29",
-            "published": "Mon, 01 Jun 2026 07:30:02 -0400"
+            "title": "Stockholm-based Endra, which automates the design of plumbing and electrical wiring in new buildings, raised $50M led by a16z (Lucinda Shen/Axios)",
+            "link": "https://www.techmeme.com/260601/p47#a260601p47",
+            "published": "Mon, 01 Jun 2026 12:20:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "I Tried to Sell My House With A.I.",
-            "link": "https://www.nytimes.com/2026/05/28/technology/sell-house-with-ai-no-realtor.html",
-            "published": "Thu, 28 May 2026 20:22:27 +0000"
+            "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
+            "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
+            "published": "Mon, 01 Jun 2026 18:41:51 +0000"
         },
         {
-            "title": "Anthropic Tops OpenAI to Become the World\u2019s Most Valuable A.I. Start-Up",
-            "link": "https://www.nytimes.com/2026/05/28/technology/anthropic-tops-openai-valuation.html",
-            "published": "Thu, 28 May 2026 19:50:31 +0000"
+            "title": "How Box Created 13 New Types of Jobs Because of A.I.",
+            "link": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html",
+            "published": "Mon, 01 Jun 2026 14:14:19 +0000"
         },
         {
-            "title": "A.I. Is Making Scams Hard to Spot. Here\u2019s How to Protect Yourself.",
-            "link": "https://www.nytimes.com/2026/05/28/technology/personaltech/scams-ai.html",
-            "published": "Thu, 28 May 2026 15:54:54 +0000"
-        },
-        {
-            "title": "In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape",
-            "link": "https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html",
-            "published": "Thu, 28 May 2026 12:22:29 +0000"
+            "title": "Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts?",
+            "link": "https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html",
+            "published": "Mon, 01 Jun 2026 14:14:27 +0000"
         },
         {
             "title": "Nvidia Has a Plan to Put Its Chips in Personal Computers",
             "link": "https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html",
-            "published": "Mon, 01 Jun 2026 07:32:47 +0000"
+            "published": "Mon, 01 Jun 2026 14:01:28 +0000"
+        },
+        {
+            "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
+            "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
+            "published": "Mon, 01 Jun 2026 18:24:37 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+            "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 01 Jun 2026 17:07:20 GMT"
+        },
         {
             "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
             "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
             "link": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 28 May 2026 10:22:55 GMT"
-        },
-        {
-            "title": "King's College team wins access to cutting-edge Google quantum chip",
-            "link": "https://www.bbc.com/news/articles/cd7pwezyze1o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 28 May 2026 08:41:28 GMT"
         }
     ]
 }
