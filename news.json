@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Russia's Federal Security Service claims it uncovered a large-scale spyware operation by \"foreign intelligence operatives\" on senior officials' mobile phones (Bloomberg)",
-            "link": "https://www.techmeme.com/260602/p17#a260602p17",
-            "published": "Tue, 02 Jun 2026 06:50:02 -0400"
+            "title": "Sources: Intel faces a supply shortage of its Panther Lake and Wildcat Lake laptop chips built on its 18A process node; Intel says there are \"some\" shortages (Tim Culpan/Culpium)",
+            "link": "https://www.techmeme.com/260602/p24#a260602p24",
+            "published": "Tue, 02 Jun 2026 10:55:02 -0400"
         },
         {
-            "title": "Sources: after Trump nixed an AI EO on May 21, US officials are navigating internal strife and chaotic talks; early model access was the most contentious issue (Wired)",
-            "link": "https://www.techmeme.com/260602/p16#a260602p16",
-            "published": "Tue, 02 Jun 2026 06:35:02 -0400"
+            "title": "Sources: the UK has begun using SpaceX's militarized satellite network Starshield, making it among the first countries outside the US to adopt the tech (Cassell Bryan-Low/Reuters)",
+            "link": "https://www.techmeme.com/260602/p23#a260602p23",
+            "published": "Tue, 02 Jun 2026 10:40:07 -0400"
         },
         {
-            "title": "Amazon schedules Prime Day for June 23 to June 26, shifting the four-day sales event from its traditional July slot to avoid conflicts with the FIFA World Cup (Arriana McLymore/Reuters)",
-            "link": "https://www.techmeme.com/260602/p15#a260602p15",
-            "published": "Tue, 02 Jun 2026 06:20:01 -0400"
+            "title": "Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability (Siobhan Roberts/New York Times)",
+            "link": "https://www.techmeme.com/260602/p22#a260602p22",
+            "published": "Tue, 02 Jun 2026 10:01:22 -0400"
         },
         {
-            "title": "OpenAI releases a new report on knowledge work: Codex now has 5M+ weekly active users, up 6x+ since February, and knowledge workers are ~20% of Codex users (OpenAI)",
-            "link": "https://www.techmeme.com/260602/p14#a260602p14",
-            "published": "Tue, 02 Jun 2026 06:05:01 -0400"
+            "title": "Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others (Financial Times)",
+            "link": "https://www.techmeme.com/260602/p21#a260602p21",
+            "published": "Tue, 02 Jun 2026 09:11:39 -0400"
         },
         {
-            "title": "Analysis: 22 of 24 US executive agencies saw a YoY increase in their average X account engagement during the first year of Trump's second term; @DOGE dominated (Pew Research Center)",
-            "link": "https://www.techmeme.com/260602/p13#a260602p13",
-            "published": "Tue, 02 Jun 2026 05:50:03 -0400"
+            "title": "Analysis: Palo Alto Networks' shareholders have voted to reject pay packages for its top executives seven times since 2015, more than any other S&P 500 company (Andrew Martin/Bloomberg)",
+            "link": "https://www.techmeme.com/260602/p20#a260602p20",
+            "published": "Tue, 02 Jun 2026 08:55:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Expands Safety Features for Teenagers",
+            "link": "https://www.nytimes.com/2026/06/02/technology/meta-safety-features-teenagers.html",
+            "published": "Tue, 02 Jun 2026 11:00:05 +0000"
+        },
         {
             "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
             "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
@@ -38,22 +43,22 @@
             "published": "Mon, 01 Jun 2026 20:07:43 +0000"
         },
         {
-            "title": "Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts?",
-            "link": "https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html",
-            "published": "Mon, 01 Jun 2026 14:14:27 +0000"
-        },
-        {
-            "title": "Nvidia Has a Plan to Put Its Chips in Personal Computers",
-            "link": "https://www.nytimes.com/2026/06/01/technology/nvidia-chips-personal-computers.html",
-            "published": "Mon, 01 Jun 2026 14:01:28 +0000"
-        },
-        {
             "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
             "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
             "published": "Mon, 01 Jun 2026 18:24:38 +0000"
+        },
+        {
+            "title": "Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts?",
+            "link": "https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html",
+            "published": "Mon, 01 Jun 2026 14:14:27 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+            "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Jun 2026 11:40:02 GMT"
+        },
         {
             "title": "How 'confused' AI rollout hurts firms and baffles staff",
             "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
             "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 29 May 2026 13:55:04 GMT"
-        },
-        {
-            "title": "Humanoid robots 'the future' of car making, says BMW",
-            "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 28 May 2026 23:36:45 GMT"
         }
     ]
 }
