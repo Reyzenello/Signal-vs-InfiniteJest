@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: a Broadcom-backed portion of Apollo and Blackstone's $36B debt deal to buy TPUs for Anthropic to lease may yield ~5.75% vs. 8%-9% for a riskier portion (Bloomberg)",
+            "link": "https://www.techmeme.com/260602/p62#a260602p62",
+            "published": "Tue, 02 Jun 2026 18:45:01 -0400"
+        },
+        {
+            "title": "The US sanctions Nobitex, Iran's largest crypto exchange, accusing it of helping Iran's government and blacklisted state institutions evade Western sanctions (Gavin Finch/Reuters)",
+            "link": "https://www.techmeme.com/260602/p61#a260602p61",
+            "published": "Tue, 02 Jun 2026 18:00:41 -0400"
+        },
+        {
+            "title": "Palo Alto Networks reports Q3 revenue up 31% YoY to $3B, including $388M from CyberArk and Chronosphere, vs. $2.94B est., and forecasts Q4 revenue above est. (Samantha Subin/CNBC)",
+            "link": "https://www.techmeme.com/260602/p60#a260602p60",
+            "published": "Tue, 02 Jun 2026 18:00:41 -0400"
+        },
+        {
             "title": "Meta is testing a Series feature, letting select creators make episodic Reels that are placed in a dedicated hub on their profile, using both old and new Reels (Aisha Malik/TechCrunch)",
             "link": "https://www.techmeme.com/260602/p58#a260602p58",
             "published": "Tue, 02 Jun 2026 16:55:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Source: a CoreWeave-tied data center raised $900M via five-year junk bonds, priced at par to yield 7.5%, as the sector increasingly turns to high-yield bonds (Gowri Gurumurthy/Bloomberg)",
             "link": "https://www.techmeme.com/260602/p59#a260602p59",
             "published": "Tue, 02 Jun 2026 16:55:02 -0400"
-        },
-        {
-            "title": "Marvell shares closed up 32.52% on Tuesday after Jensen Huang hailed the chipmaker as the \"next trillion-dollar company\" at Computex (Sawdah Bhaimiya/CNBC)",
-            "link": "https://www.techmeme.com/260602/p57#a260602p57",
-            "published": "Tue, 02 Jun 2026 16:49:16 -0400"
-        },
-        {
-            "title": "Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions (Ram Iyer/TechCrunch)",
-            "link": "https://www.techmeme.com/260602/p56#a260602p56",
-            "published": "Tue, 02 Jun 2026 16:00:52 -0400"
-        },
-        {
-            "title": "Internal memo: Meta is scaling back elements of its employee tracking tool, launched in April to help train its AI models, after staff raised concerns (Jyoti Mann/The Information)",
-            "link": "https://www.techmeme.com/260602/p55#a260602p55",
-            "published": "Tue, 02 Jun 2026 15:45:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Do you find yourself aimlessly scrolling? You're not alone",
+            "link": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Jun 2026 23:01:27 GMT"
+        },
+        {
             "title": "Microsoft testing wearable AI gadget aimed at office workers",
             "link": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Jun 2026 21:47:42 GMT"
@@ -73,11 +78,6 @@
             "title": "How 'confused' AI rollout hurts firms and baffles staff",
             "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Jun 2026 23:05:11 GMT"
-        },
-        {
-            "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-            "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Jun 2026 18:58:26 GMT"
         }
     ]
 }
