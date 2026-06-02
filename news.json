@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft debuts MAI-Thinking-1, its first advanced reasoning model, trained \"from the ground up on clean data, without distillation from third-party models\" (Jay Peters/The Verge)",
-            "link": "https://www.techmeme.com/260602/p52#a260602p52",
-            "published": "Tue, 02 Jun 2026 14:40:03 -0400"
+            "title": "Meta is testing a Series feature, letting select creators make episodic Reels that are placed in a dedicated hub on their profile, using both old and new Reels (Aisha Malik/TechCrunch)",
+            "link": "https://www.techmeme.com/260602/p58#a260602p58",
+            "published": "Tue, 02 Jun 2026 16:55:02 -0400"
         },
         {
-            "title": "Microsoft unveils Majorana 2 quantum chip, which was developed with the help of AI, and says it will have commercially useful quantum machines by 2029 (Stephen Nellis/Reuters)",
-            "link": "https://www.techmeme.com/260602/p51#a260602p51",
-            "published": "Tue, 02 Jun 2026 14:35:01 -0400"
+            "title": "Source: a CoreWeave-tied data center raised $900M via five-year junk bonds, priced at par to yield 7.5%, as the sector increasingly turns to high-yield bonds (Gowri Gurumurthy/Bloomberg)",
+            "link": "https://www.techmeme.com/260602/p59#a260602p59",
+            "published": "Tue, 02 Jun 2026 16:55:02 -0400"
         },
         {
-            "title": "Google adds a scam-detection feature, built on RCS, to Android 12 and later that verifies whether a call is coming from the caller's actual smartphone (Lily Hay Newman/Wired)",
-            "link": "https://www.techmeme.com/260602/p50#a260602p50",
-            "published": "Tue, 02 Jun 2026 14:30:00 -0400"
+            "title": "Marvell shares closed up 32.52% on Tuesday after Jensen Huang hailed the chipmaker as the \"next trillion-dollar company\" at Computex (Sawdah Bhaimiya/CNBC)",
+            "link": "https://www.techmeme.com/260602/p57#a260602p57",
+            "published": "Tue, 02 Jun 2026 16:49:16 -0400"
         },
         {
-            "title": "Microsoft announces the Agent Control Specification, an open-source standard that aims to provide granular, consistent governance over AI agent behavior (Ram Iyer/TechCrunch)",
-            "link": "https://www.techmeme.com/260602/p49#a260602p49",
-            "published": "Tue, 02 Jun 2026 14:25:02 -0400"
+            "title": "Microsoft releases ASSERT, an open-source framework that lets developers generate and run AI behavior tests using natural-language descriptions (Ram Iyer/TechCrunch)",
+            "link": "https://www.techmeme.com/260602/p56#a260602p56",
+            "published": "Tue, 02 Jun 2026 16:00:52 -0400"
         },
         {
-            "title": "GitHub unveils the GitHub Copilot desktop app in preview, which introduces a new feature called canvases for bidirectional work between users and agents (Mario Rodriguez/The GitHub Blog)",
-            "link": "https://www.techmeme.com/260602/p48#a260602p48",
-            "published": "Tue, 02 Jun 2026 14:20:02 -0400"
+            "title": "Internal memo: Meta is scaling back elements of its employee tracking tool, launched in April to help train its AI models, after staff raised concerns (Jyoti Mann/The Information)",
+            "link": "https://www.techmeme.com/260602/p55#a260602p55",
+            "published": "Tue, 02 Jun 2026 15:45:04 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models",
             "link": "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html",
-            "published": "Tue, 02 Jun 2026 18:27:23 +0000"
+            "published": "Tue, 02 Jun 2026 19:19:28 +0000"
         },
         {
             "title": "Meta Expands Safety Features for Teenagers",
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Microsoft testing wearable AI gadget aimed at office workers",
+            "link": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Jun 2026 21:47:42 GMT"
+        },
+        {
+            "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
+            "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 02 Jun 2026 19:24:31 GMT"
+        },
+        {
             "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
             "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Jun 2026 11:40:02 GMT"
@@ -68,16 +78,6 @@
             "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
             "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 01 Jun 2026 18:58:26 GMT"
-        },
-        {
-            "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-            "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Jun 2026 17:07:20 GMT"
-        },
-        {
-            "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-            "link": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 29 May 2026 13:55:04 GMT"
         }
     ]
 }
