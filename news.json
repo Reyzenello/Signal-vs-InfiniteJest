@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Intel faces a supply shortage of its Panther Lake and Wildcat Lake laptop chips built on its 18A process node; Intel says there are \"some\" shortages (Tim Culpan/Culpium)",
-            "link": "https://www.techmeme.com/260602/p24#a260602p24",
-            "published": "Tue, 02 Jun 2026 10:55:02 -0400"
+            "title": "Microsoft debuts MAI-Thinking-1, its first advanced reasoning model, trained \"from the ground up on clean data, without distillation from third-party models\" (Jay Peters/The Verge)",
+            "link": "https://www.techmeme.com/260602/p52#a260602p52",
+            "published": "Tue, 02 Jun 2026 14:40:03 -0400"
         },
         {
-            "title": "Sources: the UK has begun using SpaceX's militarized satellite network Starshield, making it among the first countries outside the US to adopt the tech (Cassell Bryan-Low/Reuters)",
-            "link": "https://www.techmeme.com/260602/p23#a260602p23",
-            "published": "Tue, 02 Jun 2026 10:40:07 -0400"
+            "title": "Microsoft unveils Majorana 2 quantum chip, which was developed with the help of AI, and says it will have commercially useful quantum machines by 2029 (Stephen Nellis/Reuters)",
+            "link": "https://www.techmeme.com/260602/p51#a260602p51",
+            "published": "Tue, 02 Jun 2026 14:35:01 -0400"
         },
         {
-            "title": "Sixteen mathematicians publish the Leiden Declaration on AI and Mathematics to warn of potential threats to the field, such as around accuracy and reliability (Siobhan Roberts/New York Times)",
-            "link": "https://www.techmeme.com/260602/p22#a260602p22",
-            "published": "Tue, 02 Jun 2026 10:01:22 -0400"
+            "title": "Google adds a scam-detection feature, built on RCS, to Android 12 and later that verifies whether a call is coming from the caller's actual smartphone (Lily Hay Newman/Wired)",
+            "link": "https://www.techmeme.com/260602/p50#a260602p50",
+            "published": "Tue, 02 Jun 2026 14:30:00 -0400"
         },
         {
-            "title": "Anthropic says it will extend Project Glasswing to organizations in 15+ countries, sources say giving Mythos access to Five Eyes, NATO, Samsung, SK, and others (Financial Times)",
-            "link": "https://www.techmeme.com/260602/p21#a260602p21",
-            "published": "Tue, 02 Jun 2026 09:11:39 -0400"
+            "title": "Microsoft announces the Agent Control Specification, an open-source standard that aims to provide granular, consistent governance over AI agent behavior (Ram Iyer/TechCrunch)",
+            "link": "https://www.techmeme.com/260602/p49#a260602p49",
+            "published": "Tue, 02 Jun 2026 14:25:02 -0400"
         },
         {
-            "title": "Analysis: Palo Alto Networks' shareholders have voted to reject pay packages for its top executives seven times since 2015, more than any other S&P 500 company (Andrew Martin/Bloomberg)",
-            "link": "https://www.techmeme.com/260602/p20#a260602p20",
-            "published": "Tue, 02 Jun 2026 08:55:00 -0400"
+            "title": "GitHub unveils the GitHub Copilot desktop app in preview, which introduces a new feature called canvases for bidirectional work between users and agents (Mario Rodriguez/The GitHub Blog)",
+            "link": "https://www.techmeme.com/260602/p48#a260602p48",
+            "published": "Tue, 02 Jun 2026 14:20:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models",
+            "link": "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html",
+            "published": "Tue, 02 Jun 2026 18:27:23 +0000"
+        },
         {
             "title": "Meta Expands Safety Features for Teenagers",
             "link": "https://www.nytimes.com/2026/06/02/technology/meta-safety-features-teenagers.html",
@@ -35,12 +40,7 @@
         {
             "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
             "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
-            "published": "Mon, 01 Jun 2026 18:41:52 +0000"
-        },
-        {
-            "title": "How Box Created 13 New Types of Jobs Because of A.I.",
-            "link": "https://www.nytimes.com/2026/06/01/technology/box-13-new-types-jobs-ai.html",
-            "published": "Mon, 01 Jun 2026 20:07:43 +0000"
+            "published": "Tue, 02 Jun 2026 17:55:38 +0000"
         },
         {
             "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
