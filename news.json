@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Filing: SpaceX aims to raise $75B in its IPO, selling 555.6M shares at $135 each, which would value the company at ~$1.77T (Bailey Lipschultz/Bloomberg)",
-            "link": "https://www.techmeme.com/260603/p55#a260603p55",
-            "published": "Wed, 03 Jun 2026 17:15:02 -0400"
+            "title": "Sources: Benchmark raised $2B across two new funds, including a $1.25B fund for late-stage bets, its first growth fund after decades focusing on new startups (Kate Clark/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260603/p62#a260603p62",
+            "published": "Wed, 03 Jun 2026 19:30:00 -0400"
         },
         {
-            "title": "The US and other Five Eyes nations warn that China is flooding online job platforms with fake profiles and offers targeting government and military personnel (Greg Miller/Washington Post)",
-            "link": "https://www.techmeme.com/260603/p54#a260603p54",
-            "published": "Wed, 03 Jun 2026 16:55:04 -0400"
+            "title": "Sources: Lila Sciences, which uses AI tools to speed up the rate of scientific discovery, is in talks to raise a $2B Series B at an expected valuation of ~$8.5B (Bloomberg)",
+            "link": "https://www.techmeme.com/260603/p61#a260603p61",
+            "published": "Wed, 03 Jun 2026 19:15:01 -0400"
         },
         {
-            "title": "In a report, UK lawmakers call on the government to end a \u00a3330M NHS deal with Palantir and disclose more details of a military contract with the company (Bloomberg)",
-            "link": "https://www.techmeme.com/260603/p53#a260603p53",
-            "published": "Wed, 03 Jun 2026 15:50:02 -0400"
+            "title": "Internal documents: Meta is considering tiered pricing for \"Hatch\", its planned OpenClaw-like AI agent tool, including a $200-per-month premium subscription (Jyoti Mann/The Information)",
+            "link": "https://www.techmeme.com/260603/p60#a260603p60",
+            "published": "Wed, 03 Jun 2026 18:50:01 -0400"
         },
         {
-            "title": "Security firm Calif says it used OpenAI's Codex to discover HTTP/2 Bomb, a remote DoS exploit affecting web servers like Nginx, Apache HTTPD, and Microsoft IIS (The Hacker News)",
-            "link": "https://www.techmeme.com/260603/p52#a260603p52",
-            "published": "Wed, 03 Jun 2026 15:35:21 -0400"
+            "title": "Nvidia acquired Kumo, which sells predictive AI software to enterprises, a source says for $400M+; PitchBook: Kumo raised $37M at a $250M valuation in 2022 (The Information)",
+            "link": "https://www.techmeme.com/260603/p59#a260603p59",
+            "published": "Wed, 03 Jun 2026 18:35:01 -0400"
         },
         {
-            "title": "OpenAI diverges from Trump's AI EO in a new policy paper, proposing cyber risk evaluations for advanced AI systems be mandatory and led by CAISI, not the NSA (Brendan Bordelon/Politico)",
-            "link": "https://www.techmeme.com/260603/p51#a260603p51",
-            "published": "Wed, 03 Jun 2026 15:10:03 -0400"
+            "title": "Google introduces Gemma 4 12B, a unified, encoder-free open multimodal model that can run locally on devices with 16GB of VRAM or unified memory (Carl Franzen/VentureBeat)",
+            "link": "https://www.techmeme.com/260603/p58#a260603p58",
+            "published": "Wed, 03 Jun 2026 18:25:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "SpaceX IPO to Be Largest Ever at $135 Share Price",
+            "link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
+            "published": "Wed, 03 Jun 2026 22:04:57 +0000"
+        },
         {
             "title": "European Union Outlines Plan to Reduce Dependence on American Tech",
             "link": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
@@ -46,11 +51,6 @@
             "title": "Meta Expands Safety Features for Teenagers",
             "link": "https://www.nytimes.com/2026/06/02/technology/meta-safety-features-teenagers.html",
             "published": "Tue, 02 Jun 2026 11:00:05 +0000"
-        },
-        {
-            "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
-            "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
-            "published": "Mon, 01 Jun 2026 18:24:38 +0000"
         }
     ],
     "source_2": [
