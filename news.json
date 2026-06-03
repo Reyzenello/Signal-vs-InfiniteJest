@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Current and former Meta employees detail Alexandr Wang's efforts to revive Meta's AI edge, as Muse Spark boosts confidence despite lagging rivals in coding (Hannah Murphy/Financial Times)",
-            "link": "https://www.techmeme.com/260603/p1#a260603p1",
-            "published": "Wed, 03 Jun 2026 01:00:12 -0400"
+            "title": "Apoha, which is developing a \"Liquid State Intelligence\" data layer to measure molecules in the real world, emerges from stealth with $36M led by Singular (Mike Butcher/Pathfounders)",
+            "link": "https://www.techmeme.com/260603/p24#a260603p24",
+            "published": "Wed, 03 Jun 2026 07:15:02 -0400"
         },
         {
-            "title": "University of Toronto researchers claim to have developed a \"worm\" powered by open source AI that exploits known flaws and tailors attacks for each computer (Cade Metz/New York Times)",
-            "link": "https://www.techmeme.com/260602/p69#a260602p69",
-            "published": "Tue, 02 Jun 2026 23:35:01 -0400"
+            "title": "How OpenAI, Anthropic, and AI startups are pursuing \"recursive self-improvement\", in a bid to build AI that can improve itself with little to no human input (Financial Times)",
+            "link": "https://www.techmeme.com/260603/p23#a260603p23",
+            "published": "Wed, 03 Jun 2026 07:05:02 -0400"
         },
         {
-            "title": "Sensor Tower: ChatGPT has become the fastest app to hit 1B global MAUs by far; ChatGPT's MAUs are up 62% YoY in Q2 to date, Claude's MAUs are up 640% YoY to 56M (Harshita Mary Varghese/Reuters)",
-            "link": "https://www.techmeme.com/260602/p68#a260602p68",
-            "published": "Tue, 02 Jun 2026 23:25:18 -0400"
+            "title": "The US data center build-out is falling behind schedule; JP Morgan says 60%+ of data center capacity planned for completion in 2027 isn't yet under construction (Katherine Blunt/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260603/p22#a260603p22",
+            "published": "Wed, 03 Jun 2026 06:55:58 -0400"
         },
         {
-            "title": "Source: SpaceX plans to raise $75B in its IPO by selling 555.6M shares at $135 each, an unusual move since most companies set a price range before the roadshow (Echo Wang/Reuters)",
-            "link": "https://www.techmeme.com/260602/p67#a260602p67",
-            "published": "Tue, 02 Jun 2026 22:30:01 -0400"
+            "title": "How Revolut founder Nikolay Storonsky's Elon Musk-style pay incentives pushed his fortune to ~$20.4B, making him the UK's richest person, ahead of a planned IPO (Aisha S Gani/Bloomberg)",
+            "link": "https://www.techmeme.com/260603/p21#a260603p21",
+            "published": "Wed, 03 Jun 2026 06:45:01 -0400"
         },
         {
-            "title": "Source: Google asked Google Play app devs to join a \"confidential content offer pilot\", offering to pay for access to codebases to use them to train AI tools (Jason Koebler/404 Media)",
-            "link": "https://www.techmeme.com/260602/p66#a260602p66",
-            "published": "Tue, 02 Jun 2026 22:15:01 -0400"
+            "title": "Doc: Apple agreed in May to submit the financials of its India business to the country's antitrust body as part of an investigation over alleged market abuses (Aditya Kalra/Reuters)",
+            "link": "https://www.techmeme.com/260603/p20#a260603p20",
+            "published": "Wed, 03 Jun 2026 06:40:56 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Meta won't track its workers' clicks - but only for half an hour at a time",
+            "link": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 03 Jun 2026 10:46:30 GMT"
+        },
+        {
+            "title": "Publishers in UK can opt out of Google AI search results",
+            "link": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 03 Jun 2026 05:18:00 GMT"
+        },
+        {
             "title": "Do you find yourself aimlessly scrolling? You're not alone",
             "link": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Jun 2026 23:01:27 GMT"
@@ -68,16 +78,6 @@
             "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
             "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Jun 2026 19:24:31 GMT"
-        },
-        {
-            "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-            "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 02 Jun 2026 11:40:02 GMT"
-        },
-        {
-            "title": "How 'confused' AI rollout hurts firms and baffles staff",
-            "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 01 Jun 2026 23:05:11 GMT"
         }
     ]
 }
