@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Apoha, which is developing a \"Liquid State Intelligence\" data layer to measure molecules in the real world, emerges from stealth with $36M led by Singular (Mike Butcher/Pathfounders)",
-            "link": "https://www.techmeme.com/260603/p24#a260603p24",
-            "published": "Wed, 03 Jun 2026 07:15:02 -0400"
+            "title": "Nearly 40% of Alphabet's planned ~$85B in equity offerings for AI will go toward covering tax obligations tied to employee equity awards, amid the AI talent war (Cory Weinberg/The Information)",
+            "link": "https://www.techmeme.com/260603/p50#a260603p50",
+            "published": "Wed, 03 Jun 2026 12:50:02 -0400"
         },
         {
-            "title": "How OpenAI, Anthropic, and AI startups are pursuing \"recursive self-improvement\", in a bid to build AI that can improve itself with little to no human input (Financial Times)",
-            "link": "https://www.techmeme.com/260603/p23#a260603p23",
-            "published": "Wed, 03 Jun 2026 07:05:02 -0400"
+            "title": "Meta is alerting Instagram users whose accounts were taken over using Meta AI chatbot; some hackers claim to still be able to exploit Meta AI chatbot (Lorenzo Franceschi-Bicchierai/TechCrunch)",
+            "link": "https://www.techmeme.com/260603/p49#a260603p49",
+            "published": "Wed, 03 Jun 2026 12:45:00 -0400"
         },
         {
-            "title": "The US data center build-out is falling behind schedule; JP Morgan says 60%+ of data center capacity planned for completion in 2027 isn't yet under construction (Katherine Blunt/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260603/p22#a260603p22",
-            "published": "Wed, 03 Jun 2026 06:55:58 -0400"
+            "title": "Collate, whose AI tools automate paperwork for life sciences companies, raised $95M led by Redpoint at a ~$1B valuation, bringing its total funding to $125M (Amy Feldman/Forbes)",
+            "link": "https://www.techmeme.com/260603/p48#a260603p48",
+            "published": "Wed, 03 Jun 2026 12:35:03 -0400"
         },
         {
-            "title": "How Revolut founder Nikolay Storonsky's Elon Musk-style pay incentives pushed his fortune to ~$20.4B, making him the UK's richest person, ahead of a planned IPO (Aisha S Gani/Bloomberg)",
-            "link": "https://www.techmeme.com/260603/p21#a260603p21",
-            "published": "Wed, 03 Jun 2026 06:45:01 -0400"
+            "title": "Amazon announces new visual search features, including displaying AI-generated images of products within its app based on users' search queries (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/260603/p47#a260603p47",
+            "published": "Wed, 03 Jun 2026 12:20:01 -0400"
         },
         {
-            "title": "Doc: Apple agreed in May to submit the financials of its India business to the country's antitrust body as part of an investigation over alleged market abuses (Aditya Kalra/Reuters)",
-            "link": "https://www.techmeme.com/260603/p20#a260603p20",
-            "published": "Wed, 03 Jun 2026 06:40:56 -0400"
+            "title": "Leading the Future, the pro-AI super PAC backed by Greg Brockman, appears to be linked to multiple sockpuppet accounts, including a purported anti-AI activist (@themidasproj)",
+            "link": "https://www.techmeme.com/260603/p46#a260603p46",
+            "published": "Wed, 03 Jun 2026 12:15:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "European Union Outlines Plan to Reduce Dependence on American Tech",
+            "link": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
+            "published": "Wed, 03 Jun 2026 13:43:50 +0000"
+        },
+        {
+            "title": "Scientists Find Way to Supercharge Dangerous Computer \u2018Worms\u2019 With A.I.",
+            "link": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html",
+            "published": "Wed, 03 Jun 2026 00:37:55 +0000"
+        },
         {
             "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models",
             "link": "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html",
@@ -38,16 +48,6 @@
             "published": "Tue, 02 Jun 2026 11:00:05 +0000"
         },
         {
-            "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O.",
-            "link": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
-            "published": "Tue, 02 Jun 2026 17:55:38 +0000"
-        },
-        {
-            "title": "Scientists Find Way to Supercharge Dangerous Computer \u2018Worms\u2019 With A.I.",
-            "link": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html",
-            "published": "Wed, 03 Jun 2026 00:37:55 +0000"
-        },
-        {
             "title": "Florida Sues OpenAI Over Chatbot Safety Concerns",
             "link": "https://www.nytimes.com/2026/06/01/technology/florida-sues-openai-chatgpt-safety.html",
             "published": "Mon, 01 Jun 2026 18:24:38 +0000"
@@ -55,7 +55,17 @@
     ],
     "source_2": [
         {
-            "title": "Meta won't track its workers' clicks - but only for half an hour at a time",
+            "title": "Phone signal on trains not good enough most of the time, research says",
+            "link": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 03 Jun 2026 14:21:22 GMT"
+        },
+        {
+            "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
+            "link": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 03 Jun 2026 14:16:52 GMT"
+        },
+        {
+            "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
             "link": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 03 Jun 2026 10:46:30 GMT"
         },
@@ -68,16 +78,6 @@
             "title": "Do you find yourself aimlessly scrolling? You're not alone",
             "link": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 02 Jun 2026 23:01:27 GMT"
-        },
-        {
-            "title": "Microsoft testing wearable AI gadget aimed at office workers",
-            "link": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 02 Jun 2026 21:47:42 GMT"
-        },
-        {
-            "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
-            "link": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 02 Jun 2026 19:24:31 GMT"
         }
     ]
 }
