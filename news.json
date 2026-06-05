@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "FCC Chair Brendan Carr says the agency will review E-Rate, a $3B annual program subsidizing school and library internet access, amid kids' screen time concerns (Finya Swai/The Hill)",
-            "link": "https://www.techmeme.com/260605/p10#a260605p10",
-            "published": "Fri, 05 Jun 2026 07:40:01 -0400"
+            "title": "The NY State legislature passes a one-year moratorium on new large data centers, the first statewide ban of its kind if Governor Kathy Hochul signs it into law (Lauren Feiner/The Verge)",
+            "link": "https://www.techmeme.com/260605/p19#a260605p19",
+            "published": "Fri, 05 Jun 2026 11:45:02 -0400"
         },
         {
-            "title": "Chinese regulator CSRC tightens oversight of the country's ~$3.4T private fund industry; the CSRC says it will encourage tech-focused VC investments and more (Reuters)",
-            "link": "https://www.techmeme.com/260605/p9#a260605p9",
-            "published": "Fri, 05 Jun 2026 07:05:22 -0400"
+            "title": "Filing: Reid Hoffman, who has served on Microsoft's board since 2017, will not stand for re-election at the company's 2026 annual meeting (Todd Bishop/GeekWire)",
+            "link": "https://www.techmeme.com/260605/p18#a260605p18",
+            "published": "Fri, 05 Jun 2026 11:35:27 -0400"
         },
         {
-            "title": "Sources say a months-long dispute between the White House and Anthropic is showing signs of easing across the US government as the startup prepares for its IPO (Reuters)",
-            "link": "https://www.techmeme.com/260605/p8#a260605p8",
-            "published": "Fri, 05 Jun 2026 06:50:10 -0400"
+            "title": "Sources: SpaceX prepares the largest retail allocation ever attempted in a megacap IPO, seeking to reserve as much as 25% of its $75B float for retail investors (Financial Times)",
+            "link": "https://www.techmeme.com/260605/p17#a260605p17",
+            "published": "Fri, 05 Jun 2026 11:30:02 -0400"
         },
         {
-            "title": "Illinois Governor JB Pritzker plans to temporarily halt tax breaks for data centers from July 1, calling on state lawmakers to create a development framework (Natasha Korecki/NBC News)",
-            "link": "https://www.techmeme.com/260605/p7#a260605p7",
-            "published": "Fri, 05 Jun 2026 06:30:01 -0400"
+            "title": "In an internal message, Satya Nadella rebuked an internal memo that said Microsoft needs to \"make people addicted\" to its new AI agent product called Scout (Aaron Holmes/The Information)",
+            "link": "https://www.techmeme.com/260605/p16#a260605p16",
+            "published": "Fri, 05 Jun 2026 10:50:21 -0400"
         },
         {
-            "title": "India-based Innefu Labs, which builds AI-powered software for national defense and enterprise security infrastructure, raised a $30M Series B led by Panthera (The Economic Times)",
-            "link": "https://www.techmeme.com/260605/p6#a260605p6",
-            "published": "Fri, 05 Jun 2026 06:10:01 -0400"
+            "title": "Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation (Dan Primack/Axios)",
+            "link": "https://www.techmeme.com/260605/p15#a260605p15",
+            "published": "Fri, 05 Jun 2026 10:30:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Why the SpaceX IPO Will Affect Your 401(k), Like It or Not",
+            "link": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html",
+            "published": "Fri, 05 Jun 2026 14:59:26 +0000"
+        },
         {
             "title": "Gwynne Shotwell, Elon Musk\u2019s No. 2 at SpaceX, Is the Company\u2019s Steady Hand",
             "link": "https://www.nytimes.com/2026/06/04/technology/gwynne-shotwell-spacex.html",
@@ -38,22 +43,22 @@
             "published": "Thu, 04 Jun 2026 14:08:43 +0000"
         },
         {
-            "title": "SpaceX IPO to Be Largest Ever at $135 Share Price",
-            "link": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
-            "published": "Thu, 04 Jun 2026 14:56:48 +0000"
-        },
-        {
-            "title": "The Do\u2019s and Don\u2019ts of Buying Used Tech Gadgets",
-            "link": "https://www.nytimes.com/2026/06/04/technology/personaltech/used-tech-refurbished.html",
-            "published": "Thu, 04 Jun 2026 09:03:49 +0000"
-        },
-        {
             "title": "Hot I.P.O. Summer + What Is A.I. Doing to Math? + HatGPT",
             "link": "https://www.nytimes.com/2026/06/05/podcasts/hardfork-ipo-math.html",
             "published": "Fri, 05 Jun 2026 11:00:03 +0000"
+        },
+        {
+            "title": "From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I.",
+            "link": "https://www.nytimes.com/2026/06/05/magazine/ai-farms-technology.html",
+            "published": "Fri, 05 Jun 2026 09:00:35 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Raspberry Pi raises profit forecast as AI demand grows",
+            "link": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 12:27:52 GMT"
+        },
         {
             "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
             "link": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
             "link": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 04 Jun 2026 23:05:39 GMT"
-        },
-        {
-            "title": "Who is Elon Musk and what is his net worth?",
-            "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 10:25:06 GMT"
         }
     ]
 }
