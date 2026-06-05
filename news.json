@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The NY State legislature passes a one-year moratorium on new large data centers, the first statewide ban of its kind if Governor Kathy Hochul signs it into law (Lauren Feiner/The Verge)",
-            "link": "https://www.techmeme.com/260605/p19#a260605p19",
-            "published": "Fri, 05 Jun 2026 11:45:02 -0400"
+            "title": "Sources: Revolut is looking to run a secondary share sale that would value it at $115B, after receiving a UK bank license and applying for a charter in the US (Bloomberg)",
+            "link": "https://www.techmeme.com/260605/p25#a260605p25",
+            "published": "Fri, 05 Jun 2026 14:40:00 -0400"
         },
         {
-            "title": "Filing: Reid Hoffman, who has served on Microsoft's board since 2017, will not stand for re-election at the company's 2026 annual meeting (Todd Bishop/GeekWire)",
-            "link": "https://www.techmeme.com/260605/p18#a260605p18",
-            "published": "Fri, 05 Jun 2026 11:35:27 -0400"
+            "title": "President Trump says he is weighing proposals for the US government to partner with major AI companies, and will soon discuss the idea with their executives (Bloomberg)",
+            "link": "https://www.techmeme.com/260605/p24#a260605p24",
+            "published": "Fri, 05 Jun 2026 14:35:37 -0400"
         },
         {
-            "title": "Sources: SpaceX prepares the largest retail allocation ever attempted in a megacap IPO, seeking to reserve as much as 25% of its $75B float for retail investors (Financial Times)",
-            "link": "https://www.techmeme.com/260605/p17#a260605p17",
-            "published": "Fri, 05 Jun 2026 11:30:02 -0400"
+            "title": "Sources: Meta is exploring a stock offering to raise tens of billions of dollars to fund AI capital expenditures, following Google's record $85B share deal (Financial Times)",
+            "link": "https://www.techmeme.com/260605/p23#a260605p23",
+            "published": "Fri, 05 Jun 2026 14:26:56 -0400"
         },
         {
-            "title": "In an internal message, Satya Nadella rebuked an internal memo that said Microsoft needs to \"make people addicted\" to its new AI agent product called Scout (Aaron Holmes/The Information)",
-            "link": "https://www.techmeme.com/260605/p16#a260605p16",
-            "published": "Fri, 05 Jun 2026 10:50:21 -0400"
+            "title": "Sources say xAI used Claude models for distillation and training, including using personal accounts and the intermediary service Blackbox AI after being cut off (Grace Kay/The Information)",
+            "link": "https://www.techmeme.com/260605/p22#a260605p22",
+            "published": "Fri, 05 Jun 2026 13:15:03 -0400"
         },
         {
-            "title": "Allen Control Systems, which makes AI-powered gun turrets for shooting down drones, raised a $200M Series B led by Smash Capital at a $2.2B post-money valuation (Dan Primack/Axios)",
-            "link": "https://www.techmeme.com/260605/p15#a260605p15",
-            "published": "Fri, 05 Jun 2026 10:30:00 -0400"
+            "title": "The largest US banks plan to launch a tokenized deposit network in 2027 to connect traditional payment rails with the infrastructure that digital assets run on (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260605/p21#a260605p21",
+            "published": "Fri, 05 Jun 2026 12:50:27 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 05 Jun 2026 11:00:03 +0000"
         },
         {
-            "title": "From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I.",
-            "link": "https://www.nytimes.com/2026/06/05/magazine/ai-farms-technology.html",
-            "published": "Fri, 05 Jun 2026 09:00:35 +0000"
+            "title": "Reid Hoffman to Leave Microsoft\u2019s Board of Directors",
+            "link": "https://www.nytimes.com/2026/06/05/technology/reid-hoffman-leaving-microsoft-board.html",
+            "published": "Fri, 05 Jun 2026 18:25:38 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump to meet AI leaders to discuss US investment in their companies",
+            "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 05 Jun 2026 19:03:26 GMT"
+        },
         {
             "title": "Raspberry Pi raises profit forecast as AI demand grows",
             "link": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "The ancient trick making food waste useful and tasty",
             "link": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 04 Jun 2026 23:10:26 GMT"
-        },
-        {
-            "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-            "link": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 04 Jun 2026 23:05:39 GMT"
         }
     ]
 }
