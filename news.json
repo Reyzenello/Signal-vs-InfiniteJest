@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI confidentially files for an IPO, says it has \"not decided on timing yet\", as \"there are things we want to do that are likely easier as a private company\" (Ashley Capoot/CNBC)",
-            "link": "https://www.techmeme.com/260608/p54#a260608p54",
-            "published": "Mon, 08 Jun 2026 17:20:02 -0400"
+            "title": "Infinity Constellation, which builds AI tools and software businesses for the professional services market, raised a $24M Series A; it previously raised $17M (Lucinda Shen/Axios)",
+            "link": "https://www.techmeme.com/260608/p59#a260608p59",
+            "published": "Mon, 08 Jun 2026 19:15:02 -0400"
         },
         {
-            "title": "Google lowers the price of its Google AI Plus plan to $4.99 per month, down from $7.99, and doubles the included storage to 400GB (Abner Li/9to5Google)",
-            "link": "https://www.techmeme.com/260608/p53#a260608p53",
-            "published": "Mon, 08 Jun 2026 16:45:02 -0400"
+            "title": "Apple unveils an Apple Intelligence feature that can automatically change compromised passwords, using agentic AI, and save them to the Passwords app (James Pero/Gizmodo)",
+            "link": "https://www.techmeme.com/260608/p58#a260608p58",
+            "published": "Mon, 08 Jun 2026 19:05:02 -0400"
         },
         {
-            "title": "Google upgrades NotebookLM, which now runs on Gemini 3.5 and Antigravity, to deliver new agentic capabilities and more advanced reasoning for AI Ultra users (Ivan Mehta/TechCrunch)",
-            "link": "https://www.techmeme.com/260608/p52#a260608p52",
-            "published": "Mon, 08 Jun 2026 16:35:02 -0400"
+            "title": "The Trump administration relaunches efforts to block state AI laws; Sen. Blackburn is leading negotiations and pushing KOSA as part of an AI preemption package (Axios)",
+            "link": "https://www.techmeme.com/260608/p57#a260608p57",
+            "published": "Mon, 08 Jun 2026 19:00:00 -0400"
         },
         {
-            "title": "Apple's Craig Federighi says some companies \"appear to be racing forward\" to develop \"AI for the sake of AI\" without regard for the humans using the technology (Todd Spangler/Variety)",
-            "link": "https://www.techmeme.com/260608/p51#a260608p51",
-            "published": "Mon, 08 Jun 2026 16:05:00 -0400"
+            "title": "Meta puts $115M toward a \"workforce academy\", a free 5-week program to train Americans to build data centers, offering job guarantees at Meta construction sites (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260608/p56#a260608p56",
+            "published": "Mon, 08 Jun 2026 18:35:01 -0400"
         },
         {
-            "title": "Apple announces new features for the Home app, including AI-generated descriptions of HomeKit Secure Video camera clips and smarter grouping of notifications (Hartley Charlton/MacRumors)",
-            "link": "https://www.techmeme.com/260608/p50#a260608p50",
-            "published": "Mon, 08 Jun 2026 15:50:00 -0400"
+            "title": "Source: Cursor, which is prepping for an expected acquisition by SpaceX, passed $4B in annualized revenue in the last week, up from $3B in April and $2B in Feb. (Richard Nieva/Forbes)",
+            "link": "https://www.techmeme.com/260608/p55#a260608p55",
+            "published": "Mon, 08 Jun 2026 17:58:47 -0400"
         }
     ],
     "source_1": [
         {
             "title": "OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.",
             "link": "https://www.nytimes.com/2026/06/08/technology/openai-ipo.html",
-            "published": "Mon, 08 Jun 2026 21:25:18 +0000"
+            "published": "Mon, 08 Jun 2026 21:58:32 +0000"
         },
         {
             "title": "How Elon Musk\u2019s Friendship With the F.C.C. Smooths the Way for SpaceX\u2019s I.P.O.",
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Could humanoid robots be heading for the battlefield?",
+            "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 08 Jun 2026 23:06:30 GMT"
+        },
+        {
+            "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+            "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 08 Jun 2026 22:55:04 GMT"
+        },
+        {
             "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
             "link": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 08 Jun 2026 21:08:49 GMT"
@@ -68,16 +78,6 @@
             "title": "Starmer tells Apple and Google to ban nude images on children's phones",
             "link": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 08 Jun 2026 15:30:43 GMT"
-        },
-        {
-            "title": "The gamers taking on the industry to stop it switching off games",
-            "link": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 06 Jun 2026 23:25:51 GMT"
-        },
-        {
-            "title": "Trump to meet AI leaders to discuss US investment in their companies",
-            "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 05 Jun 2026 19:36:30 GMT"
         }
     ]
 }
