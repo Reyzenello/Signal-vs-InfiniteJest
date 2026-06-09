@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "If Apple's Siri AI works as it was shown in the WWDC demos, Apple is set to take the lead in consumer AI, with iPhone becoming the first true AI device (M.G. Siegler/Spyglass)",
-            "link": "https://www.techmeme.com/260609/p25#a260609p25",
-            "published": "Tue, 09 Jun 2026 11:50:01 -0400"
+            "title": "Sources: Canadian payments company Nuvei is in advanced talks to acquire cross-border payments company Payoneer Global for about $2.7B (Milana Vinn/Reuters)",
+            "link": "https://www.techmeme.com/260609/p34#a260609p34",
+            "published": "Tue, 09 Jun 2026 14:45:01 -0400"
         },
         {
-            "title": "EU regulators order Meta to give rival AI chatbots free access to WhatsApp while they continue to probe if Meta abused its market power by blocking competitors (Foo Yun Chee/Reuters)",
-            "link": "https://www.techmeme.com/260609/p24#a260609p24",
-            "published": "Tue, 09 Jun 2026 11:35:00 -0400"
+            "title": "A US judge cancels a Mississippi trial and disqualifies and fines lawyers on both sides after finding their filings were filled with hallucinated case citations (Jason Koebler/404 Media)",
+            "link": "https://www.techmeme.com/260609/p33#a260609p33",
+            "published": "Tue, 09 Jun 2026 14:05:01 -0400"
         },
         {
-            "title": "Google releases Gemini 3.5 Live Translate, which it says can deliver \"near real-time speech-to-speech translation in over 70 languages\" (The Keyword)",
-            "link": "https://www.techmeme.com/260609/p23#a260609p23",
-            "published": "Tue, 09 Jun 2026 11:30:02 -0400"
+            "title": "Anthropic says internal and external red team tests of Fable 5 found no universal jailbreaks; it will keep user traffic for 30 days, aligning with Trump's AI EO (Derek B. Johnson/CyberScoop)",
+            "link": "https://www.techmeme.com/260609/p32#a260609p32",
+            "published": "Tue, 09 Jun 2026 13:50:06 -0400"
         },
         {
-            "title": "Meta plans to expand the use of off-platform data, such as e-commerce purchases, to personalize content feeds; it was previously used just to serve ads (Emma Roth/The Verge)",
-            "link": "https://www.techmeme.com/260609/p22#a260609p22",
-            "published": "Tue, 09 Jun 2026 11:25:02 -0400"
+            "title": "Anthropic says Fable 5 uses conservative safety classifiers that trigger a fallback to Claude Opus 4.8 in ~5% of sessions, in areas like cybersecurity (Anthropic)",
+            "link": "https://www.techmeme.com/260609/p31#a260609p31",
+            "published": "Tue, 09 Jun 2026 13:35:02 -0400"
         },
         {
-            "title": "Sources: India froze Starlink approvals to begin commercial operations due to concerns over the use of its terminals in Iran despite not being licensed there (Bloomberg)",
-            "link": "https://www.techmeme.com/260609/p21#a260609p21",
-            "published": "Tue, 09 Jun 2026 11:00:41 -0400"
+            "title": "Anthropic says Fable 5 is available on Pro, Max, Team, and seat-based Enterprise plans through June 22, after which using Fable 5 will require usage credits (Rebecca Bellan/TechCrunch)",
+            "link": "https://www.techmeme.com/260609/p30#a260609p30",
+            "published": "Tue, 09 Jun 2026 13:30:02 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Why Apple\u2019s A.I. Upgrade for Siri Won\u2019t Be Available in Europe",
             "link": "https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html",
-            "published": "Tue, 09 Jun 2026 13:36:05 +0000"
+            "published": "Tue, 09 Jun 2026 18:29:08 +0000"
         },
         {
             "title": "OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.",
@@ -48,12 +48,27 @@
             "published": "Tue, 09 Jun 2026 09:00:38 +0000"
         },
         {
-            "title": "Apple Reveals New A.I.-Powered Version of Its Siri Digital Assistant",
-            "link": "https://www.nytimes.com/2026/06/08/technology/apple-ai-siri.html",
-            "published": "Mon, 08 Jun 2026 20:46:39 +0000"
+            "title": "Anthropic Releases \u2018Safe\u2019 Version of Its Mythos A.I. Technology",
+            "link": "https://www.nytimes.com/2026/06/09/technology/anthropic-ai-claude-fable-mythos.html",
+            "published": "Tue, 09 Jun 2026 17:16:42 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Version of AI tool 'too powerful for public' released to public",
+            "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 09 Jun 2026 18:35:59 GMT"
+        },
+        {
+            "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+            "link": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 09 Jun 2026 16:45:12 GMT"
+        },
+        {
+            "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+            "link": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 09 Jun 2026 16:16:12 GMT"
+        },
         {
             "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
             "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "Could humanoid robots be heading for the battlefield?",
             "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 08 Jun 2026 23:06:30 GMT"
-        },
-        {
-            "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
-            "link": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 08 Jun 2026 21:08:49 GMT"
-        },
-        {
-            "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-            "link": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 08 Jun 2026 17:18:21 GMT"
-        },
-        {
-            "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-            "link": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 08 Jun 2026 15:30:43 GMT"
         }
     ]
 }
