@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "CrowdStrike: Chinese entities accounted for 58%+ of state-sponsored cyberattacks aimed at tech companies, especially AI assets, over the 12 months to March 31 (Evelyn Cheng/CNBC)",
-            "link": "https://www.techmeme.com/260610/p23#a260610p23",
-            "published": "Wed, 10 Jun 2026 08:15:02 -0400"
+            "title": "Interfax: Russia restored access to Roblox after concluding the company had complied with local legal requirements; Russia had banned Roblox in December (Andrey Lemeshko/Bloomberg)",
+            "link": "https://www.techmeme.com/260610/p45#a260610p45",
+            "published": "Wed, 10 Jun 2026 12:30:01 -0400"
         },
         {
-            "title": "Sources: Chinese companies like Moonshot are reconsidering \"red-chip\" structures, which made it easier to list overseas, after China blocked the Manus deal (Financial Times)",
-            "link": "https://www.techmeme.com/260610/p22#a260610p22",
-            "published": "Wed, 10 Jun 2026 07:20:02 -0400"
+            "title": "Google introduces DiffusionGemma, an experimental 26B-parameter open model that uses text diffusion for faster text generation compared to autoregressive models (The Keyword)",
+            "link": "https://www.techmeme.com/260610/p44#a260610p44",
+            "published": "Wed, 10 Jun 2026 12:15:01 -0400"
         },
         {
-            "title": "Morgan Stanley forecasts global AI-tied debt issuance will more than double to nearly $570B in 2026, as hyperscalers seek alternative funding for AI capex needs (Kanishka Ajmera/Reuters)",
-            "link": "https://www.techmeme.com/260610/p21#a260610p21",
-            "published": "Wed, 10 Jun 2026 06:55:37 -0400"
+            "title": "Sources: Sam Altman told staff that OpenAI is expected to go public \"within the next year\" and OpenAI plans a tender offer \"very soon\" at a $687.69 share price (Stephanie Palazzolo/The Information)",
+            "link": "https://www.techmeme.com/260610/p43#a260610p43",
+            "published": "Wed, 10 Jun 2026 12:05:06 -0400"
         },
         {
-            "title": "A look at Unitree's growth strategy, which mimics those used by BYD and DJI, and leverages its quadruped robot dominance to create and lead the humanoid market (SemiAnalysis)",
-            "link": "https://www.techmeme.com/260610/p20#a260610p20",
-            "published": "Wed, 10 Jun 2026 06:30:03 -0400"
+            "title": "Anthropic secretly limiting Claude's usefulness for LLM development strengthens the argument that Anthropic is using AI safety to justify monopolistic behavior (Dean W. Ball/@deanwball)",
+            "link": "https://www.techmeme.com/260610/p42#a260610p42",
+            "published": "Wed, 10 Jun 2026 11:55:56 -0400"
         },
         {
-            "title": "Las Vegas-based TensorWave, which offers AMD-powered cloud infrastructure, raised a $350M Series B led by AMD and Magnetar at a $1.55B post-money valuation (Robbie Whelan/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260610/p19#a260610p19",
-            "published": "Wed, 10 Jun 2026 06:20:02 -0400"
+            "title": "Dario Amodei says he doesn't know what role Claude played in a missile strike on an Iranian school, and its use in this instance didn't violate Anthropic's ToS (Bloomberg)",
+            "link": "https://www.techmeme.com/260610/p41#a260610p41",
+            "published": "Wed, 10 Jun 2026 11:45:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Dutch Authorities Block $115 Million Deal by a U.S. Tech Company",
-            "link": "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html",
-            "published": "Tue, 09 Jun 2026 14:52:00 +0000"
+            "title": "SpaceX\u2019s IPO Will Turn 4,400 Employees Into Millionaires",
+            "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
+            "published": "Wed, 10 Jun 2026 14:57:11 +0000"
         },
         {
-            "title": "Why Apple\u2019s A.I. Upgrade for Siri Won\u2019t Be Available in Europe",
-            "link": "https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html",
-            "published": "Tue, 09 Jun 2026 18:29:08 +0000"
+            "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts",
+            "link": "https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html",
+            "published": "Tue, 09 Jun 2026 23:51:26 +0000"
         },
         {
-            "title": "OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.",
-            "link": "https://www.nytimes.com/2026/06/08/technology/openai-ipo.html",
-            "published": "Mon, 08 Jun 2026 21:58:32 +0000"
-        },
-        {
-            "title": "In the Hybrid A.I.-Human Work Force, Who Will Actually Thrive?",
-            "link": "https://www.nytimes.com/2026/06/09/magazine/ai-jobs-workforce-labor.html",
-            "published": "Tue, 09 Jun 2026 09:00:38 +0000"
+            "title": "Anthropic Releases \u2018Safe\u2019 Version of Its Mythos A.I. Technology",
+            "link": "https://www.nytimes.com/2026/06/09/technology/anthropic-ai-claude-fable-mythos.html",
+            "published": "Tue, 09 Jun 2026 17:16:42 +0000"
         },
         {
             "title": "How to Remove Apps You Never Use (or at Least Hide Them)",
             "link": "https://www.nytimes.com/2026/06/10/technology/personaltech/iphone-android-app-removal.html",
             "published": "Wed, 10 Jun 2026 09:02:01 +0000"
+        },
+        {
+            "title": "They Tried To Catch a Child Predator on a Livestream. They Trapped Themselves Instead.",
+            "link": "https://www.nytimes.com/2026/06/10/technology/predator-catcher-vitaly-mistake.html",
+            "published": "Wed, 10 Jun 2026 15:43:24 +0000"
         }
     ],
     "source_2": [
