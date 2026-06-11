@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "A teardown reveals the Trump Mobile T1 is a gold-painted HTC U24 Pro but features some changes, including memory from Micron instead of SK Hynix (Shahram Mokhtari/iFixit News)",
-            "link": "https://www.techmeme.com/260611/p15#a260611p15",
-            "published": "Thu, 11 Jun 2026 07:35:01 -0400"
+            "title": "Waymo launches a $30 per month membership program called Waymo Premier, with perks including 10% cashback and five free ride cancellations per month (Sean O'Kane/TechCrunch)",
+            "link": "https://www.techmeme.com/260611/p34#a260611p34",
+            "published": "Thu, 11 Jun 2026 12:15:02 -0400"
         },
         {
-            "title": "Elon Musk is busy stoking far-right culture wars across the West on the eve of SpaceX's IPO, with an impunity unmatched in modern corporate history (Zachary Basu/Axios)",
-            "link": "https://www.techmeme.com/260611/p14#a260611p14",
-            "published": "Thu, 11 Jun 2026 07:26:04 -0400"
+            "title": "Sources: BlackRock put in an order to buy at least $5B worth of SpaceX shares; SpaceX received an over $1B request from a single family-office investor (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260611/p33#a260611p33",
+            "published": "Thu, 11 Jun 2026 12:00:49 -0400"
         },
         {
-            "title": "The Workers' Daily, the official mouthpiece of China's umbrella trade union, calls on regulators to protect worker rights and strengthen oversight amid AI boom (Bloomberg)",
-            "link": "https://www.techmeme.com/260611/p13#a260611p13",
-            "published": "Thu, 11 Jun 2026 07:11:03 -0400"
+            "title": "Citigroup launches a blockchain-based platform for wealthy and institutional clients to trade tokenized shares of private firms, initially for foreign investors (Gina Heeb/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260611/p32#a260611p32",
+            "published": "Thu, 11 Jun 2026 11:40:01 -0400"
         },
         {
-            "title": "Deezer launches an AI music detection tool for users of 20 services, including Spotify and Apple Music, after no company licensed its AI detection tech (Terrence O'Brien/The Verge)",
-            "link": "https://www.techmeme.com/260611/p12#a260611p12",
-            "published": "Thu, 11 Jun 2026 06:56:11 -0400"
+            "title": "OpenAI acquires Ona, which offers cloud services to support AI agents, and plans to bring Ona's team into its Codex effort (Seth Fiegerman/Bloomberg)",
+            "link": "https://www.techmeme.com/260611/p31#a260611p31",
+            "published": "Thu, 11 Jun 2026 11:25:00 -0400"
         },
         {
-            "title": "Hungary plans to decriminalize crypto trading in a reversal of restrictions, which prompted Revolut and others to suspend services, under former PM Viktor Orban (Zoltan Simon/Bloomberg)",
-            "link": "https://www.techmeme.com/260611/p11#a260611p11",
-            "published": "Thu, 11 Jun 2026 06:41:05 -0400"
+            "title": "The US House fails to extend FISA's Section 702, ensuring the warrantless surveillance program will expire for the first time since its 2008 enactment (Politico)",
+            "link": "https://www.techmeme.com/260611/p30#a260611p30",
+            "published": "Thu, 11 Jun 2026 11:05:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Jeff Bezos Wants to Build an \u2018Artificial General Engineer\u2019",
+            "link": "https://www.nytimes.com/2026/06/11/technology/bezos-prometheus-ai-engineer.html",
+            "published": "Thu, 11 Jun 2026 14:00:06 +0000"
+        },
+        {
+            "title": "How Tesla\u2019s Stock Listing in 2010 Enabled SpaceX\u2019s I.P.O.",
+            "link": "https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html",
+            "published": "Thu, 11 Jun 2026 15:15:44 +0000"
+        },
+        {
+            "title": "Microsoft C.E.O. Satya Nadella Says \u2018Everyone Is a Stakeholder\u2019 in A.I.",
+            "link": "https://www.nytimes.com/2026/06/10/technology/microsoft-satya-nadella-artificial-intelligence.html",
+            "published": "Thu, 11 Jun 2026 10:48:04 +0000"
+        },
         {
             "title": "Trump Muses About Government Taking a Piece of A.I. Companies",
             "link": "https://www.nytimes.com/2026/06/10/technology/president-trump-americans-sharing-ai-wealth.html",
             "published": "Wed, 10 Jun 2026 22:07:44 +0000"
         },
         {
-            "title": "Antonio Gracias, Elon Musk\u2019s Friend, Is Set to Reap Billions From SpaceX\u2019s IPO",
-            "link": "https://www.nytimes.com/2026/06/10/technology/antonio-gracias-elon-musk-spacex.html",
-            "published": "Wed, 10 Jun 2026 16:44:18 +0000"
-        },
-        {
-            "title": "SpaceX\u2019s IPO Could Turn 4,400 Employees Into Millionaires",
-            "link": "https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html",
-            "published": "Wed, 10 Jun 2026 19:10:10 +0000"
-        },
-        {
-            "title": "How to Remove Apps You Never Use (or at Least Hide Them)",
-            "link": "https://www.nytimes.com/2026/06/10/technology/personaltech/iphone-android-app-removal.html",
-            "published": "Wed, 10 Jun 2026 09:02:01 +0000"
-        },
-        {
-            "title": "How Tesla\u2019s Stock Listing in 2010 Enabled SpaceX\u2019s I.P.O.",
-            "link": "https://www.nytimes.com/2026/06/11/business/spacex-tesla-ipo-elon-musk.html",
-            "published": "Thu, 11 Jun 2026 09:04:31 +0000"
+            "title": "Britain Is Weighing a Social Media Ban for Children. How Did It Get Here?",
+            "link": "https://www.nytimes.com/2026/06/10/world/europe/uk-social-media-ban-under-16.html",
+            "published": "Thu, 11 Jun 2026 00:54:24 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Who is Elon Musk and what is his net worth?",
+            "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 11 Jun 2026 16:14:31 GMT"
+        },
         {
             "title": "Social media on trial: Four important cases to watch",
             "link": "https://www.bbc.com/news/articles/c9q39l447l4o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
             "link": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 09 Jun 2026 16:45:12 GMT"
-        },
-        {
-            "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
-            "link": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 09 Jun 2026 16:16:12 GMT"
         }
     ]
 }
