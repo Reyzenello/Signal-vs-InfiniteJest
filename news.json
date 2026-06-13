@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Source: Howard Lutnick told Anthropic that Mythos 5 and Fable 5 would be subject to export controls after a company claimed it was able to jailbreak Mythos (Axios)",
+            "link": "https://www.techmeme.com/260612/p30#a260612p30",
+            "published": "Fri, 12 Jun 2026 19:56:41 -0400"
+        },
+        {
+            "title": "Sources: OpenAI was subpoenaed on Friday by a coalition of state AGs for documents covering a wide range of its activities and impact on users (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260612/p29#a260612p29",
+            "published": "Fri, 12 Jun 2026 19:25:02 -0400"
+        },
+        {
             "title": "Sources detail frustration inside Meta's Applied AI team, formed in March to support Superintelligence Labs, over menial projects, \"soul-crushing\" work, more (Wired)",
             "link": "https://www.techmeme.com/260612/p28#a260612p28",
             "published": "Fri, 12 Jun 2026 18:35:03 -0400"
@@ -14,23 +24,13 @@
             "title": "Sources: three ex-DOGE staffers are raising $130M from a16z, Sequoia, and others for a startup that aims to use AI to secure government systems (Vanity Fair)",
             "link": "https://www.techmeme.com/260612/p26#a260612p26",
             "published": "Fri, 12 Jun 2026 17:20:03 -0400"
-        },
-        {
-            "title": "KPMG retracts a report on AI's benefits after it has been found to exaggerate AI adoption with case studies that appear to have been based on AI hallucinations (Financial Times)",
-            "link": "https://www.techmeme.com/260612/p25#a260612p25",
-            "published": "Fri, 12 Jun 2026 16:55:02 -0400"
-        },
-        {
-            "title": "Sources: Roku is in talks to sell itself; its shares have risen about 24% this year, giving the company a market value of $19.9B; ROKU jumps 20%+ after hours (Bloomberg)",
-            "link": "https://www.techmeme.com/260612/p24#a260612p24",
-            "published": "Fri, 12 Jun 2026 15:55:04 -0400"
         }
     ],
     "source_1": [
         {
             "title": "SpaceX\u2019s Unlikely Journey From Far-Out Idea to $2 Trillion Juggernaut",
             "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-journey.html",
-            "published": "Fri, 12 Jun 2026 20:48:06 +0000"
+            "published": "Fri, 12 Jun 2026 20:48:07 +0000"
         },
         {
             "title": "SpaceX Stock Rises 11% in Largest IPO Ever",
@@ -45,7 +45,7 @@
         {
             "title": "What the SpaceX I.P.O. Means for OpenAI and Anthropic",
             "link": "https://www.nytimes.com/2026/06/12/technology/spacex-ipo-openai-anthropic.html",
-            "published": "Fri, 12 Jun 2026 18:53:32 +0000"
+            "published": "Fri, 12 Jun 2026 22:40:05 +0000"
         },
         {
             "title": "If You Have a 401(k), How Much SpaceX Stock Will You Own?",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+            "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Jun 2026 23:05:39 GMT"
+        },
         {
             "title": "Who is Elon Musk and what is his net worth?",
             "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Version of AI tool 'too powerful for public' released to public",
             "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 09 Jun 2026 18:35:59 GMT"
-        },
-        {
-            "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
-            "link": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 09 Jun 2026 16:45:12 GMT"
         }
     ]
 }
