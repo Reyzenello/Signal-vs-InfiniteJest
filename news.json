@@ -1,41 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic's belief in its own commitment to safety gives Anthropic the license to aggressively favor its business and even challenge the US government (Ben Thompson/Stratechery)",
-            "link": "https://www.techmeme.com/260615/p35#a260615p35",
-            "published": "Mon, 15 Jun 2026 13:25:01 -0400"
+            "title": "OpenRouter debuts Fusion, a tool for prompting multiple AI models in parallel, claiming it can achieve \"Fable-level intelligence at half the price\" (Brian Thomas/OpenRouter Blog)",
+            "link": "https://www.techmeme.com/260615/p40#a260615p40",
+            "published": "Mon, 15 Jun 2026 16:40:02 -0400"
         },
         {
-            "title": "Radical Numerics, which is developing AI models that learn directly from biological data, raised a $50M seed led by Emergence Capital (Natalie Breymeyer/Axios)",
-            "link": "https://www.techmeme.com/260615/p34#a260615p34",
-            "published": "Mon, 15 Jun 2026 13:15:03 -0400"
+            "title": "SpaceX stock closed up 19.6% on Monday, its first full day of trading; Musk said it \"might be able to reach\" around $1T revenue in 2030, up from $18.7B in 2025 (Arjun Kharpal/CNBC)",
+            "link": "https://www.techmeme.com/260615/p39#a260615p39",
+            "published": "Mon, 15 Jun 2026 16:20:01 -0400"
         },
         {
-            "title": "Source: Anthropic was given 90 minutes to comply and was not provided with detailed concerns before the export control order was issued (Financial Times)",
-            "link": "https://www.techmeme.com/260615/p33#a260615p33",
-            "published": "Mon, 15 Jun 2026 12:30:02 -0400"
+            "title": "Meta launches new AI features, including an \"AI Mode\" for search that uses Meta AI to surface answers pulled from public posts across Facebook (Lauren Forristal/TechCrunch)",
+            "link": "https://www.techmeme.com/260615/p38#a260615p38",
+            "published": "Mon, 15 Jun 2026 14:45:02 -0400"
         },
         {
-            "title": "Google says a Chinese-linked hacking group targeted US and Canadian academic, medical, and military research institutions from September 2023 to November 2025 (A.J. Vicens/Reuters)",
-            "link": "https://www.techmeme.com/260615/p32#a260615p32",
-            "published": "Mon, 15 Jun 2026 12:25:01 -0400"
+            "title": "Arcade, which helps companies manage which actions AI agents are authorized to take, raised a $60M Series A led by SYN Ventures, following a $12M seed in 2025 (Steven Rosenbush/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260615/p37#a260615p37",
+            "published": "Mon, 15 Jun 2026 14:20:00 -0400"
         },
         {
-            "title": "NewCore, which helps companies manage both human and AI agent identities in a single system, emerges from stealth with a $66M seed led by Cyberstarts (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/260615/p31#a260615p31",
-            "published": "Mon, 15 Jun 2026 12:20:00 -0400"
+            "title": "A US judge dismisses xAI's lawsuit alleging OpenAI stole trade secrets, saying xAI failed to show OpenAI induced a former xAI engineer to divulge trade secrets (Jonathan Stempel/Reuters)",
+            "link": "https://www.techmeme.com/260615/p36#a260615p36",
+            "published": "Mon, 15 Jun 2026 14:05:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "UK Announces Social Media Ban for Children Under 16",
             "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-            "published": "Mon, 15 Jun 2026 17:07:23 +0000"
+            "published": "Mon, 15 Jun 2026 17:07:24 +0000"
         },
         {
             "title": "SpaceX\u2019s Stock Surges on First Full Day of Trading",
             "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
-            "published": "Mon, 15 Jun 2026 17:09:52 +0000"
+            "published": "Mon, 15 Jun 2026 20:24:46 +0000"
         },
         {
             "title": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models",
@@ -55,19 +55,14 @@
     ],
     "source_2": [
         {
-            "title": "Anthropic to meet with White House over AI tool suspension",
-            "link": "https://www.bbc.com/news/articles/c9w2p7ykp8yo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 15 Jun 2026 17:46:41 GMT"
+            "title": "Social media ban - bold and blunt, but no silver bullet",
+            "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 15 Jun 2026 19:48:25 GMT"
         },
         {
             "title": "Under-16s will be banned from social media from early 2027",
             "link": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 15 Jun 2026 17:10:03 GMT"
-        },
-        {
-            "title": "Social media ban - bold and blunt, but no silver bullet",
-            "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 15 Jun 2026 12:41:43 GMT"
         },
         {
             "title": "When will social media ban start, and which apps will be affected?",
@@ -78,6 +73,11 @@
             "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
             "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 12 Jun 2026 23:05:39 GMT"
+        },
+        {
+            "title": "Who is Elon Musk and what is his net worth?",
+            "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 12 Jun 2026 16:44:29 GMT"
         }
     ]
 }
