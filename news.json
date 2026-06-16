@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: DeepSeek closed a $7.4B round at a $50B valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng (The Information)",
-            "link": "https://www.techmeme.com/260616/p4#a260616p4",
-            "published": "Tue, 16 Jun 2026 01:15:00 -0400"
+            "title": "Meta says Threads now has 500M MAUs, adds a \"Your Algo\" tool that lets users control what they see in their feed, and brings Communities out of beta (Aisha Malik/TechCrunch)",
+            "link": "https://www.techmeme.com/260616/p14#a260616p14",
+            "published": "Tue, 16 Jun 2026 07:15:04 -0400"
         },
         {
-            "title": "Sources: audited financial figures show OpenAI spending hit $34B in 2025, including $19B on research and development and nearly $6B on sales and marketing (Financial Times)",
-            "link": "https://www.techmeme.com/260616/p3#a260616p3",
-            "published": "Tue, 16 Jun 2026 01:00:14 -0400"
+            "title": "Alibaba's AI unit Tongyi Lab launches the Qwen Robot Suite, its first family of AI models for robots, in pilot testing with some enterprise clients (Wency Chen/South China Morning Post)",
+            "link": "https://www.techmeme.com/260616/p13#a260616p13",
+            "published": "Tue, 16 Jun 2026 07:01:15 -0400"
         },
         {
-            "title": "Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained infrastructure and triggered a series of reliability issues (Ashley Stewart/Business Insider)",
-            "link": "https://www.techmeme.com/260616/p2#a260616p2",
-            "published": "Tue, 16 Jun 2026 00:40:00 -0400"
+            "title": "SEC filing: SpaceX agrees to acquire Cursor in a merger valuing the AI coding startup at $60B, expected to close in Q3 2026 (Reuters)",
+            "link": "https://www.techmeme.com/260616/p12#a260616p12",
+            "published": "Tue, 16 Jun 2026 06:44:11 -0400"
         },
         {
-            "title": "Memo: CTO Andrew Bosworth said Meta did \"an atrocious job\" sharing Applied AI's vision, promising employees better communication, career growth, and more perks (Wired)",
-            "link": "https://www.techmeme.com/260616/p1#a260616p1",
-            "published": "Tue, 16 Jun 2026 00:00:49 -0400"
+            "title": "SoftBank announces an OpenAI-powered \"patching service\" to secure Japan's top 3,000 companies behind crucial infrastructure from cyberattacks (Yuri Kageyama/Associated Press)",
+            "link": "https://www.techmeme.com/260616/p11#a260616p11",
+            "published": "Tue, 16 Jun 2026 06:35:03 -0400"
         },
         {
-            "title": "Filing: the US DOJ asks court to dismiss an NAACP suit over xAI's gas turbines, saying xAI is integral to US' military operations, including the Iran War (Molly Taft/Wired)",
-            "link": "https://www.techmeme.com/260615/p48#a260615p48",
-            "published": "Mon, 15 Jun 2026 23:40:01 -0400"
+            "title": "Florida sues TikTok for allegedly violating its social media regulations for minors and state consumer protection laws by showing \"X-Rated\" content to minors (Alex Ebert/Bloomberg Law)",
+            "link": "https://www.techmeme.com/260616/p10#a260616p10",
+            "published": "Tue, 16 Jun 2026 06:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Sun, 14 Jun 2026 00:57:39 +0000"
         },
         {
-            "title": "What to Know About Planned Social Media Bans in Australia, the U.K. and Beyond",
-            "link": "https://www.nytimes.com/2026/06/15/world/europe/social-media-bans-worldwide.html",
-            "published": "Mon, 15 Jun 2026 11:19:17 +0000"
+            "title": "A.I. Boom Ignites Asian Chip Companies",
+            "link": "https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html",
+            "published": "Tue, 16 Jun 2026 09:00:52 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "When will social media ban start, and which apps will be affected?",
+            "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 16 Jun 2026 10:58:25 GMT"
+        },
         {
             "title": "What is Helium-3 and could we get it from the moon?",
             "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
@@ -68,11 +73,6 @@
             "title": "Under-16s will be banned from social media from early 2027",
             "link": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 15 Jun 2026 17:10:03 GMT"
-        },
-        {
-            "title": "When will social media ban start, and which apps will be affected?",
-            "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 15 Jun 2026 11:09:42 GMT"
         },
         {
             "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
