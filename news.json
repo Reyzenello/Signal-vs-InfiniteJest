@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A profile of Cursor, including its hiring process and its testy relationship with Anthropic, which told Cursor that Claude Code was mainly a research effort (Business Insider)",
-            "link": "https://www.techmeme.com/260615/p43#a260615p43",
-            "published": "Mon, 15 Jun 2026 19:05:01 -0400"
+            "title": "Sources: DeepSeek closed a $7.4B round at a $50B valuation under an unusual structure requiring investors to put capital into an LP run by CEO Liang Wenfeng (The Information)",
+            "link": "https://www.techmeme.com/260616/p4#a260616p4",
+            "published": "Tue, 16 Jun 2026 01:15:00 -0400"
         },
         {
-            "title": "Sources: several Xbox studios, including Hellblade maker Ninja Theory, are in talks with Microsoft to buy themselves back and go independent to avoid closure (Jason Schreier/Bloomberg)",
-            "link": "https://www.techmeme.com/260615/p42#a260615p42",
-            "published": "Mon, 15 Jun 2026 18:00:37 -0400"
+            "title": "Sources: audited financial figures show OpenAI spending hit $34B in 2025, including $19B on research and development and nearly $6B on sales and marketing (Financial Times)",
+            "link": "https://www.techmeme.com/260616/p3#a260616p3",
+            "published": "Tue, 16 Jun 2026 01:00:14 -0400"
         },
         {
-            "title": "Source: Qualcomm is in talks to buy AI chip designer Tenstorrent for $8B to $10B; Tenstorrent discussed raising $800M at a ~$3.2B valuation last year (The Information)",
-            "link": "https://www.techmeme.com/260615/p41#a260615p41",
-            "published": "Mon, 15 Jun 2026 17:30:00 -0400"
+            "title": "Sources: Microsoft is adding AWS capacity to GitHub after AI-driven growth strained infrastructure and triggered a series of reliability issues (Ashley Stewart/Business Insider)",
+            "link": "https://www.techmeme.com/260616/p2#a260616p2",
+            "published": "Tue, 16 Jun 2026 00:40:00 -0400"
         },
         {
-            "title": "OpenRouter debuts Fusion, a tool for prompting multiple AI models in parallel, claiming it can achieve \"Fable-level intelligence at half the price\" (Brian Thomas/OpenRouter Blog)",
-            "link": "https://www.techmeme.com/260615/p40#a260615p40",
-            "published": "Mon, 15 Jun 2026 16:40:02 -0400"
+            "title": "Memo: CTO Andrew Bosworth said Meta did \"an atrocious job\" sharing Applied AI's vision, promising employees better communication, career growth, and more perks (Wired)",
+            "link": "https://www.techmeme.com/260616/p1#a260616p1",
+            "published": "Tue, 16 Jun 2026 00:00:49 -0400"
         },
         {
-            "title": "SpaceX stock closed up 19.6% on Monday, its first full day of trading; Musk said it \"might be able to reach\" around $1T revenue in 2030, up from $18.7B in 2025 (Arjun Kharpal/CNBC)",
-            "link": "https://www.techmeme.com/260615/p39#a260615p39",
-            "published": "Mon, 15 Jun 2026 16:20:01 -0400"
+            "title": "Filing: the US DOJ asks court to dismiss an NAACP suit over xAI's gas turbines, saying xAI is integral to US' military operations, including the Iran War (Molly Taft/Wired)",
+            "link": "https://www.techmeme.com/260615/p48#a260615p48",
+            "published": "Mon, 15 Jun 2026 23:40:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "SpaceX\u2019s Stock Surges on First Full Day of Trading",
             "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
-            "published": "Mon, 15 Jun 2026 20:24:46 +0000"
+            "published": "Mon, 15 Jun 2026 20:24:47 +0000"
         },
         {
             "title": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "What is Helium-3 and could we get it from the moon?",
+            "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 16 Jun 2026 00:11:13 GMT"
+        },
+        {
             "title": "Social media ban - bold and blunt, but no silver bullet",
             "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 15 Jun 2026 19:48:25 GMT"
@@ -73,11 +78,6 @@
             "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
             "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 12 Jun 2026 23:05:39 GMT"
-        },
-        {
-            "title": "Who is Elon Musk and what is his net worth?",
-            "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 12 Jun 2026 16:44:29 GMT"
         }
     ]
 }
