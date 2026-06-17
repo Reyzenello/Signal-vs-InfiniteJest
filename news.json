@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "The UK CMA orders Google to provide greater transparency on how its search rankings work and to let users transfer their search data to authorized third parties (Muvija M/Reuters)",
-            "link": "https://www.techmeme.com/260617/p33#a260617p33",
-            "published": "Wed, 17 Jun 2026 11:40:02 -0400"
+            "title": "Sources: Amodei, Altman, and Hassabis called for US-led collaboration on AI rules at the G7 summit; Macron and Modi raised concerns over the US block on Mythos (Financial Times)",
+            "link": "https://www.techmeme.com/260617/p40#a260617p40",
+            "published": "Wed, 17 Jun 2026 14:15:00 -0400"
         },
         {
-            "title": "Trace Finance, which provides stablecoin settlement infrastructure for cross-border payments across Latin America, raised a $32M Series A led by CoinFund (Yohan Yunstaff/Cointelegraph)",
-            "link": "https://www.techmeme.com/260617/p32#a260617p32",
-            "published": "Wed, 17 Jun 2026 11:25:02 -0400"
+            "title": "CEOs of Anthropic and Google DeepMind call for U.S.-led AI coalition in meeting at G7 (Kai Nicol-Schwarz/CNBC)",
+            "link": "https://www.techmeme.com/260617/p39#a260617p39",
+            "published": "Wed, 17 Jun 2026 13:50:02 -0400"
         },
         {
-            "title": "XDOF, which is building data pipelines, collection tools, and annotation systems for robot training data, emerges from stealth with $70M (Tim Fernholz/TechCrunch)",
-            "link": "https://www.techmeme.com/260617/p31#a260617p31",
-            "published": "Wed, 17 Jun 2026 11:15:02 -0400"
+            "title": "A newly discovered data leak has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs across 194 countries (Lawrence Abrams/BleepingComputer)",
+            "link": "https://www.techmeme.com/260617/p38#a260617p38",
+            "published": "Wed, 17 Jun 2026 13:25:03 -0400"
         },
         {
-            "title": "A look at chaos inside Anthropic after disabling Fable 5 and Mythos 5 with less than 90 minutes of notice, as some staff wonder if Trump is bullying the startup (New York Times)",
-            "link": "https://www.techmeme.com/260617/p30#a260617p30",
-            "published": "Wed, 17 Jun 2026 10:50:01 -0400"
+            "title": "Joshua Baer, the founder and CEO of Texas accelerator Capital Factory, died on Tuesday night in a business jet crash in Laredo, Texas (Ryan Merket/RuntimeWire)",
+            "link": "https://www.techmeme.com/260617/p37#a260617p37",
+            "published": "Wed, 17 Jun 2026 12:55:01 -0400"
         },
         {
-            "title": "Shoe company Allbirds changes its name to Smartbird as it pivots to an AI infrastructure company and names ex-AWS exec Nadia Carlsten as CEO; BIRD jumps 20%+ (Anhata Rooprai/Reuters)",
-            "link": "https://www.techmeme.com/260617/p29#a260617p29",
-            "published": "Wed, 17 Jun 2026 10:40:02 -0400"
+            "title": "Paris-based Comand AI, which is developing AI-based command-and-control software for military operations, raised a \u20ac32M Series A led by Blossom Capital (Ingrid Lunden/Resilience Media)",
+            "link": "https://www.techmeme.com/260617/p36#a260617p36",
+            "published": "Wed, 17 Jun 2026 12:45:15 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Elon Musk\u2019s Next Move May Be a Mega-Merger of SpaceX and Tesla",
+            "link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
+            "published": "Wed, 17 Jun 2026 17:46:44 +0000"
+        },
+        {
             "title": "Anthropic Employees Accuse Trump Administration of Targeting Them",
             "link": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
-            "published": "Wed, 17 Jun 2026 14:59:54 +0000"
+            "published": "Wed, 17 Jun 2026 17:56:09 +0000"
         },
         {
             "title": "Why Waymo\u2019s Driverless Taxis Won\u2019t Be on Your Streets Anytime Soon",
@@ -43,17 +48,22 @@
             "published": "Tue, 16 Jun 2026 09:00:52 +0000"
         },
         {
-            "title": "Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion",
-            "link": "https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html",
-            "published": "Tue, 16 Jun 2026 20:47:18 +0000"
-        },
-        {
             "title": "How the \u2018Hard Fork\u2019 Hosts Bring Their Tech Podcast to a Live Audience",
             "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
             "published": "Wed, 17 Jun 2026 15:25:24 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+            "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 17 Jun 2026 16:37:41 GMT"
+        },
+        {
+            "title": "Google, Nvidia and Anthropic bosses' AI tips for students",
+            "link": "https://www.bbc.com/news/videos/cewqg4qwq1wo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 17 Jun 2026 15:59:39 GMT"
+        },
         {
             "title": "Snap unveils \u00a31,995 smart glasses after previous flops",
             "link": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "When will social media ban start, and which apps will be affected?",
             "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 16 Jun 2026 10:58:25 GMT"
-        },
-        {
-            "title": "What is Helium-3 and could we get it from the moon?",
-            "link": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 16 Jun 2026 00:11:13 GMT"
-        },
-        {
-            "title": "Social media ban - bold and blunt, but no silver bullet",
-            "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 15 Jun 2026 19:48:25 GMT"
         }
     ]
 }
