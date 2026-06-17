@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Nauk Nauk, which runs an AI video app that turns photos of toys into short animated videos, raised $20M and is coming out of beta; it claims to have 1M+ users (Ina Fried/Axios)",
-            "link": "https://www.techmeme.com/260617/p15#a260617p15",
-            "published": "Wed, 17 Jun 2026 07:00:43 -0400"
+            "title": "The UK CMA orders Google to provide greater transparency on how its search rankings work and to let users transfer their search data to authorized third parties (Muvija M/Reuters)",
+            "link": "https://www.techmeme.com/260617/p33#a260617p33",
+            "published": "Wed, 17 Jun 2026 11:40:02 -0400"
         },
         {
-            "title": "Sources: Trump officials discussed ways to structure government equity stakes in AI companies, with Commerce Secretary Lutnick favoring a sovereign wealth fund (Eleanor Mueller/Semafor)",
-            "link": "https://www.techmeme.com/260617/p14#a260617p14",
-            "published": "Wed, 17 Jun 2026 06:45:01 -0400"
+            "title": "Trace Finance, which provides stablecoin settlement infrastructure for cross-border payments across Latin America, raised a $32M Series A led by CoinFund (Yohan Yunstaff/Cointelegraph)",
+            "link": "https://www.techmeme.com/260617/p32#a260617p32",
+            "published": "Wed, 17 Jun 2026 11:25:02 -0400"
         },
         {
-            "title": "Sources describe Huawei's efforts to rebuild its chip business seven years after the US cut Huawei off from advanced chips, as it bets on logic-stacking tech (Financial Times)",
-            "link": "https://www.techmeme.com/260617/p13#a260617p13",
-            "published": "Wed, 17 Jun 2026 06:35:01 -0400"
+            "title": "XDOF, which is building data pipelines, collection tools, and annotation systems for robot training data, emerges from stealth with $70M (Tim Fernholz/TechCrunch)",
+            "link": "https://www.techmeme.com/260617/p31#a260617p31",
+            "published": "Wed, 17 Jun 2026 11:15:02 -0400"
         },
         {
-            "title": "World models startup Odyssey raised $310M from Amazon and others at a $1.45B valuation and will use AWS as its preferred cloud partner, deploying Trainium chips (Financial Times)",
-            "link": "https://www.techmeme.com/260617/p12#a260617p12",
-            "published": "Wed, 17 Jun 2026 04:55:06 -0400"
+            "title": "A look at chaos inside Anthropic after disabling Fable 5 and Mythos 5 with less than 90 minutes of notice, as some staff wonder if Trump is bullying the startup (New York Times)",
+            "link": "https://www.techmeme.com/260617/p30#a260617p30",
+            "published": "Wed, 17 Jun 2026 10:50:01 -0400"
         },
         {
-            "title": "A profile of Anthropic researcher Nicholas Carlini, who warned about Mythos in March and is now part of an Anthropic team briefing the White House on safeguards (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260617/p11#a260617p11",
-            "published": "Wed, 17 Jun 2026 02:30:01 -0400"
+            "title": "Shoe company Allbirds changes its name to Smartbird as it pivots to an AI infrastructure company and names ex-AWS exec Nadia Carlsten as CEO; BIRD jumps 20%+ (Anhata Rooprai/Reuters)",
+            "link": "https://www.techmeme.com/260617/p29#a260617p29",
+            "published": "Wed, 17 Jun 2026 10:40:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Anthropic Employees Accuse Trump Administration of Targeting Them",
+            "link": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
+            "published": "Wed, 17 Jun 2026 14:59:54 +0000"
+        },
+        {
+            "title": "Why Waymo\u2019s Driverless Taxis Won\u2019t Be on Your Streets Anytime Soon",
+            "link": "https://www.nytimes.com/2026/06/17/technology/waymo-driverless-taxis-politics.html",
+            "published": "Wed, 17 Jun 2026 14:49:10 +0000"
+        },
         {
             "title": "A.I. Boom Ignites Asian Chip Companies",
             "link": "https://www.nytimes.com/2026/06/16/technology/taiwan-south-korea-ai-chips.html",
@@ -38,22 +48,17 @@
             "published": "Tue, 16 Jun 2026 20:47:18 +0000"
         },
         {
-            "title": "UK Announces Social Media Ban for Children Under 16",
-            "link": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-            "published": "Mon, 15 Jun 2026 22:53:50 +0000"
-        },
-        {
-            "title": "Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models",
-            "link": "https://www.nytimes.com/2026/06/13/us/politics/trump-anthropic-ai-models.html",
-            "published": "Sun, 14 Jun 2026 00:41:06 +0000"
-        },
-        {
-            "title": "\u2018Hard Fork\u2019 Live Part 2: Dylan Field on Standing Out in the A.I. Era",
-            "link": "https://www.nytimes.com/2026/06/17/podcasts/hard-fork-live-dylan-field.html",
-            "published": "Wed, 17 Jun 2026 11:00:03 +0000"
+            "title": "How the \u2018Hard Fork\u2019 Hosts Bring Their Tech Podcast to a Live Audience",
+            "link": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
+            "published": "Wed, 17 Jun 2026 15:25:24 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Snap unveils \u00a31,995 smart glasses after previous flops",
+            "link": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 17 Jun 2026 11:37:01 GMT"
+        },
         {
             "title": "Five big questions about the UK's under-16s social media ban",
             "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Social media ban - bold and blunt, but no silver bullet",
             "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 15 Jun 2026 19:48:25 GMT"
-        },
-        {
-            "title": "Under-16s will be banned from social media from early 2027",
-            "link": "https://www.bbc.com/news/articles/c2kydl0zqeko?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 15 Jun 2026 17:10:03 GMT"
         }
     ]
 }
