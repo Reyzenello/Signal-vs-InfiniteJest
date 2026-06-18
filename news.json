@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Frontier, a group including Stripe, Google, Salesforce, and newly joined Anthropic, commits $915M to buy carbon-removal credits, on top of $1B already pledged (Yusuf Khan/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260617/p50#a260617p50",
-            "published": "Wed, 17 Jun 2026 19:40:01 -0400"
+            "title": "Sources: JPMorgan Chase has stopped its staff in Hong Kong from accessing Anthropic's AI models, following a similar move by rival Goldman Sachs (Financial Times)",
+            "link": "https://www.techmeme.com/260618/p3#a260618p3",
+            "published": "Thu, 18 Jun 2026 00:50:02 -0400"
         },
         {
-            "title": "Trump administration officials say Anthropic must ensure Fable 5's guardrails can't be circumvented before rerelease; experts say that may not be possible (Hugo Lowell/Wired)",
-            "link": "https://www.techmeme.com/260617/p49#a260617p49",
-            "published": "Wed, 17 Jun 2026 18:55:01 -0400"
+            "title": "Sources: ByteDance has been Microsoft's biggest AI customer in recent years, largely using OpenAI models, and is on track to spend $1B+ a year on Azure services (Bloomberg)",
+            "link": "https://www.techmeme.com/260618/p2#a260618p2",
+            "published": "Thu, 18 Jun 2026 00:45:02 -0400"
         },
         {
-            "title": "Apple's planned move of Hide My Email aliases to private.icloud.com will let services easily distinguish them from normal iCloud email addresses and block them (Arseniy Shestakov)",
-            "link": "https://www.techmeme.com/260617/p48#a260617p48",
-            "published": "Wed, 17 Jun 2026 18:00:45 -0400"
+            "title": "Midjourney unveils its first hardware product, the Midjourney Scanner, an ultrasound-based full-body scanner; it is unclear how AI fits into the medical effort (Richard Lawler/The Verge)",
+            "link": "https://www.techmeme.com/260618/p1#a260618p1",
+            "published": "Thu, 18 Jun 2026 00:05:01 -0400"
         },
         {
-            "title": "Mastodon adds email newsletters, letting writers send their posts directly to subscribers' inboxes, even to readers without a Mastodon account (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260617/p47#a260617p47",
-            "published": "Wed, 17 Jun 2026 17:30:01 -0400"
+            "title": "Nvidia researchers unveil ENPIRE, an agent harness framework that develops robotic self-improvement strategies for physical tasks with minimal human supervision (Jeremy Hsu/Ars Technica)",
+            "link": "https://www.techmeme.com/260617/p57#a260617p57",
+            "published": "Wed, 17 Jun 2026 23:25:01 -0400"
         },
         {
-            "title": "In an interview, Tim Cook says Apple price hikes are \"unavoidable\" to offset surging memory and storage chip costs, and \"the situation has become unsustainable\" (Rolfe Winkler/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260617/p46#a260617p46",
-            "published": "Wed, 17 Jun 2026 17:20:07 -0400"
+            "title": "A survey of US adults: 49% reported using chatbots in 2026, up from 33% in 2024, 24% said that they use chatbots on a daily basis, and 44% said they use ChatGPT (Pew Research Center)",
+            "link": "https://www.techmeme.com/260617/p56#a260617p56",
+            "published": "Wed, 17 Jun 2026 22:40:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Elon Musk\u2019s Next Move May Be a Mega-Merger of SpaceX and Tesla",
             "link": "https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html",
-            "published": "Wed, 17 Jun 2026 21:34:24 +0000"
+            "published": "Thu, 18 Jun 2026 00:56:43 +0000"
         },
         {
             "title": "Anthropic Employees Accuse Trump Administration of Targeting Them",
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "ChatGPT can be made to generate sexualised and violent images, researchers find",
-            "link": "https://www.bbc.com/news/articles/c802ldjdklzo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 17 Jun 2026 23:07:40 GMT"
-        },
-        {
             "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
             "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 17 Jun 2026 16:37:41 GMT"
@@ -78,6 +73,11 @@
             "title": "Five big questions about the UK's under-16s social media ban",
             "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 16 Jun 2026 15:28:15 GMT"
+        },
+        {
+            "title": "When will social media ban start, and which apps will be affected?",
+            "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 16 Jun 2026 10:58:25 GMT"
         }
     ]
 }
