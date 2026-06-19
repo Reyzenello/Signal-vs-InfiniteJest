@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Doc: SpaceX says the EU's plan to reserve satellite spectrum for European operators risks disrupting connectivity, including for emergency services in Ukraine (Financial Times)",
+            "link": "https://www.techmeme.com/260618/p48#a260618p48",
+            "published": "Thu, 18 Jun 2026 21:30:00 -0400"
+        },
+        {
+            "title": "A US circuit court overturned an injunction against Ohio, allowing the state to implement a law forcing platforms to seek parental consent if a user is under-16 (Nate Raymond/Reuters)",
+            "link": "https://www.techmeme.com/260618/p47#a260618p47",
+            "published": "Thu, 18 Jun 2026 20:50:01 -0400"
+        },
+        {
+            "title": "A profile of Meta President Dina Powell McCormick, who has become one of Silicon Valley's top power brokers as she helps oversee Meta's AI infrastructure push (Financial Times)",
+            "link": "https://www.techmeme.com/260618/p46#a260618p46",
+            "published": "Thu, 18 Jun 2026 20:20:01 -0400"
+        },
+        {
             "title": "Intel names former SK Hynix CEO Seok-Hee Lee as EVP of Intel Foundry; Naga Chandrasekaran will lead front-end technology development and front-end manufacturing (Juby Babu/Reuters)",
             "link": "https://www.techmeme.com/260618/p45#a260618p45",
             "published": "Thu, 18 Jun 2026 18:30:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Kalshi is generating $2B+ in annualized revenue, up about three times from November, and has held informal talks with banks about an eventual IPO (Yueqi Yang/The Information)",
             "link": "https://www.techmeme.com/260618/p44#a260618p44",
             "published": "Thu, 18 Jun 2026 18:20:02 -0400"
-        },
-        {
-            "title": "Snap plans to spin off an internal generative AI video team into Dotmo, a new company focused on AI models for interactive gaming experiences, citing high costs (Lucas Ropek/TechCrunch)",
-            "link": "https://www.techmeme.com/260618/p43#a260618p43",
-            "published": "Thu, 18 Jun 2026 17:25:02 -0400"
-        },
-        {
-            "title": "Sources: Meta is under contract to buy roughly 1.6 GW of computing capacity from Crusoe across two data centers in Texas and Missouri (Bloomberg)",
-            "link": "https://www.techmeme.com/260618/p42#a260618p42",
-            "published": "Thu, 18 Jun 2026 16:55:00 -0400"
-        },
-        {
-            "title": "Unsealed docs: Google lost a court fight against a 2023 US warrant in a Jan. 6 pipe bomb probe seeking info of 300+ users who searched for the RNC and DNC HQs (Zoe Tillman/Bloomberg)",
-            "link": "https://www.techmeme.com/260618/p41#a260618p41",
-            "published": "Thu, 18 Jun 2026 16:10:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "The artificial ice pyramids saving India's mountain villages",
+            "link": "https://www.bbc.com/news/articles/c072414183go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 18 Jun 2026 23:11:07 GMT"
+        },
+        {
             "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
             "link": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 18 Jun 2026 14:06:48 GMT"
@@ -73,11 +78,6 @@
             "title": "Snap unveils \u00a31,995 smart glasses after previous flops",
             "link": "https://www.bbc.com/news/articles/clyr5knpklvo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 17 Jun 2026 11:37:01 GMT"
-        },
-        {
-            "title": "Five big questions about the UK's under-16s social media ban",
-            "link": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 16 Jun 2026 15:28:15 GMT"
         }
     ]
 }
