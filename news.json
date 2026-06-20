@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Nothing won't launch a new phone this year in its budget-focused CMF Phone series due to RAM prices (Ben Schoon/9to5Google)",
+            "title": "Paris-based Kyber, which develops a low-latency remote device control SDK and is founded by VLC lead developer Jean-Baptiste Kempf, raised $5M led by Lightspeed (Anna Heim/TechCrunch)",
+            "link": "https://www.techmeme.com/260620/p2#a260620p2",
+            "published": "Sat, 20 Jun 2026 00:50:01 -0400"
+        },
+        {
+            "title": "Sources: Bain Capital stands to make $15B+ in profits on its 2018 Kioxia buyout, a ~20x return, as Kioxia's stock has surged 5,000%+ since its December 2024 IPO (Financial Times)",
+            "link": "https://www.techmeme.com/260620/p1#a260620p1",
+            "published": "Sat, 20 Jun 2026 00:40:04 -0400"
+        },
+        {
+            "title": "An interview with Roblox CEO Dave Baszucki on his early decision not to prioritize ad revenue, whether every mega platform becomes an everything app, and more (Tyler Cowen/Conversations with Tyler)",
+            "link": "https://www.techmeme.com/260619/p25#a260619p25",
+            "published": "Fri, 19 Jun 2026 20:45:01 -0400"
+        },
+        {
+            "title": "Nothing co-founder Akis Evangelidis says the phonemaker won't launch a new phone this year in its budget-focused CMF Phone series due to surging memory prices (Ben Schoon/9to5Google)",
             "link": "https://www.techmeme.com/260619/p24#a260619p24",
             "published": "Fri, 19 Jun 2026 18:25:02 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "DOJ says two brothers pleaded guilty to robbing a Minnesota family of $8M+ in cryptocurrency after holding them at gunpoint for over eight hours in 2025 (Naga Avan-Nomayo/The Block)",
             "link": "https://www.techmeme.com/260619/p23#a260619p23",
             "published": "Fri, 19 Jun 2026 17:45:01 -0400"
-        },
-        {
-            "title": "Sources: Abu Dhabi's MGX is exploring buying Singapore-based data center operator DayOne; last month, sources said DayOne planned a US IPO at a $20B valuation (Reuters)",
-            "link": "https://www.techmeme.com/260619/p22#a260619p22",
-            "published": "Fri, 19 Jun 2026 16:45:02 -0400"
-        },
-        {
-            "title": "Docs: OpenAI burned through $3.7B in Q1, on revenue of $5.7B, and ended the quarter with $73B+ in cash and marketable securities vs. $40B at the end of December (Erin Woo/The Information)",
-            "link": "https://www.techmeme.com/260619/p21#a260619p21",
-            "published": "Fri, 19 Jun 2026 16:10:01 -0400"
-        },
-        {
-            "title": "The departure of John Jumper, a key member of Google's AI coding development team, further strains Google's efforts to compete with Anthropic and OpenAI (Bloomberg)",
-            "link": "https://www.techmeme.com/260619/p20#a260619p20",
-            "published": "Fri, 19 Jun 2026 15:45:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "New video game console aims to get kids moving",
+            "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 20 Jun 2026 01:10:51 GMT"
+        },
+        {
             "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
             "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 19 Jun 2026 20:28:33 GMT"
@@ -73,11 +78,6 @@
             "title": "GTA 6 pre-order date and cover art revealed by Rockstar",
             "link": "https://www.bbc.com/news/articles/ce8j1yj64g3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 18 Jun 2026 14:06:48 GMT"
-        },
-        {
-            "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
-            "link": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 17 Jun 2026 16:37:41 GMT"
         }
     ]
 }
