@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Filing: Oracle's global workforce fell by 21,000 employees in the past 12 months to 141,000 as of May 31; the company says AI adoption has led to reductions (Brody Ford/Bloomberg)",
+            "link": "https://www.techmeme.com/260622/p40#a260622p40",
+            "published": "Mon, 22 Jun 2026 18:50:01 -0400"
+        },
+        {
+            "title": "President Trump signs two executive orders aimed at speeding the development of advanced quantum computers and mitigating the security threats they present (Amrith Ramkumar/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260622/p39#a260622p39",
+            "published": "Mon, 22 Jun 2026 17:30:02 -0400"
+        },
+        {
             "title": "Sources: Meta internally exposed data from its employee-tracking program meant to help train its AI models, including full prompts and private conversations (Wired)",
             "link": "https://www.techmeme.com/260622/p38#a260622p38",
             "published": "Mon, 22 Jun 2026 17:05:05 -0400"
@@ -14,16 +24,6 @@
             "title": "Sakana AI launches Fugu, a multi-agent orchestration system accessible through a single model API, claiming Fugu Ultra matches Fable and Mythos on benchmarks (Carl Franzen/VentureBeat)",
             "link": "https://www.techmeme.com/260622/p36#a260622p36",
             "published": "Mon, 22 Jun 2026 15:45:01 -0400"
-        },
-        {
-            "title": "Sources: Vimeo owner Bending Spoons seeks to raise ~$1.62B in a US IPO, selling 58M shares at $26 to $28 apiece, at a valuation of $19B at the top of the range (Echo Wang/Reuters)",
-            "link": "https://www.techmeme.com/260622/p35#a260622p35",
-            "published": "Mon, 22 Jun 2026 14:00:40 -0400"
-        },
-        {
-            "title": "Valve Steam Machine review: much smaller than PS5, surprisingly smooth, and navigable with any modern gamepad but very expensive and needs manual configuration (Sean Hollister/The Verge)",
-            "link": "https://www.techmeme.com/260622/p34#a260622p34",
-            "published": "Mon, 22 Jun 2026 13:25:03 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Thu, 18 Jun 2026 22:05:49 +0000"
         },
         {
-            "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
-            "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
-            "published": "Sun, 21 Jun 2026 19:49:15 +0000"
+            "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+            "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
+            "published": "Mon, 22 Jun 2026 22:53:42 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Millions of iCloud users could claim share of \u00a33bn after Apple case given UK green light",
+            "link": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 22 Jun 2026 23:02:33 GMT"
+        },
+        {
+            "title": "Do you know your 'sweat score'? The rise of hydration tech",
+            "link": "https://www.bbc.com/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 22 Jun 2026 23:01:11 GMT"
+        },
         {
             "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
             "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Why an AI company cleaned my New York City apartment for free",
             "link": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 20 Jun 2026 23:18:55 GMT"
-        },
-        {
-            "title": "How the social media ban could reshape how all of us use the internet",
-            "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 20 Jun 2026 23:18:12 GMT"
-        },
-        {
-            "title": "New video game console aims to get kids moving",
-            "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 20 Jun 2026 01:10:51 GMT"
         }
     ]
 }
