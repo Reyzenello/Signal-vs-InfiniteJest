@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "The Netherlands joins the US-led Pax Silica initiative alongside South Korea and Japan to coordinate AI supply chains; Taiwan endorses it as a non-signatory (Toby Sterling/Reuters)",
-            "link": "https://www.techmeme.com/260623/p13#a260623p13",
-            "published": "Tue, 23 Jun 2026 08:10:01 -0400"
+            "title": "Beehiiv adds Cloudflare AI Crawl Control to writers' dashboards, allowing them to decide whether AI crawlers can scrape their work (Duncan Riley/SiliconANGLE)",
+            "link": "https://www.techmeme.com/260623/p25#a260623p25",
+            "published": "Tue, 23 Jun 2026 11:45:04 -0400"
         },
         {
-            "title": "ByteDance unveils Seedance 2.5 in Beijing, saying the AI video model can generate 30-second clips from up to 50 reference materials, up from 12 for Seedance 2.0 (Juro Osawa/The Information)",
-            "link": "https://www.techmeme.com/260623/p12#a260623p12",
-            "published": "Tue, 23 Jun 2026 07:40:01 -0400"
+            "title": "Market intelligence company Klue confirms it has suffered a breach, for which cybercrime group Icarus takes credit; Jamf, HackerOne, and others are affected (Zack Whittaker/TechCrunch)",
+            "link": "https://www.techmeme.com/260623/p24#a260623p24",
+            "published": "Tue, 23 Jun 2026 11:35:00 -0400"
         },
         {
-            "title": "Google plans a 12-week incubator, picking 10 to 20 AI startups from its \"Xoogler\" alumni and providing up to $350K in cloud credits and $100K in direct funding (Guinevere Grant/Bloomberg)",
-            "link": "https://www.techmeme.com/260623/p11#a260623p11",
-            "published": "Tue, 23 Jun 2026 06:40:05 -0400"
+            "title": "Walmart acquires Paris-based Vibe.co, which lets businesses create and run targeted ads on streaming services; Vibe.co's co-founders will join Walmart Connect (Brian Steinberg/Variety)",
+            "link": "https://www.techmeme.com/260623/p23#a260623p23",
+            "published": "Tue, 23 Jun 2026 11:25:00 -0400"
         },
         {
-            "title": "How Sam Altman's 80+ personal investments, many from his time at YC, benefit from ties to OpenAI; 10+ companies have discussed business deals with OpenAI (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260623/p10#a260623p10",
-            "published": "Tue, 23 Jun 2026 06:25:02 -0400"
+            "title": "SCOTUS ends a suit alleging Cisco aided China's Falun Gong persecution, further limiting a law used to hold corporations liable for overseas human rights abuses (Jan Wolfe/Reuters)",
+            "link": "https://www.techmeme.com/260623/p22#a260623p22",
+            "published": "Tue, 23 Jun 2026 11:00:37 -0400"
         },
         {
-            "title": "Top500: China's Arm-based LineShine surpasses the US' El Capitan by 20% to be the world's fastest supercomputer, the first time China takes the crown since 2017 (Don Clark/New York Times)",
-            "link": "https://www.techmeme.com/260623/p9#a260623p9",
-            "published": "Tue, 23 Jun 2026 06:05:01 -0400"
+            "title": "The Ethereum Foundation cuts ~20% of its workforce, or 54 staff, as part of a broad restructuring amid leadership turnover and growing Ethereum fragmentation (Margaux Nijkerk/CoinDesk)",
+            "link": "https://www.techmeme.com/260623/p21#a260623p21",
+            "published": "Tue, 23 Jun 2026 10:35:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
+            "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
+            "published": "Tue, 23 Jun 2026 09:02:27 +0000"
+        },
+        {
+            "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+            "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
+            "published": "Tue, 23 Jun 2026 15:11:36 +0000"
+        },
         {
             "title": "Tech Workers Maxed Out Their A.I. Use. Now They\u2019re Trying to Minimize It.",
             "link": "https://www.nytimes.com/2026/06/18/technology/ai-token-minimizing.html",
             "published": "Thu, 18 Jun 2026 15:19:00 +0000"
         },
         {
-            "title": "New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.",
-            "link": "https://www.nytimes.com/2026/06/18/technology/ai-super-pac-guardrails-alliance.html",
-            "published": "Thu, 18 Jun 2026 18:44:22 +0000"
+            "title": "\u2018Hard Fork\u2019 Live, Part 3: Differing Visions of an A.I. Future",
+            "link": "https://www.nytimes.com/2026/06/19/podcasts/hard-fork-live-part-3-differing-visions-of-an-ai-future.html",
+            "published": "Fri, 19 Jun 2026 11:00:03 +0000"
         },
         {
-            "title": "Trump Says Apple to Buy Computer Chips from Intel",
-            "link": "https://www.nytimes.com/2026/06/18/technology/apple-intel-trump-chips.html",
-            "published": "Thu, 18 Jun 2026 18:08:57 +0000"
-        },
-        {
-            "title": "Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says",
-            "link": "https://www.nytimes.com/2026/06/18/technology/amazon-worker-retaliation-data-center-complaints.html",
-            "published": "Thu, 18 Jun 2026 22:05:49 +0000"
-        },
-        {
-            "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
-            "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
-            "published": "Tue, 23 Jun 2026 09:02:27 +0000"
+            "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
+            "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
+            "published": "Sun, 21 Jun 2026 19:49:15 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Millions in UK could claim share of \u00a33bn after Apple case given green light",
+            "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 23 Jun 2026 15:01:40 GMT"
+        },
         {
             "title": "Steam Machine launches with \u00a3879 price tag as Valve cites component costs",
             "link": "https://www.bbc.co.uk/news/articles/c0kyzk2p255o?at_medium=RSS&at_campaign=rss",
@@ -63,11 +68,6 @@
             "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
             "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Jun 2026 23:31:21 GMT"
-        },
-        {
-            "title": "Millions in UK could claim share of \u00a33bn after Apple case given green light",
-            "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 22 Jun 2026 23:02:33 GMT"
         },
         {
             "title": "Do you know your 'sweat score'? The rise of hydration tech",
