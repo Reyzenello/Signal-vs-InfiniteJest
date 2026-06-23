@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Beehiiv adds Cloudflare AI Crawl Control to writers' dashboards, allowing them to decide whether AI crawlers can scrape their work (Duncan Riley/SiliconANGLE)",
-            "link": "https://www.techmeme.com/260623/p25#a260623p25",
-            "published": "Tue, 23 Jun 2026 11:45:04 -0400"
+            "title": "Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China's military, says the decision is a violation of constitutional due process (Bloomberg)",
+            "link": "https://www.techmeme.com/260623/p32#a260623p32",
+            "published": "Tue, 23 Jun 2026 13:30:01 -0400"
         },
         {
-            "title": "Market intelligence company Klue confirms it has suffered a breach, for which cybercrime group Icarus takes credit; Jamf, HackerOne, and others are affected (Zack Whittaker/TechCrunch)",
-            "link": "https://www.techmeme.com/260623/p24#a260623p24",
-            "published": "Tue, 23 Jun 2026 11:35:00 -0400"
+            "title": "On the first day of their trial, two members of Scattered Spider plead guilty in the UK to charges stemming from a 2024 cyberattack on Transport for London (Brian Krebs/Krebs on Security)",
+            "link": "https://www.techmeme.com/260623/p31#a260623p31",
+            "published": "Tue, 23 Jun 2026 13:20:01 -0400"
         },
         {
-            "title": "Walmart acquires Paris-based Vibe.co, which lets businesses create and run targeted ads on streaming services; Vibe.co's co-founders will join Walmart Connect (Brian Steinberg/Variety)",
-            "link": "https://www.techmeme.com/260623/p23#a260623p23",
-            "published": "Tue, 23 Jun 2026 11:25:00 -0400"
+            "title": "Anthropic launches Claude Tag, an agentic AI coworker for Slack that can learn context, give suggestions, and more, in beta for Claude Team and Enterprise tiers (David Gewirtz/ZDNET)",
+            "link": "https://www.techmeme.com/260623/p30#a260623p30",
+            "published": "Tue, 23 Jun 2026 13:15:04 -0400"
         },
         {
-            "title": "SCOTUS ends a suit alleging Cisco aided China's Falun Gong persecution, further limiting a law used to hold corporations liable for overseas human rights abuses (Jan Wolfe/Reuters)",
-            "link": "https://www.techmeme.com/260623/p22#a260623p22",
-            "published": "Tue, 23 Jun 2026 11:00:37 -0400"
+            "title": "Sources: Meta is building a standalone prediction markets app called Arena, which would probably rely on video game-like points instead of money wagers (New York Times)",
+            "link": "https://www.techmeme.com/260623/p29#a260623p29",
+            "published": "Tue, 23 Jun 2026 12:51:10 -0400"
         },
         {
-            "title": "The Ethereum Foundation cuts ~20% of its workforce, or 54 staff, as part of a broad restructuring amid leadership turnover and growing Ethereum fragmentation (Margaux Nijkerk/CoinDesk)",
-            "link": "https://www.techmeme.com/260623/p21#a260623p21",
-            "published": "Tue, 23 Jun 2026 10:35:01 -0400"
+            "title": "Sources: SpaceX, which is seeking to raise between $20B and $25B in its debut US bond sale, has drawn about $89B of demand (Bloomberg)",
+            "link": "https://www.techmeme.com/260623/p28#a260623p28",
+            "published": "Tue, 23 Jun 2026 12:50:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Has Created a Prediction Markets App",
+            "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
+            "published": "Tue, 23 Jun 2026 17:19:48 +0000"
+        },
         {
             "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
             "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
@@ -36,11 +41,6 @@
             "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
             "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
             "published": "Tue, 23 Jun 2026 15:11:36 +0000"
-        },
-        {
-            "title": "Tech Workers Maxed Out Their A.I. Use. Now They\u2019re Trying to Minimize It.",
-            "link": "https://www.nytimes.com/2026/06/18/technology/ai-token-minimizing.html",
-            "published": "Thu, 18 Jun 2026 15:19:00 +0000"
         },
         {
             "title": "\u2018Hard Fork\u2019 Live, Part 3: Differing Visions of an A.I. Future",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Meta halts worker tracking for AI training due to privacy fears",
+            "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 23 Jun 2026 17:51:30 GMT"
+        },
         {
             "title": "Millions in UK could claim share of \u00a33bn after Apple case given green light",
             "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Do you know your 'sweat score'? The rise of hydration tech",
             "link": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Jun 2026 23:01:11 GMT"
-        },
-        {
-            "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-            "link": "https://www.bbc.co.uk/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 22 Jun 2026 15:57:46 GMT"
         }
     ]
 }
