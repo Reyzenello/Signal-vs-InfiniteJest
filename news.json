@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement (New York Times)",
+            "link": "https://www.techmeme.com/260623/p39#a260623p39",
+            "published": "Tue, 23 Jun 2026 18:05:00 -0400"
+        },
+        {
+            "title": "Cerebras reports Q1 revenue up 94% YoY to $193.4M, net loss down 41% to $14M, and forecasts core gross margin to shrink in Q2; CBRS drops 8%+ after hours (Jordan Novet/CNBC)",
+            "link": "https://www.techmeme.com/260623/p38#a260623p38",
+            "published": "Tue, 23 Jun 2026 17:50:01 -0400"
+        },
+        {
+            "title": "Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages (Mistral AI Blog)",
+            "link": "https://www.techmeme.com/260623/p37#a260623p37",
+            "published": "Tue, 23 Jun 2026 17:10:11 -0400"
+        },
+        {
             "title": "Sources: Hadrian, which is building AI-powered factories to produce space and defense parts, is in talks to raise ~$1B at a ~$7.5B post-money valuation (Bloomberg)",
             "link": "https://www.techmeme.com/260623/p36#a260623p36",
             "published": "Tue, 23 Jun 2026 16:20:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Miami-based cybersecurity company Varonis is exploring options including a potential sale after receiving takeover interest; VRNS jumps 6%+ (Bloomberg)",
             "link": "https://www.techmeme.com/260623/p35#a260623p35",
             "published": "Tue, 23 Jun 2026 16:01:11 -0400"
-        },
-        {
-            "title": "The FCC says an auction of wireless mid-band spectrum raised $3.5B+, which will largely be used to fund the replacement of Chinese telecom equipment in the US (David Shepardson/Reuters)",
-            "link": "https://www.techmeme.com/260623/p34#a260623p34",
-            "published": "Tue, 23 Jun 2026 15:10:02 -0400"
-        },
-        {
-            "title": "Walmart acquires Vibe.co, which lets businesses create and buy ads on CTVs, sources say for $1.4B cash; top executives get $180M to stay for four years (Sarah Nassauer/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260623/p33#a260623p33",
-            "published": "Tue, 23 Jun 2026 14:15:01 -0400"
-        },
-        {
-            "title": "Alibaba sues the DOD, seeking removal from a blacklist of companies supporting China's military, says the decision is a violation of constitutional due process (Bloomberg)",
-            "link": "https://www.techmeme.com/260623/p32#a260623p32",
-            "published": "Tue, 23 Jun 2026 13:30:01 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Fri, 19 Jun 2026 11:00:03 +0000"
         },
         {
-            "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
-            "link": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
-            "published": "Sun, 21 Jun 2026 19:49:15 +0000"
+            "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
+            "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+            "published": "Tue, 23 Jun 2026 21:15:16 +0000"
         }
     ],
     "source_2": [
