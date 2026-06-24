@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Cloudflare partners with Google, Microsoft, and Mozilla on PACT, a protocol to distinguish legitimate human or bot traffic from undesirable network requests (Thomas Claburn/The Register)",
+            "link": "https://www.techmeme.com/260624/p41#a260624p41",
+            "published": "Wed, 24 Jun 2026 17:25:03 -0400"
+        },
+        {
+            "title": "Micron reports Q3 revenue up 346% YoY to $41.46B, vs. $35.84B est., gross margin above estimates, and forecasts Q4 revenue above est.; MU jumps 14%+ after hours (Kif Leswing/CNBC)",
+            "link": "https://www.techmeme.com/260624/p40#a260624p40",
+            "published": "Wed, 24 Jun 2026 16:45:03 -0400"
+        },
+        {
+            "title": "Sources: in a letter to US officials, Anthropic accused Alibaba of adversarial distillation, accessing Claude 28.8M times from April to June via ~25K accounts (Maggie Eastland/Bloomberg)",
+            "link": "https://www.techmeme.com/260624/p39#a260624p39",
+            "published": "Wed, 24 Jun 2026 16:15:01 -0400"
+        },
+        {
             "title": "Qualcomm unveils Dragonfly C1000, a new data center CPU built for agentic AI, and says Meta will use the chip when production starts in 2028 (Kif Leswing/CNBC)",
             "link": "https://www.techmeme.com/260624/p38#a260624p38",
             "published": "Wed, 24 Jun 2026 15:30:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Kalshi is in talks to raise a funding round at a ~$40B valuation that may close as soon as Q3; Kalshi raised $1B at a $22B valuation in May (Financial Times)",
             "link": "https://www.techmeme.com/260624/p37#a260624p37",
             "published": "Wed, 24 Jun 2026 15:25:01 -0400"
-        },
-        {
-            "title": "Documents: Meta's planned prediction markets app will use Meta AI models to generate questions from trending topics, make recommendations, and resolve markets (Bobby Allyn/NPR)",
-            "link": "https://www.techmeme.com/260624/p36#a260624p36",
-            "published": "Wed, 24 Jun 2026 15:05:01 -0400"
-        },
-        {
-            "title": "Sources: Google AI researchers Jonas Adler and Alexander Pritzel, both viewed internally as key contributors to Gemini, are planning to leave for Anthropic (Bloomberg)",
-            "link": "https://www.techmeme.com/260624/p35#a260624p35",
-            "published": "Wed, 24 Jun 2026 14:30:00 -0400"
-        },
-        {
-            "title": "Google says computer use is now a built-in tool supported in Gemini 3.5 Flash, available via the Gemini API and Gemini Enterprise Agent Platform (Mateo Quiros/The Keyword)",
-            "link": "https://www.techmeme.com/260624/p34#a260624p34",
-            "published": "Wed, 24 Jun 2026 14:20:01 -0400"
         }
     ],
     "source_1": [
