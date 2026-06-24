@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Micron and Sandisk led a tech selloff on Tuesday, falling more than 13%; Western Digital fell 8%, Marvell 9%, Seagate 5%, Qualcomm 8%, and Applied Materials 8% (Britney Nguyen/MarketWatch)",
+            "link": "https://www.techmeme.com/260623/p41#a260623p41",
+            "published": "Tue, 23 Jun 2026 19:55:00 -0400"
+        },
+        {
+            "title": "YouTube settles a lawsuit ahead of a second California trial over social media harms to minors; Meta, TikTok, and Snap remain defendants (Hillel Aron/Courthouse News Service)",
+            "link": "https://www.techmeme.com/260623/p40#a260623p40",
+            "published": "Tue, 23 Jun 2026 19:45:02 -0400"
+        },
+        {
             "title": "Sources: the Trump administration is pressing Meta to submit its AI models for voluntary review; Meta is the only major US AI developer without an agreement (New York Times)",
             "link": "https://www.techmeme.com/260623/p39#a260623p39",
             "published": "Tue, 23 Jun 2026 18:05:00 -0400"
@@ -14,23 +24,18 @@
             "title": "Mistral debuts OCR 4, a model featuring structured document extraction with bounding boxes, block classification, and inline confidence scores, in 170 languages (Mistral AI Blog)",
             "link": "https://www.techmeme.com/260623/p37#a260623p37",
             "published": "Tue, 23 Jun 2026 17:10:11 -0400"
-        },
-        {
-            "title": "Sources: Hadrian, which is building AI-powered factories to produce space and defense parts, is in talks to raise ~$1B at a ~$7.5B post-money valuation (Bloomberg)",
-            "link": "https://www.techmeme.com/260623/p36#a260623p36",
-            "published": "Tue, 23 Jun 2026 16:20:02 -0400"
-        },
-        {
-            "title": "Sources: Miami-based cybersecurity company Varonis is exploring options including a potential sale after receiving takeover interest; VRNS jumps 6%+ (Bloomberg)",
-            "link": "https://www.techmeme.com/260623/p35#a260623p35",
-            "published": "Tue, 23 Jun 2026 16:01:11 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Meta Has Created a Prediction Markets App",
             "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
-            "published": "Tue, 23 Jun 2026 18:11:04 +0000"
+            "published": "Tue, 23 Jun 2026 22:42:37 +0000"
+        },
+        {
+            "title": "U.S. Presses Meta to Agree to A.I. Reviews",
+            "link": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
+            "published": "Tue, 23 Jun 2026 21:45:20 +0000"
         },
         {
             "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
@@ -43,17 +48,17 @@
             "published": "Tue, 23 Jun 2026 15:11:36 +0000"
         },
         {
-            "title": "\u2018Hard Fork\u2019 Live, Part 3: Differing Visions of an A.I. Future",
-            "link": "https://www.nytimes.com/2026/06/19/podcasts/hard-fork-live-part-3-differing-visions-of-an-ai-future.html",
-            "published": "Fri, 19 Jun 2026 11:00:03 +0000"
-        },
-        {
             "title": "N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute",
             "link": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
             "published": "Tue, 23 Jun 2026 21:15:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Google's YouTube settles social media addiction case with teen",
+            "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 23 Jun 2026 23:39:55 GMT"
+        },
         {
             "title": "Meta halts worker tracking for AI training due to privacy fears",
             "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
             "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 22 Jun 2026 23:31:21 GMT"
-        },
-        {
-            "title": "Do you know your 'sweat score'? The rise of hydration tech",
-            "link": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 22 Jun 2026 23:01:11 GMT"
         }
     ]
 }
