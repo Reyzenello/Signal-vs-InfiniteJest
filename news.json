@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Google expands the scope of its months-old AI coding strike team to \"midtraining\" to try to catch up with Anthropic, after major executive departures (Erin Woo/The Information)",
-            "link": "https://www.techmeme.com/260625/p27#a260625p27",
-            "published": "Thu, 25 Jun 2026 09:20:00 -0400"
+            "title": "Nebulock, which helps security teams proactively find and remediate threats across a company's security stack, raised a $25M Series A led by FirstMark (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/260625/p35#a260625p35",
+            "published": "Thu, 25 Jun 2026 13:05:01 -0400"
         },
         {
-            "title": "Sail, whose software optimizes how AI models run on existing chips, emerges from stealth with $80M in seed and Series A led by Kleiner at a $450M valuation (Lily Mae Lazarus/Fortune)",
-            "link": "https://www.techmeme.com/260625/p26#a260625p26",
-            "published": "Thu, 25 Jun 2026 09:10:06 -0400"
+            "title": "Sources: Bumble explores a sale amid slowing growth in the online dating sector; its shares fell 48% over the past 12 months, giving it a market cap of $388M (Milana Vinn/Reuters)",
+            "link": "https://www.techmeme.com/260625/p34#a260625p34",
+            "published": "Thu, 25 Jun 2026 13:00:47 -0400"
         },
         {
-            "title": "Apple says \"the rapid expansion of AI data centers has created an extraordinary surge in demand for memory and storage\"; the MacBook Neo rises from $599 to $699 (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260625/p25#a260625p25",
-            "published": "Thu, 25 Jun 2026 08:54:15 -0400"
+            "title": "Sources: Apple plans to skip higher-end M6 chips and launch its next Pro and Max chips in 2027 as part of the M7 lineup, to boost on-device AI capabilities (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260625/p33#a260625p33",
+            "published": "Thu, 25 Jun 2026 12:53:52 -0400"
         },
         {
-            "title": "Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has \"never seen a component price increase this much, this quickly\"; iPhone is unchanged (Rolfe Winkler/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260625/p24#a260625p24",
-            "published": "Thu, 25 Jun 2026 08:46:53 -0400"
+            "title": "Memo: Meta Superintelligence Labs is hiring three founders and other team members behind AI security startup Virtue AI; two founders report to Nat Friedman (Madison Mills/Axios)",
+            "link": "https://www.techmeme.com/260625/p32#a260625p32",
+            "published": "Thu, 25 Jun 2026 12:35:04 -0400"
         },
         {
-            "title": "Australian payments startup Airwallex raised $320M led by Lee Fixel's Addition at an $11B valuation, and is incubating blockchain payments startup Metal (Jeff Kauflin/Forbes)",
-            "link": "https://www.techmeme.com/260625/p23#a260625p23",
-            "published": "Thu, 25 Jun 2026 08:30:03 -0400"
+            "title": "General Intuition, which trains AI agents in spatial reasoning via gameplay footage, raised $320M led by Khosla at a $2.3B valuation, for $454M in total funding (Rebecca Bellan/TechCrunch)",
+            "link": "https://www.techmeme.com/260625/p31#a260625p31",
+            "published": "Thu, 25 Jun 2026 12:30:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
+            "link": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
+            "published": "Thu, 25 Jun 2026 14:58:48 +0000"
+        },
         {
             "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
             "link": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
@@ -35,7 +40,7 @@
         {
             "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
             "link": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
-            "published": "Wed, 24 Jun 2026 21:41:41 +0000"
+            "published": "Wed, 24 Jun 2026 21:41:42 +0000"
         },
         {
             "title": "Meta Has Created a Prediction Markets App",
@@ -43,21 +48,16 @@
             "published": "Tue, 23 Jun 2026 22:42:38 +0000"
         },
         {
-            "title": "U.S. Presses Meta to Agree to A.I. Reviews",
-            "link": "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html",
-            "published": "Tue, 23 Jun 2026 21:45:21 +0000"
-        },
-        {
-            "title": "Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site",
-            "link": "https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html",
-            "published": "Thu, 25 Jun 2026 11:48:07 +0000"
+            "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
+            "link": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+            "published": "Thu, 25 Jun 2026 15:34:41 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Apple hikes MacBook and iPad prices, blaming rising chip costs",
+            "title": "Apple hikes prices on some products by nearly 20%",
             "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 25 Jun 2026 14:22:30 GMT"
+            "published": "Thu, 25 Jun 2026 16:35:22 GMT"
         },
         {
             "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
