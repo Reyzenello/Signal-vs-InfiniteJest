@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "As China's working-age population shrinks, a consensus is emerging that it must deploy embodied AI robots into as many tasks as possible, as soon as possible (Financial Times)",
-            "link": "https://www.techmeme.com/260625/p10#a260625p10",
-            "published": "Thu, 25 Jun 2026 02:35:01 -0400"
+            "title": "OpenAI, Anthropic, Amazon, Microsoft, and others launch Raise Us, a new non-profit led by ex-Commerce Secretary Gina Raimondo to help US workers adapt to AI (Lydia DePillis/New York Times)",
+            "link": "https://www.techmeme.com/260625/p20#a260625p20",
+            "published": "Thu, 25 Jun 2026 07:05:15 -0400"
         },
         {
-            "title": "How a $45M donation to a group supporting Trump brought Larry Ellison deeper into Trump's circle, helped Oracle's business, and his son's acquisition of WBD (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260625/p9#a260625p9",
-            "published": "Thu, 25 Jun 2026 02:15:00 -0400"
+            "title": "Preliminary findings: the EU says Azure and AWS are \"the largest and second largest\" cloud services in the EU, as the bloc weighs up tougher DMA oversight (Samuel Stolton/Bloomberg)",
+            "link": "https://www.techmeme.com/260625/p19#a260625p19",
+            "published": "Thu, 25 Jun 2026 06:40:01 -0400"
         },
         {
-            "title": "Assort Health, which develops AI voice agents for health care to handle scheduling and more, raised a $120M Series C led by Menlo Ventures at a $1.2B valuation (Heather Landi/Fierce Healthcare)",
-            "link": "https://www.techmeme.com/260625/p8#a260625p8",
-            "published": "Thu, 25 Jun 2026 02:05:00 -0400"
+            "title": "How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based \"cat\" models to predict natural disasters (Financial Times)",
+            "link": "https://www.techmeme.com/260625/p18#a260625p18",
+            "published": "Thu, 25 Jun 2026 06:30:15 -0400"
         },
         {
-            "title": "Paris-based Tsuga, whose observability software runs in customers' own clouds to help them skip per-byte ingestion costs, raised a $35M Series A led by Singular (Ana Maria Constantin/The Next Web)",
-            "link": "https://www.techmeme.com/260625/p7#a260625p7",
-            "published": "Thu, 25 Jun 2026 01:50:01 -0400"
+            "title": "IBM details a 0.7nm chip manufacturing process that utilizes a \"nanostack\" 3D transistor architecture, which it says can maintain chip innovation for 10 years (Don Clark/New York Times)",
+            "link": "https://www.techmeme.com/260625/p17#a260625p17",
+            "published": "Thu, 25 Jun 2026 06:15:15 -0400"
         },
         {
-            "title": "TRM Labs: Iran-linked wallets, including those tied to Iran's central bank, have moved over $3.84B in transactions through the crypto exchange CoinEx since 2019 (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260625/p6#a260625p6",
-            "published": "Thu, 25 Jun 2026 01:40:02 -0400"
+            "title": "A profile of incoming WhatsApp CEO Kunal Shah, who studied philosophy in Mumbai, advised Sequoia India, and joins a growing pool of Indian-born tech executives (Financial Times)",
+            "link": "https://www.techmeme.com/260625/p16#a260625p16",
+            "published": "Thu, 25 Jun 2026 06:00:36 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 23 Jun 2026 15:11:36 +0000"
         },
         {
-            "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
-            "link": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
-            "published": "Wed, 24 Jun 2026 21:41:41 +0000"
+            "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
+            "link": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
+            "published": "Thu, 25 Jun 2026 10:00:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+            "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 25 Jun 2026 10:04:43 GMT"
+        },
         {
             "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
             "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Google's YouTube settles social media addiction case with teen",
             "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 23 Jun 2026 23:39:55 GMT"
-        },
-        {
-            "title": "Meta halts worker tracking for AI training due to privacy fears",
-            "link": "https://www.bbc.co.uk/news/articles/cq615g3z36po?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 23 Jun 2026 17:51:30 GMT"
         }
     ]
 }
