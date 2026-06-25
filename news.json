@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI, Anthropic, Amazon, Microsoft, and others launch Raise Us, a new non-profit led by ex-Commerce Secretary Gina Raimondo to help US workers adapt to AI (Lydia DePillis/New York Times)",
-            "link": "https://www.techmeme.com/260625/p20#a260625p20",
-            "published": "Thu, 25 Jun 2026 07:05:15 -0400"
+            "title": "Sources: Google expands the scope of its months-old AI coding strike team to \"midtraining\" to try to catch up with Anthropic, after major executive departures (Erin Woo/The Information)",
+            "link": "https://www.techmeme.com/260625/p27#a260625p27",
+            "published": "Thu, 25 Jun 2026 09:20:00 -0400"
         },
         {
-            "title": "Preliminary findings: the EU says Azure and AWS are \"the largest and second largest\" cloud services in the EU, as the bloc weighs up tougher DMA oversight (Samuel Stolton/Bloomberg)",
-            "link": "https://www.techmeme.com/260625/p19#a260625p19",
-            "published": "Thu, 25 Jun 2026 06:40:01 -0400"
+            "title": "Sail, whose software optimizes how AI models run on existing chips, emerges from stealth with $80M in seed and Series A led by Kleiner at a $450M valuation (Lily Mae Lazarus/Fortune)",
+            "link": "https://www.techmeme.com/260625/p26#a260625p26",
+            "published": "Thu, 25 Jun 2026 09:10:06 -0400"
         },
         {
-            "title": "How risk modelers like Fathom and Verisk are using AI and diffusion models to bypass the limits of physics-based \"cat\" models to predict natural disasters (Financial Times)",
-            "link": "https://www.techmeme.com/260625/p18#a260625p18",
-            "published": "Thu, 25 Jun 2026 06:30:15 -0400"
+            "title": "Apple says \"the rapid expansion of AI data centers has created an extraordinary surge in demand for memory and storage\"; the MacBook Neo rises from $599 to $699 (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260625/p25#a260625p25",
+            "published": "Thu, 25 Jun 2026 08:54:15 -0400"
         },
         {
-            "title": "IBM details a 0.7nm chip manufacturing process that utilizes a \"nanostack\" 3D transistor architecture, which it says can maintain chip innovation for 10 years (Don Clark/New York Times)",
-            "link": "https://www.techmeme.com/260625/p17#a260625p17",
-            "published": "Thu, 25 Jun 2026 06:15:15 -0400"
+            "title": "Apple raises Mac, iPad, and other product prices by 15%-25%, saying it has \"never seen a component price increase this much, this quickly\"; iPhone is unchanged (Rolfe Winkler/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260625/p24#a260625p24",
+            "published": "Thu, 25 Jun 2026 08:46:53 -0400"
         },
         {
-            "title": "A profile of incoming WhatsApp CEO Kunal Shah, who studied philosophy in Mumbai, advised Sequoia India, and joins a growing pool of Indian-born tech executives (Financial Times)",
-            "link": "https://www.techmeme.com/260625/p16#a260625p16",
-            "published": "Thu, 25 Jun 2026 06:00:36 -0400"
+            "title": "Australian payments startup Airwallex raised $320M led by Lee Fixel's Addition at an $11B valuation, and is incubating blockchain payments startup Metal (Jeff Kauflin/Forbes)",
+            "link": "https://www.techmeme.com/260625/p23#a260625p23",
+            "published": "Thu, 25 Jun 2026 08:30:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
+            "link": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
+            "published": "Thu, 25 Jun 2026 10:00:16 +0000"
+        },
+        {
+            "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
+            "link": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
+            "published": "Wed, 24 Jun 2026 21:41:41 +0000"
+        },
         {
             "title": "Meta Has Created a Prediction Markets App",
             "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
@@ -38,22 +48,17 @@
             "published": "Tue, 23 Jun 2026 21:45:21 +0000"
         },
         {
-            "title": "China Takes Supercomputer Crown From U.S. For First Time Since 2017",
-            "link": "https://www.nytimes.com/2026/06/23/technology/china-supercomputer-crown-us.html",
-            "published": "Tue, 23 Jun 2026 09:02:27 +0000"
-        },
-        {
-            "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
-            "link": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
-            "published": "Tue, 23 Jun 2026 15:11:36 +0000"
-        },
-        {
-            "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
-            "link": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
-            "published": "Thu, 25 Jun 2026 10:00:16 +0000"
+            "title": "Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site",
+            "link": "https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html",
+            "published": "Thu, 25 Jun 2026 11:48:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple hikes MacBook and iPad prices, blaming rising chip costs",
+            "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 25 Jun 2026 14:22:30 GMT"
+        },
         {
             "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
             "link": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
             "link": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 24 Jun 2026 15:00:34 GMT"
-        },
-        {
-            "title": "Google's YouTube settles social media addiction case with teen",
-            "link": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 23 Jun 2026 23:39:55 GMT"
         }
     ]
 }
