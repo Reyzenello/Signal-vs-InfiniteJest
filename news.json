@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Italy is investigating Microsoft 365's price hike, saying Microsoft failed to inform users that AI tools like Copilot were being integrated into the service (Giulia Segreti/Reuters)",
+            "title": "How US federal AI policy has gone from implausibly libertarian to increasingly draconian and opaque, and how to fix it, including using independent auditors (Dean W. Ball/Hyperdimensional)",
+            "link": "https://www.techmeme.com/260626/p12#a260626p12",
+            "published": "Fri, 26 Jun 2026 11:00:00 -0400"
+        },
+        {
+            "title": "Sources: DeepSeek's $7.4B raise was prompted by the release of Mythos as CEO Liang Wenfeng realized DeepSeek couldn't compete without a massive war chest (The Information)",
+            "link": "https://www.techmeme.com/260626/p11#a260626p11",
+            "published": "Fri, 26 Jun 2026 10:15:08 -0400"
+        },
+        {
+            "title": "Sources: Donald Trump Jr. got ~$300K in Kalshi equity after becoming a strategic adviser in 2025, when Kalshi was valued at ~$2B; now it's worth $22B+ (George Steer/Financial Times)",
+            "link": "https://www.techmeme.com/260626/p10#a260626p10",
+            "published": "Fri, 26 Jun 2026 09:25:11 -0400"
+        },
+        {
+            "title": "Q&A with Tim Sweeney on his vision for a cross-platform gaming social system, Unreal Engine 6, AI's PR challenges, the state of AAA game development, and more (Tim Clark/PC Gamer)",
+            "link": "https://www.techmeme.com/260626/p9#a260626p9",
+            "published": "Fri, 26 Jun 2026 08:40:02 -0400"
+        },
+        {
+            "title": "Italy is investigating Microsoft 365's price hike, saying Microsoft did not adequately inform users that it was integrating AI tools like Copilot into the suite (Giulia Segreti/Reuters)",
             "link": "https://www.techmeme.com/260626/p8#a260626p8",
             "published": "Fri, 26 Jun 2026 06:20:00 -0400"
-        },
-        {
-            "title": "A study of 408 teens in Australia finds 80%+ were still using social media three months after a ban came into force, citing inadequate age verification checks (Anna Bawden/The Guardian)",
-            "link": "https://www.techmeme.com/260626/p7#a260626p7",
-            "published": "Fri, 26 Jun 2026 06:00:41 -0400"
-        },
-        {
-            "title": "Binance tells EU customers that it will stop providing services for them from July 1, after Greece rejected its application for a bloc-wide license last week (Financial Times)",
-            "link": "https://www.techmeme.com/260626/p6#a260626p6",
-            "published": "Fri, 26 Jun 2026 05:40:02 -0400"
-        },
-        {
-            "title": "Despite the \"DeepMind mafia\" pulling billions into London AI startups, none of Demis Hassabis' former lieutenants is building a homegrown UK frontier AI model (Tim Bradshaw/Financial Times)",
-            "link": "https://www.techmeme.com/260626/p5#a260626p5",
-            "published": "Fri, 26 Jun 2026 02:30:00 -0400"
-        },
-        {
-            "title": "Shares of Japanese NAND flash maker Kioxia slid 12% on Friday after a report that OpenAI was considering delaying its IPO sparked a selloff in AI-related shares (Sam Nussey/Reuters)",
-            "link": "https://www.techmeme.com/260626/p4#a260626p4",
-            "published": "Fri, 26 Jun 2026 02:00:35 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Intel\u2019s Chip Business Shows Signs of Life After Years of Struggle",
+            "link": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
+            "published": "Fri, 26 Jun 2026 08:54:16 +0000"
+        },
+        {
+            "title": "How a Niche Technology Became a Choke Point for A.I.",
+            "link": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
+            "published": "Fri, 26 Jun 2026 14:15:35 +0000"
+        },
+        {
+            "title": "The High School Pipeline to South Korea\u2019s Chip-Making Fortunes",
+            "link": "https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html",
+            "published": "Fri, 26 Jun 2026 07:34:38 +0000"
+        },
         {
             "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
             "link": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
             "published": "Thu, 25 Jun 2026 15:34:41 +0000"
         },
         {
-            "title": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
-            "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-            "published": "Thu, 25 Jun 2026 20:58:38 +0000"
-        },
-        {
-            "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
-            "link": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
-            "published": "Thu, 25 Jun 2026 18:52:30 +0000"
-        },
-        {
-            "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
-            "link": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
-            "published": "Thu, 25 Jun 2026 10:00:16 +0000"
-        },
-        {
-            "title": "\u2018The Daily\u2019 and \u2018The Opinions\u2019: How A.I. Is Changing Loneliness and Taste",
-            "link": "https://www.nytimes.com/2026/06/26/podcasts/the-daily-and-the-opinions-how-ai-is-changing-loneliness-and-taste.html",
-            "published": "Fri, 26 Jun 2026 11:00:07 +0000"
+            "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
+            "link": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
+            "published": "Fri, 26 Jun 2026 15:24:36 +0000"
         }
     ],
     "source_2": [
