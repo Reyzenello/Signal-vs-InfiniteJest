@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Paul Meade, Apple's top executive in charge of Vision Pro and smart glasses efforts, is leaving for OpenAI to work on the company's AI-powered devices (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260626/p22#a260626p22",
-            "published": "Fri, 26 Jun 2026 15:30:40 -0400"
+            "title": "Sources: Zuckerberg urged execs to explore Polymarket and Kalshi partnerships, as the Arena prediction app targets 100M monthly active \"predictors\" aged 18-34 (Mike Isaac/New York Times)",
+            "link": "https://www.techmeme.com/260626/p27#a260626p27",
+            "published": "Fri, 26 Jun 2026 16:55:14 -0400"
         },
         {
-            "title": "Uber expands the list of criminal convictions that disqualify US drivers and expands the background-check timeline, possibly removing ~0.5% of active US drivers (Natalie Lung/Bloomberg)",
-            "link": "https://www.techmeme.com/260626/p21#a260626p21",
-            "published": "Fri, 26 Jun 2026 15:04:06 -0400"
+            "title": "AWS hikes prices for Nvidia GPUs in its EC2 Capacity Blocks service, which let businesses rent AI compute in advance, by 20%; Trainium chip pricing is unchanged (Catherine Perloff/The Information)",
+            "link": "https://www.techmeme.com/260626/p26#a260626p26",
+            "published": "Fri, 26 Jun 2026 16:50:01 -0400"
         },
         {
-            "title": "Sources: Russian hackers were behind a 2025 ransomware attack on Jaguar Land Rover that used \"mind-blowing\" encryption and cost UK's economy an estimated $2.5B (New York Times)",
-            "link": "https://www.techmeme.com/260626/p20#a260626p20",
-            "published": "Fri, 26 Jun 2026 14:50:01 -0400"
+            "title": "Oracle's stock fell 19% this week, the steepest weekly drop since a 20% plunge in August 2001, amid concerns about its debt load and AI investments (Jordan Novet/CNBC)",
+            "link": "https://www.techmeme.com/260626/p25#a260626p25",
+            "published": "Fri, 26 Jun 2026 16:46:05 -0400"
         },
         {
-            "title": "OpenAI appoints ex-Uber India head Prabhjeet Singh as its first managing director for India, to scale its presence in its second-largest market after the US (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/260626/p19#a260626p19",
-            "published": "Fri, 26 Jun 2026 14:35:01 -0400"
+            "title": "The FTC fast-tracks approval for SpaceX to acquire Mesh, which raised a $50M Series A in February to make high-efficiency optical transceivers for data centers (Bloomberg)",
+            "link": "https://www.techmeme.com/260626/p24#a260626p24",
+            "published": "Fri, 26 Jun 2026 16:35:02 -0400"
         },
         {
-            "title": "GPT-5.6 Sol matches Mythos Preview on ExploitBench, adds Ultra mode with subagents for complex workflows, and max reasoning for deep problem-solving (OpenAI)",
-            "link": "https://www.techmeme.com/260626/p18#a260626p18",
-            "published": "Fri, 26 Jun 2026 14:01:22 -0400"
+            "title": "OpenAI says GPT-5.6 Sol and Terra were capable of identifying vulnerabilities but were unable to execute autonomous, end-to-end attacks against hardened targets (OpenAI)",
+            "link": "https://www.techmeme.com/260626/p23#a260626p23",
+            "published": "Fri, 26 Jun 2026 16:16:06 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
+            "link": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
+            "published": "Fri, 26 Jun 2026 21:03:17 +0000"
+        },
         {
             "title": "Intel\u2019s Chip Business Shows Signs of Life After Years of Struggle",
             "link": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
@@ -36,11 +41,6 @@
             "title": "How a Niche Technology Became a Choke Point for A.I.",
             "link": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
             "published": "Fri, 26 Jun 2026 18:55:00 +0000"
-        },
-        {
-            "title": "The High School Pipeline to South Korea\u2019s Chip-Making Fortunes",
-            "link": "https://www.nytimes.com/2026/06/26/business/korea-chip-high-school.html",
-            "published": "Fri, 26 Jun 2026 07:34:38 +0000"
         },
         {
             "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
