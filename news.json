@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Elastic announces a ~7% reduction in its workforce, and says \"advances in AI and automation are letting us operate with leaner teams\"; ESTC closed down 8.70% (Richard Speed/The Register)",
+            "link": "https://www.techmeme.com/260625/p56#a260625p56",
+            "published": "Thu, 25 Jun 2026 20:00:46 -0400"
+        },
+        {
+            "title": "YouTube rolls out changes to Shorts, including adding a setting to double playback speed, eliminating the \"dislike\" button, and more (Lucas Ropek/TechCrunch)",
+            "link": "https://www.techmeme.com/260625/p55#a260625p55",
+            "published": "Thu, 25 Jun 2026 19:55:01 -0400"
+        },
+        {
+            "title": "Doc: the DOD has quietly revised its doctrine on how the US military picks its targets, envisioning \"systems where AI initiates actions with human monitoring\" (Katrina Manson/Bloomberg)",
+            "link": "https://www.techmeme.com/260625/p54#a260625p54",
+            "published": "Thu, 25 Jun 2026 19:40:02 -0400"
+        },
+        {
+            "title": "NHTSA proposes eliminating the mandate for manual brake pedals in \"vehicles designed to be driven exclusively by automated driving systems\" (Sean O'Kane/TechCrunch)",
+            "link": "https://www.techmeme.com/260625/p53#a260625p53",
+            "published": "Thu, 25 Jun 2026 19:10:01 -0400"
+        },
+        {
             "title": "Apple says it removed VK's apps from the App Store to comply with sanctions; VK says they were removed without warning and it has never been under US sanctions (Reuters)",
             "link": "https://www.techmeme.com/260625/p52#a260625p52",
             "published": "Thu, 25 Jun 2026 18:25:01 -0400"
-        },
-        {
-            "title": "Patronus AI, which builds simulated digital environments for evaluating AI agents, raised a $50M Series B led by Greenfield, bringing its total funding to $70M (Marina Temkin/TechCrunch)",
-            "link": "https://www.techmeme.com/260625/p51#a260625p51",
-            "published": "Thu, 25 Jun 2026 18:00:33 -0400"
-        },
-        {
-            "title": "Om Malik, a longtime technology writer, founder of Gigaom, and a partner at True Ventures, died on Wednesday at 59 (Om Malik/On my Om)",
-            "link": "https://www.techmeme.com/260625/p50#a260625p50",
-            "published": "Thu, 25 Jun 2026 17:50:01 -0400"
-        },
-        {
-            "title": "Source: Google is asking publishers that test new AI features in Google News to grant it broad rights to their content, including to potentially train AI models (Ann Gehan/The Information)",
-            "link": "https://www.techmeme.com/260625/p49#a260625p49",
-            "published": "Thu, 25 Jun 2026 17:35:01 -0400"
-        },
-        {
-            "title": "Chipmaker Onsemi agrees to buy Synaptics in a nearly $7B all-stock deal expected to close in the middle of 2027; ON drops 9%+ and SYNA jumps 11%+ after hours (Samantha Subin/CNBC)",
-            "link": "https://www.techmeme.com/260625/p48#a260625p48",
-            "published": "Thu, 25 Jun 2026 17:25:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Tue, 23 Jun 2026 22:42:38 +0000"
         },
         {
-            "title": "The New York Times Amends Lawsuit Against OpenAI and Microsoft",
-            "link": "https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html",
-            "published": "Thu, 25 Jun 2026 22:22:45 +0000"
+            "title": "Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.",
+            "link": "https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html",
+            "published": "Thu, 25 Jun 2026 23:25:18 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Teens who hacked TfL were known to police years before cyber-attack",
+            "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 25 Jun 2026 23:19:48 GMT"
+        },
+        {
+            "title": "The abundant but expensive energy source that's under your feet",
+            "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 25 Jun 2026 23:05:05 GMT"
+        },
         {
             "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
             "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
             "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 25 Jun 2026 07:47:54 GMT"
-        },
-        {
-            "title": "GTA 6 will cost \u00a370 - and physical edition will not contain a disc",
-            "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 24 Jun 2026 23:20:12 GMT"
-        },
-        {
-            "title": "Scientist publishes fresh doubts over Microsoft's quantum claims",
-            "link": "https://www.bbc.co.uk/news/articles/c05y9pl3ejmo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 24 Jun 2026 15:00:34 GMT"
         }
     ]
 }
