@@ -1,51 +1,51 @@
 {
     "techmeme": [
         {
-            "title": "Elastic announces a ~7% reduction in its workforce, and says \"advances in AI and automation are letting us operate with leaner teams\"; ESTC closed down 8.70% (Richard Speed/The Register)",
-            "link": "https://www.techmeme.com/260625/p56#a260625p56",
-            "published": "Thu, 25 Jun 2026 20:00:46 -0400"
+            "title": "Sources: SpaceX COO Gwynne Shotwell told investors during an IPO roadshow SpaceX may launch a Starlink mobile product and build its own terrestrial US network (Financial Times)",
+            "link": "https://www.techmeme.com/260626/p3#a260626p3",
+            "published": "Fri, 26 Jun 2026 00:55:01 -0400"
         },
         {
-            "title": "YouTube rolls out changes to Shorts, including adding a setting to double playback speed, eliminating the \"dislike\" button, and more (Lucas Ropek/TechCrunch)",
-            "link": "https://www.techmeme.com/260625/p55#a260625p55",
-            "published": "Thu, 25 Jun 2026 19:55:01 -0400"
+            "title": "Swiss watchmaker Swatch seeks $170M from Samsung in a London trial over 26 digital watch face apps that allegedly cloned luxury brand designs, including Omega (Alistair Gray/Financial Times)",
+            "link": "https://www.techmeme.com/260626/p2#a260626p2",
+            "published": "Fri, 26 Jun 2026 00:50:02 -0400"
         },
         {
-            "title": "Doc: the DOD has quietly revised its doctrine on how the US military picks its targets, envisioning \"systems where AI initiates actions with human monitoring\" (Katrina Manson/Bloomberg)",
-            "link": "https://www.techmeme.com/260625/p54#a260625p54",
-            "published": "Thu, 25 Jun 2026 19:40:02 -0400"
+            "title": "OpenAI says 97.9% of its employees are now using Codex, up from ~40% in August 2025; non-developer usage of Codex has risen 137x for individual users (Thomas Claburn/The Register)",
+            "link": "https://www.techmeme.com/260626/p1#a260626p1",
+            "published": "Fri, 26 Jun 2026 00:05:01 -0400"
         },
         {
-            "title": "NHTSA proposes eliminating the mandate for manual brake pedals in \"vehicles designed to be driven exclusively by automated driving systems\" (Sean O'Kane/TechCrunch)",
-            "link": "https://www.techmeme.com/260625/p53#a260625p53",
-            "published": "Thu, 25 Jun 2026 19:10:01 -0400"
+            "title": "Warp, a startup using AI to automate payroll compliance and employee management, raised a $60M Series B led by Battery, bringing its total funding to $85M (Lucinda Shen/Axios)",
+            "link": "https://www.techmeme.com/260625/p62#a260625p62",
+            "published": "Thu, 25 Jun 2026 23:20:02 -0400"
         },
         {
-            "title": "Apple says it removed VK's apps from the App Store to comply with sanctions; VK says they were removed without warning and it has never been under US sanctions (Reuters)",
-            "link": "https://www.techmeme.com/260625/p52#a260625p52",
-            "published": "Thu, 25 Jun 2026 18:25:01 -0400"
+            "title": "Utah-based ecommerce tech company Redo raised an $81M Series B at a $1.25B valuation led by Smash Capital, with participation from Pelion and Cervin (David Politis/Utah Money Watch)",
+            "link": "https://www.techmeme.com/260625/p61#a260625p61",
+            "published": "Thu, 25 Jun 2026 23:05:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
+            "link": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+            "published": "Thu, 25 Jun 2026 15:34:41 +0000"
+        },
+        {
+            "title": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
+            "link": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+            "published": "Thu, 25 Jun 2026 20:58:38 +0000"
+        },
+        {
             "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
             "link": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
-            "published": "Thu, 25 Jun 2026 18:52:29 +0000"
+            "published": "Thu, 25 Jun 2026 18:52:30 +0000"
         },
         {
             "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
             "link": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
             "published": "Thu, 25 Jun 2026 10:00:16 +0000"
-        },
-        {
-            "title": "OpenAI and Broadcom Unveil Custom A.I. Chip Design",
-            "link": "https://www.nytimes.com/2026/06/24/technology/openai-broadcom-chip-jalapeno.html",
-            "published": "Wed, 24 Jun 2026 21:41:42 +0000"
-        },
-        {
-            "title": "Meta Has Created a Prediction Markets App",
-            "link": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
-            "published": "Tue, 23 Jun 2026 22:42:38 +0000"
         },
         {
             "title": "Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.",
