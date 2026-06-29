@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Chinese robotics startup AI\u00b2 Robotics raised ~$736M at a ~$2.9B valuation; Alibaba-backed X Square Robot raised an undisclosed amount at a ~$2.9B valuation (Bloomberg)",
-            "link": "https://www.techmeme.com/260629/p18#a260629p18",
-            "published": "Mon, 29 Jun 2026 07:10:02 -0400"
+            "title": "Straiker, which develops tech for securing enterprise AI agents, raised a $64M Series A, bringing its total funding to $85M (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/260629/p25#a260629p25",
+            "published": "Mon, 29 Jun 2026 11:55:00 -0400"
         },
         {
-            "title": "Google VP of Security Engineering Heather Adkins warns the EU's DMA proposals to open Android and Search could lead to a significant rise in fraud within weeks (Matt Burgess/Wired)",
-            "link": "https://www.techmeme.com/260629/p17#a260629p17",
-            "published": "Mon, 29 Jun 2026 06:55:00 -0400"
+            "title": "SCOTUS finds that Trump's 2025 firing of FTC Commissioner Rebecca Kelly Slaughter without cause was lawful, placing independence of several agencies in doubt (NPR)",
+            "link": "https://www.techmeme.com/260629/p24#a260629p24",
+            "published": "Mon, 29 Jun 2026 11:26:35 -0400"
         },
         {
-            "title": "Adobe: online spending across all retailers in the US hit $26.4B during Amazon's four-day Prime Day event, up 9.3% YoY; Walmart and Target also hosted sales (Spencer Soper/Bloomberg)",
-            "link": "https://www.techmeme.com/260629/p16#a260629p16",
-            "published": "Mon, 29 Jun 2026 06:40:01 -0400"
+            "title": "Rocket Lab plans to acquire Iridium for $8B and combine Rocket Lab's launch services with Iridium's satellite-based communications network to rival SpaceX (Emma Roth/The Verge)",
+            "link": "https://www.techmeme.com/260629/p23#a260629p23",
+            "published": "Mon, 29 Jun 2026 10:15:02 -0400"
         },
         {
-            "title": "How a Polymarket dispute over a single syllable ignited a bitter debate; Polymarket uses Risk Labs' Optimistic Oracle to decide ~200K tough call bets per month (David Segal/New York Times)",
-            "link": "https://www.techmeme.com/260629/p15#a260629p15",
-            "published": "Mon, 29 Jun 2026 06:25:02 -0400"
+            "title": "Filing: Strategy paused its bitcoin acquisitions last week, instead topping up its USD reserve to $2.55B and announcing a $1B digital credit buyback program (James Hunt/The Block)",
+            "link": "https://www.techmeme.com/260629/p22#a260629p22",
+            "published": "Mon, 29 Jun 2026 09:30:00 -0400"
         },
         {
-            "title": "Verizon and the UK's BT agree to create a joint venture for their international businesses with ~$4B in combined yearly revenue; Verizon will pay $625M to BT (Bloomberg)",
-            "link": "https://www.techmeme.com/260629/p14#a260629p14",
-            "published": "Mon, 29 Jun 2026 06:10:01 -0400"
+            "title": "Internal documents: Meta is placing strict limits on how engineers in its applied AI division can use Claude Code and Codex, fearing inadvertent distillation (Jyoti Mann/The Information)",
+            "link": "https://www.techmeme.com/260629/p21#a260629p21",
+            "published": "Mon, 29 Jun 2026 09:10:05 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Thu, 25 Jun 2026 15:34:41 +0000"
         },
         {
-            "title": "U.S. Loosens Restrictions on Anthropic\u2019s Mythos A.I. Model",
-            "link": "https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html",
-            "published": "Sat, 27 Jun 2026 00:54:06 +0000"
+            "title": "In San Francisco\u2019s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
+            "link": "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
+            "published": "Mon, 29 Jun 2026 16:00:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "WhatsApp to let people chat without swapping phone numbers",
+            "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 29 Jun 2026 16:00:12 GMT"
+        },
+        {
+            "title": "Ford rehires human engineers after AI fails to match quality checks",
+            "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 29 Jun 2026 11:58:01 GMT"
+        },
         {
             "title": "Tech firms are blaming AI for mega device and console price rises",
             "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "The abundant but expensive energy source that's under your feet",
             "link": "https://www.bbc.co.uk/news/articles/cj3gj1n8yz8o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 26 Jun 2026 10:12:42 GMT"
-        },
-        {
-            "title": "Teens who hacked TfL were known to police years before cyber-attack",
-            "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 25 Jun 2026 23:19:48 GMT"
-        },
-        {
-            "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-            "link": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 25 Jun 2026 19:41:22 GMT"
         }
     ]
 }
