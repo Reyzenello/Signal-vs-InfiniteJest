@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Meta introduces a $20/month Meta One Premium tier for its glasses and limits its Conversation Focus feature to three hours of use per month for free users (Sean Hollister/The Verge)",
-            "link": "https://www.techmeme.com/260701/p15#a260701p15",
-            "published": "Wed, 01 Jul 2026 06:05:01 -0400"
+            "title": "Abu Dhabi-based MGX raised a $49B AI-focused fund, exceeding its $45B target, and plans to spend as much as $10B annually over the next few years (Dinesh Nair/Bloomberg)",
+            "link": "https://www.techmeme.com/260701/p30#a260701p30",
+            "published": "Wed, 01 Jul 2026 09:25:01 -0400"
         },
         {
-            "title": "The US sentences Guo Wengui, a self-exiled billionaire Chinese tycoon who defrauded his online followers out of hundreds of millions, to 30 years in prison (Associated Press)",
-            "link": "https://www.techmeme.com/260701/p14#a260701p14",
-            "published": "Wed, 01 Jul 2026 05:55:00 -0400"
+            "title": "Letter: the US says Anthropic \"agreed to proactively detect and address security risks\" of Fable 5 and Mythos 5; a source says Anthropic developed a \"safeguard\" (Financial Times)",
+            "link": "https://www.techmeme.com/260701/p29#a260701p29",
+            "published": "Wed, 01 Jul 2026 09:20:01 -0400"
         },
         {
-            "title": "ByteDance is building a $39B data center complex in a free-trade zone in Brazil's Cear\u00e1, set to be its largest facility outside of China with a 1GW capacity (Peter Millard/Bloomberg)",
-            "link": "https://www.techmeme.com/260701/p13#a260701p13",
-            "published": "Wed, 01 Jul 2026 05:45:01 -0400"
+            "title": "Sony says it is closing the virtual PlayStation 3 store in select markets in 2026 ahead of global store closures for the PS3 and PS Vita in July 2027 (Jess Weatherbed/The Verge)",
+            "link": "https://www.techmeme.com/260701/p28#a260701p28",
+            "published": "Wed, 01 Jul 2026 09:01:07 -0400"
         },
         {
-            "title": "[Thread] The US' now-lifted export controls on Anthropic models created uncertainty, are an own goal, and will push service providers towards Chinese AI models (Alex Stamos/@alexstamos)",
-            "link": "https://www.techmeme.com/260701/p12#a260701p12",
-            "published": "Wed, 01 Jul 2026 04:00:50 -0400"
+            "title": "Sources: Meta is developing plans for a cloud infrastructure business that will sell access to AI computing power and models, to compete with AWS and Azure (Bloomberg)",
+            "link": "https://www.techmeme.com/260701/p27#a260701p27",
+            "published": "Wed, 01 Jul 2026 08:52:36 -0400"
         },
         {
-            "title": "Anthropic says \"some routine tasks like coding and debugging\" on Fable 5 \"will fall back to Opus 4.8\" in \"the near term\" as it works to \"reduce false positives\" (@anthropicai)",
-            "link": "https://www.techmeme.com/260701/p11#a260701p11",
-            "published": "Wed, 01 Jul 2026 03:50:01 -0400"
+            "title": "A researcher says a vulnerability in Apple's Hide My Email tool lets anyone discover a real email address; first reported in June 2025, Apple is yet to fix it (Joseph Cox/404 Media)",
+            "link": "https://www.techmeme.com/260701/p26#a260701p26",
+            "published": "Wed, 01 Jul 2026 08:35:00 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "The Yoto Music Box Is a Ray of Hope Amid the \u2018Techlash\u2019",
             "link": "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
-            "published": "Wed, 01 Jul 2026 09:01:47 +0000"
+            "published": "Wed, 01 Jul 2026 09:01:48 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "PlayStation will stop releasing games on discs in 2028",
+            "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 01 Jul 2026 13:22:52 GMT"
+        },
         {
             "title": "E-scooters being advertised for commuting despite UK road ban",
             "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Ford rehires human engineers after AI fails to match quality checks",
             "link": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 29 Jun 2026 11:58:01 GMT"
-        },
-        {
-            "title": "Tech firms are blaming AI for mega device and console price rises",
-            "link": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 27 Jun 2026 23:10:47 GMT"
         }
     ]
 }
