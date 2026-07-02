@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Z.ai launches ZCode, an \"Agentic Development Environment\" optimized for its new GLM-5.2 model; Z.ai's GLM Coding Plan costs from $16.20 to $144 per month (Michael Nu\u00f1ez/VentureBeat)",
-            "link": "https://www.techmeme.com/260702/p19#a260702p19",
-            "published": "Thu, 02 Jul 2026 07:20:12 -0400"
+            "title": "Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip (Qianer Liu/The Information)",
+            "link": "https://www.techmeme.com/260702/p24#a260702p24",
+            "published": "Thu, 02 Jul 2026 09:55:01 -0400"
         },
         {
-            "title": "Filings: President Trump purchased up to $5M each in Broadcom, Meta, Amazon, Apple, Microsoft, and Nvidia stocks on July 23, the same day as his AI action plan (New York Times)",
-            "link": "https://www.techmeme.com/260702/p18#a260702p18",
-            "published": "Thu, 02 Jul 2026 07:05:22 -0400"
+            "title": "Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups (Gen\u00e9 Teare/Crunchbase News)",
+            "link": "https://www.techmeme.com/260702/p23#a260702p23",
+            "published": "Thu, 02 Jul 2026 09:40:01 -0400"
         },
         {
-            "title": "Amazon says Leo reached 396 satellites in low-Earth orbit following a recent launch, which is \"enough to support continuous service across initial latitudes\" (Thomas Ricker/The Verge)",
-            "link": "https://www.techmeme.com/260702/p17#a260702p17",
-            "published": "Thu, 02 Jul 2026 06:55:00 -0400"
+            "title": "Microsoft establishes an organization with 6,000 staff specializing in engineering, corporate training, and management to support businesses with AI deployments (Todd Bishop/GeekWire)",
+            "link": "https://www.techmeme.com/260702/p22#a260702p22",
+            "published": "Thu, 02 Jul 2026 09:15:01 -0400"
         },
         {
-            "title": "German software giant SAP says it is encouraging workers to invent new, more valuable jobs aided by AI, in a bid to avoid layoffs; SAP cut ~10K staff in 2024 (Jim Tankersley/New York Times)",
-            "link": "https://www.techmeme.com/260702/p16#a260702p16",
-            "published": "Thu, 02 Jul 2026 06:45:01 -0400"
+            "title": "Sam Altman proposes a \"US-led international forum\" to establish AI standards, provide analysis of capabilities and risks, and make AI available to allies (Sam Altman/Financial Times)",
+            "link": "https://www.techmeme.com/260702/p21#a260702p21",
+            "published": "Thu, 02 Jul 2026 08:00:42 -0400"
         },
         {
-            "title": "The US DOJ says Peter Stokes, a 19-year-old dual US-Estonian citizen, was extradited from Finland to face charges of participating in Scattered Spider hacks (Joe Warminsky/The Record)",
-            "link": "https://www.techmeme.com/260702/p15#a260702p15",
-            "published": "Thu, 02 Jul 2026 06:25:00 -0400"
+            "title": "SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 (Min-Jeong Lee/Bloomberg)",
+            "link": "https://www.techmeme.com/260702/p20#a260702p20",
+            "published": "Thu, 02 Jul 2026 07:50:10 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 30 Jun 2026 23:02:46 +0000"
         },
         {
-            "title": "Is a \u2018Frictionless\u2019 Society a Trap?",
-            "link": "https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html",
-            "published": "Thu, 02 Jul 2026 09:02:10 +0000"
+            "title": "Tesla Sales Surge as Sales Recover in Europe",
+            "link": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html",
+            "published": "Thu, 02 Jul 2026 13:30:47 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Meta glasses wearers hit with paywall to use built-in feature",
+            "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 02 Jul 2026 13:42:53 GMT"
+        },
         {
             "title": "Google must pay \u20ac4.1bn fine for using Android to 'block' rivals",
             "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
             "link": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Jul 2026 14:01:06 GMT"
-        },
-        {
-            "title": "E-scooters being advertised for commuting despite UK road ban",
-            "link": "https://www.bbc.co.uk/news/articles/cj3g20yxvm4o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 30 Jun 2026 23:05:08 GMT"
         }
     ]
 }
