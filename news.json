@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Spotify removed 500K+ streams of Malcolm Todd's Earrings after a 70% surge in 24 hours sent it to #1 on Spotify USA and coincided with suspicious Kalshi wagers (Stephanie Stacey/Financial Times)",
+            "link": "https://www.techmeme.com/260702/p38#a260702p38",
+            "published": "Thu, 02 Jul 2026 20:00:14 -0400"
+        },
+        {
+            "title": "Finnish quantum computing company IQM closed up 2% in its Nasdaq debut Thursday after going public via a SPAC merger at a ~$1.9B valuation (Anna Heim/TechCrunch)",
+            "link": "https://www.techmeme.com/260702/p37#a260702p37",
+            "published": "Thu, 02 Jul 2026 19:10:01 -0400"
+        },
+        {
             "title": "Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October (Bloomberg)",
             "link": "https://www.techmeme.com/260702/p36#a260702p36",
             "published": "Thu, 02 Jul 2026 18:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation (Lucinda Shen/Axios)",
             "link": "https://www.techmeme.com/260702/p34#a260702p34",
             "published": "Thu, 02 Jul 2026 16:30:01 -0400"
-        },
-        {
-            "title": "Travel app Hopper agrees to a $35M FTC settlement over allegations the company misled users by imposing hidden fees and misrepresenting the total costs (Lauren Forristal/TechCrunch)",
-            "link": "https://www.techmeme.com/260702/p33#a260702p33",
-            "published": "Thu, 02 Jul 2026 16:10:02 -0400"
-        },
-        {
-            "title": "Internal memo: Tesla plans to impose a $200-per-week limit for staff's AI spending beginning July 6; the tally excludes beta versions of xAI products (Grace Kay/The Information)",
-            "link": "https://www.techmeme.com/260702/p32#a260702p32",
-            "published": "Thu, 02 Jul 2026 15:35:42 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter",
             "link": "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html",
-            "published": "Thu, 02 Jul 2026 21:24:21 +0000"
+            "published": "Fri, 03 Jul 2026 00:01:43 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AI is 'not smart' so what's next in artificial intelligence?",
+            "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 02 Jul 2026 23:02:09 GMT"
+        },
         {
             "title": "Meta glasses wearers hit with paywall to use built-in feature",
             "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "PlayStation will stop releasing games on discs in 2028",
             "link": "https://www.bbc.co.uk/news/articles/c0ryjyvjq41o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 01 Jul 2026 16:40:58 GMT"
-        },
-        {
-            "title": "Wonka Netflix show faces backlash for AI-generated Gene Wilder voice",
-            "link": "https://www.bbc.co.uk/news/articles/cdxdgpgn0zwo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 01 Jul 2026 14:01:06 GMT"
         }
     ]
 }
