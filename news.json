@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "Memo: Xbox CEO Asha Sharma says the unit will divest five studios, including Ninja Theory, alongside 3,200 job cuts, to streamline the business, in a \"reset\" (Bloomberg)",
-            "link": "https://www.techmeme.com/260706/p20#a260706p20",
-            "published": "Mon, 06 Jul 2026 09:41:55 -0400"
+            "title": "Tencent releases Hy3, a 295B-parameter model that it says is competitive with GLM-5.1 and 5.2, under the Apache 2.0 license, following a preview launch in April (Sam Witteveen/VentureBeat)",
+            "link": "https://www.techmeme.com/260706/p25#a260706p25",
+            "published": "Mon, 06 Jul 2026 13:01:51 -0400"
         },
         {
-            "title": "Memo: Microsoft is laying off ~4,800 employees, or ~2.1% of its workforce; most layoffs are in Xbox, where ~20% of jobs are set to be cut by the end of FY 2027 (Tom Warren/The Verge)",
-            "link": "https://www.techmeme.com/260706/p19#a260706p19",
-            "published": "Mon, 06 Jul 2026 09:36:10 -0400"
+            "title": "Source: Mercor hit over $2B in gross revenue run rate in June, double its pace in April, and is profitable on a free cash flow basis (Julia Hornstein/The Information)",
+            "link": "https://www.techmeme.com/260706/p24#a260706p24",
+            "published": "Mon, 06 Jul 2026 12:25:01 -0400"
         },
         {
-            "title": "Reddit says its AI-powered content moderation systems caught 25K \"spammy posts and comments\" per day in Q1, reducing users' exposure to such content by 20% YoY (Natalie Lung/Bloomberg)",
-            "link": "https://www.techmeme.com/260706/p18#a260706p18",
-            "published": "Mon, 06 Jul 2026 09:01:21 -0400"
+            "title": "Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill (Adam Harrington/CBS News)",
+            "link": "https://www.techmeme.com/260706/p23#a260706p23",
+            "published": "Mon, 06 Jul 2026 11:55:00 -0400"
         },
         {
-            "title": "Broadcom agrees to expand its Apple partnership through 2031 to develop and supply custom chips; in 2023, the companies announced a multibillion-dollar 5G deal (Akash Sriram/Reuters)",
-            "link": "https://www.techmeme.com/260706/p17#a260706p17",
-            "published": "Mon, 06 Jul 2026 08:40:01 -0400"
+            "title": "Nintendo plans to stop selling the original Switch, Lite, and OLED in Europe from mid-February 2027 and update the Switch 2 to comply with new EU battery rules (Andrew Webster/The Verge)",
+            "link": "https://www.techmeme.com/260706/p22#a260706p22",
+            "published": "Mon, 06 Jul 2026 10:35:01 -0400"
         },
         {
-            "title": "Anthropic signs a 20-year, ~$19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity and to start delivering power in H2 2027 (CNBC)",
-            "link": "https://www.techmeme.com/260706/p16#a260706p16",
-            "published": "Mon, 06 Jul 2026 08:25:00 -0400"
+            "title": "Filing: Strategy sold 3,588 bitcoin for ~$216M between June 29 and July 5 to replenish its USD reserve; its holdings have an $11.4B paper loss at current prices (James Hunt/The Block)",
+            "link": "https://www.techmeme.com/260706/p21#a260706p21",
+            "published": "Mon, 06 Jul 2026 10:25:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "The Yoto Music Box Is a Ray of Hope Amid the \u2018Techlash\u2019",
-            "link": "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
-            "published": "Wed, 01 Jul 2026 09:01:48 +0000"
+            "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
+            "link": "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html",
+            "published": "Mon, 06 Jul 2026 16:04:08 +0000"
         },
         {
-            "title": "U.S. Lifts Restrictions on Anthropic\u2019s Most Powerful A.I. Models",
-            "link": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
-            "published": "Wed, 01 Jul 2026 03:17:31 +0000"
-        },
-        {
-            "title": "Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public",
-            "link": "https://www.nytimes.com/2026/06/30/technology/bending-spoons-ipo-aol-vimeo-eventbrite.html",
-            "published": "Tue, 30 Jun 2026 18:43:00 +0000"
-        },
-        {
-            "title": "Neon Buys \u2018Artificial,\u2019 a Film About OpenAI, After Amazon Dropped It",
-            "link": "https://www.nytimes.com/2026/06/30/business/media/openai-movie-artificial-neon-amazon.html",
-            "published": "Tue, 30 Jun 2026 23:02:46 +0000"
+            "title": "Alibaba\u2019s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
+            "link": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
+            "published": "Mon, 06 Jul 2026 16:05:26 +0000"
         },
         {
             "title": "Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios",
             "link": "https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html",
-            "published": "Mon, 06 Jul 2026 13:47:34 +0000"
+            "published": "Mon, 06 Jul 2026 14:19:27 +0000"
+        },
+        {
+            "title": "How Meta\u2019s Threads Became as Popular as X",
+            "link": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html",
+            "published": "Sun, 05 Jul 2026 14:39:41 +0000"
+        },
+        {
+            "title": "Fable Ban Reversed + Dr. Dana Suskind on Parenting With A.I. + Prediction Market Drama",
+            "link": "https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html",
+            "published": "Fri, 03 Jul 2026 11:00:03 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
+            "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 06 Jul 2026 15:18:53 GMT"
+        },
         {
             "title": "Parents warned not to publicly share children\u2019s images amid AI abuse risks",
             "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Google must pay \u20ac4.1bn fine for using Android to 'block' rivals",
             "link": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 02 Jul 2026 09:46:11 GMT"
-        },
-        {
-            "title": "Don't expect connected car apps to save your stolen car, experts say",
-            "link": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 01 Jul 2026 23:31:43 GMT"
         }
     ]
 }
