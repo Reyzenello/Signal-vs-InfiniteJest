@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Claude Opus 4.8 and Sonnet 5 seem worse at tool calls than older models, likely due to post-training that assumes Claude Code-like harnesses as targets (Armin Ronacher/Armin Ronacher's Thoughts and Writings)",
+            "link": "https://www.techmeme.com/260706/p4#a260706p4",
+            "published": "Mon, 06 Jul 2026 04:35:01 -0400"
+        },
+        {
+            "title": "SemiAnalysis: Nvidia delays its next-gen AI rack system Kyber NVL144 by 12+ months to 2028 due to PCB manufacturing issues, and cancels its NVL72x2 architecture (Anniek Bao/CNBC)",
+            "link": "https://www.techmeme.com/260706/p3#a260706p3",
+            "published": "Mon, 06 Jul 2026 01:35:01 -0400"
+        },
+        {
+            "title": "Shanghai-based AI chipmaker Biren raises ~$892.5M in a new share sale to boost GPU production; Biren's stock is up 150%+ since its January Hong Kong IPO (Ann Cao/South China Morning Post)",
+            "link": "https://www.techmeme.com/260706/p2#a260706p2",
+            "published": "Mon, 06 Jul 2026 01:05:01 -0400"
+        },
+        {
             "title": "Researchers document JadePuffer, the first known \"agentic ransomware\", which adapts in real time and retries steps to execute an end-to-end extortion operation (Bill Toulas/BleepingComputer)",
             "link": "https://www.techmeme.com/260706/p1#a260706p1",
             "published": "Mon, 06 Jul 2026 00:15:10 -0400"
@@ -9,21 +24,6 @@
             "title": "A US federal judge ordered the DOD to shield Alibaba from a law that led lobbyists to drop it as a client while she weighs the measure's constitutionality (Kate O'Keeffe/Bloomberg)",
             "link": "https://www.techmeme.com/260705/p14#a260705p14",
             "published": "Sun, 05 Jul 2026 23:20:03 -0400"
-        },
-        {
-            "title": "How companies like Nvidia and Neura Robotics are building safety systems for humanoid robots to minimize risks like a bipedal robot losing stability (John Keilman/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260705/p13#a260705p13",
-            "published": "Sun, 05 Jul 2026 22:05:01 -0400"
-        },
-        {
-            "title": "A look at Threads and Q&A with its head Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with its focus on community features (Eli Tan/New York Times)",
-            "link": "https://www.techmeme.com/260705/p12#a260705p12",
-            "published": "Sun, 05 Jul 2026 21:05:20 -0400"
-        },
-        {
-            "title": "Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays (Ming-Chi Kuo)",
-            "link": "https://www.techmeme.com/260705/p11#a260705p11",
-            "published": "Sun, 05 Jul 2026 19:50:00 -0400"
         }
     ],
     "source_1": [
