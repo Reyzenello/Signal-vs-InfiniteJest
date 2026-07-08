@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)",
+            "link": "https://www.techmeme.com/260708/p39#a260708p39",
+            "published": "Wed, 08 Jul 2026 14:05:02 -0400"
+        },
+        {
+            "title": "SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to \"handle difficult, long-running\" legal, finance, and coding tasks (Carmen Arroyo/Bloomberg)",
+            "link": "https://www.techmeme.com/260708/p38#a260708p38",
+            "published": "Wed, 08 Jul 2026 13:56:25 -0400"
+        },
+        {
             "title": "OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users (Sabrina Ortiz/The Deep View)",
             "link": "https://www.techmeme.com/260708/p37#a260708p37",
             "published": "Wed, 08 Jul 2026 13:14:05 -0400"
@@ -14,23 +24,13 @@
             "title": "Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation (Marina Temkin/TechCrunch)",
             "link": "https://www.techmeme.com/260708/p35#a260708p35",
             "published": "Wed, 08 Jul 2026 12:30:01 -0400"
-        },
-        {
-            "title": "Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures (Barratt Dewey/Tectonic Defense)",
-            "link": "https://www.techmeme.com/260708/p34#a260708p34",
-            "published": "Wed, 08 Jul 2026 11:55:00 -0400"
-        },
-        {
-            "title": "China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range (Rajasik Mukherjee/Reuters)",
-            "link": "https://www.techmeme.com/260708/p33#a260708p33",
-            "published": "Wed, 08 Jul 2026 11:40:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
             "link": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
-            "published": "Wed, 08 Jul 2026 16:56:27 +0000"
+            "published": "Wed, 08 Jul 2026 18:36:58 +0000"
         },
         {
             "title": "Meta Unveils an A.I. Image Generator",
@@ -48,9 +48,9 @@
             "published": "Mon, 06 Jul 2026 16:05:26 +0000"
         },
         {
-            "title": "Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies",
-            "link": "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html",
-            "published": "Tue, 07 Jul 2026 15:07:00 +0000"
+            "title": "How to Prevent Meta From Using Your Instagram Images in A.I.",
+            "link": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html",
+            "published": "Wed, 08 Jul 2026 19:21:29 +0000"
         }
     ],
     "source_2": [
