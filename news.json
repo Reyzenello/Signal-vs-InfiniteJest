@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Israeli startup Alta, which develops an AI agent platform for marketing, sales, and business development teams, raised a $25M Series A led by IN Venture (Meir Orbach/CTech)",
-            "link": "https://www.techmeme.com/260708/p32#a260708p32",
-            "published": "Wed, 08 Jul 2026 11:25:03 -0400"
+            "title": "OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users (Sabrina Ortiz/The Deep View)",
+            "link": "https://www.techmeme.com/260708/p37#a260708p37",
+            "published": "Wed, 08 Jul 2026 13:14:05 -0400"
         },
         {
-            "title": "Chinese autonomous driving company Momenta saw a muted trading debut in its Hong Kong IPO, valuing the company at ~$9B, after raising $751M (Jiahui Huang/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260708/p31#a260708p31",
-            "published": "Wed, 08 Jul 2026 11:20:01 -0400"
+            "title": "OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time (OpenAI)",
+            "link": "https://www.techmeme.com/260708/p36#a260708p36",
+            "published": "Wed, 08 Jul 2026 13:08:24 -0400"
         },
         {
-            "title": "Sources: China plans to let some of the country's major AI companies buy a small number of Nvidia's H200 chips to alleviate a domestic computing shortage (Qianer Liu/The Information)",
-            "link": "https://www.techmeme.com/260708/p30#a260708p30",
-            "published": "Wed, 08 Jul 2026 11:00:01 -0400"
+            "title": "Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation (Marina Temkin/TechCrunch)",
+            "link": "https://www.techmeme.com/260708/p35#a260708p35",
+            "published": "Wed, 08 Jul 2026 12:30:01 -0400"
         },
         {
-            "title": "Mistral launches Robostral Navigate, a hardware-agnostic robotics navigation model trained via simulation that utilizes a single camera and language prompts (Benoit Berthelot/Bloomberg)",
-            "link": "https://www.techmeme.com/260708/p29#a260708p29",
-            "published": "Wed, 08 Jul 2026 10:50:00 -0400"
+            "title": "Arkenstone Defense, which is building software to handle back-office work for defense tech startups, emerges from stealth with a $35M seed led by J2 Ventures (Barratt Dewey/Tectonic Defense)",
+            "link": "https://www.techmeme.com/260708/p34#a260708p34",
+            "published": "Wed, 08 Jul 2026 11:55:00 -0400"
         },
         {
-            "title": "Crypto VC firm Paradigm raised $1.2B, its third fund, to invest in areas outside of crypto, including AI and robotics; Paradigm had $11.9B in AUM in 2025 (Rebecca Torrence/Bloomberg)",
-            "link": "https://www.techmeme.com/260708/p28#a260708p28",
-            "published": "Wed, 08 Jul 2026 10:20:01 -0400"
+            "title": "China's Nexchip Semiconductor says it aims to raise around $890.37M in its Hong Kong share sale by offering 216.2M shares at ~$4.12/share, the top of its range (Rajasik Mukherjee/Reuters)",
+            "link": "https://www.techmeme.com/260708/p33#a260708p33",
+            "published": "Wed, 08 Jul 2026 11:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
+            "link": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
+            "published": "Wed, 08 Jul 2026 16:56:27 +0000"
+        },
         {
             "title": "Meta Unveils an A.I. Image Generator",
             "link": "https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html",
@@ -43,14 +48,9 @@
             "published": "Mon, 06 Jul 2026 16:05:26 +0000"
         },
         {
-            "title": "Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios",
-            "link": "https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html",
-            "published": "Mon, 06 Jul 2026 14:19:28 +0000"
-        },
-        {
-            "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
-            "link": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
-            "published": "Wed, 08 Jul 2026 14:22:38 +0000"
+            "title": "Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies",
+            "link": "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html",
+            "published": "Tue, 07 Jul 2026 15:07:00 +0000"
         }
     ],
     "source_2": [
@@ -58,6 +58,11 @@
             "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
             "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 08 Jul 2026 12:28:03 GMT"
+        },
+        {
+            "title": "How Esports World Cup moved from Saudi Arabia to Paris in 8 weeks",
+            "link": "https://www.bbc.co.uk/news/articles/ckg888l8lzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 08 Jul 2026 08:43:00 GMT"
         },
         {
             "title": "Robots available for rent: But what can they do?",
@@ -73,11 +78,6 @@
             "title": "Parents warned not to publicly share children\u2019s images amid AI abuse risks",
             "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 03 Jul 2026 15:57:42 GMT"
-        },
-        {
-            "title": "AI is 'not smart' so what's next in artificial intelligence?",
-            "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 02 Jul 2026 23:02:09 GMT"
         }
     ]
 }
