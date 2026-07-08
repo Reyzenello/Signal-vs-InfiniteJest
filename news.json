@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Chinese AI developer MiniMax is working on a 2.7T-parameter model, dubbed M3 Pro and set for release as early as Q3, and plans to open-source it (Juro Osawa/The Information)",
-            "link": "https://www.techmeme.com/260708/p16#a260708p16",
-            "published": "Wed, 08 Jul 2026 06:20:59 -0400"
+            "title": "Internal documents: Amazon is working on an Alexa project, codenamed Moonraker, to handle more complex, multistep tasks, projecting $100M+ in GPU costs in 2026 (Eugene Kim/Business Insider)",
+            "link": "https://www.techmeme.com/260708/p22#a260708p22",
+            "published": "Wed, 08 Jul 2026 08:45:01 -0400"
         },
         {
-            "title": "Apple says it reached a $30B+ deal with Broadcom to produce 15B chips on US soil in the next five years, its largest pledge as part of its $600B US investments (Rolfe Winkler/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260708/p15#a260708p15",
-            "published": "Wed, 08 Jul 2026 06:10:02 -0400"
+            "title": "DuckDuckGo updates its browser for iOS, Windows, and macOS to block video ads by default, particularly those on YouTube, based on uBlockOrigin's filter lists (Anna Washenko/Engadget)",
+            "link": "https://www.techmeme.com/260708/p21#a260708p21",
+            "published": "Wed, 08 Jul 2026 08:36:01 -0400"
         },
         {
-            "title": "South Korea's Kospi index is down 20%+ from its record high in June, falling 5%+ on Wednesday; Samsung and SK Hynix fall 5%+ amid long-term chip deal concerns (Financial Times)",
-            "link": "https://www.techmeme.com/260708/p14#a260708p14",
-            "published": "Wed, 08 Jul 2026 06:06:01 -0400"
+            "title": "Sources: Jeff Bezos' Blue Origin is raising $10B at a $130B pre-money valuation, its first outside funding round, with $4B from Coatue and $2B from Bezos (New York Times)",
+            "link": "https://www.techmeme.com/260708/p20#a260708p20",
+            "published": "Wed, 08 Jul 2026 08:21:03 -0400"
         },
         {
-            "title": "France's competition watchdog orders Meta to negotiate in good faith with news organizations over copyright payments, after two groups filed complaints in 2025 (Benoit Berthelot/Bloomberg)",
-            "link": "https://www.techmeme.com/260708/p13#a260708p13",
-            "published": "Wed, 08 Jul 2026 05:50:58 -0400"
+            "title": "Filing: Chinese AI model maker Z.ai is seeking to raise ~$4B from the sale of 19.8M shares at ~$202 to ~$216 each, after its stock jumped 1,500% since January (Bloomberg)",
+            "link": "https://www.techmeme.com/260708/p19#a260708p19",
+            "published": "Wed, 08 Jul 2026 08:10:02 -0400"
         },
         {
-            "title": "China's CNVD says it found \"security backdoor vulnerabilities\" in Claude Code that \"send sensitive information\" like \"location and identity to remote servers\" (Raffaele Huang/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260708/p12#a260708p12",
-            "published": "Wed, 08 Jul 2026 05:40:03 -0400"
+            "title": "Israeli startup Velocity, which helps place targeted ads on consumer and B2B AI platforms, raised a $27M seed led by NFX and Red Dot, and serves 20 clients (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/260708/p18#a260708p18",
+            "published": "Wed, 08 Jul 2026 07:51:15 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
+            "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 08 Jul 2026 12:28:03 GMT"
+        },
+        {
             "title": "Robots available for rent: But what can they do?",
             "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Jul 2026 23:48:55 GMT"
@@ -73,11 +78,6 @@
             "title": "AI is 'not smart' so what's next in artificial intelligence?",
             "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 02 Jul 2026 23:02:09 GMT"
-        },
-        {
-            "title": "Meta glasses wearers hit with paywall to use built-in feature",
-            "link": "https://www.bbc.co.uk/news/articles/c3wy317d71jo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 02 Jul 2026 13:42:53 GMT"
         }
     ]
 }
