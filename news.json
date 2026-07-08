@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second (Bloomberg)",
+            "link": "https://www.techmeme.com/260708/p43#a260708p43",
+            "published": "Wed, 08 Jul 2026 19:15:02 -0400"
+        },
+        {
+            "title": "The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years (Boone Ashworth/Wired)",
+            "link": "https://www.techmeme.com/260708/p42#a260708p42",
+            "published": "Wed, 08 Jul 2026 18:25:01 -0400"
+        },
+        {
             "title": "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)",
             "link": "https://www.techmeme.com/260708/p41#a260708p41",
             "published": "Wed, 08 Jul 2026 17:10:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)",
             "link": "https://www.techmeme.com/260708/p39#a260708p39",
             "published": "Wed, 08 Jul 2026 14:05:02 -0400"
-        },
-        {
-            "title": "SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to \"handle difficult, long-running\" legal, finance, and coding tasks (Carmen Arroyo/Bloomberg)",
-            "link": "https://www.techmeme.com/260708/p38#a260708p38",
-            "published": "Wed, 08 Jul 2026 13:56:25 -0400"
-        },
-        {
-            "title": "OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users (Sabrina Ortiz/The Deep View)",
-            "link": "https://www.techmeme.com/260708/p37#a260708p37",
-            "published": "Wed, 08 Jul 2026 13:14:05 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Wealthy AI workers send San Francisco house prices soaring",
+            "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 08 Jul 2026 23:11:35 GMT"
+        },
+        {
             "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
             "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 08 Jul 2026 12:28:03 GMT"
@@ -73,11 +78,6 @@
             "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
             "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Jul 2026 15:18:53 GMT"
-        },
-        {
-            "title": "Parents warned not to publicly share children\u2019s images amid AI abuse risks",
-            "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 03 Jul 2026 15:57:42 GMT"
         }
     ]
 }
