@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark (OpenAI)",
+            "link": "https://www.techmeme.com/260708/p41#a260708p41",
+            "published": "Wed, 08 Jul 2026 17:10:01 -0400"
+        },
+        {
+            "title": "Meta announces its first data center in Canada, a 1GW facility in Alberta that will cost the company about $9B and take two to three years to construct (Jonathan Vanian/CNBC)",
+            "link": "https://www.techmeme.com/260708/p40#a260708p40",
+            "published": "Wed, 08 Jul 2026 16:00:54 -0400"
+        },
+        {
             "title": "Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens (Axios)",
             "link": "https://www.techmeme.com/260708/p39#a260708p39",
             "published": "Wed, 08 Jul 2026 14:05:02 -0400"
@@ -14,16 +24,6 @@
             "title": "OpenAI rolls out two versions of GPT-Live: GPT-Live-1, powering ChatGPT Voice for Go, Plus, and Pro users, and GPT-Live-1 mini, the default for free users (Sabrina Ortiz/The Deep View)",
             "link": "https://www.techmeme.com/260708/p37#a260708p37",
             "published": "Wed, 08 Jul 2026 13:14:05 -0400"
-        },
-        {
-            "title": "OpenAI launches GPT-Live, a new generation of voice models built on a full-duplex architecture, meaning they can listen and speak at the same time (OpenAI)",
-            "link": "https://www.techmeme.com/260708/p36#a260708p36",
-            "published": "Wed, 08 Jul 2026 13:08:24 -0400"
-        },
-        {
-            "title": "Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation (Marina Temkin/TechCrunch)",
-            "link": "https://www.techmeme.com/260708/p35#a260708p35",
-            "published": "Wed, 08 Jul 2026 12:30:01 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "How to Prevent Meta From Using Your Instagram Images in A.I.",
             "link": "https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html",
-            "published": "Wed, 08 Jul 2026 19:21:29 +0000"
+            "published": "Wed, 08 Jul 2026 19:52:51 +0000"
         }
     ],
     "source_2": [
