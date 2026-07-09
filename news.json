@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Filings: Grubhub parent Wonder is raising hundreds of millions at a $9B valuation; source: founder Marc Lore indicated he'll contribute $200M to the round (The Information)",
+            "title": "The AI data center boom has led to surging demand for power transformers, with average lead times for orders, once measured in months, now stretching into years (Financial Times)",
+            "link": "https://www.techmeme.com/260709/p4#a260709p4",
+            "published": "Thu, 09 Jul 2026 02:30:01 -0400"
+        },
+        {
+            "title": "A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final, which averaged 48.6% (Emma Whitford/Inside Higher Ed)",
+            "link": "https://www.techmeme.com/260709/p3#a260709p3",
+            "published": "Thu, 09 Jul 2026 01:30:01 -0400"
+        },
+        {
+            "title": "Companies are mobilizing internal groups of \"AI champions\" to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025 (Isabelle Bousquette/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260709/p2#a260709p2",
+            "published": "Thu, 09 Jul 2026 01:05:02 -0400"
+        },
+        {
+            "title": "Shanghai-based GPU maker Iluvatar CoreX raised ~$902M in a Hong Kong share sale; the company's stock has soared 257% since its January IPO, which raised $473M (Bloomberg)",
+            "link": "https://www.techmeme.com/260709/p1#a260709p1",
+            "published": "Thu, 09 Jul 2026 00:50:01 -0400"
+        },
+        {
+            "title": "Filings: Grubhub parent Wonder is raising hundreds of millions of dollars at a $9B valuation; a source says founder Marc Lore indicated he will contribute $200M (The Information)",
             "link": "https://www.techmeme.com/260708/p46#a260708p46",
             "published": "Wed, 08 Jul 2026 23:40:01 -0400"
-        },
-        {
-            "title": "Cognition releases SWE-1.7, trained from Kimi K2.7 and available at 1,000 tokens/second, claiming it nears GPT-5.5 and Opus 4.8 on benchmarks at a lower cost (Cognition)",
-            "link": "https://www.techmeme.com/260708/p45#a260708p45",
-            "published": "Wed, 08 Jul 2026 22:15:01 -0400"
-        },
-        {
-            "title": "Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud (Daniel Wiessner/Reuters)",
-            "link": "https://www.techmeme.com/260708/p44#a260708p44",
-            "published": "Wed, 08 Jul 2026 20:00:52 -0400"
-        },
-        {
-            "title": "Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second (Bloomberg)",
-            "link": "https://www.techmeme.com/260708/p43#a260708p43",
-            "published": "Wed, 08 Jul 2026 19:15:02 -0400"
-        },
-        {
-            "title": "The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years (Boone Ashworth/Wired)",
-            "link": "https://www.techmeme.com/260708/p42#a260708p42",
-            "published": "Wed, 08 Jul 2026 18:25:01 -0400"
         }
     ],
     "source_1": [
@@ -55,19 +55,9 @@
     ],
     "source_2": [
         {
-            "title": "Wealthy AI workers send San Francisco house prices soaring",
-            "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 08 Jul 2026 23:11:35 GMT"
-        },
-        {
             "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
             "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 08 Jul 2026 12:28:03 GMT"
-        },
-        {
-            "title": "How Esports World Cup moved from Saudi Arabia to Paris in 8 weeks",
-            "link": "https://www.bbc.co.uk/news/articles/ckg888l8lzjo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 08 Jul 2026 08:43:00 GMT"
         },
         {
             "title": "Robots available for rent: But what can they do?",
@@ -78,6 +68,16 @@
             "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
             "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Jul 2026 15:18:53 GMT"
+        },
+        {
+            "title": "Parents warned not to publicly share children\u2019s images amid AI abuse risks",
+            "link": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 03 Jul 2026 15:57:42 GMT"
+        },
+        {
+            "title": "AI is 'not smart' so what's next in artificial intelligence?",
+            "link": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 02 Jul 2026 23:02:09 GMT"
         }
     ]
 }
