@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A (Lily Mae Lazarus/Fortune)",
+            "link": "https://www.techmeme.com/260709/p39#a260709p39",
+            "published": "Thu, 09 Jul 2026 17:55:02 -0400"
+        },
+        {
+            "title": "Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260709/p38#a260709p38",
+            "published": "Thu, 09 Jul 2026 17:45:27 -0400"
+        },
+        {
+            "title": "Coinbase's chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel (Hannah Lang/Reuters)",
+            "link": "https://www.techmeme.com/260709/p37#a260709p37",
+            "published": "Thu, 09 Jul 2026 17:20:01 -0400"
+        },
+        {
             "title": "Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI (Andrew Ackerman/Washington Post)",
             "link": "https://www.techmeme.com/260709/p36#a260709p36",
             "published": "Thu, 09 Jul 2026 16:45:11 -0400"
@@ -9,48 +24,33 @@
             "title": "Google says it will automatically add a disclosure to ads that are made with its AI advertising tools, expanding the disclosure beyond election ads to all ads (Sarah Perez/TechCrunch)",
             "link": "https://www.techmeme.com/260709/p35#a260709p35",
             "published": "Thu, 09 Jul 2026 16:30:09 -0400"
-        },
-        {
-            "title": "PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds (Duncan Riley/SiliconANGLE)",
-            "link": "https://www.techmeme.com/260709/p34#a260709p34",
-            "published": "Thu, 09 Jul 2026 16:10:02 -0400"
-        },
-        {
-            "title": "Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude's subscription plans \"when sufficient capacity allows\" (Maxwell Zeff/Wired)",
-            "link": "https://www.techmeme.com/260709/p33#a260709p33",
-            "published": "Thu, 09 Jul 2026 15:40:01 -0400"
-        },
-        {
-            "title": "The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp (Sam Clark/Politico)",
-            "link": "https://www.techmeme.com/260709/p32#a260709p32",
-            "published": "Thu, 09 Jul 2026 15:30:29 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up",
+            "link": "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html",
+            "published": "Thu, 09 Jul 2026 18:11:41 +0000"
+        },
+        {
+            "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
+            "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
+            "published": "Thu, 09 Jul 2026 19:34:23 +0000"
+        },
+        {
+            "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
+            "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
+            "published": "Thu, 09 Jul 2026 18:55:41 +0000"
+        },
         {
             "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
             "link": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
             "published": "Wed, 08 Jul 2026 18:36:58 +0000"
         },
         {
-            "title": "Meta Unveils an A.I. Image Generator",
-            "link": "https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html",
-            "published": "Tue, 07 Jul 2026 19:50:55 +0000"
-        },
-        {
-            "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
-            "link": "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html",
-            "published": "Mon, 06 Jul 2026 16:04:08 +0000"
-        },
-        {
-            "title": "Alibaba\u2019s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
-            "link": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
-            "published": "Mon, 06 Jul 2026 16:05:26 +0000"
-        },
-        {
-            "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
-            "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
-            "published": "Thu, 09 Jul 2026 18:55:41 +0000"
+            "title": "How to Turn Your Phone Into a Personal Health Dashboard",
+            "link": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html",
+            "published": "Thu, 09 Jul 2026 09:02:08 +0000"
         }
     ],
     "source_2": [
