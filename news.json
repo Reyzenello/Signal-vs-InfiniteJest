@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe (Foo Yun Chee/Reuters)",
-            "link": "https://www.techmeme.com/260709/p42#a260709p42",
-            "published": "Thu, 09 Jul 2026 19:45:16 -0400"
+            "title": "Sources: Manus investors and management are discussing unwinding Meta's $2B buyout at the same valuation, with Tencent in talks to become the largest investor (Zijing Wu/Financial Times)",
+            "link": "https://www.techmeme.com/260710/p1#a260710p1",
+            "published": "Fri, 10 Jul 2026 00:45:26 -0400"
         },
         {
-            "title": "SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed (Bloomberg)",
-            "link": "https://www.techmeme.com/260709/p41#a260709p41",
-            "published": "Thu, 09 Jul 2026 19:35:01 -0400"
+            "title": "Carlyle agrees to sell US data center power and infrastructure platform Copia to EQT; sources: the deal values Copia at $2.6B, a fivefold return for Carlyle (Financial Times)",
+            "link": "https://www.techmeme.com/260709/p47#a260709p47",
+            "published": "Thu, 09 Jul 2026 23:50:01 -0400"
         },
         {
-            "title": "Fidji Simo says she has decided to leave her full-time role at OpenAI and transition to being a part-time adviser after her medical condition worsened (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260709/p40#a260709p40",
-            "published": "Thu, 09 Jul 2026 19:03:47 -0400"
+            "title": "Oxylabs, which develops web data scraping infrastructure, received a $130M investment at a $3.6B valuation from Warburg Pincus, its first outside investment (Mike Wheatley/SiliconANGLE)",
+            "link": "https://www.techmeme.com/260709/p46#a260709p46",
+            "published": "Thu, 09 Jul 2026 23:20:00 -0400"
         },
         {
-            "title": "Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune's $43M Series A (Lily Mae Lazarus/Fortune)",
-            "link": "https://www.techmeme.com/260709/p39#a260709p39",
-            "published": "Thu, 09 Jul 2026 17:55:02 -0400"
+            "title": "MiniMax is looking to raise as much as $1.9B by selling 35.6M shares at ~$34 each and offering ~$830M in convertible bonds due 2027 (Bloomberg)",
+            "link": "https://www.techmeme.com/260709/p45#a260709p45",
+            "published": "Thu, 09 Jul 2026 22:45:21 -0400"
         },
         {
-            "title": "Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260709/p38#a260709p38",
-            "published": "Thu, 09 Jul 2026 17:45:27 -0400"
+            "title": "1X says its humanoid robot Neo's five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand (Boone Ashworth/Wired)",
+            "link": "https://www.techmeme.com/260709/p44#a260709p44",
+            "published": "Thu, 09 Jul 2026 21:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "A Top OpenAI Executive, Fidji Simo, Steps Down",
+            "link": "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html",
+            "published": "Fri, 10 Jul 2026 00:38:03 +0000"
+        },
         {
             "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up",
             "link": "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html",
@@ -43,17 +48,17 @@
             "published": "Thu, 09 Jul 2026 18:55:41 +0000"
         },
         {
-            "title": "In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock",
-            "link": "https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html",
-            "published": "Wed, 08 Jul 2026 18:36:58 +0000"
-        },
-        {
             "title": "How to Turn Your Phone Into a Personal Health Dashboard",
             "link": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html",
             "published": "Thu, 09 Jul 2026 09:02:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
+            "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Jul 2026 01:33:45 GMT"
+        },
         {
             "title": "Pressure builds on Europe's biggest port to be greener",
             "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Robots available for rent: But what can they do?",
             "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 06 Jul 2026 23:48:55 GMT"
-        },
-        {
-            "title": "Microsoft cuts 4,800 jobs and shrinks Xbox in 'significant restructure'",
-            "link": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 06 Jul 2026 15:18:53 GMT"
         }
     ]
 }
