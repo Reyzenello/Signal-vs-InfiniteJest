@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "A US court sentences a former ransomware negotiator to 70 months in prison for working with BlackCat to extort a combined $75.3M from his employer's clients (Matt Kapko/CyberScoop)",
-            "link": "https://www.techmeme.com/260710/p9#a260710p9",
-            "published": "Fri, 10 Jul 2026 07:15:38 -0400"
+            "title": "Phia, a shopping app co-founded by Phoebe Gates that has raised $43.5M, appears to be using fake clicks or \"cookie stuffing\" to claim affiliate commissions (Bloomberg)",
+            "link": "https://www.techmeme.com/260710/p17#a260710p17",
+            "published": "Fri, 10 Jul 2026 10:55:12 -0400"
         },
         {
-            "title": "In preliminary findings, the EU Commission said Facebook's and Instagram's \"addictive design\" violates the DSA, telling Meta to make changes or risk hefty fines (Adam Satariano/New York Times)",
-            "link": "https://www.techmeme.com/260710/p8#a260710p8",
-            "published": "Fri, 10 Jul 2026 06:50:01 -0400"
+            "title": "Munich-based QuantumDiamonds, which uses quantum sensors to detect chip defects, raised \u20ac91M, including \u20ac76M under the European Chips Act (Cristian Dina/The Next Web)",
+            "link": "https://www.techmeme.com/260710/p16#a260710p16",
+            "published": "Fri, 10 Jul 2026 10:20:02 -0400"
         },
         {
-            "title": "Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront (Bloomberg)",
-            "link": "https://www.techmeme.com/260710/p7#a260710p7",
-            "published": "Fri, 10 Jul 2026 06:20:01 -0400"
+            "title": "Like the Claude app it imitates, the new ChatGPT \"Super App\", which merges Codex with ChatGPT, is a tangle of toggles and strange UI decisions (M.G. Siegler/Spyglass)",
+            "link": "https://www.techmeme.com/260710/p15#a260710p15",
+            "published": "Fri, 10 Jul 2026 10:01:17 -0400"
         },
         {
-            "title": "Taiwan's leading DRAM maker Nanya Technology expects its capex to hit ~$6.2B in 2027, up 4x YoY, and reports unaudited Q2 revenue of ~$2.6B, up 684% YoY (Wen-Yee Lee/Reuters)",
-            "link": "https://www.techmeme.com/260710/p6#a260710p6",
-            "published": "Fri, 10 Jul 2026 06:10:01 -0400"
+            "title": "An RIAA-led coalition representing labels and artists proposes two tags for AI content: one for entirely AI-generated songs and another for \"AI-assisted\" tracks (Katherine Sayre/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260710/p14#a260710p14",
+            "published": "Fri, 10 Jul 2026 09:40:02 -0400"
         },
         {
-            "title": "Memo: MiniMax CEO Junjie Yan tells employees he will forgo his salary until MiniMax achieves AGI and promises to allocate personal shares to employee incentives (Juro Osawa/The Information)",
-            "link": "https://www.techmeme.com/260710/p5#a260710p5",
-            "published": "Fri, 10 Jul 2026 06:01:08 -0400"
+            "title": "Xreal launches $299 A01 Plus AR glasses, weighing just 62 grams and featuring 1080p micro OLED panels with a 120Hz refresh rate and a 50-degree field of view (Cameron Faulkner/The Verge)",
+            "link": "https://www.techmeme.com/260710/p13#a260710p13",
+            "published": "Fri, 10 Jul 2026 09:25:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Ordered by E.U. to Alter \u2018Addictive Design\u2019 of Instagram and Facebook",
+            "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+            "published": "Fri, 10 Jul 2026 10:28:59 +0000"
+        },
+        {
+            "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
+            "link": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
+            "published": "Fri, 10 Jul 2026 11:00:04 +0000"
+        },
         {
             "title": "A Top OpenAI Executive, Fidji Simo, Steps Down",
             "link": "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html",
@@ -38,19 +48,9 @@
             "published": "Thu, 09 Jul 2026 18:11:41 +0000"
         },
         {
-            "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
-            "link": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
-            "published": "Thu, 09 Jul 2026 19:34:23 +0000"
-        },
-        {
-            "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
-            "link": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
-            "published": "Thu, 09 Jul 2026 18:55:41 +0000"
-        },
-        {
-            "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
-            "link": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
-            "published": "Fri, 10 Jul 2026 11:00:04 +0000"
+            "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
+            "link": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
+            "published": "Fri, 10 Jul 2026 14:10:45 +0000"
         }
     ],
     "source_2": [
