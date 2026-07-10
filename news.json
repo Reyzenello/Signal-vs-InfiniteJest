@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A look at Meta Superintelligence Labs' growth in the past year, including a top-tier RL environment and compute ramp that could catch up to Anthropic and OpenAI (SemiAnalysis)",
-            "link": "https://www.techmeme.com/260710/p2#a260710p2",
-            "published": "Fri, 10 Jul 2026 02:20:01 -0400"
+            "title": "A US court sentences a former ransomware negotiator to 70 months in prison for working with BlackCat to extort a combined $75.3M from his employer's clients (Matt Kapko/CyberScoop)",
+            "link": "https://www.techmeme.com/260710/p9#a260710p9",
+            "published": "Fri, 10 Jul 2026 07:15:38 -0400"
         },
         {
-            "title": "Sources: Manus investors and management are discussing unwinding Meta's $2B buyout at the same valuation, with Tencent in talks to become the largest investor (Zijing Wu/Financial Times)",
-            "link": "https://www.techmeme.com/260710/p1#a260710p1",
-            "published": "Fri, 10 Jul 2026 00:45:26 -0400"
+            "title": "In preliminary findings, the EU Commission said Facebook's and Instagram's \"addictive design\" violates the DSA, telling Meta to make changes or risk hefty fines (Adam Satariano/New York Times)",
+            "link": "https://www.techmeme.com/260710/p8#a260710p8",
+            "published": "Fri, 10 Jul 2026 06:50:01 -0400"
         },
         {
-            "title": "Carlyle agrees to sell US data center power and infrastructure platform Copia to EQT; sources: the deal values Copia at $2.6B, a fivefold return for Carlyle (Financial Times)",
-            "link": "https://www.techmeme.com/260709/p47#a260709p47",
-            "published": "Thu, 09 Jul 2026 23:50:01 -0400"
+            "title": "Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront (Bloomberg)",
+            "link": "https://www.techmeme.com/260710/p7#a260710p7",
+            "published": "Fri, 10 Jul 2026 06:20:01 -0400"
         },
         {
-            "title": "Oxylabs, which develops web data scraping infrastructure, received a $130M investment at a $3.6B valuation from Warburg Pincus, its first outside investment (Mike Wheatley/SiliconANGLE)",
-            "link": "https://www.techmeme.com/260709/p46#a260709p46",
-            "published": "Thu, 09 Jul 2026 23:20:00 -0400"
+            "title": "Taiwan's leading DRAM maker Nanya Technology expects its capex to hit ~$6.2B in 2027, up 4x YoY, and reports unaudited Q2 revenue of ~$2.6B, up 684% YoY (Wen-Yee Lee/Reuters)",
+            "link": "https://www.techmeme.com/260710/p6#a260710p6",
+            "published": "Fri, 10 Jul 2026 06:10:01 -0400"
         },
         {
-            "title": "MiniMax is looking to raise as much as $1.9B by selling 35.6M shares at ~$34 each and offering ~$830M in convertible bonds due 2027 (Bloomberg)",
-            "link": "https://www.techmeme.com/260709/p45#a260709p45",
-            "published": "Thu, 09 Jul 2026 22:45:21 -0400"
+            "title": "Memo: MiniMax CEO Junjie Yan tells employees he will forgo his salary until MiniMax achieves AGI and promises to allocate personal shares to employee incentives (Juro Osawa/The Information)",
+            "link": "https://www.techmeme.com/260710/p5#a260710p5",
+            "published": "Fri, 10 Jul 2026 06:01:08 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Thu, 09 Jul 2026 18:55:41 +0000"
         },
         {
-            "title": "How to Turn Your Phone Into a Personal Health Dashboard",
-            "link": "https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html",
-            "published": "Thu, 09 Jul 2026 09:02:08 +0000"
+            "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
+            "link": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
+            "published": "Fri, 10 Jul 2026 11:00:04 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+            "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Jul 2026 12:02:40 GMT"
+        },
+        {
+            "title": "Big tech must deal with scam ads under Ofcom proposals",
+            "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Jul 2026 09:59:19 GMT"
+        },
         {
             "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
             "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Porn site company fined \u00a3630,000 over failed age checks",
             "link": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 09 Jul 2026 11:29:31 GMT"
-        },
-        {
-            "title": "Outcry as Meta lets users make AI images from public Instagram profile pics",
-            "link": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 08 Jul 2026 12:28:03 GMT"
-        },
-        {
-            "title": "Robots available for rent: But what can they do?",
-            "link": "https://www.bbc.co.uk/news/articles/c4gymkg9lr2o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 06 Jul 2026 23:48:55 GMT"
         }
     ]
 }
