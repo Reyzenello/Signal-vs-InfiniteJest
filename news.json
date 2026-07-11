@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials (Eric Geller/Cybersecurity Dive)",
-            "link": "https://www.techmeme.com/260710/p33#a260710p33",
-            "published": "Fri, 10 Jul 2026 19:00:38 -0400"
+            "title": "OpenAI's head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety (Maxwell Zeff/Wired)",
+            "link": "https://www.techmeme.com/260710/p38#a260710p38",
+            "published": "Fri, 10 Jul 2026 21:45:01 -0400"
         },
         {
-            "title": "Bluesky interim CEO Toni Schneider becomes the company's permanent CEO, four months after succeeding Jay Graber (Lucas Ropek/TechCrunch)",
-            "link": "https://www.techmeme.com/260710/p32#a260710p32",
-            "published": "Fri, 10 Jul 2026 18:10:02 -0400"
+            "title": "Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that \"extends human will and judgment\" (Thinking Machines Lab)",
+            "link": "https://www.techmeme.com/260710/p37#a260710p37",
+            "published": "Fri, 10 Jul 2026 20:25:01 -0400"
         },
         {
-            "title": "A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation (Noam Scheiber/New York Times)",
-            "link": "https://www.techmeme.com/260710/p31#a260710p31",
-            "published": "Fri, 10 Jul 2026 17:50:01 -0400"
+            "title": "SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030 (Reuters)",
+            "link": "https://www.techmeme.com/260710/p36#a260710p36",
+            "published": "Fri, 10 Jul 2026 19:45:00 -0400"
         },
         {
-            "title": "Apple says OpenAI leadership \"normalized\" misconduct and OpenAI's hardware business is \"rotten to its core by its illegal reliance\" on stolen trade secrets (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260710/p30#a260710p30",
-            "published": "Fri, 10 Jul 2026 17:21:37 -0400"
+            "title": "Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism (Corbin Bolies/Variety)",
+            "link": "https://www.techmeme.com/260710/p35#a260710p35",
+            "published": "Fri, 10 Jul 2026 19:20:08 -0400"
         },
         {
-            "title": "In its lawsuit, Apple chronicles in vivid detail how its former employees that went to work for OpenAI allegedly violated their confidentiality agreements (Aaron Tilley/The Information)",
-            "link": "https://www.techmeme.com/260710/p29#a260710p29",
-            "published": "Fri, 10 Jul 2026 17:00:15 -0400"
+            "title": "In response to Apple's trade secret theft lawsuit, OpenAI says \"we have no interest in other companies' trade secrets\" (Marcus Mendes/9to5Mac)",
+            "link": "https://www.techmeme.com/260710/p34#a260710p34",
+            "published": "Fri, 10 Jul 2026 19:10:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+            "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+            "published": "Fri, 10 Jul 2026 23:23:26 +0000"
+        },
+        {
+            "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
+            "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+            "published": "Sat, 11 Jul 2026 02:03:34 +0000"
+        },
+        {
             "title": "Meta Ordered by E.U. to Alter \u2018Addictive Design\u2019 of Instagram and Facebook",
             "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
-            "published": "Fri, 10 Jul 2026 18:20:38 +0000"
+            "published": "Fri, 10 Jul 2026 18:20:39 +0000"
         },
         {
             "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
@@ -38,22 +48,22 @@
             "published": "Fri, 10 Jul 2026 11:00:04 +0000"
         },
         {
-            "title": "A Top OpenAI Executive, Fidji Simo, Steps Down",
-            "link": "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html",
-            "published": "Fri, 10 Jul 2026 00:38:03 +0000"
-        },
-        {
-            "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up",
-            "link": "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html",
-            "published": "Thu, 09 Jul 2026 18:11:41 +0000"
-        },
-        {
-            "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-            "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-            "published": "Fri, 10 Jul 2026 21:08:14 +0000"
+            "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
+            "link": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
+            "published": "Fri, 10 Jul 2026 14:10:45 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Meta pulls new AI image feature after days of backlash",
+            "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 11 Jul 2026 01:45:59 GMT"
+        },
+        {
+            "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
+            "link": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 11 Jul 2026 00:08:51 GMT"
+        },
         {
             "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
             "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Big tech must deal with scam ads under Ofcom proposals",
             "link": "https://www.bbc.co.uk/news/articles/c9q2rznjqwwo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Jul 2026 09:59:19 GMT"
-        },
-        {
-            "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-            "link": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Jul 2026 01:33:45 GMT"
-        },
-        {
-            "title": "Pressure builds on Europe's biggest port to be greener",
-            "link": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 09 Jul 2026 23:00:51 GMT"
         }
     ]
 }
