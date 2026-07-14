@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Adapter, which offers an infrastructure layer to help users leverage and control data for use by AI agents and apps, emerges from stealth with $17.8M in funding (Alex Konrad/Upstarts Media)",
-            "link": "https://www.techmeme.com/260714/p42#a260714p42",
-            "published": "Tue, 14 Jul 2026 16:15:01 -0400"
+            "title": "The UK government proposes a default overnight social media curfew for 16- and 17-year-olds and disabling features like auto-play and infinite scroll by default (Muvija M/Reuters)",
+            "link": "https://www.techmeme.com/260714/p48#a260714p48",
+            "published": "Tue, 14 Jul 2026 18:05:03 -0400"
         },
         {
-            "title": "Overtone, a \"voice- and audio-forward\" dating service founded by Hinge creator Justin McLeod that uses AI to make \"highly curated introductions\", raised $18M (Amanda Silberling/TechCrunch)",
-            "link": "https://www.techmeme.com/260714/p41#a260714p41",
-            "published": "Tue, 14 Jul 2026 16:00:50 -0400"
+            "title": "Sources: OpenAI's first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as a humanlike AI companion (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260714/p46#a260714p46",
+            "published": "Tue, 14 Jul 2026 16:55:00 -0400"
         },
         {
-            "title": "A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company (Diana Novak Jones/Reuters)",
-            "link": "https://www.techmeme.com/260714/p40#a260714p40",
-            "published": "Tue, 14 Jul 2026 15:45:01 -0400"
+            "title": "Sources: DeepSeek has started planning for an IPO in China and may file as soon as this year, allowing it to debut in 2027 (Lulu Yilun Chen/Bloomberg)",
+            "link": "https://www.techmeme.com/260714/p45#a260714p45",
+            "published": "Tue, 14 Jul 2026 16:50:01 -0400"
         },
         {
-            "title": "PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech (MacKenzie Sigalos/CNBC)",
-            "link": "https://www.techmeme.com/260714/p39#a260714p39",
-            "published": "Tue, 14 Jul 2026 15:30:01 -0400"
+            "title": "Anthropic faces ridicule and criticism for an ad titled \"There's hope in hard questions\" that unsettled viewers with weird graveyard imagery and doomer-ist tone (Lucas Ropek/TechCrunch)",
+            "link": "https://www.techmeme.com/260714/p44#a260714p44",
+            "published": "Tue, 14 Jul 2026 16:35:01 -0400"
         },
         {
-            "title": "A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product (Washington Post)",
-            "link": "https://www.techmeme.com/260714/p38#a260714p38",
-            "published": "Tue, 14 Jul 2026 14:25:02 -0400"
+            "title": "OpenAI says it is \"not aware of any evidence\" that Apple's lawsuit alleging trade-secret theft has merit, adding that it believes in fair competition (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260714/p43#a260714p43",
+            "published": "Tue, 14 Jul 2026 16:25:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Midnight social media curfew proposed for older UK teens",
+            "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 14 Jul 2026 21:43:56 GMT"
+        },
+        {
             "title": "10 years of Pok\u00e9mon Go and the millions still trying to catch 'em all",
             "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 13 Jul 2026 00:07:00 GMT"
@@ -73,11 +78,6 @@
             "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
             "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Jul 2026 22:54:16 GMT"
-        },
-        {
-            "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-            "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Jul 2026 12:02:40 GMT"
         }
     ]
 }
