@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "eMarketer: chatbots like ChatGPT and Google AI Mode will generate less than $1B in ad revenue in 2026; OpenAI projected $2.5B in ChatGPT ad revenue this year (Trishla Ostwal/Adweek)",
-            "link": "https://www.techmeme.com/260714/p4#a260714p4",
-            "published": "Tue, 14 Jul 2026 04:25:50 -0400"
+            "title": "IBM reports preliminary Q2 revenue of $17.2B, below $17.9B est., as CEO Arvind Krishna says customers are holding back spending; IBM falls 17% pre-market (Amy Thomson/Bloomberg)",
+            "link": "https://www.techmeme.com/260714/p12#a260714p12",
+            "published": "Tue, 14 Jul 2026 07:30:03 -0400"
         },
         {
-            "title": "Google agrees to buy 100% of the initial output from the Steel River Energy Center's 1.6GW solar project in Arkansas when it becomes operational in 2029 (Martha Muir/Financial Times)",
-            "link": "https://www.techmeme.com/260714/p3#a260714p3",
-            "published": "Tue, 14 Jul 2026 03:55:47 -0400"
+            "title": "New York Governor Kathy Hochul signs a moratorium blocking new permits for hyperscale data centers exceeding 50MW for up to one year, the first state to do so (Lauren Feiner/The Verge)",
+            "link": "https://www.techmeme.com/260714/p11#a260714p11",
+            "published": "Tue, 14 Jul 2026 07:05:00 -0400"
         },
         {
-            "title": "Researchers detail \"context bombing\", where defenders use prompt injections to trigger guardrails of attackers' LLMs, cutting AI hacking success rates by ~90% (Dan Goodin/Ars Technica)",
-            "link": "https://www.techmeme.com/260714/p2#a260714p2",
-            "published": "Tue, 14 Jul 2026 02:25:43 -0400"
+            "title": "Survey: 57% of US women and 47% of men ages 18 to 29 say they get health and wellness information from influencers; women say they see such content more often (Aaron Smith/Pew Research Center)",
+            "link": "https://www.techmeme.com/260714/p10#a260714p10",
+            "published": "Tue, 14 Jul 2026 06:45:00 -0400"
         },
         {
-            "title": "Sources: Nvidia intensified due diligence and cut its authorized AI chip customers in Singapore, Malaysia, and Japan by 50%+ to prevent China diversions (Zijing Wu/Financial Times)",
-            "link": "https://www.techmeme.com/260714/p1#a260714p1",
-            "published": "Tue, 14 Jul 2026 00:45:01 -0400"
+            "title": "Nikita Bier says X made a \"tweak to boost visibility of your posts to your mutuals\", or those who users follow back, to avoid replies becoming a \"battleground\" (Lucas Ropek/TechCrunch)",
+            "link": "https://www.techmeme.com/260714/p9#a260714p9",
+            "published": "Tue, 14 Jul 2026 06:30:02 -0400"
         },
         {
-            "title": "In the wake of China's \"embodied AI\" push, there's an urgency among China's 100+ humanoid startups to launch IPOs; LimX Dynamics raises $200M in a pre-IPO round (Evelyn Cheng/CNBC)",
-            "link": "https://www.techmeme.com/260713/p36#a260713p36",
-            "published": "Mon, 13 Jul 2026 23:20:02 -0400"
+            "title": "Demis Hassabis proposes a US-based Standards Body for \"Frontier-class\" AI, modeled after the FINRA; labs would voluntarily share models 30 days before release (Demis Hassabis/@demishassabis)",
+            "link": "https://www.techmeme.com/260714/p8#a260714p8",
+            "published": "Tue, 14 Jul 2026 06:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "Is tracking your food purchases good for your health?",
-            "link": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 13 Jul 2026 23:04:58 GMT"
-        },
-        {
             "title": "10 years of Pok\u00e9mon Go and the millions still trying to catch 'em all",
             "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 13 Jul 2026 00:07:00 GMT"
@@ -78,6 +73,11 @@
             "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
             "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Jul 2026 22:54:16 GMT"
+        },
+        {
+            "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
+            "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 10 Jul 2026 12:02:40 GMT"
         }
     ]
 }
