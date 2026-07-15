@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "MA-based Walden Robotics, a Toyota robotics spin-off that has started selling humanoid robots, emerges from stealth with a ~$300M seed at a $1.1B valuation (Samantha Kelly/Bloomberg)",
+            "link": "https://www.techmeme.com/260715/p11#a260715p11",
+            "published": "Wed, 15 Jul 2026 04:45:02 -0400"
+        },
+        {
+            "title": "ASML says Intel has decided to use ASML's next-gen High NA EUV machines to make some of its flagship Panther Lake laptop chips; a High NA machine costs ~$400M (Max A. Cherney/Reuters)",
+            "link": "https://www.techmeme.com/260715/p10#a260715p10",
+            "published": "Wed, 15 Jul 2026 03:35:01 -0400"
+        },
+        {
+            "title": "ASML reports Q2 net sales of \u20ac9.3B, above \u20ac8.8B est., a \u20ac2.9B net profit, above \u20ac2.6B est., and raises its 2026 net sales forecast from \u20ac36B-\u20ac40B to \u20ac43B-\u20ac45B (April Roach/CNBC)",
+            "link": "https://www.techmeme.com/260715/p9#a260715p9",
+            "published": "Wed, 15 Jul 2026 03:30:01 -0400"
+        },
+        {
+            "title": "A profile of PsiQuantum, which raised $1B in 2025, is building a quantum computer with photonic chips made by GlobalFoundries and is closely monitored by DARPA (James O'Donnell/MIT Technology Review)",
+            "link": "https://www.techmeme.com/260715/p8#a260715p8",
+            "published": "Wed, 15 Jul 2026 02:30:01 -0400"
+        },
+        {
             "title": "As China's rules for humanlike AI interaction take effect, many users are bemoaning the loss of the virtual companions they had created on Chinese AI platforms (Bloomberg)",
             "link": "https://www.techmeme.com/260715/p7#a260715p7",
             "published": "Wed, 15 Jul 2026 02:15:01 -0400"
-        },
-        {
-            "title": "Sources: DeepSeek's annualized revenue recently reached $400M to $500M as it seeks to raise ~$7.4B at a ~$74B valuation, up from ~$50B after raising ~$7B in May (The Information)",
-            "link": "https://www.techmeme.com/260715/p6#a260715p6",
-            "published": "Wed, 15 Jul 2026 02:00:02 -0400"
-        },
-        {
-            "title": "Court filing: Google says it is ready to add third-party app stores in Google Play in the US on July 22, as Google and Epic withdraw their joint motion (Sean Hollister/The Verge)",
-            "link": "https://www.techmeme.com/260715/p5#a260715p5",
-            "published": "Wed, 15 Jul 2026 01:55:02 -0400"
-        },
-        {
-            "title": "Sources: Oracle leads the race to sell \"air-gapped\" cloud services to Japan that the US says are key to secure intelligence sharing between Tokyo and its allies (Financial Times)",
-            "link": "https://www.techmeme.com/260715/p4#a260715p4",
-            "published": "Wed, 15 Jul 2026 00:55:01 -0400"
-        },
-        {
-            "title": "The UAE gained broader US AI chip access after aiding the US in the Iran war, letting G42 buy freely for at least nine months; G42 plans to become a US company (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260715/p3#a260715p3",
-            "published": "Wed, 15 Jul 2026 00:50:02 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 10 Jul 2026 18:20:39 +0000"
         },
         {
-            "title": "Data Centers to Add Billions in Power Costs in 13 States",
-            "link": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
-            "published": "Wed, 15 Jul 2026 00:39:01 +0000"
+            "title": "From Twitter to X: 20 Years of Memes, Movements and Hot Takes",
+            "link": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
+            "published": "Wed, 15 Jul 2026 09:00:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
+            "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 15 Jul 2026 09:17:10 GMT"
+        },
         {
             "title": "10 years of Pok\u00e9mon Go and the millions still trying to catch 'em all",
             "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
             "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 10 Jul 2026 22:54:16 GMT"
-        },
-        {
-            "title": "EU threatens Meta with fines over 'addictive' Facebook and Instagram",
-            "link": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 10 Jul 2026 12:02:40 GMT"
         }
     ]
 }
