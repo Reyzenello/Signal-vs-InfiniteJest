@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260716/p52#a260716p52",
-            "published": "Thu, 16 Jul 2026 15:45:02 -0400"
+            "title": "US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud (Lorelei Smillie/Bloomberg)",
+            "link": "https://www.techmeme.com/260716/p57#a260716p57",
+            "published": "Thu, 16 Jul 2026 17:35:01 -0400"
         },
         {
-            "title": "Google updates its AI video editor Vids with Gemini Omni and a feature that lets users create custom digital avatars using a selfie and voice recording (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260716/p51#a260716p51",
-            "published": "Thu, 16 Jul 2026 15:15:00 -0400"
+            "title": "Netflix says roughly 300 titles used generative AI this year, mostly in post-production, \"to deliver higher quality output more quickly and at a lower cost\" (Emma Roth/The Verge)",
+            "link": "https://www.techmeme.com/260716/p56#a260716p56",
+            "published": "Thu, 16 Jul 2026 17:00:13 -0400"
         },
         {
-            "title": "Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Opus 4.8 and GPT-5.5, and plans to release model weights by July 27 (Kimi)",
-            "link": "https://www.techmeme.com/260716/p50#a260716p50",
-            "published": "Thu, 16 Jul 2026 15:00:34 -0400"
+            "title": "An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive \"authors\" proliferate (Kashmir Hill/New York Times)",
+            "link": "https://www.techmeme.com/260716/p55#a260716p55",
+            "published": "Thu, 16 Jul 2026 16:25:01 -0400"
         },
         {
-            "title": "After reports of GPT-5.6 deleting files, OpenAI says the issue most often occurs in full-access mode without sandboxing and it is working to mitigate the risk (Tibo/@thsottiaux)",
-            "link": "https://www.techmeme.com/260716/p49#a260716p49",
-            "published": "Thu, 16 Jul 2026 14:50:02 -0400"
+            "title": "Netflix reports Q2 revenue up 13% YoY to $12.56B, vs. $12.59B est., and says it will give fewer engagement updates starting in 2027; NFLX drops 7%+ after hours (Lillian Rizzo/CNBC)",
+            "link": "https://www.techmeme.com/260716/p54#a260716p54",
+            "published": "Thu, 16 Jul 2026 16:16:16 -0400"
         },
         {
-            "title": "Crypto.com raised $400M from Citadel Securities in its first institutional funding round, valuing the Singapore-based crypto exchange at $20B (CoinDesk)",
-            "link": "https://www.techmeme.com/260716/p48#a260716p48",
-            "published": "Thu, 16 Jul 2026 14:35:01 -0400"
+            "title": "Kimi-K3 is now #1 on the Frontend Code Arena benchmark, surpassing Claude Fable 5; the model scored 88.3 on Terminal Bench 2.1, only below GPT-5.6 Sol's 88.8 (Michael Nu\u00f1ez/VentureBeat)",
+            "link": "https://www.techmeme.com/260716/p53#a260716p53",
+            "published": "Thu, 16 Jul 2026 16:12:25 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don\u2019t Recommend Reading It.",
+            "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+            "published": "Thu, 16 Jul 2026 17:12:03 +0000"
+        },
         {
             "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
             "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
@@ -43,17 +48,17 @@
             "published": "Wed, 15 Jul 2026 20:12:53 +0000"
         },
         {
-            "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
-            "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
-            "published": "Wed, 15 Jul 2026 18:58:17 +0000"
-        },
-        {
             "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
             "link": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html",
-            "published": "Thu, 16 Jul 2026 19:18:35 +0000"
+            "published": "Thu, 16 Jul 2026 19:18:36 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump Media to sell early access to key social posts",
+            "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 16 Jul 2026 22:01:19 GMT"
+        },
         {
             "title": "TikTok faces Ofcom investigation over child age checks",
             "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
             "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 15 Jul 2026 11:24:29 GMT"
-        },
-        {
-            "title": "10 years of Pok\u00e9mon Go and the millions still trying to catch 'em all",
-            "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 13 Jul 2026 00:07:00 GMT"
         }
     ]
 }
