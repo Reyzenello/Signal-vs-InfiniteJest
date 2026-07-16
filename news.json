@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Moonshot plans to launch Kimi K3, China's largest model to date with 2T-3T parameters, in the coming days; it's expected to outperform Claude Opus 4.8 (Financial Times)",
-            "link": "https://www.techmeme.com/260716/p33#a260716p33",
-            "published": "Thu, 16 Jul 2026 09:45:01 -0400"
+            "title": "Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively (Josh Woodward/Google)",
+            "link": "https://www.techmeme.com/260716/p41#a260716p41",
+            "published": "Thu, 16 Jul 2026 12:25:02 -0400"
         },
         {
-            "title": "Sources: Apple is prepping an iPad overhaul, including an iPad mini with an OLED screen by October and refreshed versions of entry-level iPad and Airs in 2027 (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260716/p32#a260716p32",
-            "published": "Thu, 16 Jul 2026 09:40:01 -0400"
+            "title": "San Diego-based Self Inspection, which uses AI to assess body damage on a car with as little tech as a smartphone camera, raised $10M led by Sheryl Sandberg (Sean O'Kane/TechCrunch)",
+            "link": "https://www.techmeme.com/260716/p40#a260716p40",
+            "published": "Thu, 16 Jul 2026 11:45:02 -0400"
         },
         {
-            "title": "Sable, which is building an AI agent named Aiden that lives on a company's website to run live product demos and more, raised $45M from Sequoia and 8VC (Lily Mae Lazarus/Fortune)",
-            "link": "https://www.techmeme.com/260716/p31#a260716p31",
-            "published": "Thu, 16 Jul 2026 09:30:01 -0400"
+            "title": "Filing: a Chinese company says a fund in which its unit invested paid ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B (Eduardo Baptista/Reuters)",
+            "link": "https://www.techmeme.com/260716/p39#a260716p39",
+            "published": "Thu, 16 Jul 2026 11:35:01 -0400"
         },
         {
-            "title": "Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027 (Lily Mae Lazarus/Fortune)",
-            "link": "https://www.techmeme.com/260716/p30#a260716p30",
-            "published": "Thu, 16 Jul 2026 09:25:07 -0400"
+            "title": "Visa launches the Visa Stablecoin Platform, an internal system for its network of about 15,000 financial institutions and 200M+ merchants to use stablecoins (Camila Grigera Na\u00f3n/Fortune)",
+            "link": "https://www.techmeme.com/260716/p38#a260716p38",
+            "published": "Thu, 16 Jul 2026 11:25:01 -0400"
         },
         {
-            "title": "1Password launches a new Claude integration for Mac that lets Anthropic's AI agent sign in to websites without seeing the user's password or 2FA code (Zac Hall/9to5Mac)",
-            "link": "https://www.techmeme.com/260716/p29#a260716p29",
-            "published": "Thu, 16 Jul 2026 09:20:03 -0400"
+            "title": "OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China (CNET)",
+            "link": "https://www.techmeme.com/260716/p37#a260716p37",
+            "published": "Thu, 16 Jul 2026 11:15:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Europe Takes Step Toward Possible Social Media Ban for Children",
-            "link": "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
-            "published": "Mon, 13 Jul 2026 13:19:52 +0000"
-        },
-        {
-            "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-            "link": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-            "published": "Sat, 11 Jul 2026 18:00:01 +0000"
-        },
-        {
-            "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
-            "link": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-            "published": "Sat, 11 Jul 2026 12:34:16 +0000"
-        },
-        {
-            "title": "Meta Ordered by E.U. to Alter \u2018Addictive Design\u2019 of Instagram and Facebook",
-            "link": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
-            "published": "Fri, 10 Jul 2026 18:20:39 +0000"
-        },
-        {
             "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
-            "link": "https://www.nytimes.com/2026/07/16/technology/google-ordered-to-give-ai-rivals-more-access-on-android-smartphones.html",
-            "published": "Thu, 16 Jul 2026 13:56:57 +0000"
+            "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
+            "published": "Thu, 16 Jul 2026 13:56:58 +0000"
+        },
+        {
+            "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
+            "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
+            "published": "Thu, 16 Jul 2026 13:53:09 +0000"
+        },
+        {
+            "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
+            "link": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
+            "published": "Wed, 15 Jul 2026 20:12:53 +0000"
+        },
+        {
+            "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
+            "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
+            "published": "Wed, 15 Jul 2026 18:58:16 +0000"
+        },
+        {
+            "title": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
+            "link": "https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html",
+            "published": "Thu, 16 Jul 2026 16:25:08 +0000"
         }
     ],
     "source_2": [
