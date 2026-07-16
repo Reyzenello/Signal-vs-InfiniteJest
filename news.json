@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "TSMC raises its 2026 capex projections from $52B-$56B to $60B-$64B, and ups revenue growth projection from 30%+ to 40%+ YoY in USD terms, citing \"AI megatrend\" (Debby Wu/Bloomberg)",
+            "link": "https://www.techmeme.com/260716/p8#a260716p8",
+            "published": "Thu, 16 Jul 2026 05:20:01 -0400"
+        },
+        {
+            "title": "Uber agrees to acquire Delivery Hero in a deal that values the German food delivery company at ~$14.8B, offering \u20ac41.50 per share and buying out Prosus' stake (Edwin Chan/Bloomberg)",
+            "link": "https://www.techmeme.com/260716/p7#a260716p7",
+            "published": "Thu, 16 Jul 2026 05:00:48 -0400"
+        },
+        {
+            "title": "A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo (Mike Masnick/Techdirt)",
+            "link": "https://www.techmeme.com/260716/p6#a260716p6",
+            "published": "Thu, 16 Jul 2026 02:30:03 -0400"
+        },
+        {
             "title": "xAI sues a South Carolina man for allegedly using Grok to generate CSAM, in one of the first cases of its kind brought by an AI company against one of its users (Blake Brittain/Reuters)",
             "link": "https://www.techmeme.com/260716/p5#a260716p5",
             "published": "Thu, 16 Jul 2026 02:20:01 -0400"
@@ -9,21 +24,6 @@
             "title": "TSMC reports Q2 revenue up 36% YoY to ~$39.45B, net income up 77.4% YoY to ~$21.9B, both above est., and says chips 7nm or smaller were 77% of its wafer revenue (Jenny Lee/CNBC)",
             "link": "https://www.techmeme.com/260716/p4#a260716p4",
             "published": "Thu, 16 Jul 2026 02:10:02 -0400"
-        },
-        {
-            "title": "Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B (Reuters)",
-            "link": "https://www.techmeme.com/260716/p3#a260716p3",
-            "published": "Thu, 16 Jul 2026 01:30:01 -0400"
-        },
-        {
-            "title": "Hyundai says it would make Boston Dynamics a wholly owned subsidiary by acquiring SoftBank's ~10% stake; Hyundai bought an 80% stake in Boston Dynamics in 2021 (Reuters)",
-            "link": "https://www.techmeme.com/260716/p2#a260716p2",
-            "published": "Thu, 16 Jul 2026 00:45:02 -0400"
-        },
-        {
-            "title": "Filing: AST SpaceMobile delays the launch of its satellite-to-phone service to 2027 after the Blue Origin mishap and plans to raise $1B in convertible notes (Michael Kan/PCMag)",
-            "link": "https://www.techmeme.com/260716/p1#a260716p1",
-            "published": "Thu, 16 Jul 2026 00:15:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 10 Jul 2026 18:20:39 +0000"
         },
         {
-            "title": "Europe Wants to Break Free From American and Chinese Technology. But How?",
+            "title": "Europe Finds It Hard to Break Up With American and Chinese Technology",
             "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
-            "published": "Thu, 16 Jul 2026 04:01:08 +0000"
+            "published": "Thu, 16 Jul 2026 08:20:56 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "TikTok faces Ofcom investigation over child age checks",
+            "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 16 Jul 2026 08:19:21 GMT"
+        },
         {
             "title": "SpaceX share price drops below stock market debut",
             "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Meta pulls new AI image feature after days of backlash",
             "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 11 Jul 2026 01:45:59 GMT"
-        },
-        {
-            "title": "Is the Assassin's Creed Black Flag remake worth the 13 year wait?",
-            "link": "https://www.bbc.co.uk/news/articles/cjrg9r80908o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 11 Jul 2026 00:08:51 GMT"
         }
     ]
 }
