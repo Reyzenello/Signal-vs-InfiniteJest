@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple and the DOJ are in early discussions about settling a 2024 antitrust lawsuit alleging that Apple violated antitrust laws (Bloomberg)",
+            "link": "https://www.techmeme.com/260717/p16#a260717p16",
+            "published": "Fri, 17 Jul 2026 13:15:05 -0400"
+        },
+        {
+            "title": "Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years (New York Times)",
+            "link": "https://www.techmeme.com/260717/p15#a260717p15",
+            "published": "Fri, 17 Jul 2026 12:25:04 -0400"
+        },
+        {
             "title": "Models like Kimi K3, Grok 4.5, and Muse 1.1 may prevent the dominance of 2-3 frontier labs with 90% inference margins from hurting other AI ecosystem layers (Gavin Baker/@gavinsbaker)",
             "link": "https://www.techmeme.com/260717/p14#a260717p14",
             "published": "Fri, 17 Jul 2026 12:20:02 -0400"
@@ -14,28 +24,18 @@
             "title": "ASML plans to give its ~45K employees globally a \u20ac20K bonus, issued as a share award that vests in 2030, joining other chip industry companies offering payouts (Sarah Jacob/Bloomberg)",
             "link": "https://www.techmeme.com/260717/p12#a260717p12",
             "published": "Fri, 17 Jul 2026 10:35:01 -0400"
-        },
-        {
-            "title": "AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal to use inference-specific chips as collateral (Tim Fernholz/TechCrunch)",
-            "link": "https://www.techmeme.com/260717/p11#a260717p11",
-            "published": "Fri, 17 Jul 2026 09:50:02 -0400"
-        },
-        {
-            "title": "Sources: the EU is set to approve the $55B acquisition of EA under its subsidy rules on July 30; the deal includes Saudi Arabia's PIF, Silver Lake, and Affinity (Foo Yun Chee/Reuters)",
-            "link": "https://www.techmeme.com/260717/p10#a260717p10",
-            "published": "Fri, 17 Jul 2026 08:55:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
             "link": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-            "published": "Fri, 17 Jul 2026 16:17:06 +0000"
+            "published": "Fri, 17 Jul 2026 17:44:24 +0000"
         },
         {
             "title": "Xi Jinping of China Pitches \u2018Openness\u2019 in Push to Shape the Path of A.I.",
             "link": "https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html",
-            "published": "Fri, 17 Jul 2026 15:49:16 +0000"
+            "published": "Fri, 17 Jul 2026 18:03:12 +0000"
         },
         {
             "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don\u2019t Recommend Reading It.",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+            "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 17 Jul 2026 16:53:04 GMT"
+        },
+        {
             "title": "Trump Media to sell instant access to 'market-moving' social posts",
             "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 17 Jul 2026 07:25:31 GMT"
@@ -73,11 +78,6 @@
             "title": "SpaceX share price drops below stock market debut",
             "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 15 Jul 2026 18:11:57 GMT"
-        },
-        {
-            "title": "Midnight social media curfew proposed for UK teens aged 16 and 17",
-            "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 15 Jul 2026 11:24:29 GMT"
         }
     ]
 }
