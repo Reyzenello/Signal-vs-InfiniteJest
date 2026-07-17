@@ -1,12 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "ASML plans to give its ~45K employees globally a \u20ac20,000 bonus, issued as a share award vesting in 2030, joining other chip industry companies offering payouts (Sarah Jacob/Bloomberg)",
+            "title": "Models like Kimi K3, Grok 4.5, and Muse 1.1 may prevent the dominance of 2-3 frontier labs with 90% inference margins from hurting other AI ecosystem layers (Gavin Baker/@gavinsbaker)",
+            "link": "https://www.techmeme.com/260717/p14#a260717p14",
+            "published": "Fri, 17 Jul 2026 12:20:02 -0400"
+        },
+        {
+            "title": "Kimi K3 hype shouldn't alarm the US about \"losing the AI race\" to China; K3 is a good model but not frontier-level and likely lacks dangerous cyber capabilities (Transformer)",
+            "link": "https://www.techmeme.com/260717/p13#a260717p13",
+            "published": "Fri, 17 Jul 2026 11:05:02 -0400"
+        },
+        {
+            "title": "ASML plans to give its ~45K employees globally a \u20ac20K bonus, issued as a share award that vests in 2030, joining other chip industry companies offering payouts (Sarah Jacob/Bloomberg)",
             "link": "https://www.techmeme.com/260717/p12#a260717p12",
             "published": "Fri, 17 Jul 2026 10:35:01 -0400"
         },
         {
-            "title": "AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal using inference-specific chips as collateral (Tim Fernholz/TechCrunch)",
+            "title": "AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal to use inference-specific chips as collateral (Tim Fernholz/TechCrunch)",
             "link": "https://www.techmeme.com/260717/p11#a260717p11",
             "published": "Fri, 17 Jul 2026 09:50:02 -0400"
         },
@@ -14,38 +24,28 @@
             "title": "Sources: the EU is set to approve the $55B acquisition of EA under its subsidy rules on July 30; the deal includes Saudi Arabia's PIF, Silver Lake, and Affinity (Foo Yun Chee/Reuters)",
             "link": "https://www.techmeme.com/260717/p10#a260717p10",
             "published": "Fri, 17 Jul 2026 08:55:01 -0400"
-        },
-        {
-            "title": "San Francisco sends legal notices to Apple and Google, demanding they take down 13 AI apps used to make deepfake nude images; Google says it deleted five apps (Matt Burgess/Wired)",
-            "link": "https://www.techmeme.com/260717/p9#a260717p9",
-            "published": "Fri, 17 Jul 2026 08:25:00 -0400"
-        },
-        {
-            "title": "Sources: Apple has sent personal legal warnings to ~40 former employees who now work at OpenAI, directing them to preserve documents and meet with its lawyers (Michael Acton/Financial Times)",
-            "link": "https://www.techmeme.com/260717/p8#a260717p8",
-            "published": "Fri, 17 Jul 2026 07:15:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+            "link": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+            "published": "Fri, 17 Jul 2026 16:17:06 +0000"
+        },
+        {
+            "title": "Xi Jinping of China Pitches \u2018Openness\u2019 in Push to Shape the Path of A.I.",
+            "link": "https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html",
+            "published": "Fri, 17 Jul 2026 15:49:16 +0000"
+        },
         {
             "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don\u2019t Recommend Reading It.",
             "link": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
             "published": "Thu, 16 Jul 2026 17:12:03 +0000"
         },
         {
-            "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
-            "link": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
-            "published": "Thu, 16 Jul 2026 13:56:58 +0000"
-        },
-        {
-            "title": "TSMC Adds $100 Billion to Its U.S. Spending Plan",
-            "link": "https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html",
-            "published": "Thu, 16 Jul 2026 13:53:10 +0000"
-        },
-        {
-            "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
-            "link": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
-            "published": "Wed, 15 Jul 2026 20:12:53 +0000"
+            "title": "The A.I. Trade Secrets War + Economists Say \u2018We Must Act Now\u2019 + HatGPT",
+            "link": "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html",
+            "published": "Fri, 17 Jul 2026 11:00:03 +0000"
         },
         {
             "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
