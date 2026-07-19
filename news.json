@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests (Edward Targett/The Stack)",
+            "link": "https://www.techmeme.com/260719/p13#a260719p13",
+            "published": "Sun, 19 Jul 2026 19:05:02 -0400"
+        },
+        {
+            "title": "Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach (Hugging Face)",
+            "link": "https://www.techmeme.com/260719/p12#a260719p12",
+            "published": "Sun, 19 Jul 2026 18:15:24 -0400"
+        },
+        {
             "title": "Moonshot AI pauses new subscriptions, saying that over the past two days Kimi K3 demand nearly passed the limit of its capacity, and also reworks its plan tiers (@kimi_moonshot)",
             "link": "https://www.techmeme.com/260719/p11#a260719p11",
             "published": "Sun, 19 Jul 2026 16:55:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Kalshi and Polymarket bets on the FIFA World Cup final top $5.69B; Dune Analytics says total wagers on the platforms surpassed $50B for the first time in June (Lauren McCarthy/New York Times)",
             "link": "https://www.techmeme.com/260719/p9#a260719p9",
             "published": "Sun, 19 Jul 2026 13:30:01 -0400"
-        },
-        {
-            "title": "Sources: Apple is piloting a system in Apple Stores called Live Notes that lets Genius Bar staff make transcripts and summaries of conversations with customers (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260719/p8#a260719p8",
-            "published": "Sun, 19 Jul 2026 11:50:03 -0400"
-        },
-        {
-            "title": "Alibaba launches a 2.4T parameter Qwen3.8 Max preview that it says rivals frontier AI models and is second only to Fable 5, plans to make it \"open-weight soon\" (Bloomberg)",
-            "link": "https://www.techmeme.com/260719/p7#a260719p7",
-            "published": "Sun, 19 Jul 2026 10:10:00 -0400"
         }
     ],
     "source_1": [
