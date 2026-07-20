@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sensor Tower: in H1, the number of new apps released in the App Store doubled to ~560K, on track to pass 2025's ~600K total, as vibecoded apps flood the store (Kalley Huang/New York Times)",
-            "link": "https://www.techmeme.com/260720/p22#a260720p22",
-            "published": "Mon, 20 Jul 2026 10:25:01 -0400"
+            "title": "Levent Alp\u00f6ge, a mathematician who works at Anthropic, says he was able to disprove the 87-year-old Jacobian conjecture with the help of Fable 5 (Matthew Sparkes/New Scientist)",
+            "link": "https://www.techmeme.com/260720/p28#a260720p28",
+            "published": "Mon, 20 Jul 2026 12:25:06 -0400"
         },
         {
-            "title": "UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 (Delphine Strauss/Financial Times)",
-            "link": "https://www.techmeme.com/260720/p21#a260720p21",
-            "published": "Mon, 20 Jul 2026 09:31:03 -0400"
+            "title": "Infinity, founded by Jeremy Nixon, the creator of hacker network community AGI House, to build an inference library that runs on all chips, raised a $15M seed (Dominic-Madori Davis/TechCrunch)",
+            "link": "https://www.techmeme.com/260720/p27#a260720p27",
+            "published": "Mon, 20 Jul 2026 11:50:02 -0400"
         },
         {
-            "title": "AMD plans to ship Helios, its first rack-scale AI system to rival Nvidia, later in 2026 to Microsoft, Meta, OpenAI, and others; Helios costs an estimated $5M+ (Katie Tarasov/CNBC)",
-            "link": "https://www.techmeme.com/260720/p20#a260720p20",
-            "published": "Mon, 20 Jul 2026 09:16:00 -0400"
+            "title": "CAISI Director Chris Fall is resigning after taking over the federal AI testing institute in April; NIST Director Arvind Raman will serve as acting director (Maria Curi/Axios)",
+            "link": "https://www.techmeme.com/260720/p26#a260720p26",
+            "published": "Mon, 20 Jul 2026 11:26:24 -0400"
         },
         {
-            "title": "Sources: Google is developing a specialized server chip, informally dubbed \"Frozen v2\", that integrates its Gemini AI model blueprint into the silicon, for 2028 (The Information)",
-            "link": "https://www.techmeme.com/260720/p19#a260720p19",
-            "published": "Mon, 20 Jul 2026 09:10:01 -0400"
+            "title": "Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M (Golan Hazani/CTech)",
+            "link": "https://www.techmeme.com/260720/p25#a260720p25",
+            "published": "Mon, 20 Jul 2026 11:25:02 -0400"
         },
         {
-            "title": "How \"synthetic insider\" attacks raise the stakes for corporate cyber defense; a Verizon analysis of ~22K incidents found 12% were carried out by internal actors (Hannah Murphy/Financial Times)",
-            "link": "https://www.techmeme.com/260720/p18#a260720p18",
-            "published": "Mon, 20 Jul 2026 07:55:01 -0400"
+            "title": "Billionaire-backed Building A Better California reserves $87M in TV ad time to oppose California's proposed one-time wealth tax; Sergey Brin put $82M into BABC (New York Times)",
+            "link": "https://www.techmeme.com/260720/p24#a260720p24",
+            "published": "Mon, 20 Jul 2026 11:05:00 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "Ofcom to take no further legal action against suicide forum",
+            "link": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 20 Jul 2026 16:37:22 GMT"
+        },
+        {
             "title": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
             "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Jul 2026 13:44:55 GMT"
+            "published": "Mon, 20 Jul 2026 15:22:54 GMT"
         },
         {
             "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
@@ -73,11 +78,6 @@
             "title": "TikTok faces Ofcom investigation over child age checks",
             "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 16 Jul 2026 11:08:33 GMT"
-        },
-        {
-            "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-            "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 16 Jul 2026 10:52:26 GMT"
         }
     ]
 }
