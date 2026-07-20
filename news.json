@@ -1,32 +1,47 @@
 {
     "techmeme": [
         {
-            "title": "How PayPal CEO Enrique Lores, appointed earlier in 2026 to revive the payments pioneer, may handle Stripe and Advent's takeover offer, based on his HP tenure (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260720/p14#a260720p14",
-            "published": "Mon, 20 Jul 2026 06:35:01 -0400"
+            "title": "Sensor Tower: in H1, the number of new apps released in the App Store doubled to ~560K, on track to pass 2025's ~600K total, as vibecoded apps flood the store (Kalley Huang/New York Times)",
+            "link": "https://www.techmeme.com/260720/p22#a260720p22",
+            "published": "Mon, 20 Jul 2026 10:25:01 -0400"
         },
         {
-            "title": "The EU fines Alibaba's online marketplace AliExpress \u20ac550M for failing to do enough to prevent the sale of illegal products, the largest DSA fine to date (Barbara Moens/Financial Times)",
-            "link": "https://www.techmeme.com/260720/p13#a260720p13",
-            "published": "Mon, 20 Jul 2026 06:11:16 -0400"
+            "title": "UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 (Delphine Strauss/Financial Times)",
+            "link": "https://www.techmeme.com/260720/p21#a260720p21",
+            "published": "Mon, 20 Jul 2026 09:31:03 -0400"
         },
         {
-            "title": "Sources: Chinese startup Moonshot AI is seeking formal approval from investors to start a Hong Kong IPO process, which could happen in as soon as six months (Juro Osawa/The Information)",
-            "link": "https://www.techmeme.com/260720/p12#a260720p12",
-            "published": "Mon, 20 Jul 2026 05:50:01 -0400"
+            "title": "AMD plans to ship Helios, its first rack-scale AI system to rival Nvidia, later in 2026 to Microsoft, Meta, OpenAI, and others; Helios costs an estimated $5M+ (Katie Tarasov/CNBC)",
+            "link": "https://www.techmeme.com/260720/p20#a260720p20",
+            "published": "Mon, 20 Jul 2026 09:16:00 -0400"
         },
         {
-            "title": "A look at Israel's influence campaign in the US that's included millions of AI-driven texts and a $45M+ contract with ex-Trump campaign strategist Brad Parscale (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260720/p11#a260720p11",
-            "published": "Mon, 20 Jul 2026 04:50:00 -0400"
+            "title": "Sources: Google is developing a specialized server chip, informally dubbed \"Frozen v2\", that integrates its Gemini AI model blueprint into the silicon, for 2028 (The Information)",
+            "link": "https://www.techmeme.com/260720/p19#a260720p19",
+            "published": "Mon, 20 Jul 2026 09:10:01 -0400"
         },
         {
-            "title": "Trial lawyers, with big liability litigation earnings, are among the most active lobbyists against autonomous vehicles, even as data shows clear safety benefits (Alex Tabarrok/Marginal Revolution)",
-            "link": "https://www.techmeme.com/260720/p10#a260720p10",
-            "published": "Mon, 20 Jul 2026 04:10:03 -0400"
+            "title": "How \"synthetic insider\" attacks raise the stakes for corporate cyber defense; a Verizon analysis of ~22K incidents found 12% were carried out by internal actors (Hannah Murphy/Financial Times)",
+            "link": "https://www.techmeme.com/260720/p18#a260720p18",
+            "published": "Mon, 20 Jul 2026 07:55:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Google\u2019s A.I. Search Is Imperiling the Open Web",
+            "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
+            "published": "Mon, 20 Jul 2026 14:04:16 +0000"
+        },
+        {
+            "title": "\u2018Vibecoded\u2019 Apps Are Flooding Apple\u2019s App Store",
+            "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
+            "published": "Mon, 20 Jul 2026 14:02:31 +0000"
+        },
+        {
+            "title": "Why Silicon Valley Can\u2019t Stop Looking Over Its Shoulder at China",
+            "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+            "published": "Mon, 20 Jul 2026 09:02:12 +0000"
+        },
         {
             "title": "The \u2018Bad Blood\u2019 Between Polymarket\u2019s Shayne Coplan and Kalshi\u2019s Tarek Mansour",
             "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
@@ -36,24 +51,14 @@
             "title": "Politicians Are Trying to Change What Chatbots Say About Them",
             "link": "https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html",
             "published": "Sun, 19 Jul 2026 16:15:05 +0000"
-        },
-        {
-            "title": "China\u2019s Moonshot AI Unveils Kimi Model, Threatening America\u2019s Lead",
-            "link": "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html",
-            "published": "Fri, 17 Jul 2026 20:04:57 +0000"
-        },
-        {
-            "title": "The A.I. Trade Secrets War + Economists Say \u2018We Must Act Now\u2019 + HatGPT",
-            "link": "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html",
-            "published": "Fri, 17 Jul 2026 11:00:03 +0000"
-        },
-        {
-            "title": "Why Silicon Valley Can\u2019t Stop Looking Over Its Shoulder at China",
-            "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-            "published": "Mon, 20 Jul 2026 09:02:12 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
+            "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 20 Jul 2026 13:44:55 GMT"
+        },
         {
             "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
             "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
             "link": "https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 16 Jul 2026 10:52:26 GMT"
-        },
-        {
-            "title": "SpaceX share price drops below stock market debut",
-            "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 15 Jul 2026 18:11:57 GMT"
         }
     ]
 }
