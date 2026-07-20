@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "X relaunches its Android app after a year-long rewrite from scratch; Nikita Bier calls it \"one of the largest engineering projects\" in the company's history (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/260720/p36#a260720p36",
+            "published": "Mon, 20 Jul 2026 16:25:03 -0400"
+        },
+        {
+            "title": "Taiwan indicts a former TSMC executive for allegedly stealing trade secrets, in what authorities say is the first National Security Act case involving China (Cheng Ting-Fang/Nikkei Asia)",
+            "link": "https://www.techmeme.com/260720/p35#a260720p35",
+            "published": "Mon, 20 Jul 2026 16:05:01 -0400"
+        },
+        {
+            "title": "Natural, which aims to help companies let their AI agents make autonomous payments, raised a $30M Series A led by Forerunner, bringing its total raised to $40M (Marina Temkin/TechCrunch)",
+            "link": "https://www.techmeme.com/260720/p34#a260720p34",
+            "published": "Mon, 20 Jul 2026 15:40:01 -0400"
+        },
+        {
             "title": "OpenAI paused internal access to an unreleased model that disproved the Erd\u0151s unit distance conjecture after it repeatedly found ways to act outside its sandbox (OpenAI)",
             "link": "https://www.techmeme.com/260720/p33#a260720p33",
             "published": "Mon, 20 Jul 2026 14:10:00 -0400"
@@ -9,28 +24,13 @@
             "title": "Anduril and Archer unveil an autonomous aircraft platform designed for commercial and military uses, along with an autonomous attack rotorcraft called Thunder (Reuters)",
             "link": "https://www.techmeme.com/260720/p32#a260720p32",
             "published": "Mon, 20 Jul 2026 13:50:02 -0400"
-        },
-        {
-            "title": "Cybersecurity companies say hackers are exploiting vulnerable WordPress versions to take over websites; WordPress patched two critical security flaws last week (Lorenzo Franceschi-Bicchierai/TechCrunch)",
-            "link": "https://www.techmeme.com/260720/p31#a260720p31",
-            "published": "Mon, 20 Jul 2026 13:20:02 -0400"
-        },
-        {
-            "title": "Source: Z.ai completed construction of a 1 GW data center housing only Chinese chips; Z.ai has built or operates several computing clusters each with 10K+ chips (Bloomberg)",
-            "link": "https://www.techmeme.com/260720/p30#a260720p30",
-            "published": "Mon, 20 Jul 2026 12:55:01 -0400"
-        },
-        {
-            "title": "Chicago-based Empirical Security, which uses AI to help companies predict threats by monitoring exploited vulnerabilities, raised a $25M Series A (Chris Metinko/Axios)",
-            "link": "https://www.techmeme.com/260720/p29#a260720p29",
-            "published": "Mon, 20 Jul 2026 12:50:05 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How Google\u2019s A.I. Search Is Imperiling the Open Web",
             "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
-            "published": "Mon, 20 Jul 2026 14:04:16 +0000"
+            "published": "Mon, 20 Jul 2026 19:06:27 +0000"
         },
         {
             "title": "A.I. \u2018Vibecoded\u2019 Apps Are Flooding Apple\u2019s App Store",
@@ -50,10 +50,15 @@
         {
             "title": "Judge Temporarily Pauses Paramount-Warner Bros. Deal",
             "link": "https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html",
-            "published": "Mon, 20 Jul 2026 17:23:59 +0000"
+            "published": "Mon, 20 Jul 2026 20:07:18 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Thousands of websites taken down for illegal World Cup streams",
+            "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 20 Jul 2026 20:08:56 GMT"
+        },
         {
             "title": "Ofcom unable to take further legal action against suicide forum",
             "link": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Trump Media to sell instant access to 'market-moving' social posts",
             "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 17 Jul 2026 07:25:31 GMT"
-        },
-        {
-            "title": "TikTok faces Ofcom investigation over child age checks",
-            "link": "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 16 Jul 2026 11:08:33 GMT"
         }
     ]
 }
