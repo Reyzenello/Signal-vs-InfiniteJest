@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI says the Hugging Face breach was driven by its models, including GPT-5.6 Sol and \"an even more capable pre-release model\", escaping their sandbox (Ina Fried/Axios)",
+            "link": "https://www.techmeme.com/260721/p43#a260721p43",
+            "published": "Tue, 21 Jul 2026 15:55:02 -0400"
+        },
+        {
+            "title": "Poolside launches Laguna S 2.1, an 118B open-weight model built for agentic coding and long-horizon work, that it says competes with larger open models (Iain Martin/Forbes)",
+            "link": "https://www.techmeme.com/260721/p42#a260721p42",
+            "published": "Tue, 21 Jul 2026 15:15:01 -0400"
+        },
+        {
             "title": "Some Instagram and Facebook users say Meta's AI moderation deleted their accounts; Meta says AI makes 13% fewer errors and finds 10% more violations than humans (New York Times)",
             "link": "https://www.techmeme.com/260721/p41#a260721p41",
             "published": "Tue, 21 Jul 2026 14:20:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more (Block)",
             "link": "https://www.techmeme.com/260721/p39#a260721p39",
             "published": "Tue, 21 Jul 2026 13:30:01 -0400"
-        },
-        {
-            "title": "NJ Governor says a software error at DMV led to the improper voter registration of ~6,600 noncitizens between June 2023 and June 2024; 400 of those cast ballots (Tracey Tully/New York Times)",
-            "link": "https://www.techmeme.com/260721/p38#a260721p38",
-            "published": "Tue, 21 Jul 2026 13:15:02 -0400"
-        },
-        {
-            "title": "Federal lobbying disclosures: Anthropic spent $1.97M in Q2, up 26% QoQ, and OpenAI spent $1.2M, up 18%; Meta remained the largest spender at $5.99M, down 15% (Luke Fountain/CNBC)",
-            "link": "https://www.techmeme.com/260721/p37#a260721p37",
-            "published": "Tue, 21 Jul 2026 13:10:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Google Releases Three New Gemini A.I. Models",
             "link": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
-            "published": "Tue, 21 Jul 2026 15:00:08 +0000"
+            "published": "Tue, 21 Jul 2026 19:38:58 +0000"
         },
         {
             "title": "How Google\u2019s A.I. Search Is Imperiling the Open Web",
