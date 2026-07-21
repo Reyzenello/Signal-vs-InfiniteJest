@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "US Treasury Secretary Scott Bessent says the Trump administration is looking into Chinese AI models over distillation claims and it could \"sanction them\" (Ashley Capoot/CNBC)",
-            "link": "https://www.techmeme.com/260721/p21#a260721p21",
-            "published": "Tue, 21 Jul 2026 09:55:00 -0400"
+            "title": "Analysis: every frontier AI model tested in cybersecurity evaluations attempted to \"cheat\", led by GPT-5.4 at 14.1% of tasks; Mythos cheated the least, at 7.8% (AI Security Institute)",
+            "link": "https://www.techmeme.com/260721/p35#a260721p35",
+            "published": "Tue, 21 Jul 2026 12:35:01 -0400"
         },
         {
-            "title": "Intel and Fortinet partner to co-develop the Fortinet Security Processor 6, making Fortinet the first named external customer for the Intel 4 process node (Luke James/Tom's Hardware)",
-            "link": "https://www.techmeme.com/260721/p20#a260721p20",
-            "published": "Tue, 21 Jul 2026 09:40:01 -0400"
+            "title": "Apple says it fixed a vulnerability in its Hide My Email tool that let anyone see a user's real email address; researchers first reported the issue in June 2025 (Joseph Cox/404 Media)",
+            "link": "https://www.techmeme.com/260721/p34#a260721p34",
+            "published": "Tue, 21 Jul 2026 12:20:02 -0400"
         },
         {
-            "title": "Garmin launches the Cirqa Smart Band, a $200 screenless fitness tracker that monitors 80+ activities with an up to 10 day battery life, to compete with Whoop (Dana Wollman/Bloomberg)",
-            "link": "https://www.techmeme.com/260721/p19#a260721p19",
-            "published": "Tue, 21 Jul 2026 09:20:01 -0400"
+            "title": "Meta quietly releases StoryKit, a new mobile app that uses AI to create personalized children's stories, including illustrations and original music, in Mexico (Zac Hall/9to5Mac)",
+            "link": "https://www.techmeme.com/260721/p33#a260721p33",
+            "published": "Tue, 21 Jul 2026 12:15:00 -0400"
         },
         {
-            "title": "OpenAI says it now has 10M people using Codex and ChatGPT Work, nearly doubling usage from earlier this month when the company announced ChatGPT Work (Shirin Ghaffary/Bloomberg)",
-            "link": "https://www.techmeme.com/260721/p18#a260721p18",
-            "published": "Tue, 21 Jul 2026 09:10:01 -0400"
+            "title": "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic (Blake Brittain/Reuters)",
+            "link": "https://www.techmeme.com/260721/p32#a260721p32",
+            "published": "Tue, 21 Jul 2026 12:10:03 -0400"
         },
         {
-            "title": "Databricks co-founder Ion Stoica's GPU orchestration startup SkyPilot, which aims to be neutral across hardware and cloud vendors, raised a $20M seed led by Lux (Lily Mae Lazarus/Fortune)",
-            "link": "https://www.techmeme.com/260721/p17#a260721p17",
-            "published": "Tue, 21 Jul 2026 09:00:13 -0400"
+            "title": "OpenAI executive Chris Lehane says Sam Altman plans to brief the Trump administration and US lawmakers next week on the company's upcoming generation of models (Maggie Eastland/Bloomberg)",
+            "link": "https://www.techmeme.com/260721/p31#a260721p31",
+            "published": "Tue, 21 Jul 2026 11:55:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+            "link": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html",
+            "published": "Tue, 21 Jul 2026 15:31:11 +0000"
+        },
+        {
+            "title": "Google Releases Three New Gemini A.I. Models",
+            "link": "https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html",
+            "published": "Tue, 21 Jul 2026 15:00:08 +0000"
+        },
         {
             "title": "How Google\u2019s A.I. Search Is Imperiling the Open Web",
             "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
@@ -36,16 +46,6 @@
             "title": "A.I. \u2018Vibecoded\u2019 Apps Are Flooding Apple\u2019s App Store",
             "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
             "published": "Mon, 20 Jul 2026 14:02:31 +0000"
-        },
-        {
-            "title": "Why Silicon Valley Can\u2019t Stop Looking Over Its Shoulder at China",
-            "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
-            "published": "Mon, 20 Jul 2026 09:02:12 +0000"
-        },
-        {
-            "title": "The \u2018Bad Blood\u2019 Between Polymarket\u2019s Shayne Coplan and Kalshi\u2019s Tarek Mansour",
-            "link": "https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html",
-            "published": "Sun, 19 Jul 2026 14:07:55 +0000"
         },
         {
             "title": "When Listening to Music Was a Team Sport",
