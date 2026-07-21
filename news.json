@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI says the Hugging Face breach was driven by its models, including GPT-5.6 Sol and \"an even more capable pre-release model\", escaping their sandbox (Ina Fried/Axios)",
-            "link": "https://www.techmeme.com/260721/p43#a260721p43",
-            "published": "Tue, 21 Jul 2026 15:55:02 -0400"
+            "title": "OpenAI renews its investment in the American Journalism Project by committing an additional $5M in funding and $3M in tech credits over the next two years (Sara Fischer/Axios)",
+            "link": "https://www.techmeme.com/260721/p49#a260721p49",
+            "published": "Tue, 21 Jul 2026 17:50:03 -0400"
         },
         {
-            "title": "Poolside launches Laguna S 2.1, an 118B open-weight model built for agentic coding and long-horizon work, that it says competes with larger open models (Iain Martin/Forbes)",
-            "link": "https://www.techmeme.com/260721/p42#a260721p42",
-            "published": "Tue, 21 Jul 2026 15:15:01 -0400"
+            "title": "OpenAI adds Nubank founder and CEO David V\u00e9lez and BNY CEO Robin Vince to its board of directors, as the company moves toward a public listing (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260721/p48#a260721p48",
+            "published": "Tue, 21 Jul 2026 17:45:00 -0400"
         },
         {
-            "title": "Some Instagram and Facebook users say Meta's AI moderation deleted their accounts; Meta says AI makes 13% fewer errors and finds 10% more violations than humans (New York Times)",
-            "link": "https://www.techmeme.com/260721/p41#a260721p41",
-            "published": "Tue, 21 Jul 2026 14:20:02 -0400"
+            "title": "OpenAI says its models chained vulnerabilities across its research environment and Hugging Face's infrastructure to find solutions for the ExploitGym benchmark (OpenAI)",
+            "link": "https://www.techmeme.com/260721/p47#a260721p47",
+            "published": "Tue, 21 Jul 2026 17:40:06 -0400"
         },
         {
-            "title": "Substack partners with AI-detection tool Pangram, allowing users to scan text longer than 100 words for an estimate of how much was written with AI assistance (Chris Best/The Substack Post)",
-            "link": "https://www.techmeme.com/260721/p40#a260721p40",
-            "published": "Tue, 21 Jul 2026 14:05:01 -0400"
+            "title": "Cisco releases Antares-350M and Antares-1B, two open-weight AI models to find known vulnerabilities within a codebase, and plans to release Antares-3B soon (Sam Sabin/Axios)",
+            "link": "https://www.techmeme.com/260721/p46#a260721p46",
+            "published": "Tue, 21 Jul 2026 17:05:01 -0400"
         },
         {
-            "title": "Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more (Block)",
-            "link": "https://www.techmeme.com/260721/p39#a260721p39",
-            "published": "Tue, 21 Jul 2026 13:30:01 -0400"
+            "title": "Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours (Juby Babu/Reuters)",
+            "link": "https://www.techmeme.com/260721/p45#a260721p45",
+            "published": "Tue, 21 Jul 2026 16:50:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+            "link": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
+            "published": "Tue, 21 Jul 2026 21:27:31 +0000"
+        },
         {
             "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
             "link": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html",
@@ -41,11 +46,6 @@
             "title": "How Google\u2019s A.I. Search Is Imperiling the Open Web",
             "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
             "published": "Tue, 21 Jul 2026 01:50:36 +0000"
-        },
-        {
-            "title": "A.I. \u2018Vibecoded\u2019 Apps Are Flooding Apple\u2019s App Store",
-            "link": "https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html",
-            "published": "Mon, 20 Jul 2026 14:02:31 +0000"
         },
         {
             "title": "When Listening to Music Was a Team Sport",
