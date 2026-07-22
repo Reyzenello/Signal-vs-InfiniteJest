@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Cathedral, launched by ex-DOGE staffers to use AI to expand US military cyber capabilities, raised $160M led by a16z and Sequoia at a $1.4B valuation (David Jeans/Reuters)",
-            "link": "https://www.techmeme.com/260722/p40#a260722p40",
-            "published": "Wed, 22 Jul 2026 14:05:01 -0400"
+            "title": "Alphabet reports YouTube's Q2 ad revenue rose 13% YoY to $11.06B, vs. $10.8B est., and Google's ad revenue reached $81.63B, up from $71.34B in Q2 2025 (Todd Spangler/Variety)",
+            "link": "https://www.techmeme.com/260722/p47#a260722p47",
+            "published": "Wed, 22 Jul 2026 16:12:26 -0400"
         },
         {
-            "title": "Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation (Emma Hinchliffe/Fortune)",
-            "link": "https://www.techmeme.com/260722/p39#a260722p39",
-            "published": "Wed, 22 Jul 2026 13:55:01 -0400"
+            "title": "Alphabet reports Q2 revenue up 24% YoY to $119.8B, above $116.9B est., Google Cloud revenue up 82% YoY to $24.8B, and Services revenues up 15% to $94.5B (Alphabet)",
+            "link": "https://www.techmeme.com/260722/p46#a260722p46",
+            "published": "Wed, 22 Jul 2026 16:10:02 -0400"
         },
         {
-            "title": "Cashea, Venezuela's largest fintech startup that offers a banking and payments app, raised a $40M Series A, including $20M in debt, and a $60M Series B (Maria Clara Cobo/Bloomberg)",
-            "link": "https://www.techmeme.com/260722/p38#a260722p38",
-            "published": "Wed, 22 Jul 2026 13:35:01 -0400"
+            "title": "OpenAI President Greg Brockman says Kimi K3 is a \"pretty good model\" but it is \"too early\" to tell whether Moonshot used distillation on OpenAI's models (Shirin Ghaffary/Bloomberg)",
+            "link": "https://www.techmeme.com/260722/p45#a260722p45",
+            "published": "Wed, 22 Jul 2026 15:55:01 -0400"
         },
         {
-            "title": "Arcee, which develops open-weight models in the US, partners with the Department of Energy to build Genesis-Science-1, an open model for scientific research (Catherine Perloff/The Information)",
-            "link": "https://www.techmeme.com/260722/p37#a260722p37",
-            "published": "Wed, 22 Jul 2026 13:10:01 -0400"
+            "title": "Source: Stripe revenue jumped by a third to $6.8B in 2025, its fastest revenue growth since 2021, with free cash flow up 52% to $3.2B (Yueqi Yang/The Information)",
+            "link": "https://www.techmeme.com/260722/p44#a260722p44",
+            "published": "Wed, 22 Jul 2026 15:50:02 -0400"
         },
         {
-            "title": "A US judge dismisses Google's lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law (Barry Schwartz/Search Engine Roundtable)",
-            "link": "https://www.techmeme.com/260722/p36#a260722p36",
-            "published": "Wed, 22 Jul 2026 12:50:01 -0400"
+            "title": "Travis Kalanick's robotics startup Atoms raised $1.7B led by a16z, with Uber and others participating; Ben Horowitz will join the startup's board (Sean O'Kane/TechCrunch)",
+            "link": "https://www.techmeme.com/260722/p43#a260722p43",
+            "published": "Wed, 22 Jul 2026 15:05:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Lawsuit Against Meta Over Social Media Addiction Is Dropped",
+            "link": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html",
+            "published": "Wed, 22 Jul 2026 18:47:14 +0000"
+        },
         {
             "title": "OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library",
             "link": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
@@ -43,17 +48,17 @@
             "published": "Tue, 21 Jul 2026 19:38:58 +0000"
         },
         {
-            "title": "How Google\u2019s A.I. Search Is Imperiling the Open Web",
-            "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
-            "published": "Tue, 21 Jul 2026 01:50:36 +0000"
-        },
-        {
             "title": "When Listening to Music Was a Team Sport",
             "link": "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html",
             "published": "Tue, 21 Jul 2026 09:01:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Teenager drops social media addiction lawsuit against Meta",
+            "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 22 Jul 2026 19:04:47 GMT"
+        },
         {
             "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
             "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Ofcom unable to take further legal action against suicide forum",
             "link": "https://www.bbc.co.uk/news/articles/c3d3ejgdm20o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 20 Jul 2026 16:57:30 GMT"
-        },
-        {
-            "title": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
-            "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Jul 2026 15:22:54 GMT"
         }
     ]
 }
