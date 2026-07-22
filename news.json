@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket's US-banned global platform (Bloomberg)",
+            "link": "https://www.techmeme.com/260722/p4#a260722p4",
+            "published": "Wed, 22 Jul 2026 02:35:27 -0400"
+        },
+        {
+            "title": "TSMC forecasts \"several years\" of margin dilution as overseas fab projects ramp up; the company has announced $200B in investment into US manufacturing (Kai Nicol-Schwarz/CNBC)",
+            "link": "https://www.techmeme.com/260722/p3#a260722p3",
+            "published": "Wed, 22 Jul 2026 01:30:01 -0400"
+        },
+        {
+            "title": "Chinese AI models account for ~60% of token usage by US companies on OpenRouter, making restrictions harder to impose without disrupting US users and businesses (Nectar Gan/Bloomberg)",
+            "link": "https://www.techmeme.com/260722/p2#a260722p2",
+            "published": "Wed, 22 Jul 2026 01:05:24 -0400"
+        },
+        {
+            "title": "Sources: Samsung may invest up to \u20ac1B in Mistral as part of a broader round valuing it at ~\u20ac20B, after previously backing the AI startup through its venture arm (Financial Times)",
+            "link": "https://www.techmeme.com/260722/p1#a260722p1",
+            "published": "Wed, 22 Jul 2026 00:40:01 -0400"
+        },
+        {
             "title": "Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending (Amrith Ramkumar/Wall Street Journal)",
             "link": "https://www.techmeme.com/260721/p57#a260721p57",
             "published": "Tue, 21 Jul 2026 23:05:01 -0400"
-        },
-        {
-            "title": "Sources: Reddit, Politico, and others mull cutting Google's access to their content for AI as traffic drops; Reddit signed a $60M/year deal with Google in 2024 (Alexandra Bruell/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260721/p56#a260721p56",
-            "published": "Tue, 21 Jul 2026 22:55:02 -0400"
-        },
-        {
-            "title": "Doc: nearly 200 US utilities, data center developers, and others have signed Trump's pledge to ensure AI energy use doesn't push up consumer electric bills (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260721/p55#a260721p55",
-            "published": "Tue, 21 Jul 2026 20:00:49 -0400"
-        },
-        {
-            "title": "Sources: Alphabet has more than quadrupled its office space in Miami, partially driven by Larry Page's and Sergey Brin's residential real estate purchases (Anna J Kaiser/Bloomberg)",
-            "link": "https://www.techmeme.com/260721/p54#a260721p54",
-            "published": "Tue, 21 Jul 2026 19:50:02 -0400"
-        },
-        {
-            "title": "Trump nominates FCC general counsel Adam Candeub to lead the DOJ's antitrust unit; Candeub, a longtime Big Tech critic, has long sought to challenge Section 230 (Ella Lee/Financial Times)",
-            "link": "https://www.techmeme.com/260721/p53#a260721p53",
-            "published": "Tue, 21 Jul 2026 19:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "Will AI help you do your job or replace you?",
-            "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Jul 2026 23:04:42 GMT"
-        },
-        {
             "title": "AI minister role boosted but tech department axed in Burnham shake-up",
             "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Jul 2026 09:15:55 GMT"
@@ -78,6 +73,11 @@
             "title": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
             "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 20 Jul 2026 15:22:54 GMT"
+        },
+        {
+            "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+            "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 17 Jul 2026 16:53:04 GMT"
         }
     ]
 }
