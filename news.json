@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket's US-banned global platform (Bloomberg)",
-            "link": "https://www.techmeme.com/260722/p4#a260722p4",
-            "published": "Wed, 22 Jul 2026 02:35:27 -0400"
+            "title": "OpenAI's Hugging Face breach is the first known example of a misaligned AI escaping containment and carrying out a hack on a third party, a clear warning shot (Shakeel Hashim/Transformer)",
+            "link": "https://www.techmeme.com/260722/p11#a260722p11",
+            "published": "Wed, 22 Jul 2026 07:25:03 -0400"
         },
         {
-            "title": "TSMC forecasts \"several years\" of margin dilution as overseas fab projects ramp up; the company has announced $200B in investment into US manufacturing (Kai Nicol-Schwarz/CNBC)",
-            "link": "https://www.techmeme.com/260722/p3#a260722p3",
-            "published": "Wed, 22 Jul 2026 01:30:01 -0400"
+            "title": "Jensen Huang says \"these Chinese models are excellent\", \"open-source models that are excellent should be used\", and \"free AI should be great for hardware\" (Zachary Basu/Axios)",
+            "link": "https://www.techmeme.com/260722/p10#a260722p10",
+            "published": "Wed, 22 Jul 2026 07:06:03 -0400"
         },
         {
-            "title": "Chinese AI models account for ~60% of token usage by US companies on OpenRouter, making restrictions harder to impose without disrupting US users and businesses (Nectar Gan/Bloomberg)",
-            "link": "https://www.techmeme.com/260722/p2#a260722p2",
-            "published": "Wed, 22 Jul 2026 01:05:24 -0400"
+            "title": "Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation (Jagmeet Singh/TechCrunch)",
+            "link": "https://www.techmeme.com/260722/p9#a260722p9",
+            "published": "Wed, 22 Jul 2026 06:40:01 -0400"
         },
         {
-            "title": "Sources: Samsung may invest up to \u20ac1B in Mistral as part of a broader round valuing it at ~\u20ac20B, after previously backing the AI startup through its venture arm (Financial Times)",
-            "link": "https://www.techmeme.com/260722/p1#a260722p1",
-            "published": "Wed, 22 Jul 2026 00:40:01 -0400"
+            "title": "UK publisher Bloomsbury says it is among the beneficiaries of the $1.5B Anthropic settlement; 14,087 of its titles are covered, with ~$3K in compensation each (Anushka Chourasia/Reuters)",
+            "link": "https://www.techmeme.com/260722/p8#a260722p8",
+            "published": "Wed, 22 Jul 2026 06:30:01 -0400"
         },
         {
-            "title": "Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending (Amrith Ramkumar/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260721/p57#a260721p57",
-            "published": "Tue, 21 Jul 2026 23:05:01 -0400"
+            "title": "Neuralink co-founder Max Hodak's Science Corp gets EU approval for Prima, a bionic eye that treats age-related macular degeneration using an implant and glasses (Tim Bradshaw/Financial Times)",
+            "link": "https://www.techmeme.com/260722/p7#a260722p7",
+            "published": "Wed, 22 Jul 2026 06:15:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+            "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 22 Jul 2026 11:40:11 GMT"
+        },
+        {
             "title": "AI minister role boosted but tech department axed in Burnham shake-up",
             "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Jul 2026 09:15:55 GMT"
@@ -73,11 +78,6 @@
             "title": "AliExpress fined record \u20ac550m by EU for allowing sale of illegal goods",
             "link": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 20 Jul 2026 15:22:54 GMT"
-        },
-        {
-            "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-            "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 17 Jul 2026 16:53:04 GMT"
         }
     ]
 }
