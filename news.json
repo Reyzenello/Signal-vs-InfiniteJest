@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Oracle wins a 10-year software contract with the Pentagon worth up to $7B; the contract covers the use of Oracle software in on-premises data centers (Jordan Novet/CNBC)",
-            "link": "https://www.techmeme.com/260723/p49#a260723p49",
-            "published": "Thu, 23 Jul 2026 17:15:01 -0400"
+            "title": "Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation (Bloomberg)",
+            "link": "https://www.techmeme.com/260723/p56#a260723p56",
+            "published": "Thu, 23 Jul 2026 18:55:01 -0400"
         },
         {
-            "title": "Trump says 200 additional stakeholders, including major utilities, joined a voluntary pledge to protect consumers from high energy bills from AI data centers (Josh Boak/Associated Press)",
-            "link": "https://www.techmeme.com/260723/p48#a260723p48",
-            "published": "Thu, 23 Jul 2026 16:50:01 -0400"
+            "title": "AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86% (Phoebe Liu/The Information)",
+            "link": "https://www.techmeme.com/260723/p55#a260723p55",
+            "published": "Thu, 23 Jul 2026 18:40:01 -0400"
         },
         {
-            "title": "Filing: the value of Alphabet's investments in unidentified private companies was ~$124.3B as of June 30, source says driven primarily by its Anthropic stake (Davey Alba/Bloomberg)",
-            "link": "https://www.techmeme.com/260723/p47#a260723p47",
-            "published": "Thu, 23 Jul 2026 16:25:01 -0400"
+            "title": "Nvidia signs a $1.5B accord with Amkor, involving a prepayment by Nvidia to help bolster Amkor's chip packaging facility in Arizona; AMKR jumps 16%+ after hours (Bloomberg)",
+            "link": "https://www.techmeme.com/260723/p54#a260723p54",
+            "published": "Thu, 23 Jul 2026 18:05:01 -0400"
         },
         {
-            "title": "Intel reports Q2 revenue up 25% YoY to $16.1B, vs. $14.42B est., its fastest sales growth in ~15 years on \"unprecedented\" demand; INTC jumps 10%+ after hours (Kif Leswing/CNBC)",
-            "link": "https://www.techmeme.com/260723/p46#a260723p46",
-            "published": "Thu, 23 Jul 2026 16:17:18 -0400"
+            "title": "Sierra acquires Takeoff, which develops \"long-horizon\" agents, for an undisclosed sum; founded in 2025, Takeoff neared $10M in annualized revenue in early July (The Information)",
+            "link": "https://www.techmeme.com/260723/p53#a260723p53",
+            "published": "Thu, 23 Jul 2026 17:50:01 -0400"
         },
         {
-            "title": "Tesla stock closed down 14.52% and Alphabet closed down 6.89% after they signaled increased AI spending, amid worries about the mounting costs of the AI boom (Arjun Kharpal/CNBC)",
-            "link": "https://www.techmeme.com/260723/p45#a260723p45",
-            "published": "Thu, 23 Jul 2026 16:15:00 -0400"
+            "title": "Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260723/p52#a260723p52",
+            "published": "Thu, 23 Jul 2026 17:45:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Intel Benefits From a New Shift in A.I. Spending",
+            "link": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
+            "published": "Thu, 23 Jul 2026 22:09:58 +0000"
+        },
         {
             "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
             "link": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
@@ -41,11 +46,6 @@
             "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
             "link": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
             "published": "Thu, 23 Jul 2026 17:21:31 +0000"
-        },
-        {
-            "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
-            "link": "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html",
-            "published": "Thu, 23 Jul 2026 00:43:11 +0000"
         },
         {
             "title": "Ford Will Use Apple Maps in New Self-Driving System",
