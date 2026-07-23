@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion (Ivan Mehta/TechCrunch)",
-            "link": "https://www.techmeme.com/260723/p41#a260723p41",
-            "published": "Thu, 23 Jul 2026 15:25:02 -0400"
+            "title": "Oracle wins a 10-year software contract with the Pentagon worth up to $7B; the contract covers the use of Oracle software in on-premises data centers (Jordan Novet/CNBC)",
+            "link": "https://www.techmeme.com/260723/p49#a260723p49",
+            "published": "Thu, 23 Jul 2026 17:15:01 -0400"
         },
         {
-            "title": "Foundation Future Industries, backed by Eric Trump, partners with AMD to develop autonomous humanoid robots using the AMD Ryzen AI Embedded X100 Series chips (Aishwarya Jain/Reuters)",
-            "link": "https://www.techmeme.com/260723/p40#a260723p40",
-            "published": "Thu, 23 Jul 2026 15:10:01 -0400"
+            "title": "Trump says 200 additional stakeholders, including major utilities, joined a voluntary pledge to protect consumers from high energy bills from AI data centers (Josh Boak/Associated Press)",
+            "link": "https://www.techmeme.com/260723/p48#a260723p48",
+            "published": "Thu, 23 Jul 2026 16:50:01 -0400"
         },
         {
-            "title": "AegisAI, which uses AI agents to detect AI-driven spear-phishing attacks, raised a $36M Series A led by Battery Ventures, bringing its total funding to $49M (Marina Temkin/TechCrunch)",
-            "link": "https://www.techmeme.com/260723/p39#a260723p39",
-            "published": "Thu, 23 Jul 2026 15:00:36 -0400"
+            "title": "Filing: the value of Alphabet's investments in unidentified private companies was ~$124.3B as of June 30, source says driven primarily by its Anthropic stake (Davey Alba/Bloomberg)",
+            "link": "https://www.techmeme.com/260723/p47#a260723p47",
+            "published": "Thu, 23 Jul 2026 16:25:01 -0400"
         },
         {
-            "title": "AMD unveils the Venice-X CPU, with 1152 MB of 3D V-Cache, 96 cores, and up to 5.15 GHz clock speeds, available in H2 2027 (Jake Roach/Tom's Hardware)",
-            "link": "https://www.techmeme.com/260723/p38#a260723p38",
-            "published": "Thu, 23 Jul 2026 14:40:01 -0400"
+            "title": "Intel reports Q2 revenue up 25% YoY to $16.1B, vs. $14.42B est., its fastest sales growth in ~15 years on \"unprecedented\" demand; INTC jumps 10%+ after hours (Kif Leswing/CNBC)",
+            "link": "https://www.techmeme.com/260723/p46#a260723p46",
+            "published": "Thu, 23 Jul 2026 16:17:18 -0400"
         },
         {
-            "title": "OpenAI expands ChatGPT Health, which helps users with health-related queries and connects to services like Apple Health, to all logged-in US users over 18 (Ivan Mehta/TechCrunch)",
-            "link": "https://www.techmeme.com/260723/p37#a260723p37",
-            "published": "Thu, 23 Jul 2026 14:10:01 -0400"
+            "title": "Tesla stock closed down 14.52% and Alphabet closed down 6.89% after they signaled increased AI spending, amid worries about the mounting costs of the AI boom (Arjun Kharpal/CNBC)",
+            "link": "https://www.techmeme.com/260723/p45#a260723p45",
+            "published": "Thu, 23 Jul 2026 16:15:00 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
             "link": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
-            "published": "Thu, 23 Jul 2026 17:21:30 +0000"
+            "published": "Thu, 23 Jul 2026 17:21:31 +0000"
         },
         {
             "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+            "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Jul 2026 20:58:35 GMT"
+        },
+        {
             "title": "Google and Tesla shares plunge as AI spending rattles markets",
             "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Jul 2026 17:25:10 GMT"
+            "published": "Thu, 23 Jul 2026 20:42:33 GMT"
         },
         {
             "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
@@ -73,11 +78,6 @@
             "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
             "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Jul 2026 11:39:11 GMT"
-        },
-        {
-            "title": "Teenager drops social media addiction lawsuit against Meta",
-            "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Jul 2026 19:04:47 GMT"
         }
     ]
 }
