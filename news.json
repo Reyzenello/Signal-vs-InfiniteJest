@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "STMicro forecasts Q3 revenue up ~16% YoY to $3.7B, below $3.79B est., and expects AI sales to pass $1B in 2026 and be \"well above $2B\" in 2027; STM falls 14%+ (Christina Kyriasoglou/Bloomberg)",
-            "link": "https://www.techmeme.com/260723/p15#a260723p15",
-            "published": "Thu, 23 Jul 2026 06:30:02 -0400"
+            "title": "Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B are under short-term sale restrictions, while $14.1B remain long-term restricted until Q3 2027 (Sarah Frier/Bloomberg)",
+            "link": "https://www.techmeme.com/260723/p21#a260723p21",
+            "published": "Thu, 23 Jul 2026 08:11:05 -0400"
         },
         {
-            "title": "Mark Zuckerberg launches a media campaign positioning the company's AI development as an optimistic, pro-human alternative to its competitors' \"dystopian\" ideas (Sara Fischer/Axios)",
-            "link": "https://www.techmeme.com/260723/p14#a260723p14",
-            "published": "Thu, 23 Jul 2026 06:25:58 -0400"
+            "title": "A Google study using millions of de-identified AI interactions finds AI is helping workers, not replacing them, and much AI use is \"shallow\" for certain tasks (Justin Lahart/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260723/p20#a260723p20",
+            "published": "Thu, 23 Jul 2026 07:56:08 -0400"
         },
         {
-            "title": "Google launches a selfie video sign-in option for account recovery, utilizing tools like liveness detection to mitigate deepfake risks, rolling out globally (Reece Rogers/Wired)",
-            "link": "https://www.techmeme.com/260723/p13#a260723p13",
-            "published": "Thu, 23 Jul 2026 06:20:05 -0400"
+            "title": "Crypto exchange BitMEX says it will shut down on September 23 and users' assets are safe; Trump pardoned its founders in 2025 for failing to implement AML rules (Akanksha Khushi/Reuters)",
+            "link": "https://www.techmeme.com/260723/p19#a260723p19",
+            "published": "Thu, 23 Jul 2026 07:26:05 -0400"
         },
         {
-            "title": "The European Commission fines Google \u20ac890M under the DMA for illegally undercutting competition through its search dominance and Google Play developer rules (New York Times)",
-            "link": "https://www.techmeme.com/260723/p12#a260723p12",
-            "published": "Thu, 23 Jul 2026 06:11:01 -0400"
+            "title": "In a leaked four-hour investor talk, DeepSeek's Liang Wenfeng says the main US-China gap is compute access, Nvidia's CUDA moat is disintegrating, and more (Fred Gao/Inside China)",
+            "link": "https://www.techmeme.com/260723/p18#a260723p18",
+            "published": "Thu, 23 Jul 2026 07:15:01 -0400"
         },
         {
-            "title": "Texas Instruments reports Q2 revenue up 23% YoY to $5.46B, above $5.26B est., net income up 53% to $1.98B, and forecasts $5.65B-$6.15B in Q3 revenue, above est. (Grace Yoon/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260723/p11#a260723p11",
-            "published": "Thu, 23 Jul 2026 06:05:02 -0400"
+            "title": "Bipartisan House lawmakers introduce the AI Kill Switch Act, which would grant the US DHS authority to shut down or throttle AI models that it deems dangerous (Politico)",
+            "link": "https://www.techmeme.com/260723/p17#a260723p17",
+            "published": "Thu, 23 Jul 2026 07:00:32 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
             "link": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html",
-            "published": "Thu, 23 Jul 2026 09:05:32 +0000"
+            "published": "Thu, 23 Jul 2026 12:27:41 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
+            "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Jul 2026 11:39:11 GMT"
+        },
         {
             "title": "Google burning through cash with spiralling AI costs",
             "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "AI minister role boosted but tech department axed in Burnham shake-up",
             "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 21 Jul 2026 09:15:55 GMT"
-        },
-        {
-            "title": "Thousands of websites taken down for illegal World Cup streams",
-            "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 20 Jul 2026 20:08:56 GMT"
         }
     ]
 }
