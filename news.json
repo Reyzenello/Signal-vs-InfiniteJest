@@ -1,59 +1,69 @@
 {
     "techmeme": [
         {
-            "title": "Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B are under short-term sale restrictions, while $14.1B remain long-term restricted until Q3 2027 (Sarah Frier/Bloomberg)",
-            "link": "https://www.techmeme.com/260723/p21#a260723p21",
-            "published": "Thu, 23 Jul 2026 08:11:05 -0400"
+            "title": "AI inference chip startup Etched raised a $300M Series C led by Sequoia, with a16z, SK Hynix, others participating, at a $10.3B valuation, up from $5B in Dec. (Julie Bort/TechCrunch)",
+            "link": "https://www.techmeme.com/260723/p27#a260723p27",
+            "published": "Thu, 23 Jul 2026 11:15:02 -0400"
         },
         {
-            "title": "A Google study using millions of de-identified AI interactions finds AI is helping workers, not replacing them, and much AI use is \"shallow\" for certain tasks (Justin Lahart/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260723/p20#a260723p20",
-            "published": "Thu, 23 Jul 2026 07:56:08 -0400"
+            "title": "The European Commission approves the $55B acquisition of EA by a group of investors including Saudi Arabia's PIF, Silver Lake, and Affinity (Foo Yun Chee/Reuters)",
+            "link": "https://www.techmeme.com/260723/p26#a260723p26",
+            "published": "Thu, 23 Jul 2026 10:40:02 -0400"
         },
         {
-            "title": "Crypto exchange BitMEX says it will shut down on September 23 and users' assets are safe; Trump pardoned its founders in 2025 for failing to implement AML rules (Akanksha Khushi/Reuters)",
-            "link": "https://www.techmeme.com/260723/p19#a260723p19",
-            "published": "Thu, 23 Jul 2026 07:26:05 -0400"
+            "title": "IBM acquires HRL Laboratories from Boeing and General Motors, seeking to integrate HRL's electron spin quantum circuits into its quantum computers (Stephen Nellis/Reuters)",
+            "link": "https://www.techmeme.com/260723/p25#a260723p25",
+            "published": "Thu, 23 Jul 2026 10:30:00 -0400"
         },
         {
-            "title": "In a leaked four-hour investor talk, DeepSeek's Liang Wenfeng says the main US-China gap is compute access, Nvidia's CUDA moat is disintegrating, and more (Fred Gao/Inside China)",
-            "link": "https://www.techmeme.com/260723/p18#a260723p18",
-            "published": "Thu, 23 Jul 2026 07:15:01 -0400"
+            "title": "Amazon is integrating its Luna cloud gaming service into Prime Video via a new Games tab, starting with games like Hogwarts Legacy and EA Sports FC for Fire TV (Alex Weprin/The Hollywood Reporter)",
+            "link": "https://www.techmeme.com/260723/p24#a260723p24",
+            "published": "Thu, 23 Jul 2026 09:15:00 -0400"
         },
         {
-            "title": "Bipartisan House lawmakers introduce the AI Kill Switch Act, which would grant the US DHS authority to shut down or throttle AI models that it deems dangerous (Politico)",
-            "link": "https://www.techmeme.com/260723/p17#a260723p17",
-            "published": "Thu, 23 Jul 2026 07:00:32 -0400"
+            "title": "Ford says Apple's software will be available in its new EVs, helping determine autonomous driving via Apple Maps, and they are working to improve self-driving (Jack Ewing/New York Times)",
+            "link": "https://www.techmeme.com/260723/p23#a260723p23",
+            "published": "Thu, 23 Jul 2026 09:09:18 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
+            "link": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
+            "published": "Thu, 23 Jul 2026 13:17:03 +0000"
+        },
+        {
+            "title": "China Rewrites the \u2018Soft Power\u2019 Playbook for the A.I. Age",
+            "link": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
+            "published": "Thu, 23 Jul 2026 14:31:20 +0000"
+        },
+        {
+            "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
+            "link": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
+            "published": "Thu, 23 Jul 2026 12:33:45 +0000"
+        },
         {
             "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
             "link": "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html",
             "published": "Thu, 23 Jul 2026 00:43:11 +0000"
         },
         {
-            "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
-            "link": "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html",
-            "published": "Wed, 22 Jul 2026 22:18:54 +0000"
-        },
-        {
-            "title": "Tesla Profit Falls Even as Car Sales Rebound",
-            "link": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
-            "published": "Wed, 22 Jul 2026 22:45:06 +0000"
-        },
-        {
-            "title": "Lawsuit Against Meta Over Social Media Addiction Is Dropped",
-            "link": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html",
-            "published": "Wed, 22 Jul 2026 18:47:15 +0000"
-        },
-        {
-            "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
-            "link": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html",
-            "published": "Thu, 23 Jul 2026 12:27:41 +0000"
+            "title": "Ford Will Use Apple Maps in New Self-Driving System",
+            "link": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html",
+            "published": "Thu, 23 Jul 2026 14:28:40 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
+            "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Jul 2026 14:05:27 GMT"
+        },
+        {
+            "title": "Amazon gaming boss predicts future where players no longer need consoles",
+            "link": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Jul 2026 13:24:16 GMT"
+        },
         {
             "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
             "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Teenager drops social media addiction lawsuit against Meta",
             "link": "https://www.bbc.co.uk/news/articles/c5yrdg4q9vgo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 22 Jul 2026 19:04:47 GMT"
-        },
-        {
-            "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-            "link": "https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 22 Jul 2026 11:40:11 GMT"
-        },
-        {
-            "title": "AI minister role boosted but tech department axed in Burnham shake-up",
-            "link": "https://www.bbc.co.uk/news/articles/cz97x8k4zqzo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 21 Jul 2026 09:15:55 GMT"
         }
     ]
 }
