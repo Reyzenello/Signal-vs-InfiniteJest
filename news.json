@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation (Marina Temkin/TechCrunch)",
+            "link": "https://www.techmeme.com/260724/p33#a260724p33",
+            "published": "Fri, 24 Jul 2026 18:40:01 -0400"
+        },
+        {
+            "title": "An appeals court narrowly blocks Texas from enforcing a monitoring and filtering requirement under its children's online safety law, over Section 230 preemption (Jonathan Stempel/Reuters)",
+            "link": "https://www.techmeme.com/260724/p32#a260724p32",
+            "published": "Fri, 24 Jul 2026 18:05:02 -0400"
+        },
+        {
             "title": "Google says it appreciates the engagement by the Trump administration and US government on the EU's $1B fine; Trump called the fine \"illegal\" (Rocio Fabbro/Bloomberg Law)",
             "link": "https://www.techmeme.com/260724/p31#a260724p31",
             "published": "Fri, 24 Jul 2026 16:55:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Cognition acquires the makers of Poke, an AI assistant that users can access via messaging services, in a deal valuing Poke's parent in the \"low nine figures\" (Sarah Perez/TechCrunch)",
             "link": "https://www.techmeme.com/260724/p29#a260724p29",
             "published": "Fri, 24 Jul 2026 16:15:01 -0400"
-        },
-        {
-            "title": "Sources: Waymo is exploring exiting its Uber partnership, with their relationship souring amid an intense lobbying battle over the future of robotaxis (Rafe Rosner-Uddin/Financial Times)",
-            "link": "https://www.techmeme.com/260724/p28#a260724p28",
-            "published": "Fri, 24 Jul 2026 15:45:01 -0400"
-        },
-        {
-            "title": "Paper, which allows designers to connect directly with production code and the AI agents that create it, raised a $34M Series A led by Accel and ICONIQ (Chris Metinko/Axios)",
-            "link": "https://www.techmeme.com/260724/p27#a260724p27",
-            "published": "Fri, 24 Jul 2026 15:35:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+            "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 24 Jul 2026 23:11:13 GMT"
+        },
+        {
             "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
             "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 24 Jul 2026 20:37:21 GMT"
@@ -73,11 +78,6 @@
             "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
             "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Jul 2026 23:10:09 GMT"
-        },
-        {
-            "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
-            "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Jul 2026 20:58:35 GMT"
         }
     ]
 }
