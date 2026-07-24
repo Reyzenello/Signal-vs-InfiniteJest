@@ -1,7 +1,17 @@
 {
     "techmeme": [
         {
-            "title": "India orders GitHub to remove Bitchat, the offline messaging app built by Jack Dorsey that is used by anti-government protesters amid internet blackouts (Shaurya Malwa/CoinDesk)",
+            "title": "Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports (Munsif Vengattil/Reuters)",
+            "link": "https://www.techmeme.com/260724/p12#a260724p12",
+            "published": "Fri, 24 Jul 2026 09:25:03 -0400"
+        },
+        {
+            "title": "Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges (Mat Smith/Engadget)",
+            "link": "https://www.techmeme.com/260724/p11#a260724p11",
+            "published": "Fri, 24 Jul 2026 08:40:00 -0400"
+        },
+        {
+            "title": "India orders GitHub to remove Bitchat, the offline messaging app built by Jack Dorsey that is used by anti-government protestors amid internet blackouts (Shaurya Malwa/CoinDesk)",
             "link": "https://www.techmeme.com/260724/p10#a260724p10",
             "published": "Fri, 24 Jul 2026 07:50:03 -0400"
         },
@@ -14,16 +24,6 @@
             "title": "Poolin, previously regarded as one of the world's largest crypto mining pool providers, files for Chapter 11 and seeks to sell its Texas mining assets for $52M (Brian Danga/The Block)",
             "link": "https://www.techmeme.com/260724/p8#a260724p8",
             "published": "Fri, 24 Jul 2026 07:15:13 -0400"
-        },
-        {
-            "title": "Sources: Shanghai-based GPU maker MetaX confidentially filed for a Hong Kong listing, targeting an IPO by the year-end, amid a surge of fundraising from rivals (Zoe SL Chan/South China Morning Post)",
-            "link": "https://www.techmeme.com/260724/p7#a260724p7",
-            "published": "Fri, 24 Jul 2026 07:10:01 -0400"
-        },
-        {
-            "title": "Preliminary findings: the EU Commission says TikTok's accounts for minors violate the DSA, citing features that could expose children to bullying and predators (Foo Yun Chee/Reuters)",
-            "link": "https://www.techmeme.com/260724/p6#a260724p6",
-            "published": "Fri, 24 Jul 2026 06:55:04 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Meta Launches New Facebook Marketplace App Called Seller",
             "link": "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html",
-            "published": "Fri, 24 Jul 2026 11:00:08 +0000"
+            "published": "Fri, 24 Jul 2026 11:00:09 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Why Jimothy the raccoon has become a mega meme online",
+            "link": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 24 Jul 2026 12:40:47 GMT"
+        },
         {
             "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
             "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Amazon gaming boss predicts future where players no longer need consoles",
             "link": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Jul 2026 13:24:16 GMT"
-        },
-        {
-            "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-            "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Jul 2026 11:39:11 GMT"
         }
     ]
 }
