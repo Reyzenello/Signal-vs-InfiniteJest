@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app (Natalie Lung/Bloomberg)",
-            "link": "https://www.techmeme.com/260724/p16#a260724p16",
-            "published": "Fri, 24 Jul 2026 11:10:01 -0400"
+            "title": "Anthropic says Opus 5 model \"is the least susceptible to being tricked into misuse\"; it is Anthropic's fourth model release in less than two months (Madison Mills/Axios)",
+            "link": "https://www.techmeme.com/260724/p22#a260724p22",
+            "published": "Fri, 24 Jul 2026 13:45:04 -0400"
         },
         {
-            "title": "In their letter defending open-weight AI, tech companies urge lawmakers to avoid \"premature restrictions\" that \"stifle competition or drive innovation overseas\" (Ashley Capoot/CNBC)",
-            "link": "https://www.techmeme.com/260724/p15#a260724p15",
-            "published": "Fri, 24 Jul 2026 10:55:01 -0400"
+            "title": "Meta updates Meta AI with Muse Spark 1.1-powered agentic capabilities, connecting to Gmail and Google Calendar to perform tasks like creating daily updates (Ina Fried/Axios)",
+            "link": "https://www.techmeme.com/260724/p21#a260724p21",
+            "published": "Fri, 24 Jul 2026 13:30:02 -0400"
         },
         {
-            "title": "Sources: Anduril is in talks with investors for a new funding round that could see it valued at around $100B; the company raised $5B at a $61B valuation in May (Reuters)",
-            "link": "https://www.techmeme.com/260724/p14#a260724p14",
-            "published": "Fri, 24 Jul 2026 10:50:02 -0400"
+            "title": "Opus 5 improves coding, reasoning efficiency, and prompt-cache-friendly tool use, and is priced at $5/1M input tokens and $25/1M output, same as Opus 4.8 (David Gewirtz/ZDNET)",
+            "link": "https://www.techmeme.com/260724/p20#a260724p20",
+            "published": "Fri, 24 Jul 2026 13:20:02 -0400"
         },
         {
-            "title": "Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity (Leo Schwartz/The Information)",
-            "link": "https://www.techmeme.com/260724/p13#a260724p13",
-            "published": "Fri, 24 Jul 2026 10:20:00 -0400"
+            "title": "Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max (Anthropic)",
+            "link": "https://www.techmeme.com/260724/p19#a260724p19",
+            "published": "Fri, 24 Jul 2026 13:13:39 -0400"
         },
         {
-            "title": "Delhi High Court rules OpenAI's use of ANI content to train ChatGPT wasn't copyright infringement as the news agency didn't show ChatGPT reproduced its reports (Munsif Vengattil/Reuters)",
-            "link": "https://www.techmeme.com/260724/p12#a260724p12",
-            "published": "Fri, 24 Jul 2026 09:25:03 -0400"
+            "title": "World Foundation, the nonprofit behind the World protocol, raised $52.5M led by Pantera through a strategic sale of its WLD token with a one-year lockup (Yogita Khatri/The Block)",
+            "link": "https://www.techmeme.com/260724/p18#a260724p18",
+            "published": "Fri, 24 Jul 2026 12:20:08 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Intel Benefits From a New Shift in A.I. Spending",
             "link": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
-            "published": "Thu, 23 Jul 2026 22:09:58 +0000"
+            "published": "Thu, 23 Jul 2026 22:09:59 +0000"
         },
         {
             "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "PlayStation Network down, leaving thousands of gamers unable to play",
+            "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 24 Jul 2026 16:59:25 GMT"
+        },
+        {
             "title": "How Jimothy the raccoon became the internet's latest animal obsession",
             "link": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 24 Jul 2026 14:27:46 GMT"
@@ -73,11 +78,6 @@
             "title": "Google and Tesla shares plunge as AI spending rattles markets",
             "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Jul 2026 20:42:33 GMT"
-        },
-        {
-            "title": "Amazon gaming boss predicts future where players no longer need consoles",
-            "link": "https://www.bbc.co.uk/news/articles/c9803j74091o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Jul 2026 13:24:16 GMT"
         }
     ]
 }
