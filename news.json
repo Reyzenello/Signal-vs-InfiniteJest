@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation (Bloomberg)",
-            "link": "https://www.techmeme.com/260723/p56#a260723p56",
-            "published": "Thu, 23 Jul 2026 18:55:01 -0400"
+            "title": "Singapore-based Ropedia, which captures real-world human experience via video and converts it into model-ready multimodal datasets, raised a $22M pre-Series A (Kyt Dotson/SiliconANGLE)",
+            "link": "https://www.techmeme.com/260723/p62#a260723p62",
+            "published": "Thu, 23 Jul 2026 23:20:00 -0400"
         },
         {
-            "title": "AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86% (Phoebe Liu/The Information)",
-            "link": "https://www.techmeme.com/260723/p55#a260723p55",
-            "published": "Thu, 23 Jul 2026 18:40:01 -0400"
+            "title": "Sources: SpaceX started turning away satellite operators seeking dedicated Falcon 9 rides beyond 2028, and stopped building some non-reusable Falcon components (Bloomberg)",
+            "link": "https://www.techmeme.com/260723/p61#a260723p61",
+            "published": "Thu, 23 Jul 2026 22:35:00 -0400"
         },
         {
-            "title": "Nvidia signs a $1.5B accord with Amkor, involving a prepayment by Nvidia to help bolster Amkor's chip packaging facility in Arizona; AMKR jumps 16%+ after hours (Bloomberg)",
-            "link": "https://www.techmeme.com/260723/p54#a260723p54",
-            "published": "Thu, 23 Jul 2026 18:05:01 -0400"
+            "title": "Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of \"synthetic performers\" in ads (Annie Palmer/CNBC)",
+            "link": "https://www.techmeme.com/260723/p60#a260723p60",
+            "published": "Thu, 23 Jul 2026 21:20:00 -0400"
         },
         {
-            "title": "Sierra acquires Takeoff, which develops \"long-horizon\" agents, for an undisclosed sum; founded in 2025, Takeoff neared $10M in annualized revenue in early July (The Information)",
-            "link": "https://www.techmeme.com/260723/p53#a260723p53",
-            "published": "Thu, 23 Jul 2026 17:50:01 -0400"
+            "title": "Google says it has $811B in contracted future spending commitments as of June, up ~$500B from March, covering chips, data centers, electricity, and more (Davey Alba/Bloomberg)",
+            "link": "https://www.techmeme.com/260723/p59#a260723p59",
+            "published": "Thu, 23 Jul 2026 20:45:00 -0400"
         },
         {
-            "title": "Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260723/p52#a260723p52",
-            "published": "Thu, 23 Jul 2026 17:45:01 -0400"
+            "title": "Ukraine ratchets up its attacks on warehouses of Russian e-commerce giant Wildberries, signaling a new phase in the war as it seeks to hamper Russia's economy (Sam Meredith/CNBC)",
+            "link": "https://www.techmeme.com/260723/p58#a260723p58",
+            "published": "Thu, 23 Jul 2026 20:15:05 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "China Rewrites the \u2018Soft Power\u2019 Playbook for the A.I. Age",
             "link": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
-            "published": "Thu, 23 Jul 2026 17:11:03 +0000"
+            "published": "Thu, 23 Jul 2026 17:11:04 +0000"
         },
         {
             "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
@@ -48,12 +48,17 @@
             "published": "Thu, 23 Jul 2026 17:21:31 +0000"
         },
         {
-            "title": "Ford Will Use Apple Maps in New Self-Driving System",
-            "link": "https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html",
-            "published": "Thu, 23 Jul 2026 14:28:40 +0000"
+            "title": "Judge Extends Pause for Paramount-Warner Bros. Deal",
+            "link": "https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html",
+            "published": "Fri, 24 Jul 2026 00:54:28 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
+            "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 23 Jul 2026 23:10:09 GMT"
+        },
         {
             "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
             "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
@@ -63,11 +68,6 @@
             "title": "Google and Tesla shares plunge as AI spending rattles markets",
             "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Jul 2026 20:42:33 GMT"
-        },
-        {
-            "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
-            "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Jul 2026 14:05:27 GMT"
         },
         {
             "title": "Amazon gaming boss predicts future where players no longer need consoles",
