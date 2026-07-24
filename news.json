@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic says Opus 5 model \"is the least susceptible to being tricked into misuse\"; it is Anthropic's fourth model release in less than two months (Madison Mills/Axios)",
-            "link": "https://www.techmeme.com/260724/p22#a260724p22",
-            "published": "Fri, 24 Jul 2026 13:45:04 -0400"
+            "title": "Paper, which allows designers to connect directly with production code and the AI agents that create it, raised a $34M Series A led by Accel and ICONIQ (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/260724/p27#a260724p27",
+            "published": "Fri, 24 Jul 2026 15:35:01 -0400"
         },
         {
-            "title": "Meta updates Meta AI with Muse Spark 1.1-powered agentic capabilities, connecting to Gmail and Google Calendar to perform tasks like creating daily updates (Ina Fried/Axios)",
-            "link": "https://www.techmeme.com/260724/p21#a260724p21",
-            "published": "Fri, 24 Jul 2026 13:30:02 -0400"
+            "title": "The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a \"duress\" passcode that wiped the contents of his GrapheneOS phone (Timothy Pratt/The Guardian)",
+            "link": "https://www.techmeme.com/260724/p26#a260724p26",
+            "published": "Fri, 24 Jul 2026 14:20:03 -0400"
         },
         {
-            "title": "Opus 5 improves coding, reasoning efficiency, and prompt-cache-friendly tool use, and is priced at $5/1M input tokens and $25/1M output, same as Opus 4.8 (David Gewirtz/ZDNET)",
-            "link": "https://www.techmeme.com/260724/p20#a260724p20",
-            "published": "Fri, 24 Jul 2026 13:20:02 -0400"
+            "title": "Trump says the US will initiate a probe into the EU's practice of \"robbing\" US tech giants with fines, threatening the bloc with \"substantial\" tariffs (Kevin Breuninger/CNBC)",
+            "link": "https://www.techmeme.com/260724/p25#a260724p25",
+            "published": "Fri, 24 Jul 2026 14:00:00 -0400"
         },
         {
-            "title": "Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max (Anthropic)",
-            "link": "https://www.techmeme.com/260724/p19#a260724p19",
-            "published": "Fri, 24 Jul 2026 13:13:39 -0400"
+            "title": "Letter: Qualcomm tells customers it plans to raise prices by double digit percentage points, after exhausting its ability to absorb higher costs from suppliers (Ian King/Bloomberg)",
+            "link": "https://www.techmeme.com/260724/p24#a260724p24",
+            "published": "Fri, 24 Jul 2026 13:55:00 -0400"
         },
         {
-            "title": "World Foundation, the nonprofit behind the World protocol, raised $52.5M led by Pantera through a strategic sale of its WLD token with a one-year lockup (Yogita Khatri/The Block)",
-            "link": "https://www.techmeme.com/260724/p18#a260724p18",
-            "published": "Fri, 24 Jul 2026 12:20:08 -0400"
+            "title": "Anthropic expects Opus 5 \"classifiers to intervene around 85% less often than they do for Fable 5\"; Opus 5 is not included in its 30-day data retention policy (Igor Bonifacic/Engadget)",
+            "link": "https://www.techmeme.com/260724/p23#a260724p23",
+            "published": "Fri, 24 Jul 2026 13:50:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Meta Launches New Facebook Marketplace App Called Seller",
             "link": "https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html",
-            "published": "Fri, 24 Jul 2026 11:00:09 +0000"
+            "published": "Fri, 24 Jul 2026 17:44:30 +0000"
         },
         {
             "title": "Intel Benefits From a New Shift in A.I. Spending",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Trump vows to investigate EU over fining of US tech companies",
+            "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 24 Jul 2026 18:57:39 GMT"
+        },
+        {
             "title": "PlayStation Network down, leaving thousands of gamers unable to play",
             "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 24 Jul 2026 16:59:25 GMT"
@@ -73,11 +78,6 @@
             "title": "Lawmakers push for AI 'kill switch' after OpenAI models go rogue",
             "link": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 23 Jul 2026 20:58:35 GMT"
-        },
-        {
-            "title": "Google and Tesla shares plunge as AI spending rattles markets",
-            "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Jul 2026 20:42:33 GMT"
         }
     ]
 }
