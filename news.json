@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10GW data center project that SoftBank is developing in Ohio (Wall Street Journal)",
+            "title": "US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government (M.G. Siegler/Spyglass)",
+            "link": "https://www.techmeme.com/260727/p1#a260727p1",
+            "published": "Mon, 27 Jul 2026 00:00:44 -0400"
+        },
+        {
+            "title": "CXMT shares jumped as much as 470% in its Shanghai debut, giving the memory chipmaker a ~$487B market cap, making it the most valuable China-listed company (Jenny Lee/CNBC)",
+            "link": "https://www.techmeme.com/260726/p13#a260726p13",
+            "published": "Sun, 26 Jul 2026 22:55:01 -0400"
+        },
+        {
+            "title": "How US companies flipped from \"tokenmaxxing\" to \"thrift-maxxing\", mixing cheaper Chinese models with OpenAI and Anthropic, threatening the labs' IPO valuations (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260726/p12#a260726p12",
+            "published": "Sun, 26 Jul 2026 22:45:01 -0400"
+        },
+        {
+            "title": "Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare (Financial Times)",
+            "link": "https://www.techmeme.com/260726/p11#a260726p11",
+            "published": "Sun, 26 Jul 2026 20:55:01 -0400"
+        },
+        {
+            "title": "Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio (Wall Street Journal)",
             "link": "https://www.techmeme.com/260726/p10#a260726p10",
             "published": "Sun, 26 Jul 2026 19:35:02 -0400"
-        },
-        {
-            "title": "How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups (Jamie John/Financial Times)",
-            "link": "https://www.techmeme.com/260726/p9#a260726p9",
-            "published": "Sun, 26 Jul 2026 18:10:01 -0400"
-        },
-        {
-            "title": "India eases foreign investment rules for e-commerce companies, a win for Amazon, which lobbied to buy goods directly from Indian sellers and sell them overseas (Aditya Kalra/Reuters)",
-            "link": "https://www.techmeme.com/260726/p8#a260726p8",
-            "published": "Sun, 26 Jul 2026 16:55:01 -0400"
-        },
-        {
-            "title": "Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers (Ashley Stewart/Business Insider)",
-            "link": "https://www.techmeme.com/260726/p7#a260726p7",
-            "published": "Sun, 26 Jul 2026 15:35:00 -0400"
-        },
-        {
-            "title": "Shein's IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US' \"de minimis\" rule removal (Reuters)",
-            "link": "https://www.techmeme.com/260726/p6#a260726p6",
-            "published": "Sun, 26 Jul 2026 13:15:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Chipmaker CXMT becomes mainland China's most valuable listed firm",
+            "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 27 Jul 2026 04:25:54 GMT"
+        },
+        {
             "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
             "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 25 Jul 2026 10:14:41 GMT"
@@ -73,11 +78,6 @@
             "title": "How Jimothy the raccoon became the internet's latest animal obsession",
             "link": "https://www.bbc.co.uk/news/articles/cd0xnge2zx7o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 24 Jul 2026 14:27:46 GMT"
-        },
-        {
-            "title": "Google fined \u20ac890m by EU for favouring its own apps over rivals",
-            "link": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 23 Jul 2026 23:10:09 GMT"
         }
     ]
 }
