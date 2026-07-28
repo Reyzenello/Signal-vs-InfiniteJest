@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Sources: OpenAI, Anthropic, and DeepMind staffers are sharing a letter asking the US government to \"deliberately pace the frontier of automated AI development\" (Bloomberg)",
+            "title": "Hugging Face publishes a timeline of the OpenAI agent intrusion, including how the agent took ~17.6K actions, and details using GLM-5.2 to analyze the attack (Hugging Face)",
+            "link": "https://www.techmeme.com/260728/p43#a260728p43",
+            "published": "Tue, 28 Jul 2026 17:10:02 -0400"
+        },
+        {
+            "title": "Seagate reports Q4 revenue up 49% YoY to $3.6B, vs. $3.5B est., adjusted earnings of $5.71 a share, above analysts' forecast of $5.10; STX jumps 6%+ after hours (Nate Wolf/Barron's Online)",
+            "link": "https://www.techmeme.com/260728/p42#a260728p42",
+            "published": "Tue, 28 Jul 2026 16:45:01 -0400"
+        },
+        {
+            "title": "The US FCC bans importing Chinese humanoid robots and power inverters to protect the US AI buildout from national security threats and to reshore key industries (Reuters)",
+            "link": "https://www.techmeme.com/260728/p41#a260728p41",
+            "published": "Tue, 28 Jul 2026 16:40:01 -0400"
+        },
+        {
+            "title": "Coursera is investing $100M in LearnVector, a new AI education company founded by Andrew Ng that aims to build AI agents that function as personal tutors (Ina Fried/Axios)",
+            "link": "https://www.techmeme.com/260728/p40#a260728p40",
+            "published": "Tue, 28 Jul 2026 16:15:00 -0400"
+        },
+        {
+            "title": "Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to \"pace\" AI development (Bloomberg)",
             "link": "https://www.techmeme.com/260728/p39#a260728p39",
             "published": "Tue, 28 Jul 2026 15:35:02 -0400"
-        },
-        {
-            "title": "Q&A with Sam Altman on the Hugging Face breach, the race for compute, distillation, open source, concentration of power, robotics, OpenAI's future, and more (Invest Like The Best on YouTube)",
-            "link": "https://www.techmeme.com/260728/p38#a260728p38",
-            "published": "Tue, 28 Jul 2026 14:40:13 -0400"
-        },
-        {
-            "title": "The Agentic AI Foundation updates MCP with a fully stateless architecture, a hardened authentication model, a formal 12-month deprecation policy, and more (Michael Nu\u00f1ez/VentureBeat)",
-            "link": "https://www.techmeme.com/260728/p37#a260728p37",
-            "published": "Tue, 28 Jul 2026 14:35:01 -0400"
-        },
-        {
-            "title": "Mark Zuckerberg argues that superintelligence should be widely distributed as a tool that empowers everyone, rather than centralized in a few institutions (Mark Zuckerberg/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260728/p36#a260728p36",
-            "published": "Tue, 28 Jul 2026 14:20:04 -0400"
-        },
-        {
-            "title": "NYC-based AI startup Runlayer sues Rippling for allegedly stealing trade secrets to \"build essentially a clone\" of Runlayer's safety and governance product (Taylor Herzlich/New York Post)",
-            "link": "https://www.techmeme.com/260728/p35#a260728p35",
-            "published": "Tue, 28 Jul 2026 14:00:37 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "What Is Open-Weight A.I.?",
+            "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
+            "published": "Tue, 28 Jul 2026 20:34:56 +0000"
+        },
+        {
+            "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
+            "link": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
+            "published": "Tue, 28 Jul 2026 17:00:06 +0000"
+        },
+        {
+            "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+            "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+            "published": "Tue, 28 Jul 2026 12:35:43 +0000"
+        },
         {
             "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
             "link": "https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html",
             "published": "Tue, 28 Jul 2026 03:08:45 +0000"
         },
         {
-            "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
-            "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
-            "published": "Mon, 27 Jul 2026 20:34:32 +0000"
-        },
-        {
-            "title": "Microsoft Unveils A.I. Cybersecurity Tools",
-            "link": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
-            "published": "Mon, 27 Jul 2026 16:51:15 +0000"
-        },
-        {
-            "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
-            "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
-            "published": "Mon, 27 Jul 2026 19:54:45 +0000"
-        },
-        {
-            "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
-            "link": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
-            "published": "Tue, 28 Jul 2026 17:00:06 +0000"
+            "title": "Couple Stalked by eBay Settle for $56 Million",
+            "link": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
+            "published": "Tue, 28 Jul 2026 21:02:51 +0000"
         }
     ],
     "source_2": [
