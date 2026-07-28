@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI and Anthropic release statements in support of the \"Pacing the Frontier\" initiative; Anthropic says Dario Amodei and several co-founders have signed it (Anhata Rooprai/Reuters)",
+            "link": "https://www.techmeme.com/260728/p47#a260728p47",
+            "published": "Tue, 28 Jul 2026 18:45:02 -0400"
+        },
+        {
+            "title": "NXP reports Q2 revenue up 19% YoY to $3.5B, vs. $3.46B est., as it struggled to impress investors with a generally upbeat Q3 forecast; NXPI down 5%+ after hours (Christina Kyriasoglou/Bloomberg)",
+            "link": "https://www.techmeme.com/260728/p46#a260728p46",
+            "published": "Tue, 28 Jul 2026 17:55:03 -0400"
+        },
+        {
+            "title": "Sources: the OpenAI agent that breached Hugging Face also compromised a customer at AI infrastructure company Modal Labs (Reuters)",
+            "link": "https://www.techmeme.com/260728/p45#a260728p45",
+            "published": "Tue, 28 Jul 2026 17:45:01 -0400"
+        },
+        {
+            "title": "Bitcoin miner and AI infrastructure company Ionic Digital surged more than 25% to nearly $63 in its Nasdaq debut, giving it an implied valuation of ~$2.75B (Kyle Baird/The Block)",
+            "link": "https://www.techmeme.com/260728/p44#a260728p44",
+            "published": "Tue, 28 Jul 2026 17:20:01 -0400"
+        },
+        {
             "title": "Hugging Face publishes a timeline of the OpenAI agent intrusion, including how the agent took ~17.6K actions, and details using GLM-5.2 to analyze the attack (Hugging Face)",
             "link": "https://www.techmeme.com/260728/p43#a260728p43",
             "published": "Tue, 28 Jul 2026 17:10:02 -0400"
-        },
-        {
-            "title": "Seagate reports Q4 revenue up 49% YoY to $3.6B, vs. $3.5B est., adjusted earnings of $5.71 a share, above analysts' forecast of $5.10; STX jumps 6%+ after hours (Nate Wolf/Barron's Online)",
-            "link": "https://www.techmeme.com/260728/p42#a260728p42",
-            "published": "Tue, 28 Jul 2026 16:45:01 -0400"
-        },
-        {
-            "title": "The US FCC bans importing Chinese humanoid robots and power inverters to protect the US AI buildout from national security threats and to reshore key industries (Reuters)",
-            "link": "https://www.techmeme.com/260728/p41#a260728p41",
-            "published": "Tue, 28 Jul 2026 16:40:01 -0400"
-        },
-        {
-            "title": "Coursera is investing $100M in LearnVector, a new AI education company founded by Andrew Ng that aims to build AI agents that function as personal tutors (Ina Fried/Axios)",
-            "link": "https://www.techmeme.com/260728/p40#a260728p40",
-            "published": "Tue, 28 Jul 2026 16:15:00 -0400"
-        },
-        {
-            "title": "Over 1,100 staffers from AI companies, including John Schulman and OpenAI's Jakub Pachocki, sign a letter requesting the US government to \"pace\" AI development (Bloomberg)",
-            "link": "https://www.techmeme.com/260728/p39#a260728p39",
-            "published": "Tue, 28 Jul 2026 15:35:02 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "What Is Open-Weight A.I.?",
+            "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
+            "link": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
+            "published": "Tue, 28 Jul 2026 22:42:36 +0000"
+        },
+        {
+            "title": "What Is Open-Weights A.I.?",
             "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
-            "published": "Tue, 28 Jul 2026 20:34:56 +0000"
+            "published": "Tue, 28 Jul 2026 22:38:23 +0000"
         },
         {
             "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
@@ -43,17 +48,22 @@
             "published": "Tue, 28 Jul 2026 12:35:43 +0000"
         },
         {
-            "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
-            "link": "https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html",
-            "published": "Tue, 28 Jul 2026 03:08:45 +0000"
-        },
-        {
             "title": "Couple Stalked by eBay Settle for $56 Million",
             "link": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
             "published": "Tue, 28 Jul 2026 21:02:51 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+            "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 23:00:15 GMT"
+        },
+        {
+            "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+            "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 23:00:10 GMT"
+        },
         {
             "title": "Some people's chats with Claude AI found to be publicly available online",
             "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
             "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 27 Jul 2026 07:53:30 GMT"
-        },
-        {
-            "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-            "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 25 Jul 2026 10:14:41 GMT"
-        },
-        {
-            "title": "PlayStation Network outage resolved after thousands of gamers unable to play",
-            "link": "https://www.bbc.co.uk/news/articles/cx2j0wy1gl5o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 24 Jul 2026 20:37:21 GMT"
         }
     ]
 }
