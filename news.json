@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Nvidia signs leases worth up to $50B for Hut 8's planned 1GW data center in Texas, hosting hundreds of thousands of chips; Hut 8 didn't name its client (Financial Times)",
+            "link": "https://www.techmeme.com/260728/p5#a260728p5",
+            "published": "Tue, 28 Jul 2026 05:40:02 -0400"
+        },
+        {
+            "title": "Apple overtakes Nvidia to become the world's most valuable publicly traded company, two years after it lost the crown, closing at a $4.9T market cap on Monday (Kalley Huang/New York Times)",
+            "link": "https://www.techmeme.com/260728/p4#a260728p4",
+            "published": "Tue, 28 Jul 2026 04:25:00 -0400"
+        },
+        {
             "title": "A profile of Justin Sun, who made his fortune in the early phases of crypto, advised for Trump family's WLF, then sued WLF alleging fraud and breach of contract (Jen Wieczner/New York Magazine)",
             "link": "https://www.techmeme.com/260728/p3#a260728p3",
             "published": "Tue, 28 Jul 2026 02:25:01 -0400"
@@ -14,16 +24,6 @@
             "title": "How Chinese platforms like ActID and New Claw are paying people to license their likeness for AI-generated dramas and ads, often using vague licensing terms (Rest of World)",
             "link": "https://www.techmeme.com/260728/p1#a260728p1",
             "published": "Tue, 28 Jul 2026 00:25:01 -0400"
-        },
-        {
-            "title": "At market open Korean chipmakers' stocks plunged, with Samsung Electronics dropping 11%+, SK Hynix down 12%+, and the Korea Composite Stock Price Index down 9%+ (Youkyung Lee/Bloomberg)",
-            "link": "https://www.techmeme.com/260727/p37#a260727p37",
-            "published": "Mon, 27 Jul 2026 22:05:01 -0400"
-        },
-        {
-            "title": "ChatGPT appears to block direct requests to copy an author's style, instead offering to capture the overall \"feeling\", amid its legal battles with book authors (Kyle Orland/Ars Technica)",
-            "link": "https://www.techmeme.com/260727/p36#a260727p36",
-            "published": "Mon, 27 Jul 2026 21:40:01 -0400"
         }
     ],
     "source_1": [
@@ -48,21 +48,21 @@
             "published": "Mon, 27 Jul 2026 19:54:45 +0000"
         },
         {
-            "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
-            "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
-            "published": "Mon, 27 Jul 2026 18:32:35 +0000"
+            "title": "In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.",
+            "link": "https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html",
+            "published": "Tue, 28 Jul 2026 09:02:46 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Some people's chats with Claude AI found to be publicly available online",
+            "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 28 Jul 2026 07:10:37 GMT"
+        },
+        {
             "title": "Is it time to stop using glue and labels on paper?",
             "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 27 Jul 2026 23:00:06 GMT"
-        },
-        {
-            "title": "Some people's chats with Claude AI found publicly available online",
-            "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 27 Jul 2026 22:14:04 GMT"
         },
         {
             "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
