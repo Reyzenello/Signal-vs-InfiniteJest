@@ -1,5 +1,31 @@
 {
-    "techmeme": [],
+    "techmeme": [
+        {
+            "title": "Anthropic says Claude Mythos Preview was able to break a weaker version of AES and it orchestrated another improved attack against HAWK cryptographic system (Dustin Volz/New York Times)",
+            "link": "https://www.techmeme.com/260728/p34#a260728p34",
+            "published": "Tue, 28 Jul 2026 13:30:01 -0400"
+        },
+        {
+            "title": "Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M (Ionut Arghire/SecurityWeek)",
+            "link": "https://www.techmeme.com/260728/p33#a260728p33",
+            "published": "Tue, 28 Jul 2026 12:35:05 -0400"
+        },
+        {
+            "title": "Letter: the US EPA says power plants providing electricity only to data centers and not to the public grid would not be subject to federal pollution laws (Tim McLaughlin/Reuters)",
+            "link": "https://www.techmeme.com/260728/p32#a260728p32",
+            "published": "Tue, 28 Jul 2026 12:20:01 -0400"
+        },
+        {
+            "title": "eBay and several ex-executives agree to pay a $56M settlement to resolve a 2021 civil case involving the 2019 stalking and harassment of two e-commerce bloggers (Annie Palmer/CNBC)",
+            "link": "https://www.techmeme.com/260728/p31#a260728p31",
+            "published": "Tue, 28 Jul 2026 12:00:48 -0400"
+        },
+        {
+            "title": "Filing: Shein says its US business is under FTC investigation and it is \"cooperating\", without giving specifics, as the company prepares for an IPO in Hong Kong (Gabrielle Fonrouge/CNBC)",
+            "link": "https://www.techmeme.com/260728/p30#a260728p30",
+            "published": "Tue, 28 Jul 2026 11:55:05 -0400"
+        }
+    ],
     "source_1": [
         {
             "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
@@ -22,9 +48,9 @@
             "published": "Mon, 27 Jul 2026 19:54:45 +0000"
         },
         {
-            "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-            "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-            "published": "Tue, 28 Jul 2026 12:35:43 +0000"
+            "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
+            "link": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
+            "published": "Tue, 28 Jul 2026 17:00:06 +0000"
         }
     ],
     "source_2": [
