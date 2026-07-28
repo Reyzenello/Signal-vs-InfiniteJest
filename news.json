@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
+            "title": "At market open Korean chipmakers' stocks plunged, with Samsung Electronics dropping 11%+, SK Hynix down 12%+, and the Korea Composite Stock Price Index down 9%+ (Youkyung Lee/Bloomberg)",
+            "link": "https://www.techmeme.com/260727/p37#a260727p37",
+            "published": "Mon, 27 Jul 2026 22:05:01 -0400"
+        },
+        {
+            "title": "ChatGPT appears to block direct requests to copy an author's style, instead offering to capture the overall \"feeling\", amid its legal battles with book authors (Kyle Orland/Ars Technica)",
+            "link": "https://www.techmeme.com/260727/p36#a260727p36",
+            "published": "Mon, 27 Jul 2026 21:40:01 -0400"
+        },
+        {
+            "title": "Several digital-asset treasury firms have pivoted to AI amid a slump in crypto prices, but their poor stock performance suggests the strategy is not working (Monique Mulima/Bloomberg)",
+            "link": "https://www.techmeme.com/260727/p35#a260727p35",
+            "published": "Mon, 27 Jul 2026 20:30:01 -0400"
+        },
+        {
+            "title": "Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs (Zac Hall/9to5Mac)",
+            "link": "https://www.techmeme.com/260727/p34#a260727p34",
+            "published": "Mon, 27 Jul 2026 19:40:05 -0400"
+        },
+        {
             "title": "Claude chats showed in Google and Bing search results, despite Anthropic's robots.txt saying not to crawl them, likely because the pages lacked a \"noindex\" tag (Maddy Varner/Wired)",
             "link": "https://www.techmeme.com/260727/p33#a260727p33",
             "published": "Mon, 27 Jul 2026 18:35:01 -0400"
-        },
-        {
-            "title": "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more (Anthropic)",
-            "link": "https://www.techmeme.com/260727/p32#a260727p32",
-            "published": "Mon, 27 Jul 2026 18:25:00 -0400"
-        },
-        {
-            "title": "Cadence reports Q2 revenue up 24.2% YoY to $1.58B and raises its annual revenue forecast to between $6.26B and $6.34B vs. $6.21B est.; CDNS up 4%+ after hours (Reuters)",
-            "link": "https://www.techmeme.com/260727/p31#a260727p31",
-            "published": "Mon, 27 Jul 2026 17:55:01 -0400"
-        },
-        {
-            "title": "A federal judge issues a preliminary injunction blocking Minnesota from enforcing a newly enacted law that banned prediction markets like Kalshi and Polymarket (Nate Raymond/Reuters)",
-            "link": "https://www.techmeme.com/260727/p30#a260727p30",
-            "published": "Mon, 27 Jul 2026 17:30:02 -0400"
-        },
-        {
-            "title": "French carrier Orange and infrastructure investor Morrison agree to create a data center platform in France targeting 400 MW, backed by a \u20ac3B investment program (Molly Schuetz/Bloomberg)",
-            "link": "https://www.techmeme.com/260727/p29#a260727p29",
-            "published": "Mon, 27 Jul 2026 16:15:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia",
+            "link": "https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html",
+            "published": "Tue, 28 Jul 2026 03:08:44 +0000"
+        },
+        {
+            "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
+            "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
+            "published": "Mon, 27 Jul 2026 20:34:32 +0000"
+        },
+        {
+            "title": "Microsoft Unveils A.I. Cybersecurity Tools",
+            "link": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
+            "published": "Mon, 27 Jul 2026 16:51:15 +0000"
+        },
         {
             "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
             "link": "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
             "published": "Mon, 27 Jul 2026 19:54:45 +0000"
         },
         {
-            "title": "5 Things to Know About Meta\u2019s Giant Data Center in Louisiana",
-            "link": "https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html",
-            "published": "Mon, 27 Jul 2026 14:13:22 +0000"
-        },
-        {
-            "title": "Silicon Valley Splits Over Closing the Borders to Chinese A.I.",
-            "link": "https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html",
-            "published": "Sat, 25 Jul 2026 20:07:34 +0000"
-        },
-        {
-            "title": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
-            "link": "https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html",
-            "published": "Fri, 24 Jul 2026 11:00:03 +0000"
-        },
-        {
-            "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
-            "link": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
-            "published": "Mon, 27 Jul 2026 20:34:32 +0000"
+            "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
+            "link": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
+            "published": "Mon, 27 Jul 2026 18:32:35 +0000"
         }
     ],
     "source_2": [
