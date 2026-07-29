@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google launches its Lyria 3.5 music generation model in Google Flow Music, highlighting improved musicality, lyrics, vocal quality, and creative control (Google)",
+            "link": "https://www.techmeme.com/260729/p33#a260729p33",
+            "published": "Wed, 29 Jul 2026 15:05:01 -0400"
+        },
+        {
+            "title": "Thinking Machines Lab co-founder Lilian Weng is returning to OpenAI after announcing earlier this week she was leaving TML over workload-related health concerns (The Information)",
+            "link": "https://www.techmeme.com/260729/p32#a260729p32",
+            "published": "Wed, 29 Jul 2026 14:35:02 -0400"
+        },
+        {
+            "title": "OpenAI launches ChatGPT for Academic Researchers, giving 100K scientists, mathematicians, and engineers free access to its frontier models through 2027 (Ina Fried/Axios)",
+            "link": "https://www.techmeme.com/260729/p31#a260729p31",
+            "published": "Wed, 29 Jul 2026 13:30:01 -0400"
+        },
+        {
             "title": "Anthropic's cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them (Matthew Green/A Few Thoughts ...)",
             "link": "https://www.techmeme.com/260729/p30#a260729p30",
             "published": "Wed, 29 Jul 2026 12:45:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Investors continue to dump chipmaker stocks on Wednesday following disappointing results from SK Hynix; Sandisk is down 7.5%+, Arm 6.5%+, and AMD 6.5%+ (Financial Times)",
             "link": "https://www.techmeme.com/260729/p29#a260729p29",
             "published": "Wed, 29 Jul 2026 12:25:46 -0400"
-        },
-        {
-            "title": "Qualcomm says it has signed a 10-year deal to supply chips for BMW's future digital cockpit and advanced driver-assistance systems (Harshita Mary Varghese/Reuters)",
-            "link": "https://www.techmeme.com/260729/p28#a260729p28",
-            "published": "Wed, 29 Jul 2026 12:20:00 -0400"
-        },
-        {
-            "title": "Groundcover, which provides observability software that can monitor AI agents, raised a $100M Series C led by One Peak, bringing its total funding to $160M (Meir Orbach/CTech)",
-            "link": "https://www.techmeme.com/260729/p27#a260729p27",
-            "published": "Wed, 29 Jul 2026 11:35:02 -0400"
-        },
-        {
-            "title": "Encore AI, which studies companies' customer interactions to train and deploy AI voice agents, raised a $30M Series A led by Team8, Planven, and The Garage (Ram Iyer/TechCrunch)",
-            "link": "https://www.techmeme.com/260729/p26#a260729p26",
-            "published": "Wed, 29 Jul 2026 11:25:43 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
             "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
-            "published": "Wed, 29 Jul 2026 15:00:08 +0000"
+            "published": "Wed, 29 Jul 2026 18:05:05 +0000"
         },
         {
             "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
