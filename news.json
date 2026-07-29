@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Moonshot AI hit a $35B valuation after closing a $3.5B round, exceeding its initial target of $1B to $2B, and plans a Hong Kong IPO as soon as 2026 (Bloomberg)",
-            "link": "https://www.techmeme.com/260729/p8#a260729p8",
-            "published": "Wed, 29 Jul 2026 05:40:02 -0400"
+            "title": "The UK CMA launches an investigation into Microsoft over potential consumer law breaches involving Microsoft 365 subscription renewals that added Copilot (Upmanyu Trivedi/Bloomberg)",
+            "link": "https://www.techmeme.com/260729/p15#a260729p15",
+            "published": "Wed, 29 Jul 2026 07:45:02 -0400"
         },
         {
-            "title": "CXMT's IPO prospectus showed Alibaba had a ~5% stake, which is now worth $20B+, a nearly 20x return, based on CXMT's ~$464B closing market cap on July 28 (Wency Chen/South China Morning Post)",
-            "link": "https://www.techmeme.com/260729/p7#a260729p7",
-            "published": "Wed, 29 Jul 2026 04:10:02 -0400"
+            "title": "New York-based AI detection startup Pangram raised $9M led by Menlo, and releases Pangram 4.0 and its first AI image detection model, claiming 99.5% accuracy (Niko Gallogly/New York Times)",
+            "link": "https://www.techmeme.com/260729/p14#a260729p14",
+            "published": "Wed, 29 Jul 2026 07:15:02 -0400"
         },
         {
-            "title": "Russia's FSB charges Telegram founder Pavel Durov with facilitating terrorist activities, including by Ukraine, and issues an international arrest warrant (Reuters)",
-            "link": "https://www.techmeme.com/260729/p6#a260729p6",
-            "published": "Wed, 29 Jul 2026 03:55:01 -0400"
+            "title": "BNY, the world's top bank for safeguarding assets, plans to use blockchain tech for its transfer agency record-keeping systems, which service $8.6T in assets (Financial Times)",
+            "link": "https://www.techmeme.com/260729/p13#a260729p13",
+            "published": "Wed, 29 Jul 2026 06:50:01 -0400"
         },
         {
-            "title": "A look at Kioxia, the Japanese NAND flash maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026 (Bloomberg)",
-            "link": "https://www.techmeme.com/260729/p5#a260729p5",
-            "published": "Wed, 29 Jul 2026 02:30:01 -0400"
+            "title": "OpenAI, Google, Meta, BlackRock, and others are recruiting electricians and carpenters by the thousands, with some of the highest pay the industry has ever seen (Lydia DePillis/New York Times)",
+            "link": "https://www.techmeme.com/260729/p12#a260729p12",
+            "published": "Wed, 29 Jul 2026 06:35:02 -0400"
         },
         {
-            "title": "GPTZero finds AI hallucinations in four PwC Middle East reports; GPTZero's earlier investigations led EY and KPMG to retract reports with similar issues (Stephen Foley/Financial Times)",
-            "link": "https://www.techmeme.com/260729/p4#a260729p4",
-            "published": "Wed, 29 Jul 2026 02:00:40 -0400"
+            "title": "Lake Mary, Florida-based Spur Intelligence, which helps distinguish human and bot traffic to find fake users and threats, raised $200M led by Insight Partners (Julie Bort/TechCrunch)",
+            "link": "https://www.techmeme.com/260729/p11#a260729p11",
+            "published": "Wed, 29 Jul 2026 06:20:00 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 28 Jul 2026 12:35:43 +0000"
         },
         {
-            "title": "Couple Stalked by eBay Settle for $56 Million",
-            "link": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
-            "published": "Tue, 28 Jul 2026 21:02:51 +0000"
+            "title": "Russia Charges Telegram\u2019s Founder Pavel Durov With Facilitating Terrorism",
+            "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
+            "published": "Wed, 29 Jul 2026 10:55:43 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Data centres could pay hundreds of millions in deposits for power demands",
+            "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 11:35:35 GMT"
+        },
         {
             "title": "OpenAI says its rogue AI tried to hack other companies",
             "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Is it time to stop using glue and labels on paper?",
             "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 27 Jul 2026 23:00:06 GMT"
-        },
-        {
-            "title": "Why budding birders are flocking to Shazam-like apps to identify avians",
-            "link": "https://www.bbc.co.uk/news/articles/cr59m5nmemno?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 27 Jul 2026 07:53:30 GMT"
         }
     ]
 }
