@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Moonshot AI hit a $35B valuation after closing a $3.5B round, exceeding its initial target of $1B to $2B, and plans a Hong Kong IPO as soon as 2026 (Bloomberg)",
+            "link": "https://www.techmeme.com/260729/p8#a260729p8",
+            "published": "Wed, 29 Jul 2026 05:40:02 -0400"
+        },
+        {
+            "title": "CXMT's IPO prospectus showed Alibaba had a ~5% stake, which is now worth $20B+, a nearly 20x return, based on CXMT's ~$464B closing market cap on July 28 (Wency Chen/South China Morning Post)",
+            "link": "https://www.techmeme.com/260729/p7#a260729p7",
+            "published": "Wed, 29 Jul 2026 04:10:02 -0400"
+        },
+        {
+            "title": "Russia's FSB charges Telegram founder Pavel Durov with facilitating terrorist activities, including by Ukraine, and issues an international arrest warrant (Reuters)",
+            "link": "https://www.techmeme.com/260729/p6#a260729p6",
+            "published": "Wed, 29 Jul 2026 03:55:01 -0400"
+        },
+        {
             "title": "A look at Kioxia, the Japanese NAND flash maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026 (Bloomberg)",
             "link": "https://www.techmeme.com/260729/p5#a260729p5",
             "published": "Wed, 29 Jul 2026 02:30:01 -0400"
@@ -9,21 +24,6 @@
             "title": "GPTZero finds AI hallucinations in four PwC Middle East reports; GPTZero's earlier investigations led EY and KPMG to retract reports with similar issues (Stephen Foley/Financial Times)",
             "link": "https://www.techmeme.com/260729/p4#a260729p4",
             "published": "Wed, 29 Jul 2026 02:00:40 -0400"
-        },
-        {
-            "title": "ETH Zurich spinout ZuriQ, which is developing trapped-ion quantum computing processors based on a 2D architecture, raised a $25.5M seed led by Quantonation (Tamara Djurickovic/Tech.eu)",
-            "link": "https://www.techmeme.com/260729/p3#a260729p3",
-            "published": "Wed, 29 Jul 2026 01:50:02 -0400"
-        },
-        {
-            "title": "Sources: Google DeepMind has reassigned the majority of the original authors of the AlphaFold papers; about a quarter of the papers' full-time authors have left (Madhumita Murgia/Financial Times)",
-            "link": "https://www.techmeme.com/260729/p2#a260729p2",
-            "published": "Wed, 29 Jul 2026 00:50:02 -0400"
-        },
-        {
-            "title": "OpenAI releases an \"early\" version of the open-source Codex Security CLI for scanning repositories, verifying fixes, adding CI/CD security checks, and more (@openai)",
-            "link": "https://www.techmeme.com/260729/p1#a260729p1",
-            "published": "Wed, 29 Jul 2026 00:45:01 -0400"
         }
     ],
     "source_1": [
@@ -55,14 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI says its rogue AI tried to hack other companies",
+            "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 08:49:27 GMT"
+        },
+        {
             "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
             "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 28 Jul 2026 23:00:15 GMT"
-        },
-        {
-            "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
-            "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 28 Jul 2026 23:00:10 GMT"
         },
         {
             "title": "Some people's chats with Claude AI found to be publicly available online",
