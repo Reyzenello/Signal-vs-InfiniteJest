@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as \"very large online platforms\" under the DSA as soon as August (Bloomberg)",
+            "link": "https://www.techmeme.com/260729/p45#a260729p45",
+            "published": "Wed, 29 Jul 2026 18:35:01 -0400"
+        },
+        {
+            "title": "Robinhood reports Q2 revenue up 32% YoY to $1.31B, vs. $1.29B est., event contracts revenue up over 10x to $156M, and crypto revenue down 38% to $100M (Bill Peters/MarketWatch)",
+            "link": "https://www.techmeme.com/260729/p44#a260729p44",
+            "published": "Wed, 29 Jul 2026 18:05:01 -0400"
+        },
+        {
             "title": "Microsoft reports Q4 Windows OEM and Devices revenue down 7% YoY, Xbox hardware revenue down 13%, and Xbox content and services revenue down 10% (Emma Roth/The Verge)",
             "link": "https://www.techmeme.com/260729/p43#a260729p43",
             "published": "Wed, 29 Jul 2026 17:00:58 -0400"
@@ -14,16 +24,6 @@
             "title": "Meta reports Reality Labs Q2 revenue up 16% YoY to $431M, vs. $423.4M est., and a $4.62B operating loss, vs. $5.07B estimated (Jonathan Vanian/CNBC)",
             "link": "https://www.techmeme.com/260729/p41#a260729p41",
             "published": "Wed, 29 Jul 2026 16:45:00 -0400"
-        },
-        {
-            "title": "Meta reports free cash flow of $784M in Q2, down 91% YoY, and now expects 2026 capex to be $130B-$145B, compared with its prior forecast of $125B-$145B (Reuters)",
-            "link": "https://www.techmeme.com/260729/p40#a260729p40",
-            "published": "Wed, 29 Jul 2026 16:41:03 -0400"
-        },
-        {
-            "title": "Qualcomm reports Q3 revenue down 4% YoY to $9.95B, vs. $9.67B est., forecasts Q4 profit below est., expects revenue from Apple products to decline more quickly (Reuters)",
-            "link": "https://www.techmeme.com/260729/p39#a260729p39",
-            "published": "Wed, 29 Jul 2026 16:35:02 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Meta\u2019s Profit Falls 14 Percent as A.I. Spending Continues",
             "link": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
-            "published": "Wed, 29 Jul 2026 21:02:45 +0000"
+            "published": "Wed, 29 Jul 2026 21:45:42 +0000"
         },
         {
             "title": "Microsoft Increases Spending on A.I. as Profit Jumps 31.6%",
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Meta shares fall as frustration grows over AI spending plans",
+            "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 22:44:18 GMT"
+        },
+        {
+            "title": "The Chinese robot army transforming the UK's retail industry",
+            "link": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 29 Jul 2026 22:08:29 GMT"
+        },
+        {
             "title": "Data centres could pay hundreds of millions in deposits for power demands",
             "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 29 Jul 2026 11:35:35 GMT"
@@ -68,16 +78,6 @@
             "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
             "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 28 Jul 2026 23:00:15 GMT"
-        },
-        {
-            "title": "Some people's chats with Claude AI found to be publicly available online",
-            "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 28 Jul 2026 07:10:37 GMT"
-        },
-        {
-            "title": "Is it time to stop using glue and labels on paper?",
-            "link": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 27 Jul 2026 23:00:06 GMT"
         }
     ]
 }
