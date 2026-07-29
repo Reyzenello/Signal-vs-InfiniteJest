@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Survey: 77% of US adults support in-class cellphone bans for middle and high school students, up from 74% in 2025 and 68% in 2024; just 18% oppose such bans (Jeffrey Gottfried/Pew Research Center)",
-            "link": "https://www.techmeme.com/260729/p24#a260729p24",
-            "published": "Wed, 29 Jul 2026 10:55:51 -0400"
+            "title": "Anthropic's cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them (Matthew Green/A Few Thoughts ...)",
+            "link": "https://www.techmeme.com/260729/p30#a260729p30",
+            "published": "Wed, 29 Jul 2026 12:45:01 -0400"
         },
         {
-            "title": "Brookfield and NextEra partner to develop a $100B, 1.2GW+ AI data center campus at a former DOE uranium-enrichment site in Kentucky, set to open in 2032 (Robb M. Stewart/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260729/p23#a260729p23",
-            "published": "Wed, 29 Jul 2026 10:45:02 -0400"
+            "title": "Investors continue to dump chipmaker stocks on Wednesday following disappointing results from SK Hynix; Sandisk is down 7.5%+, Arm 6.5%+, and AMD 6.5%+ (Financial Times)",
+            "link": "https://www.techmeme.com/260729/p29#a260729p29",
+            "published": "Wed, 29 Jul 2026 12:25:46 -0400"
         },
         {
-            "title": "A look at OpenAI's open-source agent harness that now powers Codex and ChatGPT Work, as the company works to optimize the harness to cut runaway token usage (Jason Hiner/The Deep View)",
-            "link": "https://www.techmeme.com/260729/p22#a260729p22",
-            "published": "Wed, 29 Jul 2026 10:40:29 -0400"
+            "title": "Qualcomm says it has signed a 10-year deal to supply chips for BMW's future digital cockpit and advanced driver-assistance systems (Harshita Mary Varghese/Reuters)",
+            "link": "https://www.techmeme.com/260729/p28#a260729p28",
+            "published": "Wed, 29 Jul 2026 12:20:00 -0400"
         },
         {
-            "title": "Eliyan, which aims to license tech and make physical \"chiplets\" to ease AI chip data transfer bottlenecks, raised a $145M Series C at a $1B valuation (Stephen Nellis/Reuters)",
-            "link": "https://www.techmeme.com/260729/p21#a260729p21",
-            "published": "Wed, 29 Jul 2026 10:30:01 -0400"
+            "title": "Groundcover, which provides observability software that can monitor AI agents, raised a $100M Series C led by One Peak, bringing its total funding to $160M (Meir Orbach/CTech)",
+            "link": "https://www.techmeme.com/260729/p27#a260729p27",
+            "published": "Wed, 29 Jul 2026 11:35:02 -0400"
         },
         {
-            "title": "X settles a long-running legal battle with the World Federation of Advertisers, ending a case that accused brands like Mars and Shell of illegally boycotting X (Daniel Thomas/Financial Times)",
-            "link": "https://www.techmeme.com/260729/p20#a260729p20",
-            "published": "Wed, 29 Jul 2026 10:20:01 -0400"
+            "title": "Encore AI, which studies companies' customer interactions to train and deploy AI voice agents, raised a $30M Series A led by Team8, Planven, and The Garage (Ram Iyer/TechCrunch)",
+            "link": "https://www.techmeme.com/260729/p26#a260729p26",
+            "published": "Wed, 29 Jul 2026 11:25:43 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
+            "link": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
+            "published": "Wed, 29 Jul 2026 09:01:35 +0000"
+        },
+        {
+            "title": "SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters",
+            "link": "https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html",
+            "published": "Wed, 29 Jul 2026 15:00:08 +0000"
+        },
+        {
             "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
             "link": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
-            "published": "Wed, 29 Jul 2026 00:59:08 +0000"
-        },
-        {
-            "title": "What Is Open-Weights A.I.?",
-            "link": "https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html",
-            "published": "Tue, 28 Jul 2026 22:38:23 +0000"
-        },
-        {
-            "title": "An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms",
-            "link": "https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html",
-            "published": "Tue, 28 Jul 2026 17:00:06 +0000"
-        },
-        {
-            "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-            "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
-            "published": "Tue, 28 Jul 2026 12:35:43 +0000"
+            "published": "Wed, 29 Jul 2026 00:59:09 +0000"
         },
         {
             "title": "Russia Charges Telegram\u2019s Founder Pavel Durov With Facilitating Terrorism",
             "link": "https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html",
             "published": "Wed, 29 Jul 2026 13:46:29 +0000"
+        },
+        {
+            "title": "Couple Stalked by eBay Settle for $56 Million",
+            "link": "https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html",
+            "published": "Tue, 28 Jul 2026 21:02:51 +0000"
         }
     ],
     "source_2": [
