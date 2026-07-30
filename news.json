@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Scale AI hires former Google Cloud COO Francis deSouza as CEO, replacing interim CEO Jason Droege, who took over last year after Alexandr Wang left for Meta (Madison Mills/Axios)",
-            "link": "https://www.techmeme.com/260730/p28#a260730p28",
-            "published": "Thu, 30 Jul 2026 10:20:01 -0400"
+            "title": "Friend announces an AI pendant with a speaker for spoken replies for $249, up from its original necklace's $129 price, with an optional $10 monthly subscription (Boone Ashworth/Wired)",
+            "link": "https://www.techmeme.com/260730/p37#a260730p37",
+            "published": "Thu, 30 Jul 2026 12:15:04 -0400"
         },
         {
-            "title": "Simile, which offers \"agentic twins\" of real people to assess companies' products, brands, and services, raised $200M led by Greenoaks at a $2B valuation (Sri Muppidi/New York Times)",
-            "link": "https://www.techmeme.com/260730/p27#a260730p27",
-            "published": "Thu, 30 Jul 2026 09:40:01 -0400"
+            "title": "Wiz says a now-patched flaw in Azure CosmosDB would have let a hacker remotely compromise any of its users; Microsoft has seen \"no evidence of customer impact\" (Raphael Satter/Reuters)",
+            "link": "https://www.techmeme.com/260730/p36#a260730p36",
+            "published": "Thu, 30 Jul 2026 12:05:01 -0400"
         },
         {
-            "title": "Amazon's Zoox receives the NHTSA's first US approval for paid deployment of its steering wheel-free robotaxi and can deploy up to 2,500 per year through 2028 (Abhirup Roy/Reuters)",
-            "link": "https://www.techmeme.com/260730/p26#a260730p26",
-            "published": "Thu, 30 Jul 2026 09:35:01 -0400"
+            "title": "Source: Situational Awareness has a $5B stake in Anthropic, and will continue to run as a private investment firm after suffering heavy losses in recent days (Financial Times)",
+            "link": "https://www.techmeme.com/260730/p35#a260730p35",
+            "published": "Thu, 30 Jul 2026 11:45:01 -0400"
         },
         {
-            "title": "K2 Space, which builds satellites for tasks like data-heavy communications and may power space-based data centers, raised a $500M Series D at a $6.8B valuation (Rebecca Torrence/Bloomberg)",
-            "link": "https://www.techmeme.com/260730/p25#a260730p25",
-            "published": "Thu, 30 Jul 2026 09:25:00 -0400"
+            "title": "Sources: AI-focused hedge fund Situational Awareness sold the bulk of its stock portfolio to Ken Griffin's Citadel after suffering deep losses (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260730/p34#a260730p34",
+            "published": "Thu, 30 Jul 2026 11:40:00 -0400"
         },
         {
-            "title": "Sources: TSMC is developing advanced AI chip packaging tech, internally called \"EMIB-like\", similar to Intel's Embedded Multi-die Interconnect Bridge technique (Qianer Liu/The Information)",
-            "link": "https://www.techmeme.com/260730/p24#a260730p24",
-            "published": "Thu, 30 Jul 2026 09:15:00 -0400"
+            "title": "Google DeepMind releases Gemini Robotics 2, which combines several different AI models into a single system to control a range of robots, including humanoids (Will Knight/Wired)",
+            "link": "https://www.techmeme.com/260730/p33#a260730p33",
+            "published": "Thu, 30 Jul 2026 11:25:06 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Apple\u2019s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.",
             "link": "https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html",
-            "published": "Thu, 30 Jul 2026 09:03:07 +0000"
+            "published": "Thu, 30 Jul 2026 09:03:08 +0000"
         },
         {
             "title": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
@@ -45,7 +45,7 @@
         {
             "title": "Mistaken Username Sent Man to Prison for 18 Months, Court Finds",
             "link": "https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html",
-            "published": "Thu, 30 Jul 2026 09:03:25 +0000"
+            "published": "Thu, 30 Jul 2026 16:21:30 +0000"
         },
         {
             "title": "A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
+            "link": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 30 Jul 2026 14:53:20 GMT"
+        },
         {
             "title": "Trump considering AI controls after OpenAI hacking incidents",
             "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "OpenAI says its rogue AI tried to hack other companies",
             "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 29 Jul 2026 08:49:27 GMT"
-        },
-        {
-            "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-            "link": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 28 Jul 2026 23:00:15 GMT"
         }
     ]
 }
