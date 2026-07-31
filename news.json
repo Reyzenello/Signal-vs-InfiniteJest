@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Filing: Amazon has completed its $50B investment in OpenAI; source: OpenAI received the final tranche this week, taking Amazon's position to roughly 5% (Financial Times)",
+            "link": "https://www.techmeme.com/260731/p39#a260731p39",
+            "published": "Fri, 31 Jul 2026 18:10:01 -0400"
+        },
+        {
+            "title": "Amazon shares closed up 15.32% on Friday, the biggest one-day jump since April 2012, after the company reported accelerating AWS revenue (Spencer Soper/Bloomberg)",
+            "link": "https://www.techmeme.com/260731/p38#a260731p38",
+            "published": "Fri, 31 Jul 2026 17:20:05 -0400"
+        },
+        {
+            "title": "Roblox shares close down ~27%, its worst-ever daily percentage decline, after forecasting falling bookings and slowing revenue growth; RBLX is down 40%+ YTD (Kit Norton/Barron's Online)",
+            "link": "https://www.techmeme.com/260731/p37#a260731p37",
+            "published": "Fri, 31 Jul 2026 17:15:01 -0400"
+        },
+        {
+            "title": "Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI's network (Reuters)",
+            "link": "https://www.techmeme.com/260731/p36#a260731p36",
+            "published": "Fri, 31 Jul 2026 16:40:00 -0400"
+        },
+        {
             "title": "FBI and EPA say water and wastewater utilities in at least seven states reported cyberattacks this week, with some causing flooding and other operational issues (James Rundle/Wall Street Journal)",
             "link": "https://www.techmeme.com/260731/p35#a260731p35",
             "published": "Fri, 31 Jul 2026 16:25:01 -0400"
-        },
-        {
-            "title": "Illinois Governor JB Pritzker signs the Children's Social Media Safety Act, a bill designed to limit children's access to \"addictive\" social media algorithms (Ben Szalinski/Capitol News Illinois)",
-            "link": "https://www.techmeme.com/260731/p34#a260731p34",
-            "published": "Fri, 31 Jul 2026 15:55:00 -0400"
-        },
-        {
-            "title": "An in-depth account of the past two days inside Situational Awareness, as Aschenbrenner assured investors he would focus on changes to his portfolio management (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260731/p33#a260731p33",
-            "published": "Fri, 31 Jul 2026 15:00:01 -0400"
-        },
-        {
-            "title": "Google rolls back an image generation tool in Google Earth to add \"stronger guardrails\" after concerns arose it can be used to create deepfake satellite imagery (Geoff Brumfiel/NPR)",
-            "link": "https://www.techmeme.com/260731/p32#a260731p32",
-            "published": "Fri, 31 Jul 2026 14:45:01 -0400"
-        },
-        {
-            "title": "Index Ventures has raised $2B in new capital: a $900M venture vehicle, $400M for seed financing, and an addition of $700M to a 2024 $1.5B growth fund (Mark Bergen/Bloomberg)",
-            "link": "https://www.techmeme.com/260731/p31#a260731p31",
-            "published": "Fri, 31 Jul 2026 14:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+            "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 21:57:59 GMT"
+        },
+        {
             "title": "AI firms must answer for rogue bots, says boss of hacked company",
             "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 31 Jul 2026 18:10:28 GMT"
@@ -73,11 +78,6 @@
             "title": "India wants to join the strawberry superpowers",
             "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 30 Jul 2026 22:04:09 GMT"
-        },
-        {
-            "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
-            "link": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 30 Jul 2026 14:53:20 GMT"
         }
     ]
 }
