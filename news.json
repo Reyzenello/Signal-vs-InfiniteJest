@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Index Ventures has raised $2B in new capital: a $900M venture vehicle, $400M for seed financing, and an addition of $700M to a 2024 $1.5B growth fund (Mark Bergen/Bloomberg)",
+            "link": "https://www.techmeme.com/260731/p31#a260731p31",
+            "published": "Fri, 31 Jul 2026 14:10:01 -0400"
+        },
+        {
+            "title": "Snap says its recommendation systems will be adjusted so only videos created by real people, not AI-generated ones, are eligible for Spotlight recommendations (Lauren Forristal/TechCrunch)",
+            "link": "https://www.techmeme.com/260731/p30#a260731p30",
+            "published": "Fri, 31 Jul 2026 13:45:01 -0400"
+        },
+        {
+            "title": "Sources: NXP is in talks to buy Ambarella, which has a market cap of ~$3.3B and makes image-processing chips for security cameras and self-driving cars (Oliver Barnes/Financial Times)",
+            "link": "https://www.techmeme.com/260731/p29#a260731p29",
+            "published": "Fri, 31 Jul 2026 13:00:50 -0400"
+        },
+        {
+            "title": "OpenAI says its models now have more than 1B active users and are used by more than 2M businesses (Katherine Hamilton/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260731/p28#a260731p28",
+            "published": "Fri, 31 Jul 2026 12:55:02 -0400"
+        },
+        {
             "title": "Trump says he does not think Iran is behind a cyberattack on Minnesota water systems: \"I think I blame it on Minnesota because they're grossly incompetent\" (Reuters)",
             "link": "https://www.techmeme.com/260731/p27#a260731p27",
             "published": "Fri, 31 Jul 2026 12:45:01 -0400"
-        },
-        {
-            "title": "Filing: Microsoft's product R&D roles declined for the second straight year as the company's total FY2026 headcount fell for the first time since 2016 (Todd Bishop/GeekWire)",
-            "link": "https://www.techmeme.com/260731/p26#a260731p26",
-            "published": "Fri, 31 Jul 2026 12:40:00 -0400"
-        },
-        {
-            "title": "SpaceXAI says it will remove 69 gas turbines used to power the Colossus data centers near Memphis by July 2027, as it moves to a 1.2 GW natural gas power plant (Tim De Chant/TechCrunch)",
-            "link": "https://www.techmeme.com/260731/p25#a260731p25",
-            "published": "Fri, 31 Jul 2026 11:45:01 -0400"
-        },
-        {
-            "title": "South Korea plans to inject ~$14B into its sovereign wealth fund for strategic investments in AI, data centers, and infrastructure, after a rout in tech stocks (Haram Lim/Bloomberg)",
-            "link": "https://www.techmeme.com/260731/p24#a260731p24",
-            "published": "Fri, 31 Jul 2026 11:10:01 -0400"
-        },
-        {
-            "title": "MediaTek says its board has approved a discretionary $5B financing budget to support long-term growth, including its expansion into AI chips for data centers (Wen-Yee Lee/Reuters)",
-            "link": "https://www.techmeme.com/260731/p23#a260731p23",
-            "published": "Fri, 31 Jul 2026 10:55:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "AI firms must answer for rogue bots, says boss of hacked company",
+            "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 18:10:28 GMT"
+        },
+        {
             "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
             "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 31 Jul 2026 01:31:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Xbox tech boss says 'unacceptable' outage should not have affected disc games",
             "link": "https://www.bbc.co.uk/news/articles/cq5637p7qpno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 30 Jul 2026 14:53:20 GMT"
-        },
-        {
-            "title": "Trump considering AI controls after OpenAI hacking incidents",
-            "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 30 Jul 2026 07:23:11 GMT"
         }
     ]
 }
