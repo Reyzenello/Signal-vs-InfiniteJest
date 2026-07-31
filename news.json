@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Coinbase reports Q2 revenue down 19% YoY to $1.2B, vs. $1.3B est., stablecoin revenue below est., and a wider-than-expected loss; COIN drops 6%+ after hours (CNBC)",
-            "link": "https://www.techmeme.com/260730/p56#a260730p56",
-            "published": "Thu, 30 Jul 2026 18:00:01 -0400"
+            "title": "Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April (Robert McMillan/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260730/p62#a260730p62",
+            "published": "Thu, 30 Jul 2026 20:05:01 -0400"
         },
         {
-            "title": "Roblox reports Q2 bookings up 8% YoY to $1.56B, vs. $1.6B est., DAUs up 10% to 123M, forecasts Q3 bookings and revenue below est.; RBLX drops 13%+ after hours (Kelly Cloonan/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260730/p55#a260730p55",
-            "published": "Thu, 30 Jul 2026 17:40:01 -0400"
+            "title": "Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident (Anthropic)",
+            "link": "https://www.techmeme.com/260730/p61#a260730p61",
+            "published": "Thu, 30 Jul 2026 19:30:01 -0400"
         },
         {
-            "title": "Apple Q3: iPhone up 22% YoY to $54.25B, vs. $53.86B est., Mac up 29% to $10.35B, iPad down 6% to $6.19B, and Wearables, Home, and Accessories up 6% to $7.88B (Stephen Nellis/Reuters)",
-            "link": "https://www.techmeme.com/260730/p54#a260730p54",
-            "published": "Thu, 30 Jul 2026 17:05:00 -0400"
+            "title": "Sources: Zelenskyy asked Trump to secure Elon Musk's permission for the use of Starlink to guide drone strikes inside Russia, but Trump was noncommittal (The Atlantic)",
+            "link": "https://www.techmeme.com/260730/p60#a260730p60",
+            "published": "Thu, 30 Jul 2026 19:25:02 -0400"
         },
         {
-            "title": "Apple reports Q3 revenue from Services, which includes the App Store, Apple TV, and more, grew 12% YoY to $30.74B, vs. $31.36B est.; AAPL drops 4%+ after hours (Todd Spangler/Variety)",
-            "link": "https://www.techmeme.com/260730/p53#a260730p53",
-            "published": "Thu, 30 Jul 2026 16:55:00 -0400"
+            "title": "In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 (The Verge)",
+            "link": "https://www.techmeme.com/260730/p59#a260730p59",
+            "published": "Thu, 30 Jul 2026 19:15:02 -0400"
         },
         {
-            "title": "Apple reports Q3 revenue up 16% YoY to $109.42B, vs. $108.65B est., net income up 27% to $29.79B, and China revenue up 22% to $18.82B, vs. $19.6B estimated (Apple)",
-            "link": "https://www.techmeme.com/260730/p52#a260730p52",
-            "published": "Thu, 30 Jul 2026 16:41:07 -0400"
+            "title": "Anthropic says three of its models, including an internal research model, gained unauthorized access to real-world systems during internal cybersecurity testing (Sam Sabin/Axios)",
+            "link": "https://www.techmeme.com/260730/p58#a260730p58",
+            "published": "Thu, 30 Jul 2026 19:10:05 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Big Tech\u2019s A.I. Spending Keeps Rising. So Do the Jitters.",
             "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
-            "published": "Thu, 30 Jul 2026 20:48:20 +0000"
+            "published": "Thu, 30 Jul 2026 22:21:42 +0000"
         },
         {
             "title": "When A.I. Invaded \u2018Heated Rivalry\u2019 Fan Fiction, the Meltdown Was Epic",
@@ -48,12 +48,17 @@
             "published": "Thu, 30 Jul 2026 09:03:08 +0000"
         },
         {
-            "title": "Apple\u2019s Profit Increases 27 Percent, Topping Wall Street Expectations",
+            "title": "Apple\u2019s Profit Is Up 27%, but Expectations for Current Quarter Disappoint",
             "link": "https://www.nytimes.com/2026/07/30/technology/apple-earnings.html",
-            "published": "Thu, 30 Jul 2026 20:36:42 +0000"
+            "published": "Thu, 30 Jul 2026 22:27:24 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Anthropic says AI models hacked three firms during tests",
+            "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 00:08:46 GMT"
+        },
         {
             "title": "India wants to join the strawberry superpowers",
             "link": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Meta shares fall as frustration grows over AI spending plans",
             "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 29 Jul 2026 22:44:18 GMT"
-        },
-        {
-            "title": "Data centres could pay hundreds of millions in deposits for power demands",
-            "link": "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 29 Jul 2026 11:35:35 GMT"
         }
     ]
 }
