@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April (Robert McMillan/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260730/p62#a260730p62",
-            "published": "Thu, 30 Jul 2026 20:05:01 -0400"
+            "title": "Google, Amazon, Microsoft, and Meta spent a combined $1.1T in capex from the start of the AI boom in 2023 through June 2026 and plan to spend $745B this year (Financial Times)",
+            "link": "https://www.techmeme.com/260731/p2#a260731p2",
+            "published": "Fri, 31 Jul 2026 00:30:01 -0400"
         },
         {
-            "title": "Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident (Anthropic)",
-            "link": "https://www.techmeme.com/260730/p61#a260730p61",
-            "published": "Thu, 30 Jul 2026 19:30:01 -0400"
+            "title": "A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran (Andy Greenberg/Wired)",
+            "link": "https://www.techmeme.com/260731/p1#a260731p1",
+            "published": "Fri, 31 Jul 2026 00:00:14 -0400"
         },
         {
-            "title": "Sources: Zelenskyy asked Trump to secure Elon Musk's permission for the use of Starlink to guide drone strikes inside Russia, but Trump was noncommittal (The Atlantic)",
-            "link": "https://www.techmeme.com/260730/p60#a260730p60",
-            "published": "Thu, 30 Jul 2026 19:25:02 -0400"
+            "title": "Sources: SoftBank gave $50M to Trump's library; Apple, Microsoft, and Amazon gave $25M, $10M, and $5M to his WH ballroom; Meta gave $10M to a pro-Trump group (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260730/p70#a260730p70",
+            "published": "Thu, 30 Jul 2026 23:40:01 -0400"
         },
         {
-            "title": "In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 (The Verge)",
-            "link": "https://www.techmeme.com/260730/p59#a260730p59",
-            "published": "Thu, 30 Jul 2026 19:15:02 -0400"
+            "title": "Apple forecasts Q4 revenue growth of 9% to 11% YoY, below a 12%+ estimate, citing supply constraints and currency fluctuations; AAPL drops 5%+ after hours (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260730/p69#a260730p69",
+            "published": "Thu, 30 Jul 2026 22:45:01 -0400"
         },
         {
-            "title": "Anthropic says three of its models, including an internal research model, gained unauthorized access to real-world systems during internal cybersecurity testing (Sam Sabin/Axios)",
-            "link": "https://www.techmeme.com/260730/p58#a260730p58",
-            "published": "Thu, 30 Jul 2026 19:10:05 -0400"
+            "title": "Sources: Tesla execs were told to prepare for a separation of its China unit ahead of a potential SpaceX merger; advisers weighed a sale, spinoff, or closure (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260730/p68#a260730p68",
+            "published": "Thu, 30 Jul 2026 22:10:00 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Big Tech\u2019s A.I. Spending Keeps Rising. So Do the Jitters.",
             "link": "https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html",
-            "published": "Thu, 30 Jul 2026 22:21:42 +0000"
+            "published": "Fri, 31 Jul 2026 02:20:58 +0000"
         },
         {
             "title": "When A.I. Invaded \u2018Heated Rivalry\u2019 Fan Fiction, the Meltdown Was Epic",
@@ -48,16 +48,21 @@
             "published": "Thu, 30 Jul 2026 09:03:08 +0000"
         },
         {
-            "title": "Apple\u2019s Profit Is Up 27%, but Expectations for Current Quarter Disappoint",
-            "link": "https://www.nytimes.com/2026/07/30/technology/apple-earnings.html",
-            "published": "Thu, 30 Jul 2026 22:27:24 +0000"
+            "title": "Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations",
+            "link": "https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html",
+            "published": "Fri, 31 Jul 2026 01:10:12 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Anthropic says AI models hacked three firms during tests",
-            "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 31 Jul 2026 00:08:46 GMT"
+            "title": "Three things we learned about AI from Big Tech earnings",
+            "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 01:31:50 GMT"
+        },
+        {
+            "title": "Teen hackers tell BBC how police are helping them use their skills for good",
+            "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 31 Jul 2026 00:42:48 GMT"
         },
         {
             "title": "India wants to join the strawberry superpowers",
@@ -73,11 +78,6 @@
             "title": "Trump considering AI controls after OpenAI hacking incidents",
             "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 30 Jul 2026 07:23:11 GMT"
-        },
-        {
-            "title": "Meta shares fall as frustration grows over AI spending plans",
-            "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 29 Jul 2026 22:44:18 GMT"
         }
     ]
 }
