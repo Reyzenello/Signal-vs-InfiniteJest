@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
+            "title": "An internal TikTok doc shows it withheld a safeguarded algorithm from 10% of US users, including a 16-year-old who was fed self-harm content and died by suicide (Olivia Carville/Bloomberg)",
+            "link": "https://www.techmeme.com/260804/p50#a260804p50",
+            "published": "Tue, 04 Aug 2026 18:25:02 -0400"
+        },
+        {
+            "title": "Match reports Q2 revenue down 1% YoY to $853M, vs. $856.6M est., 13.3M paying users, vs. 13.4M est., forecasts Q3 revenue below est.; MTCH drops 8%+ after hours (Samantha Kelly/Bloomberg)",
+            "link": "https://www.techmeme.com/260804/p49#a260804p49",
+            "published": "Tue, 04 Aug 2026 17:55:01 -0400"
+        },
+        {
+            "title": "The UK AISI says it observed a total of 19 instances where Mythos and GPT-5.6 Sol tried to hack people and companies during a routine cyber evaluation in July (Sam Sabin/Axios)",
+            "link": "https://www.techmeme.com/260804/p48#a260804p48",
+            "published": "Tue, 04 Aug 2026 17:30:02 -0400"
+        },
+        {
+            "title": "Sources: the US' AI framework excludes open models and defines a covered frontier model as closed source with SOTA capabilities and national security risks (Maria Curi/Axios)",
+            "link": "https://www.techmeme.com/260804/p47#a260804p47",
+            "published": "Tue, 04 Aug 2026 17:25:00 -0400"
+        },
+        {
             "title": "SpaceX says its Q2 capex was $18.4B, up from $2.8B a year ago, including $15.8B for AI (Micah Maidenberg/Wall Street Journal)",
             "link": "https://www.techmeme.com/260804/p46#a260804p46",
             "published": "Tue, 04 Aug 2026 17:15:04 -0400"
-        },
-        {
-            "title": "SpaceX reports Q2 revenue of $4.29B from its connectivity division, which includes Starlink, $100B of cash and marketable securities, and a $47.5B order backlog (Nathan Bomey/Axios)",
-            "link": "https://www.techmeme.com/260804/p45#a260804p45",
-            "published": "Tue, 04 Aug 2026 17:10:01 -0400"
-        },
-        {
-            "title": "Pinterest reports Q2 revenue up 18% YoY to $1.18B, vs. $1.15B est., MAUs up 11% to 640M, forecasts Q3 revenue in line with estimates; PINS drops 8%+ after hours (Jonathan Vanian/CNBC)",
-            "link": "https://www.techmeme.com/260804/p44#a260804p44",
-            "published": "Tue, 04 Aug 2026 17:06:12 -0400"
-        },
-        {
-            "title": "A US appeals court overturns a ruling that had temporarily barred Perplexity from using its agentic shopping tools on Amazon's platform (Blake Brittain/Reuters)",
-            "link": "https://www.techmeme.com/260804/p43#a260804p43",
-            "published": "Tue, 04 Aug 2026 17:00:56 -0400"
-        },
-        {
-            "title": "AMD reports Q2 revenue up 50% YoY to $11.5B, vs. $11.3B est., Data Center revenue up 107%, forecasts Q3 revenue below some estimates; AMD drops 7%+ after hours (Ian King/Bloomberg)",
-            "link": "https://www.techmeme.com/260804/p42#a260804p42",
-            "published": "Tue, 04 Aug 2026 16:51:07 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "SpaceX\u2019s Spending on A.I. Soars, In First Results After I.P.O.",
+            "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
             "link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
-            "published": "Tue, 04 Aug 2026 20:45:24 +0000"
+            "published": "Tue, 04 Aug 2026 22:52:45 +0000"
         },
         {
             "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
@@ -48,16 +48,26 @@
             "published": "Mon, 03 Aug 2026 18:56:22 +0000"
         },
         {
-            "title": "Man\u2019s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
-            "link": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
-            "published": "Tue, 04 Aug 2026 17:12:58 +0000"
+            "title": "White House Readies A.I. Framework to Review Security Risks",
+            "link": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+            "published": "Tue, 04 Aug 2026 22:17:11 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+            "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 23:09:44 GMT"
+        },
+        {
+            "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+            "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 22:10:00 GMT"
+        },
+        {
             "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
             "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 04 Aug 2026 20:48:59 GMT"
+            "published": "Tue, 04 Aug 2026 21:57:19 GMT"
         },
         {
             "title": "Apple issues new challenge against UK order for access to private user data",
@@ -68,16 +78,6 @@
             "title": "Tokenomics: Why making AI pay is tricky",
             "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 03 Aug 2026 23:21:10 GMT"
-        },
-        {
-            "title": "Xbox Series X price hiked by \u00a3170 due to rising memory chip costs",
-            "link": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 03 Aug 2026 11:18:10 GMT"
-        },
-        {
-            "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-            "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 31 Jul 2026 21:57:59 GMT"
         }
     ]
 }
