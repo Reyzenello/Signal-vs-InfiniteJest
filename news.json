@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: to fight critics on social media, DHS sent platforms hundreds of subpoenas and asked posters to sign letters saying speech about ICE \"may\" be a crime (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260803/p38#a260803p38",
+            "published": "Mon, 03 Aug 2026 22:15:00 -0400"
+        },
+        {
+            "title": "TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court (Dietrich Knauth/Reuters)",
+            "link": "https://www.techmeme.com/260803/p37#a260803p37",
+            "published": "Mon, 03 Aug 2026 20:15:01 -0400"
+        },
+        {
+            "title": "Texas halts approval of data center grid connections until audits are performed; projects representing 474+ GW are in the queue, over 5x the grid's peak demand (The Texas Tribune)",
+            "link": "https://www.techmeme.com/260803/p36#a260803p36",
+            "published": "Mon, 03 Aug 2026 19:58:51 -0400"
+        },
+        {
             "title": "Amazon becomes the fifth company to reach a $3T market cap, joining Nvidia, Alphabet, Microsoft, and Apple; its stock closed up 4.58% on Monday (Jeran Wittenstein/Bloomberg)",
             "link": "https://www.techmeme.com/260803/p35#a260803p35",
             "published": "Mon, 03 Aug 2026 17:35:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Snap reports Q2 revenue up 19% YoY to $1.6B, vs. $1.54B est., DAUs up 5% to 493M, vs. 487M est., forecasts Q3 revenue above est.; SNAP jumps 10%+ after hours (Jonathan Vanian/CNBC)",
             "link": "https://www.techmeme.com/260803/p34#a260803p34",
             "published": "Mon, 03 Aug 2026 16:55:01 -0400"
-        },
-        {
-            "title": "Palantir reports Q2 revenue up 93% YoY to $1.94B, vs. $1.8B est., US commercial revenue up 149%, and raises FY 2026 revenue guidance; PLTR jumps 9%+ after hours (Samantha Subin/CNBC)",
-            "link": "https://www.techmeme.com/260803/p33#a260803p33",
-            "published": "Mon, 03 Aug 2026 16:35:01 -0400"
-        },
-        {
-            "title": "Samsung says it's restricting app registrations and removing apps with SDKs that can turn smart TVs into residential proxy exit nodes, after a similar ban by LG (Zack Whittaker/TechCrunch)",
-            "link": "https://www.techmeme.com/260803/p32#a260803p32",
-            "published": "Mon, 03 Aug 2026 15:45:01 -0400"
-        },
-        {
-            "title": "Court docs: an FBI agent has been charged with amassing ~$1M worth of cryptocurrency, largely by making unauthorized withdrawals from a criminal target overseas (Devlin Barrett/New York Times)",
-            "link": "https://www.techmeme.com/260803/p31#a260803p31",
-            "published": "Mon, 03 Aug 2026 14:00:39 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Tokenomics: Why making AI pay is tricky",
+            "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 03 Aug 2026 23:21:10 GMT"
+        },
+        {
             "title": "Xbox Series X price hiked by \u00a3170 due to rising memory chip costs",
             "link": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 03 Aug 2026 11:18:10 GMT"
@@ -73,11 +78,6 @@
             "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
             "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 31 Jul 2026 01:31:50 GMT"
-        },
-        {
-            "title": "How police are trying to divert teen hackers away from crime",
-            "link": "https://www.bbc.co.uk/news/articles/cn0nqpy1rk4o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 31 Jul 2026 00:42:48 GMT"
         }
     ]
 }
