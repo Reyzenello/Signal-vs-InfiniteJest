@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources and filings: Google assembled a ~$200B financing program for Anthropic, with $150B+ tied to TPUs and involving Broadcom, Blackstone, Apollo, and others (Financial Times)",
-            "link": "https://www.techmeme.com/260804/p6#a260804p6",
-            "published": "Tue, 04 Aug 2026 04:25:00 -0400"
+            "title": "AI cloud startup Volta raised $300M co-led by a16z and Altimeter at a $2.4B valuation and says it landed a $10B contract with an unnamed leading AI developer (Dina Bass/Bloomberg)",
+            "link": "https://www.techmeme.com/260804/p17#a260804p17",
+            "published": "Tue, 04 Aug 2026 07:35:03 -0400"
         },
         {
-            "title": "A look at Alphabet's moonshot lab X and interviews with its staff, including CEO Astro Teller, on reinventing itself and what its next big thing might be (Harry McCracken/Fast Company)",
-            "link": "https://www.techmeme.com/260804/p5#a260804p5",
-            "published": "Tue, 04 Aug 2026 03:50:00 -0400"
+            "title": "Sources: China's CXMT is set to manufacture small quantities of LPDDR6 smartphone memory by the end of 2026, as it seeks to compete with SK Hynix and Samsung (Bloomberg)",
+            "link": "https://www.techmeme.com/260804/p16#a260804p16",
+            "published": "Tue, 04 Aug 2026 07:20:00 -0400"
         },
         {
-            "title": "Filing: Apple asks a US judge for a preliminary injunction barring two former staff and OpenAI from accessing, acquiring, using, or disclosing confidential info (Reuters)",
-            "link": "https://www.techmeme.com/260804/p4#a260804p4",
-            "published": "Tue, 04 Aug 2026 02:50:00 -0400"
+            "title": "Sources: the FCC is drafting a restriction on US imports of new models of Chinese data center optical transceivers, set to take effect upon publication in 2026 (Alexandra Alper/Reuters)",
+            "link": "https://www.techmeme.com/260804/p15#a260804p15",
+            "published": "Tue, 04 Aug 2026 07:10:03 -0400"
         },
         {
-            "title": "OpenAI disputes Apple's account of pre-lawsuit contacts, rejects claims that ex-staff used confidential information, shares iMessages and emails, and more (OpenAI)",
-            "link": "https://www.techmeme.com/260804/p3#a260804p3",
-            "published": "Tue, 04 Aug 2026 02:45:01 -0400"
+            "title": "Uber is defending 4,000+ rider sexual-violence lawsuits by aggressively examining plaintiffs' drinking, clothing, and more, after promising to protect survivors (Emily Steel/New York Times)",
+            "link": "https://www.techmeme.com/260804/p14#a260804p14",
+            "published": "Tue, 04 Aug 2026 07:00:36 -0400"
         },
         {
-            "title": "Q&A with Bluesky CEO Toni Schneider on the AT Protocol, ActivityPub, scaling moderation, Bluesky's reputation as a progressive social media network, and more (Nilay Patel/The Verge)",
-            "link": "https://www.techmeme.com/260804/p2#a260804p2",
-            "published": "Tue, 04 Aug 2026 02:25:00 -0400"
+            "title": "In a rare interview, Huawei chip scientist Liao Heng warns Western chip companies will eventually face physical chip limits and talks Huawei's Tau Scaling Law (Bloomberg)",
+            "link": "https://www.techmeme.com/260804/p13#a260804p13",
+            "published": "Tue, 04 Aug 2026 06:50:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
             "link": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
-            "published": "Tue, 04 Aug 2026 09:04:23 +0000"
+            "published": "Tue, 04 Aug 2026 11:52:12 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple issues new challenge against UK order for access to private user data",
+            "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 10:22:40 GMT"
+        },
         {
             "title": "Tokenomics: Why making AI pay is tricky",
             "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "AI firms must answer for rogue bots, says boss of hacked company",
             "link": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 31 Jul 2026 18:10:28 GMT"
-        },
-        {
-            "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-            "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 31 Jul 2026 01:31:50 GMT"
         }
     ]
 }
