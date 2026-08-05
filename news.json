@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens (Jonathan Vanian/CNBC)",
+            "link": "https://www.techmeme.com/260805/p34#a260805p34",
+            "published": "Wed, 05 Aug 2026 15:43:30 -0400"
+        },
+        {
+            "title": "Source: Yunfeng Capital, a PE firm co-founded by Jack Ma, invested ~$30M in AI insurance tech startup Corgi, leading a round that reportedly valued Corgi at $4B (Business Insider)",
+            "link": "https://www.techmeme.com/260805/p33#a260805p33",
+            "published": "Wed, 05 Aug 2026 14:20:02 -0400"
+        },
+        {
             "title": "Mysk: Apple's Private Relay tool can leak users' IP addresses due to issues in Apple's WebKit browser engine, also affecting OnionBrowser, a Tor browser for iOS (Joseph Cox/404 Media)",
             "link": "https://www.techmeme.com/260805/p32#a260805p32",
             "published": "Wed, 05 Aug 2026 13:40:01 -0400"
@@ -14,23 +24,13 @@
             "title": "Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release (Ivan Mehta/TechCrunch)",
             "link": "https://www.techmeme.com/260805/p30#a260805p30",
             "published": "Wed, 05 Aug 2026 12:50:00 -0400"
-        },
-        {
-            "title": "Google says Chief AI Architect and Google DeepMind CTO Koray Kavukcuoglu will take over many of Demis Hassabis' responsibilities as SVP; GOOG falls 3%+ (Bloomberg)",
-            "link": "https://www.techmeme.com/260805/p29#a260805p29",
-            "published": "Wed, 05 Aug 2026 12:25:01 -0400"
-        },
-        {
-            "title": "Discovery Loop, co-founded by Jeff Dean, is backed by seed funding from Radical Ventures, Khosla Ventures, and others; Google also has a stake in the company (Cade Metz/New York Times)",
-            "link": "https://www.techmeme.com/260805/p28#a260805p28",
-            "published": "Wed, 05 Aug 2026 12:15:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How China\u2019s A.I. Is Surging Across Africa",
             "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
-            "published": "Wed, 05 Aug 2026 14:12:57 +0000"
+            "published": "Wed, 05 Aug 2026 18:53:31 +0000"
         },
         {
             "title": "Four Top Google A.I. Researchers Form New Start-Up",
@@ -48,9 +48,9 @@
             "published": "Tue, 04 Aug 2026 22:52:45 +0000"
         },
         {
-            "title": "Google Shakes Up A.I. Leadership",
+            "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up",
             "link": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
-            "published": "Wed, 05 Aug 2026 17:21:59 +0000"
+            "published": "Wed, 05 Aug 2026 19:17:32 +0000"
         }
     ],
     "source_2": [
