@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "An internal TikTok doc shows it withheld a safeguarded algorithm from 10% of US users, including a 16-year-old who was fed self-harm content and died by suicide (Olivia Carville/Bloomberg)",
-            "link": "https://www.techmeme.com/260804/p50#a260804p50",
-            "published": "Tue, 04 Aug 2026 18:25:02 -0400"
+            "title": "Cloudflare announces Cloudflare Wallets for users to pay for APIs and content via stablecoins, with the ability to create virtual wallets for agentic shopping (Jeff John Roberts/Fortune)",
+            "link": "https://www.techmeme.com/260804/p57#a260804p57",
+            "published": "Tue, 04 Aug 2026 23:10:00 -0400"
         },
         {
-            "title": "Match reports Q2 revenue down 1% YoY to $853M, vs. $856.6M est., 13.3M paying users, vs. 13.4M est., forecasts Q3 revenue below est.; MTCH drops 8%+ after hours (Samantha Kelly/Bloomberg)",
-            "link": "https://www.techmeme.com/260804/p49#a260804p49",
-            "published": "Tue, 04 Aug 2026 17:55:01 -0400"
+            "title": "The AI frenzy has divided the VC market, as the gap between top and bottom performers has more than doubled for 2024 funds compared to funds from 2017 to 2021 (Bloomberg)",
+            "link": "https://www.techmeme.com/260804/p56#a260804p56",
+            "published": "Tue, 04 Aug 2026 22:15:00 -0400"
         },
         {
-            "title": "The UK AISI says it observed a total of 19 instances where Mythos and GPT-5.6 Sol tried to hack people and companies during a routine cyber evaluation in July (Sam Sabin/Axios)",
-            "link": "https://www.techmeme.com/260804/p48#a260804p48",
-            "published": "Tue, 04 Aug 2026 17:30:02 -0400"
+            "title": "SpaceX reports Q2 revenue from connectivity, which includes Starlink, up 66% YoY to $4.29B vs. $3.83B est., Starlink subscribers up 100% to 12M vs. 12.19M est. (Todd Bishop/GeekWire)",
+            "link": "https://www.techmeme.com/260804/p55#a260804p55",
+            "published": "Tue, 04 Aug 2026 21:30:01 -0400"
         },
         {
-            "title": "Sources: the US' AI framework excludes open models and defines a covered frontier model as closed source with SOTA capabilities and national security risks (Maria Curi/Axios)",
-            "link": "https://www.techmeme.com/260804/p47#a260804p47",
-            "published": "Tue, 04 Aug 2026 17:25:00 -0400"
+            "title": "House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks (Kelcee Griffis/Bloomberg)",
+            "link": "https://www.techmeme.com/260804/p54#a260804p54",
+            "published": "Tue, 04 Aug 2026 20:20:03 -0400"
         },
         {
-            "title": "SpaceX says its Q2 capex was $18.4B, up from $2.8B a year ago, including $15.8B for AI (Micah Maidenberg/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260804/p46#a260804p46",
-            "published": "Tue, 04 Aug 2026 17:15:04 -0400"
+            "title": "OpenAI says one of its models exploited a website after third-party AI security lab Irregular mistakenly gave it access to the internet during evaluations (Wired)",
+            "link": "https://www.techmeme.com/260804/p53#a260804p53",
+            "published": "Tue, 04 Aug 2026 19:45:00 -0400"
         }
     ],
     "source_1": [
@@ -35,12 +35,12 @@
         {
             "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
             "link": "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html",
-            "published": "Tue, 04 Aug 2026 18:32:53 +0000"
+            "published": "Tue, 04 Aug 2026 18:32:54 +0000"
         },
         {
             "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
             "link": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
-            "published": "Tue, 04 Aug 2026 19:54:28 +0000"
+            "published": "Tue, 04 Aug 2026 19:54:29 +0000"
         },
         {
             "title": "What Are Companies Getting for All That A.I. Spending?",
@@ -48,21 +48,26 @@
             "published": "Mon, 03 Aug 2026 18:56:22 +0000"
         },
         {
-            "title": "White House Readies A.I. Framework to Review Security Risks",
+            "title": "Trump White House Readies AI Framework to Review Security Risks",
             "link": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
-            "published": "Tue, 04 Aug 2026 22:17:11 +0000"
+            "published": "Wed, 05 Aug 2026 00:17:54 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+            "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 00:02:18 GMT"
+        },
+        {
+            "title": "Could tech replace firefighters in the battle against wildfires?",
+            "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 04 Aug 2026 23:21:47 GMT"
+        },
+        {
             "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
             "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 04 Aug 2026 23:09:44 GMT"
-        },
-        {
-            "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-            "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 04 Aug 2026 22:10:00 GMT"
         },
         {
             "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
@@ -73,11 +78,6 @@
             "title": "Apple issues new challenge against UK order for access to private user data",
             "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 04 Aug 2026 10:22:40 GMT"
-        },
-        {
-            "title": "Tokenomics: Why making AI pay is tricky",
-            "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 03 Aug 2026 23:21:10 GMT"
         }
     ]
 }
