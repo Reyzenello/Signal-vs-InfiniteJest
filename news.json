@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Faye, which offers travel insurance services and uses AI to help resolve claims, raised a $50M Series C led by Madrona, taking its total funding to $100M (Chris Metinko/Axios)",
-            "link": "https://www.techmeme.com/260805/p23#a260805p23",
-            "published": "Wed, 05 Aug 2026 11:15:02 -0400"
+            "title": "Mysk: Apple's Private Relay tool can leak users' IP addresses due to issues in Apple's WebKit browser engine, also affecting OnionBrowser, a Tor browser for iOS (Joseph Cox/404 Media)",
+            "link": "https://www.techmeme.com/260805/p32#a260805p32",
+            "published": "Wed, 05 Aug 2026 13:40:01 -0400"
         },
         {
-            "title": "Developers in Africa are increasingly choosing Chinese open-source AI models over US models, saying they are downloadable, easier to customize, and much cheaper (New York Times)",
-            "link": "https://www.techmeme.com/260805/p22#a260805p22",
-            "published": "Wed, 05 Aug 2026 10:45:00 -0400"
+            "title": "Reddit expands its test of Rules Hub, a suite of tools that rely on LLMs to help moderators manage their communities, and plans a full launch later this year (Jay Peters/The Verge)",
+            "link": "https://www.techmeme.com/260805/p31#a260805p31",
+            "published": "Wed, 05 Aug 2026 13:20:03 -0400"
         },
         {
-            "title": "Sources: ByteDance founder Zhang Yiming told employees at an all-hands last month that the company will not use model distillation to accelerate capabilities (The Information)",
-            "link": "https://www.techmeme.com/260805/p21#a260805p21",
-            "published": "Wed, 05 Aug 2026 09:40:14 -0400"
+            "title": "Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release (Ivan Mehta/TechCrunch)",
+            "link": "https://www.techmeme.com/260805/p30#a260805p30",
+            "published": "Wed, 05 Aug 2026 12:50:00 -0400"
         },
         {
-            "title": "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260805/p20#a260805p20",
-            "published": "Wed, 05 Aug 2026 09:25:04 -0400"
+            "title": "Google says Chief AI Architect and Google DeepMind CTO Koray Kavukcuoglu will take over many of Demis Hassabis' responsibilities as SVP; GOOG falls 3%+ (Bloomberg)",
+            "link": "https://www.techmeme.com/260805/p29#a260805p29",
+            "published": "Wed, 05 Aug 2026 12:25:01 -0400"
         },
         {
-            "title": "Anthropic confirms it is building an in-house silicon team to design custom chips for Claude, co-designing hardware and models and using a \"multi-chip approach\" (Tom Carter/Business Insider)",
-            "link": "https://www.techmeme.com/260805/p19#a260805p19",
-            "published": "Wed, 05 Aug 2026 09:01:03 -0400"
+            "title": "Discovery Loop, co-founded by Jeff Dean, is backed by seed funding from Radical Ventures, Khosla Ventures, and others; Google also has a stake in the company (Cade Metz/New York Times)",
+            "link": "https://www.techmeme.com/260805/p28#a260805p28",
+            "published": "Wed, 05 Aug 2026 12:15:01 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "How China\u2019s A.I. Is Surging Across Africa",
             "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
             "published": "Wed, 05 Aug 2026 14:12:57 +0000"
+        },
+        {
+            "title": "Four Top Google A.I. Researchers Form New Start-Up",
+            "link": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+            "published": "Wed, 05 Aug 2026 16:00:07 +0000"
         },
         {
             "title": "Trump White House Readies AI Framework to Review Security Risks",
@@ -43,14 +48,9 @@
             "published": "Tue, 04 Aug 2026 22:52:45 +0000"
         },
         {
-            "title": "In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers",
-            "link": "https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html",
-            "published": "Tue, 04 Aug 2026 18:32:54 +0000"
-        },
-        {
-            "title": "Man\u2019s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
-            "link": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
-            "published": "Tue, 04 Aug 2026 17:12:58 +0000"
+            "title": "Google Shakes Up A.I. Leadership",
+            "link": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
+            "published": "Wed, 05 Aug 2026 17:21:59 +0000"
         }
     ],
     "source_2": [
