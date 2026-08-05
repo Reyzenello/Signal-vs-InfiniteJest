@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Uber CEO Dara Khosrowshahi says the company plans to spend $10B+ \"over the coming years\" to deploy 120K driverless vehicles, aiming to hit 15+ cities in 2026 (Financial Times)",
-            "link": "https://www.techmeme.com/260805/p14#a260805p14",
-            "published": "Wed, 05 Aug 2026 07:35:02 -0400"
+            "title": "Faye, which offers travel insurance services and uses AI to help resolve claims, raised a $50M Series C led by Madrona, taking its total funding to $100M (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/260805/p23#a260805p23",
+            "published": "Wed, 05 Aug 2026 11:15:02 -0400"
         },
         {
-            "title": "Shopify reports Q2 revenue up 34% YoY to $3.6B, above $3.45B est., GMV up 32% YoY to $115.6B, and forecasts Q3 revenue above est.; SHOP jumps 30%+ pre-market (Deborah Sophia/Reuters)",
-            "link": "https://www.techmeme.com/260805/p13#a260805p13",
-            "published": "Wed, 05 Aug 2026 07:25:02 -0400"
+            "title": "Developers in Africa are increasingly choosing Chinese open-source AI models over US models, saying they are downloadable, easier to customize, and much cheaper (New York Times)",
+            "link": "https://www.techmeme.com/260805/p22#a260805p22",
+            "published": "Wed, 05 Aug 2026 10:45:00 -0400"
         },
         {
-            "title": "Uber reports Q2 revenue up 12% YoY to $14.2B, below $14.24B est., Gross Bookings up 24% to $58B, above $57B est., and forecasts Q3 adjusted EPS below est. (Lora Kolodny/CNBC)",
-            "link": "https://www.techmeme.com/260805/p12#a260805p12",
-            "published": "Wed, 05 Aug 2026 07:18:53 -0400"
+            "title": "Sources: ByteDance founder Zhang Yiming told employees at an all-hands last month that the company will not use model distillation to accelerate capabilities (The Information)",
+            "link": "https://www.techmeme.com/260805/p21#a260805p21",
+            "published": "Wed, 05 Aug 2026 09:40:14 -0400"
         },
         {
-            "title": "Circle reports Q2 revenue up 7% YoY to $701M, below $712M est., net income of $48M, vs. $43M est., and USDC circulation at $73.4B on June 30; CRCL fell 20% YTD (Olga Kharif/Bloomberg)",
-            "link": "https://www.techmeme.com/260805/p11#a260805p11",
-            "published": "Wed, 05 Aug 2026 06:45:02 -0400"
+            "title": "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260805/p20#a260805p20",
+            "published": "Wed, 05 Aug 2026 09:25:04 -0400"
         },
         {
-            "title": "Study: Palantir's European units made \u20ac440.5M in 2024 revenue but reported sharply lower margins than its US operations, helping cut its European tax bill (Antoaneta Roussi/Politico)",
-            "link": "https://www.techmeme.com/260805/p10#a260805p10",
-            "published": "Wed, 05 Aug 2026 06:35:15 -0400"
+            "title": "Anthropic confirms it is building an in-house silicon team to design custom chips for Claude, co-designing hardware and models and using a \"multi-chip approach\" (Tom Carter/Business Insider)",
+            "link": "https://www.techmeme.com/260805/p19#a260805p19",
+            "published": "Wed, 05 Aug 2026 09:01:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How China\u2019s A.I. Is Surging Across Africa",
+            "link": "https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html",
+            "published": "Wed, 05 Aug 2026 14:12:57 +0000"
+        },
+        {
+            "title": "Trump White House Readies AI Framework to Review Security Risks",
+            "link": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
+            "published": "Wed, 05 Aug 2026 00:17:54 +0000"
+        },
         {
             "title": "SpaceX, in First Earnings After IPO, Reports Soaring AI Spending",
             "link": "https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html",
@@ -38,46 +48,36 @@
             "published": "Tue, 04 Aug 2026 18:32:54 +0000"
         },
         {
-            "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
-            "link": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
-            "published": "Tue, 04 Aug 2026 19:54:29 +0000"
-        },
-        {
-            "title": "What Are Companies Getting for All That A.I. Spending?",
-            "link": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
-            "published": "Mon, 03 Aug 2026 18:56:22 +0000"
-        },
-        {
-            "title": "Trump White House Readies AI Framework to Review Security Risks",
-            "link": "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html",
-            "published": "Wed, 05 Aug 2026 00:17:54 +0000"
+            "title": "Man\u2019s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules",
+            "link": "https://www.nytimes.com/2026/08/04/world/europe/runaway-car-jaguar-uk.html",
+            "published": "Tue, 04 Aug 2026 17:12:58 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+            "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 14:04:43 GMT"
+        },
+        {
+            "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
+            "link": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 13:06:43 GMT"
+        },
         {
             "title": "The Sims and EA FC maker Electronic Arts sells for $55bn to Saudi-led group",
             "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 05 Aug 2026 10:29:59 GMT"
         },
         {
-            "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+            "title": "Anthropic AI used fake profiles to target people in hack then hid the evidence",
             "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 05 Aug 2026 09:24:18 GMT"
-        },
-        {
-            "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
-            "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 05 Aug 2026 08:53:40 GMT"
         },
         {
             "title": "How tech is helping in the battle against wildfires",
             "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 04 Aug 2026 23:21:47 GMT"
-        },
-        {
-            "title": "Apple issues new challenge against UK order for access to private user data",
-            "link": "https://www.bbc.co.uk/news/articles/cvg0kk3ek2vo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 04 Aug 2026 10:22:40 GMT"
         }
     ]
 }
