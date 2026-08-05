@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic (Kai Williams/Understanding AI)",
+            "link": "https://www.techmeme.com/260805/p5#a260805p5",
+            "published": "Wed, 05 Aug 2026 04:10:14 -0400"
+        },
+        {
             "title": "How Reddit moderators are battling AI-powered astroturfing ad campaigns that exploit the platform's trusted reputation to promote skincare and other products (Mia Sato/The Verge)",
             "link": "https://www.techmeme.com/260805/p4#a260805p4",
             "published": "Wed, 05 Aug 2026 02:35:00 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources: Samsung and SK Hynix are evaluating chipmaking equipment from China's AMEC for possible use at their Chinese factories, as they hedge against US curbs (Reuters)",
             "link": "https://www.techmeme.com/260805/p1#a260805p1",
             "published": "Wed, 05 Aug 2026 00:35:01 -0400"
-        },
-        {
-            "title": "Cloudflare announces Cloudflare Wallets for users to pay for APIs and content via stablecoins, with the ability to create virtual wallets for agentic shopping (Jeff John Roberts/Fortune)",
-            "link": "https://www.techmeme.com/260804/p57#a260804p57",
-            "published": "Tue, 04 Aug 2026 23:10:00 -0400"
         }
     ],
     "source_1": [
@@ -55,17 +55,17 @@
     ],
     "source_2": [
         {
-            "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-            "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 05 Aug 2026 06:35:48 GMT"
-        },
-        {
-            "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+            "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
             "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 05 Aug 2026 00:02:18 GMT"
+            "published": "Wed, 05 Aug 2026 09:24:18 GMT"
         },
         {
-            "title": "How tech is helping firefighters in the battle against wildfires",
+            "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+            "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 08:53:40 GMT"
+        },
+        {
+            "title": "How tech is helping in the battle against wildfires",
             "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 04 Aug 2026 23:21:47 GMT"
         },
