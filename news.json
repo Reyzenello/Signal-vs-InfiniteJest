@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "How Reddit moderators are battling AI-powered astroturfing ad campaigns that exploit the platform's trusted reputation to promote skincare and other products (Mia Sato/The Verge)",
+            "link": "https://www.techmeme.com/260805/p4#a260805p4",
+            "published": "Wed, 05 Aug 2026 02:35:00 -0400"
+        },
+        {
+            "title": "Innolight falls after a report said the US plans to restrict imports of new Chinese data center optical transceivers; 62% of its Q1 revenue came from the US (Reuters)",
+            "link": "https://www.techmeme.com/260805/p3#a260805p3",
+            "published": "Wed, 05 Aug 2026 01:45:01 -0400"
+        },
+        {
+            "title": "A profile of livestream shopping app Whatnot, which added 20M accounts in 2025, facilitated the sale of ~$8B in goods, and is set for $1B+ in revenue in 2026 (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260805/p2#a260805p2",
+            "published": "Wed, 05 Aug 2026 01:30:01 -0400"
+        },
+        {
+            "title": "Sources: Samsung and SK Hynix are evaluating chipmaking equipment from China's AMEC for possible use at their Chinese factories, as they hedge against US curbs (Reuters)",
+            "link": "https://www.techmeme.com/260805/p1#a260805p1",
+            "published": "Wed, 05 Aug 2026 00:35:01 -0400"
+        },
+        {
             "title": "Cloudflare announces Cloudflare Wallets for users to pay for APIs and content via stablecoins, with the ability to create virtual wallets for agentic shopping (Jeff John Roberts/Fortune)",
             "link": "https://www.techmeme.com/260804/p57#a260804p57",
             "published": "Tue, 04 Aug 2026 23:10:00 -0400"
-        },
-        {
-            "title": "The AI frenzy has divided the VC market, as the gap between top and bottom performers has more than doubled for 2024 funds compared to funds from 2017 to 2021 (Bloomberg)",
-            "link": "https://www.techmeme.com/260804/p56#a260804p56",
-            "published": "Tue, 04 Aug 2026 22:15:00 -0400"
-        },
-        {
-            "title": "SpaceX reports Q2 revenue from connectivity, which includes Starlink, up 66% YoY to $4.29B vs. $3.83B est., Starlink subscribers up 100% to 12M vs. 12.19M est. (Todd Bishop/GeekWire)",
-            "link": "https://www.techmeme.com/260804/p55#a260804p55",
-            "published": "Tue, 04 Aug 2026 21:30:01 -0400"
-        },
-        {
-            "title": "House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks (Kelcee Griffis/Bloomberg)",
-            "link": "https://www.techmeme.com/260804/p54#a260804p54",
-            "published": "Tue, 04 Aug 2026 20:20:03 -0400"
-        },
-        {
-            "title": "OpenAI says one of its models exploited a website after third-party AI security lab Irregular mistakenly gave it access to the internet during evaluations (Wired)",
-            "link": "https://www.techmeme.com/260804/p53#a260804p53",
-            "published": "Tue, 04 Aug 2026 19:45:00 -0400"
         }
     ],
     "source_1": [
@@ -55,12 +55,17 @@
     ],
     "source_2": [
         {
+            "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
+            "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 05 Aug 2026 06:35:48 GMT"
+        },
+        {
             "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
             "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 05 Aug 2026 00:02:18 GMT"
         },
         {
-            "title": "Could tech replace firefighters in the battle against wildfires?",
+            "title": "How tech is helping firefighters in the battle against wildfires",
             "link": "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 04 Aug 2026 23:21:47 GMT"
         },
@@ -68,11 +73,6 @@
             "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
             "link": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 04 Aug 2026 23:09:44 GMT"
-        },
-        {
-            "title": "SpaceX's first-ever earnings show higher revenues and huge spending",
-            "link": "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 04 Aug 2026 21:57:19 GMT"
         },
         {
             "title": "Apple issues new challenge against UK order for access to private user data",
