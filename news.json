@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Microsoft plans to unveil its next-gen Maia 300 AI chip this fall, potentially as soon as September, and is negotiating with TSMC to make 300K+ in 2027 (The Information)",
+            "title": "Tel Aviv- and San Francisco-based Corma, which develops AI models for defensive cybersecurity, emerges from stealth with a $60M seed led by Sequoia Capital (Emily Forlini/Fortune)",
+            "link": "https://www.techmeme.com/260810/p27#a260810p27",
+            "published": "Mon, 10 Aug 2026 10:40:00 -0400"
+        },
+        {
+            "title": "As Waymo expands its fleet from 700 in 2025 to nearly 4,000 now, recalls and edge-case failures like flooded roadways and a San Francisco power outage mount (Emmy Martin/New York Times)",
+            "link": "https://www.techmeme.com/260810/p26#a260810p26",
+            "published": "Mon, 10 Aug 2026 10:15:01 -0400"
+        },
+        {
+            "title": "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+            "link": "https://www.techmeme.com/260810/p25#a260810p25",
+            "published": "Mon, 10 Aug 2026 09:40:00 -0400"
+        },
+        {
+            "title": "Sources: Microsoft plans to unveil its next-gen AI chip, the Maia 300, potentially as soon as September, and is in talks with TSMC to make 300K+ chips for 2027 (The Information)",
             "link": "https://www.techmeme.com/260810/p24#a260810p24",
             "published": "Mon, 10 Aug 2026 09:15:00 -0400"
         },
@@ -9,48 +24,33 @@
             "title": "Analysis: the 256GB iPhone 18 Pro is set to have a bill of materials cost ~38% higher than the iPhone 17 Pro due to memory prices; memory's BOM share hits 34% (TrendForce)",
             "link": "https://www.techmeme.com/260810/p23#a260810p23",
             "published": "Mon, 10 Aug 2026 09:10:02 -0400"
-        },
-        {
-            "title": "Anthropic, Macquarie, and Singapore's GIC form Theseus Infrastructure to develop AI computing sites; Anthropic will cover consumer electricity price hikes (Mark Bergen/Bloomberg)",
-            "link": "https://www.techmeme.com/260810/p22#a260810p22",
-            "published": "Mon, 10 Aug 2026 08:55:00 -0400"
-        },
-        {
-            "title": "Google adds Venmo as a payment option on Google Play for games, apps, add-ons, subscriptions, and more in the US, adding to support for PayPal and Cash App (Ivan Mehta/TechCrunch)",
-            "link": "https://www.techmeme.com/260810/p21#a260810p21",
-            "published": "Mon, 10 Aug 2026 08:45:00 -0400"
-        },
-        {
-            "title": "Intel announces a $15B common stock offering, with proceeds going to general corporate purposes like \"maintaining a strong balance sheet\"; INTC falls 3%+ (Sarah Frier/Bloomberg)",
-            "link": "https://www.techmeme.com/260810/p20#a260810p20",
-            "published": "Mon, 10 Aug 2026 08:20:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
-            "link": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
-            "published": "Fri, 07 Aug 2026 09:50:24 +0000"
+            "title": "Waymo Is Growing Faster Than Ever. So Are Its \u2018Edge Cases.\u2019",
+            "link": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
+            "published": "Mon, 10 Aug 2026 13:56:20 +0000"
         },
         {
-            "title": "China\u2019s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
-            "link": "https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html",
-            "published": "Fri, 07 Aug 2026 08:10:00 +0000"
-        },
-        {
-            "title": "Google Names Demis Hassabis to New AI Role in a Leadership Shake-up",
-            "link": "https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html",
-            "published": "Wed, 05 Aug 2026 19:17:33 +0000"
-        },
-        {
-            "title": "The White House\u2019s Secret A.I. Rules + The State of Model Alignment With METR\u2019s Chris Painter + The Final Hot Mess Express",
-            "link": "https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html",
-            "published": "Fri, 07 Aug 2026 14:11:57 +0000"
+            "title": "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington",
+            "link": "https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html",
+            "published": "Mon, 10 Aug 2026 09:02:19 +0000"
         },
         {
             "title": "Meta Unveils \u2018Open Source\u2019 Version of Its Most Powerful A.I. Model",
             "link": "https://www.nytimes.com/2026/08/10/technology/meta-ai-open-source.html",
             "published": "Mon, 10 Aug 2026 10:00:15 +0000"
+        },
+        {
+            "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don\u2019t.",
+            "link": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+            "published": "Mon, 10 Aug 2026 12:34:18 +0000"
+        },
+        {
+            "title": "Can A.I. Get You Where You Want to Go for Less?",
+            "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
+            "published": "Mon, 10 Aug 2026 11:24:07 +0000"
         }
     ],
     "source_2": [
