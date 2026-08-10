@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "A look at London's King's Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others (Dominic-Madori Davis/TechCrunch)",
+            "title": "A profile of Founders Pledge, which has recorded $4B in pledges from founders so far in 2026, as the AI industry now accounts for a third of its lifetime total (Joel Khalili/Wired)",
+            "link": "https://www.techmeme.com/260810/p5#a260810p5",
+            "published": "Mon, 10 Aug 2026 04:20:01 -0400"
+        },
+        {
+            "title": "Revelio Labs: short-term AI training programs made up ~33% of the professional certificate market in 2026, up from just 2% in 2022 before ChatGPT launched (Liam Knox/Bloomberg)",
+            "link": "https://www.techmeme.com/260810/p4#a260810p4",
+            "published": "Mon, 10 Aug 2026 04:05:01 -0400"
+        },
+        {
+            "title": "How credit card issuers and reservation apps like OpenTable and Amex-owned Resy fragment restaurant reservations, wiring the best tables into premium card perks (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260810/p3#a260810p3",
+            "published": "Mon, 10 Aug 2026 03:50:06 -0400"
+        },
+        {
+            "title": "A look at London's King's Cross, which transformed from a seedy area into an AI hub after DeepMind arrived in 2016, and now hosts OpenAI, Meta, Wayve, and more (Dominic-Madori Davis/TechCrunch)",
             "link": "https://www.techmeme.com/260810/p2#a260810p2",
             "published": "Mon, 10 Aug 2026 01:40:14 -0400"
         },
@@ -9,21 +24,6 @@
             "title": "Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
             "link": "https://www.techmeme.com/260810/p1#a260810p1",
             "published": "Mon, 10 Aug 2026 00:30:01 -0400"
-        },
-        {
-            "title": "Sources: the UK Royal Navy removed internet connectivity from its drones' cameras, after finding they sent \"heartbeat communications\" to an IP address in China (Richard Holmes/Telegraph)",
-            "link": "https://www.techmeme.com/260809/p16#a260809p16",
-            "published": "Sun, 09 Aug 2026 23:50:01 -0400"
-        },
-        {
-            "title": "Sources: Sony and TSMC plan a $6.3B JV, owned ~60% by Sony and ~40% by TSMC, to mass produce next-gen image sensor chips in Japan's Kumamoto as early as 2029 (Nikkei Asia)",
-            "link": "https://www.techmeme.com/260809/p15#a260809p15",
-            "published": "Sun, 09 Aug 2026 23:25:01 -0400"
-        },
-        {
-            "title": "Sources: as Spotify tests a skip ahead button that lets some Premium users skip publisher-sold podcast ads and filler content, audio networks raise concerns (Max Tani/Semafor)",
-            "link": "https://www.techmeme.com/260809/p14#a260809p14",
-            "published": "Sun, 09 Aug 2026 22:55:04 -0400"
         }
     ],
     "source_1": [
@@ -60,11 +60,6 @@
             "published": "Mon, 10 Aug 2026 05:00:32 GMT"
         },
         {
-            "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-            "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 08 Aug 2026 13:41:32 GMT"
-        },
-        {
             "title": "Meta fined $567m in largest child safety ruling against social media giant",
             "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 07 Aug 2026 09:22:03 GMT"
@@ -78,6 +73,11 @@
             "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
             "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 06 Aug 2026 15:59:34 GMT"
+        },
+        {
+            "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+            "link": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 06 Aug 2026 14:50:54 GMT"
         }
     ]
 }
