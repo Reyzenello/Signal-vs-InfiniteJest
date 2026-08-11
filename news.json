@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI launches a ChatGPT desktop app for Linux in preview, supporting ChatGPT Work, Codex, and more; Computer Use outside the in-app browser is not available (Frederic Lardinois/The New Stack)",
+            "link": "https://www.techmeme.com/260811/p41#a260811p41",
+            "published": "Tue, 11 Aug 2026 18:55:01 -0400"
+        },
+        {
             "title": "The CFTC uses its \"emergency authority\" to order Kalshi to continue operating in New York after the state filed a lawsuit in July seeking to shutter Kalshi (Nikhilesh De/CoinDesk)",
             "link": "https://www.techmeme.com/260811/p40#a260811p40",
             "published": "Tue, 11 Aug 2026 18:40:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Researchers find that feeding a frontier model's encrypted reasoning traces to a weaker model from the same provider can make it output the traces in plaintext (Will Knight/Wired)",
             "link": "https://www.techmeme.com/260811/p37#a260811p37",
             "published": "Tue, 11 Aug 2026 17:10:02 -0400"
-        },
-        {
-            "title": "Sources: former OpenAI Chief Product Officer Kevin Weil is aiming to raise $150M for a new AI science startup, seeking a valuation of at least $750M (Business Insider)",
-            "link": "https://www.techmeme.com/260811/p36#a260811p36",
-            "published": "Tue, 11 Aug 2026 16:55:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Tokenomics: Why making AI pay is tricky",
+            "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 11 Aug 2026 23:03:52 GMT"
+        },
+        {
             "title": "AI agent hacks gym to get its user a spot in pilates class",
             "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 11 Aug 2026 12:09:26 GMT"
@@ -73,11 +78,6 @@
             "title": "Meta fined $567m in largest child safety ruling against social media giant",
             "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 07 Aug 2026 09:22:03 GMT"
-        },
-        {
-            "title": "Why airlines are warning over lithium-ion batteries",
-            "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 06 Aug 2026 23:04:40 GMT"
         }
     ]
 }
