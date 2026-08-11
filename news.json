@@ -1,7 +1,12 @@
 {
     "techmeme": [
         {
-            "title": "Owner of 1.5M-page site PatronView on a year of fighting scrapers: 214:1 bot-to-human page loads, 35K Claude crawls per referred user, Amazon bot referred none (Nick Gray/PatronView)",
+            "title": "A look at Western Australian police's first live facial recognition trial, which has scanned 130,000+ people since June, raising accuracy and privacy concerns (ABC)",
+            "link": "https://www.techmeme.com/260811/p5#a260811p5",
+            "published": "Tue, 11 Aug 2026 03:55:00 -0400"
+        },
+        {
+            "title": "PatronView's owner details a year of fighting scrapers: 214:1 bot-to-human page loads, 35,000 Claude crawls per referred user, and Amazon's bot referred none (Nick Gray/PatronView)",
             "link": "https://www.techmeme.com/260811/p4#a260811p4",
             "published": "Tue, 11 Aug 2026 02:45:01 -0400"
         },
@@ -11,7 +16,7 @@
             "published": "Tue, 11 Aug 2026 01:30:02 -0400"
         },
         {
-            "title": "Anthropic says Claude models in the EU will now add invisible watermarks to generated text and C2PA metadata to generated files, to comply with the EU AI Act (Thomas Claburn/The Register)",
+            "title": "Anthropic says new Claude models in the EU will add watermarks to text and C2PA metadata to files, to comply with the EU AI Act, and it will update older models (Thomas Claburn/The Register)",
             "link": "https://www.techmeme.com/260811/p2#a260811p2",
             "published": "Tue, 11 Aug 2026 01:00:54 -0400"
         },
@@ -19,11 +24,6 @@
             "title": "Sources: Anthropic is courting investors for what could be the biggest IPO ever, touting rapid growth and plans to address mounting public backlash against AI (Wall Street Journal)",
             "link": "https://www.techmeme.com/260811/p1#a260811p1",
             "published": "Tue, 11 Aug 2026 00:45:01 -0400"
-        },
-        {
-            "title": "Sources: investor interest in Situational Awareness surged after it nearly blew up on leveraged positions; the fund says it's not accepting new capital for now (Matt Levine/Bloomberg)",
-            "link": "https://www.techmeme.com/260810/p49#a260810p49",
-            "published": "Mon, 10 Aug 2026 23:20:01 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Mon, 10 Aug 2026 20:04:24 +0000"
         },
         {
-            "title": "Can A.I. Get You Where You Want to Go for Less?",
-            "link": "https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html",
-            "published": "Mon, 10 Aug 2026 11:24:07 +0000"
+            "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
+            "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
+            "published": "Tue, 11 Aug 2026 09:03:41 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
             "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 10 Aug 2026 22:31:42 GMT"
+            "published": "Tue, 11 Aug 2026 08:44:52 GMT"
         },
         {
             "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
