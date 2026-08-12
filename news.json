@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "A look at Candy Crush's continued popularity 15 years after its launch, with an estimated 81.5M MAUs and in-app revenue of $876.5M in fiscal year 2025 (Alanna Okun/Bloomberg)",
+            "link": "https://www.techmeme.com/260811/p43#a260811p43",
+            "published": "Tue, 11 Aug 2026 21:00:13 -0400"
+        },
+        {
+            "title": "A profile of Suno, which has been used by more than 100M people since 2023 and has 2M+ paid subscribers, as it faces copyright lawsuits from UMG and Sony Music (Bloomberg)",
+            "link": "https://www.techmeme.com/260811/p42#a260811p42",
+            "published": "Tue, 11 Aug 2026 19:55:01 -0400"
+        },
+        {
             "title": "OpenAI launches a ChatGPT desktop app for Linux in preview, supporting ChatGPT Work, Codex, and more; Computer Use outside the in-app browser is not available (Frederic Lardinois/The New Stack)",
             "link": "https://www.techmeme.com/260811/p41#a260811p41",
             "published": "Tue, 11 Aug 2026 18:55:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Source: Kalshi's annualized revenue topped $4B in July, up from $2B+ two months earlier, and its operating expenses totaled $300M in June (Yueqi Yang/The Information)",
             "link": "https://www.techmeme.com/260811/p39#a260811p39",
             "published": "Tue, 11 Aug 2026 17:55:00 -0400"
-        },
-        {
-            "title": "Accel raised $3.5B in funds for early-stage investments, including a $1.35B global expansion fund for larger early-stage rounds and rapid follow-on investments (Natasha Mascarenhas/Bloomberg)",
-            "link": "https://www.techmeme.com/260811/p38#a260811p38",
-            "published": "Tue, 11 Aug 2026 17:45:01 -0400"
-        },
-        {
-            "title": "Researchers find that feeding a frontier model's encrypted reasoning traces to a weaker model from the same provider can make it output the traces in plaintext (Will Knight/Wired)",
-            "link": "https://www.techmeme.com/260811/p37#a260811p37",
-            "published": "Tue, 11 Aug 2026 17:10:02 -0400"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
             "link": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
-            "published": "Mon, 10 Aug 2026 23:28:13 +0000"
+            "published": "Mon, 10 Aug 2026 23:28:14 +0000"
         },
         {
             "title": "Waymo Is Growing Faster Than Ever. So Are Its \u2018Edge Cases.\u2019",
