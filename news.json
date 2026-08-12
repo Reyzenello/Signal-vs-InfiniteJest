@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Kalshi is in advanced talks to raise $750M+ co-led by Sequoia Capital and Wellington Management at a $40B valuation; Kalshi was valued at $22B in May (Yueqi Yang/The Information)",
+            "link": "https://www.techmeme.com/260812/p45#a260812p45",
+            "published": "Wed, 12 Aug 2026 14:50:01 -0400"
+        },
+        {
+            "title": "Sources detail moves behind Google's AI reshuffle; Sergey Brin urged key staff to go all in on Gemini, and some teams shifted from DeepMind to corporate Google (Kenrick Cai/Reuters)",
+            "link": "https://www.techmeme.com/260812/p44#a260812p44",
+            "published": "Wed, 12 Aug 2026 14:15:01 -0400"
+        },
+        {
+            "title": "Sources: Apple hired Nate Gatten, an American Airlines exec with GOP ties, as government affairs VP, seeking someone who could align with Trump administration (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260812/p43#a260812p43",
+            "published": "Wed, 12 Aug 2026 13:20:03 -0400"
+        },
+        {
             "title": "Sources: the UK government is planning to regulate the use of AI in gene synthesis to prevent terrorists and other bad actors from using AI for bioweapons (Ellen Milligan/Bloomberg)",
             "link": "https://www.techmeme.com/260812/p42#a260812p42",
             "published": "Wed, 12 Aug 2026 12:15:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Bank of America says it plans to deploy $250B by July 2027 to support US digital and infrastructure projects, including data centers and energy infrastructure (Reuters)",
             "link": "https://www.techmeme.com/260812/p41#a260812p41",
             "published": "Wed, 12 Aug 2026 12:10:00 -0400"
-        },
-        {
-            "title": "SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens (xAI)",
-            "link": "https://www.techmeme.com/260812/p39#a260812p39",
-            "published": "Wed, 12 Aug 2026 11:35:01 -0400"
-        },
-        {
-            "title": "Silicon Data, which offers real-time compute pricing data to financial institutions and exchanges, raised a $30.5M Series A led by the Valor Atreides AI Fund (Chris Metinko/Axios)",
-            "link": "https://www.techmeme.com/260812/p40#a260812p40",
-            "published": "Wed, 12 Aug 2026 11:35:01 -0400"
-        },
-        {
-            "title": "ClearJet, whose AI-enabled logistics service connects shippers with unused cargo capacity on commercial flights, raised a $25M Series B led by Edison Partners (Mary Ann Azevedo/Crunchbase News)",
-            "link": "https://www.techmeme.com/260812/p38#a260812p38",
-            "published": "Wed, 12 Aug 2026 11:25:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Discord ordered to suspend livestreams in Brazil",
+            "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 17:10:31 GMT"
+        },
+        {
             "title": "Tokenomics: Why making AI pay is tricky",
             "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 11 Aug 2026 23:03:52 GMT"
@@ -73,11 +78,6 @@
             "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
             "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 10 Aug 2026 05:00:32 GMT"
-        },
-        {
-            "title": "Meta fined $567m in largest child safety ruling against social media giant",
-            "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 07 Aug 2026 09:22:03 GMT"
         }
     ]
 }
