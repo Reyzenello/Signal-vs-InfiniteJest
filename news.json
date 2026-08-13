@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "DeepSeek launches V4-Pro, its most advanced model that rivals Kimi K3 on some benchmarks at much lower prices, costing $0.44/1M input and $0.87/1M output tokens (Juro Osawa/The Information)",
+            "link": "https://www.techmeme.com/260813/p17#a260813p17",
+            "published": "Thu, 13 Aug 2026 06:05:01 -0400"
+        },
+        {
+            "title": "Sources: Demis Hassabis pitched a new independent industry AI safety entity, modeled on the IAEA, to top Trump officials before stepping down as DeepMind CEO (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260813/p16#a260813p16",
+            "published": "Thu, 13 Aug 2026 05:50:02 -0400"
+        },
+        {
+            "title": "Meta says it removed 750,000+ Australian accounts believed to belong to under-16s to comply with the social media ban, including 462,000 Instagram accounts (Newley Purnell/Bloomberg)",
+            "link": "https://www.techmeme.com/260813/p15#a260813p15",
+            "published": "Thu, 13 Aug 2026 05:40:01 -0400"
+        },
+        {
             "title": "In Q2 2026, server-led eSSDs reached 48% of NAND flash shipments as AI workloads shifted from training to inference, driving 5x YoY industry revenue growth (Counterpoint Research)",
             "link": "https://www.techmeme.com/260813/p14#a260813p14",
             "published": "Thu, 13 Aug 2026 03:35:00 -0400"
@@ -9,21 +24,6 @@
             "title": "A look at workers in India who are paid extra to wear devices that capture first-person video of factory and other work tasks for use as AI robot training data (Saritha Rai/Bloomberg)",
             "link": "https://www.techmeme.com/260813/p13#a260813p13",
             "published": "Thu, 13 Aug 2026 03:25:00 -0400"
-        },
-        {
-            "title": "Counterpoint: China's YMTC accounted for 14% of NAND flash shipments in Q2, behind Samsung's 25% and SK Hynix's 22%, but ahead of Micron and Kioxia (Howard Liu/South China Morning Post)",
-            "link": "https://www.techmeme.com/260813/p12#a260813p12",
-            "published": "Thu, 13 Aug 2026 03:05:01 -0400"
-        },
-        {
-            "title": "Lenovo reports Q1 revenue up 43% YoY to $26.94B, its highest quarterly revenue growth in five years, as AI-related revenue rose 60% YoY to $9.3B, 35% of total (Laurie Chen/Reuters)",
-            "link": "https://www.techmeme.com/260813/p11#a260813p11",
-            "published": "Thu, 13 Aug 2026 02:55:02 -0400"
-        },
-        {
-            "title": "Coinbase, Block, and 30+ other crypto companies say frontier AI safety guardrails hinder legitimate security work while attackers use stronger tools (Shaurya Malwa/CoinDesk)",
-            "link": "https://www.techmeme.com/260813/p10#a260813p10",
-            "published": "Thu, 13 Aug 2026 02:30:02 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Mon, 10 Aug 2026 20:37:37 +0000"
         },
         {
-            "title": "3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says",
-            "link": "https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html",
-            "published": "Wed, 12 Aug 2026 20:27:33 +0000"
+            "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
+            "link": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+            "published": "Thu, 13 Aug 2026 09:04:41 +0000"
         }
     ],
     "source_2": [
