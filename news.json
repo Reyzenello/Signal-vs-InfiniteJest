@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "DeepSeek launches V4-Pro, its most advanced model that rivals Kimi K3 on some benchmarks at much lower prices, costing $0.44/1M input and $0.87/1M output tokens (Juro Osawa/The Information)",
-            "link": "https://www.techmeme.com/260813/p17#a260813p17",
-            "published": "Thu, 13 Aug 2026 06:05:01 -0400"
+            "title": "Accelerant, which uses data analytics to connect insurance underwriters with risk capital partners, agrees to go private with Thoma Bravo in a $4.4B deal (Katherine Hamilton/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260813/p24#a260813p24",
+            "published": "Thu, 13 Aug 2026 07:25:02 -0400"
         },
         {
-            "title": "Sources: Demis Hassabis pitched a new independent industry AI safety entity, modeled on the IAEA, to top Trump officials before stepping down as DeepMind CEO (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260813/p16#a260813p16",
-            "published": "Thu, 13 Aug 2026 05:50:02 -0400"
+            "title": "JD.com reports Q2 revenue down 2.9% YoY to ~$51.4B and net income of ~$1.1B, above ~$964M est., driven by JD Retail profitability and narrowing food losses (Luz Ding/Bloomberg)",
+            "link": "https://www.techmeme.com/260813/p23#a260813p23",
+            "published": "Thu, 13 Aug 2026 07:15:19 -0400"
         },
         {
-            "title": "Meta says it removed 750,000+ Australian accounts believed to belong to under-16s to comply with the social media ban, including 462,000 Instagram accounts (Newley Purnell/Bloomberg)",
-            "link": "https://www.techmeme.com/260813/p15#a260813p15",
-            "published": "Thu, 13 Aug 2026 05:40:01 -0400"
+            "title": "SMIC reports Q2 revenue up 36% YoY to ~$3B, net profit up 3x+ to ~$479.2M, above ~$283.1M est., and a 25.3% gross margin, driven by strong mature-node orders (Sherry Qin/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260813/p22#a260813p22",
+            "published": "Thu, 13 Aug 2026 07:10:02 -0400"
         },
         {
-            "title": "In Q2 2026, server-led eSSDs reached 48% of NAND flash shipments as AI workloads shifted from training to inference, driving 5x YoY industry revenue growth (Counterpoint Research)",
-            "link": "https://www.techmeme.com/260813/p14#a260813p14",
-            "published": "Thu, 13 Aug 2026 03:35:00 -0400"
+            "title": "Filings and sources: Microsoft shuttered 15+ branch offices and joint ventures in China in the past five years, amid China's push for domestic software (Reuters)",
+            "link": "https://www.techmeme.com/260813/p21#a260813p21",
+            "published": "Thu, 13 Aug 2026 06:55:01 -0400"
         },
         {
-            "title": "A look at workers in India who are paid extra to wear devices that capture first-person video of factory and other work tasks for use as AI robot training data (Saritha Rai/Bloomberg)",
-            "link": "https://www.techmeme.com/260813/p13#a260813p13",
-            "published": "Thu, 13 Aug 2026 03:25:00 -0400"
+            "title": "CXMT overtakes Tencent to become the most valuable Chinese company, with a ~$524B market cap, above Tencent's $510B; CXMT's Shanghai shares jumped 460%+ at IPO (Bloomberg)",
+            "link": "https://www.techmeme.com/260813/p20#a260813p20",
+            "published": "Thu, 13 Aug 2026 06:45:16 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+            "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 10:39:02 GMT"
+        },
+        {
             "title": "Amazon is using Twitch to train generative AI",
             "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 13 Aug 2026 07:04:31 GMT"
@@ -73,11 +78,6 @@
             "title": "Tokenomics: Why making AI pay is tricky",
             "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 11 Aug 2026 23:03:52 GMT"
-        },
-        {
-            "title": "AI agent hacks gym to get its user a spot in pilates class",
-            "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 11 Aug 2026 12:09:26 GMT"
         }
     ]
 }
