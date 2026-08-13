@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Flock CEO Garrett Langley acknowledges the company \"got this one wrong\" and is assuming greater responsibility for preventing US law enforcement misuse (Lauren Feiner/The Verge)",
+            "title": "Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate (Samantha Subin/CNBC)",
+            "link": "https://www.techmeme.com/260813/p30#a260813p30",
+            "published": "Thu, 13 Aug 2026 10:25:02 -0400"
+        },
+        {
+            "title": "Microsoft begins merging its consumer and commercial Copilot apps into a single app, with a mobile and web rollout in mid-August and desktop in mid-September (Todd Bishop/GeekWire)",
+            "link": "https://www.techmeme.com/260813/p29#a260813p29",
+            "published": "Thu, 13 Aug 2026 09:45:27 -0400"
+        },
+        {
+            "title": "Flock CEO Garrett Langley acknowledges the startup \"got this one wrong\" and says Flock is assuming greater responsibility for how law enforcement uses its tech (Lauren Feiner/The Verge)",
             "link": "https://www.techmeme.com/260813/p27#a260813p27",
             "published": "Thu, 13 Aug 2026 09:15:23 -0400"
         },
         {
-            "title": "Inside SK Hynix's $720B Yongin Cluster, which it calls the world's largest network of memory factories and is set to go into production in February 2027 (Katie Tarasov/CNBC)",
+            "title": "Inside SK Hynix's $720B Yongin Cluster, which it says will be the world's largest network of memory factories and is set to go into production in February 2027 (Katie Tarasov/CNBC)",
             "link": "https://www.techmeme.com/260813/p28#a260813p28",
             "published": "Thu, 13 Aug 2026 09:15:23 -0400"
         },
         {
-            "title": "Flock says it will now require US law enforcement to attach a criminal case number to license plate searches, after a WaPo investigation into police misuse (Washington Post)",
+            "title": "Flock says it will now require US law enforcement to label every license plate search with a criminal case number, after a WaPo investigation into police misuse (Washington Post)",
             "link": "https://www.techmeme.com/260813/p26#a260813p26",
             "published": "Thu, 13 Aug 2026 09:10:01 -0400"
-        },
-        {
-            "title": "Didi reports Q2 revenue up 11% YoY to ~$9.3B, net income of ~$128M, after two consecutive quarterly losses, China mobility transaction value up 9.5% to ~$13.4B (Luz Ding/Bloomberg)",
-            "link": "https://www.techmeme.com/260813/p25#a260813p25",
-            "published": "Thu, 13 Aug 2026 09:05:02 -0400"
-        },
-        {
-            "title": "Accelerant, which uses data analytics to connect insurance underwriters with risk capital partners, agrees to go private with Thoma Bravo in a $4.4B deal (Katherine Hamilton/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260813/p24#a260813p24",
-            "published": "Thu, 13 Aug 2026 07:25:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
+            "link": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+            "published": "Thu, 13 Aug 2026 09:04:41 +0000"
+        },
+        {
+            "title": "America Wants to Make Its Own Humanoid Robots. That Won\u2019t Be Easy.",
+            "link": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
+            "published": "Thu, 13 Aug 2026 11:25:30 +0000"
+        },
         {
             "title": "How Social Media Sparked a Refugee Crisis Between Spain and Morocco",
             "link": "https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html",
@@ -38,22 +48,17 @@
             "published": "Tue, 11 Aug 2026 13:50:25 +0000"
         },
         {
-            "title": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
-            "link": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
-            "published": "Mon, 10 Aug 2026 23:28:14 +0000"
-        },
-        {
-            "title": "Waymo Is Growing Faster Than Ever. So Are Its \u2018Edge Cases.\u2019",
-            "link": "https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html",
-            "published": "Mon, 10 Aug 2026 20:37:37 +0000"
-        },
-        {
-            "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
-            "link": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
-            "published": "Thu, 13 Aug 2026 09:04:41 +0000"
+            "title": "3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says",
+            "link": "https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html",
+            "published": "Thu, 13 Aug 2026 13:09:46 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
+            "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 13 Aug 2026 14:09:05 GMT"
+        },
         {
             "title": "Flock boss admits surveillance firm took too long to act over police abuse",
             "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Why Japanese firms are being so slow to use AI",
             "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 12 Aug 2026 23:00:47 GMT"
-        },
-        {
-            "title": "Discord ordered to suspend livestreams in Brazil",
-            "link": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 12 Aug 2026 17:10:31 GMT"
         }
     ]
 }
