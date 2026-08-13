@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Charter receives final state approval to buy Cox for $21.9B after making concessions to California regulators, including low-cost internet for some households (Patience Haggin/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260813/p52#a260813p52",
+            "published": "Thu, 13 Aug 2026 19:45:01 -0400"
+        },
+        {
+            "title": "Epic v. Apple: Apple proposes commissions on US linked-out purchases of 15% for standard apps, 10% for partner programs and renewals, 5% for Small Business apps (Marcus Mendes/9to5Mac)",
+            "link": "https://www.techmeme.com/260813/p51#a260813p51",
+            "published": "Thu, 13 Aug 2026 19:10:01 -0400"
+        },
+        {
             "title": "A judge orders Kalshi to stop offering most of its prediction contracts in Washington state, after finding it likely violated state gambling-related laws (J.J. McCorvey/Bloomberg)",
             "link": "https://www.techmeme.com/260813/p50#a260813p50",
             "published": "Thu, 13 Aug 2026 18:50:01 -0400"
@@ -14,16 +24,6 @@
             "title": "A profile of Camilla Clark, quiet adviser to husband Dario Amodei and behind-the-scenes player at Anthropic; she once pitched a porn startup to Jeffrey Epstein (The Information)",
             "link": "https://www.techmeme.com/260813/p48#a260813p48",
             "published": "Thu, 13 Aug 2026 18:15:00 -0400"
-        },
-        {
-            "title": "Reddit will join the S&P 500 on August 18, becoming only the second pure-play social media company in the index after Meta; RDDT jumps 10%+ after hours (Jonathan Vanian/CNBC)",
-            "link": "https://www.techmeme.com/260813/p47#a260813p47",
-            "published": "Thu, 13 Aug 2026 18:10:00 -0400"
-        },
-        {
-            "title": "OpenAI launches Computer History, an opt-in feature that turns recent computer activity on macOS into memories and a timeline that ChatGPT and Codex can use (Frederic Lardinois/The New Stack)",
-            "link": "https://www.techmeme.com/260813/p46#a260813p46",
-            "published": "Thu, 13 Aug 2026 17:40:02 -0400"
         }
     ],
     "source_1": [
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-            "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 13 Aug 2026 22:00:10 GMT"
-        },
-        {
             "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
             "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 13 Aug 2026 14:09:05 GMT"
@@ -78,6 +73,11 @@
             "title": "Amazon is using Twitch to train generative AI",
             "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 13 Aug 2026 07:04:31 GMT"
+        },
+        {
+            "title": "Why Japanese firms are being so slow to use AI",
+            "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 12 Aug 2026 23:00:47 GMT"
         }
     ]
 }
