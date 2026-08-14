@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Google adds a toggle in Gemini and Flow to remove visible watermarks from AI generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)",
+            "link": "https://www.techmeme.com/260814/p18#a260814p18",
+            "published": "Fri, 14 Aug 2026 13:00:51 -0400"
+        },
+        {
+            "title": "Apple officially opens ad bookings for businesses on Apple Maps ahead of an upcoming full rollout across the US and Canada (Ryan Christoffel/9to5Mac)",
+            "link": "https://www.techmeme.com/260814/p17#a260814p17",
+            "published": "Fri, 14 Aug 2026 12:45:02 -0400"
+        },
+        {
+            "title": "Alibaba releases weights for Qwen3.8 models under Apache 2.0 license, including Qwen3.8-27B, which it says beats Qwen3.7-Plus and excels in real-world coding (@alibaba_qwen)",
+            "link": "https://www.techmeme.com/260814/p16#a260814p16",
+            "published": "Fri, 14 Aug 2026 12:12:11 -0400"
+        },
+        {
             "title": "In Q2, \"other income\", mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits (Jonathan Weil/Wall Street Journal)",
             "link": "https://www.techmeme.com/260814/p15#a260814p15",
             "published": "Fri, 14 Aug 2026 11:30:00 -0400"
@@ -9,28 +24,13 @@
             "title": "Source: Greg Brockman is \"in founder mode\" and getting more involved across every level of OpenAI to build out a leadership team ahead of an expected IPO (Madison Mills/Axios)",
             "link": "https://www.techmeme.com/260814/p14#a260814p14",
             "published": "Fri, 14 Aug 2026 10:15:01 -0400"
-        },
-        {
-            "title": "France's top court blocks a bill banning social media for under-15s, saying it infringed upon freedom of expression; Macron orders the PM to re-work the bill (Reuters)",
-            "link": "https://www.techmeme.com/260814/p13#a260814p13",
-            "published": "Fri, 14 Aug 2026 09:55:01 -0400"
-        },
-        {
-            "title": "Sources: stablecoin payments company RedotPay has delayed its plans for a US IPO to 2027 or later, as it seeks regulatory approvals and deals with legal issues (Bloomberg)",
-            "link": "https://www.techmeme.com/260814/p12#a260814p12",
-            "published": "Fri, 14 Aug 2026 07:15:00 -0400"
-        },
-        {
-            "title": "Chip equipment maker Lam Research plans to invest $3B+ over five years to expand its global R&D network, as it seeks to increase its experiment capacity by 50%+ (Anzar Mehraj/Reuters)",
-            "link": "https://www.techmeme.com/260814/p11#a260814p11",
-            "published": "Fri, 14 Aug 2026 07:05:13 -0400"
         }
     ],
     "source_1": [
         {
             "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
             "link": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
-            "published": "Fri, 14 Aug 2026 14:08:51 +0000"
+            "published": "Fri, 14 Aug 2026 14:08:52 +0000"
         },
         {
             "title": "America Wants to Make Its Own Humanoid Robots. That Won\u2019t Be Easy.",
