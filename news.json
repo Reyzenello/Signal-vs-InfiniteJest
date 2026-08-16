@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Dario Amodei shares his view on AI regulation, says open-weights aren't a \"sufficient\" solution, defends testing, highlights a \"crisis of trust\" in AI, and more (Dario Amodei/@darioamodei)",
+            "link": "https://www.techmeme.com/260815/p17#a260815p17",
+            "published": "Sat, 15 Aug 2026 20:20:32 -0400"
+        },
+        {
+            "title": "How Congressional lawmakers and aides are using AI tools with little oversight to write speeches and news releases, sort constituent mail, and more (Anna Liss-Roy/Washington Post)",
+            "link": "https://www.techmeme.com/260815/p16#a260815p16",
+            "published": "Sat, 15 Aug 2026 19:40:01 -0400"
+        },
+        {
             "title": "A look at Unitree's G1 and R1, the humanoid robots behind viral influencer accounts worldwide, as Unitree shipped 5,500+ units in 2025 and readies its China IPO (Zeyi Yang/Wired)",
             "link": "https://www.techmeme.com/260815/p15#a260815p15",
             "published": "Sat, 15 Aug 2026 17:40:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired (Alix Coutures/The Information)",
             "link": "https://www.techmeme.com/260815/p13#a260815p13",
             "published": "Sat, 15 Aug 2026 14:00:40 -0400"
-        },
-        {
-            "title": "A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)",
-            "link": "https://www.techmeme.com/260815/p12#a260815p12",
-            "published": "Sat, 15 Aug 2026 12:40:01 -0400"
-        },
-        {
-            "title": "Anthropic details Claude's text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite (Anthropic)",
-            "link": "https://www.techmeme.com/260815/p11#a260815p11",
-            "published": "Sat, 15 Aug 2026 11:05:04 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+            "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 15 Aug 2026 23:45:44 GMT"
+        },
+        {
             "title": "Secondhand book sales are booming. Is it because of AI?",
             "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 15 Aug 2026 11:25:32 GMT"
@@ -73,11 +78,6 @@
             "title": "Bumble divides users by ditching its signature 'women-first' chat rule",
             "link": "https://www.bbc.co.uk/news/articles/cvglzlj81x2o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 13 Aug 2026 14:09:05 GMT"
-        },
-        {
-            "title": "Flock boss admits surveillance firm took too long to act over police abuse",
-            "link": "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 13 Aug 2026 13:02:24 GMT"
         }
     ]
 }
