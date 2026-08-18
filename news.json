@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Google quietly rolled out a new program to let verified political campaigns more easily bypass Gmail's spam filter, after years of complaints from the GOP (Shane Goldmacher/New York Times)",
+            "link": "https://www.techmeme.com/260818/p20#a260818p20",
+            "published": "Tue, 18 Aug 2026 10:40:01 -0400"
+        },
+        {
+            "title": "Velaura AI, which is developing low-power chips for data centers and physical AI applications, like robotics, raised a $110M Series A at a $1B+ valuation (Prathik Jayaprakash/Reuters)",
+            "link": "https://www.techmeme.com/260818/p19#a260818p19",
+            "published": "Tue, 18 Aug 2026 10:25:07 -0400"
+        },
+        {
             "title": "As sweeping US crypto legislation stalls, the SEC and CFTC are moving to establish rules; the SEC is set to exempt certain token offerings from securities laws (Hannah Lang/Reuters)",
             "link": "https://www.techmeme.com/260818/p18#a260818p18",
             "published": "Tue, 18 Aug 2026 09:15:45 -0400"
@@ -14,43 +24,33 @@
             "title": "Klarna says CFO Niclas Negl\u00e9n and CMO David Sandstr\u00f6m plan to step down in early 2027, and lowers its full-year GMV guidance; KLAR falls 19%+ pre-market (Connor Hart/Wall Street Journal)",
             "link": "https://www.techmeme.com/260818/p16#a260818p16",
             "published": "Tue, 18 Aug 2026 08:45:02 -0400"
-        },
-        {
-            "title": "How a bipartisan coalition of US states fought to present a united case against Meta; Judge Rogers established a hybrid structure for the multi-week trial (Diana Novak Jones/Reuters)",
-            "link": "https://www.techmeme.com/260818/p15#a260818p15",
-            "published": "Tue, 18 Aug 2026 07:56:09 -0400"
-        },
-        {
-            "title": "Dutch company Fairphone launches its $650 flagship repairable Fairphone (Gen 6+) in the US and plans to keep launching new phone generations every two years (Julian Chokkattu/Wired)",
-            "link": "https://www.techmeme.com/260818/p14#a260818p14",
-            "published": "Tue, 18 Aug 2026 07:41:39 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "States Seek $200 Billion From Meta Over Child Social Media Addiction Claims",
+            "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+            "published": "Tue, 18 Aug 2026 09:01:59 +0000"
+        },
+        {
+            "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
+            "link": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
+            "published": "Tue, 18 Aug 2026 09:01:53 +0000"
+        },
+        {
+            "title": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow",
+            "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
+            "published": "Tue, 18 Aug 2026 14:14:55 +0000"
+        },
         {
             "title": "AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.",
             "link": "https://www.nytimes.com/2026/08/17/technology/ai-slop.html",
             "published": "Mon, 17 Aug 2026 19:51:10 +0000"
         },
         {
-            "title": "Nvidia to Back Ohio Data Center With as Much as $105 Billion",
-            "link": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
-            "published": "Mon, 17 Aug 2026 21:13:00 +0000"
-        },
-        {
-            "title": "China Wants Its Data to Power the World\u2019s A.I.",
-            "link": "https://www.nytimes.com/2026/08/17/world/asia/china-ai-data-chatbots.html",
-            "published": "Mon, 17 Aug 2026 11:10:29 +0000"
-        },
-        {
-            "title": "As A.I. Data Centers Spread, Pressure Mounts to Share Profits",
-            "link": "https://www.nytimes.com/2026/08/16/business/ai-data-centers.html",
-            "published": "Sun, 16 Aug 2026 09:00:38 +0000"
-        },
-        {
-            "title": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow",
-            "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
-            "published": "Tue, 18 Aug 2026 11:00:06 +0000"
+            "title": "The Blackout That Could Devastate America",
+            "link": "https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html",
+            "published": "Tue, 18 Aug 2026 13:20:38 +0000"
         }
     ],
     "source_2": [
