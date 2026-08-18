@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic details two experiments showing how Claude can accelerate protein design and analytical chemistry, and says it plans an access program for scientists (Anthropic)",
+            "link": "https://www.techmeme.com/260818/p39#a260818p39",
+            "published": "Tue, 18 Aug 2026 19:15:02 -0400"
+        },
+        {
+            "title": "Sources: OpenAI's Q2 revenue grew 18% QoQ to $6.7B, but its operating margin sank further; Anthropic more than doubled its revenue to $11.6B in the same period (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260818/p38#a260818p38",
+            "published": "Tue, 18 Aug 2026 18:50:01 -0400"
+        },
+        {
+            "title": "Z.ai's GLM-5.3 with max reasoning scores 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 but below Opus 5 at 63 and Fable 5 at 62 (@artificialanlys)",
+            "link": "https://www.techmeme.com/260818/p37#a260818p37",
+            "published": "Tue, 18 Aug 2026 18:35:01 -0400"
+        },
+        {
             "title": "Internal memo: ICE bars its employees from wearing Meta's AI glasses, saying they \"could unintentionally capture, record, or transmit sensitive information\" (New York Times)",
             "link": "https://www.techmeme.com/260818/p36#a260818p36",
             "published": "Tue, 18 Aug 2026 17:50:02 -0400"
@@ -9,21 +24,6 @@
             "title": "Pennsylvania Governor Josh Shapiro signs an executive order imposing new requirements on data center projects, including getting approval from local officials (Allan Smith/NBC News)",
             "link": "https://www.techmeme.com/260818/p35#a260818p35",
             "published": "Tue, 18 Aug 2026 17:40:02 -0400"
-        },
-        {
-            "title": "In opening arguments, US state AGs said Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejected the claims (Reuters)",
-            "link": "https://www.techmeme.com/260818/p34#a260818p34",
-            "published": "Tue, 18 Aug 2026 17:20:02 -0400"
-        },
-        {
-            "title": "Sam Altman says OpenAI's decision to pace its AI development was caused by a collection of research observations showing \"various degrees of misalignment\" (Alex Heath/Time)",
-            "link": "https://www.techmeme.com/260818/p33#a260818p33",
-            "published": "Tue, 18 Aug 2026 17:00:51 -0400"
-        },
-        {
-            "title": "Sources: Anthropic prepares to give its co-founders shares with extra voting power to help insulate them from outside pressure; Amodei owns ~2% of Anthropic (The Information)",
-            "link": "https://www.techmeme.com/260818/p32#a260818p32",
-            "published": "Tue, 18 Aug 2026 16:40:01 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
             "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-            "published": "Tue, 18 Aug 2026 18:07:16 +0000"
+            "published": "Tue, 18 Aug 2026 23:16:31 +0000"
         },
         {
             "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "The critical tech staying safe by going underground",
+            "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 23:25:21 GMT"
+        },
+        {
+            "title": "Meta hooked children on Facebook and Instagram, court hears",
+            "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 18 Aug 2026 22:11:07 GMT"
+        },
+        {
             "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
             "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Aug 2026 11:26:26 GMT"
@@ -68,16 +78,6 @@
             "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
             "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Aug 2026 09:00:33 GMT"
-        },
-        {
-            "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-            "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 15 Aug 2026 23:45:44 GMT"
-        },
-        {
-            "title": "Secondhand book sales are booming. Is it because of AI?",
-            "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 15 Aug 2026 11:25:32 GMT"
         }
     ]
 }
