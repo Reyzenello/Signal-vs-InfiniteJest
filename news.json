@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia, with quarterly free cash flow up 18x over the past three years to $48.5B, is using its balance sheet and credit rating to build an AI capital moat (Ari Levy/CNBC)",
+            "link": "https://www.techmeme.com/260819/p5#a260819p5",
+            "published": "Wed, 19 Aug 2026 02:35:03 -0400"
+        },
+        {
             "title": "Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 (Carl Franzen/VentureBeat)",
             "link": "https://www.techmeme.com/260819/p4#a260819p4",
             "published": "Wed, 19 Aug 2026 01:15:01 -0400"
@@ -19,11 +24,6 @@
             "title": "Austin-based Smack Technologies, which is developing AI decision-making tools for the US military, raised a $61M Series B led by Costanoa and First In (Mike Stone/Reuters)",
             "link": "https://www.techmeme.com/260819/p1#a260819p1",
             "published": "Wed, 19 Aug 2026 00:15:00 -0400"
-        },
-        {
-            "title": "OpenAI says new monitoring and security safeguards will add 20% compute overhead to monitored inference workloads; costs will not be passed on to customers (Thomas Claburn/The Register)",
-            "link": "https://www.techmeme.com/260818/p46#a260818p46",
-            "published": "Tue, 18 Aug 2026 23:30:01 -0400"
         }
     ],
     "source_1": [
