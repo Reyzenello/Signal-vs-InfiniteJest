@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "UK-based automotive dealership software maker Pinewood agrees to a \u00a3545M cash takeover by US private equity firm Ridgeview, after an Apax takeover fell through (Financial Times)",
+            "link": "https://www.techmeme.com/260819/p16#a260819p16",
+            "published": "Wed, 19 Aug 2026 07:25:01 -0400"
+        },
+        {
+            "title": "Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including suburban Chicago and Atlanta (Matt Day/Bloomberg)",
+            "link": "https://www.techmeme.com/260819/p15#a260819p15",
+            "published": "Wed, 19 Aug 2026 07:15:02 -0400"
+        },
+        {
+            "title": "OpenAI expands its ad pilot program across 31 European markets, including Germany, France, Spain, and Italy; the pilot launched in the US, the UK, and others (Trishla Ostwal/Adweek)",
+            "link": "https://www.techmeme.com/260819/p14#a260819p14",
+            "published": "Wed, 19 Aug 2026 07:00:43 -0400"
+        },
+        {
+            "title": "SMR startup Oklo is currently building its reactor in Idaho, a step towards supplying Meta with power; there are an estimated 22 active US reactor projects (Jennifer Hiller/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260819/p13#a260819p13",
+            "published": "Wed, 19 Aug 2026 06:45:01 -0400"
+        },
+        {
             "title": "Kuaishou reports Q2 revenue flat at ~$5.2B, meeting est., net income down 36% YoY to ~$467M, the biggest drop since 2021, and Kling AI sales up 200% (Rachel Yeo/Bloomberg)",
             "link": "https://www.techmeme.com/260819/p12#a260819p12",
             "published": "Wed, 19 Aug 2026 06:30:01 -0400"
-        },
-        {
-            "title": "Google Cloud is deploying context-creating AI agents within its tools to automate tasks handled by forward-deployed engineers; Google is hiring hundreds of FDEs (Kevin McLaughlin/The Information)",
-            "link": "https://www.techmeme.com/260819/p11#a260819p11",
-            "published": "Wed, 19 Aug 2026 06:15:15 -0400"
-        },
-        {
-            "title": "WiseTech says Australian antitrust authorities raided its office, seeking documents and data as part of an alleged competition law breach probe; WTC falls 8%+ (Angus Whitley/Bloomberg)",
-            "link": "https://www.techmeme.com/260819/p10#a260819p10",
-            "published": "Wed, 19 Aug 2026 06:05:02 -0400"
-        },
-        {
-            "title": "Sources: Samsung raises prices for advanced 4nm and 5nm chipmaking services by up to 15% for new orders in July, driven by AI demand and TSMC's tight capacity (Reuters)",
-            "link": "https://www.techmeme.com/260819/p9#a260819p9",
-            "published": "Wed, 19 Aug 2026 05:55:02 -0400"
-        },
-        {
-            "title": "Filing: SK Hynix plans a ~$29B share buyback, repurchasing and canceling up to 24M treasury shares, in a bid to calm worries about the durability of AI spending (Denny Thomas/Bloomberg)",
-            "link": "https://www.techmeme.com/260819/p8#a260819p8",
-            "published": "Wed, 19 Aug 2026 05:45:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "OpenAI slows down training after its AI carried out hack",
+            "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 11:19:12 GMT"
+        },
+        {
             "title": "The critical tech staying safe by going underground",
             "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Aug 2026 23:25:21 GMT"
@@ -73,11 +78,6 @@
             "title": "AI to help planes avoid climate-warming 'sky graffiti'",
             "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Aug 2026 09:26:41 GMT"
-        },
-        {
-            "title": "US states call for big changes to Instagram and Facebook as Meta child privacy trial begins",
-            "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Aug 2026 09:00:33 GMT"
         }
     ]
 }
