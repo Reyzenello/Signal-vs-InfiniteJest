@@ -1,7 +1,22 @@
 {
     "techmeme": [
         {
-            "title": "Stripe agrees to buy New York-based OpenRouter for an undisclosed amount; Stripe had reportedly agreed to pay more than $7B for OpenRouter (Bloomberg)",
+            "title": "Source: Nvidia has discussed an investment in Mercor as part of a round valuing the startup at $20B; Nvidia paid Mercor tens of millions of dollars last quarter (The Information)",
+            "link": "https://www.techmeme.com/260819/p40#a260819p40",
+            "published": "Wed, 19 Aug 2026 14:45:01 -0400"
+        },
+        {
+            "title": "Stripe agrees to buy New York-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup's founders and $6B to investors (Erin Griffith/New York Times)",
+            "link": "https://www.techmeme.com/260819/p39#a260819p39",
+            "published": "Wed, 19 Aug 2026 14:00:40 -0400"
+        },
+        {
+            "title": "The US FTC says businesses must disclose when they use personalized pricing and it will \"deploy enforcement resources\" against companies that do not disclose it (Dave Michaels/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260819/p38#a260819p38",
+            "published": "Wed, 19 Aug 2026 13:45:05 -0400"
+        },
+        {
+            "title": "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
             "link": "https://www.techmeme.com/260819/p37#a260819p37",
             "published": "Wed, 19 Aug 2026 13:27:37 -0400"
         },
@@ -9,24 +24,14 @@
             "title": "Meta launches a Mac app for Meta AI and says Meta AI can now work directly with Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace (Emma Roth/The Verge)",
             "link": "https://www.techmeme.com/260819/p36#a260819p36",
             "published": "Wed, 19 Aug 2026 13:25:00 -0400"
-        },
-        {
-            "title": "OpenAI is testing Private Safety Processing, a new technique to identify misuse patterns while preserving zero data retention protections, with early customers (Ina Fried/Axios)",
-            "link": "https://www.techmeme.com/260819/p35#a260819p35",
-            "published": "Wed, 19 Aug 2026 13:20:01 -0400"
-        },
-        {
-            "title": "The US CFTC bans Caroline Ellison and FTX co-founder Gary Wang from trading for five years, as part of a settlement over their roles at FTX (Nicola M White/Bloomberg)",
-            "link": "https://www.techmeme.com/260819/p34#a260819p34",
-            "published": "Wed, 19 Aug 2026 12:40:01 -0400"
-        },
-        {
-            "title": "Nielsen rolls out changes to make its ratings more accurate, including using data from smartwatch-like devices worn by its panelists without requiring logins (Loree Seitz/The Wrap)",
-            "link": "https://www.techmeme.com/260819/p33#a260819p33",
-            "published": "Wed, 19 Aug 2026 12:35:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+            "link": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+            "published": "Wed, 19 Aug 2026 17:39:30 +0000"
+        },
         {
             "title": "The A.I. in Google\u2019s New Pixel 11 Is Not Very Helpful",
             "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
@@ -41,11 +46,6 @@
             "title": "Voters Aren\u2019t Waiting for November to Try Ousting Officials Over Data Centers",
             "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
             "published": "Wed, 19 Aug 2026 16:38:14 +0000"
-        },
-        {
-            "title": "China Wants Its Tech Champions to Raise Money at Home",
-            "link": "https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html",
-            "published": "Wed, 19 Aug 2026 13:43:10 +0000"
         },
         {
             "title": "Some Stand-Up Comics Are Pivoting Away From Video on Social Media",
