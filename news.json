@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games' digital-only release; Rockstar issues DMCA takedowns (Jowi Morales/Tom's Hardware)",
+            "link": "https://www.techmeme.com/260819/p21#a260819p21",
+            "published": "Wed, 19 Aug 2026 10:15:01 -0400"
+        },
+        {
             "title": "Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B (Dana Wollman/Bloomberg)",
             "link": "https://www.techmeme.com/260819/p20#a260819p20",
             "published": "Wed, 19 Aug 2026 09:10:01 -0400"
@@ -16,36 +21,31 @@
             "published": "Wed, 19 Aug 2026 08:45:02 -0400"
         },
         {
-            "title": "Reconstructed code from Flock's login pages shows a new AI-powered system, called OS Investigate, that integrates license plate scans, case files, and more (Wired)",
+            "title": "Reconstructed code from Flock's login pages reveals OS Investigate, a new AI system that integrates license plate scans, arrest records, case files, and more (Wired)",
             "link": "https://www.techmeme.com/260819/p17#a260819p17",
             "published": "Wed, 19 Aug 2026 08:25:01 -0400"
-        },
-        {
-            "title": "UK-based automotive dealership software maker Pinewood agrees to a \u00a3545M cash takeover by US private equity firm Ridgeview, after an Apax takeover fell through (Financial Times)",
-            "link": "https://www.techmeme.com/260819/p16#a260819p16",
-            "published": "Wed, 19 Aug 2026 07:25:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "How One County Profited From Data Centers Amid a Growing National Backlash",
+            "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+            "published": "Wed, 19 Aug 2026 14:09:28 +0000"
+        },
+        {
+            "title": "Voters Aren\u2019t Waiting for November to Try Ousting Officials Over Data Centers",
+            "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+            "published": "Wed, 19 Aug 2026 14:12:28 +0000"
+        },
+        {
+            "title": "China Wants Its Tech Champions to Raise Money at Home",
+            "link": "https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html",
+            "published": "Wed, 19 Aug 2026 13:43:10 +0000"
+        },
+        {
             "title": "ICE Bars Its Workers From Wearing Meta\u2019s Smart Glasses on the Job",
             "link": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
             "published": "Tue, 18 Aug 2026 21:53:47 +0000"
-        },
-        {
-            "title": "Meta to Stand Trial Over Claims It Addicted Children to Social Media",
-            "link": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
-            "published": "Wed, 19 Aug 2026 04:58:34 +0000"
-        },
-        {
-            "title": "Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.",
-            "link": "https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html",
-            "published": "Tue, 18 Aug 2026 23:37:00 +0000"
-        },
-        {
-            "title": "OpenAI Introduces \u2018ChatGPT for Teens\u2019 as Safety Concerns Grow",
-            "link": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
-            "published": "Tue, 18 Aug 2026 14:14:55 +0000"
         },
         {
             "title": "Apple Removes Some Fees for App Developers in European Union",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Monzo down as some users unable to make card payments or transfers",
+            "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 14:13:33 GMT"
+        },
         {
             "title": "OpenAI slows down training after its AI carried out hack",
             "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
             "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Aug 2026 11:26:26 GMT"
-        },
-        {
-            "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-            "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Aug 2026 09:26:41 GMT"
         }
     ]
 }
