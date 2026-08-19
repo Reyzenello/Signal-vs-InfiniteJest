@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Flipkart co-founder Sachin Bansal's fintech startup Navi raised $100M from Prosus, its first institutional capital raise, sources say at a ~$1.3B valuation (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/260819/p25#a260819p25",
-            "published": "Wed, 19 Aug 2026 11:30:01 -0400"
+            "title": "The US CFTC bans Caroline Ellison and FTX co-founder Gary Wang from trading for five years, as part of a settlement over their roles at FTX (Nicola M White/Bloomberg)",
+            "link": "https://www.techmeme.com/260819/p34#a260819p34",
+            "published": "Wed, 19 Aug 2026 12:40:01 -0400"
         },
         {
-            "title": "Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260819/p24#a260819p24",
-            "published": "Wed, 19 Aug 2026 11:25:01 -0400"
+            "title": "Nielsen rolls out changes to make its ratings more accurate, including using data from smartwatch-like devices worn by its panelists without requiring logins (Loree Seitz/The Wrap)",
+            "link": "https://www.techmeme.com/260819/p33#a260819p33",
+            "published": "Wed, 19 Aug 2026 12:35:01 -0400"
         },
         {
-            "title": "Sources: Veeda, which is developing world models and is led by ex-Nvidia VP of AI Research Sanja Fidler, raised a $90M+ seed and is backed by Khosla and Radical (Murad Hemmadi/The Logic)",
-            "link": "https://www.techmeme.com/260819/p23#a260819p23",
-            "published": "Wed, 19 Aug 2026 11:20:06 -0400"
+            "title": "Google Pixel 11 review: great design, nice camera features, and shares many features of the Pro phone but the hardware is unchanged and very expensive at $899 (Cameron Faulkner/The Verge)",
+            "link": "https://www.techmeme.com/260819/p32#a260819p32",
+            "published": "Wed, 19 Aug 2026 12:25:13 -0400"
         },
         {
-            "title": "Sources: Nvidia is working as a matchmaker to connect companies holding its GPUs with Nordic data center operators that have available capacity to deploy them (Kai Nicol-Schwarz/CNBC)",
-            "link": "https://www.techmeme.com/260819/p22#a260819p22",
-            "published": "Wed, 19 Aug 2026 10:45:01 -0400"
+            "title": "Google Pixel 11 Pro review: Magic Capture and the voice-to-text Rambler features are very useful but subpar gaming performance and HiLight is useless (Julian Chokkattu/Wired)",
+            "link": "https://www.techmeme.com/260819/p31#a260819p31",
+            "published": "Wed, 19 Aug 2026 12:20:02 -0400"
         },
         {
-            "title": "A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games' digital-only release; Rockstar issues DMCA takedowns (Jowi Morales/Tom's Hardware)",
-            "link": "https://www.techmeme.com/260819/p21#a260819p21",
-            "published": "Wed, 19 Aug 2026 10:15:01 -0400"
+            "title": "Google Pixel 11 Pro Fold review: tougher body with IP68 rating and a decent triple rear camera but an iterative hardware upgrade with design that feels dated (Dominic Preston/The Verge)",
+            "link": "https://www.techmeme.com/260819/p30#a260819p30",
+            "published": "Wed, 19 Aug 2026 12:15:04 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "The A.I. in Google\u2019s New Pixel 11 Is Not Very Helpful",
+            "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+            "published": "Wed, 19 Aug 2026 16:00:11 +0000"
+        },
         {
             "title": "How One County Profited From Data Centers Amid a Growing National Backlash",
             "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
@@ -43,21 +48,21 @@
             "published": "Wed, 19 Aug 2026 13:43:10 +0000"
         },
         {
-            "title": "ICE Bars Its Workers From Wearing Meta\u2019s Smart Glasses on the Job",
-            "link": "https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html",
-            "published": "Tue, 18 Aug 2026 21:53:47 +0000"
-        },
-        {
             "title": "Some Stand-Up Comics Are Pivoting Away From Video on Social Media",
             "link": "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
-            "published": "Wed, 19 Aug 2026 15:32:19 +0000"
+            "published": "Wed, 19 Aug 2026 16:13:49 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Monzo down as some users unable to make card payments or transfers",
+            "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+            "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 19 Aug 2026 16:14:46 GMT"
+        },
+        {
+            "title": "Monzo says issue with card payments and transfers now resolved",
             "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 19 Aug 2026 14:13:33 GMT"
+            "published": "Wed, 19 Aug 2026 16:04:16 GMT"
         },
         {
             "title": "OpenAI slows down training after its AI carried out hack",
@@ -73,11 +78,6 @@
             "title": "Meta hooked children on Facebook and Instagram, US court hears",
             "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 18 Aug 2026 22:11:07 GMT"
-        },
-        {
-            "title": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-            "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Aug 2026 11:26:26 GMT"
         }
     ]
 }
