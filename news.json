@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more (Zac Hall/9to5Mac)",
+            "link": "https://www.techmeme.com/260820/p43#a260820p43",
+            "published": "Thu, 20 Aug 2026 18:51:09 -0400"
+        },
+        {
             "title": "Super Micro says its independent probe found no evidence its CEO or senior management knew of an alleged scheme to smuggle $2.5B worth of Nvidia chips to China (Amanda Gerut/Fortune)",
             "link": "https://www.techmeme.com/260820/p42#a260820p42",
             "published": "Thu, 20 Aug 2026 18:21:07 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources: Broadcom is in talks with a group of lenders to raise $60B+ in debt for an AI chip financing deal that will benefit Anthropic and other companies (Bloomberg)",
             "link": "https://www.techmeme.com/260820/p39#a260820p39",
             "published": "Thu, 20 Aug 2026 16:40:01 -0400"
-        },
-        {
-            "title": "Google rolls out an embeddable \"Preferred Sources\" button, natural language Discover controls, and custom audio briefings in the Google News app on Android (Matt G. Southern/Search Engine Journal)",
-            "link": "https://www.techmeme.com/260820/p38#a260820p38",
-            "published": "Thu, 20 Aug 2026 16:30:03 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 19 Aug 2026 20:05:47 +0000"
         },
         {
-            "title": "Two Binance Employees Detained in the U.A.E. Amid Police Inquiries",
-            "link": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
-            "published": "Thu, 20 Aug 2026 19:57:52 +0000"
+            "title": "New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
+            "link": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
+            "published": "Thu, 20 Aug 2026 22:46:15 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "How landscape gardening is being electrified",
+            "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 23:12:38 GMT"
+        },
         {
             "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
             "link": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Monzo says issue with card payments and transfers now resolved",
             "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 19 Aug 2026 16:04:16 GMT"
-        },
-        {
-            "title": "OpenAI slows down training after its AI carried out hack",
-            "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 19 Aug 2026 11:19:12 GMT"
         }
     ]
 }
