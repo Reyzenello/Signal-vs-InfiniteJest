@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The Chinese city of Hangzhou deploys traffic-control robots that operate autonomously, using cameras and radar to signal traffic and flag violations (Reuters)",
-            "link": "https://www.techmeme.com/260820/p26#a260820p26",
-            "published": "Thu, 20 Aug 2026 12:10:01 -0400"
+            "title": "Google DeepMind says its Gemma family of open models has surpassed 1B downloads and developers have published 100K+ Gemma model variants over the past two years (Google)",
+            "link": "https://www.techmeme.com/260820/p31#a260820p31",
+            "published": "Thu, 20 Aug 2026 13:25:01 -0400"
         },
         {
-            "title": "Filing: in 2025, TikTok generated $702.5M in net profit in Europe, Africa, and Latin America, its first annual profit, on $9.1B in revenue, up 45.7% YoY (Iain Martin/Forbes)",
-            "link": "https://www.techmeme.com/260820/p25#a260820p25",
-            "published": "Thu, 20 Aug 2026 11:15:01 -0400"
+            "title": "Sources: Nvidia plans to begin small-batch shipments of an LPU tailored for Chinese customers by the end of 2026; the chip complies with US export control rules (Qianer Liu/The Information)",
+            "link": "https://www.techmeme.com/260820/p30#a260820p30",
+            "published": "Thu, 20 Aug 2026 13:20:47 -0400"
         },
         {
-            "title": "A bankruptcy court delays Google's $10M purchase of Spirit Airlines' data after former flight attendants objected, seeking assurance their info would be removed (Alexander Gladstone/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260820/p24#a260820p24",
-            "published": "Thu, 20 Aug 2026 10:55:00 -0400"
+            "title": "Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M (Dean Takahashi/GamesBeat)",
+            "link": "https://www.techmeme.com/260820/p29#a260820p29",
+            "published": "Thu, 20 Aug 2026 13:15:01 -0400"
         },
         {
-            "title": "Waymo says it has built an ASIC chip that will improve its robotaxis' reflexes and navigational skills and help it diversify away from third parties like Nvidia (Edward Ludlow/Bloomberg)",
-            "link": "https://www.techmeme.com/260820/p23#a260820p23",
-            "published": "Thu, 20 Aug 2026 10:35:47 -0400"
+            "title": "Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 (Ram Iyer/TechCrunch)",
+            "link": "https://www.techmeme.com/260820/p28#a260820p28",
+            "published": "Thu, 20 Aug 2026 13:10:02 -0400"
         },
         {
-            "title": "Circana: US video game hardware spending fell 29% YoY in July to $282M, the lowest since COVID, shipments fell 39% YoY, and console prices grew 16% YoY to $542 (Vlad Savov/Bloomberg)",
-            "link": "https://www.techmeme.com/260820/p22#a260820p22",
-            "published": "Thu, 20 Aug 2026 09:25:02 -0400"
+            "title": "Two US senators demand answers from TikTok about a \"depraved\" test that withheld a safety feature from 10% of US users, including a teenager who died by suicide (Olivia Carville/Bloomberg)",
+            "link": "https://www.techmeme.com/260820/p27#a260820p27",
+            "published": "Thu, 20 Aug 2026 13:00:47 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Is Vine back? Short-form video-sharing app Divine opens to public",
+            "link": "https://www.bbc.co.uk/news/articles/c3r05g378w4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 20 Aug 2026 16:58:37 GMT"
+        },
+        {
             "title": "UK business hit by 'daylight robbery' 1500% price hike for invoicing software",
             "link": "https://www.bbc.co.uk/news/articles/clyq011414eo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 20 Aug 2026 09:44:04 GMT"
@@ -73,11 +78,6 @@
             "title": "OpenAI slows down training after its AI carried out hack",
             "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 19 Aug 2026 11:19:12 GMT"
-        },
-        {
-            "title": "The critical tech staying safe by going underground",
-            "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 18 Aug 2026 23:25:21 GMT"
         }
     ]
 }
