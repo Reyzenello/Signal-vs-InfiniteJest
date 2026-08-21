@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI says California should amend SB 53 to expand safeguards, including requiring monitoring of frontier models under training, following AI agent hacks (Chase DiFeliciantonio/Politico)",
+            "link": "https://www.techmeme.com/260821/p29#a260821p29",
+            "published": "Fri, 21 Aug 2026 19:10:11 -0400"
+        },
+        {
+            "title": "Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content (Chance Miller/9to5Mac)",
+            "link": "https://www.techmeme.com/260821/p28#a260821p28",
+            "published": "Fri, 21 Aug 2026 18:45:01 -0400"
+        },
+        {
+            "title": "Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites (Rashika Singh/Reuters)",
+            "link": "https://www.techmeme.com/260821/p27#a260821p27",
+            "published": "Fri, 21 Aug 2026 18:35:01 -0400"
+        },
+        {
             "title": "OpenAI cuts GPT-5.6 Sol's API and credit prices by over 20% for the next three months, to $4/1M input tokens and $20/1M output tokens (Anzar Mehraj/Reuters)",
             "link": "https://www.techmeme.com/260821/p26#a260821p26",
             "published": "Fri, 21 Aug 2026 18:15:03 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation (Katie Roof/Business Insider)",
             "link": "https://www.techmeme.com/260821/p25#a260821p25",
             "published": "Fri, 21 Aug 2026 17:35:00 -0400"
-        },
-        {
-            "title": "Nvidia says its general-purpose coding agent system AVO scored 100% across all 25 environments in the ARC-AGI-3 public set, completing all 183 levels (Terry Chen/NVIDIA Technical Blog)",
-            "link": "https://www.techmeme.com/260821/p24#a260821p24",
-            "published": "Fri, 21 Aug 2026 16:50:00 -0400"
-        },
-        {
-            "title": "Anthropic hires Amir Salek, who ran Google's TPU business until 2022, to join its compute team as part of a push to develop its own chips (Dina Bass/Bloomberg)",
-            "link": "https://www.techmeme.com/260821/p23#a260821p23",
-            "published": "Fri, 21 Aug 2026 16:25:01 -0400"
-        },
-        {
-            "title": "DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others (Omarchy News)",
-            "link": "https://www.techmeme.com/260821/p22#a260821p22",
-            "published": "Fri, 21 Aug 2026 16:10:02 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,16 @@
             "published": "Fri, 21 Aug 2026 18:12:48 +0000"
         },
         {
-            "title": "Mark Zuckerberg Buys an Irish Castle",
-            "link": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
-            "published": "Fri, 21 Aug 2026 19:16:03 +0000"
+            "title": "TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million",
+            "link": "https://www.nytimes.com/2026/08/21/technology/tiktok-settlement-justice-department.html",
+            "published": "Fri, 21 Aug 2026 23:24:03 +0000"
         }
     ],
     "source_2": [
         {
             "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
             "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 21 Aug 2026 22:00:23 GMT"
+            "published": "Fri, 21 Aug 2026 22:36:12 GMT"
         },
         {
             "title": "How landscape gardening is being electrified",
