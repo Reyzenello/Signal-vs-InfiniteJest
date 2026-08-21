@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "OpenAI cuts GPT-5.6 Sol's API and credit prices by over 20% for the next three months, to $4/1M input tokens and $20/1M output tokens (Anzar Mehraj/Reuters)",
+            "link": "https://www.techmeme.com/260821/p26#a260821p26",
+            "published": "Fri, 21 Aug 2026 18:15:03 -0400"
+        },
+        {
+            "title": "Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation (Katie Roof/Business Insider)",
+            "link": "https://www.techmeme.com/260821/p25#a260821p25",
+            "published": "Fri, 21 Aug 2026 17:35:00 -0400"
+        },
+        {
             "title": "Nvidia says its general-purpose coding agent system AVO scored 100% across all 25 environments in the ARC-AGI-3 public set, completing all 183 levels (Terry Chen/NVIDIA Technical Blog)",
             "link": "https://www.techmeme.com/260821/p24#a260821p24",
             "published": "Fri, 21 Aug 2026 16:50:00 -0400"
@@ -14,16 +24,6 @@
             "title": "DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others (Omarchy News)",
             "link": "https://www.techmeme.com/260821/p22#a260821p22",
             "published": "Fri, 21 Aug 2026 16:10:02 -0400"
-        },
-        {
-            "title": "Source: OpenAI's VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning (Laura Bratton/The Information)",
-            "link": "https://www.techmeme.com/260821/p21#a260821p21",
-            "published": "Fri, 21 Aug 2026 15:45:01 -0400"
-        },
-        {
-            "title": "The US DOJ and TikTok reach a $400M settlement to resolve allegations TikTok violated COPPA; the DOJ filed the lawsuit in 2024 (Ashley Gold/Axios)",
-            "link": "https://www.techmeme.com/260821/p20#a260821p20",
-            "published": "Fri, 21 Aug 2026 15:40:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:00:23 GMT"
+        },
+        {
             "title": "How landscape gardening is being electrified",
             "link": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 20 Aug 2026 23:12:38 GMT"
@@ -73,11 +78,6 @@
             "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
             "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 19 Aug 2026 16:14:46 GMT"
-        },
-        {
-            "title": "Monzo says issue with card payments and transfers now resolved",
-            "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 19 Aug 2026 16:04:16 GMT"
         }
     ]
 }
