@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "The Trump administration proposes a new $103,265 fee on H-1B applicants hired within the US after a court blocked a fee on workers from outside the country (Andrew Kreighbaum/Bloomberg)",
+            "link": "https://www.techmeme.com/260824/p27#a260824p27",
+            "published": "Mon, 24 Aug 2026 13:10:00 -0400"
+        },
+        {
+            "title": "A look at startups like General Intuition working on large action models, aka world models, which are trained on videogames and simulations, to pilot robots (Christopher Mims/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260824/p26#a260824p26",
+            "published": "Mon, 24 Aug 2026 13:05:01 -0400"
+        },
+        {
             "title": "Nvidia says its Groq 3 LPX racks delivered 3,400 tokens per second in an Artificial Analysis benchmark running Gemma 4 31B with a 100,000-token input sequence (The Register)",
             "link": "https://www.techmeme.com/260824/p25#a260824p25",
             "published": "Mon, 24 Aug 2026 12:30:00 -0400"
@@ -14,23 +24,13 @@
             "title": "Temu owner PDD reports Q2 revenue up 8.1% YoY to ~$16.72B, missing estimate of ~$17.17B, net profit down 12% YoY to ~$4.04B, above ~$3.63B estimate (Tracy Qu/Wall Street Journal)",
             "link": "https://www.techmeme.com/260824/p23#a260824p23",
             "published": "Mon, 24 Aug 2026 12:05:01 -0400"
-        },
-        {
-            "title": "IBM says it is developing a dual-architecture processor for IBM Z and LinuxONE systems that can natively execute both IBM's z/OS workloads and Arm applications (Michael Nu\u00f1ez/VentureBeat)",
-            "link": "https://www.techmeme.com/260824/p22#a260824p22",
-            "published": "Mon, 24 Aug 2026 11:35:00 -0400"
-        },
-        {
-            "title": "Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer, and SpaceX will deploy Vera CPUs (Mike Wheatley/SiliconANGLE)",
-            "link": "https://www.techmeme.com/260824/p21#a260824p21",
-            "published": "Mon, 24 Aug 2026 11:20:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
             "link": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
-            "published": "Mon, 24 Aug 2026 14:20:34 +0000"
+            "published": "Mon, 24 Aug 2026 16:50:57 +0000"
         },
         {
             "title": "How Big Tech Captured American Schools",
