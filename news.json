@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia says its Groq 3 LPX racks delivered 3,400 tokens per second in an Artificial Analysis benchmark running Gemma 4 31B with a 100,000-token input sequence (The Register)",
+            "link": "https://www.techmeme.com/260824/p25#a260824p25",
+            "published": "Mon, 24 Aug 2026 12:30:00 -0400"
+        },
+        {
+            "title": "UK's Office for National Statistics: UK digital infrastructure investment crossed \u00a311B in 2025, hitting dot-com boom levels, amid an AI data center surge (Tom Rees/Bloomberg)",
+            "link": "https://www.techmeme.com/260824/p24#a260824p24",
+            "published": "Mon, 24 Aug 2026 12:10:02 -0400"
+        },
+        {
+            "title": "Temu owner PDD reports Q2 revenue up 8.1% YoY to ~$16.72B, missing estimate of ~$17.17B, net profit down 12% YoY to ~$4.04B, above ~$3.63B estimate (Tracy Qu/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260824/p23#a260824p23",
+            "published": "Mon, 24 Aug 2026 12:05:01 -0400"
+        },
+        {
             "title": "IBM says it is developing a dual-architecture processor for IBM Z and LinuxONE systems that can natively execute both IBM's z/OS workloads and Arm applications (Michael Nu\u00f1ez/VentureBeat)",
             "link": "https://www.techmeme.com/260824/p22#a260824p22",
             "published": "Mon, 24 Aug 2026 11:35:00 -0400"
         },
         {
-            "title": "Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer; SpaceXAI will adopt Vera CPUs (Mike Wheatley/SiliconANGLE)",
+            "title": "Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer, and SpaceX will deploy Vera CPUs (Mike Wheatley/SiliconANGLE)",
             "link": "https://www.techmeme.com/260824/p21#a260824p21",
             "published": "Mon, 24 Aug 2026 11:20:01 -0400"
-        },
-        {
-            "title": "China's Bilibili relaunches its international app and plans an English-language site; it has been pushing MrBeast and others to post on its Chinese site (J.D. Capelouto/Semafor)",
-            "link": "https://www.techmeme.com/260824/p20#a260824p20",
-            "published": "Mon, 24 Aug 2026 10:40:01 -0400"
-        },
-        {
-            "title": "Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export AI servers to China (Reuters)",
-            "link": "https://www.techmeme.com/260824/p19#a260824p19",
-            "published": "Mon, 24 Aug 2026 10:10:01 -0400"
-        },
-        {
-            "title": "Sources detail how the Trump admin bypassed the DOJ trial team and pushed to settle the Live Nation case, after CEO Michael Rapino met White House officials (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260824/p18#a260824p18",
-            "published": "Mon, 24 Aug 2026 10:01:39 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "How Big Tech Captured American Schools",
             "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
-            "published": "Sun, 23 Aug 2026 11:13:40 +0000"
+            "published": "Mon, 24 Aug 2026 15:46:53 +0000"
         },
         {
             "title": "The Data Center Backlash Bursts Into the Midterms",
@@ -57,7 +57,7 @@
         {
             "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
             "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 24 Aug 2026 13:47:29 GMT"
+            "published": "Mon, 24 Aug 2026 16:03:24 GMT"
         },
         {
             "title": "Twitch and Amazon face legal action over using livestreams to train AI",
