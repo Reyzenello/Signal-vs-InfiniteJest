@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/260825/p44#a260825p44",
+            "published": "Tue, 25 Aug 2026 18:20:01 -0400"
+        },
+        {
+            "title": "Intuit reports Q4 revenue up 14% YoY to $4.35B, vs. $4.27B est., and forecasts FY 2027 revenue growth of 9% to 10%, below ~11% est.; INTU drops 8%+ after hours (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260825/p43#a260825p43",
+            "published": "Tue, 25 Aug 2026 17:45:01 -0400"
+        },
+        {
             "title": "Zoom reports Q2 revenue up 4.9% YoY to $1.28B, vs. $1.27B est., enterprise revenue up 7.8% to $787.5M, and forecasts Q3 adjusted EPS below estimates (Brody Ford/Bloomberg)",
             "link": "https://www.techmeme.com/260825/p42#a260825p42",
             "published": "Tue, 25 Aug 2026 17:15:00 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Chris Malone, who joined OpenAI as head of data centers in March 2025, left the company last week amid a broader exodus (Anissa Gardizy/Wall Street Journal)",
             "link": "https://www.techmeme.com/260825/p40#a260825p40",
             "published": "Tue, 25 Aug 2026 15:25:01 -0400"
-        },
-        {
-            "title": "Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)",
-            "link": "https://www.techmeme.com/260825/p39#a260825p39",
-            "published": "Tue, 25 Aug 2026 14:50:01 -0400"
-        },
-        {
-            "title": "An ex-Meta staffer testified that less than 1% of teens used Instagram's opt-in \"Take a Break\" tool when it launched; the feature is now on by default for teens (Madlin Mekelburg/Bloomberg)",
-            "link": "https://www.techmeme.com/260825/p38#a260825p38",
-            "published": "Tue, 25 Aug 2026 13:45:00 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
             "link": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-            "published": "Tue, 25 Aug 2026 20:38:54 +0000"
+            "published": "Tue, 25 Aug 2026 21:59:39 +0000"
         },
         {
             "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
