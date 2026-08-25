@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)",
+            "link": "https://www.techmeme.com/260825/p39#a260825p39",
+            "published": "Tue, 25 Aug 2026 14:50:01 -0400"
+        },
+        {
+            "title": "An ex-Meta staffer testified that less than 1% of teens used Instagram's opt-in \"Take a Break\" tool when it launched; the feature is now on by default for teens (Madlin Mekelburg/Bloomberg)",
+            "link": "https://www.techmeme.com/260825/p38#a260825p38",
+            "published": "Tue, 25 Aug 2026 13:45:00 -0400"
+        },
+        {
             "title": "UK filing: in FY 2025, OnlyFans paid out $6.3B to creators, net revenue rose 10% YoY to $1.55B, and creator accounts hit 5M; 5,076 creators made $1M+ since 2016 (Todd Spangler/Variety)",
             "link": "https://www.techmeme.com/260825/p37#a260825p37",
             "published": "Tue, 25 Aug 2026 13:30:00 -0400"
@@ -14,19 +24,19 @@
             "title": "The EPA plans to eliminate a federal rule that US states must publicize and solicit public input on air pollution permit applications for data centers (Maxine Joselow/New York Times)",
             "link": "https://www.techmeme.com/260825/p35#a260825p35",
             "published": "Tue, 25 Aug 2026 12:40:02 -0400"
-        },
-        {
-            "title": "Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others (Corbin Bolies/Variety)",
-            "link": "https://www.techmeme.com/260825/p34#a260825p34",
-            "published": "Tue, 25 Aug 2026 12:15:01 -0400"
-        },
-        {
-            "title": "Sources: Anthropic is likely to tell IPO investors that its potential revenue opportunities are above $30T, topping SpaceX's $28.5T; Uber predicted $6T in 2019 (Corrie Driebusch/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260825/p33#a260825p33",
-            "published": "Tue, 25 Aug 2026 12:05:25 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana",
+            "link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
+            "published": "Tue, 25 Aug 2026 17:50:38 +0000"
+        },
+        {
+            "title": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
+            "link": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
+            "published": "Tue, 25 Aug 2026 15:45:09 +0000"
+        },
         {
             "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
             "link": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
@@ -36,16 +46,6 @@
             "title": "How Big Tech Captured American Schools",
             "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
             "published": "Mon, 24 Aug 2026 15:46:53 +0000"
-        },
-        {
-            "title": "The Data Center Backlash Bursts Into the Midterms",
-            "link": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
-            "published": "Mon, 24 Aug 2026 13:32:00 +0000"
-        },
-        {
-            "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
-            "link": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
-            "published": "Sun, 23 Aug 2026 09:00:20 +0000"
         },
         {
             "title": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
