@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning (Skild AI)",
+            "link": "https://www.techmeme.com/260825/p41#a260825p41",
+            "published": "Tue, 25 Aug 2026 15:55:01 -0400"
+        },
+        {
             "title": "Sources: Chris Malone, who joined OpenAI as head of data centers in March 2025, left the company last week amid a broader exodus (Anissa Gardizy/Wall Street Journal)",
             "link": "https://www.techmeme.com/260825/p40#a260825p40",
             "published": "Tue, 25 Aug 2026 15:25:01 -0400"
@@ -19,23 +24,18 @@
             "title": "UK filing: in FY 2025, OnlyFans paid out $6.3B to creators, net revenue rose 10% YoY to $1.55B, and creator accounts hit 5M; 5,076 creators made $1M+ since 2016 (Todd Spangler/Variety)",
             "link": "https://www.techmeme.com/260825/p37#a260825p37",
             "published": "Tue, 25 Aug 2026 13:30:00 -0400"
-        },
-        {
-            "title": "Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)",
-            "link": "https://www.techmeme.com/260825/p36#a260825p36",
-            "published": "Tue, 25 Aug 2026 13:10:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana",
+            "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
             "link": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
-            "published": "Tue, 25 Aug 2026 17:50:38 +0000"
+            "published": "Tue, 25 Aug 2026 19:54:47 +0000"
         },
         {
             "title": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
             "link": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-            "published": "Tue, 25 Aug 2026 15:45:09 +0000"
+            "published": "Tue, 25 Aug 2026 20:03:42 +0000"
         },
         {
             "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
