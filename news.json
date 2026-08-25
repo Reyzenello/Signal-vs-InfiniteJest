@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Nvidia unveils the Jetson Orin Nano 2 edge AI computer that it says doubles inference performance, with 78 TOPS of AI compute and an eight-core Arm CPU (Eugene Demaitre/The Robot Report)",
+            "link": "https://www.techmeme.com/260825/p32#a260825p32",
+            "published": "Tue, 25 Aug 2026 11:35:00 -0400"
+        },
+        {
+            "title": "A detailed look at Jalape\u00f1o, OpenAI's ASIC developed with Broadcom in 16 months, which beat Nvidia, AMD, and Google chips on multiple top open-weight models (SemiAnalysis)",
+            "link": "https://www.techmeme.com/260825/p31#a260825p31",
+            "published": "Tue, 25 Aug 2026 11:15:02 -0400"
+        },
+        {
+            "title": "Uber launches an optional safety feature allowing parents or guardians to watch a livestream of their teen's ride via the driver's front-facing phone camera (Natalie Lung/Bloomberg)",
+            "link": "https://www.techmeme.com/260825/p30#a260825p30",
+            "published": "Tue, 25 Aug 2026 11:05:03 -0400"
+        },
+        {
+            "title": "Mexico-based Primero, which aims to modernize legacy software used by Latin American companies with AI, raised a $12M seed co-led by Kaszek and General Catalyst (Kylie Madry/Reuters)",
+            "link": "https://www.techmeme.com/260825/p29#a260825p29",
+            "published": "Tue, 25 Aug 2026 11:00:36 -0400"
+        },
+        {
             "title": "Tel Aviv and NYC-based Alice, which works to protect AI models from misuse and rogue behavior, raised $140M led by Apax Digital at a valuation \"close to $1B\" (Marissa Newman/Bloomberg)",
             "link": "https://www.techmeme.com/260825/p28#a260825p28",
             "published": "Tue, 25 Aug 2026 10:45:04 -0400"
-        },
-        {
-            "title": "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nu\u00f1ez/VentureBeat)",
-            "link": "https://www.techmeme.com/260825/p27#a260825p27",
-            "published": "Tue, 25 Aug 2026 10:40:03 -0400"
-        },
-        {
-            "title": "Waymo plans to offer ride-hailing services in Germany, starting with Munich, by the end of 2027, marking its third international market and the first in the EU (Natalie Lung/Bloomberg)",
-            "link": "https://www.techmeme.com/260825/p26#a260825p26",
-            "published": "Tue, 25 Aug 2026 10:35:01 -0400"
-        },
-        {
-            "title": "Autonomous trucking startup Gatik raised $200M, two months after striking a multi-year commercial agreement with PepsiCo, bringing its total funding to ~$500M (Kirsten Korosec/TechCrunch)",
-            "link": "https://www.techmeme.com/260825/p25#a260825p25",
-            "published": "Tue, 25 Aug 2026 10:30:00 -0400"
-        },
-        {
-            "title": "OpenAI says its Jalape\u00f1o chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency vs. Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T (Emma Roth/The Verge)",
-            "link": "https://www.techmeme.com/260825/p24#a260825p24",
-            "published": "Tue, 25 Aug 2026 10:25:00 -0400"
         }
     ],
     "source_1": [
@@ -50,7 +50,7 @@
         {
             "title": "Why Irregular\u2019s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
             "link": "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-            "published": "Tue, 25 Aug 2026 14:51:46 +0000"
+            "published": "Tue, 25 Aug 2026 15:45:09 +0000"
         }
     ],
     "source_2": [
