@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Pennsylvania's AG sues Snap, alleging Snapchat fails to protect teens from compulsively using the app, two weeks after filing a similar lawsuit against TikTok (Miranda Nazzaro/The Hill)",
+            "link": "https://www.techmeme.com/260825/p49#a260825p49",
+            "published": "Tue, 25 Aug 2026 22:35:01 -0400"
+        },
+        {
+            "title": "Sources: Meta and state AGs have discussed a possible mid-trial settlement of the social media addiction lawsuit, which is currently in its second week of trial (Bloomberg)",
+            "link": "https://www.techmeme.com/260825/p48#a260825p48",
+            "published": "Tue, 25 Aug 2026 22:00:35 -0400"
+        },
+        {
             "title": "AWS says it plans to shut down Mechanical Turk on September 30, 2026, following an assessment; the service, launched in 2005, outsourced tasks to humans (Annie Palmer/CNBC)",
             "link": "https://www.techmeme.com/260825/p47#a260825p47",
             "published": "Tue, 25 Aug 2026 21:35:01 -0400"
@@ -14,16 +24,6 @@
             "title": "State AGs' trial: Adam Mosseri denies Instagram stalled by not making its \"Take a Break\" teen safety feature the default until nearly three years after launch (Reuters)",
             "link": "https://www.techmeme.com/260825/p45#a260825p45",
             "published": "Tue, 25 Aug 2026 19:30:05 -0400"
-        },
-        {
-            "title": "Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260825/p44#a260825p44",
-            "published": "Tue, 25 Aug 2026 18:20:01 -0400"
-        },
-        {
-            "title": "Intuit reports Q4 revenue up 14% YoY to $4.35B, vs. $4.27B est., and forecasts FY 2027 revenue growth of 9% to 10%, below ~11% est.; INTU drops 8%+ after hours (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260825/p43#a260825p43",
-            "published": "Tue, 25 Aug 2026 17:45:01 -0400"
         }
     ],
     "source_1": [
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
-            "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 26 Aug 2026 01:32:07 GMT"
-        },
-        {
             "title": "Firms scramble for battery power in Spain and Portugal",
             "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 25 Aug 2026 23:09:31 GMT"
@@ -78,6 +73,11 @@
             "title": "Twitch and Amazon face legal action over using livestreams to train AI",
             "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 24 Aug 2026 13:09:44 GMT"
+        },
+        {
+            "title": "Robot horse and rider steal the spotlight at Chinese conference",
+            "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 22 Aug 2026 12:47:28 GMT"
         }
     ]
 }
