@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei's technology outside China (Evelyn Cheng/CNBC)",
+            "link": "https://www.techmeme.com/260826/p4#a260826p4",
+            "published": "Wed, 26 Aug 2026 01:35:01 -0400"
+        },
+        {
+            "title": "Indian AI infrastructure company AM Intelligence orders 9,000 Nvidia Vera Rubin systems and plans to offer 1GW of computing capacity as part of an $8B project (Saritha Rai/Bloomberg)",
+            "link": "https://www.techmeme.com/260826/p3#a260826p3",
+            "published": "Wed, 26 Aug 2026 01:25:02 -0400"
+        },
+        {
             "title": "Sources: YMTC, which seeks to raise $5B in an IPO, told investors in IPO prep meetings that it aims to become the largest NAND flash supplier by the end of 2027 (Financial Times)",
             "link": "https://www.techmeme.com/260826/p2#a260826p2",
             "published": "Wed, 26 Aug 2026 00:45:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Pennsylvania's AG sues Snap, alleging Snapchat fails to protect teens from compulsively using the app, two weeks after filing a similar lawsuit against TikTok (Miranda Nazzaro/The Hill)",
             "link": "https://www.techmeme.com/260825/p49#a260825p49",
             "published": "Tue, 25 Aug 2026 22:35:01 -0400"
-        },
-        {
-            "title": "Sources: Meta and state AGs have discussed a possible mid-trial settlement of the social media addiction lawsuit, which is currently in its second week of trial (Bloomberg)",
-            "link": "https://www.techmeme.com/260825/p48#a260825p48",
-            "published": "Tue, 25 Aug 2026 22:00:35 -0400"
-        },
-        {
-            "title": "AWS says it plans to shut down Mechanical Turk on September 30, 2026, following an assessment; the service, launched in 2005, outsourced tasks to humans (Annie Palmer/CNBC)",
-            "link": "https://www.techmeme.com/260825/p47#a260825p47",
-            "published": "Tue, 25 Aug 2026 21:35:01 -0400"
         }
     ],
     "source_1": [
@@ -55,11 +55,6 @@
     ],
     "source_2": [
         {
-            "title": "Firms scramble for battery power in Spain and Portugal",
-            "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 25 Aug 2026 23:09:31 GMT"
-        },
-        {
             "title": "Songs created by AI banned from Australia's music charts",
             "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 25 Aug 2026 04:54:01 GMT"
@@ -78,6 +73,11 @@
             "title": "Robot horse and rider steal the spotlight at Chinese conference",
             "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 22 Aug 2026 12:47:28 GMT"
+        },
+        {
+            "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+            "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 21 Aug 2026 22:36:12 GMT"
         }
     ]
 }
