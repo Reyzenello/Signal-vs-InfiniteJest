@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Google debuts Gemini 3.5 Transcribe, a speech-to-text model that powers Gboard Rambler and is coming to Chrome, in public preview for developers and enterprises (Abner Li/9to5Google)",
-            "link": "https://www.techmeme.com/260826/p48#a260826p48",
-            "published": "Wed, 26 Aug 2026 15:00:45 -0400"
+            "title": "Nvidia forecasts Q3 revenue of $108B, above a $104B estimate, and expects FY 2028 revenue to grow by about 70%; NVDA jumps 4%+ after hours (Deborah Mary Sophia/Reuters)",
+            "link": "https://www.techmeme.com/260826/p60#a260826p60",
+            "published": "Wed, 26 Aug 2026 19:00:01 -0400"
         },
         {
-            "title": "Meta agrees to pay up to $18B to settle US states' claims that it designed Facebook and Instagram to addict children, misled consumers, and more (Reuters)",
-            "link": "https://www.techmeme.com/260826/p47#a260826p47",
-            "published": "Wed, 26 Aug 2026 13:50:00 -0400"
+            "title": "Brazil's government sues Discord for $97M, accusing it of failing to comply with laws protecting children and teens; Discord calls the lawsuit disproportionate (Reuters)",
+            "link": "https://www.techmeme.com/260826/p59#a260826p59",
+            "published": "Wed, 26 Aug 2026 18:35:02 -0400"
         },
         {
-            "title": "Sources: Anthropic has agreed to pay Nscale $45B over six years to rent about 460MW of power at a West Virginia data center using Nvidia's Vera Rubin chips (Brody Ford/Bloomberg)",
-            "link": "https://www.techmeme.com/260826/p46#a260826p46",
-            "published": "Wed, 26 Aug 2026 13:30:02 -0400"
+            "title": "Internal email: Google is moving DeepMind's ~90-person \"AI responsibility\" team, focused on the risks and societal impact of AI, to Google's global affairs unit (Erin Woo/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260826/p58#a260826p58",
+            "published": "Wed, 26 Aug 2026 18:05:01 -0400"
         },
         {
-            "title": "The Trump administration has struck data-sharing deals with OpenAI, Google, Meta, Amazon, and other tech companies to track how AI is affecting jobs and hiring (Courtenay Brown/Axios)",
-            "link": "https://www.techmeme.com/260826/p45#a260826p45",
-            "published": "Wed, 26 Aug 2026 12:45:01 -0400"
+            "title": "AWS plans to add 2M Nvidia Blackwell Ultra, Rubin, and Rubin Ultra GPUs to its data center fleet in 2027 and 2028, in addition to 1M GPUs announced in March (Bloomberg)",
+            "link": "https://www.techmeme.com/260826/p57#a260826p57",
+            "published": "Wed, 26 Aug 2026 17:50:02 -0400"
         },
         {
-            "title": "Apple announces a \"Surprise and shine\" event on September 9 at 10am PT at Apple Park, where its first foldable iPhone, iPhone 18 Pro, and more are expected (Zac Hall/9to5Mac)",
-            "link": "https://www.techmeme.com/260826/p44#a260826p44",
-            "published": "Wed, 26 Aug 2026 12:08:19 -0400"
+            "title": "CrowdStrike reports Q2 revenue up 26% YoY to $1.47B, vs. $1.44B est., and forecasts FY 2027 revenue above estimates; CRWD jumps 9%+ after hours (Jake Bleiberg/Bloomberg)",
+            "link": "https://www.techmeme.com/260826/p56#a260826p56",
+            "published": "Wed, 26 Aug 2026 17:20:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
             "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
-            "published": "Wed, 26 Aug 2026 18:55:31 +0000"
+            "published": "Wed, 26 Aug 2026 22:49:35 +0000"
         },
         {
             "title": "What\u2019s Changing For Teens on Instagram and Facebook After Meta Settlement",
@@ -48,16 +48,26 @@
             "published": "Wed, 26 Aug 2026 11:06:51 +0000"
         },
         {
-            "title": "Gold, Flights, Cryptocurrency: U.S. Vows to Go After More Than Iran\u2019s Oil",
-            "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
-            "published": "Wed, 26 Aug 2026 12:46:05 +0000"
+            "title": "Nvidia\u2019s Profit Doubles to $59.69 Billion Thanks to A.I. Spending",
+            "link": "https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html",
+            "published": "Wed, 26 Aug 2026 22:48:10 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 22:03:45 GMT"
+        },
+        {
+            "title": "Nvidia revenue doubles on continued AI demand",
+            "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 21:49:26 GMT"
+        },
+        {
             "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
             "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 26 Aug 2026 17:44:39 GMT"
+            "published": "Wed, 26 Aug 2026 21:27:23 GMT"
         },
         {
             "title": "Xbox boss 'thinking about affordability' of next-gen console",
@@ -68,16 +78,6 @@
             "title": "AI gold rush draws crypto firms away from Bitcoin",
             "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 25 Aug 2026 23:11:02 GMT"
-        },
-        {
-            "title": "Songs created by AI banned from Australia's music charts",
-            "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 25 Aug 2026 04:54:01 GMT"
-        },
-        {
-            "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-            "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 24 Aug 2026 16:03:24 GMT"
         }
     ]
 }
