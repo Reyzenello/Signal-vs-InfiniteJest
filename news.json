@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Volodymyr Zelenskyy awards Elon Musk with Ukraine's Order of Freedom; sources say Zelenskyy asked Musk to authorize Starlink use up to 200km inside Russia (Fabrice Deprez/Financial Times)",
-            "link": "https://www.techmeme.com/260826/p27#a260826p27",
-            "published": "Wed, 26 Aug 2026 09:01:59 -0400"
+            "title": "The US DOJ says it disrupted a Chinese hacking operation responsible for break-ins at the DOJ, NASA, the Fed, Senate, and others, seizing two platforms' domains (Reuters)",
+            "link": "https://www.techmeme.com/260826/p37#a260826p37",
+            "published": "Wed, 26 Aug 2026 10:51:42 -0400"
         },
         {
-            "title": "Alibaba releases Qwen3.8-Flash, an open-weight, 125B-parameter model built on its next-gen Qwen 4 architecture, saying it rivals Opus 4.6 and V4-Flash (Luz Ding/Bloomberg)",
-            "link": "https://www.techmeme.com/260826/p26#a260826p26",
-            "published": "Wed, 26 Aug 2026 08:51:34 -0400"
+            "title": "In Q2, Apple's base iPhone 17 was the global best-selling smartphone, with a 6% share, followed by the iPhone 17 Pro Max; Apple and Samsung had all 10 top spots (Counterpoint Research)",
+            "link": "https://www.techmeme.com/260826/p36#a260826p36",
+            "published": "Wed, 26 Aug 2026 10:35:08 -0400"
         },
         {
-            "title": "Microsoft faces investor criticism over opaque financial reporting across capex, its OpenAI deal, and Azure, which is buried in the Intelligent Cloud segment (Jonathan Weil/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260826/p25#a260826p25",
-            "published": "Wed, 26 Aug 2026 08:00:54 -0400"
+            "title": "Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, saying it outperforms GLM-5.2 at \"one-tenth the price\" (Z.ai)",
+            "link": "https://www.techmeme.com/260826/p35#a260826p35",
+            "published": "Wed, 26 Aug 2026 10:26:48 -0400"
         },
         {
-            "title": "Rockstar says GTA 6 gameplay leaking \"in this way has been heartbreaking\", calling it \"unfortunate\" that the \"game experience may now be impacted\" by spoilers (John Walker/Kotaku)",
-            "link": "https://www.techmeme.com/260826/p24#a260826p24",
-            "published": "Wed, 26 Aug 2026 07:47:00 -0400"
+            "title": "Sources: Sword Health plans to acquire mental health company Headspace for between $200M and $300M in cash, far below its ~$3B valuation in 2021 (Brock E.W. Turner/Axios)",
+            "link": "https://www.techmeme.com/260826/p34#a260826p34",
+            "published": "Wed, 26 Aug 2026 10:23:10 -0400"
         },
         {
-            "title": "Public polling suggests the US' severe anti-data center backlash is primarily driven by local environmental and economic concerns, not anti-Big Tech sentiment (Andy Masley)",
-            "link": "https://www.techmeme.com/260826/p23#a260826p23",
-            "published": "Wed, 26 Aug 2026 07:40:02 -0400"
+            "title": "Amazon's Ring unveils a new proprietary encryption architecture called TAKE, set to begin rolling out in September as the default encryption for all cameras (Jennifer Pattison Tuohy/The Verge)",
+            "link": "https://www.techmeme.com/260826/p33#a260826p33",
+            "published": "Wed, 26 Aug 2026 10:20:03 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 24 Aug 2026 18:07:41 +0000"
         },
         {
-            "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
-            "link": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
-            "published": "Wed, 26 Aug 2026 11:06:51 +0000"
+            "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
+            "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
+            "published": "Wed, 26 Aug 2026 14:35:25 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Meta agrees to pay up to $17.1bn to settle social media case",
+            "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 14:10:17 GMT"
+        },
         {
             "title": "AI gold rush draws crypto firms away from Bitcoin",
             "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Twitch and Amazon face legal action over using livestreams to train AI",
             "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 24 Aug 2026 13:09:44 GMT"
-        },
-        {
-            "title": "Robot horse and rider steal the spotlight at Chinese conference",
-            "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 22 Aug 2026 12:47:28 GMT"
         }
     ]
 }
