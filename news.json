@@ -1,59 +1,74 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic releases findings from a pilot that let three external researchers run studies on Claude usage; one study found users delegate high-stakes tasks (Anthropic)",
-            "link": "https://www.techmeme.com/260827/p12#a260827p12",
-            "published": "Thu, 27 Aug 2026 04:15:15 -0400"
+            "title": "YouTube adds Amazon to its shopping affiliate program, enabling US creators to tag Amazon products in Shorts, longform videos, and livestreams (Anna Washenko/Engadget)",
+            "link": "https://www.techmeme.com/260827/p46#a260827p46",
+            "published": "Thu, 27 Aug 2026 15:15:02 -0400"
         },
         {
-            "title": "UK consulting executives say AI has made interpersonal skills more valuable, as the companies consider more office time for junior staff to hone them (Ellesheva Kissin/Financial Times)",
-            "link": "https://www.techmeme.com/260827/p11#a260827p11",
-            "published": "Thu, 27 Aug 2026 03:50:02 -0400"
+            "title": "Sources: Anthropic has been working on a plan to allow secondary stock sales in its IPO while also considering lockup periods longer than the standard 180 days (The Information)",
+            "link": "https://www.techmeme.com/260827/p45#a260827p45",
+            "published": "Thu, 27 Aug 2026 14:30:01 -0400"
         },
         {
-            "title": "A federal judge, in his US Court of Appeals ruling, urged SCOTUS to reconsider the issue of CSAM and revisit legal precedents that predated advances in AI (Nitasha Tiku/Washington Post)",
-            "link": "https://www.techmeme.com/260827/p10#a260827p10",
-            "published": "Thu, 27 Aug 2026 03:05:32 -0400"
+            "title": "Anthropic releases Model Hardware Standard, a framework to help AI agents use physical systems like microscopes, quantum computing hardware, and robot arms (Will Knight/Wired)",
+            "link": "https://www.techmeme.com/260827/p44#a260827p44",
+            "published": "Thu, 27 Aug 2026 14:25:04 -0400"
         },
         {
-            "title": "A look at the Cornell Lab of Ornithology's Merlin Bird ID app, which has been downloaded 42M times since launching in 2014 and can identify 11,000 bird species (Claer Barrett/Financial Times)",
-            "link": "https://www.techmeme.com/260827/p9#a260827p9",
-            "published": "Thu, 27 Aug 2026 02:50:02 -0400"
+            "title": "Internal memo: Meta's AI agent Hatch \"has its own computer\" to perform tasks, works when the app is closed, can connect to email, Instagram, OpenTable, and more (Hugh Langley/Business Insider)",
+            "link": "https://www.techmeme.com/260827/p43#a260827p43",
+            "published": "Thu, 27 Aug 2026 14:10:01 -0400"
         },
         {
-            "title": "Sources: DeepSeek is set to soon raise $7.4B at a $74B valuation from existing and new investors to fund R&D and its expansion into computing infrastructure (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260827/p8#a260827p8",
-            "published": "Thu, 27 Aug 2026 02:40:05 -0400"
+            "title": "Source: Nvidia plans an employee-funded political action committee called NVPAC, as it seeks to step up its efforts to influence US policy (Courtney Rozen/Reuters)",
+            "link": "https://www.techmeme.com/260827/p42#a260827p42",
+            "published": "Thu, 27 Aug 2026 13:35:05 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims",
-            "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html",
-            "published": "Wed, 26 Aug 2026 22:49:36 +0000"
+            "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
+            "link": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
+            "published": "Thu, 27 Aug 2026 15:08:37 +0000"
         },
         {
-            "title": "What\u2019s Changing For Teens on Instagram and Facebook After Meta Settlement",
-            "link": "https://www.nytimes.com/2026/08/26/technology/meta-instagram-facebook-settlement.html",
-            "published": "Wed, 26 Aug 2026 18:22:32 +0000"
-        },
-        {
-            "title": "What Does $17.1 Billion Mean for Meta?",
-            "link": "https://www.nytimes.com/2026/08/26/technology/meta-settlement-dollars-amount.html",
-            "published": "Wed, 26 Aug 2026 18:10:41 +0000"
-        },
-        {
-            "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
-            "link": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
-            "published": "Thu, 27 Aug 2026 00:24:04 +0000"
+            "title": "Meta Projected It Could Spend $10 Billion on Anthropic\u2019s A.I.",
+            "link": "https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html",
+            "published": "Thu, 27 Aug 2026 14:04:10 +0000"
         },
         {
             "title": "Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
             "link": "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html",
-            "published": "Thu, 27 Aug 2026 09:03:52 +0000"
+            "published": "Thu, 27 Aug 2026 19:58:07 +0000"
+        },
+        {
+            "title": "Nvidia\u2019s Profit Doubles to $59.69 Billion Thanks to A.I. Spending",
+            "link": "https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html",
+            "published": "Thu, 27 Aug 2026 01:05:58 +0000"
+        },
+        {
+            "title": "What Meta\u2019s $17 Billion Settlement Means",
+            "link": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html",
+            "published": "Thu, 27 Aug 2026 18:54:17 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Time is running out for cyber security, warn top tech firms",
+            "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 19:44:27 GMT"
+        },
+        {
+            "title": "Reform of all social media should come with Meta changes, UN says",
+            "link": "https://www.bbc.co.uk/news/articles/c17j00lnn41o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 19:31:10 GMT"
+        },
+        {
+            "title": "What the Meta settlement means for the UK, and other questions after the deal",
+            "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 13:24:03 GMT"
+        },
         {
             "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
             "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "Nvidia revenue doubles on continued AI demand",
             "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 26 Aug 2026 21:49:26 GMT"
-        },
-        {
-            "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-            "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 26 Aug 2026 21:27:23 GMT"
-        },
-        {
-            "title": "Xbox boss 'thinking about affordability' of next-gen console",
-            "link": "https://www.bbc.co.uk/news/articles/c17jlngexy9o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 26 Aug 2026 15:38:49 GMT"
-        },
-        {
-            "title": "AI gold rush draws crypto firms away from Bitcoin",
-            "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 25 Aug 2026 23:11:02 GMT"
         }
     ]
 }
