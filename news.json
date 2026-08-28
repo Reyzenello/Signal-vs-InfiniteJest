@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "YouTube adds Amazon to its shopping affiliate program, enabling US creators to tag Amazon products in Shorts, longform videos, and livestreams (Anna Washenko/Engadget)",
-            "link": "https://www.techmeme.com/260827/p46#a260827p46",
-            "published": "Thu, 27 Aug 2026 15:15:02 -0400"
+            "title": "BitGo agrees to buy NYDIG's institutional trading business and related assets, expanding BitGo's derivatives offerings; ~30 NYDIG employees are joining BitGo (Tanaya Macheel/CNBC)",
+            "link": "https://www.techmeme.com/260827/p63#a260827p63",
+            "published": "Thu, 27 Aug 2026 23:30:02 -0400"
         },
         {
-            "title": "Sources: Anthropic has been working on a plan to allow secondary stock sales in its IPO while also considering lockup periods longer than the standard 180 days (The Information)",
-            "link": "https://www.techmeme.com/260827/p45#a260827p45",
-            "published": "Thu, 27 Aug 2026 14:30:01 -0400"
+            "title": "Sources: federal authorities prepare to charge a US serviceman and a KPMG employee with insider trading on prediction markets, as part of a new batch of cases (Dave Michaels/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260827/p62#a260827p62",
+            "published": "Thu, 27 Aug 2026 22:55:01 -0400"
         },
         {
-            "title": "Anthropic releases Model Hardware Standard, a framework to help AI agents use physical systems like microscopes, quantum computing hardware, and robot arms (Will Knight/Wired)",
-            "link": "https://www.techmeme.com/260827/p44#a260827p44",
-            "published": "Thu, 27 Aug 2026 14:25:04 -0400"
+            "title": "Sources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B (Bloomberg)",
+            "link": "https://www.techmeme.com/260827/p61#a260827p61",
+            "published": "Thu, 27 Aug 2026 22:30:01 -0400"
         },
         {
-            "title": "Internal memo: Meta's AI agent Hatch \"has its own computer\" to perform tasks, works when the app is closed, can connect to email, Instagram, OpenTable, and more (Hugh Langley/Business Insider)",
-            "link": "https://www.techmeme.com/260827/p43#a260827p43",
-            "published": "Thu, 27 Aug 2026 14:10:01 -0400"
+            "title": "A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was \"illegal and baseless\" (Jack Queen/Reuters)",
+            "link": "https://www.techmeme.com/260827/p60#a260827p60",
+            "published": "Thu, 27 Aug 2026 22:10:02 -0400"
         },
         {
-            "title": "Source: Nvidia plans an employee-funded political action committee called NVPAC, as it seeks to step up its efforts to influence US policy (Courtney Rozen/Reuters)",
-            "link": "https://www.techmeme.com/260827/p42#a260827p42",
-            "published": "Thu, 27 Aug 2026 13:35:05 -0400"
+            "title": "CISA says that cyberattacks on critical US infrastructure targeted 100+ internet-exposed water and wastewater systems in July, largely attacking PLCs (Zack Whittaker/TechCrunch)",
+            "link": "https://www.techmeme.com/260827/p59#a260827p59",
+            "published": "Thu, 27 Aug 2026 21:30:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
             "link": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
-            "published": "Thu, 27 Aug 2026 15:08:37 +0000"
+            "published": "Fri, 28 Aug 2026 01:09:44 +0000"
         },
         {
             "title": "Meta Projected It Could Spend $10 Billion on Anthropic\u2019s A.I.",
@@ -40,7 +40,7 @@
         {
             "title": "Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain",
             "link": "https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html",
-            "published": "Thu, 27 Aug 2026 19:58:07 +0000"
+            "published": "Thu, 27 Aug 2026 20:48:07 +0000"
         },
         {
             "title": "Nvidia\u2019s Profit Doubles to $59.69 Billion Thanks to A.I. Spending",
@@ -48,12 +48,22 @@
             "published": "Thu, 27 Aug 2026 01:05:58 +0000"
         },
         {
-            "title": "What Meta\u2019s $17 Billion Settlement Means",
-            "link": "https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html",
-            "published": "Thu, 27 Aug 2026 18:54:17 +0000"
+            "title": "Trump Administration\u2019s Blacklisting of Anthropic Was Illegal, Judge Rules",
+            "link": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+            "published": "Fri, 28 Aug 2026 02:28:13 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+            "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 28 Aug 2026 05:11:16 GMT"
+        },
+        {
+            "title": "Overcooked? Why robotic pizza makers are failing",
+            "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 27 Aug 2026 23:16:02 GMT"
+        },
         {
             "title": "Time is running out for cyber security, warn top tech firms",
             "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "What the Meta settlement means for the UK, and other questions after the deal",
             "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 27 Aug 2026 13:24:03 GMT"
-        },
-        {
-            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 26 Aug 2026 22:03:45 GMT"
-        },
-        {
-            "title": "Nvidia revenue doubles on continued AI demand",
-            "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 26 Aug 2026 21:49:26 GMT"
         }
     ]
 }
