@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "BitGo agrees to buy NYDIG's institutional trading business and related assets, expanding BitGo's derivatives offerings; ~30 NYDIG employees are joining BitGo (Tanaya Macheel/CNBC)",
-            "link": "https://www.techmeme.com/260827/p63#a260827p63",
-            "published": "Thu, 27 Aug 2026 23:30:02 -0400"
+            "title": "Sources: AI cloud computing provider Lambda raised ~$1B of private short-dated debt to finance the purchase of Nvidia GPUs, which will be leased by Microsoft (Emily Graffeo/Bloomberg)",
+            "link": "https://www.techmeme.com/260828/p18#a260828p18",
+            "published": "Fri, 28 Aug 2026 14:30:01 -0400"
         },
         {
-            "title": "Sources: federal authorities prepare to charge a US serviceman and a KPMG employee with insider trading on prediction markets, as part of a new batch of cases (Dave Michaels/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260827/p62#a260827p62",
-            "published": "Thu, 27 Aug 2026 22:55:01 -0400"
+            "title": "Unlike internet's one-dimensional, flat-fee growth, AI grows across two exponentials, user penetration and tokens per user, allowing AI labs' economics to work (Fin/@fi56622380)",
+            "link": "https://www.techmeme.com/260828/p17#a260828p17",
+            "published": "Fri, 28 Aug 2026 13:25:01 -0400"
         },
         {
-            "title": "Sources: Advent and Stripe are no longer pursuing a deal to acquire PayPal; the group offered to pay $60.50/share in July, valuing PayPal at $53B (Bloomberg)",
-            "link": "https://www.techmeme.com/260827/p61#a260827p61",
-            "published": "Thu, 27 Aug 2026 22:30:01 -0400"
+            "title": "Filing: Lone Palm Labs, the startup behind friend-focused photo sharing app Retro, raised a $21M+ Series A from Thrive Capital and others (Sydney Bradley/Business Insider)",
+            "link": "https://www.techmeme.com/260828/p16#a260828p16",
+            "published": "Fri, 28 Aug 2026 12:45:01 -0400"
         },
         {
-            "title": "A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was \"illegal and baseless\" (Jack Queen/Reuters)",
-            "link": "https://www.techmeme.com/260827/p60#a260827p60",
-            "published": "Thu, 27 Aug 2026 22:10:02 -0400"
+            "title": "Sources: the US is drafting a rule to close an export controls loophole that lets Chinese companies access AI chips via data centers in countries like Thailand (The Information)",
+            "link": "https://www.techmeme.com/260828/p15#a260828p15",
+            "published": "Fri, 28 Aug 2026 12:15:18 -0400"
         },
         {
-            "title": "CISA says that cyberattacks on critical US infrastructure targeted 100+ internet-exposed water and wastewater systems in July, largely attacking PLCs (Zack Whittaker/TechCrunch)",
-            "link": "https://www.techmeme.com/260827/p59#a260827p59",
-            "published": "Thu, 27 Aug 2026 21:30:01 -0400"
+            "title": "a16z creates a $1.1B Machine Age fund focusing on hardware to \"open the throttle and accelerate the physical buildout of AI\" (Sean O'Kane/TechCrunch)",
+            "link": "https://www.techmeme.com/260828/p14#a260828p14",
+            "published": "Fri, 28 Aug 2026 11:46:19 -0400"
         }
     ],
     "source_1": [
@@ -48,9 +48,9 @@
             "published": "Thu, 27 Aug 2026 01:05:58 +0000"
         },
         {
-            "title": "Trump Administration\u2019s Blacklisting of Anthropic Was Illegal, Judge Rules",
-            "link": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-            "published": "Fri, 28 Aug 2026 02:28:13 +0000"
+            "title": "Social Media and the Myth of the Big Tobacco Moment",
+            "link": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
+            "published": "Fri, 28 Aug 2026 16:13:17 +0000"
         }
     ],
     "source_2": [
@@ -58,11 +58,6 @@
             "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
             "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 28 Aug 2026 05:11:16 GMT"
-        },
-        {
-            "title": "Overcooked? Why robotic pizza makers are failing",
-            "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 27 Aug 2026 23:16:02 GMT"
         },
         {
             "title": "Time is running out for cyber security, warn top tech firms",
@@ -78,6 +73,11 @@
             "title": "What the Meta settlement means for the UK, and other questions after the deal",
             "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 27 Aug 2026 13:24:03 GMT"
+        },
+        {
+            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 26 Aug 2026 22:03:45 GMT"
         }
     ]
 }
