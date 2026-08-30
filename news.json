@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "California's legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope (Luke James/Tom's Hardware)",
+            "link": "https://www.techmeme.com/260829/p16#a260829p16",
+            "published": "Sat, 29 Aug 2026 19:30:00 -0400"
+        },
+        {
             "title": "Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions (Sheena Meng/Bloomberg)",
             "link": "https://www.techmeme.com/260829/p15#a260829p15",
             "published": "Sat, 29 Aug 2026 17:30:04 -0400"
@@ -19,11 +24,6 @@
             "title": "Sources detail how Meta's $17.1B settlement with state AGs came together as Meta wanted to avoid going to trial following losses in cases in LA and New Mexico (New York Times)",
             "link": "https://www.techmeme.com/260829/p12#a260829p12",
             "published": "Sat, 29 Aug 2026 13:35:00 -0400"
-        },
-        {
-            "title": "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)",
-            "link": "https://www.techmeme.com/260829/p11#a260829p11",
-            "published": "Sat, 29 Aug 2026 11:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "I've been to Gamescom six times - here's what excited me this year",
+            "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 29 Aug 2026 23:02:28 GMT"
+        },
+        {
             "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
             "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 28 Aug 2026 05:11:16 GMT"
@@ -73,11 +78,6 @@
             "title": "What the Meta settlement means for the UK, and other questions after the deal",
             "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 27 Aug 2026 13:24:03 GMT"
-        },
-        {
-            "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-            "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 26 Aug 2026 22:03:45 GMT"
         }
     ]
 }
