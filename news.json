@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "The FTC and 22 state AGs sue Amazon, alleging it \"secretly and systematically overcharged\" advertisers more than $20B since 2019 by using \"hidden surcharges\" (Annie Palmer/CNBC)",
-            "link": "https://www.techmeme.com/260831/p35#a260831p35",
-            "published": "Mon, 31 Aug 2026 15:50:00 -0400"
+            "title": "Sources: Anthropic has signed a $35B cloud deal with Nvidia-backed Lambda; Nvidia will hold the lease on and supply chips to a Texas data center built by Hut 8 (Anissa Gardizy/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260831/p42#a260831p42",
+            "published": "Mon, 31 Aug 2026 19:40:03 -0400"
         },
         {
-            "title": "On his last day as CEO, Tim Cook pens an emotional memo reflecting on his time at Apple and says he takes \"enormous comfort\" in handing the helm to John Ternus (Chance Miller/9to5Mac)",
-            "link": "https://www.techmeme.com/260831/p34#a260831p34",
-            "published": "Mon, 31 Aug 2026 15:45:01 -0400"
+            "title": "Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits (Ryan Gillespie/Orlando Sentinel)",
+            "link": "https://www.techmeme.com/260831/p41#a260831p41",
+            "published": "Mon, 31 Aug 2026 17:55:01 -0400"
         },
         {
-            "title": "FTC to File Lawsuit Alleging Amazon Deceived Advertisers (Dave Michaels/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260831/p33#a260831p33",
-            "published": "Mon, 31 Aug 2026 14:30:01 -0400"
+            "title": "Filing: Apple claims a former iPhone engineer used a confidential Apple circuit schematic in his work at OpenAI, evidence is being destroyed, and more (Chance Miller/9to5Mac)",
+            "link": "https://www.techmeme.com/260831/p40#a260831p40",
+            "published": "Mon, 31 Aug 2026 17:45:01 -0400"
         },
         {
-            "title": "Sony launches Live TV on PS5 in the US, letting users stream 100+ free, ad-supported TV channels with content from Amazon MGM Studios, Crunchyroll, and more (Kris Holt/Engadget)",
-            "link": "https://www.techmeme.com/260831/p32#a260831p32",
-            "published": "Mon, 31 Aug 2026 14:05:02 -0400"
+            "title": "Sources: AI sales and marketing startup Clay is raising a round led by Wellington at a $7B pre-money valuation, up from $5B via an employee tender in January (Lucinda Shen/Axios)",
+            "link": "https://www.techmeme.com/260831/p39#a260831p39",
+            "published": "Mon, 31 Aug 2026 17:25:01 -0400"
         },
         {
-            "title": "Trump says communities that reject data centers will end up \"backwards and poor\" and that \"China could not be happier with this anti Data Center movement\" (Cheyanne M. Daniels/Politico)",
-            "link": "https://www.techmeme.com/260831/p31#a260831p31",
-            "published": "Mon, 31 Aug 2026 13:55:00 -0400"
+            "title": "The Pentagon launches ChatGPT Mil and Grok for Government on its GenAI.mil platform, giving its 3M personnel access to AI tools \"tailored to warfighter needs\" (Kirsten Korosec/TechCrunch)",
+            "link": "https://www.techmeme.com/260831/p38#a260831p38",
+            "published": "Mon, 31 Aug 2026 17:00:46 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "FTC and 22 States Sue Amazon Over Advertising Practices",
+            "link": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
+            "published": "Mon, 31 Aug 2026 22:26:37 +0000"
+        },
         {
             "title": "How Meta\u2019s $17.1 Billion Social Media Settlement Came Together",
             "link": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html",
@@ -43,17 +48,17 @@
             "published": "Sun, 30 Aug 2026 01:52:59 +0000"
         },
         {
-            "title": "Meta Projected It Could Spend $10 Billion on Anthropic\u2019s A.I.",
-            "link": "https://www.nytimes.com/2026/08/27/technology/meta-anthropic-frenemies.html",
-            "published": "Thu, 27 Aug 2026 14:04:10 +0000"
-        },
-        {
             "title": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
             "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
             "published": "Sat, 29 Aug 2026 23:14:33 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+            "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 31 Aug 2026 21:28:49 GMT"
+        },
         {
             "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
             "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Time is running out for cyber security, warn top tech firms",
             "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 27 Aug 2026 19:44:27 GMT"
-        },
-        {
-            "title": "Reform of all social media should come with Meta changes, UN says",
-            "link": "https://www.bbc.co.uk/news/articles/c17j00lnn41o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 27 Aug 2026 19:31:10 GMT"
         }
     ]
 }
