@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft says it is testing a fix to an outage affecting Exchange Online and Outlook, lasting for 17+ hours from around 11:30AM ET on Monday (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260901/p5#a260901p5",
-            "published": "Tue, 01 Sep 2026 05:50:01 -0400"
+            "title": "Waymo starts offering driverless rides to customers in San Diego, Tampa, Florida, and Denver; Amazon's Zoox plans to start testing in Houston and San Diego (Lora Kolodny/CNBC)",
+            "link": "https://www.techmeme.com/260901/p19#a260901p19",
+            "published": "Tue, 01 Sep 2026 10:35:00 -0400"
         },
         {
-            "title": "Hong Kong-listed Z.ai reports H1 2026 revenue up 5x YoY to ~$142M, with \"open platform and API revenue\" up 28x to ~$122M, and net loss down 12% YoY to ~$308M (Juro Osawa/The Information)",
-            "link": "https://www.techmeme.com/260901/p4#a260901p4",
-            "published": "Tue, 01 Sep 2026 05:40:01 -0400"
+            "title": "Indian edtech startup upGrad closes its acquisition of rival Unacademy in an all-stock deal valuing Unacademy at ~$206M, down from its peak $3.5B valuation (Jagmeet Singh/TechCrunch)",
+            "link": "https://www.techmeme.com/260901/p18#a260901p18",
+            "published": "Tue, 01 Sep 2026 10:10:01 -0400"
         },
         {
-            "title": "Study: ~33% of UK adults say they used illegal streaming services in the past three months, costing the sports, TV, and film industries ~\u00a31.4B in annual revenue (Daniel Thomas/Financial Times)",
-            "link": "https://www.techmeme.com/260901/p3#a260901p3",
-            "published": "Tue, 01 Sep 2026 05:00:59 -0400"
+            "title": "Memo: Savvy Games Group CEO Brian Ward, who oversaw the Saudi Arabian government's $38B investment in the video game industry since 2021, is stepping down (Cecilia D'Anastasio/Bloomberg)",
+            "link": "https://www.techmeme.com/260901/p17#a260901p17",
+            "published": "Tue, 01 Sep 2026 09:45:32 -0400"
         },
         {
-            "title": "Filing: OpenAI denies Apple's allegations of trade secret theft, saying \"this dispute is a mess of Apple's own making, and it is trying to blame everyone else\" (Deepa Seetharaman/Reuters)",
-            "link": "https://www.techmeme.com/260901/p2#a260901p2",
-            "published": "Tue, 01 Sep 2026 04:15:25 -0400"
+            "title": "Mozilla launches built-in ad blocking for Firefox on iOS, using Apple's WebKit Content Blocker and the EasyList filter to block third-party ads and trackers (Tom Warren/The Verge)",
+            "link": "https://www.techmeme.com/260901/p16#a260901p16",
+            "published": "Tue, 01 Sep 2026 09:30:39 -0400"
         },
         {
-            "title": "As Gov. Josh Shapiro, once a data center champion, calls them \"predatory\" and imposes guardrails, some in struggling western Pennsylvania welcome the projects (New York Times)",
-            "link": "https://www.techmeme.com/260901/p1#a260901p1",
-            "published": "Tue, 01 Sep 2026 01:50:01 -0400"
+            "title": "Roku unveils its first self-branded OLED smart TVs, starting at $999 for 55\" and 65\" 120Hz models and $1,299 for 144Hz models, sold exclusively via Amazon (Chris Welch/Bloomberg)",
+            "link": "https://www.techmeme.com/260901/p15#a260901p15",
+            "published": "Tue, 01 Sep 2026 09:20:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "John Ternus Replaces Tim Cook as Apple CEO",
+            "link": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
+            "published": "Tue, 01 Sep 2026 09:01:55 +0000"
+        },
         {
             "title": "FTC and 22 States Sue Amazon Over Advertising Practices",
             "link": "https://www.nytimes.com/2026/08/31/technology/ftc-amazon-lawsuit-ad-prices.html",
@@ -43,26 +48,21 @@
             "published": "Fri, 28 Aug 2026 18:52:04 +0000"
         },
         {
-            "title": "Prediction Markets and States Clashed, Setting Off a Furious Political Battle",
-            "link": "https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html",
-            "published": "Sun, 30 Aug 2026 01:52:59 +0000"
-        },
-        {
-            "title": "John Ternus Replaces Tim Cook as Apple CEO",
-            "link": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
-            "published": "Tue, 01 Sep 2026 09:01:55 +0000"
+            "title": "Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.",
+            "link": "https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html",
+            "published": "Sat, 29 Aug 2026 23:14:33 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+            "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 10:18:47 GMT"
+        },
+        {
             "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
             "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 31 Aug 2026 21:28:49 GMT"
-        },
-        {
-            "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-            "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 31 Aug 2026 16:49:11 GMT"
         },
         {
             "title": "I've been to Gamescom six times - here's what excited me this year",
