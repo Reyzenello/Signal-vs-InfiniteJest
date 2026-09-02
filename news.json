@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "The FBI is investigating a new ID theft service called Nexus, which claims to have digital scans of 153M+ drivers licenses from people in the US and Canada (Brian Krebs/Krebs on Security)",
-            "link": "https://www.techmeme.com/260902/p8#a260902p8",
-            "published": "Wed, 02 Sep 2026 04:30:00 -0400"
+            "title": "Wonderful, which helps enterprises deploy AI, raised a $550M Series C led by Insight at a $5B valuation; investors also paid $170M for shares from employees (Yuliya Chernova/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260902/p21#a260902p21",
+            "published": "Wed, 02 Sep 2026 09:50:02 -0400"
         },
         {
-            "title": "A look at Kioxia's expansion in Japan's Kitakami, which helped stall the city's demographic decline and is a test of Japan's $640B AI and chips investment plan (Bloomberg)",
-            "link": "https://www.techmeme.com/260902/p7#a260902p7",
-            "published": "Wed, 02 Sep 2026 04:10:02 -0400"
+            "title": "OpenAI is facing a new round of lawsuits from witnesses and victims of the February mass shooting in a Canadian town; the suspect spent days talking to ChatGPT (Georgia Wells/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260902/p20#a260902p20",
+            "published": "Wed, 02 Sep 2026 09:25:01 -0400"
         },
         {
-            "title": "OpenAI launches a ChatGPT Health integration with Epic's EHR system and a new Healthcare Public Data plug-in that can fetch info from sources including PubMed (Ivan Mehta/TechCrunch)",
-            "link": "https://www.techmeme.com/260902/p6#a260902p6",
-            "published": "Wed, 02 Sep 2026 03:55:00 -0400"
+            "title": "New Jersey-based Aitan, which offers \"robotic sovereignty as a service\" and \"edge AI weapon systems\", emerges from stealth with $41M led by Deep33 and Dell (Colin Demarest/Axios)",
+            "link": "https://www.techmeme.com/260902/p19#a260902p19",
+            "published": "Wed, 02 Sep 2026 09:15:01 -0400"
         },
         {
-            "title": "Q&A with METR researcher Ajeya Cotra on investigating the OpenAI-Hugging Face incident, AI agents involved in the hack deciding not to notify humans, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-            "link": "https://www.techmeme.com/260902/p5#a260902p5",
-            "published": "Wed, 02 Sep 2026 02:40:03 -0400"
+            "title": "Valencia-based iPronics raised $125M co-led by Maverick Silicon and Light Street, with participation from Nvidia, to develop optical circuit switch tech (Stephen Nellis/Reuters)",
+            "link": "https://www.techmeme.com/260902/p18#a260902p18",
+            "published": "Wed, 02 Sep 2026 08:40:01 -0400"
         },
         {
-            "title": "The OpenAI-Hugging Face incident is an early example of \"rogue AI\", and may presage truly \"self-sovereign\" agents and swarms of agents that have no \"owner\" (Dean W. Ball/Hyperdimensional)",
-            "link": "https://www.techmeme.com/260902/p4#a260902p4",
-            "published": "Wed, 02 Sep 2026 02:35:15 -0400"
+            "title": "Survey: 27% of Americans say they turn to AI chatbots like ChatGPT for personal, emotional, or social queries, rising to nearly 40% among adults under 50 (Washington Post)",
+            "link": "https://www.techmeme.com/260902/p17#a260902p17",
+            "published": "Wed, 02 Sep 2026 08:25:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
+            "link": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
+            "published": "Wed, 02 Sep 2026 02:47:33 +0000"
+        },
         {
             "title": "John Ternus Replaces Tim Cook as Apple CEO",
             "link": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
@@ -38,22 +43,22 @@
             "published": "Mon, 31 Aug 2026 22:26:37 +0000"
         },
         {
-            "title": "How Meta\u2019s $17.1 Billion Social Media Settlement Came Together",
-            "link": "https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html",
-            "published": "Sat, 29 Aug 2026 11:00:06 +0000"
-        },
-        {
-            "title": "Social Media and the Myth of the Big Tobacco Moment",
-            "link": "https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html",
-            "published": "Wed, 02 Sep 2026 04:27:25 +0000"
-        },
-        {
             "title": "Get to Know Your Phone\u2019s Built-In Emergency Kit",
             "link": "https://www.nytimes.com/2026/09/02/technology/personaltech/iphone-android-emergency-features.html",
             "published": "Wed, 02 Sep 2026 09:03:10 +0000"
+        },
+        {
+            "title": "Map Apps Are Handling Trump\u2019s Renaming of Lake Ontario to Lake America Differently",
+            "link": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+            "published": "Wed, 02 Sep 2026 00:40:33 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Criminals publish data of 8.7m people after airports hack",
+            "link": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 11:00:59 GMT"
+        },
         {
             "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
             "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
             "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 31 Aug 2026 21:28:49 GMT"
-        },
-        {
-            "title": "I've been to Gamescom six times - here's what excited me this year",
-            "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 29 Aug 2026 23:02:28 GMT"
         }
     ]
 }
