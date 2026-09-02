@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Google plans to release Gemini 3.8 Flash as soon as Wednesday; Gemini 4 has done well on pre-training evals but still needs to complete post-training (Erin Woo/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260901/p51#a260901p51",
-            "published": "Tue, 01 Sep 2026 17:40:02 -0400"
+            "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Zac Hall/9to5Mac)",
+            "link": "https://www.techmeme.com/260901/p59#a260901p59",
+            "published": "Tue, 01 Sep 2026 19:52:37 -0400"
         },
         {
-            "title": "The US urged G20 members to avoid writing entirely new AI regulations, and instead focus on writing rules for \"novel\" situations that involve the tech (Reuters)",
-            "link": "https://www.techmeme.com/260901/p50#a260901p50",
-            "published": "Tue, 01 Sep 2026 17:35:01 -0400"
+            "title": "Anthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens (Frederic Lardinois/The New Stack)",
+            "link": "https://www.techmeme.com/260901/p58#a260901p58",
+            "published": "Tue, 01 Sep 2026 19:45:01 -0400"
         },
         {
-            "title": "Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management (Samantha Subin/CNBC)",
-            "link": "https://www.techmeme.com/260901/p49#a260901p49",
-            "published": "Tue, 01 Sep 2026 17:05:01 -0400"
+            "title": "India's JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India (TechCrunch)",
+            "link": "https://www.techmeme.com/260901/p57#a260901p57",
+            "published": "Tue, 01 Sep 2026 19:30:08 -0400"
         },
         {
-            "title": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)",
-            "link": "https://www.techmeme.com/260901/p48#a260901p48",
-            "published": "Tue, 01 Sep 2026 16:55:02 -0400"
+            "title": "IPO filing: SB Energy says it has 8.8GW of data center capacity contracted or under construction across Texas and Ohio and a $430B data center segment backlog (Monique Mulima/Bloomberg)",
+            "link": "https://www.techmeme.com/260901/p56#a260901p56",
+            "published": "Tue, 01 Sep 2026 19:20:00 -0400"
         },
         {
-            "title": "Apple updates Apple Maps to show Lake America for US users, Lake Ontario for Canadian users, and both for the rest of the world, following Trump's EO (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260901/p47#a260901p47",
-            "published": "Tue, 01 Sep 2026 16:40:01 -0400"
+            "title": "Fermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system (Michelle Kim/MIT Technology Review)",
+            "link": "https://www.techmeme.com/260901/p55#a260901p55",
+            "published": "Tue, 01 Sep 2026 18:55:00 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Map Apps Are Handling Trump\u2019s Renaming of Lake Ontario to Lake America Differently",
             "link": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
-            "published": "Tue, 01 Sep 2026 17:03:35 +0000"
+            "published": "Tue, 01 Sep 2026 22:03:00 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Will self-flying planes transform the skies?",
+            "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 01 Sep 2026 23:27:35 GMT"
+        },
         {
             "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
             "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
             "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 28 Aug 2026 05:11:16 GMT"
-        },
-        {
-            "title": "Time is running out for cyber security, warn top tech firms",
-            "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 27 Aug 2026 19:44:27 GMT"
         }
     ]
 }
