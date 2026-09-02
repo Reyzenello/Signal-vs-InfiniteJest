@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Zac Hall/9to5Mac)",
-            "link": "https://www.techmeme.com/260901/p59#a260901p59",
-            "published": "Tue, 01 Sep 2026 19:52:37 -0400"
+            "title": "SciFin, which helps revenue teams converge fragmented information to understand business needs, raised a $44M seed co-led by Altimeter and Madrona (Kyt Dotson/SiliconANGLE)",
+            "link": "https://www.techmeme.com/260901/p64#a260901p64",
+            "published": "Tue, 01 Sep 2026 23:25:03 -0400"
         },
         {
-            "title": "Anthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens (Frederic Lardinois/The New Stack)",
-            "link": "https://www.techmeme.com/260901/p58#a260901p58",
-            "published": "Tue, 01 Sep 2026 19:45:01 -0400"
+            "title": "NYC's Department of Education adopts a policy barring public school students from using AI until high school, banning companion chatbots in all grades, and more (Matthew Haag/New York Times)",
+            "link": "https://www.techmeme.com/260901/p63#a260901p63",
+            "published": "Tue, 01 Sep 2026 23:10:02 -0400"
         },
         {
-            "title": "India's JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India (TechCrunch)",
-            "link": "https://www.techmeme.com/260901/p57#a260901p57",
-            "published": "Tue, 01 Sep 2026 19:30:08 -0400"
+            "title": "A look at Snap's bet on Specs AR glasses; sources: Evan Spiegel wore them for an interview against internal advice, planned outside funding for Specs never came (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260901/p62#a260901p62",
+            "published": "Tue, 01 Sep 2026 22:45:02 -0400"
         },
         {
-            "title": "IPO filing: SB Energy says it has 8.8GW of data center capacity contracted or under construction across Texas and Ohio and a $430B data center segment backlog (Monique Mulima/Bloomberg)",
-            "link": "https://www.techmeme.com/260901/p56#a260901p56",
-            "published": "Tue, 01 Sep 2026 19:20:00 -0400"
+            "title": "Source: OpenAI's Astra model uses \"recurrent depth\", a technique that improves cost and performance but obscures the AI's reasoning, making it harder to monitor (The Information)",
+            "link": "https://www.techmeme.com/260901/p61#a260901p61",
+            "published": "Tue, 01 Sep 2026 21:55:00 -0400"
         },
         {
-            "title": "Fermi Explorer Mission plans to launch a spacecraft to Alpha Centauri, the Sun's nearest star system, by 2029, using a trajectory discovered by PSI's AI system (Michelle Kim/MIT Technology Review)",
-            "link": "https://www.techmeme.com/260901/p55#a260901p55",
-            "published": "Tue, 01 Sep 2026 18:55:00 -0400"
+            "title": "Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest (Bloomberg)",
+            "link": "https://www.techmeme.com/260901/p60#a260901p60",
+            "published": "Tue, 01 Sep 2026 20:55:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 28 Aug 2026 18:52:04 +0000"
         },
         {
-            "title": "Map Apps Are Handling Trump\u2019s Renaming of Lake Ontario to Lake America Differently",
-            "link": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
-            "published": "Tue, 01 Sep 2026 22:03:00 +0000"
+            "title": "Missouri Voters Appear to Recall City Councilman Over Data Center Support",
+            "link": "https://www.nytimes.com/2026/09/01/technology/data-center-recall-vote-independence.html",
+            "published": "Wed, 02 Sep 2026 02:47:33 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+            "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 02 Sep 2026 01:27:34 GMT"
+        },
         {
             "title": "Will self-flying planes transform the skies?",
             "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "I've been to Gamescom six times - here's what excited me this year",
             "link": "https://www.bbc.co.uk/news/articles/cew92lp2g45o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 29 Aug 2026 23:02:28 GMT"
-        },
-        {
-            "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-            "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 28 Aug 2026 05:11:16 GMT"
         }
     ]
 }
