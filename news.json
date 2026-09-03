@@ -1,41 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Claude, ChatGPT, and Grok are experiencing issues; Anthropic reports errors across Opus 4.8 and Opus 5, and OpenAI reports errors across ChatGPT and Codex (Ben Schoon/9to5Google)",
-            "link": "https://www.techmeme.com/260903/p25#a260903p25",
-            "published": "Thu, 03 Sep 2026 11:45:00 -0400"
+            "title": "DOD's Emil Michael says Anthropic is still a designated supply chain risk, a day after Howard Lutnick said it resolved its issues with the Trump administration (Maggie Eastland/Bloomberg)",
+            "link": "https://www.techmeme.com/260903/p39#a260903p39",
+            "published": "Thu, 03 Sep 2026 15:30:13 -0400"
         },
         {
-            "title": "Upwind, which filters false security alerts in cloud apps so companies can focus on actual risks, raised ~$300M at a ~$3.8B valuation, up from ~$1.5B in January (Meir Orbach/CTech)",
-            "link": "https://www.techmeme.com/260903/p24#a260903p24",
-            "published": "Thu, 03 Sep 2026 10:50:01 -0400"
+            "title": "A White House official says Zuckerberg opposed a US AI regulator in a call with Trump last month; another source says he didn't ask Trump to change his stance (Politico)",
+            "link": "https://www.techmeme.com/260903/p38#a260903p38",
+            "published": "Thu, 03 Sep 2026 15:05:01 -0400"
         },
         {
-            "title": "PitchBook: 95+ investors put money into both Anthropic and OpenAI amid shifting norms; sources: Menlo, Lightspeed, and Iconiq each hold 1%-2% Anthropic stakes (Erin Griffith/New York Times)",
-            "link": "https://www.techmeme.com/260903/p23#a260903p23",
-            "published": "Thu, 03 Sep 2026 10:30:01 -0400"
+            "title": "Microsoft AI debuts MAI-Transcribe-2, a speech recognition model that it says beats Gemini 3.5 Transcribe and GPT-Transcribe, at $0.10/audio hour through 2026 (Michael Nu\u00f1ez/VentureBeat)",
+            "link": "https://www.techmeme.com/260903/p37#a260903p37",
+            "published": "Thu, 03 Sep 2026 15:00:34 -0400"
         },
         {
-            "title": "Sources: Riyadh-based AI startup Humain is planning to raise an initial $2.5B fund to help finance data center capacity of 250 MW in Saudi Arabia (Omar El Chmouri/Bloomberg)",
-            "link": "https://www.techmeme.com/260903/p22#a260903p22",
-            "published": "Thu, 03 Sep 2026 10:00:01 -0400"
+            "title": "OpenAI says Astra was built on its largest-ever training run, using more than 100,000 GPUs at its Stargate site in Texas (Ina Fried/Axios)",
+            "link": "https://www.techmeme.com/260903/p36#a260903p36",
+            "published": "Thu, 03 Sep 2026 14:25:01 -0400"
         },
         {
-            "title": "Munich-based Atira, which aims to use AI to automate the parsing and generation of complex bid proposals, raised a $15M seed led by Accel and a $2.5M pre-seed (Jeremy Kahn/Fortune)",
-            "link": "https://www.techmeme.com/260903/p21#a260903p21",
-            "published": "Thu, 03 Sep 2026 09:45:01 -0400"
+            "title": "OpenAI calls GPT-6 Astra the \"world's best computer use model\"; in tests, it booked DMV appointments and searched job listings faster than the average person (Maxwell Zeff/Wired)",
+            "link": "https://www.techmeme.com/260903/p35#a260903p35",
+            "published": "Thu, 03 Sep 2026 14:19:13 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
             "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
-            "published": "Thu, 03 Sep 2026 15:59:26 +0000"
+            "published": "Thu, 03 Sep 2026 18:38:58 +0000"
         },
         {
             "title": "Which Investors Will Get Rich From Anthropic\u2019s IPO?",
             "link": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
-            "published": "Thu, 03 Sep 2026 09:02:51 +0000"
+            "published": "Thu, 03 Sep 2026 18:52:12 +0000"
         },
         {
             "title": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
@@ -50,14 +50,19 @@
         {
             "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
             "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
-            "published": "Wed, 02 Sep 2026 20:56:22 +0000"
+            "published": "Thu, 03 Sep 2026 18:29:58 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Data centres are booming in Australia - but at what cost?",
+            "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 18:32:03 GMT"
+        },
+        {
             "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
             "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 03 Sep 2026 16:01:39 GMT"
+            "published": "Thu, 03 Sep 2026 16:32:05 GMT"
         },
         {
             "title": "Watch: BBC travels in self-driving Uber around London",
@@ -73,11 +78,6 @@
             "title": "Uber to cut over 3,000 jobs in major global restructuring",
             "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 02 Sep 2026 16:51:49 GMT"
-        },
-        {
-            "title": "Lords call for AI 'kill switch' powers in UK",
-            "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 02 Sep 2026 14:41:52 GMT"
         }
     ]
 }
