@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "AI scientist and Google researcher Ray Kurzweil joins BCI startup Subsense, which develops non-surgical BCI tech involving inhaled nanoparticles, as an advisor (Alexei Oreskovic/Fortune)",
+            "link": "https://www.techmeme.com/260903/p48#a260903p48",
+            "published": "Thu, 03 Sep 2026 20:35:03 -0400"
+        },
+        {
+            "title": "Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest (Alex Konrad/Upstarts Media)",
+            "link": "https://www.techmeme.com/260903/p47#a260903p47",
+            "published": "Thu, 03 Sep 2026 19:10:01 -0400"
+        },
+        {
+            "title": "Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating (Bloomberg)",
+            "link": "https://www.techmeme.com/260903/p46#a260903p46",
+            "published": "Thu, 03 Sep 2026 18:55:00 -0400"
+        },
+        {
             "title": "Sources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures (Axios)",
             "link": "https://www.techmeme.com/260903/p45#a260903p45",
             "published": "Thu, 03 Sep 2026 17:55:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Oura files for a US IPO, reporting a $924.3M net loss on $1.21B in revenue for the nine months ended June 30, vs. a $182.8M net loss on $697.6M a year earlier (Subrat Patnaik/Bloomberg)",
             "link": "https://www.techmeme.com/260903/p44#a260903p44",
             "published": "Thu, 03 Sep 2026 17:10:06 -0400"
-        },
-        {
-            "title": "Adobe names Customer Experience Orchestration president Anil Chakravarthy as CEO, effective December 1, replacing Shantanu Narayen, who becomes executive chair (Annie Palmer/CNBC)",
-            "link": "https://www.techmeme.com/260903/p43#a260903p43",
-            "published": "Thu, 03 Sep 2026 17:05:01 -0400"
-        },
-        {
-            "title": "OpenAI commits $1B in subsidized model access, training, support, and partnerships to a new initiative aimed at protecting essential services around the world (Sam Sabin/Axios)",
-            "link": "https://www.techmeme.com/260903/p42#a260903p42",
-            "published": "Thu, 03 Sep 2026 16:40:01 -0400"
-        },
-        {
-            "title": "Sources: Crusoe signed a ~$13B, five-year deal with Jane Street to provide GPUs and other infrastructure for AI training and inference via its cloud platform (Bloomberg)",
-            "link": "https://www.techmeme.com/260903/p41#a260903p41",
-            "published": "Thu, 03 Sep 2026 16:25:00 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 02 Sep 2026 20:50:31 +0000"
         },
         {
-            "title": "Noise and Motion Monitors in Their Homes? These Tenants Say No.",
-            "link": "https://www.nytimes.com/2026/09/02/technology/noise-monitors-public-housing.html",
-            "published": "Thu, 03 Sep 2026 18:29:58 +0000"
+            "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+            "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+            "published": "Fri, 04 Sep 2026 00:06:03 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Could robots be the future of theme parks?",
+            "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 03 Sep 2026 23:34:27 GMT"
+        },
         {
             "title": "AI data centres are booming in Australia - but at what cost?",
             "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
             "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 02 Sep 2026 23:36:49 GMT"
-        },
-        {
-            "title": "Uber to cut over 3,000 jobs in major global restructuring",
-            "link": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 02 Sep 2026 16:51:49 GMT"
         }
     ]
 }
