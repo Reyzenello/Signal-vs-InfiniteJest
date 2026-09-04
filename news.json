@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more (Reuters)",
-            "link": "https://www.techmeme.com/260904/p9#a260904p9",
-            "published": "Fri, 04 Sep 2026 06:55:00 -0400"
+            "title": "Review: GPT-6 Astra can adeptly use tools like Unreal Engine to build complex environments, such as a civilization with Unreal's autonomous MetaHuman characters (Matt Shumer/Something Big Is Happening)",
+            "link": "https://www.techmeme.com/260904/p21#a260904p21",
+            "published": "Fri, 04 Sep 2026 11:40:00 -0400"
         },
         {
-            "title": "Letters: US military branches disabled ad trackers on government-issued devices amid reports of location data being used to target US forces in the Middle East (Raphael Satter/Reuters)",
-            "link": "https://www.techmeme.com/260904/p10#a260904p10",
-            "published": "Fri, 04 Sep 2026 06:55:00 -0400"
+            "title": "Sources: Abu Dhabi-based AI company G42 is exploring selling a majority stake to American companies to maintain access to advanced AI chips beyond April 2027 (Bloomberg)",
+            "link": "https://www.techmeme.com/260904/p20#a260904p20",
+            "published": "Fri, 04 Sep 2026 11:20:18 -0400"
         },
         {
-            "title": "Bank of Korea: South Korea's monthly memory chip output is set to grow by ~600K wafers by 2028, widening its lead over China's CXMT, set to grow by ~300K wafers (Yoolim Lee/Bloomberg)",
-            "link": "https://www.techmeme.com/260904/p8#a260904p8",
-            "published": "Fri, 04 Sep 2026 06:45:06 -0400"
+            "title": "PUBG developer Krafton plans to invest $250M in India over three to four years, for a total investment of $500M+ since 2021, as it expands into AI and robotics (Jagmeet Singh/TechCrunch)",
+            "link": "https://www.techmeme.com/260904/p19#a260904p19",
+            "published": "Fri, 04 Sep 2026 11:15:01 -0400"
         },
         {
-            "title": "Thailand suspends the construction of 49 data centers in order to develop new industry regulations, as governments worldwide tighten oversight of the facilities (Anuchit Nguyen/Bloomberg)",
-            "link": "https://www.techmeme.com/260904/p7#a260904p7",
-            "published": "Fri, 04 Sep 2026 06:40:06 -0400"
+            "title": "By declaring GPT-6 Astra to be AGI, OpenAI is being flippant and cementing the term's status as nothing more than marketing (M.G. Siegler/Spyglass)",
+            "link": "https://www.techmeme.com/260904/p18#a260904p18",
+            "published": "Fri, 04 Sep 2026 11:05:01 -0400"
         },
         {
-            "title": "Sources: DeepSeek plans to use 160K+ of Huawei's Ascend 950DT chips at an Inner Mongolia data center, which would create one of the largest Huawei chip clusters (Mackenzie Hawkins/Bloomberg)",
-            "link": "https://www.techmeme.com/260904/p6#a260904p6",
-            "published": "Fri, 04 Sep 2026 06:30:20 -0400"
+            "title": "How OpenAI limited METR's probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face (Dylan Freedman/New York Times)",
+            "link": "https://www.techmeme.com/260904/p17#a260904p17",
+            "published": "Fri, 04 Sep 2026 10:30:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
+            "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+            "published": "Fri, 04 Sep 2026 00:06:04 +0000"
+        },
+        {
+            "title": "How OpenAI Limited the Probe of Its Bots\u2019 Hack of Hugging Face",
+            "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+            "published": "Fri, 04 Sep 2026 15:15:04 +0000"
+        },
         {
             "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
             "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
@@ -38,22 +48,22 @@
             "published": "Thu, 03 Sep 2026 18:52:12 +0000"
         },
         {
-            "title": "Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google",
-            "link": "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html",
-            "published": "Thu, 03 Sep 2026 15:04:40 +0000"
-        },
-        {
-            "title": "In a Big Win, Google Won\u2019t Have to Break Up Its Ad Tech Business, Court Rules",
-            "link": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-            "published": "Wed, 02 Sep 2026 20:50:31 +0000"
-        },
-        {
-            "title": "The A.I. Mob That Attacked Hugging Face + METR\u2019s Ajeya Cotra",
-            "link": "https://www.nytimes.com/2026/09/04/podcasts/hugging-face-hack-reports.html",
-            "published": "Fri, 04 Sep 2026 11:00:03 +0000"
+            "title": "Corporate America Is Getting Hooked on Open-Source A.I.",
+            "link": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+            "published": "Fri, 04 Sep 2026 14:55:38 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+            "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 14:59:13 GMT"
+        },
+        {
+            "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+            "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 04 Sep 2026 11:48:24 GMT"
+        },
         {
             "title": "Could robots be the future of theme parks?",
             "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "AI data centres are booming in Australia - but at what cost?",
             "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 03 Sep 2026 18:32:03 GMT"
-        },
-        {
-            "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-            "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 03 Sep 2026 16:32:05 GMT"
-        },
-        {
-            "title": "Watch: BBC travels in self-driving Uber around London",
-            "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 03 Sep 2026 07:20:23 GMT"
         }
     ]
 }
