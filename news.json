@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "How AI gutted Kenya's essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students' homework, leaving few paths back to work (New York Times)",
+            "link": "https://www.techmeme.com/260906/p4#a260906p4",
+            "published": "Sun, 06 Sep 2026 08:01:27 -0400"
+        },
+        {
             "title": "Trump officials say Judeo-Christian principles inform AI policy, with some optimistic about AI and others seeing parallels to biblical end-times prophecies (Philip Wegmann/Wall Street Journal)",
             "link": "https://www.techmeme.com/260906/p3#a260906p3",
             "published": "Sun, 06 Sep 2026 02:00:01 -0400"
@@ -19,38 +24,33 @@
             "title": "The data center backlash is challenging Texas' pro-business approach; Wood Mackenzie: Texas has more data center capacity under construction than any US state (Stephanie Findlay/Financial Times)",
             "link": "https://www.techmeme.com/260905/p15#a260905p15",
             "published": "Sat, 05 Sep 2026 23:10:01 -0400"
-        },
-        {
-            "title": "As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals (Morgan Meaker/Bloomberg)",
-            "link": "https://www.techmeme.com/260905/p14#a260905p14",
-            "published": "Sat, 05 Sep 2026 20:00:15 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+            "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+            "published": "Sat, 05 Sep 2026 21:11:57 +0000"
+        },
+        {
+            "title": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
+            "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
+            "published": "Sun, 06 Sep 2026 10:45:11 +0000"
+        },
+        {
+            "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
+            "link": "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html",
+            "published": "Sat, 05 Sep 2026 00:18:57 +0000"
+        },
         {
             "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
             "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
             "published": "Fri, 04 Sep 2026 16:12:19 +0000"
         },
         {
-            "title": "How OpenAI Limited the Probe of Its Bots\u2019 Hack of Hugging Face",
-            "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
-            "published": "Fri, 04 Sep 2026 15:15:04 +0000"
-        },
-        {
-            "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal",
-            "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
-            "published": "Thu, 03 Sep 2026 18:38:58 +0000"
-        },
-        {
-            "title": "Which Investors Will Get Rich From Anthropic\u2019s IPO?",
-            "link": "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html",
-            "published": "Fri, 04 Sep 2026 21:23:20 +0000"
-        },
-        {
-            "title": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
-            "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-            "published": "Sun, 06 Sep 2026 09:00:58 +0000"
+            "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+            "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+            "published": "Sat, 05 Sep 2026 09:03:10 +0000"
         }
     ],
     "source_2": [
