@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Huawei unveils the Mate XT2, a trifold phone powered by the Kirin 9050 Pro, an in-house designed chipset that it says is entirely free from US restrictions (Nikkei Asia)",
-            "link": "https://www.techmeme.com/260907/p6#a260907p6",
-            "published": "Mon, 07 Sep 2026 05:55:09 -0400"
+            "title": "Belgian prosecutors say they arrested a Belgian-Chinese man in May on suspicion of stealing secrets from bankrupt gallium nitride semiconductor maker Belgan (Andy Bounds/Financial Times)",
+            "link": "https://www.techmeme.com/260907/p15#a260907p15",
+            "published": "Mon, 07 Sep 2026 12:20:01 -0400"
         },
         {
-            "title": "How Rationalism, a movement pioneered by Eliezer Yudkowsky focused on existential superintelligent AI risks, influenced top AI leaders and their alarmist claims (Cal Newport/New York Times)",
-            "link": "https://www.techmeme.com/260907/p5#a260907p5",
-            "published": "Mon, 07 Sep 2026 05:20:01 -0400"
+            "title": "Matt Clifford steps down as the chair of the UK government's science and tech research unit after joining Anthropic, following conflict of interest concerns (The Guardian)",
+            "link": "https://www.techmeme.com/260907/p14#a260907p14",
+            "published": "Mon, 07 Sep 2026 11:25:49 -0400"
         },
         {
-            "title": "A record 12.7M graduates are entering China's workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles (Yan Zhuang/New York Times)",
-            "link": "https://www.techmeme.com/260907/p4#a260907p4",
-            "published": "Mon, 07 Sep 2026 04:05:01 -0400"
+            "title": "Sources: London-based UForce, which makes unmanned vehicles for air, land, and sea, is seeking about $500M led by Valor Equity at a ~$5B valuation (Bloomberg)",
+            "link": "https://www.techmeme.com/260907/p13#a260907p13",
+            "published": "Mon, 07 Sep 2026 11:15:00 -0400"
         },
         {
-            "title": "LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M (Reuters)",
-            "link": "https://www.techmeme.com/260907/p3#a260907p3",
-            "published": "Mon, 07 Sep 2026 01:25:02 -0400"
+            "title": "The US raises censorship concerns over the UK's proposals to force tech platforms to put \"trustworthy\" news providers at the top of social and video feeds (Charlotte Tobitt/Press Gazette)",
+            "link": "https://www.techmeme.com/260907/p12#a260907p12",
+            "published": "Mon, 07 Sep 2026 10:10:20 -0400"
         },
         {
-            "title": "An in-depth look at OpenAI's wiki incident: other hacked message boards, OpenAI's cover-up, how harmless web search tasks led agents to break out, and more (Zvi Mowshowitz/Don't Worry About the Vase)",
-            "link": "https://www.techmeme.com/260907/p2#a260907p2",
-            "published": "Mon, 07 Sep 2026 01:10:01 -0400"
+            "title": "Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)",
+            "link": "https://www.techmeme.com/260907/p11#a260907p11",
+            "published": "Mon, 07 Sep 2026 09:05:00 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,25 @@
         {
             "title": "Virtual Taekwondo Takes the Contact Out of a Combat Sport",
             "link": "https://www.nytimes.com/2026/09/07/sports/virtual-taekwondo-asian-games.html",
-            "published": "Mon, 07 Sep 2026 09:20:08 +0000"
+            "published": "Mon, 07 Sep 2026 12:20:03 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Grindr to pay \u00a326m to settle claims it allegedly shared users' HIV status",
+            "link": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 15:27:50 GMT"
+        },
+        {
+            "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 12:22:07 GMT"
+        },
+        {
+            "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
+            "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 07 Sep 2026 11:30:27 GMT"
+        },
         {
             "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
             "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
             "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 04 Sep 2026 11:48:24 GMT"
-        },
-        {
-            "title": "Could robots be the future of theme parks?",
-            "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 04 Sep 2026 02:02:02 GMT"
-        },
-        {
-            "title": "'I lost my savings after a job interview scam'",
-            "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 03 Sep 2026 23:41:49 GMT"
-        },
-        {
-            "title": "AI data centres are booming in Australia - but at what cost?",
-            "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 03 Sep 2026 18:32:03 GMT"
         }
     ]
 }
