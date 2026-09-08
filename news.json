@@ -1,51 +1,51 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Ramp is in early talks to raise about $1B at a ~$60B valuation, up from $44B in June; Ramp has raised $3B to date (Bloomberg)",
-            "link": "https://www.techmeme.com/260908/p32#a260908p32",
-            "published": "Tue, 08 Sep 2026 14:25:04 -0400"
+            "title": "Chime agrees to acquire longtime banking partner Stride Bank for $590M; Stride will become Chime Bank, a wholly owned subsidiary; CHYM jumps 8.5%+ after hours (Paige Smith/Bloomberg)",
+            "link": "https://www.techmeme.com/260908/p41#a260908p41",
+            "published": "Tue, 08 Sep 2026 17:40:00 -0400"
         },
         {
-            "title": "AI coding startup Cognition raised $2B at a $48B valuation, up from $26B in May, and says its run-rate revenue grew from $492M in May to ~$900M (Samantha Oltman/Bloomberg)",
-            "link": "https://www.techmeme.com/260908/p31#a260908p31",
-            "published": "Tue, 08 Sep 2026 13:50:00 -0400"
+            "title": "Source: Anthropic is severing ties with the Information Technology Industry Council after the tech industry trade group opposed three export control measures (Maria Curi/Axios)",
+            "link": "https://www.techmeme.com/260908/p40#a260908p40",
+            "published": "Tue, 08 Sep 2026 16:35:01 -0400"
         },
         {
-            "title": "The White House has quietly removed Build The Wall, a Tetris clone on its arcade.gov website, after Tetris said it takes \"copyright infringement very seriously\" (Zack Zwiezen/Kotaku)",
-            "link": "https://www.techmeme.com/260908/p30#a260908p30",
-            "published": "Tue, 08 Sep 2026 13:20:01 -0400"
+            "title": "Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)",
+            "link": "https://www.techmeme.com/260908/p39#a260908p39",
+            "published": "Tue, 08 Sep 2026 15:55:02 -0400"
         },
         {
-            "title": "OpenAI denies that its researchers or models saw Buckmaster or Alp\u00f6ge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough (Wired)",
-            "link": "https://www.techmeme.com/260908/p29#a260908p29",
-            "published": "Tue, 08 Sep 2026 13:02:43 -0400"
+            "title": "Meta's personal AI agent Muse is powered by Muse Spark 1.3 and is free for up to 100M tokens per week; users can get more compute via $20 and $100 monthly tiers (Riley Griffin/Bloomberg)",
+            "link": "https://www.techmeme.com/260908/p38#a260908p38",
+            "published": "Tue, 08 Sep 2026 15:20:01 -0400"
         },
         {
-            "title": "OpenAI says an internal model \"significantly more capable than GPT-6 Astra\" solved the Navier-Stokes problem using 10K concurrent agents working for 88 hours (Madison Mills/Axios)",
-            "link": "https://www.techmeme.com/260908/p28#a260908p28",
-            "published": "Tue, 08 Sep 2026 13:00:48 -0400"
+            "title": "Meta says Muse users can connect their apps to send emails, book travel, turn recipe Reels into grocery lists, make purchases thanks to Link by Stripe, and more (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/260908/p37#a260908p37",
+            "published": "Tue, 08 Sep 2026 15:15:09 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
+            "link": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+            "published": "Tue, 08 Sep 2026 21:02:03 +0000"
+        },
+        {
+            "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
+            "link": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
+            "published": "Tue, 08 Sep 2026 19:00:03 +0000"
+        },
         {
             "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
             "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
             "published": "Tue, 08 Sep 2026 16:03:26 +0000"
         },
         {
-            "title": "Key App Developers Have Yet to Embrace Apple\u2019s New Siri A.I.",
-            "link": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
-            "published": "Tue, 08 Sep 2026 09:04:17 +0000"
-        },
-        {
             "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
             "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
             "published": "Sat, 05 Sep 2026 21:11:57 +0000"
-        },
-        {
-            "title": "How a Blacklisted Chinese Tech Giant Kept Buying America\u2019s Best A.I. Chips",
-            "link": "https://www.nytimes.com/2026/09/06/technology/ai-chips-china-blacklist.html",
-            "published": "Tue, 08 Sep 2026 01:54:45 +0000"
         },
         {
             "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+            "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 20:57:09 GMT"
+        },
         {
             "title": "New law to force tech firms to stop children taking or sharing nude images",
             "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
             "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 07 Sep 2026 12:22:07 GMT"
-        },
-        {
-            "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
-            "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 07 Sep 2026 11:30:27 GMT"
         }
     ]
 }
