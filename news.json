@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Runway co-CEO Anastasis Germanidis says the startup's annual recurring revenue hit $200M in September; source: it expects ARR to cross $350M by the end of 2026 (Rachel Metz/Bloomberg)",
-            "link": "https://www.techmeme.com/260908/p21#a260908p21",
-            "published": "Tue, 08 Sep 2026 10:25:00 -0400"
+            "title": "Sources: Ramp is in early talks to raise about $1B at a ~$60B valuation, up from $44B in June; Ramp has raised $3B to date (Bloomberg)",
+            "link": "https://www.techmeme.com/260908/p32#a260908p32",
+            "published": "Tue, 08 Sep 2026 14:25:04 -0400"
         },
         {
-            "title": "Poseidon Aerospace, which plans the first test flight of its pilotless cargo plane by year-end, raised a $60M Series A led by TQ Ventures, after an $11M seed (Sean O'Kane/TechCrunch)",
-            "link": "https://www.techmeme.com/260908/p20#a260908p20",
-            "published": "Tue, 08 Sep 2026 10:10:01 -0400"
+            "title": "AI coding startup Cognition raised $2B at a $48B valuation, up from $26B in May, and says its run-rate revenue grew from $492M in May to ~$900M (Samantha Oltman/Bloomberg)",
+            "link": "https://www.techmeme.com/260908/p31#a260908p31",
+            "published": "Tue, 08 Sep 2026 13:50:00 -0400"
         },
         {
-            "title": "Google Cloud and Accenture form the Accenture Gemini Enterprise Business Group to train up to 1,000 Accenture forward deployed engineers for Gemini Enterprise (Isabelle Bousquette/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260908/p19#a260908p19",
-            "published": "Tue, 08 Sep 2026 09:45:07 -0400"
+            "title": "The White House has quietly removed Build The Wall, a Tetris clone on its arcade.gov website, after Tetris said it takes \"copyright infringement very seriously\" (Zack Zwiezen/Kotaku)",
+            "link": "https://www.techmeme.com/260908/p30#a260908p30",
+            "published": "Tue, 08 Sep 2026 13:20:01 -0400"
         },
         {
-            "title": "Researchers say Meta ran 350+ ads with CSAM in 2026 so far; some featured morphed images of real children, and many linked to \"nudification\" apps from China (Matt Burgess/Wired)",
-            "link": "https://www.techmeme.com/260908/p18#a260908p18",
-            "published": "Tue, 08 Sep 2026 09:40:01 -0400"
+            "title": "OpenAI denies that its researchers or models saw Buckmaster or Alp\u00f6ge's prompts, says it spent millions in compute after hearing Anthropic had a breakthrough (Wired)",
+            "link": "https://www.techmeme.com/260908/p29#a260908p29",
+            "published": "Tue, 08 Sep 2026 13:02:43 -0400"
         },
         {
-            "title": "Qualcomm signs a deal with Amazon to provide \"multiple generations of customized silicon\" to help build AWS' AI infrastructure for inference; QCOM jumps ~5% (Ari Levy/CNBC)",
-            "link": "https://www.techmeme.com/260908/p17#a260908p17",
-            "published": "Tue, 08 Sep 2026 09:35:01 -0400"
+            "title": "OpenAI says an internal model \"significantly more capable than GPT-6 Astra\" solved the Navier-Stokes problem using 10K concurrent agents working for 88 hours (Madison Mills/Axios)",
+            "link": "https://www.techmeme.com/260908/p28#a260908p28",
+            "published": "Tue, 08 Sep 2026 13:00:48 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Apple to Make First Big Change to iPhones in Years",
+            "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
             "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-            "published": "Tue, 08 Sep 2026 09:05:12 +0000"
+            "published": "Tue, 08 Sep 2026 16:03:26 +0000"
         },
         {
             "title": "Key App Developers Have Yet to Embrace Apple\u2019s New Siri A.I.",
@@ -48,12 +48,17 @@
             "published": "Tue, 08 Sep 2026 01:54:45 +0000"
         },
         {
-            "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+            "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
             "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-            "published": "Tue, 08 Sep 2026 09:05:10 +0000"
+            "published": "Tue, 08 Sep 2026 16:50:25 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "New law to force tech firms to stop children taking or sharing nude images",
+            "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 16:48:29 GMT"
+        },
         {
             "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
             "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Dolly Parton's sister pleads for end to 'AI garbage' posts after singer's death",
             "link": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 07 Sep 2026 11:30:27 GMT"
-        },
-        {
-            "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-            "link": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 04 Sep 2026 14:59:13 GMT"
         }
     ]
 }
