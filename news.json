@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Argentina's Patagonia region is drawing interest from hyperscalers and data center developers due to its cold climate, expanses of land, and renewable energy (Leila Miller/Reuters)",
-            "link": "https://www.techmeme.com/260908/p5#a260908p5",
-            "published": "Tue, 08 Sep 2026 04:56:11 -0400"
+            "title": "Runway co-CEO Anastasis Germanidis says the startup's annual recurring revenue hit $200M in September; source: it expects ARR to cross $350M by the end of 2026 (Rachel Metz/Bloomberg)",
+            "link": "https://www.techmeme.com/260908/p21#a260908p21",
+            "published": "Tue, 08 Sep 2026 10:25:00 -0400"
         },
         {
-            "title": "Mistral raised a \u20ac3B Series D led by Samsung at a \u20ac21B valuation, up from \u20ac11.7B a year ago, as it expands into data centers beyond developing AI models (Adam Satariano/New York Times)",
-            "link": "https://www.techmeme.com/260908/p4#a260908p4",
-            "published": "Tue, 08 Sep 2026 01:25:52 -0400"
+            "title": "Poseidon Aerospace, which plans the first test flight of its pilotless cargo plane by year-end, raised a $60M Series A led by TQ Ventures, after an $11M seed (Sean O'Kane/TechCrunch)",
+            "link": "https://www.techmeme.com/260908/p20#a260908p20",
+            "published": "Tue, 08 Sep 2026 10:10:01 -0400"
         },
         {
-            "title": "Arm debuts Neoverse CSS N4, its next-gen semi-custom chip design platform, and says it supports 8 to 128 Neoverse N4 cores at up to 3.8 GHz on TSMC's N3P node (Jake Roach/Tom's Hardware)",
-            "link": "https://www.techmeme.com/260908/p3#a260908p3",
-            "published": "Tue, 08 Sep 2026 00:55:55 -0400"
+            "title": "Google Cloud and Accenture form the Accenture Gemini Enterprise Business Group to train up to 1,000 Accenture forward deployed engineers for Gemini Enterprise (Isabelle Bousquette/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260908/p19#a260908p19",
+            "published": "Tue, 08 Sep 2026 09:45:07 -0400"
         },
         {
-            "title": "Sources: Huawei is investing in Chinese lithography companies and helping them secure deals with leading fabs like SMIC to reduce reliance on foreign suppliers (Financial Times)",
-            "link": "https://www.techmeme.com/260908/p2#a260908p2",
-            "published": "Tue, 08 Sep 2026 00:40:53 -0400"
+            "title": "Researchers say Meta ran 350+ ads with CSAM in 2026 so far; some featured morphed images of real children, and many linked to \"nudification\" apps from China (Matt Burgess/Wired)",
+            "link": "https://www.techmeme.com/260908/p18#a260908p18",
+            "published": "Tue, 08 Sep 2026 09:40:01 -0400"
         },
         {
-            "title": "Analysis of LG smart TVs shows its ad software tracks nearby devices, security flaws can allow hackers to eavesdrop via a built-in microphone, and more (Gamers Nexus on YouTube)",
-            "link": "https://www.techmeme.com/260908/p1#a260908p1",
-            "published": "Tue, 08 Sep 2026 00:01:38 -0400"
+            "title": "Qualcomm signs a deal with Amazon to provide \"multiple generations of customized silicon\" to help build AWS' AI infrastructure for inference; QCOM jumps ~5% (Ari Levy/CNBC)",
+            "link": "https://www.techmeme.com/260908/p17#a260908p17",
+            "published": "Tue, 08 Sep 2026 09:35:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Apple to Make First Big Change to iPhones in Years",
+            "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
+            "published": "Tue, 08 Sep 2026 09:05:12 +0000"
+        },
+        {
+            "title": "Key App Developers Have Yet to Embrace Apple\u2019s New Siri A.I.",
+            "link": "https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html",
+            "published": "Tue, 08 Sep 2026 09:04:17 +0000"
+        },
         {
             "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
             "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
@@ -38,19 +48,9 @@
             "published": "Tue, 08 Sep 2026 01:54:45 +0000"
         },
         {
-            "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
-            "link": "https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html",
-            "published": "Sat, 05 Sep 2026 00:18:57 +0000"
-        },
-        {
-            "title": "Why the Hugging Face Hack Should Make You Worry More About A.I.",
-            "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
-            "published": "Fri, 04 Sep 2026 16:12:19 +0000"
-        },
-        {
-            "title": "Apple to Make First Big Change to iPhones in Years",
-            "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-            "published": "Tue, 08 Sep 2026 09:05:12 +0000"
+            "title": "A.I. Models Built a Computer Worm That Could Rapidly Hack WeChat Accounts",
+            "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
+            "published": "Tue, 08 Sep 2026 09:05:10 +0000"
         }
     ],
     "source_2": [
