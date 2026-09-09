@@ -1,41 +1,41 @@
 {
     "techmeme": [
         {
+            "title": "Slack message: Automattic CEO Matt Mullenweg says CFO Mark Davies \"conspired\" with board members to put him on paid leave and Davies was voted to be interim CEO (Samantha Cole/404 Media)",
+            "link": "https://www.techmeme.com/260909/p46#a260909p46",
+            "published": "Wed, 09 Sep 2026 17:55:02 -0400"
+        },
+        {
+            "title": "Source: Meta AI researcher Andrew Tulloch, who came over from Thinking Machine Lab as one of the highest paid employees last year, is leaving the company (Reed Albergotti/Semafor)",
+            "link": "https://www.techmeme.com/260909/p45#a260909p45",
+            "published": "Wed, 09 Sep 2026 17:45:02 -0400"
+        },
+        {
+            "title": "New opt-in Apple Watch Siri audio features can listen to and transcribe conversations all day; Apple says raw audio is inaccessible and deleted after processing (Lily Hay Newman/Wired)",
+            "link": "https://www.techmeme.com/260909/p44#a260909p44",
+            "published": "Wed, 09 Sep 2026 17:15:01 -0400"
+        },
+        {
+            "title": "Tailwind Labs, the company behind Tailwind CSS, is joining Shopify; in January, it laid off three of four engineers, citing AI's impact on documentation traffic (Supreeth Koundinya/AIM)",
+            "link": "https://www.techmeme.com/260909/p43#a260909p43",
+            "published": "Wed, 09 Sep 2026 16:20:01 -0400"
+        },
+        {
             "title": "Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air (Cameron Faulkner/The Verge)",
             "link": "https://www.techmeme.com/260909/p42#a260909p42",
             "published": "Wed, 09 Sep 2026 15:31:03 -0400"
-        },
-        {
-            "title": "Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them (Anthropic)",
-            "link": "https://www.techmeme.com/260909/p41#a260909p41",
-            "published": "Wed, 09 Sep 2026 15:27:37 -0400"
-        },
-        {
-            "title": "Sources: Salesforce has been in talks to buy Listen Labs, an AI-powered customer research platform for $2B; Listen Labs was valued at $500M earlier this year (Business Insider)",
-            "link": "https://www.techmeme.com/260909/p40#a260909p40",
-            "published": "Wed, 09 Sep 2026 15:20:02 -0400"
-        },
-        {
-            "title": "iPhone Duo supports Apple Pencil and comes with iOS redesigned for multitasking on different screen sizes/orientations, with auto-adjusting controls and apps (Terrence O'Brien/The Verge)",
-            "link": "https://www.techmeme.com/260909/p39#a260909p39",
-            "published": "Wed, 09 Sep 2026 15:16:01 -0400"
-        },
-        {
-            "title": "Apple says iOS 27, iPadOS 27, watchOS 27, and macOS 27 Golden Gate, all with Siri AI, will be released on September 14 (Igor Bonifacic/Engadget)",
-            "link": "https://www.techmeme.com/260909/p38#a260909p38",
-            "published": "Wed, 09 Sep 2026 15:05:03 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
             "link": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
-            "published": "Wed, 09 Sep 2026 19:29:01 +0000"
+            "published": "Wed, 09 Sep 2026 22:04:28 +0000"
         },
         {
             "title": "How Amazon\u2019s Zoox Is Taking On Waymo in San Francisco",
             "link": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html",
-            "published": "Wed, 09 Sep 2026 09:02:45 +0000"
+            "published": "Wed, 09 Sep 2026 22:14:29 +0000"
         },
         {
             "title": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
@@ -45,7 +45,7 @@
         {
             "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
             "link": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
-            "published": "Wed, 09 Sep 2026 18:10:42 +0000"
+            "published": "Wed, 09 Sep 2026 20:17:38 +0000"
         },
         {
             "title": "Why California Is Reconsidering Its Decision to Shun Nuclear Power",
@@ -54,11 +54,6 @@
         }
     ],
     "source_2": [
-        {
-            "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
-            "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 09 Sep 2026 18:39:45 GMT"
-        },
         {
             "title": "Google picks Finland for its largest single investment in Europe",
             "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
@@ -78,6 +73,11 @@
             "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
             "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 08 Sep 2026 23:27:23 GMT"
+        },
+        {
+            "title": "Should promotion depend on how workers use AI?",
+            "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 08 Sep 2026 23:05:23 GMT"
         }
     ]
 }
