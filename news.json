@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Suno rolls out v6, a new line of AI models trained in partnership with WMG and BMG, and says it will pay labels and publishers royalties when models are used (Bloomberg)",
-            "link": "https://www.techmeme.com/260909/p7#a260909p7",
-            "published": "Wed, 09 Sep 2026 06:15:11 -0400"
+            "title": "Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking (Reuters)",
+            "link": "https://www.techmeme.com/260909/p24#a260909p24",
+            "published": "Wed, 09 Sep 2026 12:30:33 -0400"
         },
         {
-            "title": "Malone Lam, a 22-year-old Singaporean national, pleads guilty to leading an international social engineering scheme to steal and launder $245M in cryptocurrency (Sarah Wynn/The Block)",
-            "link": "https://www.techmeme.com/260909/p6#a260909p6",
-            "published": "Wed, 09 Sep 2026 05:35:01 -0400"
+            "title": "AI CRM software startup Lightfield raised a $47M Series A led by a16z; formerly Tome, it had raised $80M across earlier Series A and B rounds (Alex Konrad/Upstarts Media)",
+            "link": "https://www.techmeme.com/260909/p23#a260909p23",
+            "published": "Wed, 09 Sep 2026 12:20:02 -0400"
         },
         {
-            "title": "Google plans to invest \u20ac13B+ in Finland over two years, its biggest investment in Europe to date, to build three new data centers and expand an existing one (Kirsi Heikel/Bloomberg)",
-            "link": "https://www.techmeme.com/260909/p5#a260909p5",
-            "published": "Wed, 09 Sep 2026 04:55:03 -0400"
+            "title": "Anthropic releases an interactive tool that lets users explore how AI might affect US economic growth, jobs, wages, and more by 2030 (Scott Horsley/NPR)",
+            "link": "https://www.techmeme.com/260909/p22#a260909p22",
+            "published": "Wed, 09 Sep 2026 11:45:34 -0400"
         },
         {
-            "title": "Sources: Anthropic declined to submit Mythos 5.1 to the UK AISI for pre-release testing, prompting UK fears that US AI labs are aligning with US protectionism (Financial Times)",
-            "link": "https://www.techmeme.com/260909/p4#a260909p4",
-            "published": "Wed, 09 Sep 2026 02:20:01 -0400"
+            "title": "The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches (Madina Tour\u00e9/Politico)",
+            "link": "https://www.techmeme.com/260909/p21#a260909p21",
+            "published": "Wed, 09 Sep 2026 11:30:45 -0400"
         },
         {
-            "title": "Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree (The Information)",
-            "link": "https://www.techmeme.com/260909/p3#a260909p3",
-            "published": "Wed, 09 Sep 2026 01:00:49 -0400"
+            "title": "UK PM Andy Burnham declines to support a data center moratorium, saying it is \"important\" local communities see the benefits of building data centers (Jacob Reid/Bloomberg)",
+            "link": "https://www.techmeme.com/260909/p20#a260909p20",
+            "published": "Wed, 09 Sep 2026 11:20:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Amazon\u2019s Zoox Is Taking On Waymo in San Francisco",
+            "link": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html",
+            "published": "Wed, 09 Sep 2026 09:02:45 +0000"
+        },
         {
             "title": "OpenAI Says It Has Cracked One of Math\u2019s \u2018Millennium Problems\u2019",
             "link": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
@@ -38,26 +43,26 @@
             "published": "Tue, 08 Sep 2026 19:00:03 +0000"
         },
         {
+            "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
+            "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
+            "published": "Wed, 09 Sep 2026 16:01:47 +0000"
+        },
+        {
             "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
             "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
             "published": "Tue, 08 Sep 2026 16:03:26 +0000"
-        },
-        {
-            "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-            "link": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-            "published": "Sat, 05 Sep 2026 21:11:57 +0000"
-        },
-        {
-            "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
-            "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
-            "published": "Wed, 09 Sep 2026 09:03:34 +0000"
         }
     ],
     "source_2": [
         {
             "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
             "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 09 Sep 2026 10:46:43 GMT"
+            "published": "Wed, 09 Sep 2026 15:34:09 GMT"
+        },
+        {
+            "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+            "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 12:06:40 GMT"
         },
         {
             "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
@@ -73,11 +78,6 @@
             "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
             "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 08 Sep 2026 20:57:09 GMT"
-        },
-        {
-            "title": "New law to force tech firms to stop children taking or sharing nude images",
-            "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 08 Sep 2026 16:48:29 GMT"
         }
     ]
 }
