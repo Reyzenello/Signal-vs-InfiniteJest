@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Suno rolls out v6, a new line of AI models trained in partnership with WMG and BMG, and says it will pay labels and publishers royalties when models are used (Bloomberg)",
+            "link": "https://www.techmeme.com/260909/p7#a260909p7",
+            "published": "Wed, 09 Sep 2026 06:15:11 -0400"
+        },
+        {
+            "title": "Malone Lam, a 22-year-old Singaporean national, pleads guilty to leading an international social engineering scheme to steal and launder $245M in cryptocurrency (Sarah Wynn/The Block)",
+            "link": "https://www.techmeme.com/260909/p6#a260909p6",
+            "published": "Wed, 09 Sep 2026 05:35:01 -0400"
+        },
+        {
+            "title": "Google plans to invest \u20ac13B+ in Finland over two years, its biggest investment in Europe to date, to build three new data centers and expand an existing one (Kirsi Heikel/Bloomberg)",
+            "link": "https://www.techmeme.com/260909/p5#a260909p5",
+            "published": "Wed, 09 Sep 2026 04:55:03 -0400"
+        },
+        {
+            "title": "Sources: Anthropic declined to submit Mythos 5.1 to the UK AISI for pre-release testing, prompting UK fears that US AI labs are aligning with US protectionism (Financial Times)",
+            "link": "https://www.techmeme.com/260909/p4#a260909p4",
+            "published": "Wed, 09 Sep 2026 02:20:01 -0400"
+        },
+        {
             "title": "Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree (The Information)",
             "link": "https://www.techmeme.com/260909/p3#a260909p3",
             "published": "Wed, 09 Sep 2026 01:00:49 -0400"
-        },
-        {
-            "title": "Sources: Apple's first foldable will be called iPhone Duo, with prices starting at $2,000 for 256GB of storage and sales starting as early as October (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260909/p2#a260909p2",
-            "published": "Wed, 09 Sep 2026 00:50:02 -0400"
-        },
-        {
-            "title": "Anthropic's Alignment Science lead says there is a \">10%\" chance AI could kill all humans within the next decade and worries about recursive self-improvement (Evan Hubinger/@evanhub)",
-            "link": "https://www.techmeme.com/260909/p1#a260909p1",
-            "published": "Wed, 09 Sep 2026 00:20:01 -0400"
-        },
-        {
-            "title": "Over 10 US states have rolled back tech giants' tax breaks, which top $1B/year in some states, as many others propose similar bills amid a data center backlash (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260908/p51#a260908p51",
-            "published": "Tue, 08 Sep 2026 23:40:02 -0400"
-        },
-        {
-            "title": "Microsoft's September 2026 Patch Tuesday fixes a record ~972 vulnerabilities, bringing its total flaws patched in 2026 to 2,760, more than double from 2025 (Dan Goodin/Ars Technica)",
-            "link": "https://www.techmeme.com/260908/p50#a260908p50",
-            "published": "Tue, 08 Sep 2026 23:20:00 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Sat, 05 Sep 2026 21:11:57 +0000"
         },
         {
-            "title": "A Hacking Tool Built With A.I. Can Breach Phones Without a Click",
-            "link": "https://www.nytimes.com/2026/09/08/us/politics/calif-ai-worm-wechat-hack.html",
-            "published": "Tue, 08 Sep 2026 16:50:25 +0000"
+            "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
+            "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
+            "published": "Wed, 09 Sep 2026 09:03:34 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+            "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 10:46:43 GMT"
+        },
         {
             "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
             "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "New law to force tech firms to stop children taking or sharing nude images",
             "link": "https://www.bbc.co.uk/news/articles/cgrv9ypp5x2o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 08 Sep 2026 16:48:29 GMT"
-        },
-        {
-            "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-            "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 08 Sep 2026 06:49:56 GMT"
         }
     ]
 }
