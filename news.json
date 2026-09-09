@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking (Reuters)",
-            "link": "https://www.techmeme.com/260909/p24#a260909p24",
-            "published": "Wed, 09 Sep 2026 12:30:33 -0400"
+            "title": "Apple raises iPhone prices by $100 on all of the older models it is offering, including the iPhone 16, the iPhone 17 lineup, as well as the iPhone Air (Cameron Faulkner/The Verge)",
+            "link": "https://www.techmeme.com/260909/p42#a260909p42",
+            "published": "Wed, 09 Sep 2026 15:31:03 -0400"
         },
         {
-            "title": "AI CRM software startup Lightfield raised a $47M Series A led by a16z; formerly Tome, it had raised $80M across earlier Series A and B rounds (Alex Konrad/Upstarts Media)",
-            "link": "https://www.techmeme.com/260909/p23#a260909p23",
-            "published": "Wed, 09 Sep 2026 12:20:02 -0400"
+            "title": "Anthropic details four incidents where Claude gained unauthorized access to third-party systems, including a new Opus 4.6 case; METR will investigate them (Anthropic)",
+            "link": "https://www.techmeme.com/260909/p41#a260909p41",
+            "published": "Wed, 09 Sep 2026 15:27:37 -0400"
         },
         {
-            "title": "Anthropic releases an interactive tool that lets users explore how AI might affect US economic growth, jobs, wages, and more by 2030 (Scott Horsley/NPR)",
-            "link": "https://www.techmeme.com/260909/p22#a260909p22",
-            "published": "Wed, 09 Sep 2026 11:45:34 -0400"
+            "title": "Sources: Salesforce has been in talks to buy Listen Labs, an AI-powered customer research platform for $2B; Listen Labs was valued at $500M earlier this year (Business Insider)",
+            "link": "https://www.techmeme.com/260909/p40#a260909p40",
+            "published": "Wed, 09 Sep 2026 15:20:02 -0400"
         },
         {
-            "title": "The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches (Madina Tour\u00e9/Politico)",
-            "link": "https://www.techmeme.com/260909/p21#a260909p21",
-            "published": "Wed, 09 Sep 2026 11:30:45 -0400"
+            "title": "iPhone Duo supports Apple Pencil and comes with iOS redesigned for multitasking on different screen sizes/orientations, with auto-adjusting controls and apps (Terrence O'Brien/The Verge)",
+            "link": "https://www.techmeme.com/260909/p39#a260909p39",
+            "published": "Wed, 09 Sep 2026 15:16:01 -0400"
         },
         {
-            "title": "UK PM Andy Burnham declines to support a data center moratorium, saying it is \"important\" local communities see the benefits of building data centers (Jacob Reid/Bloomberg)",
-            "link": "https://www.techmeme.com/260909/p20#a260909p20",
-            "published": "Wed, 09 Sep 2026 11:20:00 -0400"
+            "title": "Apple says iOS 27, iPadOS 27, watchOS 27, and macOS 27 Golden Gate, all with Siri AI, will be released on September 14 (Igor Bonifacic/Engadget)",
+            "link": "https://www.techmeme.com/260909/p38#a260909p38",
+            "published": "Wed, 09 Sep 2026 15:05:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999",
+            "link": "https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html",
+            "published": "Wed, 09 Sep 2026 19:29:01 +0000"
+        },
         {
             "title": "How Amazon\u2019s Zoox Is Taking On Waymo in San Francisco",
             "link": "https://www.nytimes.com/2026/09/09/technology/zoox-waymo-san-francisco.html",
@@ -38,22 +43,27 @@
             "published": "Tue, 08 Sep 2026 21:02:03 +0000"
         },
         {
-            "title": "Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel",
-            "link": "https://www.nytimes.com/2026/09/08/technology/meta-muse-ai-agent.html",
-            "published": "Tue, 08 Sep 2026 19:00:03 +0000"
+            "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity",
+            "link": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
+            "published": "Wed, 09 Sep 2026 18:10:42 +0000"
         },
         {
-            "title": "California, an Environmental Bastion, Warms to Nuclear Energy",
+            "title": "Why California Is Reconsidering Its Decision to Shun Nuclear Power",
             "link": "https://www.nytimes.com/2026/09/09/business/energy-environment/california-diablo-canyon-nuclear-energy.html",
-            "published": "Wed, 09 Sep 2026 16:01:47 +0000"
-        },
-        {
-            "title": "Apple Expected to Unveil a Folding iPhone at Annual Launch Event",
-            "link": "https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html",
-            "published": "Tue, 08 Sep 2026 16:03:26 +0000"
+            "published": "Wed, 09 Sep 2026 16:39:27 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+            "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 18:39:45 GMT"
+        },
+        {
+            "title": "Google picks Finland for its largest single investment in Europe",
+            "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 09 Sep 2026 17:06:48 GMT"
+        },
         {
             "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
             "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
             "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 08 Sep 2026 23:27:23 GMT"
-        },
-        {
-            "title": "Should promotion depend on how workers use AI?",
-            "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 08 Sep 2026 23:05:23 GMT"
-        },
-        {
-            "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-            "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 08 Sep 2026 20:57:09 GMT"
         }
     ]
 }
