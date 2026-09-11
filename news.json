@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Only 4% of the startups in YC's 2026 spring batch had a native mobile app as their main product, down from 15% in 2013, as startups focus on AI and agents (Parmy Olson/Bloomberg)",
+            "link": "https://www.techmeme.com/260910/p42#a260910p42",
+            "published": "Thu, 10 Sep 2026 20:45:00 -0400"
+        },
+        {
+            "title": "Source: AI assistant Instinct is looking to raise $1B in new funding after recently raising $250M, as it seeks more computing power amid capacity constraints (The Information)",
+            "link": "https://www.techmeme.com/260910/p41#a260910p41",
+            "published": "Thu, 10 Sep 2026 20:02:18 -0400"
+        },
+        {
+            "title": "London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity (Lucinda Shen/Axios)",
+            "link": "https://www.techmeme.com/260910/p40#a260910p40",
+            "published": "Thu, 10 Sep 2026 19:10:00 -0400"
+        },
+        {
             "title": "Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey's Erebor Bank (Wall Street Journal)",
             "link": "https://www.techmeme.com/260910/p39#a260910p39",
             "published": "Thu, 10 Sep 2026 18:10:00 -0400"
@@ -9,21 +24,6 @@
             "title": "Sources: Microsoft plans to expand its data center capacity from 12GW today to 38GW+ by 2032, with about a third of the 38GW centered on AI-specific chips (Bloomberg)",
             "link": "https://www.techmeme.com/260910/p38#a260910p38",
             "published": "Thu, 10 Sep 2026 17:55:00 -0400"
-        },
-        {
-            "title": "Adobe reports Q3 revenue up 13% YoY to $6.76B, vs. $6.7B est., AI-first annual recurring revenue up 150% YoY, and forecasts Q4 revenue slightly below estimates (Anzar Mehraj/Reuters)",
-            "link": "https://www.techmeme.com/260910/p37#a260910p37",
-            "published": "Thu, 10 Sep 2026 17:45:01 -0400"
-        },
-        {
-            "title": "California Gov. Gavin Newsom signs bills restricting \"addictive\" social media features for under-16s and limiting minors' interactions with chatbots (Colin Lecher/CalMatters)",
-            "link": "https://www.techmeme.com/260910/p36#a260910p36",
-            "published": "Thu, 10 Sep 2026 16:55:01 -0400"
-        },
-        {
-            "title": "Oracle reports Q1 revenue up 30% YoY to $19.35B, vs. $19.14B est., cloud infrastructure revenue up 121% to $7.4B, vs. $7.09B est.; ORCL jumps 6%+ after hours (Jordan Novet/CNBC)",
-            "link": "https://www.techmeme.com/260910/p35#a260910p35",
-            "published": "Thu, 10 Sep 2026 16:30:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Can Europe recharge its battery industry?",
+            "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 10 Sep 2026 23:05:47 GMT"
+        },
+        {
             "title": "UK needs new laws for AI in healthcare, says watchdog",
             "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 10 Sep 2026 00:48:35 GMT"
@@ -73,11 +78,6 @@
             "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
             "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 09 Sep 2026 12:06:40 GMT"
-        },
-        {
-            "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-            "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 08 Sep 2026 23:27:23 GMT"
         }
     ]
 }
