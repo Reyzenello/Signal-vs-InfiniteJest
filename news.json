@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections (Natalie Lung/Bloomberg)",
+            "link": "https://www.techmeme.com/260911/p35#a260911p35",
+            "published": "Fri, 11 Sep 2026 20:55:01 -0400"
+        },
+        {
+            "title": "Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B (Reuters)",
+            "link": "https://www.techmeme.com/260911/p34#a260911p34",
+            "published": "Fri, 11 Sep 2026 19:35:01 -0400"
+        },
+        {
+            "title": "Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago (Ben Bergman/Business Insider)",
+            "link": "https://www.techmeme.com/260911/p33#a260911p33",
+            "published": "Fri, 11 Sep 2026 18:55:01 -0400"
+        },
+        {
+            "title": "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260911/p32#a260911p32",
+            "published": "Fri, 11 Sep 2026 18:45:41 -0400"
+        },
+        {
             "title": "Sources: US Senate negotiators are debating a bill to impose a \"duty of care\" for AI companies and let the government block the release of models deemed unsafe (Courtney Rozen/Reuters)",
             "link": "https://www.techmeme.com/260911/p31#a260911p31",
             "published": "Fri, 11 Sep 2026 18:15:42 -0400"
-        },
-        {
-            "title": "Citrini Research founder James van Geelen has sold the firm to SemiAnalysis for an undisclosed sum; sources: van Geelen plans to launch a new fund (Bloomberg)",
-            "link": "https://www.techmeme.com/260911/p30#a260911p30",
-            "published": "Fri, 11 Sep 2026 17:40:01 -0400"
-        },
-        {
-            "title": "FOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google's 2025 Year in Search Ranking (Kate Knibbs/Wired)",
-            "link": "https://www.techmeme.com/260911/p29#a260911p29",
-            "published": "Fri, 11 Sep 2026 17:10:03 -0400"
-        },
-        {
-            "title": "LinkedIn profiles show Google appears to have completed its talent deal, reportedly for $1.5B+, with AI coding startup Mechanize (Business Insider)",
-            "link": "https://www.techmeme.com/260911/p28#a260911p28",
-            "published": "Fri, 11 Sep 2026 16:20:01 -0400"
-        },
-        {
-            "title": "A group of 25 Fields Medal recipients says AI companies' push to solve mathematical problems as a benchmark is detrimental to the science of mathematics (Terence Tao/What's new)",
-            "link": "https://www.techmeme.com/260911/p27#a260911p27",
-            "published": "Fri, 11 Sep 2026 16:02:10 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+            "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 00:35:50 GMT"
+        },
+        {
             "title": "UK government rejects 'kill switch' idea for dangerous AI",
             "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 11 Sep 2026 15:07:07 GMT"
@@ -73,11 +78,6 @@
             "title": "Can Europe recharge its battery industry?",
             "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 10 Sep 2026 23:05:47 GMT"
-        },
-        {
-            "title": "UK needs new laws for AI in healthcare, says watchdog",
-            "link": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 10 Sep 2026 00:48:35 GMT"
         }
     ]
 }
