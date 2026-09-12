@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "As the AI wave creates tech fortunes at breakneck speed, a look at the growing ecosystem helping founders navigate the challenges of becoming extremely wealthy (Tiffany Ap/Bloomberg)",
-            "link": "https://www.techmeme.com/260912/p5#a260912p5",
-            "published": "Sat, 12 Sep 2026 09:40:00 -0400"
+            "title": "Sam Altman says he agrees with Amodei that \"committing to having independent evaluators with employee-like access is a great idea\", and OpenAI will do the same (Sam Altman/@sama)",
+            "link": "https://www.techmeme.com/260912/p12#a260912p12",
+            "published": "Sat, 12 Sep 2026 13:00:13 -0400"
         },
         {
-            "title": "South Korea's espionage laws, broadened for the first time in over seven decades, take effect on Sept. 13 as foreign spies increasingly target its chip sector (Daniel Tudor/Financial Times)",
-            "link": "https://www.techmeme.com/260912/p4#a260912p4",
-            "published": "Sat, 12 Sep 2026 06:31:02 -0400"
+            "title": "The US legal system is struggling to keep up with AI, grappling with cases where chatbots provided counsel, generated evidence, or helped plan a mass shooting (Evan Ratliff/Bloomberg)",
+            "link": "https://www.techmeme.com/260912/p11#a260912p11",
+            "published": "Sat, 12 Sep 2026 12:25:01 -0400"
         },
         {
-            "title": "Q&A with AI researchers John Schulman, Beren Millidge, and Charlie O'Neill on steelmanning the case against RSI, Chinese labs' progress, long-horizon RL, more (Dwarkesh Patel/Dwarkesh Podcast)",
-            "link": "https://www.techmeme.com/260912/p3#a260912p3",
-            "published": "Sat, 12 Sep 2026 02:30:54 -0400"
+            "title": "Trump is taking a hands-off approach to AI regulation to preserve the US lead over China, ahead of a summit with Xi Jinping, where AI safety is a top issue (Bloomberg)",
+            "link": "https://www.techmeme.com/260912/p10#a260912p10",
+            "published": "Sat, 12 Sep 2026 11:30:02 -0400"
         },
         {
-            "title": "Epsilon Health, which contracts with radiologists who use its AI to generate image reports faster, emerges from stealth with a $20M Series A led by AlleyCorp (Brock E.W. Turner/Axios)",
-            "link": "https://www.techmeme.com/260912/p2#a260912p2",
-            "published": "Sat, 12 Sep 2026 01:01:45 -0400"
+            "title": "Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify (Bloomberg)",
+            "link": "https://www.techmeme.com/260912/p9#a260912p9",
+            "published": "Sat, 12 Sep 2026 11:05:05 -0400"
         },
         {
-            "title": "NYC-based Luminary, which develops AI-powered workflow tools for estate planning and wealth transfer management, raised a $22M Series A led by Ten Coves Capital (Davis Janowski/Wealth Management)",
-            "link": "https://www.techmeme.com/260912/p1#a260912p1",
-            "published": "Sat, 12 Sep 2026 00:50:02 -0400"
+            "title": "Amodei warns that an OpenAI/Hugging Face-like agent swarm, which \"acted as a fanatically devoted collective\", could take over the internet in 6-12 months (Auzinea Bacon/CNN)",
+            "link": "https://www.techmeme.com/260912/p8#a260912p8",
+            "published": "Sat, 12 Sep 2026 11:01:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
+            "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+            "published": "Sat, 12 Sep 2026 16:03:00 +0000"
+        },
+        {
+            "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
+            "link": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+            "published": "Sat, 12 Sep 2026 16:03:19 +0000"
+        },
+        {
+            "title": "Why It\u2019s Difficult for Tech Companies to Rein In A.I.",
+            "link": "https://www.nytimes.com/2026/09/12/technology/why-its-tough-for-tech-companies-to-keep-ai-out-of-trouble.html",
+            "published": "Sat, 12 Sep 2026 16:18:06 +0000"
+        },
         {
             "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
             "link": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
             "published": "Fri, 11 Sep 2026 14:35:45 +0000"
         },
         {
-            "title": "Elon Musk Has Pledged to Rid His Platform, X, of Child Sexual Abuse, but It Persists",
-            "link": "https://www.nytimes.com/2026/09/11/technology/x-grok-child-images.html",
-            "published": "Fri, 11 Sep 2026 09:01:02 +0000"
-        },
-        {
-            "title": "Why is Apple\u2019s New Foldable iPhone Duo $1,999?",
-            "link": "https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html",
-            "published": "Thu, 10 Sep 2026 17:20:52 +0000"
-        },
-        {
-            "title": "California\u2019s Governor Signs Landmark Online Child Safety Bills",
-            "link": "https://www.nytimes.com/2026/09/10/technology/californias-governor-gavin-newsom-online-child-safety-bills.html",
-            "published": "Fri, 11 Sep 2026 21:16:21 +0000"
-        },
-        {
-            "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
-            "link": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
-            "published": "Sat, 12 Sep 2026 09:03:01 +0000"
+            "title": "The Mic Is On. So Is Live Auto-Tune.",
+            "link": "https://www.nytimes.com/2026/09/11/arts/music/live-auto-tune-jojo-flo-singing.html",
+            "published": "Fri, 11 Sep 2026 11:21:16 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+            "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 12 Sep 2026 16:38:02 GMT"
+        },
         {
             "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
             "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
             "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 11 Sep 2026 08:15:25 GMT"
-        },
-        {
-            "title": "Can Europe recharge its battery industry?",
-            "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 10 Sep 2026 23:05:47 GMT"
         }
     ]
 }
