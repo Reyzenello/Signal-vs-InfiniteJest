@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Dallas-based Perry Weather, a weather monitoring software provider, raised a $110M Series C led by Silversmith Capital Partners, taking total funding to ~$131M (John Egan/Dallas Innovates)",
+            "link": "https://www.techmeme.com/260913/p2#a260913p2",
+            "published": "Sun, 13 Sep 2026 01:45:01 -0400"
+        },
+        {
+            "title": "Spec sheets show Apple's C2 modem is used in iPhone Duo and 18 Pro worldwide, and in iPhone 18 Pro Max everywhere except the US, where it likely uses Qualcomm (Joe Rossignol/MacRumors)",
+            "link": "https://www.techmeme.com/260913/p1#a260913p1",
+            "published": "Sun, 13 Sep 2026 00:50:18 -0400"
+        },
+        {
+            "title": "Automattic confirms Matt Mullenweg has returned to his position as chairman and CEO \"with full support of the board\", after an attempted ouster this week (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/260912/p20#a260912p20",
+            "published": "Sat, 12 Sep 2026 23:15:02 -0400"
+        },
+        {
+            "title": "A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it (Michael Safi/The Guardian)",
+            "link": "https://www.techmeme.com/260912/p19#a260912p19",
+            "published": "Sat, 12 Sep 2026 21:35:15 -0400"
+        },
+        {
             "title": "Twenty police forces in England and Wales recorded 163 crimes involving keywords like \"AI-generated\", \"deepfake\", and \"nudify\" by July 2026, up from 10 in 2023 (Mark Tovey/Telegraph)",
             "link": "https://www.techmeme.com/260912/p18#a260912p18",
             "published": "Sat, 12 Sep 2026 19:35:04 -0400"
-        },
-        {
-            "title": "An analysis of Bending Spoons' financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth (Jonathan Weil/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260912/p17#a260912p17",
-            "published": "Sat, 12 Sep 2026 17:35:07 -0400"
-        },
-        {
-            "title": "Sam Altman confirms OpenAI won't go public this year saying \"given everything happening with safety, right now would be an ill-advised moment to go public\" (Jason Ma/Fortune)",
-            "link": "https://www.techmeme.com/260912/p16#a260912p16",
-            "published": "Sat, 12 Sep 2026 15:35:05 -0400"
-        },
-        {
-            "title": "Donald Trump's plan to center Bitcoin mining in the US is unraveling as miners convert facilities into AI data centers amid a prolonged crypto market slump (Bloomberg)",
-            "link": "https://www.techmeme.com/260912/p15#a260912p15",
-            "published": "Sat, 12 Sep 2026 14:50:03 -0400"
-        },
-        {
-            "title": "Elon Musk backs Dario Amodei's arguments about pacing the frontier, saying \"Dario is right\" (Politico)",
-            "link": "https://www.techmeme.com/260912/p14#a260912p14",
-            "published": "Sat, 12 Sep 2026 13:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+            "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 04:30:44 GMT"
+        },
+        {
             "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
             "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 12 Sep 2026 21:16:47 GMT"
@@ -73,11 +78,6 @@
             "title": "Does this AI comic make you laugh?",
             "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 11 Sep 2026 12:49:30 GMT"
-        },
-        {
-            "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-            "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 11 Sep 2026 08:15:25 GMT"
         }
     ]
 }
