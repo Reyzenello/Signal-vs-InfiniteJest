@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Dario Amodei says the \"toughest dilemma\" about his proposal to \"pace the frontier\" is what happens if China does not do the same (Ashley Capoot/CNBC)",
+            "link": "https://www.techmeme.com/260913/p10#a260913p10",
+            "published": "Sun, 13 Sep 2026 15:20:24 -0400"
+        },
+        {
+            "title": "President Trump dismisses calls for an AI slowdown, saying \"you have a lot of negative forces that are bringing it up that shouldn't be bringing it up\" (Myles McCormick/Financial Times)",
+            "link": "https://www.techmeme.com/260913/p9#a260913p9",
+            "published": "Sun, 13 Sep 2026 13:05:16 -0400"
+        },
+        {
+            "title": "Source: Anthropic has selected the Nasdaq for its potential IPO (Katie Roof/Business Insider)",
+            "link": "https://www.techmeme.com/260913/p8#a260913p8",
+            "published": "Sun, 13 Sep 2026 12:40:01 -0400"
+        },
+        {
             "title": "Speaker Johnson says Congress won't lead the charge on regulating AI safety and AI companies should take responsibility to ensure the safety of their products (Donica Phifer/Axios)",
             "link": "https://www.techmeme.com/260913/p7#a260913p7",
             "published": "Sun, 13 Sep 2026 11:45:00 -0400"
@@ -9,21 +24,6 @@
             "title": "iPhone Duo will usher foldables into the mainstream, just as iPhone did with smartphones; sources: iPhone game controllers will launch under the Beats brand (Mark Gurman/Bloomberg)",
             "link": "https://www.techmeme.com/260913/p6#a260913p6",
             "published": "Sun, 13 Sep 2026 10:55:02 -0400"
-        },
-        {
-            "title": "Anthropic and OpenAI are already free to \"pace the frontier\" and should do so for business reasons, instead of first demanding a preferred regulatory framework (David Sacks/@davidsacks)",
-            "link": "https://www.techmeme.com/260913/p5#a260913p5",
-            "published": "Sun, 13 Sep 2026 08:50:14 -0400"
-        },
-        {
-            "title": "Filing: Vy Capital owns a 3.4% SpaceX stake; Vy is also the largest outside investor in BoringCo and Neuralink and committed $700M to Musk's Twitter acquisition (Ivan Levingston/Financial Times)",
-            "link": "https://www.techmeme.com/260913/p4#a260913p4",
-            "published": "Sun, 13 Sep 2026 07:00:02 -0400"
-        },
-        {
-            "title": "Sources: US Interior Secretary Doug Burgum is quietly meeting with AI hyperscalers to advance Trump's push for data centers on federal lands, despite a backlash (The Washington Sun)",
-            "link": "https://www.techmeme.com/260913/p3#a260913p3",
-            "published": "Sun, 13 Sep 2026 02:00:01 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
             "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
             "published": "Sun, 13 Sep 2026 00:15:54 +0000"
+        },
+        {
+            "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+            "link": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+            "published": "Sun, 13 Sep 2026 15:58:51 +0000"
         },
         {
             "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
@@ -43,17 +48,22 @@
             "published": "Sat, 12 Sep 2026 16:18:06 +0000"
         },
         {
-            "title": "How Minnesota Became the Front Line in the Fight Over Prediction Markets",
-            "link": "https://www.nytimes.com/2026/09/11/business/kalshi-polymarket-minnesota-prediction-markets.html",
-            "published": "Fri, 11 Sep 2026 14:35:45 +0000"
-        },
-        {
-            "title": "What Anthropic\u2019s C.E.O. Argued in His Call for Slower A.I. Development",
-            "link": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
-            "published": "Sun, 13 Sep 2026 15:58:51 +0000"
+            "title": "10-Year-Old Children Predict the Future",
+            "link": "https://www.nytimes.com/2026/09/13/style/10-year-old-children-predict-the-future.html",
+            "published": "Sun, 13 Sep 2026 13:05:14 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+            "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:49:37 GMT"
+        },
+        {
+            "title": "Questions mount over what an AI 'slowdown' would look like",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:20:22 GMT"
+        },
         {
             "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
             "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
             "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 12 Sep 2026 00:35:50 GMT"
-        },
-        {
-            "title": "UK government rejects 'kill switch' idea for dangerous AI",
-            "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 11 Sep 2026 15:07:07 GMT"
-        },
-        {
-            "title": "Does this AI comic make you laugh?",
-            "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 11 Sep 2026 12:49:30 GMT"
         }
     ]
 }
