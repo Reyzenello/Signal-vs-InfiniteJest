@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI employees need to oppose its support for Leading the Future, which seeks to chill federal regulation, and Congress should hold hearings on AI risks (Matthew Yglesias/Slow Boring)",
-            "link": "https://www.techmeme.com/260914/p17#a260914p17",
-            "published": "Mon, 14 Sep 2026 09:40:01 -0400"
+            "title": "Sources: OpenAI bought Glass Imaging, which is developing AI-powered smartphone camera tech, in a deal valuing it at $300M+; it was valued at ~$100M last year (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260914/p33#a260914p33",
+            "published": "Mon, 14 Sep 2026 15:00:37 -0400"
         },
         {
-            "title": "Netflix, Amazon, and YouTube launch the Streaming Access and Choice Alliance, led by trade group TechNet, to advocate for \"technology-neutral policies\" (Sara Fischer/Axios)",
-            "link": "https://www.techmeme.com/260914/p16#a260914p16",
-            "published": "Mon, 14 Sep 2026 09:25:01 -0400"
+            "title": "House Speaker Johnson says there's \"potentially\" a role for Congress in creating AI guardrail legislation and that he plans to hold a meeting with AI executives (Erik Wasson/Bloomberg)",
+            "link": "https://www.techmeme.com/260914/p32#a260914p32",
+            "published": "Mon, 14 Sep 2026 14:55:04 -0400"
         },
         {
-            "title": "Microsoft publishes a 37-page \"humanist AI code of conduct\", establishing that \"people matter more than AI\", rejecting legal personhood for AI, and more (Tom Warren/The Verge)",
-            "link": "https://www.techmeme.com/260914/p15#a260914p15",
-            "published": "Mon, 14 Sep 2026 09:15:01 -0400"
+            "title": "Nvidia announces the RTX Pro 5500 Blackwell Workstation Edition, offering comparable specs to the RTX 5090 but with 84GB of GDDR7 memory, vs. RTX 5090's 32GB (Zhiye Liu/Tom's Hardware)",
+            "link": "https://www.techmeme.com/260914/p31#a260914p31",
+            "published": "Mon, 14 Sep 2026 14:10:00 -0400"
         },
         {
-            "title": "US-Israeli startup Buildots, which uses AI to speed up construction of mega-projects like data centers and chip factories, raised $130M at a near-$1B valuation (Marissa Newman/Bloomberg)",
-            "link": "https://www.techmeme.com/260914/p14#a260914p14",
-            "published": "Mon, 14 Sep 2026 08:55:02 -0400"
+            "title": "iOS 27 review: a marked improvement over iOS 26 and Siri AI is very impressive with some \"wow\" moments but it can sometimes misunderstand or hallucinate (Dan Moren/Six Colors)",
+            "link": "https://www.techmeme.com/260914/p30#a260914p30",
+            "published": "Mon, 14 Sep 2026 13:40:04 -0400"
         },
         {
-            "title": "President Trump expresses support for Flock \"because of law enforcement\", while acknowledging some people consider the surveillance technology \"an infringement\" (Aoife Walsh/Washington Post)",
-            "link": "https://www.techmeme.com/260914/p13#a260914p13",
-            "published": "Mon, 14 Sep 2026 08:45:00 -0400"
+            "title": "Valve says the Steam Frame is priced at $1,059 for the 256GB model and $1,299 for the 1TB version; both come with a copy of Half-Life: Alyx but no power supply (Adam Vjestica/The Shortcut)",
+            "link": "https://www.techmeme.com/260914/p29#a260914p29",
+            "published": "Mon, 14 Sep 2026 13:25:04 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
+            "link": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
+            "published": "Mon, 14 Sep 2026 03:12:45 +0000"
+        },
+        {
             "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
             "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-            "published": "Mon, 14 Sep 2026 01:03:31 +0000"
+            "published": "Mon, 14 Sep 2026 14:43:54 +0000"
         },
         {
             "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
@@ -43,17 +48,27 @@
             "published": "Mon, 14 Sep 2026 02:31:15 +0000"
         },
         {
-            "title": "Why It\u2019s Difficult for Tech Companies to Rein In A.I.",
-            "link": "https://www.nytimes.com/2026/09/12/technology/ai-safeguards.html",
-            "published": "Sat, 12 Sep 2026 16:18:06 +0000"
-        },
-        {
-            "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
-            "link": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
-            "published": "Mon, 14 Sep 2026 03:12:45 +0000"
+            "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
+            "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
+            "published": "Mon, 14 Sep 2026 16:42:19 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+            "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 18:54:16 GMT"
+        },
+        {
+            "title": "Valve's Steam Frame is excellent - but at over \u00a31,000 is VR still too expensive?",
+            "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 17:05:31 GMT"
+        },
+        {
+            "title": "What is AI, how does it work and why are some people concerned about it?",
+            "link": "https://www.bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 14 Sep 2026 16:09:56 GMT"
+        },
         {
             "title": "Why are there concerns AI could threaten humanity, and how real are they?",
             "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "Trump downplays warnings of AI risks, citing rivalry with China",
             "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 13 Sep 2026 18:49:37 GMT"
-        },
-        {
-            "title": "Questions mount over what an AI 'slowdown' would look like",
-            "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 13 Sep 2026 18:20:22 GMT"
-        },
-        {
-            "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-            "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 13 Sep 2026 14:53:40 GMT"
-        },
-        {
-            "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-            "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 12 Sep 2026 21:16:47 GMT"
         }
     ]
 }
