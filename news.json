@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Sources: OpenAI bought Glass Imaging, which is developing AI-powered smartphone camera tech, in a deal valuing it at $300M+; it was valued at ~$100M last year (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260914/p33#a260914p33",
-            "published": "Mon, 14 Sep 2026 15:00:37 -0400"
+            "title": "London-based Jack & Jill, which offers Jack, an AI agent for job seekers, and Jill, an agent for companies, raised a $40M Series A, after raising $20M in 2025 (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/260914/p39#a260914p39",
+            "published": "Mon, 14 Sep 2026 18:45:01 -0400"
         },
         {
-            "title": "House Speaker Johnson says there's \"potentially\" a role for Congress in creating AI guardrail legislation and that he plans to hold a meeting with AI executives (Erik Wasson/Bloomberg)",
-            "link": "https://www.techmeme.com/260914/p32#a260914p32",
-            "published": "Mon, 14 Sep 2026 14:55:04 -0400"
+            "title": "Cornelis, spun off from Intel in 2020 to build networking tech that helps AI chips communicate more effectively, raised $205M led by IAG Capital (Dominic-Madori Davis/TechCrunch)",
+            "link": "https://www.techmeme.com/260914/p38#a260914p38",
+            "published": "Mon, 14 Sep 2026 17:30:01 -0400"
         },
         {
-            "title": "Nvidia announces the RTX Pro 5500 Blackwell Workstation Edition, offering comparable specs to the RTX 5090 but with 84GB of GDDR7 memory, vs. RTX 5090's 32GB (Zhiye Liu/Tom's Hardware)",
-            "link": "https://www.techmeme.com/260914/p31#a260914p31",
-            "published": "Mon, 14 Sep 2026 14:10:00 -0400"
+            "title": "Source: defense tech startup Shield AI is in talks to raise new funds at a valuation of at least $20B; Shield raised $2B at a valuation of $12.7B in March (The Information)",
+            "link": "https://www.techmeme.com/260914/p37#a260914p37",
+            "published": "Mon, 14 Sep 2026 17:00:14 -0400"
         },
         {
-            "title": "iOS 27 review: a marked improvement over iOS 26 and Siri AI is very impressive with some \"wow\" moments but it can sometimes misunderstand or hallucinate (Dan Moren/Six Colors)",
-            "link": "https://www.techmeme.com/260914/p30#a260914p30",
-            "published": "Mon, 14 Sep 2026 13:40:04 -0400"
+            "title": "Nuance Labs, which builds low-latency AI avatars that can have face-to-face conversations, raised a $50M Series A led by Lightspeed, with Nvidia participating (Shubhangi Goel/Business Insider)",
+            "link": "https://www.techmeme.com/260914/p36#a260914p36",
+            "published": "Mon, 14 Sep 2026 16:40:00 -0400"
         },
         {
-            "title": "Valve says the Steam Frame is priced at $1,059 for the 256GB model and $1,299 for the 1TB version; both come with a copy of Half-Life: Alyx but no power supply (Adam Vjestica/The Shortcut)",
-            "link": "https://www.techmeme.com/260914/p29#a260914p29",
-            "published": "Mon, 14 Sep 2026 13:25:04 -0400"
+            "title": "Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman's request (MS NOW)",
+            "link": "https://www.techmeme.com/260914/p35#a260914p35",
+            "published": "Mon, 14 Sep 2026 16:10:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Nvidia\u2019s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
+            "link": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+            "published": "Mon, 14 Sep 2026 22:29:25 +0000"
+        },
         {
             "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
             "link": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
@@ -43,22 +48,12 @@
             "published": "Mon, 14 Sep 2026 01:04:20 +0000"
         },
         {
-            "title": "Inside the Discussions at AI Companies Over a Superintelligence Doomsday",
-            "link": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
-            "published": "Mon, 14 Sep 2026 02:31:15 +0000"
-        },
-        {
             "title": "Amazon Suspends Flights With Airline Whose Plane Crashed in Miami",
             "link": "https://www.nytimes.com/2026/09/14/business/amazon-21-air-miami-airport-crash.html",
             "published": "Mon, 14 Sep 2026 16:42:19 +0000"
         }
     ],
     "source_2": [
-        {
-            "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-            "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 14 Sep 2026 18:54:16 GMT"
-        },
         {
             "title": "Valve's Steam Frame is excellent - but at over \u00a31,000 is VR still too expensive?",
             "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
@@ -78,6 +73,11 @@
             "title": "Trump downplays warnings of AI risks, citing rivalry with China",
             "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 13 Sep 2026 18:49:37 GMT"
+        },
+        {
+            "title": "Questions mount over what an AI 'slowdown' would look like",
+            "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 13 Sep 2026 18:20:22 GMT"
         }
     ]
 }
