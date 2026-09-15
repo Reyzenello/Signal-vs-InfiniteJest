@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Some developers are using the Claude Code harness to access cheaper non-Anthropic models, including GPT-5.6 Sol, via proxies and services like OpenRouter (Alix Coutures/The Information)",
-            "link": "https://www.techmeme.com/260915/p40#a260915p40",
-            "published": "Tue, 15 Sep 2026 13:35:01 -0400"
+            "title": "At a US House hearing, Treasury Secretary Scott Bessent said AI labs should get no liability exemptions and called for more open-source models built in the US (Matt Bracken/FedScoop)",
+            "link": "https://www.techmeme.com/260915/p49#a260915p49",
+            "published": "Tue, 15 Sep 2026 18:00:38 -0400"
         },
         {
-            "title": "Thatch, a healthcare plan marketplace where employers set a fixed budget that employees can use for individual plans, raised a $108M Series C at a $1B valuation (Marina Temkin/TechCrunch)",
-            "link": "https://www.techmeme.com/260915/p39#a260915p39",
-            "published": "Tue, 15 Sep 2026 13:25:54 -0400"
+            "title": "OpenRouter users spent more on OpenAI's models than on Anthropic's in the week of September 7, the first time that happened since the week of February 26, 2024 (@openrouter)",
+            "link": "https://www.techmeme.com/260915/p48#a260915p48",
+            "published": "Tue, 15 Sep 2026 17:35:01 -0400"
         },
         {
-            "title": "UMG sues DistroKid, alleging it distributes AI-generated music masquerading as artist-backed releases and knowingly \"proliferates\" copyright-infringing tracks (Tim Ingham/Music Business Worldwide)",
-            "link": "https://www.techmeme.com/260915/p38#a260915p38",
-            "published": "Tue, 15 Sep 2026 12:40:47 -0400"
+            "title": "Pulley, which offers cap table management software, says it will cease operations after December 8; it had raised $50M+ from investors, including Founders Fund (Melia Robinson/Business Insider)",
+            "link": "https://www.techmeme.com/260915/p47#a260915p47",
+            "published": "Tue, 15 Sep 2026 16:45:01 -0400"
         },
         {
-            "title": "Factory, whose AI coding agents, called Droids, switch between models depending on a task's complexity, raised $200M at a $5B valuation, up from $1.5B in April (Angel Au-Yeung/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260915/p37#a260915p37",
-            "published": "Tue, 15 Sep 2026 12:15:43 -0400"
+            "title": "At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs (New York Times)",
+            "link": "https://www.techmeme.com/260915/p46#a260915p46",
+            "published": "Tue, 15 Sep 2026 16:40:55 -0400"
         },
         {
-            "title": "Sources: Palmer Luckey-backed Erebor Bank ended its free stablecoin-to-cash redemption offer after crypto trading firms like Wintermute used it for arbitrage (The Information)",
-            "link": "https://www.techmeme.com/260915/p36#a260915p36",
-            "published": "Tue, 15 Sep 2026 12:00:58 -0400"
+            "title": "During a Salesforce event, Jensen Huang says the AI industry doesn't need any new laws or regulations and market forces will help companies safely innovate (Brody Ford/Bloomberg)",
+            "link": "https://www.techmeme.com/260915/p45#a260915p45",
+            "published": "Tue, 15 Sep 2026 16:10:55 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Nvidia\u2019s Jensen Huang Gets Onstage Call From Trump, Who Dismissed A.I. Safety Concerns",
-            "link": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
-            "published": "Tue, 15 Sep 2026 13:33:58 +0000"
+            "title": "Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I.",
+            "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
+            "published": "Tue, 15 Sep 2026 20:35:39 +0000"
         },
         {
-            "title": "Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown",
-            "link": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
-            "published": "Mon, 14 Sep 2026 03:12:45 +0000"
-        },
-        {
-            "title": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-            "link": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
-            "published": "Mon, 14 Sep 2026 14:43:54 +0000"
-        },
-        {
-            "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
-            "link": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
-            "published": "Mon, 14 Sep 2026 01:04:20 +0000"
+            "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
+            "link": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
+            "published": "Tue, 15 Sep 2026 20:06:21 +0000"
         },
         {
             "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
             "link": "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html",
             "published": "Tue, 15 Sep 2026 17:29:37 +0000"
+        },
+        {
+            "title": "Google\u2019s Simulated Fruit Fly Brain Did Not Write This Article",
+            "link": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
+            "published": "Tue, 15 Sep 2026 22:00:06 +0000"
+        },
+        {
+            "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
+            "link": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
+            "published": "Tue, 15 Sep 2026 14:11:17 +0000"
         }
     ],
     "source_2": [
