@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "At a US House hearing, Treasury Secretary Scott Bessent said AI labs should get no liability exemptions and called for more open-source models built in the US (Matt Bracken/FedScoop)",
-            "link": "https://www.techmeme.com/260915/p49#a260915p49",
-            "published": "Tue, 15 Sep 2026 18:00:38 -0400"
+            "title": "Zuckerberg says \"Meta delayed shipping Muse for several months to focus on safety and security\" and didn't call on other AI labs to do the same before acting (Tom Giles/Bloomberg)",
+            "link": "https://www.techmeme.com/260915/p56#a260915p56",
+            "published": "Tue, 15 Sep 2026 20:30:01 -0400"
         },
         {
-            "title": "OpenRouter users spent more on OpenAI's models than on Anthropic's in the week of September 7, the first time that happened since the week of February 26, 2024 (@openrouter)",
-            "link": "https://www.techmeme.com/260915/p48#a260915p48",
-            "published": "Tue, 15 Sep 2026 17:35:01 -0400"
+            "title": "Democrats and Republicans proposed many bills to address major AI threats over the past two years, but they remain stymied by partisan disputes and lobbying (New York Times)",
+            "link": "https://www.techmeme.com/260915/p55#a260915p55",
+            "published": "Tue, 15 Sep 2026 19:55:00 -0400"
         },
         {
-            "title": "Pulley, which offers cap table management software, says it will cease operations after December 8; it had raised $50M+ from investors, including Founders Fund (Melia Robinson/Business Insider)",
-            "link": "https://www.techmeme.com/260915/p47#a260915p47",
-            "published": "Tue, 15 Sep 2026 16:45:01 -0400"
+            "title": "Q&A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more (New York Times)",
+            "link": "https://www.techmeme.com/260915/p54#a260915p54",
+            "published": "Tue, 15 Sep 2026 19:30:06 -0400"
         },
         {
-            "title": "At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs (New York Times)",
-            "link": "https://www.techmeme.com/260915/p46#a260915p46",
-            "published": "Tue, 15 Sep 2026 16:40:55 -0400"
+            "title": "Mark Zuckerberg says AI labs have the responsibility and incentive to train models safely and that any lab that doesn't focus on alignment will fall behind (Mark Zuckerberg/@finkd)",
+            "link": "https://www.techmeme.com/260915/p53#a260915p53",
+            "published": "Tue, 15 Sep 2026 19:15:07 -0400"
         },
         {
-            "title": "During a Salesforce event, Jensen Huang says the AI industry doesn't need any new laws or regulations and market forces will help companies safely innovate (Brody Ford/Bloomberg)",
-            "link": "https://www.techmeme.com/260915/p45#a260915p45",
-            "published": "Tue, 15 Sep 2026 16:10:55 -0400"
+            "title": "Sources: Meta plans to release a camera-free pair of smart glasses this fall; the new model has six mics to let users speak with Meta's AI chatbot and Muse (Jyoti Mann/The Information)",
+            "link": "https://www.techmeme.com/260915/p52#a260915p52",
+            "published": "Tue, 15 Sep 2026 18:50:00 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I.",
+            "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
+            "link": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+            "published": "Wed, 16 Sep 2026 00:19:23 +0000"
+        },
+        {
+            "title": "Steve Bannon and Bernie Sanders Condemn Tech \u2018Oligarchs\u2019 and Demand A.I. Reforms",
             "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-            "published": "Tue, 15 Sep 2026 20:35:39 +0000"
+            "published": "Tue, 15 Sep 2026 22:17:56 +0000"
         },
         {
             "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry",
@@ -38,22 +43,27 @@
             "published": "Tue, 15 Sep 2026 20:06:21 +0000"
         },
         {
+            "title": "Is There Anything Google\u2019s Fruit Fly Brain Can\u2019t Do?",
+            "link": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
+            "published": "Tue, 15 Sep 2026 23:06:10 +0000"
+        },
+        {
             "title": "Two Chinese Firms Used Binance to Launder Iranian Oil Money, US Says",
             "link": "https://www.nytimes.com/2026/09/15/technology/binance-iran-china.html",
             "published": "Tue, 15 Sep 2026 17:29:37 +0000"
-        },
-        {
-            "title": "Google\u2019s Simulated Fruit Fly Brain Did Not Write This Article",
-            "link": "https://www.nytimes.com/2026/09/15/technology/fruit-fly-brain-map-google.html",
-            "published": "Tue, 15 Sep 2026 22:00:06 +0000"
-        },
-        {
-            "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
-            "link": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
-            "published": "Tue, 15 Sep 2026 14:11:17 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 00:59:20 GMT"
+        },
+        {
+            "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 15 Sep 2026 23:27:17 GMT"
+        },
         {
             "title": "Pubs in England and Wales to allow digital ID apps to prove age",
             "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "What is AI, how does it work and why are some people concerned about it?",
             "link": "https://www.bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 14 Sep 2026 16:09:56 GMT"
-        },
-        {
-            "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-            "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 14 Sep 2026 12:00:08 GMT"
-        },
-        {
-            "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-            "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 13 Sep 2026 18:49:37 GMT"
         }
     ]
 }
