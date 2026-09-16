@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Apple is developing enterprise AI servers powered by two or four M8 Ultra chips, set for 2029, and is considering integrating Nvidia's NVLink Fusion (The Information)",
-            "link": "https://www.techmeme.com/260916/p26#a260916p26",
-            "published": "Wed, 16 Sep 2026 09:15:01 -0400"
+            "title": "Delos Data, which develops network chips and software to connect AI chips in a data center, raised $100M from Matrix, Playground, Socratic Partners, and others (Stephen Nellis/Reuters)",
+            "link": "https://www.techmeme.com/260916/p40#a260916p40",
+            "published": "Wed, 16 Sep 2026 12:50:01 -0400"
         },
         {
-            "title": "Modular data center startup Rune raised a $40M Series A led by Spark Capital to deploy off-grid compute capacity directly at solar and renewable energy sites (Adele Peters/Fast Company)",
-            "link": "https://www.techmeme.com/260916/p25#a260916p25",
-            "published": "Wed, 16 Sep 2026 08:55:01 -0400"
+            "title": "Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first (Ivan Mehta/TechCrunch)",
+            "link": "https://www.techmeme.com/260916/p39#a260916p39",
+            "published": "Wed, 16 Sep 2026 12:42:10 -0400"
         },
         {
-            "title": "A profile of Meta Compute co-lead Dina Powell McCormick, who is using her network to help structure major AI financing, as Mark Zuckerberg focuses on product (Bloomberg)",
-            "link": "https://www.techmeme.com/260916/p24#a260916p24",
-            "published": "Wed, 16 Sep 2026 08:45:01 -0400"
+            "title": "DOD CTO Emil Michael says the Trump administration shouldn't take stakes in AI companies and signals opposition to regulatory oversight of AI companies (Kevin Breuninger/CNBC)",
+            "link": "https://www.techmeme.com/260916/p38#a260916p38",
+            "published": "Wed, 16 Sep 2026 12:35:04 -0400"
         },
         {
-            "title": "Billionaire-backed AI safety activists have significantly expanded their Capitol Hill lobbying, with groups like ControlAI conducting hundreds of meetings (Washington Post)",
-            "link": "https://www.techmeme.com/260916/p23#a260916p23",
-            "published": "Wed, 16 Sep 2026 08:35:05 -0400"
+            "title": "A US judge orders X and SpaceXAI to explain why they dropped antitrust claims against Apple, after OpenAI's request for information on the purported agreement (Hassan Ali Kanu/Politico)",
+            "link": "https://www.techmeme.com/260916/p37#a260916p37",
+            "published": "Wed, 16 Sep 2026 12:30:01 -0400"
         },
         {
-            "title": "Hacker collective stegan0gram dismantles a Flock camera, recovering an encryption key and showing it runs ~20 apps on a midrange smartphone-grade processor (404 Media)",
-            "link": "https://www.techmeme.com/260916/p22#a260916p22",
-            "published": "Wed, 16 Sep 2026 08:20:01 -0400"
+            "title": "Arcee AI, which develops open-weight models in the US, raised a Series B at a $1B pre-money valuation; a source says Arcee raised at least $150M (Allie Garfinkle/Fortune)",
+            "link": "https://www.techmeme.com/260916/p36#a260916p36",
+            "published": "Wed, 16 Sep 2026 12:25:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
             "link": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
-            "published": "Wed, 16 Sep 2026 00:19:23 +0000"
+            "published": "Wed, 16 Sep 2026 17:22:07 +0000"
         },
         {
             "title": "Steve Bannon and Bernie Sanders Condemn Tech \u2018Oligarchs\u2019 and Demand A.I. Reforms",
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+            "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 16 Sep 2026 14:16:14 GMT"
+        },
+        {
             "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
             "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 16 Sep 2026 10:02:05 GMT"
@@ -73,11 +78,6 @@
             "title": "Valve's Steam Frame is excellent - but at over \u00a31,000 is VR still too expensive?",
             "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 14 Sep 2026 17:05:31 GMT"
-        },
-        {
-            "title": "What is AI, how does it work and why are some people concerned about it?",
-            "link": "https://www.bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 14 Sep 2026 16:09:56 GMT"
         }
     ]
 }
