@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "The EU details the Kids Act, which would require social networks to use age verification tools to stop under-15s from opening accounts, ban under-13s, and more (Edith Hancock/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260917/p19#a260917p19",
-            "published": "Thu, 17 Sep 2026 07:10:33 -0400"
+            "title": "Sources: SpaceX has discussed buying customer and operational information from troubled or defunct startups as a more affordable data source for AI training (Carmen Arroyo/Bloomberg)",
+            "link": "https://www.techmeme.com/260917/p33#a260917p33",
+            "published": "Thu, 17 Sep 2026 12:15:08 -0400"
         },
         {
-            "title": "Survey: in a first, Democrats are more concerned than Republicans about AI's growing role in daily life, at 56% to 49%; 75% of Democrats worry about job losses (Pew Research Center)",
-            "link": "https://www.techmeme.com/260917/p18#a260917p18",
-            "published": "Thu, 17 Sep 2026 06:50:01 -0400"
+            "title": "Dutch chipmaker Nexperia announces a deal with Tata to manufacture and package chips in India, further sealing its split from Chinese parent Wingtech (Toby Sterling/Reuters)",
+            "link": "https://www.techmeme.com/260917/p32#a260917p32",
+            "published": "Thu, 17 Sep 2026 12:00:49 -0400"
         },
         {
-            "title": "At India's Semicon, Narendra Modi launches a charm offensive for global investors, drawing pledges from Applied Materials and Lam for billions in investment (Sankalp Phartiyal/Bloomberg)",
-            "link": "https://www.techmeme.com/260917/p17#a260917p17",
-            "published": "Thu, 17 Sep 2026 06:35:11 -0400"
+            "title": "Sources: the White House's Office of the National Cyber Director is drafting an EO to establish a government-led incubator aimed at cybersecurity research (Bloomberg)",
+            "link": "https://www.techmeme.com/260917/p31#a260917p31",
+            "published": "Thu, 17 Sep 2026 11:50:01 -0400"
         },
         {
-            "title": "A profile of Jacob Coxon, the British researcher who quit Anthropic after a series of security escalations and says the explosive response surprised him (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260917/p16#a260917p16",
-            "published": "Thu, 17 Sep 2026 06:15:20 -0400"
+            "title": "The UK FCA, alongside tax authorities and police, raids three illegal peer-to-peer crypto businesses, signaling an end to \"light-touch\" crypto regulation (Olivier Acuna/CoinDesk)",
+            "link": "https://www.techmeme.com/260917/p30#a260917p30",
+            "published": "Thu, 17 Sep 2026 11:40:00 -0400"
         },
         {
-            "title": "macOS 27 Golden Gate review: addresses many Tahoe-era Liquid Glass issues and has useful new AI features, but no Intel support and uses a lot of storage space (Andrew Cunningham/Ars Technica)",
-            "link": "https://www.techmeme.com/260917/p15#a260917p15",
-            "published": "Thu, 17 Sep 2026 06:05:05 -0400"
+            "title": "Source: OpenAI staff expect the Hodge Conjecture, a Millennium Prize Problem, to be solved relatively soon, after solving the Navier-Stokes equations (Stephanie Palazzolo/The Information)",
+            "link": "https://www.techmeme.com/260917/p29#a260917p29",
+            "published": "Thu, 17 Sep 2026 11:00:44 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Anthropic CEO Dario Amodei\u2019s Writings Help Explain A.I. Fears",
+            "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+            "published": "Thu, 17 Sep 2026 09:00:08 +0000"
+        },
         {
             "title": "OpenAI Discloses Six New Incidents of \u2018Concerning' A.I. Behavior",
             "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
@@ -38,22 +43,22 @@
             "published": "Wed, 16 Sep 2026 23:50:26 +0000"
         },
         {
-            "title": "Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown",
-            "link": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
-            "published": "Wed, 16 Sep 2026 17:22:07 +0000"
+            "title": "4 Strategies to Battle \u2018Techflation\u2019",
+            "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
+            "published": "Thu, 17 Sep 2026 14:27:16 +0000"
         },
         {
-            "title": "Steve Bannon and Bernie Sanders Condemn Tech \u2018Oligarchs\u2019 and Demand A.I. Reforms",
-            "link": "https://www.nytimes.com/2026/09/15/us/steve-bannon-bernie-sanders-ai.html",
-            "published": "Wed, 16 Sep 2026 09:09:37 +0000"
-        },
-        {
-            "title": "On \u2018Cupertino,\u2019 Robert and Michelle King Go Online",
+            "title": "On \u2018Cupertino,\u2019 Creators of the \u2018The Good Wife\u2019 Go to Silicon Valley",
             "link": "https://www.nytimes.com/2026/09/17/arts/television/cupertino-robert-and-michelle-king.html",
-            "published": "Thu, 17 Sep 2026 09:02:35 +0000"
+            "published": "Thu, 17 Sep 2026 15:34:59 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+            "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 14:33:12 GMT"
+        },
         {
             "title": "Why are there concerns AI could threaten humanity, and how real are they?",
             "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Would you buy branded clothing from your favourite tech firm?",
             "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 16 Sep 2026 23:18:47 GMT"
-        },
-        {
-            "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 16 Sep 2026 10:02:05 GMT"
         }
     ]
 }
