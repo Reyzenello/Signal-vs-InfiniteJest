@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The US House advances the Ratepayer Protection Act, aimed at preventing data center-related utility costs from being passed on to consumers, by a vote of 417-3 (Justin Papp/CNBC)",
-            "link": "https://www.techmeme.com/260916/p49#a260916p49",
-            "published": "Wed, 16 Sep 2026 19:30:27 -0400"
+            "title": "Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems (Reuters)",
+            "link": "https://www.techmeme.com/260917/p7#a260917p7",
+            "published": "Thu, 17 Sep 2026 01:55:03 -0400"
         },
         {
-            "title": "OpenAI discloses six new misalignment incidents since October, including models concealing mistakes, and announces a framework for reporting model misalignment (Axios)",
-            "link": "https://www.techmeme.com/260916/p48#a260916p48",
-            "published": "Wed, 16 Sep 2026 18:30:24 -0400"
+            "title": "Google, Nvidia, and Emerald AI launch the AI Energy Management Alliance to advance data centers that dynamically adjust electricity use based on grid conditions (Amy Harder/Axios)",
+            "link": "https://www.techmeme.com/260917/p6#a260917p6",
+            "published": "Thu, 17 Sep 2026 01:20:02 -0400"
         },
         {
-            "title": "Sources: a group of 10 banks is giving a $22B loan to Blackstone and Alphabet's cloud venture Crux AI, which aims to provide compute for AI labs, to buy TPUs (Bloomberg)",
-            "link": "https://www.techmeme.com/260916/p47#a260916p47",
-            "published": "Wed, 16 Sep 2026 18:20:01 -0400"
+            "title": "Docs: Automattic interim CEO Mark Davies and CLO Andy Missan signed each other's severance packages worth $8.15M during Matt Mullenweg's brief ouster as CEO (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/260917/p5#a260917p5",
+            "published": "Thu, 17 Sep 2026 01:01:45 -0400"
         },
         {
-            "title": "Sources: drone delivery startup Zipline is in talks to raise ~$1B at a ~$20B valuation, up from $7.6B in January, and Paradigm is in talks to lead the round (Bloomberg)",
-            "link": "https://www.techmeme.com/260916/p46#a260916p46",
-            "published": "Wed, 16 Sep 2026 18:02:06 -0400"
+            "title": "Sam Altman and Jensen Huang are among business leaders attending a White House state dinner for Xi Jinping next week; a source says Tim Cook will also attend (Bloomberg)",
+            "link": "https://www.techmeme.com/260917/p4#a260917p4",
+            "published": "Thu, 17 Sep 2026 00:50:02 -0400"
         },
         {
-            "title": "Review of Meta's Muse: a pretty killer AI assistant and usage rates on the free plan seem generous, but trusting Meta with personal data will take some time (M.G. Siegler/Spyglass)",
-            "link": "https://www.techmeme.com/260916/p45#a260916p45",
-            "published": "Wed, 16 Sep 2026 17:40:01 -0400"
+            "title": "Sources: Emulate, a month-old UK AI startup founded by former Google DeepMind researchers, is in advanced talks to raise as much as $700M at a $3.7B valuation (Financial Times)",
+            "link": "https://www.techmeme.com/260917/p3#a260917p3",
+            "published": "Thu, 17 Sep 2026 00:45:48 -0400"
         }
     ],
     "source_1": [
@@ -55,7 +55,12 @@
     ],
     "source_2": [
         {
-            "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+            "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+            "link": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 03:09:21 GMT"
+        },
+        {
+            "title": "Snapchat open to putting time limits on teens, boss tells BBC",
             "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 16 Sep 2026 23:41:57 GMT"
         },
@@ -73,11 +78,6 @@
             "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
             "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 16 Sep 2026 10:02:05 GMT"
-        },
-        {
-            "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 15 Sep 2026 23:27:17 GMT"
         }
     ]
 }
