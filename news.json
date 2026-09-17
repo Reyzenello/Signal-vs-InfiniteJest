@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)",
+            "link": "https://www.techmeme.com/260917/p40#a260917p40",
+            "published": "Thu, 17 Sep 2026 18:15:00 -0400"
+        },
+        {
+            "title": "OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)",
+            "link": "https://www.techmeme.com/260917/p39#a260917p39",
+            "published": "Thu, 17 Sep 2026 17:05:01 -0400"
+        },
+        {
+            "title": "Anthropic outlines metrics to track AI development at frontier labs: how much AI R&D is done by AI, how well agents are overseen, and how compute is allocated (Anthropic)",
+            "link": "https://www.techmeme.com/260917/p38#a260917p38",
+            "published": "Thu, 17 Sep 2026 16:55:01 -0400"
+        },
+        {
             "title": "Andrew Ng says renewed AI extinction warnings are \"much more science fiction than science\" and the latest \"wave of PR\" is probably intended to shape regulation (Micah Barkley/Bloomberg)",
             "link": "https://www.techmeme.com/260917/p37#a260917p37",
             "published": "Thu, 17 Sep 2026 16:01:20 -0400"
@@ -9,24 +24,14 @@
             "title": "NYT court filing: ChatGPT's head wrote that publishers face an \"existential threat\" and a Microsoft executive called AI training \"an astonishing theft\" (Financial Times)",
             "link": "https://www.techmeme.com/260917/p36#a260917p36",
             "published": "Thu, 17 Sep 2026 15:35:01 -0400"
-        },
-        {
-            "title": "A survey of 42,151 adults in 36 countries and 8,607 US adults: populations in 34 of 37 surveyed countries expect AI to cause net job loss rather than growth (Pew Research Center)",
-            "link": "https://www.techmeme.com/260917/p35#a260917p35",
-            "published": "Thu, 17 Sep 2026 14:40:00 -0400"
-        },
-        {
-            "title": "Analysis: tech employers filed layoff notices for 14,500+ Bay Area workers in the 12 months to June; Bay Area software engineer demand is down 42% since 2022 (Francesca Maglione/Bloomberg)",
-            "link": "https://www.techmeme.com/260917/p34#a260917p34",
-            "published": "Thu, 17 Sep 2026 13:15:03 -0400"
-        },
-        {
-            "title": "Sources: SpaceX has discussed buying customer and operational information from troubled or defunct startups as a more affordable data source for AI training (Carmen Arroyo/Bloomberg)",
-            "link": "https://www.techmeme.com/260917/p33#a260917p33",
-            "published": "Thu, 17 Sep 2026 12:15:08 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry",
+            "link": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
+            "published": "Thu, 17 Sep 2026 23:16:43 +0000"
+        },
         {
             "title": "How Anthropic CEO Dario Amodei\u2019s Writings Help Explain A.I. Fears",
             "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
@@ -36,11 +41,6 @@
             "title": "OpenAI Discloses Six New Incidents of \u2018Concerning' A.I. Behavior",
             "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
             "published": "Thu, 17 Sep 2026 00:12:24 +0000"
-        },
-        {
-            "title": "Judge Orders Data Sharing and Other Fixes to Solve Google\u2019s Ad Tech Monopoly",
-            "link": "https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html",
-            "published": "Wed, 16 Sep 2026 23:50:26 +0000"
         },
         {
             "title": "4 Strategies to Battle \u2018Techflation\u2019",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "The virtual worlds where robots are trained",
+            "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 17 Sep 2026 23:00:47 GMT"
+        },
         {
             "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
             "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Snapchat open to putting time limits on teens, boss tells BBC",
             "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 16 Sep 2026 23:41:57 GMT"
-        },
-        {
-            "title": "Would you buy branded clothing from your favourite tech firm?",
-            "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 16 Sep 2026 23:18:47 GMT"
         }
     ]
 }
