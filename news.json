@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Source: Beijing-based Naive AI, which plans to release its first AI model as early as this month, is now valued at $1.4B after raising $400M in three rounds (Juro Osawa/The Information)",
-            "link": "https://www.techmeme.com/260918/p15#a260918p15",
-            "published": "Fri, 18 Sep 2026 09:55:01 -0400"
+            "title": "Sources: the US \"almost started a war\" after an AI-assisted report hallucinated that a Chinese ship in the Middle East was carrying nuclear weapons components (CNN)",
+            "link": "https://www.techmeme.com/260918/p22#a260918p22",
+            "published": "Fri, 18 Sep 2026 14:00:35 -0400"
         },
         {
-            "title": "A German court says Meta is liable for fake ads posted by third parties on Instagram and Facebook and orders it to remove such content and pay damages (Linda Pasquini/Reuters)",
-            "link": "https://www.techmeme.com/260918/p14#a260918p14",
-            "published": "Fri, 18 Sep 2026 09:05:00 -0400"
+            "title": "Mistral and other European AI startups accuse US rivals of using safety concerns to entrench their dominance, rejecting Anthropic's calls to pace the frontier (Reuters)",
+            "link": "https://www.techmeme.com/260918/p21#a260918p21",
+            "published": "Fri, 18 Sep 2026 13:40:01 -0400"
         },
         {
-            "title": "SK Hynix launches SK Hynix Ventures in Silicon Valley, expanding its corporate investment scope into AI computing, data centers, and optical interconnect tech (Jie Ye-eun/The Korea Herald)",
-            "link": "https://www.techmeme.com/260918/p13#a260918p13",
-            "published": "Fri, 18 Sep 2026 07:15:03 -0400"
+            "title": "Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model (Corbin Bolies/Variety)",
+            "link": "https://www.techmeme.com/260918/p20#a260918p20",
+            "published": "Fri, 18 Sep 2026 13:10:01 -0400"
         },
         {
-            "title": "Sources: SK Hynix subsidiary Solidigm weighs building a NAND flash memory factory in the US; SK Hynix is also in talks with Intel for a separate project in Ohio (Reuters)",
-            "link": "https://www.techmeme.com/260918/p12#a260918p12",
-            "published": "Fri, 18 Sep 2026 07:10:16 -0400"
+            "title": "Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree (Andy Greenberg/Wired)",
+            "link": "https://www.techmeme.com/260918/p19#a260918p19",
+            "published": "Fri, 18 Sep 2026 12:45:01 -0400"
         },
         {
-            "title": "The US Treasury sanctions Iranian crypto exchange BitBank, saying it sent hundreds of millions to the IRGC and helped Iran operate a Strait of Hormuz toll booth (Shaurya Malwa/CoinDesk)",
-            "link": "https://www.techmeme.com/260918/p11#a260918p11",
-            "published": "Fri, 18 Sep 2026 06:50:02 -0400"
+            "title": "Disney hires former Character.AI CEO Karandeep Anand as its first CTO; about a year ago, Disney accused Character.AI of infringing its copyrights (Todd Spangler/Variety)",
+            "link": "https://www.techmeme.com/260918/p18#a260918p18",
+            "published": "Fri, 18 Sep 2026 12:20:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
+            "link": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
+            "published": "Fri, 18 Sep 2026 14:20:10 +0000"
+        },
         {
             "title": "Microsoft and OpenAI Workers Worry About \u2018Largest Theft of Labor\u2019 in History",
             "link": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
@@ -38,19 +43,14 @@
             "published": "Thu, 17 Sep 2026 09:00:08 +0000"
         },
         {
-            "title": "OpenAI Discloses Six New Incidents of \u2018Concerning' A.I. Behavior",
-            "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-            "published": "Thu, 17 Sep 2026 00:12:24 +0000"
-        },
-        {
             "title": "4 Strategies to Battle \u2018Techflation\u2019",
             "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
             "published": "Thu, 17 Sep 2026 14:27:16 +0000"
         },
         {
-            "title": "A.I. Safety Goes Mainstream + a \u2018Hard Fork\u2019 Exit AMA",
-            "link": "https://www.nytimes.com/2026/09/18/podcasts/ai-safety-final-ama.html",
-            "published": "Fri, 18 Sep 2026 11:00:04 +0000"
+            "title": "California Governor Gavin Newsom Issues A.I. Safety Executive Order",
+            "link": "https://www.nytimes.com/2026/09/18/technology/ai-safety-california-gavin-newsom.html",
+            "published": "Fri, 18 Sep 2026 17:27:15 +0000"
         }
     ],
     "source_2": [
