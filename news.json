@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code (Claude)",
-            "link": "https://www.techmeme.com/260917/p40#a260917p40",
-            "published": "Thu, 17 Sep 2026 18:15:00 -0400"
+            "title": "PrismML releases Bonsai 2 27B, which compresses Alibaba's Qwen3.8 27B to 5.9 GB, small enough for smartphones, while retaining 98.2% of Qwen's benchmark scores (Julie Bort/TechCrunch)",
+            "link": "https://www.techmeme.com/260917/p45#a260917p45",
+            "published": "Thu, 17 Sep 2026 23:05:00 -0400"
         },
         {
-            "title": "OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)",
-            "link": "https://www.techmeme.com/260917/p39#a260917p39",
-            "published": "Thu, 17 Sep 2026 17:05:01 -0400"
+            "title": "A federal judge denies OpenAI's bid to see SpaceXAI's confidential settlement with Apple in an antitrust case, finding the materials irrelevant after a review (Hassan Ali Kanu/Politico)",
+            "link": "https://www.techmeme.com/260917/p44#a260917p44",
+            "published": "Thu, 17 Sep 2026 22:00:35 -0400"
         },
         {
-            "title": "Anthropic outlines metrics to track AI development at frontier labs: how much AI R&D is done by AI, how well agents are overseen, and how compute is allocated (Anthropic)",
-            "link": "https://www.techmeme.com/260917/p38#a260917p38",
-            "published": "Thu, 17 Sep 2026 16:55:01 -0400"
+            "title": "An interview with OpenAI researcher Noam Brown about multi-agent systems, AI solving the Navier-Stokes problem, the internal/external model gap, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+            "link": "https://www.techmeme.com/260917/p43#a260917p43",
+            "published": "Thu, 17 Sep 2026 21:30:02 -0400"
         },
         {
-            "title": "Andrew Ng says renewed AI extinction warnings are \"much more science fiction than science\" and the latest \"wave of PR\" is probably intended to shape regulation (Micah Barkley/Bloomberg)",
-            "link": "https://www.techmeme.com/260917/p37#a260917p37",
-            "published": "Thu, 17 Sep 2026 16:01:20 -0400"
+            "title": "The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries (Jagmeet Singh/TechCrunch)",
+            "link": "https://www.techmeme.com/260917/p42#a260917p42",
+            "published": "Thu, 17 Sep 2026 20:30:01 -0400"
         },
         {
-            "title": "NYT court filing: ChatGPT's head wrote that publishers face an \"existential threat\" and a Microsoft executive called AI training \"an astonishing theft\" (Financial Times)",
-            "link": "https://www.techmeme.com/260917/p36#a260917p36",
-            "published": "Thu, 17 Sep 2026 15:35:01 -0400"
+            "title": "Anthropic says Claude \"leads\" 26% of its AI R&D work, up from 1% in March, and \"collaborates\" on 90%+, doing large chunks of work under close human direction (Shirin Ghaffary/Bloomberg)",
+            "link": "https://www.techmeme.com/260917/p41#a260917p41",
+            "published": "Thu, 17 Sep 2026 19:45:01 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry",
+            "title": "Microsoft and OpenAI Workers Worry About \u2018Largest Theft of Labor\u2019 in History",
             "link": "https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html",
-            "published": "Thu, 17 Sep 2026 23:16:43 +0000"
+            "published": "Fri, 18 Sep 2026 01:12:52 +0000"
         },
         {
             "title": "How Anthropic CEO Dario Amodei\u2019s Writings Help Explain A.I. Fears",
