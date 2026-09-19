@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Ad tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand (Kerry Flynn/Axios)",
-            "link": "https://www.techmeme.com/260918/p37#a260918p37",
-            "published": "Fri, 18 Sep 2026 19:50:03 -0400"
+            "title": "Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners (Kirsten Korosec/TechCrunch)",
+            "link": "https://www.techmeme.com/260919/p3#a260919p3",
+            "published": "Sat, 19 Sep 2026 01:40:01 -0400"
         },
         {
-            "title": "Meta's personal AI agent Muse climbs to No. 1 among free apps on Apple's US App Store, ahead of ChatGPT; Muse launched on September 8 (Georgia Hennessy/Business Insider)",
-            "link": "https://www.techmeme.com/260918/p36#a260918p36",
-            "published": "Fri, 18 Sep 2026 19:25:01 -0400"
+            "title": "Business intelligence startup Veridion, which develops an AI-powered, real-time map of ~640M businesses worldwide, raised a $20M Series A led by Hoxton Ventures (Tamara Djurickovic/Tech.eu)",
+            "link": "https://www.techmeme.com/260919/p2#a260919p2",
+            "published": "Sat, 19 Sep 2026 01:10:01 -0400"
         },
         {
-            "title": "Sources: ~$18B of debt tied to an Oracle New Mexico data center slid into stressed territory, as investors grow wary of construction delays amid local pushback (Financial Times)",
-            "link": "https://www.techmeme.com/260918/p35#a260918p35",
-            "published": "Fri, 18 Sep 2026 19:10:01 -0400"
+            "title": "India requires caller ID and call-management apps to share users' spam reports with telcos; Truecaller calls it a \"one-way exchange\" that is \"anti-competitive\" (Jagmeet Singh/TechCrunch)",
+            "link": "https://www.techmeme.com/260919/p1#a260919p1",
+            "published": "Sat, 19 Sep 2026 00:55:01 -0400"
         },
         {
-            "title": "Leaked presentation: OpenAI expects negative free cash flow of $278B from 2026 to 2030 and projects its revenue will grow from $36B this year to $350B in 2030 (Financial Times)",
-            "link": "https://www.techmeme.com/260918/p34#a260918p34",
-            "published": "Fri, 18 Sep 2026 19:05:03 -0400"
+            "title": "Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock's ~1,500 employees may depart, as customers flee (Wired)",
+            "link": "https://www.techmeme.com/260918/p41#a260918p41",
+            "published": "Fri, 18 Sep 2026 22:45:01 -0400"
         },
         {
-            "title": "US officials say overreliance on Palantir's Maven AI system was among the factors that contributed to a February missile strike in Iran that killed 123 children (Bloomberg)",
-            "link": "https://www.techmeme.com/260918/p33#a260918p33",
-            "published": "Fri, 18 Sep 2026 18:50:01 -0400"
+            "title": "Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 (Sophie McEvoy/GamesIndustry.biz)",
+            "link": "https://www.techmeme.com/260918/p40#a260918p40",
+            "published": "Fri, 18 Sep 2026 22:15:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
             "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-            "published": "Sat, 19 Sep 2026 00:09:40 +0000"
+            "published": "Sat, 19 Sep 2026 00:23:01 +0000"
         },
         {
             "title": "Amodei, Anthropic\u2019s Leader, Exposed A.I.\u2019s Dangers. It\u2019s Time to Act.",
@@ -50,10 +50,15 @@
         {
             "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
             "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
-            "published": "Sat, 19 Sep 2026 00:04:48 +0000"
+            "published": "Sat, 19 Sep 2026 00:31:38 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Google's Gemini AI hacked three companies in security test",
+            "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 19 Sep 2026 04:27:11 GMT"
+        },
         {
             "title": "Would Australians support a smart glasses ban?",
             "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Why are there concerns AI could threaten humanity, and how real are they?",
             "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 17 Sep 2026 09:18:57 GMT"
-        },
-        {
-            "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
-            "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 17 Sep 2026 08:22:12 GMT"
         }
     ]
 }
