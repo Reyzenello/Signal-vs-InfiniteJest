@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures (Owen Walker/Financial Times)",
+            "link": "https://www.techmeme.com/260920/p11#a260920p11",
+            "published": "Sun, 20 Sep 2026 14:15:01 -0400"
+        },
+        {
+            "title": "Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses (Owen Tucker-Smith/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260920/p10#a260920p10",
+            "published": "Sun, 20 Sep 2026 13:15:01 -0400"
+        },
+        {
             "title": "Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals (Josipa Majic Predin/Forbes)",
             "link": "https://www.techmeme.com/260920/p9#a260920p9",
             "published": "Sun, 20 Sep 2026 11:50:02 -0400"
@@ -14,19 +24,19 @@
             "title": "An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more (John Thornhill/Financial Times)",
             "link": "https://www.techmeme.com/260920/p7#a260920p7",
             "published": "Sun, 20 Sep 2026 08:05:07 -0400"
-        },
-        {
-            "title": "US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies (Katie McQue/NPR)",
-            "link": "https://www.techmeme.com/260920/p6#a260920p6",
-            "published": "Sun, 20 Sep 2026 05:05:02 -0400"
-        },
-        {
-            "title": "Clinicians raise concerns over medical AI adoption beyond diagnostics and imaging, citing limited clinical and performance data on its broader effectiveness (Sarah Neville/Financial Times)",
-            "link": "https://www.techmeme.com/260920/p5#a260920p5",
-            "published": "Sun, 20 Sep 2026 02:02:29 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
+            "link": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
+            "published": "Sun, 20 Sep 2026 09:01:40 +0000"
+        },
+        {
+            "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+            "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+            "published": "Sat, 19 Sep 2026 00:31:39 +0000"
+        },
         {
             "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
             "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
@@ -38,19 +48,9 @@
             "published": "Sat, 19 Sep 2026 15:50:55 +0000"
         },
         {
-            "title": "Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns",
-            "link": "https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html",
-            "published": "Fri, 18 Sep 2026 14:20:10 +0000"
-        },
-        {
-            "title": "4 Strategies to Battle \u2018Techflation\u2019",
-            "link": "https://www.nytimes.com/2026/09/17/technology/personaltech/4-strategies-to-battle-techflation.html",
-            "published": "Sat, 19 Sep 2026 09:22:45 +0000"
-        },
-        {
-            "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-            "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
-            "published": "Sat, 19 Sep 2026 00:31:39 +0000"
+            "title": "Uber to Pay $40 Million to Parents of Woman Fatally Hit by Car",
+            "link": "https://www.nytimes.com/2026/09/18/business/uber-payment-woman-killed-freeway-california.html",
+            "published": "Sun, 20 Sep 2026 14:29:31 +0000"
         }
     ],
     "source_2": [
