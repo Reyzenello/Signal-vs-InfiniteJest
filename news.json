@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming \"reset\"; Activision will take over Halo and two other games (Tom Warren/The Verge)",
-            "link": "https://www.techmeme.com/260922/p31#a260922p31",
-            "published": "Tue, 22 Sep 2026 10:25:01 -0400"
+            "title": "Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation (Bloomberg)",
+            "link": "https://www.techmeme.com/260922/p45#a260922p45",
+            "published": "Tue, 22 Sep 2026 14:40:01 -0400"
         },
         {
-            "title": "Apple announces new $350 Beats 360 headphones, with IPX4 rating, swappable ear cups, a replaceable battery, ANC, Find My support, and more (John Higgins/The Verge)",
-            "link": "https://www.techmeme.com/260922/p30#a260922p30",
-            "published": "Tue, 22 Sep 2026 10:20:01 -0400"
+            "title": "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)",
+            "link": "https://www.techmeme.com/260922/p44#a260922p44",
+            "published": "Tue, 22 Sep 2026 14:25:01 -0400"
         },
         {
-            "title": "Sources: after a deadly school strike in Iran, US Central Command changed its targeting process, integrated open-source data, and upgraded Palantir's Maven (Katrina Manson/Bloomberg)",
-            "link": "https://www.techmeme.com/260922/p29#a260922p29",
-            "published": "Tue, 22 Sep 2026 09:45:01 -0400"
+            "title": "OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost (David Gewirtz/ZDNET)",
+            "link": "https://www.techmeme.com/260922/p43#a260922p43",
+            "published": "Tue, 22 Sep 2026 14:15:08 -0400"
         },
         {
-            "title": "Sources: Xi Jinping is unlikely to bring corporate executives to his DC summit with Trump; industry officials expected them at a dinner with top US tech CEOs (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260922/p28#a260922p28",
-            "published": "Tue, 22 Sep 2026 09:35:01 -0400"
+            "title": "Internal data: Meta's Muse surpassed 500,000 total users, including 250,000 daily active users, with more than 2M prompts submitted in its first week (Jyoti Mann/The Information)",
+            "link": "https://www.techmeme.com/260922/p42#a260922p42",
+            "published": "Tue, 22 Sep 2026 14:05:00 -0400"
         },
         {
-            "title": "Adobe launches its free Premiere video editing app on Android, nearly a year after its iOS launch, to replace Premiere Rush, set to lose support on September 30 (Julian Chokkattu/Wired)",
-            "link": "https://www.techmeme.com/260922/p27#a260922p27",
-            "published": "Tue, 22 Sep 2026 09:25:01 -0400"
+            "title": "Anthropic raises its five-hour usage limits by 20% on Pro, Max, and Team plans, and gives subscription users a rate limit reset (David Gewirtz/ZDNET)",
+            "link": "https://www.techmeme.com/260922/p41#a260922p41",
+            "published": "Tue, 22 Sep 2026 13:40:02 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "The A.I. Party House Where Networking Has a Dark Side",
-            "link": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
-            "published": "Mon, 21 Sep 2026 15:37:40 +0000"
+            "title": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
+            "link": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
+            "published": "Tue, 22 Sep 2026 15:55:03 +0000"
         },
         {
-            "title": "In China, A.I. Is Moving Forward While the Economy Lags Behind",
-            "link": "https://www.nytimes.com/2026/09/20/business/china-ai-economy.html",
-            "published": "Sun, 20 Sep 2026 09:01:40 +0000"
+            "title": "An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.",
+            "link": "https://www.nytimes.com/2026/09/22/business/trump-natalie-harp-photo-ai.html",
+            "published": "Tue, 22 Sep 2026 18:37:12 +0000"
         },
         {
-            "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-            "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
-            "published": "Sat, 19 Sep 2026 00:31:39 +0000"
-        },
-        {
-            "title": "Anthropic Pursues IPO Despite Its A.I. Safety Warnings",
-            "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
-            "published": "Mon, 21 Sep 2026 18:10:37 +0000"
+            "title": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+            "link": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+            "published": "Tue, 22 Sep 2026 18:06:39 +0000"
         },
         {
             "title": "What to Know About Recent A.I. Hacks",
             "link": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
             "published": "Tue, 22 Sep 2026 09:03:32 +0000"
+        },
+        {
+            "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
+            "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
+            "published": "Tue, 22 Sep 2026 18:35:07 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+            "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 14:51:39 GMT"
+        },
         {
             "title": "Not all AI workers think the tech could kill everyone",
             "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "The virtual worlds where robots are trained",
             "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 17 Sep 2026 23:00:47 GMT"
-        },
-        {
-            "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-            "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 17 Sep 2026 14:33:12 GMT"
         }
     ]
 }
