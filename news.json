@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The US criticizes Australia's digital duty-of-care proposal, which has a provision that would require social media platforms to let users opt out of algorithms (Angus Whitley/Bloomberg)",
-            "link": "https://www.techmeme.com/260923/p3#a260923p3",
-            "published": "Wed, 23 Sep 2026 01:25:06 -0400"
+            "title": "A Facebook co-founder proposes creating an \"Office of AI Supervision\" to embed teams inside frontier AI labs, with a three-year term to avoid regulatory capture (Chris Hughes/Financial Times)",
+            "link": "https://www.techmeme.com/260923/p16#a260923p16",
+            "published": "Wed, 23 Sep 2026 07:10:18 -0400"
         },
         {
-            "title": "Patreon co-founder Sam Yam says he is joining OpenAI to lead Creator Product, alongside Patreon's Head of Product Drew Rowny and Head of Engineering Shannon Ma (Sam Yam/@samyamiam)",
-            "link": "https://www.techmeme.com/260923/p2#a260923p2",
-            "published": "Wed, 23 Sep 2026 01:10:05 -0400"
+            "title": "Gallup survey of 37 countries: in 34, positive AI sentiment outweighed the negative; 90%+ of people in China and 66%+ in Nigeria say AI will improve daily life (Damien Cave/New York Times)",
+            "link": "https://www.techmeme.com/260923/p15#a260923p15",
+            "published": "Wed, 23 Sep 2026 07:00:01 -0400"
         },
         {
-            "title": "Sources and Nscale's US SEC filings: ByteDance accounted for nearly 75% of Nscale's sales in 2025 and used Nscale's facility in Norway to access Nvidia AI chips (Financial Times)",
-            "link": "https://www.techmeme.com/260923/p1#a260923p1",
-            "published": "Wed, 23 Sep 2026 01:05:01 -0400"
+            "title": "Portuguese surveillance drone maker Tekever raised $580M ed by UC Investments at a $6.4B valuation, after securing a UK MOD contract worth \u00a3400M over 10 years (Henrique Almeida/Bloomberg)",
+            "link": "https://www.techmeme.com/260923/p14#a260923p14",
+            "published": "Wed, 23 Sep 2026 06:40:16 -0400"
         },
         {
-            "title": "Six major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes (Ece Yildirim/Gizmodo)",
-            "link": "https://www.techmeme.com/260922/p64#a260922p64",
-            "published": "Tue, 22 Sep 2026 23:55:00 -0400"
+            "title": "Anthropic reported disrupting a Beijing-aligned operation to monitor religious leaders and diaspora communities, including a DC-based advocacy group for Tibet (Richard Gere/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260923/p13#a260923p13",
+            "published": "Wed, 23 Sep 2026 06:30:01 -0400"
         },
         {
-            "title": "Go.AI, which offers on-premises AI hardware and software tools for regulated organizations like banks, raised an $85M Series A led by Updata Partners (Ryan Lawler/Axios)",
-            "link": "https://www.techmeme.com/260922/p63#a260922p63",
-            "published": "Tue, 22 Sep 2026 23:50:01 -0400"
+            "title": "Analysis: 30 Chinese tech stocks with the largest overseas revenue exposure returned 36% YTD, outperforming the 8% return from domestically dependent peers (Bloomberg)",
+            "link": "https://www.techmeme.com/260923/p12#a260923p12",
+            "published": "Wed, 23 Sep 2026 06:20:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Pornhub investigated over its age checks",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 09:12:21 GMT"
+        },
+        {
             "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
             "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 23 Sep 2026 01:35:56 GMT"
@@ -65,19 +70,14 @@
             "published": "Tue, 22 Sep 2026 23:03:48 GMT"
         },
         {
-            "title": "As Trump and Xi talk, China surges ahead with its AI ambitions",
+            "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
             "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 22 Sep 2026 22:04:31 GMT"
         },
         {
-            "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+            "title": "Rare look at the remote engine rooms fuelling China's AI boom",
             "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 22 Sep 2026 22:03:48 GMT"
-        },
-        {
-            "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
-            "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 22 Sep 2026 14:51:39 GMT"
         }
     ]
 }
