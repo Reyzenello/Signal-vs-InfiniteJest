@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)",
-            "link": "https://www.techmeme.com/260922/p58#a260922p58",
-            "published": "Tue, 22 Sep 2026 20:10:01 -0400"
+            "title": "The US criticizes Australia's digital duty-of-care proposal, which has a provision that would require social media platforms to let users opt out of algorithms (Angus Whitley/Bloomberg)",
+            "link": "https://www.techmeme.com/260923/p3#a260923p3",
+            "published": "Wed, 23 Sep 2026 01:25:06 -0400"
         },
         {
-            "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)",
-            "link": "https://www.techmeme.com/260922/p57#a260922p57",
-            "published": "Tue, 22 Sep 2026 19:25:14 -0400"
+            "title": "Patreon co-founder Sam Yam says he is joining OpenAI to lead Creator Product, alongside Patreon's Head of Product Drew Rowny and Head of Engineering Shannon Ma (Sam Yam/@samyamiam)",
+            "link": "https://www.techmeme.com/260923/p2#a260923p2",
+            "published": "Wed, 23 Sep 2026 01:10:05 -0400"
         },
         {
-            "title": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)",
-            "link": "https://www.techmeme.com/260922/p56#a260922p56",
-            "published": "Tue, 22 Sep 2026 18:50:01 -0400"
+            "title": "Sources and Nscale's US SEC filings: ByteDance accounted for nearly 75% of Nscale's sales in 2025 and used Nscale's facility in Norway to access Nvidia AI chips (Financial Times)",
+            "link": "https://www.techmeme.com/260923/p1#a260923p1",
+            "published": "Wed, 23 Sep 2026 01:05:01 -0400"
         },
         {
-            "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260922/p55#a260922p55",
-            "published": "Tue, 22 Sep 2026 18:35:02 -0400"
+            "title": "Six major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes (Ece Yildirim/Gizmodo)",
+            "link": "https://www.techmeme.com/260922/p64#a260922p64",
+            "published": "Tue, 22 Sep 2026 23:55:00 -0400"
         },
         {
-            "title": "Microsoft says it will give DARPA on-site access to its latest quantum computing hardware, including the Majorana 2 chip, at its new Maryland research center (Stephen Nellis/Reuters)",
-            "link": "https://www.techmeme.com/260922/p54#a260922p54",
-            "published": "Tue, 22 Sep 2026 18:01:12 -0400"
+            "title": "Go.AI, which offers on-premises AI hardware and software tools for regulated organizations like banks, raised an $85M Series A led by Updata Partners (Ryan Lawler/Axios)",
+            "link": "https://www.techmeme.com/260922/p63#a260922p63",
+            "published": "Tue, 22 Sep 2026 23:50:01 -0400"
         }
     ],
     "source_1": [
@@ -50,17 +50,22 @@
         {
             "title": "An Army of Paid Creators Is Carpeting the Web With Political Content",
             "link": "https://www.nytimes.com/2026/09/22/us/politics/influencers-midterms-echo-chamber.html",
-            "published": "Tue, 22 Sep 2026 18:47:52 +0000"
+            "published": "Wed, 23 Sep 2026 03:16:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+            "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 01:35:56 GMT"
+        },
         {
             "title": "Will a switch to light speed cut power use at data centres?",
             "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 22 Sep 2026 23:03:48 GMT"
         },
         {
-            "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+            "title": "As Trump and Xi talk, China surges ahead with its AI ambitions",
             "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 22 Sep 2026 22:04:31 GMT"
         },
@@ -73,11 +78,6 @@
             "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
             "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 22 Sep 2026 14:51:39 GMT"
-        },
-        {
-            "title": "Not all AI workers think the tech could kill everyone",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 19 Sep 2026 23:01:57 GMT"
         }
     ]
 }
