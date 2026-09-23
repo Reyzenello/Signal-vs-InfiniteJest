@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor (Semafor)",
-            "link": "https://www.techmeme.com/260922/p53#a260922p53",
-            "published": "Tue, 22 Sep 2026 17:45:02 -0400"
+            "title": "Sources: AI training data startup Micro1 raised $100M+ at a $4B valuation, up from $500M in September 2025 (Anna Tong/Forbes)",
+            "link": "https://www.techmeme.com/260922/p58#a260922p58",
+            "published": "Tue, 22 Sep 2026 20:10:01 -0400"
         },
         {
-            "title": "TikTok US joins child safety initiative Lantern, which says members like Meta and X shared 2M+ signals of potentially violating behavior from 2023 through 2025 (Amanda Silberling/TechCrunch)",
-            "link": "https://www.techmeme.com/260922/p52#a260922p52",
-            "published": "Tue, 22 Sep 2026 16:45:02 -0400"
+            "title": "Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital (Maria Deutscher/SiliconANGLE)",
+            "link": "https://www.techmeme.com/260922/p57#a260922p57",
+            "published": "Tue, 22 Sep 2026 19:25:14 -0400"
         },
         {
-            "title": "Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC's 2nm process, with two 5GHz prime cores and six 4GHz performance cores (Axel Metz/TechRadar)",
-            "link": "https://www.techmeme.com/260922/p51#a260922p51",
-            "published": "Tue, 22 Sep 2026 16:30:03 -0400"
+            "title": "Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device (Julian Chokkattu/Wired)",
+            "link": "https://www.techmeme.com/260922/p56#a260922p56",
+            "published": "Tue, 22 Sep 2026 18:50:01 -0400"
         },
         {
-            "title": "San Francisco sues Trump Media & Technology, claiming its Truth API service violates California's Unfair Competition Law by creating an insider trading market (Heather Knight/New York Times)",
-            "link": "https://www.techmeme.com/260922/p50#a260922p50",
-            "published": "Tue, 22 Sep 2026 16:25:02 -0400"
+            "title": "Data security startup Cyera raised $400M from Goldman Sachs in a Series G extension, bringing its total funding since June 2025 to $1.94B (James Rundle/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260922/p55#a260922p55",
+            "published": "Tue, 22 Sep 2026 18:35:02 -0400"
         },
         {
-            "title": "Nat Friedman says Meta built Muse \"from scratch\" but was \"heavily inspired\" by OpenClaw, as users compare the two, including calling Muse \"OpenClaw for normies\" (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/260922/p49#a260922p49",
-            "published": "Tue, 22 Sep 2026 15:55:00 -0400"
+            "title": "Microsoft says it will give DARPA on-site access to its latest quantum computing hardware, including the Majorana 2 chip, at its new Maryland research center (Stephen Nellis/Reuters)",
+            "link": "https://www.techmeme.com/260922/p54#a260922p54",
+            "published": "Tue, 22 Sep 2026 18:01:12 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,21 @@
     ],
     "source_2": [
         {
+            "title": "Will a switch to light speed cut power use at data centres?",
+            "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 23:03:48 GMT"
+        },
+        {
+            "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+            "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 22:04:31 GMT"
+        },
+        {
+            "title": "Rare look at the remote engine rooms powering China's AI ambitions",
+            "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 22 Sep 2026 22:03:48 GMT"
+        },
+        {
             "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
             "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 22 Sep 2026 14:51:39 GMT"
@@ -63,21 +78,6 @@
             "title": "Not all AI workers think the tech could kill everyone",
             "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 19 Sep 2026 23:01:57 GMT"
-        },
-        {
-            "title": "Google's Gemini AI hacked three companies in security test",
-            "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 19 Sep 2026 13:39:32 GMT"
-        },
-        {
-            "title": "Would Australians support a smart glasses ban?",
-            "link": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 18 Sep 2026 23:15:10 GMT"
-        },
-        {
-            "title": "The virtual worlds where robots are trained",
-            "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 17 Sep 2026 23:00:47 GMT"
         }
     ]
 }
