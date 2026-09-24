@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Modal Labs is in funding talks at a ~$15B valuation, up from $4.65B in May; Baseten is in funding talks at a $26B valuation, up from $13B in June (Bloomberg)",
-            "link": "https://www.techmeme.com/260924/p2#a260924p2",
-            "published": "Thu, 24 Sep 2026 00:26:05 -0400"
+            "title": "Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260924/p13#a260924p13",
+            "published": "Thu, 24 Sep 2026 05:40:15 -0400"
         },
         {
-            "title": "Qualcomm announces the Snapdragon Sound Elite Gen 2 for audio wearables, with up to 2x greater on-device AI performance and up to 40% lower power consumption (Andrew Romero/9to5Google)",
-            "link": "https://www.techmeme.com/260924/p1#a260924p1",
-            "published": "Thu, 24 Sep 2026 00:00:14 -0400"
+            "title": "Sources: DeepSeek's annualized revenue run rate hits $1B, up from less than $500M a few months ago, as it aims to finalize a ~$7.5B fundraise by late October (The Information)",
+            "link": "https://www.techmeme.com/260924/p12#a260924p12",
+            "published": "Thu, 24 Sep 2026 05:30:05 -0400"
         },
         {
-            "title": "Google DeepMind SVP Koray Kavukcuoglu says Gemini 4 is in the early phase of post-training and hopes it will be released \"much earlier\" than the end of the year (Laura Bratton/The Information)",
-            "link": "https://www.techmeme.com/260923/p65#a260923p65",
-            "published": "Wed, 23 Sep 2026 23:50:02 -0400"
+            "title": "Sources citing Firmus' IPO draft prospectus: the Australian data center operator expects to report a $77M loss after tax for H1 FY27 as it prepares to raise $5B (Christine Chen/Reuters)",
+            "link": "https://www.techmeme.com/260924/p11#a260924p11",
+            "published": "Thu, 24 Sep 2026 05:15:01 -0400"
         },
         {
-            "title": "OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts (OpenAI)",
-            "link": "https://www.techmeme.com/260923/p64#a260923p64",
-            "published": "Wed, 23 Sep 2026 23:15:04 -0400"
+            "title": "Anthropic says it made Claude.ai and the Claude desktop app's core UX ~3x faster in August using an internal model to ship improvements \"in a two-week sprint\" (Anthropic)",
+            "link": "https://www.techmeme.com/260924/p10#a260924p10",
+            "published": "Thu, 24 Sep 2026 02:41:03 -0400"
         },
         {
-            "title": "SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world (Bloomberg)",
-            "link": "https://www.techmeme.com/260923/p63#a260923p63",
-            "published": "Wed, 23 Sep 2026 22:50:02 -0400"
+            "title": "Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China's self-sufficiency campaign (Tomoko Wakasugi/Nikkei Asia)",
+            "link": "https://www.techmeme.com/260924/p9#a260924p9",
+            "published": "Thu, 24 Sep 2026 02:30:01 -0400"
         }
     ],
     "source_1": [
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
-            "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+            "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
             "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 24 Sep 2026 03:22:54 GMT"
+            "published": "Thu, 24 Sep 2026 07:10:58 GMT"
+        },
+        {
+            "title": "What you need to know about the OpenAI Australian government hack",
+            "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 05:18:26 GMT"
         },
         {
             "title": "Indians are discovering the thrill of shopping without paying",
@@ -70,14 +75,9 @@
             "published": "Wed, 23 Sep 2026 22:35:14 GMT"
         },
         {
-            "title": "Pornhub investigated over its age checks",
-            "link": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 23 Sep 2026 15:56:44 GMT"
-        },
-        {
-            "title": "OpenAI gives cyber defence tools to Ukraine",
-            "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 23 Sep 2026 12:01:37 GMT"
+            "title": "FBI investigates claim by hackers they stole data on all agency staff",
+            "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 23 Sep 2026 21:30:22 GMT"
         }
     ]
 }
