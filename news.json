@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "Brookings projects US AI spending to total $10.3T between 2025 and 2032, averaging 3.6% of GDP per year, the largest single-industry build-out as a share of GDP (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260924/p13#a260924p13",
-            "published": "Thu, 24 Sep 2026 05:40:15 -0400"
+            "title": "Sources: Gen Digital, created by the 2022 merger of NortonLifeLock and Avast, has made a takeover offer for GoDaddy, which has a market cap of $12.2B (Oliver Barnes/Financial Times)",
+            "link": "https://www.techmeme.com/260924/p31#a260924p31",
+            "published": "Thu, 24 Sep 2026 10:55:01 -0400"
         },
         {
-            "title": "Sources: DeepSeek's annualized revenue run rate hits $1B, up from less than $500M a few months ago, as it aims to finalize a ~$7.5B fundraise by late October (The Information)",
-            "link": "https://www.techmeme.com/260924/p12#a260924p12",
-            "published": "Thu, 24 Sep 2026 05:30:05 -0400"
+            "title": "Sources: a White House memo paints effective altruism as a fringe, dangerous cult that \"built the AI-doom pipeline\" and places Dario Amodei at its foundation (Axios)",
+            "link": "https://www.techmeme.com/260924/p30#a260924p30",
+            "published": "Thu, 24 Sep 2026 10:40:00 -0400"
         },
         {
-            "title": "Sources citing Firmus' IPO draft prospectus: the Australian data center operator expects to report a $77M loss after tax for H1 FY27 as it prepares to raise $5B (Christine Chen/Reuters)",
-            "link": "https://www.techmeme.com/260924/p11#a260924p11",
-            "published": "Thu, 24 Sep 2026 05:15:01 -0400"
+            "title": "OpenAI discovered the Australian breach in August but didn't alert the government until September 10, when it sent an email to a generic disclosure address (Shakeel Hashim/Transformer)",
+            "link": "https://www.techmeme.com/260924/p29#a260924p29",
+            "published": "Thu, 24 Sep 2026 10:15:00 -0400"
         },
         {
-            "title": "Anthropic says it made Claude.ai and the Claude desktop app's core UX ~3x faster in August using an internal model to ship improvements \"in a two-week sprint\" (Anthropic)",
-            "link": "https://www.techmeme.com/260924/p10#a260924p10",
-            "published": "Thu, 24 Sep 2026 02:41:03 -0400"
+            "title": "Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year (New York Times)",
+            "link": "https://www.techmeme.com/260924/p28#a260924p28",
+            "published": "Thu, 24 Sep 2026 09:35:02 -0400"
         },
         {
-            "title": "Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China's self-sufficiency campaign (Tomoko Wakasugi/Nikkei Asia)",
-            "link": "https://www.techmeme.com/260924/p9#a260924p9",
-            "published": "Thu, 24 Sep 2026 02:30:01 -0400"
+            "title": "Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders (Isabella Simonetti/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260924/p27#a260924p27",
+            "published": "Thu, 24 Sep 2026 09:25:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Google Is Sending an A.I. Data Center to Outer Space",
+            "link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+            "published": "Thu, 24 Sep 2026 13:48:42 +0000"
+        },
+        {
             "title": "OpenAI\u2019s A.I. Tried Breaching Four Other Targets, With No Prompting",
             "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
             "published": "Thu, 24 Sep 2026 02:50:25 +0000"
+        },
+        {
+            "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
+            "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
+            "published": "Thu, 24 Sep 2026 03:53:54 +0000"
         },
         {
             "title": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
@@ -38,22 +48,27 @@
             "published": "Thu, 24 Sep 2026 00:16:28 +0000"
         },
         {
-            "title": "I Gave My Life Over to Meta\u2019s A.I. Agent and Was Blown Away",
-            "link": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-            "published": "Tue, 22 Sep 2026 19:24:41 +0000"
-        },
-        {
-            "title": "America\u2019s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
-            "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
-            "published": "Wed, 23 Sep 2026 23:54:20 +0000"
-        },
-        {
-            "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
-            "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
-            "published": "Thu, 24 Sep 2026 03:53:54 +0000"
+            "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+            "link": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+            "published": "Thu, 24 Sep 2026 13:43:45 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+            "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 14:08:38 GMT"
+        },
+        {
+            "title": "FBI investigating claim hackers have stolen details of all its agents",
+            "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 12:23:52 GMT"
+        },
+        {
+            "title": "Are we back in big tech's 'move fast and break things' era?",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 11:29:20 GMT"
+        },
         {
             "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
             "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "What you need to know about the OpenAI Australian government hack",
             "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 24 Sep 2026 05:18:26 GMT"
-        },
-        {
-            "title": "Indians are discovering the thrill of shopping without paying",
-            "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 23 Sep 2026 23:14:10 GMT"
-        },
-        {
-            "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-            "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 23 Sep 2026 22:35:14 GMT"
-        },
-        {
-            "title": "FBI investigates claim by hackers they stole data on all agency staff",
-            "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 23 Sep 2026 21:30:22 GMT"
         }
     ]
 }
