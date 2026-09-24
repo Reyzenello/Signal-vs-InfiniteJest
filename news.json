@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Gen Digital, created by the 2022 merger of NortonLifeLock and Avast, has made a takeover offer for GoDaddy, which has a market cap of $12.2B (Oliver Barnes/Financial Times)",
-            "link": "https://www.techmeme.com/260924/p31#a260924p31",
-            "published": "Thu, 24 Sep 2026 10:55:01 -0400"
+            "title": "Sources: A24, Sony Pictures, and NYT have registered interest in acquiring Letterboxd, which has a user base of 30M and is expected to be valued at $300M+ (New York Times)",
+            "link": "https://www.techmeme.com/260924/p39#a260924p39",
+            "published": "Thu, 24 Sep 2026 14:30:01 -0400"
         },
         {
-            "title": "Sources: a White House memo paints effective altruism as a fringe, dangerous cult that \"built the AI-doom pipeline\" and places Dario Amodei at its foundation (Axios)",
-            "link": "https://www.techmeme.com/260924/p30#a260924p30",
-            "published": "Thu, 24 Sep 2026 10:40:00 -0400"
+            "title": "In a default judgment, a US federal judge awards Nintendo of America $4.5M in damages in its lawsuit against a Reddit moderator who sold pirated Switch games (Nicole Carpenter/Aftermath)",
+            "link": "https://www.techmeme.com/260924/p38#a260924p38",
+            "published": "Thu, 24 Sep 2026 14:15:01 -0400"
         },
         {
-            "title": "OpenAI discovered the Australian breach in August but didn't alert the government until September 10, when it sent an email to a generic disclosure address (Shakeel Hashim/Transformer)",
-            "link": "https://www.techmeme.com/260924/p29#a260924p29",
-            "published": "Thu, 24 Sep 2026 10:15:00 -0400"
+            "title": "Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year (Jeff Stein/The Washington Sun)",
+            "link": "https://www.techmeme.com/260924/p37#a260924p37",
+            "published": "Thu, 24 Sep 2026 13:40:01 -0400"
         },
         {
-            "title": "Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year (New York Times)",
-            "link": "https://www.techmeme.com/260924/p28#a260924p28",
-            "published": "Thu, 24 Sep 2026 09:35:02 -0400"
+            "title": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+            "link": "https://www.techmeme.com/260924/p36#a260924p36",
+            "published": "Thu, 24 Sep 2026 13:25:01 -0400"
         },
         {
-            "title": "Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders (Isabella Simonetti/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260924/p27#a260924p27",
-            "published": "Thu, 24 Sep 2026 09:25:01 -0400"
+            "title": "Amazon rolls out multichannel tools in Seller Central, letting US sellers manage eBay, Shopify, TikTok and Walmart sales alongside their Amazon businesses (Todd Bishop/GeekWire)",
+            "link": "https://www.techmeme.com/260924/p35#a260924p35",
+            "published": "Thu, 24 Sep 2026 12:55:01 -0400"
         }
     ],
     "source_1": [
@@ -33,19 +33,19 @@
             "published": "Thu, 24 Sep 2026 13:48:42 +0000"
         },
         {
+            "title": "Complaints About Meta\u2019s \u2018Pervert Glasses\u2019 Won\u2019t Slow Tech\u2019s Wearable Gadgets Drive",
+            "link": "https://www.nytimes.com/2026/09/24/technology/personaltech/meta-glasses-wearables.html",
+            "published": "Thu, 24 Sep 2026 16:43:12 +0000"
+        },
+        {
             "title": "OpenAI\u2019s A.I. Tried Breaching Four Other Targets, With No Prompting",
             "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-            "published": "Thu, 24 Sep 2026 02:50:25 +0000"
+            "published": "Thu, 24 Sep 2026 16:49:20 +0000"
         },
         {
             "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
             "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
-            "published": "Thu, 24 Sep 2026 03:53:54 +0000"
-        },
-        {
-            "title": "Meta Unveils 3 Smart Glasses With Built-In A.I.",
-            "link": "https://www.nytimes.com/2026/09/23/technology/meta-ai-smart-glasses-conference.html",
-            "published": "Thu, 24 Sep 2026 00:16:28 +0000"
+            "published": "Thu, 24 Sep 2026 17:02:09 +0000"
         },
         {
             "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
@@ -54,6 +54,16 @@
         }
     ],
     "source_2": [
+        {
+            "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+            "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 18:06:40 GMT"
+        },
+        {
+            "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 24 Sep 2026 15:42:07 GMT"
+        },
         {
             "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
             "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Are we back in big tech's 'move fast and break things' era?",
             "link": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 24 Sep 2026 11:29:20 GMT"
-        },
-        {
-            "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 24 Sep 2026 07:10:58 GMT"
-        },
-        {
-            "title": "What you need to know about the OpenAI Australian government hack",
-            "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 24 Sep 2026 05:18:26 GMT"
         }
     ]
 }
