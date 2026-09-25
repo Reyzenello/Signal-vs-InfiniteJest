@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
+            "link": "https://www.techmeme.com/260925/p6#a260925p6",
+            "published": "Fri, 25 Sep 2026 09:15:01 -0400"
+        },
+        {
+            "title": "Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)",
+            "link": "https://www.techmeme.com/260925/p5#a260925p5",
+            "published": "Fri, 25 Sep 2026 08:15:00 -0400"
+        },
+        {
+            "title": "Project Jupiter, the New Mexico data center for which Oracle made major financial commitments, faces power and permitting hurdles, exposing Oracle's AI risks (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260925/p4#a260925p4",
+            "published": "Fri, 25 Sep 2026 07:15:01 -0400"
+        },
+        {
+            "title": "The US stood alone in dismissing AI safety concerns at the UN, leaving nations to set nonbinding rules without buy-in from the home of the biggest AI companies (Ashley Gold/Semafor)",
+            "link": "https://www.techmeme.com/260925/p3#a260925p3",
+            "published": "Fri, 25 Sep 2026 05:40:00 -0400"
+        },
+        {
             "title": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)",
             "link": "https://www.techmeme.com/260925/p2#a260925p2",
             "published": "Fri, 25 Sep 2026 02:30:01 -0400"
-        },
-        {
-            "title": "Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China's AI push (Reuters)",
-            "link": "https://www.techmeme.com/260925/p1#a260925p1",
-            "published": "Fri, 25 Sep 2026 01:25:00 -0400"
-        },
-        {
-            "title": "Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation (The Information)",
-            "link": "https://www.techmeme.com/260924/p56#a260924p56",
-            "published": "Thu, 24 Sep 2026 23:15:01 -0400"
-        },
-        {
-            "title": "Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl (Robert Hart/The Verge)",
-            "link": "https://www.techmeme.com/260924/p55#a260924p55",
-            "published": "Thu, 24 Sep 2026 22:40:01 -0400"
-        },
-        {
-            "title": "Massachusetts' gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation (New York Times)",
-            "link": "https://www.techmeme.com/260924/p54#a260924p54",
-            "published": "Thu, 24 Sep 2026 21:40:00 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 24 Sep 2026 21:15:07 +0000"
         },
         {
-            "title": "U.S. Intercedes for Elon Musk\u2019s X Over European Fine",
-            "link": "https://www.nytimes.com/2026/09/24/technology/us-x-elon-musk-europe-fine.html",
-            "published": "Thu, 24 Sep 2026 22:34:49 +0000"
+            "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+            "link": "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html",
+            "published": "Fri, 25 Sep 2026 11:00:03 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US backs Elon Musk's bid to overturn \u20ac120m EU fine against X",
+            "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 09:48:33 GMT"
+        },
         {
             "title": "X-planes: Are they needed in the new era of drones?",
             "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
             "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 24 Sep 2026 14:08:38 GMT"
-        },
-        {
-            "title": "FBI investigating claim hackers have stolen details of all its agents",
-            "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 24 Sep 2026 12:23:52 GMT"
         }
     ]
 }
