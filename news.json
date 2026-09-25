@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
-            "link": "https://www.techmeme.com/260925/p6#a260925p6",
-            "published": "Fri, 25 Sep 2026 09:15:01 -0400"
+            "title": "A jury finds Meta liable for misleading New Mexico residents about third-party data sharing, content moderation, and more in the Cambridge Analytica scandal (Diana Novak Jones/Reuters)",
+            "link": "https://www.techmeme.com/260925/p13#a260925p13",
+            "published": "Fri, 25 Sep 2026 14:05:41 -0400"
         },
         {
-            "title": "Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)",
-            "link": "https://www.techmeme.com/260925/p5#a260925p5",
-            "published": "Fri, 25 Sep 2026 08:15:00 -0400"
+            "title": "President Trump says Scott Bessent is not \"going to be Super Intelligence (SI) Czar\", because \"he doesn't want to\" and Trump wants to keep him at the Treasury (Dan Mangan/CNBC)",
+            "link": "https://www.techmeme.com/260925/p12#a260925p12",
+            "published": "Fri, 25 Sep 2026 13:35:36 -0400"
         },
         {
-            "title": "Project Jupiter, the New Mexico data center for which Oracle made major financial commitments, faces power and permitting hurdles, exposing Oracle's AI risks (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260925/p4#a260925p4",
-            "published": "Fri, 25 Sep 2026 07:15:01 -0400"
+            "title": "Sources: SK Hynix's US-based NAND and SSD subsidiary Solidigm is exploring an IPO as early as 2027 that could raise $15B and value the unit at up to $150B (Reuters)",
+            "link": "https://www.techmeme.com/260925/p11#a260925p11",
+            "published": "Fri, 25 Sep 2026 13:15:02 -0400"
         },
         {
-            "title": "The US stood alone in dismissing AI safety concerns at the UN, leaving nations to set nonbinding rules without buy-in from the home of the biggest AI companies (Ashley Gold/Semafor)",
-            "link": "https://www.techmeme.com/260925/p3#a260925p3",
-            "published": "Fri, 25 Sep 2026 05:40:00 -0400"
+            "title": "A federal appeals court upholds DOD's Anthropic blacklisting, finding Claude's integration with DOD systems is \"a statutorily covered national-security risk\" (Ashley Capoot/CNBC)",
+            "link": "https://www.techmeme.com/260925/p10#a260925p10",
+            "published": "Fri, 25 Sep 2026 11:52:57 -0400"
         },
         {
-            "title": "Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT (Louise Lucas/Financial Times)",
-            "link": "https://www.techmeme.com/260925/p2#a260925p2",
-            "published": "Fri, 25 Sep 2026 02:30:01 -0400"
+            "title": "Jensen Huang tells Ezra Klein that AI is just software whose existential risks are overstated, yet his standards would shut down OpenAI and 10x safety spending (Zvi Mowshowitz/Don't Worry About the Vase)",
+            "link": "https://www.techmeme.com/260925/p9#a260925p9",
+            "published": "Fri, 25 Sep 2026 11:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Anthropic\u2019s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
+            "link": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
+            "published": "Fri, 25 Sep 2026 18:17:03 +0000"
+        },
         {
             "title": "Google Is Sending an A.I. Data Center to Outer Space",
             "link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
@@ -38,22 +43,22 @@
             "published": "Thu, 24 Sep 2026 19:02:55 +0000"
         },
         {
-            "title": "OpenAI\u2019s A.I. Tried Breaching Four Other Targets, With No Prompting",
-            "link": "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html",
-            "published": "Thu, 24 Sep 2026 16:49:20 +0000"
-        },
-        {
-            "title": "Elizabeth Holmes to Transfer to Halfway House in August 2027",
-            "link": "https://www.nytimes.com/2026/09/23/technology/elizabeth-holmes-theranos-halfway-house.html",
-            "published": "Thu, 24 Sep 2026 21:15:07 +0000"
-        },
-        {
             "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
             "link": "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html",
             "published": "Fri, 25 Sep 2026 11:00:03 +0000"
+        },
+        {
+            "title": "Is China Really Stealing A.I. From American Companies?",
+            "link": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
+            "published": "Fri, 25 Sep 2026 15:02:21 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Special agents' blood and urine test results stolen in FBI hack",
+            "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 13:56:16 GMT"
+        },
         {
             "title": "US backs Elon Musk's bid to overturn \u20ac120m EU fine against X",
             "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
             "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 24 Sep 2026 15:42:07 GMT"
-        },
-        {
-            "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-            "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 24 Sep 2026 14:08:38 GMT"
         }
     ]
 }
