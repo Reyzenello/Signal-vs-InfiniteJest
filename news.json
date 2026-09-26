@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with \"wills and desires\", suggesting developers hold liability (Reuters)",
-            "link": "https://www.techmeme.com/260925/p21#a260925p21",
-            "published": "Fri, 25 Sep 2026 17:25:02 -0400"
+            "title": "A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers (Alexandra Alper/Reuters)",
+            "link": "https://www.techmeme.com/260925/p26#a260925p26",
+            "published": "Fri, 25 Sep 2026 21:05:56 -0400"
         },
         {
-            "title": "Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users (Reuters)",
-            "link": "https://www.techmeme.com/260925/p20#a260925p20",
-            "published": "Fri, 25 Sep 2026 17:00:51 -0400"
+            "title": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+            "link": "https://www.techmeme.com/260925/p25#a260925p25",
+            "published": "Fri, 25 Sep 2026 20:00:47 -0400"
         },
         {
-            "title": "Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B (Bloomberg)",
-            "link": "https://www.techmeme.com/260925/p19#a260925p19",
-            "published": "Fri, 25 Sep 2026 16:45:00 -0400"
+            "title": "Former US Army soldier Cameron Wagenius, who pleaded guilty in 2025 to hacking into telecom companies and to extortion, is sentenced to 70 months in prison (Brian Krebs/Krebs on Security)",
+            "link": "https://www.techmeme.com/260925/p24#a260925p24",
+            "published": "Fri, 25 Sep 2026 19:00:35 -0400"
         },
         {
-            "title": "Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs (New York Times)",
-            "link": "https://www.techmeme.com/260925/p18#a260925p18",
-            "published": "Fri, 25 Sep 2026 16:35:49 -0400"
+            "title": "TikTok reaches a settlement with Alabama over social media addiction claims; Alabama will receive at least $100M, and up to $300M if certain conditions are met (Gnaneshwar Rajan/Reuters)",
+            "link": "https://www.techmeme.com/260925/p23#a260925p23",
+            "published": "Fri, 25 Sep 2026 18:55:01 -0400"
         },
         {
-            "title": "A US appeals court rules that Kalshi's sports contracts are not \"swaps\" subject only to CFTC regulation, allowing states to regulate them under gambling laws (Jonathan Stempel/Reuters)",
-            "link": "https://www.techmeme.com/260925/p17#a260925p17",
-            "published": "Fri, 25 Sep 2026 16:30:07 -0400"
+            "title": "OpenAI says the 53 images its agents uploaded were on \"image-hosting sites as links that weren't publicly listed\" and \"most\" of the images have been removed (@openai)",
+            "link": "https://www.techmeme.com/260925/p22#a260925p22",
+            "published": "Fri, 25 Sep 2026 18:30:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
+            "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+            "published": "Sat, 26 Sep 2026 01:25:15 +0000"
+        },
+        {
+            "title": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
+            "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+            "published": "Fri, 25 Sep 2026 20:26:49 +0000"
+        },
         {
             "title": "Anthropic\u2019s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
             "link": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
@@ -38,22 +48,22 @@
             "published": "Thu, 24 Sep 2026 13:48:42 +0000"
         },
         {
-            "title": "Complaints About Meta\u2019s \u2018Pervert Glasses\u2019 Won\u2019t Slow Tech\u2019s Wearable Gadgets Drive",
-            "link": "https://www.nytimes.com/2026/09/24/technology/personaltech/meta-glasses-wearables.html",
-            "published": "Thu, 24 Sep 2026 19:02:55 +0000"
-        },
-        {
-            "title": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
-            "link": "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html",
-            "published": "Fri, 25 Sep 2026 11:00:03 +0000"
-        },
-        {
-            "title": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
-            "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
-            "published": "Fri, 25 Sep 2026 20:26:49 +0000"
+            "title": "Is China Really Stealing A.I. From American Companies?",
+            "link": "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html",
+            "published": "Fri, 25 Sep 2026 15:02:21 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 26 Sep 2026 01:25:30 GMT"
+        },
+        {
+            "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+            "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 23:34:20 GMT"
+        },
         {
             "title": "Special agents' blood and urine test results stolen in FBI hack",
             "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "X-planes: Are they needed in the new era of drones?",
             "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 24 Sep 2026 23:03:53 GMT"
-        },
-        {
-            "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-            "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 24 Sep 2026 18:06:40 GMT"
-        },
-        {
-            "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-            "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 24 Sep 2026 15:42:07 GMT"
         }
     ]
 }
