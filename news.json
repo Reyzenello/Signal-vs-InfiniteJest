@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A look at OpenAI-backed Red Queen Bio, an AI biosecurity startup with $36M raised to design antibody drugs against pathogens, including AI-enabled bioweapons (Georgia Wells/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260928/p2#a260928p2",
-            "published": "Mon, 28 Sep 2026 01:45:00 -0400"
+            "title": "Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)",
+            "link": "https://www.techmeme.com/260928/p27#a260928p27",
+            "published": "Mon, 28 Sep 2026 10:45:05 -0400"
         },
         {
-            "title": "The US DHS says it will \"revolutionize\" its FOIA process by using AI to handle certain types of requests and recommend what information should be redacted (Nate Jones/Washington Post)",
-            "link": "https://www.techmeme.com/260928/p1#a260928p1",
-            "published": "Mon, 28 Sep 2026 00:40:00 -0400"
+            "title": "Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)",
+            "link": "https://www.techmeme.com/260928/p26#a260928p26",
+            "published": "Mon, 28 Sep 2026 10:35:02 -0400"
         },
         {
-            "title": "Citrix confirms two critical NetScaler zero-day RCE vulnerabilities are being exploited in attacks, says it has released security updates to fix the flaws (Lawrence Abrams/BleepingComputer)",
-            "link": "https://www.techmeme.com/260927/p15#a260927p15",
-            "published": "Sun, 27 Sep 2026 23:25:00 -0400"
+            "title": "An OpenAI agent security executive discusses the Hugging Face incident, OpenAI's response, sandboxing improvements, alignment, \"reasonable paranoia\", and more (Joe/@joedaroo)",
+            "link": "https://www.techmeme.com/260928/p25#a260928p25",
+            "published": "Mon, 28 Sep 2026 10:25:01 -0400"
         },
         {
-            "title": "Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A (Zachery Eanes/Axios)",
-            "link": "https://www.techmeme.com/260927/p14#a260927p14",
-            "published": "Sun, 27 Sep 2026 22:15:00 -0400"
+            "title": "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)",
+            "link": "https://www.techmeme.com/260928/p24#a260928p24",
+            "published": "Mon, 28 Sep 2026 10:15:01 -0400"
         },
         {
-            "title": "NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M (Lauren Hirsch/New York Times)",
-            "link": "https://www.techmeme.com/260927/p13#a260927p13",
-            "published": "Sun, 27 Sep 2026 21:05:01 -0400"
+            "title": "SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service (Marcia Dunn/Associated Press)",
+            "link": "https://www.techmeme.com/260928/p23#a260928p23",
+            "published": "Mon, 28 Sep 2026 10:05:05 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Thu, 24 Sep 2026 13:48:42 +0000"
         },
         {
-            "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
-            "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
-            "published": "Sun, 27 Sep 2026 22:12:24 +0000"
+            "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+            "link": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
+            "published": "Mon, 28 Sep 2026 14:58:36 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+            "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 28 Sep 2026 11:16:08 GMT"
+        },
         {
             "title": "OpenAI bots meddled with multiple US government agency sites",
             "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
@@ -65,19 +70,14 @@
             "published": "Fri, 25 Sep 2026 23:34:20 GMT"
         },
         {
+            "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+            "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 25 Sep 2026 23:05:40 GMT"
+        },
+        {
             "title": "Special agents' blood and urine test results stolen in FBI hack",
             "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 25 Sep 2026 13:56:16 GMT"
-        },
-        {
-            "title": "US backs Elon Musk's bid to overturn \u20ac120m EU fine against X",
-            "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 25 Sep 2026 09:48:33 GMT"
-        },
-        {
-            "title": "X-planes: Are they needed in the new era of drones?",
-            "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 24 Sep 2026 23:03:53 GMT"
         }
     ]
 }
