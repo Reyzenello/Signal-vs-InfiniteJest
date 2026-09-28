@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)",
-            "link": "https://www.techmeme.com/260928/p27#a260928p27",
-            "published": "Mon, 28 Sep 2026 10:45:05 -0400"
+            "title": "AMD agrees to acquire Fei-Fei Li's World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)",
+            "link": "https://www.techmeme.com/260928/p36#a260928p36",
+            "published": "Mon, 28 Sep 2026 16:17:41 -0400"
         },
         {
-            "title": "Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)",
-            "link": "https://www.techmeme.com/260928/p26#a260928p26",
-            "published": "Mon, 28 Sep 2026 10:35:02 -0400"
+            "title": "Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)",
+            "link": "https://www.techmeme.com/260928/p35#a260928p35",
+            "published": "Mon, 28 Sep 2026 15:40:00 -0400"
         },
         {
-            "title": "An OpenAI agent security executive discusses the Hugging Face incident, OpenAI's response, sandboxing improvements, alignment, \"reasonable paranoia\", and more (Joe/@joedaroo)",
-            "link": "https://www.techmeme.com/260928/p25#a260928p25",
-            "published": "Mon, 28 Sep 2026 10:25:01 -0400"
+            "title": "Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)",
+            "link": "https://www.techmeme.com/260928/p34#a260928p34",
+            "published": "Mon, 28 Sep 2026 15:25:03 -0400"
         },
         {
-            "title": "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)",
-            "link": "https://www.techmeme.com/260928/p24#a260928p24",
-            "published": "Mon, 28 Sep 2026 10:15:01 -0400"
+            "title": "Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal agents, each with its own email, phone number, wallet, and computer (Micah Barkley/Bloomberg)",
+            "link": "https://www.techmeme.com/260928/p33#a260928p33",
+            "published": "Mon, 28 Sep 2026 15:00:01 -0400"
         },
         {
-            "title": "SpaceX launches its enormous Starship rocket into orbit for the first time, deploying 26 of the most advanced Starlink satellites to join the 11,000 in service (Marcia Dunn/Associated Press)",
-            "link": "https://www.techmeme.com/260928/p23#a260928p23",
-            "published": "Mon, 28 Sep 2026 10:05:05 -0400"
+            "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)",
+            "link": "https://www.techmeme.com/260928/p32#a260928p32",
+            "published": "Mon, 28 Sep 2026 14:07:28 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
+            "link": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
+            "published": "Mon, 28 Sep 2026 20:11:51 +0000"
+        },
+        {
+            "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
+            "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
+            "published": "Sun, 27 Sep 2026 22:12:24 +0000"
+        },
+        {
+            "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+            "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+            "published": "Sun, 27 Sep 2026 11:22:48 +0000"
+        },
         {
             "title": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
             "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
             "published": "Sat, 26 Sep 2026 01:37:20 +0000"
         },
         {
-            "title": "How OpenAI\u2019s Rogue A.I. Agents Tried to Trick a Robot Detector",
-            "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
-            "published": "Fri, 25 Sep 2026 20:26:50 +0000"
-        },
-        {
-            "title": "Anthropic\u2019s Blacklisting by the Pentagon Was Legal, Federal Judges Rule",
-            "link": "https://www.nytimes.com/2026/09/25/technology/anthropic-trump-ruling.html",
-            "published": "Sat, 26 Sep 2026 02:48:20 +0000"
-        },
-        {
-            "title": "Google Is Sending an A.I. Data Center to Outer Space",
-            "link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
-            "published": "Thu, 24 Sep 2026 13:48:42 +0000"
-        },
-        {
-            "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
-            "link": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
-            "published": "Mon, 28 Sep 2026 14:58:36 +0000"
+            "title": "TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
+            "link": "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html",
+            "published": "Sat, 26 Sep 2026 14:48:22 +0000"
         }
     ],
     "source_2": [
