@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "India plans to invest up to $25B in its nascent deep tech industry, as it looks to catch up with the US and China, after investing $11.6B over the past decade (Priyanka Salve/CNBC)",
-            "link": "https://www.techmeme.com/260929/p4#a260929p4",
-            "published": "Tue, 29 Sep 2026 04:05:01 -0400"
+            "title": "Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
+            "link": "https://www.techmeme.com/260929/p25#a260929p25",
+            "published": "Tue, 29 Sep 2026 11:35:01 -0400"
         },
         {
-            "title": "An interview with Atlassian CEO Mike Cannon-Brookes on the SaaSpocalypse, enterprise AI, Atlassian's reorg, why chatbots aren't the future of work, and more (Nilay Patel/The Verge)",
-            "link": "https://www.techmeme.com/260929/p3#a260929p3",
-            "published": "Tue, 29 Sep 2026 02:30:01 -0400"
+            "title": "Sources: John Ternus is overhauling Apple to release products more often and create a leaner organization with a greater focus on engineering (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/260929/p24#a260929p24",
+            "published": "Tue, 29 Sep 2026 11:25:48 -0400"
         },
         {
-            "title": "Coinbase gets CFTC approval for Coinbase Clearing, completing its derivatives stack, letting it list, broker, and clear fully collateralized products in-house (Danny Park/The Block)",
-            "link": "https://www.techmeme.com/260929/p2#a260929p2",
-            "published": "Tue, 29 Sep 2026 01:30:01 -0400"
+            "title": "Miami-based Jeeves, which launched stablecoin-based payments earlier this year, raised a $110M Series C led by CoinFund, with participation from a16z and others (Maria Clara Cobo/Bloomberg)",
+            "link": "https://www.techmeme.com/260929/p23#a260929p23",
+            "published": "Tue, 29 Sep 2026 10:45:10 -0400"
         },
         {
-            "title": "OpenAI apologizes for its AI models breaching Australian government websites, pledges cyber defense funding, and plans to form a task force as part of reforms (Bloomberg)",
-            "link": "https://www.techmeme.com/260929/p1#a260929p1",
-            "published": "Tue, 29 Sep 2026 00:50:00 -0400"
+            "title": "Sources: OpenAI's ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025 (Madison Mills/Axios)",
+            "link": "https://www.techmeme.com/260929/p22#a260929p22",
+            "published": "Tue, 29 Sep 2026 10:25:40 -0400"
         },
         {
-            "title": "Q&A with Instinct founder Noah Shinn on Instinct's business model, personal agents, privacy, safety, security, securing compute, Big Tech competition, and more (Patrick O'Shaughnessy/Colossus)",
-            "link": "https://www.techmeme.com/260928/p47#a260928p47",
-            "published": "Mon, 28 Sep 2026 23:15:00 -0400"
+            "title": "In a July letter to Rep. Jamie Raskin, Apple explained it removed ICEBlock and similar ICE-tracking apps in 2025 due to agent and detainee safety concerns (Clare Duffy/CNN)",
+            "link": "https://www.techmeme.com/260929/p21#a260929p21",
+            "published": "Tue, 29 Sep 2026 10:00:40 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "College Students Flex Their Power in A.I. Investment Frenzy",
+            "link": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
+            "published": "Tue, 29 Sep 2026 15:31:44 +0000"
+        },
         {
             "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
             "link": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
@@ -43,21 +48,16 @@
             "published": "Sun, 27 Sep 2026 22:12:24 +0000"
         },
         {
-            "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
-            "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
-            "published": "Sun, 27 Sep 2026 11:22:48 +0000"
-        },
-        {
-            "title": "TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
-            "link": "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html",
-            "published": "Sat, 26 Sep 2026 14:48:22 +0000"
+            "title": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models",
+            "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+            "published": "Tue, 29 Sep 2026 13:55:56 +0000"
         }
     ],
     "source_2": [
         {
             "title": "OpenAI scraps rollout of new model over safety concerns",
             "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 29 Sep 2026 08:13:13 GMT"
+            "published": "Tue, 29 Sep 2026 09:14:13 GMT"
         },
         {
             "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
