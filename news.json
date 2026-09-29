@@ -1,59 +1,69 @@
 {
     "techmeme": [
         {
-            "title": "Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
-            "link": "https://www.techmeme.com/260929/p25#a260929p25",
-            "published": "Tue, 29 Sep 2026 11:35:01 -0400"
+            "title": "Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)",
+            "link": "https://www.techmeme.com/260929/p47#a260929p47",
+            "published": "Tue, 29 Sep 2026 16:25:02 -0400"
         },
         {
-            "title": "Sources: John Ternus is overhauling Apple to release products more often and create a leaner organization with a greater focus on engineering (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/260929/p24#a260929p24",
-            "published": "Tue, 29 Sep 2026 11:25:48 -0400"
+            "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
+            "link": "https://www.techmeme.com/260929/p46#a260929p46",
+            "published": "Tue, 29 Sep 2026 16:15:07 -0400"
         },
         {
-            "title": "Miami-based Jeeves, which launched stablecoin-based payments earlier this year, raised a $110M Series C led by CoinFund, with participation from a16z and others (Maria Clara Cobo/Bloomberg)",
-            "link": "https://www.techmeme.com/260929/p23#a260929p23",
-            "published": "Tue, 29 Sep 2026 10:45:10 -0400"
+            "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API (Dannie Herzberg/Baseten)",
+            "link": "https://www.techmeme.com/260929/p45#a260929p45",
+            "published": "Tue, 29 Sep 2026 15:50:01 -0400"
         },
         {
-            "title": "Sources: OpenAI's ARR is nearing $70B, growing 70%+ since the beginning of Q3, with B2B revenue up 100%+; it added more consumer revenue in Q3 than all of 2025 (Madison Mills/Axios)",
-            "link": "https://www.techmeme.com/260929/p22#a260929p22",
-            "published": "Tue, 29 Sep 2026 10:25:40 -0400"
+            "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude (Elizabeth Dias/New York Times)",
+            "link": "https://www.techmeme.com/260929/p44#a260929p44",
+            "published": "Tue, 29 Sep 2026 15:20:01 -0400"
         },
         {
-            "title": "In a July letter to Rep. Jamie Raskin, Apple explained it removed ICEBlock and similar ICE-tracking apps in 2025 due to agent and detainee safety concerns (Clare Duffy/CNN)",
-            "link": "https://www.techmeme.com/260929/p21#a260929p21",
-            "published": "Tue, 29 Sep 2026 10:00:40 -0400"
+            "title": "Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)",
+            "link": "https://www.techmeme.com/260929/p43#a260929p43",
+            "published": "Tue, 29 Sep 2026 14:41:03 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "OpenAI Ignored Employees\u2019 Warnings About Safely Testing A.I. Models",
+            "link": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+            "published": "Tue, 29 Sep 2026 19:34:42 +0000"
+        },
+        {
+            "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta\u2019s Muse",
+            "link": "https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html",
+            "published": "Tue, 29 Sep 2026 18:29:40 +0000"
+        },
+        {
             "title": "College Students Flex Their Power in A.I. Investment Frenzy",
             "link": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
-            "published": "Tue, 29 Sep 2026 15:31:44 +0000"
-        },
-        {
-            "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
-            "link": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
-            "published": "Tue, 29 Sep 2026 00:32:19 +0000"
-        },
-        {
-            "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
-            "link": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
-            "published": "Mon, 28 Sep 2026 20:11:51 +0000"
-        },
-        {
-            "title": "Dario Amodei of Anthropic to Dine With Trump at White House",
-            "link": "https://www.nytimes.com/2026/09/27/us/politics/trump-amodei-anthropic-artificial-intelligence.html",
-            "published": "Sun, 27 Sep 2026 22:12:24 +0000"
+            "published": "Tue, 29 Sep 2026 15:31:45 +0000"
         },
         {
             "title": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models",
             "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-            "published": "Tue, 29 Sep 2026 13:55:56 +0000"
+            "published": "Tue, 29 Sep 2026 18:06:01 +0000"
+        },
+        {
+            "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
+            "link": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
+            "published": "Tue, 29 Sep 2026 19:55:20 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 19:17:43 GMT"
+        },
+        {
+            "title": "Oura pulls $15bn stock market listing days after announcement",
+            "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 17:17:07 GMT"
+        },
         {
             "title": "OpenAI scraps rollout of new model over safety concerns",
             "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "OpenAI bots meddled with multiple US government agency sites",
             "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 26 Sep 2026 02:50:56 GMT"
-        },
-        {
-            "title": "Inside iconic horror game Silent Hill's Scottish makeover",
-            "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 25 Sep 2026 23:34:20 GMT"
-        },
-        {
-            "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 25 Sep 2026 23:05:40 GMT"
         }
     ]
 }
