@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "AMD agrees to acquire Fei-Fei Li's World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist (Edward Ludlow/Bloomberg)",
-            "link": "https://www.techmeme.com/260928/p36#a260928p36",
-            "published": "Mon, 28 Sep 2026 16:17:41 -0400"
+            "title": "Sources on how SoftBank's $11B junk bond sale landed, despite investor questions about OpenAI's listing timeline, data center plans, and SB Energy's delayed IPO (Bloomberg)",
+            "link": "https://www.techmeme.com/260928/p45#a260928p45",
+            "published": "Mon, 28 Sep 2026 21:04:11 -0400"
         },
         {
-            "title": "Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation (Bloomberg)",
-            "link": "https://www.techmeme.com/260928/p35#a260928p35",
-            "published": "Mon, 28 Sep 2026 15:40:00 -0400"
+            "title": "IPO filing: Anthropic's seven co-founders will initially have 50.1% of the total voting power through a new \"Founder LLC\" aimed at serving the common good (Reuters)",
+            "link": "https://www.techmeme.com/260928/p44#a260928p44",
+            "published": "Mon, 28 Sep 2026 20:30:01 -0400"
         },
         {
-            "title": "Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia's $13B acquisition, but talks fell apart; AMD and Salesforce also held talks (Kate Rooney/CNBC)",
-            "link": "https://www.techmeme.com/260928/p34#a260928p34",
-            "published": "Mon, 28 Sep 2026 15:25:03 -0400"
+            "title": "Sen. Blumenthal-led report: Tether's USDT is central to Iran's shadow banking system; 87% of 757 \"terrorism\"-related wallets predominantly transacted in USDT (Sarah Wynn/The Block)",
+            "link": "https://www.techmeme.com/260928/p43#a260928p43",
+            "published": "Mon, 28 Sep 2026 20:15:01 -0400"
         },
         {
-            "title": "Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal agents, each with its own email, phone number, wallet, and computer (Micah Barkley/Bloomberg)",
-            "link": "https://www.techmeme.com/260928/p33#a260928p33",
-            "published": "Mon, 28 Sep 2026 15:00:01 -0400"
+            "title": "Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260928/p42#a260928p42",
+            "published": "Mon, 28 Sep 2026 19:56:13 -0400"
         },
         {
-            "title": "Anthropic releases Sonnet 5.5, saying it generates outputs 30%+ faster than Sonnet 5 and costs up to 30% less per task, and plans to release Haiku 5.5 soon (Anthropic)",
-            "link": "https://www.techmeme.com/260928/p32#a260928p32",
-            "published": "Mon, 28 Sep 2026 14:07:28 -0400"
+            "title": "Rep. Ro Khanna will introduce the Human Control Over AI Act, with strict liability and a ban on recursive self-improving AI until government safeguards exist (Garrett Downs/CNBC)",
+            "link": "https://www.techmeme.com/260928/p41#a260928p41",
+            "published": "Mon, 28 Sep 2026 19:55:10 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
+            "link": "https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html",
+            "published": "Tue, 29 Sep 2026 00:32:19 +0000"
+        },
         {
             "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever",
             "link": "https://www.nytimes.com/2026/09/28/business/nvidia-stock-buyback.html",
@@ -43,17 +48,17 @@
             "published": "Sun, 27 Sep 2026 11:22:48 +0000"
         },
         {
-            "title": "OpenAI\u2019s A.I. Went Rogue and Meddled With U.S. Government Websites",
-            "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
-            "published": "Sat, 26 Sep 2026 01:37:20 +0000"
-        },
-        {
             "title": "TikTok to Pay Alabama $100 Million to Settle Social Media Addiction Claims",
             "link": "https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html",
             "published": "Sat, 26 Sep 2026 14:48:22 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI scraps rollout of new model over safety concerns",
+            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 01:18:24 GMT"
+        },
         {
             "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
             "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
             "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 25 Sep 2026 23:05:40 GMT"
-        },
-        {
-            "title": "Special agents' blood and urine test results stolen in FBI hack",
-            "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 25 Sep 2026 13:56:16 GMT"
         }
     ]
 }
