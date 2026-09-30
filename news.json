@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures (Reuters)",
-            "link": "https://www.techmeme.com/260929/p56#a260929p56",
-            "published": "Tue, 29 Sep 2026 20:00:49 -0400"
+            "title": "Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions (Owen Walker/Financial Times)",
+            "link": "https://www.techmeme.com/260930/p8#a260930p8",
+            "published": "Wed, 30 Sep 2026 02:30:01 -0400"
         },
         {
-            "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)",
-            "link": "https://www.techmeme.com/260929/p55#a260929p55",
-            "published": "Tue, 29 Sep 2026 19:50:01 -0400"
+            "title": "Alibaba's ModelScope and OSChina's MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K (Viola Zhou/Rest of World)",
+            "link": "https://www.techmeme.com/260930/p7#a260930p7",
+            "published": "Wed, 30 Sep 2026 02:15:01 -0400"
         },
         {
-            "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together (Ronan Shields/Digiday)",
-            "link": "https://www.techmeme.com/260929/p54#a260929p54",
-            "published": "Tue, 29 Sep 2026 19:15:01 -0400"
+            "title": "Hands-on with Dots, OpenAI's work-focused agentic product: highly capable and intuitive, with natural-feeling conversations represented as a chat inside ChatGPT (Casey Newton/Platformer)",
+            "link": "https://www.techmeme.com/260930/p6#a260930p6",
+            "published": "Wed, 30 Sep 2026 02:05:00 -0400"
         },
         {
-            "title": "A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross' fair use defense for AI training (Blake Brittain/Reuters)",
-            "link": "https://www.techmeme.com/260929/p53#a260929p53",
-            "published": "Tue, 29 Sep 2026 19:00:49 -0400"
+            "title": "Sources: US-based PaleBlueDot AI is seeking $600M in private credit to buy chips for its South Korea site, to be used by Chinese social media app Xiaohongshu (Megawati Wijaya/Bloomberg)",
+            "link": "https://www.techmeme.com/260930/p5#a260930p5",
+            "published": "Wed, 30 Sep 2026 01:40:01 -0400"
         },
         {
-            "title": "Efficient Computer, which uses dataflow architectures to develop faster and more energy-efficient chips, raised a $97M Series B at a $650M valuation (Stephen Nellis/Reuters)",
-            "link": "https://www.techmeme.com/260929/p52#a260929p52",
-            "published": "Tue, 29 Sep 2026 18:40:00 -0400"
+            "title": "South Korea's Kospi was the world's worst-performing stock market in Q3, down 18.8% due to Samsung and SK Hynix sell-offs in early Q3, but remains up 60% YTD (Financial Times)",
+            "link": "https://www.techmeme.com/260930/p4#a260930p4",
+            "published": "Wed, 30 Sep 2026 01:25:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves",
             "link": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
-            "published": "Tue, 29 Sep 2026 23:20:43 +0000"
+            "published": "Tue, 29 Sep 2026 23:20:44 +0000"
         },
         {
             "title": "OpenAI Ignored Employees\u2019 Warnings About Safely Testing A.I. Models",
@@ -57,7 +57,12 @@
         {
             "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
             "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 29 Sep 2026 23:47:10 GMT"
+            "published": "Wed, 30 Sep 2026 05:18:13 GMT"
+        },
+        {
+            "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+            "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 04:01:52 GMT"
         },
         {
             "title": "Chinese AI tool told researchers how to make bioweapons",
@@ -73,11 +78,6 @@
             "title": "Oura pulls $15bn stock market listing days after announcement",
             "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 29 Sep 2026 17:17:07 GMT"
-        },
-        {
-            "title": "OpenAI scraps rollout of new model over safety concerns",
-            "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 29 Sep 2026 09:14:13 GMT"
         }
     ]
 }
