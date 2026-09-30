@@ -1,59 +1,69 @@
 {
     "techmeme": [
         {
-            "title": "Open Standard launches its OUSD stablecoin; founding partners Visa, Stripe, Mastercard, and Coinbase will offer initial access to businesses and developers (Ben Weiss/Bloomberg)",
-            "link": "https://www.techmeme.com/260930/p40#a260930p40",
-            "published": "Wed, 30 Sep 2026 14:35:02 -0400"
+            "title": "Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a \"distraction\" at OpenAI (New York Times)",
+            "link": "https://www.techmeme.com/260930/p50#a260930p50",
+            "published": "Wed, 30 Sep 2026 19:20:01 -0400"
         },
         {
-            "title": "Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering (Edward Ludlow/Bloomberg)",
-            "link": "https://www.techmeme.com/260930/p39#a260930p39",
-            "published": "Wed, 30 Sep 2026 14:10:01 -0400"
+            "title": "Sources: Trump's AI accord grew out of a talk between Zuckerberg and House Speaker Mike Johnson; Zuckerberg circulated a draft, and Huang helped build support (Ashley Gold/Semafor)",
+            "link": "https://www.techmeme.com/260930/p49#a260930p49",
+            "published": "Wed, 30 Sep 2026 18:45:00 -0400"
         },
         {
-            "title": "Miter, which provides workforce management tools for the construction industry, raised a $40M Series B led by Battery Ventures, taking its total funding to $78M (Chris Metinko/Axios)",
-            "link": "https://www.techmeme.com/260930/p38#a260930p38",
-            "published": "Wed, 30 Sep 2026 12:50:01 -0400"
+            "title": "Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it's important to be honest (Wall Street Journal)",
+            "link": "https://www.techmeme.com/260930/p48#a260930p48",
+            "published": "Wed, 30 Sep 2026 18:20:02 -0400"
         },
         {
-            "title": "CScale, which is developing optical interconnect for accelerators, emerges from stealth with a $145M Series C led by Atreides, Valor Equity, and Premji Invest (Dean Takahashi/GamesBeat)",
-            "link": "https://www.techmeme.com/260930/p37#a260930p37",
-            "published": "Wed, 30 Sep 2026 12:40:01 -0400"
+            "title": "Factory CEO Matan Grinberg alleges Cognition's new CRO Chris Degnan had been confiding with Cognition executives while advising Factory as a board observer (Rya Jetha/Business Insider)",
+            "link": "https://www.techmeme.com/260930/p47#a260930p47",
+            "published": "Wed, 30 Sep 2026 18:05:00 -0400"
         },
         {
-            "title": "Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)",
-            "link": "https://www.techmeme.com/260930/p36#a260930p36",
-            "published": "Wed, 30 Sep 2026 12:20:03 -0400"
+            "title": "Micron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates (CNBC)",
+            "link": "https://www.techmeme.com/260930/p46#a260930p46",
+            "published": "Wed, 30 Sep 2026 17:00:51 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI\u2019s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
+            "link": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html",
+            "published": "Wed, 30 Sep 2026 22:27:26 +0000"
+        },
         {
             "title": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
             "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
             "published": "Wed, 30 Sep 2026 09:00:48 +0000"
         },
         {
+            "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
+            "link": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
+            "published": "Wed, 30 Sep 2026 21:18:56 +0000"
+        },
+        {
             "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
             "link": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
-            "published": "Wed, 30 Sep 2026 18:43:51 +0000"
+            "published": "Wed, 30 Sep 2026 19:26:02 +0000"
         },
         {
-            "title": "DeepSeek and Huawei Target a Key Source of Nvidia\u2019s A.I. Dominance",
-            "link": "https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html",
-            "published": "Wed, 30 Sep 2026 17:58:07 +0000"
-        },
-        {
-            "title": "How to Listen to Your Favorite Music, Online or Off the Grid",
-            "link": "https://www.nytimes.com/2026/09/30/technology/personaltech/how-to-listen-to-your-favorite-music-online-or-off-the-grid.html",
-            "published": "Wed, 30 Sep 2026 09:03:07 +0000"
-        },
-        {
-            "title": "He Was a Tech Investor Before There Was a Silicon Valley",
-            "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-            "published": "Wed, 30 Sep 2026 18:52:24 +0000"
+            "title": "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate",
+            "link": "https://www.nytimes.com/2026/09/30/technology/google-gemini-4-argon-ai-safety.html",
+            "published": "Wed, 30 Sep 2026 20:24:33 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Tiny image sparks big backlash in Nikon photo contest",
+            "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 23:10:19 GMT"
+        },
+        {
+            "title": "The AI telling farmers when to harvest",
+            "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 30 Sep 2026 23:02:21 GMT"
+        },
         {
             "title": "Regulating AI 'not the right place to start' says Bailey",
             "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
             "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 30 Sep 2026 05:18:13 GMT"
-        },
-        {
-            "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-            "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 30 Sep 2026 04:01:52 GMT"
-        },
-        {
-            "title": "Chinese AI tool told researchers how to make bioweapons",
-            "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 29 Sep 2026 23:15:29 GMT"
         }
     ]
 }
