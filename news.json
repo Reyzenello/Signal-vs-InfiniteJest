@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)",
-            "link": "https://www.techmeme.com/260929/p47#a260929p47",
-            "published": "Tue, 29 Sep 2026 16:25:02 -0400"
+            "title": "Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures (Reuters)",
+            "link": "https://www.techmeme.com/260929/p56#a260929p56",
+            "published": "Tue, 29 Sep 2026 20:00:49 -0400"
         },
         {
-            "title": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
-            "link": "https://www.techmeme.com/260929/p46#a260929p46",
-            "published": "Tue, 29 Sep 2026 16:15:07 -0400"
+            "title": "Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment (Kanishka Singh/Reuters)",
+            "link": "https://www.techmeme.com/260929/p55#a260929p55",
+            "published": "Tue, 29 Sep 2026 19:50:01 -0400"
         },
         {
-            "title": "Baseten partners with OpenAI to let OpenAI enterprise customers use existing commitments for open models served by Baseten within Codex or via the Responses API (Dannie Herzberg/Baseten)",
-            "link": "https://www.techmeme.com/260929/p45#a260929p45",
-            "published": "Tue, 29 Sep 2026 15:50:01 -0400"
+            "title": "At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together (Ronan Shields/Digiday)",
+            "link": "https://www.techmeme.com/260929/p54#a260929p54",
+            "published": "Tue, 29 Sep 2026 19:15:01 -0400"
         },
         {
-            "title": "Interviews with Anthropic co-founder Christopher Olah and 20 religious and philosophical leaders about their summits to investigate consciousness in Claude (Elizabeth Dias/New York Times)",
-            "link": "https://www.techmeme.com/260929/p44#a260929p44",
-            "published": "Tue, 29 Sep 2026 15:20:01 -0400"
+            "title": "A US appeals court upholds a ruling for Thomson Reuters in its copyright lawsuit against Ross Intelligence, rejecting Ross' fair use defense for AI training (Blake Brittain/Reuters)",
+            "link": "https://www.techmeme.com/260929/p53#a260929p53",
+            "published": "Tue, 29 Sep 2026 19:00:49 -0400"
         },
         {
-            "title": "Sources: some potential Oura IPO investors decided to hold off, citing its ~$15B target valuation and poor post-listing performance of peers like Fitbit (Bloomberg)",
-            "link": "https://www.techmeme.com/260929/p43#a260929p43",
-            "published": "Tue, 29 Sep 2026 14:41:03 -0400"
+            "title": "Efficient Computer, which uses dataflow architectures to develop faster and more energy-efficient chips, raised a $97M Series B at a $650M valuation (Stephen Nellis/Reuters)",
+            "link": "https://www.techmeme.com/260929/p52#a260929p52",
+            "published": "Tue, 29 Sep 2026 18:40:00 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves",
+            "link": "https://www.nytimes.com/2026/09/29/us/politics/ai-trump-meta-microsoft-openai.html",
+            "published": "Tue, 29 Sep 2026 23:20:43 +0000"
+        },
+        {
             "title": "OpenAI Ignored Employees\u2019 Warnings About Safely Testing A.I. Models",
             "link": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
-            "published": "Tue, 29 Sep 2026 19:34:42 +0000"
+            "published": "Tue, 29 Sep 2026 22:53:40 +0000"
         },
         {
             "title": "OpenAI Unveils Dots, New A.I. Agents to Rival Meta\u2019s Muse",
@@ -43,11 +48,6 @@
             "published": "Tue, 29 Sep 2026 15:31:45 +0000"
         },
         {
-            "title": "Is Claude Conscious? Inside Anthropic\u2019s Quest to Instill Morality Into Its A.I. Models",
-            "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-            "published": "Tue, 29 Sep 2026 18:06:01 +0000"
-        },
-        {
             "title": "Ukrainian Science Academy, Struck by Drone, Played Key Role in Research",
             "link": "https://www.nytimes.com/2026/09/29/science/ukraine-science-academy-russia-attack.html",
             "published": "Tue, 29 Sep 2026 19:55:20 +0000"
@@ -55,9 +55,19 @@
     ],
     "source_2": [
         {
-            "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+            "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
             "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 29 Sep 2026 19:17:43 GMT"
+            "published": "Tue, 29 Sep 2026 23:47:10 GMT"
+        },
+        {
+            "title": "Chinese AI tool told researchers how to make bioweapons",
+            "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 23:15:29 GMT"
+        },
+        {
+            "title": "The start-ups hoping to return battery making to the US",
+            "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 29 Sep 2026 23:06:50 GMT"
         },
         {
             "title": "Oura pulls $15bn stock market listing days after announcement",
@@ -68,16 +78,6 @@
             "title": "OpenAI scraps rollout of new model over safety concerns",
             "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 29 Sep 2026 09:14:13 GMT"
-        },
-        {
-            "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
-            "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 28 Sep 2026 11:16:08 GMT"
-        },
-        {
-            "title": "OpenAI bots meddled with multiple US government agency sites",
-            "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 26 Sep 2026 02:50:56 GMT"
         }
     ]
 }
