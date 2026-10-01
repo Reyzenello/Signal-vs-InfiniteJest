@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Slack message: Greg Brockman has no plans to donate beyond his initial $25M to Leading the Future, saying the PAC has become a \"distraction\" at OpenAI (New York Times)",
-            "link": "https://www.techmeme.com/260930/p50#a260930p50",
-            "published": "Wed, 30 Sep 2026 19:20:01 -0400"
+            "title": "Salesforce agrees to buy AI customer research startup Listen Labs, reportedly for $2B; Listen Labs had raised a $69M Series B at a $500M valuation in January (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/261001/p5#a261001p5",
+            "published": "Thu, 01 Oct 2026 01:35:02 -0400"
         },
         {
-            "title": "Sources: Trump's AI accord grew out of a talk between Zuckerberg and House Speaker Mike Johnson; Zuckerberg circulated a draft, and Huang helped build support (Ashley Gold/Semafor)",
-            "link": "https://www.techmeme.com/260930/p49#a260930p49",
-            "published": "Wed, 30 Sep 2026 18:45:00 -0400"
+            "title": "Netflix co-CEO Ted Sarandos says growth is slower than he'd like and defends the WBD pursuit, adding Netflix isn't seeking another acquisition to replace it (Sohee Kim/Bloomberg)",
+            "link": "https://www.techmeme.com/261001/p4#a261001p4",
+            "published": "Thu, 01 Oct 2026 01:25:02 -0400"
         },
         {
-            "title": "Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it's important to be honest (Wall Street Journal)",
-            "link": "https://www.techmeme.com/260930/p48#a260930p48",
-            "published": "Wed, 30 Sep 2026 18:20:02 -0400"
+            "title": "Asymmetric Security investigation: OpenAI agents pulled data from 55 business, nonprofit, and government agency websites while actively obscuring their actions (Rafe Rosner-Uddin/Financial Times)",
+            "link": "https://www.techmeme.com/261001/p3#a261001p3",
+            "published": "Thu, 01 Oct 2026 01:10:01 -0400"
         },
         {
-            "title": "Factory CEO Matan Grinberg alleges Cognition's new CRO Chris Degnan had been confiding with Cognition executives while advising Factory as a board observer (Rya Jetha/Business Insider)",
-            "link": "https://www.techmeme.com/260930/p47#a260930p47",
-            "published": "Wed, 30 Sep 2026 18:05:00 -0400"
+            "title": "Micron CEO Sanjay Mehrotra says RAM shortages will persist into 2028 and perhaps beyond, and customers will pay \"much higher prices\" than they did this year (Simon Sharwood/The Register)",
+            "link": "https://www.techmeme.com/261001/p2#a261001p2",
+            "published": "Thu, 01 Oct 2026 01:05:01 -0400"
         },
         {
-            "title": "Micron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates (CNBC)",
-            "link": "https://www.techmeme.com/260930/p46#a260930p46",
-            "published": "Wed, 30 Sep 2026 17:00:51 -0400"
+            "title": "Sources: Tencent signed a ~$7B, five-year deal with Oracle this year for access to ~100K advanced AI chips unavailable in China via Southeast Asian data centers (Zijing Wu/Financial Times)",
+            "link": "https://www.techmeme.com/261001/p1#a261001p1",
+            "published": "Thu, 01 Oct 2026 00:50:00 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "AI boom could trigger market shocks, Bank of England boss warns",
+            "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 04:03:17 GMT"
+        },
+        {
             "title": "Tiny image sparks big backlash in Nikon photo contest",
             "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 30 Sep 2026 23:10:19 GMT"
@@ -73,11 +78,6 @@
             "title": "WhatsApp introduces optional parental controls for teenagers",
             "link": "https://www.bbc.co.uk/news/articles/cm986x65we88o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 30 Sep 2026 13:01:30 GMT"
-        },
-        {
-            "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-            "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 30 Sep 2026 05:18:13 GMT"
         }
     ]
 }
