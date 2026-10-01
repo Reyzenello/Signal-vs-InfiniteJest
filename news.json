@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "A profile of Nubank founder David V\u00e9lez, who graduated from Stanford, worked at Sequoia, and moved to Brazil to start the bank in 2013, as Nubank enters the US (Gabi Marques/Colossus)",
-            "link": "https://www.techmeme.com/261001/p19#a261001p19",
-            "published": "Thu, 01 Oct 2026 08:55:02 -0400"
+            "title": "Strands Labs, AWS's experimental agent-development project, unveils Strands Decider 2B, a free, open-source Jev competitor fine-tuned from an Alibaba Qwen base (Carl Franzen/VentureBeat)",
+            "link": "https://www.techmeme.com/261001/p32#a261001p32",
+            "published": "Thu, 01 Oct 2026 14:15:02 -0400"
         },
         {
-            "title": "Micron filed a US lawsuit accusing Chinese memory maker YMTC of systematically poaching key engineers and then using the engineers' patents to sue Micron (Anton Shilov/Tom's Hardware)",
-            "link": "https://www.techmeme.com/261001/p18#a261001p18",
-            "published": "Thu, 01 Oct 2026 08:00:48 -0400"
+            "title": "Sources: Anthropic could start formal marketing for its IPO as soon as the week of November 9, putting it in line to begin trading before Thanksgiving (Bailey Lipschultz/Bloomberg)",
+            "link": "https://www.techmeme.com/261001/p31#a261001p31",
+            "published": "Thu, 01 Oct 2026 13:37:27 -0400"
         },
         {
-            "title": "Armadin, started by Mandiant founder Kevin Mandia to build AI cybersecurity agents, raised a $255.5M Series B led by a16z and Accel at a $2.5B valuation (Anzar Mehraj/Reuters)",
-            "link": "https://www.techmeme.com/261001/p17#a261001p17",
-            "published": "Thu, 01 Oct 2026 07:40:02 -0400"
+            "title": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)",
+            "link": "https://www.techmeme.com/261001/p30#a261001p30",
+            "published": "Thu, 01 Oct 2026 13:15:03 -0400"
         },
         {
-            "title": "After a four-month US prison sentence, Changpeng Zhao is now living a gilded life in Abu Dhabi; he retains majority ownership of Binance and a $10B+ net worth (David Yaffe-Bellany/New York Times)",
-            "link": "https://www.techmeme.com/261001/p16#a261001p16",
-            "published": "Thu, 01 Oct 2026 06:55:00 -0400"
+            "title": "Gavin Newsom vetoes a CA bill banning secret recording with smart glasses in private places, saying its definition of wearable recording devices was too broad (Sophie Austin/Associated Press)",
+            "link": "https://www.techmeme.com/261001/p29#a261001p29",
+            "published": "Thu, 01 Oct 2026 12:55:05 -0400"
         },
         {
-            "title": "Sources: EU regulators are questioning Binance over its use of a legal exemption to continue serving customers in the region despite failing to secure a license (Financial Times)",
-            "link": "https://www.techmeme.com/261001/p15#a261001p15",
-            "published": "Thu, 01 Oct 2026 06:40:02 -0400"
+            "title": "OpenAI says it \"parted ways\" with three researchers for violating its \"handling sensitive\" info policies; sources: they shared it with an AI safety organization (Wall Street Journal)",
+            "link": "https://www.techmeme.com/261001/p28#a261001p28",
+            "published": "Thu, 01 Oct 2026 12:31:53 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside Binance Founder Changpeng Zhao\u2019s Life After Prison",
+            "link": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
+            "published": "Thu, 01 Oct 2026 11:55:56 +0000"
+        },
+        {
+            "title": "Who\u2019s to Blame When A.I. Goes Rogue?",
+            "link": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
+            "published": "Thu, 01 Oct 2026 15:40:09 +0000"
+        },
         {
             "title": "OpenAI\u2019s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
             "link": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html",
@@ -38,19 +48,9 @@
             "published": "Wed, 30 Sep 2026 09:00:48 +0000"
         },
         {
-            "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
-            "link": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
-            "published": "Wed, 30 Sep 2026 21:18:56 +0000"
-        },
-        {
-            "title": "F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms",
-            "link": "https://www.nytimes.com/2026/09/30/technology/ftc-openai-anthropic-investigation.html",
-            "published": "Wed, 30 Sep 2026 19:26:02 +0000"
-        },
-        {
-            "title": "What\u2019s Next for \u2018Hard Fork\u2019?",
-            "link": "https://www.nytimes.com/2026/10/01/podcasts/hard-fork-whats-next.html",
-            "published": "Thu, 01 Oct 2026 11:00:22 +0000"
+            "title": "Swedish Company Uses A.I. Likeness of Greta Garbo in Ad",
+            "link": "https://www.nytimes.com/2026/10/01/world/europe/ai-garbo-ad-sweden-skf.html",
+            "published": "Thu, 01 Oct 2026 16:14:50 +0000"
         }
     ],
     "source_2": [
