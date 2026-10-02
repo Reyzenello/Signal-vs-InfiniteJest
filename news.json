@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash (Microsoft AI)",
-            "link": "https://www.techmeme.com/261001/p42#a261001p42",
-            "published": "Thu, 01 Oct 2026 19:00:00 -0400"
+            "title": "Sources: Amazon has held talks with investors about a deal to spin off $8B of Grace Blackwell chips into an SPV, then lease them back for its US data centers (Financial Times)",
+            "link": "https://www.techmeme.com/261002/p2#a261002p2",
+            "published": "Fri, 02 Oct 2026 01:10:02 -0400"
         },
         {
-            "title": "New Mexico asks a judge to order Meta to pay up to $40B after a jury found it willfully deceived customers, in what could be the biggest US court penalty ever (KRQE)",
-            "link": "https://www.techmeme.com/261001/p41#a261001p41",
-            "published": "Thu, 01 Oct 2026 18:45:01 -0400"
+            "title": "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
+            "link": "https://www.techmeme.com/261002/p1#a261002p1",
+            "published": "Fri, 02 Oct 2026 00:55:00 -0400"
         },
         {
-            "title": "The US sanctions Russia-backed payment network A7, freezing its US assets and accusing it of enabling Iran and its proxy groups to evade western sanctions (Amy Mackinnon/Financial Times)",
-            "link": "https://www.techmeme.com/261001/p40#a261001p40",
-            "published": "Thu, 01 Oct 2026 18:35:01 -0400"
+            "title": "Experts say mounting cases of Nvidia chips reaching Chinese AI companies despite US export controls are increasingly pointing to gaps in Nvidia's due diligence (Mackenzie Hawkins/Bloomberg)",
+            "link": "https://www.techmeme.com/261001/p49#a261001p49",
+            "published": "Thu, 01 Oct 2026 23:30:08 -0400"
         },
         {
-            "title": "Source: some of the information that the three OpenAI employees allegedly mishandled pertained to OpenAI's infrastructure architecture (Rachel Metz/Bloomberg)",
-            "link": "https://www.techmeme.com/261001/p39#a261001p39",
-            "published": "Thu, 01 Oct 2026 17:55:00 -0400"
+            "title": "Cloudflare debuts open-weight multimodal decision models Clef and Clef-flash, claiming they are smarter and faster than Jev, based on Qwen3.8-27B and Qwen3.5-9B (Brandon Vigliarolo/The Register)",
+            "link": "https://www.techmeme.com/261001/p48#a261001p48",
+            "published": "Thu, 01 Oct 2026 22:35:00 -0400"
         },
         {
-            "title": "Lyft agrees to pay $272.5M to settle California claims that it mislabeled drivers as independent contractors rather than employees between 2016 and 2020 (Daniel Wiessner/Reuters)",
-            "link": "https://www.techmeme.com/261001/p38#a261001p38",
-            "published": "Thu, 01 Oct 2026 17:45:01 -0400"
+            "title": "OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents (Arasu Kannagi Basil/Reuters)",
+            "link": "https://www.techmeme.com/261001/p47#a261001p47",
+            "published": "Thu, 01 Oct 2026 21:55:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,20 @@
         {
             "title": "Amazon Settles Lawsuit Over Claims of Slow Deliveries to Low-Income Areas",
             "link": "https://www.nytimes.com/2026/10/01/technology/amazon-slow-deliveries-dc.html",
-            "published": "Thu, 01 Oct 2026 19:17:51 +0000"
+            "published": "Thu, 01 Oct 2026 19:17:52 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI fires workers for mishandling 'sensitive information'",
+            "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 02 Oct 2026 01:34:56 GMT"
+        },
+        {
+            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 01 Oct 2026 23:45:06 GMT"
+        },
         {
             "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
             "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Tiny image sparks big backlash in Nikon photo contest",
             "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 30 Sep 2026 23:10:19 GMT"
-        },
-        {
-            "title": "The AI telling farmers when to harvest",
-            "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 30 Sep 2026 23:02:21 GMT"
-        },
-        {
-            "title": "Regulating AI 'not the right place to start' says Bailey",
-            "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 30 Sep 2026 14:00:33 GMT"
         }
     ]
 }
