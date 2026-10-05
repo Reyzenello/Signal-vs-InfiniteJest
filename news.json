@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Q&A with Google SVP and DeepMind Institute co-director James Manyika on AI risks and why responsibility must be shared across industry, government, and society (Mishal Husain/Bloomberg)",
+            "link": "https://www.techmeme.com/261004/p21#a261004p21",
+            "published": "Sun, 04 Oct 2026 20:55:01 -0400"
+        },
+        {
+            "title": "Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~\u00a310B valuation Monzo sought (Laith Al-Khalaf/Financial Times)",
+            "link": "https://www.techmeme.com/261004/p20#a261004p20",
+            "published": "Sun, 04 Oct 2026 18:55:01 -0400"
+        },
+        {
             "title": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI's benefits justify accepting some risks (Politico)",
             "link": "https://www.techmeme.com/261004/p19#a261004p19",
             "published": "Sun, 04 Oct 2026 17:55:01 -0400"
@@ -14,16 +24,6 @@
             "title": "Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday (Financial Times)",
             "link": "https://www.techmeme.com/261004/p17#a261004p17",
             "published": "Sun, 04 Oct 2026 17:05:12 -0400"
-        },
-        {
-            "title": "Extracted system prompts show Meta's Muse compiles \"a page for every person in the user's life\", with facts, history, tips to improve relationships, and more (Wired)",
-            "link": "https://www.techmeme.com/261004/p16#a261004p16",
-            "published": "Sun, 04 Oct 2026 15:30:01 -0400"
-        },
-        {
-            "title": "Sources: Apple and Google pitch state bills with self-attested age checks and no private lawsuits; Meta backs ones making app stores, not platforms, verify ages (Owen Dahlkamp/Politico)",
-            "link": "https://www.techmeme.com/261004/p15#a261004p15",
-            "published": "Sun, 04 Oct 2026 14:55:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Trump announces 'Super Intelligence Force' to oversee AI policy",
+            "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 01:33:08 GMT"
+        },
+        {
             "title": "OpenAI fires workers for 'mishandling sensitive information'",
             "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 02 Oct 2026 08:20:32 GMT"
@@ -73,11 +78,6 @@
             "title": "AI boom could trigger market shocks, Bank of England boss warns",
             "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 01 Oct 2026 10:05:25 GMT"
-        },
-        {
-            "title": "Tiny image sparks big backlash in Nikon photo contest",
-            "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 30 Sep 2026 23:10:19 GMT"
         }
     ]
 }
