@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "An interview with CoreWeave Physical AI SVP Richard Ahlfeld on AI models failing real-world checks, the roles of synthetic data and physical tests, and more (Superintelligence)",
-            "link": "https://www.techmeme.com/261005/p6#a261005p6",
-            "published": "Mon, 05 Oct 2026 04:45:01 -0400"
+            "title": "Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)",
+            "link": "https://www.techmeme.com/261005/p27#a261005p27",
+            "published": "Mon, 05 Oct 2026 13:51:09 -0400"
         },
         {
-            "title": "A look at China's gray market of token resellers, who use accumulated identities and USDT-funded cards to obtain Claude accounts and route them through proxies (The Information)",
-            "link": "https://www.techmeme.com/261005/p5#a261005p5",
-            "published": "Mon, 05 Oct 2026 04:10:01 -0400"
+            "title": "The CFTC proposes a federal framework for crypto exchanges to offer retail customers leveraged and margined spot trading, without requiring congressional action (Jason Shubnell/The Block)",
+            "link": "https://www.techmeme.com/261005/p26#a261005p26",
+            "published": "Mon, 05 Oct 2026 12:40:00 -0400"
         },
         {
-            "title": "A look at Alpha, an invite-only Discord server of ~30 mostly Gen Z Polymarket traders who pool research and capital and have made an estimated $40M since 2024 (Niamh Rowe/Financial Times)",
-            "link": "https://www.techmeme.com/261005/p4#a261005p4",
-            "published": "Mon, 05 Oct 2026 03:50:42 -0400"
+            "title": "An official says the DOD has stopped using Anthropic's tools; sources: Claude was in use as recently as last week, including in military operations against Iran (BBC)",
+            "link": "https://www.techmeme.com/261005/p25#a261005p25",
+            "published": "Mon, 05 Oct 2026 12:30:01 -0400"
         },
         {
-            "title": "Sam Altman says he's \"very uncomfortable\" with attributing religious force to AI, calling it \"a real safety issue\", as Anthropic engages with religious leaders (Ben Berkowitz/Axios)",
-            "link": "https://www.techmeme.com/261005/p3#a261005p3",
-            "published": "Mon, 05 Oct 2026 02:10:01 -0400"
+            "title": "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)",
+            "link": "https://www.techmeme.com/261005/p24#a261005p24",
+            "published": "Mon, 05 Oct 2026 12:21:02 -0400"
         },
         {
-            "title": "OKX and ICE's joint venture OKXICE is seeking SEC approval to offer tokenized shares of 63 NYSE-listed firms, as it leverages new US rules on tokenized stocks (Scott Patterson/Bloomberg)",
-            "link": "https://www.techmeme.com/261005/p2#a261005p2",
-            "published": "Mon, 05 Oct 2026 02:05:35 -0400"
+            "title": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)",
+            "link": "https://www.techmeme.com/261005/p23#a261005p23",
+            "published": "Mon, 05 Oct 2026 12:10:01 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,21 @@
             "published": "Wed, 30 Sep 2026 09:00:48 +0000"
         },
         {
-            "title": "Court Tosses \u200b\u200bSentence After A.I. Video of Victim \u2018Forgiving\u2019 His Killer Is Played",
-            "link": "https://www.nytimes.com/2026/10/04/us/manslaughter-conviction-overturned-ai-video-statement.html",
-            "published": "Sun, 04 Oct 2026 21:04:44 +0000"
+            "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
+            "link": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+            "published": "Mon, 05 Oct 2026 12:57:32 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+            "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+            "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 05 Oct 2026 16:13:21 GMT"
+        },
+        {
+            "title": "Trump chooses top spy boss to run new AI taskforce",
             "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 05 Oct 2026 06:15:29 GMT"
+            "published": "Mon, 05 Oct 2026 10:03:38 GMT"
         },
         {
             "title": "OpenAI fires workers for 'mishandling sensitive information'",
@@ -73,11 +78,6 @@
             "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
             "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 01 Oct 2026 11:37:46 GMT"
-        },
-        {
-            "title": "AI boom could trigger market shocks, Bank of England boss warns",
-            "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 01 Oct 2026 10:05:25 GMT"
         }
     ]
 }
