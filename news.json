@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Anduril lands an up to $2.9B US Navy contract to make Virginia-class submarine components, days after Palmer Luckey was named to a DOD future weapons task force (Samantha Subin/CNBC)",
-            "link": "https://www.techmeme.com/261006/p23#a261006p23",
-            "published": "Tue, 06 Oct 2026 10:30:01 -0400"
+            "title": "Anthropic says it found 5.5K+ verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)",
+            "link": "https://www.techmeme.com/261006/p36#a261006p36",
+            "published": "Tue, 06 Oct 2026 16:00:49 -0400"
         },
         {
-            "title": "Mistral releases Mistral Large 4, dubbed \"le Chonk\", a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Grace Blackwell GPUs (Sabrina Ortiz/The Deep View)",
-            "link": "https://www.techmeme.com/261006/p22#a261006p22",
-            "published": "Tue, 06 Oct 2026 09:08:33 -0400"
+            "title": "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27 (Carl Franzen/VentureBeat)",
+            "link": "https://www.techmeme.com/261006/p34#a261006p34",
+            "published": "Tue, 06 Oct 2026 15:45:01 -0400"
         },
         {
-            "title": "Uber agrees to acquire Boston-based catering platform ezCater for $2.3B in cash to help Uber Eats reach corporate clients; the deal is set to close in months (Natalie Lung/Bloomberg)",
-            "link": "https://www.techmeme.com/261006/p21#a261006p21",
-            "published": "Tue, 06 Oct 2026 09:00:57 -0400"
+            "title": "Sources: Waymo increased the size of its inaugural debt raise from $3B+ to $5B, as it grapples with rising AI costs and rapidly expands its robotaxi fleet (Bloomberg)",
+            "link": "https://www.techmeme.com/261006/p35#a261006p35",
+            "published": "Tue, 06 Oct 2026 15:45:01 -0400"
         },
         {
-            "title": "UK retailer Asos' stock falls 10%+ after users got app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)",
-            "link": "https://www.techmeme.com/261006/p20#a261006p20",
-            "published": "Tue, 06 Oct 2026 08:50:01 -0400"
+            "title": "Anthropic integrates its Cyber Verification Program and Project Glasswing into a new, expanded version of CVP, with three tiers and access to its latest models (Anthropic)",
+            "link": "https://www.techmeme.com/261006/p33#a261006p33",
+            "published": "Tue, 06 Oct 2026 15:35:03 -0400"
         },
         {
-            "title": "Anthropic's IPO prospectus: Dario Amodei made $18M in 2025, ranking in the middle of top tech executives, and President Daniela Amodei, his sister, made $16.4M (Reuters)",
-            "link": "https://www.techmeme.com/261006/p19#a261006p19",
-            "published": "Tue, 06 Oct 2026 08:05:01 -0400"
+            "title": "Mistral says ML4 was trained using 3,800 Nvidia Grace Blackwell GPUs in its own data centers in Europe and much of its training data was multilingual (Mistral Blog)",
+            "link": "https://www.techmeme.com/261006/p32#a261006p32",
+            "published": "Tue, 06 Oct 2026 15:00:52 -0400"
         }
     ],
     "source_1": [
@@ -48,21 +48,26 @@
             "published": "Wed, 30 Sep 2026 09:00:48 +0000"
         },
         {
-            "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
-            "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
-            "published": "Tue, 06 Oct 2026 09:03:19 +0000"
+            "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
+            "link": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+            "published": "Tue, 06 Oct 2026 19:37:08 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
+            "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 17:50:19 GMT"
+        },
+        {
+            "title": "Finland orders halt to work on two Google data centres",
+            "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 17:15:46 GMT"
+        },
+        {
             "title": "Italian PM files to trademark her voice against AI threats",
             "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 06 Oct 2026 11:24:10 GMT"
-        },
-        {
-            "title": "ASOS app users receive push notifications apparently sent by hackers",
-            "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 06 Oct 2026 10:37:50 GMT"
         },
         {
             "title": "Ofcom investigates Meta over Instagram Instants feature",
@@ -73,11 +78,6 @@
             "title": "Lego fraudster among last year's most high-profile insurance scammers",
             "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 06 Oct 2026 07:03:35 GMT"
-        },
-        {
-            "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-            "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 05 Oct 2026 16:13:21 GMT"
         }
     ]
 }
