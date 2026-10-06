@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August (Marina Temkin/TechCrunch)",
-            "link": "https://www.techmeme.com/261005/p34#a261005p34",
-            "published": "Mon, 05 Oct 2026 19:25:02 -0400"
+            "title": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable (Lee Harris/Financial Times)",
+            "link": "https://www.techmeme.com/261006/p3#a261006p3",
+            "published": "Tue, 06 Oct 2026 02:30:00 -0400"
         },
         {
-            "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
-            "link": "https://www.techmeme.com/261005/p33#a261005p33",
-            "published": "Mon, 05 Oct 2026 18:20:02 -0400"
+            "title": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
+            "link": "https://www.techmeme.com/261006/p2#a261006p2",
+            "published": "Tue, 06 Oct 2026 01:40:01 -0400"
         },
         {
-            "title": "SpaceX stock closes up 7.6% after Morgan Stanley called SPCX \"cheap\", reaching its highest level since mid-June and returning Elon Musk to trillionaire status (Lora Kolodny/CNBC)",
-            "link": "https://www.techmeme.com/261005/p32#a261005p32",
-            "published": "Mon, 05 Oct 2026 16:45:01 -0400"
+            "title": "Sources: Seagate and Toshiba are bidding for TDK's HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand (Bloomberg)",
+            "link": "https://www.techmeme.com/261006/p1#a261006p1",
+            "published": "Tue, 06 Oct 2026 01:00:14 -0400"
         },
         {
-            "title": "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)",
-            "link": "https://www.techmeme.com/261005/p31#a261005p31",
-            "published": "Mon, 05 Oct 2026 16:05:01 -0400"
+            "title": "Singapore-based data center operator DayOne files for a US IPO, reporting its H1 revenue more than tripled YoY to $512M while its net loss widened to $77.2M (Pragyan Kalita/Reuters)",
+            "link": "https://www.techmeme.com/261005/p36#a261005p36",
+            "published": "Mon, 05 Oct 2026 23:50:00 -0400"
         },
         {
-            "title": "NY-based Reflection unveils Beam, an open model it claims rivals GLM 5.2 on reasoning while using 3x-4x less compute and approaches Qwen3.8-Max on agentic tasks (Semafor)",
-            "link": "https://www.techmeme.com/261005/p30#a261005p30",
-            "published": "Mon, 05 Oct 2026 15:25:01 -0400"
+            "title": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)",
+            "link": "https://www.techmeme.com/261005/p35#a261005p35",
+            "published": "Mon, 05 Oct 2026 23:10:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 30 Sep 2026 09:00:48 +0000"
         },
         {
-            "title": "The Humanoid Robot Future Has Arrived at a South Korean Park. Sort of.",
-            "link": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
-            "published": "Mon, 05 Oct 2026 12:57:32 +0000"
+            "title": "South Korea Investigates Possible Use of A.I. in Hacks on Its Banks",
+            "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+            "published": "Tue, 06 Oct 2026 06:12:45 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Lego fraudster among last year's most high-profile insurance scammers",
+            "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 07:03:35 GMT"
+        },
         {
             "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
             "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
             "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 01 Oct 2026 23:45:06 GMT"
-        },
-        {
-            "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-            "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 01 Oct 2026 11:37:46 GMT"
         }
     ]
 }
