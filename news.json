@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable (Lee Harris/Financial Times)",
-            "link": "https://www.techmeme.com/261006/p3#a261006p3",
-            "published": "Tue, 06 Oct 2026 02:30:00 -0400"
+            "title": "Anduril lands an up to $2.9B US Navy contract to make Virginia-class submarine components, days after Palmer Luckey was named to a DOD future weapons task force (Samantha Subin/CNBC)",
+            "link": "https://www.techmeme.com/261006/p23#a261006p23",
+            "published": "Tue, 06 Oct 2026 10:30:01 -0400"
         },
         {
-            "title": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
-            "link": "https://www.techmeme.com/261006/p2#a261006p2",
-            "published": "Tue, 06 Oct 2026 01:40:01 -0400"
+            "title": "Mistral releases Mistral Large 4, dubbed \"le Chonk\", a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Grace Blackwell GPUs (Sabrina Ortiz/The Deep View)",
+            "link": "https://www.techmeme.com/261006/p22#a261006p22",
+            "published": "Tue, 06 Oct 2026 09:08:33 -0400"
         },
         {
-            "title": "Sources: Seagate and Toshiba are bidding for TDK's HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand (Bloomberg)",
-            "link": "https://www.techmeme.com/261006/p1#a261006p1",
-            "published": "Tue, 06 Oct 2026 01:00:14 -0400"
+            "title": "Uber agrees to acquire Boston-based catering platform ezCater for $2.3B in cash to help Uber Eats reach corporate clients; the deal is set to close in months (Natalie Lung/Bloomberg)",
+            "link": "https://www.techmeme.com/261006/p21#a261006p21",
+            "published": "Tue, 06 Oct 2026 09:00:57 -0400"
         },
         {
-            "title": "Singapore-based data center operator DayOne files for a US IPO, reporting its H1 revenue more than tripled YoY to $512M while its net loss widened to $77.2M (Pragyan Kalita/Reuters)",
-            "link": "https://www.techmeme.com/261005/p36#a261005p36",
-            "published": "Mon, 05 Oct 2026 23:50:00 -0400"
+            "title": "UK retailer Asos' stock falls 10%+ after users got app notifications saying \"we have fully compromised the Snowflake instance\"; source: Asos is investigating (Financial Times)",
+            "link": "https://www.techmeme.com/261006/p20#a261006p20",
+            "published": "Tue, 06 Oct 2026 08:50:01 -0400"
         },
         {
-            "title": "Sources: Moonshot AI closes its final private funding round at a ~$50B valuation and is targeting a Hong Kong IPO in Q1 2027 to raise up to $5B (Bloomberg)",
-            "link": "https://www.techmeme.com/261005/p35#a261005p35",
-            "published": "Mon, 05 Oct 2026 23:10:01 -0400"
+            "title": "Anthropic's IPO prospectus: Dario Amodei made $18M in 2025, ranking in the middle of top tech executives, and President Daniela Amodei, his sister, made $16.4M (Reuters)",
+            "link": "https://www.techmeme.com/261006/p19#a261006p19",
+            "published": "Tue, 06 Oct 2026 08:05:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,27 @@
             "published": "Wed, 30 Sep 2026 09:00:48 +0000"
         },
         {
-            "title": "South Korea Investigates Possible Use of A.I. in Hacks on Its Banks",
-            "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
-            "published": "Tue, 06 Oct 2026 06:12:45 +0000"
+            "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+            "link": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+            "published": "Tue, 06 Oct 2026 09:03:19 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Italian PM files to trademark her voice against AI threats",
+            "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 11:24:10 GMT"
+        },
+        {
+            "title": "ASOS app users receive push notifications apparently sent by hackers",
+            "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 10:37:50 GMT"
+        },
+        {
+            "title": "Ofcom investigates Meta over Instagram Instants feature",
+            "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 09:04:02 GMT"
+        },
         {
             "title": "Lego fraudster among last year's most high-profile insurance scammers",
             "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
             "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 05 Oct 2026 16:13:21 GMT"
-        },
-        {
-            "title": "Trump chooses top spy boss to run new AI taskforce",
-            "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 05 Oct 2026 10:03:38 GMT"
-        },
-        {
-            "title": "OpenAI fires workers for 'mishandling sensitive information'",
-            "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 02 Oct 2026 08:20:32 GMT"
-        },
-        {
-            "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-            "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 01 Oct 2026 23:45:06 GMT"
         }
     ]
 }
