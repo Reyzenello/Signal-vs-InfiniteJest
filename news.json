@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic says it found 5.5K+ verified vulnerabilities in April-October and Glasswing partners found 129K+ in April-July; 33K+ were critical or high severity (Reuters)",
-            "link": "https://www.techmeme.com/261006/p36#a261006p36",
-            "published": "Tue, 06 Oct 2026 16:00:49 -0400"
+            "title": "New York-based Melius, which provides AI tools for generating ad campaigns, images, and videos, raised $25M, including a $20M Series A and a $5M seed (Marina Temkin/TechCrunch)",
+            "link": "https://www.techmeme.com/261006/p47#a261006p47",
+            "published": "Tue, 06 Oct 2026 20:15:00 -0400"
         },
         {
-            "title": "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27 (Carl Franzen/VentureBeat)",
-            "link": "https://www.techmeme.com/261006/p34#a261006p34",
-            "published": "Tue, 06 Oct 2026 15:45:01 -0400"
+            "title": "OpenAI says its internal model produced 372 math results, nearly all from a single prompt handed to a single AI agent; some might have taken multiple attempts (Joseph Howlett/Scientific American)",
+            "link": "https://www.techmeme.com/261006/p46#a261006p46",
+            "published": "Tue, 06 Oct 2026 19:55:02 -0400"
         },
         {
-            "title": "Sources: Waymo increased the size of its inaugural debt raise from $3B+ to $5B, as it grapples with rising AI costs and rapidly expands its robotaxi fleet (Bloomberg)",
-            "link": "https://www.techmeme.com/261006/p35#a261006p35",
-            "published": "Tue, 06 Oct 2026 15:45:01 -0400"
+            "title": "Google releases Nano Banana 2.1, based on Gemini 3.6 Flash, saying it improves on previous versions \"across the board\"; pricing is ~50% lower vs. Nano Banana 2 (Matthias Bastian/The Decoder)",
+            "link": "https://www.techmeme.com/261006/p45#a261006p45",
+            "published": "Tue, 06 Oct 2026 19:20:01 -0400"
         },
         {
-            "title": "Anthropic integrates its Cyber Verification Program and Project Glasswing into a new, expanded version of CVP, with three tiers and access to its latest models (Anthropic)",
-            "link": "https://www.techmeme.com/261006/p33#a261006p33",
-            "published": "Tue, 06 Oct 2026 15:35:03 -0400"
+            "title": "Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo (Financial Times)",
+            "link": "https://www.techmeme.com/261006/p44#a261006p44",
+            "published": "Tue, 06 Oct 2026 19:15:00 -0400"
         },
         {
-            "title": "Mistral says ML4 was trained using 3,800 Nvidia Grace Blackwell GPUs in its own data centers in Europe and much of its training data was multilingual (Mistral Blog)",
-            "link": "https://www.techmeme.com/261006/p32#a261006p32",
-            "published": "Tue, 06 Oct 2026 15:00:52 -0400"
+            "title": "Sources: Xbox has secured exclusive game streaming rights for Grand Theft Auto VI; it is not clear how long the agreement will be in place (Tom Warren/The Verge)",
+            "link": "https://www.techmeme.com/261006/p43#a261006p43",
+            "published": "Tue, 06 Oct 2026 18:35:00 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
             "link": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
-            "published": "Tue, 06 Oct 2026 19:37:08 +0000"
+            "published": "Tue, 06 Oct 2026 19:37:09 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+            "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 06 Oct 2026 23:01:22 GMT"
+        },
         {
             "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
             "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Ofcom investigates Meta over Instagram Instants feature",
             "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 06 Oct 2026 09:04:02 GMT"
-        },
-        {
-            "title": "Lego fraudster among last year's most high-profile insurance scammers",
-            "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 06 Oct 2026 07:03:35 GMT"
         }
     ]
 }
