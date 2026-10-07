@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "Parallel Systems, which builds autonomous freight trains, raised a $100M Series C led by AVP, taking its total funding to $200M+ (Tim De Chant/TechCrunch)",
-            "link": "https://www.techmeme.com/261007/p24#a261007p24",
-            "published": "Wed, 07 Oct 2026 11:15:16 -0400"
+            "title": "OpenAI says GPT-6 in ChatGPT's Chat tab is powered by GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers and GPT-6 Luna for Free and Go tiers (@openai)",
+            "link": "https://www.techmeme.com/261007/p36#a261007p36",
+            "published": "Wed, 07 Oct 2026 16:55:02 -0400"
         },
         {
-            "title": "Elon Musk says Grok Bot will use the \"best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno\" (Grace Kay/The Information)",
-            "link": "https://www.techmeme.com/261007/p23#a261007p23",
-            "published": "Wed, 07 Oct 2026 10:40:01 -0400"
+            "title": "Sources: former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI companies, prioritizing national security (Leo Schwartz/The Information)",
+            "link": "https://www.techmeme.com/261007/p35#a261007p35",
+            "published": "Wed, 07 Oct 2026 15:30:31 -0400"
         },
         {
-            "title": "Amazon's Ring unveils the $249 Ring Smart Lock, which uses a physical dial to recharge the battery when turned, set for a Q1 2027 launch, and five new cameras (Chris Welch/Bloomberg)",
-            "link": "https://www.techmeme.com/261007/p22#a261007p22",
-            "published": "Wed, 07 Oct 2026 10:15:05 -0400"
+            "title": "Anthropic cuts Sonnet 5.5 cache read price from $0.20 to $0.10 and adds monthly API credits: $100 for Max 5x, $200 for Max 20x, up to $500 shared by Team users (Carl Franzen/VentureBeat)",
+            "link": "https://www.techmeme.com/261007/p34#a261007p34",
+            "published": "Wed, 07 Oct 2026 15:05:01 -0400"
         },
         {
-            "title": "Google launches SynthID Detector, a website that lets users detect AI-generated image, video, and audio media across dozens of common file formats (Ivan Mehta/TechCrunch)",
-            "link": "https://www.techmeme.com/261007/p21#a261007p21",
-            "published": "Wed, 07 Oct 2026 10:10:01 -0400"
+            "title": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)",
+            "link": "https://www.techmeme.com/261007/p33#a261007p33",
+            "published": "Wed, 07 Oct 2026 14:45:30 -0400"
         },
         {
-            "title": "Nous Research, which makes the open-source Hermes AI agent that has hit 22M+ downloads since February, raised $90M at a $1.2B valuation to expand to enterprises (Yuliya Chernova/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261007/p20#a261007p20",
-            "published": "Wed, 07 Oct 2026 10:05:01 -0400"
+            "title": "OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes graphics and interactive elements like charts, buttons, and forms in answers (OpenAI)",
+            "link": "https://www.techmeme.com/261007/p32#a261007p32",
+            "published": "Wed, 07 Oct 2026 14:40:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Why My Conversations with OpenAI\u2019s \u2018ChatGPT for Teens\u2019 Made Me Very Worried",
+            "link": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
+            "published": "Wed, 07 Oct 2026 09:07:18 +0000"
+        },
         {
             "title": "Inside Binance Founder Changpeng Zhao\u2019s Life After Prison",
             "link": "https://www.nytimes.com/2026/10/01/business/changpeng-zhao-binance.html",
             "published": "Sun, 04 Oct 2026 21:03:06 +0000"
         },
         {
-            "title": "Who\u2019s to Blame When A.I. Goes Rogue?",
-            "link": "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html",
-            "published": "Sat, 03 Oct 2026 14:51:40 +0000"
+            "title": "Why A.I. Agents Are Going Rogue",
+            "link": "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html",
+            "published": "Wed, 07 Oct 2026 19:44:04 +0000"
         },
         {
-            "title": "OpenAI\u2019s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
-            "link": "https://www.nytimes.com/2026/09/30/technology/openai-brockman-super-pac-leading-the-future.html",
-            "published": "Wed, 30 Sep 2026 22:27:26 +0000"
+            "title": "A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months",
+            "link": "https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html",
+            "published": "Wed, 07 Oct 2026 19:54:44 +0000"
         },
         {
-            "title": "How Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-            "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-            "published": "Wed, 30 Sep 2026 09:00:48 +0000"
-        },
-        {
-            "title": "Why My Conversations with OpenAI\u2019s \u2018ChatGPT for Teens\u2019 Made Me Very Worried",
-            "link": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
-            "published": "Wed, 07 Oct 2026 09:07:18 +0000"
+            "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
+            "link": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+            "published": "Tue, 06 Oct 2026 19:37:09 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+            "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 20:34:17 GMT"
+        },
         {
             "title": "Rainmakers: The drones used to seed clouds",
             "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Finland orders halt to work on two Google data centres",
             "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 06 Oct 2026 17:15:46 GMT"
-        },
-        {
-            "title": "Italian PM files to trademark her voice against AI threats",
-            "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 06 Oct 2026 11:24:10 GMT"
         }
     ]
 }
