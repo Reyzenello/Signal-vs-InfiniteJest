@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI says GPT-6 in ChatGPT's Chat tab is powered by GPT-6 Sol for Plus, Pro, Business, and Enterprise tiers and GPT-6 Luna for Free and Go tiers (@openai)",
-            "link": "https://www.techmeme.com/261007/p36#a261007p36",
-            "published": "Wed, 07 Oct 2026 16:55:02 -0400"
+            "title": "Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation (Bloomberg)",
+            "link": "https://www.techmeme.com/261007/p44#a261007p44",
+            "published": "Wed, 07 Oct 2026 21:05:01 -0400"
         },
         {
-            "title": "Sources: former White House AI adviser Sriram Krishnan is raising a ~$500M fund to back growth- and later-stage US AI companies, prioritizing national security (Leo Schwartz/The Information)",
-            "link": "https://www.techmeme.com/261007/p35#a261007p35",
-            "published": "Wed, 07 Oct 2026 15:30:31 -0400"
+            "title": "Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others (Marina Temkin/TechCrunch)",
+            "link": "https://www.techmeme.com/261007/p43#a261007p43",
+            "published": "Wed, 07 Oct 2026 20:35:01 -0400"
         },
         {
-            "title": "Anthropic cuts Sonnet 5.5 cache read price from $0.20 to $0.10 and adds monthly API credits: $100 for Max 5x, $200 for Max 20x, up to $500 shared by Team users (Carl Franzen/VentureBeat)",
-            "link": "https://www.techmeme.com/261007/p34#a261007p34",
-            "published": "Wed, 07 Oct 2026 15:05:01 -0400"
+            "title": "Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are \"chilling those who remain at OpenAI\" (Maxwell Zeff/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261007/p42#a261007p42",
+            "published": "Wed, 07 Oct 2026 20:05:01 -0400"
         },
         {
-            "title": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)",
-            "link": "https://www.techmeme.com/261007/p33#a261007p33",
-            "published": "Wed, 07 Oct 2026 14:45:30 -0400"
+            "title": "Samsung reports preliminary Q3 operating profit up 782% YoY to ~$80.1B, vs. ~$81.2B est., and revenue up 127% to ~$145.7B, lower than expected (Yoolim Lee/Bloomberg)",
+            "link": "https://www.techmeme.com/261007/p41#a261007p41",
+            "published": "Wed, 07 Oct 2026 19:35:01 -0400"
         },
         {
-            "title": "OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes graphics and interactive elements like charts, buttons, and forms in answers (OpenAI)",
-            "link": "https://www.techmeme.com/261007/p32#a261007p32",
-            "published": "Wed, 07 Oct 2026 14:40:02 -0400"
+            "title": "Margaret Hamilton, who led an MIT software team for NASA's Apollo program and helped establish software engineering as a discipline, died on September 30 at 90 (Janine Liberty/MIT News)",
+            "link": "https://www.techmeme.com/261007/p40#a261007p40",
+            "published": "Wed, 07 Oct 2026 19:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "AI chip boom pushes Samsung profits to record $80bn",
+            "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 01:31:56 GMT"
+        },
+        {
+            "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+            "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 07 Oct 2026 23:50:29 GMT"
+        },
+        {
             "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
             "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 07 Oct 2026 20:34:17 GMT"
@@ -68,16 +78,6 @@
             "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
             "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 06 Oct 2026 23:01:22 GMT"
-        },
-        {
-            "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-            "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 06 Oct 2026 17:50:19 GMT"
-        },
-        {
-            "title": "Finland orders halt to work on two Google data centres",
-            "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 06 Oct 2026 17:15:46 GMT"
         }
     ]
 }
