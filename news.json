@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
-            "link": "https://www.techmeme.com/261008/p35#a261008p35",
-            "published": "Thu, 08 Oct 2026 12:20:02 -0400"
+            "title": "SpaceX agrees to buy a nationwide low-band spectrum portfolio to help Starlink \"become a major mobile carrier\"; AT&T, T-Mobile, Verizon fall 6%+ after hours (Bloomberg)",
+            "link": "https://www.techmeme.com/261008/p48#a261008p48",
+            "published": "Thu, 08 Oct 2026 17:25:01 -0400"
         },
         {
-            "title": "GlobalFoundries signs a five-year, $2B deal to provide silicon interposer production capacity to TSMC, manufactured at GlobalFoundries' New York facility (Ian King/Bloomberg)",
-            "link": "https://www.techmeme.com/261008/p34#a261008p34",
-            "published": "Thu, 08 Oct 2026 12:10:00 -0400"
+            "title": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds (Bloomberg)",
+            "link": "https://www.techmeme.com/261008/p47#a261008p47",
+            "published": "Thu, 08 Oct 2026 16:40:01 -0400"
         },
         {
-            "title": "Apple announces a \"Welcome home\" event on October 13 at 9AM ET in NYC, where it is expected to unveil a \"HomePad\", a new Apple TV, LG home accessories, and more (Ryan Christoffel/9to5Mac)",
-            "link": "https://www.techmeme.com/261008/p33#a261008p33",
-            "published": "Thu, 08 Oct 2026 12:05:00 -0400"
+            "title": "Sources: Apple plans a second October launch, on or around October 27, for its first touch-screen MacBook, a new iPad mini, and M6 14-inch MacBook Pro and iMac (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/261008/p46#a261008p46",
+            "published": "Thu, 08 Oct 2026 16:25:02 -0400"
         },
         {
-            "title": "Hone, founded by former OpenAI and Cognition staffers to create AI agents that can help run a business, raised a $60M seed at a $285M valuation (Bloomberg)",
-            "link": "https://www.techmeme.com/261008/p32#a261008p32",
-            "published": "Thu, 08 Oct 2026 12:01:39 -0400"
+            "title": "Anthropic launches OSS Scanner, a free opt-in vulnerability scanner for critical open-source projects; its AI-generated reports are sent without human review (Anthropic)",
+            "link": "https://www.techmeme.com/261008/p45#a261008p45",
+            "published": "Thu, 08 Oct 2026 16:23:09 -0400"
         },
         {
-            "title": "Sources: the IPO of Nvidia-backed data center provider Firmus is uncertain after failing to attract adequate support, underscoring concerns over AI funding (Bloomberg)",
-            "link": "https://www.techmeme.com/261008/p31#a261008p31",
-            "published": "Thu, 08 Oct 2026 11:10:02 -0400"
+            "title": "Filing: the US FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints (Leah Nylen/Bloomberg)",
+            "link": "https://www.techmeme.com/261008/p44#a261008p44",
+            "published": "Thu, 08 Oct 2026 15:45:43 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Before Computer Science Became a Boys\u2019 Club, Margaret Hamilton Wrote the Code",
             "link": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-            "published": "Thu, 08 Oct 2026 15:50:45 +0000"
+            "published": "Thu, 08 Oct 2026 21:06:21 +0000"
         },
         {
             "title": "Man vs. \u2018Terminator\u2019-Like Robot in a Cage. California Called It Illegal.",
@@ -55,9 +55,14 @@
     ],
     "source_2": [
         {
+            "title": "White House blocks Microsoft from foreign worker hiring program",
+            "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 21:37:35 GMT"
+        },
+        {
             "title": "Asos hackers took more personal details than first revealed, BBC finds",
             "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 08 Oct 2026 11:01:29 GMT"
+            "published": "Thu, 08 Oct 2026 16:29:33 GMT"
         },
         {
             "title": "AI chip boom pushes Samsung profits to record $80bn",
@@ -73,11 +78,6 @@
             "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
             "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 07 Oct 2026 20:34:17 GMT"
-        },
-        {
-            "title": "Rainmakers: The drones used to seed clouds",
-            "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 07 Oct 2026 07:09:32 GMT"
         }
     ]
 }
