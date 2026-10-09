@@ -1,59 +1,74 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI defends its decision to fire three safety researchers, saying an investigation found they \"violated clear policies on handling sensitive information\" (Michael Considine/CNBC)",
-            "link": "https://www.techmeme.com/261009/p5#a261009p5",
-            "published": "Fri, 09 Oct 2026 04:50:01 -0400"
+            "title": "NY AG announces an up-to-$35M settlement with ex-Celsius CEO Alex Mashinsky that permanently bars him from the securities, commodities, and crypto industries (Olivier Acuna/CoinDesk)",
+            "link": "https://www.techmeme.com/261009/p16#a261009p16",
+            "published": "Fri, 09 Oct 2026 11:20:01 -0400"
         },
         {
-            "title": "Global PC shipments dropped 20.1% YoY in Q3 to 62.7M units due to higher prices and supply issues; Lenovo dropped 22.6% YoY, HP 30.9%, Dell 25%, and Apple 11.3% (IDC)",
-            "link": "https://www.techmeme.com/261009/p4#a261009p4",
-            "published": "Fri, 09 Oct 2026 04:31:10 -0400"
+            "title": "Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed (Rashi Shrivastava/Forbes)",
+            "link": "https://www.techmeme.com/261009/p15#a261009p15",
+            "published": "Fri, 09 Oct 2026 10:55:01 -0400"
         },
         {
-            "title": "Sources: Apple told some suppliers to cut iPhone 18 Pro and Pro Max component production by 15%-20% as higher memory costs pushed up prices and hurt demand (Nikkei Asia)",
-            "link": "https://www.techmeme.com/261009/p3#a261009p3",
-            "published": "Fri, 09 Oct 2026 02:25:06 -0400"
+            "title": "Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)",
+            "link": "https://www.techmeme.com/261009/p14#a261009p14",
+            "published": "Fri, 09 Oct 2026 10:15:01 -0400"
         },
         {
-            "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
-            "link": "https://www.techmeme.com/261009/p2#a261009p2",
-            "published": "Fri, 09 Oct 2026 01:05:01 -0400"
+            "title": "Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and angel investors also participating; ~33% of the Fortune 500 use Jev (Bloomberg)",
+            "link": "https://www.techmeme.com/261009/p13#a261009p13",
+            "published": "Fri, 09 Oct 2026 09:25:03 -0400"
         },
         {
-            "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
-            "link": "https://www.techmeme.com/261009/p1#a261009p1",
-            "published": "Fri, 09 Oct 2026 00:05:01 -0400"
+            "title": "The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups (Shona Ghosh/Bloomberg)",
+            "link": "https://www.techmeme.com/261009/p12#a261009p12",
+            "published": "Fri, 09 Oct 2026 08:55:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Inside Mark Zuckerberg\u2019s Decision to Pull the Trigger on Meta\u2019s A.I. Agent",
+            "link": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
+            "published": "Fri, 09 Oct 2026 09:03:46 +0000"
+        },
         {
             "title": "Why My Conversations with OpenAI\u2019s \u2018ChatGPT for Teens\u2019 Made Me Very Worried",
             "link": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
             "published": "Wed, 07 Oct 2026 09:07:18 +0000"
         },
         {
-            "title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care",
-            "link": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
-            "published": "Thu, 08 Oct 2026 22:48:06 +0000"
+            "title": "Anthropic\u2019s Quest to Give A.I. Morals",
+            "link": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
+            "published": "Fri, 09 Oct 2026 11:01:21 +0000"
         },
         {
-            "title": "Before Computer Science Became a Boys\u2019 Club, Margaret Hamilton Wrote the Code",
-            "link": "https://www.nytimes.com/2026/10/08/science/space/margaret-hamilton-computer-science.html",
-            "published": "Fri, 09 Oct 2026 02:09:40 +0000"
+            "title": "Airlines Are Upgrading Wi-Fi. Not All Are Using Elon Musk\u2019s Service.",
+            "link": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
+            "published": "Fri, 09 Oct 2026 13:28:00 +0000"
         },
         {
-            "title": "Man vs. \u2018Terminator\u2019-Like Robot in a Cage. California Called It Illegal.",
-            "link": "https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html",
-            "published": "Thu, 08 Oct 2026 14:40:13 +0000"
-        },
-        {
-            "title": "Why A.I. Agents Are Going Rogue",
-            "link": "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html",
-            "published": "Wed, 07 Oct 2026 19:44:04 +0000"
+            "title": "In Alex Gibney\u2019s \u2018Musk\u2019, the Answer to the Trillionaire\u2019s Power Is Unsatisfying.",
+            "link": "https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html",
+            "published": "Fri, 09 Oct 2026 09:03:28 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+            "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 15:32:30 GMT"
+        },
+        {
+            "title": "Anthropic bans users from being 'cruel' to its AI systems",
+            "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 12:34:27 GMT"
+        },
+        {
+            "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+            "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 09 Oct 2026 09:30:49 GMT"
+        },
         {
             "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
             "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "'Careless use of AI is the real threat - not the ghost stories'",
             "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 09 Oct 2026 07:05:01 GMT"
-        },
-        {
-            "title": "Why are more roofs not made of solar tiles?",
-            "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 08 Oct 2026 23:09:56 GMT"
-        },
-        {
-            "title": "White House blocks Microsoft from foreign worker hiring programme",
-            "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 08 Oct 2026 21:37:35 GMT"
-        },
-        {
-            "title": "Asos hackers took more personal details than first revealed, BBC finds",
-            "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 08 Oct 2026 16:29:33 GMT"
         }
     ]
 }
