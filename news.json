@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "SpaceX agrees to buy a nationwide low-band spectrum portfolio to help Starlink \"become a major mobile carrier\"; AT&T, T-Mobile, Verizon fall 6%+ after hours (Bloomberg)",
-            "link": "https://www.techmeme.com/261008/p48#a261008p48",
-            "published": "Thu, 08 Oct 2026 17:25:01 -0400"
+            "title": "A US judge sentenced Raheim Hamilton, co-creator of the dark web marketplace Empire Market, to 40 years in prison for facilitating $430M in illegal transactions (Sergiu Gatlan/BleepingComputer)",
+            "link": "https://www.techmeme.com/261008/p54#a261008p54",
+            "published": "Thu, 08 Oct 2026 21:55:00 -0400"
         },
         {
-            "title": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds (Bloomberg)",
-            "link": "https://www.techmeme.com/261008/p47#a261008p47",
-            "published": "Thu, 08 Oct 2026 16:40:01 -0400"
+            "title": "Sources: Flock plans to let go of ~270 employees, or 18% of its staff, at the end of October; the layoffs come after a voluntary buyout program in September (Reuters)",
+            "link": "https://www.techmeme.com/261008/p53#a261008p53",
+            "published": "Thu, 08 Oct 2026 21:01:37 -0400"
         },
         {
-            "title": "Sources: Apple plans a second October launch, on or around October 27, for its first touch-screen MacBook, a new iPad mini, and M6 14-inch MacBook Pro and iMac (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/261008/p46#a261008p46",
-            "published": "Thu, 08 Oct 2026 16:25:02 -0400"
+            "title": "Satya Nadella and Michael Dell were awarded the National Medal of Technology and Innovation by the White House during an appearance alongside other tech leaders (Washington Post)",
+            "link": "https://www.techmeme.com/261008/p52#a261008p52",
+            "published": "Thu, 08 Oct 2026 20:40:03 -0400"
         },
         {
-            "title": "Anthropic launches OSS Scanner, a free opt-in vulnerability scanner for critical open-source projects; its AI-generated reports are sent without human review (Anthropic)",
-            "link": "https://www.techmeme.com/261008/p45#a261008p45",
-            "published": "Thu, 08 Oct 2026 16:23:09 -0400"
+            "title": "President Trump awards Elon Musk, Jensen Huang, Lisa Su, and Sergey Brin the National Medal of Science at a White House summit promoting innovation (Jared Perlo/NBC News)",
+            "link": "https://www.techmeme.com/261008/p51#a261008p51",
+            "published": "Thu, 08 Oct 2026 20:30:45 -0400"
         },
         {
-            "title": "Filing: the US FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints (Leah Nylen/Bloomberg)",
-            "link": "https://www.techmeme.com/261008/p44#a261008p44",
-            "published": "Thu, 08 Oct 2026 15:45:43 -0400"
+            "title": "Meta bans ByteDance ads and paid marketing, plus third-party campaigns linking to TikTok, in the US, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam (Bloomberg)",
+            "link": "https://www.techmeme.com/261008/p50#a261008p50",
+            "published": "Thu, 08 Oct 2026 20:20:01 -0400"
         }
     ],
     "source_1": [
@@ -31,6 +31,11 @@
             "title": "Why My Conversations with OpenAI\u2019s \u2018ChatGPT for Teens\u2019 Made Me Very Worried",
             "link": "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html",
             "published": "Wed, 07 Oct 2026 09:07:18 +0000"
+        },
+        {
+            "title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care",
+            "link": "https://www.nytimes.com/2026/10/08/technology/ai-chatbots-urgent-care.html",
+            "published": "Thu, 08 Oct 2026 22:48:06 +0000"
         },
         {
             "title": "Before Computer Science Became a Boys\u2019 Club, Margaret Hamilton Wrote the Code",
@@ -46,14 +51,14 @@
             "title": "Why A.I. Agents Are Going Rogue",
             "link": "https://www.nytimes.com/video/technology/100000011159494/why-ai-agents-are-going-rogue.html",
             "published": "Wed, 07 Oct 2026 19:44:04 +0000"
-        },
-        {
-            "title": "A.I. Music Fraudster Who Drew Millions in Royalties Is Sentenced to 18 Months",
-            "link": "https://www.nytimes.com/2026/10/07/arts/music/ai-music-fraud-royalties-sentence.html",
-            "published": "Thu, 08 Oct 2026 02:05:09 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Why are more roofs not made of solar tiles?",
+            "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 08 Oct 2026 23:09:56 GMT"
+        },
         {
             "title": "White House blocks Microsoft from foreign worker hiring program",
             "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
             "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 07 Oct 2026 23:50:29 GMT"
-        },
-        {
-            "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-            "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 07 Oct 2026 20:34:17 GMT"
         }
     ]
 }
