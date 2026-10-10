@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal (Wall Street Journal)",
-            "link": "https://www.techmeme.com/261010/p12#a261010p12",
-            "published": "Sat, 10 Oct 2026 09:50:00 -0400"
+            "title": "Hundreds of AI-decompiled or vibe-coded clones of games appeared in recent weeks, ported to run in browsers; some big titles like GTA: Vice City, Halo play well (Lewis Parker/Kotaku)",
+            "link": "https://www.techmeme.com/261010/p17#a261010p17",
+            "published": "Sat, 10 Oct 2026 15:45:00 -0400"
         },
         {
-            "title": "Dozens of staff at HarperCollins, Simon & Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more (Adam Morgan/Wired)",
-            "link": "https://www.techmeme.com/261010/p11#a261010p11",
-            "published": "Sat, 10 Oct 2026 08:40:01 -0400"
+            "title": "Sources: Nvidia is in talks to acquire or invest more into US open-weights AI startup Reflection AI; the deal may be an acquihire to avoid antitrust scrutiny (Financial Times)",
+            "link": "https://www.techmeme.com/261010/p16#a261010p16",
+            "published": "Sat, 10 Oct 2026 15:08:43 -0400"
         },
         {
-            "title": "A look at Walmart's troubled push to automate its ~200 US warehouses, as it and partners like Symbotic face technical setbacks; Walmart owns 12.6% of Symbotic (Sarah Nassauer/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261010/p10#a261010p10",
-            "published": "Sat, 10 Oct 2026 06:40:02 -0400"
+            "title": "IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro's share drops to 3% (William Langley/Financial Times)",
+            "link": "https://www.techmeme.com/261010/p15#a261010p15",
+            "published": "Sat, 10 Oct 2026 14:50:00 -0400"
         },
         {
-            "title": "Current and former employees say TikTok US still coordinates closely with the global TikTok org, and US staff continue to use ByteDance's internal chat app Lark (Sylvia Varnham O'Regan/Politico)",
-            "link": "https://www.techmeme.com/261010/p9#a261010p9",
-            "published": "Sat, 10 Oct 2026 04:40:01 -0400"
+            "title": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access (CBS News)",
+            "link": "https://www.techmeme.com/261010/p14#a261010p14",
+            "published": "Sat, 10 Oct 2026 12:50:11 -0400"
         },
         {
-            "title": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)",
-            "link": "https://www.techmeme.com/261010/p8#a261010p8",
-            "published": "Sat, 10 Oct 2026 02:35:01 -0400"
+            "title": "A profile of Zach Frankel, a secretive and unusually hands-on solo investor who wrote the first checks to startups like Ramp, Cognition, and Applied Compute (Jemima McEvoy/The Information)",
+            "link": "https://www.techmeme.com/261010/p13#a261010p13",
+            "published": "Sat, 10 Oct 2026 11:20:01 -0400"
         }
     ],
     "source_1": [
@@ -45,7 +45,7 @@
         {
             "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
             "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-            "published": "Sat, 10 Oct 2026 01:19:55 +0000"
+            "published": "Sat, 10 Oct 2026 18:01:20 +0000"
         },
         {
             "title": "Airlines Are Upgrading Wi-Fi. Not All Are Using Elon Musk\u2019s Service.",
@@ -54,6 +54,11 @@
         }
     ],
     "source_2": [
+        {
+            "title": "King warns malicious online actors are evolving tactics",
+            "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 10 Oct 2026 15:56:32 GMT"
+        },
         {
             "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
             "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Anthropic bans users from being 'cruel' to its AI systems",
             "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 09 Oct 2026 12:34:27 GMT"
-        },
-        {
-            "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-            "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 09 Oct 2026 09:30:49 GMT"
         }
     ]
 }
