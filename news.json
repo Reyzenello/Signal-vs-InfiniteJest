@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating (Heather Landi/Fierce Healthcare)",
+            "link": "https://www.techmeme.com/261011/p13#a261011p13",
+            "published": "Sun, 11 Oct 2026 20:45:00 -0400"
+        },
+        {
+            "title": "Q&A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more (CBS News)",
+            "link": "https://www.techmeme.com/261011/p12#a261011p12",
+            "published": "Sun, 11 Oct 2026 19:50:02 -0400"
+        },
+        {
             "title": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
             "link": "https://www.techmeme.com/261011/p11#a261011p11",
             "published": "Sun, 11 Oct 2026 17:20:01 -0400"
@@ -14,16 +24,6 @@
             "title": "A look at the economics of Anthropic's data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN (Ann Davis Vaughan/The Information)",
             "link": "https://www.techmeme.com/261011/p9#a261011p9",
             "published": "Sun, 11 Oct 2026 14:15:02 -0400"
-        },
-        {
-            "title": "Yandex says a drone strike shut down a third data center, disrupting 80+ services like Yandex Cloud and YandexGPT; users report banking and taxi app outages (Tymur Dubovyk/Kyiv Post)",
-            "link": "https://www.techmeme.com/261011/p8#a261011p8",
-            "published": "Sun, 11 Oct 2026 12:10:00 -0400"
-        },
-        {
-            "title": "A look at Apple's smart home strategy, centered on a HomeView display hub, with a new HomePod mini, Apple TV, and second-party accessories from LG and Schneider (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/261011/p7#a261011p7",
-            "published": "Sun, 11 Oct 2026 11:10:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "AI is less regulated than milk, says Microsoft president",
+            "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 11 Oct 2026 23:07:35 GMT"
+        },
+        {
             "title": "King warns malicious online actors are evolving tactics",
             "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 10 Oct 2026 15:56:32 GMT"
@@ -73,11 +78,6 @@
             "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
             "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 09 Oct 2026 15:32:30 GMT"
-        },
-        {
-            "title": "Anthropic bans users from being 'cruel' to its AI systems",
-            "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 09 Oct 2026 12:34:27 GMT"
         }
     ]
 }
