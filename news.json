@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Leading Chinese mathematicians launch an alliance, including eight orgs and aiming for 1,000+ scientists, to focus on developing specialized AI models for math (Chao Kong/South China Morning Post)",
-            "link": "https://www.techmeme.com/261012/p42#a261012p42",
-            "published": "Mon, 12 Oct 2026 20:15:02 -0400"
+            "title": "IDC: China's Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% (Reuters)",
+            "link": "https://www.techmeme.com/261013/p7#a261013p7",
+            "published": "Tue, 13 Oct 2026 04:25:01 -0400"
         },
         {
-            "title": "Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B (Claire Ruckin/Bloomberg)",
-            "link": "https://www.techmeme.com/261012/p41#a261012p41",
-            "published": "Mon, 12 Oct 2026 18:10:01 -0400"
+            "title": "Singapore-based data center developer DayOne raises ~$3.67B, including a ~$2.4B offshore term loan facility, from seven banks to fund its Malaysia expansion (Jasmeen Ara Shaikh/Reuters)",
+            "link": "https://www.techmeme.com/261013/p6#a261013p6",
+            "published": "Tue, 13 Oct 2026 04:05:01 -0400"
         },
         {
-            "title": "Anthropic researchers say small AI models may be months away from being able to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes (Anthropic)",
-            "link": "https://www.techmeme.com/261012/p40#a261012p40",
-            "published": "Mon, 12 Oct 2026 17:50:01 -0400"
+            "title": "A deep dive on Amazon's robotics efforts, resulting in 1M+ active warehouse robots; Amazon is still the world's 2nd-largest corporate employer with 1.5M workers (Jeremy Hsu/Ars Technica)",
+            "link": "https://www.techmeme.com/261013/p5#a261013p5",
+            "published": "Tue, 13 Oct 2026 02:30:01 -0400"
         },
         {
-            "title": "Sources: Epic has delayed the release of an upcoming game, instructing developers to implement an \"AI first\" production model with \"no more hand-written code\" (Jason Schreier/Bloomberg)",
-            "link": "https://www.techmeme.com/261012/p39#a261012p39",
-            "published": "Mon, 12 Oct 2026 16:25:00 -0400"
+            "title": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix down 9.2%, and Micron 4% (Financial Times)",
+            "link": "https://www.techmeme.com/261013/p4#a261013p4",
+            "published": "Tue, 13 Oct 2026 01:05:01 -0400"
         },
         {
-            "title": "Suki, an AI ambient scribe for healthcare providers, raised a $90M Series E led by Healthier Capital; a source says it projects $60M-$80M in revenue this year (Brock E.W. Turner/Axios)",
-            "link": "https://www.techmeme.com/261012/p38#a261012p38",
-            "published": "Mon, 12 Oct 2026 16:00:48 -0400"
+            "title": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)",
+            "link": "https://www.techmeme.com/261013/p3#a261013p3",
+            "published": "Tue, 13 Oct 2026 00:55:02 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Meta Unveils New Series of Advanced A.I. Models",
             "link": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
-            "published": "Mon, 12 Oct 2026 17:00:05 +0000"
+            "published": "Mon, 12 Oct 2026 17:00:06 +0000"
         },
         {
             "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
@@ -48,12 +48,17 @@
             "published": "Sat, 10 Oct 2026 18:01:21 +0000"
         },
         {
-            "title": "The Times\u2019s New Space Editor Has Her Eye on the Cosmos",
-            "link": "https://www.nytimes.com/2026/10/11/insider/new-york-times-space-editor-victoria-jaggard.html",
-            "published": "Sun, 11 Oct 2026 18:14:28 +0000"
+            "title": "NASA\u2019s Perseverance Rover Sets a Mars Driving Record",
+            "link": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+            "published": "Tue, 13 Oct 2026 01:20:10 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Dating app Bumble in $1bn takeover talks, say reports",
+            "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 01:50:47 GMT"
+        },
         {
             "title": "AI minister warns 'likely' UK's cyber defences will be breached",
             "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
             "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 10 Oct 2026 10:06:23 GMT"
-        },
-        {
-            "title": "How drones are hunting fires hidden beneath the Cairngorms",
-            "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 10 Oct 2026 09:31:14 GMT"
         }
     ]
 }
