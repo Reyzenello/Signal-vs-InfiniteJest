@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "IDC: China's Q3 smartphone shipments fell 15.4% YoY to 57.9M units, the sixth straight quarter of decline; Huawei led with a 21% share and Apple had 17.8% (Reuters)",
-            "link": "https://www.techmeme.com/261013/p7#a261013p7",
-            "published": "Tue, 13 Oct 2026 04:25:01 -0400"
+            "title": "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)",
+            "link": "https://www.techmeme.com/261013/p33#a261013p33",
+            "published": "Tue, 13 Oct 2026 13:25:51 -0400"
         },
         {
-            "title": "Singapore-based data center developer DayOne raises ~$3.67B, including a ~$2.4B offshore term loan facility, from seven banks to fund its Malaysia expansion (Jasmeen Ara Shaikh/Reuters)",
-            "link": "https://www.techmeme.com/261013/p6#a261013p6",
-            "published": "Tue, 13 Oct 2026 04:05:01 -0400"
+            "title": "Meta says hackers stole some code and personal data of roughly 1,500 people, most of them employees in the US, after compromising some of its GitHub repos (Eduard Kovacs/SecurityWeek)",
+            "link": "https://www.techmeme.com/261013/p32#a261013p32",
+            "published": "Tue, 13 Oct 2026 13:10:47 -0400"
         },
         {
-            "title": "A deep dive on Amazon's robotics efforts, resulting in 1M+ active warehouse robots; Amazon is still the world's 2nd-largest corporate employer with 1.5M workers (Jeremy Hsu/Ars Technica)",
-            "link": "https://www.techmeme.com/261013/p5#a261013p5",
-            "published": "Tue, 13 Oct 2026 02:30:01 -0400"
+            "title": "Apple says HomeView's facial recognition works only if users have a \"registered personal device\" with Apple Intelligence and Siri AI on the same Wi-Fi network (John Gruber/Daring Fireball)",
+            "link": "https://www.techmeme.com/261013/p31#a261013p31",
+            "published": "Tue, 13 Oct 2026 12:20:01 -0400"
         },
         {
-            "title": "A global chip stock sell-off deepens after Broadcom's CEO likened AI investing to a casino, with Samsung down as much as 8.8%, SK Hynix down 9.2%, and Micron 4% (Financial Times)",
-            "link": "https://www.techmeme.com/261013/p4#a261013p4",
-            "published": "Tue, 13 Oct 2026 01:05:01 -0400"
+            "title": "Google rolls out Gemini 4 Argon globally via the Gemini API and to Google AI Pro subscribers in the Gemini app and AI Mode, and in Antigravity for Ultra users (Robert Hart/The Verge)",
+            "link": "https://www.techmeme.com/261013/p30#a261013p30",
+            "published": "Tue, 13 Oct 2026 12:08:15 -0400"
         },
         {
-            "title": "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)",
-            "link": "https://www.techmeme.com/261013/p3#a261013p3",
-            "published": "Tue, 13 Oct 2026 00:55:02 -0400"
+            "title": "Anthropic co-founder Jack Clark says \"I now think it's more likely we'll see full RSI become possible in 2027\", earlier than his previous prediction of 2028 (Jack Clark/Import AI)",
+            "link": "https://www.techmeme.com/261013/p29#a261013p29",
+            "published": "Tue, 13 Oct 2026 11:55:44 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
+            "link": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
+            "published": "Tue, 13 Oct 2026 17:23:29 +0000"
+        },
         {
             "title": "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses?",
             "link": "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html",
@@ -43,21 +48,21 @@
             "published": "Sun, 11 Oct 2026 09:01:17 +0000"
         },
         {
-            "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-            "link": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
-            "published": "Sat, 10 Oct 2026 18:01:21 +0000"
-        },
-        {
             "title": "NASA\u2019s Perseverance Rover Sets a Mars Driving Record",
             "link": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
-            "published": "Tue, 13 Oct 2026 01:20:10 +0000"
+            "published": "Tue, 13 Oct 2026 14:09:45 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Dating app Bumble in $1bn takeover talks, say reports",
+            "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
             "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 13 Oct 2026 01:50:47 GMT"
+            "published": "Tue, 13 Oct 2026 15:59:07 GMT"
+        },
+        {
+            "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+            "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 09:34:43 GMT"
         },
         {
             "title": "AI minister warns 'likely' UK's cyber defences will be breached",
@@ -73,11 +78,6 @@
             "title": "King warns malicious online actors are evolving tactics",
             "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 10 Oct 2026 15:56:32 GMT"
-        },
-        {
-            "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-            "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 10 Oct 2026 10:06:23 GMT"
         }
     ]
 }
