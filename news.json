@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Jensen Huang announces $2B in new European Nvidia investments, including in French startups Doctolib and Genesis AI, adding to $8B invested over the past year (Benoit Berthelot/Bloomberg)",
-            "link": "https://www.techmeme.com/261014/p23#a261014p23",
-            "published": "Wed, 14 Oct 2026 09:35:00 -0400"
+            "title": "Sources: Anduril opens a tender offer of up to ~$1.3B for staff at a ~$90B valuation, available in 16 countries for the first time; it was valued at $61B in May (Bloomberg)",
+            "link": "https://www.techmeme.com/261014/p37#a261014p37",
+            "published": "Wed, 14 Oct 2026 13:50:01 -0400"
         },
         {
-            "title": "Google plans to acquire power from AEP's Cheyenne Fuel Cell under a 20-year deal; AEP will invest ~$4B in the Wyoming fuel cell project using Bloom's tech (Kelly Cloonan/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261014/p22#a261014p22",
-            "published": "Wed, 14 Oct 2026 09:30:02 -0400"
+            "title": "CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL drops 8%+ (Michelle Fox/CNBC)",
+            "link": "https://www.techmeme.com/261014/p36#a261014p36",
+            "published": "Wed, 14 Oct 2026 12:45:02 -0400"
         },
         {
-            "title": "Booking Holdings launches Vayo, a travel startup that uses AI agents to track booking confirmations, price drops, and more, with a planned $100M investment (Todd Bishop/GeekWire)",
-            "link": "https://www.techmeme.com/261014/p21#a261014p21",
-            "published": "Wed, 14 Oct 2026 09:25:01 -0400"
+            "title": "WhatsApp rolls out a guest calling feature letting people join a call even if they don't have an account; guests cannot start a call and have to be invited (Anna Washenko/Engadget)",
+            "link": "https://www.techmeme.com/261014/p35#a261014p35",
+            "published": "Wed, 14 Oct 2026 12:30:05 -0400"
         },
         {
-            "title": "Amazon Alexa Tablet 12 Pro review: gorgeous screen, Android apps, and nice design and build quality, but Amazon's bloatware is pervasive and Alexa+ is subpar (David Pierce/The Verge)",
-            "link": "https://www.techmeme.com/261014/p20#a261014p20",
-            "published": "Wed, 14 Oct 2026 09:20:02 -0400"
+            "title": "OpenAI's head of computing capacity Sachin Katti is leaving the company next month after about a year and is expected to stay on as an adviser (Anissa Gardizy/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261014/p34#a261014p34",
+            "published": "Wed, 14 Oct 2026 12:15:01 -0400"
         },
         {
-            "title": "Memo: Netflix is cutting 6% of its staff, or ~1,000 jobs globally across product, tech, legal, and HR, its biggest layoffs since 2022, amid slowing growth (Wall Street Journal)",
-            "link": "https://www.techmeme.com/261014/p19#a261014p19",
-            "published": "Wed, 14 Oct 2026 09:11:39 -0400"
+            "title": "OpenAI names Uday Ruddarraju, who joined OpenAI last year and was promoted as CTO for compute in July, to lead its infrastructure and compute businesses (Dina Bass/Bloomberg)",
+            "link": "https://www.techmeme.com/261014/p33#a261014p33",
+            "published": "Wed, 14 Oct 2026 12:05:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
+            "link": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
+            "published": "Wed, 14 Oct 2026 17:35:24 +0000"
+        },
+        {
+            "title": "Rogue A.I. Agents from China Chatted with Researchers",
+            "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
+            "published": "Wed, 14 Oct 2026 15:21:46 +0000"
+        },
         {
             "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
             "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
@@ -38,22 +48,17 @@
             "published": "Tue, 13 Oct 2026 17:23:29 +0000"
         },
         {
-            "title": "Is Universal Basic Income the Answer to A.I.-Fueled Job Losses?",
-            "link": "https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html",
-            "published": "Mon, 12 Oct 2026 17:40:28 +0000"
-        },
-        {
-            "title": "Meta Unveils New Series of Advanced A.I. Models",
-            "link": "https://www.nytimes.com/2026/10/12/technology/meta-muse-wonder-full-models.html",
-            "published": "Mon, 12 Oct 2026 17:00:06 +0000"
-        },
-        {
-            "title": "Rogue A.I. Agents from China Chatted with Researchers",
-            "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
-            "published": "Wed, 14 Oct 2026 11:00:06 +0000"
+            "title": "Netflix, Facing Slowing Growth, Cuts 6% of Its Work Force",
+            "link": "https://www.nytimes.com/2026/10/14/business/media/netflix-layoffs-ted-sarandos.html",
+            "published": "Wed, 14 Oct 2026 17:21:26 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+            "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 14 Oct 2026 15:54:04 GMT"
+        },
         {
             "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
             "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
             "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 13 Oct 2026 09:34:43 GMT"
-        },
-        {
-            "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-            "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 12 Oct 2026 15:03:42 GMT"
         }
     ]
 }
