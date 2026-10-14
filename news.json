@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "A look at OpenAI's safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique (The Information)",
-            "link": "https://www.techmeme.com/261013/p45#a261013p45",
-            "published": "Tue, 13 Oct 2026 17:56:04 -0400"
+            "title": "Chinese manufacturers dominate humanoid robot production, capturing 97% of global shipments in H1 2026, thanks to government support and vast supply chains (Bloomberg)",
+            "link": "https://www.techmeme.com/261013/p50#a261013p50",
+            "published": "Tue, 13 Oct 2026 21:35:02 -0400"
         },
         {
-            "title": "Apple v. OpenAI: a US judge partly grants Apple's motion for expedited discovery, ordering OpenAI to hand over forensic images of devices and other documents (Annelise Levy/Bloomberg Law)",
-            "link": "https://www.techmeme.com/261013/p44#a261013p44",
-            "published": "Tue, 13 Oct 2026 17:26:05 -0400"
+            "title": "Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 (Bloomberg)",
+            "link": "https://www.techmeme.com/261013/p49#a261013p49",
+            "published": "Tue, 13 Oct 2026 20:35:02 -0400"
         },
         {
-            "title": "The FBI says it worked with CrowdStrike to dismantle 40+ laptop farms across Texas used to help North Koreans get remote US tech jobs under stolen identities (Dustin Volz/New York Times)",
-            "link": "https://www.techmeme.com/261013/p43#a261013p43",
-            "published": "Tue, 13 Oct 2026 17:05:02 -0400"
+            "title": "Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation (Rashi Shrivastava/Forbes)",
+            "link": "https://www.techmeme.com/261013/p48#a261013p48",
+            "published": "Tue, 13 Oct 2026 20:05:01 -0400"
         },
         {
-            "title": "Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)",
-            "link": "https://www.techmeme.com/261013/p42#a261013p42",
-            "published": "Tue, 13 Oct 2026 16:40:59 -0400"
+            "title": "Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees (The Information)",
+            "link": "https://www.techmeme.com/261013/p47#a261013p47",
+            "published": "Tue, 13 Oct 2026 19:20:01 -0400"
         },
         {
-            "title": "Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 (The San Francisco Standard)",
-            "link": "https://www.techmeme.com/261013/p41#a261013p41",
-            "published": "Tue, 13 Oct 2026 16:34:10 -0400"
+            "title": "Tencent raised ~$5.7B via US dollar and offshore yuan debt offerings, drawing $23B+ in orders; source: it had initially been expected to raise at least $4.5B (Reuters)",
+            "link": "https://www.techmeme.com/261013/p46#a261013p46",
+            "published": "Tue, 13 Oct 2026 19:00:39 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
+            "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
+            "published": "Wed, 14 Oct 2026 01:33:22 +0000"
+        },
         {
             "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
             "link": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
@@ -43,17 +48,22 @@
             "published": "Mon, 12 Oct 2026 17:00:06 +0000"
         },
         {
-            "title": "Three Mark Zuckerbergs, Three Surprisingly Different Men",
-            "link": "https://www.nytimes.com/2026/10/11/movies/mark-zuckerberg-social-network-reckoning.html",
-            "published": "Sun, 11 Oct 2026 09:01:17 +0000"
-        },
-        {
-            "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
-            "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
-            "published": "Tue, 13 Oct 2026 21:31:17 +0000"
+            "title": "NASA\u2019s Perseverance Rover Sets a Mars Driving Record",
+            "link": "https://www.nytimes.com/2026/10/12/science/mars-rover-sets-record.html",
+            "published": "Tue, 13 Oct 2026 19:26:29 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "How long will humans be needed for translation?",
+            "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 23:05:29 GMT"
+        },
+        {
+            "title": "Is it OK for jobseekers or employers to use AI?",
+            "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 13 Oct 2026 23:04:39 GMT"
+        },
         {
             "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
             "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "AI minister warns 'likely' UK's cyber defences will be breached",
             "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 12 Oct 2026 15:03:42 GMT"
-        },
-        {
-            "title": "AI is less regulated than milk, says Microsoft president",
-            "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 12 Oct 2026 07:47:37 GMT"
-        },
-        {
-            "title": "King warns malicious online actors are evolving tactics",
-            "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 10 Oct 2026 15:56:32 GMT"
         }
     ]
 }
