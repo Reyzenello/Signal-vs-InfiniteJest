@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "Q&A with Dwarkesh Patel on his podcast, lessons from history, AGI, the mood in San Francisco, the Hugging Face hack, Chinese AI, pacing the frontier, and more (New York Times)",
-            "link": "https://www.techmeme.com/261015/p28#a261015p28",
-            "published": "Thu, 15 Oct 2026 09:15:09 -0400"
+            "title": "Two workers have been killed and another seriously injured at Intel's Kiryat Gat fab in Israel in an explosion resulting from a gas cylinder malfunctioning (CTech)",
+            "link": "https://www.techmeme.com/261015/p44#a261015p44",
+            "published": "Thu, 15 Oct 2026 14:10:01 -0400"
         },
         {
-            "title": "BofA says it hired 1,000 contractors in Q2 to support 3,000 internal staff in patching proprietary and vendor software flaws exposed by AI models like Mythos (Hugh Son/CNBC)",
-            "link": "https://www.techmeme.com/261015/p27#a261015p27",
-            "published": "Thu, 15 Oct 2026 08:55:01 -0400"
+            "title": "Volvo says it will use Nvidia's Hyperion platform to launch a Level 2++ hands-free, point-to-point automated driving system by 2030 (Andrew J. Hawkins/The Verge)",
+            "link": "https://www.techmeme.com/261015/p43#a261015p43",
+            "published": "Thu, 15 Oct 2026 13:55:01 -0400"
         },
         {
-            "title": "Nvidia's RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple's M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models (Jeffrey Kampman/Tom's Hardware)",
-            "link": "https://www.techmeme.com/261015/p26#a261015p26",
-            "published": "Thu, 15 Oct 2026 08:45:01 -0400"
+            "title": "Memo: Accenture has told many employees, some of whom had been spending as much as $1,000 monthly, that it will now only spend $29 a month per person on Claude (Joseph Cox/404 Media)",
+            "link": "https://www.techmeme.com/261015/p42#a261015p42",
+            "published": "Thu, 15 Oct 2026 13:50:39 -0400"
         },
         {
-            "title": "Ledger unveils Atom, an $899 data-only Android-based smartphone companion device launching in summer 2027, as it pauses some sales following hardware tampering (Dominic Preston/The Verge)",
-            "link": "https://www.techmeme.com/261015/p25#a261015p25",
-            "published": "Thu, 15 Oct 2026 08:35:02 -0400"
+            "title": "Anthropic says it is giving employee-like access to METR as part of its pledge to partner with evaluators for assessment of its models and safety practices (Anthropic)",
+            "link": "https://www.techmeme.com/261015/p41#a261015p41",
+            "published": "Thu, 15 Oct 2026 13:46:31 -0400"
         },
         {
-            "title": "Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)",
-            "link": "https://www.techmeme.com/261015/p24#a261015p24",
-            "published": "Thu, 15 Oct 2026 08:10:01 -0400"
+            "title": "Sunbound, which makes software for handling billing, insurance claims, and payments for senior living operators, raised a $24M Series A led by TTV Capital (Ryan Lawler/Axios)",
+            "link": "https://www.techmeme.com/261015/p40#a261015p40",
+            "published": "Thu, 15 Oct 2026 13:35:30 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
+            "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
+            "published": "Thu, 15 Oct 2026 14:51:18 +0000"
+        },
+        {
+            "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+            "link": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
+            "published": "Wed, 14 Oct 2026 23:57:26 +0000"
+        },
         {
             "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
             "link": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
@@ -38,22 +48,17 @@
             "published": "Wed, 14 Oct 2026 15:21:46 +0000"
         },
         {
-            "title": "F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office",
-            "link": "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html",
-            "published": "Wed, 14 Oct 2026 01:33:22 +0000"
-        },
-        {
-            "title": "Apple Introduces HomeView, a $299 Tablet for the Home",
-            "link": "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html",
-            "published": "Tue, 13 Oct 2026 17:23:29 +0000"
-        },
-        {
             "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
             "link": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
             "published": "Thu, 15 Oct 2026 10:52:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+            "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 14:25:48 GMT"
+        },
         {
             "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
             "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "How long will humans be needed for translation?",
             "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 13 Oct 2026 23:05:29 GMT"
-        },
-        {
-            "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 13 Oct 2026 15:59:07 GMT"
         }
     ]
 }
