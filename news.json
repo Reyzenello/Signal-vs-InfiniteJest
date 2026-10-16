@@ -1,56 +1,56 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)",
-            "link": "https://www.techmeme.com/261016/p20#a261016p20",
-            "published": "Fri, 16 Oct 2026 16:25:02 -0400"
+            "title": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
+            "link": "https://www.techmeme.com/261016/p25#a261016p25",
+            "published": "Fri, 16 Oct 2026 19:00:01 -0400"
         },
         {
-            "title": "Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots (Bloomberg)",
-            "link": "https://www.techmeme.com/261016/p19#a261016p19",
-            "published": "Fri, 16 Oct 2026 15:50:01 -0400"
+            "title": "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)",
+            "link": "https://www.techmeme.com/261016/p24#a261016p24",
+            "published": "Fri, 16 Oct 2026 18:45:01 -0400"
         },
         {
-            "title": "Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown (Joe Barnes/Telegraph)",
-            "link": "https://www.techmeme.com/261016/p18#a261016p18",
-            "published": "Fri, 16 Oct 2026 15:05:02 -0400"
+            "title": "Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/261016/p23#a261016p23",
+            "published": "Fri, 16 Oct 2026 18:10:01 -0400"
         },
         {
-            "title": "The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)",
-            "link": "https://www.techmeme.com/261016/p17#a261016p17",
-            "published": "Fri, 16 Oct 2026 14:45:00 -0400"
+            "title": "Apple says demand for iPhone Duo has been \"nothing short of extraordinary\"; deliveries slipped to late January within hours of preorders opening (Michael Acton/Financial Times)",
+            "link": "https://www.techmeme.com/261016/p22#a261016p22",
+            "published": "Fri, 16 Oct 2026 18:00:36 -0400"
         },
         {
-            "title": "Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak (Dylan Sloan/Bloomberg)",
-            "link": "https://www.techmeme.com/261016/p16#a261016p16",
-            "published": "Fri, 16 Oct 2026 13:50:01 -0400"
+            "title": "Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills (Theodore Schleifer/New York Times)",
+            "link": "https://www.techmeme.com/261016/p21#a261016p21",
+            "published": "Fri, 16 Oct 2026 17:35:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Withdraws $25 Million from Its Midterms Push",
+            "link": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
+            "published": "Fri, 16 Oct 2026 20:58:40 +0000"
+        },
         {
             "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
             "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
             "published": "Thu, 15 Oct 2026 14:51:19 +0000"
         },
         {
-            "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
-            "link": "https://www.nytimes.com/2026/10/14/technology/anthropic-ipo-revenue-profit.html",
-            "published": "Wed, 14 Oct 2026 23:57:26 +0000"
-        },
-        {
-            "title": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
-            "link": "https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html",
-            "published": "Wed, 14 Oct 2026 17:35:24 +0000"
-        },
-        {
-            "title": "Rogue A.I. Agents from China Chatted with Researchers",
-            "link": "https://www.nytimes.com/2026/10/14/technology/chinese-ai-agents-rogue.html",
-            "published": "Wed, 14 Oct 2026 15:21:46 +0000"
-        },
-        {
             "title": "Why No One Can Look Away From Elizabeth Holmes",
             "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
             "published": "Fri, 16 Oct 2026 19:28:48 +0000"
+        },
+        {
+            "title": "Ms., Martians and Guacamole: Their First Time in The Times",
+            "link": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
+            "published": "Thu, 15 Oct 2026 19:50:16 +0000"
+        },
+        {
+            "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
+            "link": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
+            "published": "Thu, 15 Oct 2026 10:52:08 +0000"
         }
     ],
     "source_2": [
