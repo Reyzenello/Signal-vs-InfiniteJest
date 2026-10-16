@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens (Matt Marshall/VentureBeat)",
-            "link": "https://www.techmeme.com/261016/p15#a261016p15",
-            "published": "Fri, 16 Oct 2026 12:40:02 -0400"
+            "title": "Anthropic says Claude traced NIST's ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm (Anthropic)",
+            "link": "https://www.techmeme.com/261016/p20#a261016p20",
+            "published": "Fri, 16 Oct 2026 16:25:02 -0400"
         },
         {
-            "title": "In its first meeting, Trump's Super Intelligence Force says it plans to commission a report on AI risks and develop protocols for labs to provide early warnings (John Harney/Bloomberg)",
-            "link": "https://www.techmeme.com/261016/p14#a261016p14",
-            "published": "Fri, 16 Oct 2026 10:55:01 -0400"
+            "title": "Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots (Bloomberg)",
+            "link": "https://www.techmeme.com/261016/p19#a261016p19",
+            "published": "Fri, 16 Oct 2026 15:50:01 -0400"
         },
         {
-            "title": "Source: Intuit acquired UK-based B2B revenue management and billing startup Sequence in a sale worth ~$200M; Sequence raised $19M led by a16z in 2022 (Jess Jones/The Times)",
-            "link": "https://www.techmeme.com/261016/p13#a261016p13",
-            "published": "Fri, 16 Oct 2026 10:15:01 -0400"
+            "title": "Sources: Elon Musk approached Trump with the idea of slowing down Starshield in Ukraine; source: Trump agreed, paving the way for DoD to execute the slowdown (Joe Barnes/Telegraph)",
+            "link": "https://www.techmeme.com/261016/p18#a261016p18",
+            "published": "Fri, 16 Oct 2026 15:05:02 -0400"
         },
         {
-            "title": "Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn't take advantage of RTX Spark (Andrew E. Freedman/Tom's Hardware)",
-            "link": "https://www.techmeme.com/261016/p12#a261016p12",
-            "published": "Fri, 16 Oct 2026 09:50:01 -0400"
+            "title": "The PostgreSQL Global Development Group delays the general availability of PostgreSQL 19 after LLM-assisted code reviews uncovered architectural defects (Lindsay Clark/The Register)",
+            "link": "https://www.techmeme.com/261016/p17#a261016p17",
+            "published": "Fri, 16 Oct 2026 14:45:00 -0400"
         },
         {
-            "title": "Sources: PayPal, Epic, and others voiced concerns to DOJ as it signaled a preference to settle its Apple antitrust suit with a deal focusing on interoperability (Aaron Tilley/The Information)",
-            "link": "https://www.techmeme.com/261016/p11#a261016p11",
-            "published": "Fri, 16 Oct 2026 09:40:01 -0400"
+            "title": "Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak (Dylan Sloan/Bloomberg)",
+            "link": "https://www.techmeme.com/261016/p16#a261016p16",
+            "published": "Fri, 16 Oct 2026 13:50:01 -0400"
         }
     ],
     "source_1": [
@@ -50,10 +50,15 @@
         {
             "title": "Why No One Can Look Away From Elizabeth Holmes",
             "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
-            "published": "Fri, 16 Oct 2026 17:15:33 +0000"
+            "published": "Fri, 16 Oct 2026 19:28:48 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+            "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 18:11:29 GMT"
+        },
         {
             "title": "Russian man linked to deadly London hospitals hack arrested",
             "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Living with a stink? Technology might help",
             "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 15 Oct 2026 23:18:21 GMT"
-        },
-        {
-            "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-            "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 15 Oct 2026 14:25:48 GMT"
         }
     ]
 }
