@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI (Reuters)",
-            "link": "https://www.techmeme.com/261016/p2#a261016p2",
-            "published": "Fri, 16 Oct 2026 02:05:01 -0400"
+            "title": "Taiwan plans to curb AI server and chip exports to China as part of a US trade deal and make shipping restricted AI hardware to China a criminal offense (Bloomberg)",
+            "link": "https://www.techmeme.com/261016/p8#a261016p8",
+            "published": "Fri, 16 Oct 2026 07:45:05 -0400"
         },
         {
-            "title": "Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn (Bloomberg)",
-            "link": "https://www.techmeme.com/261016/p1#a261016p1",
-            "published": "Fri, 16 Oct 2026 00:55:00 -0400"
+            "title": "US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use (Stuart A. Thompson/New York Times)",
+            "link": "https://www.techmeme.com/261016/p7#a261016p7",
+            "published": "Fri, 16 Oct 2026 06:55:01 -0400"
         },
         {
-            "title": "Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a \u223c$29M Series B led by Vertex Ventures and Hitachi Ventures (Chris Metinko/Axios)",
-            "link": "https://www.techmeme.com/261015/p61#a261015p61",
-            "published": "Thu, 15 Oct 2026 23:40:00 -0400"
+            "title": "India's cyber agency says AI agents broke into Indian organizations' systems and read confidential files undetected; AI model providers flagged the incidents (Munsif Vengattil/Reuters)",
+            "link": "https://www.techmeme.com/261016/p6#a261016p6",
+            "published": "Fri, 16 Oct 2026 06:40:01 -0400"
         },
         {
-            "title": "Sources detail Nscale's setbacks ahead of an IPO at up to a $35B valuation, including a six-month delay in Norway and penalties owed to Microsoft and ByteDance (Bloomberg)",
-            "link": "https://www.techmeme.com/261015/p60#a261015p60",
-            "published": "Thu, 15 Oct 2026 23:15:02 -0400"
+            "title": "China is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements (Bloomberg)",
+            "link": "https://www.techmeme.com/261016/p5#a261016p5",
+            "published": "Fri, 16 Oct 2026 06:35:02 -0400"
         },
         {
-            "title": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
-            "link": "https://www.techmeme.com/261015/p59#a261015p59",
-            "published": "Thu, 15 Oct 2026 22:20:01 -0400"
+            "title": "OpenAI says its model paid for a deployment on an Ethereum test network with a wallet it did not own, after obtaining keys from public recovery phrases (Shaurya Malwa/CoinDesk)",
+            "link": "https://www.techmeme.com/261016/p4#a261016p4",
+            "published": "Fri, 16 Oct 2026 06:10:22 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Wed, 14 Oct 2026 15:21:46 +0000"
         },
         {
-            "title": "Ms., Martians and Guacamole: Their First Time in The Times",
-            "link": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
-            "published": "Thu, 15 Oct 2026 19:50:16 +0000"
+            "title": "Why No One Can Look Away From Elizabeth Holmes",
+            "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
+            "published": "Fri, 16 Oct 2026 11:00:03 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Snapchat and Instagram grooming becoming 'easier'",
+            "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 05:12:48 GMT"
+        },
         {
             "title": "Porn showing choking or incest to be banned from early November, government says",
             "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
             "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 15 Oct 2026 11:34:55 GMT"
-        },
-        {
-            "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-            "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 14 Oct 2026 15:54:04 GMT"
         }
     ]
 }
