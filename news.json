@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
+            "link": "https://www.techmeme.com/261017/p18#a261017p18",
+            "published": "Sat, 17 Oct 2026 16:50:01 -0400"
+        },
+        {
+            "title": "Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports (Zack Abrams/The Block)",
+            "link": "https://www.techmeme.com/261017/p17#a261017p17",
+            "published": "Sat, 17 Oct 2026 15:55:00 -0400"
+        },
+        {
             "title": "Bleecker Street says TikTok suspended the Musk documentary account for \"political policy\" violations and called the suspension \"permanent\"; Bleecker's appealing (Steven Zeitchik/The Hollywood Reporter)",
             "link": "https://www.techmeme.com/261017/p16#a261017p16",
             "published": "Sat, 17 Oct 2026 15:10:04 -0400"
@@ -14,16 +24,6 @@
             "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\" (Terrence O'Brien/The Verge)",
             "link": "https://www.techmeme.com/261017/p14#a261017p14",
             "published": "Sat, 17 Oct 2026 11:50:02 -0400"
-        },
-        {
-            "title": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark performance, faster task completion, and shorter outputs\" than its predecessor (Saritha Rai/Bloomberg)",
-            "link": "https://www.techmeme.com/261017/p13#a261017p13",
-            "published": "Sat, 17 Oct 2026 11:00:37 -0400"
-        },
-        {
-            "title": "Zelenskyy says Starshield restrictions remain and are affecting only Ukraine, leading him to believe they are a \"planned operation\" rather than technical issues (Bloomberg)",
-            "link": "https://www.techmeme.com/261017/p12#a261017p12",
-            "published": "Sat, 17 Oct 2026 10:25:03 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "No further action against government adviser's wife over Palestine Action post, police say",
+            "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 20:24:32 GMT"
+        },
+        {
             "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
             "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 16 Oct 2026 18:11:29 GMT"
@@ -73,11 +78,6 @@
             "title": "Porn showing choking or incest to be banned from early November, government says",
             "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 15 Oct 2026 23:27:57 GMT"
-        },
-        {
-            "title": "Living with a stink? Technology might help",
-            "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 15 Oct 2026 23:18:21 GMT"
         }
     ]
 }
