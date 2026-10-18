@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Google says \"magic state cultivation\" works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x (Google)",
+            "link": "https://www.techmeme.com/261017/p19#a261017p19",
+            "published": "Sat, 17 Oct 2026 19:35:01 -0400"
+        },
+        {
             "title": "Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a \"large scale distillation attack\" (Walter Schulze/Startup Fortune)",
             "link": "https://www.techmeme.com/261017/p18#a261017p18",
             "published": "Sat, 17 Oct 2026 16:50:01 -0400"
@@ -19,11 +24,6 @@
             "title": "MapQuest adds a Surveillance Layer to its mobile app showing license plate readers and cameras from 10+ companies including Flock, using OpenStreetMap data (Chase DiBenedetto/Mashable)",
             "link": "https://www.techmeme.com/261017/p15#a261017p15",
             "published": "Sat, 17 Oct 2026 15:00:01 -0400"
-        },
-        {
-            "title": "Meta removes ToS language that suggested it could scrape websites \"associated with\" business accounts, saying it applied only to \"ads and business products\" (Terrence O'Brien/The Verge)",
-            "link": "https://www.techmeme.com/261017/p14#a261017p14",
-            "published": "Sat, 17 Oct 2026 11:50:02 -0400"
         }
     ],
     "source_1": [
