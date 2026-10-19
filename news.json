@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "MiniMax launches M3.1 Flash, saying it delivers \"a generational leap\" in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23 (MiniMax)",
-            "link": "https://www.techmeme.com/261019/p30#a261019p30",
-            "published": "Mon, 19 Oct 2026 11:30:01 -0400"
+            "title": "Ramp says it applied to the US OCC for a trust bank charter that, if approved, would allow it to offer fiduciary investment management and digital asset custody (Paige Smith/Bloomberg)",
+            "link": "https://www.techmeme.com/261019/p42#a261019p42",
+            "published": "Mon, 19 Oct 2026 16:00:15 -0400"
         },
         {
-            "title": "Sources: DHS officials asked CISA to hack a voting machine to report vulnerabilities to the White House without telling the vendor; the request wasn't acted on (ProPublica)",
-            "link": "https://www.techmeme.com/261019/p29#a261019p29",
-            "published": "Mon, 19 Oct 2026 11:10:04 -0400"
+            "title": "Sources: Nscale is in talks for a second deal with Anthropic worth ~$45B to deliver 460MW of computing power at its West Virginia campus using Vera Rubin chips (Bloomberg)",
+            "link": "https://www.techmeme.com/261019/p41#a261019p41",
+            "published": "Mon, 19 Oct 2026 15:55:03 -0400"
         },
         {
-            "title": "The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261019/p28#a261019p28",
-            "published": "Mon, 19 Oct 2026 10:55:01 -0400"
+            "title": "Meta details Prometheus, its gigawatt-scale supercluster in Ohio, which will have ~1M GPUs at full scale and was used to train its Muse foundational models (Engineering at Meta)",
+            "link": "https://www.techmeme.com/261019/p40#a261019p40",
+            "published": "Mon, 19 Oct 2026 14:25:01 -0400"
         },
         {
-            "title": "Sources: US investigators pursuing ShinyHunters, which stole FBI data, identified executives at two ransomware negotiation firms who had unusually close ties (Brian Krebs/Krebs on Security)",
-            "link": "https://www.techmeme.com/261019/p27#a261019p27",
-            "published": "Mon, 19 Oct 2026 10:35:08 -0400"
+            "title": "Town, which develops enterprise AI assistants, raised a $108M Series B at a $1B valuation, after announcing a $55M Series A in June (Dominic-Madori Davis/TechCrunch)",
+            "link": "https://www.techmeme.com/261019/p39#a261019p39",
+            "published": "Mon, 19 Oct 2026 14:20:00 -0400"
         },
         {
-            "title": "Filing: US prosecutors say OpenAI suspect Abdulrahman Alfozan maintained frequent WhatsApp contact in 2025 and 2026 with an unnamed Saudi Royal Family member (Dan Mangan/CNBC)",
-            "link": "https://www.techmeme.com/261019/p26#a261019p26",
-            "published": "Mon, 19 Oct 2026 10:25:00 -0400"
+            "title": "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/261019/p38#a261019p38",
+            "published": "Mon, 19 Oct 2026 14:05:02 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+            "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+            "published": "Mon, 19 Oct 2026 18:44:56 +0000"
+        },
         {
             "title": "Elon Musk Says He Will Give a SpaceX Share to \u2018Every Kid in America\u2019",
             "link": "https://www.nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html",
@@ -40,20 +45,25 @@
         {
             "title": "Why No One Can Look Away From Elizabeth Holmes",
             "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
-            "published": "Fri, 16 Oct 2026 19:28:48 +0000"
+            "published": "Mon, 19 Oct 2026 20:13:39 +0000"
         },
         {
             "title": "Ms., Martians and Guacamole: Their First Time in The Times",
             "link": "https://www.nytimes.com/2026/10/15/us/175-anniversary-history-corrections-pulitzer-martian.html",
             "published": "Thu, 15 Oct 2026 19:50:16 +0000"
-        },
-        {
-            "title": "Exhausted Parents Are Turning to A.I. Apps Despite the Risks",
-            "link": "https://www.nytimes.com/2026/10/15/style/ai-parenting-motherhood-ollie-fambot.html",
-            "published": "Thu, 15 Oct 2026 10:52:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+            "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 18:21:54 GMT"
+        },
+        {
+            "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+            "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 16:22:12 GMT"
+        },
         {
             "title": "Uber wins bid to throw out \u00a3200m black cab claims",
             "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "China's growth accelerates as AI boom helps boost exports",
             "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 19 Oct 2026 06:08:02 GMT"
-        },
-        {
-            "title": "Don't fall for this - how to protect yourself from AI scams",
-            "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 18 Oct 2026 23:24:59 GMT"
-        },
-        {
-            "title": "No further action against government adviser's wife over Palestine Action post, police say",
-            "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 17 Oct 2026 20:24:32 GMT"
         }
     ]
 }
