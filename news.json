@@ -1,41 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "AI's ability to forecast extreme weather faces a major test in the coming months amid a historic El Ni\u00f1o, as some scientists question the technology's accuracy (Financial Times)",
-            "link": "https://www.techmeme.com/261019/p5#a261019p5",
-            "published": "Mon, 19 Oct 2026 02:25:00 -0400"
+            "title": "MiniMax launches M3.1 Flash, saying it delivers \"a generational leap\" in agentic tasks, coding, computer use, and cybersecurity, with weights due October 23 (MiniMax)",
+            "link": "https://www.techmeme.com/261019/p30#a261019p30",
+            "published": "Mon, 19 Oct 2026 11:30:01 -0400"
         },
         {
-            "title": "Survey of 94 economists: 54% expect AI's gains to spread across the G20 over the next decade, not just the US and China; 32 see African countries falling behind (Financial Times)",
-            "link": "https://www.techmeme.com/261019/p4#a261019p4",
-            "published": "Mon, 19 Oct 2026 01:45:01 -0400"
+            "title": "Sources: DHS officials asked CISA to hack a voting machine to report vulnerabilities to the White House without telling the vendor; the request wasn't acted on (ProPublica)",
+            "link": "https://www.techmeme.com/261019/p29#a261019p29",
+            "published": "Mon, 19 Oct 2026 11:10:04 -0400"
         },
         {
-            "title": "Stripe Link data shows agentic transactions increased by 38x and volume of payments by 20x in September, with retail leading in both, and a ~$100 average spend (Alex Konrad/Upstarts Media)",
-            "link": "https://www.techmeme.com/261019/p3#a261019p3",
-            "published": "Mon, 19 Oct 2026 01:20:01 -0400"
+            "title": "The US DHS orders all federal civilian agencies to remove any DeepSeek tech from their IT systems and prohibits future procurement of its products and services (Connor Hart/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261019/p28#a261019p28",
+            "published": "Mon, 19 Oct 2026 10:55:01 -0400"
         },
         {
-            "title": "Abby Care, which runs a clinically led, AI-powered platform to train and certify family caregivers, raised an $82M Series C led by Transformation Capital (Allie Garfinkle/Fortune)",
-            "link": "https://www.techmeme.com/261019/p2#a261019p2",
-            "published": "Mon, 19 Oct 2026 00:40:02 -0400"
+            "title": "Sources: US investigators pursuing ShinyHunters, which stole FBI data, identified executives at two ransomware negotiation firms who had unusually close ties (Brian Krebs/Krebs on Security)",
+            "link": "https://www.techmeme.com/261019/p27#a261019p27",
+            "published": "Mon, 19 Oct 2026 10:35:08 -0400"
         },
         {
-            "title": "Allium: stablecoin payments rose 45% YoY to $482B YTD through September 30, with transactions up 71% to 1.04B, while circulating supply grew just 0.4% (Krisztian Sandor/CoinDesk)",
-            "link": "https://www.techmeme.com/261019/p1#a261019p1",
-            "published": "Mon, 19 Oct 2026 00:15:01 -0400"
+            "title": "Filing: US prosecutors say OpenAI suspect Abdulrahman Alfozan maintained frequent WhatsApp contact in 2025 and 2026 with an unnamed Saudi Royal Family member (Dan Mangan/CNBC)",
+            "link": "https://www.techmeme.com/261019/p26#a261019p26",
+            "published": "Mon, 19 Oct 2026 10:25:00 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Elon Musk Says He Will Give a SpaceX Share to \u2018Every Kid in America\u2019",
+            "link": "https://www.nytimes.com/2026/10/19/business/elon-musk-spacex-stock-anthropic-giveaway.html",
+            "published": "Mon, 19 Oct 2026 14:23:08 +0000"
+        },
+        {
             "title": "Meta Withdraws $25 Million from Its Midterms Push",
             "link": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
             "published": "Fri, 16 Oct 2026 20:58:41 +0000"
-        },
-        {
-            "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
-            "link": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
-            "published": "Thu, 15 Oct 2026 14:51:19 +0000"
         },
         {
             "title": "Why No One Can Look Away From Elizabeth Holmes",
@@ -55,14 +55,19 @@
     ],
     "source_2": [
         {
+            "title": "Uber wins bid to throw out \u00a3200m black cab claims",
+            "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 12:58:39 GMT"
+        },
+        {
+            "title": "Musk and Anthropic pledge public share giveaways",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 09:38:25 GMT"
+        },
+        {
             "title": "China's growth accelerates as AI boom helps boost exports",
             "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 19 Oct 2026 06:08:02 GMT"
-        },
-        {
-            "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-            "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 19 Oct 2026 04:30:59 GMT"
         },
         {
             "title": "Don't fall for this - how to protect yourself from AI scams",
@@ -73,11 +78,6 @@
             "title": "No further action against government adviser's wife over Palestine Action post, police say",
             "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 17 Oct 2026 20:24:32 GMT"
-        },
-        {
-            "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-            "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 16 Oct 2026 18:11:29 GMT"
         }
     ]
 }
