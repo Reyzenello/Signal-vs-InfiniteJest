@@ -1,32 +1,42 @@
 {
     "techmeme": [
         {
-            "title": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B (Lora Kolodny/CNBC)",
-            "link": "https://www.techmeme.com/261020/p43#a261020p43",
-            "published": "Tue, 20 Oct 2026 16:26:57 -0400"
+            "title": "An interview with OnlyFans CEO Keily Blair about plans to offer financial services to its 2.5M active creators, a potential IPO, and more (Emma Hinchliffe/Fortune)",
+            "link": "https://www.techmeme.com/261020/p54#a261020p54",
+            "published": "Tue, 20 Oct 2026 19:15:01 -0400"
         },
         {
-            "title": "Netflix says despite investor concern about its view-hours growth, its engagement is \"healthy\" and it will try to bring more third-party content to its service (Nicole Sperling/New York Times)",
-            "link": "https://www.techmeme.com/261020/p42#a261020p42",
-            "published": "Tue, 20 Oct 2026 16:15:11 -0400"
+            "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
+            "link": "https://www.techmeme.com/261020/p53#a261020p53",
+            "published": "Tue, 20 Oct 2026 18:30:04 -0400"
         },
         {
-            "title": "Netflix reports Q3 revenue up 12% YoY to $12.87B, vs. $12.87B est., net income up 44% to $3.66B, due to the timing of expenses; NFLX drops 4%+ after hours (Sarah Whitten/CNBC)",
-            "link": "https://www.techmeme.com/261020/p41#a261020p41",
-            "published": "Tue, 20 Oct 2026 16:10:01 -0400"
+            "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
+            "link": "https://www.techmeme.com/261020/p52#a261020p52",
+            "published": "Tue, 20 Oct 2026 18:00:01 -0400"
         },
         {
-            "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges (Anissa Gardizy/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261020/p40#a261020p40",
-            "published": "Tue, 20 Oct 2026 15:46:50 -0400"
+            "title": "PHP development team plans to release updates tomorrow to address two vulnerabilities, each rated 9.2; security researchers at watchTowr say they are RCE flaws (Lawrence Abrams/BleepingComputer)",
+            "link": "https://www.techmeme.com/261020/p51#a261020p51",
+            "published": "Tue, 20 Oct 2026 17:55:01 -0400"
         },
         {
-            "title": "A profile of Xbox CEO Asha Sharma; sources: Xbox plans a major Game Pass overhaul, a next-gen handheld device by late 2027, and next-gen console by late 2028 (Sebastian Herrera/Fortune)",
-            "link": "https://www.techmeme.com/261020/p39#a261020p39",
-            "published": "Tue, 20 Oct 2026 15:45:01 -0400"
+            "title": "Elon Musk says Tesla and SpaceX have formed special committees to discuss a possible merger and calls the possibility of a Tesla-SpaceX merger a \"good idea\" (Andrew J. Hawkins/The Verge)",
+            "link": "https://www.techmeme.com/261020/p50#a261020p50",
+            "published": "Tue, 20 Oct 2026 17:45:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "SpaceX Swings to a Profit, as A.I. Business Grows",
+            "link": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
+            "published": "Tue, 20 Oct 2026 22:37:38 +0000"
+        },
+        {
+            "title": "Joel Kaplan, Meta\u2019s Global Policy Chief, to Leave After 15 Years",
+            "link": "https://www.nytimes.com/2026/10/20/technology/meta-joel-kaplan-policy-chief-depart.html",
+            "published": "Tue, 20 Oct 2026 18:18:07 +0000"
+        },
         {
             "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
             "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
@@ -38,22 +48,22 @@
             "published": "Mon, 19 Oct 2026 22:12:02 +0000"
         },
         {
-            "title": "Meta Withdraws $25 Million from Its Midterms Push",
-            "link": "https://www.nytimes.com/2026/10/16/technology/meta-midterms-funding.html",
-            "published": "Fri, 16 Oct 2026 20:58:41 +0000"
-        },
-        {
-            "title": "Why No One Can Look Away From Elizabeth Holmes",
-            "link": "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html",
-            "published": "Mon, 19 Oct 2026 20:13:39 +0000"
-        },
-        {
-            "title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
-            "link": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
-            "published": "Tue, 20 Oct 2026 20:01:06 +0000"
+            "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+            "link": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+            "published": "Tue, 20 Oct 2026 22:24:29 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Elon Musk says Tesla-SpaceX merger being considered",
+            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 23:24:47 GMT"
+        },
+        {
+            "title": "The tech helping crack decades-old cold cases",
+            "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 23:13:24 GMT"
+        },
         {
             "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
             "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "UK asks Apple to widen access to its payment tech",
             "link": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 20 Oct 2026 12:29:24 GMT"
-        },
-        {
-            "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-            "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 19 Oct 2026 21:12:30 GMT"
-        },
-        {
-            "title": "US bans China's DeepSeek from government in race for AI dominance",
-            "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 19 Oct 2026 18:21:54 GMT"
         }
     ]
 }
