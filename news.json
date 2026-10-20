@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Mark Zuckerberg says Joel Kaplan, Meta's chief global affairs officer and his top DC adviser for 15+ years, is set to leave in 2027; Kaplan had close Trump ties (Mike Allen/Axios)",
-            "link": "https://www.techmeme.com/261020/p29#a261020p29",
-            "published": "Tue, 20 Oct 2026 12:12:27 -0400"
+            "title": "SpaceX reports Q3 revenue up 161% YoY to $14.58B, vs. $12.72B est., AI revenue up 830% to $7.56B, and AI operating income of $431M, up from a loss of $1.7B (Lora Kolodny/CNBC)",
+            "link": "https://www.techmeme.com/261020/p43#a261020p43",
+            "published": "Tue, 20 Oct 2026 16:26:57 -0400"
         },
         {
-            "title": "ASI, which makes AI tools for the military and air traffic controllers, raised a $325M Series C at a $3B valuation, after winning an $875M FAA contract in June (Bloomberg)",
-            "link": "https://www.techmeme.com/261020/p28#a261020p28",
-            "published": "Tue, 20 Oct 2026 11:55:04 -0400"
+            "title": "Netflix says despite investor concern about its view-hours growth, its engagement is \"healthy\" and it will try to bring more third-party content to its service (Nicole Sperling/New York Times)",
+            "link": "https://www.techmeme.com/261020/p42#a261020p42",
+            "published": "Tue, 20 Oct 2026 16:15:11 -0400"
         },
         {
-            "title": "Daytona, which is building cloud infrastructure for AI agents, raised a $60M Series B led by FirstMark at a $1B valuation, bringing its total funding to $91M (Jeremy Kahn/Fortune)",
-            "link": "https://www.techmeme.com/261020/p27#a261020p27",
-            "published": "Tue, 20 Oct 2026 11:00:48 -0400"
+            "title": "Netflix reports Q3 revenue up 12% YoY to $12.87B, vs. $12.87B est., net income up 44% to $3.66B, due to the timing of expenses; NFLX drops 4%+ after hours (Sarah Whitten/CNBC)",
+            "link": "https://www.techmeme.com/261020/p41#a261020p41",
+            "published": "Tue, 20 Oct 2026 16:10:01 -0400"
         },
         {
-            "title": "Firefly, whose AI software connects with existing cameras, radios, and sensors to detect incidents and coordinate real-time responses, raised a $20M Series A (Chris Metinko/Axios)",
-            "link": "https://www.techmeme.com/261020/p26#a261020p26",
-            "published": "Tue, 20 Oct 2026 10:35:03 -0400"
+            "title": "Anthropic's IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges (Anissa Gardizy/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261020/p40#a261020p40",
+            "published": "Tue, 20 Oct 2026 15:46:50 -0400"
         },
         {
-            "title": "Sources: OpenAI has retreated from advocating for strict export controls on US chipmakers selling to China, a boon for Nvidia and aligning with President Trump (Politico)",
-            "link": "https://www.techmeme.com/261020/p25#a261020p25",
-            "published": "Tue, 20 Oct 2026 09:55:03 -0400"
+            "title": "A profile of Xbox CEO Asha Sharma; sources: Xbox plans a major Game Pass overhaul, a next-gen handheld device by late 2027, and next-gen console by late 2028 (Sebastian Herrera/Fortune)",
+            "link": "https://www.techmeme.com/261020/p39#a261020p39",
+            "published": "Tue, 20 Oct 2026 15:45:01 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,21 @@
             "published": "Mon, 19 Oct 2026 20:13:39 +0000"
         },
         {
-            "title": "Google Reports Cloud Disruptions in Europe",
-            "link": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
-            "published": "Tue, 20 Oct 2026 13:04:12 +0000"
+            "title": "Netflix Is Great at Making Money. Its Problem Is Keeping Viewers Hooked.",
+            "link": "https://www.nytimes.com/2026/10/20/business/media/netflix-earnings-ted-sarandos-peter-rice.html",
+            "published": "Tue, 20 Oct 2026 20:01:06 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Google says services recovering after cloud outage hits UK banks and websites",
+            "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+            "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 19:42:32 GMT"
+        },
+        {
+            "title": "Google resolves cloud outage affecting UK banks and websites",
             "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 20 Oct 2026 15:37:26 GMT"
+            "published": "Tue, 20 Oct 2026 18:03:19 GMT"
         },
         {
             "title": "UK asks Apple to widen access to its payment tech",
@@ -73,11 +78,6 @@
             "title": "US bans China's DeepSeek from government in race for AI dominance",
             "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 19 Oct 2026 18:21:54 GMT"
-        },
-        {
-            "title": "Uber wins bid to throw out \u00a3200m black cab claims",
-            "link": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 19 Oct 2026 12:58:39 GMT"
         }
     ]
 }
