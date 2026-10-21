@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "An interview with OnlyFans CEO Keily Blair about plans to offer financial services to its 2.5M active creators, a potential IPO, and more (Emma Hinchliffe/Fortune)",
-            "link": "https://www.techmeme.com/261020/p54#a261020p54",
-            "published": "Tue, 20 Oct 2026 19:15:01 -0400"
+            "title": "OpenAI says two agents, one GPT-6.1 Sol and one GPT-6 Astra, weakened misalignment monitoring while making requested changes during two internal coding tasks (OpenAI)",
+            "link": "https://www.techmeme.com/261020/p60#a261020p60",
+            "published": "Tue, 20 Oct 2026 23:40:01 -0400"
         },
         {
-            "title": "Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature (Abner Li/9to5Google)",
-            "link": "https://www.techmeme.com/261020/p53#a261020p53",
-            "published": "Tue, 20 Oct 2026 18:30:04 -0400"
+            "title": "Sources: DayOne is weighing options for its US IPO, including a delay or smaller listing that could raise $2.5B to $3B, after initially seeking up to $5B in Q4 (Bloomberg)",
+            "link": "https://www.techmeme.com/261020/p59#a261020p59",
+            "published": "Tue, 20 Oct 2026 22:50:09 -0400"
         },
         {
-            "title": "Pigment, a French startup that makes AI-powered software to help businesses forecast finances, spin up slide decks, and more, raised $250M at a $2.3B valuation (Dina Bass/Bloomberg)",
-            "link": "https://www.techmeme.com/261020/p52#a261020p52",
-            "published": "Tue, 20 Oct 2026 18:00:01 -0400"
+            "title": "An interview with Goodfire researcher Nick Cammarata, whose viral blog post claimed LLMs are easier to understand than thought, as other researchers push back (Will Douglas Heaven/MIT Technology Review)",
+            "link": "https://www.techmeme.com/261020/p58#a261020p58",
+            "published": "Tue, 20 Oct 2026 22:10:01 -0400"
         },
         {
-            "title": "PHP development team plans to release updates tomorrow to address two vulnerabilities, each rated 9.2; security researchers at watchTowr say they are RCE flaws (Lawrence Abrams/BleepingComputer)",
-            "link": "https://www.techmeme.com/261020/p51#a261020p51",
-            "published": "Tue, 20 Oct 2026 17:55:01 -0400"
+            "title": "Thiel's leaked Rome lectures cast EA and AI \"safetyism\" as Antichrist forerunners, Bill Gates as \"Mr. Hyde\", and Eliezer Yudkowsky as \"more Luddite than Greta\" (David Gibson/The Verge)",
+            "link": "https://www.techmeme.com/261020/p57#a261020p57",
+            "published": "Tue, 20 Oct 2026 21:10:02 -0400"
         },
         {
-            "title": "Elon Musk says Tesla and SpaceX have formed special committees to discuss a possible merger and calls the possibility of a Tesla-SpaceX merger a \"good idea\" (Andrew J. Hawkins/The Verge)",
-            "link": "https://www.techmeme.com/261020/p50#a261020p50",
-            "published": "Tue, 20 Oct 2026 17:45:01 -0400"
+            "title": "Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility (Phoebe Liu/The Information)",
+            "link": "https://www.techmeme.com/261020/p56#a261020p56",
+            "published": "Tue, 20 Oct 2026 20:10:01 -0400"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Mon, 19 Oct 2026 22:12:02 +0000"
         },
         {
-            "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
-            "link": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-            "published": "Tue, 20 Oct 2026 22:24:29 +0000"
+            "title": "UK to Headphone Dodgers on Trains: Shush",
+            "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
+            "published": "Wed, 21 Oct 2026 04:01:05 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+            "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 04:13:14 GMT"
+        },
         {
             "title": "Elon Musk says Tesla-SpaceX merger being considered",
             "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Google resolves cloud outage affecting UK banks and websites",
             "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 20 Oct 2026 18:03:19 GMT"
-        },
-        {
-            "title": "UK asks Apple to widen access to its payment tech",
-            "link": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 20 Oct 2026 12:29:24 GMT"
         }
     ]
 }
