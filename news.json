@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Whop, which helps people start, run, and scale businesses and uses AI to suggest business decisions, raised $205M led by Sequoia Capital at a $5.1B valuation (Natasha Mascarenhas/Bloomberg)",
-            "link": "https://www.techmeme.com/261021/p35#a261021p35",
-            "published": "Wed, 21 Oct 2026 10:50:03 -0400"
+            "title": "OpenAI, PerturbAI, and Scripps say thousands of GPT-Rosalind agents analyzed data on millions of mouse brain cells in 32 minutes, a job that takes humans months (OpenAI)",
+            "link": "https://www.techmeme.com/261021/p45#a261021p45",
+            "published": "Wed, 21 Oct 2026 15:45:01 -0400"
         },
         {
-            "title": "OpenAI says the PHP flaws, found using GPT-5.6 Sol, \"are among several significant vulnerabilities\" it found and expects \"similar findings to increase sharply\" (OpenAI)",
-            "link": "https://www.techmeme.com/261021/p34#a261021p34",
-            "published": "Wed, 21 Oct 2026 10:31:56 -0400"
+            "title": "Microsoft reveals pricing for Xbox Cloud Gaming without Game Pass, for Xbox Insiders now and others next month: 10 hours for $3.99, 25 for $7.99, 50 for $11.99 (Tom Warren/The Verge)",
+            "link": "https://www.techmeme.com/261021/p44#a261021p44",
+            "published": "Wed, 21 Oct 2026 15:10:01 -0400"
         },
         {
-            "title": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A (Sean O'Kane/TechCrunch)",
-            "link": "https://www.techmeme.com/261021/p33#a261021p33",
-            "published": "Wed, 21 Oct 2026 10:30:02 -0400"
+            "title": "Flapping Airplanes, which is working on methods to train AI models using less data and compute and make the chips more efficient, raised $1B at a $6B valuation (Rachel Metz/Bloomberg)",
+            "link": "https://www.techmeme.com/261021/p43#a261021p43",
+            "published": "Wed, 21 Oct 2026 13:45:08 -0400"
         },
         {
-            "title": "Cloudflare says it deployed WAF mitigations for all free and paid tier customers to combat two PHP flaws by default, about nine hours ahead of public disclosure (Cloudflare)",
-            "link": "https://www.techmeme.com/261021/p32#a261021p32",
-            "published": "Wed, 21 Oct 2026 10:20:03 -0400"
+            "title": "A New Mexico court orders Meta to pay $25B in penalties after a jury found Meta misled residents about its data practices in the Cambridge Analytica scandal (Jonathan Vanian/CNBC)",
+            "link": "https://www.techmeme.com/261021/p42#a261021p42",
+            "published": "Wed, 21 Oct 2026 13:33:39 -0400"
         },
         {
-            "title": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of C, C++, Java, PHP, and Python code; one went unnoticed for 21 years (Chris Rohlf/Anthropic)",
-            "link": "https://www.techmeme.com/261021/p31#a261021p31",
-            "published": "Wed, 21 Oct 2026 10:15:01 -0400"
+            "title": "Source and leaked memo: EA plans to cut ~400 jobs, or ~3% of its total staff, and shut down BioWare; EA went private in August following a $55B leveraged buyout (Jason Schreier/Bloomberg)",
+            "link": "https://www.techmeme.com/261021/p41#a261021p41",
+            "published": "Wed, 21 Oct 2026 13:15:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
+            "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
+            "published": "Wed, 21 Oct 2026 19:57:08 +0000"
+        },
         {
             "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
             "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
@@ -43,21 +48,21 @@
             "published": "Wed, 21 Oct 2026 03:15:01 +0000"
         },
         {
-            "title": "Joel Kaplan, Meta\u2019s Global Policy Chief, to Leave After 15 Years",
-            "link": "https://www.nytimes.com/2026/10/20/technology/meta-joel-kaplan-policy-chief-depart.html",
-            "published": "Tue, 20 Oct 2026 18:18:07 +0000"
-        },
-        {
-            "title": "How The New York Times Reports on A.I. Images",
-            "link": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
-            "published": "Wed, 21 Oct 2026 13:21:54 +0000"
+            "title": "GM Aims to Bring \u2018Eyes-Off\u2019 Driving to AI-Powered Cars Within 2 Years",
+            "link": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
+            "published": "Wed, 21 Oct 2026 18:23:52 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Websites taken down across Europe as critical cyber-security update issued",
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
             "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 21 Oct 2026 14:39:41 GMT"
+            "published": "Wed, 21 Oct 2026 19:54:57 GMT"
+        },
+        {
+            "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+            "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 17:04:13 GMT"
         },
         {
             "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
@@ -73,11 +78,6 @@
             "title": "The tech helping crack decades-old cold cases",
             "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 20 Oct 2026 23:13:24 GMT"
-        },
-        {
-            "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-            "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 20 Oct 2026 19:42:32 GMT"
         }
     ]
 }
