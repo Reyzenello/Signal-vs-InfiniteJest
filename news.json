@@ -1,36 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic and Citrini Research use an internal Claude model to autonomously generate protein minibinders against five scorpion neurotoxins, testing 211 designs (Anthropic)",
-            "link": "https://www.techmeme.com/261021/p10#a261021p10",
-            "published": "Wed, 21 Oct 2026 05:55:03 -0400"
+            "title": "Whop, which helps people start, run, and scale businesses and uses AI to suggest business decisions, raised $205M led by Sequoia Capital at a $5.1B valuation (Natasha Mascarenhas/Bloomberg)",
+            "link": "https://www.techmeme.com/261021/p35#a261021p35",
+            "published": "Wed, 21 Oct 2026 10:50:03 -0400"
         },
         {
-            "title": "Micron and the union of workers at its Taichung facility sign a multi-issue agreement, without giving details, resolving tensions at its largest Taiwan site (Reuters)",
-            "link": "https://www.techmeme.com/261021/p9#a261021p9",
-            "published": "Wed, 21 Oct 2026 05:45:00 -0400"
+            "title": "OpenAI says the PHP flaws, found using GPT-5.6 Sol, \"are among several significant vulnerabilities\" it found and expects \"similar findings to increase sharply\" (OpenAI)",
+            "link": "https://www.techmeme.com/261021/p34#a261021p34",
+            "published": "Wed, 21 Oct 2026 10:31:56 -0400"
         },
         {
-            "title": "Memo: Nscale CEO Josh Payne says it has \"more than $100B in contracted revenue\"; sources say it still plans to list by the end of 2026 at a $30B-$35B valuation (Kieran Smith/Financial Times)",
-            "link": "https://www.techmeme.com/261021/p8#a261021p8",
-            "published": "Wed, 21 Oct 2026 04:00:54 -0400"
+            "title": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models using multimodal image and laser scan datasets, raised a $34M Series A (Sean O'Kane/TechCrunch)",
+            "link": "https://www.techmeme.com/261021/p33#a261021p33",
+            "published": "Wed, 21 Oct 2026 10:30:02 -0400"
         },
         {
-            "title": "A look at Chinese philosophical views on AI; one says aligning AI to human values may be a \"suicidal mistake\" and another fears the \"machinization of humans\" (Arnaud Bertrand)",
-            "link": "https://www.techmeme.com/261021/p7#a261021p7",
-            "published": "Wed, 21 Oct 2026 02:40:01 -0400"
+            "title": "Cloudflare says it deployed WAF mitigations for all free and paid tier customers to combat two PHP flaws by default, about nine hours ahead of public disclosure (Cloudflare)",
+            "link": "https://www.techmeme.com/261021/p32#a261021p32",
+            "published": "Wed, 21 Oct 2026 10:20:03 -0400"
         },
         {
-            "title": "OpenEvidence says nearly two-thirds of ~1M US physicians use its AI search engine; a source says it is on track to generate $400M-$500M in 2026 ad revenue (Rafe Rosner-Uddin/Financial Times)",
-            "link": "https://www.techmeme.com/261021/p6#a261021p6",
-            "published": "Wed, 21 Oct 2026 02:25:01 -0400"
+            "title": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of C, C++, Java, PHP, and Python code; one went unnoticed for 21 years (Chris Rohlf/Anthropic)",
+            "link": "https://www.techmeme.com/261021/p31#a261021p31",
+            "published": "Wed, 21 Oct 2026 10:15:01 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+            "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
+            "published": "Wed, 21 Oct 2026 14:39:11 +0000"
+        },
+        {
             "title": "SpaceX Swings to a Profit, as A.I. Business Grows",
             "link": "https://www.nytimes.com/2026/10/20/technology/spacex-earnings-elon-musk.html",
             "published": "Tue, 20 Oct 2026 22:37:38 +0000"
+        },
+        {
+            "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+            "link": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+            "published": "Wed, 21 Oct 2026 03:15:01 +0000"
         },
         {
             "title": "Joel Kaplan, Meta\u2019s Global Policy Chief, to Leave After 15 Years",
@@ -38,22 +48,17 @@
             "published": "Tue, 20 Oct 2026 18:18:07 +0000"
         },
         {
-            "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
-            "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
-            "published": "Tue, 20 Oct 2026 02:27:47 +0000"
-        },
-        {
-            "title": "Elon Musk Says He Will Give a SpaceX Share to \u2018Every Kid in America\u2019",
-            "link": "https://www.nytimes.com/2026/10/19/technology/elon-musk-spacex-stock-anthropic-giveaway.html",
-            "published": "Mon, 19 Oct 2026 22:12:02 +0000"
-        },
-        {
-            "title": "UK to Headphone Dodgers on Trains: Shush",
-            "link": "https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html",
-            "published": "Wed, 21 Oct 2026 04:01:05 +0000"
+            "title": "How The New York Times Reports on A.I. Images",
+            "link": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
+            "published": "Wed, 21 Oct 2026 13:21:54 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Websites taken down across Europe as critical cyber-security update issued",
+            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 14:39:41 GMT"
+        },
         {
             "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
             "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
             "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 20 Oct 2026 19:42:32 GMT"
-        },
-        {
-            "title": "Google resolves cloud outage affecting UK banks and websites",
-            "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 20 Oct 2026 18:03:19 GMT"
         }
     ]
 }
