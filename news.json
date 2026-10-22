@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Maxinsights, which creates training data for robots using first-person footage from cameras worn by 5,000+ contractors, raised a $30M seed led by Peak XV (John Koetsier/Forbes)",
-            "link": "https://www.techmeme.com/261022/p32#a261022p32",
-            "published": "Thu, 22 Oct 2026 10:45:01 -0400"
+            "title": "Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)",
+            "link": "https://www.techmeme.com/261022/p51#a261022p51",
+            "published": "Thu, 22 Oct 2026 15:55:01 -0400"
         },
         {
-            "title": "Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M (Will Maddox/Axios)",
-            "link": "https://www.techmeme.com/261022/p31#a261022p31",
-            "published": "Thu, 22 Oct 2026 10:40:01 -0400"
+            "title": "Microsoft and Alphabet join 14 other companies objecting to a plan by OKXICE, a venture of OKX and ICE, to trade blockchain-based versions of their shares (Camila Grigera Na\u00f3n/Fortune)",
+            "link": "https://www.techmeme.com/261022/p50#a261022p50",
+            "published": "Thu, 22 Oct 2026 15:05:22 -0400"
         },
         {
-            "title": "President Trump says he called Sundar Pichai to ask Google Maps to rename the Atlantic Ocean, though he would \"probably pass\" following Pichai's pushback (Victoria Craw/Washington Post)",
-            "link": "https://www.techmeme.com/261022/p30#a261022p30",
-            "published": "Thu, 22 Oct 2026 10:01:10 -0400"
+            "title": "Amazon issues refunds from a 2025 settlement, crediting \"President Trump's Federal Trade Commission,\" the first time an FTC refund has been tied to a president (Alfred Ng/Politico)",
+            "link": "https://www.techmeme.com/261022/p49#a261022p49",
+            "published": "Thu, 22 Oct 2026 14:40:02 -0400"
         },
         {
-            "title": "Minneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group (Mary Ann Azevedo/Crunchbase News)",
-            "link": "https://www.techmeme.com/261022/p29#a261022p29",
-            "published": "Thu, 22 Oct 2026 09:45:07 -0400"
+            "title": "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors (Robert Hart/The Verge)",
+            "link": "https://www.techmeme.com/261022/p48#a261022p48",
+            "published": "Thu, 22 Oct 2026 14:35:21 -0400"
         },
         {
-            "title": "Apple is rolling out a new \"Made for iPhone Duo\" badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch (Emma Roth/The Verge)",
-            "link": "https://www.techmeme.com/261022/p28#a261022p28",
-            "published": "Thu, 22 Oct 2026 09:35:07 -0400"
+            "title": "Sources: Datadog offered to acquire Israeli cloud cybersecurity startup Upwind Security for nearly $4B; Upwind is finalizing a $300M round at a ~$3.8B valuation (The Information)",
+            "link": "https://www.techmeme.com/261022/p47#a261022p47",
+            "published": "Thu, 22 Oct 2026 14:30:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
             "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
-            "published": "Thu, 22 Oct 2026 14:33:42 +0000"
+            "published": "Thu, 22 Oct 2026 19:29:29 +0000"
         },
         {
             "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California\u2019s Proposed Wealth Tax",
@@ -45,15 +45,25 @@
         {
             "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
             "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-            "published": "Thu, 22 Oct 2026 14:34:09 +0000"
+            "published": "Thu, 22 Oct 2026 17:07:44 +0000"
         },
         {
-            "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
-            "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
-            "published": "Thu, 22 Oct 2026 11:48:14 +0000"
+            "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
+            "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
+            "published": "Thu, 22 Oct 2026 15:55:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+            "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 18:26:56 GMT"
+        },
+        {
+            "title": "Race to update services' computer systems after cyber-security flaw found",
+            "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:12:51 GMT"
+        },
         {
             "title": "What is PHP and why did it spark a global cyber-security scramble?",
             "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "'500 new vulnerabilities' found in government, says AI minister",
             "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 22 Oct 2026 10:08:44 GMT"
-        },
-        {
-            "title": "UK working to identify exposure after global cyber-security warning",
-            "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Oct 2026 08:23:42 GMT"
-        },
-        {
-            "title": "Trump's green card curbs test Indian tech workers' American dream",
-            "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 21 Oct 2026 23:06:37 GMT"
         }
     ]
 }
