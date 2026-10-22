@@ -1,83 +1,83 @@
 {
     "techmeme": [
         {
-            "title": "A look at Huawei and DeepSeek's mutual reliance, where Huawei provides compute hardware while DeepSeek contributes model workloads and kernel optimization (SemiAnalysis)",
-            "link": "https://www.techmeme.com/261022/p12#a261022p12",
-            "published": "Thu, 22 Oct 2026 05:55:01 -0400"
+            "title": "Maxinsights, which creates training data for robots using first-person footage from cameras worn by 5,000+ contractors, raised a $30M seed led by Peak XV (John Koetsier/Forbes)",
+            "link": "https://www.techmeme.com/261022/p32#a261022p32",
+            "published": "Thu, 22 Oct 2026 10:45:01 -0400"
         },
         {
-            "title": "Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers (William Shaw/Bloomberg)",
-            "link": "https://www.techmeme.com/261022/p11#a261022p11",
-            "published": "Thu, 22 Oct 2026 05:45:01 -0400"
+            "title": "Nirva, which plans to launch a wearable AI personal companion that offers relationship advice and more, raised $25M, bringing its total funding to $33M (Will Maddox/Axios)",
+            "link": "https://www.techmeme.com/261022/p31#a261022p31",
+            "published": "Thu, 22 Oct 2026 10:40:01 -0400"
         },
         {
-            "title": "iPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad's (John Gruber/Daring Fireball)",
-            "link": "https://www.techmeme.com/261022/p10#a261022p10",
-            "published": "Thu, 22 Oct 2026 04:00:14 -0400"
+            "title": "President Trump says he called Sundar Pichai to ask Google Maps to rename the Atlantic Ocean, though he would \"probably pass\" following Pichai's pushback (Victoria Craw/Washington Post)",
+            "link": "https://www.techmeme.com/261022/p30#a261022p30",
+            "published": "Thu, 22 Oct 2026 10:01:10 -0400"
         },
         {
-            "title": "How AI is an inherently imperial technology, and how the US and China are building rival \"AI empires\" with different approaches to extend their power (Foreign Affairs)",
-            "link": "https://www.techmeme.com/261022/p9#a261022p9",
-            "published": "Thu, 22 Oct 2026 03:15:01 -0400"
+            "title": "Minneapolis-based Slingshot, which uses AI to help businesses offer embedded insurance, emerges from stealth with a $27M seed co-led by Rally and Skyward Group (Mary Ann Azevedo/Crunchbase News)",
+            "link": "https://www.techmeme.com/261022/p29#a261022p29",
+            "published": "Thu, 22 Oct 2026 09:45:07 -0400"
         },
         {
-            "title": "Pressure to back promising AI startups is upending the VC investment process, with investors willing to buy into the same round at rapidly escalating valuations (Bloomberg)",
-            "link": "https://www.techmeme.com/261022/p8#a261022p8",
-            "published": "Thu, 22 Oct 2026 02:50:01 -0400"
+            "title": "Apple is rolling out a new \"Made for iPhone Duo\" badge in the App Store, and touts Netflix, Prime Video, Zoom, Word, and Outlook as Duo-optimized apps at launch (Emma Roth/The Verge)",
+            "link": "https://www.techmeme.com/261022/p28#a261022p28",
+            "published": "Thu, 22 Oct 2026 09:35:07 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
+            "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
+            "published": "Thu, 22 Oct 2026 14:33:42 +0000"
+        },
         {
             "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California\u2019s Proposed Wealth Tax",
             "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
             "published": "Thu, 22 Oct 2026 01:21:13 +0000"
         },
         {
-            "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
-            "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
-            "published": "Wed, 21 Oct 2026 22:57:53 +0000"
-        },
-        {
-            "title": "Meta Earnings Show Increased A.I. Spending, Even as Cash Pressures Grow",
-            "link": "https://www.nytimes.com/2026/10/21/technology/meta-earnings.html",
-            "published": "Wed, 21 Oct 2026 22:42:39 +0000"
-        },
-        {
-            "title": "Anthropic Joins the A.I. Agent Race With Claude Duet",
-            "link": "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html",
-            "published": "Wed, 21 Oct 2026 22:45:12 +0000"
-        },
-        {
             "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
             "link": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
-            "published": "Thu, 22 Oct 2026 09:02:50 +0000"
+            "published": "Thu, 22 Oct 2026 14:51:58 +0000"
+        },
+        {
+            "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
+            "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
+            "published": "Thu, 22 Oct 2026 14:34:09 +0000"
+        },
+        {
+            "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+            "link": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+            "published": "Thu, 22 Oct 2026 11:48:14 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "What is PHP and why did it spark a global cyber-security scramble?",
+            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 11:15:58 GMT"
+        },
+        {
+            "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+            "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 10:17:26 GMT"
+        },
+        {
+            "title": "'500 new vulnerabilities' found in government, says AI minister",
+            "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 10:08:44 GMT"
+        },
         {
             "title": "UK working to identify exposure after global cyber-security warning",
             "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 22 Oct 2026 08:23:42 GMT"
         },
         {
-            "title": "What is PHP and why did it spark a global cyber-security scramble?",
-            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Oct 2026 06:24:59 GMT"
-        },
-        {
             "title": "Trump's green card curbs test Indian tech workers' American dream",
             "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 21 Oct 2026 23:06:37 GMT"
-        },
-        {
-            "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-            "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 21 Oct 2026 23:04:03 GMT"
-        },
-        {
-            "title": "Websites taken down worldwide as critical cyber-security update issued",
-            "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 21 Oct 2026 19:54:57 GMT"
         }
     ]
 }
