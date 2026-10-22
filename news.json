@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "SAP: Q3 cloud revenue up 25% YoY to \u20ac6.67B, vs. \u20ac6.57B est., total revenue up 12% to \u20ac10.27B, current cloud backlog up 26% to \u20ac24.1B, all in constant currencies (Christina Kyriasoglou/Bloomberg)",
-            "link": "https://www.techmeme.com/261021/p55#a261021p55",
-            "published": "Wed, 21 Oct 2026 18:35:02 -0400"
+            "title": "Walmart unveils its Agent Gateway, a new MCP server to help users' approved AI agents shop its website, and dedicated Agent Profiles with special \"terms\" for AI (Sarah Perez/TechCrunch)",
+            "link": "https://www.techmeme.com/261021/p62#a261021p62",
+            "published": "Wed, 21 Oct 2026 23:50:03 -0400"
         },
         {
-            "title": "IBM reports Q3 revenue up 5% YoY to $17.1B, above $16.82B est., net income up 26% to $2.19B, software revenue up 8% to $7.8B, and infrastructure revenue up 4% (Elias Schisgall/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261021/p54#a261021p54",
-            "published": "Wed, 21 Oct 2026 18:20:03 -0400"
+            "title": "Sources: DeepSeek raised ~$15B in its latest fundraising round, one of China's largest ever, with CATL and Tencent among the biggest contributors (Lulu Yilun Chen/Bloomberg)",
+            "link": "https://www.techmeme.com/261021/p61#a261021p61",
+            "published": "Wed, 21 Oct 2026 23:00:46 -0400"
         },
         {
-            "title": "GitLab patches a critical flaw that lets unauthenticated attackers run code on self-managed servers, affecting every release since 7.0 in 2014 (Swati Khandelwal/The Hacker News)",
-            "link": "https://www.techmeme.com/261021/p53#a261021p53",
-            "published": "Wed, 21 Oct 2026 18:10:01 -0400"
+            "title": "AWS analysts claim that at least one actor started to exploit the PHP2Shell bugs on October 17, four days prior to the vulnerabilities' public disclosure (Lily Hay Newman/Wired)",
+            "link": "https://www.techmeme.com/261021/p60#a261021p60",
+            "published": "Wed, 21 Oct 2026 22:50:01 -0400"
         },
         {
-            "title": "Texas Instruments reports Q3 revenue up 28% YoY to $6.06B, above $5.93B est., net income up 78% YoY to $2.43B, and forecasts $5.8B-$6.3B in Q4, vs. $5.73B est. (Ian King/Bloomberg)",
-            "link": "https://www.techmeme.com/261021/p52#a261021p52",
-            "published": "Wed, 21 Oct 2026 17:55:05 -0400"
+            "title": "GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq (Aarian Marshall/Wired)",
+            "link": "https://www.techmeme.com/261021/p59#a261021p59",
+            "published": "Wed, 21 Oct 2026 22:00:47 -0400"
         },
         {
-            "title": "Mark Zuckerberg says Muse has drawn 10M+ users since its launch and 25%+ of users are making purchases through the app, with an average purchase size of $200+ (Business Insider)",
-            "link": "https://www.techmeme.com/261021/p51#a261021p51",
-            "published": "Wed, 21 Oct 2026 17:20:03 -0400"
+            "title": "Sources: advisers within Elon Musk's empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power (Bloomberg)",
+            "link": "https://www.techmeme.com/261021/p58#a261021p58",
+            "published": "Wed, 21 Oct 2026 21:05:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California\u2019s Proposed Wealth Tax",
+            "link": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+            "published": "Thu, 22 Oct 2026 01:21:13 +0000"
+        },
         {
             "title": "Meta Ordered to Pay $25 Billion Over Cambridge Analytica Privacy Violations",
             "link": "https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html",
@@ -43,17 +48,17 @@
             "published": "Wed, 21 Oct 2026 22:45:12 +0000"
         },
         {
-            "title": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-            "link": "https://www.nytimes.com/2026/10/21/business/elon-musk-spacex-tesla-merger.html",
-            "published": "Wed, 21 Oct 2026 20:57:22 +0000"
-        },
-        {
             "title": "GM Aims to Bring \u2018Eyes-Off\u2019 Driving to AI-Powered Cars Within 2 Years",
             "link": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
             "published": "Wed, 21 Oct 2026 18:23:52 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "What is PHP and why did it spark a global cyber-security scramble?",
+            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 03:48:50 GMT"
+        },
         {
             "title": "Trump's green card curbs test Indian tech workers' American dream",
             "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Just Eat apologises for AI food mistakes after social media ridicule",
             "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 21 Oct 2026 17:04:13 GMT"
-        },
-        {
-            "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-            "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 21 Oct 2026 08:42:49 GMT"
         }
     ]
 }
