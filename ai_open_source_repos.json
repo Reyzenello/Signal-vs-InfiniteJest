@@ -12,12 +12,6 @@
         "description": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination"
     },
     {
-        "name": "YC-Killer",
-        "full_name": "sahibzada-allahyar/YC-Killer",
-        "html_url": "https://github.com/sahibzada-allahyar/YC-Killer",
-        "description": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups."
-    },
-    {
         "name": "pywinassistant",
         "full_name": "a-real-ai/pywinassistant",
         "html_url": "https://github.com/a-real-ai/pywinassistant",
@@ -58,5 +52,11 @@
         "full_name": "ponlponl123/-Prototype-AIVTuber",
         "html_url": "https://github.com/ponlponl123/-Prototype-AIVTuber",
         "description": "a open-source Artificial Intelligence Virtual Youtuber (AI VTuber), (this project is deprecated)"
+    },
+    {
+        "name": "TeachingDataScience",
+        "full_name": "yogeshhk/TeachingDataScience",
+        "html_url": "https://github.com/yogeshhk/TeachingDataScience",
+        "description": "Open-sourced course notes for Artificial Intelligence and Data Science related topics, prepared in LaTeX"
     }
 ]
