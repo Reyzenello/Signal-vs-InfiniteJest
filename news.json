@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Walmart unveils its Agent Gateway, a new MCP server to help users' approved AI agents shop its website, and dedicated Agent Profiles with special \"terms\" for AI (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/261021/p62#a261021p62",
-            "published": "Wed, 21 Oct 2026 23:50:03 -0400"
+            "title": "A look at Huawei and DeepSeek's mutual reliance, where Huawei provides compute hardware while DeepSeek contributes model workloads and kernel optimization (SemiAnalysis)",
+            "link": "https://www.techmeme.com/261022/p12#a261022p12",
+            "published": "Thu, 22 Oct 2026 05:55:01 -0400"
         },
         {
-            "title": "Sources: DeepSeek raised ~$15B in its latest fundraising round, one of China's largest ever, with CATL and Tencent among the biggest contributors (Lulu Yilun Chen/Bloomberg)",
-            "link": "https://www.techmeme.com/261021/p61#a261021p61",
-            "published": "Wed, 21 Oct 2026 23:00:46 -0400"
+            "title": "Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers (William Shaw/Bloomberg)",
+            "link": "https://www.techmeme.com/261022/p11#a261022p11",
+            "published": "Thu, 22 Oct 2026 05:45:01 -0400"
         },
         {
-            "title": "AWS analysts claim that at least one actor started to exploit the PHP2Shell bugs on October 17, four days prior to the vulnerabilities' public disclosure (Lily Hay Newman/Wired)",
-            "link": "https://www.techmeme.com/261021/p60#a261021p60",
-            "published": "Wed, 21 Oct 2026 22:50:01 -0400"
+            "title": "iPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad's (John Gruber/Daring Fireball)",
+            "link": "https://www.techmeme.com/261022/p10#a261022p10",
+            "published": "Thu, 22 Oct 2026 04:00:14 -0400"
         },
         {
-            "title": "GM says it plans to debut OnStar AI, an in-car assistant that can execute vehicle functions and run diagnostics via voice commands, in the 2027 Cadillac Lyriq (Aarian Marshall/Wired)",
-            "link": "https://www.techmeme.com/261021/p59#a261021p59",
-            "published": "Wed, 21 Oct 2026 22:00:47 -0400"
+            "title": "How AI is an inherently imperial technology, and how the US and China are building rival \"AI empires\" with different approaches to extend their power (Foreign Affairs)",
+            "link": "https://www.techmeme.com/261022/p9#a261022p9",
+            "published": "Thu, 22 Oct 2026 03:15:01 -0400"
         },
         {
-            "title": "Sources: advisers within Elon Musk's empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power (Bloomberg)",
-            "link": "https://www.techmeme.com/261021/p58#a261021p58",
-            "published": "Wed, 21 Oct 2026 21:05:01 -0400"
+            "title": "Pressure to back promising AI startups is upending the VC investment process, with investors willing to buy into the same round at rapidly escalating valuations (Bloomberg)",
+            "link": "https://www.techmeme.com/261022/p8#a261022p8",
+            "published": "Thu, 22 Oct 2026 02:50:01 -0400"
         }
     ],
     "source_1": [
@@ -48,16 +48,21 @@
             "published": "Wed, 21 Oct 2026 22:45:12 +0000"
         },
         {
-            "title": "GM Aims to Bring \u2018Eyes-Off\u2019 Driving to AI-Powered Cars Within 2 Years",
-            "link": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-            "published": "Wed, 21 Oct 2026 18:23:52 +0000"
+            "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
+            "link": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
+            "published": "Thu, 22 Oct 2026 09:02:50 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "UK working to identify exposure after global cyber-security warning",
+            "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 08:23:42 GMT"
+        },
+        {
             "title": "What is PHP and why did it spark a global cyber-security scramble?",
             "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Oct 2026 03:48:50 GMT"
+            "published": "Thu, 22 Oct 2026 06:24:59 GMT"
         },
         {
             "title": "Trump's green card curbs test Indian tech workers' American dream",
@@ -73,11 +78,6 @@
             "title": "Websites taken down worldwide as critical cyber-security update issued",
             "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 21 Oct 2026 19:54:57 GMT"
-        },
-        {
-            "title": "Just Eat apologises for AI food mistakes after social media ridicule",
-            "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 21 Oct 2026 17:04:13 GMT"
         }
     ]
 }
