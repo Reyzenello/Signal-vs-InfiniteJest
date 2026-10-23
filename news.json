@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "Greece's parliament passes a bill to ban social media platforms for children under 15 from 2027 and gives companies two months to verify users' ages (Angeliki Koutantou/Reuters)",
-            "link": "https://www.techmeme.com/261023/p6#a261023p6",
-            "published": "Fri, 23 Oct 2026 05:50:07 -0400"
+            "title": "Source: Shein has agreed to pay $100M, equivalent to 44% of its Q2 profit, to settle a US FTC investigation over delivery delays and other customer complaints (Reuters)",
+            "link": "https://www.techmeme.com/261023/p11#a261023p11",
+            "published": "Fri, 23 Oct 2026 10:20:01 -0400"
         },
         {
-            "title": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)",
-            "link": "https://www.techmeme.com/261023/p5#a261023p5",
-            "published": "Fri, 23 Oct 2026 05:15:03 -0400"
+            "title": "OpenAI makes Decisions API, its Jev competitor, generally available with new voice and visual modalities, at $0.10/1M input tokens and no output-token charges (Tim Fernholz/TechCrunch)",
+            "link": "https://www.techmeme.com/261023/p10#a261023p10",
+            "published": "Fri, 23 Oct 2026 09:25:02 -0400"
         },
         {
-            "title": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)",
-            "link": "https://www.techmeme.com/261023/p4#a261023p4",
-            "published": "Fri, 23 Oct 2026 02:00:56 -0400"
+            "title": "Pathos AI, which uses AI to develop oncology drugs, raised a $237M Series E at a $3B post-money valuation, up from $1.6B after its $365M Series D in May 2025 (Katherine Davis/Axios)",
+            "link": "https://www.techmeme.com/261023/p9#a261023p9",
+            "published": "Fri, 23 Oct 2026 08:40:01 -0400"
         },
         {
-            "title": "Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/261023/p3#a261023p3",
-            "published": "Fri, 23 Oct 2026 01:01:04 -0400"
+            "title": "An interview with Intel's leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+            "link": "https://www.techmeme.com/261023/p8#a261023p8",
+            "published": "Fri, 23 Oct 2026 07:45:14 -0400"
         },
         {
-            "title": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
-            "link": "https://www.techmeme.com/261023/p2#a261023p2",
-            "published": "Fri, 23 Oct 2026 00:50:55 -0400"
+            "title": "Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)",
+            "link": "https://www.techmeme.com/261023/p7#a261023p7",
+            "published": "Fri, 23 Oct 2026 06:40:01 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Review of iPhone Duo: A New Chapter That Redefines a Smartphone\u2019s Purpose",
+            "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
+            "published": "Fri, 23 Oct 2026 14:01:46 +0000"
+        },
         {
             "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
             "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
@@ -43,17 +48,22 @@
             "published": "Thu, 22 Oct 2026 14:51:58 +0000"
         },
         {
-            "title": "A.I. and Its Dangers Are Embedded In the Midterm Elections",
-            "link": "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html",
-            "published": "Thu, 22 Oct 2026 17:07:44 +0000"
-        },
-        {
-            "title": "What Is PHP? Why Are Government and Business Websites Going Offline?",
-            "link": "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html",
-            "published": "Thu, 22 Oct 2026 21:31:29 +0000"
+            "title": "What\u2019s the Deal With Billy Evans? A Spoiler-Filled Guide to \u2018You Can See Everything\u2019",
+            "link": "https://www.nytimes.com/2026/10/23/podcasts/hardfork-billy-evans-holmes.html",
+            "published": "Fri, 23 Oct 2026 11:00:05 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "What is PHP and why did it spark a global cyber-security scramble?",
+            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 12:24:17 GMT"
+        },
+        {
+            "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+            "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 12:00:25 GMT"
+        },
         {
             "title": "The Indian workers filming their work to train AI",
             "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "Race to update services' computer systems after cyber-security flaw found",
             "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 22 Oct 2026 17:12:51 GMT"
-        },
-        {
-            "title": "What is PHP and why did it spark a global cyber-security scramble?",
-            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Oct 2026 11:15:58 GMT"
-        },
-        {
-            "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
-            "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Oct 2026 10:17:26 GMT"
         }
     ]
 }
