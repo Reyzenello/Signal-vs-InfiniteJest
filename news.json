@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats (Wall Street Journal)",
-            "link": "https://www.techmeme.com/261022/p61#a261022p61",
-            "published": "Thu, 22 Oct 2026 22:50:50 -0400"
+            "title": "Greece's parliament passes a bill to ban social media platforms for children under 15 from 2027 and gives companies two months to verify users' ages (Angeliki Koutantou/Reuters)",
+            "link": "https://www.techmeme.com/261023/p6#a261023p6",
+            "published": "Fri, 23 Oct 2026 05:50:07 -0400"
         },
         {
-            "title": "Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers' phones within seven days of notice (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/261022/p60#a261022p60",
-            "published": "Thu, 22 Oct 2026 21:50:47 -0400"
+            "title": "Anthropic says it partnered with Theorem to use Claude to formally prove security properties at the assembly level across 100+ real-world open-source libraries (Anthropic)",
+            "link": "https://www.techmeme.com/261023/p5#a261023p5",
+            "published": "Fri, 23 Oct 2026 05:15:03 -0400"
         },
         {
-            "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
-            "link": "https://www.techmeme.com/261022/p59#a261022p59",
-            "published": "Thu, 22 Oct 2026 21:10:01 -0400"
+            "title": "SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B (Bloomberg)",
+            "link": "https://www.techmeme.com/261023/p4#a261023p4",
+            "published": "Fri, 23 Oct 2026 02:00:56 -0400"
         },
         {
-            "title": "An interview with Ond\u0159ej Sur\u00fd, a volunteer who maintains PHP and automates its patches, about his role in fixing two critical PHP security vulnerabilities (Charlie Warzel/The Atlantic)",
-            "link": "https://www.techmeme.com/261022/p58#a261022p58",
-            "published": "Thu, 22 Oct 2026 20:30:02 -0400"
+            "title": "Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban (Jagmeet Singh/TechCrunch)",
+            "link": "https://www.techmeme.com/261023/p3#a261023p3",
+            "published": "Fri, 23 Oct 2026 01:01:04 -0400"
         },
         {
-            "title": "German energy company PreussenElektra says it is working with Nvidia to assess whether the country's idle nuclear plants could be turned into data centers (Eva Brendel/Bloomberg)",
-            "link": "https://www.techmeme.com/261022/p57#a261022p57",
-            "published": "Thu, 22 Oct 2026 20:15:02 -0400"
+            "title": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
+            "link": "https://www.techmeme.com/261023/p2#a261023p2",
+            "published": "Fri, 23 Oct 2026 00:50:55 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "The Indian workers filming their work to train AI",
+            "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 08:04:17 GMT"
+        },
+        {
             "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
             "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 22 Oct 2026 18:26:56 GMT"
@@ -73,11 +78,6 @@
             "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
             "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 22 Oct 2026 10:17:26 GMT"
-        },
-        {
-            "title": "'500 new vulnerabilities' found in government, says AI minister",
-            "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Oct 2026 10:08:44 GMT"
         }
     ]
 }
