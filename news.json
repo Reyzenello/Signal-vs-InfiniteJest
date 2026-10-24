@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "The UK plans to invest \u00a3100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind (Liv McMahon/BBC)",
+            "link": "https://www.techmeme.com/261023/p26#a261023p26",
+            "published": "Fri, 23 Oct 2026 21:20:01 -0400"
+        },
+        {
+            "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
+            "link": "https://www.techmeme.com/261023/p25#a261023p25",
+            "published": "Fri, 23 Oct 2026 20:30:01 -0400"
+        },
+        {
+            "title": "Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation (Rocket Drew/The Information)",
+            "link": "https://www.techmeme.com/261023/p24#a261023p24",
+            "published": "Fri, 23 Oct 2026 19:10:05 -0400"
+        },
+        {
             "title": "Memo: Helen Chiang, Xbox's first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company (Tom Warren/The Verge)",
             "link": "https://www.techmeme.com/261023/p23#a261023p23",
             "published": "Fri, 23 Oct 2026 17:55:01 -0400"
@@ -9,21 +24,6 @@
             "title": "Mave, which is developing an AI-driven tool to automate security investigations, raised a $28M Series A led by Red Dot, bringing its total funding to $34M (Meir Orbach/CTech)",
             "link": "https://www.techmeme.com/261023/p22#a261023p22",
             "published": "Fri, 23 Oct 2026 17:15:02 -0400"
-        },
-        {
-            "title": "Sources: Instacart, currently valued at $12B, is in talks to sell itself and held preliminary conversations with DoorDash and Uber; CART jumps 9%+ (The Information)",
-            "link": "https://www.techmeme.com/261023/p21#a261023p21",
-            "published": "Fri, 23 Oct 2026 16:25:03 -0400"
-        },
-        {
-            "title": "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)",
-            "link": "https://www.techmeme.com/261023/p20#a261023p20",
-            "published": "Fri, 23 Oct 2026 16:20:00 -0400"
-        },
-        {
-            "title": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\" (Matthias Bastian/The Decoder)",
-            "link": "https://www.techmeme.com/261023/p19#a261023p19",
-            "published": "Fri, 23 Oct 2026 15:35:02 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 00:05:45 GMT"
+        },
+        {
             "title": "What is PHP and why did it spark a global cyber-security scramble?",
             "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 23 Oct 2026 12:24:17 GMT"
@@ -73,11 +78,6 @@
             "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
             "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 22 Oct 2026 18:26:56 GMT"
-        },
-        {
-            "title": "Race to update services' computer systems after cyber-security flaw found",
-            "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Oct 2026 17:12:51 GMT"
         }
     ]
 }
