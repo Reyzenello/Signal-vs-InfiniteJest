@@ -1,6 +1,11 @@
 {
     "techmeme": [
         {
+            "title": "Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more (Terrence O'Brien/The Verge)",
+            "link": "https://www.techmeme.com/261025/p12#a261025p12",
+            "published": "Sun, 25 Oct 2026 19:35:01 -0400"
+        },
+        {
             "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
             "link": "https://www.techmeme.com/261025/p11#a261025p11",
             "published": "Sun, 25 Oct 2026 17:35:01 -0400"
@@ -19,23 +24,23 @@
             "title": "Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used (Mark Gurman/Bloomberg)",
             "link": "https://www.techmeme.com/261025/p8#a261025p8",
             "published": "Sun, 25 Oct 2026 11:00:32 -0400"
-        },
-        {
-            "title": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)",
-            "link": "https://www.techmeme.com/261025/p7#a261025p7",
-            "published": "Sun, 25 Oct 2026 07:00:54 -0400"
         }
     ],
     "source_1": [
         {
+            "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+            "link": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+            "published": "Sun, 25 Oct 2026 09:01:00 +0000"
+        },
+        {
+            "title": "Elon Musk Says Ukraine Violated Starlink\u2019s Rules",
+            "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+            "published": "Sun, 25 Oct 2026 09:28:36 +0000"
+        },
+        {
             "title": "Apple\u2019s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
             "link": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
             "published": "Fri, 23 Oct 2026 16:14:56 +0000"
-        },
-        {
-            "title": "How a Legal Backlash Against Big Tech Is Forcing Big Changes",
-            "link": "https://www.nytimes.com/2026/10/22/technology/tech-lawsuit-settlements-meta-google.html",
-            "published": "Thu, 22 Oct 2026 19:29:30 +0000"
         },
         {
             "title": "How Mark Zuckerberg Pushed Meta to Shield Him From California\u2019s Proposed Wealth Tax",
@@ -43,17 +48,17 @@
             "published": "Thu, 22 Oct 2026 01:21:13 +0000"
         },
         {
-            "title": "How the A.I. Boom Is Driving Up Sales of Gray Paint",
-            "link": "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html",
-            "published": "Thu, 22 Oct 2026 14:51:58 +0000"
-        },
-        {
-            "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
-            "link": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
-            "published": "Sun, 25 Oct 2026 09:01:00 +0000"
+            "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+            "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+            "published": "Fri, 23 Oct 2026 16:00:09 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+            "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 23:44:34 GMT"
+        },
         {
             "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
             "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "The Indian workers filming their work to train AI",
             "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 23 Oct 2026 08:04:17 GMT"
-        },
-        {
-            "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-            "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 22 Oct 2026 18:26:56 GMT"
         }
     ]
 }
