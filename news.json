@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "China's Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month (Reuters)",
+            "link": "https://www.techmeme.com/261026/p51#a261026p51",
+            "published": "Mon, 26 Oct 2026 21:55:02 -0400"
+        },
+        {
+            "title": "Ahead of US midterms, ChatGPT draws images \"depicting election interference or that may discourage voting\" in a cartoon style, ignoring photorealism requests (Katelyn Chedraoui/CNET)",
+            "link": "https://www.techmeme.com/261026/p50#a261026p50",
+            "published": "Mon, 26 Oct 2026 21:45:07 -0400"
+        },
+        {
             "title": "Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments (Ray Maker/DC Rainmaker)",
             "link": "https://www.techmeme.com/261026/p49#a261026p49",
             "published": "Mon, 26 Oct 2026 19:10:02 -0400"
@@ -14,16 +24,6 @@
             "title": "Broadcom arranges a $63B deal with BofA, Blackstone, Citi, and Morgan Stanley to finance the purchase of chips for Anthropic via a new special purpose vehicle (Lynn Doan/Bloomberg)",
             "link": "https://www.techmeme.com/261026/p47#a261026p47",
             "published": "Mon, 26 Oct 2026 17:35:01 -0400"
-        },
-        {
-            "title": "Intel agrees to acquire Tel Aviv-based quantum computing startup Classiq; Classiq has raised more than $200M in funding and has about 130 employees (Ian King/Bloomberg)",
-            "link": "https://www.techmeme.com/261026/p46#a261026p46",
-            "published": "Mon, 26 Oct 2026 17:15:01 -0400"
-        },
-        {
-            "title": "Anthropic's IPO outlines an unusual succession plan: confidential, ranked lists of up to 10 successors per co-founder, subject to approval from five co-founders (Anna Tong/Forbes)",
-            "link": "https://www.techmeme.com/261026/p45#a261026p45",
-            "published": "Mon, 26 Oct 2026 16:25:00 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "What\u2019s Riding on Anthropic Going Public? Nearly Everything.",
             "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
-            "published": "Mon, 26 Oct 2026 18:44:18 +0000"
+            "published": "Mon, 26 Oct 2026 18:44:19 +0000"
         },
         {
             "title": "Meet Anthropic\u2019s Seven Founders as the A.I. Firm Prepares for an IPO",
@@ -50,10 +50,15 @@
         {
             "title": "The Key Numbers From Anthropic\u2019s IPO Filing",
             "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
-            "published": "Mon, 26 Oct 2026 20:21:28 +0000"
+            "published": "Mon, 26 Oct 2026 20:21:29 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+            "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 01:48:04 GMT"
+        },
         {
             "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
             "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
             "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 24 Oct 2026 00:05:45 GMT"
-        },
-        {
-            "title": "What is PHP and why did it spark a global cyber-security scramble?",
-            "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 23 Oct 2026 12:24:17 GMT"
         }
     ]
 }
