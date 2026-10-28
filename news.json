@@ -1,32 +1,37 @@
 {
     "techmeme": [
         {
-            "title": "How Silicon Valley billionaires raised $333M+ to try to defeat a 5% California wealth tax; Patrick Collison's $33M is his most serious campaign engagement yet (New York Times)",
-            "link": "https://www.techmeme.com/261028/p10#a261028p10",
-            "published": "Wed, 28 Oct 2026 02:35:01 -0400"
+            "title": "OpenAI says it's launching an election \"war room\" ahead of the US midterms to identify potential spread of misinfo or other efforts to disrupt the elections (Calder McHugh/Politico)",
+            "link": "https://www.techmeme.com/261028/p34#a261028p34",
+            "published": "Wed, 28 Oct 2026 11:35:17 -0400"
         },
         {
-            "title": "The CFTC files a legal challenge to block Utah's attempt to restrict prediction market betting, asserting it is the sole US regulator of prediction markets (Jesse Hamilton/CoinDesk)",
-            "link": "https://www.techmeme.com/261028/p9#a261028p9",
-            "published": "Wed, 28 Oct 2026 02:25:02 -0400"
+            "title": "Nvidia debuts Nemotron 3.5 Transcribe, an open-weight model for multilingual audio transcription and translation, and Granary v2, its open-source speech dataset (Kyt Dotson/SiliconANGLE)",
+            "link": "https://www.techmeme.com/261028/p33#a261028p33",
+            "published": "Wed, 28 Oct 2026 11:20:02 -0400"
         },
         {
-            "title": "SK Hynix expects memory shortages to persist through at least 2030; the company has long-term deals with 14 major buyers for 50%+ of its output in 2027 and 2028 (Simon Sharwood/The Register)",
-            "link": "https://www.techmeme.com/261028/p8#a261028p8",
-            "published": "Wed, 28 Oct 2026 02:02:30 -0400"
+            "title": "Foundry, a manufacturing-as-a-service startup that builds factories with robots powered by physical AI models, raised a $100M Series A led by Marlinspike (Rocket Drew/The Information)",
+            "link": "https://www.techmeme.com/261028/p32#a261028p32",
+            "published": "Wed, 28 Oct 2026 10:40:01 -0400"
         },
         {
-            "title": "Sources: TPG is in talks to acquire UK-based Ark Data Centres, which operates 27 data centers in the UK and Belgium, from Elliott Management at a ~$5B valuation (Financial Times)",
-            "link": "https://www.techmeme.com/261028/p7#a261028p7",
-            "published": "Wed, 28 Oct 2026 01:50:01 -0400"
+            "title": "Dropbox plans to cut ~6% of its staff, or ~200 jobs, costing $27M to $33M in severance and related costs, and says CTO Ali Dasdan will step down on November 18 (Anhata Rooprai/Reuters)",
+            "link": "https://www.techmeme.com/261028/p31#a261028p31",
+            "published": "Wed, 28 Oct 2026 10:30:01 -0400"
         },
         {
-            "title": "Industry insiders say PCBs and chip substrates are key supply constraints for consumer electronics makers, as AI demand increasingly eats up production capacity (Nikkei Asia)",
-            "link": "https://www.techmeme.com/261028/p6#a261028p6",
-            "published": "Wed, 28 Oct 2026 01:40:01 -0400"
+            "title": "X adds an intrusive promotional animation of an arm reaching across the screen to direct users to a \"promote\" post button, targeting verified and Premium users (Andrew Liszewski/The Verge)",
+            "link": "https://www.techmeme.com/261028/p30#a261028p30",
+            "published": "Wed, 28 Oct 2026 09:50:00 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+            "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+            "published": "Wed, 28 Oct 2026 13:40:03 +0000"
+        },
         {
             "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
             "link": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
@@ -41,11 +46,6 @@
             "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
             "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
             "published": "Mon, 26 Oct 2026 18:08:07 +0000"
-        },
-        {
-            "title": "Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I.",
-            "link": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
-            "published": "Mon, 26 Oct 2026 20:15:39 +0000"
         },
         {
             "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
