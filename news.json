@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Robinhood reports Q3 revenue up 12% YoY to $1.42B, in line with est., crypto revenue down 55% to $120M, and profit down 14% to $476M; HOOD drops 5%+ after hours (Reuters)",
-            "link": "https://www.techmeme.com/261027/p30#a261027p30",
-            "published": "Tue, 27 Oct 2026 16:45:37 -0400"
+            "title": "Toronto-based fintech Wealthsimple raised up to CA$425M led by GIC at a post-money valuation of CA$13.8B, up from CA$10B in 2025 (Reuters)",
+            "link": "https://www.techmeme.com/261027/p40#a261027p40",
+            "published": "Tue, 27 Oct 2026 21:05:01 -0400"
         },
         {
-            "title": "Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 (Bloomberg)",
-            "link": "https://www.techmeme.com/261027/p29#a261027p29",
-            "published": "Tue, 27 Oct 2026 16:20:04 -0400"
+            "title": "Source: OpenAI, a major Nvidia customer, plans to buy Google's TPUs; a job listing shows it seeks an engineer to \"lead the optimization\" of its models on TPUs (Ryan Barwick/The Information)",
+            "link": "https://www.techmeme.com/261027/p39#a261027p39",
+            "published": "Tue, 27 Oct 2026 20:15:41 -0400"
         },
         {
-            "title": "Sources: Meta's $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares (Anthony Hughes/Bloomberg)",
-            "link": "https://www.techmeme.com/261027/p28#a261027p28",
-            "published": "Tue, 27 Oct 2026 16:02:31 -0400"
+            "title": "An Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them and tells junior engineers that \"hunger beats tenure\" (Felix Rieseberg)",
+            "link": "https://www.techmeme.com/261027/p38#a261027p38",
+            "published": "Tue, 27 Oct 2026 20:01:32 -0400"
         },
         {
-            "title": "Memo: Amazon says measuring AI adoption solely by token usage or code generation is \"deeply flawed,\" as it discourages staff from tokenmaxxing (Annie Palmer/CNBC)",
-            "link": "https://www.techmeme.com/261027/p27#a261027p27",
-            "published": "Tue, 27 Oct 2026 15:15:34 -0400"
+            "title": "SK Hynix reports Q3 revenue up 328% YoY to ~$78.8B, vs. ~$74.07B est., and operating profit up 632% to ~$62.76B, vs. ~$57.78B est. (Jenny Lee/CNBC)",
+            "link": "https://www.techmeme.com/261027/p37#a261027p37",
+            "published": "Tue, 27 Oct 2026 19:50:02 -0400"
         },
         {
-            "title": "GM plans to switch from the NYSE to Nasdaq on November 17 as part of its push under Tesla veteran Sterling Anderson to use AI to speed up its development cycle (Financial Times)",
-            "link": "https://www.techmeme.com/261027/p26#a261027p26",
-            "published": "Tue, 27 Oct 2026 14:10:03 -0400"
+            "title": "Anthropic expands its US GSA partnership to give federal, state, local, tribal, and territorial governments a 40% discount on Claude, estimated to save $1B (Anthropic)",
+            "link": "https://www.techmeme.com/261027/p36#a261027p36",
+            "published": "Tue, 27 Oct 2026 19:35:01 -0400"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "'An annoying buzz': The search for stealthier drones",
+            "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 00:01:10 GMT"
+        },
+        {
             "title": "Apple to replace iPhone Duos affected by screen problem",
             "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 27 Oct 2026 09:37:55 GMT"
@@ -73,11 +78,6 @@
             "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
             "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 25 Oct 2026 23:44:34 GMT"
-        },
-        {
-            "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
-            "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 24 Oct 2026 00:05:45 GMT"
         }
     ]
 }
