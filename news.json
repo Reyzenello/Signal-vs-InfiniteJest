@@ -1,63 +1,63 @@
 {
     "techmeme": [
         {
-            "title": "How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat's speed filter, sparked social media's legal reckoning over user safety (Olivia Carville/Bloomberg)",
-            "link": "https://www.techmeme.com/261029/p11#a261029p11",
-            "published": "Thu, 29 Oct 2026 02:45:01 -0400"
+            "title": "Serval, which offers AI agents for enterprise IT operations like access management, raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025 (Harshita Mary Varghese/Reuters)",
+            "link": "https://www.techmeme.com/261029/p29#a261029p29",
+            "published": "Thu, 29 Oct 2026 09:55:01 -0400"
         },
         {
-            "title": "STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. (Reuters)",
-            "link": "https://www.techmeme.com/261029/p10#a261029p10",
-            "published": "Thu, 29 Oct 2026 02:40:01 -0400"
+            "title": "Wabi, which is building an AI assistant that integrates into group chats and can take actions like booking appointments, raised $55M at a $1.25B valuation (Micah Barkley/Bloomberg)",
+            "link": "https://www.techmeme.com/261029/p28#a261029p28",
+            "published": "Thu, 29 Oct 2026 09:45:02 -0400"
         },
         {
-            "title": "A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent's AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy (Bloomberg)",
-            "link": "https://www.techmeme.com/261029/p9#a261029p9",
-            "published": "Thu, 29 Oct 2026 02:15:01 -0400"
+            "title": "Sources: Microsoft is seeking to raise $25B+ in its first US investment-grade bond sale since 2017, when it raised $17B, to fund AI-related capital expenditures (Bloomberg)",
+            "link": "https://www.techmeme.com/261029/p27#a261029p27",
+            "published": "Thu, 29 Oct 2026 09:35:02 -0400"
         },
         {
-            "title": "Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was \"shared without their authorization\" (Wired)",
-            "link": "https://www.techmeme.com/261029/p8#a261029p8",
-            "published": "Thu, 29 Oct 2026 02:05:01 -0400"
+            "title": "Q&A with Sam Altman on finding PHP bugs, sandboxing superhuman models as an unsolved safety dilemma, robotics scaling data centers, math, agent swarms, and more (John Collison/Cheeky Pint)",
+            "link": "https://www.techmeme.com/261029/p26#a261029p26",
+            "published": "Thu, 29 Oct 2026 08:40:02 -0400"
         },
         {
-            "title": "National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs (Elizabeth Rembert/Bloomberg)",
-            "link": "https://www.techmeme.com/261029/p7#a261029p7",
-            "published": "Thu, 29 Oct 2026 02:02:01 -0400"
+            "title": "Q&A with Palantir CTO Shyam Sankar on diffusing intelligence, safety, AI lessons, forward-deployed engineering, Anthropic vs. the US, AI religion, and more (Ben Thompson/Stratechery)",
+            "link": "https://www.techmeme.com/261029/p25#a261029p25",
+            "published": "Thu, 29 Oct 2026 08:31:03 -0400"
         }
     ],
     "source_1": [
+        {
+            "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
+            "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
+            "published": "Thu, 29 Oct 2026 09:01:52 +0000"
+        },
+        {
+            "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
+            "link": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
+            "published": "Thu, 29 Oct 2026 14:05:36 +0000"
+        },
         {
             "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
             "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
             "published": "Wed, 28 Oct 2026 19:14:53 +0000"
         },
         {
-            "title": "Microsoft\u2019s Profit Jumps 32% Despite Big Increase in Spending",
-            "link": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
-            "published": "Wed, 28 Oct 2026 22:54:52 +0000"
+            "title": "Hit the Road This Season With These Useful New Map Features",
+            "link": "https://www.nytimes.com/2026/10/29/technology/personaltech/apple-google-maps-features.html",
+            "published": "Thu, 29 Oct 2026 09:02:47 +0000"
         },
         {
-            "title": "Alphabet\u2019s Revenue Rises 25% as Profit Falls",
-            "link": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
-            "published": "Thu, 29 Oct 2026 01:47:40 +0000"
-        },
-        {
-            "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
-            "link": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
-            "published": "Wed, 28 Oct 2026 18:30:51 +0000"
-        },
-        {
-            "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
-            "link": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
-            "published": "Tue, 27 Oct 2026 17:46:24 +0000"
+            "title": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
+            "link": "https://www.nytimes.com/2026/10/29/arts/ai-bots-jokes-theft-comedians.html",
+            "published": "Thu, 29 Oct 2026 11:15:18 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Ofcom outlines ways social media can verify ages of users",
+            "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
             "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 29 Oct 2026 05:57:15 GMT"
+            "published": "Thu, 29 Oct 2026 09:31:44 GMT"
         },
         {
             "title": "Details of thousands of US immigration agents leaked in major hack",
