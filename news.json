@@ -1,36 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Meta quietly launches Style Sketch, an AI fashion app that helps users put together outfit ideas using clothes they own, in Indonesia, Singapore, and Thailand (Aisha Malik/TechCrunch)",
-            "link": "https://www.techmeme.com/261029/p64#a261029p64",
-            "published": "Thu, 29 Oct 2026 20:40:02 -0400"
+            "title": "How a wave of startups are betting on AI to make formal software verification practical and essential, including &Truth, which launches with a $70M seed (Paresh Dave/Wired)",
+            "link": "https://www.techmeme.com/261030/p4#a261030p4",
+            "published": "Fri, 30 Oct 2026 02:30:03 -0400"
         },
         {
-            "title": "On Amazon's earnings call, Andy Jassy says shopping agents like Meta's Muse are \"still not great, nor more convenient than coming to a retailer directly\" (Sebastian Herrera/Fortune)",
-            "link": "https://www.techmeme.com/261029/p63#a261029p63",
-            "published": "Thu, 29 Oct 2026 20:20:02 -0400"
+            "title": "TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes (Tom Westbrook/Reuters)",
+            "link": "https://www.techmeme.com/261030/p3#a261030p3",
+            "published": "Fri, 30 Oct 2026 01:00:14 -0400"
         },
         {
-            "title": "Sandisk reports Q1 revenue up 378% YoY to $11B, vs. $10.7B est., forecasts Q2 revenue above est., announces an 8-for-1 stock split; SNDK drops 4%+ after hours (MarketWatch)",
-            "link": "https://www.techmeme.com/261029/p62#a261029p62",
-            "published": "Thu, 29 Oct 2026 19:30:01 -0400"
+            "title": "Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 (South China Morning Post)",
+            "link": "https://www.techmeme.com/261030/p2#a261030p2",
+            "published": "Fri, 30 Oct 2026 00:50:00 -0400"
         },
         {
-            "title": "Pinterest reports Q3 revenue up 12% YoY to $1.17B, vs. $1.21B est., global MAUs up 10% to 661M, and forecasts Q4 revenue below est.; PINS drops 8%+ after hours (Liz Moyer/Barron's Online)",
-            "link": "https://www.techmeme.com/261029/p61#a261029p61",
-            "published": "Thu, 29 Oct 2026 19:20:02 -0400"
+            "title": "CrowdStrike: China-linked hackers used AI tool ARTEX with a DeepSeek LLM and another model to target 200+ organizations in 11 days, compromising at least nine (Kevin Collier/NBC News)",
+            "link": "https://www.techmeme.com/261030/p1#a261030p1",
+            "published": "Fri, 30 Oct 2026 00:01:16 -0400"
         },
         {
-            "title": "Polymarket resumes trading after a security incident with a third-party provider, which a source says is DebugBear, and says it will reimburse affected traders (Reuters)",
-            "link": "https://www.techmeme.com/261029/p60#a261029p60",
-            "published": "Thu, 29 Oct 2026 19:05:02 -0400"
+            "title": "Sources: DeepSeek doubled its latest round's size due to surging black market Nvidia Blackwell chip prices, with Chinese state-owned investors representing 27% (The Information)",
+            "link": "https://www.techmeme.com/261029/p71#a261029p71",
+            "published": "Thu, 29 Oct 2026 23:35:00 -0400"
         }
     ],
     "source_1": [
         {
-            "title": "Big Tech\u2019s Data Center Blitz Is Burning Through Cash and Scaring Wall Street",
+            "title": "Binance Grapples With \u2018Security Incident\u2019 That May Cause $6.3 Billion in Losses",
+            "link": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html",
+            "published": "Fri, 30 Oct 2026 03:07:37 +0000"
+        },
+        {
+            "title": "Big Tech\u2019s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
             "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-            "published": "Fri, 30 Oct 2026 00:26:56 +0000"
+            "published": "Fri, 30 Oct 2026 01:30:27 +0000"
         },
         {
             "title": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
@@ -43,21 +48,16 @@
             "published": "Thu, 29 Oct 2026 21:08:30 +0000"
         },
         {
-            "title": "Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot",
-            "link": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html",
-            "published": "Thu, 29 Oct 2026 19:27:01 +0000"
-        },
-        {
-            "title": "DoorDash to Buy Instacart for $17 Billion, Uniting 2 Delivery Giants",
-            "link": "https://www.nytimes.com/2026/10/29/technology/doordash-instacart-acquisition-delivery.html",
-            "published": "Thu, 29 Oct 2026 18:52:07 +0000"
+            "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
+            "link": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
+            "published": "Fri, 30 Oct 2026 06:18:44 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+            "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
             "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 30 Oct 2026 00:46:41 GMT"
+            "published": "Fri, 30 Oct 2026 05:15:16 GMT"
         },
         {
             "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
