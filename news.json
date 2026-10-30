@@ -1,46 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "FEC data: AI-oriented PACs spent nearly $80M on the 2026 US elections, mostly before the primaries; pro-regulatory PACs outspent Leading the Future's network (Ian Krietzberg/Puck)",
-            "link": "https://www.techmeme.com/261030/p13#a261030p13",
-            "published": "Fri, 30 Oct 2026 09:10:01 -0400"
+            "title": "Google says its Suncatcher prototype data center satellite is online after an October 1 launch, with Gemma 4 generating a haiku about being in space (Tim Fernholz/TechCrunch)",
+            "link": "https://www.techmeme.com/261030/p18#a261030p18",
+            "published": "Fri, 30 Oct 2026 14:40:31 -0400"
         },
         {
-            "title": "CXMT reports Q3 revenue of ~$16.7B, up 613.2% YoY, and a net profit of ~$8.17B, swinging to profitability on the back of rising AI-driven memory chip prices (Reuters)",
-            "link": "https://www.techmeme.com/261030/p12#a261030p12",
-            "published": "Fri, 30 Oct 2026 08:20:02 -0400"
+            "title": "Salesforce acquires Rune, which makes AI military logistics software, sources say for $375M in cash and stock; Rune raised $30m from a16z and others (Margaux MacColl/Resilience Media)",
+            "link": "https://www.techmeme.com/261030/p17#a261030p17",
+            "published": "Fri, 30 Oct 2026 14:20:05 -0400"
         },
         {
-            "title": "NAND maker Kioxia reports FY Q2 operating profit up 22x YoY to ~$12.7B, in line with est., but forecasts Q3 operating profit of ~$12.7B, below ~$14.9B est. (Bloomberg)",
-            "link": "https://www.techmeme.com/261030/p11#a261030p11",
-            "published": "Fri, 30 Oct 2026 07:50:01 -0400"
+            "title": "Salesforce buys Rune Technologies for new defense unit (Chris Metinko/Axios)",
+            "link": "https://www.techmeme.com/261030/p16#a261030p16",
+            "published": "Fri, 30 Oct 2026 13:10:36 -0400"
         },
         {
-            "title": "The UK CMA opens a probe into whether Meta imposed exploitative terms on publishers and advertisers to use their content to develop its AI and other services (Reuters)",
-            "link": "https://www.techmeme.com/261030/p10#a261030p10",
-            "published": "Fri, 30 Oct 2026 07:40:12 -0400"
+            "title": "London's High Court dismisses Meta, TikTok, and X's challenge to Ofcom's Online Safety Act information requests, rejecting arguments they were disproportionate (Sam Tobin/Reuters)",
+            "link": "https://www.techmeme.com/261030/p15#a261030p15",
+            "published": "Fri, 30 Oct 2026 12:10:19 -0400"
         },
         {
-            "title": "Binance reveals that a follow-up investigation has found \"additional points of breach\" beyond a possibly compromised laptop and says this was a \"complex attack\" (@binance)",
-            "link": "https://www.techmeme.com/261030/p9#a261030p9",
-            "published": "Fri, 30 Oct 2026 07:15:01 -0400"
+            "title": "Binance says it has reserved $6.34B+ in company funds, including $5B already held in impacted token assets, to deal with the fallout from the $6.3B hack (Rajveer Singh Pardesi/Reuters)",
+            "link": "https://www.techmeme.com/261030/p14#a261030p14",
+            "published": "Fri, 30 Oct 2026 10:30:01 -0400"
         }
     ],
     "source_1": [
         {
             "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
             "link": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-            "published": "Fri, 30 Oct 2026 13:46:48 +0000"
+            "published": "Fri, 30 Oct 2026 15:16:55 +0000"
         },
         {
             "title": "Big Tech\u2019s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
             "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-            "published": "Fri, 30 Oct 2026 01:30:27 +0000"
+            "published": "Fri, 30 Oct 2026 14:02:25 +0000"
         },
         {
             "title": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
             "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-            "published": "Thu, 29 Oct 2026 21:17:40 +0000"
+            "published": "Thu, 29 Oct 2026 21:17:41 +0000"
         },
         {
             "title": "Polymarket and Kalshi Turn Midterm Elections Into a Multimillion Dollar Market",
@@ -48,12 +48,17 @@
             "published": "Thu, 29 Oct 2026 21:08:30 +0000"
         },
         {
-            "title": "Are We in an A.I. Bubble? We\u2019re About to Find Out.",
-            "link": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
-            "published": "Fri, 30 Oct 2026 10:00:25 +0000"
+            "title": "You Can See Everything That Billy Evans Watched on 2x Speed",
+            "link": "https://www.nytimes.com/2026/10/30/upshot/billy-evans-you-can-see-everything.html",
+            "published": "Fri, 30 Oct 2026 17:24:13 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+            "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 17:47:01 GMT"
+        },
         {
             "title": "Google value plunges by $500bn as its own AI search hits ad sales",
             "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
             "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 30 Oct 2026 09:33:51 GMT"
-        },
-        {
-            "title": "How video game remakes tap the power of nostalgia",
-            "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 30 Oct 2026 07:45:00 GMT"
         }
     ]
 }
