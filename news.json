@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program (Bloomberg)",
-            "link": "https://www.techmeme.com/261030/p28#a261030p28",
-            "published": "Fri, 30 Oct 2026 18:50:01 -0400"
+            "title": "Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms (Wall Street Journal)",
+            "link": "https://www.techmeme.com/261031/p4#a261031p4",
+            "published": "Sat, 31 Oct 2026 01:15:01 -0400"
         },
         {
-            "title": "Filing: Vancouver, WA-based Powerlattice, which makes a power delivery chiplet to reduce AI compute power needs by 50%+, raised $86M, after raising $31M in 2025 (Kurt Schlosser/GeekWire)",
-            "link": "https://www.techmeme.com/261030/p27#a261030p27",
-            "published": "Fri, 30 Oct 2026 18:05:00 -0400"
+            "title": "S&P downgraded Meta's outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years (Jonathan Vanian/CNBC)",
+            "link": "https://www.techmeme.com/261031/p3#a261031p3",
+            "published": "Sat, 31 Oct 2026 01:10:42 -0400"
         },
         {
-            "title": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI across multiple crawlers (Emma Roth/The Verge)",
-            "link": "https://www.techmeme.com/261030/p26#a261030p26",
-            "published": "Fri, 30 Oct 2026 17:05:00 -0400"
+            "title": "Anthropic says a malicious actor used access to Cursor's marketplace to publish a \"tampered\" copy of the Claude Code extension, which it didn't build or publish (Felix Rieseberg/@felixrieseberg)",
+            "link": "https://www.techmeme.com/261031/p2#a261031p2",
+            "published": "Sat, 31 Oct 2026 01:00:15 -0400"
         },
         {
-            "title": "OpenAI tightens limits on the weapons-related information that ChatGPT provides teens, even when a question appears harmless, as part of new safeguards (Reuters)",
-            "link": "https://www.techmeme.com/261030/p25#a261030p25",
-            "published": "Fri, 30 Oct 2026 16:55:37 -0400"
+            "title": "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)",
+            "link": "https://www.techmeme.com/261031/p1#a261031p1",
+            "published": "Sat, 31 Oct 2026 00:30:01 -0400"
         },
         {
-            "title": "Intel stock closed down 28.58% on Friday, its worst day since the 1970s and wiping ~$12B off US government's stake, after issuing weaker-than-expected guidance (CNBC)",
-            "link": "https://www.techmeme.com/261030/p24#a261030p24",
-            "published": "Fri, 30 Oct 2026 16:35:01 -0400"
+            "title": "Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks (Berber Jin/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261030/p31#a261030p31",
+            "published": "Fri, 30 Oct 2026 22:30:02 -0400"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Big Tech\u2019s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
             "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-            "published": "Fri, 30 Oct 2026 14:02:25 +0000"
+            "published": "Sat, 31 Oct 2026 00:03:24 +0000"
         },
         {
             "title": "Intel\u2019s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
@@ -50,10 +50,15 @@
         {
             "title": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
             "link": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
-            "published": "Fri, 30 Oct 2026 22:09:18 +0000"
+            "published": "Fri, 30 Oct 2026 23:39:37 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 02:12:19 GMT"
+        },
         {
             "title": "US tech stocks see sharp falls as AI spending nears $1tn",
             "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "From Bitcoin to Binance: Crypto terms and what they mean",
             "link": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 30 Oct 2026 11:35:51 GMT"
-        },
-        {
-            "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-            "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 30 Oct 2026 09:33:51 GMT"
         }
     ]
 }
