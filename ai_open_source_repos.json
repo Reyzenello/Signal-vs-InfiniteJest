@@ -6,12 +6,6 @@
         "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source."
     },
     {
-        "name": "wppconnect",
-        "full_name": "wppconnect-team/wppconnect",
-        "html_url": "https://github.com/wppconnect-team/wppconnect",
-        "description": "WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination"
-    },
-    {
         "name": "pywinassistant",
         "full_name": "a-real-ai/pywinassistant",
         "html_url": "https://github.com/a-real-ai/pywinassistant",
@@ -58,5 +52,11 @@
         "full_name": "yogeshhk/TeachingDataScience",
         "html_url": "https://github.com/yogeshhk/TeachingDataScience",
         "description": "Open-sourced course notes for Artificial Intelligence and Data Science related topics, prepared in LaTeX"
+    },
+    {
+        "name": "hypergraphdb",
+        "full_name": "hypergraphdb/hypergraphdb",
+        "html_url": "https://github.com/hypergraphdb/hypergraphdb",
+        "description": "HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and semantic web projects, it can also be used as an embedded object-oriented database for projects of all sizes."
     }
 ]
