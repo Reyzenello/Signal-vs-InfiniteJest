@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic S-1 claims it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
-            "link": "https://www.techmeme.com/261102/p44#a261102p44",
-            "published": "Mon, 02 Nov 2026 18:05:00 -0500"
+            "title": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
+            "link": "https://www.techmeme.com/261103/p1#a261103p1",
+            "published": "Tue, 03 Nov 2026 01:00:40 -0500"
         },
         {
-            "title": "Brazil's largest crypto exchange Mercado Bitcoin halts withdrawals after a breach involving $46M+ in assets, per Arkham; Tether froze 4.5M+ USDT in response (Jason Shubnell/The Block)",
-            "link": "https://www.techmeme.com/261102/p43#a261102p43",
-            "published": "Mon, 02 Nov 2026 17:50:08 -0500"
+            "title": "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages (Jagmeet Singh/TechCrunch)",
+            "link": "https://www.techmeme.com/261102/p51#a261102p51",
+            "published": "Mon, 02 Nov 2026 23:35:00 -0500"
         },
         {
-            "title": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
-            "link": "https://www.techmeme.com/261102/p42#a261102p42",
-            "published": "Mon, 02 Nov 2026 17:10:01 -0500"
+            "title": "Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
+            "link": "https://www.techmeme.com/261102/p50#a261102p50",
+            "published": "Mon, 02 Nov 2026 22:25:00 -0500"
         },
         {
-            "title": "Apple reports Q4 revenue from Services, which includes the App Store, Apple TV, Apple Music, iCloud, and more, grew 10% YoY to $31.57B, vs. $31.58B est. (Loree Seitz/The Wrap)",
-            "link": "https://www.techmeme.com/261102/p41#a261102p41",
-            "published": "Mon, 02 Nov 2026 17:00:01 -0500"
+            "title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
+            "link": "https://www.techmeme.com/261102/p49#a261102p49",
+            "published": "Mon, 02 Nov 2026 22:10:00 -0500"
         },
         {
-            "title": "Apple Q4: iPhone up 17% YoY to $57.58B, vs. $56.54B est., Mac up 24% to $10.8B, iPad down 10% to $6.2B, and Wearables, Home, and Accessories down 8% to $8.3B (Marcus Mendes/9to5Mac)",
-            "link": "https://www.techmeme.com/261102/p40#a261102p40",
-            "published": "Mon, 02 Nov 2026 16:50:09 -0500"
+            "title": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
+            "link": "https://www.techmeme.com/261102/p48#a261102p48",
+            "published": "Mon, 02 Nov 2026 20:20:01 -0500"
         }
     ],
     "source_1": [
@@ -35,7 +35,7 @@
         {
             "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
             "link": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
-            "published": "Mon, 02 Nov 2026 18:55:09 +0000"
+            "published": "Mon, 02 Nov 2026 18:55:10 +0000"
         },
         {
             "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
@@ -48,12 +48,22 @@
             "published": "Sat, 31 Oct 2026 09:00:54 +0000"
         },
         {
-            "title": "Apple\u2019s Profit Grows 12 Percent Despite Component Price Worries",
+            "title": "Apple\u2019s Profit Grows 12% Despite Component Price Worries",
             "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
-            "published": "Mon, 02 Nov 2026 21:46:23 +0000"
+            "published": "Mon, 02 Nov 2026 23:41:50 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "North Korea denies being behind record $6.3bn Binance hack",
+            "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 06:22:29 GMT"
+        },
+        {
+            "title": "Apple unsure when more foldable iPhones will be available after selling out",
+            "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 00:29:00 GMT"
+        },
         {
             "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
             "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
             "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 01 Nov 2026 01:37:26 GMT"
-        },
-        {
-            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-            "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 31 Oct 2026 02:12:19 GMT"
-        },
-        {
-            "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-            "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 30 Oct 2026 20:34:46 GMT"
         }
     ]
 }
