@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261103/p17#a261103p17",
-            "published": "Tue, 03 Nov 2026 09:50:01 -0500"
+            "title": "Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind (Bloomberg)",
+            "link": "https://www.techmeme.com/261103/p30#a261103p30",
+            "published": "Tue, 03 Nov 2026 15:50:00 -0500"
         },
         {
-            "title": "Sources: Anthropic tells investors that its 15-person chip design team is already using Claude for engineering and design work on its custom chips (The Information)",
-            "link": "https://www.techmeme.com/261103/p16#a261103p16",
-            "published": "Tue, 03 Nov 2026 09:20:04 -0500"
+            "title": "Sources: US has held up approval for American chipmaking equipment needed by SK Hynix to expand in China, complicating its plans for new plants in New York (Karen Freifeld/Reuters)",
+            "link": "https://www.techmeme.com/261103/p29#a261103p29",
+            "published": "Tue, 03 Nov 2026 15:45:05 -0500"
         },
         {
-            "title": "iPad mini (2026) review: great OLED display, waterproof and dustproof, and fast A20 Pro chip, but it is expensive, no 120Hz display, and still lacks Face ID (David Pierce/The Verge)",
-            "link": "https://www.techmeme.com/261103/p15#a261103p15",
-            "published": "Tue, 03 Nov 2026 09:10:02 -0500"
+            "title": "CrowdStrike launches an AI kill switch in Falcon Guardian to stop rogue internal agents, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
+            "link": "https://www.techmeme.com/261103/p28#a261103p28",
+            "published": "Tue, 03 Nov 2026 15:30:02 -0500"
         },
         {
-            "title": "New England-based autonomous submarine startup Corridian emerges from stealth with a $38M seed led by Point72 Ventures and plans to unveil its first AUV in 2027 (Colin Demarest/Axios)",
-            "link": "https://www.techmeme.com/261103/p14#a261103p14",
-            "published": "Tue, 03 Nov 2026 09:01:26 -0500"
+            "title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents (Apple Developer)",
+            "link": "https://www.techmeme.com/261103/p27#a261103p27",
+            "published": "Tue, 03 Nov 2026 15:15:00 -0500"
         },
         {
-            "title": "Shopify reports Q3 revenue up 32% YoY to $3.74B, vs. $3.75B est., GMV up 29% to $119.15B, net income up 75% to $462M, and adjusted EPS of $0.49; SHOP falls 9%+ (Adriano Marchese/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261103/p13#a261103p13",
-            "published": "Tue, 03 Nov 2026 07:40:00 -0500"
+            "title": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
+            "link": "https://www.techmeme.com/261103/p26#a261103p26",
+            "published": "Tue, 03 Nov 2026 14:45:03 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
+            "link": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
+            "published": "Tue, 03 Nov 2026 18:09:36 +0000"
+        },
+        {
+            "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+            "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+            "published": "Tue, 03 Nov 2026 20:53:40 +0000"
+        },
+        {
+            "title": "Apple\u2019s Profit Grows 12% Despite Component Price Worries",
+            "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+            "published": "Mon, 02 Nov 2026 23:41:51 +0000"
+        },
         {
             "title": "Inside Anthropic\u2019s Hunt for A.I. Computing Power",
             "link": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
             "published": "Mon, 02 Nov 2026 18:01:24 +0000"
         },
         {
-            "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
-            "link": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
-            "published": "Mon, 02 Nov 2026 18:55:10 +0000"
-        },
-        {
-            "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
-            "link": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
-            "published": "Mon, 02 Nov 2026 19:05:35 +0000"
-        },
-        {
-            "title": "In San Francisco\u2019s A.I. Boom, a First Date Has Become an Interview",
-            "link": "https://www.nytimes.com/2026/10/31/technology/san-francisco-ai-boom-dating.html",
-            "published": "Sat, 31 Oct 2026 09:00:54 +0000"
-        },
-        {
-            "title": "Apple\u2019s Profit Grows 12% Despite Component Price Worries",
-            "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
-            "published": "Mon, 02 Nov 2026 23:41:50 +0000"
+            "title": "Voting Problems Cause a Surge in Misleading Fraud Claims Online",
+            "link": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html",
+            "published": "Tue, 03 Nov 2026 19:54:29 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+            "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 16:19:29 GMT"
+        },
         {
             "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
             "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
             "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 02 Nov 2026 18:25:01 GMT"
-        },
-        {
-            "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-            "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 02 Nov 2026 07:42:33 GMT"
         }
     ]
 }
