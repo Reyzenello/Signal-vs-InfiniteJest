@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
-            "link": "https://www.techmeme.com/261103/p1#a261103p1",
-            "published": "Tue, 03 Nov 2026 01:00:40 -0500"
+            "title": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261103/p17#a261103p17",
+            "published": "Tue, 03 Nov 2026 09:50:01 -0500"
         },
         {
-            "title": "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/261102/p51#a261102p51",
-            "published": "Mon, 02 Nov 2026 23:35:00 -0500"
+            "title": "Sources: Anthropic tells investors that its 15-person chip design team is already using Claude for engineering and design work on its custom chips (The Information)",
+            "link": "https://www.techmeme.com/261103/p16#a261103p16",
+            "published": "Tue, 03 Nov 2026 09:20:04 -0500"
         },
         {
-            "title": "Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
-            "link": "https://www.techmeme.com/261102/p50#a261102p50",
-            "published": "Mon, 02 Nov 2026 22:25:00 -0500"
+            "title": "iPad mini (2026) review: great OLED display, waterproof and dustproof, and fast A20 Pro chip, but it is expensive, no 120Hz display, and still lacks Face ID (David Pierce/The Verge)",
+            "link": "https://www.techmeme.com/261103/p15#a261103p15",
+            "published": "Tue, 03 Nov 2026 09:10:02 -0500"
         },
         {
-            "title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
-            "link": "https://www.techmeme.com/261102/p49#a261102p49",
-            "published": "Mon, 02 Nov 2026 22:10:00 -0500"
+            "title": "New England-based autonomous submarine startup Corridian emerges from stealth with a $38M seed led by Point72 Ventures and plans to unveil its first AUV in 2027 (Colin Demarest/Axios)",
+            "link": "https://www.techmeme.com/261103/p14#a261103p14",
+            "published": "Tue, 03 Nov 2026 09:01:26 -0500"
         },
         {
-            "title": "Salesforce announces plans to acquire Cresta, a provider of AI-powered contact center automation software; source: Salesforce agreed to pay $2.7B for Cresta (The Information)",
-            "link": "https://www.techmeme.com/261102/p48#a261102p48",
-            "published": "Mon, 02 Nov 2026 20:20:01 -0500"
+            "title": "Shopify reports Q3 revenue up 32% YoY to $3.74B, vs. $3.75B est., GMV up 29% to $119.15B, net income up 75% to $462M, and adjusted EPS of $0.49; SHOP falls 9%+ (Adriano Marchese/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261103/p13#a261103p13",
+            "published": "Tue, 03 Nov 2026 07:40:00 -0500"
         }
     ],
     "source_1": [
@@ -55,14 +55,19 @@
     ],
     "source_2": [
         {
-            "title": "North Korea denies being behind record $6.3bn Binance hack",
-            "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 03 Nov 2026 06:22:29 GMT"
+            "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+            "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 13:07:00 GMT"
         },
         {
-            "title": "Apple unsure when more foldable iPhones will be available after selling out",
+            "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
             "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 03 Nov 2026 00:29:00 GMT"
+            "published": "Tue, 03 Nov 2026 11:10:37 GMT"
+        },
+        {
+            "title": "North Korea denies being behind record $6.3bn Binance hack",
+            "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 08:33:20 GMT"
         },
         {
             "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
@@ -73,11 +78,6 @@
             "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
             "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 02 Nov 2026 07:42:33 GMT"
-        },
-        {
-            "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-            "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-            "published": "Sun, 01 Nov 2026 01:37:26 GMT"
         }
     ]
 }
