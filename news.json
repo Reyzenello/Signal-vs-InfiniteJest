@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Apple launches iOS 27.3 beta, adding Apple Intelligence in China with an Alibaba-powered content filter, and watchOS 27.3 beta, with Siri Recap and Live Rewind (Bloomberg)",
-            "link": "https://www.techmeme.com/261103/p30#a261103p30",
-            "published": "Tue, 03 Nov 2026 15:50:00 -0500"
+            "title": "Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually (Isabel O'Brien/CNBC)",
+            "link": "https://www.techmeme.com/261103/p44#a261103p44",
+            "published": "Tue, 03 Nov 2026 20:10:05 -0500"
         },
         {
-            "title": "Sources: US has held up approval for American chipmaking equipment needed by SK Hynix to expand in China, complicating its plans for new plants in New York (Karen Freifeld/Reuters)",
-            "link": "https://www.techmeme.com/261103/p29#a261103p29",
-            "published": "Tue, 03 Nov 2026 15:45:05 -0500"
+            "title": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)",
+            "link": "https://www.techmeme.com/261103/p43#a261103p43",
+            "published": "Tue, 03 Nov 2026 19:40:00 -0500"
         },
         {
-            "title": "CrowdStrike launches an AI kill switch in Falcon Guardian to stop rogue internal agents, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
-            "link": "https://www.techmeme.com/261103/p28#a261103p28",
-            "published": "Tue, 03 Nov 2026 15:30:02 -0500"
+            "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
+            "link": "https://www.techmeme.com/261103/p42#a261103p42",
+            "published": "Tue, 03 Nov 2026 19:20:01 -0500"
         },
         {
-            "title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents (Apple Developer)",
-            "link": "https://www.techmeme.com/261103/p27#a261103p27",
-            "published": "Tue, 03 Nov 2026 15:15:00 -0500"
+            "title": "We want to clarify what we announced today about our education services. Today's announcements give schools more choice, not less. Here's what we announced: - Gemini, Gemini Notebook, and Search will be OFF \ud83d\udd34 by default. This is based on K-12 schools asking for more control over student use of AI... (@newsfromgoogle)",
+            "link": "https://www.techmeme.com/261103/p41#a261103p41",
+            "published": "Tue, 03 Nov 2026 19:00:50 -0500"
         },
         {
-            "title": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
-            "link": "https://www.techmeme.com/261103/p26#a261103p26",
-            "published": "Tue, 03 Nov 2026 14:45:03 -0500"
+            "title": "Valve announces changes to Steam's review process, as a surge in game submissions pushes review times to \"up to 12 business days\", instead of the usual 3-5 days (Jay Peters/The Verge)",
+            "link": "https://www.techmeme.com/261103/p40#a261103p40",
+            "published": "Tue, 03 Nov 2026 18:30:02 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Graduates are managing AI - but are they learning much else?",
+            "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 00:04:35 GMT"
+        },
+        {
             "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
             "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 03 Nov 2026 16:19:29 GMT"
@@ -73,11 +78,6 @@
             "title": "North Korea denies being behind record $6.3bn Binance hack",
             "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 03 Nov 2026 08:33:20 GMT"
-        },
-        {
-            "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-            "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 02 Nov 2026 18:25:01 GMT"
         }
     ]
 }
