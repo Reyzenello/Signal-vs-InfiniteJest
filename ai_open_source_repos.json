@@ -36,12 +36,6 @@
         "description": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)"
     },
     {
-        "name": "clai",
-        "full_name": "IBM/clai",
-        "html_url": "https://github.com/IBM/clai",
-        "description": "Command Line Artificial Intelligence or CLAI is an open-sourced project from IBM Research aimed to bring the power of AI to the command line interface. "
-    },
-    {
         "name": "-Prototype-AIVTuber",
         "full_name": "ponlponl123/-Prototype-AIVTuber",
         "html_url": "https://github.com/ponlponl123/-Prototype-AIVTuber",
@@ -58,5 +52,11 @@
         "full_name": "hypergraphdb/hypergraphdb",
         "html_url": "https://github.com/hypergraphdb/hypergraphdb",
         "description": "HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and semantic web projects, it can also be used as an embedded object-oriented database for projects of all sizes."
+    },
+    {
+        "name": "shoggoth",
+        "full_name": "shog-ai/shoggoth",
+        "html_url": "https://github.com/shog-ai/shoggoth",
+        "description": "Shoggoth is a peer-to-peer network for publishing and distributing open-source Artificial Intelligence"
     }
 ]
