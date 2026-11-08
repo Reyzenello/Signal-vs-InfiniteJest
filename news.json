@@ -1,41 +1,46 @@
 {
     "techmeme": [
         {
-            "title": "THORChain, which handled ~$1B of stolen Bybit funds in 2025 for $12M+ in fees, began moving the Binance loot despite FBI pleas, saying it can't stop transfers (Wall Street Journal)",
-            "link": "https://www.techmeme.com/261108/p11#a261108p11",
-            "published": "Sun, 08 Nov 2026 14:00:33 -0500"
+            "title": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
+            "link": "https://www.techmeme.com/261108/p16#a261108p16",
+            "published": "Sun, 08 Nov 2026 17:55:01 -0500"
         },
         {
-            "title": "Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb (Alex Eichenstein/The Information)",
-            "link": "https://www.techmeme.com/261108/p10#a261108p10",
-            "published": "Sun, 08 Nov 2026 12:45:00 -0500"
+            "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261108/p15#a261108p15",
+            "published": "Sun, 08 Nov 2026 16:45:03 -0500"
         },
         {
-            "title": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities (Mark Gurman/Bloomberg)",
-            "link": "https://www.techmeme.com/261108/p9#a261108p9",
-            "published": "Sun, 08 Nov 2026 11:20:06 -0500"
+            "title": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
+            "link": "https://www.techmeme.com/261108/p14#a261108p14",
+            "published": "Sun, 08 Nov 2026 15:35:00 -0500"
         },
         {
-            "title": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)",
-            "link": "https://www.techmeme.com/261108/p8#a261108p8",
-            "published": "Sun, 08 Nov 2026 10:05:01 -0500"
+            "title": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
+            "link": "https://www.techmeme.com/261108/p13#a261108p13",
+            "published": "Sun, 08 Nov 2026 15:25:00 -0500"
         },
         {
-            "title": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)",
-            "link": "https://www.techmeme.com/261108/p7#a261108p7",
-            "published": "Sun, 08 Nov 2026 06:00:01 -0500"
+            "title": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)",
+            "link": "https://www.techmeme.com/261108/p12#a261108p12",
+            "published": "Sun, 08 Nov 2026 15:10:00 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "Nvidia Opens Investigation Into Jensen Huang\u2019s Relationship With Chinese Spy",
+            "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+            "published": "Sun, 08 Nov 2026 23:31:55 +0000"
+        },
+        {
+            "title": "Rubio Warned Officials About Nvidia Chief\u2019s Entanglement With Chinese Spy",
+            "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+            "published": "Sun, 08 Nov 2026 22:46:30 +0000"
+        },
+        {
             "title": "Microsoft\u2019s Buyout Offer Sets Its Workforce on Edge",
             "link": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
             "published": "Fri, 06 Nov 2026 12:23:09 +0000"
-        },
-        {
-            "title": "House G.O.P. Leaders Ask Nvidia\u2019s Huang to Speak in Closed-Door Briefing",
-            "link": "https://www.nytimes.com/2026/11/05/technology/house-republicans-nvidia-jensen-huang-china.html",
-            "published": "Fri, 06 Nov 2026 01:10:46 +0000"
         },
         {
             "title": "What Shaped Anthropic CEO Dario Amodei\u2019s Thinking on A.I.",
@@ -43,14 +48,9 @@
             "published": "Fri, 06 Nov 2026 17:09:36 +0000"
         },
         {
-            "title": "Why the Tech Right Lost Big This Week",
-            "link": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
-            "published": "Fri, 06 Nov 2026 18:26:52 +0000"
-        },
-        {
-            "title": "Rubio Warned Officials About Nvidia Chief\u2019s Entanglement With Chinese Spy",
-            "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-            "published": "Sun, 08 Nov 2026 18:37:04 +0000"
+            "title": "What to Know About Nvidia\u2019s Investigation of Its C.E.O.",
+            "link": "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html",
+            "published": "Sun, 08 Nov 2026 22:26:08 +0000"
         }
     ],
     "source_2": [
