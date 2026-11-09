@@ -1,41 +1,41 @@
 {
     "techmeme": [
         {
-            "title": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
-            "link": "https://www.techmeme.com/261108/p16#a261108p16",
-            "published": "Sun, 08 Nov 2026 17:55:01 -0500"
+            "title": "Sources: ByteDance seeks to expand its data center project in Ceara, Brazil, with a second phase larger than its ongoing $10B, 300MW project (Peter Millard/Bloomberg)",
+            "link": "https://www.techmeme.com/261109/p3#a261109p3",
+            "published": "Mon, 09 Nov 2026 00:50:00 -0500"
         },
         {
-            "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261108/p15#a261108p15",
-            "published": "Sun, 08 Nov 2026 16:45:03 -0500"
+            "title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
+            "link": "https://www.techmeme.com/261109/p2#a261109p2",
+            "published": "Mon, 09 Nov 2026 00:15:01 -0500"
         },
         {
-            "title": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
-            "link": "https://www.techmeme.com/261108/p14#a261108p14",
-            "published": "Sun, 08 Nov 2026 15:35:00 -0500"
+            "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
+            "link": "https://www.techmeme.com/261109/p1#a261109p1",
+            "published": "Mon, 09 Nov 2026 00:10:00 -0500"
         },
         {
-            "title": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
-            "link": "https://www.techmeme.com/261108/p13#a261108p13",
-            "published": "Sun, 08 Nov 2026 15:25:00 -0500"
+            "title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
+            "link": "https://www.techmeme.com/261108/p23#a261108p23",
+            "published": "Sun, 08 Nov 2026 23:25:00 -0500"
         },
         {
-            "title": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)",
-            "link": "https://www.techmeme.com/261108/p12#a261108p12",
-            "published": "Sun, 08 Nov 2026 15:10:00 -0500"
+            "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
+            "link": "https://www.techmeme.com/261108/p22#a261108p22",
+            "published": "Sun, 08 Nov 2026 23:05:00 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Nvidia Opens Investigation Into Jensen Huang\u2019s Relationship With Chinese Spy",
             "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-            "published": "Sun, 08 Nov 2026 23:31:55 +0000"
+            "published": "Mon, 09 Nov 2026 00:33:59 +0000"
         },
         {
             "title": "Rubio Warned Officials About Nvidia Chief\u2019s Entanglement With Chinese Spy",
             "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-            "published": "Sun, 08 Nov 2026 22:46:30 +0000"
+            "published": "Mon, 09 Nov 2026 00:27:00 +0000"
         },
         {
             "title": "Microsoft\u2019s Buyout Offer Sets Its Workforce on Edge",
@@ -50,10 +50,15 @@
         {
             "title": "What to Know About Nvidia\u2019s Investigation of Its C.E.O.",
             "link": "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html",
-            "published": "Sun, 08 Nov 2026 22:26:08 +0000"
+            "published": "Mon, 09 Nov 2026 00:21:21 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 06:01:52 GMT"
+        },
         {
             "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
             "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "AI stocks climb after trillions wiped from market values",
             "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 06 Nov 2026 21:06:25 GMT"
-        },
-        {
-            "title": "Why the US midterms sparked an AI stock selloff",
-            "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 06 Nov 2026 18:32:16 GMT"
         }
     ]
 }
