@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "SoftBank reports Q2 net loss of $7B vs. a ~$15.8B profit a year ago, on ~$14B revenue vs. ~$12.8B est. as tech selloff weighs on results; shares close up 13.9% (Jenny Lee/CNBC)",
-            "link": "https://www.techmeme.com/261110/p4#a261110p4",
-            "published": "Tue, 10 Nov 2026 02:25:01 -0500"
+            "title": "SoftBank wrote off $3.7B in non-refundable data center equipment advances after reviewing its plans in Q2; the company had committed $9.5B in advance payments (Martin Peers/The Information)",
+            "link": "https://www.techmeme.com/261110/p31#a261110p31",
+            "published": "Tue, 10 Nov 2026 11:55:01 -0500"
         },
         {
-            "title": "GeniosAI, which develops AI software for financial analysis and modeling, raised $19.1M across seed and Series A rounds; FactSet led the Series A (Ryan Lawler/Axios)",
-            "link": "https://www.techmeme.com/261110/p3#a261110p3",
-            "published": "Tue, 10 Nov 2026 01:45:01 -0500"
+            "title": "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)",
+            "link": "https://www.techmeme.com/261110/p30#a261110p30",
+            "published": "Tue, 10 Nov 2026 11:25:00 -0500"
         },
         {
-            "title": "Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules (Andy Lin/Bloomberg)",
-            "link": "https://www.techmeme.com/261110/p2#a261110p2",
-            "published": "Tue, 10 Nov 2026 01:30:00 -0500"
+            "title": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 (Reuters)",
+            "link": "https://www.techmeme.com/261110/p29#a261110p29",
+            "published": "Tue, 10 Nov 2026 11:20:07 -0500"
         },
         {
-            "title": "The White House picks Palantir CISO Michael LoSapio to lead the DHS' Cybersecurity and Infrastructure Security Agency, replacing Acting Director Nick Andersen (Reuters)",
-            "link": "https://www.techmeme.com/261110/p1#a261110p1",
-            "published": "Tue, 10 Nov 2026 00:40:02 -0500"
+            "title": "IBM ends H-1B and green card sponsorships for most of the sponsored roles in IBM Consulting; source: workers can still work with IBM outside the US or leave IBM (Brody Ford/Bloomberg)",
+            "link": "https://www.techmeme.com/261110/p28#a261110p28",
+            "published": "Tue, 10 Nov 2026 11:16:03 -0500"
         },
         {
-            "title": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-            "link": "https://www.techmeme.com/261109/p53#a261109p53",
-            "published": "Mon, 09 Nov 2026 23:40:00 -0500"
+            "title": "Sources: Goldman Sachs expects Anthropic revenue of ~$52B in 2026 and $600B+ by 2030, operating profit in 2029, and positive free cash flow in 2030 (Financial Times)",
+            "link": "https://www.techmeme.com/261110/p27#a261110p27",
+            "published": "Tue, 10 Nov 2026 11:02:28 -0500"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang",
             "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
-            "published": "Mon, 09 Nov 2026 13:49:56 +0000"
+            "published": "Tue, 10 Nov 2026 15:24:26 +0000"
         },
         {
             "title": "Rubio Warned Officials About Nvidia Chief\u2019s Entanglement With Chinese Spy",
@@ -48,31 +48,31 @@
             "published": "Mon, 09 Nov 2026 00:27:00 +0000"
         },
         {
-            "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
-            "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
-            "published": "Mon, 09 Nov 2026 15:18:30 +0000"
+            "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+            "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+            "published": "Tue, 10 Nov 2026 15:39:57 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+            "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+            "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 14:46:50 GMT"
+        },
+        {
+            "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
             "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 08:07:16 GMT"
+            "published": "Tue, 10 Nov 2026 09:23:55 GMT"
+        },
+        {
+            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 08:23:21 GMT"
         },
         {
             "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
             "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Nov 2026 05:22:39 GMT"
-        },
-        {
-            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 03:58:13 GMT"
-        },
-        {
-            "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-            "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 01:55:22 GMT"
         },
         {
             "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
