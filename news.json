@@ -1,63 +1,73 @@
 {
     "techmeme": [
         {
-            "title": "SoftBank wrote off $3.7B in non-refundable data center equipment advances after reviewing its plans in Q2; the company had committed $9.5B in advance payments (Martin Peers/The Information)",
-            "link": "https://www.techmeme.com/261110/p31#a261110p31",
-            "published": "Tue, 10 Nov 2026 11:55:01 -0500"
+            "title": "Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)",
+            "link": "https://www.techmeme.com/261110/p54#a261110p54",
+            "published": "Tue, 10 Nov 2026 17:15:00 -0500"
         },
         {
-            "title": "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)",
-            "link": "https://www.techmeme.com/261110/p30#a261110p30",
-            "published": "Tue, 10 Nov 2026 11:25:00 -0500"
+            "title": "CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June (Jordan Novet/CNBC)",
+            "link": "https://www.techmeme.com/261110/p53#a261110p53",
+            "published": "Tue, 10 Nov 2026 16:40:01 -0500"
         },
         {
-            "title": "AI training startup Mercor raised a $750M Series D from Benchmark, General Catalyst, Nvidia, and others at a $20B valuation, up from $10B in October 2025 (Reuters)",
-            "link": "https://www.techmeme.com/261110/p29#a261110p29",
-            "published": "Tue, 10 Nov 2026 11:20:07 -0500"
+            "title": "Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion (Financial Times)",
+            "link": "https://www.techmeme.com/261110/p52#a261110p52",
+            "published": "Tue, 10 Nov 2026 16:35:07 -0500"
         },
         {
-            "title": "IBM ends H-1B and green card sponsorships for most of the sponsored roles in IBM Consulting; source: workers can still work with IBM outside the US or leave IBM (Brody Ford/Bloomberg)",
-            "link": "https://www.techmeme.com/261110/p28#a261110p28",
-            "published": "Tue, 10 Nov 2026 11:16:03 -0500"
+            "title": "Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 (The Information)",
+            "link": "https://www.techmeme.com/261110/p51#a261110p51",
+            "published": "Tue, 10 Nov 2026 16:22:07 -0500"
         },
         {
-            "title": "Sources: Goldman Sachs expects Anthropic revenue of ~$52B in 2026 and $600B+ by 2030, operating profit in 2029, and positive free cash flow in 2030 (Financial Times)",
-            "link": "https://www.techmeme.com/261110/p27#a261110p27",
-            "published": "Tue, 10 Nov 2026 11:02:28 -0500"
+            "title": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO (Cory Weinberg/New York Times)",
+            "link": "https://www.techmeme.com/261110/p50#a261110p50",
+            "published": "Tue, 10 Nov 2026 15:55:05 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Is Jensen Huang Too Powerful to Be Punished by Nvidia?",
-            "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-affair-nvidia.html",
-            "published": "Mon, 09 Nov 2026 13:54:04 +0000"
-        },
-        {
-            "title": "A.I. Fueled Nvidia CEO Jensen Huang\u2019s Elite Status, but Scandal Followed",
-            "link": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
-            "published": "Mon, 09 Nov 2026 17:58:29 +0000"
-        },
-        {
-            "title": "What to Know About Nvidia\u2019s Investigation of CEO Jensen Huang",
-            "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang.html",
-            "published": "Tue, 10 Nov 2026 15:24:26 +0000"
-        },
-        {
-            "title": "Rubio Warned Officials About Nvidia Chief\u2019s Entanglement With Chinese Spy",
-            "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
-            "published": "Mon, 09 Nov 2026 00:27:00 +0000"
+            "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia\u2019s Spy Scandal?",
+            "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+            "published": "Tue, 10 Nov 2026 21:12:38 +0000"
         },
         {
             "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
             "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-            "published": "Tue, 10 Nov 2026 15:39:57 +0000"
+            "published": "Tue, 10 Nov 2026 17:32:10 +0000"
+        },
+        {
+            "title": "Anthropic\u2019s Giant IPO Will Tie It Closer to Nvidia",
+            "link": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+            "published": "Tue, 10 Nov 2026 22:03:38 +0000"
+        },
+        {
+            "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
+            "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+            "published": "Tue, 10 Nov 2026 21:54:37 +0000"
+        },
+        {
+            "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
+            "link": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
+            "published": "Tue, 10 Nov 2026 21:11:36 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+            "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+            "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 21:59:54 GMT"
+        },
+        {
+            "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 21:22:36 GMT"
+        },
+        {
+            "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
             "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 14:46:50 GMT"
+            "published": "Tue, 10 Nov 2026 17:56:12 GMT"
         },
         {
             "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
@@ -68,16 +78,6 @@
             "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
             "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Nov 2026 08:23:21 GMT"
-        },
-        {
-            "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-            "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 05:22:39 GMT"
-        },
-        {
-            "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 09 Nov 2026 23:51:22 GMT"
         }
     ]
 }
