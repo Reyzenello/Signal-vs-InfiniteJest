@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing (Jenny Lee/CNBC)",
-            "link": "https://www.techmeme.com/261110/p63#a261110p63",
-            "published": "Tue, 10 Nov 2026 21:30:01 -0500"
+            "title": "England's university regulator says AI makes grading coursework \"close to impossible\" and recommends a return to \"AI-free assessment\" methods like written exams (Richard Adams/The Guardian)",
+            "link": "https://www.techmeme.com/261111/p10#a261111p10",
+            "published": "Wed, 11 Nov 2026 05:38:23 -0500"
         },
         {
-            "title": "How US-based game publishers are losing ground in the $121B mobile gaming market to Chinese rivals, which can make games quicker, cheaper, and more profitably (Bloomberg)",
-            "link": "https://www.techmeme.com/261110/p62#a261110p62",
-            "published": "Tue, 10 Nov 2026 21:15:01 -0500"
+            "title": "VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones (Jaron Lanier/New York Times)",
+            "link": "https://www.techmeme.com/261111/p9#a261111p9",
+            "published": "Wed, 11 Nov 2026 02:50:21 -0500"
         },
         {
-            "title": "An analysis of the tech job market in late 2026: product managers seem to be benefiting most in the AI era, demand for engineers is plateauing, and more (Lenny Rachitsky/Lenny's Newsletter)",
-            "link": "https://www.techmeme.com/261110/p61#a261110p61",
-            "published": "Tue, 10 Nov 2026 20:10:00 -0500"
+            "title": "Nintendo sold 5.2M copies of its The Legend of Zelda: Ocarina of Time remake in just four days, giving the Switch 2 the blockbuster hit it had been waiting for (Vlad Savov/Bloomberg)",
+            "link": "https://www.techmeme.com/261111/p8#a261111p8",
+            "published": "Wed, 11 Nov 2026 02:40:02 -0500"
         },
         {
-            "title": "Sources: Anthropic's bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more (Financial Times)",
-            "link": "https://www.techmeme.com/261110/p60#a261110p60",
-            "published": "Tue, 10 Nov 2026 19:45:01 -0500"
+            "title": "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)",
+            "link": "https://www.techmeme.com/261111/p7#a261111p7",
+            "published": "Wed, 11 Nov 2026 02:10:01 -0500"
         },
         {
-            "title": "A deep dive into AMD's Zen 6 EPYC Venice: it uses TSMC's N2P, the 9686F often beats Nvidia's Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more (Jake Roach/Tom's Hardware)",
-            "link": "https://www.techmeme.com/261110/p59#a261110p59",
-            "published": "Tue, 10 Nov 2026 19:25:01 -0500"
+            "title": "Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips (Takashi Mochizuki/Bloomberg)",
+            "link": "https://www.techmeme.com/261111/p6#a261111p6",
+            "published": "Wed, 11 Nov 2026 01:40:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 10 Nov 2026 21:54:37 +0000"
         },
         {
-            "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
-            "link": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
-            "published": "Tue, 10 Nov 2026 22:58:31 +0000"
+            "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
+            "link": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
+            "published": "Wed, 11 Nov 2026 10:01:51 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 07:44:24 GMT"
+        },
         {
             "title": "Robot vessels take on the dangerous work of mine hunting",
             "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
@@ -63,11 +68,6 @@
             "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
             "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Nov 2026 22:52:15 GMT"
-        },
-        {
-            "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 21:22:36 GMT"
         },
         {
             "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
