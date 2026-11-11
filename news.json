@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
-            "title": "Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)",
-            "link": "https://www.techmeme.com/261110/p54#a261110p54",
-            "published": "Tue, 10 Nov 2026 17:15:00 -0500"
+            "title": "Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing (Jenny Lee/CNBC)",
+            "link": "https://www.techmeme.com/261110/p63#a261110p63",
+            "published": "Tue, 10 Nov 2026 21:30:01 -0500"
         },
         {
-            "title": "CoreWeave reports Q3 revenue up 168% YoY to $3.66B, vs. $3.55B est., a net loss of $709M, and a $132.5B revenue backlog, up from $104B as of June (Jordan Novet/CNBC)",
-            "link": "https://www.techmeme.com/261110/p53#a261110p53",
-            "published": "Tue, 10 Nov 2026 16:40:01 -0500"
+            "title": "How US-based game publishers are losing ground in the $121B mobile gaming market to Chinese rivals, which can make games quicker, cheaper, and more profitably (Bloomberg)",
+            "link": "https://www.techmeme.com/261110/p62#a261110p62",
+            "published": "Tue, 10 Nov 2026 21:15:01 -0500"
         },
         {
-            "title": "Sources: the US Commerce Dept. delayed new Entity List additions for two months, leaving off Megaspeed despite four other US agencies pushing for its inclusion (Financial Times)",
-            "link": "https://www.techmeme.com/261110/p52#a261110p52",
-            "published": "Tue, 10 Nov 2026 16:35:07 -0500"
+            "title": "An analysis of the tech job market in late 2026: product managers seem to be benefiting most in the AI era, demand for engineers is plateauing, and more (Lenny Rachitsky/Lenny's Newsletter)",
+            "link": "https://www.techmeme.com/261110/p61#a261110p61",
+            "published": "Tue, 10 Nov 2026 20:10:00 -0500"
         },
         {
-            "title": "Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 (The Information)",
-            "link": "https://www.techmeme.com/261110/p51#a261110p51",
-            "published": "Tue, 10 Nov 2026 16:22:07 -0500"
+            "title": "Sources: Anthropic's bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more (Financial Times)",
+            "link": "https://www.techmeme.com/261110/p60#a261110p60",
+            "published": "Tue, 10 Nov 2026 19:45:01 -0500"
         },
         {
-            "title": "S-1: Nvidia plans to invest ~$10B in Anthropic after its IPO, or ~10% of the total new cash Anthropic is expected to raise in November, including in its IPO (Cory Weinberg/New York Times)",
-            "link": "https://www.techmeme.com/261110/p50#a261110p50",
-            "published": "Tue, 10 Nov 2026 15:55:05 -0500"
+            "title": "A deep dive into AMD's Zen 6 EPYC Venice: it uses TSMC's N2P, the 9686F often beats Nvidia's Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more (Jake Roach/Tom's Hardware)",
+            "link": "https://www.techmeme.com/261110/p59#a261110p59",
+            "published": "Tue, 10 Nov 2026 19:25:01 -0500"
         }
     ],
     "source_1": [
         {
             "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia\u2019s Spy Scandal?",
             "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
-            "published": "Tue, 10 Nov 2026 21:12:38 +0000"
+            "published": "Tue, 10 Nov 2026 21:12:39 +0000"
         },
         {
             "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
@@ -50,14 +50,19 @@
         {
             "title": "Toyota Plans to Sell a Kei Pickup Truck in the U.S.",
             "link": "https://www.nytimes.com/2026/11/10/business/toyota-kei-pickup-truck.html",
-            "published": "Tue, 10 Nov 2026 21:11:36 +0000"
+            "published": "Tue, 10 Nov 2026 22:58:31 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+            "title": "Robot vessels take on the dangerous work of mine hunting",
+            "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 00:19:13 GMT"
+        },
+        {
+            "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
             "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 21:59:54 GMT"
+            "published": "Tue, 10 Nov 2026 22:52:15 GMT"
         },
         {
             "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -73,11 +78,6 @@
             "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
             "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Nov 2026 09:23:55 GMT"
-        },
-        {
-            "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-            "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 08:23:21 GMT"
         }
     ]
 }
