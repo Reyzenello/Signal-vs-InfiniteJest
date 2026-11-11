@@ -1,59 +1,64 @@
 {
     "techmeme": [
         {
-            "title": "England's university regulator says AI makes grading coursework \"close to impossible\" and recommends a return to \"AI-free assessment\" methods like written exams (Richard Adams/The Guardian)",
-            "link": "https://www.techmeme.com/261111/p10#a261111p10",
-            "published": "Wed, 11 Nov 2026 05:38:23 -0500"
+            "title": "Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows (Nick Clegg/The Atlantic)",
+            "link": "https://www.techmeme.com/261111/p38#a261111p38",
+            "published": "Wed, 11 Nov 2026 13:30:00 -0500"
         },
         {
-            "title": "VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones (Jaron Lanier/New York Times)",
-            "link": "https://www.techmeme.com/261111/p9#a261111p9",
-            "published": "Wed, 11 Nov 2026 02:50:21 -0500"
+            "title": "IBM announces the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex problems (Kyt Dotson/SiliconANGLE)",
+            "link": "https://www.techmeme.com/261111/p37#a261111p37",
+            "published": "Wed, 11 Nov 2026 12:40:01 -0500"
         },
         {
-            "title": "Nintendo sold 5.2M copies of its The Legend of Zelda: Ocarina of Time remake in just four days, giving the Switch 2 the blockbuster hit it had been waiting for (Vlad Savov/Bloomberg)",
-            "link": "https://www.techmeme.com/261111/p8#a261111p8",
-            "published": "Wed, 11 Nov 2026 02:40:02 -0500"
+            "title": "Sources: self-driving simulation software maker Applied Intuition is in talks to raise at least $1.5B led by General Catalyst at a ~$30B pre-money valuation (Bloomberg)",
+            "link": "https://www.techmeme.com/261111/p36#a261111p36",
+            "published": "Wed, 11 Nov 2026 12:00:55 -0500"
         },
         {
-            "title": "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)",
-            "link": "https://www.techmeme.com/261111/p7#a261111p7",
-            "published": "Wed, 11 Nov 2026 02:10:01 -0500"
+            "title": "Leaked memo: Meta's head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027; he will be succeeded by Dave Brown (Riley Griffin/Bloomberg)",
+            "link": "https://www.techmeme.com/261111/p35#a261111p35",
+            "published": "Wed, 11 Nov 2026 11:35:05 -0500"
         },
         {
-            "title": "Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips (Takashi Mochizuki/Bloomberg)",
-            "link": "https://www.techmeme.com/261111/p6#a261111p6",
-            "published": "Wed, 11 Nov 2026 01:40:01 -0500"
+            "title": "Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation (Alex Konrad/Upstarts Media)",
+            "link": "https://www.techmeme.com/261111/p34#a261111p34",
+            "published": "Wed, 11 Nov 2026 11:30:01 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang\u2019s Wife, In the Spotlight",
+            "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
+            "published": "Wed, 11 Nov 2026 14:46:43 +0000"
+        },
+        {
+            "title": "Silicon Valley Tech Allies Support Jensen Huang",
+            "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
+            "published": "Wed, 11 Nov 2026 17:29:52 +0000"
+        },
+        {
+            "title": "This Trader Raised Alarm About Nvidia\u2019s China Entanglements Months Ago",
+            "link": "https://www.nytimes.com/2026/11/11/business/nvidia-megaspeed-christian-lamarco.html",
+            "published": "Wed, 11 Nov 2026 10:03:56 +0000"
+        },
         {
             "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia\u2019s Spy Scandal?",
             "link": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
             "published": "Tue, 10 Nov 2026 21:12:39 +0000"
         },
         {
-            "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
-            "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-            "published": "Tue, 10 Nov 2026 17:32:10 +0000"
-        },
-        {
-            "title": "Anthropic\u2019s Giant IPO Will Tie It Closer to Nvidia",
-            "link": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
-            "published": "Tue, 10 Nov 2026 22:03:38 +0000"
-        },
-        {
-            "title": "Amazon and Google Will See Big Paydays from Anthropic IPO",
-            "link": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
-            "published": "Tue, 10 Nov 2026 21:54:37 +0000"
-        },
-        {
-            "title": "Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.",
-            "link": "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html",
-            "published": "Wed, 11 Nov 2026 10:01:51 +0000"
+            "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
+            "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
+            "published": "Wed, 11 Nov 2026 17:11:59 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+            "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 11:33:24 GMT"
+        },
         {
             "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
             "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
             "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 10 Nov 2026 17:56:12 GMT"
-        },
-        {
-            "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-            "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 10 Nov 2026 09:23:55 GMT"
         }
     ]
 }
