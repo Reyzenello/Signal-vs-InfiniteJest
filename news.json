@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn't believe it was due to a cyberattack or criminality (Myles Miller/Bloomberg)",
-            "link": "https://www.techmeme.com/261113/p33#a261113p33",
-            "published": "Fri, 13 Nov 2026 17:20:00 -0500"
+            "title": "Tesla says \"select customers\" can now place orders for its Cybercab \"for personal use\", for $30K plus a required $299/month Autonomy Subscription to operate (Kara Carlson/Bloomberg)",
+            "link": "https://www.techmeme.com/261113/p39#a261113p39",
+            "published": "Fri, 13 Nov 2026 21:25:00 -0500"
         },
         {
-            "title": "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
-            "link": "https://www.techmeme.com/261113/p32#a261113p32",
-            "published": "Fri, 13 Nov 2026 17:10:02 -0500"
+            "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
+            "link": "https://www.techmeme.com/261113/p38#a261113p38",
+            "published": "Fri, 13 Nov 2026 20:55:00 -0500"
         },
         {
-            "title": "Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)",
-            "link": "https://www.techmeme.com/261113/p31#a261113p31",
-            "published": "Fri, 13 Nov 2026 17:01:42 -0500"
+            "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
+            "link": "https://www.techmeme.com/261113/p37#a261113p37",
+            "published": "Fri, 13 Nov 2026 20:15:03 -0500"
         },
         {
-            "title": "The FAA issues a nationwide ground stop for all US airports following \"communication issues impacting multiple Air Route Traffic Control Centers\" (Alex Fitzpatrick/Axios)",
-            "link": "https://www.techmeme.com/261113/p30#a261113p30",
-            "published": "Fri, 13 Nov 2026 16:35:01 -0500"
+            "title": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
+            "link": "https://www.techmeme.com/261113/p36#a261113p36",
+            "published": "Fri, 13 Nov 2026 20:00:12 -0500"
         },
         {
-            "title": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
-            "link": "https://www.techmeme.com/261113/p29#a261113p29",
-            "published": "Fri, 13 Nov 2026 16:01:40 -0500"
+            "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (Kierra Frazier/CBS News)",
+            "link": "https://www.techmeme.com/261113/p35#a261113p35",
+            "published": "Fri, 13 Nov 2026 18:55:00 -0500"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
             "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-            "published": "Fri, 13 Nov 2026 16:11:41 +0000"
+            "published": "Fri, 13 Nov 2026 23:20:11 +0000"
         },
         {
             "title": "Wall Street Braces for Anthropic\u2019s Spending",
@@ -50,17 +50,27 @@
         {
             "title": "Microsoft\u2019s Global Outage and Fixes: What We Know",
             "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-            "published": "Fri, 13 Nov 2026 22:19:13 +0000"
+            "published": "Fri, 13 Nov 2026 22:30:40 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+            "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 00:37:01 GMT"
+        },
+        {
+            "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+            "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 23:00:31 GMT"
+        },
         {
             "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
             "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 13 Nov 2026 21:15:41 GMT"
         },
         {
-            "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+            "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
             "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 13 Nov 2026 21:14:22 GMT"
         },
@@ -68,16 +78,6 @@
             "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
             "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 13 Nov 2026 19:53:57 GMT"
-        },
-        {
-            "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-            "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 13 Nov 2026 18:36:57 GMT"
-        },
-        {
-            "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-            "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 13 Nov 2026 17:34:58 GMT"
         }
     ]
 }
