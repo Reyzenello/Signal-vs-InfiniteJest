@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Tesla says \"select customers\" can now place orders for its Cybercab \"for personal use\", for $30K plus a required $299/month Autonomy Subscription to operate (Kara Carlson/Bloomberg)",
-            "link": "https://www.techmeme.com/261113/p39#a261113p39",
-            "published": "Fri, 13 Nov 2026 21:25:00 -0500"
+            "title": "Microsoft says all Microsoft 365 products are operational, ending an outage that disrupted governments, traders, hospitals, and businesses around the world (Bloomberg)",
+            "link": "https://www.techmeme.com/261114/p8#a261114p8",
+            "published": "Sat, 14 Nov 2026 03:03:46 -0500"
         },
         {
-            "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
-            "link": "https://www.techmeme.com/261113/p38#a261113p38",
-            "published": "Fri, 13 Nov 2026 20:55:00 -0500"
+            "title": "Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
+            "link": "https://www.techmeme.com/261114/p7#a261114p7",
+            "published": "Sat, 14 Nov 2026 02:30:08 -0500"
         },
         {
-            "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
-            "link": "https://www.techmeme.com/261113/p37#a261113p37",
-            "published": "Fri, 13 Nov 2026 20:15:03 -0500"
+            "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
+            "link": "https://www.techmeme.com/261114/p6#a261114p6",
+            "published": "Sat, 14 Nov 2026 02:02:17 -0500"
         },
         {
-            "title": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
-            "link": "https://www.techmeme.com/261113/p36#a261113p36",
-            "published": "Fri, 13 Nov 2026 20:00:12 -0500"
+            "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
+            "link": "https://www.techmeme.com/261114/p5#a261114p5",
+            "published": "Sat, 14 Nov 2026 01:55:00 -0500"
         },
         {
-            "title": "Sources: the FAA outage occurred after an update to the private communications network that connects the ATC system caused the system to reboot and crash (Kierra Frazier/CBS News)",
-            "link": "https://www.techmeme.com/261113/p35#a261113p35",
-            "published": "Fri, 13 Nov 2026 18:55:00 -0500"
+            "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+            "link": "https://www.techmeme.com/261114/p4#a261114p4",
+            "published": "Sat, 14 Nov 2026 01:35:00 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Fri, 13 Nov 2026 18:52:43 +0000"
         },
         {
-            "title": "Microsoft\u2019s Global Outage and Fixes: What We Know",
-            "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-            "published": "Fri, 13 Nov 2026 22:30:40 +0000"
+            "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
+            "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+            "published": "Sat, 14 Nov 2026 10:02:08 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Microsoft says services fully restored after day-long global outage",
+            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 06:42:27 GMT"
+        },
         {
             "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
             "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
@@ -68,11 +73,6 @@
             "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
             "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 13 Nov 2026 21:15:41 GMT"
-        },
-        {
-            "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 13 Nov 2026 21:14:22 GMT"
         },
         {
             "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
