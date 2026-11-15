@@ -1,36 +1,36 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
+            "link": "https://www.techmeme.com/261115/p10#a261115p10",
+            "published": "Sun, 15 Nov 2026 11:30:00 -0500"
+        },
+        {
+            "title": "Investigation: Howard Lutnick pushed to narrow chip curbs affecting a client of his former firm Cantor Fitzgerald whose Malaysia data center may serve Tencent (New York Times)",
+            "link": "https://www.techmeme.com/261115/p9#a261115p9",
+            "published": "Sun, 15 Nov 2026 11:10:01 -0500"
+        },
+        {
+            "title": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed \"seemingly illicit\" chip sales to China to boost revenue (Tony Czuczka/Bloomberg)",
+            "link": "https://www.techmeme.com/261115/p8#a261115p8",
+            "published": "Sun, 15 Nov 2026 10:50:01 -0500"
+        },
+        {
+            "title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+            "link": "https://www.techmeme.com/261115/p7#a261115p7",
+            "published": "Sun, 15 Nov 2026 07:02:16 -0500"
+        },
+        {
             "title": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)",
             "link": "https://www.techmeme.com/261115/p6#a261115p6",
             "published": "Sun, 15 Nov 2026 02:01:35 -0500"
-        },
-        {
-            "title": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)",
-            "link": "https://www.techmeme.com/261115/p5#a261115p5",
-            "published": "Sun, 15 Nov 2026 01:50:01 -0500"
-        },
-        {
-            "title": "TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying \"we also want to support the future's Nvidia\" (Cheng Ting-Fang/Nikkei Asia)",
-            "link": "https://www.techmeme.com/261115/p4#a261115p4",
-            "published": "Sun, 15 Nov 2026 01:45:46 -0500"
-        },
-        {
-            "title": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)",
-            "link": "https://www.techmeme.com/261115/p3#a261115p3",
-            "published": "Sun, 15 Nov 2026 01:40:02 -0500"
-        },
-        {
-            "title": "Nvidia insiders say Jensen Huang was prone to wild office tantrums, which a source says some employees were surprised hadn't leaked before his public downfall (Thomas Barrabi/New York Post)",
-            "link": "https://www.techmeme.com/261115/p2#a261115p2",
-            "published": "Sun, 15 Nov 2026 01:20:01 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+            "title": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia",
             "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-            "published": "Sat, 14 Nov 2026 23:25:09 +0000"
+            "published": "Sun, 15 Nov 2026 12:40:04 +0000"
         },
         {
             "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
@@ -55,6 +55,16 @@
     ],
     "source_2": [
         {
+            "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+            "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 14:56:21 GMT"
+        },
+        {
+            "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+            "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 13:37:45 GMT"
+        },
+        {
             "title": "Italy fines Meta \u20ac805m over accessing users' photos",
             "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 14 Nov 2026 18:28:06 GMT"
@@ -68,16 +78,6 @@
             "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
             "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 14 Nov 2026 00:37:01 GMT"
-        },
-        {
-            "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-            "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 13 Nov 2026 23:00:31 GMT"
-        },
-        {
-            "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-            "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 13 Nov 2026 21:15:41 GMT"
         }
     ]
 }
