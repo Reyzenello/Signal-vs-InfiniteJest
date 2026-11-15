@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases (Bloomberg)",
+            "link": "https://www.techmeme.com/261114/p21#a261114p21",
+            "published": "Sat, 14 Nov 2026 19:05:02 -0500"
+        },
+        {
+            "title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+            "link": "https://www.techmeme.com/261114/p20#a261114p20",
+            "published": "Sat, 14 Nov 2026 17:05:01 -0500"
+        },
+        {
             "title": "USD-pegged stablecoins are taking a growing share of Latin America's crypto activity, serving as a store of value and an efficient cross-border payment system (Maria Clara Cobo/Bloomberg)",
             "link": "https://www.techmeme.com/261114/p19#a261114p19",
             "published": "Sat, 14 Nov 2026 15:45:34 -0500"
@@ -14,19 +24,14 @@
             "title": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
             "link": "https://www.techmeme.com/261114/p17#a261114p17",
             "published": "Sat, 14 Nov 2026 14:01:14 -0500"
-        },
-        {
-            "title": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation (FinTech Global)",
-            "link": "https://www.techmeme.com/261114/p16#a261114p16",
-            "published": "Sat, 14 Nov 2026 13:35:04 -0500"
-        },
-        {
-            "title": "Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will very likely dry up (Nathan Lambert/Interconnects AI)",
-            "link": "https://www.techmeme.com/261114/p15#a261114p15",
-            "published": "Sat, 14 Nov 2026 13:05:02 -0500"
         }
     ],
     "source_1": [
+        {
+            "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+            "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+            "published": "Sat, 14 Nov 2026 23:25:09 +0000"
+        },
         {
             "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
             "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
@@ -41,11 +46,6 @@
             "title": "Inside Microsoft\u2019s Rush to Get Back Online After a Global Outage",
             "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
             "published": "Fri, 13 Nov 2026 21:28:58 +0000"
-        },
-        {
-            "title": "Why Anthropic\u2019s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-            "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-            "published": "Fri, 13 Nov 2026 23:20:11 +0000"
         },
         {
             "title": "Microsoft\u2019s Global Outage and Fixes: What We Know",
