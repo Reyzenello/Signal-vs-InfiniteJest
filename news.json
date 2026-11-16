@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Analysis: global manufacturing, utility, and mining companies have shed $4.2T in market value since June as the AI \"picks and shovels\" trade swings into reverse (Clara Murray/Financial Times)",
-            "link": "https://www.techmeme.com/261116/p9#a261116p9",
-            "published": "Mon, 16 Nov 2026 04:20:02 -0500"
+            "title": "Q&A with Satya Nadella on code verification becoming more important as code generation gets cheap, Microsoft's voluntary exit offers, decision models, and more (Gergely Orosz/The Pragmatic Engineer)",
+            "link": "https://www.techmeme.com/261116/p41#a261116p41",
+            "published": "Mon, 16 Nov 2026 14:15:09 -0500"
         },
         {
-            "title": "Startups unveil plans to develop floating offshore data centers to bypass land and power constraints, while experts warn of challenges like saltwater corrosion (Jackie Snow/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261116/p8#a261116p8",
-            "published": "Mon, 16 Nov 2026 04:01:35 -0500"
+            "title": "California AG Rob Bonta sues OpenAI over the Hugging Face incident, alleging OpenAI endangered the public by testing its models without adequate safeguards (Politico)",
+            "link": "https://www.techmeme.com/261116/p40#a261116p40",
+            "published": "Mon, 16 Nov 2026 13:55:00 -0500"
         },
         {
-            "title": "Russia is bringing young foreign influencers to occupied Ukraine, encouraging them to share their highly curated experiences, to legitimize its occupation (Linda Hourani/The Kyiv Independent)",
-            "link": "https://www.techmeme.com/261116/p7#a261116p7",
-            "published": "Mon, 16 Nov 2026 03:50:02 -0500"
+            "title": "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
+            "link": "https://www.techmeme.com/261116/p39#a261116p39",
+            "published": "Mon, 16 Nov 2026 13:10:01 -0500"
         },
         {
-            "title": "Delhi-based Bharat Semi, which is developing programmable image sensors combining capture, processing, and AI capabilities on a single chip, raised a $24M seed (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/261116/p6#a261116p6",
-            "published": "Mon, 16 Nov 2026 03:05:01 -0500"
+            "title": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)",
+            "link": "https://www.techmeme.com/261116/p38#a261116p38",
+            "published": "Mon, 16 Nov 2026 13:05:01 -0500"
         },
         {
-            "title": "Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ (Heather Landi/Fierce Healthcare)",
-            "link": "https://www.techmeme.com/261116/p5#a261116p5",
-            "published": "Mon, 16 Nov 2026 02:35:02 -0500"
+            "title": "Source: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang (CNBC)",
+            "link": "https://www.techmeme.com/261116/p37#a261116p37",
+            "published": "Mon, 16 Nov 2026 12:43:06 -0500"
         }
     ],
     "source_1": [
@@ -48,14 +48,24 @@
             "published": "Fri, 13 Nov 2026 21:28:58 +0000"
         },
         {
-            "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
-            "link": "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html",
-            "published": "Sun, 15 Nov 2026 22:55:42 +0000"
+            "title": "California Sues OpenAI Over A.I. Safety Issues",
+            "link": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+            "published": "Mon, 16 Nov 2026 19:55:37 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Investors sue chip giant Intel after 29% stock plunge",
+            "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+            "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 19:16:52 GMT"
+        },
+        {
+            "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+            "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 13:34:22 GMT"
+        },
+        {
+            "title": "Intel sued by investors after PC sales slump hits share price",
             "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 16 Nov 2026 03:04:01 GMT"
         },
@@ -68,16 +78,6 @@
             "title": "South Korea's top scorer in tax accountancy exam admits cheating",
             "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
             "published": "Sun, 15 Nov 2026 13:37:45 GMT"
-        },
-        {
-            "title": "Italy fines Meta \u20ac805m over accessing users' photos",
-            "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 14 Nov 2026 18:28:06 GMT"
-        },
-        {
-            "title": "Microsoft says services fully restored after day-long global outage",
-            "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-            "published": "Sat, 14 Nov 2026 06:42:27 GMT"
         }
     ]
 }
