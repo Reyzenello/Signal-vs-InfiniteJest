@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "The European Commission issues preliminary DSA charges against PDD-owned Temu for failing to implement adequate measures to stop the sale of illegal goods (Reuters)",
-            "link": "https://www.techmeme.com/261117/p23#a261117p23",
-            "published": "Tue, 17 Nov 2026 08:05:13 -0500"
+            "title": "Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra (Ashley Carman/Bloomberg)",
+            "link": "https://www.techmeme.com/261117/p58#a261117p58",
+            "published": "Tue, 17 Nov 2026 17:05:10 -0500"
         },
         {
-            "title": "A week with Apple Watch's Siri Recap and Live Rewind in beta: they can be inaccurate, lag Amazon Bee, Granola, and Otter, and rarely justify the privacy costs (Natalie Lung/Bloomberg)",
-            "link": "https://www.techmeme.com/261117/p22#a261117p22",
-            "published": "Tue, 17 Nov 2026 07:55:00 -0500"
+            "title": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)",
+            "link": "https://www.techmeme.com/261117/p57#a261117p57",
+            "published": "Tue, 17 Nov 2026 16:45:02 -0500"
         },
         {
-            "title": "The Trump administration's proposal to curb China's remote access to AI chips rattles Southeast Asia, threatening a data center boom fueled by Chinese companies (New York Times)",
-            "link": "https://www.techmeme.com/261117/p21#a261117p21",
-            "published": "Tue, 17 Nov 2026 07:45:03 -0500"
+            "title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)",
+            "link": "https://www.techmeme.com/261117/p56#a261117p56",
+            "published": "Tue, 17 Nov 2026 16:26:56 -0500"
         },
         {
-            "title": "Google signs a $500M+ deal to secure 50MW of geothermal power from Quaise Energy in Oregon, starting as early as 2030, to support its data centers in the state (Beno\u00eet Morenne/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261117/p20#a261117p20",
-            "published": "Tue, 17 Nov 2026 07:30:02 -0500"
+            "title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)",
+            "link": "https://www.techmeme.com/261117/p55#a261117p55",
+            "published": "Tue, 17 Nov 2026 16:20:04 -0500"
         },
         {
-            "title": "Sources: the Trump administration is moving forward with an FCC proposal to ban US imports of new Chinese optical transceiver models, despite Big Tech pushback (Reuters)",
-            "link": "https://www.techmeme.com/261117/p19#a261117p19",
-            "published": "Tue, 17 Nov 2026 07:20:02 -0500"
+            "title": "Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors (Wall Street Journal)",
+            "link": "https://www.techmeme.com/261117/p54#a261117p54",
+            "published": "Tue, 17 Nov 2026 16:05:01 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,22 @@
             "published": "Fri, 13 Nov 2026 21:28:58 +0000"
         },
         {
-            "title": "Madison Huang, Jensen Huang\u2019s Daughter, Became a Powerful Force at Nvidia",
-            "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-            "published": "Tue, 17 Nov 2026 02:15:57 +0000"
+            "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
+            "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
+            "published": "Tue, 17 Nov 2026 21:39:25 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
+            "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 21:45:13 GMT"
+        },
+        {
+            "title": "How new US chip restrictions on South East Asia will hit China",
+            "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 14:25:45 GMT"
+        },
         {
             "title": "NHS data contract to stay with Palantir until 2029",
             "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "US government confirms investigation into tech firm Megaspeed",
             "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 17 Nov 2026 11:17:32 GMT"
-        },
-        {
-            "title": "How new US chip restrictions on South East Asia will hit China",
-            "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 17 Nov 2026 10:22:09 GMT"
-        },
-        {
-            "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-            "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 17 Nov 2026 09:41:07 GMT"
         }
     ]
 }
