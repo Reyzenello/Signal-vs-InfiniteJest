@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra (Ashley Carman/Bloomberg)",
-            "link": "https://www.techmeme.com/261117/p58#a261117p58",
-            "published": "Tue, 17 Nov 2026 17:05:10 -0500"
+            "title": "Marco Rubio says there's \"zero evidence\" linking the recent FAA ground stop, Microsoft outage, and bank service issues, and the US isn't \"under systemic attack\" (Kiki Intarasuwan/CBS News)",
+            "link": "https://www.techmeme.com/261117/p70#a261117p70",
+            "published": "Tue, 17 Nov 2026 22:15:00 -0500"
         },
         {
-            "title": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)",
-            "link": "https://www.techmeme.com/261117/p57#a261117p57",
-            "published": "Tue, 17 Nov 2026 16:45:02 -0500"
+            "title": "Sources: a faction of Nvidia board members is pushing for Jensen Huang's return despite Chair Harvey Jones stating the board has no plans to reinstate Huang (Semafor)",
+            "link": "https://www.techmeme.com/261117/p69#a261117p69",
+            "published": "Tue, 17 Nov 2026 21:50:08 -0500"
         },
         {
-            "title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)",
-            "link": "https://www.techmeme.com/261117/p56#a261117p56",
-            "published": "Tue, 17 Nov 2026 16:26:56 -0500"
+            "title": "After two months of testimony, the US criminal trial against Huawei, accused of bank fraud and trade secret theft, is set to begin jury deliberations Wednesday (Karen Freifeld/Reuters)",
+            "link": "https://www.techmeme.com/261117/p68#a261117p68",
+            "published": "Tue, 17 Nov 2026 21:45:01 -0500"
         },
         {
-            "title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)",
-            "link": "https://www.techmeme.com/261117/p55#a261117p55",
-            "published": "Tue, 17 Nov 2026 16:20:04 -0500"
+            "title": "Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic's IPO midpoint, the average employee's equity is valued at $72M (Bloomberg)",
+            "link": "https://www.techmeme.com/261117/p67#a261117p67",
+            "published": "Tue, 17 Nov 2026 20:50:07 -0500"
         },
         {
-            "title": "Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors (Wall Street Journal)",
-            "link": "https://www.techmeme.com/261117/p54#a261117p54",
-            "published": "Tue, 17 Nov 2026 16:05:01 -0500"
+            "title": "Sources: Wall Street execs and the NSA told Congress this week's outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models (Jeff Stein/The Washington Sun)",
+            "link": "https://www.techmeme.com/261117/p66#a261117p66",
+            "published": "Tue, 17 Nov 2026 20:15:01 -0500"
         }
     ],
     "source_1": [
@@ -50,14 +50,24 @@
         {
             "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
             "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-            "published": "Tue, 17 Nov 2026 21:39:25 +0000"
+            "published": "Tue, 17 Nov 2026 23:17:38 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
+            "title": "Waymo pulls driverless taxis from all US freeways",
+            "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 03:07:22 GMT"
+        },
+        {
+            "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
             "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 17 Nov 2026 21:45:13 GMT"
+            "published": "Wed, 18 Nov 2026 01:18:18 GMT"
+        },
+        {
+            "title": "Europe plans to catch the next computer chip wave",
+            "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 00:00:24 GMT"
         },
         {
             "title": "How new US chip restrictions on South East Asia will hit China",
@@ -68,16 +78,6 @@
             "title": "NHS data contract to stay with Palantir until 2029",
             "link": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
             "published": "Tue, 17 Nov 2026 12:00:12 GMT"
-        },
-        {
-            "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-            "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 17 Nov 2026 11:49:01 GMT"
-        },
-        {
-            "title": "US government confirms investigation into tech firm Megaspeed",
-            "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-            "published": "Tue, 17 Nov 2026 11:17:32 GMT"
         }
     ]
 }
