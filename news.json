@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "A US court sentences Tyler Robert Buchanan, a 24-year-old British leader of Scattered Spider, to six years in prison for phishing and stealing $11.6M in crypto (Sergiu Gatlan/BleepingComputer)",
-            "link": "https://www.techmeme.com/261118/p19#a261118p19",
-            "published": "Wed, 18 Nov 2026 08:15:01 -0500"
+            "title": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)",
+            "link": "https://www.techmeme.com/261118/p44#a261118p44",
+            "published": "Wed, 18 Nov 2026 16:47:59 -0500"
         },
         {
-            "title": "Swiss nonprofit Quad9 withdraws its DNS resolver from France after a court ruling imposed large fines, an understandable decision that harms the open internet (Cloudflare)",
-            "link": "https://www.techmeme.com/261118/p18#a261118p18",
-            "published": "Wed, 18 Nov 2026 07:30:01 -0500"
+            "title": "DNI, DHS, and FBI officials tell Congress they have found no evidence that recent US tech outages were connected to each other or caused by cyberattacks (Nicole Sganga/CBS News)",
+            "link": "https://www.techmeme.com/261118/p43#a261118p43",
+            "published": "Wed, 18 Nov 2026 16:45:01 -0500"
         },
         {
-            "title": "Bengaluru-based Humyn Labs, which creates robot training data using first-person footage from cameras, raised $26M in equity led by Accel and $21M in debt (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/261118/p17#a261118p17",
-            "published": "Wed, 18 Nov 2026 07:15:02 -0500"
+            "title": "Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zuckerberg's stake (Sabrina Willmer/Bloomberg)",
+            "link": "https://www.techmeme.com/261118/p42#a261118p42",
+            "published": "Wed, 18 Nov 2026 16:40:01 -0500"
         },
         {
-            "title": "A look at AI-related literary disputes and debates over Pangram, which flagged Peruvian author David Silva Rojas's award-winning novel as 99% AI-generated (Brunella Tipismana Urbano/The Point ...)",
-            "link": "https://www.techmeme.com/261118/p16#a261118p16",
-            "published": "Wed, 18 Nov 2026 07:00:58 -0500"
+            "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261118/p41#a261118p41",
+            "published": "Wed, 18 Nov 2026 16:15:05 -0500"
         },
         {
-            "title": "Masayoshi Son says passing on investing in Anthropic in 2023 was a \"mistake\", noting that \"by that point, we had already decided to invest in OpenAI\" (Financial Times)",
-            "link": "https://www.techmeme.com/261118/p15#a261118p15",
-            "published": "Wed, 18 Nov 2026 06:50:49 -0500"
+            "title": "Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
+            "link": "https://www.techmeme.com/261118/p40#a261118p40",
+            "published": "Wed, 18 Nov 2026 16:01:02 -0500"
         }
     ],
     "source_1": [
@@ -48,21 +48,26 @@
             "published": "Fri, 13 Nov 2026 21:28:58 +0000"
         },
         {
-            "title": "Apple Addresses Outages Affecting Apple Pay, iCloud and Apps",
-            "link": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html",
-            "published": "Tue, 17 Nov 2026 23:17:38 +0000"
+            "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
+            "link": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
+            "published": "Wed, 18 Nov 2026 21:41:35 +0000"
         }
     ],
     "source_2": [
         {
+            "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+            "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 17:34:25 GMT"
+        },
+        {
+            "title": "The seven Anthropic founders who are about to become multi-billionaires",
+            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 13:55:14 GMT"
+        },
+        {
             "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
             "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 18 Nov 2026 13:16:53 GMT"
-        },
-        {
-            "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-            "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 18 Nov 2026 12:22:15 GMT"
         },
         {
             "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
@@ -73,11 +78,6 @@
             "title": "Security flaw found in Java, world's third-largest programming language",
             "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 18 Nov 2026 08:47:06 GMT"
-        },
-        {
-            "title": "How important are Nvidia and Jensen Huang to the US economy?",
-            "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 18 Nov 2026 06:04:21 GMT"
         }
     ]
 }
