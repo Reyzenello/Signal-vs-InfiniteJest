@@ -1,68 +1,73 @@
 {
     "techmeme": [
         {
-            "title": "Hackers compromised Microsoft's Agent Framework Python package on PyPI, publishing two versions designed to steal cloud credentials and other information (Bill Toulas/BleepingComputer)",
-            "link": "https://www.techmeme.com/261118/p56#a261118p56",
-            "published": "Wed, 18 Nov 2026 21:50:01 -0500"
+            "title": "GTA VI's 5,000-strong team eschewed AI and procedural generation in favor of handcrafted \"fidelity\", with 30,000 unique NPCs and an in-game video game system (Joseph Bernstein/New York Times)",
+            "link": "https://www.techmeme.com/261119/p25#a261119p25",
+            "published": "Thu, 19 Nov 2026 07:45:10 -0500"
         },
         {
-            "title": "The US DOJ indicts a Russian national for allegedly working for Moscow to stalk staff of a tech and defense firm aiding Ukraine, which a source says is Palantir (Bloomberg)",
-            "link": "https://www.techmeme.com/261118/p55#a261118p55",
-            "published": "Wed, 18 Nov 2026 21:15:02 -0500"
+            "title": "IEA expects global data center investment to hit $4T by 2030; fewer than 100 major AI projects would require a combined 50GW of power, matching peak UK demand (Will Mathis/Bloomberg)",
+            "link": "https://www.techmeme.com/261119/p24#a261119p24",
+            "published": "Thu, 19 Nov 2026 07:35:03 -0500"
         },
         {
-            "title": "OpenAI says agents now complete 46% of its researchers' 2-to-4-hour tasks on their own, vs. 23% in March, median researcher's agent use hit $2,400/day, and more (OpenAI)",
-            "link": "https://www.techmeme.com/261118/p54#a261118p54",
-            "published": "Wed, 18 Nov 2026 20:55:04 -0500"
+            "title": "Dustin Moskovitz, one of Anthropic's earliest investors, says he \"invested in Anthropic to promote safety, not racing\" and frontier AI labs \"should slow down\" (New York Times)",
+            "link": "https://www.techmeme.com/261119/p23#a261119p23",
+            "published": "Thu, 19 Nov 2026 07:25:01 -0500"
         },
         {
-            "title": "Source: MoviePass is exploring a sale, pitching potential buyers on bundling movie tickets with streaming subscriptions; it has $10M in annual recurring revenue (Mark Stenberg/Adweek)",
-            "link": "https://www.techmeme.com/261118/p53#a261118p53",
-            "published": "Wed, 18 Nov 2026 20:30:01 -0500"
+            "title": "Analysis: Anthropic needs ~$602B in annual revenue to hit a 20% return on invested capital comparable to its Big Tech peers; Apple has $478B in annual revenue (Financial Times)",
+            "link": "https://www.techmeme.com/261119/p22#a261119p22",
+            "published": "Thu, 19 Nov 2026 07:15:22 -0500"
         },
         {
-            "title": "NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features (New York Times)",
-            "link": "https://www.techmeme.com/261118/p52#a261118p52",
-            "published": "Wed, 18 Nov 2026 20:05:00 -0500"
+            "title": "Germany and Austria submit a proposal urging the EU to require TikTok to find a local owner for its European operations to combat TikTok's ties to Beijing (Bloomberg)",
+            "link": "https://www.techmeme.com/261119/p21#a261119p21",
+            "published": "Thu, 19 Nov 2026 07:01:39 -0500"
         }
     ],
     "source_1": [
         {
-            "title": "How Jensen Huang\u2019s Secret Led to His Downfall at Nvidia",
-            "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-            "published": "Sun, 15 Nov 2026 12:40:04 +0000"
+            "title": "Anthropic Sells $81.3 Billion in Shares for a Record IPO",
+            "link": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+            "published": "Thu, 19 Nov 2026 00:41:26 +0000"
         },
         {
-            "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
-            "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
-            "published": "Sun, 15 Nov 2026 22:53:53 +0000"
+            "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
+            "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+            "published": "Thu, 19 Nov 2026 10:03:03 +0000"
         },
         {
-            "title": "Tech Leaders Rally Behind Jensen Huang",
-            "link": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
-            "published": "Sat, 14 Nov 2026 20:57:38 +0000"
+            "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
+            "link": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+            "published": "Thu, 19 Nov 2026 10:01:55 +0000"
         },
         {
-            "title": "Inside Microsoft\u2019s Rush to Get Back Online After a Global Outage",
-            "link": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
-            "published": "Fri, 13 Nov 2026 21:28:58 +0000"
+            "title": "How Nvidia Chips Ended Up Within Reach of China\u2019s Military",
+            "link": "https://www.nytimes.com/2026/11/18/technology/nvidia-alibaba-china-military.html",
+            "published": "Thu, 19 Nov 2026 04:13:05 +0000"
         },
         {
-            "title": "\u2018GTA Flu\u2019 Has Schools and Jobs Bracing for Sick Days",
-            "link": "https://www.nytimes.com/2026/11/18/us/gta-6-sick-work-school.html",
-            "published": "Thu, 19 Nov 2026 03:03:04 +0000"
+            "title": "\u2018Did A.I. Break the Internet?\u2019 and Other Things We\u2019ve Worried About This Week",
+            "link": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
+            "published": "Thu, 19 Nov 2026 11:00:14 +0000"
         }
     ],
     "source_2": [
         {
-            "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-            "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 19 Nov 2026 02:59:06 GMT"
+            "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
+            "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 12:26:39 GMT"
         },
         {
-            "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+            "title": "Anthropic raises $81bn in record-breaking stock market debut",
             "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 19 Nov 2026 02:20:15 GMT"
+            "published": "Thu, 19 Nov 2026 10:48:04 GMT"
+        },
+        {
+            "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+            "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 02:59:06 GMT"
         },
         {
             "title": "The seven Anthropic founders who are about to become multi-billionaires",
@@ -70,14 +75,9 @@
             "published": "Wed, 18 Nov 2026 23:42:07 GMT"
         },
         {
-            "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-            "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 18 Nov 2026 17:34:25 GMT"
-        },
-        {
-            "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
-            "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 18 Nov 2026 13:16:53 GMT"
+            "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+            "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 21:28:08 GMT"
         }
     ]
 }
