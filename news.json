@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "At a Senate hearing, Trump's CISA director nominee Michael LoSapio dodged questions about the agency's priorities, denied January 6 was an attack, and more (Eric Geller/Cybersecurity Dive)",
-            "link": "https://www.techmeme.com/261119/p50#a261119p50",
-            "published": "Thu, 19 Nov 2026 16:01:29 -0500"
+            "title": "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list (CNBC)",
+            "link": "https://www.techmeme.com/261119/p59#a261119p59",
+            "published": "Thu, 19 Nov 2026 21:55:01 -0500"
         },
         {
-            "title": "Source: Meta plans to charge $300 for its forthcoming Muse Charm device and include a free 5G data plan from Verizon for up to 12 months (Jyoti Mann/The Information)",
-            "link": "https://www.techmeme.com/261119/p49#a261119p49",
-            "published": "Thu, 19 Nov 2026 14:50:28 -0500"
+            "title": "Source: National Cyber Director Sean Cairncross was \"fired\" from his role; the president \"fully supported\" the firing days after a wave of tech-related outages (Courtney Rozen/Reuters)",
+            "link": "https://www.techmeme.com/261119/p58#a261119p58",
+            "published": "Thu, 19 Nov 2026 21:20:55 -0500"
         },
         {
-            "title": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
-            "link": "https://www.techmeme.com/261119/p48#a261119p48",
-            "published": "Thu, 19 Nov 2026 14:01:15 -0500"
+            "title": "Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)",
+            "link": "https://www.techmeme.com/261119/p57#a261119p57",
+            "published": "Thu, 19 Nov 2026 20:50:51 -0500"
         },
         {
-            "title": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users (Sarah Perez/TechCrunch)",
-            "link": "https://www.techmeme.com/261119/p47#a261119p47",
-            "published": "Thu, 19 Nov 2026 13:50:09 -0500"
+            "title": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
+            "link": "https://www.techmeme.com/261119/p56#a261119p56",
+            "published": "Thu, 19 Nov 2026 19:50:59 -0500"
         },
         {
-            "title": "Everful, which connects smaller retailers and brands with Chinese factories and manages the process from order to delivery, raised a $48.5M Series A (Kate Park/TechCrunch)",
-            "link": "https://www.techmeme.com/261119/p46#a261119p46",
-            "published": "Thu, 19 Nov 2026 13:25:02 -0500"
+            "title": "Sources: Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+ (Krystal Hu/Reuters)",
+            "link": "https://www.techmeme.com/261119/p55#a261119p55",
+            "published": "Thu, 19 Nov 2026 19:35:46 -0500"
         }
     ],
     "source_1": [
@@ -40,7 +40,7 @@
         {
             "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
             "link": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
-            "published": "Thu, 19 Nov 2026 15:16:40 +0000"
+            "published": "Fri, 20 Nov 2026 01:44:36 +0000"
         },
         {
             "title": "How Nvidia Chips Ended Up Within Reach of China\u2019s Military",
@@ -48,12 +48,27 @@
             "published": "Thu, 19 Nov 2026 04:13:05 +0000"
         },
         {
-            "title": "Why Is the Stock Market Down After Anthropic\u2019s Successful IPO?",
-            "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
-            "published": "Thu, 19 Nov 2026 20:57:56 +0000"
+            "title": "Anthropic\u2019s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+            "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+            "published": "Fri, 20 Nov 2026 00:25:47 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+            "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 02:54:40 GMT"
+        },
+        {
+            "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+            "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:02:07 GMT"
+        },
+        {
+            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+            "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 23:33:51 GMT"
+        },
         {
             "title": "Dutch watchdog tells people not to buy AI smart glasses",
             "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
@@ -63,21 +78,6 @@
             "title": "Anthropic raises $81bn in record-breaking stock market debut",
             "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 19 Nov 2026 15:58:58 GMT"
-        },
-        {
-            "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-            "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 19 Nov 2026 12:26:39 GMT"
-        },
-        {
-            "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
-            "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-            "published": "Thu, 19 Nov 2026 02:59:06 GMT"
-        },
-        {
-            "title": "The seven Anthropic founders who are about to become multi-billionaires",
-            "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 18 Nov 2026 23:42:07 GMT"
         }
     ]
 }
