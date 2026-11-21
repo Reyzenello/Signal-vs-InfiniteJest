@@ -1,6 +1,21 @@
 {
     "techmeme": [
         {
+            "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
+            "link": "https://www.techmeme.com/261121/p10#a261121p10",
+            "published": "Sat, 21 Nov 2026 15:10:02 -0500"
+        },
+        {
+            "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
+            "link": "https://www.techmeme.com/261121/p9#a261121p9",
+            "published": "Sat, 21 Nov 2026 13:55:01 -0500"
+        },
+        {
+            "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
+            "link": "https://www.techmeme.com/261121/p8#a261121p8",
+            "published": "Sat, 21 Nov 2026 12:55:01 -0500"
+        },
+        {
             "title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
             "link": "https://www.techmeme.com/261121/p7#a261121p7",
             "published": "Sat, 21 Nov 2026 10:10:01 -0500"
@@ -9,43 +24,28 @@
             "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
             "link": "https://www.techmeme.com/261121/p6#a261121p6",
             "published": "Sat, 21 Nov 2026 06:30:01 -0500"
-        },
-        {
-            "title": "How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)",
-            "link": "https://www.techmeme.com/261121/p5#a261121p5",
-            "published": "Sat, 21 Nov 2026 02:30:00 -0500"
-        },
-        {
-            "title": "NYU's Tristan Buckmaster and Anthropic's Levent Alp\u00f6ge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
-            "link": "https://www.techmeme.com/261121/p4#a261121p4",
-            "published": "Sat, 21 Nov 2026 01:30:00 -0500"
-        },
-        {
-            "title": "Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts (Todd Bishop/GeekWire)",
-            "link": "https://www.techmeme.com/261121/p3#a261121p3",
-            "published": "Sat, 21 Nov 2026 01:10:02 -0500"
         }
     ],
     "source_1": [
         {
+            "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+            "link": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+            "published": "Sat, 21 Nov 2026 19:11:51 +0000"
+        },
+        {
+            "title": "Anthropic\u2019s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+            "link": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+            "published": "Sat, 21 Nov 2026 10:03:45 +0000"
+        },
+        {
             "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
             "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-            "published": "Sat, 21 Nov 2026 15:55:45 +0000"
-        },
-        {
-            "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-            "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-            "published": "Fri, 20 Nov 2026 01:13:38 +0000"
-        },
-        {
-            "title": "Anthropic\u2019s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-            "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-            "published": "Fri, 20 Nov 2026 17:11:42 +0000"
+            "published": "Sat, 21 Nov 2026 15:55:46 +0000"
         },
         {
             "title": "G.T.A. VI Is a Monumental Human Achievement",
             "link": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
-            "published": "Fri, 20 Nov 2026 15:19:25 +0000"
+            "published": "Sat, 21 Nov 2026 19:12:00 +0000"
         },
         {
             "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
