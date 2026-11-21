@@ -1,6 +1,16 @@
 {
     "techmeme": [
         {
+            "title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
+            "link": "https://www.techmeme.com/261121/p7#a261121p7",
+            "published": "Sat, 21 Nov 2026 10:10:01 -0500"
+        },
+        {
+            "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
+            "link": "https://www.techmeme.com/261121/p6#a261121p6",
+            "published": "Sat, 21 Nov 2026 06:30:01 -0500"
+        },
+        {
             "title": "How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)",
             "link": "https://www.techmeme.com/261121/p5#a261121p5",
             "published": "Sat, 21 Nov 2026 02:30:00 -0500"
@@ -14,23 +24,13 @@
             "title": "Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts (Todd Bishop/GeekWire)",
             "link": "https://www.techmeme.com/261121/p3#a261121p3",
             "published": "Sat, 21 Nov 2026 01:10:02 -0500"
-        },
-        {
-            "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
-            "link": "https://www.techmeme.com/261121/p2#a261121p2",
-            "published": "Sat, 21 Nov 2026 01:00:55 -0500"
-        },
-        {
-            "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
-            "link": "https://www.techmeme.com/261121/p1#a261121p1",
-            "published": "Sat, 21 Nov 2026 00:15:00 -0500"
         }
     ],
     "source_1": [
         {
             "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
             "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-            "published": "Fri, 20 Nov 2026 14:43:10 +0000"
+            "published": "Sat, 21 Nov 2026 15:55:45 +0000"
         },
         {
             "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
@@ -48,9 +48,9 @@
             "published": "Fri, 20 Nov 2026 15:19:25 +0000"
         },
         {
-            "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
-            "link": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
-            "published": "Fri, 20 Nov 2026 19:39:27 +0000"
+            "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+            "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+            "published": "Sat, 21 Nov 2026 10:02:10 +0000"
         }
     ],
     "source_2": [
@@ -60,7 +60,7 @@
             "published": "Sat, 21 Nov 2026 00:06:11 GMT"
         },
         {
-            "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+            "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
             "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 20 Nov 2026 23:08:57 GMT"
         },
