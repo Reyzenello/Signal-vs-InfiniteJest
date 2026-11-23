@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "Sources: Alice Huang was in touch with an officer of China's spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)",
+            "link": "https://www.techmeme.com/261122/p13#a261122p13",
+            "published": "Sun, 22 Nov 2026 19:30:02 -0500"
+        },
+        {
+            "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
+            "link": "https://www.techmeme.com/261122/p12#a261122p12",
+            "published": "Sun, 22 Nov 2026 18:20:08 -0500"
+        },
+        {
+            "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
+            "link": "https://www.techmeme.com/261122/p11#a261122p11",
+            "published": "Sun, 22 Nov 2026 15:35:00 -0500"
+        },
+        {
+            "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
+            "link": "https://www.techmeme.com/261122/p10#a261122p10",
+            "published": "Sun, 22 Nov 2026 14:50:01 -0500"
+        },
+        {
             "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
             "link": "https://www.techmeme.com/261122/p9#a261122p9",
             "published": "Sun, 22 Nov 2026 13:25:01 -0500"
-        },
-        {
-            "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
-            "link": "https://www.techmeme.com/261122/p8#a261122p8",
-            "published": "Sun, 22 Nov 2026 12:15:01 -0500"
-        },
-        {
-            "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
-            "link": "https://www.techmeme.com/261122/p7#a261122p7",
-            "published": "Sun, 22 Nov 2026 10:00:34 -0500"
-        },
-        {
-            "title": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
-            "link": "https://www.techmeme.com/261122/p6#a261122p6",
-            "published": "Sun, 22 Nov 2026 06:01:10 -0500"
-        },
-        {
-            "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
-            "link": "https://www.techmeme.com/261122/p5#a261122p5",
-            "published": "Sun, 22 Nov 2026 02:00:41 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+            "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 00:08:00 GMT"
+        },
+        {
             "title": "Can AI really help spot Black Friday deals? We put it to the test",
             "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 21 Nov 2026 00:06:11 GMT"
@@ -73,11 +78,6 @@
             "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
             "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 20 Nov 2026 22:42:47 GMT"
-        },
-        {
-            "title": "Trump threatens ban on US firms building AI data centres overseas",
-            "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-            "published": "Fri, 20 Nov 2026 20:54:12 GMT"
         }
     ]
 }
