@@ -1,59 +1,69 @@
 {
     "techmeme": [
         {
-            "title": "PM Lawrence Wong says he doesn't want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed's purchases of Nvidia chips (Philip Heijmans/Bloomberg)",
-            "link": "https://www.techmeme.com/261124/p1#a261124p1",
-            "published": "Tue, 24 Nov 2026 00:05:01 -0500"
+            "title": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M (Bloomberg)",
+            "link": "https://www.techmeme.com/261124/p27#a261124p27",
+            "published": "Tue, 24 Nov 2026 12:25:02 -0500"
         },
         {
-            "title": "AWS debuts Strands Decider v2, a family of five open decision models based on Google's Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)",
-            "link": "https://www.techmeme.com/261123/p55#a261123p55",
-            "published": "Mon, 23 Nov 2026 23:25:01 -0500"
+            "title": "Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia's size, plus Trump's support, left Nvidia with no other options (Robert Armstrong/Financial Times)",
+            "link": "https://www.techmeme.com/261124/p26#a261124p26",
+            "published": "Tue, 24 Nov 2026 12:10:00 -0500"
         },
         {
-            "title": "OpenAI and Cisco launch Shirudo, an open-source runtime that helps teams protect running Linux systems without a reboot while they roll out patches (Mike Wheatley/SiliconANGLE)",
-            "link": "https://www.techmeme.com/261123/p54#a261123p54",
-            "published": "Mon, 23 Nov 2026 23:15:00 -0500"
+            "title": "A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more (Jody Godoy/Reuters)",
+            "link": "https://www.techmeme.com/261124/p25#a261124p25",
+            "published": "Tue, 24 Nov 2026 12:01:44 -0500"
         },
         {
-            "title": "Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure (Wired)",
-            "link": "https://www.techmeme.com/261123/p53#a261123p53",
-            "published": "Mon, 23 Nov 2026 23:00:14 -0500"
+            "title": "Internal memos: Microsoft declared a \"Code Red\" drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage (Jaspreet Singh/Reuters)",
+            "link": "https://www.techmeme.com/261124/p24#a261124p24",
+            "published": "Tue, 24 Nov 2026 11:35:02 -0500"
         },
         {
-            "title": "OpenAI rolls out a version of GPT-6.2 Sol that is \"optimized for everyday conversation\" to the Chat tab for Plus, Pro, Business, and Enterprise users (Zac Hall/9to5Mac)",
-            "link": "https://www.techmeme.com/261123/p52#a261123p52",
-            "published": "Mon, 23 Nov 2026 22:45:01 -0500"
+            "title": "Experts say Trump effectively overrode Nvidia's board, and reinstating Jensen Huang before its probe ends could invite shareholder suits and political scrutiny (New York Times)",
+            "link": "https://www.techmeme.com/261124/p23#a261124p23",
+            "published": "Tue, 24 Nov 2026 11:01:38 -0500"
         }
     ],
     "source_1": [
         {
             "title": "With Jensen Huang\u2019s Return as C.E.O., Trump Effectively Overrode Nvidia\u2019s Board",
             "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
-            "published": "Mon, 23 Nov 2026 21:26:52 +0000"
+            "published": "Tue, 24 Nov 2026 15:40:13 +0000"
         },
         {
-            "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
-            "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
-            "published": "Mon, 23 Nov 2026 23:41:29 +0000"
-        },
-        {
-            "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-            "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-            "published": "Tue, 24 Nov 2026 05:39:23 +0000"
-        },
-        {
-            "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-            "link": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-            "published": "Mon, 23 Nov 2026 16:13:32 +0000"
+            "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+            "link": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+            "published": "Tue, 24 Nov 2026 10:03:11 +0000"
         },
         {
             "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
             "link": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
-            "published": "Tue, 24 Nov 2026 01:36:36 +0000"
+            "published": "Tue, 24 Nov 2026 01:36:37 +0000"
+        },
+        {
+            "title": "Why Trump Put Jensen Huang Back in Charge at Nvidia",
+            "link": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+            "published": "Tue, 24 Nov 2026 01:33:12 +0000"
+        },
+        {
+            "title": "Trump\u2019s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+            "link": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+            "published": "Tue, 24 Nov 2026 00:55:56 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+            "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 17:04:20 GMT"
+        },
+        {
+            "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+            "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 09:33:00 GMT"
+        },
         {
             "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
             "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
@@ -68,16 +78,6 @@
             "title": "How important are Nvidia and Jensen Huang to the US economy?",
             "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
             "published": "Mon, 23 Nov 2026 16:12:35 GMT"
-        },
-        {
-            "title": "The rise and fall and rise again of Jensen Huang",
-            "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 23 Nov 2026 15:49:52 GMT"
-        },
-        {
-            "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-            "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
-            "published": "Mon, 23 Nov 2026 14:08:50 GMT"
         }
     ]
 }
