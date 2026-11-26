@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "Letter: Leopold Aschenbrenner told investors Situational Awareness lost 65% after fees in Q3; the fund is up 88.5% after fees for the year through September (Wall Street Journal)",
-            "link": "https://www.techmeme.com/261125/p48#a261125p48",
-            "published": "Wed, 25 Nov 2026 23:35:01 -0500"
+            "title": "Texas resumes data center permitting, approving permits for SpaceX's $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January (Stephanie Findlay/Financial Times)",
+            "link": "https://www.techmeme.com/261126/p19#a261126p19",
+            "published": "Thu, 26 Nov 2026 08:45:00 -0500"
         },
         {
-            "title": "Sources: Trump's national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return (Jo Ling/CBS News)",
-            "link": "https://www.techmeme.com/261125/p47#a261125p47",
-            "published": "Wed, 25 Nov 2026 22:50:00 -0500"
+            "title": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August (Davey Alba/Bloomberg)",
+            "link": "https://www.techmeme.com/261126/p18#a261126p18",
+            "published": "Thu, 26 Nov 2026 08:30:01 -0500"
         },
         {
-            "title": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner (Jagmeet Singh/TechCrunch)",
-            "link": "https://www.techmeme.com/261125/p46#a261125p46",
-            "published": "Wed, 25 Nov 2026 21:55:02 -0500"
+            "title": "The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack (Financial Times)",
+            "link": "https://www.techmeme.com/261126/p17#a261126p17",
+            "published": "Thu, 26 Nov 2026 08:10:04 -0500"
         },
         {
-            "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)",
-            "link": "https://www.techmeme.com/261125/p45#a261125p45",
-            "published": "Wed, 25 Nov 2026 20:55:00 -0500"
+            "title": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster (Graham Barlow/TechRadar)",
+            "link": "https://www.techmeme.com/261126/p16#a261126p16",
+            "published": "Thu, 26 Nov 2026 08:01:08 -0500"
         },
         {
-            "title": "Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)",
-            "link": "https://www.techmeme.com/261125/p44#a261125p44",
-            "published": "Wed, 25 Nov 2026 20:30:01 -0500"
+            "title": "The Dutch government says it will resist the US' planned Match Act, which aims to restrict ASML's sales to China, calling the proposal a threat to the company (Bloomberg)",
+            "link": "https://www.techmeme.com/261126/p15#a261126p15",
+            "published": "Thu, 26 Nov 2026 07:50:19 -0500"
         }
     ],
     "source_1": [
@@ -48,12 +48,17 @@
             "published": "Tue, 24 Nov 2026 19:19:59 +0000"
         },
         {
-            "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
-            "link": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
-            "published": "Wed, 25 Nov 2026 21:36:34 +0000"
+            "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+            "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+            "published": "Thu, 26 Nov 2026 12:04:01 +0000"
         }
     ],
     "source_2": [
+        {
+            "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+            "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 09:27:44 GMT"
+        },
         {
             "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
             "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
@@ -73,11 +78,6 @@
             "title": "US attorney general dodges questions about Nvidia investigation",
             "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 25 Nov 2026 03:44:07 GMT"
-        },
-        {
-            "title": "Why tiny cars are taking off across Europe",
-            "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 25 Nov 2026 00:34:05 GMT"
         }
     ]
 }
