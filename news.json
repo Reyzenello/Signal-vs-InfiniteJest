@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
+            "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261127/p15#a261127p15",
+            "published": "Fri, 27 Nov 2026 18:30:02 -0500"
+        },
+        {
+            "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+            "link": "https://www.techmeme.com/261127/p14#a261127p14",
+            "published": "Fri, 27 Nov 2026 16:35:01 -0500"
+        },
+        {
+            "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+            "link": "https://www.techmeme.com/261127/p13#a261127p13",
+            "published": "Fri, 27 Nov 2026 15:15:01 -0500"
+        },
+        {
+            "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+            "link": "https://www.techmeme.com/261127/p12#a261127p12",
+            "published": "Fri, 27 Nov 2026 13:57:47 -0500"
+        },
+        {
             "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
             "link": "https://www.techmeme.com/261127/p11#a261127p11",
             "published": "Fri, 27 Nov 2026 13:50:02 -0500"
-        },
-        {
-            "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
-            "link": "https://www.techmeme.com/261127/p10#a261127p10",
-            "published": "Fri, 27 Nov 2026 13:15:00 -0500"
-        },
-        {
-            "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)",
-            "link": "https://www.techmeme.com/261127/p9#a261127p9",
-            "published": "Fri, 27 Nov 2026 11:35:08 -0500"
-        },
-        {
-            "title": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
-            "link": "https://www.techmeme.com/261127/p8#a261127p8",
-            "published": "Fri, 27 Nov 2026 10:25:00 -0500"
-        },
-        {
-            "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
-            "link": "https://www.techmeme.com/261127/p7#a261127p7",
-            "published": "Fri, 27 Nov 2026 09:20:01 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+            "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 01:30:50 GMT"
+        },
+        {
             "title": "Why is there a shortage of 'wizard' elevator mechanics?",
             "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
             "published": "Fri, 27 Nov 2026 00:02:19 GMT"
@@ -73,11 +78,6 @@
             "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
             "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
             "published": "Wed, 25 Nov 2026 10:52:09 GMT"
-        },
-        {
-            "title": "EA adds AI-generated John Motson to FC 27 video game",
-            "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 25 Nov 2026 10:11:34 GMT"
         }
     ]
 }
