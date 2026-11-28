@@ -1,29 +1,29 @@
 {
     "techmeme": [
         {
-            "title": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn't said what is causing the outage (Jean Eaglesham/Wall Street Journal)",
-            "link": "https://www.techmeme.com/261127/p15#a261127p15",
-            "published": "Fri, 27 Nov 2026 18:30:02 -0500"
+            "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)",
+            "link": "https://www.techmeme.com/261128/p4#a261128p4",
+            "published": "Sat, 28 Nov 2026 02:40:01 -0500"
         },
         {
-            "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
-            "link": "https://www.techmeme.com/261127/p14#a261127p14",
-            "published": "Fri, 27 Nov 2026 16:35:01 -0500"
+            "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
+            "link": "https://www.techmeme.com/261128/p3#a261128p3",
+            "published": "Sat, 28 Nov 2026 01:45:01 -0500"
         },
         {
-            "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-            "link": "https://www.techmeme.com/261127/p13#a261127p13",
-            "published": "Fri, 27 Nov 2026 15:15:01 -0500"
+            "title": "COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
+            "link": "https://www.techmeme.com/261128/p2#a261128p2",
+            "published": "Sat, 28 Nov 2026 01:25:04 -0500"
         },
         {
-            "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
-            "link": "https://www.techmeme.com/261127/p12#a261127p12",
-            "published": "Fri, 27 Nov 2026 13:57:47 -0500"
+            "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+            "link": "https://www.techmeme.com/261128/p1#a261128p1",
+            "published": "Sat, 28 Nov 2026 00:50:02 -0500"
         },
         {
-            "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
-            "link": "https://www.techmeme.com/261127/p11#a261127p11",
-            "published": "Fri, 27 Nov 2026 13:50:02 -0500"
+            "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+            "link": "https://www.techmeme.com/261127/p17#a261127p17",
+            "published": "Fri, 27 Nov 2026 22:35:05 -0500"
         }
     ],
     "source_1": [
@@ -55,6 +55,11 @@
     ],
     "source_2": [
         {
+            "title": "Pensions and benefits services still down after 'cyber incident'",
+            "link": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 09:10:32 GMT"
+        },
+        {
             "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
             "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
             "published": "Sat, 28 Nov 2026 01:30:50 GMT"
@@ -73,11 +78,6 @@
             "title": "Musk's plan to send a million SpaceX data satellites into space approved",
             "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
             "published": "Thu, 26 Nov 2026 09:27:44 GMT"
-        },
-        {
-            "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-            "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-            "published": "Wed, 25 Nov 2026 10:52:09 GMT"
         }
     ]
 }
